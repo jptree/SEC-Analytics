@@ -1,0 +1,978 @@
+<Header>
+<FileStats>
+    <FileName>20060331_10-K_edgar_data_1282775_0000950152-06-002798_1.txt</FileName>
+    <GrossFileSize>131375</GrossFileSize>
+    <NetFileSize>18507</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>72962</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>7</N_Tables>
+    <N_Exhibits>4</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000950152-06-002798.hdr.sgml : 20060331
+<ACCEPTANCE-DATETIME>20060331154452
+ACCESSION NUMBER:		0000950152-06-002798
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20051231
+FILED AS OF DATE:		20060331
+DATE AS OF CHANGE:		20060331
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MELLON BANK N A
+		CENTRAL INDEX KEY:			0000216543
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		IRS NUMBER:				250659306
+		STATE OF INCORPORATION:			MA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-01478
+		FILM NUMBER:		06728724
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE MELLON CENTER
+		STREET 2:		500 GRANT STREET
+		CITY:			PITTSBURGH
+		STATE:			PA
+		ZIP:			15258-0001
+		BUSINESS PHONE:		4122345000
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE MELLON CENTER
+		STREET 2:		500 GRANT STREET
+		CITY:			PITTSBURGH
+		STATE:			PA
+		ZIP:			15258-0001
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MELLON PREMIUM FINANCE LOAN OWNER TRUST
+		CENTRAL INDEX KEY:			0001141438
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1201
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-61760-02
+		FILM NUMBER:		06728725
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O CHASE MANHATTAN BANK USA N A
+		STREET 2:		1201 N MARKET STREET
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			15256-0001
+		BUSINESS PHONE:		3024283372
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O CHASE MANHATTAN BANK USA N A
+		STREET 2:		1201 N MARKET STREET
+		CITY:			WILMINGTON
+		STATE:			DE
+		ZIP:			15256-0001
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MELLON BANK PREMIUM FINANCE LOAN MASTER TRUST
+		CENTRAL INDEX KEY:			0001021949
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		IRS NUMBER:				250659306
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-11961
+		FILM NUMBER:		06728726
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE MELLON CENTER
+		CITY:			PITTSBURGH
+		STATE:			PA
+		ZIP:			15258-0001
+		BUSINESS PHONE:		4123234500
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE MELLON BANK CENTER
+		CITY:			PITTSBURGH
+		STATE:			PA
+		ZIP:			15258
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MELLON BANK PREMIUM FINANCE MASTER TRUST
+		DATE OF NAME CHANGE:	19960829
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MELLON BANK PFL MASTER NOTE TRUST
+		CENTRAL INDEX KEY:			0001282775
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-113957
+		FILM NUMBER:		06728727
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE MELLON CENTER
+		CITY:			PITTSBURGH
+		STATE:			PA
+		ZIP:			15258
+		BUSINESS PHONE:		2123252000
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Vad46aZdLBZ0Mq+IqIUY+z+nrb+n2vkB0NfZ+UU8CjflrpBOihZ/13UFqbe4nqUY
+ 7zv23OKcNzP8vc3uSA52Ig==
+
+ 0000950152-06-002798.txt : 20060331
+
+10-K
+ 1
+ j1822601e10vk.htm
+ MELLON BANK, N.A. AND COFILERS   10-K
+
+Mellon Bank, N.A. and cofilers   10-K 
+
+Table of Contents   
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549 
+
+FORM 10-K 
+
+Annual Report Pursuant
+to Section 13 or 15(d) of the Securities Exchange Act of 1934
+
+For the fiscal year ended December 31, 2005 
+
+MELLON BANK, N.A. 
+
+(Originator of Mellon Premium Finance Loan Owner Trust, Mellon Bank Premium Finance Loan Master Trust and Mellon Bank PFL
+Master Note Trust)
+
+(Exact name of Registrant as specified in its charter)
+
+One Mellon Center 
+Pittsburgh, Pennsylvania 15258 
+(412) 234-5000 
+Attention: Carl Krasik, Esq.
+
+(Address, including zip code, and telephone number, including area code, of registrant s principal offices)
+
+MELLON PREMIUM FINANCE LOAN OWNER TRUST 
+
+(Exact name of Registrant as specified in its charter)
+
+c/o Chase Manhattan Bank, USA, National Association 
+1201 N. Market Street 
+Wilmington, DE 19801 
+(302) 428-3372
+
+copy to 
+Carl Krasik, Esq. 
+Mellon Financial Corporation 
+Suite 1910 
+500 Grant Street 
+Pittsburgh, Pennsylvania 15258-0001 
+(412) 234-5222
+
+(Address, including zip code, and telephone number, including area code, of registrant s principal offices)
+
+MELLON BANK PREMIUM FINANCE LOAN MASTER TRUST 
+
+(Exact name of Registrant as specified in its charter)
+
+One Mellon Center 
+Pittsburgh, Pennsylvania 15258 
+(412) 234-5000 
+Attention: Carl Krasik, Esq.
+
+MELLON BANK PFL MASTER NOTE TRUST 
+
+(Exact name of Registrant as specified in its charter)
+
+c/o Chase Manhattan Bank, USA, National Association 
+1201 N. Market Street 
+Wilmington, DE 19801 
+(302) 428-3372
+
+copy to 
+Carl Krasik, Esq. 
+Mellon Financial Corporation 
+Suite 1910 
+500 Grant Street 
+Pittsburgh, Pennsylvania 15258-0001 
+(412) 234-5222
+
+(Address, including zip code, and telephone number, including area code, of registrant s principal offices)
+
+Securities registered pursuant to Section 12(b) of the Act: 
+None
+
+Securities registered pursuant to Section 12(g) of the Act: 
+None
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of
+the Securities Act: Yes     No    
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or
+15(d) of the Act.    
+
+Indicate by a check mark whether the Registrant (1) has filed all reports required to
+be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the
+preceding 12 months (or for such shorter period that the Registrant was required to
+file such reports), and (2) has been subject to such filing requirements for the past
+90 days. Yes     No    
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of
+Regulation S-K is not contained herein, and will not be contained, to the best of
+Registrant s knowledge, in definitive proxy or information statements incorporated by
+reference in Part III of this Form 10-K or any amendment to this Form 10-K.
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer,
+or a non-accelerated filer. See definition of  accelerated filer and large accelerated filer  in
+Rule 12b-2 of the Exchange Act. (Check one):
+
+Large accelerated filer    
+
+Accelerated filer    
+
+Non-accelerated filer     
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the
+Exchange Act). Yes     No    
+
+As of June 30, 2005, no shares of the registrant s outstanding voting common stock,
+having a market value of $0, were held by non-affiliates of the Registrant.
+
+As of March 1, 2006, the Registrant had no outstanding shares of any class of common
+stock.
+
+No documents have been incorporated by reference in this Form 10-K.
+
+TABLE OF CONTENTS
+
+Page 
+
+Part I 
+
+Item 1 
+
+Business  
+
+2 
+
+Item 1A 
+
+Risk Factors  
+
+2 
+
+Item 2 
+
+Properties  
+
+2 
+
+Item 3 
+
+Legal Proceedings  
+
+2 
+
+Item 4 
+
+Submission of Matters to a Vote of Security Holders  
+
+2 
+
+Part II 
+
+Item 5 
+
+Market for
+Registrant s Common Equity, Related Stockholder Matters and Issuer Purchases of Equity Securities  
+
+2 
+
+Item 6 
+
+Selected Financial Data  
+
+2 
+
+Item 7 
+
+Management s Discussion and Analysis of Financial Condition and Results of Operations  
+
+2 
+
+Item 7A 
+
+Quantitative and Qualitative Disclosures About Market Risk  
+
+2 
+
+Item 8 
+
+Financial Statements and Supplementary Data  
+
+2 
+
+Item 9 
+
+Changes in and Disagreements with Accountants on Accounting and Financial Disclosure  
+
+2 
+
+Item 9A 
+
+Controls and Procedures  
+
+3 
+
+Item 9B 
+
+Other Information  
+
+3 
+
+Part III 
+
+Item 10 
+
+Directors and Executive Officers of the Registrant  
+
+3 
+
+Item 11 
+
+Executive Compensation  
+
+3 
+
+Item 12 
+
+Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters  
+
+3 
+
+Item 13 
+
+Certain Relationships and Related Transactions  
+
+3 
+
+Item 14 
+
+Principal Accountant Fees and Services  
+
+3 
+
+Part IV 
+
+Item 15 
+
+Exhibits and Financial Statement Schedules  
+
+3 
+
+Exhibit 20.1    
+     Exhibit 20.2    
+     Exhibit 20.3    
+     Exhibit 20.4    
+
+-i-
+
+Table of Contents   
+
+The Mellon Premium Finance Loan Owner Trust (the  Owner Trust ), the Mellon Bank
+Premium Finance Loan Master Trust (the  Master Trust ) and the Mellon Bank PFL Master
+Note Trust (the  Note Trust ) were originated by Mellon Bank, N.A. The Master Trust
+has issued asset backed certificates representing interests in a portfolio of
+receivables arising under selected premium finance agreements originated by either
+AFCO Credit or AFCO Acceptance (subsidiaries of Mellon Bank, N.A.) to finance the
+payment of premiums and related sums on insurance policies. These receivables were
+transferred by AFCO Credit or AFCO Acceptance to Mellon Bank, N.A., from Mellon Bank,
+N.A. to the Owner Trust, and by the Owner Trust to the Master Trust.
+
+On June 24, 2004, the Note Trust acquired an asset-backed certificate (the
+ Collateral Certificate ) issued by the Master Trust and issued $513,700,000
+aggregate principal amount of Class A Notes, Series 2004-1, $22,341,000 aggregate
+principal amount of Class B Notes, Series 2004-1 and $13,959,000 aggregate principal
+amount of Class C Notes, Series 2004-1 under Registration Statement Nos. 333-113957,
+333-113957-01, 333-113957-02, 333-113957-03, 333-116609, 333-116609-01, 333-116609-02
+and 333-116609-03 and, in a private transaction, $8,375,600 aggregate principal
+amount of Class D Notes, Series 2001-1.
+
+- 1 -
+
+Table of Contents   
+
+PART I 
+
+Item 1. 
+
+Business  
+
+Omitted. 
+
+Item 1A. 
+
+Risk Factors  
+
+Omitted. 
+
+Item 2. 
+
+Properties  
+
+Omitted. 
+
+Item 3. 
+
+Legal Proceedings  
+
+None. 
+
+Item 4. 
+
+Submission Of Matters To A Vote Of Security Holders  
+
+None. 
+
+PART II 
+
+Item 5. 
+
+Market For Registrant s Common Equity, Related Stockholder Matters and
+Issuer Purchases of Equity Securities  
+
+As of March 29, 2006, there were fifteen holders of record of the Series
+2004-1 Class A Notes, one holder of record of the Series 2004-1 Class B
+Notes and two holders of record of the Series 2004-1 Class C Notes. 
+
+To the knowledge of the Note Trust, there is an over the counter public
+trading market for the Series 2004-1 Class A, B and C Notes, although
+the frequency of transactions varies substantially over time. 
+
+Item 6. 
+
+Selected Financial Data  
+
+Omitted. 
+
+Item 7. 
+
+Management s Discussion And Analysis Of Financial Condition And
+Results Of Operations  
+
+Omitted. 
+
+Item 7A. 
+
+Quantitative And Qualitative Disclosures About Market Risk  
+
+Not Applicable. 
+
+Item 8. 
+
+Financial Statements And Supplementary Data  
+
+Omitted. 
+
+Item 9. 
+
+Changes In And Disagreements With Accountants On Accounting And 
+Financial Disclosure  
+
+None. 
+
+- 2 -
+
+Table of Contents   
+
+Item 9A. 
+
+Controls and Procedures  
+
+Omitted. 
+
+Item 9B. 
+
+Other Information  
+
+Omitted. 
+
+PART III 
+
+Item 10. 
+
+Directors And Executive Officers Of The Registrant  
+
+Omitted. 
+
+Item 11. 
+
+Executive Compensation  
+
+Omitted. 
+
+Item 12. 
+
+Security Ownership Of Certain Beneficial Owners And
+Management and Related Stockholder Matters  
+
+Holders of the Series 2004-1 Class A, B and C Notes generally do not
+have a right to vote and are prohibited from taking part in the
+management of the Trust. 
+
+Item 13. 
+
+Certain Relationships And Related Transactions  
+
+None. 
+
+Item 14. 
+
+Principal Accountant Fees and Services  
+
+Omitted. 
+
+PART IV 
+
+Item 15.  
+       
+      Exhibits and Financial Statement Schedules  
+
+(a) 
+       
+     Listed below are the documents filed as a part of this report: 
+
+Exhibit Number  
+
+20.1 
+       
+     Annual Noteholders Report 
+
+20.2 
+       
+     Annual Servicer s Certificate 
+
+20.3 
+       
+     Report of Independent Certified Public Accountants 
+
+20.4 
+       
+     Annual Aggregate Certificateholders Statement 
+
+- 3 -
+
+Table of Contents   
+
+Supplemental Information to be Furnished With Reports Filed Pursuant to Section 15(d) of the Act by 
+Registrants Which Have Not Registered Securities Pursuant to Section 12 of the Act 
+
+No annual report to security holders covering 2005 has been sent to security
+holders of the registrant. No proxy materials have been sent to the registrant s
+security holders with respect to any annual or other meeting of security holders.
+
+- 4 -
+
+Table of Contents   
+
+Certification 
+
+I, Michael A. Bryson, certify that:
+
+1. I have reviewed this annual report on Form 10-K, and all reports on Form 8-K containing
+distribution or servicing reports filed in respect of periods included in the year covered by this
+annual report, of Mellon Bank PFL Master Note Trust;
+
+2. Based on my knowledge, the information in these reports, taken as a whole, does not contain any
+untrue statement of a material fact or omit to state a material fact necessary to make the
+statements made, in light of the circumstances under which such statements were made, not
+misleading as of the last day of the period covered by this annual report;
+
+3. Based on my knowledge, the distribution or servicing information required to be provided to the
+trustee by the servicer under the pooling and servicing, or similar, agreement, for inclusion in
+these reports is included in these reports;
+
+4. Based on my knowledge and upon the annual compliance statement included in the report and
+required to be delivered to the trustee in accordance with the terms of the pooling and servicing,
+or similar, agreement, and except as disclosed in the reports, the servicer has fulfilled its
+obligations under the servicing agreement; and
+
+5. The reports disclose all significant deficiencies relating to the servicer s compliance with the
+minimum servicing standards based upon the report provided by an independent public accountant,
+after conducting a review as specified in the pooling and servicing, or similar, agreement, that is
+included in these reports.
+
+Date: March 31, 2006 
+
+/s/    Michael A. Bryson 
+
+Name:
+
+Michael A. Bryson 
+
+Title:
+
+Executive Vice President   
+
+Chief Financial Officer 
+
+Mellon Bank, N.A. 
+
+C - 1
+
+Table of Contents   
+
+SIGNATURES 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the undersigned
+thereunto duly authorized.
+
+MELLON BANK, N.A. , as registrant 
+
+By: 
+       
+     /s/    Michael A. Bryson 
+
+Name:
+
+Michael A. Bryson 
+
+Title:
+
+Executive Vice President   
+
+Chief Financial Officer 
+
+MELLON PREMIUM FINANCE LOAN OWNER  
+
+TRUST , as registrant 
+
+By: Mellon Bank, N.A., as administrator 
+
+By: 
+       
+     /s/    Michael A. Bryson 
+
+Name:
+
+Michael A. Bryson 
+
+Title:
+
+Executive Vice President   
+
+Chief Financial Officer 
+
+MELLON PREMIUM FINANCE LOAN  
+
+MASTER TRUST , as registrant 
+
+By: Mellon Bank, N.A., as administrator 
+
+By: 
+       
+     /s/    Michael A. Bryson 
+
+Name:
+
+Michael A. Bryson 
+
+Title:
+
+Executive Vice President   
+
+Chief Financial Officer 
+
+MELLON BANK PFL MASTER NOTE TRUST  
+
+By: Mellon Bank, N.A., as administrator 
+
+By: 
+       
+     /s/    Michael A. Bryson 
+
+Name:
+
+Michael A. Bryson 
+
+Title:
+
+Executive Vice President   
+
+Chief Financial Officer 
+
+Date: March 31, 2006
+
+S - 1
+
+Table of Contents   
+
+EXHIBIT INDEX  
+
+Exhibit 
+
+20.1
+
+Annual Noteholders Report 
+
+20.2
+
+Annual Servicer s Certificate 
+
+20.3
+
+Report of Independent Certified Public Accountants 
+
+20.4
+
+Annual Aggregate Noteholders Statement 
+
+E - 1
+
+<EX-20.1>
+ 2
+ j1822601exv20w1.htm
+ EXHIBIT 20.1
+
+Exhibit 20.1 
+
+Exhibit 20.1
+
+ANNUAL AGGREGATE CERTIFCATEHOLDERS STATEMENT 
+MELLON BANK PFL MASTER NOTE TRUST SERIES 2004-1 
+ANNUAL PERIOD ENDING 
+DECEMBER 31, 2005
+
+ANNUAL HOLDER S DISTRIBUTION SUMMARY 
+
+Pursuant to Section 5.2, Servicer does hereby declare to the Trustee the following
+distributions for the calendar year 2005 as set forth below:
+
+AFCO CREDIT CORPORATION, as Servicer 
+
+By
+
+/s/ Bruce R. Gold 
+
+Name: Bruce R. Gold 
+
+Title: Senior Vice President   Chief Financial Officer 
+
+E - 2
+
+</EX-20.1>
+
+<EX-20.2>
+ 3
+ j1822601exv20w2.htm
+ EXHIBIT 20.2
+
+Exhibit 20.2 
+
+Exhibit 20.2
+
+AFCO CREDIT CORPORATION 
+
+MELLON BANK PREMIUM FINANCE LOAN MASTER TRUST 
+
+The undersigned, a duly authorized representative of AFCO Credit Corporation
+( AFCO ), as Servicer, pursuant to the Pooling and Servicing Agreement dated as of June
+15, 2001 (as may be amended and supplemented from time to time, the  Agreement ), among
+Mellon Premium Finance Loan Owner Trust, as Transferor, AFCO Credit Corporation, as
+Servicer, AFCO Acceptance Corporation, as Servicer, Premium Financing Specialists, Inc.,
+as Back-up Servicer, Premium Financing Specialists of California, Inc., as Back-up
+Servicer and Wells Fargo Bank Minnesota, National Association, as Trustee, does hereby
+certify that:
+
+1. 
+       
+     AFCO is, as of the date hereof, Servicer under the Agreement.
+Capitalized terms used in this Certificate have their respective meanings as
+set forth in the Agreement. 
+
+2. 
+       
+     The undersigned is a Servicing Officer who is duly authorized pursuant
+to the Agreement to execute and deliver this Certificate to Trustee. 
+
+3. 
+       
+     A review of the activities of Servicer during the fiscal year ending
+December 31, 2005, and of its performance under the Agreement was conducted
+under my supervision. 
+
+4. 
+       
+     Based on such review, Servicer has, to the best of my knowledge,
+performed in all material respects its obligations under the Agreement
+throughout such year and no default in the performance of such obligations
+has occurred or is continuing. 
+
+IN WITNESS WHEREOF, the undersigned has duly executed this Certificate this 31st day of March, 2006.
+
+AFCO CREDIT CORPORATION, as Servicer 
+
+By:
+
+/s/ Bruce R. Gold 
+
+Name: Bruce R. Gold 
+
+Title: Senior Vice President, Treasurer 
+
+and Chief Financial Officer 
+
+E - 3
+
+</EX-20.2>
+
+<EX-20.3>
+ 4
+ j1822601exv20w3.htm
+ EXHIBIT 20.3
+
+Exhibit 20.3 
+
+Exhibit 20.3
+
+Letterhead of KPMG  
+
+Independent Accountants  Report 
+
+Mellon Bank Premium Finance Loan Master Trust 
+c/o Wells Fargo Bank Minnesota, N.A., as Trustee:
+
+AFCO Credit Corporation, as Servicer 
+AFCO Acceptance Corporation, as Servicer
+
+We have examined the accompanying assertion made by management on AFCO Credit
+Corporation s and AFCO Acceptance Corporation s (jointly, AFCO) compliance, as Servicer,
+with Sections 4.2, 4.3, 4.5 and 8.8 of the Pooling and Servicing Agreement for the
+Mellon Bank Premium Finance Loan Master Trust dated June 15, 2001 and Sections 4.7(a)(i)
+and 4.8 of the Supplement (Series 2004-MC) dated as of June 24, 2004 (as amended,
+collectively, the Agreements), for the period January 1, 2005 through December 31, 2005.
+Management is responsible for AFCO s compliance with the aforementioned sections of the
+Agreements. Our responsibility is to express an opinion on management s assertion about
+AFCO s compliance based upon our examination.
+
+Or examination was conducted in accordance with attestation standards established by the
+American Institute of Certified Public Accountants and, accordingly, included examining,
+on a test basis, evidence about AFCO s compliance with the aforementioned sections of
+the Agreements and performing such other procedures as we considered necessary in the
+circumstances. We believe our examination provides a reasonable basis for our opinion.
+Our examination does not provide a legal determination on AFCO s compliance with the
+Agreements.
+
+In our opinion, management s assertion that AFCO was materially in compliance with the
+aforementioned sections of the Agreements for the period January 1, 2005 through
+December 31, 2005 is fairly stated, in all material respects.
+
+/s/ KPMG, LLP
+
+Pittsburgh, Pennsylvania 
+March 31, 2006
+
+E - 4
+
+Management Report on AFCO Credit Corporation s and AFCO Acceptance Corporation s Compliance, 
+as Servicer, with the Servicing Requirements of the Pooling and Servicing Agreement 
+
+Management of AFCO Credit Corporation and AFCO Acceptance Corporation (jointly,
+ AFCO ), as Servicer, is responsible for compliance with the servicing requirements
+in Sections 4.2, 4.3, 4.5, and 8.8 of the Pooling and Servicing Agreement for the
+Mellon Bank Premium Finance Loan Master Trust dated June 15, 2001 and Sections
+4.7(a)(i) and 4.8 of the Supplement (Series 2004-MC) dated as of June 24, 2004 (as
+amended, collectively, the  Agreements ).
+
+Management has performed an evaluation of AFCO s compliance with the aforementioned
+sections of the Agreements for the period January 1, 2005 through December 31, 2005.
+Based upon this evaluation, management believes that, for the period January 1, 2005
+through December 31, 2005, AFCO, as Servicer, was materially in compliance with the
+aforementioned sections of the Agreements.
+
+/s/    Daryl J. Zupan
+
+/s/    Bruce R. Gold 
+
+Daryl J. Zupan
+
+Bruce R. Gold 
+
+President 
+
+Senior Vice President, Treasurer,  
+
+and Chief Financial Officer  
+
+March 31, 2006
+
+E - 5
+
+</EX-20.3>
+
+<EX-20.4>
+ 5
+ j1822601exv20w4.htm
+ EXHIBIT 20.4
+
+Exhibit 20.4 
+
+Exhibit 20.4
+
+ANNUAL AGGREGATE CERTIFICATEHOLDERS STATEMENT 
+MELLON BANK PFL MASTER NOTE TRUST SERIES 2004-1 
+ANNUAL PERIOD ENDING 
+DECEMBER 31, 2005
+
+E - 6
+
+AFCO CREDIT CORPORATION, as Servicer 
+
+By
+
+/s/ Bruce R. Gold 
+
+Name: Bruce R. Gold 
+
+Title: Senior Vice
+President   Chief Financial Officer 
+
+E - 7
+
+</EX-20.4>
+

@@ -1,0 +1,799 @@
+<Header>
+<FileStats>
+    <FileName>20060331_10-K_edgar_data_1346202_0001056404-06-001598_1.txt</FileName>
+    <GrossFileSize>33376</GrossFileSize>
+    <NetFileSize>29202</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>166</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>1</N_Tables>
+    <N_Exhibits>0</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001056404-06-001598.hdr.sgml : 20060331
+<ACCEPTANCE-DATETIME>20060330202136
+ACCESSION NUMBER:		0001056404-06-001598
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20051231
+FILED AS OF DATE:		20060331
+DATE AS OF CHANGE:		20060330
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FBR Securitization Trust 2005-5
+		CENTRAL INDEX KEY:			0001346202
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-127901-05
+		FILM NUMBER:		06724950
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1001 NINETEENTH STREET NORTH
+		CITY:			ARLINGTON
+		STATE:			VA
+		ZIP:			22209
+		BUSINESS PHONE:		703-312-9500
+
+	MAIL ADDRESS:	
+		STREET 1:		1001 NINETEENTH STREET NORTH
+		CITY:			ARLINGTON
+		STATE:			VA
+		ZIP:			22209
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ CS+UIquHwPm+67tvMVDIcfhprq63BR3EhnXkSbA0cwM6TCbDgHqvGkqs9DIDrKwq
+ scKctXrJ0yU57I6qetKmKw==
+
+ 0001056404-06-001598.txt : 20060331
+
+10-K
+ 1
+ fbr05005_10k-2005.txt
+
+UNITED STATES
+                             SECURITIES AND EXCHANGE COMMISSION
+                                   WASHINGTON, D.C. 20549
+
+FORM 10-K
+
+(Mark one)
+
+  /X/ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+      EXCHANGE ACT OF 1934
+      For the fiscal year ended December 31, 2005
+
+      OR
+
+/ / TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+      EXCHANGE ACT OF 1934
+
+Commission File Number:  333-127901-05
+
+FBR Securitization Trust
+        Mortgage-Backed Notes
+        Series 2005-5
+
+     (Exact name of registrant as specified in its charter)
+
+New York                                          N/A
+  (State or other jurisdiction of                   (I.R.S. Employer
+  incorporation or organization)                    Identification No.)
+
+c/o Wells Fargo Bank, N.A.
+   9062 Old Annapolis Road
+   Columbia, MD                                21045
+  (Address of principal executive offices)    (Zip Code)
+
+Registrant's telephone number, including area code: (410) 884-2000
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+        NONE.
+
+Securities registered pursuant to Section 12(g) of the Act:
+
+        NONE.
+
+Indicate by check mark if the registrant is a well-known seasoned issuer,
+  as defined in Rule 405 of the Securities Act.
+
+        Yes  ___     No  X
+
+Indicate by check mark if the registrant is not required to file reports
+  pursuant to Section 13 or Section 15(d) of the Act.
+
+        Yes  ___     No  X
+
+Indicate by check mark whether the registrant (1) has filed all reports
+  required to be filed by Section 13 or 15(d) of the Securities Exchange
+  Act of 1934 during the preceding 12 months (or for such shorter period
+  that the registrant was required to file such reports), and (2) has been
+  subject to such filing requirements for the past 90 days.
+
+        Yes  ___     No  X
+
+  NOTE: The registrant has not been subject to filing requirements for the
+  past 90 days as the closing date for the transaction was December 15, 2005.
+
+Indicate by check mark if disclosure of delinquent filers pursuant to
+  Item 405 of Regulation S-K ( 229.405 of this chapter) is not contained
+  herein, and will not be contained, to the best of registrant's knowledge,
+  in definitive proxy or information statements incorporated by reference
+  in Part III of this Form 10-K or any amendment to this Form 10-K.
+
+        Not applicable.
+
+Indicate by check mark whether the registrant is a large accelerated filer,
+  an accelerated filer, or a non-accelerated filer. See Definition of
+  "accelerated filer and large accelerated filer" in Rule 12b-2 of the
+  Exchange Act. (Check One):
+
+Large Accelerated Filer ___  Accelerated Filer ___  Non-Accelerated Filer X
+
+Indicate by check mark whether the registrant is a shell company (as
+  defined in Rule 12b-2 of the Act).
+
+        Yes  ___     No  X
+
+State the aggregate market value of the voting and non-voting common
+  equity held by non-affiliates computed by reference to the price at which
+  the common equity was last sold, or the average bid and asked price of
+  such common equity, as of the last business day of the registrant's most
+  recently completed second fiscal quarter.
+
+        Not applicable.
+
+Documents Incorporated by Reference
+
+  List hereunder the following documents if incorporated by reference and
+  the Part of the Form 10-K (e.g. Part I, Part II, etc.) into which the
+  document is incorporated: (1)Any annual report to security holders; (2)
+  Any proxy or information statement; and (3)Any prospectus filed pursuant
+  to Rule 424(b) or (c) under the Securities Act of 1933. The listed
+  documents should be clearly described for identification purposes (e.g.
+  annual report to security holders for fiscal year ended December 24, 1980).
+
+        Not applicable.
+
+PART I
+  Item 1.  Business.
+
+            Not applicable.
+
+Item 1A.  Risk Factors.
+
+            Not applicable.
+
+Item 1B.  Unresolved Staff Comments.
+
+            Not applicable.
+
+Item 2.  Properties.
+
+            Not applicable.
+
+Item 3.  Legal Proceedings.
+
+            The registrant knows of no material pending legal proceedings
+            involving the trust created under the Pooling and Servicing
+            Agreement (the Trust), the Trustee, the Servicer or the
+            registrant with respect to the Trust other than routine
+            litigation incidental to the duties of the respective parties.
+
+Item 4.  Submission of Matters to a Vote of Security Holders.
+
+            None.
+
+PART II
+
+  Item 5.  Market for Registrant's Common Equity, Related Stockholder
+           Matters and Issuer Purchases of Equity Securities.
+
+            No established public trading market for the Certificates exists.
+
+            Records provided to the Trust by the DTC and the Trustee
+            indicate that as of December 31, 2005, the total number of holders
+            of record for the Series of Certificates is 28.
+
+Item 6.  Selected Financial Data.
+
+            Not applicable.
+
+Item 7.  Management's Discussion and Analysis of Financial Condition and
+           Results of Operation.
+
+            Not applicable.
+
+Item 7A. Quantitative and Qualitative Disclosures about Market Risk.
+
+            Not applicable.
+
+Item 8.  Financial Statements and Supplementary Data.
+
+            Not applicable.
+
+Item 9.  Changes in and Disagreements with Accountants on Accounting and
+           Financial Disclosure.
+
+            None.
+
+Item 9A. Controls and Procedures.
+            Not applicable.
+
+Item 9B. Other Information.
+
+            None.
+
+PART III
+
+  Item 10. Directors and Executive Officers of the Registrant.
+
+            Not applicable.
+
+Item 11. Executive Compensation.
+
+            Not applicable.
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management
+           and Related Stockholder Matters.
+
+            Not applicable.
+
+Item 13. Certain Relationships and Related Transactions.
+
+            Not applicable.
+
+Item 14. Principal Accounting Fees and Services.
+
+            Not applicable.
+
+PART IV
+
+  Item 15. Exhibits, Financial Statement Schedules.
+
+   (a) Exhibits
+
+     (31.1) Rule 13a-14(a)/15d-14(a) Certification
+
+     (99.1) Annual Independent Accountants' Servicing Reports concerning
+            servicing activities.
+
+a) Chase Home Finance LLC, as Sub-Servicer for JP Morgan Chase Bank, NA f/k/a JP Morgan Chase & Co.  
+
+(99.2) Report of Management as to Compliance with Minimum Servicing
+            Standards.
+
+a) Chase Home Finance LLC, as Sub-Servicer for JP Morgan Chase Bank, NA f/k/a JP Morgan Chase & Co.  
+
+(99.3) Annual Statements of Compliance under the Pooling and Servicing
+            Agreements.
+
+a) JP Morgan Chase Bank, NA, as Servicer f/k/a JP Morgan Chase & Co.  
+
+(99.4) Aggregate Statement of Principal and Interest Distributions to
+            Certificate Holders.
+
+(b) Not applicable.
+
+   (c) Omitted.
+
+Filed herewith.
+
+SIGNATURES
+
+  Pursuant to the requirements of Section 13 or 15(d) of the Securities
+  Exchange Act of 1934, the registrant has duly caused this report to be
+  signed on its behalf by the undersigned, thereunto duly authorized:
+
+FBR Securitization Trust
+    Mortgage-Backed Notes
+    Series 2005-5
+    (Registrant)
+
+Signed: Wells Fargo Bank, N.A. as Master Servicer
+
+  By: /s/ Sherri Sharps
+
+  By: Sherri Sharps, Vice President
+
+  Dated:  March 30, 2006
+
+Exhibit Index
+
+Exhibit No.
+
+  Ex-31.1 Rule 13a-14(a)/15d-14(a) Certification
+
+  I, Sherri Sharps, certify that:
+
+  1. I have reviewed this annual report on Form 10-K, and all reports on
+     Form 8-K containing distribution or servicing reports filed in
+     respect of periods included in the year covered by this annual report,
+     of FBR Securitization Trust Mortgage-Backed Notes, Series 2005-5
+     Trust;
+
+  2. Based on my knowledge, the information in these reports, taken as a
+     whole, does not contain any untrue statement of a material fact or
+     omit to state a material fact necessary to make the statements made,
+     in light of the circumstances under which such statements were made,
+     not misleading as of the last day of the period covered by this
+     annual report;
+
+  3. Based on my knowledge, the distribution or servicing information
+     required to be provided to the Trustee by the Servicer under the
+     Pooling and Servicing or similar, agreement, for inclusion in these
+     reports is included in these reports;
+
+  4. I am responsible for reviewing the activities performed by the master
+     servicer under the pooling and servicing, or similar, agreement, and
+     based on upon my knowledge and the annual compliance review required
+     under that agreement, and except as disclosed in the reports, the
+     master servicer has fulfilled its obligations under that agreement;
+     and
+
+  5. The reports disclose all significant deficiencies relating to the
+     servicer's compliance with the minimum servicing standards based upon
+     the report provided by an independent public accountant, after
+     conducting a review in compliance with the Uniform Single Attestation
+     Program for Mortgage Bankers or similar procedure, as set forth in
+     the pooling and servicing, or similar, agreement, that is included in
+     these reports.
+
+     In giving the certifications above, I have reasonably relied on
+     information provided to me by the following unaffiliated parties:
+     Chase Home Finance LLC as Sub-Servicer, JP Morgan Chase Bank, NA as
+     Named Servicer.
+
+Date: March 30, 2006
+
+     /s/ Sherri Sharps
+     Signature
+
+     Vice President
+     Title
+
+EX-99.1
+(logo) PRICEWATERHOUSECOOPERS
+
+PricewaterhouseCoopers LLP
+PricewaterhouseCoopers Center
+300 Madison Avenue
+New York NY 10017
+Telephone (646) 471 3000
+Facsimile (813) 286 6000
+
+Report of Independent Auditors
+
+To the Board of Directors and Stockholder
+of Chase Home Finance LLC:
+
+We have examined management's assertion about Chase Home Finance LLC's (the
+"Company") compliance with the minimum servicing standards identified in the
+Mortgage Bankers Association of America's Uniform Single Attestation Program for
+Mortgage Bankers ("USAP") as of and for the year ended December 31, 2005
+included in the accompanying management assertion (see Exhibit I). Management is
+responsible for the Company's compliance with those minimum servicing standards.
+Our responsibility is to express an opinion on management's assertion about the
+Company's compliance based on our examination.
+
+Our examination was made in accordance with attestation standards established by
+the American Institute of Certified Public Accountants and, accordingly,
+included examining, on a test basis, evidence about the Company's compliance
+with the minimum servicing standards and performing such other procedures as we
+considered necessary in the circumstances. We believe that our examination
+provides a reasonable basis for our opinion. Our examination does not provide a
+legal determination on the Company's compliance with the minimum servicing
+standards.
+
+In our opinion, management's assertion that the Company complied with the
+aforementioned minimum servicing standards as of and for the year ended December
+31, 2005 is fairly stated, in all material respects.
+
+/s/ PricewaterhouseCoopers LLP.
+
+March 13, 2006
+
+(page)
+
+(logo) CHASE
+
+Exhibit I
+
+Management's Assertion Concerning Compliance
+with USAP Minimum Servicing Standards
+
+March 13, 2006
+
+As of and for the year ended December 31, 2005, Chase Home Finance LLC (the
+"Company") has complied in all material respects with the minimum servicing
+standards (the "Standards") set forth in the Mortgage Bankers Association of
+America's Uniform Single Attestation Program for Mortgage Bankers ("USAP").
+These Standards are applicable only to the Company's prime and subprime mortgage
+portfolios.
+
+As of and for this same period, the Company had in effect fidelity bond and
+errors and omissions policies in the amounts of $250,000,000 and $25,000,000
+respectively.
+
+/s/ Kim Greaves
+Kim Greaves
+Senior Vice President
+Chase Home Finance LLC
+
+/s/ Jim Miller
+Jim Miller
+Senior Vice President
+Chase Home Finance LLC
+
+/s/ Scott Powell
+Scott Powell
+CEO
+Chase Home Finance LLC
+
+EX-99.2
+(logo) CHASE
+
+Exhibit I
+
+Management's Assertion Concerning Compliance
+with USAP Minimum Servicing Standards
+
+March 13, 2006
+
+As of and for the year ended December 31, 2005, Chase Home Finance LLC (the
+"Company") has complied in all material respects with the minimum servicing
+standards (the "Standards") set forth in the Mortgage Bankers Association of
+America's Uniform Single Attestation Program for Mortgage Bankers ("USAP").
+These Standards are applicable only to the Company's prime and subprime mortgage
+portfolios.
+
+As of and for this same period, the Company had in effect fidelity bond and
+errors and omissions policies in the amounts of $250,000,000 and $25,000,000
+respectively.
+
+/s/ Kim Greaves
+Kim Greaves
+Senior Vice President
+Chase Home Finance LLC
+
+/s/ Jim Miller
+Jim Miller
+Senior Vice President
+Chase Home Finance LLC
+
+/s/ Scott Powell
+Scott Powell
+CEO
+Chase Home Finance LLC
+
+EX-99.3
+(logo) CHASE
+
+ANNUAL STATEMENT OF COMPLIANCE
+
+Pursuant to the servicing agreement, the undersigned Officer, to the best of
+his/her knowledge, hereby certifies to the following:
+
+I have reviewed the activities and performance of the Servicer and, during the
+preceding fiscal year under the terms of the Servicing Agreement, Trust
+Agreement, Pooling and Servicing Agreement and/or Seller/Servicer Guide and to
+the best of the Officer's knowledge, the Servicer has fulfilled all its duties,
+responsibilities or obligations under these Agreements throughout such year.
+
+a)   All property inspections have been completed.
+
+b)   Compliance relative to Adjustable Rate Mortgages has been met.
+
+c)   Compliance with IRS Foreclosure reporting regulations enacted as IRS
+     Section 6060J by the Deficit Reduction Act, regarding Acquired and/or
+     Abandonment property have been completed.
+
+d)   All loans serviced in states that have statutes requiring payment of
+     interest on escrow/impound accounts have been completed.
+
+e)   That such Officer has confirmed that the Fidelity Bond, the Errors and
+     Omissions Insurance Policy and any other bonds required under the terms of
+     the Servicing Agreement are in full force and effect.
+
+f)   Enclosed is a copy of our most recent independent audit statement.
+
+CERTIFIED BY: /s/ Kim Greaves
+              Kim Greaves
+              Senior Vice President
+
+Date: 3/13/06
+
+CERTIFIED BY: /s/ Jim Miller
+              Jim Miller
+              Senior Vice President
+
+Date: 3/13/06
+
+(page)
+
+Wells Fargo - 2005 deals
+
+Investor#   Agreement Name                                       Agreement Date
+
+047         FC0105                                               1/15/05
+047         FC0205                                               2/15/05
+047         FC0305                                               3/15/05
+047         FC0405                                               4/15/05
+047         FC0505                                               5/15/05
+047         FC0605                                               5/15/05
+047         FC0705                                               7/27/05
+047         FC0805                                               8/27/05
+047         FC0905                                               9/20/05
+047         FC1005                                               10/20/05
+047         FC1105                                               11/25/05
+047         FC1205                                               12/19/05
+G62         BAF05001                                             2/1/05
+G63         CSF05001                                             2/1/05
+G65         JPA050S1                                             2/1/05
+G69         JPA050A1                                             2/1/05
+G70         MAL05001                                             2/1/05
+G75         5MASD1                                               3/1/05
+G76         CSF05002                                             3/2/05
+G80         5GSMP1                                               3/7/05
+G84         JPA050A2                                             4/1/05
+G85         BAF05002                                             4/1/05
+G86         MAL05003                                             4/1/05
+G87         CSF05003                                             4/1/05
+G92         MST05001                                             4/1/05
+G96         MAL05004                                             6/1/05
+G97         CSF05004                                             5/1/05
+G98         JPA050A3                                             6/2/05
+L06         CSF05005                                             6/1/05
+L07         BAF05003                                             6/1/05
+L09         MSS05001                                             6/1/05
+L15         JPA050A4                                             7/1/05
+L19         BAF0500E                                             7/1/05
+L23         CSF05006                                             7/1/05
+L27         JPA050A5                                             8/1/05
+L33         MAL05005                                             8/5/05
+L37         BAY0500C                                             9/12/05
+L38         JPA050S2                                             9/1/05
+L41         JPA050A6                                             9/1/05
+L42         5MARP2                                               9/1/05
+L48         CSF05009                                             10/3/05
+L49         JPA050A7                                             10/3/05
+
+(page)
+
+L53          THB05003                                            9/1/05
+L55          JPA050A8                                            11/1/05
+L56          5MABA1                                              11/1/05
+L57          BAY0500D                                            11/1/05
+L58          CSF05010                                            11/1/05
+L59          MST05002                                            11/1/05
+L62          5MSST2                                              1111/05
+L65          MAL05006                                            12/1/05
+L66          JPL050S1                                            12/1/05
+L67          BAF05007                                            12/1/05
+L68          CSF05011                                            12/1/05
+L72          JPA050S3                                            12/1/05
+L74          JPL050A2                                            12/1/05
+571          PPS05WC1                                            1/26/05
+572          PEOPLES CHOICE 2005-1                               3/28/05
+578          FLD0501                                             2/25/05
+583          MAB05HE1                                            4/28/05
+598          FLD0502                                             7/29/05
+599          FBR05001                                            7/29/05
+602          HAS05NC1                                            9/13/05
+608          FBR05002                                            9/29/05
+609          MAB05HE2                                            9/29/05
+610          HAS05NC2                                            9/29/05
+615          MSI05HE5                                            10/27/0
+617          FLD0503                                             11/28/0
+621          FBR05004                                            12/5/05
+622          FBR05005                                            12/5/05
+624          HAS05I01                                            12/21/05
+             AEGO5004
+             ARM0511
+             FS2005-1
+             FS2005-2
+             FS2005-3
+             GS2005-RP1
+             MAB05AB1
+             MRLT2005-1
+             MRLT2005-2
+             MSM058SL
+             NLC05004
+             PRM05005
+
+(page)
+
+Wells Fargo - 2004 and prior deals
+
+Investor#   Agreement Name                                       Agreement Date
+
+18          1997 WL-3
+46          FC0704
+46          FC0804
+46          FC0904
+46          FC1004
+46          FC1104
+46          FC1204
+111         1999WL6
+168         PRM04-CL1                                            1/1/04
+361         01996U
+32E         JPMMT 2004-S1                                        1/1/04
+32J         JPM2004-S1                                           8/1/04
+A37         E94001
+A39         J21001
+C48         MAST 2004-1                                          9/1/04
+C84         2002WL7                                              5/1/02
+D92         S44003
+F04         MALT2002-1                                           7/30/02
+F18         002WLF                                               7/1/02
+F04/F20     002WLG                                               8/27/02
+F31         2003-WLV                                             7/1/03
+F32         2002WLJ
+F33         Bayview 2003-D                                       7/1/03
+F34         002FX2
+F35         Bayview 2003-E                                       7/1/03
+F38         002WLM
+F46         002WLS
+F48         2CRA57
+F50         2002WL12
+F51         MALT2003-2                                           3/1/03
+F52         MALT2003-3                                           6/1/03
+F53         MAST2003-5                                           6/1/03
+F54         MAST2003-6                                           6/1/03
+F55         MAST2003-7                                           7/1/03
+F56         MAST2003-8                                           8/1/03
+F57         MASTR9
+F58         MAST03-10                                            10/1/03
+F59         MALT2003-7                                           10/1/03
+F60         MALT2003-8                                           11/1/03
+F61         MALT2003-9                                           1/2/04
+F61         MAST2003-9                                           9/1/03
+F62         MAST03-12                                            1/2/04
+
+(page)
+
+F63         DBALT4                                               1/21/04
+F64         MALT2004-4                                           2/2/04
+F65         MALT2004-2                                           3/1/04
+F66         MAST2004-3                                           2/1/04
+F67         MALT2004-3                                           4/1/04
+F68         Bear Stearns Mortgage Securities Inc Series 1998-1   3/1/04
+F68         Bear Stearns Mortgage Securities Inc Series 1998-5   3/1/04
+F68         PRM04-CL2                                            4/1/04
+F68         SAMI 1998-8                                          3/1/04
+F69         MALT2004-4                                           5/3/04
+F71         MAST2004-5                                           4/1/04
+F73         MALT2004-5                                           6/3/04
+F74         002FX5
+F75         MAST2004-6                                           6/1/04
+F77         MALT2004-6                                           7/5/04
+F79         MALT2004-7                                           7/1/04
+F81         MAST2004-8                                           7/1/04
+F83         MAST2004-9                                           8/1/04
+F85         MALT2004-8                                           8/1/04
+F89         MALT2004-9                                           8/1/04
+F94         GSMPS 2003-1                                         10/1/03
+F95         MALT04-10                                            9/1/04
+G01         JPM2004-A1                                           1/1/04
+G05         JPM2004-A2                                           4/1/04
+G06         GS2004-1                                             2/1/04
+G10         JPM2004-A3                                           6/1/04
+G12         GS2004-3                                             5/1/04
+G16         JPM2004-A4                                           7/1/04
+G19         CSFB04-4                                             8/2/04
+G22         CSFB04-5                                             9/1/04
+G23         BAY2004-C                                            9/1/04
+G29         CSFB04-6                                             10/1/04
+G36         JPM2004-A5                                           10/1/04
+G38/J07     CSFB04-7                                             11/1/04
+G39         MALT04-11                                            11/1/04
+G40/J08     MAST04-10                                            10/1/04
+G43         JPM2004-A6                                           12/1/04
+G44         CSFB04-8                                             12/1/04
+G45         JPM2004-S2                                           11/1/04
+G47         MAST04-11                                            11/1/04
+G48         MALT04-12                                            11/1/04
+G53         BAY2004-D                                            3/1/04
+G54         4BAFC4                                               10/1/04
+G56         BAFC2004-5                                           10/1/04
+G56         4BAFC6
+G58         MALT04-13                                            12/1/04
+
+(page)
+
+H71         CSFB 2001-AR24
+J08         4MAS10
+            Deutsche Mortgage Securities, Inc. 2004-4
+            GS2003-3                                             10/1/03
+            MAST2004-4
+            MAST2004-1
+            SAM2000-1
+            CMLT04-HE1
+            CMLT2004-1
+            CSFB04-AR5
+            FNMA200233
+            FS2003-1
+            FS2004-1
+            FS2004-2
+            FS2004-3
+            FS2004-4
+            FS2004-5
+            GEMLMLM
+            HARTX83-A
+            JEFFTX84
+            MALT2002-2
+            MALT2003-5
+            MARM2003-1
+            MAST2002-7
+            MAST2003-2
+            MAST2003-3
+            MAST2003-4
+            MS1997-P1
+            MSGF1996-1
+            MSST2003-1
+            NATIONSBK
+            NORWEST-TX
+            RMSC89-8
+            SASCO02-9
+            SMSC92-6
+            SMT91-05
+            SMT92-01
+            SMT93-04
+329         SOPAC/ 97-2 / WELLS FARGO TRUST SERVICES
+389         AMRES98-2                                            6/22/98
+466         Aegis Asset Backed Securities Trust 2003-1           3/27/03
+479         FIRST FRANKLIN MORTGAGE LOAN TRUST 2003-FF2          6/26/03
+480         First Franklin Mortgage Loan Trust 2003-FFC          6/1/03
+483         GS2003-HE2                                           9/8/03
+488         First Franklin Mortgage Loan Trust 2003-FF4          9/1/03
+489         Aegis Asset Backed Securities Trust 2003-2           10/8/03
+
+(page)
+
+497         FIELDSTONE MORTGAGE INVESTMENT CORP 2003-1           10/23/03
+501         GS2003-AHL                                           10/29/03
+502         Aegis Asset Backed Securities Trust 2003-3           11/18/03
+510         Aegis Asset Backed Securities Trust 2004-1           1/23/04
+511         Fieldstone Mortgage Investment Trust 2004-1          1/30/04
+514         FIRST FRANKLIN MORTGAGE LOAN TRUST 2004-FFA          2/1/04
+520         Fieldstone Mortgage Investment Trust 2004-2          4/20/04
+524         FIRST FRANKLIN MORTGAGE LOAN TRUST 2004-FF3          5/1/04
+528         Aegis Asset Backed Securities Trust 2004-3           6/21/04
+532         Fieldstone Mortgage Investment Trust 2004-3          6/21/04
+537         SAIL2004-7                                           7/27/04
+542         Aegis Asset Backed Securities Trust 2004-4           8/26/04
+544         FFMLT 2004-FF7                                       8/1/04
+547         MS2004-5AR                                           9/23/04
+548         MS2004-6AR                                           9/23/04
+549         MS2004-7AR                                           9/23/04
+555         MABS04HE1                                            10/1/04
+556         MS2004-8AR                                           9/30/04
+558         Fieldstone Mortgage Investment Trust 2004-4          9/30/04
+562         PEOPLES CHOICE 2004-2                                11/23/04
+566         Fieldstone Mortgage Investment Trust 2004-5          11/23/04
+            BSALTA2003-4
+            BSRT2001-4
+            CMLT2003-1                                           9/1/98
+            DALT03-4XS                                           11/1/03
+
+Ex-99.4
+
+   Schedule of Year-To-Date Principal and Interest Distributions to
+   Certificateholders
+

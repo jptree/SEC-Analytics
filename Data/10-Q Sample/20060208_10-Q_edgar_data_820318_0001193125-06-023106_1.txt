@@ -1,0 +1,1523 @@
+<Header>
+<FileStats>
+    <FileName>20060208_10-Q_edgar_data_820318_0001193125-06-023106_1.txt</FileName>
+    <GrossFileSize>721850</GrossFileSize>
+    <NetFileSize>154162</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>423273</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>38</N_Tables>
+    <N_Exhibits>9</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001193125-06-023106.hdr.sgml : 20060208
+<ACCEPTANCE-DATETIME>20060208085147
+ACCESSION NUMBER:		0001193125-06-023106
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		10
+CONFORMED PERIOD OF REPORT:	20051231
+FILED AS OF DATE:		20060208
+DATE AS OF CHANGE:		20060208
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			II-VI INC
+		CENTRAL INDEX KEY:			0000820318
+		STANDARD INDUSTRIAL CLASSIFICATION:	OPTICAL INSTRUMENTS & LENSES [3827]
+		IRS NUMBER:				251214948
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-16195
+		FILM NUMBER:		06587211
+
+	BUSINESS ADDRESS:	
+		STREET 1:		375 SAXONBURG BLVD
+		CITY:			SAXONBURG
+		STATE:			PA
+		ZIP:			16056
+		BUSINESS PHONE:		724-352-4455
+
+	MAIL ADDRESS:	
+		STREET 1:		375 SAXONBURG BLVD
+		CITY:			SAXONBURG
+		STATE:			PA
+		ZIP:			16056
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ O+nDu5EnGsDRSZvZHx0R+ZhJyr9ONW11cN+5Ii8gPlE+/V24q+XPGm/ChG1/w/dS
+ j3RUPZ5Bv61lT1PHDphpZQ==
+
+ 0001193125-06-023106.txt : 20060208
+
+10-Q
+ 1
+ d10q.htm
+ FORM 10-Q
+
+Form 10-Q 
+
+Table of Contents  
+
+           SECURITIES AND EXCHANGE COMMISSION        WASHINGTON, D.C. 20549              FORM 10-Q          
+          For the quarterly period ended December 31, 2005         
+
+Transition report pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 for the transition period
+from                      
+  to                        .               Commission File Number: 0-16195             II-VI INCORPORATED        (Exact name of
+registrant as specified in its charter)          
+
+PENNSYLVANIA   
+     
+   25-1214948    
+ 
+     (State or other jurisdiction of       incorporation or organization)    
+     
+     (I.R.S. Employer       Identification No.)     
+       
+           Registrant s
+telephone number, including area code: 724-352-4455              N/A
+       (Former name, former address and former fiscal year, if changed since last report)             Indicate by check mark whether the registrant (1) has filed all reports required to be
+filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for
+the past 90 days.            Yes           No                   Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer or a non-accelerated filer. See definition
+of accelerated filer and large accelerated filer in Rule 12b-2 of the Exchange Act.            Large accelerated filer            Accelerated filer             Non-accelerated filer                   Indicate by check mark whether the registrant is a shell
+company (as defined in Rule 12b-2 of the Exchange Act).            Yes               No                    Indicate the number of shares outstanding of each of the issuer s classes of common
+stock as of the latest practicable date:            At February 3,
+2006, 29,272,568 shares of Common Stock, no par value, of the registrant were outstanding.          
+
+Table of Contents  
+
+     II-VI INCORPORATED                
+  INDEX           
+
+Page No.      
+ 
+    PART I - FINANCIAL INFORMATION   
+
+Item 1.   
+
+Financial Statements:    
+
+Condensed Consolidated Balance Sheets   December 31, 2005 and June 30, 2005    
+      
+  3   
+
+Condensed Consolidated Statements of Earnings   Three months and six months ended December 31, 2005 and 2004    
+      
+  4   
+
+Condensed Consolidated Statements of Cash Flows   Six months ended December 31, 2005 and 2004    
+      
+  6   
+
+Condensed Consolidated Statements of Shareholders  Equity   December 31, 2005 and June 30, 2005    
+      
+  7   
+
+Notes to Condensed Consolidated Financial Statements    
+      
+  8   
+
+Item 2.   
+
+Management s Discussion and Analysis of Financial Condition and Results of Operations    
+      
+  20   
+
+Item 3.   
+
+Quantitative and Qualitative Disclosures about Market Risk    
+      
+  30   
+
+Item 4.   
+
+Controls and Procedures    
+      
+  31   
+
+PART II - OTHER INFORMATION   
+
+Item 1A.   
+
+Risk Factors    
+      
+  31   
+
+Item 2.   
+
+Unregistered Sales of Equity Securities and Use of Proceeds    
+      
+  32   
+
+Item 4.   
+
+Submission of Matters to Vote of Security Holders    
+      
+  33   
+
+Item 5.   
+
+Other Information    
+      
+  33   
+
+Item 6.   
+
+Exhibits    
+      
+  34   
+
+Table of Contents  
+
+    PART I - FINANCIAL INFORMATION          
+
+Item 1.   
+   Financial Statements                
+  II-VI Incorporated and Subsidiaries        Condensed Consolidated Balance Sheets (Unaudited)        ($000)          
+
+-  
+  See notes to condensed consolidated financial statements.           
+
+(1)     
+  As restated to reflect the modified retrospective application of the fair value recognition provisions of SFAS 123(R)  Share-Based Payment , see Note B.
+          
+   3   
+
+Table of Contents  
+
+II-VI Incorporated and Subsidiaries        Condensed Consolidated Statements of Earnings (Unaudited)        ($000 except per share data)          
+
+-  
+  See notes to condensed consolidated financial statements.           
+
+(1)     
+  As restated to reflect the modified retrospective application of the fair value recognition provisions of SFAS 123(R)  Share-Based Payment , see Note B.
+          
+   4   
+
+Table of Contents  
+
+    II-VI Incorporated and Subsidiaries        Condensed Consolidated Statements of Earnings (Unaudited)        ($000 except per share data)          
+
+-  
+  See notes to condensed consolidated financial statements.           
+
+(1)     
+  As restated to reflect the modified retrospective application of the fair value recognition provisions of SFAS 123(R)  Share-Based Payment , see Note B.
+          
+   5   
+
+Table of Contents  
+
+II-VI Incorporated and Subsidiaries        Condensed Consolidated Statements of Cash Flows (Unaudited)        ($000)          
+
+-  
+  See notes to condensed consolidated financial statements.           
+
+(1)     
+  As restated to reflect the modified retrospective application of the fair value recognition provisions of SFAS 123(R)  Share-Based Payment , see Note B.
+          
+   6   
+
+Table of Contents  
+
+II-VI Incorporated and Subsidiaries        Consolidated Statements of Shareholders  Equity (Unaudited)        ($000)          
+
+-  
+  See notes to condensed consolidated financial statements.           
+
+(1)     
+  As restated to reflect the modified retrospective application of the fair value recognition provisions of SFAS 123(R)  Share-Based Payment , see Note B.
+          
+   7   
+
+Table of Contents  
+
+II-VI Incorporated and Subsidiaries        Notes to Condensed Consolidated Financial Statements (Unaudited)          
+
+Note A -   
+    Basis of Presentation                 The consolidated financial statements for the three and six month periods ended December 31, 2005 and 2004 are unaudited. In the opinion of management, all
+adjustments considered necessary for the fair presentation of the periods presented have been included. Certain information and footnote disclosures normally included in financial statements prepared in accordance with accounting principles
+generally accepted in the United States of America have been condensed or omitted. These condensed consolidated financial statements should be read in conjunction with the consolidated financial statements and notes thereto in the Company s
+annual report on Form 10-K for the year ended June 30, 2005. The consolidated results of operations for the three and six month periods ended December 31, 2005 are not necessarily indicative of the results to be expected for the full year.
+The results for the quarter and six months ended December 31, 2004 include one month contribution from Marlow Industries, Inc. which was acquired by the Company in December 2004.            On February 17, 2005, the Company s Board of Directors declared a two-for-one stock split, in the form of a stock dividend, of the
+Company s common stock for shareholders of record on March 2, 2005. The stock split was distributed on March 22, 2005 by issuing one additional share of common stock for every share of common stock held. The applicable share and per
+share data for all periods included herein have been restated to give effect to this stock split.         
+
+Note B -   
+    Stock-Based Compensation                 The Company had a stock option plan, the II-VI Incorporated stock option plan of 2001, under which stock options had been granted by the Board of Directors to directors,
+officers and key employees, with 7,740,000 shares of common stock reserved for use under this plan. All options to purchase shares of common stock granted under this plan had been at market price at the date of grant. Generally, twenty percent of
+the options may be exercised one year from the date of grant with comparable annual increases on a cumulative basis each year thereafter. The stock option plan also had vesting provisions predicated upon the death, retirement or disability of the
+optionee. All stock options expire 10 years after the grant date.            On
+August 13, 2005, the Board of Directors unanimously adopted, subject to approval of the shareholders of the Company, the II-VI Incorporated 2005 Omnibus Incentive Plan. The 2005 Omnibus Incentive Plan provides for the grant of stock options,
+stock appreciation rights, restricted shares, deferred shares or performance shares in the aggregate not to exceed 1,800,000 shares of Common Stock and performance units. The 2005 Omnibus Incentive Plan was approved by the shareholders of the
+company on November 4, 2005, and consequently, no further stock option grants will be made under the predecessor plan.            The Company adopted Statement of Financial Accounting Standards No. 123 (revised 2004), ( SFAS 123R )  Share-Based Payment,  effective
+July 1, 2005. SFAS 123R requires the recognition of the fair value of stock compensation in net earnings. The Company recognizes the stock compensation expense over the requisite service period of the individual grantees, which generally equals
+the vesting period. Prior to July 1, 2005, the Company followed Accounting Principles Board ( APB ) Opinion 25,  Accounting for Stock Issued to Employees,  and related interpretations in accounting for its stock
+compensation.         
+   8   
+
+Table of Contents  
+
+   The Company elected the modified retrospective transition method for adopting SFAS 123R. Under this method, all prior
+period financial statements were restated effective July 1, 2005 to recognize compensation cost in the amounts previously reported in the Notes to Consolidated Financial Statements. The Consolidated Balance Sheet at June 30, 2005 has been
+restated for the modified retrospective adoption of SFAS 123R resulting in a $7.2 million increase in common stock, a $5.6 million reduction in retained earnings and a $1.6 million increase in deferred tax asset.            The fiscal year 2005 Statements of Earnings have been restated to reflect the Company s
+adoption of the modified retrospective transition method under SFAS 123R. The following are stock compensation, net of related income tax effects, for each of the prior periods during fiscal year ended June 30, 2005 ($000):         
+          Under the provisions of SFAS 123R, the
+Company recorded $0.3 million and $1.0 million in stock compensation expense in its Consolidated Statements of Earnings for the three and six months ended December 31, 2005, respectively, and $0.5 million and $1.0 million for the three and six
+months ended December 31, 2004, respectively. The stock compensation expense is allocated 35% to cost of goods sold and 65% to selling, general and administrative expense in the Condensed Consolidated Statements of Earnings based upon the
+employee classification of the Grantee. The Company utilized the Black-Scholes valuation model for estimating the fair value of the stock compensation expense. During the six months ended December 31, 2005 and 2004, the weighted-average fair
+value of options granted under the stock option plan was $10.82 and $11.02, respectively, per option using the following assumptions:         
+          The risk-free interest rate is derived
+from the average U.S. Treasury Note rate during the period, which approximates the rate in effect at the time of grant related to the expected life of the options. Expected volatility is based on the historical volatility of the Company s
+common stock over the period commensurate with the expected life of the options. The expected life calculation is based on the observed time to post-vesting exercise and/or forfeitures of options by our employees. The dividend yield of zero is based
+on the fact the Company never paid cash dividends and has no intention to pay cash dividends in the future. The estimated annualized forfeitures are based on the Company s historical experience of option pre-vesting cancellations and are
+estimated at a rate of 22%. Under the provisions of SFAS 123R, the Company will record additional expense if the actual forfeiture rate is lower than estimated, and will record a recovery of prior expense if the actual forfeitures are higher than
+estimated.         
+   9   
+
+Table of Contents  
+
+Note C -     
+    Acquisitions                  II-VI Deutschland GmbH              In July
+2005, the Company exercised its call option and purchased the remaining 25% interest of II-VI Deutschland GmbH from L.O.T.-Oriel Laser Optik GmbH   Co. KG of Darmstadt, Germany (collectively L.O.T.) for approximately $1.6 million. In
+connection with the purchase of the remaining 25% interest, the Company received a three year non-compete agreement from L.O.T. The purchase price was allocated $1.4 million to goodwill and $0.2 million to the non-complete agreement. The Company is
+in the process of finalizing the purchase accounting related to this acquisition; in particular, the allocation of the purchase price among goodwill and identified intangible assets has not yet been finalized and are therefore subject to adjustment
+in future periods. The Company expects to finalize its valuation of the acquired intangibles by March 31, 2006.              Marlow Industries, Inc.              In December 2004, the Company acquired all the outstanding shares of Marlow Industries, Inc. (Marlow) for approximately $29.7 million net of cash acquired of $2.9 million
+and including transaction costs of approximately $0.3 million. Marlow is a global leader in the design and manufacture of thermoelectric solutions for both cooling and power generation based on compound semiconductor materials. Marlow s
+products are sold in a variety of markets, including defense and space, telecommunications, medical and industrial markets. As a result of the acquisition, the Company is expected to recognize synergies in material growth technology and utilization
+of its worldwide manufacturing and distribution networks to increase the operational and financial results of the combined companies.            This acquisition was accounted for using the purchase method in accordance with SFAS No. 141,  Business Combinations.  Accordingly, the Company recorded
+the net assets at their estimated fair values, and included operating results in the consolidated financial statements since December 2004. The following table presents allocation of the purchase price to the assets acquired and liabilities assumed
+at the date of acquisition ($000 s).         
+       
+   10   
+
+Table of Contents  
+
+   Of the $11.7 million of acquired intangible assets, $6.0 million was assigned to a registered tradename with a indefinite
+life not amortized but tested annually for impairment. Acquired patents totaled $2.9 million and are amortized over a period ranging from 1.5 years to 8.5 years. Customer list acquired totaled $2.3 million and is amortized over 9.5 years and the
+non-compete agreements of $0.5 million are amortized over 3 years.            The
+following unaudited pro-forma consolidated results of operations have been prepared as if the acquisition of Marlow had occurred at July 1, 2004, the beginning of the Company s fiscal year 2005 ($000 except per share).         
+          The pro-forma results are not
+necessarily indicative of what actually would have occurred if the transaction had taken place at the beginning of the period, are not intended to be a projection of future results and do not reflect any cost savings that might be achieved from the
+combined operations.         
+
+Note D -     
+    Contract Receivables                 The components of contract receivables, which are a component of accounts receivable, net, were as follows ($000):         
+
+Note E -   
+    Inventories                 The components of inventories were as follows ($000):         
+       
+   11   
+
+Table of Contents  
+
+Note F -   
+    Property, Plant and Equipment                 Property, plant and equipment at cost or valuation consist of the following ($000):         
+          Capitalized interest expense
+associated with the Company s expansion of its coating facility and administrative offices at its Saxonburg, Pennsylvania facility was $0.1 million for the six months ended December 31, 2005. No interest was capitalized during three months
+ended December 31, 2005. Interest capitalized for the six months ended December 31, 2004 was $0.1 million.         
+
+Note G -     
+    Goodwill and Intangible Assets                In June 2001, the FASB issued SFAS No. 142,  Goodwill and Other Intangible Assets.  This standard requires that goodwill and intangible assets with
+indefinite useful lives not be amortized but should be tested for impairment at least annually. As required by SFAS No. 142, management has allocated goodwill to the Company s reporting units.            Changes in the carrying amount of goodwill are as follows ($000):         
+       
+   12   
+
+Table of Contents  
+
+   The gross carrying amount and accumulated amortization of the Company s intangible assets other than goodwill as of
+December 31, 2005 and June 30, 2005 were as follows ($000):         
+          Amortization expense recorded on the
+intangible assets was $0.4 million and $0.8 million, for the three and six months ended December 31, 2005, respectively, and was $0.2 million and $0.4 million for the three and six months ended December 31, 2004, respectively. The gross
+carrying amount of trademarks includes $6.0 million of an acquired tradename with an indefinite life not amortized but tested annually for impairment. Included in the gross carrying amount and accumulated amortization of the Company s customer
+lists component of intangible assets is the effect of the foreign currency translation of the portion relating to the Company s German subsidiary. At December 31, 2005, the estimated amortization expense for existing intangible assets for
+each of the five succeeding fiscal years is as follows:         
+       
+   13   
+
+Table of Contents  
+
+Note H -      
+    Debt                 The components of debt were as follows ($000 s):         
+          On December 10, 2004, the Company
+replaced its $45.0 million secured credit facility with a $60.0 million secured credit facility in connection with the Company s acquisition of Marlow. This facility has a five-year term and contains a term loan in the original amount of $30.0
+million and a $30.0 million line of credit. The facility is collateralized by a pledge of 65% of the stock of certain of the Company s foreign subsidiaries. Additionally, the facility is subject to certain restrictive covenants, including those
+relating to minimum net worth, leverage and consolidated debt service coverage. The facility has an interest rate range of LIBOR plus 0.75% to LIBOR plus 1.50%. Principal payments of $1.9 million under the term loan are payable in quarterly
+installments beginning January 1, 2006. The weighted average interest rate of borrowings under this credit agreement was 4.4% and 3.6% for the six months ended December 31, 2005 and 2004, respectively. The Company had available $22.4
+million under its line of credit as of December 31, 2005. The amounts available under the Company s line of credit are reduced by outstanding letters of credit. At December 31, 2005 and June 30, 2005, total outstanding letters of
+credit supported by the credit facility were $0.6 million and $0.5 million, respectively. The Company has a 300 million Yen loan. This loan matures on September 25, 2007. Interest is at a rate equal to the Japanese Yen Base Rate, as
+defined in the loan agreement, plus 1.49%. The Japanese Yen Base Rate was 0.07% at December 31, 2005 and June 30, 2005.         
+   14   
+
+Table of Contents  
+
+Note I -      
+    Earnings Per Share                 The following table sets forth the computation of earnings per share for the periods indicated. Weighted average shares issuable upon the exercise of stock options that
+were not included in the calculation because they were antidilutive were immaterial for all periods presented (000 except per share data):         
+
+Note J-   
+     Comprehensive Income                The components of comprehensive income were as follows for the periods indicated ($000):         
+       
+   15   
+
+Table of Contents  
+
+Note K -    
+    Segment and Geographic Reporting                 The Company reports its segments using the  management approach  model for segment reporting. The management approach model is based on the way a company s
+management organizes segments within the company for making operating decisions and assessing performance. Reportable segments are based on products and services, geography, legal structure, management structure or any other manner in which
+management segregates a company.            The Company s reportable segments offer
+similar products to different target markets. The segments are managed separately due to the production requirements and facilities that are unique to each segment. The Company has the following reportable segments: Infrared Optics, which is the
+Company s infrared optics and material products businesses and remaining corporate activities, primarily corporate assets, capital expenditures and stock-based compensation; Near-Infrared Optics, which is the Company s VLOC subsidiary, the
+Suzhou, China and Vietnam near-infrared operations; Military Infrared Optics, which is the Company s Exotic Electro-Optics subsidiary; and the Compound Semiconductor Group which is the aggregation of Marlow, the eV PRODUCTS division, the Wide
+Bandgap Materials (WBG) group and the Advanced Material Development Center (AMDC) group (which is responsible for the corporate research and development activities).            The Infrared Optics segment is divided into geographic locations in the United States, Singapore, China, Germany, Switzerland, Japan,
+Belgium and the United Kingdom. An Executive Vice-President of the Company directs the segment, while each geographic location is directed by a general manager, and is further divided into production and administrative units that are directed by
+managers. The Infrared Optics segment designs, manufactures and markets optical and electro-optical components and materials sold under the II-VI Infrared and II-VI brand names and used primarily in high-power CO   2    lasers.            The Near-Infrared Optics segment is located in the United States, China and Vietnam. The Near-Infrared Optics segment is directed by a general manager. The Near-Infrared Optics segment is further divided into
+production and administrative units that are directed by managers. The Near-Infrared Optics segment designs, manufactures and markets near-infrared and visible-light products for industrial, scientific, military and medical instruments and laser
+gain material and products for solid-state Yttrium Aluminum Garnet and Yttrium Lithium Fluoride lasers.            The Military Infrared Optics segment is located in the United States. The Military Infrared Optics segment is directed by a general manager with oversight by a Corporate Vice-President. The Military Infrared Optics
+segment is further divided into production and administrative units that are directed by managers. The Military Infrared Optics segment designs, manufactures and markets infrared products for military applications under the Exotic Electro-Optics
+brand name.            The Compound Semiconductor Group is located in the United States,
+the United Kingdom, Japan and Vietnam. The Compound Semiconductor Group segment is directed by a Corporate Vice-President. Marlow designs and manufacturers thermoelectric cooling and power generation solutions for use in defense and space,
+telecommunications, medical, consumer and industrial markets. eV PRODUCTS division manufactures and markets solid-state x-ray and gamma-ray sensor materials and products for use in medical, security monitoring, industrial, environmental and
+scientific applications. WBG group manufactures and markets single crystal silicon carbide substrates for use in solid-state lighting, wireless infrastructure, radio frequency (RF) electronics and power switching industries. AMDC group directs the
+corporate research and development initiatives.            The accounting policies of the
+segments are the same as those of the Company. Substantially all of the Company s corporate expenses are allocated to the segments. The Company evaluates segment performance based upon reported segment earnings or loss, which is defined as
+earnings before income taxes, interest and other income or expense. Inter-segment sales and transfers have been eliminated.         
+   16   
+
+Table of Contents  
+
+   The following table summarizes selected financial information of the Company s operations by segment ($000 s):
+
+17   
+
+Table of Contents  
+
+Note L -    
+    Derivative Instruments                SFAS No. 133,  Accounting for Derivative Instruments and Hedging Activities , as amended, establishes accounting and reporting standards for derivative
+instruments and hedging activities. It requires that an entity recognize all derivatives as either assets or liabilities in the statement of financial position and measure those instruments at fair value.            The Company from time-to-time purchases foreign currency forward exchange contracts,
+primarily in Japanese Yen, that permit it to sell specified amounts of these foreign currencies expected to be received from its export sales for pre-established U.S. dollar amounts at specified dates. These contracts are entered into to limit
+transactional exposure to changes in currency exchange rates of export sales transactions in which settlement will occur in future periods and which otherwise would expose the Company, on the basis of its aggregate net cash flows in respective
+currencies, to foreign currency risk.         
+   18   
+
+Table of Contents  
+
+   The Company recorded the fair value of contracts with a notional amount of approximately $5.1 million and $3.0 million as
+of December 31, 2005 and June 30, 2005, respectively, on the statement of financial position. The Company does not account for these contracts as hedges as defined by SFAS No. 133 and records the change in the fair value of these
+contracts in other income, net in the results of operations as they occur. The change in the fair value of these contracts decreased net earnings by $21,000 and $168,000 for the three months ended December 31, 2005 and 2004, respectively. The
+change in the fair value of these contracts increased net earnings by $31,000 and decreased net earnings by $91,000 for the six months ended December 31, 2005 and 2004, respectively.            To satisfy certain provisions of its credit facility, on March 8, 2005 the Company entered into one-year interest rate cap agreements
+with a total notional amount of $15.0 million. These agreements were entered into to limit interest rate exposure on one-half of the remaining outstanding balance of the Company s term loan under the credit agreement. The floating rate option
+for the interest rate cap agreements is the one-month LIBOR rate. $10.0 million of the notional amount has a cap strike rate of 4.00% while $5.0 million of the notional amount has a cap strike rate at 3.50%. At December 31, 2005 the one-month
+LIBOR rate was 4.39%. The Company has elected not to account for these agreements as hedges as defined by SFAS No. 133 but instead recorded the unrealized change in the fair value of these agreements as an increase or decrease to interest
+expense in the results of operations. The effect of these interest rate cap agreements on net earnings for the three and six months ended December 31, 2005 was insignificant.         
+
+Note M -    
+    Warranty Reserve                The Company records a warranty reserve as a charge against earnings based on a percentage of sales utilizing actual returns over the last twelve months.            The following table summarizes the change in the carrying value of the Company s
+warranty reserve as of and for the six months ended December 31, 2005 ($000) and is included in other accrued liabilities in the Condensed Consolidated Balance Sheets.         
+
+Note N -    
+    Investment in 5N Plus, Inc.                During the year ended June 30, 2002, the Company acquired for $1.7 million a 25% ownership interest in 5NPlus, Inc., a supplier to the Company. In July 2002, the
+Company increased its ownership interest to 33% as a result of a loan conversion to equity in accordance with the original purchase agreement in the amount of $0.4 million. In April 2005, the Company increased its ownership to 36% as a result of
+acquiring a pro-rata ownership percentage of an exiting shareholder for $0.2 million. This investment is accounted for under the equity method of accounting.            At December 31, 2005 and June 30, 2005, the Company had outstanding notes receivable of approximately $0.5 million from equipment and supply agreements with
+this supplier. Payments on these notes are made quarterly with interest calculated at the Canadian Prime Rate plus 1.50% on the unpaid balance. Raw materials purchased from this supplier were $0.2 million and $0.6 million for the three and six
+months ended December 31, 2005, respectively and were $0.1 million and $0.5 million for the three and six months ended December 31, 2004, respectively. The Company s pro rata share of the earnings from this investment and the interest
+received from these agreements was approximately $0.1 million for both the three and six months ended December 31, 2005 and was $0.1 million for both the three and six months ended December 31, 2004.         
+   19   
+
+Table of Contents  
+
+Note O -      
+    Legal Proceedings                The Company and its subsidiaries are involved in various claims and lawsuits incidental to the business. In addition, during the quarter ended September 30, 2003,
+the Company was awarded a jury verdict in the amount of $0.8 million in a trade secret lawsuit which it had initiated. The Company and the defendant appealed the decision by the lower court and the appeals have been exhausted. During the quarter
+ended September 30, 2005, the Company received the verdict award in the amount of $0.8 million and recorded this amount in other income, net in the Consolidated Statements of Earnings.         
+
+Note P -    
+    Stock Repurchase Program                On May 18, 2005, the Board of Directors authorized the Company to purchase up to 500,000 shares of its Common Stock. The repurchase program calls for shares to be
+purchased in the open market or in private transactions from time-to-time. The Company may suspend or discontinue this purchase program at any time. Shares purchased by the Company will be retained as treasury stock and will be available for general
+corporate purposes. The Company repurchased 38,400 shares of common stock totaling $0.7 million under the share repurchase program as of December 31, 2005. During the three and six months ended December 31, 2005 the Company repurchased
+27,400 shares totaling $0.5 million. The Company expects the repurchase of shares over time to at least partially offset the dilutive effect of the issuance of shares from the Company s stock option plan.         
+
+Item 2.   
+   MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS                 Forward-Looking Statements              This Management s Discussion and Analysis contains forward-looking statements as defined by Section 21E of the Securities Exchange Act of 1934, as amended,
+including the statements regarding projected growth rates, markets, product development, financial position, capital expenditures and foreign currency exposure. Forward-looking statements are also identified by words such as  expects, 
+ anticipates,   intends,   plans,   projects  or similar expressions.            Actual results could materially differ from such statements due to the following factors: materially adverse changes in economic or industry conditions generally (including capital markets) or in the markets served by
+the Company, the development and use of new technology and the actions of competitors.            There are additional risk factors that could affect the Company s business, results of operations or financial condition. Investors are encouraged to review the risk factors set forth in the Company s most recent Form 10-K as
+filed with the Securities and Exchange Commission on September 9, 2005.              Introduction              The Company generates revenues, earnings
+and cash flows from developing, manufacturing and marketing high technology materials and derivative products for precision use in industrial, medical, military, security and aerospace applications. We also generate revenue, earnings and cash flows
+from external customer and government funded research and development contracts relating to the development and manufacture of new technologies, materials and products.            Our customer base includes original equipment manufacturers (OEM), laser end users, system integrators of high-power lasers, manufacturers
+of equipment and devices for industrial, security and monitoring applications, x-ray imaging manufacturers, U.S. government prime contractors, various U.S. government agencies and thermoelectric solutions suppliers.         
+   20   
+
+Table of Contents  
+
+   The following discussion and analysis includes three and six months of financial results for the period ended
+December 31, 2005 of the Company s recently acquired Marlow Industries, Inc. subsidiary included in the Compound Semiconductor Group. The three and six months ended December 31, 2004 includes one month of financial results of Marlow
+as the entity was acquired in December 2004.            All per share data for this year
+and former periods cited in this discussion and analysis have been adjusted to reflect the two-for-one split of the Company s common shares paid as a stock dividend to shareholders of record on March 2, 2005 and distributed on
+March 22, 2005.              Critical Accounting Policies              The preparation of financial statements and related disclosures in conformity with
+accounting principles generally accepted in the United States of America and the Company s discussion and analysis of its financial condition and results of operations requires the Company s management to make judgments, assumptions, and
+estimates that affect the amounts reported in its consolidated financial statements and accompanying notes. Note A of the Notes to Consolidated Financial Statements in the Company s most recent Form 10-K describes the significant accounting
+policies and methods used in the preparation of the Company s consolidated financial statements. Management bases its estimates on historical experience and on various other assumptions that it believes to be reasonable under the circumstances,
+the results of which form the basis for making judgments about the carrying values of assets and liabilities. Actual results may differ from these estimates.            Management believes the Company s critical accounting policies are those related to revenue recognition, allowance for doubtful accounts, warranty reserves,
+inventory valuation, valuation of long-lived assets including acquired intangibles and goodwill, accrual of bonus and profit sharing estimates, accrual of income tax liability estimates, workers compensation accrual for our self-insurance program,
+and accounting for share based payment. Management believes these policies to be critical because they are both important to the portrayal of the Company s financial condition and results of operations, and they require management to make
+judgments and estimates about matters that are inherently uncertain.            The
+Company adopted Statement of Financial Accounting Standards No. 123 (revised 2004), ( SFAS 123R )  Share-Based Payment,  effective July 1, 2005. SFAS 123R requires the recognition of the fair value of stock compensation
+in net earnings. The Company recognizes the stock compensation expense over the requisite service period of the individual grantees, which generally equals the vesting period. Prior to July 1, 2005, the Company followed Accounting Principles
+Board ( APB ) Opinion 25,  Accounting for Stock Issued to Employees,  and related interpretations in accounting for its stock compensation.         
+  The Company elected the modified retrospective transition method for adopting SFAS 123R. Under this method, all prior period financial statements were restated
+effective July 1, 2005 to recognize compensation cost in the amounts previously reported in the Notes to Consolidated Financial Statements. The Consolidated Balance Sheet at June 30, 2005 has been restated for the modified retrospective
+adoption of SFAS 123R resulting in a $7.2 million increase in common stock, a $5.6 million reduction in retained earnings and a $1.6 million increase in deferred tax asset.            Under the provisions of SFAS 123R, the Company recorded $0.3 million and $1.0 million in stock compensation expense in its condensed
+Consolidated Statements of Earnings for the three and six months ended December 31, 2005, respectively, and $0.5 million and $1.0 million for the three and six months ended December 31, 2004, respectively. The stock compensation expense is
+allocated 35% to cost of goods sold and 65% to selling, general and administrative expense in the Condensed Consolidated Statements of Earnings based upon the employee classification of the Grantee. The Company utilized the Black-Scholes valuation
+model for estimating the fair value of the stock compensation expense. During the six months ended December 31, 2005 and 2004, the weighted-average fair value of options granted under the stock option plan was $10.82 and $11.02, respectively,
+per option using the following assumptions:         
+   21   
+
+Table of Contents  
+
+The risk-free interest rate is derived
+from the average U.S. Treasury Note rate during the period, which approximates the rate in effect at the time of grant related to the expected life of the options. Expected volatility is based on the historical volatility of the Company s
+common stock over the period commensurate with the expected life of the options. The expected life calculation is based on the observed time to post-vesting exercise and/or forfeitures of options by our employees. The dividend yield of zero is based
+on the fact the Company never paid cash dividends and has no intention to pay cash dividends in the future. The estimated annualized forfeitures are based on the Company s historical experience of option pre-vesting cancellations and are
+estimated at a rate of 22%. Under the provisions of SFAS 123R, the Company will record additional expense if the actual forfeiture rate is lower than estimated, and will record a recovery of prior expense if the actual forfeitures are higher than
+estimated. See also Note B to the Condensed Consolidated Financial Statements for a discussion of the Company s stock option and incentive plans.            As of December 31, 2005, there have been no other significant changes with regard to the critical accounting policies disclosed in Management s Discussion and
+Analysis of Financial Condition and Results of Operations in our Annual Report on Form 10-K for the year ended June 30, 2005.              Results of Operations                Overview ($000 s except per share data)           
+          Net earnings for the second quarter of
+fiscal 2006 were $5,180,000 ($0.17 per share-diluted) on revenues of $53,827,000. This compares to net earnings of $5,394,000 ($0.18 per share-diluted) on revenues of $43,213,000 in the second quarter of fiscal 2005. For the six months ended
+December 31, 2005, net earnings were $11,929,000 ($0.40 per share-diluted) on revenues of $108,218,000. This compares to net earnings of $11,033,000 ($0.37 per share-diluted) on revenues of $83,720,000 for the six months ended December 2004.
+The decrease in net earnings for the second quarter of fiscal 2006 compared to the same quarter last fiscal year was impacted by several factors. The Company s Infrared Optics segment had lower revenues in the current quarter than in the prior
+quarter due to throughput delays caused by rerouting coating work from the Company s Singapore coating facility to the Saxonburg, Pennsylvania coating facility and a change in the infrared product mix resulting in increased shipments of lower
+margin optics as compared to the prior quarter. The Company s Military Infrared Optics segment experienced higher than usual scrap and rework costs which impacted profitability for both established and new products. Net earnings were also
+negatively impacted by reduced revenues from the Company s Near-Infrared Optics segment which experienced a decrease in revenues of 12% compared to the same quarter last fiscal year. In addition, energy costs and critical raw materials utilized
+in the  
+       
+   22   
+
+Table of Contents  
+
+Company s crystal growth and production processes continue to increase and negatively impact earnings. Net earnings for the second quarter of fiscal
+2006 was positively impacted by a reduction in the effective income tax rate to 24.3% compared to 27.0% in the second quarter last fiscal year due to a lowering of projected income from United States source income and an increase of foreign source
+income. For the six months ended December 31, 2005, the increase in net earnings was primarily attributed to a 29% increase in revenues compared to the same six month period last fiscal year which offset the factors impacting net earnings
+during the three months ended December 31, 2005.            Net earnings were
+impacted for all periods presented from the Company s adoption of SFAS 123R related to the Company s share based payments. The Company recognized after-tax expense of $0.2 million and $0.7 million of stock option compensation in the
+Consolidated Statements of Earnings for the three and six months ended December 31, 2005, respectively and $0.4 million and $0.7 million for the three and six months ended December 31, 2004, respectively. The stock compensation expense of
+$0.3 million and $1.0 million for the three and six months ended December 31, 2005, respectively, and $0.5 million and $1.0 million for the three and six months ended December 31, 2004 is allocated 35% to cost of goods sold and 65% to
+selling, general and administrative expense in the Condensed Consolidated Statements of Earnings based upon the employee classification of the Grantee.            Bookings for the second quarter of fiscal 2006 increased 27% to $62,688,000 compared to $49,380,000 for the same period last fiscal year. Bookings are defined as customer
+orders received that are expected to be converted to revenues over the next twelve months. For long-term customer orders, the Company does not include in bookings the portion of the customer order that is beyond 12 months due to the inherent
+uncertainty of an order that far out in the future. Bookings for the six months ended December 31, 2005 increased 40% to $122,005,000 compared to $86,912,000 for the same period last fiscal year. The increase in bookings for the current fiscal
+three and six month periods compared to the same periods last fiscal year is primarily due to increased product demand across all of the Company s business segments. The Company s Near-Infrared Optics segment reported the strongest
+increase in bookings for the three and six month periods at 89% and 47%, respectively, due to receiving a large order for the segment s UV filter product line used to assist aircraft in the early detection of missile threats. Infrared Optics
+bookings increased 16% for both the current fiscal three and six month periods compared to the same periods last fiscal year due to the continued demand for high power replacement laser optics and laser optic materials. The Company s Compound
+Semiconductor Group s bookings for the current fiscal six month period increased $16.4 million compared to the prior fiscal six month period due primarily to the bookings from the Company s Marlow subsidiary which the Company acquired in
+December 2004. Bookings for the Company s Military Optics segment increased 13% and 30% for the three and six month periods, respectively, as compared to the same periods last fiscal year due to the segment s heritage programs such as the
+Apache helicopter targeting system and other programs experiencing repair and replacement of these weapon systems due to the current military deployment.            Bookings, revenues and segment earnings (loss) for the Company s reportable segments are discussed below. Segment earnings is a non-GAAP financial measure and
+differs from income from operations in that segment earnings excludes certain operational expenses included in other income   net as reported. Management believes segment earnings to be a useful measure as it reflects the results of segment
+performance over which management has direct control. See also Note K to the condensed Consolidated Financial Statements for further information on the Company s reportable segments and the reconciliation of segment earnings to earnings before
+income taxes.              Infrared Optics ($000 s)           
+       
+   23   
+
+Table of Contents  
+
+   Bookings for the second quarter of fiscal 2006 for Infrared Optics increased 16% to $30,301,000 from $26,070,000 in the
+second quarter of last fiscal year. Bookings for the six months ended December 31, 2005 increased 16% to $56,854,000 from $49,056,000 for the same period last fiscal year. Demand from OEM s, who utilize infrared optics in their laser
+systems, continues to strengthen across all markets serviced. Demand is expected to remain strong in the near-term as manufacturing companies worldwide continue to invest in laser equipment to increase productivity and lower costs. In addition,
+bookings for the segment s zinc selenide and zinc sulfide materials have increased compared to the same periods last fiscal year as market demand for these materials continue to strengthen.            Revenues for the second quarter of fiscal 2006 for Infrared Optics increased 14% to
+$26,708,000 from $23,513,000 in the second quarter of last fiscal year. Revenues for the six months ended December 31, 2005 increased 19% to $55,605,000 from $46,578,000 for the same period last fiscal year. The increase in revenues for the
+current fiscal three and six month periods compared to the same periods last fiscal year is driven by demand from both the Company s OEM and aftermarket customers. In particular, revenues from OEM customers in Japan, Germany and Switzerland
+have been strong. In addition, the segment has experienced increased material sales used in various military programs.            Segment earnings for the second quarter decreased 1% to $7,086,000 from $7,159,000 in the second quarter of last fiscal year. Despite the increase in revenues for the
+current fiscal three months of approximately $3.2 million compared to the same period last fiscal year, segment earnings were negatively impacted by several factors including a shift in the sales mix from higher margin products to lower margin
+products as compared to the same period last fiscal year. In addition, the segment experienced short-term production challenges and throughput issues relating to its coating operations, continued increases in raw material and energy costs and
+increased levels of overhead associated with the segment s recent expansion of the Saxonburg and Singapore manufacturing facilities. During the current quarter, the weakening Japanese Yen also negatively impacted our gross margins. Segment
+earnings for the six months ended December 31, 2005 increased 11% to $15,817,000 from $14,256,000 for the same period last fiscal year. The improvement in segment earnings for the current fiscal six month period as compared to the same period
+of the last fiscal year was primarily due to increased sales volume.              Near-Infrared Optics ($000 s)           
+          Bookings for the second quarter of
+fiscal 2006 for Near-Infrared Optics increased 89% to $17,039,000 from $9,015,000 in the second quarter of last fiscal year. Bookings for the six months ended December 31, 2005 increased 47% to $23,622,000 as compared to $16,070,000 for the
+same period last fiscal year. The overall increase in bookings was primarily due to the receipt of a large booking during the current fiscal three month from the Company s UV filter product line used to assist aircraft in the early detection of
+missile threats. In addition, the Near-Infrared Optics segment experienced increases in bookings from medical and instrumentation related optics.         
+   24   
+
+Table of Contents  
+
+   Revenues for the second quarter of fiscal 2006 for Near-Infrared Optics decreased 12% to $7,283,000 compared to
+$8,313,000 in the second quarter of last fiscal year. Revenues for the six months ended December 31, 2005 was consistent at $15,981,000 compared to $16,060,000 for the same period last fiscal year. Shipments from the segment s crystal
+products and Yttrium Aluminum Garnet (YAG) product lines were lower compared to the same period last fiscal year. In addition, the segment recognized lower contract revenue in the current period compared to the same period last fiscal year as well
+as decreased demand from military applications.            Segment earnings for the
+second quarter of fiscal 2006 decreased 55% to $238,000 from $531,000 in the second quarter of last fiscal year. Segment earnings for the six months ended December 31, 2005 increased 7% to $1,071,000 from $997,000 for the same period last
+fiscal year. The primary contributor to the decrease in segment earnings for both the three and six month periods of the current fiscal year compared to the same periods last fiscal year was lower than anticipated revenues from the UV filter, YAG
+and crystal product lines. In addition, production yields and increased operating costs relating to utilities, repairs and maintenance and other outside service costs also impacted segment earnings negatively.              Military Infrared Optics ($000 s)           
+          Bookings for the second quarter of
+fiscal 2006 for Military Infrared Optics increased 13% to $5,981,000 as compared to $5,275,000 in the second quarter of last fiscal year. Bookings for the six months ended December 31, 2005 increased 30% to $14,213,000 as compared to
+$10,917,000 for the same period last fiscal year. The increase in the segment s bookings for both the current fiscal three and six month periods compared to the same periods last fiscal year was due to increased demand for long-running heritage
+programs such as the Apache Helicopter and demand for repair and replacement parts for weapon systems due to the current military conflicts in the Middle East. In addition, the segment s sapphire product bookings for the current fiscal six
+months have increased from the same period last fiscal year as the segment continues to make technological advancement on this challenging product line.            Revenues for the second quarter of fiscal 2006 for Military Infrared Optics increased 18% to $7,920,000 compared to $6,684,000 in the second quarter last fiscal year.
+Revenues for the six months ended December 31, 2005 increased 8% to $14,099,000 compared to $13,095,000 for the same period last fiscal year. The increase in revenues for the current fiscal three and six month periods compared to the same
+periods last fiscal year was primarily attributed to increased shipments of the segment s sapphire window shrouds for the Advanced Targeting Pod or ATP Sniper program and the Joint Strike Fighter product line as well as the segment s core
+military programs including the Apache Helicopter advanced targeting system, commonly referred to as the Arrowhead Program.            Segment loss for the second quarter of fiscal 2006 was $382,000 compared to segment earnings of $358,000 for the same period last fiscal year. The segment loss for the
+six months ended December 31, 2005 was $906,000 compared to segment earnings of $639,000 for the same period last fiscal year. The segment losses for the current fiscal three and six month periods compared to segment earnings from the same
+periods last fiscal year were primarily driven by lower than normal production yields and increased scrap costs associated with the segment s Javelin and Arrowhead Programs. The Javelin program is nearing completion with the remaining backlog
+for this program to be completed by the end of fiscal 2006. The segment is continuing to ramp up production on the Arrowhead Program and anticipates continued production challenges associated with this program.         
+   25   
+
+Table of Contents  
+
+     Compound Semiconductor Group ($000's)           
+          The Company s Compound
+Semiconductor Group includes the combined operations of the Company s Marlow subsidiary, eV PRODUCTS division, the Company s WBG group and the Company s AMDC group.            Bookings for the second quarter of fiscal 2006 for the Compound Semiconductor Group were $9,367,000 as compared to $9,020,000 in the second
+quarter of last fiscal year. Bookings for the six months ended December 31, 2005 were $27,316,000 compared to $10,869,000 for the same period last fiscal year. Included in the current fiscal three and six months bookings were approximately $6.9
+million and $20.0 million, respectively, from Marlow which the Company acquired in December 2004. The Group s eV PRODUCTS division experienced a decrease in bookings of approximately $2.6 million for the current fiscal three months compared to
+the same period last fiscal year due to the acceleration of a $2.2 million orders received from the Company s major medical customer in the first quarter of fiscal 2006. The prior year s blanket order for this customer was received in the
+second fiscal 2005 quarter. For the six months ended December 31, 2005, eV PRODUCTS bookings increased approximately 6% compared to the same period last fiscal year as higher demand is being realized from the Company s core OEM customers
+in the medical, industrial and security markets. The Group s WBG Group received a $0.6 million contract during the three months ended December 31, 2005 from the Missile Defense Agency and the Air Force Research Labs for the continued
+development of next-generation silicon carbide substrates.            Revenues for the
+second quarter of fiscal 2006 for the Compound Semiconductor Group were $11,916,000 compared to $4,703,000 in the second quarter of the last fiscal year. Revenues for the six months ended December 31, 2005 were $22,533,000 compared to
+$7,987,000 for the same period last fiscal year. Included in the current fiscal three and six month periods were revenues of approximately $8.9 million and $16.9 million respectively from Marlow. During the three and six months ended December 31,
+2004 Marlow recorded $2,320,000 of revenues. Demand for Marlow s products remains strong, especially in the defense and medical markets. eV PRODUCTS experienced an increase of revenues for the current fiscal three months compared to the same
+period last fiscal year of approximately 32% due to increased product demand from the Company s OEM customers in the medical, industrial and security markets. For the fiscal six months ended 2006, revenues from eV PRODUCTS and the WBG Group
+were consistent with the same period last fiscal year.            Segment earnings for
+the second quarter of fiscal 2006 of $247,000 improved from the segment loss of $774,000 in the second quarter of the prior fiscal year. The segment loss of $115,000 for the six months ended December 31, 2005 decreased from the segment loss of
+$1,320,000 for the same period last fiscal year. The improvement in the segment s performance for both the current three and six month periods was primarily attributable to the inclusion of Marlow s operations during the entire three and
+six months ended December 31, 2005 compared to only one month in both the three and six months ended December 31, 2004 as well as operating improvements from the Company s eV PRODUCTS division.         
+   26   
+
+Table of Contents  
+
+    Overall             Manufacturing gross margin, which is defined as net sales less cost of goods sold, for the second quarter of fiscal 2006 was $19,822,000 or 38% of net sales compared to
+$18,150,000 or 44% of net sales for the same period last fiscal year. Manufacturing gross margin for the six months ended December 31, 2005 was $41,240,000 or 40% of net sales compared to $35,341,000 or 45% of net sales for the same period last
+fiscal year. The decrease in gross margin percentage during the current three and six month periods compared to the same periods last fiscal year was due to several factors. The addition of Marlow has lowered gross margins as the historical gross
+margins of Marlow s product mix are lower than the overall gross margin of the Company before the Marlow acquisition. Selenium and other raw material price increases in our Infrared Optics segment negatively impacted gross margins as the prices
+of these materials are rising and expected to continue to increase over the near-term. Low production yields and high scrap costs experienced by the Military Infrared Optics segment and production challenges of our Infrared Optics segment also
+lowered gross margin. Finally, during the current quarter, the weakening Japanese Yen negatively impacted our gross margins.            Contract research and development gross margin, which is calculated as contract research and development revenues less contract research and development expenses, for the
+second quarter of fiscal 2006 was $634,000 or 31% of research and development revenues compared to a gross margin of $842,000 or 48% of research and development revenues for the same period last fiscal year. Contract research and development gross
+margin for the six months ended December 31, 2005 was $1,304,000 or 31% of research and development revenue compared to a gross margin of $1,217,000 or 27% of research and development revenue for the same period last fiscal year. The decrease
+in contract research and development gross margin during the current quarter compared to the same quarter last fiscal year was due to decreased profitability of several of the Military Infrared Optics segment contracts resulting from increased costs
+associated with production challenges and higher scrap costs. For the six months ended December 31, 2005, contract research and development gross margin is consistent with the same period last fiscal year. The contract research and development
+revenues and costs are a result of development efforts in the Near-Infrared Optics and the Military Infrared Optics segments as well as activities in the eV PRODUCTS division and the WBG group.            Company-funded internal research and development expenses for the second quarter of fiscal
+2006 were $1,966,000 or 4% of revenue compared to $1,584,000 or 4% of revenues for the same period last fiscal year. Company funded internal research and development expenses for the six months ended December 31, 2005 were $3,877,000 or 4% of
+revenues compared to $2,632,000 or 3% for the same period last fiscal year. The higher dollar expense is primarily the result of the internal research and development at our Marlow subsidiary, less externally funded contract activity at our silicon
+carbide operations and more corporate research and development expense at our AMDC operations. Company funded internal research and development expenses combined with externally funded research and development expenses for the second quarter of
+fiscal 2005 were $3,408,000 or 6% of revenue compared to $2,500,000 or 6% for the same period last fiscal year. Company funded internal research and development expenses combined with externally funded research and development expenses for the six
+months ended December 31, 2005 were $6,834,000 or 6% compared to $5,856,000 or 7% for the same period last fiscal year.            Selling, general and administrative expenses for the second quarter of fiscal 2006 were $11,301,000 or 21% of revenues compared to $10,134,000 or 23% of revenues for the
+same period last fiscal year. Selling, general and administrative expenses for the six months ended December 31, 2005 were $22,800,000 or 21% of revenues compared to $19,354,000 or 23% of revenues for the same period last fiscal year. From a
+percentage of revenue standpoint, the addition of Marlow and this business s selling general and administration cost structure has lowered this metric for the Company as a whole. In addition, the Company had lower professional services for
+legal related matters during the current fiscal three and six month periods compared to the same periods last fiscal year.         
+   27   
+
+Table of Contents  
+
+   Interest expense for the second quarter of fiscal 2006 was $450,000 compared to $88,000 for the same period last fiscal
+year. For the six months ended December 31, 2005, interest expense was $855,000 compared to $151,000 for the same period last fiscal year. The increase in interest expense for the current fiscal three and six months compared to the same periods
+last fiscal year was due to the increase in the Company s debt obtained to finance the Marlow acquisition in December 2004 and higher interest rates.            Other income for the second quarter of fiscal 2006 was $101,000 compared to other income of $203,000 for the same period last fiscal year. Other income for the second
+fiscal quarter of 2006 reflects several items including foreign currency gains, interest income and other income items partially offset by the minority interest from the 25% interest of II-VI LOT Suisse S.a.r.l. that the Company does not own. Other
+income for the six months ended December 31, 2005 was $1,398,000 compared to $694,000 of other income for the same period last fiscal year. For the current fiscal six month period, the increase in other income compared to the same period last
+fiscal year was due to the receipt of a $800,000 award from a jury verdict in favor of the Company in a trade secret lawsuit.            The Company s year-to-date effective income tax rate of 27.3% is consistent with the prior year s effective income tax rate of 27.0%.            The American Jobs Creation Act of 2004 (the Act), creates a temporary incentive for U.S.
+corporations to repatriate accumulated income earned abroad by providing an 85% dividends received deduction for certain dividends from controlled foreign corporations. The deduction is subject to a number of limitations and uncertainty remains as
+to how to interpret numerous provisions in the Act. The Company has not decided to what extent it might repatriate foreign earnings back to the United States.         
+    Liquidity and Capital Resources              Historically, our primary source of cash has been provided through operations. Other sources of cash include proceeds received from the exercise of stock options as well
+as through long-term borrowings. Our historical uses of cash have been for capital expenditures, purchases of businesses, payment of principal and interest on outstanding debt obligations and purchase of treasury stock. Supplemental information
+pertaining to our sources and uses of cash is presented as follows:              Sources (uses) of Cash:           
+          In the first six months of fiscal
+2006, cash provided by operations was approximately $14.2 million. The increase in cash was driven by the Company s net earnings of approximately $11.9 million along with depreciation and amortization of $7.7 million. The increase in cash was
+offset by working capital requirements of approximately $5.4 million.         
+   28   
+
+Table of Contents  
+
+   Net cash used in investing activities during the first six months of fiscal 2006 of approximately $11.1 million was
+primarily for property, plant and equipment expenditures of $9.6 million and the acquisition of the remaining 25% of II-VI Deutschland GmbH of $1.6 million. Net cash used in financing activities of $4.9 million was primarily the net payments on
+borrowings.            On December 10, 2004, the Company replaced its $45.0 million
+secured credit facility with a $60.0 million secured credit agreement in connection with the Company s acquisition of Marlow. This facility has a five-year term and contains a term loan in the original amount of $30.0 million and a $30.0
+million line of credit. The facility is collateralized by a pledge of 65% of the stock of certain of the Company s foreign subsidiaries. Additionally, the facility is subject to certain restrictive covenants, including those relating to minimum
+net worth, leverage and consolidated debt service coverage. The facility has an interest rate range of LIBOR plus 0.75% to LIBOR plus 1.50%. Principal payments of $1.9 million under the term loan are payable quarterly beginning January 1, 2006.
+The weighted average interest rate of borrowings under this credit agreement was 4.4% for the six months ended December 31, 2005. The Company had available $22.4 million under its line of credit as of December 31, 2005. The amounts
+available under the Company s line of credit are reduced by outstanding letters of credit. At December 31, 2005, total outstanding letters of credit supported by the credit facility were $0.6 million.            On May 18, 2005, the Board of Directors authorized the Company to purchase up to 500,000
+shares of its Common Stock. The repurchase program calls for shares to be purchased in the open market or in private transactions from time-to-time. The Company may suspend or discontinue this purchase program at any time. Shares purchased by the
+Company will be retained as treasury stock and will be available for general corporate purposes. The Company repurchased 38,400 shares of common stock totaling $0.7 million under the share repurchase program as of December 31, 2005. During the
+three months ended December 31, 2005 the Company repurchased 27,400 shares totaling $0.5 million. The Company expects the repurchase of shares over time to at least partially offset the dilutive effect of the issuance of shares from the
+Company s stock option plan.            Our cash position, borrowing capacity and
+debt obligations are as follows:              ($000)           
+          The Company believes cash flow from
+operations, existing cash reserves and available borrowing capacity will be sufficient to fund its working capital needs, capital expenditures, scheduled debt payments, treasury stock repurchases and internal growth for fiscal 2006.         
+   29   
+
+Table of Contents  
+
+    Contractual Obligations          
+  The following table presents information about our contractual obligations and commitments as of December 31, 2005.             Tabular-Disclosure of Contractual Obligations          
+
+(1)     
+  Variable rate interest obligations are based on the interest rate in place at December 31, 2005.           
+
+Item 3.   
+   QUANTITATIVE AND QUALITATIVE DISCLOSURE ABOUT MARKET RISK                Foreign Exchange Risks             The Company is exposed to market risks arising from adverse changes in foreign currency exchange rates and interest rates. In the normal course of business, the Company uses a variety of techniques and derivative
+financial instruments as part of its overall risk management strategy primarily focused on its exposure to the Japanese Yen. No significant changes have occurred in the techniques and instruments used other than those described below.            The Company also has transactions denominated in Euros and Pounds Sterling. Changes in the
+foreign currency exchange rates of these currencies did not have a material impact on the results of operations for the quarter ended December 31, 2005.            In the normal course of business, the Company enters into foreign currency forward exchange contracts with its banks. The purpose of these contracts is to hedge ordinary
+business risks regarding foreign currencies on product sales. Foreign currency exchange contracts are used to limit transactional exposure to changes in currency rates. The Company enters into foreign currency forward contracts that permit it to
+sell specified amounts of foreign currencies expected to be received from its export sales for pre-established U.S. dollar amounts at specified dates. The forward contracts are denominated in the same foreign currencies in which export sales are
+denominated. These contracts provide the Company with an economic hedge in which settlement will occur in future periods and which otherwise would expose the Company to foreign currency risk. The Company monitors its positions and the credit ratings
+of the parties to these contracts. While the Company may be exposed to potential losses due to risk in the event of non-performance by the counterparties to these financial instruments, it does not anticipate such losses. The Company entered into a
+300 million Yen loan in September 2002 in an effort to minimize the foreign currency exposure in Japan. A change in the interest rate of 1% for this Yen loan would have changed the interest expense by approximately $7,000 and $13,000 for the
+three months and six months ended December 31, 2005, respectively, and a 10% change in the Yen to dollar exchange rate would have changed revenues in the range from a decrease of $418,000 to an increase of $551,000 for the three months ended
+December 31, 2005, and in the range from a decrease of $842,000 to an increase of $1,035,000 for the six months ended December 31, 2005.         
+   30   
+
+Table of Contents  
+
+   For II-VI Singapore Pte., Ltd. and its subsidiaries and the Company s majority-owned subsidiary II-VI LOT Suisse
+S.a.r.l., the functional currency is the U.S. dollar. Gains and losses on the remeasurement of the local currency financial statements are included in net earnings. Foreign currency remeasurement (losses) gains were ($4,000) and $348,000 for the
+three and six months ended December 31, 2005, respectively, and ($35,000) and $156,000 for the three and six months ended December 31, 2004, respectively.            For all other foreign subsidiaries, the functional currency is the local currency. Assets and liabilities of those operations are translated
+into U.S. dollars using period-end exchange rates; while income and expenses are translated using the average exchange rates for the reporting period. Translation adjustments are recorded as accumulated other comprehensive income within
+shareholders  equity.             Interest Rate Risks             To satisfy certain provisions of its credit facility, on March 8, 2005 the Company
+entered into one-year interest rate cap agreements with a total notional amount of $15.0 million. These agreements were entered into to limit interest rate exposure on one-half of the remaining outstanding balance of the Company s term loan
+under the credit agreement. The floating rate option for the interest rate cap agreements is the one-month LIBOR rate. $10.0 million of the notional amount has a cap strike rate of 4.00% while $5.0 million of the notional amount has a cap strike
+rate of 3.50%. At December 31, 2005 the one-month LIBOR rate was 4.39%. The Company has elected not to account for these agreements as hedges as defined by SFAS No. 133 but instead recorded the unrealized change in the fair value of these
+agreements as an increase or decrease to interest expense in the results of operations. The effect of these interest rate caps on net earnings for the three and six months ended December 31, 2005 was insignificant. As of December 31, 2005,
+the total borrowings of $39.9 million included a $30.0 million term loan, $7.0 million under a line of credit, $2.6 million loan denominated in Japanese Yen and a $0.3 million Pennsylvania Industrial Development Authority (PIDA) term note. As such,
+the Company is exposed to changes in interest rates. A change in the interest rate of 1% would have changed the interest expense by approximately $0.1 million and $0.2 million for the three and six months ended December 31, 2005, respectively.
+
+Item 4.   
+   CONTROLS AND PROCEDURES               The Company s management evaluated, with the participation of Carl J. Johnson, the Company s Chairman and Chief Executive Officer, and Craig A. Creaturo, the
+Company s Chief Financial Officer and Treasurer, the effectiveness of the Company s disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) as of the end of the period covered by this quarterly report
+on Form 10-Q. The Company s disclosure controls were designed to provide reasonable assurance that information required to be disclosed in reports that we file or submit under the Securities Exchange Act of 1934 is recorded, processed,
+summarized and reported within the time periods specified in the rules and forms of the Securities and Exchange Commission. It should be noted that the design of any system of controls is based in part upon certain assumptions about the likelihood
+of future events, and there can be no assurance that any design will succeed in achieving its stated goals under all potential future conditions, regardless of how remote. However, the controls have been designed to provide reasonable assurance of
+achieving the controls  stated goals. Based on that evaluation, Messrs. Johnson and Creaturo concluded that the Company s disclosure controls and procedures are effective at the reasonable assurance level. There were no changes in the
+Company s internal control over financial reporting that occurred during the Company s most recent fiscal quarter that have materially affected or are reasonably likely to materially affect the Company s internal control over
+financial reporting.             PART II   OTHER INFORMATION          
+
+Item 1A.   
+   RISK FACTORS               Not yet applicable.         
+   31   
+
+Table of Contents  
+
+Item 2.   
+   
+  UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS               The following table provides information with respect to purchases of the Company s equity securities during the three months ended December 31, 2005.         
+
+(1)     
+  A share repurchase program for up to 500,000 shares was approved by the Board of Directors and announced on May 18, 2005. The repurchase program has no
+expiration date.              Additional repurchases of stock may occur from
+time-to-time depending upon factors such as the Company s cash flows and general market condition. While the Company expects to continue to repurchase shares of the Common Stock for the foreseeable future, there can be no assurance as to the
+timing or amount of such repurchase.         
+   32   
+
+Table of Contents  
+
+Item 4a.   
+   
+  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS               On November 4, 2005, the Company held its annual meeting of shareholders. The three matters voted upon at the annual meeting were (1) the election of three directors for a term to expire in 2008,
+(2) the ratification of the Audit Committee s selection of Deloitte   Touche LLP as the Company s independent registered public accounting firm for the fiscal year ending June 30, 2006 and (3) approval of the II-VI
+Incorporated 2005 Omnibus Incentive Plan.            Each of the nominees for director
+were reelected at the annual meeting. The following is a separate tabulation with respect to each director:         
+          The total number of votes cast on the
+ratification of the appointment of Deloitte   Touche LLP as the Company s independent registered public accounting firm for the fiscal year ending June 30, 2006 was 28,125,104 with 27,949,851 votes for, 147,258 votes against and
+27,995 votes abstaining.            The total number of votes cast regarding the approval
+of the II-VI Incorporated 2005 Omnibus Incentive Plan was 22,786,237 with 20,497,868 votes for 2,013,900 votes against and 274,469 votes abstaining.            There were no broker non-votes on these matters.         
+
+Item 5.   
+   
+  OTHER INFORMATION               The Compensation
+Committee of the Board of Directors of the Company is expected to approve various award forms to be used to evidence grants of awards made under the II-VI Incorporated 2005 Omnibus Incentive Plan when it meets on February 11, 2006. The various
+forms of award, in the form expected to be approved and adopted by the Compensation Committee are attached as Exhibits 10.1, 10.2, 10.3, 10.4 and 10.5.         
+   33   
+
+Table of Contents  
+
+Item 6.   
+   EXHIBITS            
+       
+   34   
+
+Table of Contents  
+
+    SIGNATURES          
+  Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto
+duly authorized.         
+
+II-VI INCORPORATED     (Registrant)    
+
+Date: February 8, 2006  
+
+By:  
+     
+  /s/    C ARL  J. J OHNSON            
+
+Carl J. Johnson    
+
+Chairman and Chief Executive Officer    
+
+Date: February 8, 2006  
+
+By:  
+     
+  /s/    C RAIG  A. C REATURO            
+
+Craig A. Creaturo    
+
+Chief Financial Officer and Treasurer    
+       
+   35   
+
+Table of Contents  
+
+     EXHIBIT INDEX           
+       
+   36   
+
+<EX-10.01>
+ 2
+ dex1001.htm
+ NONQUALIFIED STOCK OPTION
+
+Nonqualified Stock Option 
+
+Exhibit 10.01              II-VI INCORPORATED        NONQUALIFIED STOCK OPTION          
+
+Granted to:
+
+No. of shares of II-VI Incorporated   
+ 
+  Social Security #:
+
+Common Stock:
+
+Grant Date:
+
+Option Price per share:
+ $                                        
+
+Expiration Date:
+
+THIS NONQUALIFIED
+STOCK OPTION is granted by II-VI Incorporated, a Pennsylvania corporation (the   Company   or   II-VI  ), to you (  Optionee  ), a director, employee or consultant of the Company or one of its
+subsidiaries, pursuant to the terms and conditions of the II-VI Incorporated 2005 Omnibus Incentive Plan, as amended from time to time (the   Plan  ), a summary of which has been delivered to you. The terms of the Plan are
+incorporated herein by this reference. This document shall constitute an Award Agreement as that term is defined in the Plan and is intended to be a Qualified Performance-Based Award within the meaning of Section 2.27 of the Plan. The Company
+recognizes the value of your continued service as a key employee and has awarded you this nonqualified stock option under the Plan, subject to the following terms and conditions:            1.  Grant . The Company hereby grants you on and as of the date specified above (the   Grant Date  ) a
+nonqualified stock option (  Option  ) to purchase from the Company the above stated number of shares of II-VI Common Stock, no par value, at the price per share stated above (the   Option Price  ), which is the fair
+market value of the of a share of Common Stock on the date hereof, which Option shall expire on the expiration date stated above (the   Expiration Date  ), unless it expires earlier in accordance with the terms hereof. The Expiration
+Date shall in no event be later that ten (10) years from the Grant Date.            2.  Vesting . The Option shall be exercisable, pursuant to the terms of the Plan and shall vest and become exercisable in installments, as follows:  [DESCRIBE VESTING SCHEDULE   e.g., twenty percent (20%)
+of the total number of shares subject to this Option shall become exercisable on each of the first, second, third, fourth and fifth anniversaries of the Grant Date] .            3.  Post-termination Exercise . Upon the termination of your employment with or service to the Company and its
+subsidiaries (for any reason other than (i) early, normal or late retirement as those terms are defined in the Company s profit sharing plan, (ii) death or (iii) total and permanent disability as defined in Section 105(d)(4) of the Internal
+Revenue Code), Options, whether or not then exercisable pursuant to paragraph 2 above, shall immediately lapse and become null and void on and as of the date of such termination. Upon the termination of your employment with or service to the Company
+and its subsidiaries due to (i) early, normal or late retirement as those terms are defined in the Company s profit sharing plan, (ii) death or (iii) total and permanent disability as defined in Section 105(d)(4) of the Internal Revenue Code,
+Options may be exercised post-termination during the applicable periods set forth in Section 5.9 of the Plan.   
+
+4.  Acceleration of Vesting .            4.1. All Options shall immediately vest and become exercisable immediately prior to a Change in Control. Any Options
+remaining unexercised upon a Change in Control shall lapse upon such Change in Control and shall be null and void. For purposes of this paragraph 4,   Change in Control   means (i) the consummation of any merger or consolidation as a
+result of which the common stock of the Company shall be changed, converted or exchanged (other than a merger with a wholly owned subsidiary of the Company) or any liquidation of the Company or any sale or other disposition of substantially all of
+the assets of the Company; or (ii) the consummation of any merger or consolidation to which the Company is a party as a result of which the persons (as that term is used in Sections 13(d) and 14(d)(2) of the Securities Exchange Act of 1934, as
+amended) who were stockholders of the Company immediately prior to the effective date of the merger or consolidation shall have beneficial ownership of less than a majority of the combined voting power for election of directors of the surviving
+corporation following the effective date of such merger or consolidation.            4.2. All Options shall immediately vest and become exercisable upon the termination of your employment with or service to the Company and its subsidiaries due to (i) early, normal or late retirement as those terms are
+defined in the Company s profit sharing plan, (ii) death or (iii) total and permanent disability as defined in Section 105(d)(4) of the Internal Revenue Code, and shall remain exercisable as set forth more fully in paragraph 3 above.
+           5.  Payment of Option Price . Any exercisable portion of
+the Option may be exercised in whole or in part, but in no event with respect to a fraction of a share, from time to time until the Expiration Date, unless otherwise terminated pursuant to the terms of the Plan or this Award Agreement. Exercise
+shall be by written notice of exercise to the Company at the following address:            II-VI Incorporated      Attention: Chief Financial Officer      375 Saxonburg Boulevard      Saxonburg,
+Pennsylvania 16056            and shall specify the number of shares to be purchased, the
+Option Price of each share and the aggregate Option Price for all shares being purchased under said notice. The notice shall be accompanied by payment of the aggregate Option Price for the number of shares purchased and any applicable withholding
+taxes. Such exercise (subject to paragraph 6 hereof) shall be effective upon the actual receipt of such payment and notice to the Company. The aggregate Option Price for all shares purchased pursuant to an exercise of the Option shall be (i) paid by
+check payable to the order of the Company or by (ii) shares of Common Stock of the Company held by you for at least six (6) months, the fair market value of which at the time of such exercise is equal to the aggregate Option Price (or portion
+thereof to be paid with previously owned Common Stock). Payment of the Option Price in shares of Common Stock shall be made by delivering properly endorsed stock certificates to the Company or otherwise causing such Common Stock to be transferred to
+the account of the Company, either physically or through attestation. In addition, the aggregate Option Price for all shares purchased pursuant to an         
+   2   
+
+exercise of the Option may be paid from the proceeds of sale through a bank or broker on the date of exercise of some or
+all of the shares to which the exercise relates (a   Cashless Exercise  ). There shall be furnished with each notice of the exercise of any portion of the Option such documents as the Company in its discretion may deem necessary to
+assure compliance with applicable rules and regulations of any stock exchange or governmental authority. No rights or privileges of a stockholder of the Company in respect to such shares issuable upon the exercise of any part of the Option shall
+accrue to you unless and until certificates representing such shares have been registered in your name.            6.  Compliance with Laws . The Option shall not be exercised in whole or in part and no related share certificates shall be delivered in the sole
+discretion of the Company: (a) if such exercise or delivery would constitute a violation of any provision of, or any regulation or order entered pursuant to, any law purporting to regulate wages, salaries or compensation; or (b) if any requisite
+approval, consent, registration or other qualification of any stock exchange or quotation system upon which the securities of the Company may then be listed, the Securities and Exchange Commission or other governmental authority having jurisdiction
+over the exercise of the Option or the issuance of shares pursuant thereto, shall not have been secured.            7.  Nontransferability . Except as otherwise provided in the Plan, the Option shall not be sold, pledged, assigned, hypothecated, transferred or
+disposed of (a   Transfer  ) in any manner, other than by will or the laws of descent and distribution. Any attempt to Transfer the Option in violation of this paragraph or the Plan shall render this Option null and void.   
+        8.  Adjustments . The number of shares covered by the Option and the
+Option Price, shall be adjusted to reflect any stock dividend, stock split, or combination of shares of the Company s Common Stock. In addition, the Committee may make or provide for such adjustment in the number of shares covered by the
+Option, and the kind of shares covered the Option, as the Committee in its sole discretion may in good faith determine to be equitably required in order to prevent dilution or enlargement of Optionee s rights that otherwise would result from
+(a) any exchange of shares of the Company s Common Stock, recapitalization or other change in the capital structure of the Company, (b) any merger, consolidation, spin off, spin out, split off, split up, reorganization,
+partial or complete liquidation or other distribution of assets (other than a normal cash dividend), issuance of rights or warrants to purchase securities, or (c) any other corporate transaction or event having an effect similar to any of the
+foregoing. Moreover, in the event of any such transaction or event, the Committee may provide in substitution for the Option such alternative consideration as it may in good faith determine to be equitable under the circumstances and may require in
+connection therewith the surrender of the Option so replaced.            9.  Plan Provisions . In addition to the terms and conditions set forth herein, this Award is subject to and governed by the terms and conditions set forth in the Plan, which is hereby incorporated by reference. Unless the context
+otherwise requires, capitalized terms used in this Award and not otherwise defined herein shall have the meanings set forth in the Plan. In the event of any conflict between the provisions of the Award and the Plan, the Plan shall control.
+        
+   3   
+
+10.  No Continued Rights . The granting of this Award shall not give Optionee any rights to similar
+grants in future years or any right to continuance of employment or other service with the Company or any one of its subsidiaries, nor shall it interfere in any way with any right that the Company or any one or it s subsidiaries would otherwise
+have to terminate Optionee s employment or other service at any time, or the right of Optionee to terminate his or her services at any time.            11.  Severability . If any term, provision, covenant or restriction contained in the Award is held by a court or a federal regulatory agency of
+competent jurisdiction to be invalid, void or unenforceable, the remainder of the terms, provisions, covenants and restrictions contained in the Award shall remain in full force and effect, and shall in no way be affected, impaired or invalidated.
+           12.  Controlling Law . The validity, construction and
+effect of this Award will be determined in accordance with the internal laws of the Commonwealth of Pennsylvania without giving effect to the conflict of laws. Optionee and the Company hereby irrevocably submit to the exclusive concurrent
+jurisdiction of the courts of the Commonwealth of Pennsylvania. Optionee and the Company also both irrevocably waive, to the fullest extent permitted by applicable law, any objection either may now or hereafter have to the laying of venue of any
+such dispute brought in such court or any defense of inconvenient forum for the maintenance of such dispute.            13.  Entire Agreement . The Award contains the entire understanding between the parties and supersedes any prior understanding and agreements between
+them representing the subject matter hereof with respect to this Award, except that this Award shall be subject to the terms and conditions set forth in any employment agreement between Optionee and Company. There are no other representations,
+agreements, arrangements or understandings, oral or written, between and among the parties hereto relating to the subject matter hereof which are not fully expressed herein.            14.  Captions . Section and other headings contained in this Award are for reference purposes only and are in no way
+intended to describe, interpret, define or limit the scope, extent or intent of the Award or any provision hereof.            15.  Limitation of Actions . Any lawsuit with respect to any matter arising out of or relating to this Award must be filed no later than one (1) year
+after the date that a denial of any claim hereunder is made or any earlier date that the claim otherwise accrues.            16.  Section 409A of the Code . This Award is intended to satisfy all applicable requirements of Section 409A of the Code and shall be construed
+accordingly. The Company in its discretion impose conditions on the timing and effectiveness of any exercise by Recipient, or take any other action it deems necessary to comply with the requirements of Section 409A, including amending the Award,
+without Recipient s consent, in any manner it deems necessary to cause the Award to comply with the applicable requirements of Section 409A. Notwithstanding, Recipient recognizes and acknowledges that Section 409A of the Code may affect the
+timing and recognition of payments due hereunder, and may impose upon the Optionee certain taxes or other charges for which the Recipient is and shall remain solely responsible.         
+   4   
+
+WITNESS  
+     
+  II-VI INCORPORATED   
+
+By:  
+
+[name]  
+
+[name]   
+ 
+  [title]  
+
+[title]   
+
+(Corporate Seal)   
+
+WITNESS  
+
+OPTIONEE   
+
+5   
+
+</EX-10.01>
+
+<EX-10.02>
+ 3
+ dex1002.htm
+ RESTRICTED SHARE AWARD
+
+Restricted Share Award 
+
+Exhibit 10.02              II-VI INCORPORATED        RESTRICTED SHARE AWARD          
+
+Granted to:
+
+No. of shares of II-VI Incorporated   
+ 
+  Social Security #:
+
+Common Stock:
+
+Grant Date:
+
+THIS RESTRICTED SHARE
+AWARD is granted by II-VI Incorporated, a Pennsylvania corporation (the   Company   or   II-VI  ), to you (  Recipient  ), a director, employee or consultant of the Company or one of its subsidiaries,
+pursuant to the terms and conditions of the II-VI Incorporated 2005 Omnibus Incentive Plan, as amended from time to time (the   Plan  ), a summary of which has been delivered to you. This document shall constitute an Award Agreement
+as that term is defined in the Plan. The Company recognizes the value of your continued service as a key employee and has awarded you this restricted share award under the Plan, subject to the following terms and conditions:            1.  Share Award . The Company hereby grants to Recipient an award of
+the above stated number of shares of II-VI Common Stock, no par value, subject to the restrictions and other conditions set forth herein. Such shares are hereinafter referred to as the   Restricted Shares .             2.  Restrictions . The Restricted Shares shall vest and become
+transferable, pursuant to the terms of the Plan, as follows:  [DESCRIBE VESTING SCHEDULE   e.g., twenty percent (20%) of the total number of Restricted Shares shall vest and become transferable on each of the first, second, third, fourth and
+fifth anniversaries of the Grant Date].  Restricted Shares that have not vested may not be sold, transferred, pledged, assigned or otherwise alienated or hypothecated. Restricted Shares that have not vested shall be subject to forfeiture as
+provided in Section 3 below. Upon a Change in Control of the Company (as defined in Section 11 below) all unvested Restricted Shares shall immediately vest and become transferable. In the event of the termination of your employment or other service
+to the Company or its subsidiaries upon (i) early, normal or late retirement as those terms are defined in the Company s profit sharing plan, (ii) death or (iii) total and permanent disability as defined in Section 105(d)(4) of the Internal
+Revenue Code, any unvested Restricted Shares shall immediately vest and become transferable by Recipient or Recipient s estate as the case may be.            3.  Change in Status . If Recipient s employment with or service to the Company and its subsidiaries terminates for reasons other than (i)
+early, normal or late retirement as those terms are defined in the Company s profit sharing plan, (ii) death or (iii) total and permanent disability as defined in Section 105(d)(4) of the Internal Revenue Code, or if Recipient s status
+changes to a position which the Company deems to be ineligible for this restricted share award, any Restricted Shares which had been granted to Recipient which have not yet become vested and transferable, as of the date of Recipient s
+termination or upon Recipient s commencing employment or service in a non eligible position, shall be immediately forfeited by Recipient.     
+
+4.  Book Entry Account . Within a reasonable time after the Grant Date of this Award, the Company
+shall instruct its transfer agent to establish a book entry account representing the Restricted Shares in Recipient s name effective as of the Grant Date, provided that the Company shall retain control of such account until the Restricted
+Shares have become vested in accordance with the Award.            5.
+ Shareholder Rights . Upon the effective date of the book entry pursuant to Section 4 above, Recipient shall have all of the rights of a shareholder with respect to the Restricted Shares, including the right to vote the shares and to receive
+all dividends or other distributions paid or made available with respect to such shares. Notwithstanding the foregoing, any stock dividends or other in kind dividends or distributions shall be held by the Company until the related Restricted
+Shares have become vested in accordance with this Award and shall remain subject to the forfeiture provisions applicable to the Restricted Shares to which such dividends or distributions relate.            6.  Fractional Shares . The Company shall not be required to issue any
+fractional shares pursuant to this Award, and the Company may round fractions down.            7.  Withholding . Recipient shall pay all applicable federal, state and local income and employment taxes (including taxes of any foreign jurisdiction) which the Company is required to withhold at any time with
+respect to the Restricted Shares. Such payment shall be made in full, at Recipient s election, in cash or check, or by the tender of previously acquired shares of the Company s common stock (including shares then vesting under this Award).
+Shares tendered as payment of required withholding shall be valued at the closing price per share of the Company s common stock on the date such withholding obligation arises.            8.  Nontransferability . Except as otherwise provided in the Plan, the Restricted Shares shall not be sold, pledged,
+assigned, hypothecated, transferred or disposed of (a   Transfer  ) in any manner, other than by will or the laws of descent and distribution. Any attempt to Transfer the Restricted Shares in violation of this paragraph or the Plan
+shall render this Award null and void.            9.  Adjustments .
+The number of Restricted Shares shall be adjusted to reflect any stock dividend, stock split, or combination of shares of the Company s Common Stock. In addition, the Committee may make or provide for such adjustment in the number of Restricted
+Shares, as the Committee in its sole discretion may in good faith determine to be equitably required in order to prevent dilution or enlargement of Recipient s rights that otherwise would result from (a) any exchange of shares of the
+Company s Common Stock, recapitalization or other change in the capital structure of the Company, (b) any merger, consolidation, spin off, spin out, split off, split up, reorganization, partial or complete liquidation or
+other distribution of assets (other than a normal cash dividend), issuance of rights or warrants to purchase securities, or (c) any other corporate transaction or event having an effect similar to any of the foregoing. Moreover, in the event of any
+such transaction or event, the Committee may provide in substitution for the Restricted Shares such alternative consideration as it may in good faith determine to be equitable under the circumstances and may require in connection therewith the
+surrender of the Restricted Shares so replaced.         
+   2   
+
+10.  Plan Provisions . In addition to the terms and conditions set forth herein, the Award is
+subject to and governed by the terms and conditions set forth in the Plan, which is incorporated herein by reference. Unless the context otherwise requires, capitalized terms used in this Award shall have the meanings set forth in the Plan. In the
+event of any conflict between the provisions of this Award and the Plan, the Plan shall control.            11.  Change in Control . For purposes of this Award,   Change in Control   means (i) the consummation of any merger or consolidation
+as a result of which the common stock of the Company shall be changed, converted or exchanged (other than a merger with a wholly owned subsidiary of the Company) or any liquidation of the Company or any sale or other disposition of substantially all
+of the assets of the Company; or (ii) the consummation of any merger or consolidation to which the Company is a party as a result of which the persons (as that term is used in Sections 13(d) and 14(d)(2) of the Securities Exchange Act of 1934, as
+amended) who were stockholders of the Company immediately prior to the effective date of the merger or consolidation shall have beneficial ownership of less than a majority of the combined voting power for election of directors of the surviving
+corporation following the effective date of such merger or consolidation.            12.  Notice . Any written notice required or permitted by this Award shall be mailed, certified mail (return receipt requested) or by overnight carrier, to the Company at the following address:            II-VI Incorporated      Attention: Chief Financial Officer      375 Saxonburg Boulevard      Saxonburg, Pennsylvania 16056            , or to Recipient at his most recent home address on record with the Company. Notices are effective upon receipt.            13.  No Continued Rights . The granting of this Award shall not give
+Recipient any rights to similar grants in future years or any right to continuance of employment or other service with the Company or any of its subsidiaries, nor shall it interfere in any way with any right that the Company or any of it s
+subsidiaries would otherwise have to terminate Recipient s employment or other service at any time, the right of the Company or its subsidiary to assign Recipient to a position that is ineligible for this restricted share award, or the right of
+Recipient to terminate his or her services at any time.            14.
+ Severability . If any term, provision, covenant or restriction contained in the Award is held by a court or a federal regulatory agency of competent jurisdiction to be invalid, void or unenforceable, the remainder of the terms, provisions,
+covenants and restrictions contained in the Award shall remain in full force and effect, and shall in no way be affected, impaired or invalidated.            15.  Controlling Law . The validity, construction and effect of this Award will be determined in accordance with the internal laws of the
+Commonwealth of Pennsylvania without giving effect to the conflict of laws. Recipient and the Company hereby irrevocably submit to         
+   3   
+
+the exclusive concurrent jurisdiction of the courts of the Commonwealth of Pennsylvania. Recipient and the Company also
+both irrevocably waive, to the fullest extent permitted by applicable law, any objection either may now or hereafter have to the laying of venue of any such dispute brought in such court or any defense of inconvenient forum for the maintenance of
+such dispute.            16.  Entire Agreement . The Award contains
+the entire understanding between the parties and supersedes any prior understanding and agreements between them representing the subject matter hereof with respect to this Award, except that this Award shall be subject to the terms and conditions
+set forth in any employment agreement between Recipient and Company. There are no other representations, agreements, arrangements or understandings, oral or written, between and among the parties hereto relating to the subject matter hereof which
+are not fully expressed herein.            17.  Captions . Section
+and other headings contained in this Award are for reference purposes only and are in no way intended to describe, interpret, define or limit the scope, extent or intent of the Award or any provision hereof.            18.  Limitation of Actions . Any lawsuit with respect to any matter
+arising out of or relating to this Award must be filed no later than one (1) year after the date that a denial of any claim hereunder is made or any earlier date that the claim otherwise accrues.         
+
+WITNESS  
+     
+  II-VI INCORPORATED   
+
+By:  
+
+[name]  
+
+[name]   
+ 
+  [title]  
+
+[title]   
+
+(Corporate Seal)   
+
+WITNESS  
+
+RECIPIENT   
+
+4   
+
+</EX-10.02>
+
+<EX-10.03>
+ 4
+ dex1003.htm
+ DEFERRED SHARE AWARD
+
+Deferred Share Award 
+
+Exhibit 10.03              II-VI INCORPORATED        DEFERRED SHARE AWARD          
+
+Granted to:
+
+No. of shares of II-VI Incorporated   
+ 
+  Social Security #:
+
+Common Stock:
+
+Grant Date:
+
+THIS DEFERRED SHARE
+AWARD is granted by II-VI Incorporated, a Pennsylvania corporation (the   Company   or   II-VI  ), to you (  Recipient  ), a director, employee or consultant of the Company or one of its subsidiaries,
+pursuant to the terms and conditions of the II-VI Incorporated 2005 Omnibus Incentive Plan, as amended from time to time (the   Plan  ), a summary of which has been delivered to you. This document shall constitute an Award Agreement
+as that term is defined in the Plan. The Company recognizes the value of your continued service as a key employee and has awarded you this deferred share award under the Plan, subject to the following terms and conditions:            1.  Deferred Share Award . The Company hereby grants to Recipient an
+award of the above stated number of shares of II-VI Common Stock, no par value, subject to the conditions set forth herein. Such shares are hereinafter referred to as the   Deferred Shares .             1.1.  Vesting . The Deferred Shares shall vest and become transferable,
+pursuant to the terms of the Plan, as follows:  [DESCRIBE VESTING SCHEDULE   e.g., twenty percent (20%) of the total number of Restricted Shares shall vest and become transferable on each of the first, second, third, fourth and fifth
+anniversaries of the Grant Date].             1.2.  Delivery of
+Shares . Unless Recipient has elected to defer receipt of the Deferred Shares in accordance with Section 1.3, and except as otherwise provided in Section 1.4, the Company shall cause a stock certificate representing the vested portion of the
+Deferred Shares to be transferred to Recipient on each date on which Deferred Shares vest, or as soon as administrative feasible thereafter (but in no event later than 15th of third month following such vesting date) .             1.3.  Deferral . Recipient may elect in writing on or before the date
+that is twelve (12) months prior to the date on which the Deferred Shares vest, or such earlier date as may be designated by the Company (the   Latest Deferral Date  ) in order to satisfy the deferral election requirements of Section
+409A of the Internal Revenue Code (the   Code  ), to defer the issuance of all or a part of such vested Deferred Shares. Any such election shall: (1) specify the date of issuance for the Deferred Shares, which shall not be earlier
+than the fifth anniversary of the original payment date or such other minimum deferral period as may be designated by the Company in order to satisfy the deferral election requirements of Section 409A of the Code; and (2) comply with all other
+applicable deferral election requirements of Section 409A of the Code.            1.4.  Termination of Employment; Change in Control . Upon termination of Recipient s employment with or service to the Company and its subsidiaries for reasons other   
+
+than (i) early, normal or late retirement as those terms are defined in the Company s profit sharing plan, (ii)
+death or (iii) total and permanent disability as defined in Section 105(d)(4) of the Code, any Deferred Shares which had been granted to Recipient and which have not yet become vested and transferable as of the date of Recipient s termination
+shall be immediately forfeited by Recipient. In the event of the termination of Recipient s employment or other service to the Company or its subsidiaries upon (i) early, normal or late retirement as those terms are defined in the
+Company s profit sharing plan, (ii) death or (iii) total and permanent disability as defined in Section 105(d)(4) of the Code, any unvested Deferred Shares shall immediately vest and become transferable and, unless Recipient has elected
+pursuant to Section 1.3 to defer issuance to a later date, the Company shall issue such Deferred Shares to Recipient or Recipient s estate, as the case may be, within ten (10) business days of the termination of Recipient s employment with
+or service to the Company and its subsidiaries. Upon a Change in Control (as defined in Section 8 below), all Deferred Shares that have not yet vested shall immediately vest and become transferable and, unless Recipient has elected pursuant to
+Section 1.3 to defer issuance to a later date, the Company shall issue such Deferred Shares to Recipient within ten (10) business days of the consummation of the Change in Control. Notwithstanding anything in this Section 1.4 to the contrary, the
+Deferred Shares shall not be issued to Recipient until six (6) months after his termination of employment to the extent required by Section 409A(a)(2)(B)(i) of the Code.            2.  Limitation of Rights; Dividend Equivalents . Recipient (i) shall not have any right to transfer any rights under
+the Deferred Shares except as permitted by Section 3 below, (ii) shall not have any rights of ownership of the shares of the Company s Common Stock subject to the Deferred Shares before the issuance of such shares, and (iii) shall not have any
+right to vote such shares. Recipient, however, shall receive a cash payment equal to the cash dividends paid on shares underlying outstanding Deferred Shares if and when cash dividends are paid to shareholders of the Company (but in no event later
+than March 15   th    of the calendar year following the calendar year in which such cash dividends are paid).   
+        3.  Compliance with Laws . No deferred share certificates shall be
+delivered in the sole discretion of the Company: (a) if such exercise or delivery would constitute a violation of any provision of, or any regulation or order entered pursuant to, any law purporting to regulate wages, salaries or compensation; or
+(b) if any requisite approval, consent, registration or other qualification of any stock exchange or quotation system upon which the securities of the Company may then be listed, the Securities and Exchange Commission or other governmental authority
+having jurisdiction over the exercise of the Option or the issuance of shares pursuant thereto, shall not have been secured.            4.  Nontransferability . Except as otherwise provided in the Plan, the Deferred Shares shall not be sold, pledged, assigned, hypothecated,
+transferred or disposed of (a   Transfer  ) in any manner, other than by will or the laws of descent and distribution. Any attempt to Transfer the Deferred Shares violation of this paragraph or the Plan shall render this Award null
+and void.            5.  Adjustments . The number of shares covered
+by the Deferred Shares and, if applicable, the kind of shares covered by the Deferred Shares, shall be adjusted to reflect any stock dividend, stock split, or combination of shares of the Company s Common Stock. In addition, the Committee may
+make or provide for such adjustment in the number of shares         
+   2   
+
+covered by the Deferred Shares, and the kind of shares covered the Deferred Shares, as the Committee in its sole
+discretion may in good faith determine to be equitably required in order to prevent dilution or enlargement of Recipient s rights that otherwise would result from (a) any exchange of shares of the Company s Common Stock, recapitalization
+or other change in the capital structure of the Company, (b) any merger, consolidation, spin off, spin out, split off, split up, reorganization, partial or complete liquidation or other distribution of assets (other than a normal
+cash dividend), issuance of rights or warrants to purchase securities, or (c) any other corporate transaction or event having an effect similar to any of the foregoing. Moreover, in the event of any such transaction or event, the Committee may
+provide in substitution for the Deferred Shares such alternative consideration as it may in good faith determine to be equitable under the circumstances and may require in connection therewith the surrender of the Deferred Shares so replaced.
+           6.  Fractional Shares . The Company shall not be required
+to issue any fractional shares pursuant to this Award, and the Committee may round fractions down.            7.  Withholding . Recipient shall pay all applicable federal, state and local income and employment taxes (including taxes of any foreign
+jurisdiction) which the Company is required to withhold at any time with respect to the Deferred Shares and any cash dividend equivalents paid thereon. Such payment shall be made in full, at Recipient s election, in cash or check, or by the
+tender of previously acquired shares of the Company s Common Stock (including Deferred Shares then vested and immediately deliverable under this Award). Deferred Shares tendered as payment of required withholding shall be valued at the closing
+price per share of the Company s Common Stock on the date such withholding obligation arises.            8.  Plan Provisions . In addition to the terms and conditions set forth herein, this Award is subject to and governed by the terms and conditions set
+forth in the Plan, which is hereby incorporated by reference. Unless the context otherwise requires, capitalized terms used in this Award and not otherwise defined herein shall have the meanings set forth in the Plan. In the event of any conflict
+between the provisions of the Award and the Plan, the Plan shall control.            9.  Change in Control . For purposes of this Award,   Change in Control   means (i) the consummation of any merger or consolidation as a result of which the common stock of the Company shall be
+changed, converted or exchanged (other than a merger with a wholly owned subsidiary of the Company) or any liquidation of the Company or any sale or other disposition of substantially all of the assets of the Company; or (ii) the consummation of any
+merger or consolidation to which the Company is a party as a result of which the persons (as that term is used in Sections 13(d) and 14(d)(2) of the Securities Exchange Act of 1934, as amended) who were stockholders of the Company immediately prior
+to the effective date of the merger or consolidation shall have beneficial ownership of less than a majority of the combined voting power for election of directors of the surviving corporation following the effective date of such merger or
+consolidation.            10.  Notice . Any written notice required
+or permitted by this Award shall be mailed, certified mail (return receipt requested) or by overnight carrier, to the Company at the following address:            II-VI Incorporated      Attention: Chief Financial
+Officer      375 Saxonburg Boulevard      Saxonburg, Pennsylvania 16056         
+   3   
+
+, or to Recipient at his most recent home address on record with the Company. Notices are effective upon receipt.
+           11.  No Continued Rights . The granting of this Award
+shall not give Recipient any rights to similar grants in future years or any right to continuance of employment or other service with the Company or any of its subsidiaries, nor shall it interfere in any way with any right that the Company or any of
+it s subsidiaries would otherwise have to terminate Recipient s employment or other service at any time, or the right of Recipient to terminate his or her services at any time.            12.  Rights Unsecured . The Company shall remain the owner of all amounts deferred by Recipient pursuant to Section 1.3
+and Recipient shall have only the Company s unfunded, unsecured promise to pay. The rights of Recipient hereunder shall be that of an unsecured general creditor of the Company and Recipient shall not have any security interest in any assets of
+the Company.            13.  Severability . If any term, provision,
+covenant or restriction contained in the Award is held by a court or a federal regulatory agency of competent jurisdiction to be invalid, void or unenforceable, the remainder of the terms, provisions, covenants and restrictions contained in the
+Award shall remain in full force and effect, and shall in no way be affected, impaired or invalidated.            14.  Controlling Law . The validity, construction and effect of this Award will be determined in accordance with the internal laws of the
+Commonwealth of Pennsylvania without giving effect to the conflict of laws. Recipient and the Company hereby irrevocably submit to the exclusive concurrent jurisdiction of the courts of the Commonwealth of Pennsylvania. Recipient and the Company
+also both irrevocably waive, to the fullest extent permitted by applicable law, any objection either may now or hereafter have to the laying of venue of any such dispute brought in such court or any defense of inconvenient forum for the maintenance
+of such dispute.            15.  Entire Agreement . The Award
+contains the entire understanding between the parties and supersedes any prior understanding and agreements between them representing the subject matter hereof with respect to this Award, except that this Award shall be subject to the terms and
+conditions set forth in any employment agreement between Recipient and Company. There are no other representations, agreements, arrangements or understandings, oral or written, between and among the parties hereto relating to the subject matter
+hereof which are not fully expressed herein.            16.
+ Captions . Section and other headings contained in this Award are for reference purposes only and are in no way intended to describe, interpret, define or limit the scope, extent or intent of the Award or any provision hereof.         
+   4   
+
+17.  Limitation of Actions . Any lawsuit with respect to any matter arising out of or relating to
+this Award must be filed no later than one (1) year after the date that a denial of any claim hereunder is made or any earlier date that the claim otherwise accrues.            18.  Section 409A of the Code . This Award is intended to satisfy all applicable requirements of Section 409A of the
+Code and shall be construed accordingly. The Company in its discretion may delay the issuance of Deferred Shares, impose conditions on the timing and effectiveness of any deferral election made by Recipient, or take any other action it deems
+necessary to comply with the requirements of Section 409A, including amending the Award, without Recipient s consent, in any manner it deems necessary to cause the Award to comply with the applicable requirements of Section 409A.
+Notwithstanding, Recipient recognizes and acknowledges that Section 409A of the Code may affect the timing and recognition of payments due hereunder, and may impose upon the Recipient certain taxes or other charges for which the Recipient is and
+shall remain solely responsible.         
+
+WITNESS  
+     
+  II-VI INCORPORATED   
+
+By:  
+
+[name]  
+
+[name]   
+ 
+  [title]  
+
+[title]   
+
+(Corporate Seal)   
+
+WITNESS  
+
+RECIPIENT   
+
+5   
+
+</EX-10.03>
+
+<EX-10.04>
+ 5
+ dex1004.htm
+ PERFORMANCE UNIT AWARD
+
+Performance Unit Award 
+
+Exhibit 10.04              II-VI INCORPORATED        PERFORMANCE UNIT AWARD          
+
+Granted to:
+
+Value of Performance Units constituting   
+ 
+  Social Security #:
+
+Maximum Award:
+ $                                        
+
+Grant Date:
+
+THIS PERFORMANCE UNIT
+AWARD is granted by II-VI Incorporated, a Pennsylvania corporation (the   Company   or   II-VI  ), to you (  Recipient  ), a director, employee or consultant of the Company or one of its subsidiaries,
+pursuant to the terms and conditions of the II-VI Incorporated 2005 Omnibus Incentive Plan, as amended from time to time (the   Plan  ), a summary of which has been delivered to you. This document shall constitute an Award Agreement
+as that term is defined in the Plan and is intended to be a Qualified Performance-Based Award within the meaning of Section 2.27 of the Plan. The Company recognizes the value of your continued service as a key employee and has awarded you this
+performance unit award under the Plan, subject to the following terms and conditions:            1.  Performance Unit Award . The Company hereby grants to Recipient a Target Award of
+                           Performance Units under the Plan subject to a Maximum Award of
+                           Performance Units, to be earned in accordance with Section 2 below. For the purposes of this
+Award: (1)   Performance Unit   shall mean a bookkeeping entry that records a unit equal to $1.00 granted pursuant to this Award and that is payable solely in cash; (2)   Performance Period   shall mean the
+                   consecutive fiscal years of the Company beginning on July 1,
+                  ; (3)   Target Award   shall mean that number of Performance Units awarded to Recipient representing
+$                       divided by $1.00; (4)   Maximum Award   means the maximum number of Performance Units allowable under
+this Award as set forth above representing                   % of the Target Award.            2.  Determination of Units Earned .   Subject to Sections 4 and 5 below, the Company shall deliver to Recipient
+One Dollar ($1.00) for each whole Performance Unit that is earned in accordance with the following schedule.         
+
+Performance Units Earned as a Percentage of Target Award     
+
+[DESCRIBE PERFORMANCE CRITERIA]    
+      
+                %  
+
+%  
+
+%  
+
+%   
+    (Maximum Award)   
+          3.  Payment . The
+amount determined under Section 2 will be paid to Recipient in cash as soon as administratively practicable after the end of the Performance Period.            4.  Termination of Employment . Except as provided in Section 5 below, if Recipient s employment with or service to the Company and its
+subsidiaries terminates before the end of the Performance Period, this Performance Unit Award shall be forfeited on the date of such termination.   
+
+5.  Prorating in Certain Circumstances . If Recipient s employment with or service to the
+Company and its subsidiaries terminates during the Performance Period due to Recipient s (i) early, normal or late retirement as those terms are defined in the Company s profit sharing plan, (ii) death or (iii) total and permanent
+disability as defined in Section 105(d)(4) of the Internal Revenue Code (the   Code  ), Recipient shall be entitled to a prorated portion of the Performance Units to the extent earned pursuant to Section 2 above, determined at the end
+of the Performance Period and based on the ratio of the number of complete months Recipient is employed or serves during the Performance Period to the total number of months in the Performance Period. Any payments due on Recipient s death shall
+be paid to his estate as soon as administratively practicable after the end of the Performance Period.            6.  Nontransferability . Except as otherwise provided in the Plan, the Performance Units shall not be sold, pledged, assigned, hypothecated,
+transferred or disposed of (a   Transfer  ) in any manner, other than by will or the laws of descent and distribution. Any attempt to Transfer the Performance Units in violation of this paragraph or the Plan shall render this Award
+null and void.            7.  Adjustments . The Committee may make
+or provide for such adjustment in the Performance Units as the Committee in its sole discretion may in good faith determine to be equitably required in order to prevent dilution or enlargement of Recipient s rights that otherwise would result
+from (a) any exchange of shares of the Company s Common Stock, recapitalization or other change in the capital structure of the Company, (b) any merger, consolidation, spin off, spin out, split off, split up, reorganization,
+partial or complete liquidation or other distribution of assets (other than a normal cash dividend), issuance of rights or warrants to purchase securities, or (c) any other corporate transaction or event having an effect similar to any of the
+foregoing. Moreover, in the event of any such transaction or event, the Committee may provide in substitution for the Performance Units such alternative consideration as it may in good faith determine to be equitable under the circumstances and may
+require in connection therewith the surrender of the Performance Units so replaced.            8.  Withholding . The Company shall have the right to withhold from payments made to Recipient pursuant to this Award, or to withhold from other compensation payable to Recipient, all applicable federal, state
+and local income and employment taxes (including taxes of any foreign jurisdiction) which the Company is required to withhold at any time with respect to the Performance Units.            9.  Plan Provisions . In addition to the terms and conditions set forth herein, this Award is subject to and governed
+by the terms and conditions set forth in the Plan, which is hereby incorporated by reference. Unless the context otherwise requires, capitalized terms used in this Award and not otherwise defined herein shall have the meanings set forth in the Plan.
+In the event of any conflict between the provisions of the Award and the Plan, the Plan shall control.         
+   2   
+
+10.  No Continued Rights . The granting of this Award shall not give Recipient any rights to similar
+grants in future years or any right to continuance of employment or other service with the Company or any one of its subsidiaries, nor shall it interfere in any way with any right that the Company or any one or it s subsidiaries would otherwise
+have to terminate Recipient s employment or other service at any time, or the right of Recipient to terminate his or her services at any time.            11.  Rights Unsecured . Recipient shall have only the Company s unfunded, unsecured promise to pay pursuant to the terms of this Award. The
+rights of Recipient hereunder shall be that of an unsecured general creditor of the Company and Recipient shall not have any security interest in any assets of the Company.            12.  Severability . If any term, provision, covenant or restriction contained in the Award is held by a court or a
+federal regulatory agency of competent jurisdiction to be invalid, void or unenforceable, the remainder of the terms, provisions, covenants and restrictions contained in the Award shall remain in full force and effect, and shall in no way be
+affected, impaired or invalidated.            13.  Controlling Law .
+The validity, construction and effect of this Award will be determined in accordance with the internal laws of the Commonwealth of Pennsylvania without giving effect to the conflict of laws. Recipient and the Company hereby irrevocably submit to the
+exclusive concurrent jurisdiction of the courts of the Commonwealth of Pennsylvania. Recipient and the Company also both irrevocably waive, to the fullest extent permitted by applicable law, any objection either may now or hereafter have to the
+laying of venue of any such dispute brought in such court or any defense of inconvenient forum for the maintenance of such dispute.            14.  Entire Agreement . The Award contains the entire understanding between the parties and supersedes any prior understanding and agreements between
+them representing the subject matter hereof with respect to this Award, except that this Award shall be subject to the terms and conditions set forth in any employment agreement between Recipient and Company. There are no other representations,
+agreements, arrangements or understandings, oral or written, between and among the parties hereto relating to the subject matter hereof which are not fully expressed herein.            15.  Captions . Section and other headings contained in this Award are for reference purposes only and are in no way
+intended to describe, interpret, define or limit the scope, extent or intent of the Award or any provision hereof.            16.  Limitation of Actions . Any lawsuit with respect to any matter arising out of or relating to this Award must be filed no later than one (1) year
+after the date that a denial of any claim hereunder is made or any earlier date that the claim otherwise accrues.            17.  Section 409A of the Code . This Award is intended to satisfy all applicable requirements of Section 409A of the Code and shall be construed
+accordingly. The Company in its discretion may delay payment of Performance Units, or take any other action it deems necessary to comply with the requirements of Section 409A of the Internal Revenue Code,         
+   3   
+
+including amending the Award, without Recipient s consent, in any manner it deems necessary to cause the Award to
+comply with the applicable requirements of Section 409A. Notwithstanding, Recipient recognizes and acknowledges that Section 409A of the Code may affect the timing and recognition of payments due hereunder, and may impose upon the Recipient certain
+taxes or other charges for which the Recipient is and shall remain solely responsible.         
+
+WITNESS  
+     
+  II-VI INCORPORATED   
+
+By:  
+
+[name]  
+
+[name]   
+ 
+  [title]  
+
+[title]   
+
+(Corporate Seal)   
+
+WITNESS  
+
+RECIPIENT   
+
+4   
+
+</EX-10.04>
+
+<EX-10.05>
+ 6
+ dex1005.htm
+ STOCK APPRECIATION RIGHTS AWARD
+
+Stock Appreciation Rights Award 
+
+Exhibit 10.05              II-VI INCORPORATED        STOCK APPRECIATION RIGHTS AWARD          
+
+Granted to:
+
+No. of shares of II-VI Incorporated   
+ 
+  Social Security #:
+
+Common Stock Subject to SAR:
+
+Grant Date:
+
+Base Price per share:
+$                                         
+
+Expiration Date:
+
+THIS STOCK
+APPRECIATION RIGHTS AWARD is granted by II-VI Incorporated, a Pennsylvania corporation (the   Company   or   II-VI  ), to you (  Recipient  ), a director, employee or consultant of the Company or one of
+its subsidiaries, pursuant to the terms and conditions of the II-VI Incorporated 2005 Omnibus Incentive Plan, as amended from time to time (the   Plan  ), a summary of which has been delivered to you. This document shall constitute an
+Award Agreement as that term is defined in the Plan and is intended to be a Qualified Performance-Based Award within the meaning of Section 2.27 of the Plan. . The Company recognizes the value of your continued service as a key employee and has
+awarded you these stock appreciation rights under the Plan, subject to the following terms and conditions:            1.  SAR Award . The Company hereby grants you on and as of the date specified above (the   Grant Date  ) the stock appreciation rights
+(the   SAR  ) with respect to the above stated number of shares of II-VI Common Stock, no par value, at the price per share stated above (the   Base Price  ) which is the fair market value of the of a share of Common
+Stock on the date hereof, which SAR shall expire on the expiration date stated above (the   Expiration Date  ), unless it expires earlier in accordance with the terms hereof. The Expiration Date shall in no event be later that ten
+(10) years from the Grant Date.            1.1.  Vesting . The SAR
+shall be exercisable, pursuant to the terms of the Plan and shall vest and become exercisable in installments, as follows:  [DESCRIBE VESTING SCHEDULE   e.g., twenty percent (20%) of the total number of shares subject to this SAR shall become
+exercisable on each of the first, second, third, fourth and fifth anniversaries of the Grant Date] .            1.2.  Exercise of SAR . Any exercisable portion of the SAR may be exercised in whole or in part, but in no event with respect to a fraction of a
+share, from time to time during the Exercise Period. For the purposes of this Award, the   Exercise Period   shall be that period of time beginning on the date on which the initial portion of the SAR vests in accordance with paragraph
+1.1 above and ending upon the close of business on the date which is ten (10) business days after the date on which the final portion of the SAR vests in accordance with paragraph 1.1 above, unless otherwise terminated pursuant to the terms of the
+Plan or this Award Agreement. Exercise shall be by written notice of exercise to the Company at the following address:            II-VI Incorporated      Attention: Chief Financial
+Officer      375 Saxonburg Boulevard      Saxonburg, Pennsylvania 16056   
+
+and shall specify the number of shares subject to SAR to be exercised, the Base Price per share, the aggregate Base Price
+for all SARs being exercised under said notice and the manner in which you choose to have the exercise of the SAR settled (i.e., in cash or in shares of II-VI Common Stock). Such exercise shall be effective upon the actual receipt of such notice to
+the Company. There shall be furnished with each notice of the exercise of any portion of the SAR such documents as the Company in its discretion may deem necessary to assure compliance with applicable rules and regulations of any stock exchange or
+governmental authority.            1.3.  Payment upon Exercise . As
+promptly as is commercially practicable following the receipt by the Company of all requested information from the Recipient with respect to any exercised portion of the SAR, you shall be entitled to receive from the Company an amount equal to the
+product (the   Aggregate Spread  ) obtained by multiplying (A) the difference obtained, if any, by subtracting the Base Price per share from the Fair Market Value of a share of Common Stock on the date of exercise of the SAR by (B)
+the number of shares with respect to which the SAR is exercised. You may elect to receive the Aggregate Spread in (i) cash or (ii) shares of II-VI Common Stock, in each case less any applicable withholding taxes. For the avoidance of doubt, the
+Aggregate Spread cannot be a negative number. In the event you choose shares of II-VI Common Stock, the whole number of such shares to be delivered shall be calculated by dividing the Aggregate Spread by the Fair Market Value of a share of II-VI
+Incorporated Common Stock which shall be equal to the closing price for shares as reported on a consolidated basis on the Nasdaq National Market on the exercise date and rounding down to the nearest whole number of shares. The Company shall pay you
+the Fair Market Value of the fractional shares calculated above which were rounded down in cash.            1.4.  Post-termination Exercise . Upon the termination of your employment with or service to the Company and its subsidiaries (for any reason other
+than (i) early, normal or late retirement as those terms are defined in the Company s profit sharing plan, (ii) death or (iii) total and permanent disability as defined in Section 105(d)(4) of the Internal Revenue Code), the SAR shall be
+immediately forfeited and shall become null and void, whether or not then vested, on and as of the date of such termination. Upon the termination of your employment with or service to the Company and its subsidiaries due to (i) early, normal or late
+retirement as those terms are defined in the Company s profit sharing plan, (ii) death or (iii) total and permanent disability as defined in Section 105(d)(4) of the Internal Revenue Code, the SAR may be exercised post-termination during the
+applicable periods set forth in Section 5.9 of the Plan.            1.5.
+ Acceleration of Vesting .            (a) Any portion of the SAR
+not then vested shall immediately vest and become exercisable immediately prior to a Change in Control. Any portion of the SAR remaining unexercised upon a Change in Control shall lapse upon such Change in Control and shall be null and void. For
+purposes of this paragraph,   Change in Control   means (i) the consummation of any merger or consolidation as a result of which the common stock of the Company shall be changed, converted or exchanged (other than a merger with a
+wholly owned subsidiary of the Company) or any liquidation of the Company or any sale or other disposition of substantially all of the assets of the Company; or (ii) the consummation of any merger or consolidation to which the Company is a party as
+a result of which the persons (as that term is used in Sections 13(d) and 14(d)(2) of the Securities Exchange Act of 1934, as amended) who         
+   2   
+
+were stockholders of the Company immediately prior to the effective date of the merger or consolidation shall have
+beneficial ownership of less than a majority of the combined voting power for election of directors of the surviving corporation following the effective date of such merger or consolidation.            (b) Any portion of the SAR not then vested shall immediately vest and become
+exercisable upon the termination of your employment with or service to the Company and its subsidiaries due to (i) early, normal or late retirement as those terms are defined in the Company s profit sharing plan, (ii) death or (iii) total and
+permanent disability as defined in Section 105(d)(4) of the Internal Revenue Code, and shall remain exercisable as set forth more fully in paragraph 1.4 above.         
+  2.  Limitation of Rights; Dividend Equivalents . Recipient (i) shall not have any rights of ownership of the shares of the Company s Common
+Stock subject to the SAR, and (ii) shall not have any right to vote such shares. Recipient, however, shall receive a cash payment equal to the cash dividends paid on shares subject to the SAR if and when cash dividends are paid to shareholders of
+the Company.            3.  Compliance with Laws . The SAR shall not
+be exercised in whole or in part and no related share certificates shall be delivered in the sole discretion of the Company: (a) if such exercise or delivery would constitute a violation of any provision of, or any regulation or order entered
+pursuant to, any law purporting to regulate wages, salaries or compensation; or (b) if any requisite approval, consent, registration or other qualification of any stock exchange or quotation system upon which the securities of the Company may then
+be listed, the Securities and Exchange Commission or other governmental authority having jurisdiction over the exercise of the Option or the issuance of shares pursuant thereto, shall not have been secured.            4.  Nontransferability . Except as otherwise provided in the Plan, the
+SAR shall not be sold, pledged, assigned, hypothecated, transferred or disposed of (a   Transfer  ) in any manner, other than by will or the laws of descent and distribution. Any attempt to Transfer the SAR in violation of this
+paragraph or the Plan shall render this Award null and void.            5.  Adjustments . The number of shares covered by the SAR and the Based Price shall be adjusted to reflect any stock dividend, stock split, or combination of shares of the Company s Common Stock. In addition, the Committee may
+make or provide for such adjustment in the number of shares subject to the SAR, and the kind of shares subject to the SAR, as the Committee in its sole discretion may in good faith determine to be equitably required in order to prevent dilution or
+enlargement of Recipient s rights that otherwise would result from (a) any exchange of shares of the Company s Common Stock, recapitalization or other change in the capital structure of the Company, (b) any merger, consolidation,
+spin off, spin out, split off, split up, reorganization, partial or complete liquidation or other distribution of assets (other than a normal cash dividend), issuance of rights or warrants to purchase securities, or (c) any other
+corporate transaction or event having an effect similar to any of the foregoing. Moreover, in the event of any such transaction or event, the Committee may provide in substitution for the SAR such alternative consideration as it may in good faith
+determine to be equitable under the circumstances and may require in connection therewith the surrender of the SAR so replaced.         
+   3   
+
+6.  Fractional Shares . The Company shall not be required to issue any fractional shares pursuant to
+this Award, and the Committee may round fractions down.            7.
+ Withholding . Recipient shall pay all applicable federal, state and local income and employment taxes (including taxes of any foreign jurisdiction) which the Company is required to withhold at any time with respect to the SAR and any cash
+dividend equivalents paid thereon. Such payment shall be made in full, at Recipient s election, in cash or check, or by the tender of previously acquired shares of the Company s Common Stock.            8.  Plan Provisions . In addition to the terms and conditions set forth
+herein, this Award is subject to and governed by the terms and conditions set forth in the Plan, which is hereby incorporated by reference. Unless the context otherwise requires, capitalized terms used in this Award and not otherwise defined herein
+shall have the meanings set forth in the Plan. In the event of any conflict between the provisions of the Award and the Plan, the Plan shall control.            9.  No Continued Rights . The granting of this Award shall not give Recipient any rights to similar grants in future years or any right to
+continuance of employment or other service with the Company or any of its subsidiaries, nor shall it interfere in any way with any right that the Company or any of it s subsidiaries would otherwise have to terminate Recipient s employment
+or other service at any time, or the right of Recipient to terminate his or her services at any time.            10.  Rights Unsecured . Recipient shall have only the Company s unfunded, unsecured promise to pay. The rights of Recipient hereunder shall be
+that of an unsecured general creditor of the Company and Recipient shall not have any security interest in any assets of the Company.            11.  Severability . If any term, provision, covenant or restriction contained in the Award is held by a court or a federal regulatory agency of
+competent jurisdiction to be invalid, void or unenforceable, the remainder of the terms, provisions, covenants and restrictions contained in the Award shall remain in full force and effect, and shall in no way be affected, impaired or invalidated.
+           12.  Controlling Law . The validity, construction and
+effect of this Award will be determined in accordance with the internal laws of the Commonwealth of Pennsylvania without giving effect to the conflict of laws. Recipient and the Company hereby irrevocably submit to the exclusive concurrent
+jurisdiction of the courts of the Commonwealth of Pennsylvania. Recipient and the Company also both irrevocably waive, to the fullest extent permitted by applicable law, any objection either may now or hereafter have to the laying of venue of any
+such dispute brought in such court or any defense of inconvenient forum for the maintenance of such dispute.            13.  Entire Agreement . The Award contains the entire understanding between the parties and supersedes any prior understanding and agreements between
+them representing the subject matter hereof with respect to this Award, except that this Award shall be subject to the terms and conditions set forth in any employment agreement between Recipient and Company. There are no other representations,
+agreements, arrangements or understandings, oral or written, between and among the parties hereto relating to the subject matter hereof which are not fully expressed herein.         
+   4   
+
+14.  Captions . Section and other headings contained in this Award are for reference purposes only
+and are in no way intended to describe, interpret, define or limit the scope, extent or intent of the Award or any provision hereof.            15.  Limitation of Actions . Any lawsuit with respect to any matter arising out of or relating to this Award must be filed no later than one (1) year
+after the date that a denial of any claim hereunder is made or any earlier date that the claim otherwise accrues.            16.  Section 409A of the Code . This Award is intended to satisfy all applicable requirements of Section 409A of the Code and shall be construed
+accordingly. The Company in its discretion impose conditions on the timing and effectiveness of any exercise by Recipient, or take any other action it deems necessary to comply with the requirements of Section 409A, including amending the Award,
+without Recipient s consent, in any manner it deems necessary to cause the Award to comply with the applicable requirements of Section 409A. Notwithstanding, Recipient recognizes and acknowledges that Section 409A of the Code may affect the
+timing and recognition of payments due hereunder, and may impose upon the Recipient certain taxes or other charges for which the Recipient is and shall remain solely responsible.         
+
+WITNESS  
+     
+  II-VI INCORPORATED   
+
+By:  
+
+[name]  
+
+[name]   
+ 
+  [title]  
+
+[title]   
+
+(Corporate Seal)   
+
+WITNESS  
+
+RECIPIENT   
+
+5   
+
+</EX-10.05>
+
+<EX-31.01>
+ 7
+ dex3101.htm
+ SECTION 302 CERTIFICATION OF CEO
+
+Section 302 Certification of CEO 
+
+Exhibit 31.01               CERTIFICATIONS              I, Carl J. Johnson, certify that:         
+
+1.  
+  I have reviewed this quarterly report on Form 10-Q of II-VI Incorporated;           
+
+2.  
+  Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the
+circumstances under which such statements were made, not misleading with respect to the period covered by this report;           
+
+3.  
+  Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of
+operations and cash flows of the registrant as of, and for, the periods presented in this report;           
+
+4.  
+  The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e)
+and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:              a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under
+our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;
+           b) Designed such internal control over financial reporting,
+or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in
+accordance with generally accepted accounting principles;            c)
+Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this
+report based on such evaluation; and            d) Disclosed in this
+report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter that has materially affected, or is reasonably likely to materially affect, the
+registrant s internal control over financial reporting; and         
+
+5.  
+  The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s
+auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions):              a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably
+likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and            b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control
+over financial reporting.         
+
+February 8, 2006   
+
+By:  
+     
+  /s/    C ARL  J. J OHNSON            
+
+Carl J. Johnson    
+
+Chairman, Chief Executive Officer    
+
+and Director    
+
+</EX-31.01>
+
+<EX-31.02>
+ 8
+ dex3102.htm
+ SECTION 302 CERTIFICATION OF CFO
+
+Section 302 Certification of CFO 
+
+Exhibit 31.02             I, Craig A. Creaturo, certify that:         
+
+1.  
+  I have reviewed this quarterly report on Form 10-Q of II-VI Incorporated;           
+
+2.  
+  Based on my knowledge, this report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the
+circumstances under which such statements were made, not misleading with respect to the period covered by this report;           
+
+3.  
+  Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of
+operations and cash flows of the registrant as of, and for, the periods presented in this report;           
+
+4.  
+  The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e)
+and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the registrant and have:              a) Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under
+our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;
+           b) Designed such internal control over financial reporting,
+or caused such internal control over financial reporting to be designed under our supervision, to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in
+accordance with generally accepted accounting principles;            c)
+Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this
+report based on such evaluation; and            d) Disclosed in this
+report any change in the registrant s internal control over financial reporting that occurred during the registrant s most recent fiscal quarter that has materially affected, or is reasonably likely to materially affect, the
+registrant s internal control over financial reporting; and         
+
+5.  
+  The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s
+auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions):              a) All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably
+likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and            b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control
+over financial reporting.         
+
+February 8, 2006   
+
+By:  
+     
+  /s/    C RAIG  A. C REATURO            
+
+Craig A. Creaturo    
+
+Chief Financial Officer and Treasurer    
+
+</EX-31.02>
+
+<EX-32.01>
+ 9
+ dex3201.htm
+ SECTION 906 CERTIFICATION OF CEO
+
+Section 906 Certification of CEO 
+
+Exhibit 32.01              CERTIFICATION PURSUANT TO        18 U.S.C. SECTION 1350,        AS ADOPTED PURSUANT TO        SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002             In connection with the Quarterly Report of II-VI Incorporated (the  Corporation ) on Form 10-Q for the period ending December 31, 2005 as
+filed with the Securities and Exchange Commission on the date hereof (the  Report ), the undersigned officer of the Corporation certifies, pursuant to 18 U.S.C.   1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act
+of 2002, that, to his knowledge:         
+
+(1)  
+  The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and           
+
+(2)  
+  The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Corporation.           
+
+Date: February 8, 2006  
+
+/s/    C ARL  J. J OHNSON            
+
+Carl J. Johnson    
+
+Chairman and Chief Executive Officer    
+
+*  
+  This certification is made solely for purposes of 18 U.S.C. Section 1350, subject to the knowledge standard contained therein, and not for any other purpose.
+
+</EX-32.01>
+
+<EX-32.02>
+ 10
+ dex3202.htm
+ SECTION 906 CERTIFICATION OF CFO
+
+Section 906 Certification of CFO 
+
+Exhibit 32.02              CERTIFICATION PURSUANT TO        18 U.S.C. SECTION 1350,        AS ADOPTED PURSUANT TO        SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002             In connection with the Quarterly Report of II-VI Incorporated (the  Corporation ) on Form 10-Q for the period ending December 31, 2005 as
+filed with the Securities and Exchange Commission on the date hereof (the  Report ), the undersigned officer of the Corporation certifies, pursuant to 18 U.S.C.   1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act
+of 2002, that, to his knowledge:         
+
+(1)  
+  The Report fully complies with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934; and           
+
+(2)  
+  The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Corporation.           
+
+Date: February 8, 2006  
+
+/s/    C RAIG  A. C REATURO            
+
+Craig A. Creaturo    
+
+Chief Financial Officer and Treasurer    
+
+*  
+  This certification is made solely for purposes of 18 U.S.C. Section 1350, subject to the knowledge standard contained therein, and not for any other purpose.
+
+</EX-32.02>
+

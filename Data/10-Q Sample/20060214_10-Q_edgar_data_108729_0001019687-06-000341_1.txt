@@ -1,0 +1,981 @@
+<Header>
+<FileStats>
+    <FileName>20060214_10-Q_edgar_data_108729_0001019687-06-000341_1.txt</FileName>
+    <GrossFileSize>60592</GrossFileSize>
+    <NetFileSize>44453</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>310</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>3</N_Tables>
+    <N_Exhibits>3</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001019687-06-000341.hdr.sgml : 20060214
+<ACCEPTANCE-DATETIME>20060214112231
+ACCESSION NUMBER:		0001019687-06-000341
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20051231
+FILED AS OF DATE:		20060214
+DATE AS OF CHANGE:		20060214
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Sun Motor International Inc
+		CENTRAL INDEX KEY:			0000108729
+		STANDARD INDUSTRIAL CLASSIFICATION:	CRUDE PETROLEUM & NATURAL GAS [1311]
+		IRS NUMBER:				840217330
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-07919
+		FILM NUMBER:		06609106
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5525 ERINDALE DR.
+		STREET 2:		SUITE 201
+		CITY:			COLORADO SPRINGS
+		STATE:			CO
+		ZIP:			80918
+		BUSINESS PHONE:		7192608509
+
+	MAIL ADDRESS:	
+		STREET 1:		5525 ERINDALE DR.
+		STREET 2:		SUITE 201
+		CITY:			COLORADO SPRINGS
+		STATE:			CO
+		ZIP:			80918
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	WYOMING OIL & MINERALS INC
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	WYOMING COAL CORP
+		DATE OF NAME CHANGE:	19810910
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ EqWffZTyESM6/bHuGNQcuKb9mSo1bfiL7CPQ0Q4aFqxTZd86/4Watg7tI4h3wpXH
+ zSnkKrbGBrosnDUxbZZu4g==
+
+ 0001019687-06-000341.txt : 20060214
+
+10-Q
+ 1
+ sunmotor_10q-123105.txt
+
+UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 10-Q
+(MARK ONE)
+
+[X]      QUARTERLY REPORT UNDER SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE
+         ACT OF 1934
+
+                FOR THE QUARTERLY PERIOD ENDED DECEMBER 31, 2005
+
+[ ]      TRANSITION REPORT UNDER SECTION 13 OR 15(D) OF THE EXCHANGE ACT
+
+000-33625
+                            (Commission file number)
+
+                          SUN MOTOR INTERNATIONAL, INC.
+             (Exact name of registrant as specified in its charter)
+
+             WYOMING                                             83-0217330
+  (State or other jurisdiction                                 (IRS Employer
+of incorporation or organization)                            Identification No.)
+
+         BLOCK B, G/F., PRINCE INDUSTRIAL BUILDING, 106 KING FUK STREET,
+                         SAN PO KONG, KOWLOON, HONG KONG
+                    (Address of principal executive offices)
+
+                                 (852) 2321 6108
+                           (Issuer's telephone number)
+
+                         WYOMING OIL AND MINERALS, INC.
+              (Former name, former address and former fiscal year,
+                          if changed since last report)
+
+Check whether the issuer (1) filed all reports required to be filed by Section
+13 or 15(d) of the Exchange Act during the past 12 months (or for such shorter
+period that the registrant was required to file such reports), and (2) has been
+subject to such filing requirements for the past 90 days. Yes [X] No [ ]
+
+Indicate by check mark whether the registrant is a large accelerated filer or a
+non-accelerated filer. See definition of "accelerated filer and large
+accelerated filer" in Rule 12b-2 of the Exchange Act.
+
+Large accelerated filer [ ]    Accelerated filer [X]   Non-accelerated filer [ ]
+
+Check whether the registrant is a shell company (as defined in Rule 12b-2 of the
+Exchange Act).
+                                 Yes [ ] No [X]
+
+         The number of shares of common stock outstanding as of December 31,
+2005 was 29,440,062.
+
+SUN MOTOR INTERNATIONAL, INC.
+                          QUARTERLY REPORT ON FORM 10-Q
+                     FOR THE PERIOD ENDED DECEMBER 31, 2005
+
+INDEX
+                                                                            Page
+                                                                          Number
+PART I - FINANCIAL INFORMATION
+
+ITEM 1.     FINANCIAL STATEMENTS
+
+            Condensed Consolidated Balance Sheets as of
+            December 31, 2005 (unaudited) and March 31, 2005                   3
+
+            Condensed Consolidated Statements of Operation for
+            the three months and nine months ended December 31, 2005
+            and 2004 (unaudited)                                               4
+
+            Condensed Consolidated Statements of Cash Flows for
+            the nine months ended December 31, 2005 and 2004 (unaudited)       5
+
+            Notes to Condensed Consolidated Financial Statements (unaudited)   6
+
+ITEM 2.     MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+            AND RESULTS OF OPERATIONS                                         12
+
+ITEM 3.     QUANTITATIVE AND QUALITATIVE DISCLOSURE CONTROLS ABOUT
+            MARKET RISKS                                                      14
+
+ITEM 4.     CONTROLS AND PROCEDURES                                           15
+
+PART II - OTHER INFORMATION
+
+ITEM 6.     EXHIBITS                                                          16
+
+SIGNATURES                                                                    17
+
+SUN MOTOR INTERNATIONAL, INC.
+               (FORMERLY KNOWN AS WYOMING OIL AND MINERALS, INC.)
+
+         NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+NOTES
+
+1.       CHANGES OF COMPANY NAME AND FINANCIAL YEAR END DATE
+
+         On July 9, 2005, the Board of Directors of Wyoming Oil and Minerals,
+         Inc. (the "Company") approved a change of fiscal year end date from
+         February 28 to March 31, effective as of July 9, 2005.
+
+         Effective August 6, 2005, the Company changed its name from Wyoming Oil
+         & Minerals, Inc. to Sun Motor International, Inc. to reflect the change
+         in the Company's business.
+
+2.       BASIS OF PRESENTATION
+
+         (i)      The accompanying condensed consolidated financial statements
+                  of the Company and its subsidiaries have been prepared in
+                  accordance with generally accepted accounting principles in
+                  the United States of America for interim consolidated
+                  financial information and with the instructions to Form 10-Q
+                  and Regulation S-X. Accordingly, they do not include all the
+                  information and notes necessary for comprehensive consolidated
+                  financial statements.
+
+                  In the opinion of the management of the Company, all
+                  adjustments, which are of a normal recurring nature, necessary
+                  for a fair statement of the results for the nine-month periods
+                  have been made. Results for the interim period presented are
+                  not necessarily indicative of the results that might be
+                  expected for the entire fiscal year. These condensed financial
+                  statements be read in conjunction with the consolidated
+                  financial statements and the notes thereto included in the
+                  Company's Form 8K as filed with the Securities and Exchange
+                  Commission on December 6, 2005.
+
+         (ii)     On May 2, 2005, the Company executed an agreement to acquire
+                  all the issued and outstanding capital stock of Bestip
+                  Development International Limited ("Bestip"). Pursuant to the
+                  terms of the agreement, the Company will issue a total of
+                  28,000,000 shares of its common stock in exchange for all of
+                  the capital stock of Bestip.
+
+                  On June 15, 2005, the share exchange transaction was completed
+                  and it constituted a reverse takeover transaction.
+                  Accordingly, the purchase method under reverse takeover
+                  accounting is adopted for the preparation of consolidated
+                  financial statements. It means that the consolidated financial
+                  statements are issued under the name of the legal parent, the
+                  Company, but a continuation of the consolidated financial
+                  statements of Bestip. The comparative figures are those of
+                  Bestip.
+
+3.       DESCRIPTION OF BUSINESS
+
+         Pursuant to the reverse takeover transaction as detailed in note 2(ii),
+         the Company is engaged in the designing and manufacturing of various
+         types of micro motors for toys, electrical appliances, office
+         equipment, automobile accessories, cameras, DVDs and MP3 players. The
+         customers are mainly located in Japan, Taiwan, Europe, the United
+         States of America, Canada and the People's Republic of China (the
+         "PRC"). Details of geographic information are presented in note 10.
+
+6
+
+SUN MOTOR INTERNATIONAL, INC.
+               (FORMERLY KNOWN AS WYOMING OIL AND MINERALS, INC.)
+
+         NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+NOTES
+
+4.       SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+         PRINCIPLES OF CONSOLIDATION
+
+         The condensed consolidated financial statements include the accounts of
+         the Company and its subsidiaries. All significant inter-company
+         balances and transactions are eliminated in consolidation.
+
+         USE OF ESTIMATES
+
+         In preparing financial statements in conformity with accounting
+         principles generally accepted in the United States of America,
+         management makes estimates and assumptions that affect the reported
+         amounts of assets and liabilities and disclosures of contingent assets
+         and liabilities at the dates of the financial statements, as well as
+         the reported amounts of revenues and expenses during the reporting
+         periods. These accounts and estimates include, but are not limited to,
+         the valuation of accounts receivable, inventories, deferred income
+         taxes and the estimation on useful lives of property, plant and
+         machinery. Actual results could differ from those estimates.
+
+         ACCOUNTS RECEIVABLE
+
+         The Company extends unsecured credit to customers in the normal course
+         of business and believes all accounts receivable in excess of the
+         allowances for doubtful accounts to be fully collectible. If accounts
+         receivable in excess of the provided allowance are determined
+         uncollectible, they are charged to expense in the year that
+         determination is made. The Company does not accrue interest on trade
+         accounts receivable. Accounts receivable are due 30 to 180 days after
+         the invoice date.
+
+         INVENTORIES
+
+         Inventories are valued at the lower of cost or market with cost
+         determined on a weighted average basis.
+
+         PROPERTY, PLANT AND EQUIPMENT
+
+         Property, plant and equipment are stated at cost less accumulated
+         depreciation and amortization. Maintenance, repairs and betterments,
+         including replacement of minor items, are charged to expense; major
+         additions to physical properties are capitalized.
+
+         Depreciation and amortization are provided using the straight-line
+         method over the estimated useful lives at the following annual rates :
+
+                  Land                           Over the term of the lease
+                  Buildings                      4%
+                  Building improvements          20%
+                  Machinery and equipment        10% - 20%
+
+7
+
+SUN MOTOR INTERNATIONAL, INC.
+               (FORMERLY KNOWN AS WYOMING OIL AND MINERALS, INC.)
+
+         NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+NOTES
+
+4.       SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES (CONT'D)
+
+         REVENUE RECOGNITION
+
+         Revenues are recognized upon shipment of product, at which time title
+         of goods has been transferred to the buyer.
+
+         RECENTLY ISSUED ACCOUNTING PRONOUNCEMENTS
+
+         NEW ACCOUNTING PRONOUNCEMENT
+
+         In May 2005, the Financial Accounting Standards Board ("FASB") issued
+         FASB Statement No. 154 "Accounting Changes and Error Corrections - a
+         replacement of APB Opinion No. 20 and FASB Statement No. 3". This
+         statement replaces APB Opinion No. 20 "Accounting Changes" and FASB
+         Statement No. 3 "Reporting Accounting Changes in Interim Financial
+         Statements", and changes the requirements for the accounting for and
+         reporting of a change in accounting principle. It applies to all
+         voluntary changes in accounting principle and to changes required by an
+         accounting pronouncement which does not include specific transition
+         provisions. FASB No. 154 requires retrospective application to prior
+         periods' financial statements of changes in accounting principle,
+         unless it is impracticable to determine either the period-specific
+         effects or the cumulative effect of the change. When it is
+         impracticable to determine the period-specific effects of an accounting
+         change on one or more individual prior periods presented, this
+         statements requires that the new accounting principle be applied to the
+         balances of assets and liabilities as of the beginning of the earliest
+         period for which retrospective application is practicable and that a
+         corresponding adjustment be made to the opening balance of retained
+         earnings for that period rather than being reported in an income
+         statement. When it is impracticable to determine the cumulative effect
+         of applying a change in accounting principle to all prior periods, this
+         statement requires that the new accounting principle be applied as if
+         it were adopted prospectively from the earliest date applicable.
+
+         The adoption of the statement had no material impact on the Company's
+         results of operation or financial position.
+
+5.       INCOME TAX EXPENSES
+
+         Income tax expenses represent the sum of current and deferred taxes,
+         calculated at 17.5% on the estimated assessable profits of subsidiaries
+         operating in Hong Kong.
+
+8
+
+SUN MOTOR INTERNATIONAL, INC.
+               (FORMERLY KNOWN AS WYOMING OIL AND MINERALS, INC.)
+
+         NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+NOTES
+
+6.       NET INCOME PER SHARE
+
+         The basic and diluted net income per share is calculated using the net
+         income and the weighted average number of shares outstanding during the
+         reporting period.
+
+# The number represents the number of shares issued by the Company for
+the Exchange.
+
+7.       INVENTORIES
+
+         Inventories consist of the following :
+
+                                                              AT             AT
+                                                    DECEMBER 31,      MARCH 31,
+                                                            2005           2005
+                                                     (UNAUDITED)      (AUDITED)
+                                                             USD            USD
+                                                      ----------     ----------
+         Raw materials                                 6,041,538      5,239,622
+         Work in progress                                349,540        375,178
+         Finished goods                                1,851,229      1,649,512
+                                                      ----------     ----------
+
+                                                       8,242,307      7,264,312
+         Less: Allowance for obsolete inventories       (108,332)      (108,332)
+                                                      ----------     ----------
+
+                                                       8,133,975      7,155,980
+                                                      ==========     ==========
+
+9
+
+SUN MOTOR INTERNATIONAL, INC.
+               (FORMERLY KNOWN AS WYOMING OIL AND MINERALS, INC.)
+
+         NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+NOTES
+
+8.       CREDIT FACILITIES
+
+         During the period, additional credit facilities were granted from banks
+         and financial institutions. The credit limit of Trade line/bank
+         borrowings line, Bank overdrafts line and Capital lease arrangements
+         increased from $9.0 million, $2.8 million and $1.1 million to $15.9
+         million, $3.3 million and $1.4 million respectively at the end of the
+         period.
+
+         Credit facilities were utilized as follows at the end of the periods:
+
+                                                              AT             AT
+                                                    DECEMBER 31,      MARCH 31,
+                                                            2005           2005
+                                                     (UNAUDITED)      (AUDITED)
+                                                             USD            USD
+                                                    ------------   ------------
+
+         Trade line/bank borrowings                   12,028,219      8,622,520
+         Bank overdrafts                               3,322,041      2,795,015
+         Capital lease obligations                     1,407,948      1,088,426
+                                                    ------------   ------------
+
+                                                      16,758,208     12,505,961
+                                                    ============   ============
+
+9. COMMON STOCK                                    NO. OF SHARES     AMOUNT USD
+
+         Authorized :
+
+             Common stock at USD0.01 par value        50,000,000        500,000
+                                                    ============   ============
+
+         Issued and outstanding :
+
+             Common stock at USD0.01 par value
+             At December 31, 2005
+                Bestip share capital                          --            100
+                The Company share capital              1,440,062             --
+             Shares issued for acquisition
+               of Bestip (Note 2(ii))                 28,000,000        294,301
+                                                    ------------   ------------
+
+             At December 31, 2005                     29,440,062        294,401
+                                                    ============   ============
+
+10
+
+SUN MOTOR INTERNATIONAL, INC.
+               (FORMERLY KNOWN AS WYOMING OIL AND MINERALS, INC.)
+
+         NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+NOTES
+
+10.      SEGMENT INFORMATION
+
+         The nature of the products, their production processes, the type of
+         their customers and their distribution methods are substantially
+         similar, they are considered as a single reportable segment under FAS
+         131, "Disclosures about Segments of an Enterprise and Related
+         Information".
+
+         Long-lived assets with net book value of USD14,158,001 are located in
+         the PRC at December 31, 2005. Geographic information about the
+         revenues, which are classified based on location of the customers, is
+         set out as follows :-
+
+11.      PENSION PLANS
+
+         The Company participates in a defined contribution pension scheme under
+         the Mandatory Provident Fund Schemes Ordinance ("MPF Scheme") for all
+         of its eligible employees in Hong Kong.
+
+         The MPF Scheme is available to all employees aged 18 to 64 with at
+         least 60 days of service in the employment in Hong Kong. Contributions
+         are made by the Company's subsidiary operating in Hong Kong at 5% of
+         the participants' relevant income with a ceiling of HK$20,000. The
+         participants are entitled to 100% of the Company's contributions
+         together with accrued returns irrespective of their length of service
+         with the Company, but the benefits are required by law to be preserved
+         and not to be withdrawn until the retirement age of 65.
+
+         As stipulated by the PRC government regulations, the Company's
+         subsidiary operating in the PRC is required to contribute to the PRC
+         insurance companies organized by the PRC Government which are
+         responsible for the payments of pension benefits to retired staff. The
+         monthly contribution was equal to 28.5% of the salaries of the staff.
+         The Company has no obligation for the payment of pension benefits
+         beyond the annual contributions described above.
+
+         The assets of the plans are controlled by trustees and held separately
+         from those of the Company. Total pension cost was USD43,620 and
+         USD43,854 during the nine months ended December 31, 2005 and 2004
+         respectively.
+
+11
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS
+
+OVERVIEW
+
+The Company was incorporated under the laws of the State of Wyoming on February
+23, 1973. Between April 2004 and the close of the reverse acquisition described
+below, we had insignificant assets and had not generated significant revenues.
+
+On June 15, 2005, Bestip Development International Limited, an International
+Business Company organized under the laws of the British Virgin Islands
+("Bestip"), completed the reverse acquisition of our company, pursuant to which
+we acquired all of the outstanding capital shares of Bestip in exchange for a
+controlling interest in our company (the "Reorganization"). Pursuant to the
+Securities Purchase Agreement and Plan of Reorganization dated May 2, 2005 (the
+"Purchase Agreement") by and among the Company, Bestip and the shareholders of
+Bestip, at the closing of the Purchase Agreement, the shareholders of Bestip
+transferred to the Company all of the outstanding capital shares of Bestip in
+exchange for the issuance of 28,000,000 shares of the Company's common stock to
+the shareholders of Bestip (representing approximately 95% of our total capital
+stock outstanding after giving effect to its acquisition of Bestip). As a result
+of the Reorganization, Bestip became our wholly-owned subsidiary.
+
+Bestip was incorporated in the British Virgin Islands on April 26, 1994 by Mr.
+Simon Shi as the investment holding company of the Sun Motor Technology group of
+companies ('Sun Motor"). Sun Motor designs, manufactures and markets micro
+motors for a wide range of applications including automobile components, home
+appliances, power tools, multimedia, personal care, and business equipment. Its
+clients include several European and US based multinational corporations.
+
+On June 24, 2005, the Company filed with the Securities and Exchange Commission
+a Current Report on Form 8-K that disclosed, among other things, the audited
+financial statements of Bestip as of and for the fiscal years ended March 31,
+2004 and 2003, and the unaudited balance sheet of Bestip as of December 31, 2004
+and unaudited statements of income and cash flows for the nine months then
+ended.
+
+On July 11, 2005, the Company filed a definitive information statement with the
+Securities and Exchange Commission in connection with a proposed amendment to
+our articles of incorporation to change our name to "Sun Motor International,
+Inc." The amendment to the Company's articles of incorporation became effective
+on August 6, 2005, upon filing with the Wyoming Secretary of State.
+
+Since the stockholders of Bestip acquired approximately 95% of our issued and
+outstanding common shares and the Bestip management team and board of directors
+became the management team and board of directors of the Company, according to
+FASB Statement No. 141 - "Business Combinations," this acquisition has been
+treated as a recapitalization for accounting purposes, in a manner similar to
+reverse acquisition accounting. In accounting for this transaction:
+
+o     Bestip is deemed to be the purchaser and surviving company for accounting
+      purposes. Accordingly, its net assets are included in the Company's
+      balance sheet at their historical book values and the results of
+      operations of Bestip have been presented for the comparative prior period;
+      and
+o     Control of the net assets and business of Wyoming Oil & Minerals, Inc. was
+      acquired effective June 15, 2005. This transaction has been accounted for
+      as a purchase of the assets and liabilities of Wyoming Oil and Minerals,
+      Inc. by Bestip. The historical cost of the net liabilities assumed was $0.
+
+                                       12
+
+FORWARD LOOKING STATEMENTS
+
+The statements contained in this report that are not historical are
+"forwarding-looking statements" within the meaning of Section 27A of the
+Securities Act of 1933, as amended (the "Securities Act"), and Section 27E of
+the Securities Exchange Act of 1934, as amended (the "Exchange Act"), including
+statements, without limitation, regarding the Company's expectations, beliefs,
+intentions or strategies regarding the future. Wyoming Oil & Minerals Inc. and
+Bestip intend that such forward-looking statements be subject to the safe-harbor
+provided by the Private Securities Litigation Act of 1995. Such forward-looking
+statements relate to, among other things: (1) success of the reverse
+acquisition; (2) our expected revenue and earnings growth; and (3) estimates
+regarding the size of target markets. These statements are qualified by
+important factors that could cause our actual results to differ materially from
+those reflected by the forward-looking statements. Such factors include but are
+not limited to: (1) our ability to obtain development financing as and when
+needed, (2) our continued profitable operations; (3) competition from other
+micro motor OEM companies and technologies, and (5) our ability to protect our
+intellectual property. These statements, and other forward-looking statements,
+are not guarantees of future performance and involve risks and uncertainties.
+Except as required by law, we do not undertake any obligation to update or keep
+current either (i) any forward-looking statement or reflect events or
+circumstances arising after the date of such statement, or (ii) the important
+factors that could cause our future results to differ materially from historical
+results or trends, results anticipated or planned by us, or which are reflected
+from time to time in any forward-looking statement.
+
+RESULTS OF OPERATIONS
+
+FOR THE THREE MONTHS ENDED DECEMBER 31, 2005 COMPARED TO DECEMBER 31, 2004
+
+NET SALES
+Net sales for the three months ended December 31, 2005 increased by $1.7 million
+(15.1%) to $13.4 million compared to $11.7 million for the three months ended
+December 31, 2004. Higher net sales for the three months period were mainly
+contributed by increasing sales to Japan.
+
+COST OF SALES
+Cost of sales for the three months ended December 31, 2005 totaled $10.2
+million, or 75.9% of net sales, compared to $9.1 million, or 77.6% of net sales,
+for the three months ended December 31, 2004. Our gross margin for the three
+months ended December 31, 2005 was 24.1% compared to 22.4% in the three months
+ended December 31, 2004. This improvement in gross margin reflected better
+profitability of sales to the Japan market.
+
+DEPRECIATION AND AMORTIZATION
+Depreciation and amortization expenses of back office maintained at the similar
+level as same period of last year. They decreased by 0.16% as a percentage of
+total net sales because of increased sales during the period.
+
+SELLING, GENERAL AND ADMINISTRATIVE EXPENSES
+Selling, general and administrative expenses increased by $241,204 (11.4%) to
+$2.35 million for the three months ended December 31, 2005 compared with $2.11
+million for the same period last year. The increase was due primarily to
+additional staff and facilities in preparation for expected sales increases in
+coming year. As a percentage of total net sales, selling, general and
+administrative expenses were 17.5% for the three months ended December 31, 2005
+compared with 18.1% for the prior year period.
+
+OTHER INCOME
+Other income increased by $17,005 to $49,562 for the three months period ended
+December 31, 2005. The increase was due mainly to increased interest rate and
+additional interest income on bank deposits pledged as collateral for secured
+banking facilities.
+
+INTEREST AND CAPITAL LEASE CHARGES
+Interest and capital lease charges increased by $180,475 (144.8%) to $305,086 as
+a result of overall increase in interest rates and higher usage of bank
+facilities used to finance expanding sales.
+
+NET INCOME
+Net income increased by $253,253 for the three months ended December 31, 2005 to
+$445,211 from$191,958 for the same period of the prior year. Net income as a
+percentage of net sales improved from 1.6% to 3.3% from the same period of last
+year.
+
+                                       13
+
+FOR THE NINE MONTHS ENDED DECEMBER 31, 2005 COMPARED TO DECEMBER 31, 2004
+
+NET SALES
+Net sales for the nine months ended December 31, 2005 increased by $5.1 million
+(13.6%) to $42.6 million compared to $37.5 million for the nine months ended
+December 31, 2004. Higher sales for the nine months ended December 31, 2005 were
+mainly contributed by increased sales to Japan, Taiwan and North America.
+
+COST OF SALES
+Cost of sales for the nine months ended December 31, 2005 totaled $33.0 million,
+or 77.5% of net sales, compared to $29.2 million, or 78.0% of net sales, for the
+nine months ended December 31, 2004. Our gross margin for the nine months ended
+December 31, 2005 was 22.5% compared to 22.0% in the nine months ended December
+31, 2004. This improvement in gross margin reflected changes in sales mix with
+higher value-added in the period.
+
+DEPRECIATION AND AMORTIZATION EXPENSES
+Depreciation and amortization expenses maintained at the similar level as same
+period of last year. They decreased by 0.07% as a percentage of total net sales
+because of increased sales during the period.
+
+SELLING, GENERAL AND ADMINISTRATIVE EXPENSES
+Selling, general and administrative expenses increased by $612,253 or 9.4% for
+the nine months ended December 31, 2005 to $7.15 million from $6.54 million for
+the same period of the prior year. This increase was primarily a result of
+higher advertising and promotional expenses and expansion of sales force during
+the period. As a percentage of total net sales, selling, general and
+administrative expenses declined to 16.8% from17.4% for the prior year period.
+
+OTHER INCOME
+Although additional interest income was earned on increased bank deposits
+pledged as collateral for secured banking facilities, Other income decreased by
+18.2% to $124,487 for the nine months period ended December 31, 2005 in
+comparison with the same period prior year, as a result of the reduction in
+interest bearing loan to a Director after the reverse acquisition on June 15,
+2005.
+
+INTEREST AND CAPITAL LEASE CHARGES
+Interest and capital lease charges increased by $308,412 (74.0%) to $725,011,
+reflecting overall increases in interest rate and higher utilization of banking
+facilities to finance our growing sales during the period.
+
+NET INCOME
+Net income increased by $383,598 to $1,296,712 for the nine months ended
+December 31, 2005 compared with $913,114 for the prior year period. This
+increase reflected higher sales for the nine months combined with increasing
+operating margins as shown in an improving net income to sales ratio (3.0% for
+the nine months compared with 2.4% for the prior year period).
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+The Company has relied primarily on cash flow from operations and bank loans for
+its capital requirements. The Company had a working capital surplus of $714,518
+as of December 31, 2005.
+
+The Company believes that it will need approximately $2.5 million of an
+additional working capital, in addition to our existing cash and cash
+equivalents and cash generated by operations, in order to meet the Company's
+working capital needs, capital expenditures, and commitments for the next 12
+months. The Company will require additional financing to fund acquisitions or
+additional facilities. In this connection, the Company is seeking to raise
+additional funds through a placement of equity or debt or a combination thereof
+although no assurance can be given that such funds will be available, or if
+available, the terms thereof.
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+The Company does not have any market risk with respect to such factors as
+commodity prices, equity prices, and other market changes that affect market
+risk sensitive investments. A 10 basis point change in the Company's average
+debt interest rate would not have a material effect on the Company's results of
+operations.
+
+                                       14
+
+With respect to foreign currency exchange rates, the effect of a devaluation or
+fluctuation of the HK dollar against the US dollar would affect the Company's
+results of operations, financial position and cash flows, when presented in US
+dollars (based on a current exchange rate) as compared to HK dollars.
+
+As the Company's debt obligations are primarily short-term in nature, with fixed
+interest rates, the Company does not have any risk from an increase in market
+interest rates. However, to the extent that the Company arranges new borrowings
+in the future, an increase in market interest rates would cause a commensurate
+increase in the interest expense related to such borrowings.
+
+The Company uses a broad range of raw materials in its products. Such materials
+are subject to price volatility caused by commodity market fluctuations, supply
+and demand, currency fluctuations, and changes in governmental regulation. Price
+increases will result in increases in cost of sales. The Company may not be able
+to increase its product prices to offset these increased costs, and increasing
+prices may result in reduced sales volume and profitability.
+
+ITEM 4. CONTROLS AND PROCEDURES
+The Company maintains a system of controls and procedures designed to provide
+reasonable assurance as to the reliability of the financial statements and other
+disclosures included in this report. As of December 31, 2005, under the
+supervision and with the participation of our Chief Executive Officer and Chief
+Financial Officer, management has evaluated the effectiveness of the design and
+operation of our disclosure controls and procedures. Based on that evaluation,
+our Chief Executive Officer and the Chief Financial Officer concluded that our
+disclosure controls and procedures were effective in timely alerting them to
+material information required to be included in our periodic filings with the
+Securities and Exchange Commission.
+
+There were no changes in our internal control over financial reporting that
+occurred during the nine months ended December 31, 2005 that have materially
+affected, or are reasonably likely to materially affect, the Company's internal
+control over financial reporting.
+
+15
+
+PART II.   OTHER INFORMATION
+
+ITEM 6.    EXHIBITS
+
+REGULATION
+    S-K NUMBER                             EXHIBIT
+
+       31.1         Rule 13a-14(a) Certification of Chief Executive Officer
+
+       31.2         Rule 13a-14(a) Certification of Chief Financial Officer
+
+       32.1         Certification of Chief Executive Officer and Chief Financial
+                       Officer pursuant to 18 U.S.C. Section 1350, as Adopted
+                       Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+
+16
+
+SIGNATURES
+
+         Pursuant to the requirements of the Securities Exchange Act of 1934,
+the Registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+                                                   Sun Motor International, Inc.
+                                                            (Registrant)
+
+Date:  February 14, 2006
+
+                                                   By: /s/ Simon Shi
+                                                       -------------------------
+                                                       Simon Shi,
+                                                       Chief Executive Officer
+
+By: /s/ Eric Wong
+                                                       -------------------------
+                                                       Eric Wong,
+                                                       Chief Financial Officer
+
+17
+
+<EX-31.1>
+ 2
+ sun_ex3101.txt
+
+EXHIBIT 31.1
+
+CERTIFICATION
+            PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002
+
+         In connection with the accompanying Quarterly Report on Form 10-Q of
+Sun Motor International, Inc. (the "Company") for the quarter ended December 31,
+2005, as filed with the Securities and Exchange Commission on the date hereof,
+the undersigned, in the capacity and date indicated below, hereby certifies
+that:
+
+         1. I have reviewed this quarterly report on Form 10-Q of Sun Motor
+International, Inc.;
+
+         2. Based on my knowledge, this quarterly report does not contain any
+untrue statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which such
+statements were made, not misleading with respect to the period covered by this
+quarterly report;
+
+         3. Based on my knowledge, the financial statements, and other financial
+information included in this quarterly report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the
+Company as of, and for, the periods presented in this quarterly report;
+
+         4. The Company's other certifying officers and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-14 and 15d-14) for the Company and have:
+
+       (a) designed such disclosure controls and procedures, or caused such
+      disclosure controls and procedures to be designed under our supervision,
+      to ensure that material information relating to the Company, including its
+      consolidated subsidiaries, is made known to us by others within those
+      entities, particularly during the period in which this annual report is
+      being prepared;
+
+      (b) evaluated the effectiveness of the Company's disclosure controls and
+      procedures and presented in this report our conclusions about the
+      effectiveness of the disclosure controls and procedures, as of the end of
+      the period covered by this report based on such evaluation; and
+
+      (c) disclosed in this report any change in the Company's internal control
+      over financial reporting that occurred during the Company's most recent
+      fiscal quarter (the Company's fourth fiscal quarter in the case of an
+      annual report) that has materially affected or is reasonably likely to
+      materially affect, the Company's internal control over financial
+      reporting; and
+
+         5. The Company's other certifying officers and I have disclosed, based
+on our most recent evaluation of internal control over financial reporting, to
+the Company's auditors and the audit committee of Company's board of directors
+(or persons performing the equivalent functions):
+
+         (a) all significant deficiencies and material weaknesses in the design
+      or operation of internal control over financial reporting which are
+      reasonably likely to adversely affect the Company's ability to record,
+      process, summarize and report financial information; and
+
+         (b) any fraud, whether or not material, that involves management or
+      other employees who have a significant role in the Company's internal
+      control over financial reporting.
+
+Date: February 14, 2006
+
+                                                  By: /s/ Simon Shi
+                                                      -----------------------
+                                                      Simon Shi,
+                                                      Chief Executive Officer
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ sun_ex3102.txt
+
+EXHIBIT 31.2
+
+CERTIFICATION
+            PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002
+
+         In connection with the accompanying Quarterly Report on Form 10-Q of
+Sun Motor International, Inc. (the "Company") for the quarter ended December 31,
+2005, as filed with the Securities and Exchange Commission on the date hereof,
+the undersigned, in the capacity and date indicated below, hereby certifies
+that:
+
+         1. I have reviewed this quarterly report on Form 10-Q of Sun Motor
+      International, Inc.;
+
+         2. Based on my knowledge, this quarterly report does not contain any
+      untrue statement of a material fact or omit to state a material fact
+      necessary to make the statements made, in light of the circumstances under
+      which such statements were made, not misleading with respect to the period
+      covered by this quarterly report;
+
+         3. Based on my knowledge, the financial statements, and other financial
+      information included in this quarterly report, fairly present in all
+      material respects the financial condition, results of operations and cash
+      flows of the Company as of, and for, the periods presented in this annual
+      report;
+
+         4. The Company's other certifying officers and I are responsible for
+      establishing and maintaining disclosure controls and procedures (as
+      defined in Exchange Act Rules 13a-14 and 15d-14) for the Company and have:
+
+         (a) designed such disclosure controls and procedures, or caused such
+      disclosure controls and procedures to be designed under our supervision,
+      to ensure that material information relating to the Company, including its
+      consolidated subsidiaries, is made known to us by others within those
+      entities, particularly during the period in which this annual report is
+      being prepared;
+
+         (b) evaluated the effectiveness of the Company's disclosure controls
+      and procedures and presented in this report our conclusions about the
+      effectiveness of the disclosure controls and procedures, as of the end of
+      the period covered by this report based on such evaluation; and
+
+         (c) disclosed in this report any change in the Company's internal
+      control over financial reporting that occurred during the Company's most
+      recent fiscal quarter (the Company's fourth fiscal quarter in the case of
+      an annual report) that has materially affected or is reasonably likely to
+      materially affect, the Company's internal control over financial
+      reporting; and
+
+         5. The Company's other certifying officers and I have disclosed, based
+      on our most recent evaluation of internal control over financial
+      reporting, to the Company's auditors and the audit committee of Company's
+      board of directors (or persons performing the equivalent functions):
+
+         (a) all significant deficiencies and material weaknesses in the design
+      or operation of internal control over financial reporting which are
+      reasonably likely to adversely affect the Company's ability to record,
+      process, summarize and report financial information; and
+
+         (b) any fraud, whether or not material, that involves management or
+      other employees who have a significant role in the Company's internal
+      control over financial reporting.
+
+Date: February 14, 2006
+
+                                                  By: /s/ Eric Wong
+                                                      --------------------------
+                                                      Eric Wong,
+                                                      Chief Financial Officer
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ sun_ex3201.txt
+
+EXHIBIT 32.1
+
+CERTIFICATION
+            PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+         I, Simon Shi, Chief Executive Officer, and I, Eric Wong, Chief
+Financial Officer, of Sun Motor International, Inc. (the "Company") certify
+that:
+
+         1. I have reviewed the quarterly report on Form 10-Q of Sun Motor
+International, Inc.;
+
+         2. Based on my knowledge, this quarterly report does not contain any
+untrue statement of a material fact or omit to state a material fact necessary
+to make the statements made, in light of the circumstances under which such
+statements were made, not misleading with respect to the period covered by this
+quarterly report; and
+
+         3. Based on my knowledge, the financial statements, and other financial
+information included in this quarterly report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the
+Company as of, and for, the period presented in this quarterly report.
+
+Date: February 14, 2006
+
+By: /s/ Simon Shi
+                                                     ------------------------
+                                                     Simon Shi,
+                                                     Chief Executive Officer
+
+By: /s/ Eric Wong
+                                                     ------------------------
+                                                     Eric Wong,
+                                                     Chief Financial Officer
+
+</EX-32.1>
+

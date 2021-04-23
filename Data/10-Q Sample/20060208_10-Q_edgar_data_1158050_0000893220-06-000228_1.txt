@@ -1,0 +1,2744 @@
+<Header>
+<FileStats>
+    <FileName>20060208_10-Q_edgar_data_1158050_0000893220-06-000228_1.txt</FileName>
+    <GrossFileSize>637507</GrossFileSize>
+    <NetFileSize>104579</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>303184</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>37</N_Tables>
+    <N_Exhibits>5</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000893220-06-000228.hdr.sgml : 20060208
+<ACCEPTANCE-DATETIME>20060208164918
+ACCESSION NUMBER:		0000893220-06-000228
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		6
+CONFORMED PERIOD OF REPORT:	20051231
+FILED AS OF DATE:		20060208
+DATE AS OF CHANGE:		20060208
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AIRGAS MID AMERICA INC
+		CENTRAL INDEX KEY:			0001158047
+		IRS NUMBER:				611237230
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-68722-22
+		FILM NUMBER:		06589638
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O AIRGASS INC
+		STREET 2:		259 NORTH CHESTER RD STE 100
+		CITY:			RADNOR
+		STATE:			PA
+		ZIP:			190875283
+		BUSINESS PHONE:		6106875253
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O AIRGAS INC
+		STREET 2:		259 NORTH RADNOR CHESTER RD STE 100
+		CITY:			RADNOR
+		STATE:			PA
+		ZIP:			190875283
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AIRGAS NORTH CENTRAL INC
+		CENTRAL INDEX KEY:			0001158048
+		IRS NUMBER:				391845894
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-68722-21
+		FILM NUMBER:		06589637
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O AIRGASS INC
+		STREET 2:		259 NORTH CHESTER RD STE 100
+		CITY:			RADNOR
+		STATE:			PA
+		ZIP:			190875283
+		BUSINESS PHONE:		6106875253
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O AIRGAS INC
+		STREET 2:		259 NORTH RADNOR CHESTER RD STE 100
+		CITY:			RADNOR
+		STATE:			PA
+		ZIP:			190875283
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AIRGAS SOUTH INC
+		CENTRAL INDEX KEY:			0001158049
+		IRS NUMBER:				521390683
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-68722-20
+		FILM NUMBER:		06589636
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O AIRGASS INC
+		STREET 2:		259 NORTH CHESTER RD STE 100
+		CITY:			RADNOR
+		STATE:			PA
+		ZIP:			190875283
+		BUSINESS PHONE:		6106875253
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O AIRGAS INC
+		STREET 2:		259 NORTH RADNOR CHESTER RD STE 100
+		CITY:			RADNOR
+		STATE:			PA
+		ZIP:			190875283
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AIRGAS GULF STATES INC
+		CENTRAL INDEX KEY:			0001158050
+		IRS NUMBER:				521633106
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-68722-14
+		FILM NUMBER:		06589635
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O AIRGASS INC
+		STREET 2:		259 NORTH CHESTER RD STE 100
+		CITY:			RADNOR
+		STATE:			PA
+		ZIP:			190875283
+		BUSINESS PHONE:		6106875253
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O AIRGAS INC
+		STREET 2:		259 NORTH RADNOR CHESTER RD STE 100
+		CITY:			RADNOR
+		STATE:			PA
+		ZIP:			190875283
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AIRGAS INTERMOUNTAIN INC
+		CENTRAL INDEX KEY:			0001158051
+		IRS NUMBER:				840590677
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-68722-13
+		FILM NUMBER:		06589633
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O AIRGASS INC
+		STREET 2:		259 NORTH CHESTER RD STE 100
+		CITY:			RADNOR
+		STATE:			PA
+		ZIP:			190875283
+		BUSINESS PHONE:		6106875253
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O AIRGAS INC
+		STREET 2:		259 NORTH RADNOR CHESTER RD STE 100
+		CITY:			RADNOR
+		STATE:			PA
+		ZIP:			190875283
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AIRGAS NOR PAC INC
+		CENTRAL INDEX KEY:			0001158052
+		IRS NUMBER:				911428840
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-68722-11
+		FILM NUMBER:		06589632
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O AIRGASS INC
+		STREET 2:		259 NORTH CHESTER RD STE 100
+		CITY:			RADNOR
+		STATE:			PA
+		ZIP:			190875283
+		BUSINESS PHONE:		6106875253
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O AIRGAS INC
+		STREET 2:		259 NORTH RADNOR CHESTER RD STE 100
+		CITY:			RADNOR
+		STATE:			PA
+		ZIP:			190875283
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AIRGAS NORTHERN CALIFORNIA & NEVADA INC
+		CENTRAL INDEX KEY:			0001158053
+		IRS NUMBER:				232491493
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-68722-10
+		FILM NUMBER:		06589631
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O AIRGASS INC
+		STREET 2:		259 NORTH CHESTER RD STE 100
+		CITY:			RADNOR
+		STATE:			PA
+		ZIP:			190875283
+		BUSINESS PHONE:		6106875253
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O AIRGAS INC
+		STREET 2:		259 NORTH RADNOR CHESTER RD STE 100
+		CITY:			RADNOR
+		STATE:			PA
+		ZIP:			190875283
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AIRGAS SOUTHWEST INC
+		CENTRAL INDEX KEY:			0001158054
+		IRS NUMBER:				742768918
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-68722-09
+		FILM NUMBER:		06589630
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O AIRGASS INC
+		STREET 2:		259 NORTH CHESTER RD STE 100
+		CITY:			RADNOR
+		STATE:			PA
+		ZIP:			190875283
+		BUSINESS PHONE:		6106875253
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O AIRGAS INC
+		STREET 2:		259 NORTH RADNOR CHESTER RD STE 100
+		CITY:			RADNOR
+		STATE:			PA
+		ZIP:			190875283
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AIRGAS WEST INC
+		CENTRAL INDEX KEY:			0001158055
+		IRS NUMBER:				951525207
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-68722-08
+		FILM NUMBER:		06589629
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O AIRGASS INC
+		STREET 2:		259 NORTH CHESTER RD STE 100
+		CITY:			RADNOR
+		STATE:			PA
+		ZIP:			190875283
+		BUSINESS PHONE:		6106875253
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O AIRGAS INC
+		STREET 2:		259 NORTH RADNOR CHESTER RD STE 100
+		CITY:			RADNOR
+		STATE:			PA
+		ZIP:			190875283
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AIRGAS SAFETY INC
+		CENTRAL INDEX KEY:			0001158056
+		IRS NUMBER:				232840701
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-68722-07
+		FILM NUMBER:		06589628
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O AIRGASS INC
+		STREET 2:		259 NORTH CHESTER RD STE 100
+		CITY:			RADNOR
+		STATE:			PA
+		ZIP:			190875283
+		BUSINESS PHONE:		6106875253
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O AIRGAS INC
+		STREET 2:		259 NORTH RADNOR CHESTER RD STE 100
+		CITY:			RADNOR
+		STATE:			PA
+		ZIP:			190875283
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AIRGAS CARBONIC INC
+		CENTRAL INDEX KEY:			0001158058
+		IRS NUMBER:				582298979
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-68722-05
+		FILM NUMBER:		06589627
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O AIRGASS INC
+		STREET 2:		259 NORTH CHESTER RD STE 100
+		CITY:			RADNOR
+		STATE:			PA
+		ZIP:			190875283
+		BUSINESS PHONE:		6106875253
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O AIRGAS INC
+		STREET 2:		259 NORTH RADNOR CHESTER RD STE 100
+		CITY:			RADNOR
+		STATE:			PA
+		ZIP:			190875283
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AIRGAS SPECIALTY GASES INC
+		CENTRAL INDEX KEY:			0001158059
+		IRS NUMBER:				760182866
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-68722-04
+		FILM NUMBER:		06589626
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O AIRGASS INC
+		STREET 2:		259 NORTH CHESTER RD STE 100
+		CITY:			RADNOR
+		STATE:			PA
+		ZIP:			190875283
+		BUSINESS PHONE:		6106875253
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O AIRGAS INC
+		STREET 2:		259 NORTH RADNOR CHESTER RD STE 100
+		CITY:			RADNOR
+		STATE:			PA
+		ZIP:			190875283
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NITROUS OXIDE CORP
+		CENTRAL INDEX KEY:			0001158060
+		IRS NUMBER:				232359281
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-68722-03
+		FILM NUMBER:		06589625
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O AIRGASS INC
+		STREET 2:		259 NORTH CHESTER RD STE 100
+		CITY:			RADNOR
+		STATE:			PA
+		ZIP:			190875283
+		BUSINESS PHONE:		6106875253
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O AIRGAS INC
+		STREET 2:		259 NORTH RADNOR CHESTER RD STE 100
+		CITY:			RADNOR
+		STATE:			PA
+		ZIP:			190875283
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			RED D ARC INC
+		CENTRAL INDEX KEY:			0001158062
+		IRS NUMBER:				880259460
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-68722-01
+		FILM NUMBER:		06589624
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O AIRGASS INC
+		STREET 2:		259 NORTH CHESTER RD STE 100
+		CITY:			RADNOR
+		STATE:			PA
+		ZIP:			190875283
+		BUSINESS PHONE:		6106875253
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O AIRGAS INC
+		STREET 2:		259 NORTH RADNOR CHESTER RD STE 100
+		CITY:			RADNOR
+		STATE:			PA
+		ZIP:			190875283
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ATNL INC
+		CENTRAL INDEX KEY:			0001158063
+		IRS NUMBER:				510371219
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-68722-19
+		FILM NUMBER:		06589623
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O AIRGASS INC
+		STREET 2:		259 NORTH CHESTER RD STE 100
+		CITY:			RADNOR
+		STATE:			PA
+		ZIP:			190875283
+		BUSINESS PHONE:		6106875253
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O AIRGAS INC
+		STREET 2:		259 NORTH RADNOR CHESTER RD STE 100
+		CITY:			RADNOR
+		STATE:			PA
+		ZIP:			190875283
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AIRGAS DATA LLC
+		CENTRAL INDEX KEY:			0001158066
+		IRS NUMBER:				383398137
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-68722-16
+		FILM NUMBER:		06589622
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O AIRGASS INC
+		STREET 2:		259 NORTH CHESTER RD STE 100
+		CITY:			RADNOR
+		STATE:			PA
+		ZIP:			190875283
+		BUSINESS PHONE:		6106875253
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O AIRGAS INC
+		STREET 2:		259 NORTH RADNOR CHESTER RD STE 100
+		CITY:			RADNOR
+		STATE:			PA
+		ZIP:			190875283
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AIRGAS MID SOUTH INC
+		CENTRAL INDEX KEY:			0001158193
+		IRS NUMBER:				710775603
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-68722-12
+		FILM NUMBER:		06589634
+
+	BUSINESS ADDRESS:	
+		STREET 1:		295 NORTH RADNOR CHESTER RD STE 100
+		CITY:			RADNOR
+		STATE:			PA
+		ZIP:			19087
+		BUSINESS PHONE:		6106875253
+
+	MAIL ADDRESS:	
+		STREET 1:		295 NORTH RADNOR CHESTER RD STE 100
+		CITY:			RADNOR
+		STATE:			PA
+		ZIP:			19087
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AIRGAS INC
+		CENTRAL INDEX KEY:			0000804212
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-INDUSTRIAL MACHINERY & EQUIPMENT [5084]
+		IRS NUMBER:				560732648
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-09344
+		FILM NUMBER:		06589621
+
+	BUSINESS ADDRESS:	
+		STREET 1:		259 N. RADNOR-CHESTER ROAD
+		STREET 2:		SUITE 100
+		CITY:			RADNOR
+		STATE:			PA
+		ZIP:			19087
+		BUSINESS PHONE:		6106875253
+
+	MAIL ADDRESS:	
+		STREET 1:		259 N. RADNOR-CHESTER ROAD
+		STREET 2:		SUITE 100
+		CITY:			RADNOR
+		STATE:			PA
+		ZIP:			19087
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AIRGAS EAST INC
+		CENTRAL INDEX KEY:			0001158045
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-CHEMICALS & ALLIED PRODUCTS [5160]
+		IRS NUMBER:				061463355
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-68722-24
+		FILM NUMBER:		06589640
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O AIRGASS INC
+		STREET 2:		259 NORTH CHESTER RD STE 100
+		CITY:			RADNOR
+		STATE:			PA
+		ZIP:			190875283
+		BUSINESS PHONE:		6106875253
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O AIRGAS INC
+		STREET 2:		259 NORTH RADNOR CHESTER RD STE 100
+		CITY:			RADNOR
+		STATE:			PA
+		ZIP:			190875283
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AIRGAS GREAT LAKES INC
+		CENTRAL INDEX KEY:			0001158046
+		IRS NUMBER:				061463355
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-68722-23
+		FILM NUMBER:		06589639
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O AIRGASS INC
+		STREET 2:		259 NORTH CHESTER RD STE 100
+		CITY:			RADNOR
+		STATE:			PA
+		ZIP:			190875283
+		BUSINESS PHONE:		6106875253
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O AIRGAS INC
+		STREET 2:		259 NORTH RADNOR CHESTER RD STE 100
+		CITY:			RADNOR
+		STATE:			PA
+		ZIP:			190875283
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ KwCqkZR6WlvGl0zylkDxHZWLwWcKPLdwnwSxOinJFvuXVPC5c/vyx4AYo2BsQgbB
+ Qn9JhzolQqw6PubxVFpvhg==
+
+ 0000893220-06-000228.txt : 20060208
+
+10-Q
+ 1
+ w17240e10vq.htm
+ FORM 10-Q AIRGAS, INC.
+
+e10vq 
+
+Table of Contents   
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION 
+
+WASHINGTON, D.C. 20549 
+
+FORM 10-Q 
+
+For the quarterly period ended: December 31, 2005 
+
+Commission file number: 1-9344 
+
+AIRGAS, INC.  
+
+(Exact name of registrant as specified in its charter)
+
+(610) 687-5253 
+
+(Registrant s telephone number, including area code)
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by
+Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that
+the registrant was required to file such reports), and (2) has been subject to such filing requirements for the
+past 90 days. 
+Yes     No    
+
+Indicate
+by check mark whether the registrant is a large accelerated
+filer, an accelerated filer, or a non-accelerated filer. See definition of
+ accelerated filer and large accelerated filer  in Rule 12b-2 of the Exchange
+Act. (Check one):
+
+Large accelerated filer
+        Accelerated filer
+       
+Non-accelerated filer    
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the
+Exchange Act). 
+Yes     No    
+
+Shares of common stock outstanding at February 3, 2006: 77,386,911 shares
+
+AIRGAS, INC. 
+
+FORM 10-Q 
+December 31, 2005
+
+INDEX 
+
+PART I   FINANCIAL INFORMATION 
+
+Item 1. Financial Statements 
+
+Consolidated Statements of Earnings for the Three and Nine Months Ended December 31, 2005 and 2004 (Unaudited) 
+
+3 
+
+Consolidated Balance Sheets as of December 31, 2005 (Unaudited) and March 31, 2005 
+
+4 
+
+Consolidated Statements of Cash Flows For the Nine Months Ended December 31, 2005 and 2004 (Unaudited) 
+
+5 
+
+Notes to Consolidated Financial Statements (Unaudited) 
+
+6 
+
+Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+
+24 
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+
+40 
+
+Item 4. Controls and Procedures 
+
+42 
+
+PART II   OTHER INFORMATION 
+
+Item 1. Legal Proceedings 
+
+43 
+
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds 
+
+43 
+
+Item 6. Exhibit Listing 
+
+43 
+
+SIGNATURES 
+
+44 
+
+Calculation of earnings per share    
+     Certification of Peter McCausland as Chariman and Chief Executive Officer    
+     Certification of Roger F. Millay as Senior Vice President and Chief Financial Officer    
+     Certification of Peter McCausland as Chairman and Chief Executive Officer pursuant to Section 906    
+     Certification of Roger F, Millay as Senior Vice President and Chief Financial Officer, pursuant to Section 906    
+
+2
+
+Table of Contents   
+
+PART I. FINANCIAL INFORMATION 
+
+Item 1. Financial Statements 
+
+AIRGAS, INC. AND SUBSIDIARIES 
+
+CONSOLIDATED STATEMENTS OF EARNINGS 
+
+(Unaudited) 
+(In thousands, except per share amounts)
+
+See accompanying notes to consolidated financial statements.
+
+3
+
+Table of Contents   
+
+AIRGAS, INC. AND SUBSIDIARIES 
+
+CONSOLIDATED BALANCE SHEETS 
+
+(In thousands, except per share amounts)
+
+See accompanying notes to consolidated financial statements.
+
+4
+
+Table of Contents   
+
+AIRGAS, INC. AND SUBSIDIARIES 
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS 
+
+(Unaudited)
+
+See accompanying notes to consolidated financial statements. 
+
+5
+
+Table of Contents   
+
+AIRGAS, INC. AND SUBSIDIARIES 
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+(Unaudited) 
+
+(1)  BASIS OF PRESENTATION 
+
+The consolidated financial statements include the accounts of Airgas, Inc. and its
+subsidiaries (the  Company ), as well as the Company s consolidated affiliate, National Welders.
+Intercompany accounts and transactions, including those between the Company and National Welders,
+are eliminated in consolidation. The accompanying consolidated financial statements have been
+prepared in accordance with accounting principles generally accepted in the United States of
+America. These statements do not include all disclosures required for annual financial
+statements. These financial statements should be read in conjunction with the more complete
+disclosures contained in the Company s audited consolidated financial statements for the fiscal
+year ended March 31, 2005.
+
+The preparation of financial statements requires the use of estimates. The consolidated
+financial statements reflect, in the opinion of management, reasonable estimates and all
+adjustments necessary to present fairly the Company s financial position, results of operations
+and cash flows for the periods presented. The interim operating results are not necessarily
+indicative of the results to be expected for an entire year.
+
+Certain reclassifications pertaining to a divested subsidiary and the presentation of cash
+balances have been made to prior period financial statements to conform to the current
+presentation. As described in Note 3, the Company divested its
+subsidiary, Rutland Tool   Supply
+Co. ( Rutland Tool ), in December 2005. As a result, Rutland Tool has been reclassified in the
+Consolidated Statement of Earnings as discontinued operations in all periods presented. The
+Consolidated Balance Sheet was not reclassified because the assets and liabilities of Rutland Tool were not significant. In addition, the
+presentation of depository cash and cash overdrafts has changed from a net cash presentation on the
+balance sheet to a gross presentation. Previously, the Company did not show cash balances as all
+depository cash and cash overdrafts were combined and the net overdraft was recorded in other
+current liabilities. Accordingly, the Statement of Cash Flows for the prior period presented also
+reflects the change in presentation and reconciles to the change in cash on the balance sheet. The
+Company adopted the current presentation as it is the practice among most companies and is more
+transparent.
+
+(2)  NEW ACCOUNTING PRONOUNCEMENTS 
+
+On October 22, 2004, the American Jobs Creation Act (the  AJCA ) was signed into law. In
+December 2004, responding to the AJCA, the FASB issued Staff Position 109-1,  Tax Deduction on
+Qualified Production Activities Provided by the AJCA,  ( FSP 109-1 ) and FASB Staff Position 109-2,
+ Accounting and Disclosure Guidance for the Foreign Earnings Repatriation Provision with in the
+AJCA,  ( FSP 109-2 ). FSP 109-1 clarifies that the manufacturer s deduction provided for under the
+AJCA should be accounted for as a special deduction in accordance with SFAS 109,  Accounting for
+Income  Taxes, and not as a tax rate reduction. FSP 109-1 was effective for the Company as of
+April 1, 2005 and had no impact on the current fiscal year. In addition, the Company evaluated
+the effects of the repatriation provision included in FSP 109-2 and concluded that it will not
+repatriate foreign earnings under the AJCA.
+
+6
+
+Table of Contents   
+
+AIRGAS, INC. AND SUBSIDIARIES 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+(Unaudited) 
+
+(3)  ACQUISITIONS   DIVESTITURE 
+
+(a) Acquisitions 
+
+During the nine months ended December 31, 2005, the Company completed five acquisitions with
+combined annual sales of approximately $100 million. The aggregate purchase price paid for the
+five acquisitions and various holdback settlements was approximately $99 million. Costs in excess of net assets acquired
+( goodwill ) related to the acquisitions totaled approximately $31 million. The largest of these
+acquisitions was the June 1, 2005 purchase of the Industrial Products Division of LaRoche
+Industries ( LaRoche ). LaRoche is a leading distributor of anhydrous ammonia in the U.S. with
+annual sales of approximately $65 million. The LaRoche operations were incorporated into a new
+business unit,  Airgas Specialty Products,  that has been added to the All Other Operations
+business segment. The Company believes the bulk ammonia customers served by LaRoche represent a
+cross selling opportunity for the Company s complimentary product lines. Also on June 1, 2005, the
+Company completed the acquisition of Kanox, Inc. ( Kanox ), a Kansas-based distributor of packaged
+gases and related hardgoods products with annual sales of approximately $23 million. Kanox
+represents an opportunity to improve geographic coverage in the mid-Western region of the U.S. The
+Kanox business has been added to the Distribution business segment.
+
+(b) BOC Contingent Consideration 
+
+In November 2005, the Company paid The BOC Group, Inc. ( BOC ) $20 million in contingent
+consideration related to the July 2004 purchase of BOC s U.S. packaged gas business. The
+contingent consideration was determined based on the Company achieving certain financial targets
+that were set forth in the asset purchase agreement as well as other factors associated with the
+transaction.
+
+(c) Divestiture 
+
+On December 1, 2005, the Company completed the previously announced sale of its subsidiary,
+Rutland Tool   Supply Co (Rutland Tool). Rutland Tool distributed metalworking tools, machine
+tools and MRO supplies from seven locations and had approximately 180 employees. Proceeds of the
+sale were approximately $15 millions, with subsequent consideration of up to $5.6 million for trade
+receivables to be paid as they are collected. As a result of the divestiture, the Company
+reflected the operating results of Rutland Tool as  discontinued operations  and recognized a loss
+of approximately $3.1 million, $1.9 million after-tax, or $0.02 per diluted share, on the sale.
+The loss principally relates to the write-off of leasehold improvements and lease termination
+costs for long-term lease commitments that are not being assumed by
+the purchaser. No portion of consolidated interest expense was
+allocated to the discontinued operations. The operating
+results of Rutland Tool were previously reflected in the Distribution business segment.
+
+The net sales and earnings (loss) before income taxes of Rutland Tool (including the loss on
+sale) for the three and nine month periods ended December 31, 2005 and 2004, which were segregated
+and reported as discontinued operations, are outlined below:
+
+7
+
+Table of Contents   
+
+AIRGAS, INC. AND SUBSIDIARIES 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+(Unaudited) 
+
+(3)
+ ACQUISITIONS   DIVESTITURE    (Continued)
+
+At December 31, and March 31, 2005, the Company s consolidated financial statements include
+the assets and liabilities of Rutland Tool as outlined below. The net assets and liabilities of
+Rutland Tool were not presented as discontinued operations on the balance sheet because the amounts
+were not significant.
+
+(4)  EARNINGS PER SHARE 
+
+Basic earnings per share is calculated by dividing net earnings by the weighted average
+number of shares of the Company s common stock outstanding during the period. Outstanding shares
+consist of issued shares less treasury stock and common stock held by the Employee Benefits Trust.
+Diluted earnings per share is calculated by dividing net earnings by the weighted average common
+shares outstanding adjusted for the dilutive effect of common stock equivalents related to stock
+options and warrants. The calculation of diluted earnings per share also assumes the conversion
+of National Welders  preferred stock to Airgas common stock.
+
+The table below presents the computation of basic and diluted earnings per share for the
+three and nine months ended December 31, 2005 and 2004:
+
+8
+
+Table of Contents   
+
+AIRGAS, INC. AND SUBSIDIARIES 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+(Unaudited) 
+
+(4)
+ EARNINGS PER SHARE    (Continued)
+
+(1) 
+       
+     Pursuant to a joint venture agreement between the Company and the holders of the
+preferred stock of National Welders, between June 2005 and June 2009, the preferred
+shareholders have the option to exchange their 3.2 million preferred shares of National
+Welders either for cash at a price of $17.78 per share or to tender them to the joint
+venture in exchange for approximately 2.3 million shares of Airgas common stock. If
+Airgas common stock has a market value of $24.45 per share, the stock and cash redemption
+options are equivalent. 
+
+(2) 
+       
+     If the preferred stockholders of National Welders convert their preferred stock to
+Airgas common stock, the 5% preferred stock dividend, recognized as  Minority interest in
+earnings of consolidated affiliate,  would no longer be paid to the preferred
+stockholders, resulting in additional net earnings for Airgas. 
+
+(3) 
+       
+     The earnings of National Welders for tax purposes are treated as a deemed dividend to
+Airgas, net of an 80% dividend exclusion. Upon the assumed conversion of National Welders
+preferred stock to Airgas common stock, National Welders would become a wholly owned
+subsidiary of Airgas. As a wholly owned subsidiary, the net earnings of National Welders
+would not be subject to additional tax at the Airgas level. 
+
+(4) 
+       
+     The assumed conversion of National Welders preferred stock to Airgas common stock is
+not presented because it was anti-dilutive. 
+
+Outstanding stock options with an exercise price above market are excluded from the
+Company s diluted computation as their effect would be anti-dilutive. For the three months ended
+December 31, 2005, there were approximately 3 thousand outstanding stock options with an exercise
+price above the average market price. For the three months ended December 31, 2004, there were no
+options with an exercise price above the average market price. For the nine months ended December
+31, 2005 and December 31, 2004, there were 60 thousand and 2 thousand outstanding stock options
+with an exercise price above the average market price, respectively. If the average market value
+of the Company s common stock increases above the respective exercise prices of the options, they
+will be included in the diluted computation as common stock equivalents.
+
+9
+
+Table of Contents   
+
+AIRGAS, INC. AND SUBSIDIARIES 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+(Unaudited) 
+
+(5)  TRADE RECEIVABLES SECURITIZATION 
+
+The Company participates in a securitization agreement with two commercial banks to sell up to
+$225 million of qualifying trade receivables. The agreement will expire in February 2008, but may
+be renewed subject to renewal provisions contained in the agreement. During the nine months ended
+December 31, 2005, the Company sold, net of its retained interest, $1,748 million of trade
+receivables and remitted to bank conduits, pursuant to a servicing agreement, $1,714 million in
+collections on those receivables. The amount of outstanding receivables under the agreement was
+$224 million at December 31, 2005 and $190 million at March 31, 2005.
+
+The transaction has been accounted for as a sale under the provisions of Statement of
+Financial Accounting Standards No. 140,  Accounting for Transfers and Servicing of Financial Assets
+and Extinguishments of Liabilities . Under the securitization agreement, eligible trade receivables
+are sold to bank conduits through a bankruptcy-remote special purpose entity, which is consolidated
+for financial reporting purposes. The difference between the proceeds from the sale and the
+carrying value of the receivables is recognized as  Discount on securitization of trade
+receivables  in the accompanying Consolidated Statements of Earnings and varies on a monthly basis
+depending on the amount of receivables sold and market rates. The Company retains a subordinated
+interest in the receivables sold, which is recorded at the receivables  previous carrying value.
+Subordinated retained interests of approximately $70 million and $57 million are included in  Trade
+receivables  in the accompanying Consolidated Balance Sheets at December 31, 2005 and March 31,
+2005, respectively. The Company s retained interest is generally collected within 60 days. On a
+monthly basis, management measures the fair value of the retained interest at management s best
+estimate of the undiscounted expected future cash collections on the transferred receivables.
+Changes in the fair value are recognized as bad debt expense. Actual cash collections may differ
+from these estimates and would directly affect the fair value of the retained interest. In
+accordance with a servicing agreement, the Company continues to service, administer and collect the
+trade receivables on behalf of the bank conduits. The servicing fees charged to the bank conduits
+approximate the costs of collections.
+
+(6)  INVENTORIES, NET 
+
+Inventories, net, consist of:
+
+Net inventories determined by the LIFO inventory method totaled $34 million and $32 million at
+December 31, 2005 and March 31, 2005, respectively. If the FIFO inventory method had been used for
+these inventories, the carrying value would have been approximately $6 million and $5 million
+higher at December 31, 2005 and March 31, 2005, respectively. Substantially all of the inventories
+are finished goods.
+
+10
+
+Table of Contents   
+
+AIRGAS, INC. AND SUBSIDIARIES 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+(Unaudited) 
+
+(7)  ACCRUED EXPENSES AND OTHER CURRENT LIABILITIES 
+
+Accrued expenses and other current liabilities include:
+
+(8)  DERIVATIVE INSTRUMENTS AND HEDGING ACTIVITIES 
+
+The Company manages its exposure to changes in market interest rates. The Company s
+involvement with derivative instruments is limited to highly effective fixed interest rate swap
+agreements used to manage well-defined interest rate risk exposures. The Company monitors its
+positions and credit ratings of its counterparties and does not anticipate non-performance by the
+counterparties. Interest rate swap agreements are not entered into for trading purposes.
+
+At December 31, 2005, the Company had two fixed interest rate swap agreements with a notional
+amount of $50 million that effectively convert a corresponding amount of variable interest rate
+debt associated with the Company s credit facilities to fixed rate debt. The swap agreements
+require the Company to make fixed interest payments based on an average effective rate of 4.15% and
+receive variable interest payments from its counterparties based on one-month LIBOR, which was
+4.36% at December 31, 2005. The remaining terms of each of these swap agreements is 3.4 years.
+During the nine months ended December 31, 2005, the Company and National Welders recorded a net
+increase in the fair value of the fixed interest rate swap agreements and a corresponding increase
+to  Accumulated Other Comprehensive Income  of approximately $1 million.
+
+In June 2005, in conjunction with the repayment of a term loan (see Note 10), National Welders
+terminated its fixed interest rate swap agreement with a notional amount of $21 million. The cost
+to terminate the interest rate swap of $700 thousand was reimbursed to National Welders by its
+preferred stockholders.
+
+Including the effect of the interest rate swap agreements and the trade receivables
+securitization, the Company s ratio of fixed to variable interest rates was approximately 53% fixed
+to 47% variable at December 31, 2005.
+
+11
+
+Table of Contents   
+
+AIRGAS, INC. AND SUBSIDIARIES 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+(Unaudited) 
+
+(9)  GOODWILL AND OTHER INTANGIBLE ASSETS 
+
+The valuations of goodwill and other intangible assets of recent acquisitions are based on
+preliminary estimates of fair value and are subject to revision as the Company finalizes appraisals
+and other analyses. Changes in the net carrying amount of goodwill for the nine months ended
+December 31, 2005 were as follows:
+
+Other intangible assets amounted to $18.8 million and $16.5 million (net of accumulated
+amortization of $42.6 million and $38.7 million) at December 31, 2005 and March 31, 2005,
+respectively. These intangible assets primarily consist of acquired customer lists amortized over
+7 to 11 years and non-compete agreements entered into in connection with business combinations
+amortized over the term of the agreements, principally five years. There are no expected residual
+values related to these intangible assets. Intangible assets also include a trade name with an
+indefinite useful life valued at $1 million acquired in the BOC acquisition. Estimated remaining
+fiscal year amortization expense in millions is as follows: remainder of 2006   $1.3 million; 2007
+  $4.2 million; 2008   $3.4 million; 2009   $2.3 million; 2010   $1.7 million, and $4.9 million
+thereafter.
+
+SFAS 142,  Goodwill and Other Intangible Assets , requires the Company to perform an assessment
+at least annually of the carrying value of goodwill associated with each of its reporting units.
+The Company has elected to perform its annual assessment as of October 31 of each year. As of
+October 31, 2005, the Company determined the implied fair value of each of its reporting units
+using a discounted cash flow analysis and compared such values to the carrying value of each of the
+respective reporting units. This annual assessment of goodwill indicated that the Company s
+carrying value of goodwill was not impaired.
+
+(10)  MINORITY INTEREST NOTE PREPAYMENT 
+
+On June 6, 2005, National Welders entered into an agreement with its preferred stockholders
+under which the preferred stockholders prepaid their $21 million note receivable owed to National
+Welders. National Welders used the proceeds from the prepayment of the preferred stockholders 
+note to repay its $21 million Term Loan B, which had been collateralized by the preferred
+stockholders  note. The preferred stockholders note payable to National Welders had been reflected
+as a reduction of  Minority interest in affiliate  on the Consolidated Balance Sheet.
+Consequently, the prepayment of the preferred stockholders  note resulted in a $21 million increase
+to the Company s  Minority interest in affiliate.  Additionally, Term Loan B was subject to an
+interest rate swap agreement, which was terminated in conjunction with the debt repayment. The fee
+of $700 thousand to unwind the interest rate swap agreement was reimbursed to National Welders by
+the preferred stockholders.
+
+In addition, the Company and National Welders agreed to modify the dates between which the
+preferred stockholders have the option to redeem their preferred stock for cash or Airgas common
+stock to commence on June 6, 2005 and expire on June 30, 2009. Prior to the modification, pursuant
+to a joint venture agreement between the Company and the holders of the preferred stock of National
+Welders, the option period was to commence on July 1, 2006 and expire on September 30, 2009.
+
+12
+
+Table of Contents   
+
+AIRGAS, INC. AND SUBSIDIARIES 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+(Unaudited) 
+
+(11)  STOCKHOLDERS  EQUITY 
+
+Changes in stockholders  equity were as follows:
+
+(a) 
+       
+     Issuance of common stock for purchases through the Employee Stock Purchase Plan and employee
+stock options exercises. 
+
+(b) 
+       
+     Reissuance of common stock from Treasury Stock and the Employee Benefits Trust for employee
+stock option exercises. 
+
+(c) 
+       
+     In November 2005, the Company announced that its Board of Directors approved a stock
+repurchase plan. The stock repurchase plan authorizes the Company to repurchase up to $150
+million of its common stock over a three-year period. 
+
+13
+
+Table of Contents   
+
+AIRGAS, INC. AND SUBSIDIARIES 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+(Unaudited) 
+
+(12)  STOCK-BASED COMPENSATION 
+
+The Company has elected to continue to account for its stock-based compensation plans in
+accordance with Accounting Principles Board Opinion No. 25,  Accounting for Stock Issued to
+Employees , as permitted by SFAS No. 123,  Accounting for Stock-Based Compensation,  as amended. Accordingly, no compensation expense has been recognized for its stock option and
+employee stock purchase plans. The following table illustrates the effect on net income and
+earnings per share for the three and nine months ended December 31, 2005 and 2004 as if the Company
+had applied the fair value recognition provisions of SFAS 123 to stock-based compensation. The
+fair value of each option grant is estimated as of the grant date using the Black-Scholes option
+pricing model.
+
+(13)  COMMITMENTS, CONTINGENCIES AND UNCERTAINTIES 
+
+Litigation 
+
+The Company is involved in various legal and regulatory proceedings that have arisen in the
+ordinary course of its business and have not been fully adjudicated. These actions, when
+ultimately concluded and determined, will not, in the opinion of management, have a material
+adverse effect upon the Company s consolidated financial position, results of operations or
+liquidity.
+
+Losses from Hurricanes Katrina and Rita 
+
+In August 2005, Hurricanes Katrina and Rita hit the Gulf Coast area resulting in significant
+and wide-spread damage. Of the Company s 29 locations along the gulf coast, two small branches
+were destroyed and about half of the remaining branches sustained varying degrees of damage or
+business interruption. As a result of these hurricanes, the Company recorded a $2.5 million loss
+in Selling, Distribution and Administrative expenses through December 31, 2005. The loss reflects
+the Company s insurance deductible for insured property losses, as well as estimated losses for
+uninsured property at customer locations and an additional provision for credit losses primarily
+related to smaller customers in the hardest hit areas.
+
+14
+
+Table of Contents   
+
+AIRGAS, INC. AND SUBSIDIARIES 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+(Unaudited) 
+
+(14)  SUMMARY BY BUSINESS SEGMENT 
+
+As disclosed in Note (3)
+ Acquisitions and Divestitures   ,   the Company sold
+its subsidiary Rutland Tool, which was previously
+reported in the Distribution segment. The operating results of Rutland Tool have been
+reclassified in the Consolidated Statement of Earnings as discontinued operations for the three
+and nine months ended December 31, 2005 and 2004,
+respectively. Information related to the Company s continuing operations by business segment for the three
+and nine months ended December 31, 2005 and 2004 is as follows:
+
+15
+
+Table of Contents   
+
+AIRGAS, INC. AND SUBSIDIARIES 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+(Unaudited) 
+
+(15)  SUPPLEMENTAL CASH FLOW INFORMATION 
+
+Cash paid for interest expense and income taxes was as follows:
+
+Cash flows, in excess of a management fee, associated with the Company s consolidated
+affiliate, National Welders, are not available for the general use of the Company. Rather these
+cash flows are used by National Welders for operations, capital expenditures, acquisitions, and to
+satisfy financial obligations, which are non-recourse to the Company. The following reflects the
+sources and uses of cash associated with National Welders for each period presented:
+
+(16)  SUBSEQUENT EVENT 
+
+Dividend declaration 
+
+On January 31, 2006, the Company s Board of Directors declared a regular quarterly cash
+dividend of $0.06 per share payable March 31, 2006 to stockholders of record as of March 15, 2006.
+
+16
+
+Table of Contents   
+
+AIRGAS, INC. AND SUBSIDIARIES 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+(Unaudited) 
+
+(17) 
+       
+      SUPPLEMENTARY CONDENSED CONSOLIDATING FINANCIAL INFORMATION OF SUBSIDIARY GUARANTORS  
+
+The obligations of the Company under its senior subordinated notes ( the Notes ) are
+guaranteed by the Company s domestic subsidiaries (the  Guarantors ). The guarantees are made
+fully and unconditionally on a joint and several basis. The Company s consolidated affiliate,
+foreign holdings and bankruptcy remote special purpose entity (the  Non-guarantors ) are not
+guarantors of the Notes. The claims of the creditors of the Non-guarantors have priority over the
+rights of the Company to receive dividends or distributions from the Non-guarantors.
+
+Presented below is supplementary condensed consolidating financial information for the
+Company, the Guarantors and the Non-guarantors as of December 31, 2005 and March 31, 2005 and for
+the nine month periods ended December 31, 2005 and 2004. As disclosed in Note (1)  Basis of
+Presentation  and Note (3 ) Acquisitions and Divestiture , the Company sold its subsidiary Rutland
+Tool in December 2005. Accordingly, the operating results of Rutland Tool, which was a guarantor
+of the Company s senior subordinated notes, have been reclassified in the Consolidating Statements
+of Earnings as discontinued operations for the nine month periods ended December 31, 2005 and 2004,
+respectively. Certain other reclassifications of prior period amounts, including the gross
+presentation of cash in depository accounts and cash overdrafts on disbursement accounts and
+certain intercompany charges, have also been made to conform to the current year presentation.
+
+17
+
+Table of Contents   
+
+AIRGAS, INC. AND SUBSIDIARIES 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+(Unaudited) 
+
+Condensed Consolidating Balance Sheet 
+December 31, 2005 
+
+18
+
+Table of Contents   
+
+AIRGAS, INC. AND SUBSIDIARIES 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+Condensed Consolidating Balance Sheet 
+March 31, 2005 
+
+19
+
+Table of Contents   
+
+AIRGAS, INC. AND SUBSIDIARIES 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+(Unaudited) 
+
+Consolidating Statement of Earnings 
+Nine Months Ended 
+December 31, 2005 
+
+20
+
+Table of Contents   
+
+AIRGAS, INC. AND SUBSIDIARIES 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+(Unaudited) 
+
+Consolidating Statement of Earnings 
+Nine Months Ended 
+December 31, 2004 
+
+21
+
+Table of Contents   
+
+AIRGAS, INC. AND SUBSIDIARIES 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+(Unaudited)
+
+Condensed Consolidating Statement of Cash Flows 
+Nine Months Ended 
+December 31, 2005 
+
+22
+
+Table of Contents   
+
+AIRGAS, INC. AND SUBSIDIARIES 
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS 
+(Unaudited) 
+
+Condensed Consolidating Statement of Cash Flows 
+Nine Months Ended 
+December 31, 2004 
+
+23
+
+Table of Contents   
+
+AIRGAS, INC. AND SUBSIDIARIES 
+MANAGEMENT S DISCUSSION AND ANALYSIS 
+OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations
+
+OVERVIEW  
+
+Airgas, Inc. (the  Company ) had net sales for the quarter ended December 31, 2005
+( current quarter ) of $702 million compared to $601 million for the quarter ended December
+31, 2004 ( prior year quarter ). Net sales increased by 17% driven by strong same-store
+sales growth and the impact of acquisitions. Same-store sales growth contributed 12% to the
+increase in total sales. Same-store sales growth was driven equally by pricing initiatives
+and higher sales volumes. Price increases were initiated in response to rising product, operating and
+distribution costs as well as other factors. Higher sales volumes resulted from the
+continued strength of the industrial economy and the associated customer demand for the
+Company s products. Same-store sales growth of hardgoods and gas and rent was 12%, with a
+majority of the Company s business units reporting double-digit growth. Sales growth in the
+Gulf Coast and Southwestern portions of the U.S. was particularly strong reflecting
+post-hurricane demand for equipment, safety products and welding machines. Sales growth was
+also driven by sales of strategic products. Strategic products were identified by the
+Company as those expected to grow at a faster rate than the overall economy and include
+safety products, medical, specialty, and bulk gases, as well as carbon dioxide products, such
+as dry ice. Accordingly, the Company has initiatives focused on promoting these products.
+Acquisitions continue to be an important component of the Company s growth contributing 5% to
+the overall increase in net sales. The operating income margin expanded 130 basis points in
+the current quarter to 9.8% compared to 8.5% in the prior year quarter reflecting improving
+cost leverage. Solid sales growth and operating expense discipline resulted in a 37%
+increase in earnings per diluted share from continuing operations in the current quarter
+versus the prior year quarter.
+
+On December 1, 2005, the Company divested its subsidiary, Rutland Tool   Supply Co.,
+Inc. ( Rutland Tool ). Rutland Tool distributed metalworking tools, machine tools and MRO
+supplies from seven locations and had approximately 180 employees. Proceeds of the sale were
+approximately $15 million at closing, with subsequent consideration of up to $5.6 million for
+trade receivables to be paid as they are collected. As a result of the divestiture, the
+Company reflected the operating results of Rutland Tool as  discontinued operations  and
+recognized an after-tax loss on the sale of $1.9 million, or $0.02 per diluted share, in the
+current quarter. All periods included in this quarterly report on Form 10-Q have been
+restated to present Rutland Tool as discontinued operations. Rutland Tool generated annual
+sales of approximately $50 million and an insignificant amount of operating income. The
+operating results of Rutland Tool were previously reflected in the Distribution business
+segment.
+
+Net earnings for the quarter ended December 31, 2005 were $31 million, or $0.39 per
+diluted share, compared to $23 million, or $0.30 per diluted share, in the prior year
+quarter.
+
+Through the nine months ended December 31, 2005, the Company completed five acquisitions
+with combined annual sales of approximately $100 million. The aggregate purchase price paid
+for the five acquisitions and various holdback settlements was approximately $99 million. The largest of these acquisitions
+included the June 1, 2005 purchases of the Industrial Products Division of LaRoche Industries
+( LaRoche ) and Kanox, Inc. ( Kanox ). LaRoche is a leading distributor of anhydrous ammonia
+in the U.S. with annual sales of approximately $65 million. The LaRoche operations were
+incorporated into a new business unit,  Airgas Specialty Products,  that has been added to
+the All Other Operations business segment. Kanox is a Kansas-based distributor of packaged
+gases and related hardgoods products with annual sales of approximately $23 million. Kanox
+has been added to the Distribution segment. The Company continues to look for additional
+acquisition opportunities to strengthen and expand its business.
+
+24
+
+Table of Contents   
+
+AIRGAS, INC. AND SUBSIDIARIES 
+MANAGEMENT S DISCUSSION AND ANALYSIS 
+OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+In November 2005, the Company announced that its Board of Directors approved a stock
+repurchase plan. The stock repurchase plan authorizes the Company to repurchase up to $150
+million of it common stock over a three year period. During the
+quarter ended December 31, 2005, the Company repurchased 174 thousand shares for cash of $5.6
+million.
+
+Looking forward, the Company expects net earnings to range from $0.41 to $0.43 per
+diluted share in its fiscal fourth quarter ending March 31, 2006. Based on the Company s
+strong financial results through the fiscal third quarter, the Company anticipates earnings
+from continuing operations of $1.57 to $1.59 per diluted share for the full 2006 fiscal year.
+The forward-looking earnings guidance anticipates continued same-store sales growth and
+successful pricing actions to offset rising product and energy costs.
+
+25
+
+Table of Contents   
+
+AIRGAS, INC. AND SUBSIDIARIES 
+MANAGEMENT S DISCUSSION AND ANALYSIS 
+OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+RESULTS OF OPERATIONS: THREE MONTHS ENDED DECEMBER 31, 2005 COMPARED TO THE THREE MONTHS ENDED
+DECEMBER 31, 2004
+
+STATEMENT OF EARNINGS COMMENTARY 
+
+Net Sales 
+
+Net sales increased 17% in the quarter ended December 31, 2005 compared to the quarter
+ended December 31, 2004 reflecting same-store sales growth and acquisitions. Sales momentum
+continued in the current quarter driven by the expanding industrial economy, strategic sales
+initiatives and pricing actions. On a same-store basis, sales increased 12% versus the prior
+year quarter with price and volume contributing equally to growth. In November 2005, the
+Company announced that it would raise prices on its products to offset the impact of rising
+product and delivery costs. Since the pricing actions were implemented towards the end of
+the quarter, a significant portion of the pricing actions will be realized throughout the
+fiscal fourth quarter. The Company intends to maintain its pricing discipline and keep pace
+with rising costs.
+
+The Company estimates same-store sales based on a comparison of current period sales to
+prior period sales, adjusted for acquisitions and divestitures. The pro-forma adjustments
+consist of adding acquired sales to, or subtracting sales of divested operations from, sales
+reported in the prior period. These pro-forma adjustments used in calculating the same-store
+sales metric are not reflected in the table below. The intercompany eliminations represent
+sales from the All Other Operations segment to the Distribution segment.
+
+The
+Distribution segment s principal products and services
+include: industrial, medical
+and specialty gases; process chemicals; equipment rental and hardgoods. Industrial, medical
+and specialty gases and process chemicals are distributed in cylinders and bulk containers.
+Equipment rental fees are generally charged on cylinders, cryogenic liquid containers, bulk
+and micro-bulk tanks, tube trailers and welding equipment. Hardgoods consist of welding
+supplies and equipment, safety products, and supplies.
+
+Distribution segment sales increased 14% during the current quarter compared to the
+prior year quarter driven by same-store sales growth of $62 million (12%) and incremental
+sales contributed by acquisitions of $11 million. Acquisitions primarily consisted of the
+June 2005 acquisition of Kanox. The increase in Distribution same-store sales resulted from
+higher hardgoods sales of $31 million (13%) and gas and rent sales growth of $31 million
+(11%). Hardgoods same-store sales growth was driven by volume gains reflecting continued
+strength of the industrial economy. Price increases of selected hardgoods products also
+contributed to same-store sales growth. Radnor      private label products grew
+23% on a same-store basis in the current quarter driven by higher volumes and pricing.
+Same-store sales of safety products grew 19% in the current quarter benefiting from the
+strong industrial economy as well as clean-up and recovery efforts in the Gulf Coast region.
+Although solid hardgoods same-store sales growth continued in the current quarter, the
+Company expects the same-store sales percentage growth rate of hardgoods to moderate over the
+next few quarters as the current economic cycle matures.
+
+26
+
+Table of Contents   
+
+AIRGAS, INC. AND SUBSIDIARIES 
+MANAGEMENT S DISCUSSION AND ANALYSIS 
+OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+The Distribution segment s gas and rent same-store sales increased 11% reflecting price
+increases and to a lesser degree volume growth. The impact of pricing in the current quarter
+primarily relates to actions initiated last spring. Also contributing to the sales growth
+was a 36% increase in welding equipment rentals. The rebuilding effort in the Gulf Coast
+area as well as the strengthening commercial construction market contributed to the increase
+in demand for welding machines.
+
+Sales of strategic products in the Distribution segment delivered combined same-store
+sales growth of 14% in the current quarter. Sales growth of medical gases and related
+cylinder rent grew 10% in the current quarter reflecting volume gains in the hospital sector
+as well as continued success of the Company s Walk-O 2 -Bout  portable oxygen
+cylinders. Sales of gases in bulk containers and specialty gases were also strong
+contributors to the growth in strategic product sales in the current quarter.
+
+The All Other Operations segment consists of producers and distributors of gas products,
+principally of dry ice, carbon dioxide, nitrous oxide, specialty gases, and process
+chemicals, including ammonia. The segment also includes the Company s National Welders joint
+venture. All Other Operations  sales, net of intercompany eliminations, increased $29
+million (35%) compared to the prior year quarter resulting from same-store sales growth and
+acquisitions. Same-store sales growth of 16% was driven by continued sales momentum of
+National Welders and pricing actions taken by Airgas Specialty Products. Airgas Specialty
+Products is a leading distributor of anhydrous ammonia that was formed when LaRoche was
+acquired in June 2005. Sales of dry ice and liquid carbon dioxide also had higher sales in
+the current quarter.
+
+Gross Profits 
+
+Gross profits do not reflect depreciation expense and distribution costs. The Company
+reflects distribution costs as elements of Selling, Distribution and Administrative Expenses
+and recognizes depreciation on all its property, plant and equipment on the income statement
+line item  Depreciation.  Since some companies may report certain or all of these costs as
+elements of their Cost of Products Sold, the Company s gross profits discussed below may not
+be comparable to those of other entities.
+
+Gross profits increased 15% resulting principally from higher sales volumes and
+acquisitions. However, the growth in the Distribution segment s hardgoods sales continued to
+out-pace the growth in higher margin gas sales resulting in a shift in sales mix. The shift
+in sales mix in the Distribution segment and the acquisition and subsequent growth of the
+lower margin anhydrous ammonia product line are principally responsible for the 100 basis
+point decrease in gross profit margins to 50.8% in the current quarter compared to 51.8% in
+the prior year quarter.
+
+The Distribution segment s gross profits increased $33 million (13%) compared to the
+prior year quarter. The Distribution segment s gross profit margin of 49.3% decreased 50
+basis points from 49.8% in the prior year quarter, which is principally attributable to the
+shift in sales mix from higher margin gas and rent sales to hardgoods. The mix of gas and
+rent as a percentage of total sales was 52.6% as compared to 53.1% in the prior year quarter.
+The shift in sales mix between gas and rent and hardgoods resulted from the 13% same-store
+sales growth in hardgoods during the quarter versus 11% same-store sales growth for gas and
+rent. Excluding the impact of sales mix, the
+underlying gross profit margin of gas and rent increased modestly reflecting the Company s
+success at passing on the cost increases to customers. Product, energy and certain operating
+expenses
+
+27
+
+Table of Contents   
+
+AIRGAS, INC. AND SUBSIDIARIES 
+MANAGEMENT S DISCUSSION AND ANALYSIS 
+OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+are expected to remain high and may increase in future periods. The pricing
+initiatives announced by the Company in November 2005 reflect this rising cost
+environment.
+
+The All Other Operations segment s gross profits increased $13 million (24%) primarily
+from the addition of the anhydrous ammonia business acquired from LaRoche and strong sales at
+National Welders. The anhydrous ammonia business carries a lower gross margin than National
+Welders and the carbon dioxide businesses that are also reported in this segment. The
+addition of LaRoche is the principal factor contributing to the 280 basis point decline in
+the gross profit margin from 55.0% in the prior year quarter to 52.2% in the current quarter.
+
+Operating Expenses 
+
+Selling, distribution and administrative expenses ( SD A ) consist of labor and overhead
+associated with the purchasing, marketing and distribution of the Company s products, as well
+as costs associated with a variety of administrative functions such as legal, treasury,
+accounting, tax and facility-related expenses. As a percentage of net sales, SD A expense
+decreased 230 basis points to 36.4% compared to 38.7% in the prior year quarter reflecting
+improved cost leverage. SD A expenses increased $23 million (10%) primarily from operating
+costs of acquired businesses and higher variable expenses associated with the growth in sales
+volumes. As compared with the prior year quarter, acquisitions (principally the LaRoche and
+Kanox acquisitions) contributed an estimated additional $9 million to SD A expense. The SD A
+expense contributed by the current year acquisitions reflects acquisition integration costs
+that were $1 million lower in the current year quarter than they were in the prior year
+quarter. The prior year quarter reflects costs associated with integrating the prior year
+acquisition of the U.S. packaged gas business of The BOC Group, Inc. The balance of the
+increase is primarily attributable to higher labor costs and distribution-related expenses.
+The increase in labor costs reflected costs to fill cylinders and operate facilities to meet
+increased demand for products as well as normal wage inflation. The increase in distribution
+expenses is attributable to higher fuel costs, which are up approximately $3 million versus
+the prior year quarter. Higher fuel costs were directly related to the rise in diesel fuel
+prices over the past year and the increase in miles driven to source gas products and meet
+customer demand.
+
+Depreciation expense of $31 million increased $4 million (16%) compared to the prior
+year quarter. Acquired businesses contributed depreciation expense of approximately $1
+million. The remainder of the increase primarily reflects the current and prior year s
+capital investments in revenue generating assets, including cylinders, bulk tanks and rental
+welders, as well as expansions of certain plants and branch stores. Amortization expense of
+approximately $1 million was consistent with the prior year quarter.
+
+Operating Income 
+
+Operating income increased 35% in the current quarter compared to the prior year quarter
+driven by higher sales levels. Improved cost leverage was the primary contributor to a 130
+basis point increase in the operating income margin to 9.8% compared to 8.5% in the prior year
+quarter.
+
+Operating income in the Distribution segment increased 32% in the current quarter. The
+Distribution segment s
+operating income margin increased 120 basis points to 9.0% compared to 7.8% in the prior year
+quarter. The increase in the operating income margin reflects the lower operating expenses as
+a percentage of net sales, described above. The operating income margin also reflects the
+improvement of the acquired BOC business as it was
+
+28
+
+Table of Contents   
+
+AIRGAS, INC. AND SUBSIDIARIES 
+MANAGEMENT S DISCUSSION AND ANALYSIS 
+OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+rationalized and integrated into the
+Company s operations.
+
+Operating income in the All Other Operations segment increased 49% resulting primarily
+from the strong business momentum of National Welders as well as the anhydrous ammonia
+business from LaRoche. Higher sales of dry ice and liquid carbon dioxide also contributed to
+the growth in operating income. The segment s operating income margin was 12.7% in the
+current quarter versus 11.2% in the prior year quarter.
+
+Interest Expense and Discount on Securitization of Trade Receivables 
+
+The Company participates in a securitization agreement with two commercial banks to sell
+up to $225 million of qualifying trade receivables. The amount of outstanding receivables
+under the agreement was $224 million at December 31, 2005, an increase of $34 million from
+March 31, 2005. Net proceeds from the sale of trade receivables were used to reduce
+borrowings under the Company s revolving credit facilities. The discount on the
+securitization of trade receivables represents the difference between the carrying value of
+the receivables and the proceeds from their sale. The amount of the discount varies on a
+monthly basis depending on the amount of receivables sold and market rates.
+
+Interest expense, net, and the discount on securitization of trade receivables of $16
+million increased 8% compared to the prior year quarter. The increase primarily resulted
+from higher debt levels associated with acquisitions and capital expenditures and rising
+interest rates.
+
+As discussed in  Liquidity and Capital Resources  and in Item 3,  Quantitative and
+Qualitative Disclosures About Market Risk,  the Company manages its exposure to interest rate
+risk of certain borrowings through participation in interest rate swap agreements. Including
+the effect of the interest rate swap agreements and the trade receivables securitization, the
+Company s ratio of fixed to variable interest rates was approximately 53% fixed to 47%
+variable at December 31, 2005. A majority of the Company s variable rate debt is based on a
+spread over the London Interbank Offered Rate ( LIBOR ). Based on the Company s fixed to
+variable interest rate ratio at December 31, 2005, for every 25 basis point increase in
+LIBOR, the Company estimates that its annual interest expense would increase approximately $1
+million.
+
+Income Tax Expense 
+
+The effective income tax rate was 37.2% of pre-tax earnings in current quarter compared
+to 36% in the prior year quarter.
+
+Income from Continuing Operations 
+
+Income from continuing operations for the quarter ended December 31, 2005 was $33
+million, or $0.41 per diluted share, compared to $23 million, or $0.30 per diluted share, in
+the prior year quarter.
+
+Income (loss) from Discontinued Operations 
+
+In the quarter ended December 31, 2005, the Company recognized a loss from discontinued
+operations of $3.1 million, $1.9 million after tax, or $0.02 per diluted share, related to
+the divestiture of Rutland Tool. The loss principally related to the write-off of leasehold
+improvements and lease termination costs for long-term lease commitments that are not being
+assumed by the purchaser.
+
+Net Earnings 
+
+Net earnings for the quarter ended December 31, 2005 were $31 million, or $0.39 per
+diluted share, compared to $23 million, or $0.30 per diluted share, in the prior year
+quarter.
+
+29
+
+Table of Contents   
+
+AIRGAS, INC. AND SUBSIDIARIES 
+MANAGEMENT S DISCUSSION AND ANALYSIS 
+OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+RESULTS OF OPERATIONS: NINE MONTHS ENDED DECEMBER 31, 2005 COMPARED TO THE NINE MONTHS ENDED
+DECEMBER 31, 2004
+
+STATEMENT OF EARNINGS COMMENTARY 
+
+Net Sales 
+
+Net sales increased 21% in the nine months ended December 31, 2005 ( current period )
+compared to the nine months ended December 31, 2004 ( prior year period ) reflecting
+same-store sales growth and acquisitions. Sales growth resulted from the strong industrial
+economy and price increases levied to offset rising product and distribution costs. On a
+same-store basis, sales increased 11% versus the prior year period with sales growth split
+fairly evenly between volume and price gains.
+
+Distribution segment sales increased 19% during the current period compared to the prior
+year period driven by same-store sales growth of $181 million (12%) and sales contributed by
+acquisitions of $105 million. Incremental sales from acquisitions primarily consisted of the
+impact of the July 2004 BOC acquisition and the June 2005 Kanox acquisition. The increase in
+Distribution same-store sales resulted from higher hardgoods sales of $96 million (13%) and
+gas and rent sales growth of $85 million (10%). In the current period, strong volume gains
+in sales of safety and Radnor private label products helped drive the growth in hardgoods
+same-store sales. Same-store sales of safety products grew 17% in the current period
+benefiting from the strong industrial economy and reconstruction efforts along the Gulf
+Coast, as well as the Company s multi-channel sales approach and focus on account
+penetration. Radnor products grew 29% reflecting the rollout of new products and expansion
+of the Company s branch-store core stocking program to acquired locations. Same-store sales
+of hardgoods also benefited from pricing actions taken during the current period to offset
+rising product costs.
+
+The Distribution segment s same-store sales growth for gas and rent of 10% was driven by
+price increases and volume growth. Broad pricing actions were initiated in March 2005 in
+response to rising product and delivery costs and other operating expenses. Additional
+pricing actions were announced in late November 2005; however, most of the impact of those
+price increases will be reflected in the fourth quarter. Sales growth was achieved across
+nearly all major product lines, including the largest product line, industrial gases (e.g.,
+nitrogen, oxygen, argon, acetylene, etc.). Sales of strategic products also helped drive the
+growth in gas and rent same-store sales. During the current period, strategic products
+delivered solid growth, particularly related to sales of bulk, medical, and specialty gases.
+Sales of medical, specialty and bulk gases generated combined same-store sales growth of 11%.
+Same-store sales growth was also helped by a 25% increase in welding equipment rentals.
+
+All Other Operations  sales, net of intercompany eliminations, increased $74 million
+compared to the prior year period. The acquisition of the anhydrous ammonia business from
+LaRoche and the subsequent formation of Airgas
+Specialty Products in June 2005 contributed sales of $48 million in the current period.
+Same-store sales growth was primarily attributable to National Welders and pricing actions
+taken by Airgas Specialty Products. Sales of liquid carbon dioxide and dry ice also
+increased modestly reflecting competitive market pressures.
+
+30
+
+Table of Contents   
+
+AIRGAS, INC. AND SUBSIDIARIES 
+MANAGEMENT S DISCUSSION AND ANALYSIS 
+OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+Gross Profits 
+
+Gross profits do not reflect depreciation expense and distribution costs. The Company
+reflects distribution costs as elements of Selling, Distribution and Administrative Expenses
+and recognizes depreciation on all its property, plant and equipment on the income statement
+line item  Depreciation.  Since some companies may report certain or all of these costs as
+elements of their Cost of Products Sold, the Company s gross profits discussed below may not
+be comparable to those of other entities.
+
+Gross profits increased 19% resulting from higher sales volumes, acquisitions and price
+increases. The gross profit margin decreased 90 basis points to 50.6% in the current period
+compared to 51.5% in the prior year period. The decrease in the gross profit margin reflects
+the acquisition and subsequent growth of the lower margin anhydrous ammonia product line and
+a shift in sales product mix.
+
+The Distribution segment s gross profits increased $135 million (19%) compared to the
+prior year period. Distribution s gross profit margin of 49.1% decreased 40 basis points
+from 49.5% in the prior year period. The lower gross profit margin reflects a shift in gas sales
+mix. Pricing actions taken by the Company
+in the current period helped to mitigate the impact of rising product costs.
+
+The All Other Operations segment s gross profits increased $31 million primarily from
+strong sales at National Welders and the addition of the anhydrous ammonia business in the
+current period. Although the gross profit dollars for the segment increased, the gross
+profit margin declined by 340 basis points to 51.8% from 55.2% in the prior year period. The
+gross profit margin decline reflects the acquisition of the anhydrous ammonia product line,
+which carries a lower margin than other products in this segment, and competitive pressures
+in the market for dry ice.
+
+Operating Expenses 
+
+As a percentage of net sales, SD A expenses decreased 140 basis points to 36.7% compared
+to 38.1% in the prior year period resulting from improved cost leverage. SD A expenses
+increased $108 million (16%) primarily from operating costs of acquired businesses and higher
+variable expenses associated with the growth in sales volumes. As compared with the prior
+year period, acquisitions (principally the LaRoche and Kanox acquisitions) contributed an
+estimated additional $53 million to SD A expense. The SD A expenses contributed by the
+current year acquisitions reflect acquisition integration costs that were $3 million lower in
+the current year period than they were in the prior year period. The prior year period
+reflects costs associated with integrating the BOC acquisition. The balance of the increase
+in SD A expenses is primarily attributable to higher labor costs, distribution-related
+expenses and selling expenses. The increase in labor costs reflected costs to fill cylinders
+and operate facilities to meet increased demand for products as well as normal wage
+inflation. The increase in distribution expenses is attributable to higher fuel costs and
+vehicle repair and maintenance expenses. Higher fuel costs were directly related to the rise
+in diesel fuel prices over the past year and the increase in miles driven to support the
+higher sales volumes. Selling expenses also reflect higher sales levels and an
+additional provision for uncollectible trade receivables associated with customers affected
+by hurricanes Katrina and Rita.
+
+Depreciation expense of $90 million increased $14 million (18%) compared to $76 million
+in the prior year
+period. Acquisitions contributed depreciation expense of approximately $7 million. The
+remainder of the
+
+31
+
+Table of Contents   
+
+AIRGAS, INC. AND SUBSIDIARIES 
+MANAGEMENT S DISCUSSION AND ANALYSIS 
+OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+increase primarily reflects the current and prior year s capital
+expenditures to support growth, including purchases of cylinders, bulk tanks and rental
+welders. Amortization expense of $4 million in the current period was consistent with the
+prior year period.
+
+Operating Income 
+
+Operating income increased 30% in the current period compared to the prior year period
+driven by higher sales levels. Cost leverage and the improved
+operations of the BOC business acquired in the prior year
+contributed to a 70 basis point increase in the operating income margin to 9.4% compared to
+8.7% in the prior year period.
+
+Operating income in the Distribution segment increased 30% in the current period. The
+Distribution segment s operating income margin increased 70 basis points to 8.4% compared to
+7.7% in the prior year period. The increase in the operating income margin reflects the
+lower operating expenses as a percentage of net sales, described above. The prior year
+period was negatively impacted by integration costs and initial lower margins of the business
+acquired from BOC.
+
+Operating income in the All Other Operations segment increased 30% resulting primarily
+from the strong business momentum of National Welders as well as the acquisition of anhydrous
+ammonia business from LaRoche. The segment s operating income margin increased 30 basis
+points to 12.8% in the current period compared to 12.5% in the prior year period. The higher
+operating income margin principally relates to lower operating expenses as a percentage of
+net sales, partially offset by the lower operating margin of the anhydrous ammonia business.
+
+Interest Expense and Discount on Securitization of Trade Receivables 
+
+Interest expense, net, and the discount on securitization of trade receivables of $47
+million increased 15% compared to the prior year period. The increase primarily resulted
+from higher debt levels associated with acquisitions and capital expenditures and higher
+interest rates.
+
+Income Tax Expense 
+
+The effective income tax rate was 37.5% of pre-tax earnings in the current period
+compared to 37% in the prior year period.
+
+Income from Continuing Operations 
+
+Income from continuing operations for the nine months ended December 31, 2005 was $92
+million, or $1.16 per diluted share, compared to $68 million, or $0.88 per diluted share, in
+the prior year period.
+
+32
+
+Table of Contents   
+
+AIRGAS, INC. AND SUBSIDIARIES 
+MANAGEMENT S DISCUSSION AND ANALYSIS 
+OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+Income (loss) from Discontinued Operations 
+
+In the nine months ended December 31, 2005, the Company recognized a loss from
+discontinued operations of $2.4 million, $1.4 million after tax, or $0.02 per diluted share,
+related to the divestiture of Rutland Tool. The loss principally related to the write-off of
+leasehold improvements and lease termination costs for long-term lease commitments that are
+not being assumed by the purchaser.
+
+Net Earnings 
+
+Net earnings for the nine months ended December 31, 2005 were $90 million, or $1.14 per
+diluted share, compared to $68 million, or $0.88 per diluted share, in the prior year period.
+
+33
+
+Table of Contents   
+
+AIRGAS, INC. AND SUBSIDIARIES 
+MANAGEMENT S DISCUSSION AND ANALYSIS 
+OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+LIQUIDITY AND CAPITAL RESOURCES  
+
+Cash Flows 
+
+Net cash provided by operating activities increased to $227 million for the nine months
+ended December 31, 2005 compared to $116 million in the comparable prior year period. The
+increase in operating cash flows primarily resulted from higher net earnings adjusted for
+non-cash items. Net earnings adjusted for non-cash items provided cash of $229 million
+versus $180 million in the prior year period. The Company also increased the level of
+receivables sold under its trade receivables securitization program providing cash of $34
+million in the current period versus $30 million in the prior year period. Improved
+management of working capital resulted in a use of cash of $35 million in the current period
+versus $94 million in the prior year period. The use of cash for working capital in the
+current period principally reflects lower accounts payable related to the timing of payments
+to vendors and higher levels of inventory and trade receivables in support of sales growth.
+Cash flows of National Welders, in excess of a management fee paid by National Welders to the
+Company, are not available to the Company. Cash provided by operating activities in the
+current period included $16 million of cash provided by National Welders, which was
+consistent with $13 million in the prior year period. Cash flows provided by operating
+activities were used to fund investing activities, such as capital expenditures and
+acquisitions.
+
+Net cash used in investing activities totaled $234 million during the current period and
+primarily consisted of cash used for capital expenditures and acquisitions. Capital
+expenditures were $154 million in the current period (including $16 million at National
+Welders) and primarily relate to spending for cylinders, bulk tanks and rental welding machines.
+These capital expenditures reflect investments to support the Company s sales growth initiatives. Cash of
+$99 million was paid in the current period for acquisitions and holdback payments primarily
+related to the LaRoche, Kanox and BOC acquisitions.
+
+Financing activities provided net cash of $16 million primarily from an increase in the
+cash overdraft and a note prepayment by the preferred stockholders of National Welders,
+partially offset by dividends paid to stockholders and debt repayment. An increase in the
+Company s cash overdraft provided cash of $28 million in the current period. The cash
+overdraft represents outstanding checks. As described below, cash of $21 million was
+provided by National Welders  minority stockholders  note prepayment, the proceeds of which
+were used to repay National Welders  Term Loan B.
+
+In June 2005, National Welders entered into an agreement with its preferred stockholders
+under which the preferred stockholders prepaid their $21 million note receivable to National
+Welders. National Welders used the proceeds from the prepayment of the preferred
+stockholders  note to pay-off its $21 million Term Loan B, which had been collateralized by
+the preferred stockholders  note. In connection with the note prepayment, National Welders
+terminated an interest rate swap agreement that converted the variable rate Term Loan B to a
+fixed interest rate. The preferred stockholders reimbursed National Welders $700 thousand
+for the fee to terminate the interest rate swap agreement. Also see Note 10 to the
+Consolidated Financial Statements.
+
+Effective March 31, 2005, the Company changed from a net cash presentation on the
+balance sheet to a gross presentation. Previously, the Company did not show cash balances as
+all depository cash and cash overdrafts were combined and the net overdraft was recorded in
+other current liabilities. In the current presentation, depository cash and cash overdrafts
+are presented on a gross basis. The Company adopted the current presentation to be
+consistent with the practice among most companies and to be more transparent. The Statement
+of Cash Flows for the nine months ended December 31, 2004 reflects the reclassification to
+conform to the current presentation.
+
+34
+
+Table of Contents   
+
+AIRGAS, INC. AND SUBSIDIARIES 
+MANAGEMENT S DISCUSSION AND ANALYSIS 
+OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+Dividends 
+
+At the end of each quarter during the nine months ended December 31, 2005, the Company
+paid its stockholders regular quarterly cash dividends of $0.06 per share. On January 31,
+2006, the Company s Board of Directors declared a regular quarterly cash dividend of $0.06
+per share, which is payable on March 31, 2006 to stockholders of record as of March 15, 2006.
+Future dividend declarations and associated amounts paid will depend upon the Company s
+earnings, financial condition, loan covenants, capital requirements and other factors deemed
+relevant by management and the Company s Board of Directors.
+
+Stock Repurchase Plan 
+
+In November 2005, the Company announced that its Board of Directors approved a stock
+repurchase plan. The stock repurchase plan authorizes the Company to repurchase up to $150
+million of it common stock over a three year period. During the quarter ended December 31,
+2005, the Company repurchased 174 thousand shares for cash of $5.6 million.
+
+Financial Instruments 
+
+Senior Credit Agreement 
+
+The Company has unsecured senior credit facilities with a syndicate of lenders under a
+credit agreement (the  Credit Agreement ) that provides revolving credit lines of $308
+million and Canadian $50 million and a term loan. The Credit Agreement has a maturity date
+of January 14, 2010. As of December 31, 2005, the Company had revolving credit borrowings of
+approximately $144 million, Canadian $25 million (U.S. $21 million), and term loan borrowings
+of $85 million. As of December 31, 2005, the Company also had commitments under letters of
+credit of $39 million, of which $5 million was supported by the Credit Agreement and $34
+million was supported by an arrangement with another financial institution. The U.S. dollar
+borrowings bear interest of LIBOR plus 95 basis points and the Canadian dollar borrowings
+bear interest at the Canadian Bankers  Acceptance Rate plus 95 basis points. As of December
+31, 2005, the effective interest rate on the U.S. dollar revolving credit lines, the Canadian
+dollar credit lines and the U.S. dollar term loan were 5.25%, 4.30% and 5.48%, respectively.
+
+Under the Credit Agreement, the Company s domestic subsidiaries guarantee the U.S.
+borrowings and Canadian borrowings, and the Company s foreign subsidiaries also guarantee the
+Canadian borrowings. The guarantees are full and unconditional and are made on a joint and
+several basis. The Company has pledged 100% of the stock of its domestic subsidiaries and
+65% of the stock of its foreign subsidiaries as surety for its obligations under the
+agreement. The Credit Agreement provides for the release of the guarantees and collateral if
+the Company attains an investment grade credit rating and maintains such rating for two
+consecutive quarters.
+
+Medium-Term Notes 
+
+At December 31, 2005, the Company had $100 million of medium-term notes due September
+2006 bearing interest at a fixed rate of 7.75%. The medium-term notes have been presented in
+the current portion of long-term debt at December 31, 2005. It is the Company s intention to
+refinance the notes upon maturity with borrowings under its senior credit agreement. The
+medium-term notes are fully and unconditionally guaranteed on a joint and several basis by
+each of the wholly owned domestic guarantors under the revolving credit facilities. The
+Company has pledged the stock of its domestic guarantors for the benefit of the note holders.
+
+35
+
+Table of Contents   
+
+AIRGAS, INC. AND SUBSIDIARIES 
+MANAGEMENT S DISCUSSION AND ANALYSIS 
+OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+Senior Subordinated Notes 
+
+At December 31, 2005, the Company had $150 million of senior subordinated notes (the
+ 2004 Notes ) outstanding with a maturity date of July 15, 2014. The 2004 Notes bear
+interest at a fixed annual rate of 6.25%, payable semi-annually on January 15 and July 15 of
+each year. The 2004 notes have an optional redemption provision, which permits the Company,
+at its option, to call the 2004 Notes at scheduled dates and prices. The first scheduled
+optional redemption date is July 15, 2009 at a price of 103.1% of the principal amount.
+
+In addition to the 2004 Notes, at December 31, 2005, the Company had $225 million of
+senior subordinated notes (the  2001 Notes ) outstanding with a maturity date of October 1,
+2011. The 2001 Notes bear interest at a fixed annual rate of 9.125%, payable semi-annually
+on April 1 and October 1 of each year. The 2001 notes also have an optional redemption
+provision, which permits the Company, at its option, to call the 2001 Notes at scheduled
+dates and prices. The first scheduled optional redemption date is October 1, 2006 at a price
+of 104.6% of the principal amount.
+
+The 2004 Notes and 2001 Notes contain covenants that could restrict the payment of
+dividends, the repurchase of common stock, the issuance of preferred stock, and the
+incurrence of additional indebtedness and liens. The 2004 Notes and 2001 Notes are fully and
+unconditionally guaranteed jointly and severally, on a subordinated basis, by each of the
+wholly owned domestic guarantors under the revolving credit facilities. The stock of the
+Company s domestic subsidiaries is also pledged to the note holders on a subordinated basis.
+
+Acquisition and Other Notes 
+
+The Company s long-term debt also included acquisition and other notes principally
+consisting of notes issued to sellers of businesses acquired and are repayable in periodic
+installments. At December 31, 2005, acquisition and other notes totaled approximately $7
+million with interest rates ranging from 5% to 8.5%.
+
+Total Borrowing Capacity 
+
+Some of the Company s financial instruments (principally the Credit Agreement and the
+Senior Subordinated Notes) contain covenants requiring the Company to maintain certain
+leverage and coverage ratios. These covenants serve to limit the total amount of debt that
+the Company may incur. As of December 31, 2005, the Company was able to incur $420 million
+of additional debt: $180 million available under the Credit Agreement and $240 million that
+the Company would need to arrange. Should the Company s financing requirements exceed
+amounts available under the Credit Agreement, the Company believes that it could obtain
+these funds on reasonable terms. The terms of any future financing arrangements depend on
+market conditions and the Company s financial position at that time.
+
+The Company continues to look for acquisition candidates. The Company s financial
+instruments require that covenant calculations include the pro forma results of acquired
+businesses. Therefore, borrowing capacity is not reduced dollar-for-dollar with acquisition
+financing.
+
+Financial Instruments of the National Welders Joint Venture 
+
+Pursuant to the requirements of FASB s Financial Interpretation No. 46 (revised December
+2003),  Consolidation of Variable Interest Entities , ( FIN 46R ), the Company s Consolidated
+Balance Sheets at December 31, 2005 and March 31, 2005 include the financial obligations of
+National Welders. National Welders  financial obligations are non-recourse to the Company,
+meaning that the creditors of National Welders do not have a claim on the assets of Airgas,
+Inc.
+
+36
+
+Table of Contents   
+
+AIRGAS, INC. AND SUBSIDIARIES 
+MANAGEMENT S DISCUSSION AND ANALYSIS 
+OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+The National Welders Credit Agreement (the  NWS Credit Agreement)  provides for a Term
+Loan A of $26 million, a Term Loan B of $21 million, a Term Loan C of $9 million, and a
+revolving credit line of $44 million. Term Loan A is repayable in monthly amounts of $254
+thousand with a lump-sum payment of the outstanding balance at maturity in June 2007. Term
+Loan B was repaid in its entirety in June 2005 with the proceeds from the minority
+stockholders  prepayment of its notes due to National Welders (See Note 10 to the
+Consolidated Financial Statements). Term Loan C matures in September 2006 and the revolving
+credit agreement matures in August 2008. The variable interest rate on Term Loan A and the
+revolving credit line ranges from LIBOR plus 70 to 145 basis points based on National
+Welders  leverage ratio. The NWS Credit Agreement contains certain covenants which, among
+other things, limit the ability of National Welders to incur and guarantee new indebtedness,
+subject National Welders to minimum net worth requirements, and limit its capital
+expenditures, ownership changes, merger and acquisition activity, and the payment of
+dividends.
+
+At December 31, 2005, National Welders had borrowings under its revolving credit line of
+$29 million, under Term Loan A of $16 million and under Term Loan C of $2 million. At
+December 31, 2005, the effective interest rate for Term Loan A and the revolving credit line
+was 5.34%. Term Loan C bears a fixed interest rate of 7%. Based on restrictions related to
+certain leverage ratios, National Welders had additional borrowing capacity under the NWS
+Credit Agreement of approximately $15 million at December 31, 2005.
+
+As of December 31, 2005, Term Loan A and the revolving credit line are secured by
+certain current assets, principally trade receivables and inventory, totaling $29 million,
+non-current assets, principally equipment, totaling $90 million, and Airgas common stock with
+a market value of $30 million classified as treasury stock and carried at cost of $370
+thousand.
+
+Trade Receivables Securitization 
+
+The Company participates in a securitization agreement with two commercial banks to sell
+up to $225 million of qualifying trade receivables. The agreement expires in February 2008,
+but may be renewed subject to provisions contained in the agreement. During the nine months
+ended December 31, 2005, the Company sold, net of its retained interest, $1,748 million of
+trade receivables and remitted to bank conduits, pursuant to a servicing agreement, $1,714
+million in collections on those receivables. The net proceeds were used to reduce borrowings
+under the Company s revolving credit facilities. The amount of outstanding receivables under
+the agreement was $224 million at December 31, 2005 and $190 million at March 31, 2005.
+
+Interest Rate Swap Agreements 
+
+The Company manages its exposure to changes in market interest rates. At December 31,
+2005, the Company was party to two interest rate swap agreements. The swap agreements are
+with major financial institutions and aggregate $50 million in notional principal amount.
+These swap agreements require the Company to make fixed interest payments based on an average
+effective rate of 4.15% and receive variable interest payments from its counterparties based
+on one-month LIBOR, which was 4.36% at December 31, 2005. The remaining terms of each of
+these swap agreements is 3.4 years. The Company monitors its positions and the credit
+ratings of its counterparties and does not anticipate non-performance by the counterparties.
+
+Including the effect of the interest rate swap agreements, the debt of National Welders,
+and the trade receivables securitization, the Company s ratio of fixed to variable interest
+rates was approximately 53% fixed to 47% variable at December 31, 2005. A majority of the
+Company s variable rate debt is based on a spread over the LIBOR. Based on the Company s
+fixed to variable interest rate ratio at December 31, 2005, for every 25 basis point increase
+in LIBOR, the Company estimates that its annual interest expense would increase approximately
+$1 million.
+
+37
+
+Table of Contents   
+
+AIRGAS, INC. AND SUBSIDIARIES 
+MANAGEMENT S DISCUSSION AND ANALYSIS 
+OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+Contractual Obligations and Off-Balance Sheet Arrangements 
+
+There were no material changes in the Company s contractual obligations and off-balance
+sheet arrangements as of December 31, 2005 compared to those contained in the Form 10-K for
+the fiscal year ended March 31, 2005.
+
+See Item 3 of this report for the Company s estimated future obligations related to its
+debt, the debt of National Welders, the off-balance sheet trade receivables securitization,
+interest on the debt, and estimated future obligations under the Company s interest rate swap
+agreements as of December 31, 2005. The Company s cash outlays for interest approximate
+interest expense.
+
+OTHER  
+
+New Accounting Pronouncements 
+
+In December 2004, the FASB issued Statement of Financial Accounting Standards ( SFAS )
+No. 123R,  Share Based Payment,  as an amendment to SFAS 123,  Accounting for Stock-Based
+Compensation . SFAS 123R requires that grants of employee stock options, including shares
+expected to be purchased under employee stock purchase plans, to be recognized as
+compensation expense based on their fair values. SFAS 123R is effective for all annual
+periods beginning after December 15, 2005. Therefore, SFAS 123R will be effective for the
+Company as of April 1, 2006. The Company is currently evaluating the impact of SFAS 123R on
+its results of operations and financial position. The Company has not yet determined which
+fair-value method and transitional provision it will adopt. See Note 12 to the Consolidated
+Financial Statements for the pro-forma effect on net earnings and earnings per share for the
+three and nine month periods ended December 31, 2005 and 2004, as if the Company had applied
+the fair value recognition provisions of SFAS 123 to stock-based compensation.
+
+In November 2004, the FASB issued SFAS 151,  Inventory Costs , as an amendment to the
+guidance provided on  Inventory Pricing  in FASB Accounting Research Bulletin 43. SFAS 151,
+which the Company is required to adopt as of April 1, 2006, clarifies the accounting for
+abnormal amounts of idle facility expense, freight, handling costs and wasted material. This
+statement requires that if the costs associated with the actual level of spoilage or
+production defects are greater than the normal range of spoilage or defects, the excess costs
+should be charged to current period expense. Since the Company performs limited
+manufacturing, the Company does not believe that the adoption of SFAS 151 will have a
+material impact on its results of operations, financial position or liquidity.
+
+In December 2004, the FASB issued SFAS 153,  Exchanges of Nonmonetary Assets,  as an
+amendment to APB Opinion 29,  Accounting for Nonmonetary Transactions . SFAS 153 requires
+nonmonetary exchanges to be accounted for at fair value, recognizing any gains or losses, if
+the fair value is determinable within reasonable limits and the transaction has commercial
+substance. The Company is required to adopt SFAS 153 as of April 1, 2006. The Company is
+currently evaluating the impact, if any, that the adoption of SFAS 153 will have on its
+consolidated results of operations and financial position.
+
+On June 1, 2005, the FASB issued SFAS 154,  Accounting Changes and Error Corrections, 
+which requires retrospective application to prior periods  financial statements of voluntary
+changes in accounting principle, unless it is impractical to do so. The statement is
+effective for accounting changes and corrections of errors made in fiscal years beginning
+after December 15, 2005.
+
+38
+
+Table of Contents   
+
+AIRGAS, INC. AND SUBSIDIARIES 
+MANAGEMENT S DISCUSSION AND ANALYSIS 
+OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+Forward-looking Statements 
+
+This report contains statements that are forward looking within the meaning of the Private
+Securities Litigation Reform Act of 1995. These statements include, but are not limited to,
+statements regarding: the Company s expectation that strategic products will grow at a faster rate
+than the overall economy and its focus on those products; the receipt of subsequent consideration
+of $5.6 million related to the Rutland Tool divestiture; acquisitions as an important component of
+the Company s growth and the ability to identify acquisition candidates to strengthen and expand
+the Company s business; the repurchase of $150 million of common stock over a three-year period;
+the Company s estimates of net earnings in its fiscal 2006 fourth quarter and of earnings from
+continuing operations for fiscal 2006; anticipated same-store sales growth and successful pricing
+actions; the impact of pricing actions on the fourth quarter of fiscal 2006; the ability of the
+Company to maintain its pricing discipline, raise prices, and keep pace with rising costs; the
+Company s expectation as to same-store sales percentage growth rate of hardgoods over the next few
+quarters; the Company s estimate that for every increase in LIBOR of 25 basis points, interest
+expense will increase approximately $1 million; the future payment of dividends; the Company s
+belief that it could arrange additional sources of financing on reasonable terms; the Company s
+ability to refinance its medium-term notes upon maturity with borrowings under its senior credit
+agreement; the amount of the estimated loss associated with hurricanes Katrina and Rita; the
+Company s ability to manage its exposure to interest rate risk of certain borrowings through
+participation in interest rate swap agreements; and the performance of counterparties under
+interest rate swap agreements.
+
+These forward-looking statements involve risks and uncertainties. Factors that could cause
+actual results to differ materially from those predicted in any forward-looking statement include,
+but are not limited to: adverse customer response to the Company s strategic product sales
+initiatives and/or strategic products growing slower than the overall economy; underlying market
+conditions; customers acceptance of price increases; adverse changes in customer buying patterns;
+an economic downturn (including adverse changes in the specific markets for the Company s
+products); subsequent consideration of less than $5.6 million associated with the Rutland
+divestiture resulting from collection issues; the inability to identify acquisition candidates and
+successfully complete and integrate acquisitions; common stock repurchases over the next three
+years totaling less than $150 million; the Company s inability to meet its earnings estimates; a
+rise in product costs and/or operating expenses at a rate faster than the Company s ability to
+increase prices; the losses associated with Katrina and Rita that are higher or lower than that
+estimated by the Company; higher than estimated interest expense resulting from increases in LIBOR;
+potential disruption to the Company s business from integration problems associated with
+acquisitions; the inability of management to control expenses; changes in the Company s debt levels
+and/or credit rating which prevent the Company from arranging additional financing at reasonable
+terms as well as negatively impacting earnings; a lack of borrowing availability under the senior
+credit agreement or other financing sources that prevent the Company from refinancing the
+medium-term notes upon maturity; a lack of available cash flow necessary to pay future dividends;
+the inability to pay dividends as a result of loan covenant restrictions; the inability to manage
+interest rate exposure; unanticipated non-performance by counterparties related to interest rate
+swap agreements; the effects of competition from independent distributors and vertically integrated
+gas producers on products, pricing and sales growth; changes in product prices from gas producers
+and name-brand manufacturers and suppliers of hardgoods; and the effects of, and changes in, the
+economy, monetary and fiscal policies, laws and regulations, inflation and monetary fluctuations
+and fluctuations in interest rates, both on a national and international basis. The Company does
+not undertake to update any forward-looking statement made herein or that may be made from time to
+time by or on behalf of the Company.
+
+39
+
+Table of Contents   
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+
+Interest Rate Risk 
+
+The Company manages its exposure to changes in market interest rates. The interest rate
+exposure arises primarily from the interest payment terms of the Company s borrowing
+agreements. Interest rate swap agreements are used to adjust the interest rate risk
+exposures that are inherent in its portfolio of funding sources. The Company has not, and
+will not establish any interest rate risk positions for purposes other than managing the risk
+associated with its portfolio of funding sources. The Company maintains the ratio of fixed
+to variable rate debt within parameters established by management under policies approved by
+the Board of Directors. Including the effect of interest rate swap agreements on the
+Company s debt and off-balance sheet financing arrangements, the Company s ratio of fixed to
+variable rate debt was 53% fixed and 47% variable at December 31, 2005. The ratio includes
+the effect of the fixed to variable rate debt of National Welders. Counterparties to
+interest rate swap agreements are major financial institutions. The Company has established
+counterparty credit guidelines and only enters into transactions with financial institutions
+with long-term credit ratings of  A  or better. In addition, the Company monitors its
+position and the credit ratings of its counterparties, thereby minimizing the risk of
+non-performance by the counterparties.
+
+The table below summarizes the Company s market risks associated with debt obligations,
+interest rate swaps and the trade receivables securitization as of December 31, 2005. For
+debt obligations and the trade receivables securitization, the table presents cash flows related to payments of principal, interest
+and the discount on the securitization program by fiscal year of maturity. For interest rate
+swaps, the table presents the notional amounts underlying the agreements by year of maturity.
+The notional amounts are used to calculate contractual payments to be exchanged and are not
+actually paid or received. Fair values were computed using market quotes, if available, or
+based on discounted cash flows using market interest rates as of the end of the period.
+
+40
+
+Table of Contents   
+
+(a)  Fiscal 2006 financial instrument maturities and interest expense relate to the period
+January 1, 2006 through March 31, 2006.
+
+(b)  The variable rate of U.S. revolving credit facilities and term loan is based on the average
+LIBOR rate of outstanding contracts as of December 31, 2005. The variable rate of the Canadian
+dollar portion of the revolving credit facilities is the rate on Canadian Bankers  acceptances
+as of December 31, 2005.
+
+(c)  The trade receivables securitization agreement expires in February 2008, but may be renewed
+subject to renewal provisions contained in the agreement.
+
+41
+
+Table of Contents   
+
+Limitations of the tabular presentation 
+
+As the table incorporates only those interest rate risk exposures that exist as of
+December 31, 2005, it does not consider those exposures or positions that could arise after
+that date. In addition, actual cash flows of financial instruments in future periods may
+differ materially from prospective cash flows presented in the table due to future fluctuations
+in variable interest rates, debt levels and the Company s credit rating.
+
+Foreign Currency Rate Risk 
+
+Canadian subsidiaries of the Company are funded in part with local currency debt. The
+Company does not otherwise hedge its exposure to translation gains and losses relating to
+foreign currency net asset exposures. The Company considers its exposure to foreign currency
+exchange fluctuations to be immaterial to its consolidated financial position and results of
+operations.
+
+Item 4. Controls and Procedures 
+
+(a)  Evaluation of Disclosure Controls and Procedures 
+
+The Company carried out an evaluation, under the supervision and with the participation
+of the Company s Chief Executive Officer and Chief Financial Officer, of the effectiveness of
+the Company s  disclosure controls and procedures  (as defined in the Securities Exchange Act
+of 1934 Rules 13a-15(e) and 15d-15(e)) as of December 31, 2005. Based on that evaluation,
+the Company s Chief Executive Officer and Chief Financial Officer have concluded that, as of
+such date, the Company s disclosure controls and procedures were effective to ensure that
+information required to be disclosed by the Company in the reports it files or submits under
+the Securities Exchange Act of 1934 is recorded, processed, summarized and reported in the
+periods specified in the Securities and Exchange Commission s rules and forms.
+
+(b)  Changes in Internal Control 
+
+There were no changes in internal control over financial reporting that occurred during
+the quarter ended December 31, 2005 that have materially affected, or are reasonably likely
+to materially affect, the Company s internal control over financial reporting.
+
+42
+
+Table of Contents   
+
+PART II. OTHER INFORMATION 
+
+Item 1. Legal Proceedings 
+
+The Company is involved in various legal and regulatory proceedings that have arisen in
+the ordinary course of its business and have not been fully adjudicated. These actions, when
+ultimately concluded will not, in the opinion of management, have a material adverse effect
+upon the Company s consolidated financial position, results of operations or liquidity.
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds 
+
+(a) Not applicable
+
+(b) Not applicable
+
+(c) Purchase of Equity Securities by the Issuer and Affiliated
+ Purchasers
+
+On November 15, 2005, the Company announced that its Board of Directors approved a share
+repurchase plan (the  Plan ). Under the terms of the Plan, the Company is authorized to repurchase
+up to $150 million of its common stock over a three-year period. Prior to the end of the
+three-year period, the Plan may be discontinued or suspended at any time by the Company. During
+the three months ended December 31, 2005, the Company repurchased the following shares:
+
+No shares were repurchased
+ in November 2005.
+
+Item 6. Exhibit Listing 
+
+The following exhibits are being filed or furnished as part of this Quarterly Report on
+Form 10-Q:
+
+Exhibit No. 
+       
+     Description 
+
+11
+
+Calculation of earnings per share. 
+
+31.1
+
+Certification of Peter McCausland as Chairman and Chief Executive Officer of
+Airgas, Inc. pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+
+31.2
+
+Certification of Roger F. Millay as Senior Vice President and Chief Financial
+Officer of Airgas, Inc. pursuant to Section 302 of the Sarbanes-Oxley Act of 2002. 
+
+32.1
+
+Certification of Peter McCausland as Chairman and Chief Executive Officer of
+Airgas, Inc. pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906
+of the Sarbanes-Oxley Act of 2002. 
+
+32.2
+
+Certification of Roger F. Millay as Senior Vice President and Chief Financial
+Officer of Airgas, Inc. pursuant to 18 U.S.C. Section 1350, as adopted pursuant to
+Section 906 of the Sarbanes-Oxley Act of 2002. 
+
+43
+
+Table of Contents   
+
+Signatures 
+
+Pursuant to the requirements of the Securities and Exchange Act of 1934, the Registrant and
+Co-Registrants have duly caused this report to be signed on its behalf by the undersigned
+hereunto duly authorized.
+
+AIRGAS, INC. 
+
+AIRGAS EAST, INC. 
+
+(Registrant) 
+
+AIRGAS GREAT LAKES, INC. 
+
+AIRGAS MID AMERICA, INC. 
+AIRGAS NORTH CENTRAL, INC. 
+
+BY: 
+       
+     /s/ Robert M. McLaughlin 
+
+AIRGAS SOUTH, INC. 
+
+Robert M. McLaughlin 
+
+AIRGAS GULF STATES, INC. 
+
+Vice President   Controller 
+
+AIRGAS MID SOUTH, INC. 
+
+AIRGAS INTERMOUNTAIN, INC. 
+AIRGAS NORPAC, INC. 
+AIRGAS NORTHERN CALIFORNIA   NEVADA, INC. 
+AIRGAS SOUTHWEST, INC. 
+AIRGAS WEST, INC. 
+AIRGAS SAFETY, INC. 
+AIRGAS CARBONIC, INC. 
+AIRGAS SPECIALTY GASES, INC. 
+NITROUS OXIDE CORP. 
+RED-D-ARC, INC. 
+AIRGAS DATA, LLC 
+
+(Co-Registrants) 
+
+BY:
+
+/s/ Robert M. McLaughlin 
+
+Robert M. McLaughlin 
+Vice President 
+
+ATNL, INC. 
+
+(Co-Registrant) 
+
+BY:
+
+/s/ Melanie Andrews 
+
+Melanie Andrews 
+President 
+
+DATED: February 8, 2006
+
+44
+
+<EX-11>
+ 2
+ w17240exv11.htm
+ CALCULATION OF EARNINGS PER SHARE
+
+exv11 
+
+EXHIBIT 11 
+
+Airgas, Inc. 
+Earnings Per Share Computations  
+(In thousands, except per share amounts)
+
+(1) - Pursuant to a joint venture agreement between the Company and the holders of the preferred stock of
+National Welders, between June 6, 2005 and June 30, 2009, the preferred shareholders have the option to
+exchange their 3.2 million preferred shares of National Welders either for cash at a price of $17.78 per share
+or to tender them to the joint venture in exchange for approximately 2.3 million shares of Airgas common stock.
+If Airgas common stock has a market value of $24.45 per share, the stock and cash redemption options are
+equivalent.
+
+(b) - If the preferred stockholders of National Welders convert their preferred stock to Airgas common stock,
+the 5% preferred stock dividend, recognized as  Minority interest in earnings of consolidated affiliate,  would
+no longer be paid to the preferred stockholders, resulting in
+additional net earnings for Airgas.
+
+(3) - The earnings of National Welders for tax purposes are treated as a deemed dividend to Airgas, net of an 80%
+dividend exclusion. Upon the assumed conversion of National Welders preferred stock to Airgas common stock,
+National Welders would become a wholly owned subsidiary of Airgas. As a wholly owned subsidiary,
+the net earnings of National Welders would not be subject to
+additional tax at the Airgas level.
+
+(4) - The assumed conversion of National Welders preferred stock to Airgas common stock is not presented because
+it was anti-dilutive.
+
+</EX-11>
+
+<EX-31.1>
+ 3
+ w17240exv31w1.htm
+ CERTIFICATION OF PETER MCCAUSLAND AS CHARIMAN AND CHIEF EXECUTIVE OFFICER
+
+exv31w1 
+
+Exhibit 31.1 
+
+CERTIFICATION OF CHIEF EXECUTIVE OFFICER 
+PURSUANT TO SECTION 302 OF THE 
+SARBANES-OXLEY ACT OF 2002 
+
+I, Peter McCausland, certify that:
+
+1. I have reviewed this quarterly report on Form 10-Q of Airgas, Inc.;
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material
+fact or omit to state a material fact necessary to make the statements made, in light of the
+circumstances under which such statements were made, not misleading with respect to the period
+covered by this report;
+
+3. Based on my knowledge, the financial statements, and other financial information included
+in this report, fairly present in all material respects the financial condition, results of
+operations and cash flows of the registrant as of, and for, the periods presented in this
+report;
+
+4. The registrant s other certifying officer and I are responsible for establishing and
+maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and
+15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules
+13a-15(f) and 15d-15(f)) for the registrant and have:
+
+a) designed such disclosure controls and procedures, or caused such disclosure controls and
+procedures to be designed under our supervision, to ensure that material information relating
+to the registrant, including its consolidated subsidiaries, is made known to us by others
+within those entities, particularly during the period in which this report is being prepared;
+
+b) designed such internal control over financial reporting, or caused such internal control
+over financial reporting to be designed under our supervision, to provide reasonable assurance
+regarding the reliability of financial reporting and the preparation of financial statements
+for external purposes in accordance with generally accepted accounting principles;
+
+c) evaluated the effectiveness of the registrant s disclosure controls and procedures and
+presented in this report our conclusions about the effectiveness of the disclosure controls
+and procedures, as of the end of the period covered by this report based on such evaluation;
+and
+
+d) disclosed in this report any change in the registrant s internal control over financial
+reporting that occurred during the registrant s most recent fiscal quarter (the registrant s
+fourth fiscal quarter in the case of an annual report) that has materially affected, or is
+reasonably likely to materially affect, the registrant s internal control over financial
+reporting; and
+
+5. The registrant s other certifying officer and I have disclosed, based on our most recent
+evaluation of internal control over financial reporting, to the registrant s auditors and the
+audit committee of the registrant s board of directors (or persons performing the equivalent
+functions):
+
+a) all significant deficiencies and material weaknesses in the design or operation of internal
+control over financial reporting which are reasonably likely to adversely affect the
+registrant s ability to record, process, summarize and report financial information; and
+
+b) any fraud, whether or not material, that involves management or other employees who have a
+significant role in the registrant s internal control over financial reporting.
+
+Date: February 8, 2006
+
+/s/ Peter McCausland
+
+Peter McCausland  
+
+Chairman and Chief Executive Officer 
+(Principal Executive Officer)  
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ w17240exv31w2.htm
+ CERTIFICATION OF ROGER F. MILLAY AS SENIOR VICE PRESIDENT AND CHIEF FINANCIAL OFFICER
+
+exv31w2 
+
+Exhibit 31.2 
+
+CERTIFICATION OF CHIEF FINANCIAL OFFICER 
+PURSUANT TO SECTION 302 OF THE 
+SARBANES-OXLEY ACT OF 2002 
+
+I, Roger F. Millay, certify that:
+
+1. I have reviewed this quarterly report on Form 10-Q of Airgas, Inc.;
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material
+fact or omit to state a material fact necessary to make the statements made, in light of the
+circumstances under which such statements were made, not misleading with respect to the period
+covered by this report;
+
+3. Based on my knowledge, the financial statements, and other financial information included
+in this report, fairly present in all material respects the financial condition, results of
+operations and cash flows of the registrant as of, and for, the periods presented in this
+report;
+
+4. The registrant s other certifying officer and I are responsible for establishing and
+maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and
+15d-15(e)) and internal control over financial reporting (as defined in Exchange Act Rules
+13a-15(f) and 15d-15(f)) for the registrant and have:
+
+a) designed such disclosure controls and procedures, or caused such disclosure controls and
+procedures to be designed under our supervision, to ensure that material information relating
+to the registrant, including its consolidated subsidiaries, is made known to us by others
+within those entities, particularly during the period in which this report is being prepared;
+
+b) designed such internal control over financial reporting, or caused such internal control
+over financial reporting to be designed under our supervision, to provide reasonable assurance
+regarding the reliability of financial reporting and the preparation of financial statements
+for external purposes in accordance with generally accepted accounting principles;
+
+c) evaluated the effectiveness of the registrant s disclosure controls and procedures and
+presented in this report our conclusions about the effectiveness of the disclosure controls
+and procedures, as of the end of the period covered by this report based on such evaluation;
+and
+
+d) disclosed in this report any change in the registrant s internal control over financial
+reporting that occurred during the registrant s most recent fiscal quarter (the registrant s
+fourth fiscal quarter in the case of an annual report) that has materially affected, or is
+reasonably likely to materially affect, the registrant s internal control over financial
+reporting; and
+
+5. The registrant s other certifying officer and I have disclosed, based on our most recent
+evaluation of internal control over financial reporting, to the registrant s auditors and the
+audit committee of the registrant s board of directors (or persons performing the equivalent
+functions):
+
+a) all significant deficiencies and material weaknesses in the design or operation of internal
+control over financial reporting which are reasonably likely to adversely affect the
+registrant s ability to record, process, summarize and report financial information; and
+
+b) any fraud, whether or not material, that involves management or other employees who have a
+significant role in the registrant s internal control over financial reporting.
+
+Date: February 8, 2006
+
+/s/ Roger F. Millay
+
+Roger F. Millay  
+
+Senior Vice President and
+Chief Financial Officer 
+(Principal Financial Officer)  
+
+</EX-31.2>
+
+<EX-32.1>
+ 5
+ w17240exv32w1.htm
+ CERTIFICATION OF PETER MCCAUSLAND AS CHAIRMAN AND CHIEF EXECUTIVE OFFICER PURSUANT TO SECTION 906
+
+exv32w1 
+
+Exhibit 32.1 
+
+CERTIFICATION PURSUANT TO 
+18 U.S.C. SECTION 1350, 
+AS ADOPTED PURSUANT TO 
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the quarterly report of Airgas, Inc. (the  Company ) on Form 10-Q for the period
+ended December 31, 2005 as filed with the Securities and Exchange Commission (the  Report ), I,
+Peter McCausland, Chairman and Chief Executive Officer of the Company, certify, pursuant to 18
+U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that, to
+such officer s knowledge:
+
+(1) 
+       
+     The Report fully complies with the requirements of section 13(a) or 15(d) of the
+Securities Exchange Act of 1934; and 
+
+(2) 
+       
+     The information contained in the Report fairly presents, in all material respects,
+the financial condition and results of operations of the Company as of the dates and for
+the periods expressed in the Report. 
+
+/s/ Peter McCausland   
+Peter McCausland 
+Chairman and Chief Executive Officer 
+(Principal Executive Officer) 
+February 8, 2006
+
+The foregoing certification is being furnished to the Securities and Exchange Commission pursuant
+to 18 U.S.C. Section 1350 as an exhibit to the Report and is not being filed as part of the Report
+or as a separate disclosure document.
+
+</EX-32.1>
+
+<EX-32.2>
+ 6
+ w17240exv32w2.htm
+ CERTIFICATION OF ROGER F, MILLAY AS SENIOR VICE PRESIDENT AND CHIEF FINANCIAL OFFICER, PURSUANT TO SECTION 906
+
+exv32w2 
+
+Exhibit 32.2 
+
+CERTIFICATION PURSUANT TO 
+18 U.S.C. SECTION 1350, 
+AS ADOPTED PURSUANT TO 
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the quarterly report of Airgas, Inc. (the  Company ) on Form 10-Q for the period
+ended December 31, 2005 as filed with the Securities and Exchange Commission (the  Report ), I,
+Roger F. Millay, Senior Vice President and Chief Financial Officer of the Company, certify,
+pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of
+2002, that, to such officer s knowledge:
+
+(1) 
+       
+     The Report fully complies with the requirements of section 13(a) or 15(d) of the
+Securities Exchange Act of 1934; and 
+
+(2) 
+       
+     The information contained in the Report fairly presents, in all material respects, the
+financial condition and results of operations of the Company as of the dates and for the
+periods expressed in the Report. 
+
+/s/ Roger F. Millay  
+Roger F. Millay 
+Senior Vice President and Chief Financial Officer 
+(Principal Financial Officer) 
+February 8, 2006
+
+The foregoing certification is being furnished to the Securities and Exchange Commission pursuant
+to 18 U.S.C. Section 1350 as an exhibit to the Report and is not being filed as part of the Report
+or as a separate disclosure document.
+
+</EX-32.2>
+

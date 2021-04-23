@@ -1,0 +1,530 @@
+<Header>
+<FileStats>
+    <FileName>20060331_10-K_edgar_data_1343868_0001056404-06-001652_1.txt</FileName>
+    <GrossFileSize>19033</GrossFileSize>
+    <NetFileSize>14996</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>166</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>1</N_Tables>
+    <N_Exhibits>0</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001056404-06-001652.hdr.sgml : 20060331
+<ACCEPTANCE-DATETIME>20060331120125
+ACCESSION NUMBER:		0001056404-06-001652
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20051231
+FILED AS OF DATE:		20060331
+DATE AS OF CHANGE:		20060331
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SG Mortgage Securities Trust 2005-OPT1
+		CENTRAL INDEX KEY:			0001343868
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-125307-01
+		FILM NUMBER:		06726481
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1221 AVENUE OF THE AMERICAS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10020
+		BUSINESS PHONE:		212-278-7188
+
+	MAIL ADDRESS:	
+		STREET 1:		1221 AVENUE OF THE AMERICAS
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10020
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ CbTsasYYg3/U+tuE9EeOCEQo1zaggd6I+pY8dE2EpI7dsWiPymyPUtVxgWsE+WRn
+ besYqQFMZbsQHpg7RIlh3A==
+
+ 0001056404-06-001652.txt : 20060331
+
+10-K
+ 1
+ sge05op1_10k-2005.txt
+
+UNITED STATES
+                             SECURITIES AND EXCHANGE COMMISSION
+                                   WASHINGTON, D.C. 20549
+
+FORM 10-K
+
+(Mark one)
+
+  /X/ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+      EXCHANGE ACT OF 1934
+      For the fiscal year ended December 31, 2005
+
+      OR
+
+/ / TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+      EXCHANGE ACT OF 1934
+
+Commission File Number:  333-125307-01
+
+SG Mortgage Securities Trust
+        Asset Backed Certificates
+        Series 2005-OPT1
+
+     (Exact name of registrant as specified in its charter)
+
+New York                                          54-2188554
+  (State or other jurisdiction of                   54-2188555
+  incorporation or organization)                    (I.R.S. Employer
+                                                    Identification No.)
+
+c/o Wells Fargo Bank, N.A.
+   9062 Old Annapolis Road
+   Columbia, MD                                21045
+  (Address of principal executive offices)    (Zip Code)
+
+Registrant's telephone number, including area code: (410) 884-2000
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+        NONE.
+
+Securities registered pursuant to Section 12(g) of the Act:
+
+        NONE.
+
+Indicate by check mark if the registrant is a well-known seasoned issuer,
+  as defined in Rule 405 of the Securities Act.
+
+        Yes  ___     No  X
+
+Indicate by check mark if the registrant is not required to file reports
+  pursuant to Section 13 or Section 15(d) of the Act.
+
+        Yes  ___     No  X
+
+Indicate by check mark whether the registrant (1) has filed all reports
+  required to be filed by Section 13 or 15(d) of the Securities Exchange
+  Act of 1934 during the preceding 12 months (or for such shorter period
+  that the registrant was required to file such reports), and (2) has been
+  subject to such filing requirements for the past 90 days.
+
+        Yes  ___     No  X
+
+  NOTE:  The registrant has not been subject to filing requirements for the
+  past 90 days as the closing date for the transaction was November 8, 2005.
+
+Indicate by check mark if disclosure of delinquent filers pursuant to
+  Item 405 of Regulation S-K ( 229.405 of this chapter) is not contained
+  herein, and will not be contained, to the best of registrant's knowledge,
+  in definitive proxy or information statements incorporated by reference
+  in Part III of this Form 10-K or any amendment to this Form 10-K.
+
+        Not applicable.
+
+Indicate by check mark whether the registrant is a large accelerated filer,
+  an accelerated filer, or a non-accelerated filer. See Definition of
+  "accelerated filer and large accelerated filer" in Rule 12b-2 of the
+  Exchange Act. (Check One):
+
+Large Accelerated Filer ___  Accelerated Filer ___  Non-Accelerated Filer X
+
+Indicate by check mark whether the registrant is a shell company (as
+  defined in Rule 12b-2 of the Act).
+
+        Yes  ___     No  X
+
+State the aggregate market value of the voting and non-voting common
+  equity held by non-affiliates computed by reference to the price at which
+  the common equity was last sold, or the average bid and asked price of
+  such common equity, as of the last business day of the registrant's most
+  recently completed second fiscal quarter.
+
+        Not applicable.
+
+Documents Incorporated by Reference
+
+  List hereunder the following documents if incorporated by reference and
+  the Part of the Form 10-K (e.g. Part I, Part II, etc.) into which the
+  document is incorporated: (1)Any annual report to security holders; (2)
+  Any proxy or information statement; and (3)Any prospectus filed pursuant
+  to Rule 424(b) or (c) under the Securities Act of 1933. The listed
+  documents should be clearly described for identification purposes (e.g.
+  annual report to security holders for fiscal year ended December 24, 1980).
+
+        Not applicable.
+
+PART I
+  Item 1.  Business.
+
+            Not applicable.
+
+Item 1A.  Risk Factors.
+
+            Not applicable.
+
+Item 1B.  Unresolved Staff Comments.
+
+            Not applicable.
+
+Item 2.  Properties.
+
+            Not applicable.
+
+Item 3.  Legal Proceedings.
+
+            The registrant knows of no material pending legal proceedings
+            involving the trust created under the Pooling and Servicing
+            Agreement (the Trust), the Trustee, the Servicer or the
+            registrant with respect to the Trust other than routine
+            litigation incidental to the duties of the respective parties.
+
+Item 4.  Submission of Matters to a Vote of Security Holders.
+
+            None.
+
+                                PART II
+
+  Item 5.  Market for Registrant's Common Equity, Related Stockholder
+           Matters and Issuer Purchases of Equity Securities.
+
+            No established public trading market for the Certificates exists.
+
+            Records provided to the Trust by the DTC and the Trustee
+            indicate that as of December 31, 2005, the total number of holders
+            of record for the Series of Certificates is 24.
+
+Item 6.  Selected Financial Data.
+
+            Not applicable.
+
+  Item 7.  Management's Discussion and Analysis of Financial Condition and
+           Results of Operation.
+
+Not applicable.
+
+Item 7A. Quantitative and Qualitative Disclosures about Market Risk.
+
+            Not applicable.
+
+Item 8.  Financial Statements and Supplementary Data.
+
+            Not applicable.
+
+Item 9.  Changes in and Disagreements with Accountants on Accounting and
+           Financial Disclosure.
+
+            None.
+
+Item 9A. Controls and Procedures.
+            Not applicable.
+
+Item 9B. Other Information.
+
+            None.
+
+PART III
+
+  Item 10. Directors and Executive Officers of the Registrant.
+
+            Not applicable.
+
+Item 11. Executive Compensation.
+
+            Not applicable.
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management
+           and Related Stockholder Matters.
+
+            Not applicable.
+
+Item 13. Certain Relationships and Related Transactions.
+
+            Not applicable.
+
+Item 14. Principal Accounting Fees and Services.
+
+            Not applicable.
+
+PART IV
+
+  Item 15. Exhibits, Financial Statement Schedules.
+
+   (a) Exhibits
+
+     (31.1) Rule 13a-14(a)/15d-14(a) Certification
+
+     (99.1) Annual Independent Accountants' Servicing Reports concerning
+            servicing activities.
+
+a) Option One Mortgage Corporation, as Servicer  
+
+(99.2) Report of Management as to Compliance with Minimum Servicing
+            Standards.
+
+a) Option One Mortgage Corporation, as Servicer  
+
+(99.3) Annual Statements of Compliance under the Pooling and Servicing
+            Agreements.
+
+a) Option One Mortgage Corporation, as Servicer  
+
+(99.4) Aggregate Statement of Principal and Interest Distributions to
+            Certificate Holders.
+
+(b) Not applicable.
+
+   (c) Omitted.
+
+Filed herewith.
+
+SIGNATURES
+
+  Pursuant to the requirements of Section 13 or 15(d) of the Securities
+  Exchange Act of 1934, the registrant has duly caused this report to be
+  signed on its behalf by the undersigned, thereunto duly authorized:
+
+SG Mortgage Securities Trust
+    Asset Backed Certificates
+    Series 2005-OPT1
+    (Registrant)
+
+Signed: Wells Fargo Bank, N.A.  as Master Servicer
+
+  By:  /s/ Chris Regnier
+
+  By: Chris Regnier, Vice President
+
+  Dated: March 31, 2006
+
+Exhibit Index
+
+  Exhibit No.
+
+  Ex-31.1 Rule 13a-14(a)/15d-14(a) Certification
+
+  I, Chris Regnier, certify that:
+
+  1. I have reviewed this annual report on Form 10-K, and all reports on
+     Form 8-K containing distribution or servicing reports filed in
+     respect of periods included in the year covered by this annual report,
+     of SG Mortgage Securities Trust Asset Backed Certificates, Series
+     2005-OPT1 Trust;
+
+  2. Based on my knowledge, the information in these reports, taken as a
+     whole, does not contain any untrue statement of a material fact or
+     omit to state a material fact necessary to make the statements made,
+     in light of the circumstances under which such statements were made,
+     not misleading as of the last day of the period covered by this
+     annual report;
+
+  3. Based on my knowledge, the distribution or servicing information
+     required to be provided to the Trustee by the Servicer under the
+     Pooling and Servicing or similar, agreement, for inclusion in these
+     reports is included in these reports;
+
+  4. I am responsible for reviewing the activities performed by the master
+     servicer under the pooling and servicing, or similar, agreement, and
+     based on upon my knowledge and the annual compliance review required
+     under that agreement, and except as disclosed in the reports, the
+     master servicer has fulfilled its obligations under that agreement;
+     and
+
+  5. The reports disclose all significant deficiencies relating to the
+     servicer's compliance with the minimum servicing standards based upon
+     the report provided by an independent public accountant, after
+     conducting a review in compliance with the Uniform Single Attestation
+     Program for Mortgage Bankers or similar procedure, as set forth in
+     the pooling and servicing, or similar, agreement, that is included in
+     these reports.
+
+     In giving the certifications above, I have reasonably relied on
+     information provided to me by the following unaffiliated parties:
+     Option One Mortgage Corporation as Servicer.
+
+Date: March 31, 2006
+
+     /s/ Chris Regnier
+     Signature
+
+     Vice President
+     Title
+
+EX-99.1
+(logo) KPMG
+
+KPMG LLP
+Suite 2000
+355 South Grand Avenue
+Los Angeles, CA 90071-1568
+
+Independent Accountants' Report
+
+The Board of Directors and Stockholder
+Option One Mortgage Corporation:
+
+We have examined management's assertion, included in the accompanying management
+assertion, that Option One Mortgage Corporation complied with the minimum
+servicing standards set forth in the Mortgage Bankers Association of America's
+Uniform Single Attestation Program for Mortgage Bankers as of and for the year
+ended December 31, 2005. Management is responsible for Option One Mortgage
+Corporation's compliance with those minimum servicing standards. Our
+responsibility is to express an opinion on management's assertion about the
+Company's compliance based on our examination.
+
+Our examination was conducted in accordance with attestation standards
+established by the American Institute of Certified Public Accountants and,
+accordingly, including examining, on a test basis, evidence about Option One
+Mortgage Corporation's compliance with the minimum servicing standards specified
+above and performing such other procedures as we considered necessary in the
+circumstances. We believe that our examination provides a reasonable basis for
+our opinion. Our examination does not provide a legal determination on Option
+One Mortgage Corporation's compliance with the minimum servicing standards.
+
+In our opinion, management's assertion that Option One Mortgage Corporation
+complied with the aforementioned minimum servicing standards as of and for the
+year ended December 31, 2005 is fairly stated in all material respects.
+
+/s/ KPMG LLP
+
+Los Angeles, California
+February 28, 2006
+
+KPMG LLP, a U.S. limited liability partnership, is the U.S.
+member firm of KPMG International, a Swiss cooperative.
+
+EX-99.2
+(logo) OPTION ONE
+       MORTGAGE
+       an H&R BLOCK company
+
+(logo) H&R BLOCK
+
+Management Assertion
+
+As of and for the year ended December 31, 2005, Option One Mortgage Corporation
+Complied in all material respects with the minimum servicing standards set forth
+in the Mortgage Bankers Association of America's Uniform Single Attestation
+Program for Mortgage Bankers. As of and for this same period, Option One
+Mortgage Corporation had in effect a fidelity bond and errors and omissions
+policy in the amounts of $70,000,000 and $10,000,000, respectively.
+
+/s/ Robert E Dubrish
+Robert E. Dubrish, Chief Executive Officer
+
+/s/ William L. O'Neill
+William L. O'Neill, Chief Financial Officer
+
+/s/ Matthew A. Engel
+Matthew A. Engel, Controller
+
+/s/ Fabiola Camperi
+Fabiola Camperi, Chief Servicing Officer
+
+www.optiononeonline.com
+
+EX-99.3
+(logo) OPTION ONE
+M O R T G A G E
+
+(logo) H&R BLOCK
+
+an H&R BLOCK company
+
+March 15, 2006
+
+Wells Fargo Bank, N.A.
+9062 Old Annapolis Road
+Columbia, Maryland 21045
+Attention: Corporate Trust Services - SGMS 2005-OPT1
+
+SG Mortgage Securities, LLC
+1221 Avenue of the America
+New York, New York 10020
+
+HSBC Bank USA, National Association
+452 Fifth Avenue,
+New York, New York 10018
+Attention: Corporate Trust, SG Mortgage Securities Trust 2005-OPT1
+
+Fitch Ratings,
+One State Street Plaza
+New York, New York 10004
+Attention: Managing Director, Residential Mortgage-Backed Securities
+
+Moody's Investors Service, Inc.
+99 Church Street
+New York, New York 10007
+
+Standard & Poor's
+a division of The McGraw-Hill Companies, Inc.
+55 Water Street, 41st Floor
+New York, New York 10041
+Attention: Mortgage Surveillance Group.
+Inv#402
+
+Re: SG Mortgage Securities Trust 2005-OPT1 Asset Backed Certificates,
+Series 2005-OPT1
+
+Pursuant to Section 3.17 of the Pooling and Servicing Agreement, dated and
+effective as of November 1, 2005, among SG Mortgage Securities, LLC as
+Depositor, Option One Mortgage Corporation, as Servicer, and Wells Fargo Bank,
+N.A. as Custodian, Master Servicer and Securities Administrator, and HSBC Bank
+USA, National Association, as Trustee, (the "Servicing Agreement"), enclosed is
+the required officer's certificate of compliance.
+
+If you have any questions, please contact Elizabeth Nguyen at (949) 727-8226 or
+email: Elizabeth.Nguyen@oomc.com
+
+Option One Mortgage Corporation
+6501 Irvine Center Drive
+Irvine, CA 92618
+
+www.optiononeonline.com
+
+3 Ada  Irvine  California  92618 * 949.704.3600 * Fax 949.790.7514
+
+(page)
+
+OFFICER'S CERTIFICATE
+
+ANNUAL STATEMENT OF THE SERVICER
+
+I, Fabiola Camperi, the duly appointed Chief Servicing Officer of Option One
+Mortgage Corporation, the Servicer, hereby certify that (i) a review of the
+activities of the Servicer during the calendar year ended December 31, 2005 and
+of performance under the Servicing Agreement, as defined in the cover letter,
+has been made under my supervision, and (ii) to the best of my knowledge, based
+on such review, the Servicer has fulfilled in all material respects all of its
+obligations under the Servicing Agreement during such year.
+
+By: /s/ Fabiola Camperi
+
+Name: Fabiola Camperi
+Title: Chief Servicing Officer
+Date: February 28, 2006
+
+Ex-99.4
+
+   Schedule of Year-To-Date Principal and Interest Distributions to
+   Certificateholders
+

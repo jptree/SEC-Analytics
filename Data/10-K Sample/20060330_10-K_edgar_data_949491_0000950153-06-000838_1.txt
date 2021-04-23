@@ -1,0 +1,3852 @@
+<Header>
+<FileStats>
+    <FileName>20060330_10-K_edgar_data_949491_0000950153-06-000838_1.txt</FileName>
+    <GrossFileSize>621946</GrossFileSize>
+    <NetFileSize>192369</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>268815</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>44</N_Tables>
+    <N_Exhibits>6</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000950153-06-000838.hdr.sgml : 20060330
+<ACCEPTANCE-DATETIME>20060329174133
+ACCESSION NUMBER:		0000950153-06-000838
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		7
+CONFORMED PERIOD OF REPORT:	20051231
+FILED AS OF DATE:		20060330
+DATE AS OF CHANGE:		20060329
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			VODAVI TECHNOLOGY INC
+		CENTRAL INDEX KEY:			0000949491
+		STANDARD INDUSTRIAL CLASSIFICATION:	TELEPHONE & TELEGRAPH APPARATUS [3661]
+		IRS NUMBER:				860789350
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-26912
+		FILM NUMBER:		06719963
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4717 E. HILTON AVENUE
+		STREET 2:		SUITE 400
+		CITY:			PHOENIX
+		STATE:			AZ
+		ZIP:			85034
+		BUSINESS PHONE:		4804436000
+
+	MAIL ADDRESS:	
+		STREET 1:		4717 E. HILTON AVENUE
+		STREET 2:		SUITE 400
+		CITY:			PHOENIX
+		STATE:			AZ
+		ZIP:			85034
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ LHegDT966gNO4QT2otAu9O284/J30aPvdsZqoihKB79kTfuPPyPUERpUJGNnaPuo
+ hnOTru1FA3Iy0m/ECglZGA==
+
+ 0000950153-06-000838.txt : 20060330
+
+10-K
+ 1
+ p72082e10vk.htm
+ 10-K
+
+e10vk 
+
+Table of Contents   
+
+SECURITIES AND EXCHANGE COMMISSION 
+
+WASHINGTON, D.C. 20549 
+
+FORM 10-K 
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) 
+OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+VODAVI TECHNOLOGY, INC.  
+
+(Exact name of registrant as specified in its charter)
+
+(480) 443-6000 
+  Registrant s telephone number, including area code 
+
+Securities registered pursuant to Section 12(b) of the Act: None
+
+Securities registered pursuant to Section 12(g) of the Act: Common Stock, $.001 par value
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of
+the Securities Act. Yes      No    
+
+Indicate by checkmark if the registrant is not required to file reports pursuant to Section 13 or
+15(d) of the Act. Yes     No    
+
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by
+Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for
+such shorter period that the registrant was required to file such reports), and (2) has been
+subject to such filing requirements for the past 90 days. Yes     No    
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is
+not contained herein, and will not be contained, to the best of registrant s knowledge, in
+definitive proxy or information statements incorporated by reference in Part III of this Form 10-K
+or any amendment to this Form 10-K.    
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer,
+or a non-accelerated filer. See definition of  accelerated filer and large accelerated filer  in
+Rule 12b-2 of the Exchange Act. Large accelerated filer          Accelerated filer    
+      Non-accelerated filer    
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the
+Act).
+
+Yes      No    
+
+The aggregate market value of common stock held by nonaffiliates of the registrant (2,327,398
+shares) based on the closing price of the common stock as reported on the Nasdaq SmallCap Market on
+June 30, 2005, which was the last business day of the registrant s most recently completed second
+fiscal quarter, was $13,266,169. For purposes of this computation, all officers, directors, and
+10% beneficial owners of the registrant are deemed to be affiliates. Such determination should not
+be deemed an admission that such officers, directors, or 10% beneficial owners are, in fact,
+affiliates of the registrant.
+
+As of March 29, 2006, there were outstanding 3,777,635 shares of the registrant s common stock,
+$.001 par value, which excludes 80,999 treasury shares.
+
+Documents incorporated by reference. 
+
+None.
+
+VODAVI TECHNOLOGY, INC. 
+
+ANNUAL REPORT ON FORM 10-K 
+
+FISCAL YEAR ENDED DECEMBER 31, 2005 
+
+TABLE OF CONTENTS 
+
+Page  
+
+PART I 
+
+ITEM 1. BUSINESS 
+
+1 
+
+ITEM 1A. RISK FACTORS 
+
+11 
+
+ITEM 1B. UNRESOLVED STAFF COMMENTS 
+
+17 
+
+ITEM 2. PROPERTIES 
+
+18 
+
+ITEM 3. LEGAL PROCEEDINGS 
+
+18 
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS 
+
+18 
+
+PART II 
+
+ITEM 5. MARKET FOR THE REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS, AND ISSUER
+PURCHASES OF EQUITY SECURITIES 
+
+19 
+
+ITEM 6. SELECTED FINANCIAL DATA 
+
+21 
+
+ITEM 7. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+22 
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+28 
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTAL DATA 
+
+28 
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE 
+
+28 
+
+ITEM 9A. CONTROLS AND PROCEDURES 
+
+28 
+
+ITEM 9B. OTHER INFORMATION 
+
+28 
+
+PART III 
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT 
+
+29 
+
+ITEM 11. EXECUTIVE COMPENSATION 
+
+32 
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER
+MATTERS 
+
+41 
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS 
+
+43 
+
+ITEM 14. PRINCIPAL ACCOUNTANT FEES AND SERVICES 
+
+44 
+
+PART IV 
+
+ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES 
+
+45 
+
+SIGNATURES 
+
+47 
+
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS 
+
+F-1 
+
+Exhibit 21    
+     Exhibit 23.1    
+     Exhibit 31.1    
+     Exhibit 31.2    
+     Exhibit 32.1    
+     Exhibit 32.2    
+
+Statement Regarding Forward-Looking Statements 
+
+The statements contained in this report on   Form 10-K   that are not purely historical are
+forward-looking statements within the meaning of applicable securities laws. Forward-looking
+statements include statements regarding our  expectations,   anticipation,   intentions, 
+ beliefs,  or  strategies  regarding the future. Forward-looking statements also include
+statements regarding revenue, margins, expenses, and earnings analysis for fiscal 2006 and
+thereafter; technological developments; future products or product development; our product and
+distribution channel development strategies; potential acquisitions or strategic alliances; the
+success of particular product of marketing programs; and liquidity and anticipated cash needs and
+availability. All forward-looking statements included in this report are based on information
+available to us as of the filing date of this report, and we assume no obligation to update any
+such forward-looking statements. Our actual results could differ materially from the
+forward-looking statements. Among the factors that could cause results to differ materially are
+the factors discussed in Item 1A,   Risk Factors.  
+
+- i -
+
+Table of Contents   
+
+PART I 
+
+ITEM 1. BUSINESS  
+
+Introduction 
+
+We design, develop, market, and support a broad range of business telecommunications
+solutions, including traditional, converged, and IP-based telephone systems and telephony
+applications, as well as traditional and IP-based commercial grade telephones, that address a wide
+variety of business applications. Our telephone systems incorporate sophisticated features such as
+automatic call distribution, scalable networking, Internet Protocol, or IP, as well as wireless
+solutions. Our telephony applications include Internet messaging, automated attendant, voice and
+fax mail, and computer-telephony products that enable users to integrate the functionality of their
+telephone systems with their computer systems. We market our products primarily in the United
+States as well as in foreign countries through a distribution model consisting primarily of
+wholesale distributors and direct dealers.
+
+Our goal is to develop, deliver, and support high-quality telecommunications products and
+services that meet the demands of the markets we serve. Key elements of our strategy to achieve
+that goal include the following:
+
+focus on IP telephony product developments that provide more Voice over IP, or
+VoIP, functionality for our legacy products and our IP local area network, or LAN,
+telephony system; 
+
+continued expansion of our core business of supplying telephone systems,
+telephony applications, and commercial grade telephones; 
+
+develop marketing strategies and applications for vertical markets; 
+
+emphasize sales of larger and more advanced systems through our dealers; 
+
+expand our product lines and distribution to participate in the emerging Hosted
+IP Services Market; 
+
+expand our strategic relationship with LG-Nortel Co. LTD., or LGN, which is a
+joint venture between the multi-billion dollar, Korean-based LG Group and Nortel
+Networks Corporation; 
+
+enhance our existing products and expand our product lines by expanding our
+technological expertise and distribution channels through 
+
+-- 
+       
+     internal research and development efforts, and 
+
+-- 
+       
+     business acquisitions, license arrangements, and other strategic relationships. 
+
+Our corporate offices are located at 4717 East Hilton Avenue, Suite 400, Phoenix, Arizona, and
+our telephone number is (480) 443-6000. All references to our business operations in this report
+include the operations of Vodavi Technology, Inc. and our subsidiaries. Our website is located at
+ www.vodavi.com . Through our website, we make available free of charge our annual report on
+Form 10-K, our proxy statement, our quarterly reports on Form 10-Q, our current reports on Form
+8-K, amendments to reports filed under the Securities Exchange Act of 1934, and earnings press
+releases. These filings are available as soon as reasonably practical after we electronically file
+them with the Securities and Exchange Commission. We also post on our website the charters of our
+Audit, Compensation, and Nomination and Corporate Governance Committees; our Corporate Governance
+Guidelines, Code of Conduct, Code of Ethics for the CEO and Senior Financial Officers, and any
+amendments and waivers thereto; and any other corporate governance materials contemplated by SEC or
+Nasdaq regulations. These documents are also available in print to any stockholder requesting a
+copy from our corporate secretary at our principal executive offices.
+
+1
+
+Table of Contents   
+
+Industry Overview 
+
+The telecommunications industry encompasses a broad range of equipment and service providers.
+We focus our efforts in the customer premise equipment, or CPE, segment of the industry. Within the
+CPE segment, we provide business telephone systems, telephony applications, and commercial grade
+telephones that help small to medium sized businesses streamline operations, reduce costs, and
+communicate more effectively.
+
+Many factors have influenced the telecommunications industry over the years, including the following:
+
+broadband connectivity; 
+
+successive technological developments that have resulted in enhanced features and services; 
+
+optical networking technologies; 
+
+wireless and mobile communications; 
+
+emphasis on the use of communications systems to provide cost-effective customer service; and 
+
+regulatory changes. 
+
+Perhaps the most significant technological advancement in recent years has been the evolution
+and acceptance of the Internet and other packet-switched networks to carry voice and data traffic.
+This evolution is transforming the way businesses communicate and allows equipment providers to
+develop sophisticated systems that offer a wide variety of applications in addition to traditional
+call switching functions. While utilizing packet-switched networks to carry voice and data traffic
+can offer more efficiencies and value to businesses, the traditional telephone network utilizing
+analog and digital time-division-multiplexing, or TDM, technologies remains the standard for voice
+communications today. Nevertheless, businesses of all sizes will increasingly demand affordable
+telecommunications systems that provide the capacity for the following:
+
+IP-enabled telephone systems, which represent products based on TDM technology that
+have been blended with IP technology, to create IP capable business communications
+systems that retain certain TDM functionality while taking advantage of newer IP
+technology for certain applications; 
+
+IP telephony, which represents products based exclusively on IP technology for
+voice and data communications. These products take advantage of a common
+infrastructure, provide scalability, and integrate with data networks to simplify
+administration; 
+
+Voice processing applications that automate call answering, provide voice mail and
+automated call distribution functions, provide the capacity to manage facsimile
+messages, and unified messaging applications, which allow users to receive all message
+types (voice, e-mail, fax) to be managed from their e-mail program; 
+
+Computer-telephony applications, which greatly enhances efficiency and productivity
+by integrating businesses  voice and data networks; and 
+
+Contact Center applications, wireless offerings, and remote worker applications to
+further increase employee mobility and efficiency. 
+
+Our Products 
+
+We currently design, develop, market, and support a broad range of products that can be
+categorized as follows:
+
+telephone systems, which include traditional digital and IP-based key telephone
+systems; 
+
+2
+
+Table of Contents   
+
+telephony applications, which include voice messaging, automated attendant,
+automatic call distribution, as well as advanced messaging products that include fax
+mail, and unified messaging systems, and computer-telephony products, including
+Windows-based application products such as PC telephones and attendant consoles, local
+area network to PBX connection packages, IP gateways, and Internet messaging systems;
+and 
+
+commercial grade telephones, which include single-line and multi-line traditional
+and IP-based telephones. 
+
+Telephony Systems  
+
+Sales of telephone systems represented approximately 87% of our revenue during 2005, 83% in
+2004, and 81% in 2003. A telephone system consists primarily of a sophisticated switching unit
+located at the user s place of business, along with the individual telephone sets and other
+devices, such as facsimile machines and modems, located at individual  stations.  We supply
+various models of telephone sets with progressive features for use in conjunction with each of our
+telephone systems.
+
+We currently market various lines of telephone systems under our STARPLUS and Vodavi brand
+names for businesses requiring as few as eight stations up to 492 stations (a 600-port system).
+Our flagship digital telephone systems are the XTS (eXpandable Telephone System) for larger
+applications and the STS for smaller businesses and residences. These systems employ a digital
+architecture in order to provide digital voice transmission and system control. Most of our
+digital telephone systems feature flexible software combined with modular hardware and card slot
+design, which allow cost-effective system customization and expansion to meet the needs of
+individual users. Our digital telephone systems are fully compatible with industry-standard
+commercial grade telephones and contain an extensive array of standard features that add
+sophistication generally found only in larger telephone systems. We design our telephone systems
+to permit expansion or customization for specific business applications by the installation of a
+variety of voice processing or computer-telephony integration applications.
+
+In addition, our XTS system can be IP-enabled with the addition of a VoIP Gateway, or LAN
+card. An IP-enabled XTS, together with our IP networking software package allows up to 32 XTS
+systems to communicate as one large system using an IP infrastructure. This configuration allows
+companies with multiple locations or remote workers to communicate more efficiently and to reduce
+costs by utilizing a common network to connect multiple locations together.
+
+Our digital systems enable customers to upgrade their telephone systems as their businesses
+grow and as technology advances by adding or replacing components in stages without replacing their
+entire systems. As a result, it is generally more economical for the end users to expand our
+systems than to switch to a competitor s system. We believe that the cost savings and flexibility
+we provide our customers through this migration strategy provides us with a competitive advantage.
+
+Our flagship IP-based telephone system, the Telenium, is based exclusively on IP technology,
+which allows a business  local area network or wide area network to be utilized as the
+communication medium. The Telenium system provides an extensive array of standard features that
+operate in much the same manner as a traditional system. The Telenium system also offers web-based
+administration, which simplifies administration locally or from a remote location. The Telenium
+system accommodates IP telephones, software-based phones for personal computers and PDA s, Wi-Fi
+phones, commercial grade telephones, and a variety of incoming lines including traditional as well
+as ISDN types.
+
+Telephony Applications  
+
+Telephony applications include a combination of various software and hardware solutions
+designed to improve customer service and reduce labor costs while providing faster, more efficient
+routing of incoming calls as well as speeding up and simplifying message delivery and storage.
+Some of our telephony applications may be integrated with telephone systems sold by competing
+manufacturers while other applications only integrate with our telephone systems to differentiate
+them from our competitors  products and to provide a value-added basis for
+
+3
+
+Table of Contents   
+
+increased sales and profit margins. Sales of telephony applications accounted for
+approximately 7% of our revenue during 2005, 11% during 2004, and 13% during 2003.
+
+Voice Mail Systems 
+
+Voice mail enables callers to leave detailed messages and permits recipients to retrieve
+messages when they return to their offices or by dialing into the system from remote locations.
+Each voice mailbox can be customized to the individual user s needs. Voice messages can be stored,
+replayed, saved, or erased as desired by the user. The menu routing functions included in some of
+our voice mail systems enable business users to program the systems to create custom, multi-level
+menus that permit callers to automatically access organizational departments or product, service,
+or event information by dialing menu choices.
+
+In addition to our larger voice processing systems, we market a line of self-contained,
+competitively priced voice processing systems designed for small- to medium-sized organizations.
+These systems, which work in conjunction with telephone systems sold by us as well as other
+manufacturers, can be expanded from two ports up to eight ports, feature a full range of automated
+attendant and voice mail functions, and include a serial port for administration via the user s
+personal computer.
+
+Advanced Messaging Platform 
+
+Our Pathfinder Microsoft    Windows based messaging systems, which provide virtually unlimited
+port capacities, combine voice mail functions with facsimile messaging capabilities (known as fax
+mail) as well as the ability to share messages with other voice messaging systems over the
+Internet. Fax mail provides the ability to receive, store, retrieve, and forward facsimile
+messages in the same manner that voice mail handles voice messages. Our fax mail system digitizes
+and stores facsimile messages and notifies the user that messages have been received. The user can
+retrieve and print the facsimiles from his or her office or remote locations (such as a hotel room)
+and can also instruct the system to forward facsimiles to other recipients.  Fax-on-demand 
+enables callers to access information stored by a business, such as sales and marketing brochures,
+technical specifications, and pricing data, and request the system to transmit the desired
+information to the caller s facsimile machine.
+
+Our Pathfinder system also uses Internet e-mail protocols to enable voice messages to be
+transported over the Internet or other electronic fields for efficient, low-cost information
+exchange between remote systems. In addition, our Pathfinder Internet fax delivery systems connect
+the user s telephone and computer to enable the user to transmit facsimile messages or documents to
+conventional facsimile machines via the Internet. These systems provide ease of use and avoid
+problems associated with e-mail attachments, mismatched data encryption techniques, or private or
+switched network costs. Our Internet fax delivery systems provide spoken prompts that guide the
+user through the transmission process and also transmit delivery confirmations to the user s
+mailbox. As a result, a business with multiple offices can extend its voice messaging system so as
+to permit employees in different locations to create, receive, answer, or forward voice and
+facsimile messages via the Internet more quickly, efficiently, and economically than traditional
+long-distance telephone calls.
+
+Our Pathfinder system also uses Microsoft    Exchange technology to provide unified messaging.
+Unified messaging enables users to access e-mail, voice mail, facsimiles, and paging messages in a
+single session at a personal computer. The system displays a listing of all of the user s messages
+and enables the user to access and control all of his or her messages with a click of the computer
+mouse.
+
+Automatic Call Distribution 
+
+We market our automatic call distribution, or ACD, software systems and ACD reporting packages
+for use with our telephone systems. The automatic call distribution functions enable businesses
+that receive customer calls to manage incoming calls efficiently by directly routing them to the
+proper person or group. Our ACD systems reduce the number of abandoned calls by reducing the
+number of calls placed on hold and by minimizing the length of time that calls are kept on hold.
+When all group member telephones are busy, ACD plays a custom  hold  message for the caller and
+connects the call to the first available person or sales agent. ACD saves employee time by
+eliminating the necessity of continually answering and transferring calls to the same groups. ACD
+enables agents
+
+4
+
+Table of Contents   
+
+with display telephones to see the number of calls waiting in queue as well as the length of
+the longest waiting call in order to speed call handling at times of heavy calling activity.
+
+Our ACD reporting package provides real-time statistics and comprehensive reports on calling
+activity for review by the user s management. These statistics allow users to analyze and make
+informed decisions regarding their business operations.
+
+Computer-Telephony Integration Products 
+
+We market CTI products that use an open architecture to integrate computer and telephone
+systems into a user-friendly information processing and storage system. Our CTI products allow a
+user:
+
+to use the Internet to access voice, facsimile, and e-mail messages via personal
+computers; 
+
+to incorporate telephone functions with computer software to speed call handling and
+permit the user to personalize telephone functions; 
+
+to identify incoming callers and immediately access computer files relating to the caller; 
+
+to connect Windows-based local area networks to the user s telephone system; and 
+
+to access and analyze call accounting information quickly and inexpensively. 
+
+Commercial Grade Telephones  
+
+We market several models of commercial grade telephones for use with IP-based, analog or
+digital telephone systems, PBX systems, or telephone company central office, or Centrex, switching
+systems and software-based  soft switch  systems used in the hosted IP services market.
+Businesses, the hospitality industry, and school districts represent the principal purchasers of
+our commercial grade telephones. All of our commercial grade telephones meet industry standards
+for commercial telephone units and may be used with telephone systems sold by us or by competing
+manufacturers.
+
+Our commercial grade telephones offer a myriad of features, functions, and designs ranging
+from simple, traditionally styled desk and wall-mounted telephones to programmable telephones with
+contemporary styling. Our more advanced commercial grade telephones contain a central processing
+unit, built-in memory, built-in data jacks, built-in speakerphones, built-in Caller ID, and the
+capability to use custom calling features provided by local telephone companies. Sales of
+commercial grade telephones represented approximately 4% of our revenue during 2005, 5% of our
+revenue during 2004, and 5% during 2003.
+
+New Product Development  
+
+We engage in an ongoing program to develop enhancements to our existing product lines and to
+develop new products that address the increasing demands of business organizations for productivity
+enhancing communication solutions. We believe that continuous development of new products and
+features will be necessary to enable us to continue to offer telephony systems, voice processing
+products, computer-telephony products, and related business communications products that will be in
+greatest demand and that will provide the best opportunities for our growth and profitability on an
+ongoing basis. We are currently focusing our product development efforts on new products and
+enhancements that will address broader market applications, sophistication, and value to our
+current product offerings. In addition, through new developments, we are targeting specific market
+segments that we do not currently serve. Examples of our current developments include the
+following:
+
+the fourth phase of our IP telephone system, the Telenium, providing advance audio
+and video conferencing capabilities; 
+
+5
+
+Table of Contents   
+
+a more economical, second generation WiFi phone; 
+
+enhancing our XTS IP telephone system to include IP trunking capabilities; 
+
+a next generation, router-based data and voice appliance, or gateway, providing
+wired and wireless data and voice services for small businesses; and 
+
+a software-based administration tool that provides advanced management interfaces
+into our telephone systems that reduce installation times and maintenance. 
+
+We are expanding our strategic alliances with LGN and other third parties related to the
+development of new products, product lines, or product features, including new features on our
+Telenium IP system. We will continue to seek additional strategic alliances for new product
+development in the future.
+
+Sales, Marketing, and Distribution 
+
+We currently market our products in all 50 states and, to a limited extent, internationally
+through a distribution network consisting primarily of Authorized Dealers and wholesale
+distributors, who resell our products to general sales and installation companies and to Authorized
+Vodavi Dealers that do not buy directly from our company. We also distribute our products and
+services directly to end-users in the Phoenix metropolitan area. We have in the past and may in
+the future market our products on a private label basis to original equipment manufacturers, or
+OEMs.
+
+Authorized Vodavi Dealers 
+
+We have approximately 430 Authorized Dealers that sell our products. Approximately 160
+Authorized Dealers buy our products directly from our company and approximately 270 Authorized
+Dealers buy our products through our wholesale distributors. Our Authorized Dealers generally must
+commit to minimum purchases of our products and must be trained and certified through our formal
+product and sales training program. Our goal is to encourage Authorized Dealers to promote our
+products to their customers as the preferred line of telecommunications equipment. We provide
+Authorized Dealers with marketing, sales, and product support services as well as incentive
+programs to encourage the sale of our products.
+
+We maintain a program to focus on selling to fewer, but larger and better-established,
+dealers. We secure arrangements with large-volume, well-qualified dealers and have discontinued
+sales to dealers that have not provided a sufficient level of sales or support for our products.
+We strive to secure dealers that maintain large customer bases and possess the resources needed to
+provide quality sales presentations and support to their customers.
+
+We believe that the principal advantages of having an authorized dealer program include
+greater control over the application and installation of our products and the ability to obtain
+market feedback on product pricing, quality, and technology. Purchases from our Authorized Dealers
+represented approximately 60% of our total revenue in 2005, 2004 and 2003, whether those purchases
+were made directly from our company or through our wholesale distributors.
+
+Wholesale Distributors 
+
+We have a select number of wholesale distributors that resell our full line of products to
+Authorized Dealers and our STARPLUS line and non IP-based, or traditional, commercial grade
+telephones to general telephone sales and installation companies and independent telephone
+companies. Our STARPLUS line of products consists of our STS and STSe telephone systems. We
+provide ongoing support and training to enable our wholesale distributors to sell more effectively
+our products and to provide their customers with technical assistance in installation, maintenance,
+and customer support. We believe that sales through wholesale distributors offer several
+advantages, including the following:
+
+6
+
+Table of Contents   
+
+established distribution systems and access to a large number of dealer and national
+customer accounts; 
+
+maintenance of customer credit facilities and an established inventory of our products; 
+
+availability of products in over 600 locations throughout the United States; 
+
+security of receivables; 
+
+reduced needs for direct training; 
+
+effective promotion of our products at trade shows; 
+
+geographically dispersed sales forces that can reach customers more effectively than
+we would otherwise be able to do; and 
+
+lower support and carrying costs compared with the costs associated with direct
+sales to a large number of dealers. 
+
+Wholesale distributors that currently resell our products include Graybar Electric Co., Inc.,
+Alltel Supply, Inc., Sprint/North Supply, Famous Telephone Supply, ADI, and Target Distributing,
+Inc. Graybar accounted for 23% of our revenue during 2005, 26% in 2004 and 27% in 2003. Target,
+our second largest distributor, accounted for 21% of our revenue during 2005, 17% in 2004 and 14%
+in 2003.
+
+Vodavi Direct 
+
+We have a direct sales office that sells our products and provides pre- and post-sales support
+services directly to end-users in the Phoenix metropolitan area. Our direct sales office also
+serves as a conduit for the beta testing of our new product developments, which greatly enhances
+the product development life cycle. We acquired this operation during March 2002 through our
+acquisition of Dataspeak Systems, Inc.
+
+International Sales 
+
+To date, sales of our products in foreign countries have not represented a significant portion
+of our revenue. We believe, however, that sales of our products in international markets may
+increase in the future as demand for features, such as voice mail, advanced messaging, and
+automatic call distribution increases, as communications infrastructures are improved, and as
+regulatory differences between countries are eliminated. All of our sales in foreign countries are
+denominated in U.S. dollars.
+
+In-house Sales Support Staff 
+
+We have an in-house sales support staff who provide Authorized Dealers and wholesale
+distributors with order fulfillment, marketing, sales, and pre-sales support. We believe that our
+commitment to support dealers that sell our products on a pre-sale and post-sale basis provides us
+with a competitive advantage.
+
+Research and Development; Strategic Alliances with LGN and Other Companies 
+
+We believe that the continued development of software that distinguishes the functions and
+features of our products from those of our competitors represents a critical factor in determining
+our ongoing success. Our engineering staff consists of highly trained and experienced software
+professionals who focus on providing and supporting high-quality, user-friendly business
+communications systems and related products. The availability of in-house software and systems
+development expertise at our facilities in Arizona and Georgia provides us with product control,
+permits faster turnaround and reaction time to changing market conditions, and provides a solid
+base of maintenance and support services to end users. We use product and market development
+groups that interact with customers in order to anticipate and respond to customer needs through
+development of new product programs and enhancement of existing product lines.
+
+7
+
+Table of Contents   
+
+We conduct joint development activities with LGN for the design and development of hardware
+incorporated into some of our existing and planned telephone systems and commercial grade telephone
+product lines. Other products are completely developed by LGN. In connection with the products
+jointly developed with LGN, we provide market analysis, product management, functional and
+performance standards, software development, quality control program development, sales and
+distribution, and customer service and support, while LGN provides hardware research, design, and
+development, development of components such as integrated circuits and semiconductor chips, and
+manufacturing and production engineering. Generally, LGN contributes the ongoing research and
+development costs for the product hardware in return for an arrangement under which LGN produces
+the finished goods developed under the alliance. As a result of this arrangement, we have been
+able to obtain access to LGN s research and development expertise and resources while controlling
+our capital expenditures for much of our product development efforts. In addition, our arrangement
+with LGN enables us to minimize the risks inherent in making significant investments in research
+and development infrastructure or personnel. To the extent that we develop new hardware in
+conjunction with LGN or another development partner, the development partner typically retains
+ownership rights to the new hardware and we retain the right to sell products incorporating that
+hardware throughout North America and the Caribbean. See Item 1,  Business   - Manufacturing  and
+Item 1,  Business   - Risk Factors   We rely on LGN as a strategic partner.  We have successfully
+engaged in such projects with LGN in the past and believe that we will continue to have access to
+LGN s advanced hardware research and development capabilities as we develop new product lines.
+
+We enhance our software development expertise through acquisitions of or licensing
+arrangements and other strategic alliances with independent third-party developers. We have active
+strategic alliance relationships with other companies that possess expertise in automatic call
+distribution, computer telephony, Internet telephony, and certain voice mail applications. We
+believe that our strategic alliances with other companies enable us to develop products and bring
+them to market more quickly and at a lower cost than we would be able to achieve by developing the
+products internally. We intend to pursue additional opportunities to enter into strategic
+alliances with other companies that possess established expertise in specific technologies in order
+to co-develop proprietary products, or to acquire such companies in order to develop new products
+internally.
+
+Manufacturing 
+
+We obtain our telephone systems, some of our telephony applications, and our commercial grade
+telephones under supply arrangements with various third-party manufacturers, including LGN. We
+also purchase certain voice processing products from third parties on an OEM basis. Our agreements
+with the third-party manufacturers generally require the manufacturers to produce our products
+according to our technical specifications, to perform quality control functions or otherwise meet
+our quality standards for manufacturing, and to test or inspect the products prior to shipment.
+Under the manufacturing and supply agreements, the manufacturers provide us with warranties that
+the products are free of defects in material and workmanship. The agreements also require the
+manufacturers to repair or replace, at their expense, products that fail to conform to the
+warranties within specified periods. All of the equipment and most of the tools and molds used in
+the manufacturing process are owned by the third-party manufacturers.
+
+We obtain a majority of our telephone systems, voice mail products and IP-based commercial
+grade telephones from LGN, which owns the rights to produce this equipment. Under an agreement
+with our Company, LGN granted us the exclusive right to distribute and sell throughout North
+America and the Caribbean the products that LGN manufacturers for us. The agreement expires in
+December 2009. We purchase products manufactured by LGN in Korea on a purchase order basis. We
+purchased $20.3 million, $20.8 million, and $20.0 million of product from LGN in 2005, 2004, and
+2003, which represented 80%, 82%, and 82%, of our total purchases, respectively. LGN currently
+owns approximately 23% of our outstanding common stock. See Item 1A,   Risk Factors   We rely on
+LGN as a strategic partner  and   Risk Factors   Certain conflicts of interest may arise as a
+result of LGN s ownership interest in our company. 
+
+We obtain all of our traditional commercial grade telephones and replacement parts for such
+telephones from LG Sritahi InfoComm (Thailand) Co., Ltd., or LGICTH, a joint venture between LGN
+and Srithai Group, a Thailand-based entity. Under an agreement with our company, LGICTH granted us
+the right to distribute and sell throughout the United States and Canada the products that LGICTH
+manufactures for us in Thailand. Our agreement with LGICTH prohibits us from purchasing the
+products covered by the agreement from any other
+
+8
+
+Table of Contents   
+
+manufacturer during the term of the agreement. The initial term of the agreement expires in
+December 2007; however, the agreement automatically renews for successive one-year terms unless
+either party provides notice to the other of its intent to cancel the agreement at least six months
+prior to the end of the then-current term. We make all purchases pursuant to the agreement on a
+purchase order basis. We purchased $1.0 million, $1.4 million, and $1.1 million of product from
+LGICTH in 2005, 2004, and 2003, which represented 4%, 6%, and 5% of our total purchases,
+respectively. See Item 1,  Business   Risk Factors   We rely on LGN as a strategic partner  and
+ Business   Risk Factors   Certain conflicts of interest may arise as a result of LGN s ownership
+interest in our company. 
+
+We currently maintain a $5.0 million insurance policy to cover lost revenue in the event of
+significant interruptions in purchases from our overseas manufacturers. See Item 1,  Business  
+Risk Factors   We depend on third parties for manufacturing  and Item 1,  Business   Risk Factors
+  We face risks associated with international manufacturing sources. 
+
+Quality Control 
+
+We recognize that product quality and reliability are critical factors in distinguishing our
+products from those of our competitors. We design our products to include components meeting
+specified quality standards in order to assure reliable performance. We also require our
+third-party manufacturers to comply with specified quality standards regarding materials and
+assembly methods used in manufacturing our products. In addition, we maintain a rigorous quality
+assurance program designed to assure that the manufacture of our products conforms to specified
+standards and to detect substandard products before shipment. We have an inspection program in
+which we examine varying numbers of our products as they arrive at our warehouse in Arizona,
+depending upon the manufacturer and the type of product.
+
+Support Services 
+
+We provide limited warranties against defective materials and workmanship on each of the
+products that we sell. We provide a complete support service for all of our products by
+maintaining a 24-hour toll-free telephone number and e-mail support that our resellers can contact
+for trouble shooting and diagnostic assistance. We also maintain a technical support page on our
+Web site that includes frequently asked questions, technical tips, and product-related
+notifications. We maintain an operating set-up of each of our telephone systems, key telephone
+units, and peripheral systems at our headquarters facility, supported by a staff of technicians
+trained to handle service assistance calls. When a dealer or interconnect calls with a question
+relating to performance malfunctions or an operational system question, our personnel attempt to
+replicate any problem the user is encountering, diagnose the cause, and provide a solution via
+telephone. If our technicians cannot determine the cause of the malfunction over the telephone, we
+dispatch a service representative to the user s place of business in order to locate the source of
+the problem and take corrective measures.
+
+We currently outsource the repair and refurbishment of our products. We believe that this
+arrangement enables us to continue to provide fast turn-around time and consistent quality of
+repairs without the overhead and other expenses associated with operating a repair facility.
+
+Competition 
+
+Markets for communications products are extremely competitive. We currently compete
+principally on the basis of the technical innovation and performance of our products, including
+their ease of installation and use, reliability, price, and the technical support both before and
+after sales to end users. Our competitors include Avaya, Inc., Inter-Tel, Inc., Iwatsu, NEC
+Corporation, Nortel Networks Corporation, Panasonic Technologies, Inc., 3Com Corporation, AltiGen
+Communications, Inc., Artisoft, Inc., and Cisco Systems, Inc. and Toshiba Information Systems.
+
+Some of our product lines compete with products and services provided by the regional Bell
+operating companies, or RBOCs, which offer telephone systems and commercial grade telephones
+produced by several of the competitors named above as well as Centrex systems and Hosted IP
+Services that provide automatic call distribution facilities and features through equipment located
+in the telephone company s central switching offices. Many
+
+9
+
+Table of Contents   
+
+competitors listed above are larger than our company and therefore may have greater financial
+resources at their disposal.
+
+Patents, Trademarks, and Licenses 
+
+We own various U.S. patents. We intend to continue to seek patents on our inventions used in
+our products. The process of seeking patent protection can be expensive and can consume
+significant management resources. We believe that our patents strengthen our negotiating position
+with respect to future disputes that may arise regarding our technology. However, we believe that
+our continued success depends primarily on such factors as the technological skills and innovative
+abilities of our personnel rather than on our patents. We cannot assure you that patents will
+issue from our pending or future applications or that any patents that are issued will provide
+meaningful protection or other commercial advantage.
+
+We own a number of registered and unregistered trademarks that we consider to be an important
+factor in marketing our products. Our ability to compete may be enhanced by our ability to protect
+our proprietary information, including the issuance of patents, copyrights, and trademarks. We
+also have taken steps to protect our proprietary information through a  trade secrets  program that
+includes copy protection of our software programs and obtaining confidentiality agreements with our
+employees and resellers. We cannot assure you, however, that these efforts will be effective in
+preventing misappropriation, reverse engineering or independent development of our proprietary
+information by our competitors. While none of our intellectual property rights have been
+invalidated or declared unenforceable, we cannot assure you that our rights will be upheld in the
+future. Accordingly, we believe that, due to the rapid pace of technological change in the
+telecommunications industry, the technical and creative skills of our engineers and other personnel
+will be extremely important in determining our future technological success.
+
+We license from third parties the rights to the software included in certain of our products,
+including certain CTI and ACD products. These licenses generally give us a non-exclusive right to
+use and sell the licensed software included in our products during the term of the applicable
+agreement. We pay the licensors fees based on the number of units that we purchase from them.
+
+The telecommunications industry is characterized by rapid technological development and
+frequent introduction of new products and features. In order to remain competitive, we and other
+telecommunications manufacturers continually find it necessary to develop products and features
+that provide functions similar to those of other industry participants, often with incomplete
+knowledge of whether patent or copyright protection may have been applied for or obtained by other
+parties. As a result, we receive notices from time to time alleging possible infringement of
+patents and other intellectual property rights of others. To date, we have been able to
+successfully defend ourselves against these claims or to negotiate settlements to these claims on
+terms we believe to be favorable. In the future, however, the defense of such claims, fees paid in
+settlement of such claims, or costs associated with licensing rights to use the intellectual
+property of others or to develop alternative technology may have a material adverse impact on our
+operations.
+
+Government Regulation 
+
+The U.S. government from time to time has imposed anti-dumping duties on some telephone
+products manufactured in some of the countries where our products are manufactured. Most recently,
+duties on certain of our products were phased out between 1997 and 2000. We cannot assure you that
+similar duties will not be imposed in the future on telephone products, including our products,
+manufactured in these or other foreign countries. The imposition of such additional duties on our
+products could have a material adverse effect our operating results.
+
+Employees 
+
+As of December 31, 2005, we employed a total of 110 people, all of which were full-time
+employees at our facilities in Phoenix, Arizona, and Lawrenceville, Georgia. Our current number of
+full-time employees includes 28 people in engineering and product development; 57 in sales,
+marketing, and technical support; 10 in warehouse and distribution functions; and 15 in
+administration, including executive personnel. We consider our relationship with our employees to
+be good, and none of our employees currently are represented by a union.
+
+10
+
+Table of Contents   
+
+ITEM 1A.    RISK FACTORS  
+
+You should carefully consider the following factors, in addition to those discussed elsewhere
+in this report, in evaluating our company and our business. Some of the statements and information
+contained in this report that are not historical facts are forward-looking statements, as such term
+is defined in the securities laws. These include statements concerning future, proposed, and
+anticipated activities of our company; certain trends with respect to our revenue, operating
+results, capital resources, and liquidity; and certain trends with respect to the markets where we
+compete or the telecommunications industry in general. Forward-looking statements, by their very
+nature, include risks and uncertainties, many of which are beyond our control. Accordingly, actual
+results may differ, perhaps materially, from those expressed in or implied by such forward-looking
+statements. Factors that could cause actual results to differ materially include those discussed
+under this Item 1A,  Risk Factors.  
+
+We rely upon LGN as a strategic partner 
+
+We rely on LGN to supply most of our telephone systems and voice mail products and all of our
+commercial grade telephones. We also rely on LGN s engineering, hardware and circuit development,
+and manufacturing capabilities. We purchased approximately $21.2 million, $22.2 million, and $21.1
+million of product LGN and LGITCH, constituting approximately 84%, 88%, and 87% of our total
+purchases in 2005, 2004, and 2003, respectively.
+
+Additionally, we consider Nortel Networks Corporation, the controlling joint venture partner
+in LGN, to be a direct competitor with our company in North America. Although, we have a long-term
+manufacturing and supply agreement with LGN that expires in December 2009, we cannot be assured
+that LGN will continue to support our business or operations.
+
+Certain conflicts of interest may arise as a result of LGN s ownership interest in our company. 
+
+LGN currently owns approximately 23% of our outstanding common stock. We obtain most of our
+telephone systems, IP-based products, and voice mail products from LGN and obtain all of our
+commercial grade telephones and replacement parts for such telephones from LGICTH, an affiliate of
+LGN. See Item 1,  Business   Manufacturing  and Item 1A.  Risk Factors   We rely on LGN as a
+strategic partner.  As a result of LGN s direct ownership interest in us, an inherent conflict of
+interest exists in establishing the volume and terms and conditions of our purchases from LGN and
+LGICTH. In order to mitigate such conflicts, all decisions with respect to such purchases are made
+by our officers and reviewed by directors who have no relationship with LGN.
+
+Our relationship with LGN may have the effect of making more difficult or delaying attempts by
+others to obtain control of us, even when these attempts may be in the best interests of
+stockholders. Through LGN s stockholder interest and business interests in our company, LGN may
+have significant influence over our business.
+
+Our stock price may be volatile. 
+
+The trading price of our common stock in the public securities market could be subject to a
+variety of factors, including the following:
+
+wide fluctuations in response to quarterly variations in our operating results or
+the operating results of our competitors; 
+
+actual or anticipated announcements of technological innovations or new product
+developments by us or our competitors; 
+
+significant actual or anticipated expenditures for property or equipment, research
+and development, sales and marketing activities, or other planned or unanticipated
+events; 
+
+changes in analysts  estimates of our financial performance; 
+
+11
+
+Table of Contents   
+
+limited trading activity and a relatively small public float; 
+
+developments or disputes concerning proprietary rights; 
+
+regulatory developments; 
+
+general industry conditions; and 
+
+worldwide economic and financial conditions. 
+
+The trading volume of our common stock in the past has been limited, which may increase the
+volatility of the market price for our stock and reduce the liquidity of an investment in shares of
+our common stock. During certain periods, the stock markets have experienced extreme price and
+volume fluctuations. In particular, prices for many technology stocks often fluctuate widely,
+frequently for reasons unrelated to the operating performance of such companies. These broad
+market fluctuations and other factors may adversely affect the market price of our common stock.
+
+Our reliance on our independent distribution network affects our inventory levels, the timing and
+predictability of our revenue, and our overall operating results. 
+
+We currently market our products through a distribution network consisting primarily of large
+wholesale distributors and telephone sales and installation companies known as  direct dealers. 
+Distributors generally maintain inventories in amounts that they consider sufficient to fill
+anticipated orders. A decline in the volume of sales made by distributors could result in their
+inventory levels exceeding their anticipated sales, which could delay purchases of additional
+products from us until the distributors  inventories reach re-ordering levels. Direct dealers
+generally stock inventories only in quantities they deem sufficient to fill anticipated short-term
+orders, including orders related to support and maintenance. As a result, distributors and direct
+dealers may cancel orders and delay or change volume levels on short notice to us. Because the
+sale of telephone systems, voice processing and related products typically involves a long sales
+cycle, we may not be able to accurately forecast our own inventory levels. Our reliance on
+third-party distributors and dealers to sell our products could further exaggerate any inventory
+shortages or excesses that we might experience, particularly if our distributors or dealers are not
+able to give us adequate notice of anticipated changes in demand for our products.
+
+Additionally, we offer our distributors price protection on their inventory of our products.
+If we reduce the list price of our products, we will compensate our distributors for the respective
+products that remain in their inventory on the date the price adjustment becomes effective. If we
+do not have sufficient cash resources to compensate distributors on terms satisfactory to them or
+us, our price protection obligations may prevent us from reacting quickly to competitive market
+conditions.
+
+We depend upon independent distributors and direct dealers to sell our products to end users,
+to perform installation services, and to perform service and support functions after the sale.
+Other telephone system manufacturers compete intensely for the attention of the same distributors
+and direct dealers, most of which carry products that compete directly with our products. We may
+not be able to maintain favorable relationships with the distributors and direct dealers that
+currently carry our product lines in order to encourage them to promote and sell our products
+instead of those of our competitors. In addition, we may not be able to develop such relationships
+with additional distributors and dealers in the future.
+
+Graybar accounted for 23% of our sales during 2005, 26% of our sales during 2004 and 27%
+during 2003. Accounts receivable from Graybar comprised approximately 29% of total accounts
+receivable at December 31, 2005. Our second largest distributor in each of the respective years
+accounted for 21% of our sales during 2005, 17% of our sales during 2004 and 14% during 2003.
+Accounts receivable from our second largest distributor comprised approximately 28% of total
+accounts receivable at December 31, 2005.
+
+12
+
+Table of Contents   
+
+We face risks associated with international manufacturing sources. 
+
+We currently obtain a substantial majority of our products under various manufacturing
+arrangements with third-party manufacturers in South Korea and Thailand. We believe that
+production of our product lines overseas enables us to obtain these items on a cost basis that
+enhances our ability to market them profitably. Our reliance on third-party manufacturers to
+provide personnel and facilities in these countries and the potential imposition of quota
+limitations on imported goods from certain Far East countries expose us to certain economic and
+political risks, including the following:
+
+political instability in Asia, and in particular on the Korean Peninsula; 
+
+the business and financial condition of our third-party manufacturers; 
+
+the possibility of expropriation, supply disruption, currency controls, and currency
+exchange fluctuations; 
+
+changes in tax laws, tariffs, and freight rates; and 
+
+strikes, work slow downs, or lockouts at any ports where our products arrive in the United States. 
+
+The countries in which most of our products are manufactured also have been subject to
+economic problems in the past. Although the economic situation in Asia in recent years has not
+resulted in any adverse changes in our ability to obtain products or the prices that we pay for our
+products, an extended period of financial pressure on overseas markets or currency devaluations
+that result in a financial setback to our overseas manufacturers could have an adverse impact on
+our operations.
+
+Protectionist trade legislation in either the United States or foreign countries, such as a
+change in the current tariff structures, export compliance laws, or other trade policies, could
+adversely affect our ability to purchase our products from foreign suppliers or the price at which
+we can obtain those products.
+
+We depend on new products and technologies. 
+
+We operate in an industry that is characterized by fast-changing technology. As a result, we
+will be required to expend substantial funds for and commit significant resources to the conduct of
+continuing product development, including research and development activities and the engagement of
+additional engineering and other technical personnel. Any failure on our part to anticipate or
+respond adequately to technological developments, customer requirements, or new design and
+production techniques, or any significant delays in product development or introduction, could have
+a material adverse effect on our operations.
+
+Our future operating results will depend to a significant extent on our ability to identify,
+develop, and market enhancements or improvements to existing product lines as well as to introduce
+new product lines that compare favorably on the basis of time to market, price, and performance
+with the product lines offered by our competitors, many of which have greater financial, technical,
+marketing distribution, and other resources than we posses. The success of new product lines
+depends on various factors, including proper market segment selection, utilization of advances in
+technology, innovative development of new product concepts, timely completion and delivery of new
+product lines, efficient and cost-effective features, and market acceptance of our products.
+Because of the complexity of the design and manufacturing processes required by our products, we
+may experience delays from time to time in completing the design and manufacture of improvements to
+existing product lines or the introduction of new product lines. In addition, customers or markets
+may not accept new product lines. Our failure to design and implement enhancements to existing
+product lines or failure to introduce new products on a timely and cost-effective basis would
+adversely affect our future operating results.
+
+Complex software programs, such as those we develop or those developed by other software
+sources and incorporated into our products, occasionally contain errors that are discovered only
+after the product has been installed and used by many different customers in a variety of business
+operations. Although we conduct extensive
+
+13
+
+Table of Contents   
+
+testing of the software programs included in our products, we may not successfully detect and
+eliminate all such errors in our products prior to shipment. Significant programming errors in
+product software could require substantial design modifications that may create delays in product
+introduction and shipment and that could result in an adverse impact on our reputation as well as
+on our operating results.
+
+The telecommunications industry is cyclical. 
+
+The telecommunications industry has experienced economic downturns at various times,
+characterized by diminished product demand, accelerated erosion of average selling prices, and
+production overcapacity. We have sought to reduce our exposure to industry downturns by targeting
+our product lines towards small- and medium-sized businesses, which we believe will sustain
+continued growth in the near and long-term, resulting in a steadily increasing demand for enhanced
+and upgraded telephone systems and voice processing products. However, we may experience
+substantial period-to-period fluctuations in future operating results because of general industry
+conditions or events occurring in the general economy. In addition, the size and timing of sales
+of our new voice processing, IP systems, and computer-telephony products may vary from quarter to
+quarter to a greater extent in future periods. The expanding importance of these new products
+could result in significant variations in our overall operating results on a quarterly basis.
+
+We must finance the maintenance and expansion of our business and the development of new products. 
+
+To remain competitive, we must continue to make significant investments in research and
+development, equipment, and facilities. As a result of the increase in fixed costs and operating
+expenses related to these expenditures, our failure to increase net sales sufficiently to offset
+the increased costs may adversely affect our operating results. From time to time, we may seek
+additional equity or debt financing to provide for the expenditures required to maintain or expand
+our business. We cannot predict the timing and amount of any such capital requirements. Such
+financing may not be available or, if available, may not be available on terms satisfactory to us.
+If such financing is not available on satisfactory terms, we may be unable to maintain or expand
+our business or develop new products at the rate desired and our operating results may be adversely
+affected. Debt financing increases expenses and must be repaid regardless of our operating
+results. Equity financing could result in additional dilution to existing stockholders. See Item
+7,  Management s Discussion and Analysis of Financial Condition and Results of Operations  
+Liquidity and Capital Resources. 
+
+We depend on third parties for manufacturing. 
+
+We depend upon third parties to manufacture our products. We do not own most of the
+equipment, tools, and molds used in the manufacturing process, and we have only limited control
+over the manufacturing processes. As a result, certain difficulties could have a material adverse
+effect on our business, including any difficulties encountered by the third-party manufacturers
+that result in
+
+product defects; 
+
+production delays; 
+
+cost overruns; or 
+
+the inability to fulfill orders on a timely basis. 
+
+Our operations would be adversely affected if we were to lose our relationship with any of our
+suppliers, if any of our suppliers  operations were interrupted or terminated, or if overseas or
+air transportation services were disrupted even for a relatively short period of time. We do not
+maintain an inventory of sufficient size to provide protection for any significant period against
+an interruption of supply, particularly if we were required to locate and use alternative sources
+of supply.
+
+Markets for our products are intensely competitive, and we cannot assure you that we will be able
+to compete successfully in the future. 
+
+We engage in an intensely competitive business that has been characterized by price erosion,
+rapid technological change, and foreign competition. We compete with major domestic and
+international companies.
+
+14
+
+Table of Contents   
+
+Many of our competitors have greater market recognition and substantially greater financial,
+technical, marketing, distribution, and other resources than we possess. Emerging companies also
+may increase their participation in the telephone systems and peripherals markets. Our ability to
+compete successfully depends on a number of factors both within and outside our control, including
+the following:
+
+the quality, performance, reliability, features, ease of use, pricing, and diversity of our product lines; 
+
+the performance of our distributors and dealers; 
+
+the quality of our customer services; 
+
+our ability to address the needs of our customers; 
+
+our success in designing and manufacturing new products, including those
+implementing new technologies; 
+
+the availability of adequate sources of raw materials, finished components, and
+other supplies at acceptable prices; 
+
+our suppliers  efficiency of production; 
+
+the rate at which end users upgrade or expand their existing telephone systems,
+applications, and services; 
+
+new product introductions by our competitors; 
+
+the number, nature, and success of our competitors in a given market; and 
+
+general market and economic conditions. 
+
+We currently compete principally on the basis of the technical innovation and performance of our
+products, including their ease of use and reliability, as well as price, timely delivery, and
+after-sale service and technical support. We may not continue to be able to compete successfully
+in the future.
+
+We face risks associated with patents, licenses, and intellectual property. 
+
+Our success depends in part upon our ability to protect our proprietary technology. We rely
+on a combination of copyright, trademark, and trade secret laws, nondisclosure and other
+contractual agreements, and technical measures to protect our proprietary technology. We have
+acquired certain patents and patent licenses, and we intend to continue to seek patents on our
+inventions. We face risks associated with our intellectual property, including the following:
+
+the steps we have taken to protect our proprietary rights may be inadequate to
+protect misappropriation of such rights; 
+
+third parties may independently develop equivalent or superior technology; 
+
+the process of seeking patent protection can be long and expensive, and patents may
+not issue from future applications; 
+
+existing patents or any new patents that are issued may not be of sufficient scope
+or strength to provide us meaningful protection or any commercial advantage; 
+
+15
+
+Table of Contents   
+
+we may be subject to or may initiate interference proceedings in the U.S. Patent and
+Trademark Office, which can demand significant financial and management resources; and 
+
+we may commence litigation to enforce patents or other intellectual property rights,
+or to defend us against claimed infringement of the rights of others, which could
+result in substantial cost to us and diversion of our management s attention. 
+
+As is typical in the telecommunications industry, we have received from time to time, and in
+the future may receive, allegations of possible infringement of patents or other intellectual
+property rights of others. Based on industry practice, we believe that in most cases we could
+obtain any necessary licenses or other rights on commercially reasonable terms. In the event that
+a third party alleges that we are infringing its rights, we may not be able to obtain licenses on
+commercially reasonable terms from the third party, if at all, or the third party may commence
+litigation against us. The failure to obtain necessary licenses or other rights or the occurrence
+of litigation arising out of such claims could materially and adversely affect us, our result of
+operations, or prospects.
+
+Our third-party manufacturers may experience shortages of raw materials and supplies. 
+
+The principal raw materials and components used in producing our products consist of
+
+semiconductor components; 
+
+unfinished printed circuit boards; 
+
+molded plastic parts; and 
+
+metals. 
+
+The third-party manufacturers of our products acquire these raw materials primarily from Asian
+sources, which indirectly subjects us to certain risks, including supply interruptions and currency
+price fluctuations. We and our third-party manufacturers from time to time experience difficulties
+in obtaining these materials. The suppliers of these materials currently are adequately meeting
+our requirements and those of our third-party manufacturers. We also believe that there are
+alternate suppliers for most of these materials.
+
+We depend on management and other key personnel. 
+
+Our development and operations to date have been, and our proposed operations will be,
+substantially dependent upon the efforts and abilities of our senior management and technical
+personnel. We have employment agreements with Gregory K. Roeper, our President and Chief Executive
+Officer; and David A. Husband, our Vice-President   Finance and Chief Financial Officer. We
+maintain agreements with each of our officers and employees that prohibit them from disclosing
+confidential information obtained while employed with us. The loss of existing key personnel or
+the failure to recruit and retain necessary additional personnel would adversely affect our
+business prospects. We cannot provide assurance that we will be able to retain our current
+personnel or that we will be able to attract and retain necessary additional personnel. Our
+internal growth and the expansion of our product lines will require additional expertise in such
+areas as software development, operational management, and sales and marketing. Such growth and
+expansion activities will increase further the demand on our resources and require the addition of
+new personnel and the development of additional expertise by existing personnel. Our failure to
+attract and retain personnel with the requisite expertise or to develop internally such expertise
+could adversely affect the prospects for our success.
+
+Rights to acquire our common stock could result in dilution to other holders of our common stock. 
+
+As of March 29, 2006, we had outstanding options to acquire 663,490 shares of our common stock
+at a weighted average exercise price of $3.08 per share. An additional 447,500 shares remain
+available for grant under our 2003 Incentive Compensation Plan. During the terms of these options,
+the holders thereof will have the opportunity to profit from an increase in the market price of the
+common stock. The existence of these options may adversely affect the terms on which we can obtain
+additional financing, and the holders of these options can be expected to exercise such options at
+a time when we, in all likelihood, would be able to obtain additional capital by
+
+16
+
+Table of Contents   
+
+offering shares of our common stock on terms more favorable to us than those provided by the
+exercise of these options.
+
+Sales of additional shares of our common stock could have a negative effect on the market price of
+our common stock. 
+
+Sales of substantial amounts of our common stock in the public market could adversely affect
+prevailing market prices and could impair our ability to raise capital through the sale of our
+equity securities. Most shares of common stock currently outstanding are eligible for sale in the
+public market, subject in certain cases to compliance with the requirements of Rule 144 under the
+securities laws. Shares issued upon the exercise of stock options granted under our stock option
+plan generally will be eligible for sale in the public market. We also have the authority to issue
+additional shares of common stock and shares of one or more series of preferred stock. The
+issuance of such shares could dilute the voting power of the currently outstanding shares of our
+common stock and could dilute earnings per share.
+
+It may be difficult for a third party to acquire us, even if the acquisition would be in the best
+interest of stockholders. 
+
+We are subject to provisions under Delaware corporate law that would require us to obtain
+certain approvals from our board of directors or stockholders in order to engage in a business
+combination with an interested stockholder under certain circumstances. Our Amended Certificate of
+Incorporation and Bylaws also contain a number of other provisions relating to corporate governance
+and to the rights of stockholders. These provisions
+
+authorize our board of directors to fill vacancies on our board of directors; 
+
+authorize our board of directors to issue preferred stock in series with such voting
+rights and other powers as our board of directors may determine; and 
+
+require the affirmative vote of two-thirds of the directors then in office to approve: 
+
+-- 
+       
+     a public offering of our capital stock; 
+
+-- 
+       
+     the merger with or the acquisition of another business or the
+acquisition of a significant amount of the assets of another business; 
+
+-- 
+       
+     the sale of a significant amount of our assets; 
+
+-- 
+       
+     our entering into contracts with our stockholders or directors; 
+
+-- 
+       
+     our assumption or acquisition of debt in excess of $1.0 million; and 
+
+-- 
+       
+     any amendment of our Amended Certificate of Incorporation and Bylaws of
+our wholly owned subsidiary Vodavi Communications Systems, Inc. 
+
+These provisions in our Amended Certificate of Incorporation and Bylaws and Delaware corporate law
+may have the effect of making more difficult or delaying attempts by others to obtain control of
+us, even when these attempts may be in the best interests of stockholders.
+
+We do not pay cash dividends. 
+
+We have never paid any cash dividends on our common stock. Our board of directors reviews our
+dividend policy from time to time and may elect to pay dividends on our common stock in the future.
+However, the terms of the revolving line of credit facility between our wholly owned subsidiary
+Vodavi Communications Systems, Inc. and Comerica Bank prohibit our subsidiary from paying dividends
+to us without the consent of Comerica. This restriction could limit our ability to pay dividends
+in the future.
+
+ITEM 1B.UNRESOLVED STAFF COMMENTS  
+
+Not applicable.
+
+17
+
+Table of Contents   
+
+ITEM 2. PROPERTIES  
+
+We sublease, for a ten-year term expiring in December 2011, approximately 55,000 square feet
+of space in Phoenix, Arizona, where we maintain engineering and design laboratories, a sound
+engineering laboratory, software development facilities, testing laboratories, product development
+facilities, customer service support facilities, an employee training facility, warehouse and
+distribution areas, sales and marketing offices, and administrative and executive offices.
+
+We also lease approximately 3,000 square feet of space in Lawrenceville, Georgia, for a term
+expiring in August 2006. We maintain software development facilities, engineering and design
+laboratories, product development facilities, product assembly and testing facilities.
+
+We believe our facilities are adequate for our reasonably anticipated needs.
+
+ITEM 3. LEGAL PROCEEDINGS  
+
+From time to time we are subject to certain asserted and unasserted claims encountered in the
+normal course of business. We believe that the resolution of these matters will not have a
+material adverse effect on our financial position or results of operations. We cannot provide
+assurance, however, that damages that result in a material adverse effect on our financial position
+or results of operations will not be imposed in these matters.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS  
+
+We held our Annual meeting of Stockholders on October 20, 2005. The following nominees were
+elected to our Board of Directors to serve until the next annual meeting of stockholders, until
+their successors are elected or have been qualified, or until their earlier resignation or removal:
+
+18
+
+Table of Contents   
+
+PART II 
+
+ITEM 5.   
+       
+       MARKET FOR REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS, AND ISSUER PURCHASES
+OF EQUITY SECURITIES   
+
+Our common stock is listed on the NASDAQ SmallCap Market under the symbol  VTEK.  The
+following table sets forth the high and low sales prices of our common stock on the NASDAQ SmallCap
+Market for the periods indicated.
+
+On March 29, 2006, the closing sales price of our common stock was $7.17 per share. As of
+March 29, 2006, there were approximately 40 holders of record of our common stock.
+
+Issuer Purchases of Equity Securities 
+
+On April 27, 2005, we announced that our Board of Directors approved a stock repurchase
+program under which we may purchase up to $1.0 million of our common stock in the open market or
+through privately negotiated transactions through March 31, 2006. The following table sets forth
+the activity under the stock repurchase program during fiscal 2005.
+
+19
+
+Table of Contents   
+
+Dividend Policy 
+
+We have never paid any cash dividends on our common stock. Our board of directors reviews our
+dividend policy from time to time and may elect to pay dividends on our common stock in the future.
+However, the terms of the revolving line of credit facility between our wholly owned subsidiary
+Vodavi Communications Systems, Inc. and Comerica Bank prohibit our subsidiary from paying dividends
+to us without the consent of Comerica. This restriction could limit our ability to pay dividends
+in the future.
+
+20
+
+Table of Contents   
+
+ITEM 6. SELECTED FINANCIAL DATA  
+
+The selected consolidated financial data presented below as of and for the years ended
+December 31, 2005, 2004, and 2003 are derived from our consolidated financial statements (included
+herein), which have been audited by Mayer Hoffman McCann P.C., independent registered public
+accounting firm. The selected consolidated financial data presented below as of December 31, 2002
+and 2001 and for each of the years in the two-year period ended December 31, 2002 are derived from
+our consolidated financial statements (not included herein), which have been audited by Deloitte  
+Touche LLP, independent auditors. The selected consolidated financial information provided below
+should be read in conjunction with Item 7,  Management s Discussion and Analysis of Financial
+Condition and Results of Operations  and the Consolidated Financial Statements of our company and
+related notes thereto. No dividends were paid during the periods presented.
+
+(1) 
+       
+     Includes a non-cash charge of $725 related to the impairment of goodwill. 
+
+(2) 
+       
+     Includes special charges of $432 related to price protection obligations. 
+
+(3) 
+       
+     Cost of goods sold includes special charges of $568 related to inventory impairments. 
+
+(4) 
+       
+     Includes special charges of $761 related to severance, receivable reserves, and exit costs. 
+
+21
+
+Table of Contents   
+
+ITEM 7. MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS  
+
+Overview 
+
+We design, develop, market, and support a broad range of business telecommunications
+solutions, including traditional, converged, and IP-based telephone systems and telephony
+applications, as well as traditional and IP-based commercial grade telephones, that address a wide
+variety of business applications. Our telephone systems incorporate sophisticated features such as
+automatic call distribution, scalable networking, Internet Protocol, or IP, as well as wireless
+solutions. Our telephony applications include Internet messaging, automated attendant, voice and
+fax mail, and computer-telephony products that enable users to integrate the functionality of their
+telephone systems with their computer systems. We market our products primarily in the United
+States as well as in foreign countries through a distribution model consisting primarily of
+wholesale distributors and direct dealers.
+
+Critical Accounting Policies and Estimates 
+
+Management s Discussion and Analysis of Financial Condition and Results of Operations
+discusses our consolidated financial statements, which have been prepared in accordance with
+accounting principles generally accepted in the United States. The preparation of these financial
+statements requires us to make estimates and assumptions that affect the reported amounts of assets
+and liabilities and the disclosure of contingent assets and liabilities at the date of the
+financial statements and the reported amounts of revenues and expenses during the reporting period.
+On an on-going basis, we evaluate our estimates and judgments, including those related to customer
+incentives, bad debts, sales returns, excess and obsolete inventory, and contingencies and
+litigation. We base our estimates and judgments on historical experience and on various other
+factors that are reasonable under the circumstances, the results of which form the basis for making
+judgments about the carrying values of assets and liabilities that are not readily apparent from
+other sources. Actual results may differ from these estimates under different assumptions or
+conditions.
+
+We believe the following critical accounting policies affect our more significant judgments
+and estimates used in the preparation of our consolidated financial statements.
+
+Customer Incentives 
+
+We record reductions to revenue for customer incentive programs, including special pricing
+agreements, price protection for our distributors, promotions, and other volume-related rebate
+programs. Such reductions to revenue are estimates, which are based on a number of factors,
+including our assumptions related to historical and projected customer redemption rates, sales
+volumes, and inventory levels at our distributors. If actual results differ from our original
+assumptions, revisions are made to our estimates that could result in additional reductions to our
+reported revenue in the period the revisions are made. Additionally, if market conditions were to
+decline, we may take actions to increase the level of customer incentive offerings that could
+result in an incremental reduction of revenue in the period in which we offer the incentive.
+
+Accounts Receivable 
+
+We maintain allowances for doubtful accounts for estimated losses resulting from the inability
+of our customers to make required payments. If the financial condition of our customers were to
+deteriorate, resulting in an impairment of their ability to make payments, additional allowances
+may be required. Additionally, we have a significant concentration of accounts receivable with our
+two largest distributors, Graybar Electric Company, Inc. and Target Distributing, Inc. As of
+December 31, 2005, Graybar accounted for 29% and Target accounted for 28% of our total accounts
+receivable. If either Graybar or Target s financial condition were to deteriorate, resulting in
+their inability to make payments to us, it could have a material adverse impact on our financial
+condition and results of operations.
+
+22
+
+Table of Contents   
+
+Sales Returns 
+
+We maintain allowances for estimated sales returns. While we have distribution agreements
+with our largest distributors that limit the amount of sales returns on active products, we
+generally allow unlimited returns of products that we discontinue. Accordingly, the timing and
+amount of revisions to our estimates for sales returns is largely influenced by our decisions to
+discontinue product lines and our ability to predict the inventory levels of such products at our
+largest distributors. Revisions to these estimates have the effect of increasing or decreasing the
+reported amount of revenue in the period in which the revisions are made. We generally do not
+accept product returns from our direct dealers unless the product is damaged.
+
+Excess and Obsolete Inventory 
+
+We record our inventory at the lower of cost or market value. Our assessment of market value
+is determined by, among other things, historical and forecasted sales activity, the condition of
+specific inventory items, and competitive pricing considerations. When the assessed market value
+is less than the historical cost, provision is made in the financial statements to write-down the
+carrying amount of the respective inventory items to market value. If actual results are less
+favorable than our original assumptions for determining market value, additional inventory
+write-downs may be required.
+
+The above listing is not intended to be a comprehensive list of our accounting policies. See
+our audited consolidated financial statements and notes thereto, beginning on page F-1 of this
+Annual Report on Form 10-K, which contain accounting policies and other disclosures required by
+generally accepted accounting principles in the United States.
+
+Results of Operations 
+
+The following table sets forth, for the periods indicated, the percentage of total revenue
+represented by certain revenue and expense items. The table and the discussion below should be
+read in conjunction with the consolidated financial statements and notes thereto that appear
+elsewhere in this report.
+
+Year Ended December 31, 2005 Compared with Year Ended December 31, 2004 
+
+Revenue 
+
+Revenue for the year ended December 31, 2005 totaled $43.7 million, a decline of 0.3%, from
+revenue of $43.8 million for the same period of 2004. Sales of our telephone systems increased
+4.9% to $38.1 million during
+
+23
+
+Table of Contents   
+
+fiscal 2005, compared to $36.4 million in fiscal 2004. The increase in telephone system sales
+is attributed to an increase in the sale of larger and more advanced systems, including a
+significant increase in the number of systems that contain VoIP cards, or LAN cards, and  in-skin 
+voice mail cards, within the XTS product line. Sales of commercial grade telephones declined 8.6%
+to $1.9 million during 2005 compared to $2.1 million in 2004. Unit shipments of commercial grade
+telephones during 2005 increased by approximately 35% from 2004; however, the average selling
+prices of our traditional commercial grade telephones declined significantly when we introduced the
+2800 Series phones during the third quarter of 2004. We expect sales of commercial grade
+telephones to improve in fiscal 2006 as we begin selling more IP-based phones into the Hosted IP
+Services Market. Sales of telephony applications, including voice processing, computer telephony
+integration, and unified messaging decreased to $3.1 million from $4.8 million between the
+respective years of 2005 and 2004. The decline in telephony applications is a direct result of
+selling more embedded voice mail applications, which are reported in telephone system sales.
+
+Sales through our direct sales office in the Phoenix Metropolitan area totaled $1.6 million
+during fiscal 2005 compared with $2.1 million during fiscal 2004. The decrease in sales through
+our direct sales office is attributable to a high level of employee turnover, a focus on developing
+vertical marketing sales tools to benefit our core business, and an increase in the number of field
+trial, or beta testing, installations, which typically sell for a reduced price.
+
+Our reported revenue includes shipping and handling charges and is recorded net of reserves
+for sales returns, discounts, and customer incentive programs. These items resulted in a net
+reduction to revenue of $1.1 million in 2005 compared with a net reduction of $1.4 million in 2004.
+
+Gross Margin 
+
+Our gross margin was approximately $15.8 million during 2005 compared with $15.4 million
+during 2004. Our gross margin as a percentage of total revenue increased to 36.1% during 2005 from
+35.2% during 2004. The increase in our gross margin percentage during 2005 is a direct result of
+the mix of product sales.
+
+Engineering and Product Development 
+
+Engineering and product development expenditures increased to $2.0 million during 2005 from
+$1.9 million in 2004. As a percentage of revenue, engineering and product development expenditures
+increased slightly to 4.5% of total revenue during fiscal 2005 from 4.3% during fiscal 2004.
+
+Selling, General, and Administrative Expenses 
+
+Selling, general, and administrative expenses increased to $11.2 million in 2005 compared to
+$10.6 million in 2004. Factors that increased our expenses include increased employee compensation
+and health benefits and additional marketing and promotional activity. As a percentage of revenue,
+selling, general, and administrative expenses increased to 25.6% during 2005 compared with 24.1%
+during 2004.
+
+Goodwill Impairment 
+
+We have one reporting unit for which goodwill was tested for impairment in accordance with the
+provisions of SFAS 142 on December 31, 2005. We used a combination of valuation techniques, which
+included consideration of market-based approaches and an income approach, in determining the fair
+value of our applicable reporting unit in the annual impairment test of goodwill.
+
+The initial impairment test indicated that the carrying value of our reporting unit exceeded
+the corresponding fair value. The implied fair value of goodwill in this reporting unit was then
+determined through the allocation of the fair value to the underlying assets and liabilities. As
+of December 31, 2005, the carrying value of the goodwill in this reporting unit exceeded its
+implied fair value by approximately $725,000. The corresponding write-down of goodwill to its fair
+value was reported as a component of operating income during the fourth quarter of 2005.
+
+24
+
+Table of Contents   
+
+Interest (Income) Expense 
+
+Interest (income) expense, net was $(107,000) in 2005 compared with $6,000 in 2004. The
+change in interest (income) expense is a direct result of the elimination of interest-bearing debt
+during the first half of 2004 and additional interest income earned on our short-term investments
+as a result of higher cash balances and greater yields on our investments.
+
+Provision for Income Taxes 
+
+We provided for federal and state income taxes using an effective rate of 37.9% in 2005
+compared with 38.5% for the same period in 2004. The change in our effective rate is due to the
+impact of research and development credits and certain non-deductible expenses between years.
+
+Year Ended December 31, 2004 Compared with Year Ended December 31, 2003 
+
+Revenue 
+
+Revenue for the year ended December 31, 2004 totaled $43.8 million, an increase of 6.1%, from
+revenue of $41.3 million for the same period of 2003. Sales of our telephone systems increased
+8.8% to $36.4 million during fiscal 2004 compared to $33.4 million in fiscal 2003. The increase in
+telephone system sales is attributed to an increase in unit sales of our STS product line and the
+sale of larger systems within the XTS product line. Sales of commercial grade telephones declined
+8.1% to $2.1 million during 2004 compared to $2.2 million in 2003. During the third quarter of
+2004, we discontinued our 2700 Series of single line telephones and in June 2004 we introduced the
+2800 Series. We expect unit sales of commercial grade telephones to accelerate in 2005. Sales of
+telephony applications, including voice processing, computer telephony integration, and unified
+messaging decreased to $4.8 million from $5.2 million between the respective years of 2004 and
+2003. The decline in telephony applications is a direct result of selling more embedded voice mail
+applications, which are reported in telephone system sales.
+
+Sales through our direct sales office in the Phoenix Metropolitan area totaled $2.1 million
+during fiscal 2004 compared with $1.3 million in fiscal 2003. The increase in sales through our
+direct sales office is attributable to the expansion of our sales force and the positive impact of
+a focused sales and marketing program.
+
+Our reported revenue includes shipping and handling charges and is recorded net of reserves
+for sales returns, discounts and customer incentive programs. These items resulted in a net
+reduction to revenue of $1.4 million in 2004 compared with a net reduction of $905,000 in 2003.
+
+Gross Margin 
+
+Our gross margin was approximately $15.4 million in 2004 compared with $14.3 million in 2003.
+Our gross margin as a percentage of total revenue increased to 35.2% during 2004 from 34.6% during
+2003. The increase in our gross margin percentage during 2004 is a direct result of the mix of
+product sales, a higher volume of sales to cover the fixed component of cost of sales, and
+increased sales at our direct sales office.
+
+Engineering and Product Development 
+
+Engineering and product development expenditures decreased to $1.9 million during 2004 from
+$2.1 million in 2003. As a percentage of revenue, engineering and product development expenditures
+decreased to 4.3% of total revenue during fiscal 2004 from 5.0% during fiscal 2003. This reduction
+reflects a slight decrease in headcount and outsourced development costs primarily related to a
+specific development that was completed in 2003.
+
+Selling, General, and Administrative Expenses 
+
+Selling, general, and administrative expenses increased to $10.6 million in 2004 compared to
+$10.0 million in 2003. Factors that increased our expenses include increased compensation and
+additional marketing and
+
+25
+
+Table of Contents   
+
+promotional activity. As a percentage of revenue, selling, general, and administrative
+expenses declined to 24.1% compared with 24.3% in 2003.
+
+Interest Expense 
+
+Interest expense decreased to $6,000 during 2004 compared with $128,000 during 2003. The
+reduction in interest expense is a direct result of the elimination of interest-bearing debt in the
+first half of 2004.
+
+Provisions for Income Taxes 
+
+We provided for federal and state income taxes using an effective rate of 38.5% in 2004
+compared with 38.7% for the same period in 2003.
+
+Liquidity and Capital Resources 
+
+Our net working capital position was approximately $12.2 million at December 31, 2005 compared
+with $10.2 million at December 31, 2004. We had a cash balance of $6.5 million at December 31,
+2005 compared with a cash balance of $4.0 million at December 31, 2004. Sources of cash included
+positive income from operations, when considering non-cash items of $469,000 of depreciation and
+amortization and $735,000 of goodwill impairment, a reduction in inventories of $1.0 million, and
+$213,000 from the exercise of stock options. Uses of cash during 2005 included the payment of
+accrued liabilities of $596,000 $348,000 for the purchase of property and equipment, and $236,000
+to repurchase 44,339 shares of our common stock.
+
+Our accounts receivable days sales outstanding, calculated on a quarterly basis, were
+approximately 60 days in 2005 compared to 59 days as of December 31, 2004. The timing of payments
+received from our largest distributors greatly influence our days sales outstanding. Our two
+largest distributors comprised 57% of our total accounts receivable as of December 31, 2005 and
+2004.
+
+Our inventory days on-hand, measured in terms of days outstanding on a quarterly basis, was 46
+days as of December 31, 2005 compared to 59 days as of December 31, 2004. The decrease in inventory
+days on-hand is a direct result of our efforts to change our inventory mix to more fast-moving
+products.
+
+Trade payables and accrued liabilities, including payables to third-party and related-party
+manufacturers, were approximately $5.9 million as of December 31, 2005 compared with $6.5 million
+as of December 31, 2004. The level of our trade payables and accrued liabilities between periods
+is largely influenced by the timing of payments we make to our largest suppliers for inventory
+items and payments to cover payroll, income taxes, and customer rebates. We generally pay trade
+payables within 45 days from the invoice date, except for payments to our largest supplier, which
+are 60 days from the invoice date.
+
+During April 2003, we entered into a credit agreement with Comerica Bank (Comerica) of a size
+that is reflective of the operational requirements of our business. The credit agreement
+established a $5.0 million revolving line of credit and a $1.0 million term loan. Advances under
+the credit facility are based upon eligible accounts receivable and inventory of our wholly owned
+subsidiary, Vodavi Communications Systems, Inc., and are secured by substantially all of our
+assets. The credit facility contains covenants that are customary for similar credit facilities and
+also prohibits our operating subsidiaries from paying dividends to us without the consent of
+Comerica. As of December 31, 2005, we had no outstanding borrowings on our line of credit and $5.0
+million available for future advances.
+
+The $5.0 million revolving line of credit bears interest at Comerica s prime rate, or 7.25% at
+December 31, 2005, and requires monthly payments of interest only with all unpaid principal and
+accrued interest due at its expiration in April 2006. We plan to either renew or replace the
+existing credit facility with a similar credit facility in April 2006.
+
+26
+
+Table of Contents   
+
+The $1.0 million term loan was available to us only for the purpose of acquiring our common
+stock. Borrowings on the term loan bore interest at Comerica s prime rate plus 0.5%. In April
+2004, we repaid the amount outstanding on our term loan.
+
+We have no special purpose entities or off balance sheet financing arrangements, commitments,
+or guarantees other than certain long-term operating lease agreements for our office and warehouse
+facilities and short-term purchase commitments to our third-party suppliers. The following table
+sets forth all known commitments as of December 31, 2005 and the year in which those commitments
+become due or are expected to be settled  (in thousands) :
+
+From time to time we are subject to certain asserted and unasserted claims encountered in the
+normal course of business. We believe that the resolution of these matters will not have a
+material adverse effect on our financial position or results of operations. However, we cannot
+provide assurance that damages resulting from the resolution of these matters, if any, will not
+have a material adverse effect on our financial position or results of operations.
+
+We believe that our cash flows from operations, working capital, and credit facilities are
+sufficient to fund our capital needs during the next 12 months. We intend to continue to explore
+business acquisition opportunities as they arise and may be required to seek additional financing
+in the future to meet such opportunities.
+
+International Manufacturing Sources 
+
+We currently obtain a substantial majority of our products under various manufacturing
+arrangements with third-party manufacturers in South Korea and Thailand, including LGN who owns
+approximately 23% of our outstanding common stock. We face risks associated with international
+manufacturing sources. For a more detailed discussion of these risks, please see Item 1A,  Risk
+Factors   We face risks associated with international manufacturing sources. 
+
+Impact of Recently Issued Accounting Standards 
+
+In December 2004, the FASB issued SFAS No. 123 (revised 2004),  Share-Based Payment  (SFAS No.
+123R). This Statement replaces SFAS No. 123 and supersedes APB Opinion No. 25. SFAS No. 123R
+requires companies to recognize the grant date fair value of stock options and other equity-based
+compensation issued to employees in the income statement. The statement, as amended by the
+Securities and Exchange Commission, becomes effective for annual periods beginning after June 15,
+2005. The adoption of SFAS No. 123R will not have any impact on our consolidated financial
+statements unless and until share-based payments are issued to employees after the effective date
+of this statement.
+
+In May 2005, the FASB issued SFAS No. 154,  Accounting Changes and Error Corrections   A
+Replacement of APB Opinion No. 20 and FASB Statement No. 3.  SFAS No. 154 requires retrospective
+application to prior periods  financial statements for changes in accounting principle, unless it
+is impracticable to determine either the period-specific effects or the cumulative effect of the
+change. SFAS No. 154 also requires that retrospective application of a change in accounting
+principle be limited to the direct effects of the change. Indirect effects of a change in
+accounting principle, such as a change in non-discretionary profit-sharing payments resulting from
+an accounting change, should be recognized in the period of the accounting change. SFAS No. 154
+also requires that a change in depreciation, amortization, or depletion method for long-lived
+non-financial assets be accounted for as a
+
+27
+
+Table of Contents   
+
+change in accounting estimate affected by a change in accounting principle. SFAS No. 154 is
+effective for accounting changes and corrections of errors made in fiscal years beginning after
+December 15, 2005. Early adoption is permitted for accounting changes and corrections of errors
+made in fiscal years beginning after the date this Statement is issued. We are required to adopt
+the provisions of SFAS No. 154, as applicable, beginning in fiscal 2006.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK  
+
+We do not participate in any activities involving derivative financial instruments or other
+financial and commodity instruments. We do not hold investment securities that would require
+disclosure of market risk. Our market risk exposure is limited to interest rate risk associated
+with our credit facility. We incur interest at a variable rate of prime on advances made under our
+revolving line of credit and prime plus 0.5% on our term loan. At December 31, 2005 we had no
+outstanding borrowings on the line of credit or term loan.
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTAL DATA  
+
+Reference is made to the consolidated financial statements, the report thereon, and the notes
+thereto commencing at page F-1 of this Report, which consolidated financial statements, report, and
+notes are incorporated herein by reference.
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE  
+
+Not applicable.
+
+ITEM 9A. CONTROLS AND PROCEDURES  
+
+We have evaluated, with the participation of our Chief Executive Officer and Chief Financial
+Officer, the effectiveness of our disclosure controls and procedures as of December 31, 2005.
+Based on this evaluation, our Chief Executive Officer and Chief Financial Officer have each
+concluded that our disclosure controls and procedures are effective to ensure that we record,
+process, summarize, and report information required to be disclosed by us in our quarterly reports
+filed under the Securities Exchange Act within the time periods specified by the Securities and
+Exchange Commission s rules and forms. During the quarterly period covered by this report, there
+have not been any changes in our internal controls over financial reporting that have materially
+affected, or is reasonably likely to materially affect, our internal control over financial
+reporting.
+
+Subsequent to the date of their evaluation, there have not been any significant changes in our
+internal controls or in other factors that could significantly affect these controls, including any
+corrective action with regard to significant deficiencies and material weaknesses.
+
+ITEM 9B.OTHER INFORMATION  
+
+Not applicable.
+
+28
+
+Table of Contents   
+
+PART III 
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT  
+
+The following table sets forth certain information regarding our directors and executive
+officers:
+
+Name  
+       
+      Age  
+       
+      Position  
+
+William J. Hinz
+
+60 
+
+Chairman of the Board 
+
+Gregory K. Roeper
+
+45 
+
+President, Chief Executive Officer, and Director 
+
+David A. Husband
+
+37 
+
+Vice President-Finance, Chief Financial Officer,
+Secretary, and Treasurer 
+
+Jong Dae An
+
+46 
+
+Director 
+
+Donald A. Bliss (1)(2)
+
+73 
+
+Director 
+
+Jack A. Henry (2)(3)
+
+62 
+
+Director 
+
+Emmett E. Mitchell (1)(2)(3)
+
+50 
+
+Director 
+
+Paul D. Sonkin (1)(3)
+
+37 
+
+Director 
+
+(1) 
+       
+     Member of the Compensation Committee 
+
+(2) 
+       
+     Member of the Audit Committee 
+
+(3) 
+       
+     Member of the Nominating and Corporate Governance Committee 
+
+William J. Hinz  has served as Chairman of the Board of our company since October 1997 and as a
+director of our company since April 1997. From October 1999 until March 2004, Mr. Hinz served as
+Group President for the Triumph Components Group, which is a group of seven divisional companies
+within Triumph Group, Inc., a publicly held company. Mr. Hinz served as President of
+Stolper-Fabralloy Company, a precision aerospace engine component manufacturer that is a subsidiary
+of Triumph Group, Inc., from September 1997 until October 1999 and as Executive Vice President of
+Operations of Stolper-Fabralloy from March 1996 until September 1997. Mr. Hinz served as Vice
+President of Global Repair and Overhaul Operations for AlliedSignal Aerospace Company from June
+1994 until March 1996. During this period, Mr. Hinz also was responsible for aerospace aftermarket
+merger and acquisition activity.
+
+Gregory K. Roeper  has served as President of our company since December 1998 and as Chief
+Executive Officer and a director of our company since December 1999. Mr. Roeper served as our
+Chief Operating Officer from June 1998 until December 1999. Between November 1994 and June 1998,
+Mr. Roeper held a variety of other executive positions with our company, including Chief Financial
+Officer; Executive Vice President   Finance, Administration, and Operations; Secretary; and
+Treasurer. From 1982 until 1994, Mr. Roeper was employed with Arthur Andersen LLP.
+
+David A. Husband  has served as our Vice President   Finance, Chief Financial Officer,
+Secretary, and Treasurer since March 2001. Prior to joining our company, Mr. Husband served in
+various capacities with Action Performance Companies, Inc., a publicly held company engaged in the
+motorsports merchandising business, from May 1998 until December 2000, most recently as Executive
+Vice President and Chief Operating Officer. Mr. Husband was employed as an accountant with Arthur
+Andersen LLP from July 1992 to May 1998, where he was primarily engaged in auditing publicly held
+companies. Mr. Husband is a Certified Public Accountant in the state of Arizona.
+
+Jong Dae An  has served as a director of our company since August 2004. Mr. An has served as a
+group leader of the export business within the Network Division of LG Electronics Inc. where his
+career began in 1986. During most of this tenure with LGN, Mr. An managed the export of
+telecommunications equipment, establishing considerable market share in North America and Europe
+through relationships with leading distributors and world-class telecom service providers. Mr. An
+received a Master of Business Administration degree from the Helsinki School of Economy.
+
+Donald A. Bliss  has served as a director of our company since October 20, 2005. Mr. Bliss
+served as a Vice President and Chief Executive Officer of U.S. West Communications, a U.S. West
+company, until his
+
+29
+
+Table of Contents   
+
+retirement in December 1994. Mr. Bliss served as Chairman of the Western Region Advisory
+Board of AON Risk Services of Arizona, Inc. from October 2001 to February 2005. Mr. Bliss
+currently serves on the board of directors of Knight Transportation, Inc., a public company, and is
+a director of Western and Southern Life Insurance Company, Continental General Insurance Company,
+and the Biltmore Bank of Arizona.
+
+Jack A. Henry  has served as a director of our company since November 2001. Mr. Henry began
+his career in 1966 with Arthur Andersen LLP and held positions in Detroit, Michigan, San Jose,
+California, Seattle, Washington and Phoenix, Arizona. In 2000, Mr. Henry retired as Managing
+Partner of the Phoenix office and formed Sierra Blanca Ventures LLC, a private advisory and
+investment firm. Mr. Henry currently serves on the board of directors of White Electronic Designs
+Corporation, Vista Care, Inc., and two private companies. Mr. Henry previously served on the
+boards of directors of Simula, Inc., and SOS Staffing Services, Inc., both public companies. Mr.
+Henry holds both a Bachelors and Masters of Business Administration from the University of
+Michigan.
+
+Emmett E. Mitchell  has served as a director of our company since February 1999. Mr. Mitchell
+has been employed with MS Howell   Co., a NASD broker dealer and investment banking firm, as the
+Executive Vice President since December 2000. Mr. Mitchell has also served as the Chief Financial
+Officer of ICESoft Technologies, Inc., a privately held software company since December 2001.
+Prior to this, Mr. Mitchell was employed with Paradise Valley Securities, Inc., since October 1991,
+most recently as the Chairman and Chief Executive Officer.
+
+Paul D. Sonkin  has served as a director of our company since February 2004. Mr. Sonkin has
+served as the portfolio manager of the Hummingbird Value Fund, The Hummingbird Microcap Value Fund,
+and The Hummingbird Concentrated Fund since June 1999. He also serves as an adjunct professor at
+Columbia University Graduate School of Business, where he teaches courses on security analysis and
+value investing. From May 1998 to June 1999, Mr. Sonkin served as a senior analyst and portfolio
+manager at First Manhattan   Co., a firm that specialized in mid- and large-cap value investing.
+Prior to that, from April 1995 to May 1998, Mr. Sonkin served as an analyst and portfolio manager
+at Royce   Associates, the investment advisor to the Royce Funds. Prior to receiving an MBA from
+Columbia University, he worked at Goldman Sachs   Co. and at the U.S. Securities and Exchange
+Commission. Mr. Sonkin is co-author of  Value Investing: From Graham to Buffet and Beyond. 
+
+Section 16(a) Beneficial Ownership Reporting Compliance 
+
+Section 16(a) of the Exchange Act requires our directors, officers, and persons who own more than
+10% of a registered class of our equity securities to file reports of ownership and changes in
+ownership with the SEC. Officers, directors, and greater than 10% stockholders are required by SEC
+regulations to furnish us with copies of all Section 16(a) forms they file. Based solely upon our
+review of the copies of such forms we received during the fiscal year ended December 31, 2005, and
+written representations that no other reports were required, we believe that each person who, at
+any time during such fiscal year, was a director, officer, or beneficial owner of more than 10% of
+our common stock complied with all Section 16(a) filing requirements during such fiscal year,
+except as follows: (1) Mr. Bliss filed a late Form 3 regarding his initial beneficial ownership
+and a late Form 4 covering a grant of options upon becoming a director of our company; (2) Mr.
+Mitchell filed a late Form 4 regarding the exercise of stock options and subsequent sale of such
+shares; and (3) each of LG-Nortel Co. Ltd. and Nortel Networks Ltd. filed a late Form 3 regarding
+its initial beneficial ownership following the transfer of shares of our common stock from LGE to
+LG-Nortel Co. Ltd.
+
+Code of Ethics and Committee Charters 
+
+Our Board of Directors has adopted Corporate Governance Guidelines, a Code of Conduct, a Code
+of Ethics for the CEO and Senior Financial Officers, an Audit Committee Charter, a Compensation
+Committee Charter, a Nominating/Corporate Governance Charter, and any other corporate governance
+materials contemplated by SEC or NASDAQ regulations. We post on our website at
+ www.vodavi.com  these corporate governance materials. These documents are also available in
+print to any stockholder who requests by contacting our corporate secretary at our executive
+offices.
+
+30
+
+Table of Contents   
+
+Information Relating to Our Audit Committee of the Board of Directors 
+
+The purpose of the Audit Committee is to assist our board of directors in the oversight of the
+integrity of the consolidated financial statements of our company, our company s compliance with
+legal and regulatory matters, the independent auditor s qualifications and independence, and the
+performance of our company s independent auditors. The primary responsibilities of the Audit
+Committee are set forth in its charter, and include various matters with respect to the oversight
+of our company s accounting and financial reporting process and audits of the consolidated
+financial statements of our company on behalf of our Board of Directors. The Audit Committee also
+selects the independent certified public accountants to conduct the annual audit of the
+consolidated financial statements of our company; reviews the proposed scope of such audit; reviews
+accounting and financial controls of our company with the independent public accountants and our
+financial accounting staff; and reviews and approves transactions between us and our directors,
+officers, and their affiliates.
+
+The Audit Committee currently consists of Messrs. Bliss, Henry, and Mitchell. Each member of
+our Audit Committee is an independent director of our company under applicable NASDAQ rules as well
+as under rules adopted by the Securities and Exchange Commission pursuant to the Sarbanes-Oxley Act
+of 2002. The board of directors has determined that each of Messrs. Henry and Mitchell qualify as
+an  audit committee financial expert  in accordance with applicable rules and regulations of the
+SEC.
+
+31
+
+Table of Contents   
+
+ITEM 11. EXECUTIVE COMPENSATION  
+
+Summary of Cash and Other Compensation 
+
+The following table sets forth certain information with respect to the compensation we paid to
+our Chief Executive Officer and one other executive officer who received cash compensation in
+excess of $100,000 during fiscal 2005. The table also sets forth certain information regarding one
+former executive officer of our company.
+
+SUMMARY COMPENSATION TABLE 
+
+(1) 
+       
+     We consider Messrs. Roeper and Husband to be our executive officers. Mr. Borcich , our
+former Vice President   Distribution Sales, resigned from our company during October 2005. 
+
+(2) 
+       
+     The exercise price of all stock options granted were equal to the fair market value of our
+common stock on the date of grant. 
+
+(4) 
+       
+     Mr. Borcich resigned from our company in October 2005. Annual compensation amounts include
+his base salary through the date of his resignation. Included in All Other Compensation for
+Mr. Borcich is severance of $35,750. 
+
+(5) 
+       
+     Represents a 401(k) plan matching contribution. 
+
+32
+
+Table of Contents   
+
+Option Grants 
+
+The following table sets forth certain information with respect to stock options granted to
+the officers listed during the fiscal year ended December 31, 2005.
+
+OPTION GRANTS IN LAST FISCAL YEAR 
+
+(1) 
+       
+     Each of the options granted vested on October 20, 2005. 
+
+(2) 
+       
+     Potential gains are net of the exercise price, but before taxes associated with the exercise.
+Amounts represent hypothetical gains that could be achieved for the respective options if
+exercised at the end of the option term. The assumed 5% and 10% rates of stock price
+appreciation are provided in accordance with SEC rules and do not represent our estimate or
+projection of the future price of our common stock. Actual gains, if any, on stock option
+exercises will depend upon the future market prices of our common stock. 
+
+Aggregate Option Exercises and Fiscal Year-End Option Holdings 
+
+The following table provides information on options exercised during fiscal 2005 by the
+officers listed and the value of each such officer s unexercised options of December 31, 2005.
+
+AGGREGATE OPTION EXERCISES IN LAST FISCAL YEAR 
+
+AND FISCAL YEAR-END OPTION VALUES 
+
+(1) 
+       
+     Calculated based upon the closing price of our common stock as reported on the Nasdaq
+SmallCap Market on December 31, 2005 of $5.50 per share. 
+
+(2) 
+       
+     Mr. Borcich resigned as an officer of our company during October 2005. All of his
+unvested options were cancelled at that time and his vested options that were not exercised
+were terminated during December 2005. 
+
+33
+
+Table of Contents   
+
+Employment Agreements 
+
+Gregory K. Roeper 
+
+We have an employment agreement with Mr. Roeper for a term expiring on December 31, 2006. The
+agreement automatically renews for successive one-year terms unless either party terminates by
+giving the other party at least 30 days  written notice. The employment agreement provides for Mr.
+Roeper to serve as our President and Chief Executive Officer. The employment agreement provides
+for Mr. Roeper to receive a base salary of $220,000 during fiscal 2006.
+
+The agreement provides for Mr. Roeper to receive his fixed compensation to the date of
+termination of his employment by reason of resignation, death, or as a result of termination of
+employment  for cause,  as defined in the agreement. If we terminate his employment, or if his
+employment is terminated by reason of disability, the agreement provides for the payment of his
+base salary and benefits for a period of one year, payable in a lump sum within ten days of the
+date of termination. In addition, Mr. Roeper s vested options as of the date of termination will
+remain outstanding through the 120-day period following the then-current term of the agreement.
+All unvested options as of the date of termination will be cancelled.
+
+In the event of a  change of control  of our company, as defined in the agreement, Mr. Roeper
+will receive a minimum bonus of $150,000. In addition, any options that were granted to Mr. Roeper
+that remain unvested as of the date of the change of control will become fully vested and
+exercisable on the effective date of the change of control. If Mr. Roeper s employment is
+terminated as a result of a change of control, we will be required to pay him, within ten days of
+the date of termination, his annual base salary and benefits for a period of one year following the
+date of termination plus any earned bonus through the date of termination.
+
+David A. Husband 
+
+We have an employment agreement with Mr. Husband for a term expiring on December 31, 2006.
+The agreement automatically renews for successive one-year terms unless either party terminates by
+giving the other party at least 30 days  written notice. The employment agreement provides for Mr.
+Husband to serve as our Vice President   Finance and Chief Financial Officer. The employment
+agreement provides for Mr. Husband to receive a base salary of $175,000 during fiscal 2006.
+
+The agreement provides for Mr. Husband to receive his fixed compensation to the date of
+termination of his employment by reason of resignation, death, or as a result of termination of
+employment  for cause,  as defined the agreement. If we terminate Mr. Husband s employment, or if
+his employment is terminated by reason of disability, we will pay Mr. Husband his base salary and
+benefits for a period of one year. In addition, Mr. Husband s vested options as of the date of
+termination will remain outstanding through the 120-day period following the then-current term of
+the agreement. All unvested options as of the date of termination will be cancelled.
+
+In the event of a  change of control  of our company, as defined in the employment agreement,
+Mr. Husband will receive a minimum bonus of $100,000. In addition, any options that were granted
+to Mr. Husband that remain unvested as of the date of the change of control will become fully
+vested and exercisable on the effective date of the change of control. If Mr. Husband s employment
+is terminated as a result of a change of control, we will be required to pay him his base salary
+and benefits for a period of one year following the date of termination plus any earned bonus
+through the date of termination.
+
+Each employment agreement described above provides that the executive will be eligible to
+receive discretionary bonuses in amounts determined by our Board of Directors. In addition, each
+employment agreement generally requires us to
+
+reimburse each executive for all travel, entertainment, and other ordinary and
+necessary expenses incurred in connection with our business and their duties under
+their respective employment agreements; and 
+
+34
+
+Table of Contents   
+
+provide such other fringe benefits that we make generally available to all of our
+employees on a non-discriminatory basis. 
+
+Each employment agreement also contains provisions that prohibit the executive from
+
+competing with us for a period of 12 months after the termination of the executive s
+employment with our company, 
+
+taking certain actions intended to solicit other persons to terminate their business
+relationship with us or to terminate his or her employment relationship with us, and 
+
+making unauthorized use or disclosure of our trade names, fictitious names, or
+confidential information. 
+
+Other Arrangements 
+
+We maintain agreements with each of our other officers and employees that prohibit such
+persons from disclosing confidential information obtained while employed by us. We offer our
+employees medical, life, and disability insurance benefits. Our executive officers and other key
+personnel (including directors who also are employees of our company) are eligible to receive stock
+options under our stock option plan.
+
+401(k) Profit Sharing Plan 
+
+In April 1994, we adopted a profit sharing plan pursuant to Section 401(k) of the Internal
+Revenue Code of 1986. Pursuant to the 401(k) Plan, all eligible employees may make elective
+contributions through payroll deductions. In addition, we may make matching and discretionary
+contributions in such amounts as may be determined by our Board of Directors. During fiscal 2005,
+we expensed matching contributions pursuant to the 401(k) Plan to all executive officers as a group
+in the amount of $2,000.
+
+The 1994 Stock Option Plan, as amended, provided for
+
+the granting of incentive stock options or nonqualified options to acquire our common stock; 
+
+the granting of stock appreciation rights; 
+
+the direct granting of shares of our common stock; and 
+
+the granting of other cash awards to key employees of our company and to consultants
+or independent contractors who provide valuable services to us. 
+
+The plan also provided for automatic grants of stock options to non-employee directors of our
+company under an automatic program. Under the automatic program, each newly elected non-employee
+member of our Board of Directors received an automatic initial grant of options to acquire 5,000
+shares of common stock on the date of his or her first appointment or election to our Board of
+Directors. In addition, options to acquire 5,000 shares of common stock were automatically granted
+to each non-employee director at the meeting of our Board of Directors held immediately after each
+annual meeting of stockholders.
+
+We were authorized to issue 1,600,000 shares of Common Stock under the 1994 Plan. As of March
+29, 2006, 489,260 shares of common stock have been issued upon exercise of options granted under
+the plan, and there were outstanding options to acquire 510,990 shares of our common stock under
+the plan. The 1994 Plan expired in April 2004 and all remaining options available for grant were
+cancelled. We may not grant additional awards under the 1994 Plan. Any awards outstanding on the
+expiration date were not affected by virtue of the expiration of the 1994 Plan. In approving the
+2003 Plan discussed below, the Board considered that the remaining shares available under the 1994
+Plan would be cancelled in favor of the new shares available under the 2003 Plan.
+
+35
+
+Table of Contents   
+
+To exercise an option, the option holder will be required to deliver to us full payment of the
+exercise price for the shares as to which the option is being exercised. Generally, options may be
+exercised by delivery of cash, bank cashier s check, or shares of our common stock.
+
+2003 Incentive Compensation Plan 
+
+Our Board of Directors approved the Vodavi 2003 Incentive Compensation Plan in August 2003,
+and our stockholders approved the 2003 Plan during October 2003.
+
+The purpose of the 2003 Plan is to assist us in attracting, motivating, retaining, and
+rewarding high-quality executives and other employees, officers, directors, and consultants by
+enabling such persons to acquire or increase a proprietary interest in our company in order to
+strengthen the mutuality of interests between such persons and our stockholders, and providing such
+persons with annual and long-term performance incentives to expend their maximum efforts in the
+creation of stockholder value.
+
+General Terms of the 2003 Plan; Shares Available for Issuance 
+
+The 2003 Plan provides for the granting of awards in the form of incentive stock options,
+nonqualified stock options, stock appreciation rights, shares of restricted common stock, bonus
+stock in lieu of obligations, or other stock-based awards to employees, directors, and independent
+contractors who provide valuable services to our company. The 2003 Plan authorizes the issuance of
+600,000 shares of stock, and no more than 500,000 shares may be issued pursuant to incentive stock
+options. As of March 29, 2006, no shares of common stock have been issued upon exercise of options
+granted under the 2003 Plan, and there were outstanding options to acquire 152,500 shares of our
+common stock under the 2003 Plan. As of March 29, 2006, an additional 447,500 shares of common
+stock were available for grant under the 2003 Plan. The maximum number of shares of common stock
+covered by awards granted to any individual in any year may not exceed 200,000. If any award
+previously granted under the 2003 Plan is forfeited, terminated, canceled, surrendered, does not
+vest, or expires without having been exercised in full, stock not issued under such award will
+again be available for grant for purposes of the 2003 Plan. If any change is made in the stock
+subject to the 2003 Plan, or subject to any award granted under the 2003 Plan (through
+consolidation, spin-off, recapitalization, stock dividend, split-up, combination of shares,
+exchange of shares, or otherwise), the 2003 Plan provides that appropriate adjustments will be made
+as to the aggregate number and type of shares available for awards, the maximum number and type of
+shares that may be subject to awards to any individual, the number and type of shares covered by
+each outstanding award, the exercise price grant price, or purchase price relating to any award,
+and any other aspect of any award that the Board of Directors or Committee determines appropriate.
+
+The 2003 Plan provides that it is not intended to be the exclusive means by which we may issue
+options to acquire our common stock or any other type of award. To the extent permitted by
+applicable law and the rules and regulations of the NASDAQ SmallCap Market, we may issue other
+options, warrants, or awards other than pursuant to the 2003 Plan without stockholder approval.
+
+Eligibility and Administration 
+
+Employees, executive officers, directors, and independent contractors of our company will be
+eligible to receive awards under the 2003 Plan. Options that are incentive stock options may be
+granted only to employees of our company.
+
+A committee designated by the Board of Directors will administer the 2003 Plan, however, the
+Board may exercise any power or authority granted to the committee under the 2003 Plan. The Board
+may designate more than one committee to administer the 2003 Plan as to various categories of
+eligible persons. The committee will consist of at least two directors, and each member of which
+will be (a) a  non-employee director  within the meaning of Rule 16b-3 under the Exchange Act,
+unless administration of the 2003 Plan by  non-employee directors  is not then required in order
+for exemptions under Rule 16b-3 to apply to transactions under the 2003 Plan, and (b) an  outside
+director  within the meaning of Section 162(m) of the Internal Revenue Code, unless administration
+of the 2003 Plan by  outside directors  is not then required in order to qualify for tax
+deductibility under Section 162(m) of the Internal Revenue Code. The Board and/or any committee
+that has been delegated the authority to administer the
+
+36
+
+Table of Contents   
+
+2003 Plan is referred to as the  Plan Administrator.  Where appropriate, the Plan
+Administrator will satisfy the then requirements of any stock exchange or automated quotation
+system upon which our stock is listed or quoted.
+
+The Plan Administrator will have the authority, in its discretion, to determine all matters
+relating to awards, including the selection of the individuals to be granted awards, the type of
+awards, the number of shares of common stock subject to an award, vesting conditions, and any and
+all other terms, conditions, restrictions, and limitations, if any, of an award. The Plan
+Administrator will also have the authority to construe and interpret the 2003 Plan, and to make all
+decisions and determinations as the Plan Administrator may deem necessary or advisable for
+administration of the 2003 Plan. The Plan Administrator may delegate to officers or managers of
+our company certain functions, in each case to the extent permitted by the Board, under the 2003
+Plan, and applicable law.
+
+Terms of Awards 
+
+General 
+
+Awards granted under the 2003 Plan may be granted either alone or in addition to, in tandem
+with, or in substitution or exchange for, any other award or any award granted under another plan
+of our company. Such additional, tandem, and substitute or exchange award may be granted at any
+time. The term of each award will be for such period as may be determined by the Plan
+Administrator, provided that in no event will the term of any option or stock appreciation right
+exceed a period of 10 years, or such shorter period as may be required in the case of an incentive
+stock option.
+
+Options 
+
+Options granted under the 2003 Plan may be either incentive stock options, as defined under
+the Internal Revenue Code, or nonqualified options. The expiration date, maximum number of shares
+purchasable, vesting provisions, type of consideration to be paid upon exercise, and any other
+provisions of options granted under the 2003 Plan will be established at the time of grant. The
+Plan Administrator will set the term of each option, and in the case of incentive stock options,
+such terms will be subject to compliance in all respects with the Internal Revenue Code and the
+2003 Plan. Options will vest and become exercisable in whole or in one or more installments at
+such time as may be determined by the Plan Administrator, including based on achievement of
+performance goals or future service requirements.
+
+The exercise prices of options will be determined by the Plan Administrator, provided that the
+exercise price of all options granted under the 2003 Plan may not be less than 100% of the fair
+market value of the common stock on the date of the grant (110% of the fair market value if the
+option intended to be an incentive stock options granted to a stockholder who at the time the
+option is granted owns stock possessing more than 10% of the total combined voting power of all
+classes of stock of our company or of its subsidiaries).
+
+The Plan Administrator will also have the discretion to grant options that are immediately
+exercisable for restricted shares of stock that will vest over a period of time or pursuant to
+certain performance criteria established by the Plan Administrator. Should the optionee s
+continuous service cease while holding such unvested shares, we will have the right to repurchase,
+at the exercise price paid per share, any or all of the unvested shares. The terms upon which such
+repurchase right will be exercisable will be established by the Plan Administrator and set forth in
+the document evidencing such repurchase right.
+
+37
+
+Table of Contents   
+
+Stock Appreciation Rights 
+
+The Plan Administrator is authorized to grant stock appreciation rights, which provide the
+holder the right to receive, upon exercise thereof, the excess of (a) the fair market value of one
+share of stock on the date of exercise, over (b) the grant price of the stock appreciation right as
+determined by the Plan Administrator. The grant price of a stock appreciation right will not be
+less than the fair market value of a share of stock on the date of grant, except under limited
+circumstances set forth in the 2003 Plan. The Plan Administrator will determine at the date of
+grant the terms and conditions of the stock appreciation right, including the form of consideration
+payable in settlement. Stock appreciation rights may be either freestanding or granted in tandem
+with other awards. The Plan Administrator may grant  limited stock appreciation rights,  which may
+be exercised only in the event of a  change of control,  as defined in the 2003 Plan.
+
+Restricted Stock 
+
+The Plan Administrator is authorized to grant shares of restricted stock, which will be
+subject to such restrictions on transferability, risk of forfeiture, and other restrictions as the
+Plan Administrator will determine or as otherwise provided in the 2003 Plan. The restrictions may
+lapse separately or in combination at such times, under such circumstances, in such installments,
+or otherwise, as the Plan Administrator may determine at the date of grant or thereafter. A holder
+granted restricted stock will have all of the rights of a stockholder, including the right to vote
+and receive dividends. During the applicable restricted period, the shares may not be sold,
+transferred, pledged, hypothecated, margined, or otherwise encumbered by the holder.
+
+Except as otherwise determined by the Plan Administrator at the time of the award, upon
+termination of a participant s service during the applicable restricted period, the participant s
+restricted stock that is at that time subject to restrictions will be forfeited and reacquired by
+us, provided that the Plan Administrator may provide or determine that restrictions or forfeiture
+conditions will be waived in whole or in part in the event of terminations resulting from specified
+causes, and the Plan Administrator may in other cases waive in whole or in part the forfeiture of
+restricted stock.
+
+As a condition to the grant of an award of restricted stock, the Plan Administrator may
+require that any cash dividends paid on a share of restricted stock be automatically reinvested in
+additional shares of restricted stock or applied to the purchase of additional awards under the
+2003 Plan, which will be subject to restrictions and a risk of forfeiture to the same extent as the
+restricted stock with respect to which such stock or other property has been distributed.
+
+Bonus Stock and Awards in Lieu of Obligations 
+
+The Plan Administrator is authorized to grant stock as a bonus, or to grant stock or other
+awards in lieu of company obligations to pay cash or deliver other property under the 2003 Plan or
+under other plans or compensatory arrangements, subject to certain exceptions in the case of
+participants subject to Section 16 of the Exchange Act or other terms as determined by the Plan
+Administrator.
+
+Other Stock-Based Awards 
+
+The Plan Administrator is authorized to grant participants such other awards that may be
+denominated or payable in, valued in whole or in part by reference to, or otherwise based on stock
+as deemed by the Plan Administrator to be consistent with the purposes of the 2003 Plan. Such
+awards may be convertible or exchangeable debt securities, other rights convertible or exchangeable
+into stock, purchase rights for stock, awards with value and payment contingent upon performance of
+our company or any other factors designated by the Plan Administrator. The Plan Administrator will
+determine the terms and conditions of such awards, including the nature of the right, consideration
+to be paid upon exercise, vesting conditions, repurchase rights for unvested shares, and the like.
+Cash awards, as an element of or supplement to any other award under the 2003 Plan, may also be
+granted under the 2003 Plan.
+
+38
+
+Table of Contents   
+
+Automatic Grant Program 
+
+The 2003 Plan includes an automatic grant program that automatically grants options to our
+non-employee directors. Under the automatic grant program, each newly elected non-employee member
+of the Board will receive an option to purchase 5,000 shares of common stock, if available, on the
+date of his or her first appointment or election to the board of directors. In addition, an option
+to acquire 5,000 shares of common stock, if available, will be granted to each non-employee
+director at the meeting of the board of directors held immediately after each annual meeting of
+stockholders. A non-employee member of the board of directors will not be eligible to receive this
+annual grant if the grant date of such annual grant would be within 90 days of the date on which
+the non-employee member received his or her initial grant. Each initial grant will vest and become
+exercisable immediately on the date of grant.
+
+The exercise price per share of common stock subject to automatic options granted under the
+2003 Plan will be equal to 100% of the fair market value of our common stock on the date such
+option is granted. Each automatic option will expire on the tenth anniversary of the date of
+grant. In the event the non-employee director ceases to serve as a member of the board of
+directors, the option holder may exercise the automatic options until the earlier of (1) 90 days
+after the cessation of service, or (2) the expiration of the term of the automatic option. If the
+non-employee director dies while serving as a director or within 90 days after ceasing to serve as
+a director, the option holder s estate or the persons to whom the automatic options are transferred
+under the option holder s will or the laws of descent and distribution may exercise the automatic
+options until the earlier of (a) 90 days after the cessation of service, or (b) the expiration of
+the term of the automatic option.
+
+Other Provisions 
+
+In the event of a proposed sale of all or substantially all of our assets or any
+reorganization, merger, consolidation, or other form of corporate transaction in which our company
+does not survive, or in which shares of stock are exchanged for or converted into securities issued
+by another entity, then the successor or acquiring entity may, with the consent of the committee or
+the Board, assume each outstanding option or substitute an equivalent option or right. If the
+successor or acquiring entity does not assume or substitute such options, then (a) each option will
+terminate upon consummation of sale, merger, consolidation, or other corporate transaction, and (b)
+the committee will have the discretion and authority exercisable at any time to provide for the
+automatic acceleration of vesting or exercisability of one or more awards granted by it under the
+2003 Plan.
+
+Duration and Modification 
+
+The Plan will terminate at such time as no shares of stock remain available for issuance under
+the 2003 Plan and we have no further rights or obligations with respect to outstanding awards under
+the 2003 Plan. The Board may amend, alter, suspend, discontinue, or terminate the 2003 Plan
+without the consent of stockholders, except that any amendment or alteration to the 2003 Plan will
+be subject to stockholder approval no later than the next annual meeting following such Board
+action if required by applicable law or the rules or any applicable stock exchange or quotation
+system on which the stock may then be listed or quoted. In addition, without the consent of an
+affected participant, the Board may not amend or alter the 2003 Plan to affect the rights of any
+participant under any previously granted and outstanding award.
+
+Despite the foregoing, the Board of Directors, in its sole discretion, may bifurcate the 2003
+Plan so as to restrict, limit, or condition the use of any provision of the 2003 Plan to
+participants who are officers, directors, or stockholders subject to Section 16 of the Exchange Act
+without so restricting, limiting, or conditioning the 2003 Plan with respect to other participants.
+
+Director Compensation and Other Information 
+
+Employees of our company do not receive compensation for serving as members of our Board of
+Directors. Each independent director receives a quarterly retainer fee of $5,000 payable on the
+first day of each quarter. Each independent director also receives a $500 fee for each meeting
+attended by telephone or in person and reimbursement for reasonable expenses incurred in attending
+meetings of our Board of Directors. Committee members receive a $500 fee for attendance at
+committee meetings that are held on days other than days on which a
+
+39
+
+Table of Contents   
+
+Board of Directors  meeting is held. Our Chairman, William J. Hinz, receives a quarterly
+retainer fee of $6,250 payable on the first day of each quarter. Mr. Hinz also receives a $625 fee
+for each meeting attended by telephone or in person and reimbursement for reasonable expenses
+incurred in attending board meetings. Non-employees who serve as directors of our company also
+receive an annual automatic stock option grant to purchase 5,000 shares of stock under our 2003
+Incentive Compensation Plan. Each automatic grant under the 2003 Plan shall vest and become
+exercisable on the earlier of (1) the first anniversary of the date of grant, or (2) the day prior
+to the next regularly held annual meeting of our stockholders.
+
+Compensation Committee Interlocks and Insider Participation 
+
+Performance evaluation and compensation decisions relating to 2005 were made by the Compensation
+Committee of our Board of Directors, which consisted of Messrs. Henry, Mitchell, and Sonkin. Upon
+his election to our Board of Directors during October 2005, Mr. Bliss was appointed to serve as a
+member of the Compensation Committee, and Mr. Henry resigned as a member of the Compensation
+Committee. None of such persons had any contractual or other relationships with us during fiscal
+2005 except as directors. See Item 11,  Executive Compensation Director Compensation and Other
+Information. 
+
+Limitation of Directors  Liability and Indemnification 
+
+Our certificate of incorporation provides that no director of our company will be personally
+liable to our company or our stockholders for monetary damages for breach of fiduciary duty as a
+director, except to the extent such exemption or limitation of liability is not permitted under the
+Delaware General Corporation law, or Delaware GCL. Under the Delaware GCL, a director may be held
+liable
+
+for any breach of the director s duty of loyalty to our company or our stockholders; 
+
+for acts or omissions not in good faith or that involve intentional misconduct or a
+knowing violation of law; 
+
+in respect of certain unlawful dividend payments or stock purchases; or 
+
+for any transaction from which the director derived an improper personal benefit. 
+
+The effect of this provision in our certificate of incorporation is to eliminate the rights of
+our company and our stockholders (through stockholders  derivative suits on behalf of our company)
+to recover monetary damages from a director for breach of the fiduciary duty of care as a director
+(including breaches resulting from negligent or grossly negligent behavior) except in the
+situations described above. In addition, our certificate of incorporation provides that any repeal
+or modification of this provision by our stockholders will not adversely affect any right or
+protection of a director of our company existing at the time of such repeal or modification with
+respect to acts or omissions occurring prior to such repeal or modification. These provisions do
+not limit or eliminate the rights of our company or any stockholder to seek non-monetary relief
+such as an injunction or recision in the event of a breach of a directors  duty of care.
+
+Our certificate of incorporation requires us to indemnify our directors, officers, and certain
+other representatives of our company against expenses and certain other liabilities arising out of
+their conduct on behalf of our company to the maximum extent permitted by the Delaware GCL.
+Indemnification is not available with respect to proceedings or claims initiated or brought
+voluntarily by an officer, director, or other representative of our company against us unless such
+proceeding or claim is approved by our Board of Directors.
+
+40
+
+Table of Contents   
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER
+MATTERS  
+
+The following table sets forth certain information with respect to beneficial ownership of our
+common stock as of December 31, 2005 by (i) each director; (ii) the executive officers set forth in
+the Summary Compensation Table under Item 11,  Executive Compensation;  (iii) all of our directors
+and executive officers as a group; and (iv) each other person who is known by us to beneficially
+own or to exercise voting or dispositive control over more than 5% of our common stock.
+
+* 
+       
+     Less than 1% 
+
+(1) 
+       
+     Each person named in the table has sole voting and investment power with respect to all
+common stock beneficially owned by him, subject to applicable community property law, except
+as otherwise indicated. Except as otherwise indicated, each person may be reached at 4717
+East Hilton Avenue, Suite 400, Phoenix, Arizona 85034. 
+
+(2) 
+       
+     The percentages shown are calculated based upon 3,774,233 shares of our common stock
+outstanding on December 31, 2005. The percentages shown include the shares of common stock
+that each named stockholder has the right to acquire within 60 days of December 31, 2005. In
+calculating ownership percentage, all shares of common stock that the named stockholder has
+the right to acquire upon exercise of stock options within 60 days of December 31, 2005 are
+deemed to be outstanding for the purpose of computing the percentage of common stock owned by
+such stockholder, but are not deemed to be outstanding for the purpose of computing the
+ownership percentage of any other stockholder. Percentages may be rounded. Includes, when
+applicable, shares owned of record by such person s children and spouse and by other related
+individuals and entities over whose shares of common stock such person has sole or shared
+voting control or power of disposition. 
+
+(3) 
+       
+     Includes 80,000 shares of common stock issuable upon exercise of options. 
+
+(4) 
+       
+     Includes 10,725 shares of common stock and 263,750 shares of common stock issuable upon
+exercise of options. 
+
+(5) 
+       
+     Includes 19,850 shares of common stock and 103,750 shares of common stock issuable upon
+exercise of options. 
+
+(6) 
+       
+     Includes 10,000 shares of common stock issuable upon exercise of options. 
+(7) Includes 5,000 shares of common stock issuable upon exercise of options. 
+
+(8) 
+       
+     Includes 900 shares of common stock and 25,000 shares of common stock issuable upon exercise
+of stock options. 
+
+41
+
+Table of Contents   
+
+(9) 
+       
+     Includes 3,300 shares of common stock and 15,000 shares issuable upon exercise of options. 
+
+(10) 
+       
+     Mr. Sonkin is a control person of Humingbird Management, LLC. Amounts listed for Hummingbird
+represent 505,414 shares of common stock beneficially owned by Hummingbird Management, LLC
+(f/k/a Morningside Value Investors, LLC), as investment manager to The Hummingbird Value Fund,
+L.P. The managing member of Hummingbird Management is Paul D. Sonkin, who also serves as the
+managing member of HVF Capital, the general partner of The Hummingbird Value Fund and The
+Hummingbird Microcap Value Fund. Hummingbird Management has sole voting and dispositive power
+over the shares, and Hummingbird Management disclaims any economic interest or beneficial
+ownership of the shares. The address of Hummingbird Management, LLC is 460 Park Avenue,
+12 th  Floor, New York, New York 10022. In addition to the amounts listed for
+Hummingbird Management, Mr. Sonkin s beneficial ownership, for which Mr. Sonkin has sole
+voting and dispositive power, includes 15,000 shares issuable upon exercise of options, which
+is not included in the beneficial ownership of Hummingbird Management. 
+
+(11) 
+       
+     Represents 862,500 shares of our common stock held by LG-Nortel Co. Ltd., a Korean
+corporation. LG-Nortel is a joint venture between LG Electronics Inc. and Nortel Networks
+Limited, a wholly owned subsidiary of Nortel Networks Corporation. LG-Nortel has sole voting
+and dispositive power over such shares, however, NNL is the majority shareholder of LG-Nortel.
+NNL and NNC have shared voting and dispositive power over such shares. The principal
+executive offices of LG-Nortel is 7th, 8th Floor, GS Kangnam Tower 679, Yeoksam-dong,
+Kangnam-gu, Seoul, 135-985, Korea. The principal executive offices of NNL and NNC is 8200
+Dixie Road, Suite 100, Brampton, Ontario, Canada L6T 5P6. 
+
+(12) 
+       
+     Represents shares of common stock beneficially owned by Barclays Global Investors, NA.
+Barclays has sole voting power and sole dispositive power over all of such shares. The
+address of Barclays is 45 Fremont Street, San Francisco, California 94105. 
+
+42
+
+Table of Contents   
+
+Equity Compensation Plan Information 
+
+The following table sets forth information with respect to our common stock that may be issued
+upon the exercise of stock options under our 1994 Stock Option Plan and our 2003 Incentive
+Compensation Plan as of December 31, 2005.
+
+(c) 
+
+Number of 
+
+(a) 
+
+Securities 
+
+Number of 
+
+Remaining Available 
+
+Securities to be 
+
+(b) 
+
+for Future Issuance 
+
+Issued Upon 
+
+Weighted Average 
+
+Under Equity 
+
+Exercise of 
+
+Exercise Price of 
+
+Compensation Plans 
+
+Outstanding 
+
+Outstanding 
+
+(Excluding 
+
+Options, Warrants, 
+
+Options, Warrants, 
+
+Securities 
+
+Plan Category 
+       
+     and Rights 
+
+and Rights 
+
+Reflected in Column (a)) 
+
+Equity Compensation
+Plans Approved by
+Stockholders
+
+717,865 
+
+$ 
+     3.27 
+
+447,500 
+
+Equity Compensation
+Plans Not Approved
+by Stockholders
+
+Total
+
+717,865 
+
+$ 
+     3.27 
+
+447,500 
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS  
+
+LG-Nortel Co. LTD., which is a joint venture between Nortel Networks and LG, our principal
+supplier, beneficially owns approximately 23% of our outstanding common stock. Jong Dae An, a
+director of our company since August 2004 is an officer of LGN. We purchased approximately $21.2
+million of key telephone systems, commercial grade telephones, and voice mail products from LGN and
+an affiliate of LGN during 2005. We believe that the purchases from LGN and its affiliate
+approximate terms that would be offered by non-related parties. We owed LGN and its affiliate
+approximately $4.1 million for product purchases as of December 31, 2005.
+
+We also conduct joint development activities with LGN for the design and development of
+hardware incorporated into some of our existing and planned telephone systems and commercial grade
+telephones. Generally, LGN contributes the ongoing research and development costs for the product
+hardware and produces the finished goods developed under the alliance and we obtain the right to
+sell such products throughout North America and the Caribbean.
+
+43
+
+Table of Contents   
+
+ITEM 14. PRINCIPAL ACCOUNTANT FEES AND SERVICES  
+
+Audit Fees 
+
+Aggregate fees billed to our company for the fiscal years ended December 31, 2005 and 2004 by
+our principal accounting firm are as follows:
+
+(1) 
+       
+     Represents fees associated with the audit of our annual consolidated financial statements,
+review of our quarterly consolidated financial statements, and related consents. 
+
+(2) 
+       
+     Represents fees associated with the audit of our 401(k) benefit plan. 
+
+(3) 
+       
+     Represents fees associated with the preparation of our corporate, federal, and state income
+tax returns and assistance with our quarterly estimated tax payments. 
+
+Audit Committee Pre-Approval Policies 
+
+The charter of our Audit Committee provides that the duties and responsibilities of our Audit
+Committee include the pre-approval of all audit, audit related, tax, and other services permitted
+by law or applicable SEC regulations (including fee and cost ranges) to be performed by our
+independent auditor. Any pre-approved services that will involve fees or costs exceeding
+pre-approved levels will also require specific pre-approval by the Audit Committee. Unless
+otherwise specified by the Audit Committee in pre-approving a service, the pre-approval will be
+effective for the 12-month period following pre-approval. The Audit Committee will not approve any
+non-audit services prohibited by applicable SEC regulations or any services in connection with a
+transaction initially recommended by the independent auditor, the purpose of which may be tax
+avoidance and the tax treatment of which may not be supported by the Internal Revenue Code and
+related regulations.
+
+To the extent deemed appropriate, the Audit Committee may delegate pre-approval authority to
+the Chairman of the Board or any one or more other members of the Audit Committee provided that any
+member of the Audit Committee who has exercised any such delegation must report any such
+pre-approval decision to the Audit Committee at its next scheduled meeting. The Audit Committee
+will not delegate the pre-approval of services to be performed by the independent audit to
+management.
+
+Our Audit Committee requires that our independent auditor, in conjunction with our Chief
+Financial Officer, be responsible for seeking pre-approval for providing services to us and that
+any request for pre-approval must inform the Audit Committee about each service to be provided and
+must provide detail as to the particular service to be provided.
+
+All of the services provided by our principal accounting firm described above under the
+captions  Audit-Related Fees  and  Tax Fees  were approved by our Audit Committee.
+
+44
+
+Table of Contents   
+
+PART IV 
+
+ITEM 15. EXHIBIT AND FINANCIAL STATEMENT SCHEDULES.  
+
+(a) Financial Statements and Financial Statement Schedules 
+
+(1) 
+       
+     Financial Statements are listed in the Index to Consolidated Financial
+Statements on page F-1 of this report. 
+
+(2) 
+       
+     Financial Statement Schedules: Schedule II, Valuation and Qualifying Accounts
+is set forth on page S-2 of this report. 
+
+(b) Exhibits 
+
+45
+
+Table of Contents   
+
+46
+
+Table of Contents   
+
+SIGNATURES 
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934,
+the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto
+duly authorized.
+
+VODAVI TECHNOLOGY, INC. 
+
+Date:  March 29, 2006  
+     By:   
+     /s/ Gregory K. Roeper
+
+Gregory K. Roeper  
+
+President and Chief Executive Officer  
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been
+signed below by the following persons on behalf of the registrant and in the capacity and on the
+dates indicated.
+
+Signature  
+       
+      Title  
+       
+      Date  
+
+/s/ William J. Hinz
+
+William J. Hinz
+
+Chairman of the Board 
+
+March 29, 2006 
+
+/s/ Gregory K. Roeper
+
+Gregory K. Roeper
+
+President, Chief Executive Officer, and
+Director
+(Principal Executive Officer)
+
+March 29, 2006 
+
+/s/ David A. Husband
+
+David A. Husband
+
+Vice President   Finance, Chief Financial Officer,
+Secretary, and Treasurer
+(Principal Financial and Accounting Officer)
+
+March 29, 2006 
+
+/s/ Jong Dae An
+
+Jong Dae An
+
+Director 
+
+March 29, 2006 
+
+/s/ Donald A. Bliss
+
+Donald A. Bliss
+
+Director 
+
+March 29, 2006 
+
+/s/ Jack A. Henry
+
+Jack A. Henry
+
+Director 
+
+March 29, 2006 
+
+/s/ Emmett E. Mitchell
+
+Emmett E. Mitchell
+
+Director 
+
+March 29, 2006 
+
+/s/ Paul D. Sonkin
+
+Director
+
+March 29, 2006 
+
+Paul D. Sonkin
+
+47
+
+Table of Contents   
+
+VODAVI TECHNOLOGY, INC. AND SUBSIDIARIES 
+
+Index to Consolidated Financial Statements and Schedule 
+
+F-1
+
+Table of Contents   
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+To the Stockholders of
+
+VODAVI TECHNOLOGY, INC. 
+
+We have audited the accompanying consolidated balance sheets of Vodavi Technology, Inc. and
+subsidiaries as of December 31, 2005 and 2004, and the related consolidated statements of
+operations, changes in stockholders  equity and cash flows for each of the three years in the
+period ended December 31, 2005. These consolidated financial statements are the responsibility of
+the Company s management. Our responsibility is to express an opinion on these consolidated
+financial statements based on our audits.
+
+We conducted our audits in accordance with the standards of the Public Company Accounting Oversight
+Board (United States). Those standards require that we plan and perform the audits to obtain
+reasonable assurance about whether the financial statements are free of material misstatement. An
+audit includes examining, on a test basis, evidence supporting the amounts and disclosures in the
+financial statements. An audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall financial statement
+presentation. We believe that our audits provide a reasonable basis for our opinion.
+
+In our opinion, the consolidated financial statements referred to above present fairly, in all
+material respects, the financial position of Vodavi Technology, Inc. and subsidiaries as of
+December 31, 2005 and 2004, and the results of their operations and their cash flows for each of
+the three years in the period ended December 31, 2005 in conformity with U.S. generally accepted
+accounting principles.
+
+/s/ Mayer Hoffman McCann P.C. 
+MAYER HOFFMAN MCCANN P.C. 
+Phoenix, Arizona 
+February 9, 2006
+
+F-2
+
+Table of Contents   
+
+VODAVI TECHNOLOGY, INC. AND SUBSIDIARIES 
+
+Consolidated Balance Sheets
+
+In thousands except share and per share amounts 
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+F-3
+
+Table of Contents   
+
+VODAVI TECHNOLOGY, INC. AND SUBSIDIARIES 
+
+Consolidated Statements of Operations
+
+In thousands except per share amounts 
+
+The accompanying notes are an integral part of these consolidated financial statements. 
+
+F-4
+
+Table of Contents   
+
+VODAVI TECHNOLOGY, INC. AND SUBSIDIARIES 
+
+Consolidated Statements of Changes in Stockholders  Equity
+
+In thousands except share amounts 
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+F-5
+
+Table of Contents   
+
+VODAVI TECHNOLOGY, INC. AND SUBSIDIARIES 
+
+Consolidated Statements of Cash Flows
+
+In thousands 
+
+The accompanying notes are an integral part of these consolidated financial statements.
+
+F-6
+
+Table of Contents   
+
+VODAVI TECHNOLOGY, INC. AND SUBSIDIARIES 
+
+Notes to Consolidated Financial Statements
+
+December 31, 2005, 2004 and 2003
+
+1.  Nature of Business and Summary of Significant Accounting Policies 
+
+a.  Nature of Business 
+
+Vodavi Technology, Inc., a Delaware corporation, and subsidiaries (the Company), designs,
+develops, markets, and supports a broad range of business telecommunications solutions,
+including digital and IP-based telephone systems, voice processing systems, and
+computer-telephony products for a wide variety of business applications. The Company
+markets its products primarily in the United States through a distribution network
+consisting of wholesale distributors, direct dealers, and its own sales personnel.
+
+The Company currently obtains most of its products from manufacturers located in South Korea
+and Thailand. While the Company believes that production of its product lines overseas
+enhances its profitability, these arrangements expose the Company to certain economic and
+political risks. The Company does not own most of the equipment, tools, and molds used in
+the manufacturing process and has only limited control over the manufacturing of its
+products. A majority of these purchases are made from a stockholder (see Note 6).
+
+b.  Concentrations 
+
+Sales to the Company s largest distributor, Graybar Electric Company, Inc., accounted for
+23% of total revenue in 2005 and 26% of total revenue in 2004 and 27% of total revenue in
+2003. During the same periods, sales to the Company s second largest distributor accounted
+for an additional 21%, 17%, and 14% of total revenue, respectively. Accounts receivable
+from the two largest distributors comprise 57% of total accounts receivable as of December
+31, 2005 and 2004. No other customers accounted for more than 10% of the Company s revenue
+or receivables.
+
+Other financial instruments that potentially subject the Company to concentrations of credit
+risk consist principally of cash deposits in bank accounts. Deposits in excess of amounts
+insured by the Federal Deposit Insurance Corporation (FDIC) of $100,000 are exposed to loss
+in the event of nonperformance by the institution. At times during the year, the Company
+has had cash deposits in excess of the FDIC insurance coverage.
+
+c.  Principles of Consolidation 
+
+The consolidated financial statements include the accounts of Vodavi Technology, Inc. and
+its wholly owned subsidiaries Vodavi Communications Systems, Inc. and Vodavi Direct, Inc.
+All material intercompany transactions have been eliminated in consolidation.
+
+d.  Use of Estimates 
+
+The preparation of financial statements in conformity with accounting principles generally
+accepted in the United States requires the Company s management to make estimates and
+assumptions that affect the reported amounts of assets and liabilities and disclosure of
+contingent assets and liabilities at the date of the financial statements, and the reported
+amounts of revenue and expenses during the reporting period. Actual results could differ
+from those estimates.
+
+Estimates are used in accounting for, among other things, customer incentive programs,
+allowances for doubtful accounts and sales returns, price protection, reserves for excess
+inventory and obsolescence, asset impairments, and contingencies and litigation. Estimates
+and assumptions are reviewed periodically and
+
+F-7
+
+Table of Contents   
+
+the effects of revisions are reflected in the consolidated financial statements in the
+period they are determined to be necessary.
+
+e.  Inventories 
+
+Inventories consist of finished products purchased from a stockholder and other third-party
+manufacturers and are stated at the lower of cost, including in-bound shipping and handling
+costs, (first-in, first-out method) or market. The Company s assessment of market value is
+determined by, among other things, historical and forecasted sales activity, the condition
+of specific inventory items, and competitive pricing considerations. When the assessed
+market value is less than the purchased cost, provision is made in the financial statements
+to reduce the carrying amount of the respective inventory items to market value.
+
+The Company generally takes title to inventory upon shipment from the manufacturer for
+international purchases and upon receipt for domestic purchases.
+
+f.  Property and Equipment 
+
+Property and equipment are stated at cost, less accumulated depreciation. Depreciation is
+computed using the straight-line method over the estimated useful lives of the respective
+assets. Leasehold improvements are amortized on the straight-line method over the shorter
+of the estimated useful lives of the assets or the term of the lease. When property or
+equipment is sold or otherwise disposed of, the cost and related accumulated depreciation
+are removed from the accounts and any resulting gain or loss is reflected in operations for
+the period.
+
+Property and equipment and the related useful lives consist of the following as of December
+31, 2005 and 2004, respectively.
+
+Depreciation expense was $464,000, $471,000, and $448,000 for the years ended December 31,
+2005, 2004, and 2003, respectively.
+
+g.  Goodwill 
+
+Goodwill represents the cost in excess of the estimated fair values of assets and
+liabilities acquired. Under Statement of Financial Accounting Standards (SFAS) No. 142,
+ Goodwill and Other Intangible Assets,  goodwill is subject to at least an annual assessment
+for impairment by applying a fair value-based test. The Company has one reporting unit for
+which goodwill was tested for impairment in accordance with the provisions of SFAS 142 as of
+December 31, 2005. The Company used a combination of valuation techniques, which included
+consideration of market-based approaches and an income approach, in determining the fair
+value of the Company s applicable reporting unit in the annual impairment test of goodwill.
+
+The initial impairment test indicated that the carrying value of the Company s reporting
+unit exceeded the corresponding fair value. The implied fair value of goodwill in this
+reporting unit was then determined through the allocation of the fair value to the
+underlying assets and liabilities. As of December 31, 2005,
+
+F-8
+
+Table of Contents   
+
+the carrying value of the goodwill in this reporting unit exceeded its implied fair value by
+approximately $725,000. As a result, the corresponding write-down of goodwill was recorded
+in 2005 and reported as a component of operations in the accompanying consolidated
+statements of operations for the year ended December 31, 2005.
+
+h.  Other Long-Term Assets 
+
+Other long-term assets consist principally of bank commitment fees and the cash surrender
+value of key man life insurance. Amortization of bank commitment fees is recognized as a
+component of interest expense and totaled $5,000, $21,000, and $19,000 in 2005, 2004, and
+2003, respectively.
+
+i.  Impairment of Long-Lived Assets 
+
+Long-lived assets, excluding goodwill and other intangible assets with indefinite lives, are
+reviewed for impairment whenever events or circumstances indicate that the carrying amount
+of the assets may not be recoverable. If events or changes in circumstances indicate that
+the carrying amount of the assets may not be recoverable, the Company compares the carrying
+value of the assets to the sum of the expected future cash flows (undiscounted and without
+interest charges) to be generated by the assets and their ultimate disposition. If the sum
+of the undiscounted cash flows is less then the carrying value, the impairment to be
+recognized is measured by the amount by which the carrying amount of the assets exceeds the
+fair value of the assets. Assets to be disposed are valued at the lower of carrying value
+or fair value, less estimated costs to sell.
+
+j.  Recent Accounting Pronouncements 
+
+In December 2004, the FASB issued SFAS No. 123 (revised 2004),  Share-Based Payment  (SFAS
+No. 123R). This Statement replaces SFAS No. 123 and supersedes APB Opinion No. 25. SFAS
+No. 123R requires companies to recognize the grant date fair value of stock options and
+other equity-based compensation issued to employees in the income statement. The statement,
+as amended by the Securities and Exchange Commission, becomes effective for annual periods
+beginning after June 15, 2005. The adoption of SFAS No. 123R will not have any impact on
+the Company s consolidated financial statements unless and until share-based payments are
+issued to employees after the effective date of this statement. See Note 1 (n).
+
+In May 2005, the FASB issued SFAS No. 154,  Accounting Changes and Error Corrections   A
+Replacement of APB Opinion No. 20 and FASB Statement No. 3.  SFAS No. 154 requires
+retrospective application to prior periods  financial statements for changes in accounting
+principle, unless it is impracticable to determine either the period-specific effects or the
+cumulative effect of the change. SFAS No. 154 also requires that retrospective application
+of a change in accounting principle be limited to the direct effects of the change. Indirect
+effects of a change in accounting principle, such as a change in non-discretionary
+profit-sharing payments resulting from an accounting change, should be recognized in the
+period of the accounting change. SFAS No. 154 also requires that a change in depreciation,
+amortization, or depletion method for long-lived non-financial assets be accounted for as a
+change in accounting estimate affected by a change in accounting principle. SFAS No. 154 is
+effective for accounting changes and corrections of errors made in fiscal years beginning
+after December 15, 2005. Early adoption is permitted for accounting changes and corrections
+of errors made in fiscal years beginning after the date this Statement is issued. The
+Company is required to adopt the provisions of SFAS No. 154, as applicable, beginning in
+fiscal 2006.
+
+k.  Income Taxes 
+
+Income taxes are accounted for under the asset and liability method. Deferred tax assets
+and liabilities are recognized for the future tax consequences attributable to differences
+between the financial statement carrying amounts of existing assets and liabilities and
+their respective tax basis, and operating loss and tax
+
+F-9
+
+Table of Contents   
+
+credit carryforwards. Deferred tax assets and liabilities are measured using enacted tax
+rates expected to apply to taxable income in the years in which those temporary differences
+are expected to be recovered or settled. The effect on deferred tax assets and liabilities
+of a change in tax rates is recognized in income in the period that includes the enactment
+date. A valuation allowance is recorded against deferred tax assets if it is unlikely that
+some or all of the deferred tax assets will be realized.
+
+l.  Revenue Recognition 
+
+The Company recognizes revenue when persuasive evidence of an arrangement exists, delivery
+has occurred, the fee is fixed and determinable and collectibility is probable. Generally,
+all of these conditions are met at the time the Company ships products to customers.
+Revenue includes shipping and handling charges and is recorded net of discounts, allowances
+for sales returns, and volume rebates, many of which are based on estimates. See Note 1(d).
+
+m.  Engineering and Product Development 
+
+All costs associated with internal engineering and product development activities are
+expensed as incurred.
+
+n.  Stock Option Plans 
+
+SFAS No. 123,  Accounting for Stock-Based Compensation , encourages entities to recognize as
+expense over the vesting period the fair value of all stock-based awards on the date of
+grant. Alternatively, SFAS No. 123 allows entities to continue to apply the provisions of
+APB Opinion No. 25,  Accounting for Stock Issued to Employees , and provide pro forma
+earnings per share disclosures for employee stock option grants as if the fair-value-based
+method as defined in SFAS No. 123 had been applied. The Company applies the intrinsic value
+method under APB No. 25 and provides the pro forma disclosure provisions of SFAS No. 123.
+
+On October 20, 2005, the Company s Board of Directors approved the acceleration of vesting
+of 69,375 outstanding unvested options awarded to officers and employees of the Company. Of
+the 69,375 stock options for which vesting was accelerated, 11,250 were  out of the money 
+on the modification date having an exercise price of $5.86. The remaining 58,125 stock
+options have exercise prices ranging from $1.40 to $1.57 and have original vesting periods
+ranging from February 2006 to February 2007. Based upon the October 20, 2005 closing price
+of the Company s common stock of $4.99 per share, the potential compensation costs
+associated with the acceleration of vesting would be approximately $200,000. Pursuant to
+FASB Interpretation No. 44  Accounting for Certain Transactions Involving Stock
+Compensation , the Company has determined that no compensation cost should be recognized in
+the current period financial statements as the underlying officers and employees are
+expected to provide services to the Company through the original vesting dates. Should one
+or more of the underlying officers or employees cease providing services to the Company
+prior to the original vesting dates, compensation costs will be recognized, on a pro rata
+basis, in the current period financial statements.
+
+If the Company had accounted for its stock-based compensation plans using a fair value based
+method of accounting as prescribed in SFAS No. 123, the Company s net income and earnings
+per share would have been reported as follows:
+
+F-10
+
+Table of Contents   
+
+(1)  
+       
+     The fair value of options granted was determined by using the Black-Scholes
+option pricing model using the following assumptions: 
+
+o.  Earnings Per Share 
+
+In accordance with SFAS No. 128,  Earnings Per Share , the Company displays basic and
+diluted earnings per share (EPS). Basic EPS is determined by dividing net income by the
+weighted average number of common shares outstanding. The basic weighted average number of
+common shares outstanding excludes all dilutive securities. Diluted EPS is determined by
+dividing net income by the weighted average number of common shares and dilutive securities
+outstanding.
+
+A reconciliation of the numerator and denominator (weighted average number of shares
+outstanding) of the basic and diluted EPS computation is as follows:
+
+(1) 
+       
+     Dilutive securities are calculated using the treasury stock method and the average market price
+during the period. Options on 129,000, 87,000 and 243,000 shares had an exercise price greater
+than the average market price during the years ended December 31, 2005, 2004, and 2003,
+respectively, and therefore did not enter into the earnings per share calculation as their effect
+would have been anti-dilutive. 
+
+F-11
+
+Table of Contents   
+
+p.  Fair Value of Financial Instruments 
+
+The carrying values of cash, accounts receivable, accounts payable, trade accounts payable
+to stockholder, and accrued liabilities approximate their respective fair values due to the
+short-term maturities of these instruments. As the revolving credit facility and term loan
+bear a variable interest rate based on the prime rate, the carrying value approximates its
+fair value.
+
+q.  Segments 
+
+The Company operates in one reportable segment, the distribution of business
+telecommunications equipment. Accordingly, the Company has only presented financial
+information for its one reportable segment.
+
+2.  Revolving Credit Facility 
+
+In April 2003, the Company entered into a credit agreement with Comerica Bank ( Comerica ),
+which established a $5.0 million revolving line of credit facility and a $1.0 million term
+loan (the  Credit Facility ). Advances under the Credit Facility are based upon eligible
+accounts receivable and inventory of the Company s wholly owned subsidiary Vodavi
+Communications Systems, Inc. and are secured by substantially all of the Company s assets.
+The Credit Facility contains covenants that are customary for similar credit facilities and
+also prohibits the Company s operating subsidiaries from paying dividends to the Company
+without the consent of Comerica. As of December 31, 2005 and 2004, the Company had no
+outstanding borrowings on its line of credit and $5.0 million available for future advances.
+
+The $5.0 million revolving line of credit bears interest at Comerica s prime rate (7.25% as
+of December 31, 2005) and requires monthly payments of interest only with all unpaid
+principal and accrued interest due at its expiration in April 2005. In March 2005, the
+Company entered into a modification agreement with Comerica extending the expiration of the
+credit agreement to April 2006. The company intends to either renew or replace its existing
+credit facility with a similar credit facility in April 2006.
+
+The $1.0 million term loan was available to the Company only for the purpose of acquiring
+its common stock. Borrowings on the term loan bore interest at Comerica s prime rate plus
+0.5%. The term loan was repaid in 2004.
+
+3.  Commitments and Contingencies 
+
+a.  Legal Matters 
+
+From time to time the Company is subject to certain asserted and unasserted claims
+encountered in the normal course of business. It is the Company s belief that the resolution
+of these matters will not have a material adverse effect on our financial position or
+results of operations; however, we cannot provide assurance that damages that result in a
+material adverse effect on our financial position or results of operations will not be
+imposed in these matters.
+
+b.  Operating Leases 
+
+The Company has entered into long-term operating lease agreements for all of its office and
+warehouse facilities and certain vehicles. Minimum payments under the Company s lease
+agreements are as follows (in thousands):
+
+F-12
+
+Table of Contents   
+
+Rent expense totaled approximately $1.0 million during 2005 and $1.1 million during each of
+2004 and 2003.
+
+c.  401(k) Profit Sharing Plan 
+
+The Company sponsors a profit sharing plan (the 401(k) Plan) pursuant to Section 401(k) of
+the Internal Revenue Code. The 401(k) Plan covers substantially all full-time employees who
+meet the eligibility requirements and provides for a discretionary profit sharing
+contribution by the Company and an employee elective contribution with a discretionary
+Company matching provision. The Company expensed discretionary contributions pursuant to the
+401(k) Plan in the amounts of $81,000, $72,000 and $58,000 for the years ended December 31,
+2005, 2004, and 2003, respectively.
+
+4.  Stockholders  Equity 
+
+a.  Treasury Stock 
+
+The Company has a stock repurchase program under which the Company may purchase up to $1.0
+million of its common stock through March 31, 2006. As of December 31, 2005, the Company
+had purchased 76,741 shares of common stock for $388,000. All purchases were made at the
+market price on the date of purchase.
+
+b.  Vodavi Technology, Inc. 1994 Stock Option Plan (the 1994 Plan) 
+
+The 1994 Plan, as amended, provided for the granting of (a) options to purchase shares of
+the Company s common stock, (b) stock appreciation rights, (c) shares of the Company s
+common stock, or (d) other cash awards related to the value of the Company s common stock.
+Under the 1994 Plan, options and other awards were issued to key personnel of the Company.
+The options issued were incentive stock options and nonqualified stock options. The 1994
+Plan also included an automatic program under which nonqualified options were automatically
+granted to the Company s non-employee directors. The 1994 Plan expired in April 2004. All
+outstanding options granted under the 1994 Plan prior to its expiration shall remain
+outstanding until the expiration date of the individual option grants and all remaining
+options available for grant at the expiration date were cancelled.
+
+c.  Vodavi Technology, Inc. 2003 Incentive Compensation Plan (the 2003
+Plan) 
+
+The 2003 Plan provides for the granting of awards in the form of incentive stock options,
+nonqualified stock options, stock appreciation rights, shares of restricted common stock,
+bonus stock in lieu of obligations, or other stock-based awards to employees, directors, and
+independent contractors who provide valuable services to our Company. The 2003 Plan
+authorizes the issuance of 600,000 shares of stock, and no more than 500,000 shares may be
+issued pursuant to incentive stock options. The maximum number of shares of common stock
+covered by awards granted to any individual in any year may not exceed 200,000 shares. If
+any award previously granted under the 2003 Plan is forfeited, terminated, canceled,
+surrendered,
+does not vest, or expires without having been exercised in full, stock not issued under such
+award will again be available for grant for purposes of the 2003 Plan. If any change is
+made in the stock subject to the
+
+F - 13
+
+Table of Contents   
+
+2003 Plan, or subject to any award granted under the 2003
+Plan (through consolidation, spin-off, recapitalization, stock dividend, split-up,
+combination of shares, exchange of shares, or otherwise), the 2003 Plan provides that
+appropriate adjustments will be made as to the aggregate number and type of shares available
+for awards, the maximum number and type of shares that may be subject to awards to any
+individual, the number and type of shares covered by each outstanding award, the exercise
+price, grant price, or purchase price relating to any award, and any other aspect of any
+award that the Board of Directors or Committee determines appropriate.
+
+To the extent that granted options are incentive stock options, the terms and conditions of
+those options must be consistent with the qualification requirements set forth in Section
+422 of the Internal Revenue Code. The expiration date, maximum number of shares
+purchasable, and the other provisions of the options are established at the time of grant.
+Options may be granted for terms of up to ten years and become exercisable in whole or in
+one or more installments at such time as may be determined by the plan administrator, but
+the exercise price may not be less than 100% (110% if the option is granted to a stockholder
+who at the time the option is granted owns stock representing more than ten percent of the
+total combined voting power of all classes of the Company s stock) of the fair market value
+of the common stock at the time of the grant.
+
+The following table sets forth the activity under the 1994 Plan and the 2003 Plan for each
+of the years presented:
+
+F - 14
+
+Table of Contents   
+
+5.  Income Taxes 
+
+The Company files a consolidated federal income tax return. The income tax provision
+(benefit) is comprised of the following:
+
+The Company provides for deferred income taxes resulting from temporary differences between
+amounts reported for financial accounting and income tax purposes. The components of
+deferred income taxes at December 31, 2005 and 2004, were as follows:
+
+A reconciliation of the federal income tax rate to the Company s effective income tax rate
+is as follows:
+
+F - 15
+
+Table of Contents   
+
+6.  Related Party Transactions 
+
+LG-Nortel Co. Ltd. (LGN), the Company s principal supplier, owned approximately 23% of the
+Company s outstanding common stock at December 31, 2005 and has a designated member on the
+Company s board of directors. The Company purchased approximately $21.2 million, $22.2
+million, and $21.1 million of key telephone systems, commercial grade telephones, and voice
+mail products from LGN and an affiliate of LGN during 2005, 2004, and 2003, respectively,
+constituting approximately 84%, 88%, and 87% of our total purchases, respectively. The
+Company owed LGN and its affiliate a total of $4,097,000 and $3,990,000 for product
+purchases at December 31, 2005 and 2004, respectively. The Company s payment terms with LGN
+and its affiliate are 60 days after shipment, except for shipments of single line
+telephones, which are 30 days after shipment. Current balances are non-interest bearing.
+
+The Company conducts joint development activities with LGN for the design and development of
+hardware incorporated into some of the Company s existing and planned telephone systems and
+commercial grade telephones. Generally, LGN contributes the ongoing research and development
+costs for the product hardware and produces the finished goods developed under the alliance,
+and the Company obtains the right to sell such products throughout North America and the
+Caribbean.
+
+7.  Supplemental Cash Flow Information 
+
+Cash paid for interest and income taxes for the years ended December 31, 2005, 2004, and
+2003 was as follows:
+
+There were no non-cash activities during the years presented.
+
+F - 16
+
+Table of Contents   
+
+8.  Summary of Quarterly Results (unaudited) :  (in thousands, except per share amounts) 
+
+F - 17
+
+Table of Contents   
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM ON SCHEDULE 
+
+To the Stockholders
+
+VODAVI TECHNOLOGY, INC. 
+
+We have audited the consolidated financial statements of Vodavi Technology, Inc. and subsidiaries
+as of December 31, 2005 and 2004 and for each of the three years in the period ended December 31,
+2005 and have issued our report thereon dated February 9, 2006 (included herein on page F-2 of this
+Form 10-K). Our audit was conducted for the purpose of forming an opinion on the basic
+consolidated financial statements taken as a whole. The information included in the accompanying
+Schedule II   Valuation and Qualifying Accounts on page S-3 is presented for purposes of complying
+with the Securities and Exchange Commission s rules and is not a required part of the basic
+consolidated financial statements. Such information for the years ended December 31, 2005, 2004 and
+2003 has been subjected to the auditing procedures applied in the audits of the basic consolidated
+financial statements and, in our opinion, is fairly stated in all material respects in relation to
+the basic consolidated financial statements taken as a whole.
+
+/s/ Mayer Hoffman McCann P.C. 
+MAYER HOFFMAN MCCANN P.C. 
+Phoenix, Arizona 
+February 9, 2006
+
+S - 1
+
+Table of Contents   
+
+SCHEDULE II 
+
+Valuation and Qualifying Accounts 
+
+For the years ended December 31, 2005, 2004, and 2003   
+  In thousands  
+
+S - 2
+
+Table of Contents   
+
+EXHIBIT
+INDEX 
+
+<EX-21>
+ 2
+ p72082exv21.htm
+ EXHIBIT 21
+
+exv21 
+
+EXHIBIT 21  
+
+LIST OF SUBSIDIARIES 
+
+Name  
+       
+      State of Incorporation  
+
+Vodavi Communications Systems, Inc.
+
+Arizona 
+
+Vodavi Direct, Inc.(1)
+
+Arizona 
+
+(1) 
+       
+     Vodavi Direct, Inc. is a wholly owned subsidiary of Vodavi Communications Systems, Inc. 
+
+</EX-21>
+
+<EX-23.1>
+ 3
+ p72082exv23w1.htm
+ EXHIBIT 23.1
+
+exv23w1 
+
+EXHIBIT 23.1  
+
+CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+As independent registered public accountants, we hereby consent to the incorporation by reference
+in Registration Statement Nos. 333-08437, 333-98819, and 333-117787 on Form S-8 of our report
+dated February 9, 2006, relating to the consolidated financial statements of Vodavi Technology,
+Inc. and subsidiaries as of December 31, 2005 and 2004 and for each of the three years in the
+period ended December 2005 included in this Annual Report on Form 10-K for the year ended December
+31, 2004. It should be noted that we have not audited any financial statements of the company
+subsequent to December 31, 2005, or performed any audit procedures subsequent to the date of our
+report.
+
+/s/ Mayer Hoffman McCann P.C. 
+MAYER HOFFMAN MCCANN P.C. 
+Phoenix, Arizona 
+March 29, 2006
+
+</EX-23.1>
+
+<EX-31.1>
+ 4
+ p72082exv31w1.htm
+ EXHIBIT 31.1
+
+exv31w1 
+
+Exhibit 31.1  
+
+CERTIFICATION 
+
+I, Gregory K. Roeper, certify that:
+
+1. I have reviewed this Annual Report on Form 10-K of Vodavi Technology, Inc.;
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact
+or omit to state a material fact necessary to make the statements made, in light of the
+circumstances under which such statements were made, not misleading with respect to the period
+covered by this report;
+
+3. Based on my knowledge, the financial statements, and other financial information included
+in this report, fairly present in all material respects the financial condition, results of
+operations, and cash flows of the registrant as of, and for, the periods presented in this report;
+
+4. The registrant s other certifying officer(s) and I are responsible for establishing and
+maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and
+15d-15(e)) for the registrant and have:
+
+a) Designed such disclosure controls and procedures, or caused such disclosure controls
+and procedures to be designed under our supervision, to ensure that material information
+relating to the registrant, including its consolidated subsidiaries, is made known to us by
+others within those entities, particularly during the period in which this report is being
+prepared;
+
+b) Evaluated the effectiveness of the registrant s disclosure controls and procedures
+and presented in this report our conclusions about the effectiveness of the disclosure
+controls and procedures, as of the end of the period covered by this report based on such
+evaluation; and
+
+c) Disclosed in this report any change in the registrant s internal control over
+financial reporting that occurred during the registrant s most recent fiscal quarter (the
+registrant s fourth fiscal quarter in the case of an annual report) that has materially
+affected, or is reasonably likely to materially affect, the registrant s internal control
+over financial reporting; and
+
+5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent
+evaluation of internal control over financial reporting, to the registrant s auditors and the audit
+committee of the registrant s board of directors (or persons performing the equivalent functions):
+
+a) All significant deficiencies and material weaknesses in the design or operation of
+internal control over financial reporting which are reasonably likely to adversely affect
+the registrant s ability to record, process, summarize, and report financial information ;
+and
+
+b) Any fraud, whether or not material, that involves management or other employees who
+have a significant role in the registrant s internal control over financial reporting.
+
+Date:     March 29, 2006
+
+/s/ Gregory K. Roeper
+
+Gregory K. Roeper 
+
+Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 5
+ p72082exv31w2.htm
+ EXHIBIT 31.2
+
+exv31w2 
+
+Exhibit 31.2  
+
+CERTIFICATION 
+
+I, David A. Husband, certify that:
+
+1. I have reviewed this Annual Report on Form 10-K of Vodavi Technology, Inc.;
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact
+or omit to state a material fact necessary to make the statements made, in light of the
+circumstances under which such statements were made, not misleading with respect to the period
+covered by this report;
+
+3. Based on my knowledge, the financial statements, and other financial information included
+in this report, fairly present in all material respects the financial condition, results of
+operations, and cash flows of the registrant as of, and for, the periods presented in this report;
+
+4. The registrant s other certifying officer(s) and I are responsible for establishing and
+maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and
+15d-15(e)) for the registrant and have:
+
+a) Designed such disclosure controls and procedures, or caused such disclosure controls
+and procedures to be designed under our supervision, to ensure that material information
+relating to the registrant, including its consolidated subsidiaries, is made known to us by
+others within those entities, particularly during the period in which this report is being
+prepared;
+
+b) Evaluated the effectiveness of the registrant s disclosure controls and procedures
+and presented in this report our conclusions about the effectiveness of the disclosure
+controls and procedures, as of the end of the period covered by this report based on such
+evaluation; and
+
+c) Disclosed in this report any change in the registrant s internal control over
+financial reporting that occurred during the registrant s most recent fiscal quarter (the
+registrant s fourth fiscal quarter in the case of an annual report) that has materially
+affected, or is reasonably likely to materially affect, the registrant s internal control
+over financial reporting; and;
+
+5. The registrant s other certifying officer(s) and I have disclosed, based on our most recent
+evaluation of internal control over financial reporting, to the registrant s auditors and the audit
+committee of the registrant s board of directors (or persons performing the equivalent functions):
+
+a) All significant deficiencies and material weaknesses in the design or operation of
+internal control which are reasonably likely to adversely affect the registrant s ability to
+record, process, summarize, and report financial information ; and
+
+b) Any fraud, whether or not material, that involves management or other employees who
+have a significant role in the registrant s internal control over financial reporting.
+
+Date:     March 29, 2006
+
+/s/ David A. Husband
+
+David A. Husband 
+
+Chief Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 6
+ p72082exv32w1.htm
+ EXHIBIT 32.1
+
+exv32w1 
+
+Exhibit 32.1  
+
+CERTIFICATION PURSUANT TO 
+18 U.S.C. SECTION 1350, 
+AS ADOPTED PURSUANT TO 
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Annual Report on Form 10-K of Vodavi Technology, Inc. (the  Company )
+for the year ended December 31, 2005, as filed with the Securities and Exchange Commission on the
+date hereof (the  Report ), I, Gregory K. Roeper, Chief Executive Officer of the Company, certify,
+pursuant to 18 U.S.C.   1350, as adopted pursuant to   906 of the Sarbanes-Oxley Act of 2002, that:
+
+(2) 
+       
+     The information contained in the Report fairly presents, in all material respects, the
+financial condition and results of operations of the Company. 
+
+/s/ Gregory K. Roeper
+
+Gregory K. Roeper
+
+Chief Executive Officer
+
+March 29, 2006
+
+</EX-32.1>
+
+<EX-32.2>
+ 7
+ p72082exv32w2.htm
+ EXHIBIT 32.2
+
+exv32w2 
+
+Exhibit 32.2  
+
+CERTIFICATION PURSUANT TO 
+18 U.S.C. SECTION 1350, 
+AS ADOPTED PURSUANT TO 
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Annual Report on Form 10-K of Vodavi Technology, Inc. (the  Company )
+for the year ended December 31, 2005, as filed with the Securities and Exchange Commission on the
+date hereof (the  Report ), I, David A. Husband, Chief Financial Officer of the Company, certify,
+to my best knowledge and belief, pursuant to 18 U.S.C.   1350, as adopted pursuant to   906 of the
+Sarbanes-Oxley Act of 2002, that:
+
+(2) 
+       
+     The information contained in the Report fairly presents, in all material respects, the
+financial condition and results of operations of the Company. 
+
+</EX-32.2>
+

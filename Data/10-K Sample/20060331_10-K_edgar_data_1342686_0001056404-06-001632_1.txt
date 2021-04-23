@@ -1,0 +1,908 @@
+<Header>
+<FileStats>
+    <FileName>20060331_10-K_edgar_data_1342686_0001056404-06-001632_1.txt</FileName>
+    <GrossFileSize>36472</GrossFileSize>
+    <NetFileSize>31822</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>262</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>1</N_Tables>
+    <N_Exhibits>0</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001056404-06-001632.hdr.sgml : 20060331
+<ACCEPTANCE-DATETIME>20060331101305
+ACCESSION NUMBER:		0001056404-06-001632
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20051231
+FILED AS OF DATE:		20060331
+DATE AS OF CHANGE:		20060331
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			GSAA Home Equity 2005-12
+		CENTRAL INDEX KEY:			0001342686
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-127620-04
+		FILM NUMBER:		06725724
+
+	BUSINESS ADDRESS:	
+		STREET 1:		85 BROAD STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10004
+
+	MAIL ADDRESS:	
+		STREET 1:		85 BROAD STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10004
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ RyLnRnBw7HVLdE1hia6845tFrMnKdOIPPJq2JVyTcqawSUOL44sSd2l4DwEgd/J8
+ Uimr/bwly7/QbD3dWZyhdA==
+
+ 0001056404-06-001632.txt : 20060331
+
+10-K
+ 1
+ gsa05012_10k-2005.txt
+
+UNITED STATES
+                             SECURITIES AND EXCHANGE COMMISSION
+                                   WASHINGTON, D.C. 20549
+
+FORM 10-K
+
+(Mark one)
+
+  /X/ ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+      EXCHANGE ACT OF 1934
+      For the fiscal year ended December 31, 2005
+
+      OR
+
+/ / TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+      EXCHANGE ACT OF 1934
+
+Commission File Number: 333-127620-04
+
+GS Mortgage Securities Corp.
+        (as Depositor under the Master Servicing and Trust Agreement,
+        dated as of October 1, 2005, providing for the issuance of
+        GSAA Home Equity Trust 2005-12, Asset-Backed Certificates,
+        Series 2005-12)
+
+     (Exact name of registrant as specified in its charter)
+
+Delaware                                          13-3387389
+   (State or other jurisdiction of                   (I.R.S Employer
+   incorporation or organization)                    Identification No.)
+
+85 Broad Street
+   New York, NY                               10004
+  (Address of principal executive offices)    (Zip Code)
+
+Registrant's telephone number, including area code: (212) 902-1000
+
+Securities registered pursuant to Section 12(b) of the Act:
+
+        NONE.
+
+Securities registered pursuant to Section 12(g) of the Act:
+
+        NONE.
+
+Indicate by check mark if the registrant is not required to file reports
+  pursuant to Section 13 or Section 15(d) of the Act.
+
+        Yes  ___     No  X
+
+Indicate by check mark whether the registrant (1) has filed all reports
+  required to be filed by Section 13 or 15(d) of the Securities Exchange
+  Act of 1934 during the preceding 12 months (or for such shorter period
+  that the registrant was required to file such reports), and (2) has been
+  subject to such filing requirements for the past 90 days.
+
+        Yes   X     No ___
+
+Indicate by check mark if disclosure of delinquent filers pursuant to
+  Item 405 of Regulation S-K ( 229.405 of this chapter) is not contained
+  herein, and will not be contained, to the best of registrant's knowledge,
+  in definitive proxy or information statements incorporated by reference
+  in Part III of this Form 10-K or any amendment to this Form 10-K.
+
+             X
+
+Indicate by check mark whether the registrant is a large accelerated filer,
+  an accelerated filer, or a non-accelerated filer. See Definition of
+  "accelerated filer and large accelerated filer" in Rule 12b-2 of the
+  Exchange Act. (Check One):
+
+Large Accelerated Filer ___  Accelerated Filer ___  Non-Accelerated Filer X
+
+Indicate by check mark whether the registrant is a shell company (as
+  defined in Rule 12b-2 of the Act).
+
+        Yes  ___     No  X
+
+State the aggregate market value of the voting and non-voting common
+  equity held by non-affiliates computed by reference to the price at which
+  the common equity was last sold, or the average bid and asked price of
+  such common equity, as of the last business day of the registrant's most
+  recently completed second fiscal quarter.
+
+        Not applicable.
+
+Documents Incorporated by Reference
+
+  List hereunder the following documents if incorporated by reference and
+  the Part of the Form 10-K (e.g. Part I, Part II, etc.) into which the
+  document is incorporated: (1)Any annual report to security holders; (2)
+  Any proxy or information statement; and (3)Any prospectus filed pursuant
+  to Rule 424(b) or (c) under the Securities Act of 1933. The listed
+  documents should be clearly described for identification purposes (e.g.
+  annual report to security holders for fiscal year ended December 24, 1980).
+
+        Not applicable.
+
+PART I
+  Item 1.  Business.
+
+            Not applicable.
+
+Item 1A.  Risk Factors.
+
+            Not applicable.
+
+Item 1B.  Unresolved Staff Comments.
+
+            Not applicable.
+
+Item 2.  Properties.
+
+            Not applicable.
+
+Item 3.  Legal Proceedings.
+
+            The registrant knows of no material pending legal proceedings
+            involving the trust created under the Master Servicing and Trust
+            Agreement (the Trust), the Trustee, the Securities Administrator,
+            the Master Servicer, the Servicers or the registrant with respect
+            to the Trust other than routine litigation incidental to the duties
+            of the respective parties.
+
+Item 4.  Submission of Matters to a Vote of Security Holders.
+
+            None.
+
+                                PART II
+
+  Item 5.  Market for Registrant's Common Equity, Related Stockholder
+           Matters and Issuer Purchases of Equity Securities.
+
+            No established public trading market for the Certificates exists.
+
+            Records provided to the Trust by the Depository Trust Company and
+            the Trustee indicate that as of December 31, 2005, the total number
+            of holders of record for the Series of Certificates is 17.
+
+Item 6.  Selected Financial Data.
+
+            Not applicable.
+
+  Item 7.  Management's Discussion and Analysis of Financial Condition and
+           Results of Operation.
+
+Not applicable.
+
+Item 7A. Quantitative and Qualitative Disclosures about Market Risk.
+
+            Not applicable.
+
+Item 8.  Financial Statements and Supplementary Data.
+
+            Not applicable.
+
+Item 9.  Changes in and Disagreements with Accountants on Accounting and
+           Financial Disclosure.
+
+            None.
+
+Item 9A. Controls and Procedures.
+            Not applicable.
+
+Item 9B. Other Information.
+
+            None.
+
+PART III
+
+  Item 10. Directors and Executive Officers of the Registrant.
+
+            Not applicable.
+
+Item 11. Executive Compensation.
+
+            Not applicable.
+
+  Item 12. Security Ownership of Certain Beneficial Owners and Management
+           and Related Stockholder Matters.
+
+            Not applicable.
+
+  Item 13. Certain Relationships and Related Transactions.
+
+            Not applicable.
+
+Item 14. Principal Accounting Fees and Services.
+
+            Not applicable.
+
+PART IV
+
+  Item 15. Exhibits, Financial Statement Schedules.
+
+   (a) The following is a list of documents filed as part of this Annual
+       Report on Form 10-K:
+
+     (31.1) Rule 13a-14(a)/15d-14(a) Certification
+
+     (99.1) Annual Independent Accountants' Servicing Reports concerning
+            servicing activities.
+
+a) Countrywide Home Loans Servicing LP, as Servicer  
+      b) M & T Mortgage Corp, as Servicer  
+      c) Wells Fargo Bank, N.A., as Servicer  
+
+(99.2) Reports of Management as to Compliance with Minimum Servicing
+            Standards.
+
+a) Countrywide Home Loans Servicing LP, as Servicer  
+      b) M & T Mortgage Corp, as Servicer  
+      c) Wells Fargo Bank, N.A., as Servicer  
+
+(99.3) Annual Statements of Compliance under the Master Servicing and
+            Trust Agreement.
+
+a) Countrywide Home Loans Servicing LP, as Servicer  
+      b) M & T Mortgage Corp, as Servicer  
+      c) Wells Fargo Bank, N.A., as Servicer  
+
+(99.4) Aggregate Statement of Principal and Interest Distributions to
+            Certificate Holders.
+
+(b) The exhibits required to be filed by Registrant pursuant to Item
+       601 of Regulation S-K are listed above and in the Exhibit Index
+       that immediately follows the signature page herof.
+
+   (c) Not applicable.
+
+Filed herewith.
+
+SIGNATURES
+
+  Pursuant to the requirements of Section 13 or 15(d) of the Securities
+  Exchange Act of 1934, the registrant has duly caused this report to be
+  signed on its behalf by the undersigned, thereunto duly authorized:
+
+GS Mortgage Securities Corp., as Depositor
+
+By: /s/ Michelle Gill
+
+          Michelle Gill, Vice President
+
+  Dated:  March 30, 2006
+
+SUPPLEMENTAL INFORMATION TO BE FURNISHED WITH REPORTS FILED PURSUANT TO
+  SECTION 15(d) OF THE ACT BY REGISTRANTS WHICH HAVE NOT REGISTERED
+  SECURITIES PURSUANT TO SECTION 12 OF THE ACT.
+
+(a)(1) No annual report is provided to the Certificateholders other than
+  with respect to aggregate principal and interest distributions.
+
+(a)(2) No proxy statement, form of proxy or other proxy soliciting
+  material has been sent to any Certificateholder with respect to any
+  annual or other meeting of Certificateholders.
+
+Exhibit Index
+     (31.1) Rule 13a-14(a)/15d-14(a) Certification
+
+     (99.1) Annual Independent Accountants' Servicing Reports concerning
+            servicing activities.
+
+a) Countrywide Home Loans Servicing LP, as Servicer  
+      b) M & T Mortgage Corporation, as Servicer  
+      c) Wells Fargo Bank, N.A., as Servicer  
+
+(99.2) Reports of Management as to Compliance with Minimum Servicing
+            Standards.
+
+a) Countrywide Home Loans Servicing LP, as Servicer  
+      b) M & T Mortgage Corporation, as Servicer  
+      c) Wells Fargo Bank, N.A., as Servicer  
+
+(99.3) Annual Statements of Compliance under the Master Servicing and
+            Trust Agreement.
+
+a) Countrywide Home Loans Servicing LP, as Servicer  
+      b) M & T Mortgage Corporation, as Servicer  
+      c) Wells Fargo Bank, N.A., as Servicer  
+
+(99.4) Aggregate Statement of Principal and Interest Distributions to
+            Certificate Holders.
+ Exhibit No.
+
+  Ex-31.1 Rule 13a-14(a)/15d-14(a) Certification
+
+  RE: GSAA Home Equity Trust 2005-12 (the "Trust")Asset-Backed Certificates
+  Series 2005-12, issued pursuant to the Master Servicing and Trust Agreement,
+  dated October 1, 2005 (the "Trust Agreement"), among GS Mortgage Securities
+  Corp., as depositor, HSBC Bank USA, National Association, as trustee,
+  Wells Fargo Bank, N.A., as master servicer (the "Master Servicer"),  as
+  securities administrator (the "Securities Administrator") and a custodian,
+  Deutsche Bank National Trust Company, as a custodian and J.P. Morgan Trust
+  Company, National Association, as a custodian.
+
+  I, Michelle Gill, certify that:
+
+  1. I have reviewed this annual report on Form 10-K (the "Annual Report"),
+     and all reports on Form 8-K containing distribution date reports
+     (collectively with this Annual Report, the "Reports") filed in
+     respect of periods included in the year covered by this Annual Report,
+     of the Trust;
+
+  2. Based on my knowledge, the information in these Reports, taken as a
+     whole, does not contain any untrue statement of a material fact or
+     omit to state a material fact necessary to make the statements made,
+     in light of the circumstances under which such statements were made,
+     not misleading as of the last day of the period covered by this
+     Annual Report;
+
+  3. Based on my knowledge, the distribution or servicing information
+     required to be provided to the Securities Administrator by the Master
+     Servicer under the Trust Agreement for inclusion in the Reports is
+     included in the Reports;
+
+  4. Based on my knowledge and upon the annual compliance statement
+     included in this Annual Report and required to be delivered to the
+     Master Servicer in accordance with the terms of the Trust Agreement,
+     and except as disclosed in the Reports, the Master Servicer has
+     fulfilled its obligations under the Trust Agreement; and; and
+
+  5. The Reports disclose all significant deficiencies relating to the
+     Master Servicer's compliance with the minimum servicing standards
+     based upon the report provided by an independent public accountant,
+     after conducting a review in compliance with the Uniform Single
+     Attestation Program for Mortgage Bankers or similar procedure, as set
+     forth in the Trust Agreement, that is included in the Reports.
+
+     In giving the certifications above, I have reasonably relied on
+     information provided to me by the following unaffiliated parties:
+     the Master Servicer and the Servicers.
+
+Date: March 30, 2006
+
+     /s/ Michelle Gill
+     Signature
+
+     Vice President
+     Title
+
+EX-99.1 (a)
+(logo)KPMG
+
+KPMG LLP
+Suite 2000
+355 South Grand Avenue
+Los Angeles, CA 90071-1568
+
+Telephone 213 972 4000
+Fax       213 622 1217
+Internet  www.us.kpmg.com
+
+Independent Accountants' Report
+
+The Board of Directors
+Countrywide Financial Corporation:
+
+We have examined management's assertion, included in the accompanying Management
+Assertion, that Countrywide Financial Corporation and subsidiaries, including
+its wholly-owned subsidiary, Countrywide Home Loans, Inc. ("CHL"), and
+Countrywide Home Loans Servicing, L.P., a wholly-owned subsidiary of CHL,
+(collectively, the "Company") complied with the minimum servicing standards set
+forth in the Mortgage Bankers Association of America's Uniform Single
+Attestation Program for Mortgage Bankers (USAP) as of and for the year ended
+December 31, 2005.  Management is responsible for the Company's compliance with
+those minimum servicing standards.  Our responsibility is to express an opinion
+on management's assertion about the Company's compliance based on our
+examination.
+
+Our examination was conducted in accordance with attestation standards
+established by the American Institute of Certified Public Accountants and,
+accordingly, included examining, on a test basis, evidence about the Company's
+compliance with the minimum servicing standards specified above and performing
+such other procedures as we considered necessary in the circumstances.  We
+believe that our examination provides a reasonable basis for our opinion.  Our
+examination does not provide a legal determination on the Company's compliance
+with the minimum servicing standards.
+
+In our opinion, management's assertion that Countrywide Financial Corporation
+and subsidiaries, including its wholly-owned subsidiary, Countrywide Home Loans,
+Inc. ("CHL"), and Countrywide Home Loans Servicing, L.P., a wholly-owned
+subsidiary of CHL, complied with the aforementioned minimum servicing standards
+as of and for the year ended December 31, 2005 is fairly stated, in all material
+respects.
+
+/s/ KPMG LLP
+
+March 3, 2006
+
+KPMG LLP, a U.S. limited liability partnership, is the U.S.
+member firm of KPMG International, a Swiss cooperative.
+
+EX-99.1 (b)
+(logo) PRICEWATERHOUSECOOPERS
+
+PricewaterhouseCoopers LLP
+3600 HSBC Center
+Buffalo NY 14203-2879
+Telephone (716) 856 4650
+Facsimile (716) 856 1208
+
+Report of Independent Accountants
+
+To the Board of Directors and Stockholder of
+M&T Mortgage Corporation
+
+We have examined management's assertion about M&T Mortgage Corporation's (the
+"Company") compliance with the minimum servicing standards identified in the
+Mortgage Bankers Association of America's Uniform Single Attestation Program
+for Mortgage Bankers ("USAP") as of and for the year ended December 31, 2005
+included in the accompanying management assertion (see Exhibit 1). Management
+is responsible for the Company's compliance with those minimum servicing
+standards. Our responsibility is to express an opinion on management's
+assertion about the Company's compliance based on our examination.
+
+Our examination was made in accordance with attestation standards established
+by the American Institute of Certified Public Accountants and, accordingly,
+included examining, on a test basis, evidence about the Company's compliance
+with the minimum servicing standards and performing such other procedures as
+we considered necessary in the circumstances. We believe that our examination
+provides a reasonable basis for our opinion. Our examination does not provide
+a legal determination on the Company's compliance with the minimum servicing
+standards.
+
+In our opinion, management's assertion that the Company complied with the
+aforementioned minimum servicing standards as of and for the year ended
+December 31, 2005 is fairly stated, in all material respects.
+
+/s/ PricewaterhouseCoopers LLP
+
+March 10, 2006
+
+(page)
+
+Exhibit 1
+
+Management's Assertion Concerning Compliance
+With USAP Minimum Servicing Standards
+
+March 10, 2006
+
+As of and for the year ended December 31, 2005, M&T Mortgage Corporation (the
+"Company") has complied in all material respects with the minimum servicing
+standards set forth in the Mortgage Bankers Association of America's Uniform
+Single Attestation Program for Mortgage Bankers ("USAP").
+
+As of and for this same period, the Company had in effect a fidelity bond and
+errors and omissions policy in the amounts of $55,000,000 and $54,000,000,
+respectively.
+
+M&T Mortgage Corporation
+
+By: /s/ James J. Beardi
+    James J. Beardi
+    President
+
+By: /s/ Mark J. Mendel
+    Mark J. Mendel
+    Administrative Vice President
+
+P.O. Box 1288, Buffalo, NY 14240, 716 626 7010  800 724 2224
+Mortgage account information, just a click away. www.mandtmortgage.com
+
+EX-99.1 (c)
+(logo) KPMG
+
+KPMG LLP
+2500 Ruan Center
+666 Grand Avenue
+Des Moines, IA 50309
+
+Independent Accountants' Report
+
+The Board of Directors
+Wells Fargo Home Mortgage, a division of Wells Fargo Bank, N.A.:
+
+We have examined management's assertion, included in the accompanying Assertion
+of Management of Wells Fargo Home Mortgage, a division of Wells Fargo Bank, N.A.
+(the Company), that the Company complied with the minimum servicing standards
+set forth in the Mortgage Bankers Association of America's Uniform Single
+Attestation Program for Mortgage Bankers (USAP) as of and for the year ended
+December 31, 2005. Management is responsible for the Company's compliance with
+those minimum servicing standards. Our responsibility is to express an opinion
+on management's assertion about the Company's compliance based on our
+examination.
+
+Our examination was conducted in accordance with attestation standards
+established by the American Institute of Certified Public Accountants and,
+accordingly, included examining, on a test basis, evidence about the Company's
+compliance with the minimum servicing standards specified above and performing
+such other procedures, as we considered necessary in the circumstances. We
+believe that our examination provides a reasonable basis for our opinion. Our
+examination does not provide a legal determination on the Company's compliance
+with the minimum servicing standards.
+
+In our opinion, management's assertion that the Company complied with the
+aforementioned minimum servicing standards as of and for the year ended December
+31, 2005 is fairly stated, in all material respects.
+
+/s/ KPMG LLP
+
+February 21, 2006
+
+KPMG LLP a U.S. limited liability partnership, is the U.S.
+member firm of KPMG International, a Swiss cooperative
+
+EX-99.2 (a)
+(logo) Countrywide
+       HOME LOANS
+
+2900 MADERA ROAD
+SIMI VALLEY, CALIFORNIA 93065-6298
+(805) 955-1000
+
+Management Assertion
+
+March 3, 2006
+
+As of and for the year ended December 31, 2005, Countrywide Financial
+Corporation and subsidiaries, including its wholly-owned subsidiary, Countrywide
+Home Loans, Inc. ("CHL"), and Countrywide Home Loans Servicing, L.P., a
+wholly-owned subsidiary of CHL, (collectively, the "Company") have complied in
+all material respects with the minimum servicing standards set forth in the
+Mortgage Bankers Association of America's Uniform Single Attestation for
+Mortgage Bankers.  As of and for this same period, the Company had in effect a
+mortgage bankers' (fidelity) bond in the amount of $200 million and an errors
+and omissions policy in the amount of $100 million and $130 million for the
+period January 1, 2005 to August 1, 2005 and for the period from August 1, 2005
+to December 31, 2005, respectively.
+
+/s/ Steve Bailey
+Steve Bailey
+Senior Managing Director and
+Chief Executive Officer, Loan Administration
+
+/s/ Kevin Meyers
+Kevin Meyers
+Managing Director and Chief Financial Officer,
+Loan Administration
+
+EX-99.2 (b)
+(logo) M&T Mortgage Corporation
+A Subsidiary of M&T Bank
+
+Exhibit 1
+
+Management's Assertion Concerning Compliance
+With USAP Minimum Servicing Standards
+
+March 10, 2006
+
+As of and for the year ended December 31, 2005, M&T Mortgage Corporation (the
+"Company") has complied in all material respects with the minimum servicing
+standards set forth in the Mortgage Bankers Association of America's Uniform
+Single Attestation Program for Mortgage Bankers ("USAP").
+
+As of and for this same period, the Company had in effect a fidelity bond and
+errors and omissions policy in the amounts of $55,000,000 and $54,000,000,
+respectively.
+
+M&T Mortgage Corporation
+
+By: /s/ James J. Beardi
+    James J. Beardi
+    President
+
+By: /s/ Mark J. Mendel
+    Mark J. Mendel
+    Administrative Vice President
+
+P.O. Box 1288, Buffalo, NY 14240, 716 626 7010  800 724 2224
+Mortgage account information, just a click away. www.mandtmortgage.com
+
+EX-99.2 (c)
+(logo) WELLS  HOME
+       FARGO  MORTGAGE
+
+1 Home Campus
+Des Moines, IA 50328
+
+Assertion of Management of Wells Fargo Home Mortgage, a division of Wells Fargo
+Bank, N.A.
+
+As of and for the year ended December 31, 2005, Wells Fargo Home Mortgage, a
+division of Wells Fargo Bank, N.A. (the Company) has complied in all material
+respects with the minimum servicing standards set forth in the Mortgage Bankers
+Association of America's Uniform Single Attestation Program for Mortgage
+Bankers.
+
+As of and for this same period, the Company had in effect a fidelity bond along
+with an errors and omissions policy in the amounts of $100 million and $20
+million, respectively.
+
+/s/ Michael J. Heid                 February 21, 2006
+Michael J. Heid, Division President, Capital Markets, Finance, & Administration
+Wells Fargo Home Mortgage, a division of Wells Fargo Bank, N.A.
+
+/s/ Franklin R. Codel               February 21, 2006
+Franklin R. Codel, Executive Vice President, Finance and Corporate Real Estate
+Wells Fargo Home Mortgage, a division of Wells Fargo Bank, N.A.
+
+/s/ Mary Coffin                     February 21, 2006
+Mary Coffin, Executive Vice President, Servicing & Post Closing
+Wells Fargo Home Mortgage, a division of Wells Fargo Bank, N.A.
+
+/s/ Cara K. Heiden
+Cara K. Heiden, division President, Nat'l Consumer & Institutional Lending
+Wells Fargo Home Mortgage, a division of Wells Fargo Bank, N.A.
+
+Wells Fargo Home Mortgage
+is a division of Wells Fargo Bank, N.A.
+
+EX-99.3 (a)
+(logo) Countrywide
+HOME LOANS
+
+400 Countrywide Way
+Simi Valley, California 93065-6298
+
+March 10, 2006
+
+Cadwalader, Wickersham, and Taft, LLP
+Re: GSAA 2005-12
+One World Financial Center
+New York, NY 10281
+Attn: Julie Zentmaier
+
+OFFICER'S CERTIFICATE
+
+I, Joseph Candelario, hereby certify that I am the First Vice President, Loan
+Administration of Countrywide Home Loans, Servicing LP (the "Servicer"). I
+further certify, with respect to the applicable Servicing Agreement for the
+above-referenced transaction (the "Agreement"), the following:
+
+I have reviewed the activities and performance of the Servicer during the fiscal
+year ended December 31, 2005 under the Agreement and, to the best of my
+knowledge, based on my review, the Servicer has fulfilled all of its duties,
+responsibilities or obligations under the Agreement throughout the fiscal year.
+
+/s/ Joseph Candelario
+Joseph Candelario
+First Vice President
+Compliance Officer
+Loan Administration
+
+March 10, 2006
+Date
+
+EX-99.3 (b)
+WELLS FARGO - GOLDMAN GSAA 2005-12
+9062 OLD ANNAPOLIS ROAD
+COLUMBIA, MD 21045
+ATTN: CLIENT MANAGER
+
+Annual Statement of Compliance
+
+For The Fiscal Year 2005
+
+1. A review of the activities of the Servicer during the preceding calendar year
+   and of performance according to the applicable Servicer contract has been
+   made with the undersigned officer's supervision, and
+
+2. The Servicer has complied fully with the provisions of Article II and Article
+   IV of the applicable Servicer contract, and
+
+3. To the best of the undersigned officer's knowledge, based on such review, the
+   Servicer has fulfilled all its obligations under the applicable Servicer
+   contract for such year, or if there has been a default in the fulfillment of
+   any such obligation, such default is listed below:
+
+Known Default          Status           Steps Being Taken to Cure Default
+
+None
+
+Seller Servicer: M&T Mortgage Corporation
+
+By:              /s/ Juliet Alexander
+
+Title:           Assistant Vice President / Investor Reporting Manager
+
+Date:            March 28,2006
+
+EX-99.3 (c)
+(logo) Wells   Home
+       Fargo   Mortgage
+
+Wells Fargo Home Mortgage
+1 Home Campus
+Des Moines, IA 50328-001
+
+February 24, 2006
+
+Re: 2005 Annual Certification
+
+We hereby certify to the best of our knowledge and belief that for the calendar
+year of 2005:
+
+1. All real estate taxes, bonds assessments and other lienable items have been
+paid.
+
+2. All FHA mortgage insurance, private mortgage insurance premiums, and flood
+insurance have been paid (if applicable).
+
+3. Hazard insurance policies held by us meet the requirements as specified in
+the servicing agreement, or those of a normal prudent lender if not specified,
+and those premiums due have been paid.
+
+4. We have made all property inspections as required.
+
+5. Fidelity bond and Errors and Omissions insurance coverage currently exists.
+
+6. That the Officer signing this certificate has reviewed the activities and
+performance of the Servicer during the preceding fiscal year under the terms of
+the Servicing Agreement, Trust Agreement, Pooling and Servicing Agreement and/or
+Seller/Servicer Guide or similar agreements with respect to each transaction
+listed on the attached Exhibit A, and to the best of this officer's knowledge,
+the Servicer has fulfilled all of its duties, responsibilities or obligations of
+such agreement throughout the year.
+
+Sincerely,
+
+/s/ John B. Brown
+John B. Brown
+Senior Vice President
+Wells Fargo Home Mortgage, a division of we11s Fargo Bank NA
+
+Wells Fargo Home Mortgage
+is a division of Wells Fargo Bank, N.A.
+
+(page)
+
+EXHIBIT A
+
+1. GSR Mortgage Loan Trust 2005-AR1 (the "Trust") Mortgage Pass-Through,
+Certificates Series 2005-AR1, issued pursuant to the Master Servicing and Trust
+Agreement, dated as of January 1, 2005, among GS Mortgage Securities Corp., as
+depositor, U.S. Bank, National Association, as trustee and Wells Fargo Bank,
+N.A., as securities administrator and master servicer;
+
+2. GSR Mortgage Loan Trust 2005-AR2 (the "Trust") Mortgage Pass-Through,
+Certificates Series 2005-AR2, issued pursuant to the Master Servicing and Trust
+Agreement, dated as of March 1, 2005, among GS Mortgage Securities Corp., as
+depositor (the "Depositor"), U.S. Bank National Association, as trustee,
+JPMorgan Chase Bank, N.A., as custodian and Wells Fargo Bank, N.A., as
+securities administrator and master servicer;
+
+3. GSR Mortgage Loan Trust 2005-AR4 (the "Trust") Mortgage Pass-Through,
+Certificates Series 2005-AR4, issued pursuant to the Master Servicing and Trust
+Agreement, dated as of June 1, 2005, among GS Mortgage Securities Corp., as
+depositor, U.S. Bank National Association, as trustee, JPMorgan Chase Bank,
+N.A., as custodian and Wells Fargo Bank, N.A., as securities administrator,
+master servicer and a custodian;
+
+4. GSR Mortgage Loan Trust 2005-AR5 (the "Trust") Mortgage Pass-Through,
+Certificates Series 2005-AR5, issued pursuant to the Master Servicing and Trust
+Agreement, dated as of August 1, 2005, among GS Mortgage Securities Corp., as
+depositor, U.S. Bank National Association, as trustee, JPMorgan Chase Bank,
+N.A., as custodian and Wells Fargo Bank, N.A., as securities administrator,
+master servicer and a custodian;
+
+5. GSR Mortgage Loan Trust 2005-AR6 (the "Trust") Mortgage Pass-Through,
+Certificates Series 2005-AR6, issued pursuant to a Master Servicing and Trust
+Agreement, dated as of September 1, 2005, among GS Mortgage Securities Corp., as
+depositor, U.S. Bank National Association, as trustee, and Wells Fargo Bank,
+N.A., as securities administrator, master servicer and custodian;
+
+6. GSR Mortgage Loan Trust 2005-AR7 (the "Trust") Mortgage Pass-Through,
+Certificates Series 2005-AR7, issued pursuant to the Master Servicing and Trust
+Agreement, dated as of October 1, 2005, among GS Mortgage Securities Corp., as
+depositor, U.S. Bank National Association, as trustee, JPMorgan Chase Bank,
+N.A., as custodian and Wells Fargo Bank, N.A., as securities administrator,
+master servicer and a custodian;
+
+7. GSR Mortgage Loan Trust 2005-1F (the "Trust") Mortgage Pass-Through,
+Certificates Series 2005-1F, issued pursuant to the Master Servicing and Trust
+Agreement, dated as of January 1, 2005, among GS Mortgage Securities Corp., as
+depositor, Wachovia Bank, National Association, as trustee (the "Trustee"),
+JPMorgan Chase Bank, National Association, as securities administrator,
+custodian and master servicer;
+
+(page)
+
+8. GSR Mortgage Loan Trust 2005-7F (the "Trust") Mortgage Pass-Through,
+Certificates Series 2005-7F, issued pursuant to the Master Servicing and Trust
+Agreement, dated as of August 1, 2005, among GS Mortgage Securities Corp., as
+depositor, Wachovia Bank, National Association, as trustee, and JPMorgan Chase
+Bank, National Association, as securities administrator, custodian and master
+servicer;
+
+9. GSAA Mortgage Loan Trust 2005-1 (the "Trust") Asset-Backed Certificates
+Series 2005-1, issued pursuant to a Trust Agreement, dated as of January 1,
+2005, among GS Mortgage Securities Corp., as depositor, Deutsche Bank National
+Trust Company, as trustee;
+
+10. GSAA Mortgage Loan Trust 2005-3 (the "Trust") Asset-Backed Certificates
+Series 2005-3, issued pursuant to a Trust Agreement, dated as of February 1,
+2005, among GS Mortgage Securities Corp., as depositor, HSBC Bank USA, National
+Association, as trustee, Wells Fargo Bank, N.A., as securities administrator and
+Deutsche Bank National Trust Company, as custodian;
+
+11. GSAA Mortgage Loan Trust 2005-5 (the "Trust") Asset-Backed Certificates
+Series 2005-5, issued pursuant to a Trust Agreement, dated as of April 1, 2005,
+among GS Mortgage Securities Corp., as depositor, HSBC Bank USA, National
+Association, as trustee, and Wells Fargo Bank, N.A., as securities administrator
+and custodian;
+
+12, GSAA Mortgage Loan Trust 2005-7 (the "Trust") Asset-Backed Certificates
+Series 2005-7, issued pursuant to a Master Servicing and Trust Agreement, dated
+as of June 1, 2005, among GS Mortgage Securities Corp., as depositor, Deutsche
+Bank National Trust Company, as a custodian, HSBC Bank USA, National
+Association, as trustee and Wells Fargo Bank, N.A., as master servicer,
+securities administrator and a custodian;
+
+13. GSAA Mortgage Loan Trust 2005-11 (the "Trust") Asset-Backed Certificates
+Series 2005-11, issued pursuant to a Master Servicing and Trust Agreement, dated
+as of September 1, 2005, among GS Mortgage Securities Corp., as depositor,
+Wachovia Bank, N.A., as trustee, Deutsche Bank National Trust Company and J.P.
+Morgan Trust Company, N.A., as custodians and JPMorgan Chase Bank, National
+Association, as master servicer;
+
+14. GSAA Mortgage Loan Trust 2005-12 (the "Trust") Asset-Backed Certificates
+Series 2005-12, issued pursuant to a Master Servicing and Trust Agreement, dated
+as of October 1, 2005, between GS Mortgage Securities Corp., as depositor, J.P.
+Morgan Trust Company, National Association, as a custodian, Deutsche Bank
+National Trust Company, as a custodian, HSBC Bank USA, National Association, as
+trustee, and Wells Fargo Bank, N.A., as master servicer, securities
+administrator and a custodian; and
+
+15. GSR Mortgage Loan Trust 2005-5F (the "Trust") Mortgage Pass-Through,
+Certificates Series 2005-5F, issued pursuant to the Master Servicing and Trust
+Agreement, dated as of May 1, 2005, among GS Mortgage Securities Corp., as
+depositor, Wachovia Bank, National Association, as trustee, and JPMorgan Chase
+Bank, as securities administrator, custodian and master servicer.
+
+Ex-99.4
+
+   Schedule of Year-To-Date Principal and Interest Distributions to
+   Certificateholders
+

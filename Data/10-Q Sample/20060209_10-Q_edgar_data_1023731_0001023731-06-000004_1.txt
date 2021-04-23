@@ -1,0 +1,2077 @@
+<Header>
+<FileStats>
+    <FileName>20060209_10-Q_edgar_data_1023731_0001023731-06-000004_1.txt</FileName>
+    <GrossFileSize>1582839</GrossFileSize>
+    <NetFileSize>170937</NetFileSize>
+    <NonText_DocumentType_Chars>1393668</NonText_DocumentType_Chars>
+    <HTML_Chars>12480</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>0</N_Tables>
+    <N_Exhibits>4</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001023731-06-000004.hdr.sgml : 20060209
+<ACCEPTANCE-DATETIME>20060209165443
+ACCESSION NUMBER:		0001023731-06-000004
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		7
+CONFORMED PERIOD OF REPORT:	20051231
+FILED AS OF DATE:		20060209
+DATE AS OF CHANGE:		20060209
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			8X8 INC /DE/
+		CENTRAL INDEX KEY:			0001023731
+		STANDARD INDUSTRIAL CLASSIFICATION:	TELEPHONE COMMUNICATIONS (NO RADIO TELEPHONE) [4813]
+		IRS NUMBER:				770142404
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-21783
+		FILM NUMBER:		06593693
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3151 JAY STREET
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+		BUSINESS PHONE:		4087271885
+
+	MAIL ADDRESS:	
+		STREET 1:		3151 JAY STREET
+		CITY:			SANTA CLARA
+		STATE:			CA
+		ZIP:			95054
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NETERGY NETWORKS INC
+		DATE OF NAME CHANGE:	20000912
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	8X8 INC
+		DATE OF NAME CHANGE:	19961023
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Dw0kX1Wxk6ARfHuUBli0ERrZqxz4+aUljej2DL+n9uMtMpILhtQ0FGeCF5PI4ygk
+ HyB78GQzyVhMnoVy6orw9w==
+
+ 0001023731-06-000004.txt : 20060209
+
+10-Q
+ 1
+ form10q.htm
+ FORM 10-Q
+
+Q3 2006 DOC 
+
+UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION 
+Washington, D.C. 20549   
+
+FORM 10-Q   
+
+[X]       QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+             SECURITIES EXCHANGE ACT OF 1934
+
+For the quarterly period ended December 31, 2005
+
+OR    
+
+[  ]  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+     EXCHANGE ACT OF 1934
+
+For the transition period from ________to _________
+
+Commission file number 000-21783
+
+8X8, INC.
+
+(Exact name of Registrant as Specified in its Charter)
+
+Delaware  
+
+77-0142404   
+
+(State or Other Jurisdiction of Incorporation or Organization)  
+
+(I.R.S. Employer Identification Number) 
+
+3151 Jay Street
+  
+                              Santa Clara, CA     95054
+
+(Address of Principal Executive Offices including Zip Code)
+
+(408) 727-1885
+
+(Registrant's Telephone Number, Including Area Code)
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15 (d) of the Securities Exchange Act of 1934
+during the preceding 12 months (or for such shorter period that the registrant
+was required to file reports), and (2) has been subject to such filing
+requirements for the past 90 days.           YES
+          NO      
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, or a non-accelerated filer.
+See definition of "accelerated filer and large accelerated filer" in Rule 12b-2 of the Exchange Act. (Check one): 
+
+Large accelerated filer         
+          Accelerated filer        
+          Non-accelerated filer         
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act).    
+     YES     
+    NO  
+
+The number of shares of the Registrant's Common Stock outstanding as of February 1, 2006 was 61,058,133.
+
+8X8, INC. 
+                                    FORM 10-Q      PDF   
+                                TABLE OF CONTENTS
+
+PART I.   FINANCIAL INFORMATION
+
+Page No. 
+
+Item 1.   Financial Statements:
+
+Condensed Consolidated Balance Sheets at
+         December 31, 2005 and March 31, 2005
+
+3  
+
+Condensed Consolidated Statements of Operations for the three 
+          
+         and nine months ended December 31, 2005 and 2004
+
+4  
+
+Condensed Consolidated Statements of Cash Flows for the nine 
+          
+         months ended December 31, 2005 and 2004
+
+5  
+
+Notes to Unaudited Condensed Consolidated Financial Statements
+
+6  
+
+Item 2.   Management's Discussion and Analysis of Financial
+                      Condition and Results of Operations
+
+14  
+
+Item 3.   Quantitative and Qualitative Disclosures About Market Risk
+
+34  
+
+Item 4.   Controls and Procedures
+
+34  
+
+PART II.  OTHER INFORMATION
+
+Item 6.   Exhibits
+
+36  
+
+Signature
+
+37  
+
+Part I -- FINANCIAL INFORMATION    
+  
+  ITEM 1. FINANCIAL STATEMENTS   
+
+8X8, INC.
+
+CONDENSED CONSOLIDATED BALANCE SHEETS
+ 
+                            (In thousands, unaudited)  
+
+December 31,    March 31,
+                                                          2005            2005
+                                                     --------------  --------------
+ASSETS                                                                              
+Current assets:
+  Cash and cash equivalents ....................... $       16,807  $       22,515
+  Restricted cash .................................            250             250
+  Short-term investments ..........................         10,663           9,035
+  Accounts receivable, net ........................            619           1,144
+  Inventory .......................................          3,188           1,600
+  Deferred cost of goods sold .....................          1,364           2,122
+  Other current assets ............................            776             363
+                                                     --------------  --------------
+    Total current assets ..........................         33,667          37,029
+Property and equipment, net .......................          2,917           1,788
+Other assets ......................................            262             263
+                                                     --------------  --------------
+                                                    $       36,846  $       39,080
+                                                     ==============  ==============
+ 
+LIABILITIES AND STOCKHOLDERS' EQUITY                                                
+Current liabilities:
+  Accounts payable ................................ $        4,923  $        4,496
+  Accrued compensation ............................            760             515
+  Accrued warranty ................................            252             187
+  Deferred revenue ................................          2,042           2,602
+  Other accrued liabilities .......................          2,348           1,536
+                                                     --------------  --------------
+    Total current liabilities .....................         10,325           9,336
+                                                     --------------  --------------
+
+Other liabilities....................................           76              --
+                                                     --------------  --------------
+Commitments and contingencies (Note 8)
+
+Stockholders' equity:
+  Common stock ....................................             61              54
+  Additional paid-in capital ......................        214,763         200,576
+  Accumulated other comprehensive loss ............            (20)            (20)
+  Accumulated deficit .............................       (188,359)       (170,866)
+                                                     --------------  --------------
+    Total stockholders' equity ....................         26,445          29,744
+                                                     --------------  --------------
+                                                    $       36,846  $       39,080
+                                                     ==============  ==============
+
+The accompanying notes are an integral part of these unaudited condensed
+                       consolidated financial statements.
+
+8X8, INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+ 
+                    (In thousands, except per share amounts)
+ 
+                                   (Unaudited)  
+  
+                                                        Three Months Ended     Nine Months Ended
+                                                           December 31,          December 31,
+                                                       --------------------  --------------------
+                                                          2005       2004       2005       2004
+                                                       ---------  ---------  ---------  --------- 
+License and service revenues ........................ $   6,769  $   2,332     17,484  $   5,646
+Product revenues ....................................     1,714        632      4,067      1,918
+                                                       ---------  ---------  ---------- ----------
+   Total revenues ...................................     8,483      2,964     21,551      7,564
+                                                       ---------  ---------  ---------- ----------
+Operating expenses:
+  Cost of license and service revenues ..............     3,326      1,442      8,190      3,492
+  Cost of product revenues ..........................     3,357      1,073      7,999      2,862
+  Research and development ..........................     1,470        784      4,240      2,044
+  Selling, general and administrative ...............     7,244      5,650     19,151     11,785
+                                                       ---------  ---------  ---------  ---------
+   Total operating expenses .........................    15,397      8,949     39,580     20,183
+                                                       ---------  ---------  ---------  ---------
+Loss from operations ................................    (6,914)    (5,985)   (18,029)   (12,619)
+Other income, net ...................................       125        145        536        440
+Benefit for income taxes ............................        --         --         --         20
+                                                       ---------  ---------  ---------  ---------
+Net loss ............................................ $  (6,789) $  (5,840) $ (17,493) $ (12,159)
+                                                       =========  =========  =========  =========
+
+Net loss per share:
+Basic and diluted.................................... $   (0.12) $   (0.13) $   (0.32) $   (0.28)
+                                                       =========  =========  =========  =========
+Weighted average number of shares:
+Basic and diluted....................................    54,836     46,718     54,181     42,862
+
+The accompanying notes are an integral part of these unaudited condensed
+                       consolidated financial statements.
+
+8X8, INC.
+
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+ 
+                            (In thousands, unaudited) 
+  
+                                                                   Nine Months Ended
+                                                                       December 31,
+                                                                 ----------------------
+                                                                     2005        2004
+                                                                 ----------  ---------- 
+Cash flows from operating activities:
+Net loss ...................................................... $  (17,493) $  (12,159)
+Adjustments to reconcile net loss to net cash
+   used in operating activities:
+       Gain on sale of business ...............................         --          --
+       Depreciation and amortization ..........................        520         108
+       Stock compensation .....................................         --           3
+       Other ..................................................          5          12
+Changes in assets and liabilities..............................        (13)       (169)
+                                                                 ----------  ----------
+      Net cash used in operating activities ...................    (16,981)    (12,205)
+                                                                 ----------  ----------
+Cash flows from investing activities:
+   Purchases of property and equipment ........................     (1,248)     (1,371)
+   Restricted cash decrease....................................         --         550
+   Purchase of short term investments .........................     (7,083)       (610)
+   Sales and maturities of short-term investments .............      5,400          --
+                                                                 ----------  ----------
+      Net cash used in investing activities ...................     (2,931)     (1,431)
+                                                                 ----------  ----------
+Cash flows from financing activities:
+   Capital lease payments .....................................        (13)         --
+   Proceeds from issuance of common stock under employee stock         158         272
+   Proceeds from common stock offerings, net ..................     14,059      22,226
+                                                                 ----------  ----------
+       Net cash provided by financing activities ..............     14,204      22,498
+                                                                 ----------  ----------
+Net increase (decrease) in cash and cash equivalents ..........     (5,708)      8,862
+Cash and cash equivalents at the beginning of the period ......     22,515      13,249
+                                                                 ----------  ----------
+Cash and cash equivalents at the end of the period ............ $   16,807  $   22,111
+                                                                 ==========  ==========
+
+Supplemental disclosure:
+   Assets acquired under capital lease......................... $      108  $       --
+                                                                 ==========  ==========
+
+The accompanying notes are an integral part of these unaudited condensed
+                       consolidated financial statements.
+
+8X8, INC.
+
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED
+ 
+                              FINANCIAL STATEMENTS        
+
+1. DESCRIPTION OF THE BUSINESS  
+  THE COMPANY 
+   8x8, Inc. (8x8 or the Company) develops and markets communication technology and services for
+Internet protocol or, IP, telephony and video applications. The Company was incorporated in California in February 1987, and in
+December 1996 was reincorporated in Delaware.   
+ The Company offers the Packet8 broadband voice over Internet protocol, or VoIP, and video communications
+service, Packet8 Virtual Office service and videophone equipment and services. The Packet8 voice and video communications service
+(Packet8) enables broadband Internet users to add digital voice and video communications services to their high-speed Internet
+connection. Customers can choose a direct-dial phone number from any of the rate centers offered by the service, and then use an
+8x8-supplied terminal adapter to connect any telephone to a broadband Internet connection and make or receive calls from a regular
+telephone number. All Packet8 telephone accounts come with voice mail, caller ID, call waiting, call waiting caller ID, call forwarding,
+hold, line-alternate, 3-way conferencing, web access to account controls, and real-time online billing.  In addition, 8x8 offers a
+videophone for use with the Packet8 service and a business telephone for use with the Packet8 Virtual Office service. 
+
+ Substantially all of the Company's revenues are generated from the sale, license and provisioning of VoIP products, services and
+technology.  Prior to fiscal 2004, the Company was focused on its VoIP semiconductor business (through its subsidiary Netergy
+Microelectronics, Inc.) and hosted iPBX solutions business (through its subsidiary Centile, Inc.).  In late fiscal 2003, the Company
+began to devote more of its resources to the promotion, distribution and development of the Packet8 service than to its existing
+semiconductor business or hosted iPBX solutions business.  The Company completed several transactions during fiscal 2004 to license
+and sell technology and assets of these former businesses, including the sale of its hosted iPBX research and development center in
+France, the sale and license of its next generation video semiconductor development effort, and the license of technology and
+manufacturing rights for its VoIP semiconductor products to other semiconductor companies.  In addition, during January 2004, the
+Company announced the end of life of its VoIP semiconductor products, and began accepting last time buy orders from customers.
+The Company continues to own the voice and video technology related to the semiconductor and iPBX businesses, and utilizes this
+technology in the Packet8 service offering, and continues to sell or license this technology to third parties.    
+
+ The Company's fiscal year ends on March 31 of each calendar year. Each reference to a fiscal year in
+these notes to the consolidated financial statements refers to the fiscal year ending March 31 of the calendar year indicated (for
+example, fiscal 2006 refers to the fiscal year ending March 31, 2006). 
+
+   LIQUIDITY 
+   The Company has sustained net losses and negative cash flows from operations since fiscal 1999 that have been funded
+primarily through the issuance of equity securities and borrowings. Management believes that current cash and cash equivalents will be
+sufficient to finance the Company's operations through at least the next twelve months. However, the Company continually evaluates its
+cash needs and anticipates seeking additional equity or debt financing in order to achieve the Company's overall business objectives.
+There can be no assurance that such financing will be available, or, if available, at a price that is acceptable to the Company.  Failure to
+generate sufficient revenues, raise additional capital or reduce certain discretionary spending could have an adverse impact on the
+Company's ability to achieve its longer term business objectives. 
+
+  2. BASIS OF PRESENTATION   
+  The accompanying interim condensed consolidated financial statements are unaudited and
+have been prepared on substantially the same basis as our annual financial statements for the fiscal year ended March 31, 2005. In the
+opinion of management, these financial statements reflect all adjustments (consisting only of normal recurring adjustments) considered
+necessary for a fair statement of our financial position, results of operations and cash flows for the periods presented. The preparation
+of financial statements in conformity with generally accepted accounting principles requires management to make estimates and
+assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities at the date of
+the condensed consolidated financial statements and the reported amounts of revenues and expenses during the reporting periods.
+Actual results could differ from these estimates.   
+ These financial statements should be read in conjunction with the Company's audited consolidated financial
+statements for the year ended March 31, 2005 and notes thereto included in the Company's fiscal 2005 Annual Report on Form 10-K.
+Certain prior period balances have been reclassified to conform to the current period presentation.  
+ The results of operations and cash flows for the interim periods included in these financial statements are not
+necessarily indicative of the results to be expected for any future period or the entire fiscal year. 
+  Restricted Cash 
+  Restricted cash represents amounts held in certificates of deposit to support stand-by letters of credit used as security for third
+party vendors.  
+  Short-term Investments 
+  The Company's investments are comprised of U.S. obligations, U.S. government debt agencies, corporate debt,
+auction rate securities and bank issues.  All short-term investments are classified as available-for-sale. 
+  Packet8 Service Revenue 
+  The Company defers revenue recognition of new subscriber revenue from its Packet8 service offerings until it deems that the
+customer has accepted the service.  New customers may terminate their service within thirty days of order placement and receive a full
+refund of fees previously paid.  As the Company has been providing its Packet8 service for a limited period of time, it has not developed
+sufficient history to apply a return rate and reserve against new order revenue.  Accordingly, the Company defers new subscriber
+revenue for up to thirty days to ensure that the thirty day trial period has expired. 
+
+ Emerging Issues Task Force (EITF) consensus No. 00-21,  Accounting for Revenue Arrangements with Multiple
+Deliverables  requires that revenue arrangements with multiple deliverables be divided into separate units of accounting if the
+deliverables in the arrangement meet specific criteria. In addition, arrangement consideration must be allocated among the separate
+units of accounting based on their relative fair values, with certain limitations. The provisioning of the Packet8 service with the
+accompanying desktop terminal or videophone adapter constitutes a revenue arrangement with multiple deliverables.  In accordance
+with the guidance of EITF No. 00-21, the Company allocates Packet8 revenues, including activation fees, among the desktop terminal
+adapter or videophone and subscriber services.  Subsequent to the subscriber's initial purchase of the service, revenues allocated to
+the desktop terminal adapter or videophone are recognized as product revenues at the end of thirty days after order placement,
+provided the customer does not cancel their Packet8 service.  All other revenues are recognized when the related services are
+provided. 
+
+  Deferred cost of goods sold represents the cost of products sold for which the end customer or distributor has a
+right of return.  The cost of the products sold is recognized contemporaneously with the recognition of revenue, when the subscriber
+has accepted the service. 
+
+  Accounting for Stock-Based Compensation  
+  The Company accounts for employee stock-based compensation in accordance with Accounting Principles Board
+Opinion No. 25, "Accounting for Stock Issued to Employees" (APB Opinion No. 25) and related interpretations thereof. As required
+under Statement of Financial Accounting Standards (SFAS) No. 123, "Accounting for Stock-Based Compensation," the Company
+provides pro forma disclosure of net loss and loss per share.  If the Company had elected to recognize compensation costs based on
+the fair value at the date of grant of the awards, consistent with the provisions of SFAS No. 123, net loss and related per share amounts
+would have been as follows  (in thousands, except per share amounts): 
+
+Three Months Ended     Nine Months Ended
+                                                           December 31,          December 31,
+                                                       --------------------  --------------------
+                                                         2005       2004       2005       2004
+                                                       ---------  ---------  ---------  --------- 
+Net loss, as reported................................ $  (6,789) $  (5,840) $ (17,493) $ (12,159)
+
+Add: Employee stock-based compensation expense
+     included in reported net loss...................        --         --         --          3
+Deduct: Total employee stock-based compensation
+        expense determined pursuant to SFAS No.123...      (778)      (799)    (2,132)    (1,678)
+                                                       ---------  ---------  ---------  ---------
+Pro forma net loss................................... $  (7,567) $  (6,639) $ (19,625) $ (13,834)
+                                                       =========  =========  =========  =========
+Basic and diluted net loss per share:
+     As reported..................................... $   (0.12) $   (0.13) $   (0.32) $   (0.28)
+     Pro forma....................................... $   (0.14) $   (0.14) $   (0.36) $   (0.32)
+
+In December 2004, the Financial Accounting Standards Board (FASB) issued SFAS No. 123(R),  Share-Based
+Payment,  requiring all share-based payments to employees, including grants of employee stock options, to be recognized as
+compensation expense in the consolidated financial statements based on their fair values. This standard includes two transition
+methods. Upon adoption, the Company will be required to use either the modified prospective or the modified retrospective transition
+method. Under the modified prospective method, awards that are granted, modified, or settled after the date of adoption should be
+measured and accounted for in accordance with SFAS No. 123(R). Unvested equity-classified awards that were granted prior to the
+effective date should continue to be accounted for in accordance with SFAS No. 123 except that amounts must be recognized in the
+statements of operations. Under the modified retrospective approach, the previously-reported amounts are restated (either to the
+beginning of the year of adoption or for all periods presented) to reflect the SFAS No. 123 amounts in the statements of operations.
+ 
+ In March 2005, the Securities and Exchange Commission ( SEC ) issued Staff Accounting Bulletin No. 107
+( SAB 107 ) which provides guidance regarding the application of SFAS No. 123(R). SAB 107 expresses views of the
+staff regarding the interaction between SFAS No. 123(R) and certain SEC rules and regulations and provides the staff's
+views regarding the valuation of share-based payment arrangements for public companies. In particular, SAB 107 provides guidance
+related to share-based payment transactions with non-employees valuation methods (including assumptions such as expected volatility
+and expected term), the accounting for certain redeemable financial instruments issued under share-based payment arrangements, the
+classification of compensation expense, first-time adoption of SFAS No. 123(R) in an interim period, capitalization of
+compensation cost related to share-based payment arrangements, the accounting for income tax effects of share-based payment
+arrangements upon adoption of SFAS No. 123(R), the modification of employee share options prior to adoption of SFAS No.
+123(R) and disclosures in Management's Discussion and Analysis ( MD A ) subsequent to adoption of SFAS
+No. 123(R). 
+ On April 14, 2005, the SEC approved a rule that delays the effective date for SFAS No. 123(R) to
+annual periods beginning after June 15, 2005. The adoption of SFAS No. 123(R) on April 1, 2006 is expected to have a
+material impact on the Company's consolidated results of operations.  The Company is currently evaluating the impact of this standard
+and its transitional alternatives. 
+ In May 2005, the FASB issued SFAS No. 154,  Accounting Changes and Error Corrections: a
+Replacement of Accounting Principles Board Opinion No. 20 and FASB Statement No. 3  ( SFAS No. 154 ). SFAS
+No. 154 requires retrospective application for voluntary changes in accounting principle unless it is impracticable to do so or another
+methodology is required by the standard. Retrospective application refers to the application of a different accounting principle to
+previously issued financial statements as if that principle had always been used. SFAS No. 154's retrospective application requirement
+replaces APB No. 20's ( Accounting Changes ) requirement to recognize most voluntary changes in accounting principle by
+including in net income (loss) of the period of the change the cumulative effect of changing to the new accounting principle. This
+statement defines retrospective application as the application of a different accounting principle to prior accounting periods as if that
+principle had always been used or as the adjustment of previously issued financial statements to reflect a change in the reporting entity.
+SFAS No. 154 also redefines restatement as the revising of previously issued financial statements to reflect the correction of an error.
+The requirements are effective for accounting changes made in fiscal years beginning after December 15, 2005 and will only impact the
+consolidated financial statements in periods in which a change in accounting principle is made.  The Company does not expect
+that the adoption of SFAS No. 154 in the first quarter of fiscal 2007 will have a material impact on its results of operations and financial
+condition. 
+ In November 2005, the FASB issued FASB Staff Position ( FSP ) FAS 115-1 and FAS 124-1,
+ The Meaning of Other-Than-Temporary Impairment and Its Application to Certain Investments ( FSP 115-1 ), which
+provides guidance on determining when investments in certain debt and equity securities are considered impaired, whether that
+impairment is other-than-temporary, and on measuring such impairment loss.  FSP 115-1 also includes accounting considerations
+subsequent to the recognition of an other-than-temporary impairments.  The Company expects to adopt FSP 115-1 effective for the
+quarter beginning January 1, 2006, and the adoption is not expected to have a material impact on our results of operations or financial
+condition. 
+
+  3.  COMMON STOCK OFFERINGS AND WARRANTS 
+   In December 2005, the Company sold 7,142,858 shares of its common stock at $2.10 per share for aggregate
+proceeds of approximately $15,000,000, before placement fees and other offering expenses.  The purchasers also received five year
+warrants to purchase 1,785,714 shares of 8x8 common stock at an exercise price of $3.00 per share.  The shares issued in this
+offering were issued under a shelf registration statement previously filed with the Securities and
+Exchange Commission relating to the sale of up to $125,000,000 of 8x8 securities.   The Company paid total cash fees of six percent of
+the gross proceeds to the placement agents, and issued to the placement agents three year warrants to purchase 142,858 common
+shares at $2.10 per share and 35,714 common shares at $3.00 per share.  As a result of this offering, certain anti-dilution provisions
+included in warrants issued to investors in common stock offerings completed during fiscal 2005 were triggered.  Accordingly, the
+Company modified a warrant to purchase 2,000,000 shares at an exercise price of $2.88 per share so that it is now exercisable for
+2,071,818 shares at an exercise price of $2.79 per share.  The Company also modified a warrant to purchase 1,498,538 shares at an
+exercise price of $3.84 per share so that it is now exercisable for 1,587,806 shares at an exercise price of $3.61 per share.  No other
+terms of the warrants were affected. 
+ In connection with, and in consideration for, the execution of a marketing and distribution agreement with TJF Associates, LLC
+("TJF") on December 10, 2004, the Company agreed to issue a warrant to TJF for the purchase of up to 4,500,000 shares of 8x8
+common stock with vesting terms that were conditional upon TJF delivering 50,000 subscribers to the Packet8 service by December 31,
+2005. The terms of the warrant provided that at any time prior to December 31, 2009, TJF or its transferees could exercise in whole or
+in part a warrant to acquire up to 4,500,000 shares of 8x8 common stock, at a purchase price per share equal to $5.50. As no warrants
+had vested by December 31, 2005, the warrant was automatically cancelled as of that date.  
+
+  4.  BALANCE SHEET DETAIL  
+
+December 31,    March 31,
+                                                             2005           2005
+                                                         -------------  ------------- 
+Inventory (in thousands):
+   Raw materials and work-in-process .................. $       2,796  $       1,267
+   Finished goods .....................................           392            333
+                                                         -------------  -------------
+                                                        $       3,188  $       1,600
+                                                         =============  =============
+
+5. NET LOSS PER SHARE   
+  Basic net loss per share is computed by dividing net loss available to common stockholders (numerator) by the
+weighted average number of vested, unrestricted common shares outstanding during the period (denominator).  Due to net losses
+incurred for the three and nine months ended December 31, 2005 and 2004, basic and diluted shares outstanding for each of the
+respective periods are the same.  The following equity instruments were not included in the computations of net loss per share because
+the effect on the calculations would be anti-dilutive (in thousands): 
+
+Three Months Ended     Nine Months Ended
+                                                           December 31,          December 31,
+                                                       --------------------  --------------------
+                                                          2005       2004       2005       2004
+                                                       ---------  ---------  ---------  --------- 
+Common stock options ................................     8,867      6,834      8,867      6,834
+Warrants ............................................     8,417      5,979      8,417      5,979
+                                                       ---------  ---------  ---------  ---------
+                                                         17,284     12,813     17,284     12,813
+                                                       =========  =========  =========  =========
+
+6. COMPREHENSIVE LOSS 
+  Comprehensive loss, as defined, includes all changes in equity (net assets) during a period from non-owner
+sources. The difference between the Company's net loss and comprehensive loss is due primarily to unrealized gains and losses
+on short-term investments classified as available-for-sale. Comprehensive loss for the three and nine months ended December 31,
+2005 and 2004, was as follows (in thousands):  
+
+Three Months Ended     Nine Months Ended
+                                                           December 31,          December 31,
+                                                       --------------------  --------------------
+                                                          2005       2004       2005       2004
+                                                       ---------  ---------  ---------  --------- 
+Net loss, as reported................................ $  (6,789) $  (5,840) $ (17,493) $ (12,159)
+Unrealized gain (loss) on investments in securities..         7         --         (6)        --
+Less: reclassification adjustment for gain
+   (loss) included in net loss.......................        --         --          6         --
+                                                       ---------  ---------  ---------  ---------
+Comprehensive loss................................... $  (6,782) $  (5,840) $ (17,493) $ (12,159)
+                                                       =========  =========  =========  =========
+
+7. SEGMENT REPORTING  
+   SFAS No. 131, "Disclosures about Segments of an Enterprise and Related Information,  establishes annual
+and interim reporting standards for an enterprise's business segments and related disclosures about its products, services, geographic
+areas and major customers. Under SFAS No. 131, the method for determining what information to report is based upon the way
+management organizes the operating segments within the Company for making operating decisions and assessing financial
+performance. The Company has determined that it has only one reportable segment. The following net revenues are presented by
+groupings of similar products and services (in thousands):  
+
+Three Months Ended     Nine Months Ended
+                                                           December 31,          December 31,
+                                                       --------------------  --------------------
+                                                          2005       2004       2005       2004
+                                                       ---------  ---------  ---------  --------- 
+Packet8 and videophones/equipment.................... $   8,400  $   2,707  $  20,972  $   6,199
+Semiconductors and related software..................        80        232        550      1,262
+Hosted iPBX solutions................................         3         25         29        103
+                                                       ---------  ---------  ---------  ---------
+   Total revenues ................................... $   8,483  $   2,964  $  21,551  $   7,564
+                                                       =========  =========  =========  =========
+
+No customer represented greater than 10% of the Company's total revenues for the three or nine months ended
+December 31, 2005 or 2004. The Company's revenue distribution by geographic region (based upon the destination of shipments) was
+as follows:  
+
+Three Months Ended     Nine Months Ended
+                                                           December 31,          December 31,
+                                                       --------------------  --------------------
+                                                          2005       2004       2005       2004
+                                                       ---------  ---------  ---------  --------- 
+   Americas..........................................        99%        93%        98%        89%
+   Europe............................................        --          7%         1%         9%
+   Asia Pacific......................................         1%        --          1%         2%
+                                                       ---------  ---------  ---------  ---------
+                                                            100%       100%       100%       100%
+                                                       =========  =========  =========  =========
+
+8. COMMITMENTS AND CONTINGENCIES 
+  Guarantees  
+  Indemnifications 
+  In the normal course of business, the Company indemnifies other parties, including customers, lessors and parties to other
+transactions with the Company, with respect to certain matters.  
+
+ It is not possible to determine the maximum potential amount of the Company's exposure under these indemnification
+agreements due to the limited history of prior indemnification claims and the unique facts and circumstances involved in each particular
+agreement. Historically, payments made by the Company under these agreements have not had a material impact on the Company's
+operating results or financial position.  
+
+   Product Warranties 
+  The Company accrues for the estimated costs that may be incurred under its product warranties upon revenue
+recognition. Changes in the Company's product warranty liability during the three and nine months ended December 31, 2005 were as
+follows (in thousands): 
+
+Three          Nine
+                                                         Months Ended   Months Ended
+                                                         December 31,   December 31,
+                                                             2005           2005
+                                                         -------------  ------------- 
+Balance at beginning of period......................... $         182  $         187
+Accruals for warranties................................           176            428
+Settlements............................................          (106)          (276)
+Changes in estimates...................................            --            (87)
+                                                         -------------  -------------
+Balance at end of period............................... $         252  $         252
+                                                         =============  =============
+
+Standby letters of credit.    
+ The Company has standby letters of credit totaling $500,000, which were issued to guarantee certain contractual obligations and
+are collateralized by cash deposits at the Company's primary bank. These letters of credit are recorded in the restricted cash and other
+assets line items in the condensed consolidated balance sheets. 
+  Leases 
+  At December 31, 2005, future minimum annual lease payments under noncancelable operating leases were
+as follows (in thousands): 
+
+Year ending March 31:
+   Remaining 2006...................................... $         120
+   2007................................................           482
+   2008................................................           490
+   2009................................................           493
+   2010................................................           206
+                                                         -------------
+Total minimum payments................................. $       1,791
+                                                         =============
+
+In April 2005, the Company entered into a series of noncancelable five year capital lease agreements for office
+equipment bearing interest at various rates.  At December 31, 2005, future minimum annual lease payments were as follows (in
+thousands): 
+
+Year ending March 31:
+   Remaining 2006...................................... $           6
+   2007................................................            25
+   2008................................................            25
+   2009................................................            25
+   2010................................................            25
+   2011................................................             2
+                                                         -------------
+Total minimum payments.................................           108
+Less: Amount representing interest.....................           (13)
+                                                         -------------
+                                                                   95
+Less: Short-term portion of capital lease obligations..           (19)
+                                                         -------------
+Long-term portion of capital lease obligations......... $          76
+                                                         =============
+
+Assets under capital lease at December 31, 2005 totaled $108,000 with accumulated depreciation of
+$14,000. 
+  Legal Proceedings 
+  The Company is involved in various legal claims and litigation that have arisen in the normal course of its
+operations. While the results of such claims and litigation cannot be predicted with certainty, the Company currently believes that the
+final outcome of such matters will not have a materially adverse effect on the Company's financial position, results of operations or cash
+flows. However, should the Company not prevail in any such litigation, it could have a materially adverse impact on the Company's
+operating results, cash flows or financial position.  
+  Regulatory 
+  To date VoIP communication services have been largely unregulated in the United States. Many regulatory
+actions are underway or are being contemplated by federal and state authorities, including the Federal Communications Commission,
+or FCC, and state regulatory agencies.  To date, the FCC has treated VoIP service providers as information service providers, though
+the FCC has avoided specifically ruling on this categorization. Information service providers are currently exempt from federal and state
+regulations governing common carriers, including the obligation to pay access charges and contribute to the universal service fund. The
+FCC is currently examining the status of VoIP service providers and the services they provide. The FCC initiated a notice of proposed
+rule-making (NPRM) in early 2004 to gather public comment on the appropriate regulatory environment for IP telephony.  In November
+2004, the FCC ruled that the VoIP service of a competitor and "similar" services are jurisdictionally interstate and not subject to state
+certification, tariffing and other legacy telecommunication carrier regulations.  The FCC ruling has been appealed by several states and
+the outcome of these appeals cannot be determined at this time. If the FCC or an appeals court were to determine that VoIP service
+providers, or the services they provide, are subject to FCC regulation, including the payment of access charges and contribution to the
+universal service funds, it could have a material adverse effect on the Company's business and operating results.  
+
+  On May 19, 2005, the FCC unanimously adopted an Order and NPRM that requires VoIP providers that
+interconnect with the public switched telephone network ( PSTN ), or interconnected VoIP providers, to provide emergency
+911 ( E911 ) service. On June 3, 2005, the FCC released the text of the First Report and Order and Notice of
+Proposed Rulemaking in the VoIP E911 proceeding (the  VoIP E911 Order ).   As a result of the VoIP E911 Order,
+interconnected VoIP providers are required to offer the E911 emergency calling capabilities present on traditional switched and cellular
+phone lines.  All interconnected VoIP providers must deliver 911 calls to the appropriate local public safety answering point, or PSAP,
+through the PSTN's legacy wireline selective router, which is used to deliver E911 calls, along with call back number and location,
+where the PSAP is able to receive that information. E911 must be included in the basic service offering; it cannot be an optional or extra
+feature.  The PSAP delivery obligation, along with call back number and location information must be provided regardless of whether
+the VoIP service is "fixed" or "nomadic." User registration of location is permissible initially, although the FCC is committed to an
+advanced form of E911 that will determine user location without user intervention, one of the topics of the further NPRM.  The VoIP
+E911 Order mandates that existing and prospective customers must be notified, prominently and in plain language, of the capabilities
+and limitations of VoIP service with respect to emergency calling, and  interconnected VoIP providers must obtain and maintain
+affirmative acknowledgement from each customer that the customer has read and understood the notice of limitations and
+distribute warning labels or stickers alerting consumers and other potential users of the limitations of VoIP E911 service to each
+new subscriber prior to the initiation of service.  In addition, an interconnected VoIP provider must make it possible for customers to
+update their address (i.e., change their registered location) via at least one option that requires no equipment other than that needed to
+access the VoIP service.  On July 26, 2005 the FCC issued guidance to all interconnected VoIP providers regarding the July 29, 2005
+notification deadline.  In this guidance, the FCC determined that it would not initiate enforcement action until August 30, 2005, against
+any provider of interconnected VoIP service regarding the requirement that it obtain affirmative acknowledgement by every existing
+subscriber on the condition that the provider file a detailed report with the Commission by August 10, 2005, containing a variety of
+detailed descriptions.  The FCC's notice further stated that it expected interconnected VoIP providers who had not received subscriber
+acknowledgements from one hundred percent of existing subscribers by August 29, 2005 to disconnect, no later than August 30, 2005,
+all subscribers from whom it had not received such acknowledgement. To date, the Company has filed the status reports requested by
+the FCC, and suspended service of an insignificant number of subscribers on August 30, 2005.  The Company also filed a VoIP E911
+compliance report , as required by the FCC, on November 28, 2005.  As was detailed in the compliance report, the Company currently
+cannot offer E911 services that route directly to a local PSAP to all of its customers, as the direct interconnection to local PSAPs is not
+available in certain rate centers from which telephone numbers are provisioned for the Packet8 service.  The Company is addressing
+this issue with its telecommunication interconnection partners.   On November 28, 2005, the Company began routing certain nomadic
+911 calls and 911 calls that cannot be directly connected to a local PSAP, along with location information, to a national emergency call
+center.  The emergency dispatchers in this national call center utilize the location information provided to route the call to the correct
+PSAP or first responder,  The FCC may determine that the Company's nomadic E911 solution does not satisfy the requirements of the
+VoIP E911 order because, in some instances, the Company will not be able to connect Packet8 subscribers directly to a PSAP  In this
+case, the FCC could require the Company to disconnect a significant number of subscribers. The effect of such disconnections or any
+enforcement action initiated by the FCC or other agency or task force against the Company could have a material adverse effect on the
+Company's financial position, results of operations and cash flows.  On January 1, 2006, the Company began charging its customers a
+monthly fee of $1.99 for E911 services on all Packet8 phone numbers capable of placing outbound calls in order to recoup some of the
+expenses associated with providing nomadic E911 service.  The impact of this price increase on our customers or the Company's
+inability to recoup its costs or liabilities in providing E911 services or other factors could have a material adverse effect on the
+Company's financial position, results of operations and cash flows. 
+
+ On August 5, 2005, the FCC unanimously adopted an order responsive to a joint petition filed by the
+Department of Justice, the Federal Bureau of Investigation, and the Drug Enforcement Administration asking the FCC to declare that
+broadband Internet access services and VoIP services be covered by the Communications Assistance for Law Enforcement Act, or
+CALEA.  The Order concludes that CALEA applies to facilities-based broadband Internet access providers and providers of
+interconnected VoIP service and requires these providers to be in full compliance within eighteen months of September 23, 2005.  The
+FCC also stated that, in the coming months, it will release another order that will address separate questions regarding the assistance
+capabilities required of the providers covered by the August 5, 2005 order.  The FCC stated that the subsequent order will include other
+important issues under CALEA, such as compliance extensions and exemptions, cost recovery, identification of future services and
+entities subject to CALEA, and enforcement.  Because the FCC has not yet released the implementation details in the second order, it
+is impossible for the Company to quantify the effects that this order, or other future orders, will have, but failure of the Company to
+achieve compliance with any future CALEA orders or any enforcement action initiated by the FCC or other agency or task force against
+the Company could have a material adverse effect on the Company's financial position, results of operations or cash flows. 
+
+ Several state regulatory authorities have contacted the Company regarding its Packet8 service.  These inquiries
+have ranged from notification that the Packet8 service should be subject to local regulation, certification and fees to broad inquiries into
+the nature of the Packet8 services provided.  The Company responds to the various state authorities as inquiries are received.  Based
+on advice of counsel, the Company disputes the assertion, among others, that the Packet8 service should be subject to state
+regulation.  While the Company does not believe that exposure to material amounts of fees or penalties exists, if 8x8 is subject to an
+enforcement action, the Company may become subject to liabilities and may incur expenses that adversely affect its financial position,
+results of operations and cash flows. The California Public Utilities Commission (CPUC) instituted its own investigation in early 2004 to
+determine how it will classify and treat VoIP service providers like Packet8.  On April 7, 2005, the CPUC instituted a rulemaking to
+assess and revise the regulation of all telecommunications utilities in California except for small incumbent local exchange carriers
+(ILECs). The primary goal of this proceeding is to develop a uniform regulatory framework for all telecommunications utilities, except
+small ILECs, to the extent that it is feasible and in the public interest to do so. While not specifically directed at VoIP, it is unclear at this
+time what impact this new rulemaking will have on the CPUCs classification or treatment of VoIP services. In late 2004 and early 2005,
+the Company received notices from multiple municipalities in California that the Packet8 service is subject to utility user taxes, as
+defined in the respective municipal codes.  The notices require that the Company begin collecting and remitting utility user taxes no
+later than January 1, 2005.  The Company has responded to and disputed the municipalities' assertions. 
+
+ The effect of potential future VoIP telephony laws and regulations on the Company's operations, including, but
+not limited to, Packet8, cannot be determined. 
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL
+CONDITION AND RESULTS OF OPERATIONS  
+  FORWARD-LOOKING STATEMENTS    
+ This Discussion and Analysis of Financial Condition and Results of Operations contains forward-looking statements within the
+meaning of Section 27A of the Securities Act and Section 21E of the Exchange Act.  Any statements contained herein that are not
+statements of historical fact may be deemed to be forward-looking statements. For example, words such as  may, 
+ will,   should,   estimates,   predicts,   potential,   continue, 
+ strategy,   believes,   anticipates,   plans,   expects,   intends, 
+and similar expressions are intended to identify forward-looking statements. You should not place undue reliance on these
+forward-looking statements. Actual results could differ materially from those anticipated in these forward-looking statements as a result of a
+number of factors, including our good faith assumptions being incorrect, our business expenses being greater than anticipated due to
+competitive factors or unanticipated development or sales costs; revenues not resulting in the manner anticipated or our failure to
+generate customer or investor interest. The forward-looking statements may also be impacted by the additional risks faced by us as
+described in this Report, including those set forth under the section entitled "Factors that May Affect Future Results." All forward-looking
+statements included in this Report are based on information available to us on the date hereof, and we assume no obligation to update
+any such forward-looking statements. 
+
+   BUSINESS OVERVIEW 
+    We develop and market telecommunication technology for Internet protocol, or IP, telephony and video
+applications.  We offer the Packet8 broadband voice over Internet protocol, or VoIP, and video communications service, Packet8 Virtual
+Office service and videophone equipment and services (collectively, Packet8).  We shipped our first VoIP product in 1998, launched our
+Packet8 service in November 2002, and launched the Packet8 Virtual Office business service offering in March 2004.  As of December
+31, 2005, we had approximately 113,000 Packet8 subscriber lines in service as compared to 93,000 lines at September 30, 2005 and
+57,000 lines at March 31, 2005.   Substantially all of our revenues are generated from the sale, license and provisioning of VoIP
+products, services and technology.  
+
+ On December 19, 2005, we sold 7,142,858 shares of our common stock at $2.10 per share for aggregate proceeds of approximately
+$15,000,000, before placement fees and other offering expenses.  The purchasers also received five year warrants to purchase  shares
+of 8x8 common stock at an exercise price of $3.00 per share.  The shares issued in this offering were issued under a shelf registration
+statement previously filed with the Securities and Exchange Commission relating to up to $125,000,000 of our securities. We paid total
+cash fees of six percent of the gross proceeds to the placement agents, and issued three year warrants to purchase 142,858 common
+shares at $2.10 per share and 35,714 common shares at $3.00 per share. 
+  Our fiscal year ends on March 31 of each calendar year. Each reference to a fiscal year in this Report refers to the
+fiscal year ending March 31 of the calendar year indicated (for example, fiscal 2006 refers to the fiscal year ending March 31,
+2006). 
+
+   CRITICAL ACCOUNTING POLICIES   ESTIMATES   
+
+ The discussion and analysis of our financial condition and results of operations are based upon our
+consolidated financial statements, which have been prepared in accordance with accounting principles generally accepted in the United
+States. The preparation of these financial statements requires us to make estimates and judgments that affect the reported amounts of
+assets, liabilities, revenues and expenses, and related disclosure of assets and liabilities. On an on-going basis, we evaluate our critical
+accounting policies and estimates. We base our estimates on historical experience and on various other assumptions that we believe to
+be reasonable under the circumstances, the results of which form the basis for making judgments about the carrying values of assets
+and liabilities that are not readily apparent from other sources. Actual results may differ from these estimates under different
+assumptions or conditions. Our critical accounting policies and estimates are discussed in our Annual Report on Form 10-K for the
+fiscal year ended March 31, 2005. 
+
+   RECENT ACCOUNTING PRONOUNCEMENTS 
+  
+ In December 2004, the Financial Accounting Standards Board (FASB) issued Statement of Financial Accounting Standards
+( SFAS ) No. 123(R),  Share-Based Payment,  requiring all share-based payments to employees, including
+grants of employee stock options, to be recognized as compensation expense in the consolidated financial statements based on their
+fair values. This standard includes two transition methods. Upon adoption, we will be required to use either the modified prospective or
+the modified retrospective transition method. Under the modified prospective method, awards that are granted, modified, or settled after
+the date of adoption should be measured and accounted for in accordance with SFAS No. 123(R). Unvested equity-classified awards
+that were granted prior to the effective date should continue to be accounted for in accordance with SFAS No. 123 except that amounts
+must be recognized in the statements of operations. Under the modified retrospective approach, the previously-reported amounts are
+restated (either to the beginning of the year of adoption or for all periods presented) to reflect the SFAS No. 123 amounts in the
+statements of operations.  
+ In March 2005, the Securities and Exchange Commission (SEC) issued Staff Accounting Bulletin No. 107
+(SAB 107) which provides guidance regarding the application of SFAS 123(R).  SAB 107 expresses views of the SEC regarding
+the interaction between SFAS No. 123(R), Share-Based Payment, and certain SEC rules and regulations and provides the
+SEC's views regarding the valuation of share-based payment arrangements for public companies. In particular, SAB 107 provides
+guidance related to share-based payment transactions with non-employees, the transition from nonpublic to public entity status,
+valuation methods (including assumptions such as expected volatility and expected term), the accounting for certain redeemable
+financial instruments issued under share-based payment arrangements, the classification of compensation expense, non-GAAP
+financial measures, first-time adoption of SFAS No. 123(R) in an interim period, capitalization of compensation cost related
+to share-based payment arrangements, the accounting for income tax effects of share-based payment arrangements upon adoption of
+SFAS No. 123(R), the modification of employee share options prior to adoption of SFAS No. 123(R) and disclosures in
+Management's Discussion and Analysis (MD A) subsequent to adoption of SFAS 123(R). 
+ On April 14, 2005, the SEC approved a new rule that delays the effective date for SFAS No. 123(R) to annual periods
+beginning after June 15, 2005. Our adoption of SFAS No. 123(R) on April 1, 2006 is expected to have a material impact on
+our consolidated results of operations.  We are currently evaluating the impact of this standard and its transitional alternatives. 
+ In May 2005, the FASB issued SFAS No. 154,  Accounting Changes and Error Corrections: a Replacement of Accounting
+Principles Board Opinion No. 20 and FASB Statement No. 3.  SFAS No. 154 requires retrospective application for voluntary
+changes in accounting principle unless it is impracticable to do so or another methodology is required by the standard. Retrospective
+application refers to the application of a different accounting principle to previously issued financial statements as if that principle had
+always been used. SFAS No. 154's retrospective application requirement replaces APB No 20's ( Accounting Changes )
+requirement to recognize most voluntary changes in accounting principle by including in net income (loss) of the period of the change
+the cumulative effect of changing to the new accounting principle. This Statement defines retrospective application as the application of
+a different accounting principle to prior accounting periods as if that principle had always been used or as the adjustment of previously
+issued financial statements to reflect a change in the reporting entity. SFAS No. 154 also redefines restatement as the revising of
+previously issued financial statements to reflect the correction of an error. The requirements are effective for accounting changes made
+in fiscal years beginning after December 15, 2005 and will only impact the consolidated financial statements in periods in which a
+change in accounting principle is made.  We do not expect that the adoption of SFAS No. 154 in the first quarter of fiscal 2007
+will have a material impact on our results of operations and financial condition. 
+
+ In November 2005, the FASB issued FASB Staff Position (FSP) FAS 115-1 and FAS 124-1, The Meaning of
+Other-Than-Temporary Impairment and Its Application to Certain Investments (FSP 115-1), which provides guidance on determining
+when investments in certain debt and equity securities are considered impaired, whether that impairment is other-than-temporary, and
+on measuring such impairment loss.  FSP 115-1 also includes accounting considerations subsequent to the recognition of an
+other-than-temporary impairment.  We expect to adopt FSP 115-1 effective with the quarter beginning January 1, 2006, and the adoption is
+not expected to have a material impact on our results of operations or financial condition.  
+
+   RESULTS OF OPERATIONS    
+ The following discussion should be read in conjunction with our condensed consolidated financial statements
+and the notes thereto.  
+   Revenues    
+
+December 31,
+                                               --------------------   Dollar    Percent
+License and service revenues                     2005       2004      Change    Change
+- ---------------------------------------------  ---------  ---------  --------- --------- 
+                                                (dollar amounts in thousands)             
+  Three months ended......................... $   6,769  $   2,332  $   4,437     190.3%
+  Percentage of total revenues...............      79.8%      78.7%
+  Nine months ended.......................... $  17,484  $   5,646  $  11,838     209.7%
+  Percentage of total revenues...............      81.1%      74.6%
+
+License and service revenues consist primarily of revenues attributable to our Packet8 service and technology licenses and related
+maintenance revenues related to our VoIP and video intellectual property, as well as any royalties earned under such licenses.  We
+expect that Packet8 service revenues will continue to comprise nearly all of license and service revenues on a going forward basis.
+The increase for the third quarter of fiscal 2006 was primarily due to a $4.5 million increase in revenues attributable to our Packet8
+service due to the growth in the subscriber base.  As of December 31, 2005, we had 113,000 Packet8 subscriber lines in service as
+compared to 40,000 lines at December 31, 2004. The increase in Packet8 service revenues was partially offset by a $47,000 decrease
+in license and maintenance revenues associated with our VoIP semiconductor telephony technology.    
+ The increase for the nine months ended December 31, 2005 was primarily due to a $12.2 million increase in revenues attributable
+to our Packet8 service due to the growth in the subscriber base.  The increase in Packet8 service revenues was partially offset by a
+$369,000 decrease in license and maintenance revenues associated with our VoIP semiconductor telephony technology. 
+ We defer revenue recognition of new Packet8 subscriber revenue until we deem that the customer has accepted the service.  As
+we have been providing our Packet8 service for a limited period of time, we have not developed sufficient history to apply a return rate
+and reserve against new order revenue.  During the first quarter of fiscal 2005, we changed our terms of service such that customers
+may terminate their service and receive a full refund of fees previously paid within thirty days of order placement rather than within thirty
+days of service activation.   As a result of the change in terms of service, we recognized an additional $100,000 of new order revenue
+during the first quarter of fiscal 2005. 
+
+December 31,
+                                               --------------------   Dollar    Percent
+Product revenues                                 2005       2004      Change    Change
+- ---------------------------------------------  ---------  ---------  --------- --------- 
+                                                (dollar amounts in thousands)             
+  Three months ended......................... $   1,714  $     632  $   1,082     171.2%
+  Percentage of total revenues...............      20.2%      21.3%
+  Nine months ended.......................... $   4,067  $   1,918  $   2,149     112.0%
+  Percentage of total revenues...............      18.9%      25.4%
+
+Product revenues consist of revenues from sales of VoIP terminal adapters and videophones, primarily attributable to our Packet8
+service, as well as sales of VoIP semiconductor products.  The increase for the third quarter of fiscal 2006 was primarily attributable to
+a $1.2 million increase for product revenues attributable to the Packet8 service due to the growth in the subscriber base.  This
+increase was partially offset by a $126,000 decrease in sales of VoIP semiconductors.    We completed our last shipment of VoIP
+semiconductor products during the first quarter of fiscal 2006, and do not expect to record any future revenues from sales of
+semiconductor products. 
+ The increase for the first nine months of fiscal 2006 as compared to the comparable period in the prior year was
+primarily attributable to a $2.6 million increase for product revenues attributable to the Packet8 service due to the growth in the
+subscriber base.  This increase was partially offset by a $410,000 decrease in sales of VoIP semiconductors.     
+
+ No customer represented greater than 10% of our total revenues for the three or nine months ended December
+31, 2005 or 2004. Our revenue distribution by geographic region (based upon the destination of shipments) was as follows:  
+
+Three Months Ended     Nine Months Ended
+                                                           December 31,          December 31,
+                                                       --------------------  --------------------
+                                                          2005       2004       2005       2004
+                                                       ---------  ---------  ---------  --------- 
+   Americas..........................................        99%        93%        98%        89%
+   Europe............................................        --          7%         1%         9%
+   Asia Pacific......................................         1%        --          1%         2%
+                                                       ---------  ---------  ---------  ---------
+                                                            100%       100%       100%       100%
+                                                       =========  =========  =========  =========
+
+Cost of License and Service Revenues   
+
+December 31,
+                                               --------------------   Dollar    Percent
+Cost of license and service revenues             2005       2004      Change    Change
+- ---------------------------------------------  ---------  ---------  --------- --------- 
+                                                (dollar amounts in thousands)             
+  Three months ended......................... $   3,326  $   1,442  $   1,884     130.7%
+  Percentage of license and service revenues.      49.1%      61.8%
+  Nine months ended.......................... $   8,190  $   3,492  $   4,698     134.5%
+  Percentage of total revenues...............      38.0%      46.2%
+
+The cost of license and service revenues consists of costs primarily associated with network operations and
+related personnel, telephony origination and termination services provided by third party carriers and technology license and royalty
+expenses.    The increase in cost of license and service revenues for the three and nine months ended December 31, 2005 as
+compared to the comparable periods in the prior year was attributable to a $1.8 million and $4.4 million increase in Packet8 network
+operations and third party carrier service charges due to the year over year growth in the Packet8 subscriber base, respectively.    
+ The increase in cost of license and service revenues for the first nine months of fiscal 2006 was attributable to a
+$4.7 million increase in Packet8 network operations and third party carrier service charges due to the year over year growth in the
+Packet8 subscriber base. 
+
+   Cost of Product Revenues   
+
+December 31,
+                                               --------------------   Dollar    Percent
+Cost of product revenues                         2005       2004      Change    Change
+- ---------------------------------------------  ---------  ---------  --------- --------- 
+                                                (dollar amounts in thousands)             
+  Three months ended......................... $   3,357  $   1,073  $   2,284     212.9%
+  Percentage of product revenues.............     195.9%     169.8%
+  Nine months ended.......................... $   7,999  $   2,862  $   5,137     179.5%
+  Percentage of total revenues...............      37.1%      37.8%
+
+The cost of product revenues consists of costs associated with systems, components, system and
+semiconductor manufacturing, assembly and testing performed by third-party vendors, estimated warranty obligations and direct and
+indirect costs associated with product purchasing, scheduling, quality assurance, shipping and handling. The increase in the cost of
+product revenues for the third quarter of fiscal 2006 as compared to the prior year quarter was primarily due to a $2.4 million increase
+attributable to equipment provided to Packet8 subscribers upon activation of their service and related manufacturing, personnel,
+handling, overhead and shipping costs.  The increase included over $1.0 million attributable to an increase in cost of goods sold for
+videophone sales recognized during the third quarter. The increase in Packet8 cost of product revenues was partially offset by a
+$74,000 decrease in cost of revenues for semiconductor products due to the decrease in sales of such products during the third quarter
+of fiscal 2006 due to the end of life of these products initiated in fiscal 2004.  
+ The increase in the cost of product revenues for the first nine months of fiscal 2006 as compared to the
+comparable period in the prior year was primarily due to an approximately $5.5 million increase attributable to equipment provided to
+Packet8 subscribers upon activation of their service and related manufacturing, personnel, handling, overhead and shipping costs. The
+increase in Packet8 cost of product revenues was partially offset by a $384,000 decrease in cost of revenues for semiconductor
+products due to the decrease in sales of such products during the third quarter of fiscal 2006 due to the end of life of these products
+initiated in fiscal 2004. 
+ We generally do not separately charge Packet8 subscribers for the terminal adapters used to provide our
+service when they subscribe on our website.  We have also offered incentives to customers who purchase terminal adapters in our
+retail channels to offset the cost of the equipment purchased from a retailer, and generally these incentives are recorded as reductions
+of revenue.  In accordance with FASB Emerging Issues Task Force Issue No. 00-21, a portion of Packet8 services revenues is
+allocated to product revenues, but these revenues are less than the cost of the terminal adapters at the time of purchase.  Accordingly,
+cost of product revenues exceeds product revenues, and we expect this trend to continue. 
+
+   Research and Development Expenses   
+
+December 31,
+                                               --------------------   Dollar    Percent
+Research and development                         2005       2004      Change    Change
+- ---------------------------------------------  ---------  ---------  --------- --------- 
+                                                (dollar amounts in thousands)             
+  Three months ended......................... $   1,470  $     784  $     686      87.5%
+  Percentage of total revenues...............      17.3%      26.5%
+  Nine months ended.......................... $   4,240  $   2,044  $   2,196     107.4%
+  Percentage of total revenues...............      19.7%      27.0%
+
+Research and development expenses consist primarily of personnel, system prototype, software and equipment
+costs necessary for us to conduct our engineering and development efforts. The increase in research and development expenses for
+the third quarter of fiscal 2006 as compared to the comparable period in the prior year was primarily attributable to a $626,000 increase
+in personnel costs due to additional employee and contractor headcount to support the growth of our Packet8 service and development
+of new products, features and enhancements.   
+ The increase in research and development expenses for the first nine months of fiscal 2006 as compared to the
+comparable period in the prior year was primarily attributable to a $2 million increase in personnel costs due to additional employee and
+contractor headcount to support the growth of our Packet8 service and development of new products, features and enhancements. 
+
+   Selling, General and Administrative Expenses   
+
+December 31,
+                                               --------------------   Dollar    Percent
+Selling, general and administrative              2005       2004      Change    Change
+- ---------------------------------------------  ---------  ---------  --------- --------- 
+                                                (dollar amounts in thousands)             
+  Three months ended......................... $   7,244  $   5,650  $   1,594      28.2%
+  Percentage of total revenues...............      85.4%     190.6%
+  Nine months ended.......................... $  19,151  $  11,785  $   7,366      62.5%
+  Percentage of total revenues...............      88.9%     155.8%
+
+Selling, general and administrative expenses consist primarily of personnel and related overhead costs for
+sales, marketing, customer support, finance, human resources and general management. Such costs also include sales commissions,
+trade show, advertising and other marketing and promotional expenses.  The increase in selling, general and administrative expenses
+for the third quarter of fiscal 2006 as compared to the comparable period in the prior year was primarily attributable to a $717,000
+increase in personnel costs due to additional employee and contractor headcount to support the growth of our Packet8 service,
+primarily for the increase in staffing customer service positions, a $878,000 increase in sales agent and retailer commissions due to the
+expansion of our distribution channels for our Packet8 service, and a $265,000 increase in credit card processing fees.  The increase in
+selling, general and administrative expenses was partially offset by a $177,000 decrease in legal expenses. 
+ The increase in selling, general and administrative expenses for the first nine months of fiscal 2006 as
+compared to the comparable period in the prior year was primarily attributable to a $3.2 million increase in personnel costs due to
+additional employee and contractor headcount to support the growth of our Packet8 service, primarily for the increase in staffing
+customer service positions, a $820,000 increase in advertising, public relations and other marketing and promotional expenses, a $2.4
+million increase in sales agent and retailer commissions due to the expansion of our distribution channels for our Packet8 service and a
+$629,000 increase in credit card processing fees. 
+
+   Other Income, Net   
+
+December 31,
+                                               --------------------   Dollar    Percent
+Other income, net                                2005       2004      Change    Change
+- ---------------------------------------------  ---------  ---------  --------- --------- 
+                                                (dollar amounts in thousands)             
+  Three months ended......................... $     125  $     145  $     (20)    -13.8%
+  Percentage of total revenues...............       1.5%       4.9%
+  Nine months ended.......................... $     536  $     440  $      96      21.8%
+  Percentage of total revenues...............       2.5%       5.8%
+
+The decrease in other income for the third quarter of fiscal 2006 as compared to the prior year was primarily
+attributable to a reduction in investment income. 
+ The increase in other income for the first nine months of fiscal 2006 as compared to the prior year was primarily
+attributable to an increase in interest income attributable to higher average cash balances invested and higher interest rates earned on
+such balances, partially offset by the fiscal 2005 receipt of $181,000 of escrow funds related to a cost-basis common stock investment
+in an entity that was acquired in 1999 by a third party. 
+
+   Provision for Income Taxes    
+
+December 31,
+                                               --------------------   Dollar    Percent
+Benefit for income taxes                         2005       2004      Change    Change
+- ---------------------------------------------  ---------  ---------  --------- --------- 
+                                                (dollar amounts in thousands)             
+  Three months ended......................... $      --  $      --  $      --        --
+  Percentage of total revenues...............        --         --
+  Nine months ended.......................... $      --  $      20  $     (20)   -100.0%
+  Percentage of total revenues...............        --        0.3%
+
+There were no tax provisions recorded during the three or nine month periods ended December 31, 2005 and 2004, due to year to
+date net losses incurred. In the quarter ended June 30, 2004, we recorded approximately $20,000 of income tax benefit attributable to
+an income tax refund received by one of our foreign subsidiaries. No tax provisions have been recorded for any period presented, as
+we believe that, based on the history of our operating losses and other factors, the weight of available evidence indicates that it is more
+likely than not that we will not be able to realize the benefit of our net operating losses.  Accordingly, a full valuation reserve has been
+recorded against our net deferred tax assets.  
+
+   Liquidity and Capital Resources    
+ At December 31, 2005, we had $16.8 million of cash and cash equivalents, $0.3 million in restricted cash, and $10.7 million
+in investments in marketable securities for a combined total of $27.8 million. In comparison, at March 31, 2005, we had $22.5
+million of cash and cash equivalents, $0.3 million in restricted cash, and $9 million in investments in marketable securities for a
+combined total of $31.8 million.   Our cash and cash equivalents balance decreased by $5.7 million and the combined balance
+decreased by $4.0 million during the first nine months of fiscal 2006.  The decrease in the combined balance was primarily attributable
+to $16.9 million used to fund operations, as discussed below.   
+ Cash used in operations of approximately $17.0 million for the first nine months of fiscal 2006 was primarily attributable to the net
+loss of $17.5 million, adjusted for $0.5 million of depreciation and amortization expense.  The favorable changes in operating assets
+and liabilities were primarily attributable to a $0.4 million increase in accounts payable, a $0.8 million decrease in deferred cost of
+goods sold, and a $0.6 million decrease in deferred revenue. These favorable changes were offset by a $1.6 million increase in
+inventory.  Cash used in operations of approximately $12.2 million for the first nine months of fiscal 2005 was primarily
+attributable to the net loss of $12.2 million and net cash used in changes in operating assets and liabilities of $0.2 million, primarily for
+inventory purchases, adjusted for $0.1 million of depreciation and amortization. Our negative operating cash flows primarily reflect our
+net losses resulting from the same factors affecting our revenues and expenses as described above. 
+ Cash used in investing activities of $2.9 million for the nine months ended December 31, 2005 was primarily attributable to $1.2
+million of purchases of fixed assets and purchases of short term investments of $7.1 million.  These cash outflows were partially offset
+by proceeds of $5.4 million received from the sale and maturity of short term investments. Cash used in investing activities for the nine
+months ended December 31, 2004 was primarily attributable to $1.4 million of purchases of fixed assets and purchases of investments
+of $0.6 million, partially offset by a $0.6 million decrease in cash classified as restricted cash due to the termination of letters of
+credit. 
+ Cash provided by financing activities of approximately $14.2 million for the first nine months of fiscal 2006 consisted primarily of
+$14 million of net proceeds received from a common stock offering completed in December 2005 and $0.2 million of proceeds from the
+issuance of common stock under our employee stock plans.  Cash provided by financing activities during the first nine months of fiscal
+2005 consisted primarily of $11.1 million of net proceeds received from a common stock offering completed in June 2004 and
+approximately $12 million of proceeds received on September 30, 2004 from a common stock offering that closed on October 1, 2004. 
+
+ At December 31, 2005, we had open purchase orders of approximately $0.5 million, primarily related to inventory purchases from
+our contract manufacturers.   These purchase commitments are reflected in our consolidated financial statements once
+goods or services have been received or at such time when we are obligated to make payments related to these goods or
+services.  At December 31, 2005, future minimum annual lease payments under noncancelable operating leases were as
+follows (in thousands): 
+
+Year ending March 31:
+   Remaining 2006...................................... $         120
+   2007................................................           482
+   2008................................................           490
+   2009................................................           493
+   2010................................................           206
+                                                         -------------
+Total minimum payments................................. $       1,791
+                                                         =============
+
+We had no off-balance sheet arrangements at December 31, 2005. 
+
+ In April 2005, the Company entered into a series of noncancelable five year capital lease agreements for office
+equipment bearing interest at various rates.  At December 31, 2005, future minimum annual lease payments were as follows (in
+thousands): 
+
+Year ending March 31:
+   Remaining 2006...................................... $           6
+   2007................................................            25
+   2008................................................            25
+   2009................................................            25
+   2010................................................            25
+   2011................................................             2
+                                                         -------------
+Total minimum payments.................................           108
+Less: Amount representing interest.....................           (13)
+                                                         -------------
+                                                                   95
+Less: Short-term portion of capital lease obligations..           (19)
+                                                         -------------
+Long-term portion of capital lease obligations......... $          76
+                                                         =============
+
+Based upon our current expectations, we believe that our current cash and cash equivalents and short-term investments, together
+with cash generated from operations, are sufficient to satisfy our expected working capital and capital expenditure requirements for at
+least the next twelve months.  
+ Although we believe that our current cash and cash equivalents will satisfy our expected working capital and
+capital expenditure requirements through at least the next twelve months, our business may change in ways we do not currently
+anticipate, which could require us to raise additional funds to support our operations earlier than otherwise expected.   Unless we
+achieve and maintain profitability, we will need to raise additional capital to support our business. We may not be able to obtain
+additional financing as needed on acceptable terms, or at all, which may require us to reduce our operating costs and other
+expenditures by making reductions in personnel and capital expenditures. Alternatively, or in addition to such potential measures, we
+may elect to implement other cost reduction actions as we may determine are necessary and in our best interests. Any such actions
+undertaken might limit our opportunities to realize plans for revenue growth and we might not be able to reduce our costs in amounts
+sufficient to achieve break-even or profitable operations.  
+
+  FACTORS THAT MAY AFFECT FUTURE RESULTS 
+  This report contains forward-looking statements within the safe harbor provisions of the Private Securities Litigation
+Reform Act of 1995 that involve risks and uncertainties. Our actual results could differ materially from those anticipated or projected in
+these forward-looking statements as a result of certain factors, including those set forth in the following cautionary statements and
+elsewhere in this report. The risks and uncertainties described below are not the only ones we face. Additional risks and uncertainties
+not presently known to us or that we currently deem immaterial also may impair our business operations. If any of the following risks
+were to occur, our business, financial condition or results of operations would likely suffer. In that event, the trading price of our
+common stock would decline. Any forward-looking statements should be considered in light of the factors discussed below. 
+
+  We have a history of losses and we are uncertain as to our future profitability. 
+  We recorded an operating loss of $17.5 million for the nine months ended December 31,
+2005, and we ended the period with an accumulated deficit of $188 million. In addition, we recorded operating losses of $20 million and
+$4 million for the fiscal years ended March 31, 2005 and 2004, respectively. We expect that we will continue to incur operating
+losses for the foreseeable future, and such losses may be substantial. We will need to generate significant revenue growth to achieve
+an operating profit. Given our history of fluctuating revenues and operating losses, we cannot be certain that we will be able to achieve
+profitability on either a quarterly or annual basis in the future. 
+    Our stock price has been highly volatile. 
+    The market price of the shares of our common stock has been and is likely to be highly volatile. It
+may be significantly affected by factors such as:  
+
+actual or anticipated fluctuations in our operating results;  
+   announcements of technical innovations;  
+   future legislation or regulation of the Internet and/or voice over Internet protocol (VoIP);  
+   loss of key personnel;  
+ new entrants into the VOIP service marketplace, including cable and incumbent telephone companies and other well-capitalized
+competitors; 
+   new products or new contracts by us, our competitors or their customers; and  
+   developments with respect to patents or proprietary rights, general market conditions, changes in
+financial estimates by securities analysts, and other factors which could be unrelated to, or outside of, our control.  
+
+   The stock market has from time to time experienced significant price and volume fluctuations that
+have particularly affected the market prices for the common stocks of technology companies and that have often been unrelated to the
+operating performance of particular companies. These broad market fluctuations may adversely affect the market price of our common
+stock. In the past, following periods of volatility in the market price of a company's securities, securities class action litigation has often
+been initiated against the issuing company. If our stock price is volatile, we may also be subject to such litigation. Such litigation could
+result in substantial costs and a diversion of management's attention and resources, which would disrupt business and could cause a
+decline in our operating results. Any settlement or adverse determination in such litigation would also subject us to significant
+liability. 
+    The growth of our business and our potential for future profitability depends on the growth of
+Packet8 revenue. 
+    We devote substantially all of our resources to the promotion, distribution and development of our
+Packet8 service. As such, our future growth and future profitability is dependent on revenue from our Packet8 service, as opposed to
+revenue from our semiconductor business, which has historically accounted for a substantial portion of the Company's consolidated
+revenues. 
+   Semiconductor and related software revenues represented approximately 83% and 88%, respectively,
+of the Company's consolidated revenues for fiscal 2004 and 2003. However, these revenues were not sufficient to profitably operate
+our semiconductor business. Therefore, we significantly reduced the scope of these operations. During the quarter ended June 30,
+2003, we completed the end-of-life of our legacy videoconferencing semiconductor products. In November 2003, we sold the VIP1
+video semiconductor development effort to Leadtek Research, Inc. (Leadtek). Under the terms of the transaction, Leadtek acquired the
+VIP1 development activities, key engineers, software tools and equipment. Revenues attributable to this development effort, prior to the
+aforementioned transaction, were $0 and $1.1 million during the fiscal years ended March 31, 2004 and 2003, respectively,
+representing approximately 0% and 12% of revenues of our semiconductor business and 0% and 10.5% of 8x8's consolidated
+revenues for such periods. As a result of the transfer of this development effort to Leadtek, this development revenue ceased. In
+January 2004, we initiated an end-of-life program for our VoIP telephony semiconductor products, including the Audacity T2 and T2U
+products. The semiconductor business no longer generates significant revenues.  
+   Revenues from the hosted iPBX solutions business represented approximately 3% and 8% of the
+Company's consolidated revenues for fiscal 2004 and 2003, respectively. In July 2003, we sold our European subsidiary, Centile
+Europe S.A., and licensed, on a non-exclusive basis, our iPBX technology to the purchaser. In March 2004, we announced the Packet8
+Virtual Office service, which includes technologies previously offered as part of the hosted iPBX solutions business. 
+    We have been selling our Packet8 service for a limited period and there is no guarantee that
+Packet8 will gain broad market acceptance. 
+    We have been selling our Packet8 service since November 2002 To date, we have not generated
+adequate revenue from the sale of our voice over IP, or VoIP, telephony products and services, including our Packet8 service, to
+achieve profitability. If we are not able to generate higher revenues selling into the VoIP telephony market, our business and operating
+results would be seriously harmed. If we are not able to retain a significant percentage of our current and future Packet8 customers on
+an ongoing basis, our business and operating results would be seriously harmed. 
+    The success of our Packet8 service is dependent on the growth and public acceptance of VoIP
+telephony. 
+    The success of our Packet8 voice and video communications service is dependent upon future
+demand for VoIP telephony systems and services. In order for the IP telephony market to continue to grow, several things need to
+occur. Telephone and cable service providers must continue to invest in the deployment of high speed broadband networks to
+residential and business customers. VoIP networks must improve quality of service for real-time communications, managing effects
+such as packet jitter, packet loss, and unreliable bandwidth, so that toll-quality service can be provided. VoIP telephony equipment and
+services must achieve a similar level of reliability that users of the public switched telephone network have come to expect from their
+telephone service. VoIP telephony service providers must offer cost and feature benefits to their customers that are sufficient to cause
+the customers to switch away from traditional telephony service providers. Furthermore, end users in markets serviced by recently
+deregulated telecommunications providers are not familiar with obtaining services from competitors of these providers and may be
+reluctant to use new providers, such as us. We will need to devote substantial resources to educate customers and end users about the
+benefits of VoIP telephony solutions in general and our services in particular. If any or all of these factors fail to occur, our business may
+decline.  
+    Our future operating results may not follow past or expected trends due to many factors and any
+of these could cause our stock price to fall. 
+    Our historical operating results have fluctuated significantly and will likely continue to fluctuate in
+the future, and a decline in our operating results could cause our stock price to fall. On an annual and a quarterly basis, there are a
+number of factors that may affect our operating results, many of which are outside our control. These include, but are not limited to: 
+
+changes in market demand;  
+   the timing of customer orders;  
+ customer cancellations; 
+   competitive market conditions;  
+   lengthy sales cycles and/or regulatory approval cycles;  
+   new product introductions by us or our competitors;  
+   market acceptance of new or existing products;  
+   the cost and availability of components;  
+   the mix of our customer base and sales channels;  
+   the mix of products sold;  
+   the management of inventory;  
+     continued compliance with industry standards and regulatory
+requirements; and  
+   general economic conditions.  
+
+   Given the significant price competition in the markets for our products, we are at a significant
+disadvantage compared to our competitors, many of whom have substantially greater resources, and therefore may be better able to
+withstand an extended period of downward pricing pressure. The adverse impact of a shortfall in our revenues may be magnified by our
+inability to adjust spending to compensate for such shortfall. Announcements by our competitors or us of new products and
+technologies could cause customers to defer purchases of our existing products, which would also have a material adverse effect on
+our business and operating results.  
+   Due to these and other factors, we believe that period-to-period comparisons of our results of
+operations are not meaningful and should not be relied upon as indicators of our future performance. It is possible that in some future
+periods our results of operations may be below the expectations of public market analysts and investors. If this were to occur, the price
+of our common stock would likely decline significantly.  
+    The VoIP telephony market is subject to rapid technological change and we depend on new
+product and service introductions in order to maintain and grow our business. 
+    VoIP telephony is an emerging market that is characterized by rapid changes in customer
+requirements, frequent introductions of new and enhanced products, and continuing and rapid technological advancement. To compete
+successfully in this emerging market, we must continue to design, develop, manufacture, and sell new and enhanced VoIP telephony
+software products and services that provide increasingly higher levels of performance and reliability at lower cost. These new and
+enhanced products must take advantage of technological advancements and changes, and respond to new customer requirements.
+Our success in designing, developing, manufacturing, and selling such products and services will depend on a variety of factors,
+including: 
+
+the identification of market demand for new products;  
+   the scalability of our VoIP telephony software products;  
+   product and feature selection;  
+   timely implementation of product design and development;  
+   product performance;  
+   cost-effectiveness of current products and services and products under development;  
+ our ability to successfully implement service features mandated by federal and state law; 
+   effective manufacturing processes; and  
+   effectiveness of promotional efforts.  
+
+   Additionally, we may also be required to collaborate with third parties to develop our products and
+may not be able to do so on a timely and cost-effective basis, if at all. We have in the past experienced delays in the development of
+new products and the enhancement of existing products, and such delays will likely occur in the future. If we are unable, due to
+resource constraints or technological or other reasons, to develop and introduce new or enhanced products in a timely manner, if such
+new or enhanced products do not achieve sufficient market acceptance, or if such new product introductions decrease demand for
+existing products, our operating results would decline and our business would not grow. 
+    Decreasing telecommunications rates may diminish or eliminate our competitive pricing
+advantage. 
+    Decreasing telecommunications rates may diminish or eliminate the competitive pricing
+advantage of our services. International and domestic telecommunications rates have decreased significantly over the last few years in
+most of the markets in which we operate, and we anticipate that rates will continue to be reduced in all of the markets in which we do
+business or expect to do business. Users who select our services to take advantage of the current pricing differential between
+traditional telecommunications rates and our rates may switch to traditional telecommunications carriers as such pricing differentials
+diminish or disappear, and we will be unable to use such pricing differentials to attract new customers in the future. In addition, our
+ability to market our services to other service providers depends upon the existence of spreads between the rates offered by us and the
+rates offered by traditional telecommunications carriers, as well as a spread between the retail and wholesale rates charged by the
+carriers from which we obtain wholesale services. Continued rate decreases will require us to lower our rates to remain competitive and
+will reduce or possibly eliminate any gross profit from our services. If telecommunications rates continue to decline, we may lose
+subscribers for our services. 
+    We are a small company with limited resources compared to some of our current and potential
+competitors and we may not be able to compete effectively and increase market share.  
+    Most of our current and potential competitors have longer operating histories, significantly
+greater resources and name recognition and a larger base of customers than we have. As a result, these competitors may have greater
+credibility with our existing and potential customers. They also may be able to adopt more aggressive pricing policies and devote
+greater resources to the development, promotion and sale of their products than we can to ours. Our competitors may also offer
+bundled service arrangements offering a more complete product despite the technical merits or advantages of our products. These
+competitors include traditional telephone service providers, such as AT T, SBC and Verizon, cable television companies, such as
+Cablevision, Cox and Time Warner, and other VoIP service providers such as Skype and Vonage. Competition could decrease our
+prices, reduce our sales, lower our gross profits or decrease our market share. 
+    Our success depends on third parties in our distribution channels. 
+    We currently sell our products direct to consumers and through resellers, and are focusing
+efforts on diversifying and increasing our distribution channels. Our future revenue growth will depend in large part on sales of our
+products through reseller and other distribution relationships. We may not be successful in developing additional distribution
+relationships. Agreements with distribution partners generally provide for one-time and recurring commissions based on our list prices,
+and do not require minimum purchases or restrict development or distribution of competitive products. Therefore, entities that distribute
+our products may compete with us. In addition, distributors and resellers may not dedicate sufficient resources or give sufficient priority
+to selling our products. Our failure to develop new distribution channels, the loss of a distribution relationship or a decline in the efforts
+of a material reseller or distributor could have a material adverse effect on our business, financial condition or results of operations.
+ 
+    We need to retain key personnel to support our products and ongoing operations.  
+    The development and marketing of our VoIP products will continue to place a significant strain
+on our limited personnel, management, and other resources. Our future success depends upon the continued services of our executive
+officers and other key employees who have critical industry experience and relationships that we rely on to implement our business
+plan. None of our officers or key employees are bound by employment agreements for any specific term. The loss of the services of any
+of our officers or key employees could delay the development and introduction of, and negatively impact our ability to sell our products
+which could adversely affect our financial results and impair our growth. We currently do not maintain key person life insurance policies
+on any of our employees. 
+    We depend on contract manufacturers to manufacture substantially all of our products, and any
+delay or interruption in manufacturing by these contract manufacturers would result in delayed or reduced shipments to our customers
+and may harm our business.  
+    We do not have long-term purchase agreements with our contract manufacturers. There can be
+no assurance that our contract manufacturers will be able or willing to reliably manufacture our products, in volumes, on a cost-effective
+basis or in a timely manner. For our videophones, cordless handsets and terminal adaptors that are used with our Packet8 service, we
+rely on the availability of certain semiconductor products. These devices are also sourced solely from certain overseas contract
+manufacturers and partners, and are currently not available from any other manufacturer. Any of these factors could have a material
+adverse effect on our business, financial condition or results of operations. 
+    We rely on third party network service providers to originate and terminate substantially all of our
+public switched telephone network calls. 
+    Our Packet8 service depends on the availability of third party network service providers that
+provide telephone numbers and public switched telephone network (PSTN) call termination and origination services for our customers.
+Many of these network service providers have been affected by the downturn in the telecommunications industry and may be forced to
+terminate the services that we depend on. The time to interface our technology to another network service provider, if available, and
+qualify this new service could have a material adverse effect on our business, operating results or financial condition.  
+   While we believe that relations with our current service providers are good and we have contracts in
+place, there can be no assurance that these service providers will be able or willing to supply cost-effective services to us in the future
+or that we will be successful in signing up alternative or additional providers. While we believe that we could replace our current
+providers, if necessary, our ability to provide service to our subscribers would be impacted during this timeframe, and this could have an
+adverse effect on our business, financial condition or results of operations. The loss of access to, or requirement to change, the
+telephone numbers we provide to our customers could have a material adverse effect on our business. 
+    We may not be able to manage our inventory levels effectively, which may lead to inventory
+obsolescence that would force us to incur inventory write-downs. 
+    Our products have lead times of up to several months, and are built to forecasts that are
+necessarily imprecise. Because of our practice of building our products to necessarily imprecise forecasts, it is likely that, from time to
+time, we will have either excess or insufficient product inventory. Excess inventory levels would subject us to the risk of inventory
+obsolescence, while insufficient levels of inventory may negatively affect relations with customers. For instance, our customers rely
+upon our ability to meet committed delivery dates, and any disruption in the supply of our products could result in legal action from our
+customers, loss of customers or harm to our ability to attract new customers. Any of these factors could have a material adverse effect
+on our business, operating results or financial condition. 
+    If our products do not interoperate with our customers' networks, orders for our products will be
+delayed or canceled and substantial product returns could occur, which could harm our business. 
+    Many of the potential customers for our Packet8 service have requested that our products and
+services be designed to interoperate with their existing networks, each of which may have different specifications and use multiple
+standards. Our customers' networks may contain multiple generations of products from different vendors that have been added over
+time as their networks have grown and evolved. Our products must interoperate with these products as well as with future products in
+order to meet our customers' requirements. In some cases, we may be required to modify our product designs to achieve a sale, which
+may result in a longer sales cycle, increased research and development expense, and reduced operating margins. If our products do
+not interoperate with existing equipment or software in our customers' networks, installations could be delayed, orders for our products
+could be canceled or our products could be returned.  In addition, contractual obligations may require us to continue to provide services
+that interoperate whether cost effective or in our interests.  Any of these factors could harm our business, financial condition or results
+of operations.  
+    We may have difficulty identifying the source of the problem when there is a problem in a
+network. 
+    Our Packet8 service must successfully integrate with products from other vendors, such as
+gateways to traditional telephone systems. As a result, when problems occur in a network, it may be difficult to identify the source of the
+problem. The occurrence of hardware and software errors, whether caused by our Packet8 service or another vendor's products, may
+result in the delay or loss of market acceptance of our products and any necessary revisions may force us to incur significant expenses.
+The occurrence of some of these types of problems may seriously harm our business, financial condition or results of operations. 
+    Intense competition in the markets in which we compete could prevent us from increasing or
+sustaining our revenue and prevent us from achieving profitability  
+    We expect our competitors to continue to improve the performance of their current products and
+introduce new products or new technologies. If our competitors successfully introduce new products or enhance their existing products,
+this could reduce the sales or market acceptance of our products and services, increase price competition or make our products
+obsolete. For instance, our competitors, such as local exchange carriers and cable television providers, may be able to bundle services
+and products that we do not offer together with long distance or VoIP telephony services. These services could include wireless
+communications, voice and data services, Internet access and cable television. This form of bundling would put us at a competitive
+disadvantage if these providers can combine a variety of services offerings at a single attractive price. To be competitive, we must
+continue to invest significant resources in research and development, sales and marketing, and customer support. We may not have
+sufficient resources to make these investments or to make the technological advances necessary to be competitive, which in turn will
+cause our business to suffer. 
+   Many of our current and potential competitors have longer operating histories, are substantially
+larger, and have greater financial, manufacturing, marketing, technical, and other resources. Many also have greater name recognition
+and a larger installed base of customers than we have. Competition in our markets may result in significant price reductions. As a result
+of their greater resources, many current and potential competitors may be better able than us to initiate and withstand significant price
+competition or downturns in the economy. There can be no assurance that we will be able to continue to compete effectively, and any
+failure to do so would harm our business, operating results or financial condition. 
+    If we do not develop and maintain successful partnerships for VoIP telephony products, we may
+not be able to successfully market our solutions. 
+    We are entering into new market areas and our success is partly dependent on our ability to
+forge new marketing and engineering partnerships. VoIP telephony communication systems are extremely complex and few, if any,
+companies possess all the required technology components needed to build a complete end to end solution. We will likely need to enter
+into partnerships to augment our development programs and to assist us in marketing complete solutions to our targeted customers.
+We may not be able to develop such partnerships in the course of our product development. Even if we do establish the necessary
+partnerships, we may not be able to adequately capitalize on these partnerships to aid in the success of our business. 
+    Inability to protect our proprietary technology or our infringement of a third party's proprietary
+technology would disrupt our business. 
+    We rely in part on trademark, copyright, and trade secret law to protect our intellectual property
+in the United States and abroad. We seek to protect our software, documentation, and other written materials under trade secret and
+copyright law, which afford only limited protection. We also rely in part on patent law to protect our intellectual property in the United
+States and internationally. We hold fifty-nine United States patents and have a number of United States and foreign patent applications
+pending. We cannot predict whether such pending patent applications will result in issued patents that effectively protect our intellectual
+property. We may not be able to protect our proprietary rights in the United States or internationally (where effective intellectual property
+protection may be unavailable or limited), and competitors may independently develop technologies that are similar or superior to our
+technology, duplicate our technology or design around any patent of ours. We have in the past licensed and in the future expect to
+continue licensing our technology to others; many of whom are located or may be located abroad. There are no assurances that such
+licensees will protect our technology from misappropriation. Moreover, litigation may be necessary in the future to enforce our
+intellectual property rights, to determine the validity and scope of the proprietary rights of others, or to defend against claims of
+infringement or invalidity. Such litigation could result in substantial costs and diversion of management time and resources and could
+have a material adverse effect on our business, financial condition, and operating results. Any settlement or adverse determination in
+such litigation would also subject us to significant liability. 
+   There has been substantial litigation in the communications, semiconductor, electronics, and related
+industries regarding intellectual property rights, and from time to time third parties may claim infringement by us of their intellectual
+property rights. Our broad range of technology, including IP telephony systems, digital and analog circuits, software, and
+semiconductors, increases the likelihood that third parties may claim infringement by us of their intellectual property rights. If we were
+found to be infringing on the intellectual property rights of any third party, we could be subject to liabilities for such infringement, which
+could be material. We could also be required to refrain from using, manufacturing or selling certain products or using certain processes,
+either of which could have a material adverse effect on our business and operating results. From time to time, we have received, and
+may continue to receive in the future, notices of claims of infringement, misappropriation or misuse of other parties' proprietary rights.
+There can be no assurance that we will prevail in these discussions and actions or that other actions alleging infringement by us of third
+party patents will not be asserted or prosecuted against us. 
+   We rely upon certain technology, including hardware and software, licensed from third parties. There
+can be no assurance that the technology licensed by us will continue to provide competitive features and functionality or that licenses
+for technology currently utilized by us or other technology which we may seek to license in the future will be available to us on
+commercially reasonable terms or at all. The loss of, or inability to maintain, existing licenses could result in shipment delays or
+reductions until equivalent technology or suitable alternative products could be developed, identified, licensed and integrated, and could
+harm our business. These licenses are on standard commercial terms made generally available by the companies providing the
+licenses. The cost and terms of these licenses individually are not material to our business. 
+    The failure of IP networks to meet the reliability and quality standards required for voice and
+video communications could render our products obsolete. 
+    Circuit-switched telephony networks feature very high reliability, with a guaranteed quality of
+service. In addition, such networks have imperceptible delay and consistently satisfactory audio quality. Emerging broadband IP
+networks, such as LANs, WANs, and the Internet, or emerging last mile technologies such as cable, digital subscriber lines, and
+wireless local loop, may not be suitable for telephony unless such networks and technologies can provide reliability and quality
+consistent with these standards.  
+    Our products must comply with industry standards, FCC regulations, state, local, country-specific
+and international regulations, and changes may require us to modify existing products and/or services. 
+    In addition to reliability and quality standards, the market acceptance of telephony over
+broadband IP networks is dependent upon the adoption of industry standards so that products from multiple manufacturers are able to
+communicate with each other. Our VoIP telephony products rely heavily on communication standards such as SIP, H.323, MGCP and
+Megaco and network standards such as TCP/IP and UDP to interoperate with other vendors' equipment. There is currently a lack of
+agreement among industry leaders about which standard should be used for a particular application, and about the definition of the
+standards themselves. These standards, as well as audio and video compression standards, continue to evolve. We also must comply
+with certain rules and regulations of the Federal Communications Commission (FCC) regarding electromagnetic radiation and safety
+standards established by Underwriters Laboratories, as well as similar regulations and standards applicable in other countries.
+Standards are continuously being modified and replaced. As standards evolve, we may be required to modify our existing products or
+develop and support new versions of our products. We must comply with certain federal, state and local requirements regarding how
+we interact with our customers, including marketing practices, consumer protection, privacy and billing issues, the provision of 911
+emergency service and the quality of service we provide to our customers. The failure of our products and services to comply, or delays
+in compliance, with various existing and evolving standards could delay or interrupt volume production of our VoIP telephony products,
+subject us to fines or other imposed penalties, or harm the perception and adoption rates of our service, any of which would have a
+material adverse effect on our business, financial condition or operating results. 
+    Our ability to offer services outside the U.S. is subject to the local regulatory environment, which
+may be unknown, complicated and often uncertain. 
+    Regulatory treatment of VoIP telephony outside the United States varies from country to
+country. We currently distribute our products and services directly to consumers and through resellers that may be subject to
+telecommunications regulations in their home countries. The failure of these consumers and resellers to comply with these laws and
+regulations could reduce our revenue and profitability. Because of our relationship with the resellers, some countries may assert that we
+are required to register as a telecommunications carrier in that country. In such case, our failure to do so could subject us to fines or
+penalties. In addition, some countries are considering subjecting VoIP services to the regulations applied to traditional telephone
+companies. Regulatory developments such as these could have a material adverse effect on our international operation. 
+   In many countries in which we operate or our services are sold, the status of the laws that may relate
+to our services is unclear. We cannot be certain that our customers, resellers, or other affiliates are currently in compliance with
+regulatory or other legal requirements in their respective countries, that they or we will be able to comply with existing or future
+requirements, and/or that they or we will continue to be in compliance with any such requirements. Our failure or the failure of those
+with whom we transact business to comply with these requirements could have a material adverse effect on our business, operating
+results or financial condition. 
+    Future legislation or regulation of the Internet and/or voice and video over IP services could
+restrict our business, prevent us from offering service or increase our cost of doing business. 
+    At present there are few laws, regulations or rulings that specifically address access to
+commerce and communications services on the Internet, including IP telephony. We are unable to predict the impact, if any, that future
+legislation, legal decisions or regulations concerning the Internet may have on our business, financial condition, and results of
+operations. Regulation may be targeted towards, among other things, assessing access or settlement charges, imposing taxes related
+to internet communications and imposing tariffs or regulations based on encryption concerns or the characteristics and quality of
+products and services, any of which could restrict our business or increase our cost of doing business. The increasing growth of the
+broadband IP telephony market and popularity of broadband IP telephony products and services heighten the risk that governments or
+other legislative bodies will seek to regulate broadband IP telephony and the Internet. In addition, large, established telecommunication
+companies may devote substantial lobbying efforts to influence the regulation of the broadband IP telephony market, which may be
+contrary to our interests.  
+   Many regulatory actions are underway or are being contemplated by federal and state authorities,
+including the FCC and other state and local regulatory agencies. On February 12, 2004, the FCC initiated a notice of public rule-making
+to update FCC policy and consider the appropriate regulatory classification for VoIP and other IP enabled services. On November 9,
+2004, the FCC ruled that Vonage DigitalVoice and similar services are jurisdictionally interstate and not subject to state certification,
+tariffing and other common carrier regulations, including 911. This ruling has been subsequently appealed by several states. On
+February 11, 2004, the California Public Utilities Commission (CPUC) initiated an investigation into voice over IP providers, including
+us. As a tentative conclusion of law, the CPUC stated that they believe that VoIP providers are telecommunications providers and
+should be treated as such from a regulatory standpoint. There is risk that a regulatory agency requires us to conform to rules that are
+unsuitable for IP communications technologies or rules that cannot be complied with due to the nature and efficiencies of IP routing, or
+are unnecessary or unreasonable in light of the manner in which Packet8 offers service to its customers. It is not possible to separate
+the Internet, or any service offered over it, into intrastate and interstate components. While suitable alternatives may be developed in
+the future, the current IP network does not enable us to identify the geographic nature of the traffic traversing the Internet.  
+    The effects of federal, state or municipal regulatory actions could have a material adverse effect
+on our business, financial condition and operating results. 
+      Several U.S. states and municipalities have recently shown an
+interest in regulating VoIP services, as they do for providers of traditional telephone service. If this trend continues, and if state
+regulation is not preempted by action by the U.S. federal government, we may become subject to a "patchwork quilt" of state
+regulations and taxes, which would increase our costs of doing business, and adversely affect our operating results and future
+prospects. 
+   We have already been contacted by several state regulatory authorities regarding our Packet8
+service. On September 11, 2003, we received a letter from the Public Service Commission of Wisconsin, or WPSC, notifying us that the
+WPSC believes that we, via our Packet8 voice and video communications service, are offering intrastate telecommunications services
+in the state of Wisconsin without certification of the WPSC. According to the WPSC's letter, it believes that we cannot legally provide
+Packet8-based resold intrastate services in Wisconsin without certification from the WPSC. In addition, the Commission believes that
+Packet8 bills for intrastate services to Wisconsin customers are void and not collectible. The letter also states that if we do not obtain
+certification to offer intrastate telecommunications services, the matter will be referred to the State of Wisconsin Attorney General for
+enforcement action. The letter also states that even if the Company were certified by the WPSC, the previous operation without
+certification may still subject the Company to referral to the State of Wisconsin Attorney General for enforcement action and possible
+forfeitures. We consulted with counsel and have responded to the WPSC and disputed their assertions. While we do not believe that
+the potential amounts of any forfeitures would be material to us, if we are subject to an enforcement action, we may become subject to
+liabilities and may incur expenses that adversely affect our results of operations. 
+   On September 17, 2003, we were contacted by the Ohio Public Utilities Commission, or OPUC, and
+asked to respond to a questionnaire on Voice over IP technologies that the OPUC is conducting. The OPUC inquired as to the nature of
+our service, how it is provided, and to what Ohio residents the service is made available. The questionnaire did not contain any
+assertions regarding the legality of the Packet8 service under Ohio law or any statements as to whether the OPUC believes we are
+subject to regulation by the state of Ohio. We responded to this questionnaire on October 20, 2003. 
+   On September 22, 2003, the California Public Utilities Commission, or CPUC, sent us a letter that
+alleged that we are offering intrastate telecommunications services for profit in California without having received formal certification
+from the CPUC to provide such service. The CPUC also requested that we file an application with the CPUC for authority to conduct
+business as a telecommunications utility no later than October 22, 2003. After consultation with regulatory counsel, we responded to
+the CPUC, disputed its assertions and did not file the requested application. In our October 22, 2003 response to the CPUC, we
+disagreed with the CPUC's classification of us as a telephone corporation under the California Public Utilities Code. We asserted that
+we are an information services provider and not a telecommunications provider. The letter from the CPUC did not indicate, and we
+cannot predict, what any potential penalties or consequences in failing to obtain certification might be. If we are subjected to penalties,
+or if we are required to comply with CPUC regulations affecting telecommunications service providers, our business may be adversely
+affected. On November 13, 2003, the CPUC held a hearing in San Francisco to hear testimony from CPUC staff and industry
+representatives regarding what course of action the CPUC should take with respect to Internet telephony. A representative from 8x8
+testified at the hearing. On February 11, 2004, the CPUC stated that, as a tentative conclusion of law, they believe that VoIP providers
+are telecommunications providers and should be treated as such from a regulatory standpoint. The CPUC initiated an investigation into
+appropriate regulation of VoIP providers under state law, and acknowledged that it has not enforced the same regulatory regime over
+VoIP as applies to telecommunications services. The CPUC is considering a number of potential regulatory requirements, including
+contribution to state universal service programs, provisioning of 911 services, payment of access charges to interconnect with the
+PSTN and compliance with NANP protocols and basic consumer protection laws, including California's telecommunications "bill of
+rights." The CPUC is also considering whether exempting VoIP providers from requirements applicable to traditional providers of voice
+telephony creates unfair competitive advantages that should be proactively addressed, if the regulatory framework governing the
+provision of VoIP should vary based on the market served and whether VoIP providers should be subject to the current system of
+intercompany compensation arrangements. The CPUC has indicated that this process could last up to 18 months, but there is no way
+for us to predict the timetable or outcome of this process. On April 7, 2005, the CPUC instituted a rulemaking to assess and revise the
+regulation of all telecommunications utilities in California except for small incumbent local exchange carriers, or ILECs. The primary
+goal of this proceeding is to develop a uniform regulatory framework for all telecommunications utilities, except small ILECs, to the
+extent that it is feasible and in the public interest to do so. While not specifically directed at VoIP, it is unclear at this time what impact
+this new rulemaking will have on the CPUCs classification or treatment of VoIP services.   
+   In May 2004, in response to a 2003 complaint case brought by Frontier Telephone of Rochester
+against Vonage, the New York State Public Service Commission, or NYPSC, concluded that Vonage is a telephone corporation as
+defined by New York law and must obtain a Certificate of Public Convenience and Necessity, which represents the authorization of the
+NYPSC to provide telephone service in New York. The NYPSC will allow a forty- five day period in which Vonage can identify and seek
+waivers of any rules that it believes should not apply. Vonage will be required to provide 911 service in some form, and will be required
+to file a schedule of its rates. Currently, this decision applies only to Vonage. In June 2004, a federal judge issued a preliminary
+injunction enjoining the NYPSC from regulating Vonage as a telecommunications carrier. Vonage has asked the federal district court to
+make this a permanent injunction, and this request is being considered. While this ruling applies only to Vonage and not to us, if we are
+subject to regulation by the NYPSC, we may become subject to liabilities and may incur expenses that adversely affect our results of
+operations. 
+   In July 2004, we received a letter from the Arizona Corporation Commission, or ACC, stating that it
+was conducting a competitive analysis of the various telecommunications markets in Arizona. The letter requested that we provide
+answers to a listing of questions as well as certain data. On August 26, 2004, after executing the ACC's standard
+protective agreement governing the submission of commercially sensitive information, we sent to the ACC answers to some of
+the questions posed in the initial letter, together with information responsive to certain of the data requests. Inasmuch as the ACC
+proceeding is a generic docket opened for the purpose of gathering information regarding VoIP, additional information requests are
+possible, but none has been received to date. 
+ In late 2004 and early 2005, we received notices from multiple municipalities in California that the Packet8 service is subject to
+utility user taxes, as defined in the respective municipal codes. The notices require that we begin collecting and remitting utility user
+taxes no later than January 1, 2005. We have responded to these municipalities and disputed their assertions. 
+ In January 2005, we received a letter from an association representing multiple municipalities in South Carolina asserting that we
+are subject to a business license tax applied to telecommunications companies.  We have responded to this association and disputed
+their assertion. 
+ In May 2005, we received a notice from the City of Chicago that we were being investigated for non-compliance with Chicago tax
+laws as we are not collecting and remitting Chicago's Telecommunications Tax.  We completed the questionnaire received and
+disputed the applicability of this tax to the Packet8 service. 
+    We may be subject to liabilities for past sales and our future sales may decrease. 
+    In accordance with current industry practice, we do not collect state and federal
+telecommunications taxes, other than federal excise tax, or FET, or other telecommunications surcharges with respect to our Packet8
+service. We do not collect Value Added Tax, or VAT, for services that we provide to customers in European Union, or EU, member
+countries. Future expansion of our Packet8 service, along with other aspects of our evolving business, may result in additional sales
+and other tax obligations. One or more states or foreign countries may seek to impose sales or other tax collection obligations on out-
+of-jurisdiction companies that provide telephone service. A successful assertion by one or more states or foreign countries that we
+should collect sales or other taxes on the sale of merchandise or services could result in substantial tax liabilities for past sales,
+decrease our ability to compete with traditional telephone companies, and could have a material adverse effect on our business,
+financial condition or operating results.  
+    Potential regulation of Internet service providers could adversely affect our operations.  
+    To date, the FCC has treated Internet service providers as information service providers, though
+the FCC has avoided specifically ruling on this categorization. Information service providers are currently exempt from federal and state
+regulations governing common carriers, including the obligation to pay access charges and contribute to the universal service fund. The
+FCC is currently examining the status of Internet service providers and the services they provide.   If the FCC were to determine that
+Internet service providers, or the services they provide, are subject to FCC regulation, including the payment of access charges and
+contribution to the universal service funds, it could have a material adverse effect on our business, financial condition and operating
+results.  
+    There may be risks associated with the lack of 911 emergency dialing or the limitations
+associated with E911 emergency dialing with the Packet8 service.    
+     In May 2005, the FCC unanimously adopted an Order and Notice of Proposed Rulemaking,
+or NPRM, which requires VoIP providers that interconnect with the PSTN, or interconnected VoIP providers, to provide emergency 911,
+or E911, service. On June 3, 2005, the FCC released the text of the First Report and Order and Notice of Proposed
+Rulemaking in the VoIP E911 proceeding, or the VoIP E911 Order. As a result of the VoIP E911 Order, interconnected VoIP providers
+were required to implement the E911 emergency calling capabilities offered by traditional landline phone companies. All interconnected
+VoIP providers must deliver 911 calls to the appropriate local public safety answering point, or PSAP, through the PSTN's legacy
+wireline selective router, which is used to deliver E911 calls, along with call back number and location, where the PSAP is able to
+receive that information. E911 must be included in the basic service offering; it cannot be an optional or extra feature. The PSAP
+delivery obligation, along with call back number and location information must be provided regardless of whether the VoIP service is
+"fixed" or "nomadic." User registration of location is permissible initially, although the FCC is committed to an advanced form of E911
+that will determine user location without user intervention, one of the topics of the further NPRM to be released eventually. The VoIP
+E911 Order mandates that existing and prospective customers must be notified of the capabilities and limitations of VoIP service with
+respect to emergency calling, and interconnected VoIP providers must obtain and maintain affirmative acknowledgement from each
+customer that the customer has read and understood the notice of limitations and distribute warning labels or stickers alerting
+consumers and other potential users of the limitations of VoIP E911 service to each new subscriber prior to the initiation of service. In
+addition, an interconnected VoIP provider must make it possible for customers to update their address (i.e., change their registered
+location) via at least one option that requires no equipment other than that needed to access the VoIP service. All interconnected VoIP
+providers must comply with the requirements of the VoIP E911 Order within one-hundred and twenty days of the publication of the VoIP
+E911 Order in the Federal Register, which was November 28, 2005, with the exception that the customer notification obligations must
+be complied with within thirty days of the publication.  
+ Beginning in June 2004, we offered E911 service as an option to Packet8 subscribers who choose phone numbers in markets
+where E911 service is available (our E911 service was initially only available in a subset of the markets where we provided telephone
+numbers). Even with E911 provisioned, the IP dialtone service provided by Packet8 is only as reliable as a customer's underlying
+broadband data service and Internet service provider (neither service is provided by us), and may not be suitable for use in all
+emergency situations. For customers who chose not to or were unable to subscribe to our E911 service, we played a recorded
+message in response to customers who dialed 911 from these lines instructing them to hang up and either dial their local police/fire
+department directly from the phone on the Packet8 service, or to dial 911 from a phone connected to the traditional telephone network.
+ 
+ On July 26, 2005 the FCC issued guidance to all interconnected VoIP providers regarding the July 29, 2005 notification deadline. In
+this guidance, the FCC determined that it would not initiate enforcement action until August 30, 2005 against any provider of
+interconnected VoIP service regarding the requirement that it obtain affirmative acknowledgement by every existing subscriber, on the
+condition that the provider file a detailed report with the FCC by August 10, 2005 containing a variety of detailed descriptions. To date,
+we have filed the reports requested by the FCC, and we suspended service of an insignificant number of subscribers on August 30,
+2005 who had not responded to our acknowledgement requests. 
+ On November 7, 2005 the Enforcement Bureau of the FCC issued a notice to interconnected VoIP providers detailing the
+information required to be submitted to the FCC in E911 compliance letters due by November 28, 2005. In this notice, the Enforcement
+Bureau stated that, although it does not require providers that have not achieved full E911 compliance by November 28, 2005 to
+discontinue the provision of interconnected VoIP services to any existing customers, it does expect that such providers will discontinue
+marketing VoIP service, and accepting new customers for their service, in all areas where they are not transmitting 911 calls to the
+appropriate PSAP in full compliance with the Commission's rules.  On November 28, 2005 we began offering nomadic E911 service to
+all of our customers with United States service addresses, and began charging those customers an additional $1.99 per month plus any
+applicable local 911 taxes and surcharges effective January 1, 2006.  On November 28, 2005, we also modified the Packet8 account
+signup procedures to require service addresses to be entered and validated, at the time an order for service is placed, to ascertain
+whether Packet8's nomadic 911 service is available at that address.  On November 28, 2005, we also filed our E911 compliance report
+which is available on the FCC's website under Wireline Competition Docket Number 05-196.   
+ The FCC may determine that our nomadic E911 solution does not satisfy the requirements of the VoIP E911 order because, in
+some instances, our nomadic E911 solution requires that we route an E911 call to a national emergency call center instead of
+connecting Packet8 subscribers directly to a local PSAP. The FCC may issue further guidance on compliance requirements in the
+future that might require us to disconnect a significant number of subscribers. The effect of such disconnections or any enforcement
+action initiated by the FCC or other agency or task force against us could have a material adverse effect on our financial position,
+results of operations or cash flows. 
+ The VoIP E911 Order has increased our cost of doing business and may adversely affect our ability to deliver the Packet8 service
+to new and existing customers in all geographic regions or to nomadic customers who move to a location where E911 services
+compliant with the FCC's mandates are unavailable. We cannot guarantee that E911 service will be available to all of our subscribers,
+especially those accessing our service from outside of the United States. The VoIP E911 Order or follow-on orders or clarifications or
+their impact on our customers due to service price increases or other factors could have a material adverse effect on our business,
+financial position and  results of operations. 
+  There may be risks associated with our ability to comply with the requirements of federal law enforcement agencies. 
+  On August 5, 2005, the FCC unanimously adopted an order responsive to a joint petition filed by the Department of Justice,
+the Federal Bureau of Investigation, and the Drug Enforcement Administration asking the FCC to declare that broadband Internet
+access services and VoIP services be covered by the Communications Assistance for Law Enforcement Act, or CALEA.  The Order
+concludes that CALEA applies to facilities-based broadband Internet access providers and providers of interconnected VoIP service
+and requires these providers to be in full compliance within 18 months of September 23, 2005.  The FCC also stated that, in the coming
+months, it will release another order that will address separate questions regarding the assistance capabilities required of the providers
+covered by the August 5, 2005 order.  The FCC stated that the subsequent order will include other important issues under CALEA,
+such as compliance extensions and exemptions, cost recovery, identification of future services and entities subject to CALEA, and
+enforcement.  Because the FCC has not yet released the implementation details in the second order, it is impossible for us to quantify
+the effects that this order, or other future orders, will have on us, but our failure to achieve compliance with any future CALEA orders or
+any enforcement action initiated by the FCC or other agency or task force against us could have a material adverse effect on our
+financial position, results of operations or cash flows. 
+    Our success depends on our ability to handle a large number of simultaneous calls, which our
+network may not be able to accommodate. 
+    We expect the volume of simultaneous calls to increase significantly as the Packet8 subscriber
+base grows. Our network hardware and software may not be able to accommodate this additional volume. If we fail to maintain an
+appropriate level of operating performance, or if our service is disrupted, our reputation could be hurt, we could lose customers and this
+could have a material adverse effect on our business, financial condition and results of operations. 
+    We could be liable for breaches of security on our web site, fraudulent activities of our users, or
+the failure of third-party vendors to deliver credit card transaction processing services. 
+    A fundamental requirement for operating an internet-based, worldwide voice and video
+communications service and electronically billing our Packet8 customers is the secure transmission of confidential information and
+media over public networks. Although we have developed systems and processes that are designed to protect consumer information
+and prevent fraudulent credit card transactions and other security breaches, failure to mitigate such fraud or breaches may adversely
+affect our operating results. The law relating to the liability of providers of online payment services is currently unsettled. We rely on
+third party providers to process and guarantee payments made by Packet8 subscribers up to certain limits, and we may be unable to
+prevent our customers from fraudulently receiving goods and services. Our liability risk will increase if a larger fraction of our Packet8
+transactions involve fraudulent or disputed credit card transactions. Any costs we incur as a result of fraudulent or disputed transactions
+could harm our business. In addition, the functionality of our current billing system relies on certain third-party vendors delivering
+services. If these vendors are unable or unwilling to provide services, we will not be able to charge for our Packet8 services in a timely
+or scalable fashion, which could significantly decrease our revenue and have a material adverse effect on our business, financial
+condition and operating results. 
+    We have experienced losses due to subscriber fraud and theft of service. 
+    Subscribers have obtained access to the Packet8 service without paying for monthly service and
+international toll calls by unlawfully using our authorization codes and submitting fraudulent credit card information. To date, such
+losses from unauthorized credit card transactions and theft of service have not been significant. We have implemented anti-fraud
+procedures in order to control losses relating to these practices, but these procedures may not be adequate to effectively limit all of our
+exposure in the future from fraud. If our procedures are not effective, consumer fraud and theft of service could significantly decrease
+our revenue and have a material adverse effect on our business, financial condition and operating results. 
+    Intellectual property and proprietary rights of others could prevent us from using necessary
+technology to provide IP voice and video services.  
+    While we do not know of any technologies that are patented by others that we believe are
+necessary for us to provide our services, certain necessary technology may in fact be patented by other parties either now or in the
+future. If such technology were held under patent by another person, we would have to negotiate a license for the use of that certain
+technology. We may not be able to negotiate such a license at a price that is acceptable. The existence of such a patent, or our inability
+to negotiate a license for any such technology on acceptable terms, could force us to cease using such technology and offering
+products and services incorporating such technology.  
+    If we discover product defects, we may have product-related liabilities which may cause us to
+lose revenues or delay market acceptance of our products. 
+    Products as complex as those we offer frequently contain errors, defects, and functional
+limitations when first introduced or as new versions are released. We have in the past experienced such errors, defects or functional
+limitations. We sell products into markets that are extremely demanding of robust, reliable, fully functional products. Therefore, delivery
+of products with production defects or reliability, quality or compatibility problems could significantly delay or hinder market acceptance
+of such products, which could damage our credibility with our customers and adversely affect our ability to retain our existing customers
+and to attract new customers. Moreover, such errors, defects or functional limitations could cause problems, interruptions, delays or a
+cessation of sales to our customers. Alleviating such problems may require significant expenditures of capital and resources by us.
+Despite our testing, our suppliers or our customers may find errors, defects or functional limitations in new products after
+commencement of commercial production. This could result in additional development costs, loss of, or delays in, market acceptance,
+diversion of technical and other resources from our other development efforts, product repair or replacement costs, claims by our
+customers or others against us, or the loss of credibility with our current and prospective customers. 
+        We will likely need to raise
+additional capital to support our operations.  
+    As of December 31, 2005, we had cash and cash equivalents, restricted cash and investments
+of approximately $27.7 million. Unless we achieve and maintain profitability, we will need to raise additional capital. We may not be able
+to obtain such additional financing as needed on acceptable terms, or at all, which may require us to reduce our operating costs and
+other expenditures, including reductions of personnel and capital expenditures. If we issue additional equity or convertible debt
+securities to raise funds, the ownership percentage of our existing stockholders would be reduced and they may experience significant
+dilution. New investors may demand rights, preferences or privileges senior to those of existing holders of our common stock. If we are
+not successful in these actions, we may be forced to cease operations. 
+    We may not be able to maintain our listing on the Nasdaq Capital Market. 
+    Our common stock trades on the Nasdaq Capital Market, which has certain compliance
+requirements for continued listing of common stock.  
+   If our minimum closing bid price per share falls below $1.00 for a period of 30 consecutive business
+days in the future, we may again be subject to delisting procedures. As of the close of business on January 30, 2006, our common
+stock had a closing bid price of approximately $2.00 per share. We must also meet additional continued listing requirements contained
+in Nasdaq Marketplace Rule 4310(c)(2)(b), which requires that we have a minimum of $2,500,000 in stockholders' equity or
+$50,000,000 market value of listed securities or $500,000 of net income from continuing operations for the most recently completed
+fiscal year (or two of the three most recently completed fiscal years). As of January 30, 2006, based on our closing price as of that day,
+the market value of our securities approximated $120 million and we were in compliance with Nasdaq Marketplace Rule 4310(c)(2)(b).
+There can be no assurance that we will continue to meet the continued listing requirements. 
+   Delisting could reduce the ability of our shareholders to purchase or sell shares as quickly and as
+inexpensively as they have done historically. For instance, failure to obtain listing on another market or exchange may make it more
+difficult for traders to sell our securities. Broker-dealers may be less willing or able to sell or make a market in our common stock. Not
+maintaining our Nasdaq Capital Market listing may: 
+
+result in a decrease in the trading price of our common stock; 
+   lessen interest by institutions and individuals in investing in our common stock;  
+   make it more difficult to obtain analyst coverage; and  
+   make it more difficult for us to raise capital in the future.  
+
+    While we believe that we currently have adequate internal control procedures in place, we are
+still exposed to potential risks from recent legislation requiring companies to periodically evaluate internal controls under Section 404 of
+the Sarbanes Oxley Act of 2002.     
+  We have evaluated our internal controls systems in order to allow management to report on, and our independent auditors to
+attest to, the effectiveness of our internal controls over financial reporting, as required by this legislation. We are required to perform the
+system and process evaluation and testing (and any necessary remediation) required in an effort to allow our management to assess
+the effectiveness of our system of internal controls over financial reporting as of the end of each fiscal year. Our independent auditors
+must then attest to and report on that assessment by our management to comply with the management certification and auditor
+attestation requirements of Section 404 of the Sarbanes Oxley Act (Section 404). As a result, we have and expect to continue to incur
+significant additional expenses and diversion of management's time towards Section 404 compliance. In any fiscal year, we may fail to
+timely complete our evaluation, testing and remediation actions in order to allow for this assessment by our management or our
+independent auditors may not be able to timely attest to our management's assessment. If we are not able to comply with the
+requirements of Section 404 in a timely manner or with adequate compliance, we might be subject to sanctions or investigation by
+regulatory authorities, such as the Securities Exchange Commission or the Nasdaq Capital Market. Further, if our independent auditors
+are not satisfied with our internal control over financial reporting or with the level at which it is documented, designed, operated or
+reviewed, they may decline to attest to management's assessment or may issue a qualified report identifying a material weakness in
+our internal controls. Any such action could adversely affect our financial results and could cause our stock price to decline. 
+
+   ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK   
+
+   Foreign Currency 
+  Our financial market risk consists primarily of risks associated with international operations and related
+foreign currencies. We derive a portion of our revenues from customers in Europe and Asia. In order to reduce the risk from fluctuation
+in foreign exchange rates, the vast majority of our sales are denominated in U.S. dollars. In addition, almost all of our arrangements
+with our contract manufacturers are denominated in U.S. dollars. We have a foreign subsidiary in France and are exposed to market
+risk from changes in exchange rates. We have not entered into any currency hedging activities. To date, our exposure to exchange rate
+volatility has not been significant; however, there can be no assurance that there will not be a material impact in the future.  
+  Investments  
+  We maintain an investment portfolio of various holdings, types and maturities. These marketable securities
+are generally classified as available for sale and, consequently, are recorded on the balance sheet at fair value with unrealized gains or
+losses reported as a separate component of accumulated other comprehensive loss. Part of this portfolio includes investments in bank
+issues, corporate bonds and commercial papers. 
+
+   ITEM 4. CONTROLS AND PROCEDURES    
+  Evaluation of disclosure controls and procedures. 
+Our management evaluated, with the participation of our Chief Executive Officer ( CEO ) and our
+Chief Financial Officer ( CFO ), the effectiveness of our disclosure controls and procedures as of the end of the period
+covered by this Quarterly Report on Form 10-Q. Based on this evaluation, our Chief Executive Officer and our Chief Financial Officer
+have concluded that our disclosure controls and procedures are effective to ensure that information we are required to disclose in
+reports that we file or submit under the Securities Exchange Act of 1934 is recorded, processed, summarized and reported within the
+time periods specified in Securities and Exchange Commission rules and forms.  In addition, our Chief Executive Officer and our Chief
+Financial Officer have concluded that our disclosure controls and procedures also are effective to ensure that information required to be
+disclosed in the reports that we file or submit under the Exchange Act of 1934 is accumulated and communicated to our management,
+including our principal executive and principal financial officers, to allow timely decisions regarding required disclosure. 
+
+  Changes in internal control over financial reporting.  There was no change in our internal control over
+financial reporting that occurred during the period covered by this Quarterly Report on Form 10-Q that has materially affected, or is
+reasonably likely to materially affect, our internal control over financial reporting. 
+
+  CEO and CFO Certifications  
+  Attached, as Exhibits 31 and 32, are two separate forms of certifications of the CEO and the CFO. The certifications attached
+as Exhibits 31.1 and 31.2 are required in accordance with Section 302 of the Sarbanes-Oxley Act of 2002 (the  Section 302
+Certifications ). The information contained in this Item 4 relates to the Controls Evaluation referred to in the Section 302
+Certifications, and should be read with the Section 302 Certifications for a more complete understanding of the topics presented.  
+  Disclosure Controls and Internal Controls  
+  Our management, including the CEO and CFO, has a responsibility for establishing and maintaining adequate disclosure and
+internal controls over our financial reporting. Disclosure Controls are procedures that are designed with the objective of ensuring that
+information required to be disclosed in our reports filed under the Securities Exchange Act of 1934, such as this Quarterly Report on
+Form 10-Q, is recorded, processed, summarized and reported within the time periods specified in the SEC rules and forms. Disclosure
+Controls are also designed with the objective of ensuring that such information is accumulated and communicated to our management,
+including the CEO and CFO, as appropriate to allow timely decisions regarding required disclosure. Internal controls are procedures
+that are designed with the objective of providing reasonable assurance that our transactions are properly authorized, our assets are
+safeguarded against unauthorized or improper use, and our transactions are properly recorded and reported, all to permit the
+preparation of our financial statements in conformity with generally accepted accounting principles.  
+  Limitations on the Effectiveness of Controls  
+  Our management, including the CEO and CFO, does not expect that our disclosure controls or our internal controls will
+prevent all errors and all fraud. A control system, no matter how well conceived and operated, can provide only reasonable, not
+absolute, assurance that the objectives of the control system are met. Further, the design of a control system must reflect the fact that
+there are resource constraints, and the benefits of controls must be considered relative to their costs. Because of the inherent
+limitations in all control systems, no evaluation of controls can provide absolute assurance that all control issues and instances of fraud,
+if any, within a company have been detected. These inherent limitations include the realities that judgments in decision-making can be
+faulty and that breakdowns can occur because of simple error or mistake. Additionally, controls can be circumvented by the individual
+acts of some persons, by collusion of two or more people, or by management override of the control. The design of any system of
+controls also is based in part upon certain assumptions about the likelihood of future events, and there can be no assurance that any
+design will succeed in achieving its stated goals under all potential future conditions. In addition, over time, controls may become
+inadequate because of changes in conditions, or the degree of compliance with the policies or procedures may deteriorate. Because of
+the inherent limitations in a cost-effective control system, misstatements due to error or fraud may occur and not be detected.  Our
+disclosure controls and procedures are designed to provide a reasonable level of assurance of reaching our desired control
+objectives. 
+
+PART II - OTHER INFORMATION  
+
+ITEM 6. EXHIBITS     
+
+31.1   Certification of Chief Executive Officer pursuant to
+Rules 13a-14 and 15d-14 under the Securities Exchange Act of 1934, as adopted
+pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.  
+ 31.2   Certification of Chief Financial Officer pursuant to
+Rules 13a-14 and 15d-14 under the Securities Exchange Act of 1934, as adopted
+pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.  
+ 32.1   Certification of Chief Executive Officer pursuant to 18
+U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley
+Act of 2002.  
+ 32.2   Certification of Chief Financial Officer pursuant to 18
+U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley
+Act of 2002.  
+
+SIGNATURE 
+
+  Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized. 
+ Date:    February 9, 2006 
+
+8X8, INC.   
+
+(Registrant)    
+
+By: /s/ James Sullivan              
+
+James Sullivan   
+
+Chief Financial Officer, Vice President of Finance and Secretary 
+(Principal Financial and Accounting Officer)    
+
+10-Q
+ 3
+ form10-q.pdf
+ FORM 10-Q
+
+<EX-31.1>
+ 4
+ exh31-1.htm
+ 302 CEO CERTIFICATE
+
+Q3 2006 Exhibit 31.1 
+
+Exhibit 31.1 
+   CERTIFICATION PURSUANT TO 
+  RULES 13a-14(a) AND 15d-14(a) UNDER THE SECURITIES
+EXCHANGE ACT OF 1934 
+AS ADOPTED PURSUANT TO 
+SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+ I, Bryan R. Martin, certify that:  
+
+1. I have reviewed this quarterly report on Form 10-Q of 8x8, Inc.; 
+ 2. Based on my knowledge, this report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to make
+the statements made, in light of the circumstances under which such statements
+were made, not misleading with respect to the period covered by this report;
+ 
+ 3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects the
+financial condition, results of operations and cash flows of the registrant as
+of, and for, the periods presented in this report;  
+ 4. The registrant's other certifying officer and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial
+reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the
+registrant and have: 
+
+Designed such disclosure controls and procedures, or caused such disclosure
+controls and procedures to be designed under our supervision, to ensure that
+material information relating to the registrant, including its consolidated
+subsidiaries, is made known to us by others within those entities, particularly
+during the period in which this report is being prepared; 
+ Designed such internal control over financial reporting, or caused such
+internal control over financial reporting to be designed under our supervision,
+to provide reasonable assurance regarding the reliability of financial reporting
+and the preparation of financial statements for external purposes in accordance
+with generally accepted accounting principles; 
+ Evaluated the effectiveness of the registrant's disclosure controls and
+procedures and presented in this report our conclusions about the effectiveness
+of the disclosure controls and procedures as of the end of the period covered by
+this report based on such evaluation; and 
+ Disclosed in this report any change in the registrant's internal control
+over financial reporting that occurred during the registrant's most recent
+fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual
+report) that has materially affected, or is reasonably likely to materially
+affect, the registrant's internal control over financial reporting; and
+
+5. The registrant's other certifying officer and I have disclosed, based
+on our most recent evaluation of internal control over financial reporting, to
+the registrant's auditors and the audit committee of the registrant's board of
+directors (or persons performing the equivalent functions): 
+
+All significant deficiencies and material weaknesses in the design or
+operation of internal controls over financial reporting which are reasonably
+likely to adversely affect the registrant's ability to record, process,
+summarize and report financial information; and 
+ Any fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrant's internal control over
+financial reporting.  
+
+February 9, 2006 
+ /S/ BRYAN R. MARTIN 
+Bryan R. Martin 
+Chairman and Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 5
+ exh31-2.htm
+ 302 CFO CERTIFICATE
+
+Q3 2006 Exhibit 31.2 
+
+Exhibit 31.2 
+   CERTIFICATION PURSUANT TO 
+  RULES 13a-14(a) AND 15d-14(a) UNDER THE SECURITIES
+EXCHANGE ACT OF 1934 
+AS ADOPTED PURSUANT TO 
+SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+ I, James Sullivan, certify that:  
+
+1. I have reviewed this quarterly report on Form 10-Q of 8x8, Inc.; 
+ 2. Based on my knowledge, this report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to make
+the statements made, in light of the circumstances under which such statements
+were made, not misleading with respect to the period covered by this report;
+ 
+ 3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects the
+financial condition, results of operations and cash flows of the registrant as
+of, and for, the periods presented in this report;  
+ 4. The registrant's other certifying officer and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial
+reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the
+registrant and have: 
+
+Designed such disclosure controls and procedures, or caused such disclosure
+controls and procedures to be designed under our supervision, to ensure that
+material information relating to the registrant, including its consolidated
+subsidiaries, is made known to us by others within those entities, particularly
+during the period in which this report is being prepared; 
+ Designed such internal control over financial reporting, or caused such
+internal control over financial reporting to be designed under our supervision,
+to provide reasonable assurance regarding the reliability of financial reporting
+and the preparation of financial statements for external purposes in accordance
+with generally accepted accounting principles; 
+ Evaluated the effectiveness of the registrant's disclosure controls and
+procedures and presented in this report our conclusions about the effectiveness
+of the disclosure controls and procedures as of the end of the period covered by
+this report based on such evaluation; and 
+ Disclosed in this report any change in the registrant's internal control
+over financial reporting that occurred during the registrant's most recent
+fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual
+report) that has materially affected, or is reasonably likely to materially
+affect, the registrant's internal control over financial reporting; and
+
+5. The registrant's other certifying officer and I have disclosed, based
+on our most recent evaluation of internal control over financial reporting, to
+the registrant's auditors and the audit committee of the registrant's board of
+directors (or persons performing the equivalent functions): 
+
+All significant deficiencies and material weaknesses in the design or
+operation of internal controls over financial reporting which are reasonably
+likely to adversely affect the registrant's ability to record, process,
+summarize and report financial information; and 
+ Any fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrant's internal control over
+financial reporting.  
+
+February 9, 2006 
+ /S/ JAMES SULLIVAN 
+James Sullivan 
+Chief Financial Officer, Vice President of Finance and Secretary  
+
+</EX-31.2>
+
+<EX-32.1>
+ 6
+ exh32-1.htm
+ 906 CEO CERTIFICATE
+
+Q3 2006 Exhibit 32.1 
+
+Exhibit 32.1 
+  CERTIFICATION PURSUANT TO 
+  18 U.S. C. SECTION 1350, 
+AS ADOPTED PURSUANT TO 
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ In connection with the Quarterly Report of 8x8, Inc. (the "Company") on Form
+10-Q for the period ended December 31, 2005, as filed with the Securities and
+Exchange Commission on the date hereof (the "Report"), I, Bryan R. Martin,
+Chairman and Chief Executive Officer of the Company, certify, pursuant to 18
+U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley
+Act of 2002, that:  
+
+The Report fully complies with the requirements of Section 13(a) or 15(d) of
+the Securities Exchange Act of 1934; and  
+ The information contained in the Report fairly presents, in all material
+respects, the financial condition and results of operations of the Company.
+
+/S/ BRYAN R. MARTIN 
+Bryan R. Martin 
+Chairman and Chief Executive Officer 
+February 9, 2006 
+
+</EX-32.1>
+
+<EX-32.2>
+ 7
+ exh32-2.htm
+ 906 CFO CERTIFICATE
+
+Q3 2006 Exhibit 32.2 
+
+Exhibit 32.2 
+  CERTIFICATION PURSUANT TO 
+  18 U.S. C. SECTION 1350, 
+AS ADOPTED PURSUANT TO 
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+ In connection with the Quarterly Report of 8x8, Inc. (the "Company") on Form
+10-Q for the period ended December 31, 2005, as filed with the Securities and
+Exchange Commission on the date hereof (the "Report"), I, James Sullivan, Chief
+Financial Officer, Vice President of Finance and Secretary of the Company,
+certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906
+of the Sarbanes-Oxley Act of 2002, that:  
+
+The Report fully complies with the requirements of Section 13(a) or 15(d) of
+the Securities Exchange Act of 1934; and  
+ The information contained in the Report fairly presents, in all material
+respects, the financial condition and results of operations of the Company.
+
+/S/ JAMES SULLIVAN 
+James Sullivan 
+Chief Financial Officer, Vice President of Finance and Secretary 
+February 9, 2006 
+
+</EX-32.2>
+

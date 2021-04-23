@@ -1,0 +1,1652 @@
+<Header>
+<FileStats>
+    <FileName>20060207_10-Q_edgar_data_1064236_0000891092-06-000318_1.txt</FileName>
+    <GrossFileSize>130840</GrossFileSize>
+    <NetFileSize>91155</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>408</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>10</N_Tables>
+    <N_Exhibits>3</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000891092-06-000318.hdr.sgml : 20060207
+<ACCEPTANCE-DATETIME>20060207163334
+ACCESSION NUMBER:		0000891092-06-000318
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20051231
+FILED AS OF DATE:		20060207
+DATE AS OF CHANGE:		20060207
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SOUND FEDERAL BANCORP INC
+		CENTRAL INDEX KEY:			0001064236
+		STANDARD INDUSTRIAL CLASSIFICATION:	SAVINGS INSTITUTION, FEDERALLY CHARTERED [6035]
+		IRS NUMBER:				223887679
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-24811
+		FILM NUMBER:		06585848
+
+	BUSINESS ADDRESS:	
+		STREET 1:		300 MAMARONECK AVE
+		CITY:			MAMARONECK
+		STATE:			NY
+		ZIP:			10543-2647
+		BUSINESS PHONE:		9146986400
+
+	MAIL ADDRESS:	
+		STREET 1:		300 MAMARONECK AVE
+		CITY:			MAMARONECK
+		STATE:			NY
+		ZIP:			10543-2647
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SOUND FEDERAL BANCORP
+		DATE OF NAME CHANGE:	19980622
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SOUND FEDERAL SAVINGS & LOAN ASSOC
+		DATE OF NAME CHANGE:	19980616
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ EbOqKQlMt4wrBSFBPLGsbZ8tPlkL5PAFshk1+8xlhNBeO1bdlKrexSVmp7vmkyyL
+ 5gkeASEQkeq6D13d5JeCqg==
+
+ 0000891092-06-000318.txt : 20060207
+
+10-Q
+ 1
+ e23341_10q.txt
+ FORM 10-Q
+
+UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                   ----------
+
+                                    FORM 10-Q
+
+(Mark One)
+
+[X]          QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+
+                For the quarterly period ended December 31, 2005
+
+                                       OR
+
+[_]         TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+
+           For the transition period from ____________ to ____________
+
+                        Commission file number 000-24811
+
+                           SOUND FEDERAL BANCORP, INC.
+             (Exact name of registrant as specified in its charter)
+
+          Delaware                                                22-3887679
+(State or other jurisdiction of                                (I.R.S. Employer
+incorporation or organization)                               Identification No.)
+
+               1311 Mamaroneck Ave., White Plains, New York 10605
+                    (Address of principal executive offices)
+                                   (Zip Code)
+
+                                 (914) 761-3636
+               (Registrant's telephone number including area code)
+
+                                       N/A
+              ----------------------------------------------------
+              (Former name, former address and former fiscal year,
+                          if changed from last Report)
+
+      Indicate by check mark  whether the  registrant  (1) has filed all reports
+required to be filed by Section 13 or 15 (d) of the  Securities  Exchange Act of
+1934 during the  preceding  twelve  months (or for such shorter  period that the
+registrant was required to file such reports),  and (2) has been subject to such
+filing requirements for the past 90 days. Yes X No .
+
+      Indicate  by check mark  whether  the  Registrant  is a large  accelerated
+filer,  an accelerated  filer,  or a  non-accelerated  filer (as defined in Rule
+12b-2 of the  Securities  Exchange Act of 1934).  Large  accelerated  filer ____
+Accelerated filer X Non-accelerated filer ____.
+
+      Indicate  by check mark  whether  the  registrant  is a shell  company (as
+defined in Rule 12b-2 of the Securities Exchange Act of 1934). Yes _____ No X .
+
+      Indicate the number of shares  outstanding of each of the issuer's classes
+of common stock as of the latest practicable date.
+
+                Class                                          Shares
+           ----------------                                Outstanding at
+            Common Stock,                                 February 6, 2006
+           par value, $0.01                               ----------------
+                                                             12,322,206
+
+TABLE OF CONTENTS
+
+                         PART I -- FINANCIAL INFORMATION
+                         -------------------------------
+
+Item 1. Financial Statements (Unaudited)
+
+         Consolidated Balance Sheets at December 31, 2005
+         and March 31, 2005.................................................   1
+
+         Consolidated Statements of Income for the Three Months and
+         Nine Months Ended December 31, 2005 and 2004.......................   2
+
+         Consolidated Statement of Changes in Stockholders' Equity
+         for the Nine Months Ended December 31, 2005........................   3
+
+         Consolidated Statements of Cash Flows for the Nine Months
+
+         Ended December 31, 2005 and 2004...................................   4
+
+         Notes to Unaudited Consolidated Financial Statements...............   5
+
+Item 2. Management's Discussion and Analysis of Financial Condition and
+         Results of Operations..............................................  11
+
+Item 3.  Quantitative and Qualitative Disclosures about Market Risk.........  24
+
+Item 4.  Controls and Procedures............................................  24
+
+                          PART II -- OTHER INFORMATION
+                          ----------------------------
+
+Item 1.  Legal Proceedings..................................................  25
+
+Item 2.  Unregistered Sales of Equity Securities and Use of Proceeds........  25
+
+Item 3.  Defaults upon Senior Securities....................................  25
+
+Item 4.  Submission of Matters to a Vote of Security Holders................  25
+
+Item 5.  Other Information..................................................  25
+
+Item 6.  Exhibits...........................................................  25
+
+         Signatures.........................................................  26
+
+i
+
+Part 1. - FINANCIAL INFORMATION
+Item 1.  Financial Statements
+
+See accompanying notes to unaudited consolidated financial statements.
+
+                                       1
+
+Sound Federal Bancorp, Inc. and Subsidiary
+
+CONSOLIDATED STATEMENTS OF INCOME
+(Unaudited)
+(In thousands, except per share data)
+
+See accompanying notes to unaudited consolidated financial statements.
+
+2
+
+Sound Federal Bancorp, Inc. and Subsidiary
+CONSOLIDATED STATEMENT OF CHANGES IN STOCKHOLDERS' EQUITY
+
+For the Nine Months Ended December 31, 2005
+(Unaudited)
+(Dollars in thousands, except per share data)
+
+See accompanying notes to unaudited consolidated financial statements.
+
+                                       3
+
+Sound Federal Bancorp, Inc. and Subsidiary
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(Unaudited)
+(In Thousands)
+
+See accompanying notes to unaudited consolidated financial statements.
+
+4
+
+Sound Federal Bancorp, Inc. and Subsidiary
+
+NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS
+
+1. Reorganization and Stock Offerings
+
+      On October 8, 1998,  Sound  Federal  Bancorp  issued  shares of its common
+stock in connection with a Plan of Reorganization  ("the  "Reorganization")  and
+related  Subscription  and  Community  Offering.  In the  Reorganization,  Sound
+Federal Savings and Loan Association converted from a federally chartered mutual
+savings  association to a federally chartered stock savings  association.  Sound
+Federal Savings and Loan Association became the wholly-owned subsidiary of Sound
+Federal Bancorp,  which became the  majority-owned  subsidiary of Sound Federal,
+MHC (the "Mutual Holding Company").
+
+      On January 6, 2003,  Sound Federal  Bancorp and the Mutual Holding Company
+completed its conversion to a fully public holding  company  structure.  At that
+time,  the Mutual  Holding  Company  merged into Sound Federal  Savings and Loan
+Association,  and no longer exists. Sound Federal Bancorp was succeeded by a new
+Delaware corporation named Sound Federal Bancorp,  Inc. (the "Holding Company").
+Shares of common stock representing the ownership interest of the Mutual Holding
+Company were sold in a subscription  offering and a community  offering.  Shares
+owned  by  public  shareholders  (shareholders  other  than the  Mutual  Holding
+Company) were converted into the right to receive new shares of Holding  Company
+common  stock  determined  pursuant  to an  exchange  ratio.  As part  of  these
+transactions,  Sound Federal  Savings and Loan  Association  changed its name to
+Sound Federal  Savings (the "Bank"),  which is now a wholly-owned  subsidiary of
+the Holding Company.  The Bank and the Holding Company are referred to herein as
+"the Company".
+
+2. Basis of Presentation
+
+      The consolidated  financial  statements included herein have been prepared
+by the Company  without  audit.  In the  opinion of  management,  the  unaudited
+consolidated financial statements include all adjustments,  consisting of normal
+recurring accruals,  necessary for a fair presentation of the financial position
+and results of operations for the periods  presented.  Certain  information  and
+footnote  disclosures  normally included in annual financial statements prepared
+in conformity  with U.S.  generally  accepted  accounting  principles  have been
+condensed or omitted pursuant to the rules and regulations of the Securities and
+Exchange  Commission;  however,  the Company  believes that the  disclosures are
+adequate to make the information presented not misleading. The operating results
+for the  periods  presented  are not  necessarily  indicative  of  results to be
+expected for any other interim period or for the entire fiscal year ending March
+31, 2006.
+
+      The  consolidated  financial  statements  have been prepared in conformity
+with  U.S.  generally   accepted   accounting   principles.   In  preparing  the
+consolidated financial statements,  management is required to make estimates and
+assumptions that affect the reported amounts of assets, liabilities,  income and
+expense.  Actual  results could differ  significantly  from these  estimates.  A
+material  estimate that is particularly  susceptible to near-term  change is the
+allowance for loan losses, which is discussed in Note 5.
+
+      The unaudited interim  consolidated  financial statements presented herein
+should be read in  conjunction  with the annual audited  consolidated  financial
+statements of the Company for the fiscal year ended March 31, 2005,  included in
+the Company's 2005 Annual Report on Form 10-K.
+
+3. Stock-Based Compensation
+
+      Statement of Financial  Accounting  Standards ("SFAS") No. 123, Accounting
+for Stock-Based Compensation, encourages the use of a fair-value-based method of
+accounting for employee stock compensation  plans, but permits the continued use
+of the  intrinsic-value-based  method of  accounting  prescribed  by  Accounting
+Principles Board ("APB") Opinion No. 25. Under SFAS No. 123, the grant-date
+
+5
+
+fair value of options is  recognized  as  compensation  expense over the vesting
+period.  The  Company  has  elected to  continue to apply APB Opinion No. 25 and
+disclose the pro forma information  required by SFAS No. 123. In accordance with
+APB  Opinion  No. 25,  compensation  expense is not  recognized  for fixed stock
+options  if the  exercise  price of the  option  equals  the  fair  value of the
+underlying  stock on the date of the  grant.  The  fair  value of stock  awards,
+measured at the grant date, is recognized as unearned  compensation (a deduction
+from stockholders'  equity) and amortized to compensation  expense as the shares
+become vested.
+
+      Had  stock-based  compensation  expense been recognized in accordance with
+SFAS No. 123,  the  Company's  net income and earnings per share would have been
+adjusted to the following pro forma amounts:
+
+In December 2004, the Financial  Accounting  Standards  Board (the "FASB")
+issued SFAS No. 123 (revised  2004),  "Share-Based  Payment"  ("SFAS No. 123R"),
+which  requires  entities to measure the cost of employee  services  received in
+exchange for an award of equity  instruments  based on the grant-date fair value
+of the award (with  limited  exceptions).  The cost is  recognized as an expense
+over the period  during  which the  employee is  required to provide  service in
+exchange for the award,  which is usually the vesting period.  The scope of SFAS
+No. 123R  includes the Company's  Incentive  Stock Benefit Plan (the "ISB Plan")
+which provides for stock awards and stock option grants.  For stock awards under
+the ISB Plan,  the  grant-date  fair value of the shares will be  recognized  as
+compensation  expense on a  straight-line  basis,  generally over the applicable
+vesting  period,  which is the same  accounting  previously  required  under APB
+Opinion  No.  25. For  options  granted  under the ISB Plan,  the  Company  will
+recognize  the  grant-date  fair value of options as  compensation  expense on a
+straight-line  basis,   generally  over  the  applicable  vesting  period.  This
+accounting  treatment  differs  significantly  from the previous  accounting for
+fixed stock options under APB Opinion No. 25 which  generally  required  expense
+recognition  only when the exercise price of the option was less than the market
+price of the  underlying  stock on the grant date. As required by SFAS No. 123R,
+the Company will  estimate  the fair value of stock  options on each grant date,
+using an appropriate valuation approach such as the Black-Scholes option pricing
+model. SFAS No. 123R did not change existing accounting principles applicable to
+employee stock ownership plans.
+
+      SFAS No. 123R applies to all awards  granted after its effective  date and
+to awards modified,  repurchased, or cancelled after that date. SFAS No. 123R is
+effective as of the  beginning of the first annual  reporting  period  beginning
+after June 15, 2005 (i.e.,  the Company's  fiscal year beginning April 1, 2006).
+The standard permits different  transition methods. The Company expects to adopt
+SFAS No. 123R by  recognizing  compensation  expense  for (i) all stock  options
+granted  after April 1, 2006 and (ii) the portion of  previously  granted  stock
+options for which the  requisite  service  had not been  rendered as of April 1,
+2006, based on the
+
+6
+
+grant-date  fair value of those awards  calculated  for purposes of SFAS No. 123
+pro forma disclosures.  The additional compensation cost for the Company's stock
+options  outstanding  at December 31, 2005 that is expected to be  recognized in
+the fiscal year beginning April 1, 2006, as a result of the adoption of SFAS No.
+123R, is approximately $557,000 before taxes.
+
+4. Earnings Per Share
+
+      Weighted  average  common  shares  used in  calculating  basic and diluted
+earnings per share for the three months ended December 31, 2005 were  11,447,061
+and  11,778,153  respectively.  For the three  months  ended  December 31, 2004,
+weighted  average common shares used in calculating  basic and diluted  earnings
+per share were 11,558,608 and 11,815,966, respectively.
+
+      For the nine months ended December 31, 2005,  weighted average shares used
+in  calculating  basic and  diluted  earnings  per  share  were  11,448,692  and
+11,746,826,  respectively.  For the nine months ended  December  31,  2004,  the
+respective weighted average shares were 11,662,230 and 11,931,624.
+
+5. Allowance for Loan Losses
+
+      The allowance  for loan losses is increased by provisions  for loan losses
+charged to income.  Losses are charged to the allowance when all or a portion of
+a loan is deemed to be uncollectible. Recoveries of loans previously charged-off
+are  credited  to the  allowance  for loan losses  when  realized.  Management's
+periodic  determination  of the allowance is based on continuing  reviews of the
+portfolio,  using a  consistently-applied  methodology.  The  allowance for loan
+losses  consists of losses that are both  probable and  estimable at the date of
+the  financial  statements.  In  determining  the  allowance  for  loan  losses,
+management  considers  factors such as the Company's past loan loss  experience,
+known risks in the portfolio,  adverse situations affecting a borrower's ability
+to repay,  the estimated value of underlying  collateral,  and current  economic
+conditions.
+
+      Determining the allowance for loan losses involves significant  management
+judgments utilizing the best information available.  Those judgments are subject
+to further  review by  various  sources,  including  the  Company's  regulators.
+Changes in the  allowance  may be  necessary  in the future  based on changes in
+economic and real estate market conditions,  new information  obtained regarding
+known problem loans, the  identification  of additional  problem loans and other
+factors, certain of which are outside of management's control.
+
+      Activity in the  allowance  for loan losses for the periods  indicated  is
+summarized as follows:
+
+7
+
+6. Borrowings
+
+      The Company had the  following  outstanding  borrowings  under  securities
+repurchase  agreements  with the Federal Home Loan Bank of New York (the "FHLB")
+at December 31, 2005:
+
+       Maturity Date                      Coupon Rate         Borrowings
+       -------------                      -----------         ----------
+                                               (dollars in thousands)
+January 2008(1)                              5.42%             $ 10,000
+December 2008(1)                             4.72                 5,000
+March 2006                                   2.27                 7,000
+March 2007                                   2.65                 7,000
+March 2008                                   4.13                 6,000
+                                                               --------
+                                                               $ 35,000
+                                                               ========
+Weighted average interest rate                                    3.91%
+Accrued interest payable                                          $ 186
+
+(1) Callable quarterly
+
+      The  securities   transferred  to  the  FHLB  subject  to  the  repurchase
+agreements consist of U.S.  Government and agency securities  available for sale
+with a carrying value of $18.3 million and mortgage-backed  securities available
+for sale with a carrying value of $15.0 million.  Accrued interest receivable on
+the securities was $149,000 at December 31, 2005.
+
+7. Comprehensive Income (Loss)
+
+      Comprehensive income or loss represents the sum of net income and items of
+"other comprehensive income or loss" that are reported directly in stockholders'
+equity,  such as the change during the period in the  after-tax  net  unrealized
+gain or loss on  securities  available for sale.  The Company  reports its total
+comprehensive  income  (loss)  in  the  consolidated  statement  of  changes  in
+stockholders' equity.
+
+      The Company's other comprehensive income (loss) is summarized as follows:
+
+                                           Three Months Ended  Nine Months Ended
+                                              December 31,        December 31,
+                                           ------------------  -----------------
+                                            2005     2004       2005      2004
+                                                    (In thousands)
+
+Net unrealized holding (loss)
+  gain arising during
+  the period on securities available
+  for sale                                 $(876)    $264      $(853)   $(3,256)
+Related deferred income tax effect           350     (105)       341      1,285
+                                           -----     ----      -----    -------
+Other comprehensive (loss) income          $(526)    $159      $(512)   $(1,971)
+                                           =====     ====      =====    =======
+
+8
+
+The Company's  accumulated other  comprehensive loss, which is included in
+stockholders' equity, is summarized as follows:
+
+                                                        December 31,   March 31,
+                                                           2005          2005
+                                                        ------------   ---------
+                                                              (In thousands)
+
+Net unrealized holding loss on
+  securities available for sale                          $(5,387)       $(4,534)
+Related deferred income taxes                              2,152          1,811
+                                                         -------        -------
+Accumulated other comprehensive loss                     $(3,235)       $(2,723)
+                                                         =======        =======
+
+8. Postretirement Plans
+
+      Pension Plans
+
+      The Company maintains two  non-contributory  defined benefit pension plans
+that cover  substantially  all  full-time  employees  who meet  certain  age and
+service  requirements.  Benefits are based on the employee's years of accredited
+service and average  compensation for the three  consecutive  years that produce
+the highest average.  The Company's  funding policy is to contribute the amounts
+required  by  applicable   regulations,   although  additional  amounts  may  be
+contributed  from time to time.  Contributions  of $1.4 million and $1.6 million
+were  made  during  the  three  and  nine  months   ended   December  31,  2005,
+respectively.  The contribution  made during the three months ended December 31,
+2005 was based on an  estimated  actuarial  valuation  using a December 31, 2005
+measurement  date and  considering  among other things,  the maximum  deductible
+contribution  limits for tax purposes and the amount  required to fully fund the
+accumulated benefit obligation.  The Company does not expect to make any further
+contributions to the plans in fiscal 2006.
+
+      Plan assets are invested in the Guaranteed Deposit Fund ("GDF") which is a
+group annuity  insurance product issued by Prudential  Retirement  Insurance and
+Annuity  Company  ("PRIAC").  Deposits  to the GDF are  deposited  into  PRIAC's
+general account.  Payment obligations under the GDF represent an insurance claim
+supported by all general  account  assets.  The guarantee from PRIAC is based on
+the  claims-paying  ability of PRIAC and not the value of securities held in the
+GDF. As such,  the GDF does not operate like a mutual fund,  annuity  product or
+other similar  investment.  The GDF is an  intermediate-term,  high-grade  fixed
+income portfolio  consisting of commercial  mortgages,  private placement bonds,
+publicly traded debt securities and asset-backed securities.
+
+      The components of the net periodic expense for the plans were as follows:
+
+                                        Three Months Ended    Nine Months Ended
+                                           December 31,         December 31,
+                                       -------------------    -----------------
+                                        2005      2004         2005      2004
+                                       -----     -----        -----     -----
+                                                   (In thousands)
+
+Service cost                           $ 115     $  91        $ 345     $ 273
+Interest cost                            172       160          516       480
+Expected return on plan assets          (231)     (225)        (693)     (675)
+Recognized net actuarial loss             52      --            156      --
+Amortization of prior service cost         1        28            3        84
+                                       -----     -----        -----     -----
+     Net periodic pension expense      $ 109     $  54        $ 327     $ 162
+                                       =====     =====        =====     =====
+
+9
+
+Director Retirement Plan
+
+      The Company maintains a non-qualified,  unfunded Director  Retirement Plan
+which is an amendment and  restatement  of the former  Director  Emeritus  Plan.
+Under the Director  Retirement Plan, any person who was a director on January 1,
+2004,  who retires or dies after age 70 and who completes 15 years of continuous
+service as a director becomes entitled to an annual  retirement  benefit for the
+longer of 20 years or his/her lifetime,  equal to the amount of annual fees paid
+for  attendance at regular  monthly board meetings  during the preceding  twelve
+months,  plus the amount of any annual  stipend  paid to such  director  in that
+year.  The Director  Retirement  Plan also provides for benefits in the event of
+early retirement or disability.  In the event of a change in control,  directors
+will be credited  with years of service as if they had  remained  members of the
+Board of  Directors  until age 70 and be entitled to benefits  payable in a lump
+sum, at the time of the change in control.  A retired  director will receive the
+present  value  of the  remaining  benefit,  paid in a lump sum at the time of a
+change in control.
+
+      The components of the net periodic expense for the plan were as follows:
+
+                                         Three Months Ended    Nine Months Ended
+                                            December 31,         December 31,
+                                         ------------------    -----------------
+                                          2005      2004         2005      2004
+                                         -----     -----        -----     -----
+                                                    (In thousands)
+
+Service cost                             $  36     $  16        $ 108     $  48
+Interest cost                               29        24           87        72
+Recognized net actuarial gain               (3)       (4)          (9)      (12)
+Amortization of prior service cost          33        45           99       135
+                                         -----     -----        -----     -----
+     Net periodic expense                $  95     $  81        $ 285     $ 243
+                                         =====     =====        =====     =====
+
+10
+
+Item 2. Management's  Discussion and Analysis of Financial Condition and Results
+of Operations
+
+General
+
+      Our principal business has historically  consisted of offering savings and
+other  deposits to the general public and using the funds from these deposits to
+make loans secured by residential real estate.  Our net income depends primarily
+upon our net interest  income,  which is the difference  between interest income
+earned  on  interest-earning  assets,  such as loans  and  investments,  and the
+interest expense paid on deposits and borrowings.  To a much lesser degree,  our
+net income is affected by non-interest  income,  such as banking service charges
+and fees.  Net income is also  affected by, among other things,  provisions  for
+loan losses and  non-interest  expenses.  Our  principal  non-interest  expenses
+consist of compensation and benefits,  occupancy and equipment,  data processing
+service  fees,  advertising  and  promotion  and  other  expenses,  such  as ATM
+expenses,  professional  fees and  insurance  premiums.  Our net income  also is
+affected   significantly  by  general   economic  and  competitive   conditions,
+particularly  changes  in market  interest  rates;  government  legislation  and
+policies affecting fiscal affairs, housing and financial institutions;  monetary
+policies  of the Federal  Reserve  System;  and the  actions of bank  regulatory
+authorities.
+
+Forward-Looking Statements
+
+      When used in this report on Form 10-Q,  the words or phrases  "will likely
+result," "are  expected  to," "will  continue,"  "is  anticipated,"  "estimate,"
+"project"  or similar  expressions  are  intended to  identify  "forward-looking
+statements" within the meaning of the Private  Securities  Litigation Reform Act
+of 1995. Such statements reflect our current view with respect to future-looking
+events and are  subject  to certain  risks and  uncertainties  that could  cause
+actual results to differ  materially  from  Management's  current  expectations.
+Among others, these risks and uncertainties  include changes in general economic
+conditions,  changes in policies by regulatory agencies,  hostilities  involving
+the United  States,  fluctuations  in  interest  rates,  demand for loans in the
+Company's  market area,  changes in the quality or  composition of the Company's
+loan and investment portfolios,  changes in accounting  principles,  policies or
+guidelines  and other  economic,  competitive,  governmental  and  technological
+factors  affecting our operations,  markets and products.  The Company wishes to
+caution  readers  not  to  place  undue  reliance  on any  such  forward-looking
+statements,  which speak only as of the date made.  The Company wishes to advise
+readers  that the factors  listed  above could  affect the  Company's  financial
+performance  and could cause the Company's  actual results for future periods to
+differ  materially  from its  forward-looking  statements.  We do not  intend to
+update these forward-looking statements.
+
+Critical Accounting Policies
+
+      Accounting  policies  considered  particularly  critical to our  financial
+results  include the allowance for loan losses and accounting for goodwill.  The
+methodology  for  determining  the  allowance  for loan losses is  considered  a
+critical  accounting  policy by  management  due to the high  degree of judgment
+involved,  the  subjectivity of the  assumptions  utilized and the potential for
+changes in the economic  environment  that could result in changes to the amount
+of the  allowance for loan losses  considered  necessary.  Management  considers
+accounting for goodwill to be a critical policy because  goodwill must be tested
+for  impairment at least annually using an approach that involves the estimation
+of fair values.  Estimating  fair values  involves a high degree of judgment and
+subjectivity in the assumptions utilized.
+
+11
+
+Financial Condition
+
+      Assets.  The Company's  total assets  amounted to $1.1 billion at December
+31, 2005 as  compared  to $1.0  billion at March 31,  2005.  The $142.4  million
+increase in assets primarily consisted of a $150.0 million increase in net loans
+to $710.8 million,  partially  offset by a decrease in total securities of $20.2
+million.  Our asset growth was funded  principally by an $137.9 million increase
+in deposits to $969.7 million.
+
+      Liabilities.  Total  deposits were $969.7 million at December 31, 2005, an
+increase  of $137.9  million as compared  to $831.8  million at March 31,  2005.
+Certificates of deposit  increased  $145.2 million to $698.1 million from $552.9
+million;  savings and club accounts  decreased  $16.9 million to $133.6  million
+from $150.5  million;  and money market,  NOW and commercial  checking  accounts
+increased  $9.6 million to $138.0 million from $128.4  million.  The increase in
+deposits,  primarily  certificates of deposits,  reflects  deposit growth in two
+branches  opened  during the fourth  quarter of fiscal 2005 as well as growth in
+our existing  branches.  We have used our  certificates  of deposit product as a
+promotional product to attract new customers to our branches. Borrowings totaled
+$35.0 million at December 31, 2005 and $38.0 million at March 31, 2005.
+
+      Stockholders' Equity. Total stockholders' equity increased $1.5 million to
+$128.7  million at December 31, 2005 as compared to $127.2  million at March 31,
+2005.  The increase  reflects  net income of $3.5 million and  increases of $2.3
+million related to stock options, stock awards and ESOP shares, partially offset
+by common stock  purchases  at a cost of $1.3  million,  dividends  paid of $2.5
+million and an increase of $512,000 in the accumulated other comprehensive loss.
+
+      The accumulated other  comprehensive  loss of $3.2 million at December 31,
+2005  represents the after-tax net unrealized  loss on securities  available for
+sale ($5.4 million pre-tax).  The Company invests  primarily in  mortgage-backed
+securities  issued by Ginnie Mae,  Fannie Mae and  Freddie  Mac, as well as U.S.
+Government and Agency  securities.  The  unrealized  losses at December 31, 2005
+were caused by increases in market yields subsequent to purchase.  There were no
+debt securities past due or securities for which the Company currently  believes
+it is not  probable  that it will  collect  all  amounts  due  according  to the
+contractual  terms of the security.  Because the Company has the ability to hold
+securities with unrealized losses until a market price recovery (which, for debt
+securities may be until maturity), the Company did not consider these securities
+to be other-than-temporarily impaired at December 31, 2005.
+
+12
+
+Comparison of Results of Operations for the Three Months Ended December 31, 2005
+and 2004
+
+      Average  Balance  Sheets.  The following  table sets forth average balance
+sheets,  average yields and costs,  and certain other  information for the three
+months ended  December  31, 2005 and 2004.  The table  reflects  the  annualized
+average  yield on  interest-earning  assets and the  annualized  average cost of
+interest-bearing liabilities (derived by dividing the annualized interest income
+or  expense  by the  monthly  average  balance  of  interest-earning  assets  or
+interest-bearing  liabilities,  respectively),  as  well  as the  net  yield  on
+interest-earning  assets. No tax-equivalent  yield adjustments were made, as the
+effect  thereof  was  not  material.  Nonaccrual  loans  were  included  in  the
+computation of average  balances and therefore have a zero yield. The yields set
+forth below include the effect of deferred loan  origination fees and costs, and
+purchase  discounts  and  premiums  that are  amortized  or accreted to interest
+income.  Interest income on loans for the 2005 and 2004 periods has been reduced
+by amortization of net deferred loan origination  costs of $78,000 and $136,000,
+respectively.  Interest income on mortgage-backed securities has been reduced by
+amortization  of purchase  premiums  (net of discounts) of $187,000 and $245,000
+for those same respective  periods.
+
+(1)   Balances are net of the allowance for loan losses.
+
+(2)   Average outstanding balances are based on amortized cost. As a result, the
+      average  balances  and yields do not include the effect of changes in fair
+      value of securities available for sale.
+
+(3)   Other overnight deposits represent an  interest-earning  demand account at
+      the Federal Home Loan Bank of New York.
+
+(4)   Consists primarily of Federal Home Loan Bank stock.
+
+(5)   Net interest rate spread  represents the  difference  between the yield on
+      average  interest-earning assets and the cost of average  interest-bearing
+      liabilities.
+
+(6)   Net earning  assets  represent  total  interest-earning  assets less total
+      interest-bearing liabilities.
+
+(7)   Net interest  margin  represents  net interest  income  divided by average
+      total interest-earning assets.
+
+13
+
+Rate/Volume  Analysis.  The following  table presents the dollar amount of
+changes in interest  income and  interest  expense for the major  categories  of
+interest-earning  assets and interest-bearing  liabilities,  with respect to (i)
+changes  attributable to changes in volume (i.e., changes in balances multiplied
+by the prior-period rate) and (ii) changes  attributable to rate (i.e.,  changes
+in rate  multiplied  by  prior-period  balances).  For  purposes  of this table,
+changes attributable to both rate and volume,  which cannot be segregated,  have
+been allocated proportionately to the change due to volume and the change due to
+rate.
+
+                                        For the Three Months Ended December 31,
+                                                      2005 vs. 2004
+                                      ------------------------------------------
+                                      Increase (Decrease) Due to
+                                      --------------------------  Total Increase
+                                       Volume        Rate           (Decrease)
+                                      -----------------------------------------
+                                                  (In thousands)
+
+Interest-earning assets:
+Loans                                 $ 2,228       $  124             $2,352
+Mortgage-backed securities             (1,126)         928               (198)
+Other securities                          166           97                263
+Federal funds and other
+  overnight deposits                       28          149                177
+Other                                      (5)          61                 56
+                                      -------       ------             ------
+Total interest-earning assets           1,291        1,359              2,650
+                                      -------       ------             ------
+Interest-bearing liabilities:
+Savings and club accounts                 (84)          78                 (6)
+Money market accounts                    (104)         126                 22
+NOW accounts                                7           58                 65
+Certificates of deposit                 1,098        1,430              2,528
+Borrowings                               (105)          96                 (9)
+Mortgage escrow funds                       1            1                  2
+                                      -------       ------             ------
+Total interest-bearing liabilities        813        1,789              2,602
+                                      -------       ------             ------
+Net interest income                   $   478       $ (430)            $   48
+
+      Net Income.  Net income amounted to $1.05 million or diluted  earnings per
+share of $0.09 for the  quarter  ended  December  31,  2005 as compared to $1.43
+million or diluted  earnings per share of $0.12 for the quarter  ended  December
+31, 2004. Net income decreased  $380,000 for the quarter ended December 31, 2005
+which is primarily  attributable to a $645,000 increase in non-interest expense,
+partially  offset by a $48,000  increase in net  interest  income and a $253,000
+decrease in income tax expense.
+
+      Interest  Income.  Interest income increased $2.7 million to $13.4 million
+for the quarter  ended  December 31, 2005,  as compared to $10.7 million for the
+quarter ended December 31, 2004. The increase reflects a $140.3 million increase
+in average  interest-earning  assets to $1.1  billion  during the quarter  ended
+December  31,  2005 as compared  to $928.6  million for the same  quarter in the
+prior  year  and  a  39  basis  point   increase   in  the   average   yield  on
+interest-earning  assets  to 4.97%.  The  increase  in the  average  balance  of
+interest-earning  assets was due primarily to a $156.3  million  increase in the
+average  balance  of net loans to $691.2  million,  partially  offset by a $22.2
+million  decrease in the average balance of total  securities to $335.2 million.
+The  increase  in average  interest-earning  assets was  funded  principally  by
+deposit  growth in the Bank's  branches.  The  increase in the average  yield on
+interest-earning assets reflects the purchase of securities
+
+14
+
+at higher rates than the  existing  portfolio  and  increased  yields  earned on
+Federal  funds as a result of recent  increases in  short-term  market  interest
+rates.
+
+      Loans.  Interest income on loans increased $2.3 million, or 31.4%, to $9.8
+million for the quarter ended  December 31, 2005 as compared to $7.5 million for
+the same quarter in 2004.  This increase is due to a $156.3 million  increase in
+the average  balance of loans to $691.2  million and a 9 basis point increase in
+the yield  earned to 5.64%.  While  short-term  interest  rates have  increased,
+longer-term interest rates have remained substantially unchanged at December 31,
+2005.  The interest  rates on loan products are typically  based on  longer-term
+interest rates, such as the 10-year Treasury bond. As a result, the rates on new
+mortgage loans have remained substantially unchanged at December 31, 2005. Loans
+originated during the quarter ended December 31, 2005 amounted to $71.7 million.
+If long-term  market interest rates increase,  our average yield on loans should
+increase,  however loan  originations  may decrease which would result in slower
+growth or a decrease in the loan portfolio.
+
+      Mortgage-Backed   and  Other  Securities.   Interest  on   mortgage-backed
+securities  totaled  $2.1  million for the quarter  ended  December  31, 2005, a
+decrease of $198,000  from the same  quarter in 2004.  The  decrease is due to a
+$41.1 million decrease in the average balance of  mortgage-backed  securities to
+$221.2  million,  partially  offset by a 29 basis point  increase in the average
+yield to 3.80% during the current quarter.  The increase in the average yield is
+due primarily to rising short-term  interest rates.  Mortgage-backed  securities
+with   adjustable   rates   amounted  to  $117.7   million  or  54.5%  of  total
+mortgage-backed  securities  at December 31, 2005.  The interest  rates on these
+securities  typically  adjust  using an index  that is based on the yield of the
+1-year Treasury bill.
+
+      Interest on other  securities  increased  $263,000 to $1.0 million for the
+quarter ended December 31, 2005, as compared to $782,000 for the same quarter in
+2004. The increase is due to an $18.9 million increase in the average balance of
+other  securities to $114.0 million and a 38 basis point increase in the average
+yield to 3.64%.  The increase in both the average  balance and the average yield
+of other  securities  is due primarily to recent  purchases of bonds,  issued by
+Government-sponsored  entities,  with  maturity or call dates of less than three
+years. As a result of recent increases in market interest rates in this maturity
+timeframe,  securities  purchased  during  fiscal 2006 have been at higher rates
+than the existing portfolio.
+
+      Federal  Funds Sold and Other  Overnight  Deposits.  For the quarter ended
+December 31, 2005,  interest on Federal funds sold and other overnight  deposits
+increased  $177,000 to $290,000,  reflecting  a 166 basis point  increase in the
+average yield to 3.13%,  and a $6.3 million  increase in the average  balance to
+$36.8 million. The increase in the average yield is a result of increases by the
+Federal Reserve in the Federal funds rate.
+
+      Other Earning  Assets.  Other earning assets consist  primarily of FHLB of
+New York common  stock.  Dividends on FHLB of New York common stock  amounted to
+$84,000 for the quarter  ended  December 31, 2005 as compared to $32,000 for the
+same quarter in 2004.
+
+      Interest Expense. Interest expense for the quarter ended December 31, 2005
+increased  $2.6  million to $6.7  million,  as compared to $4.1  million for the
+quarter  ended  December  31,  2004.  The  average  balance of  interest-bearing
+liabilities  increased  $130.4  million to $953.9  million for the quarter ended
+December  31,  2005 as compared  to $823.5  million for the same  quarter in the
+prior  year,  while the average  cost of these  liabilities  increased  82 basis
+points to  2.77%.  The  increase  in the  average  balance  of  interest-bearing
+liabilities includes deposit growth in the most recently opened branches as well
+as  growth  in the  existing  branches.  The  increase  in the  average  cost of
+liabilities is a result of increasing  short-term  market  interest rates and an
+increase in certificates of deposit  accounts as a percentage of total deposits.
+The average balance of certificates of deposit  represented 70.1% of the average
+balance of total interest-bearing liabilities for the quarter ended December 31,
+2005, as compared to 63.2% for the quarter ended December 31, 2004. Certificates
+of deposit are  generally  offered at higher rates than savings  accounts and we
+have used these  accounts to attract  customers  to our recently  opened  branch
+locations.
+
+15
+
+Interest  expense on certificates of deposit  amounted to $5.9 million for
+the current  quarter as compared to $3.3  million for the same  quarter in 2004.
+The  increase  is due  primarily  to a $148.1  million  increase  in the average
+balance to $668.8  million  from $520.7  million for the same quarter last year,
+while the average cost of certificates  of deposit  increased 94 basis points to
+3.48%.
+
+      Interest on savings accounts  amounted to $199,000 for the current quarter
+as compared to $205,000 for the quarter ended  December 31, 2004.  This decrease
+is the result of a $16.3  million  decrease  in the  average  balance of savings
+accounts to $135.8  million for the quarter ended  December 31, 2005 as compared
+to $152.1 million for the same quarter in 2004,  partially offset by an increase
+of 5 basis points in the average cost of savings accounts to 0.58%.
+
+      Interest expense on NOW and money market accounts amounted to $222,000 for
+quarter ended  December 31, 2005 as compared to $135,000 for the same quarter in
+the prior year.  The average  cost  increased  32 basis  points to 0.81% and the
+average balance of these accounts increased $548,000 to $108.8 million.
+
+      For the quarter ended  December 31, 2005,  interest  expense on borrowings
+amounted to $362,000 as compared to $371,000 for the same  quarter in 2004.  The
+average  balance of borrowings for the current quarter was $35.0 million and the
+average  cost was 4.10%,  an increase of 23 basis  points from the same  quarter
+last year.
+
+      Net Interest  Income.  Net interest  income for the quarter ended December
+31, 2005 increased $48,000 to $6.72 million as compared to $6.68 million for the
+same quarter in the prior year. The net interest rate spread was 2.20% and 2.63%
+for the  quarters  ended  December  31,  2005 and  2004,  respectively.  The net
+interest  margin  for  those  periods  was 2.50% and  2.85%,  respectively.  The
+decreases in interest  rate spread and net  interest  margin are  primarily  the
+result of a decrease in the spread between short- and long-term  market interest
+rates. At December 31, 2005, the spread between the 1-month and 10-year Treasury
+yield rates was 38 basis  points as compared to 205 basis points at December 31,
+2004. As a result,  the Company's average cost of  interest-bearing  liabilities
+has  increased  faster  than the  yield on  interest-earning  assets  which  are
+affected by longer-term interest rates.
+
+      Provision for Loan Losses. Management regularly reviews the loan portfolio
+and makes  provisions  for loan  losses in  amounts  required  to  maintain  the
+allowance  for loan losses in  accordance  with  generally  accepted  accounting
+principles.  The  allowance  consists  of  losses  that  are both  probable  and
+estimable at the date of the financial statements. The allowance for loan losses
+consists of amounts  allocated to specific  nonperforming  loans and to loans in
+each major portfolio category. Loan categories such as single-family residential
+mortgage loans, which represented 84.6% of total loans at December 31, 2005, are
+generally  evaluated on an aggregate or "pool"  basis.  Our  allowance  for loan
+losses is  predominately  determined on a pool basis by applying loss factors to
+the current  balances  of the  various  loan  categories.  The loss  factors are
+determined  by  management  based  on  an  evaluation  of  our  historical  loss
+experience,  delinquency trends,  volume and type of lending conducted,  and the
+impact of current economic conditions in our market area.
+
+      The provision for loan losses was $75,000 for the quarters  ended December
+31, 2005 and 2004.  Non-performing  loans  amounted to $2.7  million or 0.38% of
+total  loans at  December  31,  2005,  as compared to $734,000 or 0.14% of total
+loans at December  31,  2004.  The  allowance  for loan losses  amounted to $3.2
+million and $3.0 million at December 31, 2005 and March 31, 2005,  respectively.
+The increase in the allowance for loan losses is primarily due to an increase in
+the origination of adjustable rate mortgage loans, commercial mortgage loans and
+commercial  loans  (not  secured by real  estate)  as well as overall  portfolio
+growth.  Adjustable-rate  mortgage  loans can involve  greater  credit risk than
+fixed-rate loans because as interest rates increase,  the underlying payments by
+the borrower increase,  thus increasing the risk of default by the borrower.  At
+the same time, the  marketability of the underlying  collateral may be adversely
+affected by higher interest  rates. At December 31, 2005,  adjustable rate loans
+accounted for 45.2% of total loans as compared to 37.8% at March 31, 2005.
+
+16
+
+Non-Interest  Income.  Non-interest income consists principally of service
+charges on deposit  accounts,  fees earned on the sale of  investment  products,
+late  charges  on loans,  various  other  service  fees and  changes in the cash
+surrender value of bank-owned life insurance ("BOLI").  Service charges and fees
+totaled $251,000 and $244,000 for the quarters ended December 31, 2005 and 2004,
+respectively.  The  increase  in service  charges and fees is  primarily  due to
+service  charges on deposits as a result of increases in the fee  structure  and
+deposit  account  growth.  The increase in the cash surrender  value of the BOLI
+amounted to $95,000 and $121,000 for those same respective periods.
+
+      Non-Interest  Expense.  Non-interest  expense totaled $5.2 million for the
+quarter  ended  December  31, 2005 as  compared to $4.6  million for the quarter
+ended December 31, 2004. This increase is primarily due to increases of $431,000
+in  compensation  and  benefits  expense,  $75,000 in  occupancy  and  equipment
+expense,  $114,000 in  advertising  and  promotion  expense and $75,000 in other
+non-interest  expense.  These  increases were partially  offset by a decrease of
+$50,000  in  data   processing   service  fees.  The  increases   include  costs
+attributable  to two new  branches  opened  during the fourth  quarter of fiscal
+2005.
+
+      The increase in  compensation  and benefits  expense is due primarily to a
+$170,000  increase in  compensation  costs due primarily to additional  staff to
+support the growth in the Company's lending operations and the new branches. The
+adoption  of SFAS No.  123R will result in  additional  compensation  costs with
+respect to stock options  beginning April 1, 2006, as described in Note 3 of the
+Notes to Unaudited Consolidated Financial Statements in Item 1.
+
+        Income Taxes. Income tax expense amounted to $703,000 and $956,000 for
+the quarters ended December 31, 2005 and 2004, respectively. The effective tax
+rates for those same periods were 40.2% and 40.1%, respectively.
+
+17
+
+Comparison of Results of Operations  for the Nine Months Ended December 31, 2005
+and 2004
+
+      Average  Balance  Sheets.  The following  table sets forth average balance
+sheets,  average yields and costs,  and certain other  information  for the nine
+months ended  December  31, 2005 and 2004.  The table  reflects  the  annualized
+average  yield on  interest-earning  assets and the  annualized  average cost of
+interest-bearing liabilities (derived by dividing the annualized interest income
+or  expense  by the  monthly  average  balance  of  interest-earning  assets  or
+interest-bearing  liabilities,  respectively),  as  well  as the  net  yield  on
+interest-earning  assets. No tax-equivalent  yield adjustments were made, as the
+effect  thereof  was  not  material.  Nonaccrual  loans  were  included  in  the
+computation of average  balances and therefore have a zero yield. The yields set
+forth below include the effect of deferred loan  origination fees and costs, and
+purchase  discounts  and  premiums  that are  amortized  or accreted to interest
+income.  Interest income on loans for the 2005 and 2004 periods has been reduced
+by amortization of net deferred loan origination costs of $333,000 and $412,000,
+respectively.  Interest income on mortgage-backed securities has been reduced by
+amortization  of purchase  premiums  (net of discounts) of $593,000 and $742,000
+for those same respective  periods.
+
+(1)   Balances are net of the allowance for loan losses.
+
+(2)   Average outstanding balances are based on amortized cost. As a result, the
+      average  balances  and yields do not include the effect of changes in fair
+      value of securities available for sale.
+
+(3)   Other overnight deposits represent an  interest-earning  demand account at
+      the Federal Home Loan Bank of New York.
+
+(4)   Consists primarily of Federal Home Loan Bank stock.
+
+(5)   Net interest rate spread  represents the  difference  between the yield on
+      average  interest-earning assets and the cost of average  interest-bearing
+      liabilities.
+
+(6)   Net earning  assets  represent  total  interest-earning  assets less total
+      interest-bearing liabilities.
+
+(7)   Net interest  margin  represents  net interest  income  divided by average
+      total interest-earning assets.
+
+18
+
+Rate/Volume  Analysis.  The following  table presents the dollar amount of
+changes in interest  income and  interest  expense for the major  categories  of
+interest-earning  assets and interest-bearing  liabilities,  with respect to (i)
+changes  attributable to changes in volume (i.e., changes in balances multiplied
+by the prior-period rate) and (ii) changes  attributable to rate (i.e.,  changes
+in rate  multiplied  by  prior-period  balances).  For  purposes  of this table,
+changes attributable to both rate and volume,  which cannot be segregated,  have
+been allocated proportionately to the change due to volume and the change due to
+rate.
+
+                                       For the Nine Months Ended December 31,
+                                                    2005 vs. 2004
+                                     -------------------------------------------
+                                     Increase (Decrease) Due to
+                                     --------------------------   Total Increase
+                                         Volume         Rate        (Decrease)
+                                     -------------------------------------------
+                                                    (In thousands)
+
+Interest-earning assets:
+Loans                                   $ 5,430      $  (191)        $ 5,239
+Mortgage-backed securities                 (655)         409            (246)
+Other securities                            436          285             721
+Federal funds and other
+  overnight deposits                         14          407             421
+Other                                         8          145             153
+                                        -------      -------         -------
+Total interest-earning assets             5,233        1,055           6,288
+                                        -------      -------         -------
+Interest-bearing liabilities:
+Savings and club accounts                   (53)          42             (11)
+Money market accounts                       (52)         135              83
+NOW accounts                                 15          110             125
+Certificates of deposit                   2,681        3,497           6,178
+Borrowings                                  (31)         (11)            (42)
+Mortgage escrow funds                         4           (1)              3
+                                        -------      -------         -------
+Total interest-bearing liabilities        2,564        3,772           6,336
+                                        -------      -------         -------
+Net interest income                     $ 2,669      $(2,717)        $   (48)
+                                        =======      =======         =======
+
+      Net Income.  Net income amounted to $3.53 million or diluted  earnings per
+share of $0.30 for the nine months ended December 31, 2005, as compared to $4.35
+million  or  diluted  earnings  per  share of $0.36  for the nine  months  ended
+December 31,  2004, a decrease of $825,000 or 18.9% in net income.  The decrease
+in net  income  for the  nine  months  ended  December  31,  2005  is  primarily
+attributable  to a $1.7  million  increase in  non-interest  expense,  partially
+offset by a $449,000 increase in non-interest  income and a $530,000 decrease in
+income tax expense.
+
+      Interest  Income.  Interest income increased $6.3 million to $37.3 million
+for the nine months ended  December 31, 2005,  as compared to $31.0  million for
+the nine months ended December 31, 2004. The increase  reflects a $125.7 million
+increase  in average  interest-earning  assets to $1.0  billion  during the nine
+months ended December 31, 2005 as compared to $897.6 million for the same period
+in the  prior  year  and a 25  basis  point  increase  in the  average  yield on
+interest-earning  assets  to 4.83%.  The  increase  in the  average  balance  of
+interest-earning  assets was due primarily to a $126.3  million  increase in the
+average  balance  of net loans to  $637.9  million,  partially  offset by a $2.8
+million  decrease in the average balance of total  securities to $346.3 million.
+The  increase  in average  interest-earning  assets was  funded  principally  by
+deposit  growth in
+
+19
+
+the Bank's  branches.  The  increase  in the average  yield on  interest-earning
+assets  reflects  the purchase of  securities  at higher rates than the existing
+portfolio  and  increased  yields  earned on Federal funds as a result of recent
+increases in short-term market interest rates.
+
+      Loans. Interest income on loans increased $5.3 million, or 24.1%, to $27.0
+million for the nine months ended December 31, 2005 as compared to $21.7 million
+for the same period in 2004.  This increase is due to a $126.3 million  increase
+in the average balance of loans to $637.9 million, partially offset by a 3 basis
+point  decrease in the yield earned to 5.61%.  While  short-term  interest rates
+have increased, longer-term interest rates have remained substantially unchanged
+at December 31, 2005. The interest rates on loan products are typically based on
+longer-term  interest rates, such as the 10-year Treasury bond. As a result, the
+rates on new mortgage  loans have remained  substantially  unchanged at December
+31,  2005.  Loans  originated  during the nine months  ended  December  31, 2005
+amounted to $246.3 million.  If long-term  market  interest rates increase,  our
+average yield on loans should increase,  however loan  originations may decrease
+which would result in slower growth or a decrease in the loan portfolio.
+
+      Mortgage-Backed   and  Other  Securities.   Interest  on   mortgage-backed
+securities  totaled $6.5 million for the nine months ended  December 31, 2005, a
+decrease of 246,000 from the nine months ended  December 31, 2004.  The decrease
+is due to a $20.0  million  decrease in the average  balance of  mortgage-backed
+securities to $238.3 million,  partially  offset by a 15 basis point increase in
+the average  yield to 3.62%.  The increase in the average yield is due primarily
+to rising short-term interest rates.  Mortgage-backed securities with adjustable
+rates amounted to $117.7 million or 54.5% of total mortgage-backed securities at
+December 31, 2005. The interest rates on these securities typically adjust using
+an index that is based on the yield of the 1-year Treasury bill.
+
+      Interest on other  securities  increased  $721,000 to $2.9 million for the
+nine months ended  December  31, 2005,  as compared to $2.2 million for the same
+nine  months in 2004.  The  increase is due to a $17.2  million  increase in the
+average  balance of other  securities  to $108.0  million  and a 39 basis  point
+increase in the average yield to 3.55%. The increase in both the average balance
+and the average yield of other  securities is due primarily to recent  purchases
+of bonds, issued by  Government-sponsored  entities, with maturity or call dates
+of less than three years.  As a result of recent  increases  in market  interest
+rates in this maturity timeframe,  securities  purchased during fiscal 2006 have
+been at higher rates than the existing portfolio.
+
+      Federal Funds Sold and Other Overnight Deposits. For the nine months ended
+December 31, 2005,  interest on Federal funds sold and other overnight  deposits
+increased  $421,000 to $666,000,  reflecting  a 165 basis point  increase in the
+average yield to 2.70%,  and a $1.7 million  increase in the average  balance to
+$32.7 million. The increase in the average yield is a result of increases by the
+Federal Reserve in the Federal funds rate.
+
+      Other Earning  Assets.  Other earning assets consist  primarily of FHLB of
+New York common  stock.  Dividends on FHLB of New York common stock  amounted to
+$230,000 for nine months ended  December 31, 2005 as compared to $82,000 for the
+same nine months in 2004.
+
+      Interest Expense.  Interest expense for the nine months ended December 31,
+2005 increased  $6.4 million to $17.5 million,  as compared to $11.1 million for
+the nine months ended December 31, 2004. The average balance of interest-bearing
+liabilities  increased  $119.9  million to $911.3 million during the nine months
+ended  December  31, 2005 as  compared to $791.4  million for the same period in
+2004, while the average cost of these  liabilities  increased 68 basis points to
+2.55%.  The  increase in the  average  balance of  interest-bearing  liabilities
+includes  deposit growth in the most recently  opened branches as well as growth
+in the existing  branches.  The increase in the average cost of liabilities is a
+result  of  increasing  short-term  market  interest  rates and an  increase  in
+certificates of deposit accounts as a percentage of total deposits.  The average
+balance of certificates of deposit  represented  68.1% of the average balance of
+total interest-bearing  liabilities for the nine months ended December 31, 2005,
+as compared to 62.3% for the nine months ended  December 31, 2004.  Certificates
+of deposit are  generally  offered at higher rates than savings  accounts and we
+have used these  accounts to attract  customers  to our recently  opened  branch
+locations.
+
+20
+
+Interest  expense on certificates of deposit amounted to $15.2 million for
+the nine months ended December 31, 2005 as compared to $9.0 million for the nine
+months  ended  December  31,  2004.  The  increase is due  primarily to a $127.6
+million  increase in the average  balance to $620.9 million from $493.3 million,
+and an 82 basis point increase in the average cost of certificates of deposit to
+3.25%.
+
+      Interest on savings  accounts  amounted  to  $585,000  for the nine months
+ended  December  31,  2005 as compared  to  $596,000  for the nine months  ended
+December 31, 2004. This decrease is the result of a $9.6 million decrease in the
+average balance of savings  accounts to $141.7 million for the nine months ended
+December  31, 2005 as  compared  to $151.3  million for the same period in 2004,
+while the average cost of savings accounts increased 3 basis points to 0.55%.
+
+      Interest expense on NOW and money market accounts amounted to $593,000 for
+nine months  ended  December  31, 2005 as compared to $385,000 for the same nine
+months in the prior year. The average cost of these deposits  increased 25 basis
+points to 0.73% and the average balance of these accounts increased $1.8 million
+to $107.3 million.
+
+      For  the  nine  months  ended  December  31,  2005,  interest  expense  on
+borrowings  amounted to $1.08  million as compared to $1.13 million for the same
+nine months in 2004. The average balance of borrowings for the nine months ended
+December  31, 2005 was $36.0  million as compared to $37.0  million for the same
+period in 2004.  The average  cost of  borrowings  decreased  4 basis  points to
+4.00%.
+
+      Net  Interest  Income.  Net  interest  income  for the nine  months  ended
+December  31,  2005  decreased  $48,000 to $19.79  million as compared to $19.84
+million for the same nine months in the prior year. The net interest rate spread
+was 2.28%  and  2.71% for the nine  months  ended  December  31,  2005 and 2004,
+respectively.  The net  interest  margin for those same  respective  periods was
+2.57% and 2.93%.  The decreases in interest rate spread and net interest  margin
+are  primarily  the  result of a  decrease  in the  spread  between  short-  and
+long-term  market  interest  rates. At December 31, 2005, the spread between the
+1-month and 10-year  Treasury yield rates was 38 basis points as compared to 205
+basis points at December 31, 2004. As a result,  the  Company's  average cost of
+interest-bearing   liabilities   has   increased   faster   than  the  yield  on
+interest-earning assets which are affected by longer-term interest rates.
+
+      Provision for Loan Losses.  The provision for loan losses was $225,000 for
+the nine months ended December 31, 2005 and 2004.  Non-performing loans amounted
+to $2.7  million or 0.38% of total loans at December  31,  2005,  as compared to
+$734,000 or 0.14% of total loans at December 31, 2004.  The  allowance  for loan
+losses  amounted to $3.2 million and $3.0 million at December 31, 2005 and March
+31,  2005,  respectively.  The  increase  in the  allowance  for loan  losses is
+primarily  due to an increase in the  origination  of  adjustable  rate mortgage
+loans,  commercial  mortgage  loans and  commercial  loans (not  secured by real
+estate) as well as overall portfolio growth.  Adjustable-rate mortgage loans can
+involve  greater  credit risk than  fixed-rate  loans because as interest  rates
+increase, the underlying payments by the borrower increase,  thus increasing the
+risk of default by the  borrower.  At the same time,  the  marketability  of the
+underlying  collateral may be adversely  affected by higher  interest  rates. At
+December 31, 2005,  adjustable  rate loans accounted for 45.2% of total loans as
+compared to 37.8% at March 31, 2005.
+
+      Non-Interest  Income.  Service  charges  and  fees  totaled  $885,000  and
+$740,000 for the nine months ended December 31, 2005 and 2004, respectively. The
+increase  in  service  charges  and  fees is  primarily  due to an  increase  in
+prepayment  fees on loans and to  service  charges  on  deposits  as a result of
+increases in the fee structure and deposit account  growth.  The increase in the
+cash  surrender  value of the BOLI  amounted to $283,000  and $287,000 for those
+same respective periods.  The Company also had a gain on the sale of real estate
+of $325,000  during the nine months ended  December 31, 2005.  The property sold
+was  contiguous  to an existing  branch site.  Management  determined  that this
+property  was not  going  to be used in  connection  with the  operation  of the
+branch.
+
+21
+
+Non-Interest  Expense.  Non-interest expense totaled $15.2 million for the
+nine months ended  December  31, 2005 as compared to $13.5  million for the nine
+months ended  December 31, 2004.  This increase is primarily due to increases of
+$1.2  million in  compensation  expense,  $269,000 in  occupancy  and  equipment
+expense,  $32,000 in data processing  service fees,  $149,000 in advertising and
+promotion  expense and $81,000 in other  non-interest  expense.  These increases
+include  costs  attributable  to the two new branches  opened  during the fourth
+quarter of fiscal 2005.
+
+      The increase in  compensation  and benefits  expense is due primarily to a
+$576,000  increase in  compensation  costs due primarily to additional  staff to
+support the growth in the Company's lending operations and the new branches. The
+adoption  of SFAS No.  123R will result in  additional  compensation  costs with
+respect to stock options  beginning April 1, 2006, as described in Note 3 of the
+Notes to Unaudited Consolidated Financial Statements in Item 1.
+
+      Income Taxes. Income tax expense amounted to $2.3 million and $2.8 million
+for the nine  months  ended  December  31,  2005  and  2004,  respectively.  The
+effective tax rates for those same periods were 39.3% and 39.2%, respectively.
+
+Liquidity and Capital Resources
+
+      The Company's  primary  sources of funds are  deposits,  the proceeds from
+principal and interest payments on loans and mortgage-backed securities, and the
+proceeds  from  maturities  of  investments.   While  maturities  and  scheduled
+amortization of loans and securities are a predictable source of funds,  deposit
+flows and mortgage prepayments are greatly influenced by general interest rates,
+economic conditions and competition.
+
+      The Company's primary investing activities are the origination of mortgage
+loans,  and the purchase of  short-term  investments,  government  agency bonds,
+mortgage-backed  securities  and  collateralized  mortgage  obligations.   These
+activities are funded  primarily by deposit  growth and principal  repayments on
+loans,  mortgage-backed  securities and other investment securities.  During the
+nine months  ended  December 31, 2005,  the Company  originated  loans of $246.3
+million,  purchased  loans of $2.5  million and  purchased  securities  of $39.5
+million. These disbursements were funded by $61.6 million in principal payments,
+maturities  and  calls  of  securities  and  $99.3  million  in  loan  principal
+repayments.  During the year ended March 31, 2005, the Company originated $207.9
+million of loans and purchased $113.3 million of securities.
+
+      Liquidity management for the Company is both a daily and long-term process
+which is part of the Company's  overall  management  strategy.  Excess funds are
+generally  invested  in  short-term   investments  such  as  Federal  funds  and
+certificates  of deposit.  In the event that the Bank should require  additional
+sources  of funds,  it could  borrow  from the FHLB under an  available  line of
+credit.
+
+      At December 31, 2005,  the Company had  outstanding  loan  commitments  of
+$98.5  million.  The  Company  anticipates  that it will have  sufficient  funds
+available  to meet  its  current  loan  commitments.  Certificates  of  deposits
+scheduled to mature in one year or less from December 31, 2005,  totaled  $513.7
+million.  Management  believes that a significant  portion of such deposits will
+remain with the Company.
+
+      The Bank is subject to certain minimum  leverage,  tangible and risk-based
+capital  requirements  established by regulations of the OTS. These  regulations
+require savings associations to meet three minimum capital standards: a tangible
+capital  ratio  requirement  of 1.5% of total  assets as adjusted  under the OTS
+regulations;  a  leverage  ratio  requirement  of 4.0% of core  capital  to such
+adjusted  total assets;  and a risk-based  capital ratio  requirement of 8.0% of
+core and  supplementary  capital  to total  risk-based  assets.  The OTS  prompt
+corrective  action  regulations  impose  a 4.0%  core  capital  requirement  for
+categorization  as an  "adequately  capitalized"  thrift and a 5.0% core capital
+requirement for categorization as a "well capitalized" thrift. Goodwill and most
+other  intangible  assets are  deducted in  determining  regulatory  capital for
+purposes of all  capital  ratios.  In  determining  the amount of  risk-weighted
+assets for purposes of the risk-based capital requirement, a savings association
+must  compute  its  risk-based  assets by  multiplying  its assets  and  certain
+off-
+
+22
+
+balance  sheet  items  by  risk-weights,  which  range  from  0%  for  cash  and
+obligations  issued by the United States  Government or its agencies to 100% for
+consumer and commercial  loans, as assigned by the OTS capital  regulations.  At
+December 31, 2005, the Bank exceeded all of the OTS minimum  regulatory  capital
+requirements,   and  was  classified  as  a  well-capitalized   institution  for
+regulatory purposes.
+
+      The  following  table sets forth the  capital  position  of the Bank as of
+December 31, 2005 and March 31, 2005. The actual capital  amounts and ratios set
+forth below are for the Bank only and,  accordingly,  do not include  additional
+capital retained by the Holding Company.
+
+Accounting Standards
+
+      In May 2005, the Financial  Accounting Standards Board issued Statement of
+Financial  Accounting  Standards ("SFAS") No. 154, "Accounting Changes and Error
+Corrections," which replaces APB Opinion No. 20, "Accounting  Changes," and SFAS
+No. 3,  "Reporting  Accounting  Changes in Interim  Financial  Statements,"  and
+changes the  requirements  for the  accounting  for and reporting of a change in
+accounting  principle.  SFAS  No.  154  applies  to  all  voluntary  changes  in
+accounting principle and to changes required by an accounting pronouncement when
+the pronouncement does not include specific transition provisions.  SFAS No. 154
+requires retrospective  application of a change in accounting principle to prior
+periods' financial statements unless it is impracticable to determine either the
+period-specific  effects or the cumulative effect of the change. APB Opinion No.
+20 previously  required that most voluntary  changes in accounting  principle be
+recognized  by including the  cumulative  effect of the change in net income for
+the period of the change in accounting  principle.  SFAS No. 154 carries forward
+without  change the guidance  contained in APB Opinion No. 20 for  reporting the
+correction of an error in previously issued financial statements and a change in
+accounting  estimate.  SFAS No. 154 also  carries  forward  the  guidance in APB
+Opinion No. 20 requiring  justification  of a change in accounting  principle on
+the basis of preferability. SFAS No. 154 is effective for accounting changes and
+corrections  of errors made in fiscal years  beginning  after December 15, 2005,
+with early  adoption  permitted.  The Company's  adoption of SFAS No. 154 is not
+expected to have an impact on its financial condition or results of operations.
+
+      See Note 3 of the Notes to Unaudited  Consolidated Financial Statements in
+Item 1 for a discussion  of SFAS No. 123R,  which will result in a change in the
+Company's accounting for stock options beginning April 1, 2006.
+
+      FASB  Staff  Position  No.  FAS  115-1  and FAS  124-1,  "The  Meaning  of
+Other-Than-Temporary Impairment and Its Application to Certain Investments" (the
+"FSP"), was issued in November 2005 and
+
+23
+
+addresses  the  determination  of when an  investment  is  considered  impaired;
+whether the impairment is other than temporary; and how to measure an impairment
+loss.  The  FSP  also  addresses  accounting  considerations  subsequent  to the
+recognition  of an  other-than-temporary  impairment  on a  debt  security,  and
+requires  certain  disclosures  about  unrealized  losses  that  have  not  been
+recognized as other-than-temporary  impairments. The FSP replaces the impairment
+guidance  in EITF  Issue No.  03-1 with  references  to  existing  authoritative
+literature concerning other-than-temporary  determinations (principally SFAS No.
+115 and SEC Staff Accounting Bulletin 59). Under the FSP, impairment losses must
+be recognized in earnings equal to the entire difference  between the security's
+cost and its fair value at the financial  statement  date,  without  considering
+partial  recoveries  subsequent  to that  date.  The FSP also  requires  that an
+investor  recognize an  other-than-temporary  impairment loss when a decision to
+sell a security has been made and the investor does not expect the fair value of
+the security to fully  recover  prior to the expected  time of sale.  The FSP is
+effective for reporting  periods  beginning after December 15, 2005. The Company
+does not expect that the  application of the FSP will have a material  impact on
+its  financial   condition,   results  of  operations  or  financial   statement
+disclosures.
+
+Item 3.  Quantitative and Qualitative Disclosures about Market Risk
+
+      The Company's most  significant form of market risk is interest rate risk,
+as the majority of the Company's assets and liabilities are sensitive to changes
+in interest rates. The Company's assets consist primarily of fixed rate mortgage
+loans, which have longer maturities than the Company's liabilities which consist
+primarily  of  deposits.  The  Company's  mortgage  loan  portfolio,  consisting
+primarily of loans secured by residential  real property  located in Westchester
+County,  New York and Fairfield  County,  Connecticut,  is also subject to risks
+associated with the local economy.  The Company does not own any trading assets.
+At December  31,  2005,  the Company  did not have any hedging  transactions  in
+place,  such as interest rate swaps and caps.  The Company's  interest rate risk
+management  program focuses primarily on evaluating and managing the composition
+of the Company's  assets and liabilities in the context of various interest rate
+scenarios.  Factors beyond management's  control,  such as market interest rates
+and competition, also have an impact on interest income and interest expense.
+
+      During the nine months ended December 31, 2005,  there were no significant
+changes in the Company's assessment of market risk.
+
+Item 4.  Controls and Procedures
+
+      The Company's management,  including the Chief Executive Officer and Chief
+Financial  Officer,  evaluated the  effectiveness of the design and operation of
+the Company's  disclosure  controls and procedures (as defined in Rule 13a-14(c)
+under the Securities  Exchange Act of 1934, as amended) (the "Exchange  Act") as
+of December 31, 2005 (the "Evaluation  Date").  Based upon that evaluation,  the
+Company's management,  including the Chief Executive Officer and Chief Financial
+Officer,  concluded  that, as of the Evaluation  Date, the Company's  disclosure
+controls and procedures were effective to ensure that information required to be
+disclosed in the reports the Company files and submits under the Exchange Act is
+recorded, processed,  summarized and reported as and when required and that such
+information  is  accumulated  and  communicated  to management as appropriate to
+allow timely decisions regarding required disclosure.
+
+      There were no changes in the  Company's  internal  control over  financial
+reporting  during  the  period  covered  by this  report  that  have  materially
+affected,  or are reasonably likely to materially affect, the Company's internal
+control over financial reporting.
+
+24
+
+Part II - OTHER INFORMATION
+
+Item 1.  Legal Proceedings
+
+      The Company is not involved in any pending  legal  proceedings  other than
+routine legal  proceedings  occurring in the ordinary  course of business.  Such
+routine  legal  proceedings  in the  aggregate  are believed by management to be
+immaterial to the Company's financial condition and results of operations.
+
+Item 2.  Unregistered Sales of Equity Securities and Use of Proceeds
+
+      Information  regarding Company purchases of its equity securities  (common
+stock) during the three months ended December 31, 2005 is summarized below:
+
+(1) On June 11,  2004,  the  Company  announced  a program to  repurchase  up to
+658,844 shares of its common stock. This program has no expiration date.
+
+Item 3. Defaults upon Senior Securities
+
+        None
+
+Item 4. Submission of Matters to a Vote of Security Holders
+
+        None
+
+Item 5. Other Information
+
+        None
+
+Item 6. Exhibits
+
+        (a) Exhibit 31.1 - Certification of Chief Executive Officer  pursuant
+                             to Section 302 of the Sarbanes-Oxley Act of 2002.
+
+        (b) Exhibit 31.2 - Certification of Chief Financial Officer pursuant to
+                             Section 302 of the Sarbanes-Oxley Act of 2002.
+
+        (c) Exhibit 32.1 - Certification  pursuant to 18 U.S.C. Section 1350, as
+                             adopted pursuant to Section 906 of the
+                             Sarbanes-Oxley Act of 2002.
+
+25
+
+SIGNATURES
+
+      Pursuant to the  requirements of the Securities  Exchange Act of 1934, the
+registrant  has duly  caused  this  report  to be  signed  on its  behalf by the
+undersigned thereunto duly authorized.
+
+Sound Federal Bancorp, Inc.
+                                        ----------------------------------------
+                                           (Registrant)
+
+By: /s/ Anthony J. Fabiano
+                                        ----------------------------------------
+                                        Anthony J. Fabiano
+                                        Duly Authorized and Chief Financial and
+                                        Accounting Officer
+
+February 7, 2006
+
+26
+
+<EX-31.1>
+ 2
+ e23341_ex31-1.txt
+ EXHIBIT 31.1
+ 
+                                                                    Exhibit 31.1
+
+                    Certification of Chief Executive Officer
+            Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+            ---------------------------------------------------------
+
+       I, Richard P. McStravick certify that:
+
+     1.   I have  reviewed this  quarterly  report on Form 10-Q of Sound Federal
+          Bancorp, Inc.;
+
+     2.   Based on my  knowledge,  this  report  does  not  contain  any  untrue
+          statement  of a  material  fact  or  omit to  state  a  material  fact
+          necessary to make the statements  made, in light of the  circumstances
+          under which such  statements were made, not misleading with respect to
+          the period covered by this report;
+
+     3.   Based on my knowledge,  the financial statements,  and other financial
+          information  included in this report,  fairly  present in all material
+          respects the financial condition, results of operations and cash flows
+          of the  registrant  as of,  and for,  the  periods  presented  in this
+          report;
+
+     4.   The registrant's  other  certifying  officer and I are responsible for
+          establishing  and maintaining  disclosure  controls and procedures (as
+          defined in Exchange Act Rules  13a-15(e) and  15d-15(e))  and internal
+          control  over  financial  reporting  (as defined in Exchange Act Rules
+          13a-15(f) and 15(d)-15(f)) for the registrant and have:
+
+          (a) Designed such disclosure  controls and procedures,  or caused such
+          disclosure   controls  and   procedures  to  be  designed   under  our
+          supervision,  to ensure  that  material  information  relating  to the
+          registrant,  including its consolidated subsidiaries, is made known to
+          us by others within those entities,  particularly during the period in
+          which this report is being prepared;
+
+          (b) Designed such internal control over financial reporting, or caused
+          such internal  control over  financial  reporting to be designed under
+          our  supervision,   to  provide  reasonable  assurance  regarding  the
+          reliability  of financial  reporting and the  preparation of financial
+          statements for external purposes in accordance with generally accepted
+          accounting principles;
+
+          (c)  Evaluated  the  effectiveness  of  the  registrant's   disclosure
+          controls and procedures  and presented in this report our  conclusions
+          about the effectiveness of the disclosure controls and procedures,  as
+          of the  end of the  period  covered  by  this  report  based  on  such
+          evaluation; and
+
+          (d) Disclosed in this report any change in the  registrant's  internal
+          control over financial reporting that occurred during the registrant's
+          most  recent  fiscal  quarter  that  has  materially  affected,  or is
+          reasonably  likely to materially  affect,  the  registrant's  internal
+          control over financial reporting; and
+
+     5.   The registrant's other certifying officer and I have disclosed,  based
+          on our most recent  evaluation  of  internal  control  over  financial
+          reporting, to the registrant's auditors and the audit committee of the
+          registrant's  board of directors (or persons performing the equivalent
+          functions):
+
+          (a) All significant deficiencies and material weaknesses in the design
+          or operation of internal  control over financial  reporting  which are
+          reasonably  likely to  adversely  affect the  registrant's  ability to
+          record, process, summarize and report financial information; and
+
+(b) Any fraud,  whether or not material,  that involves  management or
+          other  employees  who  have a  significant  role  in the  registrant's
+          internal control over financial reporting.
+
+February 7, 2006                           /s/ Richard P. McStravick
+- ----------------                           ------------------------------------
+Date                                       Richard P. McStravick
+                                           President and Chief Executive Officer
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ e23341_ex31-2.txt
+ EXHIBIT 31.2
+ 
+                                                                    Exhibit 31.2
+
+Certification of Chief Financial Officer
+            Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+            ---------------------------------------------------------
+
+       I, Anthony J. Fabiano certify that:
+
+1.   I have  reviewed this  quarterly  report on Form 10-Q of Sound Federal
+          Bancorp, Inc.;
+
+     2.   Based on my  knowledge,  this  report  does  not  contain  any  untrue
+          statement  of a  material  fact  or  omit to  state  a  material  fact
+          necessary to make the statements  made, in light of the  circumstances
+          under which such  statements were made, not misleading with respect to
+          the period covered by this report;
+
+     3.   Based on my knowledge,  the financial statements,  and other financial
+          information  included in this report,  fairly  present in all material
+          respects the financial condition, results of operations and cash flows
+          of the  registrant  as of,  and for,  the  periods  presented  in this
+          report;
+
+     4.   The registrant's  other  certifying  officer and I are responsible for
+          establishing  and maintaining  disclosure  controls and procedures (as
+          defined in Exchange Act Rules  13a-15(e) and  15d-15(e))  and internal
+          control  over  financial  reporting  (as defined in Exchange Act Rules
+          13a-15(f) and 15(d)-15(f)) for the registrant and have:
+
+          (a) Designed such disclosure  controls and procedures,  or caused such
+          disclosure   controls  and   procedures  to  be  designed   under  our
+          supervision,  to ensure  that  material  information  relating  to the
+          registrant,  including its consolidated subsidiaries, is made known to
+          us by others within those entities,  particularly during the period in
+          which this report is being prepared;
+
+          (b) Designed such internal control over financial reporting, or caused
+          such internal  control over  financial  reporting to be designed under
+          our  supervision,   to  provide  reasonable  assurance  regarding  the
+          reliability  of financial  reporting and the  preparation of financial
+          statements for external purposes in accordance with generally accepted
+          accounting principles;
+
+          (c)  Evaluated  the  effectiveness  of  the  registrant's   disclosure
+          controls and procedures  and presented in this report our  conclusions
+          about the effectiveness of the disclosure controls and procedures,  as
+          of the  end of the  period  covered  by  this  report  based  on  such
+          evaluation; and
+
+          (d) Disclosed in this report any change in the  registrant's  internal
+          control over financial reporting that occurred during the registrant's
+          most  recent  fiscal  quarter  that  has  materially  affected,  or is
+          reasonably  likely to materially  affect,  the  registrant's  internal
+          control over financial reporting; and
+
+     5.   The registrant's other certifying officer and I have disclosed,  based
+          on our most recent  evaluation  of  internal  control  over  financial
+          reporting, to the registrant's auditors and the audit committee of the
+          registrant's  board of directors (or persons performing the equivalent
+          functions):
+
+          (a) All significant deficiencies and material weaknesses in the design
+          or operation of internal  control over financial  reporting  which are
+          reasonably  likely to  adversely  affect the  registrant's  ability to
+          record, process, summarize and report financial information; and
+
+          (b) Any fraud,  whether or not material,  that involves  management or
+          other  employees  who  have a  significant  role  in the  registrant's
+          internal control over financial reporting.
+
+February 7, 2006                           /s/ Anthony J. Fabiano
+- ----------------                           ------------------------------------
+Date                                       Anthony J. Fabiano
+                                           Chief Financial Officer
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ e23341_ex32-1.txt
+ EXHIBIT 32.1
+ 
+                                                                    Exhibit 32.1
+
+                            Certification pursuant to
+                             18 U.S.C. Section 1350,
+                             as adopted pursuant to
+                  Section 906 of the Sarbanes-Oxley Act of 2002
+
+Richard P.  McStravick,  President and Chief Executive  Officer,  and Anthony J.
+Fabiano,  Senior Vice  President  and Chief  Financial  Officer of Sound Federal
+Bancorp, Inc. (the "Company"), each certify in his capacity as an officer of the
+Company that he has reviewed  the  Quarterly  Report of the Company on Form 10-Q
+for the  quarterly  period  ended  December 31, 2005 and that to the best of his
+knowledge:
+
+         (1)      the report fully  complies with the  requirements  of Sections
+                  13(a) and 15(d) of the Securities Exchange Act of 1934; and
+
+         (2)      the information  contained in the report fairly  presents,  in
+                  all material respects,  the financial condition and results of
+                  operations of the Company.
+
+The purpose of this  statement  is solely to comply  with Title 18,  Chapter 63,
+Section  1350 of the United  States  Code,  as  amended  by  Section  906 of the
+Sarbanes-Oxley Act of 2002.
+
+A signed  original of this  written  statement  required by Section 906 has been
+provided to Sound  Federal  Bancorp,  Inc. and will be retained by Sound Federal
+Bancorp,  Inc. and furnished to the  Securities  and Exchange  Commission or its
+staff upon request.
+
+February 7, 2006                           /s/ Richard P. McStravick
+- ---------------------                      -------------------------------------
+Date                                       President and Chief Executive Officer
+
+February 7, 2006                           /s/ Anthony J. Fabiano
+- ---------------------                      -------------------------------------
+Date                                       Senior Vice President and Chief
+                                           Financial Officer
+
+</EX-32.1>
+

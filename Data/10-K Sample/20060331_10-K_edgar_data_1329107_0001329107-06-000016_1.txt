@@ -1,0 +1,953 @@
+<Header>
+<FileStats>
+    <FileName>20060331_10-K_edgar_data_1329107_0001329107-06-000016_1.txt</FileName>
+    <GrossFileSize>457379</GrossFileSize>
+    <NetFileSize>22598</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>286845</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>25</N_Tables>
+    <N_Exhibits>4</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001329107-06-000016.hdr.sgml : 20060331
+<ACCEPTANCE-DATETIME>20060331083006
+ACCESSION NUMBER:		0001329107-06-000016
+CONFORMED SUBMISSION TYPE:	10-K
+CONFIRMING COPY:	
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20051231
+FILED AS OF DATE:		20060331
+DATE AS OF CHANGE:		20060331
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CEF EQUIPMENT HOLDING GE COMMERCIAL EQUIP FIN SERIES 2005-1
+		CENTRAL INDEX KEY:			0001329107
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-123810-01
+
+	MAIL ADDRESS:	
+		STREET 1:		44 OLD RIDGEBURY RD
+		CITY:			DANBURY
+		STATE:			CT
+		ZIP:			06810
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CEF EQUIPMENT HOLDING LLC
+		CENTRAL INDEX KEY:			0001180571
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		IRS NUMBER:				753066756
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-123810
+
+	MAIL ADDRESS:	
+		STREET 1:		44 OLD RIDGEBURY RD
+		CITY:			DANBURY
+		STATE:			CT
+		ZIP:			06810
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ VKDuJF0f3urDnlvK/oLgvIFK2KXm3A8aAM0QrvyvZwKDtv4R1g0Ygg1tUO8TvDv2
+ rnmU7PLVPEd+rF3tv/j1jg==
+
+ 0001329107-06-000016.txt : 20060331
+
+10-K
+ 1
+ cef20051.htm
+ GE COMMERCIAL EQUIPMENT FINANCING LLC, SERIES 2005-1
+
+GE Commercial Equipment Financing LLC, Series 2005-1
+
+UNITED
+            STATES  
+
+             SECURITIES
+            AND EXCHANGE COMMISSION  
+
+Washington,
+            D.C. 20549  
+
+             _____________________  
+
+FORM
+            10-K  
+
+(Mark
+            One)  
+
+ANNUAL
+            REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT
+            OF
+            1934  
+
+For
+            the fiscal year ended December 31, 2005.  
+
+             or  
+
+o                   
+               TRANSITION
+            REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT
+            OF
+            1934  
+
+For
+            the transition period from
+                       
+to
+
+333-123810,
+            333-123810-01  
+
+(Commission
+            File Number)  
+
+GE
+            COMMERCIAL EQUIPMENT FINANCING LLC, SERIES 2005-1,  
+
+Co-Registrant
+            and Issuer  
+
+CEF
+            EQUIPMENT HOLDING, L.L.C.,  
+
+             Co-Registrant
+            and Seller  
+
+            (Exact
+            name of registrant as specified in its charter) 
+
+Delaware  
+
+(State
+            or
+            Other Jurisdiction of Incorporation of the Issuer) 
+
+20-2657810         
+            (GE Commercial Equipment Financing LLC, Series 2005-1)  
+
+75-3066756
+            (CEF Equipment Holding, L.L.C.)  
+
+(Registrant s
+            I.R.S. Employer Identification No.) 
+
+44
+            Old Ridgebury Road  
+
+Danbury,
+            Connecticut 06810  
+
+(203)
+            796-5518  
+
+(Address
+            and Telephone Number of Principal Executive Offices) 
+
+Securities
+            registered pursuant to Section 12(b) of the Securities Exchange Act of
+            1934      None  
+
+Securities
+            registered pursuant to Section 12(g) of the Securities Exchange Act of
+            1934:      None  
+
+Indicate
+            by checkmark if the registrant is a well-known Issuer, as defined in
+            Rule 405 of
+            the Securities Act Yes      
+            NO
+
+Indicate
+            by checkmark if the registrant is not required to file reports pursuant
+            to
+            Section 13 or Section 15 (d) or the Act Yes      
+            NO
+
+Indicate
+            by check mark whether the registrant (1) has filed all reports required
+            to be
+            filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+            the
+            preceding 12 months (or for such shorter period that the registrant was
+            required
+            to file such reports), and (2) has been subject to such filing requirements
+            for
+            the past 90 days. 
+
+Yes
+                 
+            No  o    
+
+Indicate
+            by check mark if disclosure of delinquent filers pursuant to Item 405
+            of
+            Regulation S-K (  229.405 of this chapter) is not contained herein, and will not
+            be contained, to the best of registrant s knowledge, in definitive proxy or
+            information statements incorporated by reference in Part III of this
+            Form 10-K
+            or any amendment to this Form 10-K.     
+
+Indicate
+            by check mark whether the registrant is an accelerated filer (as defined
+            in Rule
+            12b-2 of the Act). Large accelerated filer   o  
+            Accelerated filer   o  
+            Non-Accelerated filer     
+
+Indicate
+            by check mark whether the registrant is a shell company (as defined in
+            Rule
+            12b-2 of the Act)  
+
+Yes
+                 
+            NO
+
+State
+            the
+            aggregate market value of the voting and non-voting common equity held
+            by
+            non-affiliates computed by reference to the price at which the common
+            equity was
+            last sold, or the average bid and asked price of such common equity,
+            as of the
+            last business day of the registrant s most recently completed second fiscal
+            quarter.     None.  
+
+Registrant
+            does not have any voting stock. 
+
+Documents
+            Incorporated by Reference. List hereunder the following documents if
+            incorporated by reference and the part of the Form 10-K (e.g. Part I,
+            Part II,
+            etc.) into which the document is incorporated: (i) any annual report
+            to security
+            holders; (2) any proxy or information statement; and (3) any prospectus
+            filed
+            pursuant to rule 424 (b) or (c) under the Securities Act of 1933. The
+            listed
+            documents should be clearly described for identification purposes (e.g.,
+            annual
+            report to security holders for fiscal year ended December 24, 1980).
+               None.  
+
+PART
+            I      
+
+Item
+            1.       Business  
+
+Not
+            applicable. 
+
+Item
+            1A.
+      Risk
+            Factors  
+
+Not
+            applicable. 
+
+Item
+            1B.
+      Unresolved
+            Staff Comments     
+
+Not
+            Applicable. 
+
+Item
+            2.       Properties  
+
+Not
+            Applicable. 
+
+Item
+            3.       Legal
+            Proceedings  
+
+There
+            were no material legal proceedings involving the Issuer, or to the extent
+            relating to the Issuer or the assets of the Registrants, the Indenture
+            Trustee,
+            the Seller or General Electric Capital Corporation, as servicer (the
+             Servicer ), which were pending at December 31, 2005 or as of the date of this
+            Report, other than ordinary routine litigation involving the assets of
+            the
+            Issuer or the duties of the Indenture Trustee, the Servicer or the Seller.
+
+Item
+            4.       Submission
+            of Matters to a Vote of Security Holders  
+
+Not
+            Applicable. 
+
+PART
+            II      
+
+Item
+            5.       Market
+            for Registrant s Common Equity and Related Stockholder
+            Matters  
+
+(a)    
+                   
+                      To
+                      the best knowledge of the Company, there is no established
+                      public trading
+                      market for the Notes.  
+
+Each
+            publicly-offered class of the Issuer s Notes is represented by one or more notes
+            registered in the name of Cede   Co., the nominee of The Depository Trust
+            Company. 
+
+(b)    
+                   
+                      Not
+                      applicable. 
+
+(c)    
+                   
+                      Not
+                      applicable. 
+
+Item
+            6.       Selected
+            Financial Data  
+
+Not
+            applicable 
+
+Item
+            7.       Management s
+            Discussion and Analysis of Financial Condition and Results of
+            Operation  
+
+Not
+            applicable. 
+
+Item
+            7A.      Quantitative
+            and Qualitative Disclosures About Market Risk  
+
+Not
+            applicable. 
+
+Item
+            8.       Financial
+            Statements and Supplementary Data  
+
+Not
+            applicable. 
+
+Item
+            9.       Changes
+            in and Disagreements With Accountants on Accounting and Financial
+            Disclosure  
+
+Not
+            Applicable. 
+
+Item
+            9A.      Controls
+            and Procedures  
+
+Not
+            applicable. 
+
+Item
+            9B.         Other
+            Information  
+
+None.
+
+PART
+            III      
+
+Item
+            10.       Directors
+            and Executive Officers of the Registrant  
+
+Not
+            applicable. 
+
+Item
+            11.       Executive
+            Compensation  
+
+Not
+            applicable. 
+
+Item
+            12.       Security
+            Ownership of Certain Beneficial Owners and Management   
+
+General
+            Electric Capital Services, Inc. ( GECS ) owns 100% of the Company s limited
+            liability equity interests. The address for GECS is 260 Long Ridge Road,
+            Stanford, Connecticut 06927. 
+
+Each
+            publicly offered class of the Issuer s Notes is represented by one or more notes
+            registered in the name of Cede   Co., the nominee of The Depository Trust
+            Company. 
+
+Item
+            13.       Certain
+            Relationships and Related Transactions  
+
+None.
+
+Item
+            14.       Principal
+            Accounting Fees and Services  
+
+Not
+            applicable. 
+
+PART
+            IV      
+
+Item
+            15.       Exhibits,
+            Financial Statement Schedules, and Reports on Form 8-K  
+
+(a)    
+                   
+                      (1)  Not
+                      applicable. 
+
+(2)    
+                   
+                      Not
+                      applicable. 
+
+(3)    
+                   
+                      The
+                      exhibits filed in response to Item 601 of Regulation S-K are
+                      listed in the
+                      Exhibit Index. 
+
+(b)    
+                   
+                      The
+                      exhibits filed in response to Item 601 of Regulation S-K are
+                      listed in the
+                      Exhibit Index. 
+
+(c)    
+                   
+                      Not
+                      applicable. 
+
+SIGNATURES  
+
+Pursuant
+            to the requirements of Section 13 or 15(d) of the Securities Exchange
+            Act of
+            1934, the co-registrant has duly caused this report to be signed on behalf
+            of
+            the registrants by the undersigned, thereunto duly authorized. 
+
+Date:
+            March 31, 2005 
+
+CEF
+                      EQUIPMENT HOLDING, L.L.C., as Co-Registrant, and as Seller
+                      on behalf of GE
+                      Commercial Equipment Financing LLC, Series 2005-1, as
+                      Co-Registrant 
+
+By:     
+                       /s/ Michael
+                      Cipolla                                            
+
+Name:     Michael
+                      Cipolla  
+
+                        Title:     Vice
+                      President and Principal Servicing 
+
+                          Officer 
+
+SUPPLEMENTAL
+            INFORMATION TO BE FURNISHED WITH REPORTS FILED PURSUANT TO SECTION 15(d)
+            OF THE
+            ACT BY REGISTRANTS WHICH HAVE NOT REGISTERED SECURITIES PURSUANT TO SECTION
+            12
+            OF THE ACT. 
+
+No
+            annual
+            report, proxy statement, form of proxy or other proxy soliciting material
+            has
+            been sent to security holders during the period covered by this report
+            and the
+            Company does not intend to furnish such materials to security holders
+            subsequent
+            to the filing of this report. 
+
+EXHIBIT
+            INDEX  
+
+Exhibit
+            31:   
+            Certificate of Officer of Servicer Pursuant to Section 302(A) of the
+            Sarbanese-Oxley Act of 2002. 
+
+Exhibit
+            99.1:   
+            Annual
+            Statements as to Compliance. 
+
+Exhibit
+            99.2:   
+            Independent Accountant s Report of March 15, 2006 on Management s Assertions
+            with respect to GE Commercial Equipment Financing LLC, Series
+            2005-1. 
+
+Exhibit
+            99.3:   
+            Current
+            Reports on Form 8-K for the period ended December 31, 2005. 
+
+<EX-31>
+ 2
+ sox.htm
+ SOX CERTIFICATION
+
+SOX Certification GE CEF, LLC Series 2005-1
+
+Exhibit
+            31  
+
+CERTIFICATION
+            PURSUANT TO   
+
+SECTION
+            302(A) OF THE SARBANES-OXLEY ACT OF 2002   
+
+I,
+            Michael Cipolla, Vice President and Principal Servicing Officer of CEF
+            Equipment
+            Holding, L.L.C., certify that:  
+
+1.      I
+            have
+            reviewed this annual report on Form 10-K, and all reports on Form 8-K
+            containing
+            distribution or servicing reports filed in respect of periods included
+            in the
+            year covered by this annual report, of CEF Equipment Holding, L.L.C.
+            with
+            respect to GE Commercial Equipment Financing LLC, Series 2005-1;
+
+2.      Based
+            on
+            my knowledge, the information in these reports, taken as a whole, does
+            not
+            contain any untrue statement of a material fact or omit to state a material
+            fact
+            necessary to make the statements made, in light of the circumstances
+            under which
+            such statements were made, not misleading as of the last day of the period
+            covered by this annual report;  
+
+3.      Based
+            on
+            my knowledge, the distribution or servicing information required to be
+            provided
+            to the trustee by the servicer under the pooling and servicing, or similar,
+            agreement for inclusion in these reports is included in these reports;
+
+4.      I
+            am
+            responsible for reviewing the activities performed by the servicer under
+            the
+            pooling and servicing, or similar, agreement and based upon my knowledge
+            and
+            upon the annual compliance statement included in the report and required
+            to be
+            delivered to the trustee in accordance with that agreement; and except
+            as
+            disclosed in the reports, the servicer has fulfilled its obligations
+            under that
+            agreement; and 
+
+5.      The
+            reports disclose all significant deficiencies relating to the servicer s
+            compliance with the minimum servicing standards based upon the report
+            provided
+            by an independent public accountant, after conducting a review in compliance
+            with the Uniform Single Attestation Program for Mortgage Bankers or similar
+            procedure, as set forth in the pooling and servicing, or similar, agreement,
+            that is included in these reports.  
+
+March 31,
+            2006  
+
+/s/
+            Michael
+            Cipolla                                                         
+
+Name:     
+            Michael
+            Cipolla 
+
+            Title:     Vice
+            President and Principal     Servicing
+            Officer 
+
+              CEF
+            Equipment Holding, L.L.C. 
+
+</EX-31>
+
+<EX-99.1 CHARTER>
+ 3
+ officercertifcates.htm
+ OFFICERS CERTIFICATES
+
+Officer's Certificates
+
+EXHIBIT
+        99.1   
+
+JPMorgan
+        Chase
+        Bank       March 15, 2006 
+
+        4
+        New York
+        Plaza 
+
+        6 th 
+        Floor 
+
+        New
+        York,
+        NY  10004 
+
+Attention:
+         James Bowden 
+
+          Institutional
+        Trust Services Structured
+        Finance 
+
+Pursuant
+        to
+        Section 3.9 of the Indenture, dated as of June 16, 2005 (the
+  Indenture  ), between GE COMMERCIAL EQUIPMENT FINANCING, LLC, Series
+        2005-1 (the   Issuer  ) and JPMORGAN CHASE BANK, as Indenture Trustee,
+        the undersigned hereby certify that: 
+
+(i)    
+             
+                a
+                review
+                of the activities of the Issuer during the previous fiscal year and
+                of
+                performance under the Indenture has been made under the supervision
+                of the
+                undersigned; and 
+
+(ii)    
+             
+                to
+                the
+                best knowledge of the undersigned, based on such review, the Issuer
+                has
+                complied with all conditions and covenants under the Indenture throughout
+                such year.  
+
+GE
+        COMMERCIAL
+        EQUIPMENT FINANCING LLC, SERIES 2005-1 
+
+By:
+        CEF
+        Equipment Holding, L.L.C. 
+
+        its
+        Managing
+        Member 
+
+By:
+          /s/ Michael Cipolla   
+
+        Name:
+        Michael
+        Cipolla  
+
+        Title:
+        Principal Servicing Officer 
+
+EXHIBIT
+        99.1  
+
+GE
+        COMMERCIAL
+        EQUIPMENT FINANCING, LLC, SERIES 2005-1                March
+        15,
+        2006 
+
+        44
+        Old
+        Ridgebury Road 
+
+        Danbury,
+        CT
+        06810 
+
+Attention:
+             Capital
+        Markets Operations 
+
+Pursuant
+        to
+        Section 2.8 of the Servicing Agreement, dated as of June 16, 2005 ( Agreement ),
+        between GE COMMERCIAL EQUIPMENT FINANCING, LLC, SERIES 2005-1 and General
+        Electric Capital Corporation, as Servicer, the undersigned hereby certify
+        that: 
+
+(i)    
+             
+                a
+                review
+                of the activities of the Servicer during the previous fiscal year
+                and of
+                performance under the Servicing Agreement has been made under the
+                supervision of the undersigned; and 
+
+(ii)    
+             
+                to
+                the
+                best knowledge of the undersigned, based on such review, the Servicer
+                has
+                fulfilled all of its obligations under the Servicing Agreement throughout
+                such period.  
+
+GENERAL
+        ELECTRIC CAPITAL CORPORATION 
+
+By:
+              /s/
+        Michael
+        Cipolla      
+
+        Name:
+        Michael
+        Cipolla    
+
+        Title:
+        Principal Servicing Officer 
+
+cc:
+        JP Morgan
+        Chase Bank 
+
+</EX-99.1 CHARTER>
+
+<EX-99.2O OTH FIN ST>
+ 4
+ iareport.htm
+ INDEPENDANT ACCOUNTANTS REPORT
+
+Independant Accountants Report
+
+Exhibit
+          99.2  
+
+            Report
+          of Independent Registered Public Accounting Firm   
+
+To
+          General Electric Capital Corporation: 
+
+We
+          have
+          examined management s assertion, included in the accompanying Appendix I, that
+          General Electric Capital Corporation (Company), complied with the minimum
+          servicing standards as set forth in the Mortgage Bankers Association of
+          America s Uniform Single Attestation Program for Mortgage Bankers (USAP), as
+          related to the following transaction: 
+
+as
+          of and
+          for the year ended December 31, 2005. Management is responsible for the
+          Company s compliance with those minimum servicing standards. Our responsibility
+          is to express an opinion on management s assertion about the Company s
+          compliance based on our examination. 
+
+Our
+          examination was conducted in accordance with attestation standards established
+          by the Public Company Accounting Oversight Board (United States) and,
+          accordingly, included examining, on a test basis, evidence about Management s
+          compliance with the minimum servicing standards and performing such other
+          procedures as we considered necessary in the circumstances. We believe
+          that our
+          examination provides a reasonable basis for our opinion. Our examination
+          does
+          not provide a legal determination on the Company s compliance with the minimum
+          servicing standards. 
+
+In
+          our
+          opinion, management s assertion that the Company complied with the
+          aforementioned servicing standards, as related to GECEF 2005-1, as of and
+          for
+          the year ended December 31, 2005, is fairly stated, in all material
+          respects. 
+
+(Signed)
+          KPMG LLP  
+
+Chicago,
+          Illinois 
+
+          March
+          15,
+          2006 
+
+Exhibit
+      99.2  
+
+Appendix
+        I  
+
+         Management
+        Assertion  
+
+We
+        as
+        members of management of General Electric Capital Corporation (Company) are
+        responsible for complying with the minimum servicing standards as set forth
+        in
+        the Mortgage Bankers Association of America s    Uniform
+        Single Attestation Program for Mortgage Bankers   ,
+        to the
+        extent applicable, relating to GE Commercial Equipment Financing LLC, Series
+        2005-1 (GECEF 2005-1). We are also responsible for establishing and maintaining
+        effective internal control over compliance with these minimum servicing
+        standards. We have performed an evaluation of the Company s compliance with the
+        minimum servicing standards as related to GECEF 2005-1, as of and for the
+        year
+        ended December 31, 2005. Based on this evaluation, we assert that as of and
+        for
+        the year ended December 31, 2005, the Company complied, in all material
+        respects, with the minimum servicing standards, as related to GECEF 2005-1.
+        As
+        of and for the year ended December 31, 2005, the General Electric Company
+        has in
+        effect a crime policy in the amount of  $25,000,000 and an errors and
+        omissions policy in the amount of $25,000,000, which provides coverage to
+        the
+        Company. 
+
+Very
+        truly yours, 
+
+General
+        Electric Capital Corporation, acting through its GE Commercial Financial
+        Services Segment 
+
+/s/
+        Michael Cipolla ____________________    
+
+        Michael
+        Cipolla           
+
+        Managing
+        Director of Capital Markets Operations 
+
+        GE
+        Commercial Financial Services    
+
+March
+        15,
+        2006 
+
+</EX-99.2O OTH FIN ST>
+
+<EX-99.3 OTHER FIN ST>
+ 5
+ tables.htm
+ GE COMMERCIAL FINANCE LLC, SERIES 2005-1 FINANCIALS AS OF 12/31/2005
+
+GE Commercial Finance LLC, Series 2005-1 Financials as of 12/31/2005
+
+Exhibit 99.3  
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+6 
+
+Please
+          note Investment Earnings of $262,592.95 have been deposited into
+          Collections  
+
+7 
+
+*
+            Represents Portion of outstanding principal balance of loans written
+            off in
+            respect of Loans that became Defaulted Loans/Liquidated Loans 
+
+8 
+
+9 
+
+Values
+          above represents cumulative amounts as of the corresponding Payment
+          Date 
+
+          *Represents
+          Portion of outstanding principal balance of loans written off in respect
+          of
+          Loans that became Defaulted Loans/Liquidated Loans 
+
+10 
+
+</EX-99.3 OTHER FIN ST>
+

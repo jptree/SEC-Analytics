@@ -1,0 +1,2954 @@
+<Header>
+<FileStats>
+    <FileName>20060208_10-Q_edgar_data_943580_0000890163-06-000065_1.txt</FileName>
+    <GrossFileSize>218529</GrossFileSize>
+    <NetFileSize>174794</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>574</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>19</N_Tables>
+    <N_Exhibits>4</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000890163-06-000065.hdr.sgml : 20060208
+<ACCEPTANCE-DATETIME>20060208161619
+ACCESSION NUMBER:		0000890163-06-000065
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20051231
+FILED AS OF DATE:		20060208
+DATE AS OF CHANGE:		20060208
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			LECROY CORP
+		CENTRAL INDEX KEY:			0000943580
+		STANDARD INDUSTRIAL CLASSIFICATION:	INSTRUMENTS FOR MEAS & TESTING OF ELECTRICITY & ELEC SIGNALS [3825]
+		IRS NUMBER:				132507777
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-26634
+		FILM NUMBER:		06589333
+
+	BUSINESS ADDRESS:	
+		STREET 1:		700 CHESTNUT RIDGE RD
+		CITY:			CHESTNUT RIDGE
+		STATE:			NY
+		ZIP:			10977
+		BUSINESS PHONE:		9144252000
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ EOLdd4w3J0yBl0H0elQ2SAilJst4axxdG0ZE7ni28ehGCIrenzyBfzZBAh0pTv9U
+ BdCb2YWGI583F1BUWKT/+g==
+
+ 0000890163-06-000065.txt : 20060208
+
+10-Q
+ 1
+ s11-6037_10q.txt
+ FORM 10Q
+ 
+================================================================================
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 10-Q
+
+              |X| QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d)
+                     OF THE SECURITIES EXCHANGE ACT OF 1934
+
+                For the quarterly period ended DECEMBER 31, 2005
+
+                                       OR
+
+              [ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d)
+                     OF THE SECURITIES EXCHANGE ACT OF 1934
+
+                         Commission File Number: 0-26634
+
+                               LECROY CORPORATION
+             (Exact Name of Registrant as Specified in Its Charter)
+
+                  DELAWARE                              13-2507777
+      (State or other jurisdiction of       (I.R.S. Employer Identification No.)
+       incorporation or organization)
+
+          700 CHESTNUT RIDGE ROAD
+          CHESTNUT RIDGE, NEW YORK                         10977
+  (Address of Principal Executive Office)                (Zip Code)
+
+                                 (845) 425-2000
+              (Registrant's Telephone Number, Including Area Code)
+
+                                 Not Applicable
+              (Former name, former address and former fiscal year,
+                         if changed since last report)
+
+Indicate by check mark ("X") whether the registrant: (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding twelve months (or for such shorter period that the
+registrant was required to file such reports) and (2) has been subject to such
+filing requirements for the past 90 days.
+
+                                 YES |X| NO | |
+
+Indicate by check mark ("X") whether the registrant is a large accelerated
+filer, an accelerated filer, or a non-accelerated filer (as defined in Rule
+12b-2 of the Exchange Act).
+
+   Large accelerated filer | | Accelerated filer |X| Non-Accelerated filer | |
+
+Indicate by check mark ("X") whether the registrant is a shell company (as
+defined in Rule 12b-2 of the Exchange Act).
+                                 YES | | NO |X|
+
+Indicate the number of shares outstanding of each of the issuer's classes of
+common stock, as of the latest practicable date.
+
+               CLASS                           OUTSTANDING AT FEBRUARY 3, 2006
+- -----------------------------------            --------------------------------
+Common stock, par value $.01 share                        12,812,529
+
+================================================================================
+
+                               LECROY CORPORATION
+                                    FORM 10-Q
+
+                                      INDEX
+
+PAGE NO.
+PART I     FINANCIAL INFORMATION
+
+Item 1.   Financial Statements:
+           Consolidated Balance Sheets (Unaudited) as of December 31, 2005 and June 30, 2005.......      3
+           Consolidated Statements of Operations (Unaudited) for the Three and Six Months ended
+             December 31, 2005 and 2004............................................................      4
+           Consolidated Statements of Cash Flows (Unaudited) for the Six Months ended  December
+             31, 2005 and 2004.....................................................................      5
+           Notes to Consolidated Financial Statements (Unaudited) .................................      6
+ Item 2.   Management's Discussion and Analysis of Financial Condition
+             and Results of Operations.............................................................     28
+ Item 3.   Quantitative and Qualitative Disclosures About Market Risk..............................     37
+ Item 4.   Controls and Procedures.................................................................     39
+
+PART II    OTHER INFORMATION
+
+ Item 1.   Legal Proceedings.......................................................................     40
+ Item 4.   Submission of Matters to a Vote of Security Holders.....................................     40
+ Item 6.   Exhibits................................................................................     42
+
+Signature    .....................................................................................      45
+
+LeCroy(R), Wavelink(TM), WaveMaster(R), WavePro(R), WaveJet(R),
+WaveRunner(R), WaveSurfer(TM), MAUI(TM) and CATC(TM) are our trademarks, among
+others not referenced in this document. All other trademarks, servicemarks or
+tradenames referred to in this Form 10-Q are the property of their respective
+owners.
+
+2
+
+PART I. FINANCIAL INFORMATION
+
+ITEM 1. FINANCIAL STATEMENTS
+
+The accompanying notes are an integral part of these
+                       consolidated financial statements.
+
+                                       3
+
+LECROY CORPORATION
+                      CONSOLIDATED STATEMENTS OF OPERATIONS
+                                   (UNAUDITED)
+
+The accompanying notes are an integral part of these
+                       consolidated financial statements.
+
+                                       4
+
+LECROY CORPORATION
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                   (UNAUDITED)
+
+The accompanying notes are an integral part of these
+                       consolidated financial statements.
+
+                                       5
+
+LECROY CORPORATION
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                   (UNAUDITED)
+
+1. BASIS OF PRESENTATION
+
+    The accompanying interim Consolidated Financial Statements include all the
+accounts of LeCroy Corporation (the "Company" or "LeCroy") and its wholly-owned
+subsidiaries. These Consolidated Financial Statements are unaudited and should
+be read in conjunction with the audited Consolidated Financial Statements
+included in the Company's Annual Report on Form 10-K for the fiscal year ended
+June 30, 2005. The Consolidated Balance Sheet as of June 30, 2005 has been
+derived from those audited Consolidated Financial Statements. Certain
+reclassifications have been made to prior-period amounts to conform to the
+current-period presentation. Inter-company transactions and balances have been
+eliminated in consolidation.
+
+    The Company's Consolidated Financial Statements have been prepared in
+accordance with accounting principles generally accepted in the United States of
+America, which require management to make estimates and assumptions. These
+estimates and assumptions affect the reported amounts of assets and liabilities
+and disclosure of contingent assets and liabilities at the date of the
+Consolidated Financial Statements and the revenues and expenses reported during
+the period. The most significant of these estimates and assumptions relate to
+revenue recognition, allowance for doubtful accounts, allowance for excess and
+obsolete inventory, deferred tax assets, share-based compensation, valuation of
+long-lived and intangible assets, goodwill and warranty. These estimates and
+assumptions are based on management's judgment and available information and,
+consequently, actual results could differ from these estimates.
+
+    These unaudited Consolidated Financial Statements reflect all adjustments,
+of a normal recurring nature, that are, in the opinion of management, necessary
+for a fair presentation of the financial position and the results of operations
+for the interim periods. Interim period operating results may not be indicative
+of the operating results for a full year. The Company's fiscal period ends on
+the Saturday closest to the end of the period, which resulted in the periods
+ending December 31, 2005 and January 1, 2005. For clarity of presentation, the
+Consolidated Financial Statements period-end references are stated as December
+31. Fiscal 2006 is a fifty-two week period and, as a result, the first half of
+fiscal 2006 was a 26-week period compared with a 27-week period for the first
+half of fiscal 2005 which was a fifty-three week period. The three months ended
+December 2005 and 2004 were both 13-week periods.
+
+2. CATC ACQUISITION
+
+    On October 29, 2004, the Company completed its acquisition of 100% of the
+outstanding common stock of Computer Access Technology Corporation ("CATC") via
+the merger of a newly-formed, wholly-owned subsidiary of LeCroy with and into
+CATC, with CATC surviving as a wholly-owned subsidiary of LeCroy (the "Merger").
+CATC is a provider of advanced verification systems for existing and emerging
+digital communications standards. CATC's products are used by semiconductor,
+device, system and software companies at each phase of their products'
+lifecycles from development through production and market deployment. CATC had
+approximately 70 employees at the time of the Merger. Through its acquisition of
+CATC, LeCroy expects to capitalize on the increasing demand for serial data test
+instruments, leverage its global, technical, direct sales force to accelerate
+the growth of CATC's products, strengthen its position in the data storage
+market, increase penetration into the computer market, expand gross profit,
+increase operating leverage leading to expanded operating profit and increase
+cash generation capabilities.
+
+    Total consideration paid to acquire CATC was approximately $130.0 million.
+The Merger was recorded under the purchase method of accounting, in accordance
+with Statement of Financial Accounting Standards ("SFAS") No. 141, "Business
+Combinations," which requires that the total consideration be allocated to the
+assets acquired and liabilities assumed based on their fair values. On the
+effective date of the Merger, each share of CATC common stock issued and
+outstanding immediately prior thereto was canceled and converted into the right
+to receive $6.00 in cash. In addition, LeCroy paid cash to the holders of CATC's
+outstanding, vested, in-the-money stock options and employee stock purchase plan
+(the "CATC ESPP") purchase rights. Further, LeCroy assumed CATC's outstanding
+
+                                       6
+
+LECROY CORPORATION
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+                                   (UNAUDITED)
+
+unvested stock options, as well as certain vested but unexercised stock options,
+by granting to CATC employees a total of 648,284 options to purchase LeCroy
+common stock (the "LeCroy Options"). The LeCroy Options were recorded at their
+fair values using the Black-Scholes option pricing model based on a stock price
+of $16.83 per share, which was the closing price of LeCroy common stock on
+October 29, 2004, less the intrinsic value of unvested options, which was to be
+charged as compensation expense to operations as earned by employees over their
+remaining vesting periods. (For the disposition of the remaining unamortized
+deferred compensation expense see Note 3 - Share-Based Compensation). LeCroy
+paid cash of $80.4 million, net of cash acquired, using $30.4 million of cash on
+hand and borrowings of $50.0 million under the Company's $75.0 million senior,
+secured, five-year credit agreement entered into on October 29, 2004, with the
+lenders listed therein and The Bank of New York, as administrative agent for
+such lenders (the "Credit Agreement"). (See Note 15 - Long-term Debt and Capital
+Leases). The Merger consideration is summarized below (in thousands):
+
+Cash for shares.................................................  $120,242
+Cash for options and CATC ESPP purchase rights..................     3,965
+Fair value of stock options assumed.............................     5,111
+Unearned stock compensation on unvested options assumed.........    (1,945)
+Transaction costs...............................................     2,622
+                                                                 ---------
+     Total purchase price.......................................  $129,995
+                                                                 =========
+
+    The fair value of tangible and intangible assets acquired and liabilities
+assumed was established based upon the unaudited October 28, 2004 Consolidated
+Balance Sheet of CATC, as well as certain assumptions made regarding fair
+values. The fair value of finished goods and work in process inventory is valued
+based on estimated selling prices less direct costs to sell and a profit margin
+on the selling effort. The fair value of the in-process research and development
+("IPR&D"), purchased technology, trade name and purchase orders was determined
+by an independent appraisal firm. The fair value of the IPR&D was based on the
+total estimated costs to develop the related technologies less the costs
+incurred to date for the projects, and the intangible asset values were based on
+estimates of future cash flows associated with those assets. The purchased
+technology, trade name and purchase orders related to this acquisition are being
+amortized over their estimated economic useful lives ranging from two to
+twenty-nine months. The excess of the preliminary purchase price over the fair
+value of the net assets acquired has been allocated to goodwill. The principle
+factors that contributed to a purchase price that resulted in the recognition of
+goodwill was the fair value of the going-concern element of the CATC business,
+which includes the assembled workforce and their technology position within
+emerging communication standards, as well as the expected synergies that will be
+achieved by combining both companies. The goodwill is not deductible for tax
+purposes. During the fourth quarter of fiscal 2005, the Company reduced its CATC
+goodwill by approximately $2.0 million as a result of a reversal of a valuation
+allowance against the CATC deferred tax assets and a reversal of a
+pre-acquisition contingency reserve. The final purchase price allocation is
+summarized below (in thousands):
+
+7
+
+LECROY CORPORATION
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+                                   (UNAUDITED)
+
+Cash                                                   $    46,466
+     Accounts receivable                                          2,296
+     Inventory                                                    3,710
+     Other current assets                                           133
+     Fixed assets                                                   663
+     Other assets                                                    28
+     Deferred tax asset, net                                        367
+     In-process research and development                          2,190
+     Purchased technology                                         3,080
+     Purchased trade name                                            70
+     Purchased purchase orders                                       90
+     Goodwill                                                    76,974
+     Current liabilities assumed                                 (5,420)
+     Long-term liabilities assumed                                 (652)
+                                                            -----------
+     Total purchase price                                      $129,995
+                                                            ===========
+
+The following table presents the details of the amortizable intangible
+assets acquired in the Merger and their carrying values as of December 31, 2005
+(in thousands):
+
+Amortization expense for intangible assets acquired in the Merger was $0.5
+million and $0.9 million for the three and six months ended December 31, 2005,
+respectively, of which $0.5 million and $0.9 million was recorded in Cost of
+revenues and $6,000 and $23,000 was recorded in Selling, general and
+administrative expense in the Consolidated Statements of Operations,
+respectively.
+
+    The amortization expense related to intangible assets acquired in the Merger
+for the remainder of fiscal 2006 and 2007 is expected to be $0.5 million and
+$0.6 million, respectively.
+
+    The $2.2 million allocated to IPR&D was written off during the second
+quarter of fiscal 2005 in accordance with FASB Interpretation No. 4,
+"Applicability of FASB Statement No. 2 to Business Combinations Accounted for by
+the Purchase Method." This charge was included in Research and development
+expense in the Consolidated Statement of Operations for that period.
+
+    The Consolidated Statements of Operations for the three and six months ended
+December 31, 2005 includes the results of operations of CATC. The following
+(unaudited) pro forma consolidated results of operations for the three and six
+months ended December 31, 2004 have been prepared as if the Merger had occurred
+at the beginning of each period (in thousands, except per share data):
+
+                                       8
+
+LECROY CORPORATION
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+                                   (UNAUDITED)
+
+The write-off of IPR&D is excluded from the calculation of net loss and net
+loss per share in the table shown above as the charge is non-recurring.
+
+    The pro forma information is presented for informational purposes only and
+is not necessarily indicative of the results of operations that actually would
+have been achieved had the Merger been consummated as of that time, nor is it
+intended to be a projection of future results.
+
+3. SHARE-BASED COMPENSATION
+
+         Share-Based Compensation
+
+    Historically, the Company accounted for stock-based compensation under the
+recognition and measurement principles of Accounting Principles Board Opinion
+("APB") No. 25, "Accounting for Stock Issued to Employees" ("APB 25"), and
+related interpretations. No compensation expense related to stock option plans
+was reflected in the Company's Consolidated Statements of Operations as all
+options had an exercise price equal to the market value of the underlying common
+stock on the date of grant. Compensation cost for restricted stock was recorded
+based on its market value on the date of grant and was included in the Company's
+Consolidated Statements of Operations ratably over the vesting period. Upon the
+grant of restricted stock, deferred stock compensation was recorded as an offset
+to additional paid-in capital and was amortized on a straight-line basis as
+compensation expense over the vesting period. Statement of Financial Accounting
+Standards ("SFAS") 123, "Accounting for Stock-Based Compensation," established
+accounting and disclosure requirements using a fair-value-based method of
+accounting for stock-based employee compensation plans. As permitted by SFAS
+123, the Company elected to continue to apply the intrinsic-value-based method
+of APB No. 25 described above, and adopted only the disclosure requirements of
+SFAS 123, as amended by SFAS No. 148, "Accounting For Stock-Based Compensation -
+Transition and Disclosure."
+
+    On July 3, 2005, the start of the first quarter of fiscal 2006, the Company
+adopted the provisions of Statement of Financial Accounting Standards No. 123
+(revised 2004), "Share-Based Payment" ("SFAS 123R") which requires that the
+costs resulting from all share-based payment transactions be recognized in the
+financial statements at their fair values. The Company adopted SFAS 123R using
+the modified prospective application method under which the provisions of SFAS
+123R apply to new awards and to awards modified, repurchased, or cancelled after
+the adoption date. Additionally, compensation cost for the portion of the awards
+for which the requisite service has not been rendered that are outstanding as of
+the adoption date is recognized in the Consolidated Statement of Operations over
+the remaining service period after the adoption date based on the award's
+original estimate of fair value. In connection with the adoption of SFAS 123R,
+the deferred stock compensation at June 30, 2005 of $8.6 million relating to
+previous grants of restricted stock and stock options assumed in the Merger were
+offset against additional paid-in capital during the first quarter of fiscal
+2006. Results for prior periods have not been restated. Total share-based
+compensation expense recorded in the Consolidated Statement of Operations for
+the three and six months ended December 31, 2005 is $1.5 million and $2.9
+million, respectively.
+
+                                       9
+
+LECROY CORPORATION
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+                                   (UNAUDITED)
+
+As a result of adopting SFAS 123R on July 3, 2005, the Company's income
+before income taxes and net income for the three months ended December 31, 2005
+are $0.9 million and $0.6 million lower, respectively, than if it had continued
+to account for share-based compensation under APB No. 25. For the six months
+ended December 31, 2005, the Company's income before income taxes and net income
+are $1.4 million and $1.0 million lower, respectively, under SFAS 123R. Basic
+and diluted earnings per share for the three months ended December 31, 2005
+would both have been $0.23 per share if the Company had not adopted SFAS 123R,
+compared to reported basic and diluted earnings per share of $0.18 and $0.17,
+respectively. Basic and diluted earnings per share for the six months ended
+December 31, 2005 would have been $0.45 and $0.44, respectively, compared to
+reported basic and diluted earnings per share of $0.36. Under APB No. 25,
+restricted stock was historically being expensed.
+
+    On November 10, 2005, the FASB issued FASB Staff Position 123(R)-3 ("FSP
+123R-3"), "Transition Election Related to Accounting for the Tax Effects of
+Share-based Payment Awards," that provides an elective alternative transition
+method of calculating the pool of excess tax benefits available to absorb tax
+deficiencies recognized subsequent to the adoption of SFAS 123R (the "APIC
+Pool") to the method otherwise required by paragraph 81 of SFAS 123R. The
+Company may take up to one year from the effective date of this FSP to evaluate
+its available alternatives and make its one-time election. The Company is
+currently evaluating the alternative methods; however, neither alternative would
+have an impact on the Company's results of operations or financial condition for
+the three and six months ended December 31, 2005, due to the fact that the
+Company is currently using prior period net operating losses and has not
+realized any tax benefits under SFAS 123R. Until and unless the Company elects
+the transition method described in this FSP, the Company will follow the
+transition method described in paragraph 81 of SFAS 123R.
+
+    The following table illustrates the effect on net income and net income per
+common share applicable to common stockholders for the three and six months
+ended December 31, 2004, as if the Company had applied the fair value
+recognition provisions for stock-based employee compensation of SFAS 123, as
+amended. For purposes of the pro forma presentation, option forfeitures are
+accounted for as they occurred and no amounts of compensation expense have been
+capitalized into inventory or other assets, but instead were considered as
+period expenses (in thousands, except per share data):
+
+Prior to the adoption of SFAS 123R, the Company presented all tax benefits
+of deductions resulting from the exercise of stock options as operating cash
+flows in the Statement of Cash Flows. SFAS 123R requires the cash flows
+resulting from tax benefits resulting from tax deductions in excess of the
+compensation cost recognized for those options (excess tax benefits) to be
+classified as financing cash flows. For the three and six months ended December
+31, 2005, there was no excess tax benefit recognized resulting from share-based
+compensation cost.
+
+                                       10
+
+LECROY CORPORATION
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+                                   (UNAUDITED)
+
+The fair value of options granted is estimated on the date of grant using a
+Black-Scholes option pricing model. Expected volatilities are calculated based
+on the historical volatility of the Company's stock. Management monitors share
+option exercise and employee termination patterns to estimate forfeiture rates
+within the valuation model. Separate groups of employees that have similar
+historical exercise behavior are considered separately for valuation purposes.
+The expected holding period of options represents the period of time that
+options granted are expected to be outstanding. The risk-free interest rate for
+periods within the contractual life of the option is based on the interest rate
+of a 5-year U.S. Treasury note in effect on the date of the grant.
+
+    The table below presents the assumptions used to calculate the fair value of
+options granted during the three and six months ended December 31, 2005 and
+2004.
+
+Stock Option Plans
+
+    The Company maintains share-based payment arrangements under the following
+plans: (i) the Amended and Restated 1993 Stock Incentive Plan ("1993 Plan"),
+(ii) the Amended and Restated 1995 Employee Stock Purchase Plan ("ESPP"), (iii)
+the Amended and Restated 1998 Non-Employee Director Stock Plan ("1998 Plan"),
+(iv) the 2003 Stock Incentive Plan ("2003 Plan"), (v) the 2004 Employment
+Inducement Stock Plan ("2004 Plan"), (vi) the LeCroy Corporation (CATC) Special
+2000 Stock Option Plan, (vii) the LeCroy Corporation (CATC) 2000 Stock Incentive
+Plan, and (viii) the LeCroy Corporation (CATC) 1994 Stock Option Plan (items
+(vi), (vii) and (viii) collectively the "LeCroy (CATC) Plans"). The Company has
+a policy of issuing new shares to satisfy share option exercises.
+
+    The 1993 Plan expired on January 4, 2003. All options outstanding under the
+1993 Plan at the time of its expiration will continue in full force and effect
+in accordance with their terms. No more than 2,608,696 shares of Common Stock
+were allowed to be issued pursuant to the exercise of incentive stock options
+granted under the 1993 Plan. This limitation did not apply to non-qualified
+stock options or restricted stock awards that were granted under the 1993 Plan.
+The vesting period and expiration of each grant was determined by the
+Compensation Committee of the Board of Directors. In general, the vesting period
+is 25% per annum over a four-year period, or 50% after the second year and 25%
+for the third and fourth years. The lives of the options are generally ten years
+from the date of grant. As of December 31, 2005, there were 1,460,438 options
+outstanding under the 1993 Plan, of which 1,321,068 options were vested.
+
+    In July 1995, the Company adopted the 1995 Employee Stock Purchase Plan (the
+"ESPP") and reserved for issuance an aggregate of 434,783 shares of Common
+Stock. The purpose of the ESPP is twofold: first, to encourage stock ownership
+by employees by establishing a program that permits them to purchase shares of
+Common Stock on a regular basis through payroll deductions; and second, to offer
+employees an opportunity, without adverse tax consequences, to purchase stock at
+a price equal to 85% of the market value on the first or last business day of
+
+                                       11
+
+LECROY CORPORATION
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+                                   (UNAUDITED)
+
+the offering period. On October 29, 2003, the Company's shareholders approved
+the extension of the expiration of the ESPP from June 7, 2005 to November 30,
+2006 and increased the number of shares available for issuance under the ESPP
+from 434,783 to 684,783 shares. On October 26, 2005, the Company's shareholders
+approved the extension of the expiration of the ESPP from November 30, 2006 to
+November 30, 2011 and increased the number of shares available for issuance
+under the ESPP from 684,783 to 1,060,000 shares. Through December 31, 2005, a
+total of 532,962 shares have been issued under the ESPP including 40,449 shares
+for the six months ended December 31, 2005 and 56,214, 49,141 and 45,820 shares
+for the years ended June 30, 2005, 2004 and 2003, respectively. As of December
+31, 2005, 527,038 shares are available for future issuance.
+
+    In October 1998, the Board of Directors and stockholders terminated the 1995
+Non-Employee Director Stock Option Plan ("1995 Plan") and adopted the 1998 Plan.
+As of December 31, 2005, stock options to purchase 901 shares of Common Stock
+issued pursuant to the 1995 Plan are outstanding and fully vested. On October
+26, 2005, the Company's shareholders approved amendments to the 1998 Plan to
+extend the termination date of the 1998 Plan to October 27, 2010 and to provide
+for the ability to grant restricted stock awards under the 1998 Plan. Pursuant
+to the 1998 Plan, each non-employee director receives either a stock option
+grant of 15,000 shares to vest ratably over 36 months, or a restricted stock
+award of 10,000 shares of Common Stock, subject to such vesting and other
+conditions and restrictions as the Board may determine in its discretion.
+Additionally, each non-employee director will receive annually a restricted
+stock award of 5,000 shares of Common Stock subject to such vesting and other
+conditions and restrictions as the Board may determine in its discretion. Prior
+to the amendments dated October 26, 2005 and October 25, 2000, the annual award
+to each non-employee director was 7,000 stock options and 5,000 stock options,
+respectively, all exercisable at the market price on the date of grant and
+vesting immediately. A total of 500,000 shares of Common Stock can be issued
+during the term of the 1998 Plan. As of December 31, 2005, there were 238,670
+options outstanding under the 1998 Plan, of which 231,586 options were vested.
+
+    On October 29, 2003, the Company's shareholders approved the 2003 Plan. The
+2003 Plan provides for the grant of incentive stock options, nonqualified stock
+options and restricted stock awards to employees (including officers and
+employee directors) and consultants. Unless approved by stockholders owning a
+majority of shares present and entitled to vote at a duly convened meeting of
+stockholders of the Company, the purchase price of any option granted under the
+2003 Plan may not be less than 100% of the fair value of the Company's common
+stock on the date of grant. The initial aggregate number of shares of Common
+Stock that may be issued or transferred pursuant to options or restricted stock
+awards under the 2003 Plan shall not exceed 910,167 shares. On October 26, 2005,
+the Company's shareholders approved amendments to the 2003 Plan to allow for
+awards under the 2003 Plan based on performance criteria which awards may then
+qualify as "performance-based compensation" under Section 162(m) of the Internal
+Revenue Code and to increase from 910,167 to up to 1,560,167 shares the number
+of shares of Common Stock reserved for issuance under the 2003 Plan. The
+Compensation Committee of the Board of Directors administers the 2003 Plan and
+has the authority to determine the terms of such options or awards including the
+number of shares, exercise or purchase prices and times at which the options
+become and remain exercisable or restricted stock is no longer restricted. There
+are no performance-based awards approved for fiscal 2006. The 2003 Plan expires
+on October 29, 2013. As of December 31, 2005, there were 70,068 options
+outstanding under the 2003 Plan, of which 15,818 options were vested.
+
+    In connection with the Merger, on October 29, 2004, the Company's Board of
+Directors approved the 2004 Plan to promote the interests of the Company and its
+stockholders by strengthening the Company's ability to attract and induce
+persons to become employees of the Company, including certain of CATC's
+employees. The adoption of the 2004 Plan did not require stockholder approval.
+The initial number of shares of LeCroy common stock that may be issued or
+transferred pursuant to options or restricted stock awards granted under the
+2004 Plan is 750,000 shares. On October 29, 2004, the Company issued the
+following grants under the 2004 Plan: (i) 70,000 shares of restricted common
+stock to certain former officers of CATC, and (ii) options to purchase an
+aggregate of 230,984 shares of common stock to 61 former CATC employees who
+became non-officer employees of LeCroy (none of whom received an option grant of
+more than 20,000 shares). The options were issued with vesting periods of four
+to six years. On September 13, 2005, the Board of Directors resolved that no
+further grants would be made under the 2004 Plan. The 2004 Plan expires on
+October 29, 2014. As of December 31, 2005, there were 189,377 options
+outstanding under the 2004 Plan, of which 17,036 were vested.
+
+12
+
+LECROY CORPORATION
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+                                   (UNAUDITED)
+
+In connection with the Merger, LeCroy assumed CATC's 2000 Stock Option/Stock
+Issuance Plan, Special 2000 Stock Option Plan, 2000 Stock Incentive Plan and
+1994 Stock Option Plan (collectively, the "CATC Stock Plans"). On October 27,
+2004, the Board of Directors of CATC approved technical amendments to each of
+the CATC Stock Plans in anticipation of their assumption by LeCroy pursuant to
+the Merger including, without limitation, amendments reflecting that any stock
+option or other award granted thereunder would be exercisable for LeCroy common
+stock. Pursuant to FIN 44, the 648,284 unvested stock options, as well as
+certain vested but unexercised stock options, granted by the Company in exchange
+for the stock options held by the employees of CATC were considered part of the
+purchase price for CATC. The $5.1 million fair value of the new awards was
+included in the purchase price, less the intrinsic value of unvested options of
+$1.9 million, which, during the period from October 29, 2004 to June 30, 2005,
+was being charged as compensation expense to operations on a straight-line basis
+as earned by employees over their remaining vesting periods. In connection with
+the adoption of SFAS 123R, the remaining unamortized deferred compensation was
+offset against additional paid-in capital on the date of adoption and
+compensation cost for unvested options under the LeCroy (CATC) Plans is being
+recognized over the remaining vesting period using the fair value of the options
+on the date of the Merger. On September 13, 2005, the Board of Directors
+resolved that no further grants would be made under the LeCroy (CATC) Plans. As
+of December 31, 2005, there were 487,237 options outstanding under the LeCroy
+(CATC) Plans, of which 241,350 options were vested.
+
+    Stock option transactions for the six months ended December 31, 2005 under
+all plans are as follows:
+
+The weighted-average grant-date fair value of the stock options granted
+during the three and six months ended December 31, 2005 was $8.43 and $8.25 per
+share, respectively. The weighted-average grant-date fair value of the stock
+options granted during the three and six months ended December 31, 2004 was
+$11.04 per share for both periods. The total intrinsic value of stock options
+exercised during the three and six months ended December 31, 2005 was $0.2
+million and $0.3 million, respectively as compared to $0.5 million and $0.6
+million for the three and six months ended December 31, 2004, respectively. The
+fair value of stock options vested during the three and six months ended
+December 31, 2005 was $0.7 million and $2.0 million, respectively.
+
+    As of December 31, 2005, there was approximately $3.1 million of total
+unrecognized compensation cost related to stock options granted under the plans.
+That cost is expected to be recognized over a weighted-average period of 2.74
+years. No compensation cost related to stock options was capitalized in
+inventory or any other assets for the three and six months ended December 31,
+2005 and 2004.
+
+                                       13
+
+LECROY CORPORATION
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+                                   (UNAUDITED)
+
+Restricted Stock
+
+    Compensation expense for restricted stock was historically recorded based on
+its market value on the date of grant and recognized ratably over the associated
+service period, the period in which restrictions are removed. Compensation
+expense for unvested restricted stock was reported as deferred stock
+compensation on the Consolidated Balance Sheets. With the adoption of SFAS 123R,
+effective July 3, 2005, deferred stock compensation has been offset against
+additional paid-in capital where it is reflected on the Consolidated Balance
+Sheet as of December 31, 2005. During the six months ended December 31, 2005
+there were 66,000 shares of restricted stock granted. Of these shares, 25,000
+were issued under the 1998 Plan to non-employee directors and were immediately
+vested and 41,000 shares were issued to employees under the 2003 Plan with
+4-year vesting. In fiscal 2005, 198,030 and 70,000 shares of restricted stock
+were granted under the 2003 Plan and 2004 Plan, respectively, with various
+vesting conditions ranging from three to four years. During fiscal 2005, 2,300
+of shares issued under the 2003 Plan were forfeited as a result of employee
+terminations and the corresponding compensation expense and remaining deferred
+compensation amounts were reversed. An additional 86,130 shares vested during
+the fiscal 2005 period. In fiscal 2004, 365,000 shares of restricted stock were
+granted under the 2003 Plan with long-term cliff vesting conditions of three to
+five years to certain key employees. During the six months ended December 31,
+2005, 32,000 of these shares were forfeited as a result of employee terminations
+and corresponding compensation expense of $0.1 million recorded in previous
+periods was reversed. An additional 17,650 shares vested during the six months
+ended December 31, 2005. Under the 2004 Plan, 5,000 shares vested during the six
+months ended December 31, 2005. As of December 31, 2005, 465,950 shares are
+unvested under the 2003 Plan and 65,000 shares are unvested under the 2004 Plan.
+
+    The following table summarizes transactions related to restricted
+(non-vested) stock for the six months ended December 31, 2005:
+
+As of December 31, 2005, there was approximately $6.3 million of total
+unrecognized compensation cost related to restricted (non-vested) stock granted
+under the plans. That cost is expected to be recognized over a weighted-average
+period of 2.62 years. No compensation cost related to restricted stock grants
+was capitalized in inventory or any other assets for the three and six months
+ended December 31, 2005 and 2004.
+
+14
+
+LECROY CORPORATION
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+                                   (UNAUDITED)
+
+The following table summarizes information about stock options outstanding
+at December 31, 2005:
+
+Of the total stock options outstanding, 1,827,759 and 1,860,699 options were
+exercisable at December 31, 2005 and June 30, 2005, respectively. Stock options
+and restricted stock awards available for grant under all plans were 1,170,581
+and 1,223,502 at December 31, 2005 and June 30, 2005, respectively.
+
+4. REVENUE RECOGNITION
+
+     LeCroy recognizes product and service revenue, net of allowances for
+anticipated returns, provided that (1) persuasive evidence of an arrangement
+exists, (2) delivery has occurred, (3) the selling price is fixed or
+determinable and (4) collection is reasonably assured. Delivery is considered to
+have occurred when title and risk of loss have transferred to the customer, or
+when services have been provided. The price is considered fixed or determinable
+when it is not subject to refund or adjustments.
+
+     The Company maintains an allowance for doubtful accounts relating to
+accounts receivable estimated to be non-collectible. The Company analyzes
+historical bad debts, customer concentrations, customer creditworthiness,
+current economic trends and changes in customer payment terms when evaluating
+the adequacy of the allowance for doubtful accounts.
+
+     Test and measurement products revenue. The Company generates test and
+measurement product revenue from the sales of oscilloscopes and application
+solutions, protocol analyzers, probes and accessories. Provisions for warranty
+costs are recorded at the time products are shipped. Application solutions,
+which provide oscilloscopes with additional analysis capabilities, are either
+delivered via compact disc or are already loaded in the oscilloscopes and
+activated via a key code after the sale is made to the customer. No
+post-contract support is provided on the application solutions. All sales of
+test and measurement products are based upon separately established prices for
+the items and are recorded as revenue according to the above revenue recognition
+criteria. Revenues from these products are included in revenues from Test and
+measurement products in the Consolidated Statements of Operations. Certain
+software is embedded in the Company's oscilloscopes, but the embedded software
+component is considered incidental.
+
+     In the first quarter of fiscal 2006, in an effort to provide end-user
+customers an alternative to purchasing the Company's higher end products under
+its standard terms and conditions, the Company began offering customers an
+opportunity to enter into sales-type or direct financing leases for these
+products. The Company is accounting for these leases in accordance with SFAS
+Statement No. 13, " Accounting for Leases." Lease and rental revenues are
+reported within Test and measurement product revenue and were not material in
+the first half of fiscal 2006.
+
+     Software license revenue. The Company recognizes software license revenue
+in accordance with American Institute of Certified Public Accountants Statement
+of Position 97-2, "Software Revenue Recognition" ("SOP 97-2"), as amended by
+Statement of Position 98-9, "Modifications of SOP 97-2 with Respect to Certain
+Transactions" ("SOP 98-9").
+
+                                       15
+
+LECROY CORPORATION
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+                                   (UNAUDITED)
+
+Due to the significant software content of its protocol analyzer products,
+the Company recognizes revenue on the sale of these products in accordance with
+SOP 97-2 upon shipment provided there is persuasive evidence of an arrangement,
+the product has been delivered, the price is fixed or determinable and
+collectibility is probable. When the Company ships a protocol analyzer but
+certain elements relating to the functionality of the product are not delivered,
+revenue and the associated cost of revenue are deferred until the remaining
+elements are delivered. Software maintenance support revenue is deferred based
+on its vendor specific objective evidence of fair value ("VSOE") and recognized
+ratably over the maintenance support periods. Provisions for warranty costs are
+recorded at the time products are recognized as revenue. Revenues from protocol
+analyzer products are included in Test and measurement products in the
+Consolidated Statements of Operations.
+
+     Revenues from perpetual software license agreements are recognized upon
+delivery of the software if evidence of an arrangement exists, pricing is fixed
+and determinable, and collectibility is probable. If an acceptance period is
+required, revenues are recognized upon the earlier of customer acceptance or the
+expiration of the acceptance period. The Company allocates revenue on software
+arrangements involving multiple elements to each element based on the relative
+fair values of the elements. The determination of fair value of each element in
+multiple element-arrangements is based on VSOE. The Company analyzes all of the
+elements and determines if there is sufficient VSOE to allocate revenue to
+maintenance included in multiple element-arrangements. Accordingly, assuming all
+other revenue recognition criteria are met, revenue is recognized upon delivery
+using the residual method in accordance with SOP 98-9, where the VSOE of the
+undelivered elements is deferred and the remaining portion of the arrangement
+fee is recognized as license revenue. The revenue allocated to software
+maintenance is recognized ratably over the term of the support agreement. The
+revenue allocated to licenses is recognized upon delivery of the licenses.
+Revenues from perpetual software license agreements are included in Service and
+other in the Consolidated Statements of Operations. There was no revenue from
+perpetual software license agreements for the three and six months ended
+December 31, 2005 and 2004.
+
+     Service and other revenue. Service and other revenue includes extended
+warranty contracts, software maintenance agreements and repairs and calibrations
+performed on instruments after the expiration of their normal warranty period.
+The Company records deferred revenue for extended warranty contracts, software
+maintenance agreements and calibrations included within the sales contract
+agreement. This deferred revenue is then recognized on a straight-line basis
+over the related service period. When arrangements include multiple elements,
+the Company uses relative fair values in accordance with Emerging Issues Task
+Force ("EITF") Issue No. 00-21, "Revenue Arrangements with Multiple
+Deliverables," to allocate revenue to the elements and recognize revenue when
+the criteria for revenue recognition have been met for each element.
+
+     Deferred product revenue. During the third quarter of fiscal 2004, the
+Company began shipping the WaveSurfer oscilloscope product line. One component
+of the Company's strategy for distributing this product line was the use of a
+buy-sell distribution channel. This was the Company's initial entry into this
+distribution channel and, because of the associated uncertainty about
+sell-through volumes; the Company was unable to sufficiently estimate the
+amounts of potential product returns. In the fourth quarter of fiscal 2005,
+having had four full quarters of experience with this product and channel with
+no significant returns, the Company had sufficient data to estimate potential
+returns and in accordance with SFAS No. 48, "Revenue Recognition When Right of
+Return Exists" ("SFAS 48"), recognized previously deferred revenue of $2.6
+million. Revenue related to WaveSurfers sold to distributors is now being
+recognized upon shipment to the distributor, rather than upon the sale of the
+unit by the distributor to the end user and a provision for expected returns is
+recognized.
+
+     Deferred license revenue. Revenue from license fees under agreements that
+have exclusivity clauses and, from the licensee's perspective, have ongoing
+requirements or expectations that are more than perfunctory, are recognized over
+the terms of the related agreements. An ongoing requirement or expectation would
+be considered more than perfunctory if any party to the contract considers it to
+be "essential to the functionality" of the delivered product or service or
+failure to complete the activities would result in the customer receiving a full
+or partial refund or rejecting the products delivered or services performed to
+date.
+
+16
+
+LECROY CORPORATION
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+                                   (UNAUDITED)
+
+Beginning in fiscal 2001 with the adoption of the SEC's Staff Accounting
+Bulletin, ("SAB") No. 101 ("SAB 101"), "Revenue Recognition in Financial
+Statements," (superseded by SAB 104), certain previously recognized license fee
+revenue was deferred and recognized in future periods over the terms of the
+agreements. The adoption of SAB 101 was recorded as of the beginning of fiscal
+2001 and resulted in a non-cash charge for the cumulative effect of an
+accounting change of $4.4 million, net of a tax benefit of $2.7 million. The
+deferred revenue is being amortized into revenue over 5.5 years, the remaining
+terms of the license agreements. The Company recognized pretax license fee
+revenue of $0.3 million for each of the three months ended December 31, 2005 and
+2004 and $0.6 million for each of the six months ended December 31, 2005 and
+2004. Such license fees were included in Service and other revenue in the
+Consolidated Statements of Operations. As of December 31, 2005, the remaining
+deferred license fees balance from the adoption of SAB 101 was $17,000 which is
+reflected in Accrued expenses and other current liabilities in the accompanying
+Consolidated Balance Sheet.
+
+5. RESTRUCTURING AND ASSET IMPAIRMENT
+
+    During the first quarter of fiscal 2003, the Company adopted a plan to scale
+down fixed infrastructure due to the difficult economic environment and to
+implement new management operating systems designed to improve processes in
+sales, order management, customer relationship management and financial
+performance management. In connection with the adoption of this plan, the
+Company recorded a charge for severance and other related expenses in the first
+quarter of fiscal 2003 of $2.6 million. As of December 31, 2005, all of the
+accrued severance costs and other related expenses have been paid.
+
+    During the second quarter of fiscal 2005, as a result of the Merger, the
+Company adopted a plan to restructure the organization and refine its product
+strategy. In connection with the adoption of this plan, the Company recorded a
+charge for severance and other related expenses in the second quarter of fiscal
+2005 of approximately $0.6 million in Selling, general and administrative
+expense. The implementation of this plan resulted in headcount reductions of six
+employees or approximately 2% of the workforce as compared to June 30, 2004. As
+of December 31, 2005, approximately $0.5 million of severance has been paid and
+approximately $0.1 million remains in Accrued expenses and other current
+liabilities on the Consolidated Balance Sheet. Severance and other related
+amounts under this plan will be paid by the end of the second quarter of fiscal
+2007.
+
+    Additionally, in the second quarter of fiscal 2005, as a result of a change
+in our organization stemming from the Merger and a subsequent change in our low
+to mid-range oscilloscope manufacturing strategy, the Company recorded a $1.5
+million non-cash charge to Cost of revenues for the impairment of a related
+intangible asset.
+
+    Finally, in the fourth quarter of fiscal 2005, the Company realigned some of
+its business processes and, as a result, incurred expenses of approximately $1.0
+million, consisting of $0.7 million of severance and related expenses and $0.3
+million of facility closure expenses which included lease termination costs and
+asset write-downs. As of December 31, 2005, approximately $0.7 million of
+severance has been paid and $0.2 million of facility charges have been paid in
+cash or written off and approximately $0.1 million remains in Accrued expenses
+and other current liabilities on the Consolidated Balance Sheet. The remaining
+balance is expected to be paid by the end of fiscal 2006.
+
+6. DERIVATIVES
+
+    The Company accounts for derivatives and hedging activities in accordance
+with SFAS No. 133, "Accounting for Derivative Investments and Hedging
+Activities," as amended ("SFAS 133"), which requires that all derivative
+instruments be recorded on the balance sheet at their respective fair values.
+
+17
+
+LECROY CORPORATION
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+                                   (UNAUDITED)
+
+The accounting for changes in the fair value (i.e., gains or losses) of a
+derivative instrument is dependent upon whether the derivative has been
+designated and qualifies as part of a hedging relationship and on the type of
+hedging relationship. The Company's foreign exchange forward contracts and
+interest rate swap agreements are not accounted for as hedges in accordance with
+SFAS 133; therefore, any changes in fair value of these contracts are recorded
+in Other expense, net in the Consolidated Statements of Operations.
+
+    The Company does not use derivative financial instruments for trading or
+other speculative purposes and does not enter into fair value hedges.
+
+    As of December 31, 2005, the Company has the following derivative
+instruments:
+
+    Interest Rate Swap
+
+     As required by the terms of the Credit Agreement (See Note 15 - Long-term
+Debt and Capital Leases), on January 27, 2005 the Company entered into a Master
+Agreement with Manufacturers & Traders Trust Co. ("M&T Bank"), the purpose of
+which is to protect against rising interest rates during the term of the Credit
+Agreement.
+
+    The Credit Agreement obligates the Company to enter into one or more
+interest rate swap agreements covering the interest payable with respect to at
+least 50% of the outstanding principal amount of the Term Loan (see Note 15) for
+a period of at least three years. In connection with the Master Agreement, the
+Company entered into an interest rate swap transaction effective January 31,
+2005 and continuing through January 31, 2008, corresponding with the repayment
+terms of the Credit Agreement. The swap agreement is not designated as a cash
+flow hedge under SFAS 133. Accordingly, changes in the fair value of the swap
+are charged or credited to operations. In accordance with the interest rate swap
+transaction, the Company pays interest quarterly on the notional amount at a
+fixed annualized rate of 3.87% to M&T Bank, and receives interest quarterly on
+the same notional amount at the three-month LIBOR rate in effect at the
+beginning of each quarterly reset period; except for the initial period, which
+covered the two months ending March 31, 2005, in which the Company received
+interest at a LIBOR rate of 2.64%. The initial notional amount was $25.0 million
+and resets quarterly to 50% of the outstanding principal balance with respect to
+the original amortization schedule as set forth in the Credit Agreement. The net
+interest expense incurred on the swap was a benefit of approximately ($8,000)
+during the three months ended December 31, 2005 and was expense of approximately
+$14,000 during the six months ended December 31, 2005. The notional amount as of
+December 31, 2005 and June 30, 2005 was approximately $21.3 million and $23.1
+million, respectively. The fair value of the interest rate swap as of December
+31, 2005 is $0.3 million compared to $66,000 at June 30, 2005 and approximates
+the amount that the Company would have received from M&T Bank if the Company had
+canceled the transaction at each respective date. The fair value is recorded in
+Other non-current assets in the Consolidated Balance Sheet as of December 31,
+2005 and the change in fair value of $56,000 and $0.3 million is recognized in
+Interest income in the Consolidated Statement of Operations for the three and
+six months ended December 31, 2005, respectively.
+
+    Forward foreign exchange contracts
+
+    The Company may enter into short-term forward exchange agreements to
+purchase foreign currencies at set rates in the future. These foreign currency
+forward exchange agreements are used to limit exposure to fluctuations in
+foreign currency exchange rates for all significant planned purchases of fixed
+assets or commodities that are denominated in currencies other than the
+subsidiaries' functional currency. Subsidiaries may also use forward exchange
+agreements to offset the foreign currency risk for receivables and payables not
+denominated in, or indexed to, their functional currencies. The Company records
+these short-term forward exchange agreements on the balance sheet at fair value
+and changes in the fair value are recognized currently as Other (expense)
+income, net in the Consolidated Statement of Operations.
+
+                                       18
+
+LECROY CORPORATION
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+                                   (UNAUDITED)
+
+The net losses resulting from changes in the fair value of these derivatives
+and on transactions denominated in other than their functional currencies were
+$82,000 and $0.2 million for the three and six months ended December 31, 2005,
+respectively, as compared to net gains of $0.6 million and $0.5 million for the
+three and six months ended December 31, 2004, respectively. These amounts are
+included in Other expense, net in the Consolidated Statements of Operations and
+include gross foreign exchange contract gains of $9,000 and $57,000 for the
+three and six months ended December 31, 2005, respectively, and $0.6 million for
+each of the three and six month periods ended December 31, 2004. At December 31,
+2005 and June 30, 2005, the notional amounts of the Company's open foreign
+exchange forward contracts, all with maturities of less than six months, were
+approximately $9.2 million and $9.8 million, respectively.
+
+7. COMPREHENSIVE INCOME (LOSS)
+
+    The following table presents the components of comprehensive income (loss)
+(in thousands):
+
+8. ACCOUNTS RECEIVABLE, NET
+
+    The Company has agreements with two of its customers, who are also vendors,
+which provide the Company with the legal right to offset outstanding accounts
+receivable balances against outstanding accounts payable balances. At both
+December 31, 2005 and June 30, 2005, the Company netted approximately $2.3
+million of accounts receivable against accounts payable on the Consolidated
+Balance Sheets related to these agreements.
+
+9. INVENTORIES, NET
+
+    Inventories, with the exception of demonstration units in finished goods,
+are stated at the lower of cost (first-in, first-out method) or market.
+Demonstration units are stated at lower of cost (specific identification method)
+or market. Inventories consist of the following (in thousands):
+
+                                                  DECEMBER 31,  JUNE 30,
+                                                      2005      2005 (1)
+                                                  ----------  ----------
+
+   Raw materials.............................      $   4,957   $    4,284
+   Work in process...........................          5,997        3,425
+   Finished goods............................         18,670       19,952
+                                                   ---------   ----------
+                                                   $  29,624   $   27,661
+                                                   =========   ==========
+
+    (1) Approximately $5.6 million of inventory classified as raw materials as
+of June 30, 2005 has been reclassified to finished goods to conform to the
+current year presentation.
+
+19
+
+LECROY CORPORATION
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+                                   (UNAUDITED)
+
+The value of demonstration units included in finished goods was $10.4
+million and $10.8 million at December 31, 2005 and June 30, 2005, respectively.
+The Company's demonstration units are held for sale and are sold regularly in
+the ordinary course of business through its normal sales distribution channels
+and existing customer base.
+
+    In the second quarter of fiscal 2005, as a result of the Merger, the Company
+reviewed the long-term product support policies in place at LeCroy and at CATC
+prior to the Merger with an aim toward developing one policy to best serve
+customers. In connection with the resultant change in policy, as well as changes
+in the Company's product support strategy, the Company recorded a $2.7 million
+non-cash charge to cost of revenue in the Consolidated Statement of Operations
+for the write-off of excess parts.
+
+10. OTHER CURRENT ASSETS
+
+    Other current assets consist of the following (in thousands):
+
+                                                       DECEMBER 31,  JUNE 30,
+                                                           2005        2005
+                                                      ----------     ----------
+   Deferred tax assets, net.......................... $    9,000     $    9,000
+   Other receivables.................................        829            456
+   Value-added tax...................................        616            565
+   Other.............................................      3,836          2,660
+                                                      ----------     ----------
+                                                      $   14,281     $   12,681
+                                                      ==========     ==========
+
+11. PROPERTY AND EQUIPMENT, NET
+
+    Property and equipment consist of the following (in thousands):
+
+                                                       DECEMBER 31,   JUNE 30,
+                                                           2005         2005
+                                                      ------------  -----------
+   Land, building and improvements................... $    15,515   $    15,494
+   Furniture, machinery and equipment................      28,999        28,638
+   Computer software and hardware....................      16,098        15,712
+                                                      -----------   -----------
+                                                           60,612        59,844
+   Less: Accumulated depreciation and amortization...     (41,943)      (40,766)
+                                                      -----------   -----------
+                                                      $    18,669   $    19,078
+                                                      ===========   ===========
+
+    Depreciation and amortization expense was $1.2 million and $1.3 million for
+the three-month periods ended December 31, 2005 and 2004, respectively.
+Depreciation and amortization for the six-month periods ended December 31, 2005
+and 2004 was $2.5 million for each period.
+
+LECROY CORPORATION
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+                                   (UNAUDITED)
+
+12. GOODWILL AND OTHER NON-CURRENT ASSETS
+
+    Goodwill and Other non-current assets consist of the following (in
+thousands):
+
+                                                     DECEMBER 31,  JUNE 30,
+                                                         2005        2005
+
+   Goodwill........................................   $  78,848   $   78,848
+                                                      =========   ==========
+
+   Intangibles, net................................   $   4,313   $    5,783
+   Deferred tax assets, net........................       3,651        5,446
+   Other...........................................       1,948        1,530
+                                                      ---------   ----------
+                                                      $   9,912   $   12,759
+                                                      =========   ==========
+
+    Under SFAS No. 142 "Goodwill and Other Intangible Assets," ("SFAS 142")
+goodwill is not amortized but reviewed for impairment annually or more
+frequently if certain indicators arise. The Company completed the annual
+impairment test required under SFAS 142 during the fourth quarter of fiscal 2005
+and determined that there was no impairment to the recorded goodwill balances.
+No impairment indicators arose during the first half of fiscal 2006.
+
+    The following table reflects the gross carrying amount and accumulated
+amortization of the Company's intangible assets included in other non-current
+assets on the Consolidated Balance Sheets as of the dates indicated (in
+thousands):
+
+Amortization expense for intangible assets, all with finite lives, was $0.7
+million and $1.5 million for the three and six months ended December 31, 2005,
+respectively as compared to $0.9 million and $1.2 million for the three and six
+months ended December 31, 2004, respectively. The cost of technology,
+manufacturing and distribution rights acquired is amortized on a straight-line
+basis over the estimated economic life of the asset. For the six months ended
+December 31, 2005, certain technology rights totaling $5.0 million were fully
+amortized and removed from the Consolidated Balance Sheet due to contract
+expiration. Management estimates intangible assets amortization expense on a
+straight-line basis will approximate $1.1 million for the remainder of fiscal
+2006 and $1.8 million, $0.9 million, and $0.5 million for fiscal 2007, 2008 and
+2009, respectively.
+
+21
+
+LECROY CORPORATION
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+                                   (UNAUDITED)
+
+13. ACCRUED EXPENSES AND OTHER CURRENT LIABILITIES
+
+    Accrued expenses and other current liabilities consist of the following (in
+thousands):
+
+14. WARRANTIES
+
+    The Company provides a warranty on its products, typically extending three
+years after delivery and accounted for in accordance with SFAS No. 5,
+"Accounting for Contingencies." Estimated future warranty obligations related to
+products are provided by charges to operations in the period that the related
+revenue is recognized. These estimates are derived from historical data of
+product reliability. The expected failure rate is arrived at in terms of units,
+which are then converted into labor hours to which an average fully burdened
+cost per hour is applied to derive the amount of accrued warranty required. On a
+quarterly basis, the Company studies trends of warranty claims and performance
+of specific products and adjusts its warranty obligation through charges or
+credits to operations.
+
+    The following table is a reconciliation of the changes in the Company's
+aggregate product warranty liability during the three and six months ended
+December 31, 2005 and 2004 (in thousands):
+
+In connection with an agreement to license the Company's MAUI Instrument
+Operating System technology entered into by the Company during the third quarter
+of fiscal 2003, the Company agreed to indemnify the licensee against losses
+arising from any third party claim against the licensee to the extent such claim
+arose directly out of the infringement of a U.S. or Japanese patent by any
+LeCroy software components delivered under the license agreement. As of December
+31, 2005, there have been no claims under such indemnification provisions.
+
+                                       22
+
+LECROY CORPORATION
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+                                   (UNAUDITED)
+
+As is customary in the Test and Measurement industry, and as provided for by
+local law in the U.S. and other jurisdictions, the Company's standard terms of
+sale provide remedies to customers, such as defense, settlement, or payment of a
+judgment for intellectual property claims related to the use of the Company's
+products. Such indemnification provisions are accounted for in accordance with
+SFAS No. 5, "Accounting for Contingencies." To date, there have been no claims
+under such indemnification provisions.
+
+15. LONG-TERM DEBT AND CAPITAL LEASES
+
+    On October 29, 2004, LeCroy entered into a $75.0 million senior, secured,
+five-year credit agreement with the lenders listed therein and The Bank of New
+York, as administrative agent for such lenders (the "Credit Agreement"), which
+replaced LeCroy's prior $25.0 million revolving credit facility with The Bank of
+New York. The terms of the Credit Agreement provide LeCroy with a $50.0 million
+term loan (the "Term Loan") and a $25.0 million revolving credit facility (the
+"Revolver"), which includes a $1.0 million swing-line loan sub-facility and a
+$1.0 million letter of credit sub-facility. The performance by LeCroy of its
+obligations under the Credit Agreement is secured by all of the assets of LeCroy
+and its domestic subsidiaries, and is guaranteed by LeCroy's domestic
+subsidiaries. The proceeds under the Term Loan have been used to finance the
+acquisition of CATC and pay transaction expenses related to the Merger. Proceeds
+from the Revolver may be used for general corporate purposes, including the
+financing of working capital requirements, capital expenditures and
+acquisitions. As of December 31, 2005, the Company has not borrowed against the
+Revolver or the letter of credit sub-facility.
+
+    Borrowings under the Credit Agreement bear interest at variable rates equal
+to, at the Company's election, (1) the higher of (a) the prime rate or (b) the
+federal funds rate plus 0.5%, plus an applicable margin of between 0.00% and
+1.50% based on the Company's leverage ratio, as defined in the Credit Agreement,
+or (2) the London Interbank Offering Rate ("LIBOR") plus an applicable margin of
+between 1.25% and 2.75% based on the Company's leverage ratio. In addition, the
+Company must pay commitment fees on unused Revolver borrowings during the term
+of the Credit Agreement at rates between 0.375% and 0.5% dependent upon its
+leverage ratio.
+
+    Under the Credit Agreement, the Company is required to comply with certain
+financial covenants, measured quarterly, including a minimum interest coverage
+ratio, minimum total net worth, maximum leverage ratio, minimum fixed charge
+coverage ratio and limitations on capital expenditures. As of December 31, 2005,
+the Company was in compliance with its financial covenants under the Credit
+Agreement.
+
+    Beginning March 31, 2005, outstanding borrowings of $50.0 million under the
+Term Loan were required to be repaid quarterly through October 2009, based on an
+annualized amortization rate starting at 15% in calendar year 2005 and
+increasing 250 basis points per year during the term of the Credit Agreement. As
+of December 31, 2005, the Company has repaid $11.2 million of the principal
+balance of this loan. The outstanding balance to be repaid is approximately $4.4
+million for the remainder of fiscal 2006 and $9.4 million, $10.6 million, $11.9
+million and $2.5 million for the fiscal years ending June 2007, 2008, 2009 and
+2010, respectively.
+
+    The Company incurred approximately $1.4 million of transaction fees in
+connection with entering into the Credit Agreement, which have been deferred and
+are being amortized over the life of the Credit Agreement using the effective
+interest method for the Term Loan and the straight-line method for the Revolver.
+At December 31, 2005, the remaining balance of unamortized fees of $0.4 million
+were included in Other current assets and $0.5 million were included in Other
+non-current assets on the Consolidated Balance Sheets.
+
+    As required by the terms of the Credit Agreement, the Company entered into
+an interest rate swap transaction effective January 31, 2005 (See Note 6 -
+Derivative Instruments).
+
+    In addition to the above U.S.-based credit facilities, the Company maintains
+certain short-term foreign credit facilities, principally with two Japanese
+banks totaling 150.0 million yen (approximately $1.3 million as of December 31,
+2005). No amounts were outstanding under these facilities as of December 31,
+2005 and June 30, 2005. The Company's Swiss subsidiary, LeCroy S.A., also has an
+overdraft facility totaling 1.0 million Swiss francs (approximately $0.8 million
+as of December 31, 2005). As of December 31, 2005 and June 30, 2005,
+approximately 0.4 million Swiss francs were held against supplier obligations
+leaving an available balance of 0.6 million Swiss francs under this credit
+facility. These obligations to suppliers, such as rent and utilities, are
+payable under the credit facility only in the event that the Company is unable
+to meet its financial obligations to those suppliers.
+
+                                       23
+
+LECROY CORPORATION
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+                                   (UNAUDITED)
+
+The Company had a five year $2.0 million capital lease line of credit that
+expired in November 2005, that bore interest at 12.2%, to fund certain capital
+expenditures. As of December 31, 2005, there were no outstanding borrowings
+under this line of credit.
+
+    During fiscal 2005, the Company entered into vendor supplied capital lease
+agreements for technology rights of $1.3 million. These leases bear interest at
+4.5% to 4.88% with three-year terms. At December 31, 2005, the Company's
+outstanding balance under these agreements was $0.8 million of which $0.5
+million was included within Current portion of long-term debt and capital leases
+and $0.3 million was included within Long-term debt in the Consolidated Balance
+Sheet. Under these capital lease obligations, payments, including interest, are
+$0.2 million for the remainder of fiscal 2006 and $0.5 million and $0.1 million
+for fiscal years 2007 and 2008, respectively.
+
+16. COMMITMENTS AND CONTINGENCIES
+
+    On January 15, 2003, LeCroy was sued by Sicom Systems ("Sicom") in the
+United States District Court for the District of Delaware for patent
+infringement of a U.S. patent relating to the graphical display of test limits.
+LeCroy answered the complaint denying infringement and asserted a counterclaim
+alleging the invalidity of the patent and that Sicom had abused the judicial
+process by bringing a baseless patent infringement claim. On July 16, 2003,
+LeCroy filed a Motion to Dismiss Sicom's case, contending that Sicom did not
+have standing to bring the litigation. On November 20, 2003, the Court granted
+LeCroy's Motion to Dismiss. On December 18, 2003, Sicom filed a Notice of Appeal
+to the United States Court of Appeals for the Federal Circuit. On December 30,
+2003, Sicom filed a new patent infringement lawsuit against LeCroy in the United
+States District Court for the District of Delaware. Tektronix and Agilent
+Technologies are also co-defendants in this new litigation. The complaint in
+this new case is essentially the same as the complaint filed by Sicom on January
+15, 2003, except that Sicom now states that it entered into an amendment to its
+license agreement with the Canadian government on December 19, 2003, and that
+Sicom now has the exclusive right to bring suit for infringement of the patent
+in the United States. On January 5, 2004, Sicom filed a Notice and Order of
+Dismissal of Appeal of its appeal to the Court of Appeals for the Federal
+Circuit and the Order was entered on the following day. In LeCroy's responsive
+pleading, LeCroy denied that it has infringed, or is infringing, the patent, and
+contends that the patent is invalid. The defendants in this case, including the
+Company, filed a Motion to Dismiss for lack of standing, contending that Sicom's
+amended license agreement with Canada does not cure the standing defects that
+caused the Court to dismiss the original lawsuit. The Court granted the
+Defendants' Motion on October 5, 2004, dismissing the case with prejudice. On
+October 28, 2004, Sicom filed a Notice of Appeal to the United States Court of
+Appeals for the Federal Circuit from the September 30, 2004 order granting the
+Company's motion to dismiss and the related memorandum opinion dated October 5,
+2004. On October 18, 2005 the United States Court of Appeals for the Federal
+Circuit affirmed the dismissal with prejudice. The appeal is ongoing and the
+outcome cannot be predicted. The Company intends to defend itself vigorously in
+this litigation.
+
+    From time to time, the Company is involved in lawsuits, claims,
+investigations and proceedings, including patent and environmental matters,
+which arise in the ordinary course of business. There are no matters pending,
+including that described above, that the Company expects to be material to its
+business, results of operations, financial condition or cash flows.
+
+17. EARNINGS PER COMMON SHARE
+
+    The following is a presentation of the numerators and the denominators of
+the basic and diluted net income (loss) per share computations for the three and
+six months ended December 31, 2005 and 2004:
+
+24
+
+LECROY CORPORATION
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+                                   (UNAUDITED)
+
+The computation of diluted net income per common share for the three and six
+months ended December 31, 2005 does not include approximately 2.0 million of
+stock options and warrants to purchase common stock as the effect of their
+inclusion would have been antidilutive to earnings per share. The computation
+for both the three and six months ended December 31, 2004 does not include
+approximately 3.8 million of stock options and warrants to purchase common stock
+as the effect of their inclusion would have been antidilutive to earnings per
+share.
+
+18. INCOME TAXES
+
+    The effective income tax rate for the three and six months ended December
+31, 2005 was 37.9% and 38.1%, respectively, compared to an effective income tax
+(benefit) rate of (12.2%) and 247.0% for the three and six months ended December
+31, 2004, respectively. Under the provisions of SFAS 123R, which the Company
+adopted on July, 3, 2005, only the portion of share-based compensation expense
+that is expected to result in a future tax deduction is considered deductible
+for tax accounting purposes. The non-deductible portion represents permanent
+differences which resulted in the higher effective tax rate in the three months
+ended December 31, 2005 than in the comparable prior year period. In addition,
+the effective income tax benefit rate for the three months end December 31, 2004
+of (12.2%) was impacted by nondeductible purchased IPR&D charges associated with
+the Merger. The effective tax rate for the six months ended December 31, 2004
+was based on the estimated annual normalized projected effective tax rate of
+37%, increased by the discrete nondeductible IPR&D charges associated with the
+Merger. The increase for the nondeductible IPR&D charges resulted in the higher
+effective rate as compared to the six months ended December 31, 2005.
+
+    On October 22, 2004, the American Jobs Creation Act (the "Act") was signed
+into law. The Act includes a provision for the deduction of 85% of certain
+foreign earnings that are repatriated, as defined in the Act. The Company
+elected to apply this provision to certain repatriations of qualifying earnings
+in fiscal year 2005. The Company elected to repatriate $22.1 million pursuant to
+its approved domestic reinvestment plan. The income tax effect recognized under
+the repatriation provision was approximately $1.2 million which was
+substantially offset by the release of a tax reserve related to a favorable
+foreign tax audit settlement during the three-month period ended December 31,
+2004.
+
+19. SEGMENT AND GEOGRAPHIC REVENUE
+
+    The Company operates in a single segment in the test and measurement market,
+in which it develops, manufactures, sells and licenses high-performance
+oscilloscopes, serial data analyzers and global communication protocol test
+solutions. These products are used by design engineers and researchers to
+measure and analyze complex electronic signals in order to develop high
+performance systems, to validate electronic designs and to improve time to
+market.
+
+                                       25
+
+LECROY CORPORATION
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+                                   (UNAUDITED)
+
+Revenues are attributed to countries based on customer ship-to addresses.
+Revenues by geographic area are as follows (in thousands):
+
+Total net assets by geographic area are as follows (in thousands):
+
+December 31,     June 30,
+                                                  2005            2005
+                                              -------------   -------------
+
+North America ............................        $173,011        $170,685
+Europe/Middle East .......................          12,097          11,241
+Japan ....................................           5,141           6,328
+Asia/Pacific .............................           5,248           4,914
+                                              -------------   -------------
+  Total net assets .......................        $195,497        $193,168
+                                              =============   =============
+
+    Total long-lived assets (1) by geographic area are as follows (in
+thousands):
+
+                                              December 31,     June 30,
+                                                 2005            2005
+                                             -------------   -------------
+
+North America ............................      $ 104,295       $ 103,921
+Europe/Middle East .......................            528             525
+Japan ....................................            329             456
+Asia/Pacific .............................            399             419
+                                             -------------   -------------
+  Total long-lived assets ................      $ 105,551       $ 105,321
+                                             =============   =============
+
+(1) Long-lived assets presented in the table above exclude non-current deferred
+tax assets.
+
+20. NEW ACCOUNTING PRONOUNCEMENTS
+
+    In November 2004, the FASB issued SFAS No. 151, "Inventory Costs, an
+amendment of ARB No. 43, Chapter 4" ("SFAS 151"). SFAS 151 amends the guidance
+in ARB No. 43, Chapter 4, "Inventory Pricing," to clarify the accounting for
+abnormal amounts of idle facility
+
+26
+
+LECROY CORPORATION
+            NOTES TO CONSOLIDATED FINANCIAL STATEMENTS -- (CONTINUED)
+                                   (UNAUDITED)
+
+expense, freight, handling costs, and wasted material (spoilage). Paragraph 5 of
+ARB 43, Chapter 4, previously  stated that "...under some  circumstances,  items
+such  as  idle  facility  expense,   excessive  spoilage,  double  freight,  and
+re-handling  costs may be so abnormal as to require  treatment as current period
+charges...."  SFAS 151 requires that those items be recognized as current-period
+charges  regardless  of whether  they meet the  criterion of "so  abnormal."  In
+addition, SFAS 151 requires that allocation of fixed production overheads to the
+costs  of  conversion  be  based  on  the  normal  capacity  of  the  production
+facilities.  The  provisions of SFAS 151 apply to inventory  costs  beginning in
+fiscal year 2006.  The adoption of SFAS 151 on July 3, 2005 had no impact on the
+Company's results of operations or financial condition.
+
+    In December 2004, the FASB issued SFAS No. 153, "Exchanges of Non-monetary
+Assets, an Amendment of APB Opinion No. 29" ("SFAS 153"). The guidance in APB
+Opinion No. 29, "Accounting for Non-monetary Transactions," ("APB 29") is based
+on the principle that exchanges of non-monetary assets should be measured based
+on the fair value of the assets exchanged. The guidance in APB 29, however,
+included certain exceptions to that principle. SFAS 153 amends APB 29 to
+eliminate the exception for non-monetary exchanges of similar productive assets
+and replaces it with a general exception for exchanges of non-monetary assets
+that do not have commercial substance. A non-monetary exchange has commercial
+substance if the future cash flows of the entity are expected to change
+significantly as a result of the exchange. The adoption of SFAS 153 on July 3,
+2005 did not have an impact on the Company's results of operations or financial
+condition.
+
+    In May 2005, the FASB issued SFAS No. 154, "Accounting Changes and Error
+Corrections," ("SFAS 154") which will be effective for the Company for reporting
+changes in accounting principles for correction of errors beginning fiscal year
+2007. SFAS 154 changes the reporting of a change in accounting principle to
+require retrospective application to prior periods' financial statements, unless
+explicit transition provisions are provided for in new accounting pronouncements
+or existing pronouncements that are in the transition phase when SFAS 154
+becomes effective.
+
+    In June 2005, the FASB issued FASB Staff Position ("FSP") 143-1, "Accounting
+for Electronic Equipment Waste Obligations." This FSP 143-1 addresses the
+accounting related to obligations associated with Directive 2002/96/ EC on Waste
+Electrical and Electronic Equipment (the "Directive") adopted by the European
+Union. Under the Directive, the waste management obligation for historical
+equipment (products put on the market on or prior to August 13, 2005) remains
+with the commercial user until the equipment is replaced. This FSP 143-1 is
+effective the later of the end of the first quarter of fiscal year 2006 or the
+date of adoption of the law by the applicable EU-member country. It is expected
+that the law will be adopted by certain EU countries in fiscal 2006 and that the
+Company will be required to adopt the provisions of FSP-143-1 at that time.
+Management is currently evaluating the impact of FSP 143-1. The effects will
+depend on the respective laws adopted by the EU member countries.
+
+                                       27
+
+ITEM 2.    MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+RESULTS OF OPERATIONS
+
+OVERVIEW
+
+    We were founded in 1964 to develop, manufacture and sell high performance
+signal analysis tools to scientists engaged in high-energy physics research. In
+1985 we introduced our first oscilloscope using our core competency of designing
+signal acquisition and digitizing technology.
+
+    We sell our products into a broad range of end markets, including the
+Computer/Semiconductor/Consumer Electronics, Data Storage,
+Automotive/Industrial, and Military/Aerospace markets. We believe that our
+products offer the strongest value proposition in these markets by providing
+advanced analysis capabilities coupled with innovative and proprietary
+technology features. We believe designers in all of these markets are developing
+products which rely on increasingly complex electronic signals to provide the
+features and performance their customers require. Our customers include leading
+original equipment manufacturers, such as BAE Systems, IBM, Maxtor, Raytheon,
+Robert Bosch, Seagate, Samsung and Siemens VDO.
+
+    We employ a direct sales model utilizing a highly skilled global sales force
+where it makes economic sense to do so. We supplement our direct sales force
+with a combination of manufacturers' representatives and distributors in areas
+where demand levels do not justify direct distribution. We divide the world into
+four areas - North America, Europe/Middle East, Japan and Asia/Pacific. In North
+America we primarily sell our products directly in the United States. In
+Europe/Middle East, we sell our products directly in Switzerland, Germany,
+Italy, France, the United Kingdom and Sweden. In Japan, we sell our products
+directly. In Asia/Pacific, we sell our products directly in South Korea,
+Singapore and five regions in China.
+
+    We generate revenue in a single segment within the Test and Measurement
+market, primarily from the sale of our oscilloscopes, protocol analyzers,
+probes, accessories and applications solutions. To a lesser extent, we also
+generate revenue from the sales of our extended warranty, maintenance contracts
+and repairs and calibrations on our instruments after their warranties expire.
+
+    Generally, we transact revenues and pay our operating expenses in the local
+currencies of the countries in which we have a direct distribution presence or
+other operations, with limited exceptions, most notably in China where our sales
+and operating expenses are denominated in U.S. dollars. In Europe/Middle East,
+we transact business in Euros, Swiss francs, British pounds, Swedish krona and
+U.S. dollars. In Japan, we transact business in Japanese yen. In South Korea, we
+transact business in Korean won and in Singapore, we transact business in both
+U.S. dollars and Singapore dollars. For a discussion of our foreign currency
+exchange rate exposure, see Item 3 entitled "Quantitative and Qualitative
+Disclosure About Market Risk" below.
+
+    Historically, we have, at times, experienced lower levels of demand during
+our first fiscal quarter than in other fiscal quarters which, we believe, has
+been principally due to the lower level of general market activity during the
+summer months, particularly in Europe.
+
+    Cost of revenues represents manufacturing and service costs, which primarily
+comprise materials, labor and factory overhead. Gross profits represent revenues
+less cost of revenues. Additional factors integral to gross profit earned on our
+products are mix, as the list prices of our products range from $3,000 to
+$106,000, and the effects of foreign currencies, as approximately two-thirds of
+our revenues are derived overseas, much of which is denominated in local
+currencies while product manufacturing costs are primarily U.S.
+dollar-denominated.
+
+    Selling, general and administrative expenses consist of salaries and related
+overhead costs for sales, marketing and administrative personnel as well as
+legal, accounting and other professional services.
+
+                                       28
+
+Research and development expenses consist primarily of salaries and related
+overhead costs associated with employees engaged in research, design and
+development activities, as well as the cost of masks, wafers and other materials
+and related test services and equipment used in the development process.
+
+    Our results of operations and financial condition are affected by a variety
+of factors. As discussed below, we believe the most significant recurring
+factors are the economic strength of the technology markets into which we sell
+our products, our ability to identify market demands and develop competitive
+products to meet those demands, the announcements and actions of our competitors
+and our ability to enter into new markets and broaden our presence in existing
+markets.
+
+    Our sales are largely dependent on the health and growth of technology
+companies whose operations tend to be cyclical. Consequently, demand for our
+products tends to coincide with the increase or decrease in capital spending in
+the technology industry. For example, in the late 1990s through 2001, our
+business expanded along with the prosperity of the technology markets. From
+early 2001 to 2003, demand for our products decreased along with the contraction
+of the technology industry overall. As a result, our revenues decreased 8% from
+the end of fiscal year 2000 through fiscal year 2002. Beginning in fiscal year
+2003, our revenues have significantly increased concurrently with the recovery
+of the technology industry.
+
+    We believe our ongoing strategy of quickly identifying opportunities and
+customer needs in fundamental technology markets and capitalizing on those
+opportunities through well-planned, efficient and timely key product
+introductions has also contributed to our recent increase in revenues. For
+instance, in October 2003, in anticipation of renewed but tentative capital
+spending in the technology industry, we introduced our WaveRunner 6000 family of
+oscilloscopes, a unique software platform built upon a solid hardware platform
+designed to take advantage of demand for mid-tier competitively priced, powerful
+oscilloscopes. During the third quarter of fiscal 2006, we introduced a new line
+of mid-range, high performance, WaveRunner(R) digital oscilloscopes that feature
+big, bright displays while occupying minimal space on a crowded bench.
+
+    In addition, in response to fluctuations in the technology markets we
+target, we continually assess and adopt programs aimed at positioning us for
+long-term success. These programs may include streamlining operations,
+discontinuing older and less profitable product lines, and reducing operating
+expenses from time to time. As an example, in fiscal 2005 we implemented
+restructuring and business realignment plans intended to reduce costs and more
+efficiently allocate product development resources. For a more detailed
+discussion of our restructuring efforts in fiscal 2005 see the Section entitled
+"Restructuring" below.
+
+    We face significant competition in our target markets. We believe that in
+order to continue to compete successfully, we need to timely anticipate,
+recognize and respond to changing market demands by providing products that
+serve our customers' needs as they arise at prices acceptable to the market. We
+believe that we compete favorably with our competition in each of these areas.
+Consequently, we are constantly reviewing our product development strategy and
+invest time, resources and capital in development projects we deem most likely
+to succeed.
+
+    In furtherance of our drive to meet our customers' changing demands, we also
+look outside our organization for opportunities to expand our markets.
+Accordingly, on October 29, 2004, we completed the acquisition of Computer
+Access Technology Corporation ("CATC") to complement our expanding portfolio of
+serial data test solutions. This division, Protocol Solutions Group, has grown
+significantly over the previous year and now represents about 15% of our total
+business. The acquisition of CATC is described more fully below. Also, in
+January 2006 we announced that we have entered into a memorandum of
+understanding with Iwatsu Electric Corporation to acquire a new low-end product
+line, to be launched as the WaveJet Family, that should expand our presence in
+the low-end oscilloscope market. The transaction, which is expected to cost
+between $2.0 and $3.0 million, is expected to close in the middle of the third
+quarter of fiscal 2006.
+
+                                       29
+
+CATC ACQUISITION
+
+    On October 29, 2004, we completed our acquisition of 100% of the outstanding
+common stock of CATC(the "Merger"). CATC is a provider of advanced verification
+systems for existing and emerging digital communications standards. CATC's
+products are used by semiconductor, device, system and software companies at
+each phase of their products' lifecycles from development through production and
+market deployment. CATC had approximately 70 employees at the time of the
+Merger. Through our acquisition of CATC, we expect to capitalize on the
+increasing demand for serial data test instruments, leverage our global,
+technical, direct sales force to accelerate the growth of CATC's products,
+strengthen our position in the data storage market, increase penetration into
+the computer market, expand gross profit, increase operating leverage leading to
+expanded operating profit and increase cash generation capabilities.
+
+    Total consideration paid to acquire CATC was approximately $130.0 million.
+The Merger was recorded under the purchase method of accounting, which requires
+that the total consideration be allocated to the assets acquired and liabilities
+assumed based on their fair values. On the effective date of the Merger, each
+share of CATC common stock issued and outstanding immediately prior thereto was
+canceled and converted into the right to receive $6.00 in cash. In addition, we
+paid cash to the holders of CATC's outstanding, vested, in-the-money stock
+options and employee stock purchase plan purchase rights. Further, we assumed
+CATC's outstanding unvested stock options, as well as certain vested but
+unexercised stock options, by granting to CATC employees a total of 648,284
+options to purchase LeCroy common stock (the "LeCroy Options"). The LeCroy
+Options were recorded at their fair values using the Black-Scholes option
+pricing model based on a stock price of $16.83 per share, which was the closing
+price of LeCroy common stock on October 29, 2004, less the intrinsic value of
+unvested options, which was to be charged as compensation expense to operations
+as earned by employees over their remaining vesting periods. As a result of the
+adoption of SFAS No. 123 (revised 2004), "Share-Based Payment" ("SFAS 123R"),
+which requires that the cost resulting from all share-based payment transactions
+be recognized in the financial statements at their fair values, the remaining
+unamortized deferred compensation was charged off to Additional paid-in capital
+in the Consolidated Balance Sheet in the first fiscal quarter of 2006. (See
+"Critical Accounting Policies" below). LeCroy paid cash of $80.4 million, net of
+cash acquired, using $30.4 million of cash on hand and borrowings of $50.0
+million under our $75.0 million senior, secured, five-year credit agreement
+entered into on October 29, 2004, with the lenders listed therein and The Bank
+of New York, as administrative agent for such lenders. For more information see
+Notes 2 and 15 to the Consolidated Financial Statements.
+
+RESTRUCTURING
+
+    During the second quarter of fiscal 2005, as a result of the Merger, we
+adopted a plan to restructure our organization and fine tune our product
+strategy. In connection with the adoption of this plan, we recorded a charge for
+severance and other related expenses in the second quarter of fiscal 2005 of
+$0.6 million, all recorded in selling, general and administrative expense. The
+implementation of this plan resulted in headcount reductions of six employees or
+approximately 2% of the workforce as compared to June 30, 2004. As of December
+31, 2005, $0.5 million of severance has been paid and $0.1 million remains in
+accrued expenses and other current liabilities in the Consolidated Balance
+Sheet. Severance and other related amounts under this plan will be paid by the
+end of the second quarter of fiscal 2007. Additionally, in the second quarter of
+fiscal 2005, as a result of a change in our organization stemming from the
+Merger and a subsequent change in our low to mid-range oscilloscope
+manufacturing strategy, we took a $1.5 million non-cash charge to cost of
+revenue for the impairment of a technology asset.
+
+    Finally, in the fourth quarter of fiscal 2005, we realigned some of our
+business processes and, as a result, incurred expenses of approximately $1.0
+million, consisting of $0.7 million of severance and related expenses and $0.3
+million of facility closure expenses which included lease termination costs and
+asset write-downs. As of December 31, 2005, approximately $0.7 million of
+severance has been paid and $0.2 million of facility charges have been paid in
+cash or written off and approximately $0.1 million remains in Accrued expenses
+and other current liabilities on the Consolidated Balance Sheet. The remaining
+balance is expected to be paid by the end of fiscal 2006.
+
+                                       30
+
+CRITICAL ACCOUNTING POLICIES
+
+     The preparation of our Consolidated Financial Statements in conformity with
+accounting principles generally accepted in the United States requires
+management to make estimates and assumptions that affect the reported amounts of
+assets and liabilities, revenues and expenses, and related disclosures of
+contingent assets and liabilities in the Consolidated Financial Statements and
+accompanying notes. These estimates and assumptions are based on management's
+judgment and available information and, consequently, actual results could be
+different from these estimates.
+
+     These Consolidated Financial Statements should be read in conjunction with
+the audited Consolidated Financial Statements included in the Company's Annual
+Report on Form 10-K for the fiscal year ended June 30, 2005, which include a
+description of our critical accounting policies involving significant judgment
+by LeCroy's management. In particular, judgment is used in areas such as revenue
+recognition, the allowance for doubtful accounts, allowance for excess and
+obsolete inventory, valuation of long-lived and intangible assets, valuation of
+deferred tax assets, estimation of warranty liabilities and valuation of
+goodwill.
+
+    In the first quarter of fiscal 2006, we adopted the provisions of SFAS 123R
+which requires that the cost resulting from all share-based payment transactions
+be recognized in the financial statements at their fair values. We adopted SFAS
+123R using the modified prospective application method under which the
+provisions of SFAS 123R apply to new awards and to awards modified, repurchased,
+or cancelled after the adoption date. We use the Black Scholes option pricing
+model to estimate the fair value of options on the date of grant which requires
+certain estimates by management including the expected forfeiture rate and
+expected term of the option. Management also makes decisions regarding the
+method of calculating expected volatilities and the risk free interest rate used
+in the model. Fluctuations in the market that effect these estimates could have
+an impact on the resulting compensation cost. Additionally, compensation cost
+for the portion of awards for which the requisite service has not been rendered
+that are outstanding as of the adoption date is recognized over the remaining
+service period after the adoption date. (See Note 3 to the Consolidated
+Financial Statements for additional information.) There have been no other
+changes in our critical accounting policies since June 30, 2005.
+
+CONSOLIDATED RESULTS OF OPERATIONS
+
+    The following table indicates the percentage of total revenues represented
+by each item in the Company's Consolidated Statements of Operations for the
+three-months and six-months ended December 31, 2005 and 2004.
+
+                                       31
+
+COMPARISON OF THE THREE-MONTH PERIODS ENDED DECEMBER 31, 2005 AND 2004
+
+    Total revenues were $42.0 million in the second quarter of fiscal 2006,
+compared to $42.8 million in the second quarter of fiscal 2005, a decrease of
+1.8%, or $0.8 million, in both Test and measurement products and in Services.
+Foreign currency fluctuations reduced total revenues by approximately $1.4
+million in the second quarter of fiscal 2006 compared to the same period last
+year. In Test and measurement products, offsetting the decrease from currency
+fluctuations were sales from the Protocol Solutions Group ("PSG," formally
+"CATC") which increased significantly from the prior year resulting in a net
+decrease of only 1.0% in total Test and measurement products. In addition, there
+were three months of revenue and expenses related to PSG in the second quarter
+of fiscal 2006 compared to only two months in the comparable prior year period.
+Demand for oscilloscopes remained stable in the high-end and mid-range products,
+but there was a slowing of orders at the low end of our product range in
+anticipation of impending product introductions in this market space in the
+third quarter of fiscal 2006.
+
+    Service and other revenues primarily consist of service revenues and license
+and maintenance fees. Service revenue decreased 15.9% to $2.0 million in the
+second quarter of fiscal 2006 from $2.4 million in the same period last year.
+The decrease primarily resulted from a decrease in other service revenues from
+the sale of locally provided items in our foreign operations, but was also
+impacted by the foreign currency fluctuations. In the third quarter of fiscal
+2005, based on our review and analysis of the then current classification of
+service kits, we made the decision to reclassify service kit revenue to product
+revenue from its historical classification. For the three months ended December
+31, 2004, $1.1 million of service kit revenue was reclassified as product
+revenue to conform to the fiscal 2006 presentation. Service and other revenue in
+the second quarter of both fiscal 2006 and 2005 includes $0.3 million of revenue
+that was deferred with the adoption of the SEC's Staff Accounting Bulletin No.
+101 ("SAB 101"), "Revenue Recognition in Financial Statements," as of the
+beginning of fiscal 2001.
+
+32
+
+Revenues by geographic location expressed in dollars and as a percentage of
+total revenues were:
+
+                                                    THREE MONTHS ENDED
+                                                       DECEMBER  31,
+   (IN THOUSANDS)                                       (UNAUDITED)
+                                                  -----------------------
+                                                     2005          2004
+                                                  ---------     ---------
+   North America..............................    $  14,066     $  14,125
+   Europe/Middle East.........................       14,558        14,300
+   Japan......................................        5,022         4,312
+   Asia/Pacific...............................        8,376        10,051
+                                                  ---------     ---------
+      Total revenues..........................    $  42,022     $  42,788
+                                                  =========     =========
+
+                                                        THREE MONTHS ENDED
+                                                            DECEMBER 31,
+                                                            (UNAUDITED)
+                                                      ----------------------
+                                                       2005            2004
+                                                      ------          ------
+   North America..............................          33.5%           33.0%
+   Europe/Middle East.........................          34.6            33.4
+   Japan......................................          12.0            10.1
+   Asia/Pacific...............................          19.9            23.5
+                                                      ------          ------
+      Total revenues..........................         100.0%          100.0%
+                                                      ======          ======
+
+    Gross profit in the second quarter of fiscal 2006 was $25.6 million, or
+60.9% gross margin, compared to $20.6 million, or 48.2% gross margin in the same
+period in fiscal 2005. The lower gross margin in fiscal 2005 was primarily
+attributable to Merger-related non-cash charges of $2.7 million for the
+write-down of inventory related to the changes in our long-term product support
+policy and product roadmap strategy as well as $1.5 million for the impairment
+of an intangible asset due to a change in our manufacturing strategy. In the
+second quarter of fiscal 2006 there were no similar write-downs effecting gross
+margin, however, we received a price reduction from a vendor for inventory
+purchases which positively impacted our gross margin by about 2.0%.
+
+    Selling, general and administrative ("SG&A") expense was $13.6 million in
+the second quarter of fiscal 2006 compared to $15.0 million in the second
+quarter of fiscal 2005, a decrease of 9.6% or $1.4 million. The decrease was
+mainly the result of approximately $2.2 million in personnel-related expenses
+due to lower headcount and prior year office closings, and lower legal and
+consulting expenses. These decreases were partially offset by an increase of
+$0.5 million in non-cash share-based compensation expense and $0.3 million in
+travel and other expenses. As a percentage of total revenues, SG&A expense
+decreased from 35.1% in the second quarter of fiscal 2005 to 32.3% in the second
+quarter of fiscal 2006.
+
+    Research and development ("R&D") expense was $7.8 million in the second
+quarter of fiscal 2006, compared to $8.8 million in the second quarter of fiscal
+2005, a decrease of 11.3% or $1.0 million. In the second quarter of fiscal 2005,
+R&D expense included a one-time $2.2 million write-off for acquired IPR&D in
+connection with the Merger. Excluding this charge, R&D expense increased
+approximately $1.2 million for the second quarter of fiscal 2006 over the
+comparable prior year period due to $0.9 million in higher personnel-related
+expenses resulting from the Merger and $0.3 million in non-cash share based
+compensation expense. As a percentage of total revenues, R&D expense decreased
+from 20.6% in the second quarter of fiscal 2005 to 18.6% in the second quarter
+of fiscal 2006, primarily attributable to the IPR&D write-off in fiscal 2005.
+
+    Other expense, net, which consists primarily of net interest income and
+expense and foreign exchange gains and losses, was an expense of ($0.7) million
+in the second quarter of fiscal 2006, compared to ($29,000) in the second
+quarter of fiscal 2005. Net interest expense was approximately ($0.6) million
+for both periods, but there was a foreign exchange loss of ($0.1) million in the
+second quarter of fiscal 2006 compared to a foreign exchange gain of $0.6
+million in the comparable prior year period. The net interest expense is due to
+the Term Loan outstanding under our current Credit Agreement, as well as
+interest on capital leases.
+
+                                       33
+
+Our effective tax rate was 37.9% in the second quarter of fiscal 2006
+compared to a tax benefit of (12.2%) in the second quarter of fiscal 2005 and
+35% for the full fiscal 2005. The increase in our effective tax rate from the
+full year fiscal 2005 rate is the result of certain non-deductible share-based
+compensation costs in connection with our adoption of SFAS 123R. The effective
+income tax benefit rate for the three months ended December 31, 2004 of (12.2%)
+was impacted by nondeductible purchased in-process R&D charges associated with
+the Merger.
+
+COMPARISON OF THE SIX-MONTH PERIODS ENDED DECEMBER 31, 2005 AND 2004
+
+    Total revenues were $83.1 million in the six months ended December 31, 2005,
+compared to $78.3 million in the six months ended December 31, 2004, an increase
+of 6.1% or $4.8 million. Foreign currency fluctuations reduced total revenues by
+approximately $1.1 million in the first half of fiscal 2006 compared to the same
+period last year. An increase of $5.4 million in Test and measurement products
+was partially offset by a decrease in Services of $0.6 million. The increase in
+Test and measurement products, which more than offset the decrease from foreign
+currency fluctuations, was mainly from sales from PSG purchased in the Merger,
+especially our lines of PCI Express and SAS/SATA data storage protocol
+analyzers. Also, there were six months of revenue related to PSG in fiscal 2006
+which resulted in an additional contribution to total revenue of approximately
+9.0% over the comparable prior year period that only included two months of PSG
+revenue. The demand for our oscilloscopes remained stable.
+
+    Service and other revenue decreased primarily from the sale of locally
+provided items in our foreign operations. As discussed above, in the third
+quarter of fiscal 2005, we made the decision to reclassify service kit revenue
+to product revenue from its historical classification. For the six months ended
+December 31, 2004, $2.1 million of service kit revenue was reclassified as
+product revenue to conform to the fiscal 2006 presentation. Service and other
+revenue in the first half of both fiscal 2006 and 2005 includes $0.6 million of
+revenue that was deferred with the adoption of the SEC's Staff Accounting
+Bulletin No. 101 ("SAB 101"), "Revenue Recognition in Financial Statements," as
+of the beginning of fiscal 2001.
+
+    Revenues by geographic location expressed in dollars and as a percentage of
+total revenues were:
+
+                                                 SIX MONTHS ENDED
+                                                   DECEMBER  31,
+   (IN THOUSANDS)                                   (UNAUDITED)
+                                              -----------------------
+                                                 2005          2004
+                                              ---------     ---------
+   North America..........................    $  28,392     $  24,234
+   Europe/Middle East.....................       24,994        25,130
+   Japan..................................       10,588        10,823
+   Asia/Pacific...........................       19,106        18,106
+                                              ---------     ---------
+      Total revenues......................    $  83,080     $  78,293
+                                              =========     =========
+
+                                                     SIX MONTHS ENDED
+                                                       DECEMBER 31,
+                                                        (UNAUDITED)
+                                                  ----------------------
+                                                   2005            2004
+                                                  ------          ------
+   North America..........................          34.2%           31.0%
+   Europe/Middle East.....................          30.1            32.1
+   Japan..................................          12.7            13.8
+   Asia/Pacific...........................          23.0            23.1
+                                                  ------          ------
+      Total revenues......................         100.0%          100.0%
+                                                  ======          ======
+
+    Gross margin was 60.9% in the six months ended December 31, 2005 compared to
+52.8% in the same period in fiscal 2005. As discussed above, the lower gross
+margin in fiscal 2005 was primarily attributable to Merger-related non-cash
+charges of $2.7 million for the write-down of inventory related to the changes
+in our long-term product support policy and product roadmap strategy as well as
+$1.5 million for the impairment of an intangible asset due to a change in our
+manufacturing strategy. In the six months ended December 31, 2005 there were no
+similar write-downs effecting gross margin; however, we received a price
+reduction from a vendor for inventory purchases which increased the margin on
+resulting product sales. In addition, gross margins benefited from higher PSG
+margins which increased gross margin by approximately 3.9 percentage points over
+the full six month period in fiscal 2006 as compared to 1.6 percentage points
+for the six-month period in fiscal 2005 that included only two months of PSG
+activity.
+
+                                       34
+
+SG&A expense for the six months ended December 31, 2005 was $26.8 million
+compared to $27.4 million in the six months ended December 31, 2004. The
+decrease was mainly attributable to $2.3 million in personnel-related expenses
+and prior year office closings, and lower legal and consulting expenses. These
+decreases were partially offset by an increase of $1.2 million in non-cash
+share-based compensation expense and travel expenses. As a percentage of sales,
+SG&A expense decreased from 34.9% in the six months ended December 31, 2004 to
+32.3% in the six months ended December 31, 2005. This decrease as a percentage
+of revenues was primarily due to our continued ability to leverage expenses over
+the incremental revenues.
+
+     R&D expense was $15.2 million for the six months ended December 31, 2005,
+compared to $13.5 million in the same period in fiscal 2005, an increase of
+12.5% or $1.7 million. There was approximately $3.9 million of higher expense
+primarily attributable to six months of personnel-related expenses, due to
+higher headcount, as a result of the Merger compared to only two months of
+expenses in the prior fiscal six-month period. These increases were partially
+offset by a $2.2 million charge for IPR&D included in the second fiscal quarter
+of 2005 in connection with the Merger. There is no similar charge in the fiscal
+2006 period. As a percentage of total revenues, R&D expense increased from 17.3%
+in the six months ended December 31, 2004 to 18.3% in the six months ended
+December 31, 2005, primarily attributable to the inclusion of PSG for the entire
+period.
+
+     Other expense, net, was ($1.4) million for the six months ended December
+31, 2005 compared to ($61,000) for the six months ended December 31, 2004. Other
+expense, net, for the six months ended December 31, 2005 includes six months of
+interest expense, or ($1.6) million, related to the Term Loan as compared to two
+months of interest expense in the fiscal 2005 period, or ($0.5) million.
+Interest expense for both periods also includes interest on capital lease
+agreements and, for the fiscal 2005 period only, the write-off of unamortized
+fees associated with a previous credit facility. For the six months ended
+December 31, 2005, other expense also includes a foreign exchange loss of ($0.2)
+million resulting from the changes in our foreign exchange forward contracts and
+on transactions denominated in other than their functional currencies. These
+expenses were partially offset by interest income of $0.5 million for the
+period. For the six months ended December 31, 2004, interest expense was
+partially offset by interest income of $0.3 million and by net foreign exchange
+gains of $0.5 million for the period.
+
+    Our effective tax rate was 38.1% for the six months ended December 31, 2005,
+compared to 247% for the six months ended December 31, 2004. Our effective tax
+rate for the fiscal 2006 period includes the effect of certain non-deductible
+share-based compensation costs in connection with the adoption of SFAS 123R. The
+effective tax rate for the six months ended December 31, 2004 was based on the
+estimated annual normalized projected effective tax rate of 37%, increased by
+the discrete nondeductible IPR&D charges associated with the Merger.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+    Cash and cash equivalents at December 31, 2005 were $16.1 million compared
+to $13.9 million at June 30, 2005.
+
+    We provided $8.8 million of net cash from operating activities in the six
+months ended December 31, 2005 compared to $11.5 million in the same period last
+year. The net income and cash generative effects of non-cash charges in net
+income were partially offset by $3.8 million of cash consumed by working capital
+requirements in the first half of fiscal 2006. This compared to $0.9 million of
+cash generated by working capital in the same period last year. Cash consumed by
+working capital in fiscal 2006 resulted primarily from a $1.5 million decrease
+in current liabilities, a prepaid technology engineering services agreement and
+continued strategic investments in inventory. Cash provided by operating
+activities in the fiscal 2005 period was mostly the result of the generative
+effects of non-cash charges which more than offset the net loss for the period.
+
+                                       35
+
+Net cash used in investing activities was ($1.9) million in the six months
+ended December 31, 2005 compared to ($72.2) million in the same period in fiscal
+2005. Net cash used in the fiscal 2006 period was for the purchase of property
+and equipment. Net cash used in the fiscal 2005 period was primarily due to
+$80.3 million, net of cash acquired, in the second quarter of fiscal 2005 as a
+result of the Merger and the liquidation of $9.5 million of investments to
+partially fund such acquisition (see CATC Acquisition in this Discussion and
+Analysis of Financial Condition and Results of Operations above) partially
+offset by $1.4 million in capital expenditures.
+
+    Net cash used in financing activities was ($4.6) million in the six months
+ended December 31, 2005 compared to net cash provided of $49.2 million in the
+same period in fiscal 2005. Net cash used in financing activities in the fiscal
+2006 period was mainly for re-payment of the Term Loan partially offset by
+proceeds received from the exercise of stock options and purchase of stock under
+the employee stock purchase plan. Net cash provided by financing activities in
+the fiscal 2005 period was primarily due to the borrowings under the Credit
+Agreement used in connection with the acquisition of CATC, net of the cost of
+such issuance, and employee stock-related transactions, partially offset by the
+costs of the Term Loan.
+
+    On October 29, 2004, we entered into a $75.0 million senior, secured,
+five-year credit agreement with the lenders listed therein and The Bank of New
+York, as administrative agent for such lenders (the "Credit Agreement"). The
+terms of the Credit Agreement provide us with a $50.0 million term loan (the
+"Term Loan") and a $25.0 million revolving credit facility (the "Revolver"),
+which includes a $1.0 million swing-line loan sub-facility and a $1.0 million
+letter of credit sub-facility. The borrowings by us under the Credit Agreement
+are secured by all of our assets and the assets of our domestic subsidiaries,
+and our performance thereunder is guaranteed by our domestic subsidiaries.
+Proceeds of $50.0 million under the Term Loan were used to finance the
+acquisition of CATC and pay transaction expenses related to the Merger. Proceeds
+from the Revolver may be used for general corporate purposes, including the
+financing of working capital requirements, capital expenditures and
+acquisitions. As of December 31, 2005, there were no outstanding borrowings
+against the Revolver or letter of credit sub-facility.
+
+    Borrowings under the Credit Agreement bear interest at variable rates equal
+to, at our election, (1) the higher of (a) the prime rate or (b) the federal
+funds rate plus 0.5%, plus an applicable margin of between 0.00% and 1.50% based
+on our leverage ratio, as defined in the Credit Agreement, or (2) LIBOR plus an
+applicable margin of between 1.25% and 2.75% based on our leverage ratio. In
+addition, we must pay commitment fees on unused Revolver borrowings during the
+term of the Credit Agreement at rates between 0.375% and 0.5% dependent upon our
+leverage ratio.
+
+    Under the Credit Agreement, we are required to comply with certain financial
+covenants, measured quarterly, including a minimum interest coverage ratio,
+minimum total net worth, maximum leverage ratio, minimum fixed charge coverage
+ratio and limitations on capital expenditures. As of December 31, 2005, we were
+in compliance with our financial covenants under the Credit Agreement.
+
+    Beginning March 31, 2005, outstanding borrowings of $50.0 million under the
+Term Loan were required to be repaid quarterly through October 2009, based on an
+annualized amortization rate starting at 15% in calendar year 2005 and
+increasing 250 basis points per year during the term of the Credit Agreement. As
+of December 31, 2005, we have repaid $11.2 million of the principal balance of
+this loan.
+
+    In addition to the above U.S.-based credit facilities, we maintain certain
+short-term foreign credit facilities, principally with two Japanese banks
+totaling 150.0 million yen (approximately $1.3 million as of December 31, 2005).
+No amounts were outstanding under these facilities as of December 31, 2005. Our
+Swiss subsidiary, LeCroy S.A., also has an overdraft facility totaling 1.0
+million Swiss francs (approximately $0.8 million as of December 31, 2005). As of
+December 31, 2005 and June 30, 2005, approximately 0.4 million Swiss francs were
+held against supplier obligations leaving an available balance of 0.6 million
+Swiss francs under this credit facility. These obligations to suppliers, such as
+rent and utilities, are payable under the credit facility only in the event that
+we are unable to meet our financial obligations to those suppliers.
+
+    We believe that our cash and cash equivalents on hand, cash flow generated
+by our continuing operations and our availability under our revolving credit
+lines will be sufficient to fund working capital, capital expenditures and debt
+service requirements for at least the next twelve months.
+
+                                       36
+
+CONTRACTUAL OBLIGATIONS AND OTHER COMMITMENTS
+
+    Our contractual obligations and commitments include obligations associated
+with our capital and operating leases, employee severance agreements, technology
+license agreements and our Term Loan as set forth in the table below:
+
+FORWARD-LOOKING INFORMATION
+
+    This Form 10-Q contains forward-looking statements. When used in this Form
+10-Q, the words "anticipate," "believe," "estimate," "will," "plan," "intend,"
+and "expect" and similar expressions identify forward-looking statements.
+Although we believe that our plans, intentions, and expectations reflected in
+any forward-looking statements are reasonable, these plans, intentions, or
+expectations may not be achieved. Our actual results, performance, or
+achievements could differ materially from those contemplated, expressed, or
+implied, by the forward looking statements contained in this Form 10-Q.
+Important factors that could cause actual results to differ materially from our
+forward looking statements are set forth in our 2005 Annual Report on Form 10-K
+under the heading "Risks Related to Our Business." All forward looking
+statements attributable to us or persons acting on our behalf are expressly
+qualified in their entirety by the cautionary statements set forth in this Form
+10-Q. Except as required by federal securities laws, we are under no obligation
+to update any forward looking statement, whether as a result of new information,
+future events, or otherwise.
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+    We purchase materials from suppliers and sell our products around the world
+and maintain investments in foreign subsidiaries, all denominated in a variety
+of currencies. As a consequence, we are exposed to risks from fluctuations in
+foreign currency exchange rates with respect to a number of currencies, changes
+in government policies and legal and regulatory requirements, political
+instability, transportation delays and the imposition of tariffs and export
+controls. Among the more significant potential risks to us of the relative
+fluctuations in foreign currency exchange rates is the relationship among and
+between the U.S. dollar, Euro, Swiss franc, British pound, Swedish krona,
+Japanese yen, Korean won and Singapore dollar.
+
+    We have a program of entering into foreign exchange forward contracts to
+minimize the risks associated with currency fluctuations on assets or
+liabilities denominated in other than the functional currency of us or our
+subsidiaries. It cannot be assured, however, that this program will effectively
+offset all of our foreign currency risk related to these assets or liabilities.
+These foreign exchange forward contracts do not qualify for hedge accounting in
+accordance with SFAS No. 133, "Accounting for Derivative Investments and Hedging
+Activities" ("SFAS No. 133") as amended.
+
+    Other than this program, we do not attempt to reduce our foreign currency
+exchange risks by entering into foreign currency management programs. As a
+consequence, there can be no assurance that fluctuations in foreign currency
+exchange rates in the future as a result of mismatches between local currency
+revenues and expenses, the translation of foreign currencies into the U.S.
+dollar, our financial reporting currency, or otherwise, will not adversely
+affect our results of operations. Moreover, fluctuations in exchange rates could
+affect the demand for our products.
+
+                                       37
+
+The net losses resulting from changes in the fair value of these derivatives
+and on transactions denominated in other than their functional currencies were
+$82,000 and $0.2 million for the three and six months ended December 31, 2005,
+respectively. For the three and six months ended December 31, 2004 there were
+gains of $0.6 million and $0.5 million, respectively. These amounts are included
+in Other expense, net in the Consolidated Statements of Operations and include
+gross foreign exchange contract gains of $9,000 and $57,000 for the three-and
+six months ended December 31, 2005, respectively, and $0.6 million for each of
+the three and six month periods ended December 31, 2004. At December 31, 2005
+and June 30, 2005, the notional amounts of the Company's open foreign exchange
+forward contracts, all with maturities of less than six months, were
+approximately $9.2 million and $9.8 million, respectively.
+
+     We performed a sensitivity analysis for the first half of fiscal 2006
+assuming a hypothetical 10% adverse change in foreign currency exchange rates on
+our foreign exchange forward contracts and our assets or liabilities denominated
+in other than their functional currencies. In management's opinion, a 10%
+adverse change in foreign currency exchange rates would not have a material
+effect on these instruments or, therefore, our results of operations, financial
+position or cash flows.
+
+     We are exposed to adverse changes in interest rates primarily due to our
+investment in cash and cash equivalents as well as our $75.0 million credit
+facility. Market risk is estimated as the potential change in fair value
+resulting from a hypothetical 1% adverse change in interest rates, which would
+have been immaterial to our results of operations, financial position or cash
+flows for the three and six months ended December 31, 2005. Please refer to Note
+15 - Long Term Debt and Capital Leases, for specifics related to our credit
+facility.
+
+    As required by the terms of the Credit Agreement (see Note 15 - Long Term
+Debt and Capital Leases), on January 27, 2005 we entered into a Master Agreement
+with Manufacturers & Traders Trust Co. ("M&T Bank"), the purpose of which is to
+protect against rising interest rates during the term of the Credit Agreement.
+Under the Credit Agreement we are obligated to enter into one or more interest
+rate swap agreements covering the interest payable with respect to at least 50%
+of the outstanding principal amount of the Term Loan for a period of at least
+three years. In compliance with the Master Agreement, we entered into an
+interest rate swap transaction effective January 31, 2005 and continuing through
+January 31, 2008, corresponding with the repayment terms of the Credit
+Agreement. In accordance with the interest rate swap transaction, we pay
+interest quarterly on the notional amount at a fixed annualized rate of 3.87% to
+M&T Bank, and receive interest quarterly on the same notional amount at the
+three-month LIBOR rate in effect at the beginning of each quarterly reset
+period; except for the initial period, which covered the two months ending March
+31, 2005, in which the Company received interest at a LIBOR rate of 2.64%. The
+initial notional amount was $25.0 million and resets quarterly to 50% of the
+outstanding principal balance with respect to the original amortization schedule
+as set forth in the Credit Agreement. The net interest expense incurred on the
+swap was a benefit of approximately ($8,000) during the three months ended
+December 31, 2005 and was expense of approximately $14,000 during the six months
+ended December 31, 2005. The notional amount as of December 31, 2005 and June
+30, 2005 was approximately $21.3 million and $23.1 million, respectively. The
+fair value of the interest rate swap as of December 31, 2005 is $0.3 million
+compared to $66,000 at June 30, 2005 and approximates the amount that the
+Company would have received from M&T Bank if the Company had canceled the
+transaction on each respective date. The fair value is recorded in Other
+non-current assets in the Consolidated Balance Sheet as of December 31, 2005 and
+the change in fair value of $56,000 and $0.3 million for the three and six
+months ended December 31, 2005, respectively, is recognized in Interest income
+in the Consolidated Statement of Operations. This interest rate swap does not
+qualify for hedge accounting in accordance with SFAS No. 133.
+
+38
+
+ITEM 4. CONTROLS AND PROCEDURES
+
+Evaluation of Disclosure Controls and Procedures
+
+    The Company, under the supervision and with the participation of its
+management, including the Chief Executive Officer and Chief Financial Officer,
+evaluated the effectiveness of the design and operation of the Company's
+"disclosure controls and procedures" (as defined in Rule 13a-15(e) under the
+Exchange Act) as of the end of the period covered by this report. Based on that
+evaluation, the Chief Executive Officer and the Chief Financial Officer
+concluded that the Company's disclosure controls and procedures are effective in
+recording, processing, summarizing and reporting, on a timely basis, information
+relating to the Company and the Company's consolidated subsidiaries required to
+be disclosed in the Company's reports filed or submitted under the Exchange Act.
+
+Changes in Internal Controls Over Financial Reporting
+
+    There have been no changes in the Company's internal control over financial
+reporting during the quarter ended December 31, 2005 that have materially
+affected, or are reasonably likely to materially affect, the Company's internal
+control over financial reporting.
+
+                                       39
+ 
+                              LECROY CORPORATION
+
+PART II. OTHER INFORMATION
+
+ITEM 1. LEGAL PROCEEDINGS
+
+    On January 15, 2003, LeCroy was sued by Sicom Systems ("Sicom") in the
+United States District Court for the District of Delaware for patent
+infringement of a U.S. patent relating to the graphical display of test limits.
+LeCroy answered the complaint denying infringement and asserted a counterclaim
+alleging the invalidity of the patent and that Sicom had abused the judicial
+process by bringing a baseless patent infringement claim. On July 16, 2003,
+LeCroy filed a Motion to Dismiss Sicom's case, contending that Sicom did not
+have standing to bring the litigation. On November 20, 2003, the Court granted
+LeCroy's Motion to Dismiss. On December 18, 2003, Sicom filed a Notice of Appeal
+to the United States Court of Appeals for the Federal Circuit. On December 30,
+2003, Sicom filed a new patent infringement lawsuit against LeCroy in the United
+States District Court for the District of Delaware. Tektronix and Agilent
+Technologies are also co-defendants in this new litigation. The complaint in
+this new case is essentially the same as the complaint filed by Sicom on January
+15, 2003, except that Sicom now states that it entered into an amendment to its
+license agreement with the Canadian government on December 19, 2003, and that
+Sicom now has the exclusive right to bring suit for infringement of the patent
+in the United States. On January 5, 2004, Sicom filed a Notice and Order of
+Dismissal of Appeal of its appeal to the Court of Appeals for the Federal
+Circuit and the Order was entered on the following day. In LeCroy's responsive
+pleading, LeCroy denied that it has infringed, or is infringing, the patent, and
+contends that the patent is invalid. The defendants in this case, including us,
+filed a Motion to Dismiss for lack of standing, contending that Sicom's amended
+license agreement with Canada does not cure the standing defects that caused the
+Court to dismiss the original lawsuit. The Court granted the Defendants' Motion
+on October 5, 2004, dismissing the case with prejudice. On October 28, 2004,
+Sicom filed a Notice of Appeal to the United States Court of Appeals for the
+Federal Circuit from the September 30, 2004 order granting the Company's motion
+to dismiss and the related memorandum opinion dated October 5, 2004. On October
+18, 2005 the United States Court of Appeals for the Federal Circuit affirmed the
+dismissal with prejudice. The appeal is ongoing and the outcome cannot be
+predicted. The Company intends to defend itself vigorously in this litigation.
+
+    From time to time, the Company is involved in lawsuits, claims,
+investigations and proceedings, including patent and environmental matters,
+which arise in the ordinary course of business. There are no matters pending,
+including that described above, that the Company expects to be material to its
+business, results of operations, financial condition or cash flows.
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+         Our 2005 annual meeting of stockholders was held on October 26, 2005.
+At the meeting, our stockholders approved five proposals presented to them
+pursuant to the vote totals indicated below:
+
+* Shares that reflect abstentions or "broker non-votes" are counted for purposes
+of determining whether a quorum is present for the transaction of business at
+the annual meeting but are not counted as votes on any proposals presented at
+the annual meeting.
+
+    As of October 26, 2005, Robert E. Anderson, Walter O. LeCroy, Thomas H.
+Reslewic, William G. Scheerer and Allyn C. Woodward, Jr. were members of the
+Board of Directors whose terms of office continued after the annual meeting of
+stockholders.
+
+                                       41
+
+ITEM 6. EXHIBITS
+
+The following exhibits are filed herewith or incorporated by reference to
+exhibits previously filed with the SEC.
+
+        Exhibit
+        Number                           Description
+- ------------------                     ---------------
+      2.1          Agreement and Plan of Merger,  dated as of September 1, 2004,
+                   among the Registrant,  Cobalt  Acquisition  Corporation  and
+                   Computer  Access  Technology  Corporation,  filed as Exhibit
+                   2.1 to Form  8-K  dated September 2, 2004, incorporated
+                   herein by reference.
+      3.1          Certificate of  Incorporation  of the  Registrant as of July
+                   24, 1995,  filed as Exhibit 3.1 to Form S-1 Registration
+                   Statement No. 33-95620, incorporated herein by reference.
+      3.2          Amendment to the Certificate of Designation of the Series A
+                   Convertible Redeemable Preferred Stock as of April 9, 2001,
+                   filed as Exhibit 10.37 to Form 10-Q for the quarterly period
+                   ended March 31, 2001, incorporated herein by reference.
+      3.3          By-Laws of the Registrant,  as amended, dated August 16,
+                   2000, filed as Exhibit 3.3 to Form 10-Q for the quarterly
+                   period ended September 30, 2000, incorporated herein by
+                   reference.
+      10.1         Warrant to purchase 28,571 shares of the Registrant's Common
+                   Stock, dated June 15, 2004, issued by the Registrant to
+                   Capital Ventures International, filed as Exhibit 10.52 to
+                   Form S-3 Registration Statement No. 333-1119730, incorporated
+                   herein by reference.
+      10.2         Warrant to purchase 250,000 shares of the Registrant's Common
+                   Stock, dated June 30, 1999, issued by the Registrant to
+                   certain investors named therein, filed as Exhibit 2.2 to Form
+                   S-3 Registration Statement No. 333-88239, incorporated herein
+                   by reference.
+      10.3         Credit Agreement, dated as of October 29, 2004, among the
+                   Registrant, the lenders party thereto and The Bank of New
+                   York, as Administrative Agent, filed as Exhibit 10.14 to Form
+                   8-K filed on November 2, 2004, incorporated herein by
+                   reference.
+      10.4         LeCroy  Corporation  Amended and Restated  1993 Stock
+                   Incentive  Plan filed as Exhibit 10.1 to Form S-1
+                   Registration Statement No. 33-95620, incorporated herein by
+                   reference.*
+      10.5         Amendment to LeCroy Corporation Amended and Restated 1993
+                   Stock Incentive Plan, filed as Exhibit 10.33 to Form 10-Q for
+                   the quarterly period ended September 30, 2000, incorporated
+                   herein by reference.*
+      10.6         LeCroy  Corporation  1995  Non-Employee  Director  Stock
+                   Option Plan filed as Exhibit  10.2 to Form S-1
+                   Registration Statement No. 33-95620, incorporated herein by
+                   reference.*
+      10.7         LeCroy  Corporation  1995 Employee Stock Purchase Plan,
+                   filed as Exhibit 10.3 to Form S-1  Registration
+                   Statement No. 33-95620, incorporated herein by reference.*
+      10.8         LeCroy Corporation 1998 Non-Employee Director Stock Option
+                   Plan, incorporated by reference to Appendix A to the
+                   Company's Definitive Proxy Statement filed on September 18,
+                   1998.
+      10.9         Amendment to the LeCroy Corporation 1998 Non-Employee
+                   Director Stock Option Plan, dated August 16, 2000, filed as
+                   Exhibit 10.34 to Form 10-Q for the quarterly period ended
+                   September 30, 2000, incorporated herein by reference.*
+      10.10        Amendment to the LeCroy Corporation 1998 Non-Employee
+                   Director Stock Option Plan, dated October 25, 2000, filed as
+                   Exhibit 10.35 to Form 10-Q for the quarterly period ended
+                   September 30, 2000, incorporated herein by reference.*
+      10.11        LeCroy Corporation's 2003 Stock Incentive Plan, incorporated
+                   by reference to Appendix A to the Company's Definitive Proxy
+                   Statement filed on September 26, 2003.*
+      10.12        Form of Restricted  Stock  Purchase  Agreement,  filed as
+                   Exhibit 10.41 to Form 10-K for the fiscal year
+                   ended June 30, 2002, incorporated herein by reference.*
+      10.13        LeCroy Corporation Amended and Restated 1995 Employee Stock
+                   Purchase Plan, incorporated by reference to Appendix B to the
+                   Registrant's Definitive Proxy Statement filed on September
+                   26, 2003.*
+      10.14        LeCroy Corporation's 2004 Employment Inducement Stock Plan,
+                   filed as Exhibit 10.5 to Form 8-K filed on
+                   November 2, 2004, incorporated herein by reference.*
+
+                                       42
+
+10.15        Computer Access  Technology  Corporation  Special 2000 Stock
+                   Option Plan,  filed as Exhibit 10.7 to Form 8-K filed on
+                   November 2, 2004, incorporated herein by reference.*
+      10.16        Amendments to Computer Access Technology Corporation 2000
+                   Special Stock Option Plan, filed as Exhibit 10.11 to Form 8-K
+                   filed on November 2, 2004, incorporated herein by reference.*
+      10.17        Amendment to LeCroy  Corporation  (CATC)  Special 2000 Stock
+                   Option Plan,  filed as Exhibit 10.2 to Form 8-K filed on
+                   November 19, 2004, incorporated herein by reference.*
+      10.18        Computer Access  Technology  Corporation  2000 Stock
+                   Incentive Plan,  filed as Exhibit 10.8 to Form 8-K
+                   filed on November 2, 2004, incorporated herein by reference.*
+      10.19        Amendments to Computer Access Technology Corporation 2000
+                   Stock Incentive Plan, filed as Exhibit 10.12 to Form 8-K
+                   filed on November 2, 2004, incorporated herein by reference.*
+      10.20        Amendment to LeCroy  Corporation  (CATC) 2000 Stock Incentive
+                   Plan,  filed as Exhibit 10.3 to Form 8-K  filed on November
+                   19, 2004, incorporated herein by reference.*
+      10.21        Computer Access  Technology  Corporation 1994 Stock Option
+                   Plan, filed as Exhibit 10.9 to Form 8-K filed on November 2,
+                   2004, incorporated herein by reference.*
+      10.22        Amendments to Computer Access  Technology  Corporation 1994
+                   Stock Option Plan, filed as Exhibit 10.13 to Form 8-K filed
+                   on November 2, 2004, incorporated herein by reference.*
+      10.23        Amendment to LeCroy  Corporation  (CATC) 1994 Stock Option
+                   Plan, filed as Exhibit 10.4 to Form 8-K filed on November 19,
+                   2004, incorporated herein by reference.*
+      10.24        Employee Agreement  Regarding  Inventions,  Confidentiality
+                   and  Non-Competition,  dated as of March 28, 1995,  between
+                   the  Registrant and Lutz. P. Henckels, filed as Exhibit 10.12
+                   to Form S-1  Registration Statement No. 33-95620,
+                   incorporated herein by reference.*
+      10.25        Employee Agreement  Regarding  Inventions,  Confidentiality
+                   and  Non-Competition,  dated as of March 28, 1995, between
+                   the Registrant and Walter O. LeCroy,  Jr., filed as Exhibit
+                   10.13 to Form S-1 Registration Statement No. 33-95620,
+                   incorporated herein by reference.*
+      10.26        Form of  Indemnification  Agreement, between the Registrant
+                   and each of its executive officers and directors filed as
+                   Exhibit 10.29 to Form S-1 Registration Statement
+                   No. 33-95620,  incorporated  herein by reference.*
+      10.27        Employment Agreement, dated August 13, 2001, between the
+                   Registrant and R. Scott Bausback, filed as Exhibit 10.38 to
+                   Form 10-Q for the quarterly period ended December 31, 2001,
+                   incorporated herein by reference.*
+      10.28        Separation Agreement, dated August 19, 2004, between the
+                   Registrant and R. Scott Bausback, filed as Exhibit 10.50 to
+                   Form 10-K for the fiscal year ended June 30, 2004,
+                   incorporated herein by reference.*
+      10.29        Amended and Restated Employment Agreement, dated January 18,
+                   2002, between the Registrant and Lutz P. Henckels, filed as
+                   Exhibit 10.39 to Form 10-Q for the quarterly period ended
+                   December 31, 2001, incorporated herein by reference.*
+      10.30        Amendment No. 1 to the Amended and Restated Employment
+                   Agreement, dated November 25, 2003, between the Registrant
+                   and Lutz P. Henckels, filed as Exhibit 99.1 to Form 8-K filed
+                   on December 1, 2003, incorporated by reference herein.*
+      10.31        Employment Agreement, dated January 1, 2002, between the
+                   Registrant and Thomas H. Reslewic, filed as Exhibit 10.40 to
+                   Form 10-Q for the quarterly period ended March 31, 2003,
+                   incorporated herein by reference.*
+      10.32        Amendment No. 1 to Employment Agreement, dated December 16,
+                   2002, between the Registrant and Thomas H. Reslewic, filed as
+                   Exhibit 10.43 to Form 10-Q for the quarterly period ended
+                   March 31, 2003, incorporated herein by reference.*
+      10.33        Separation Agreement, dated August 19, 2004, between the
+                   Registrant and Thomas H. Reslewic, filed as Exhibit 10.49 to
+                   Form 10-K for the fiscal year ended June 30, 2004,
+                   incorporated herein by reference.*
+      10.34        Separation Agreement, dated January 6, 2003, between the
+                   Registrant and Raymond F. Kunzmann, filed as Exhibit 10.42 to
+                   Form 10-Q for the quarterly period ended December 31, 2002,
+                   incorporated herein by reference.*
+      10.35        Form of Separation Agreement between the Registrant and
+                   certain of its executive officers, filed as Exhibit 10.51 to
+                   Form 10-K for the fiscal year ended June 30, 2004,
+                   incorporated herein by reference.*
+                                       43
+
+10.36        Employment Agreement, dated September 1, 2004 and effective
+                   October 29, 2004, between the Registrant and Carmine
+                   Napolitano, filed as Exhibit 10.1 to Form 8-K filed on
+                   November 2, 2004, incorporated herein by reference.*
+      10.37        Amendment No. 1 to Employment Agreement, dated September 30,
+                   2004 and effective October 29, 2004, between the Registrant
+                   and Carmine Napolitano, filed as Exhibit 10.2 to Form 8-K
+                   filed on November 2, 2004, incorporated herein by reference.*
+      10.38        Services Agreement, dated August 31, 2004, between Computer
+                   Access Technology Corporation and Dan Wilnai, filed as
+                   Exhibit 10.3 to Form 8-K filed on November 2, 2004,
+                   incorporated herein by reference.*
+      10.39        Employment Agreement, dated August 31, 2004, between Computer
+                   Access Technology Corporation and Peretz Tzarnotsky, filed as
+                   Exhibit 10.4 to Form 8-K filed on November 2, 2004,
+                   incorporated herein by reference.*
+      31.1         Certification by the Chief Executive Officer pursuant to Rule
+                   13a-14(a) under the Securities Exchange Act of 1934.
+      31.2         Certification by the Chief Financial Officer pursuant to Rule
+                   13a-14(a) under the Securities Exchange Act of 1934.
+      32.1         Certification by the Chief Executive Officer pursuant to
+                   18 U.S.C. Section 1350.
+      32.2         Certification by the Chief Financial Officer pursuant to
+                   18 U.S.C. Section 1350.
+
+* Indicates management contract or compensatory plan, contract or arrangement.
+
+                                       44
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+Date: February 8, 2006          LeCROY CORPORATION
+
+                                /s/ Sean B. O'Connor
+                                -----------------------------------------------
+                                   Sean B. O'Connor
+                                   Vice President and Chief Financial Officer,
+                                   Secretary and Treasurer
+
+                                       45
+
+EXHIBIT INDEX
+
+Exhibit
+        Number                            Description
+   -------------                       ----------------
+      2.1          Agreement and Plan of Merger,  dated as of September 1, 2004,
+                   among the Registrant,  Cobalt  Acquisition Corporation  and
+                   Computer  Access  Technology  Corporation, filed as Exhibit
+                   2.1 to Form 8-K dated September 2, 2004, incorporated herein
+                   by reference.
+      3.1          Certificate of  Incorporation  of the  Registrant as of July
+                   24, 1995,  filed as Exhibit 3.1 to Form S-1 Registration
+                   Statement No. 33-95620, incorporated herein by reference.
+      3.2          Amendment to the Certificate of Designation of the Series A
+                   Convertible Redeemable Preferred Stock as of April 9, 2001,
+                   filed as Exhibit 10.37 to Form 10-Q for the quarterly period
+                   ended March 31, 2001, incorporated herein by reference.
+      3.3          By-Laws of the Registrant,  as amended, dated August 16,
+                   2000, filed as Exhibit 3.3 to Form 10-Q for the quarterly
+                   period ended September 30, 2000, incorporated herein by
+                   reference.
+      10.1         Warrant to purchase 28,571 shares of the Registrant's Common
+                   Stock, dated June 15, 2004, issued by the Registrant to
+                   Capital Ventures International, filed as Exhibit 10.52 to
+                   Form S-3 Registration Statement No. 333-1119730, incorporated
+                   herein by reference.
+      10.2         Warrant to purchase 250,000 shares of the Registrant's Common
+                   Stock, dated June 30, 1999, issued by the Registrant to
+                   certain investors named therein, filed as Exhibit 2.2 to Form
+                   S-3 Registration Statement No. 333-88239, incorporated herein
+                   by reference.
+      10.3         Credit Agreement, dated as of October 29, 2004, among the
+                   Registrant, the lenders party thereto and The Bank of New
+                   York, as Administrative Agent, filed as Exhibit 10.14 to Form
+                   8-K filed on November 2, 2004, incorporated herein by
+                   reference.
+      10.4         LeCroy  Corporation  Amended and Restated  1993 Stock
+                   Incentive  Plan filed as Exhibit 10.1 to Form S-1
+                   Registration Statement No. 33-95620, incorporated herein by
+                   reference.*
+      10.5         Amendment to LeCroy Corporation Amended and Restated 1993
+                   Stock Incentive Plan, filed as Exhibit 10.33 to Form 10-Q for
+                   the quarterly period ended September 30, 2000, incorporated
+                   herein by reference.*
+      10.6         LeCroy  Corporation  1995  Non-Employee  Director  Stock
+                   Option Plan filed as Exhibit  10.2 to Form S-1
+                   Registration Statement No. 33-95620, incorporated herein by
+                   reference.*
+      10.7         LeCroy  Corporation  1995 Employee Stock Purchase Plan,
+                   filed as Exhibit 10.3 to Form S-1  Registration
+                   Statement No. 33-95620, incorporated herein by reference.*
+      10.8         LeCroy Corporation 1998 Non-Employee Director Stock Option
+                   Plan, incorporated by reference to Appendix A to the
+                   Company's Definitive Proxy Statement filed on September 18,
+                   1998.
+      10.9         Amendment to the LeCroy Corporation 1998 Non-Employee
+                   Director Stock Option Plan, dated August 16, 2000, filed as
+                   Exhibit 10.34 to Form 10-Q for the quarterly period ended
+                   September 30, 2000, incorporated herein by reference.*
+      10.10        Amendment to the LeCroy Corporation 1998 Non-Employee
+                   Director Stock Option Plan, dated October 25, 2000, filed as
+                   Exhibit 10.35 to Form 10-Q for the quarterly period ended
+                   September 30, 2000, incorporated herein by reference.*
+      10.11        LeCroy Corporation's 2003 Stock Incentive Plan, incorporated
+                   by reference to Appendix A to the Company's Definitive Proxy
+                   Statement filed on September 26, 2003.*
+      10.12        Form of Restricted  Stock  Purchase  Agreement,  filed as
+                   Exhibit 10.41 to Form 10-K for the fiscal year
+                   ended June 30, 2002, incorporated herein by reference.*
+      10.13        LeCroy Corporation Amended and Restated 1995 Employee Stock
+                   Purchase Plan, incorporated by reference to Appendix B to the
+                   Registrant's Definitive Proxy Statement filed on September
+                   26, 2003.*
+      10.14        LeCroy  Corporation's 2004 Employment  Inducement Stock Plan,
+                   filed as Exhibit 10.5 to Form 8-K filed on November 2, 2004,
+                   incorporated herein by reference.*
+      10.15        Computer Access  Technology  Corporation  Special 2000 Stock
+                   Option Plan,  filed as Exhibit 10.7 to Form 8-K filed on
+                   November 2, 2004, incorporated herein by reference.*
+
+                                       46
+
+10.16        Amendments to Computer Access Technology Corporation 2000
+                   Special Stock Option Plan, filed as Exhibit 10.11 to Form 8-K
+                   filed on November 2, 2004, incorporated herein by reference.*
+      10.17        Amendment to LeCroy  Corporation  (CATC)  Special 2000 Stock
+                   Option Plan,  filed as Exhibit 10.2 to Form 8-K filed on
+                   November 19, 2004, incorporated herein by reference.*
+      10.18        Computer Access  Technology  Corporation  2000 Stock
+                   Incentive Plan,  filed as Exhibit 10.8 to Form 8-K
+                   filed on November 2, 2004, incorporated herein by reference.*
+      10.19        Amendments to Computer Access Technology Corporation 2000
+                   Stock Incentive Plan, filed as Exhibit 10.12 to Form 8-K
+                   filed on November 2, 2004, incorporated herein by reference.*
+      10.20        Amendment to LeCroy  Corporation  (CATC) 2000 Stock
+                   Incentive  Plan,  filed as Exhibit 10.3 to Form 8-K
+                   filed on November 19, 2004, incorporated herein by
+                   reference.*
+      10.21        Computer Access  Technology  Corporation 1994 Stock Option
+                   Plan, filed as Exhibit 10.9 to Form 8-K filed on November 2,
+                   2004, incorporated herein by reference.*
+      10.22        Amendments to Computer Access  Technology  Corporation 1994
+                   Stock Option Plan, filed as Exhibit 10.13 to Form 8-K filed
+                   on November 2, 2004, incorporated herein by reference.*
+      10.23        Amendment to LeCroy  Corporation  (CATC) 1994 Stock Option
+                   Plan, filed as Exhibit 10.4 to Form 8-K filed on November
+                   19, 2004, incorporated herein by reference.*
+      10.24        Employee Agreement  Regarding  Inventions,  Confidentiality
+                   and  Non-Competition,  dated as of March 28, 1995,  between
+                   the  Registrant and Lutz. P.  Henckels,  filed as Exhibit
+                   10.12 to Form S-1  Registration Statement No. 33-95620,
+                   incorporated herein by reference.*
+      10.25        Employee Agreement  Regarding  Inventions,  Confidentiality
+                   and  Non-Competition,  dated as of March 28, 1995, between
+                   the Registrant and Walter O. LeCroy,  Jr., filed as Exhibit
+                   10.13 to Form S-1 Registration Statement No. 33-95620,
+                   incorporated herein by reference.*
+      10.26        Form of  Indemnification  Agreement, between the Registrant
+                   and each of its executive officers and directors filed as
+                   Exhibit 10.29 to Form S-1 Registration  Statement
+                   No. 33-95620,  incorporated  herein by reference.*
+      10.27        Employment Agreement, dated August 13, 2001, between the
+                   Registrant and R. Scott Bausback, filed as Exhibit 10.38 to
+                   Form 10-Q for the quarterly period ended December 31, 2001,
+                   incorporated herein by reference.*
+      10.28        Separation Agreement, dated August 19, 2004, between the
+                   Registrant and R. Scott Bausback, filed as Exhibit 10.50 to
+                   Form 10-K for the fiscal year ended June 30, 2004,
+                   incorporated herein by reference.*
+      10.29        Amended and Restated Employment Agreement, dated January 18,
+                   2002, between the Registrant and Lutz P. Henckels, filed as
+                   Exhibit 10.39 to Form 10-Q for the quarterly period ended
+                   December 31, 2001, incorporated herein by reference.*
+      10.30        Amendment No. 1 to the Amended and Restated Employment
+                   Agreement, dated November 25, 2003, between the Registrant
+                   and Lutz P. Henckels, filed as Exhibit 99.1 to Form 8-K filed
+                   on December 1, 2003, incorporated by reference herein.*
+      10.31        Employment Agreement, dated January 1, 2002, between the
+                   Registrant and Thomas H. Reslewic, filed as Exhibit 10.40 to
+                   Form 10-Q for the quarterly period ended March 31, 2003,
+                   incorporated herein by reference.*
+      10.32        Amendment No. 1 to Employment Agreement, dated December 16,
+                   2002, between the Registrant and Thomas H. Reslewic, filed as
+                   Exhibit 10.43 to Form 10-Q for the quarterly period ended
+                   March 31, 2003, incorporated herein by reference.*
+      10.33        Separation Agreement, dated August 19, 2004, between the
+                   Registrant and Thomas H. Reslewic, filed as Exhibit 10.49 to
+                   Form 10-K for the fiscal year ended June 30, 2004,
+                   incorporated herein by reference.*
+      10.34        Separation Agreement, dated January 6, 2003, between the
+                   Registrant and Raymond F. Kunzmann, filed as Exhibit 10.42 to
+                   Form 10-Q for the quarterly period ended December 31, 2002,
+                   incorporated herein by reference.*
+      10.35        Form of Separation Agreement between the Registrant and
+                   certain of its executive officers, filed as Exhibit 10.51 to
+                   Form 10-K for the fiscal year ended June 30, 2004,
+                   incorporated herein by reference.*
+      10.36        Employment Agreement, dated September 1, 2004 and effective
+                   October 29, 2004, between the Registrant and Carmine
+                   Napolitano, filed as Exhibit 10.1 to Form 8-K filed on
+                   November 2, 2004, incorporated herein by reference.*
+
+                                       47
+
+10.37        Amendment No. 1 to Employment Agreement, dated September 30,
+                   2004 and effective October 29, 2004, between the Registrant
+                   and Carmine Napolitano, filed as Exhibit 10.2 to Form 8-K
+                   filed on November 2, 2004, incorporated herein by reference.*
+      10.38        Services Agreement, dated August 31, 2004, between Computer
+                   Access Technology Corporation and Dan Wilnai, filed as
+                   Exhibit 10.3 to Form 8-K filed on November 2, 2004,
+                   incorporated herein by reference.*
+      10.39        Employment Agreement, dated August 31, 2004, between Computer
+                   Access Technology Corporation and Peretz Tzarnotsky, filed as
+                   Exhibit 10.4 to Form 8-K filed on November 2, 2004,
+                   incorporated herein by reference.*
+      31.1         Certification by the Chief Executive Officer pursuant to Rule
+                   13a-14(a) under the Securities Exchange Act of 1934.
+      31.2         Certification by the Chief Financial Officer pursuant to Rule
+                   13a-14(a) under the Securities Exchange Act of 1934.
+      32.1         Certification by the Chief Executive Officer pursuant to
+                   18 U.S.C. Section 1350.
+      32.2         Certification by the Chief Financial Officer pursuant to
+                   18 U.S.C. Section 1350.
+
+* Indicates management contract or compensatory plan, contract or arrangement.
+
+                                       48
+
+<EX-31>
+ 2
+ s11-6037_ex311.txt
+ EXHIBIT 31.1
+ 
+                                                                   EXHIBIT 31.1
+
+  CERTIFICATION PURSUANT TO RULE 13A-14 OF THE SECURITIES EXCHANGE ACT OF 1934,
+      AS ADOPTED PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002
+
+I, Thomas H. Reslewic, Chief Executive Officer, certify that:
+
+   1.  I have reviewed this quarterly report on Form 10-Q of LeCroy Corporation;
+
+   2.  Based on my knowledge, this report does not contain any untrue statement
+       of a material fact or omit to state a material fact necessary to make the
+       statements made, in light of the circumstances under which such
+       statements were made, not misleading with respect to the period covered
+       by this report;
+
+   3.  Based on my knowledge, the financial statements, and other financial
+       information included in this report, fairly present in all material
+       respects the financial condition, results of operations and cash flows of
+       the registrant as of, and for, the periods presented in this report;
+
+   4.  The registrant's other certifying officer(s) and I are responsible for
+       establishing and maintaining disclosure controls and procedures (as
+       defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal
+       control over financial reporting (as defined in Exchange Act Rules
+       13a-15(f) and 15d-15(f)) for the registrant and have:
+
+          a.  Designed such disclosure controls and procedures, or caused such
+              disclosure controls and procedures to be designed under our
+              supervision, to ensure that material information relating to the
+              registrant, including its consolidated subsidiaries, is made known
+              to us by others within those entities, particularly during the
+              period in which this report is being prepared;
+
+          b.  Designed such internal control over financial reporting, or caused
+              such internal control over financial reporting to be designed
+              under our supervision, to provide reasonable assurance regarding
+              the reliability of financial reporting and the preparation of
+              financial statements for external purposes in accordance with
+              generally accepted accounting principles;
+
+          c.  Evaluated the effectiveness of the registrant's disclosure
+              controls and procedures and presented in this report our
+              conclusions about the effectiveness of the disclosure controls and
+              procedures, as of the end of the period covered by this report
+              based on such evaluation; and
+
+          d.  Disclosed in this report any change in the registrant's internal
+              control over financial reporting that occurred during the
+              registrant's most recent fiscal quarter (the registrant's fourth
+              fiscal quarter in the case of an annual report) that has
+              materially affected, or is reasonably likely to materially affect,
+              the registrant's internal control over financial reporting; and
+
+   5.  The registrant's other certifying officer(s) and I have disclosed, based
+       on our most recent evaluation of internal control over financial
+       reporting, to the registrant's auditors and the audit committee of the
+       registrant's board of directors (or persons performing the equivalent
+       functions):
+
+          a.  All significant deficiencies and material weaknesses in the design
+              or operation of internal control over financial reporting which
+              are reasonably likely to adversely affect the registrant's ability
+              to record, process, summarize and report financial information;
+              and
+
+          b.  Any fraud, whether or not material, that involves management or
+              other employees who have a significant role in the registrant's
+              internal control over financial reporting.
+
+         Date: February 8, 2006
+
+                                                  /s/ Thomas H. Reslewic
+                                                  ------------------------
+                                                        Thomas H. Reslewic
+                                                   Chief Executive Officer
+
+</EX-31>
+
+<EX-31>
+ 3
+ s11-6037_ex312.txt
+ EXHIBIT 31.2
+
+EXHIBIT 31.2
+
+  CERTIFICATION PURSUANT TO RULE 13A-14 OF THE SECURITIES EXCHANGE ACT OF 1934,
+      AS ADOPTED PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002
+
+I, Sean B. O'Connor, Chief Financial Officer, certify that:
+
+   1.  I have reviewed this quarterly report on Form 10-Q of LeCroy
+       Corporation;
+
+   2.  Based on my knowledge, this report does not contain any untrue statement
+       of a material fact or omit to state a material fact necessary to make the
+       statements made, in light of the circumstances under which such
+       statements were made, not misleading with respect to the period covered
+       by this report;
+
+   3.  Based on my knowledge, the financial statements, and other financial
+       information included in this report, fairly present in all material
+       respects the financial condition, results of operations and cash flows of
+       the registrant as of, and for, the periods presented in this report;
+
+   4.  The registrant's other certifying officer(s) and I are responsible for
+       establishing and maintaining disclosure controls and procedures (as
+       defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal
+       control over financial reporting (as defined in Exchange Act Rules
+       13a-15(f) and 15d-15(f)) for the registrant and have:
+
+          a.  Designed such disclosure controls and procedures, or caused such
+              disclosure controls and procedures to be designed under our
+              supervision, to ensure that material information relating to the
+              registrant, including its consolidated subsidiaries, is made known
+              to us by others within those entities, particularly during the
+              period in which this report is being prepared;
+
+          b.  Designed such internal control over financial reporting, or caused
+              such internal control over financial reporting to be designed
+              under our supervision, to provide reasonable assurance regarding
+              the reliability of financial reporting and the preparation of
+              financial statements for external purposes in accordance with
+              generally accepted accounting principles;
+
+          c.  Evaluated the effectiveness of the registrant's disclosure
+              controls and procedures and presented in this report our
+              conclusions about the effectiveness of the disclosure controls and
+              procedures, as of the end of the period covered by this report
+              based on such evaluation; and
+
+          d.  Disclosed in this report any change in the registrant's internal
+              control over financial reporting that occurred during the
+              registrant's most recent fiscal quarter (the registrant's fourth
+              fiscal quarter in the case of an annual report) that has
+              materially affected, or is reasonably likely to materially affect,
+              the registrant's internal control over financial reporting; and
+
+   5.  The registrant's other certifying officer(s) and I have disclosed, based
+       on our most recent evaluation of internal control over financial
+       reporting, to the registrant's auditors and the audit committee of the
+       registrant's board of directors (or persons performing the equivalent
+       functions):
+
+          a.  All significant deficiencies and material weaknesses in the design
+              or operation of internal control over financial reporting which
+              are reasonably likely to adversely affect the registrant's ability
+              to record, process, summarize and report financial information;
+              and
+
+          b.  Any fraud, whether or not material, that involves management or
+              other employees who have a significant role in the registrant's
+              internal control over financial reporting.
+
+         Date: February 8, 2006
+
+                                                   /s/ Sean B. O'Connor
+                                                -----------------------
+                                                       Sean B. O'Connor
+                                                Chief Financial Officer
+
+</EX-31>
+
+<EX-32>
+ 4
+ s11-6037_ex321.txt
+ EXHIBIT 32.1
+ 
+                                                                  EXHIBIT 32.1
+
+CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT
+                TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Quarterly Report of LeCroy Corporation (the "Company") on
+Form 10-Q for the quarter ended December 31, 2005 as filed with the Securities
+and Exchange Commission (the "Report"), I, Thomas H. Reslewic, Chief Executive
+Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted
+pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that, to my
+knowledge:
+
+         (1)      The Form 10-Q fully complies with the requirements of Section
+                  13(a) or 15(d) of the Securities  Exchange Act of 1934;
+                  and
+
+         (2)      The information contained in the Form 10-Q fairly presents, in
+                  all material respects, the financial condition and result of
+                  operations of the Company.
+
+Date: February 8, 2006
+                                                  /s/ Thomas H. Reslewic
+                                                  ---------------------------
+                                                  Thomas H. Reslewic
+                                                  Chief Executive Officer
+
+A signed original of this written statement required by Section 906 has been
+provided to the Company and will be retained by the Company and furnished to the
+Securities and Exchange Commission or its staff upon request.
+
+</EX-32>
+
+<EX-32>
+ 5
+ s11-6037_ex322.txt
+ EXHIBIT 32.2
+
+EXHIBIT 32.2
+
+CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT
+                TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Quarterly Report of LeCroy Corporation (the "Company") on
+Form 10-Q for the quarter ended December 31, 2005 as filed with the Securities
+and Exchange Commission (the "Report"), I, Sean B. O'Connor, Chief Financial
+Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted
+pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that, to my
+knowledge:
+
+(1)      The Form 10-Q fully complies with the requirements of Section
+                  13(a) or 15(d) of the Securities  Exchange Act of 1934; and
+
+         (2)      The information contained in the Form 10-Q fairly presents, in
+                  all material respects, the financial condition and result of
+                  operations of the Company.
+
+Date: February 8, 2006
+                                                  /s/ Sean B. O'Connor
+                                                  ---------------------------
+                                                  Sean B. O'Connor
+                                                  Chief Financial Officer
+
+A signed original of this written statement required by Section 906 has been
+provided to the Company and will be retained by the Company and furnished to the
+Securities and Exchange Commission or its staff upon request.
+
+</EX-32>
+

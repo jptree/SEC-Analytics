@@ -1,0 +1,1483 @@
+<Header>
+<FileStats>
+    <FileName>20060228_10-Q_edgar_data_901116_0000950137-06-002317_1.txt</FileName>
+    <GrossFileSize>103543</GrossFileSize>
+    <NetFileSize>76010</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>450</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>13</N_Tables>
+    <N_Exhibits>3</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000950137-06-002317.hdr.sgml : 20060228
+<ACCEPTANCE-DATETIME>20060228092745
+ACCESSION NUMBER:		0000950137-06-002317
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20060114
+FILED AS OF DATE:		20060228
+DATE AS OF CHANGE:		20060228
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			LPA HOLDING CORP
+		CENTRAL INDEX KEY:			0001062774
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-CHILD DAY CARE SERVICES [8351]
+		IRS NUMBER:				481144353
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-56239-01
+		FILM NUMBER:		06648761
+
+	BUSINESS ADDRESS:	
+		STREET 1:		130 S. JEFFERSON ST.
+		STREET 2:		SUITE 300
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60661
+		BUSINESS PHONE:		3127981200
+
+	MAIL ADDRESS:	
+		STREET 1:		130 S. JEFFERSON ST.
+		STREET 2:		SUITE 300
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60661
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			LA PETITE ACADEMY INC
+		CENTRAL INDEX KEY:			0000901116
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-CHILD DAY CARE SERVICES [8351]
+		IRS NUMBER:				431243221
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0630
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	033-61236
+		FILM NUMBER:		06648762
+
+	BUSINESS ADDRESS:	
+		STREET 1:		130 S. JEFFERSON ST.
+		STREET 2:		STE 300
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60661
+		BUSINESS PHONE:		3127981200
+
+	MAIL ADDRESS:	
+		STREET 1:		130 S. JEFFERSON ST.
+		STREET 2:		SUITE 300
+		CITY:			CHICAGO
+		STATE:			IL
+		ZIP:			60661
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	LA PETITE HOLDINGS CORP
+		DATE OF NAME CHANGE:	19930419
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Iiz6yAxFJ5954eRVa1AaJk9mR9aCs33DNKzENSKMOzy9lMjmiq3Pjp5Zh+hNV18n
+ q2ZCemzu/iLGodzowrN7Tw==
+
+ 0000950137-06-002317.txt : 20060228
+
+10-Q
+ 1
+ c02879e10vq.txt
+ QUARTERLY REPORT
+
+UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                              WASHINGTON, DC 20549
+
+                                    FORM 10-Q
+
+[X]  QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+     ACT OF 1934
+
+For the quarterly period ended January 14, 2006
+
+                                       OR
+
+[ ]  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+     EXCHANGE ACT OF 1934
+
+For the transition period from ____________ to ____________
+
+                        Commission File No. 333-56239-01
+
+                                LPA HOLDING CORP.
+             (exact name of registrant as specified in its charter)
+
+                       SEE TABLE OF ADDITIONAL REGISTRANTS
+
+DELAWARE                                     48-1144353
+(State or other jurisdiction of             (IRS employer identification number)
+ incorporation or organization)
+
+130 SOUTH JEFFERSON STREET, SUITE 300
+                                CHICAGO, IL 60661
+              (Address of principal executive office and zip code)
+
+                                 (312) 798-1200
+              (Registrant's telephone number, including area code)
+
+Indicate by check mark whether the registrant: (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.
+
+Yes [X] No [ ]
+
+Indicate by check mark whether the registrant is a large accelerated filer, an
+accelerated filer, or a non-accelerated filer. See definition of "accelerated
+filer and large accelerated filer" in Rule 12b-2 of the Exchange Act. (Check
+one):
+
+Large accelerated filer [ ]   Accelerated filer [ ]   Non-accelerated filer [X]
+
+Indicate by check mark whether the registrant is a shell company (as defined in
+Rule 12b-2 of the Exchange Act).
+
+Yes [ ] No [X]
+
+As of February 28 2006, LPA Holding Corp. had outstanding 773,403 shares of
+Class A Common Stock (par value, $.01 per share) and 20,000 shares of Class B
+Common Stock (par value, $.01 per share). As of February 28 2006, the additional
+registrant had the number of outstanding shares, shown on the following table.
+
+ADDITIONAL REGISTRANTS
+
+-2-
+
+LPA HOLDING CORP. AND SUBSIDIARIES
+
+INDEX
+
+PAGE
+                                                                           -----
+                                                                          
+PART I. FINANCIAL INFORMATION
+ITEM 1.  FINANCIAL STATEMENTS (UNAUDITED):
+   Condensed Consolidated Balance Sheets                                     4-5
+   Condensed Consolidated Statements of Operations and Comprehensive
+      Income (Loss)                                                            6
+   Condensed Consolidated Statements of Cash Flows                             7
+   Notes to Condensed Consolidated Financial Statements                     8-13
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+   AND RESULTS OF OPERATIONS                                               14-21
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK            21
+ITEM 4. CONTROLS AND PROCEDURES                                               22
+
+PART II. OTHER INFORMATION
+ITEM 1. LEGAL PROCEEDINGS                                                     23
+ITEM 6. EXHIBITS                                                              23
+SIGNATURES                                                                 24-25
+
+-3-
+
+PART I - FINANCIAL INFORMATION
+ITEM 1. FINANCIAL STATEMENTS
+
+LPA HOLDING CORP. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED BALANCE SHEETS (UNAUDITED)
+(IN THOUSANDS OF DOLLARS, EXCEPT SHARE AND PER SHARE DATA)
+
+(continued)
+
+-4-
+
+LPA HOLDING CORP. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED BALANCE SHEETS (UNAUDITED)
+(IN THOUSANDS OF DOLLARS, EXCEPT SHARE AND PER SHARE DATA)
+
+See notes to consolidated financial statements.
+
+-5-
+
+LPA HOLDING CORP. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+AND COMPREHENSIVE INCOME (LOSS) (UNAUDITED)
+(IN THOUSANDS OF DOLLARS)
+
+See notes to consolidated financial statements.
+
+-6-
+
+LPA HOLDING CORP. AND SUBSIDIARIES
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (UNAUDITED)
+(IN THOUSANDS OF DOLLARS)
+
+See notes to consolidated financial statements.
+
+-7-
+
+LPA HOLDING CORP. AND SUBSIDIARIES
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+
+1.   ORGANIZATION
+
+     The condensed consolidated financial statements presented herein include
+     LPA Holding Corp. (Parent), and its wholly owned subsidiary, La Petite
+     Academy, Inc. (La Petite), and La Petite's wholly owned subsidiaries:
+     Bright Start Inc. (Bright Start), and LPA Services, Inc. (Services).
+     Parent, consolidated with La Petite, Bright Start and Services, is referred
+     to herein as the "Company".
+
+     On March 17, 1998, LPA Investment LLC (LPA), a Delaware limited liability
+     company, and Parent entered into an Agreement and Plan of Merger pursuant
+     to which a wholly owned subsidiary of LPA was merged into Parent (the
+     Recapitalization). LPA is the direct parent company of Parent and an
+     indirect parent of La Petite. LPA is owned by an affiliate of J.P. Morgan
+     Partners, LLC (JPMP), by an entity controlled by Robert E. King, and by
+     senior management of the Company.
+
+     The Company offers educational, developmental and child care programs that
+     are available on a full-time or part-time basis, for children between six
+     weeks and twelve years old. The Company's schools are located in 36 states
+     and the District of Columbia, primarily in the southern, Atlantic coastal,
+     mid-western and western regions of the United States.
+
+     As of January 14, 2006, the Company operated 650 schools, including 591
+     residential academies, 30 employer-based schools and 29 Montessori schools.
+     For the 28 weeks ended January 14, 2006, the Company had an average
+     attendance of approximately 64,240 full and part-time children.
+
+2.   SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+     BASIS OF PRESENTATION - In the opinion of management, the accompanying
+     unaudited condensed consolidated interim financial statements include all
+     adjustments (consisting solely of normal and recurring adjustments)
+     necessary for their fair presentation in conformity with accounting
+     principles generally accepted in the United States of America (GAAP). The
+     results for the interim periods ended January 14, 2006 and January 15, 2005
+     are not necessarily indicative of the results to be expected for the entire
+     fiscal year.
+
+     Certain information normally included in financial statements prepared in
+     accordance with GAAP has been condensed or omitted. These financial
+     statements should be read in conjunction with the consolidated financial
+     statements and the notes thereto included in the Company's Form 10-K for
+     the fiscal year ended July 2, 2005.
+
+     The preparation of financial statements in conformity with GAAP requires
+     management to make estimates and assumptions that affect the reported
+     amounts of assets and liabilities and disclosure of contingent assets and
+     liabilities at the date of the financial statements and the reported
+     amounts of revenues and expenses during the reporting period. Actual
+     results could differ from those estimates.
+
+     The Company has a working capital and stockholders' deficit as of January
+     14, 2006 and has experienced losses before income taxes over each of the
+     past three fiscal years. The Company required equity investments by LPA and
+     other electing stockholders of $0.8 million, $5.0 million and $1.0 million
+     in fiscal years 2003, 2004 and 2005, respectively, to enable it to meet its
+     financial obligations as they came due and provide adequate liquidity to
+     operate the business. The last equity investment was made in December 2004
+     and the company has not required any equity investments since then.
+
+     Management has implemented a series of measures to improve the Company's
+     operating results and cash flow. These actions included decreased
+     discretionary expense spending and greater realization of revenue resulting
+     from increased facility utilization and from increased controls over the
+     use of tuition discounts and coupons. As a result of these and other
+     actions, revenue and operating income for the 28 weeks ended January 14,
+     2006, are up 8.6% and 50% respectively. Management believes that these
+     efforts, coupled with (i) the remaining $7.7 million of equity commitment,
+     as of January 14, 2006, provided by LPA and certain of the other
+     stockholders of Parent, (ii) the available funds under the Revolving Credit
+     Facility of $6.0 million, (iii) the extension of the final
+
+-8-
+
+maturity date of the Credit Agreement to November 2007 and (iv) revision of
+     certain existing financial covenant targets and establishment of new
+     targets for the extended period of the Credit Agreement, will enable the
+     Company to comply with its required financial covenants, meet its
+     obligations as they come due and provide adequate liquidity to operate the
+     business for the next twelve months. However, there can be no assurance in
+     this regard, nor can there be any assurance that the Company can obtain
+     additional funding from LPA beyond that as noted above or from any other
+     external source.
+
+     DEPRECIATION ADJUSTMENT - In connection with the preparation of the first
+     quarter 2006 fiscal year financial statements, the Company determined that
+     it had understated depreciation expense related to certain real property
+     that was owned on leased land. The cumulative impact of the depreciation
+     error in the 1st quarter was $0.8 million. The impact of the error is
+     immaterial to any individual prior year's financial statements. The Company
+     does not believe the correction of this error will be material to the 2006
+     fiscal year annual financial statements. Accordingly, depreciation for the
+     28 weeks ended January 14, 2006 includes the $0.8 million correction.
+
+     FISCAL YEAR END - The Company's fiscal year ends on the Saturday closest to
+     June 30 and is composed of 13 four-week periods. The first quarter contains
+     four such periods or 16 weeks and each remaining quarter contains 3 periods
+     or 12 weeks. Unless otherwise noted, references in this report relate to
+     fiscal years rather than calendar years.
+
+     RECENTLY ISSUED ACCOUNTING PRONOUNCEMENTS -In December 2004, the Financial
+     Accounting Standards Board (FASB) issued SFAS No. 123 (R), Share-Based
+     Payment. The Statement requires that the compensation cost relating to
+     share-based payment transactions be recognized in the financial statements.
+     That cost will be measured based on the fair value of the equity or
+     liability instruments issued. The Company adopted the provisions of
+     Statement 123 (R) on July 3, 2005. The Company adopted Statement 123 (R)
+     using a modified prospective application, as permitted under Statement 123
+     (R). Accordingly, prior period amounts have not been restated. Under this
+     application, the Company is required to record compensation expense for all
+     awards granted after the date of adoption and for the unvested portion of
+     previously granted awards that remain outstanding at the date of adoption.
+     See Note 8 for additional information regarding the adoption of Statement
+     123 (R).
+
+     In December 2004, the FASB issued SFAS No. 153, Exchanges of Nonmonetary
+     Assets, an amendment of APB Opinion No. 29, Accounting for Nonmonetary
+     Transactions. The amendments made by Statement No. 153 are based on the
+     principle that exchanges of nonmonetary assets should be measured based on
+     the fair value of assets exchanged. Further, the amendments eliminate the
+     narrow exception for nonmonetary exchanges of similar productive assets and
+     replace it with a broader exception for exchanges of nonmonetary assets
+     that do not have commercial substance. The Statement is effective for
+     nonmonetary asset exchanges occurring in the fiscal periods beginning after
+     June 15, 2005. The Company adopted the provisions of Statement No. 153 on
+     July 3, 2005.
+
+     In March 2005, the Financial Accounting Standards Board (FASB) issued FASB
+     Interpretation No. 47, "Accounting for Conditional Asset Retirement
+     Obligations", to clarify certain provisions of FASB Statement No. 143,
+     "Accounting for Asset Retirement Obligations." Interpretation No. 47
+     specifies that the term "conditional asset retirement obligation" includes
+     an entity's legal obligation to perform an asset retirement activity for
+     which the timing and (or) method of settlement are conditional on a future
+     event that may or may not be in the control of the entity. This
+     interpretation provides that an entity is required to recognize a liability
+     for a conditional asset retirement obligation if the fair value of the
+     obligation can be reasonably estimated. Interpretation No. 47 is effective
+     no later than the end of fiscal years ending after December 15, 2005. The
+     Company is in the process of assessing the impact of adoption on the
+     company's financial position and results of operations.
+
+3.   OTHER ASSETS
+
+     Short and long term insurance deposits represent cash held by insurance
+     carriers as security for the self-insured portion of the Company's workers
+     compensation, general liability and automobile insurance coverage.
+
+-9-
+
+Other non-current assets consist of the following (in thousands of dollars):
+
+(a)  Other includes the unamortized portion of losses on sale-leasebacks,
+     utility deposits, goodwill, and properties held for sale, which are valued
+     at fair value less cost to sell.
+
+4.   LONG-TERM DEBT AND CAPITAL LEASE OBLIGATIONS
+
+     Long term debt and capital lease obligations consists of the following (in
+     thousands of dollars):
+
+On December 6, 2004, the Company entered into Amendment No. 7 to the Credit
+     Agreement, effective as of November 30, 2004. Pursuant to the amendment to
+     the Credit Agreement, the final maturity of the Credit Agreement was
+     extended from May 11, 2006 to November 15, 2007. Payments due under the
+     amortization schedule for the term loan are $0.2 million in the remainder
+     of fiscal year 2006, $0.4 million in fiscal year 2007 and $31.6 million in
+     fiscal year 2008. The term loan is also subject to mandatory prepayment in
+     the event of certain equity or debt issuances or asset sales by the Company
+     or any of its subsidiaries and in amounts equal to specified percentages of
+     excess cash flow (as defined). The amendment also (i) revised certain
+     existing financial covenant targets required to be maintained by the
+     Company and set new targets for the extended period of the Credit
+     Agreement; (ii) deleted the requirement that LIBOR borrowings pay a
+     predetermined minimum interest rate; and (iii) lowered the minimum dollar
+     amount required to make a borrowing under the Credit Agreement. On April
+     13, 2005, the Company entered into Amendment No. 8 to the Credit Agreement
+     to change the issuing bank of its Letters of Credit and to restore a
+     swingline loan mechanism that was previously deleted by prior amendments to
+     the Company's Credit Agreement.
+
+     The Credit Agreement contains covenants which restrict the Company's
+     ability, among other things, to incur debt and liens, sell assets and make
+     investments. The Company was in compliance with all covenants on January
+     14, 2006.
+
+-10-
+
+5.   OTHER LONG-TERM LIABILITIES
+
+     Other long-term liabilities consist of the following (in thousands of
+     dollars):
+
+(a)  In connection with the acquisition Bright Start, a liability for
+     unfavorable operating leases was recorded and is being relieved over the
+     average remaining life of the related leases.
+
+(b)  The reserve for closed schools includes the long-term liability related
+     primarily to leases for schools that were closed and are no longer operated
+     by the Company.
+
+(c)  On December 11, 2002, the Company entered into a Separation Agreement with
+     the Company's former Chief Executive Officer and President. The long-term
+     portion of the Company's total contractual obligations pursuant to the
+     Separation Agreement is $0.2 million as of January 14, 2006.
+
+(d)  Long-term insurance liabilities reflect the Company's obligation for
+     reported and not paid and incurred but not reported, workers' compensation,
+     auto and general liability claims.
+
+6.   SHARES SUBJECT TO MANDATORY REDEMPTION
+
+     Shares subject to mandatory redemption consist of 45,000 shares of Series A
+     12% mandatorily redeemable preferred stock, $0.01 par value (Series A
+     preferred stock), all of which were issued and outstanding as of January
+     14, 2006. The original carrying value of the preferred stock of $36.4
+     million is being accreted to its redemption value of $45.0 million on May
+     11, 2008. The Series A preferred stock is non-voting and mandatorily
+     redeemable on May 11, 2008. Dividends at the rate of 12.0% per annum are
+     cumulative and if not paid on the June 30 or December 31 semi-annual Series
+     A preferred stock dividend dates are added to the liquidation value. The
+     liquidation value was $103.9 million and $97.6 million as of January 14,
+     2006 and July 2, 2005, respectively. Accrued dividends were $58.9 million
+     and $52.6 million at January 14, 2006 and July 2, 2005, respectively. The
+     Series A preferred stock may be exchanged for 12.0% Subordinated Exchange
+     Debentures due 2008, at Parent's option, subject to certain conditions, in
+     whole, but not in part, on any scheduled dividend payment date. The Series
+     A preferred stock contains certain restrictive provisions that limit the
+     ability of Parent to pay cash dividends.
+
+     The Company recognized $7.1 million and $6.2 million in dividends and
+     accretion on the Series A preferred stock as interest expense during the 28
+     weeks ended January 14, 2006 and January 15, 2005, respectively. The
+     charges to interest expense are currently non-cash charges, as the Series A
+     preferred stock dividends have not been paid but rather have been added to
+     the Series A preferred stock liquidation value. On July 1, 2005, the Series
+     A preferred stock dividends became payable in cash, subject to the
+     limitations in the Company's senior credit agreement which prohibits such
+     payments without the lenders' prior consent. Absent such consent, the
+     dividends continue to be added to the Series A preferred stock liquidation
+     value.
+
+7.   COMMITMENTS AND CONTINGENCIES
+
+     The Company is presently, and has been from time to time, subject to claims
+     and litigation arising in the ordinary course of business. Management
+     believes that none of the claims or litigation, of which it is aware, will
+     materially affect the Company's financial condition, liquidity, or annual
+     results of operations, although assurance cannot be given with respect to
+     the ultimate outcome of any such actions.
+
+8.   STOCK-BASED COMPENSATION
+
+     On July 3, 2005, the Company adopted the provisions of SFAS No. 123 (R).
+     The Company adopted Statement
+
+-11-
+
+123 (R) using a modified prospective application, as permitted under
+     Statement 123 (R). Accordingly, prior period amounts have not been
+     restated. Under this application, the Company is required to record
+     compensation expense for the fair value of all awards granted after the
+     date of adoption and for the unvested portion of previously granted awards
+     that remain outstanding at the date of adoption.
+
+     Prior to the adoption of SFAS No. 123 (R), the Company accounted for all
+     options in accordance with APB Opinion No. 25, which requires compensation
+     cost to be recognized only on the excess, if any, between the fair value of
+     the stock at the date of grant and the amount an employee must pay to
+     acquire the stock. Under this method, no compensation cost has previously
+     been recognized for stock options granted. These plans are more fully
+     described in Note 11 of the Company's Annual Report on Form 10-K for the
+     year ended July 2, 2005.
+
+     On September 28, 2005, certain members of Parent's management, including
+     its President and Chief Executive Officer, and its Chief Financial Officer,
+     were granted 98,000 Class C Units of LPA. At January 14, 2006, there were
+     2,000 Class C Units of LPA available for future grants. Pursuant to the
+     terms of the Operating Agreement of LPA, the Class C Units are non-voting
+     equity interests of LPA and are subject to repurchase by JPMP or its
+     designee upon the termination of such person's employment with Parent and
+     La Petite. Subject to certain conditions described in the Operating
+     Agreement of LPA, upon termination of such person's employment with Parent
+     and La Petite vested Class C Units are repurchased for fair market value
+     and unvested Class C Unit are repurchased for $.01 per Class C Unit. The
+     Class C Units vest monthly over a four year period, with credit granted for
+     prior years employment with Parent and La Petite. Based on the transfer
+     restrictions set forth in the Operating Agreement of LPA and contractual
+     limitations set forth in the documents governing La Petite's senior secured
+     loans and senior notes, in order for the Class C Units to have any
+     realizable value a sale of Parent or La Petite or a liquidity event (such
+     as an initial public offering) would be required. Since neither a sale of
+     La Petite nor an initial public offering is considered probable until its
+     occurrence, the adoption of SFAS No. 123 (R) did not result in any
+     incremental stock-based compensation cost during the 28 weeks ended January
+     14, 2006. There was no compensation expense recorded during the 28 weeks
+     ended January 14, 2006 for the unvested portion of options granted in prior
+     periods because the fair value of such options at the date of grant was not
+     material. If compensation cost for options granted in prior periods had
+     been recognized as prescribed by SFAS No. 123 (R), it would not have had a
+     material effect on the Company's results of operations for the 28 weeks
+     ended January 14, 2006.
+
+     The Company uses the Monte Carlo valuation model to determine the fair
+     value of Class C Units of LPA. The Monte Carlo model includes various
+     assumptions, including the risk free interest rate, the expected volatility
+     and the expected life for Class C Units of LPA. The assumptions used in the
+     Monte Carlo valuation model are as follows:
+
+A summary of the status of the Class C units of LPA as of January 14, 2006,
+     and changes during the 28 weeks ended January 14, 2006 are as follows:
+
+(a)  As of January 14, 2006, the non-vested Class C Units of LPA had a weighted
+     average vesting term of 14 months. The vesting provisions as set forth in
+     the Operating Agreement of LPA, only apply to the repurchase of Class C
+     Units upon termination of employment as provided for in the Operating
+     Agreement of LPA.
+
+     As of January 14, 2006, there was $3.0 million in total unrecognized
+     compensation costs related to the Class C Units of LPA. The Company will
+     record the $3.0 million as an expense at the time that the service
+     conditions
+
+-12-
+
+are met and the performance conditions are deemed to be probable.
+
+9.   RESTRUCTURING CHARGES
+
+     During the second quarter of the 2006 fiscal year, the Company recorded an
+     adjustment to its previously established restructuring reserves, which had
+     the net effect of increasing the reserves by $0.1 million. The adjustment
+     was due to write-down to fair market value of a real estate property held
+     for disposal. The Company did not incur any significant restructuring
+     charges during the second quarter of the 2005 fiscal year. A summary of the
+     restructuring reserve activity for the 28 weeks ended January 14, 2006 and
+     January 15, 2005 are as follows, in dollars in thousands:
+
+10. SERIES B 5% CONVERTIBLE REDEEMABLE PARTICIPATING PREFERRED STOCK ISSUANCE
+
+     Pursuant to the terms of the Securities Purchase Agreement dated February
+     10, 2003, entered into by Parent and its stockholders who have elected to
+     exercise their respective preemptive rights (the Electing Stockholders), as
+     amended by Amendment No. 1 to the Securities Purchase Agreement dated July
+     31, 2003, Parent may issue up to a total of 6,669,734 shares of its Series
+     B 5% convertible redeemable participating preferred stock (Series B
+     preferred stock) at a price of $2.174 per share. LPA has committed to
+     purchase in accordance with the terms of the Securities Purchase Agreement,
+     6,658,636 shares of the Series B preferred stock being offered. Purchases
+     may be made at LPA's discretion or upon occurrence of conditions detailed
+     in the Securities Purchase Agreement. In accordance with such commitment,
+     LPA purchased 341,766 shares of Series B preferred stock in June 2003 for
+     $0.7 million, 1,379,945 shares of Series B preferred stock in November 2003
+     for $3.0 million, 919,963 shares of Series B preferred stock in December
+     2003 for $2.0 million, and 459,982 shares of Series B preferred stock in
+     December 2004 for $1.0 million. Further, in accordance with their
+     commitment to purchase shares of Series B preferred stock and in accordance
+     with the terms of the Securities Purchase Agreement, the Electing
+     Stockholders other than LPA purchased 570 shares of Series B preferred
+     stock in June 2003, 2,300 shares of Series B preferred stock in November
+     2003, 1,534 shares of Series B preferred stock in December 2003, and 766
+     shares of Series B preferred stock in December 2004. Accordingly, at
+     January 14, 2006, the remaining contingent equity commitment from the
+     stockholders of Parent was $7.7 million.
+
+     Pursuant to Amendment No. 2 to the Securities Purchase Agreement which was
+     effective as of November 30, 2004, the Electing Stockholders agreed to
+     purchase Series B preferred stock if the Company fails at any time to make
+     principal and interest payments on the Senior Notes due 2008. The foregoing
+     obligation is in addition to the existing obligations of the Electing
+     Stockholders to purchase shares of Series B preferred stock; however, the
+     additional obligation does not increase the amount of equity committed by
+     any of the Electing Stockholders. The amendment to the Securities Purchase
+     Agreement also granted the holders representing a majority of the Senior
+     Notes due 2008 with the right to release the Electing Stockholders from the
+     equity commitments under the Securities Purchase Agreement at any time
+     after the repayment of the debt outstanding under the Credit Agreement.
+
+-13-
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS
+
+INTRODUCTION
+
+The following discussion should be read in conjunction with the unaudited
+condensed financial statements and the related notes included elsewhere in this
+report.
+
+New educational facilities (new schools), as defined by the Company, are
+Academies opened within the current or previous fiscal year. These schools
+typically generate operating losses until the Academies achieve normalized
+occupancies. Established educational facilities (established schools), as
+defined by the Company, are schools that were open prior to the start of the
+previous fiscal year.
+
+Full-time equivalent (FTE) attendance, as defined by the Company, is not a
+measure of the absolute number of students attending the Company's schools, but
+rather is an approximation of the full-time equivalent number of students based
+on Company estimates and weighted averages. For example, a student attending
+full-time is equivalent to one FTE, while a student attending only one-half of
+each day is equivalent to 0.5 FTE. The average weekly FTE tuition rate, as
+defined by the Company, is the tuition revenue divided by the FTE attendance for
+the respective period.
+
+OVERVIEW
+
+La Petite is one of the leading for-profit preschool providers in the United
+States based on the number of schools operated. The Company provides
+center-based educational services and childcare to children between the ages of
+six weeks and 12 years. The Company also operates Montessori schools that employ
+the Montessori method of teaching, a classical approach that features the
+programming of tasks with materials presented in a sequence dictated by each
+child's capabilities.
+
+The majority of the Company's revenue comes from the tuition and fees that it
+charges for attendance at its Academies. Academy tuition depends upon a number
+of factors including, but not limited to, location of an Academy, age of the
+child, full or part-time attendance, utilization and competition. The Company
+also provides various tuition discounts primarily consisting of sibling, staff,
+and Preferred Employer Program. Parents also pay an annual registration fee.
+Tuition and fees are payable weekly and in advance for most residential and
+employer-based Academies and monthly and in advance for Montessori schools.
+Other fees include activity fees for summer activities and supply fees for
+Pre-Kindergarten and Private Kindergarten programs. Tuition rates per FTE are
+impacted by the age mix of children and generally decrease as the age of the
+children increase. The improvement in FTE attendance which began in the second
+half of fiscal year 2005 continued throughout the 2nd quarter of fiscal year
+2006. FTE attendance was up 3.9% and 5.3% for the 12 and 28 weeks ended January
+14, 2006, respectively. The increase in FTE attendance occurred across all age
+groups except for school age children, which were down form the prior year. The
+biggest increases FTE attendance occurred in the preschool classrooms.
+Management attributes much of increase in FTE attendance to the Company's
+continued focus on preschool education.
+
+Historically, operating revenue has followed the seasonality of the school year.
+The number of new children attending the Company's schools is highest in
+September-October and January-February, generally referred to as the fall and
+winter enrollment periods. Revenues tend to decline during the calendar year-end
+holiday period and during the summer.
+
+Operating expenses consist of both direct costs associated with the operation of
+our schools and administrative costs associated with the operation of our field
+and corporate support centers.
+
+Direct labor costs represent the largest component of operating expenses. Direct
+labor costs per FTE are impacted by the age mix of children and generally
+decrease as the age of the children increase. Over the past year the Company has
+experienced increased FTE labor productivity at its established schools.
+Management attributes much of this increase to the implementation of several
+programs designed to improve labor productivity at school level. Administrative
+labor costs have increased as management has reduced spans of control through
+the hiring of additional district managers and as management has added
+additional staff support at the Company's corporate office. Management believes
+the reduction in spans of control and the increase in support staff has provided
+for
+
+-14-
+
+improved internal control and has assisted Academy Directors to grow new
+enrollment, implement program quality improvements and more effectively manage
+Academy direct labor costs.
+
+Facility lease expense is the second largest component of operating expenses.
+Most of the Company's school locations are leased under operating leases,
+generally with 15 year terms. Many leases have renewal options and some provide
+for contingent rentals if the Academy's operating revenue exceeds certain base
+levels. Other significant operating costs include repairs and maintenance, food,
+insurance, utilities, supplies, depreciation and real estate taxes.
+
+The Company operated 650 schools at the end of the second quarter of fiscal year
+2006 as compared to 645 schools at the end of the second quarter of fiscal year
+2005. During that time period there were eight new school openings, including
+the acquisition of six schools, and three school closures. The closures resulted
+from management's decision to close certain school locations where the
+conditions no longer supported an economically viable operation.
+
+RESULTS OF OPERATIONS
+
+TWELVE WEEKS ENDED JANUARY 14, 2006 COMPARED TO TWELVE WEEKS ENDED JANUARY 15,
+2005
+
+The following table sets forth the Company's operating results for the
+comparative 12 weeks ended January 14, 2006 and January 15, 2005, with amounts
+presented in thousands of dollars and as percentages of revenue:
+
+Operating revenue increased $6.9 million or 8.0% from the same period last year.
+This revenue increase was the result of a $6.1 million increase at established
+schools, and a $1.0 million increase at new schools, offset by a reduction in
+revenue from closed schools of $0.2 million. The revenue increase was
+principally due to a 3.9% increase in FTE attendance, a 4.0% increase in the
+average weekly FTE tuition rate, and increased participation in the USDA Child
+and Adult Care Food Program. The increase in the average weekly FTE tuition rate
+was principally due to selective price increases that were put into place based
+on geographic market conditions and class capacity utilization. The increase in
+FTE attendance occurred at both established and new schools across all age
+groups except for school age children.
+
+Salaries, wages, and benefits increased $5.0 million or 10.3% from the same
+period last year. As a percentage of revenue, labor costs were 57.5% for the 12
+weeks ended January 14, 2006, as compared to 56.3% for the same period last
+year. The increase in salaries, wages, and benefits includes increased labor
+costs of $2.0 million at established schools, increased labor costs of $0.5
+million at new schools, increased benefit costs of $1.3 million, increased bonus
+costs of $0.9 million, and increased field management and corporate
+administration labor costs of $0.4 million, offset by decreased labor costs of
+$0.1 million at closed schools. The increase in labor costs at established
+schools was mainly due to a 2.6% increase in average hourly rates and a 2.7%
+increase in labor hours as
+
+-15-
+
+compared to the same period last year. The increase in benefit costs was
+primarily related to increases in self insured medical claim costs.
+
+Facility lease expense increased $0.4 million or 3.8% from the same period last
+year. The increase in facility lease expense was principally a result of
+increased rents due to lease renewals, and new equipment leases, and increases
+in lease payments for facilities with contingent rent provisions.
+
+Depreciation expense increased $0.1 million or 6.7% from the same period last
+year. The increase in depreciation expense was principally due to increases to
+depreciation related leasehold improvements and equipment purchases.
+
+During the second quarter of the 2006 fiscal year, the Company recorded an
+adjustment to its previously established restructuring reserves, which had the
+net effect of increasing the reserves by $44,000. The adjustment was principally
+due to the write-down to fair market value of a real estate property held for
+disposal. The Company did not incur any significant restructuring charges during
+the second quarter of the 2005 fiscal year.
+
+Provision for doubtful accounts increased $0.1 million or 18.0%, as compared to
+the same period last year. The increase was principally related to the
+collection of receivables from third party providers.
+
+Other operating costs increased $1.5 million or 7.6% from the same period last
+year. Other operating costs include repairs and maintenance, food, insurance,
+utilities and telephone, supplies, real estate taxes, transportation,
+professional fees, marketing, travel, bank overages and shortages, training,
+data processing, personnel, recruitment, and other miscellaneous costs. The
+increase in other operating costs was due primarily to increases in real estate
+taxes, utilities and telephone, food costs, professional fees, and supplies,
+offset by decreases in repairs and maintenance, and data processing costs. As a
+percentage of revenue, other operating costs were 22.9% for the 12 weeks ended
+January 14, 2006, as compared to 23.0% for the same period last year.
+
+As a result of the foregoing, the Company had an operating income of $4.4
+million in the second quarter of the 2006 fiscal year as compared $4.6 million
+in the second quarter of the 2005 fiscal year.
+
+Net interest expense increased $0.5 million or 6.9% as compared to the same
+period last year. The increase was principally due to increased interest expense
+on the accrued dividends and accretion related to Company's Series A preferred
+stock and higher interest rates related to the term loan. The charges to
+interest expense on the Series A preferred stock dividends are currently
+non-cash charges, as the Series A preferred stock dividends have not been paid
+but rather have been added to the Series A preferred stock liquidation value. On
+July 1, 2005, the Series A preferred stock dividends became payable in cash,
+subject to the limitations in the Company's senior credit agreement which
+prohibits such payments without the lenders' prior consent. Absent such consent,
+the dividends will continue to be added to the Series A preferred stock
+liquidation value.
+
+The provision for income taxes includes a provision for state and local taxes.
+The effective federal tax rate for the 12 weeks ended January 14, 2006 was 0%
+due to pretax losses on a year to date basis and the Company's provision of a
+full valuation allowance against deferred tax assets.
+
+-16-
+
+28 WEEKS ENDED JANUARY 14, 2006 COMPARED TO 28 WEEKS ENDED JANUARY 15, 2005
+
+The following table sets forth the Company's operating results for the
+comparative 28 weeks ended January 14, 2006 and January 15, 2005, with amounts
+presented in thousands of dollars and as percentages of revenue:
+
+Operating revenue increased $17.1 million or 8.6% from the same period last
+year. This revenue increase was the result of a $15.1 million increase at
+established schools, a $2.3 million increase at new schools, and a $0.1 million
+increase in other revenue, offset by a reduction in revenue from closed schools
+of $0.4 million. The revenue increase was principally due to a 5.3% increase in
+FTE attendance, a 3.2% increase in the average weekly FTE tuition rate, and
+increased participation in the USDA Child and Adult Care Food Program. The
+increase in the average weekly FTE tuition rate was principally due to selective
+price increases that were put into place based on geographic market conditions
+and class capacity utilization. The increase in FTE attendance occurred at both
+established and new schools across all age groups except for school age
+children.
+
+Salaries, wages, and benefits increased $10.2 million or 8.8% from the same
+period last year. As a percentage of revenue, labor costs were 57.7% for the 28
+weeks ended January 14, 2006, as compared to 57.6% for the same period last
+year. The increase in salaries, wages, and benefits includes increased labor
+costs of $5.1 million at established schools, increased labor costs of $1.3
+million at new schools, increased bonus costs of $2.1 million, increased benefit
+costs of $1.1 million and increased field management and corporate
+administration labor costs of $0.8 million, offset by decreased labor costs of
+$0.2 million at closed schools. The increase in labor costs at established
+schools was mainly due to a 2.8% increase in average hourly rates and a 2.9%
+increase in labor hours as compared to the same period last year. The increase
+in benefit costs was primarily related to increases in self insured medical
+claim costs.
+
+Facility lease expense increased $1.1 million or 4.2% from the same period last
+year. The increase in facility lease expense was principally a result of
+increased rents due to lease renewals, and new equipment leases, and increases
+in lease payments for facilities with contingent rent provisions.
+
+Depreciation expense increased $1.3 million or 26.4% from the same period last
+year. The increase in depreciation expense was principally due to a $0.8 million
+cumulative adjustment of understated depreciation expense in prior years, which
+was recorded in the first quarter of fiscal 2006, along with increases to
+depreciation related to leasehold improvements and equipment purchases. For
+additional information regarding the depreciation adjustment, see Note 2 to the
+accompanying condensed consolidated financial statements included in this
+report.
+
+During the 28 weeks ended January 14, 2006, the Company recognized restructuring
+charges of $0.1 million principally related fixed asset write-offs resulting
+from the closure of one school and the write-down to fair market value of a real
+estate property held for disposal. The Company did not incur any significant
+restructuring charges during the 28 weeks ended January 15, 2005.
+
+-17-
+
+Provision for doubtful accounts increased slightly as compared to the same
+period last year.
+
+Other operating costs increased $2.7 million or 5.3% from the same period last
+year. Other operating costs include repairs and maintenance, food, insurance,
+utilities and telephone, supplies, real estate taxes, transportation,
+professional fees, marketing, travel, bank overages and shortages, training,
+data processing, personnel, recruitment, and other miscellaneous costs. The
+increase in other operating costs was due primarily to increases in utilities
+and telephone, real estate taxes, food costs, professional fees, and supplies,
+offset by decreases in marketing, insurance, and data processing costs. As a
+percentage of revenue, other operating costs were 24.4% for the 28 weeks ended
+January 14, 2006, as compared to 25.2% for the same period last year.
+
+As a result of the foregoing, the Company had an operating income of $5.3
+million for the 28 weeks ended January 14, 2006, as compared to $3.5 million for
+the same period last year.
+
+Net interest expense increased $1.1 million or 6.8% as compared to the same
+period last year. The increase was principally due to increased interest expense
+on the accrued dividends and accretion related to Company's Series A preferred
+stock and higher interest rates related to the term loan. The charges to
+interest expense on the Series A preferred stock dividends are currently
+non-cash charges, as the Series A preferred stock dividends have not been paid
+but rather have been added to the Series A preferred stock liquidation value. On
+July 1, 2005, the Series A preferred stock dividends became payable in cash,
+subject to the limitations in the Company's senior credit agreement which
+prohibits such payments without the lenders' prior consent. Absent such consent,
+the dividends will continue to be added to the Series A preferred stock
+liquidation value.
+
+The provision for income taxes includes a provision for state and local taxes.
+The effective federal tax rate for the 28 weeks ended January 14, 2006 was 0%
+due to pretax losses on a year to date basis and the Company's provision of a
+full valuation allowance against deferred tax assets.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+FINANCING ACTIVITIES
+
+Parent and La Petite entered into an agreement on May 11, 1998, providing for a
+term loan facility and a revolving credit agreement (as amended, the "Credit
+Agreement"), consisting of a $40 million Term Loan Facility and a $25 million
+Revolving Credit Facility. Parent and La Petite borrowed the entire $40 million
+available under the Term Loan Facility in connection with the Recapitalization.
+Pursuant to an amendment to the Credit Agreement, which was effective as of
+November 30, 2004, the final maturity of the Credit Agreement was extended to
+November 15, 2007. This amendment also (i) revised certain existing financial
+covenant targets required to be maintained by the Company and set new targets
+for the extended period of the Credit Agreement; (ii) deleted the requirement
+that LIBOR borrowings pay a predetermined minimum interest rate; and (iii)
+lowered the minimum dollar amount required to make a borrowing under the Credit
+Agreement. Payments due under the amortization schedule for the term loan are
+$0.2 million in the remainder of fiscal year 2006, $0.4 million in fiscal year
+2007 and $31.6 million in fiscal year 2008. The term loan is also subject to
+mandatory prepayment in the event of certain equity or debt issuances or asset
+sales by the Company or any of its subsidiaries and in amounts equal to
+specified percentages of excess cash flow (as defined). On April 13, 2005, the
+Company entered into Amendment No. 8 to the Credit Agreement to change the
+issuing bank of its Letters of Credit and to restore a swingline loan mechanism
+that was previously deleted by prior amendments to the Company's Credit
+Agreement. On January 14, 2006, there was $32.2 million outstanding under the
+term loan and $14.0 million outstanding under the Revolving Credit Facility. In
+addition, La Petite had outstanding letters of credit in an aggregate amount of
+$5.0 million, and $6.0 million available for working capital purposes under the
+Revolving Credit Facility. The Company's Credit Agreement, Senior Notes and
+preferred stock contain certain covenants that limit the ability of the Company
+to incur additional indebtedness, pay cash dividends or make certain other
+restricted payments. The Company was in compliance with all covenants on January
+14, 2006.
+
+Pursuant to the terms of the Securities Purchase Agreement dated February 10,
+2003, entered into by Parent and its stockholders who have elected to exercise
+their respective preemptive rights, as amended by Amendment No. 1 to the
+Securities Purchase Agreement dated July 31, 2003, Parent may issue up to a
+total of 6,669,734 shares of its Series B 5% convertible redeemable
+participating preferred stock (Series B preferred stock) at a price of $2.174
+per share. LPA has committed to purchase in accordance with the terms of the
+Securities Purchase Agreement,
+
+-18-
+
+6,658,636 shares of the Series B preferred stock being offered. Purchases may be
+made at LPA's discretion or upon occurrence of conditions detailed in the
+Securities Purchase Agreement. In accordance with such commitment, LPA purchased
+341,766 shares of Series B preferred stock in June 2003 for $0.7 million,
+1,379,945 shares of Series B preferred stock in November 2003 for $3.0 million,
+919,963 shares of Series B preferred stock in December 2003 for $2.0 million,
+and 459,982 shares of Series B preferred stock in December 2004 for $1.0
+million. Further, in accordance with their commitment to purchase shares of
+Series B preferred stock and in accordance with the terms of the Securities
+Purchase Agreement, the Electing Stockholders other than LPA purchased 570
+shares of Series B preferred stock in June 2003, 2,300 shares of Series B
+preferred stock in November 2003, 1,534 shares of Series B preferred stock in
+December 2003, and 766 shares of Series B preferred stock in December 2004.
+Accordingly, at January 14, 2006, the remaining contingent equity commitment
+from the stockholders of Parent is $7.7 million.
+
+As of January 14, 2006, LPA beneficially owned 94.0% of the common stock of
+Parent on a fully diluted basis, $45 million of Series A preferred stock of
+Parent and approximately $21.7 million of Series B preferred stock of Parent. An
+affiliate of JPMP owns a majority of the economic interests of LPA and an entity
+controlled by Robert E. King owns a majority of the voting interests of LPA. On
+September 28, 2005, certain members of Parent's management, including its
+President and Chief Executive Officer, and its Chief Financial Officer, were
+granted 98,000 Class C Units of LPA. LPA has reserved 100,000 Class C Units to
+be issued to management of Parent from time to time. Pursuant to the terms of
+the Operating Agreement of LPA, the Class C Units are non-voting equity
+interests of LPA and are subject to repurchase by LPA or its designee upon the
+termination of such person's employment with Parent and La Petite. Upon the
+achievement of enumerated valuation thresholds set forth in the Operating
+Agreement, the Class C Units will represent in the aggregate up to 13% of the
+economic interests of LPA.
+
+CASH FLOWS AND SOURCES AND USES OF FUNDS
+
+The Company's principal sources of funds are cash flows from operations,
+borrowings on the revolving credit facility under the Credit Agreement, and
+capital contributions received from LPA. The Company's principal uses of funds
+are debt service requirements, capital expenditures and working capital needs.
+
+Cash flows provided by operating activities were $3.8 million during the 28
+weeks ended January 14, 2006 compared to cash flows used by operating activities
+of $3.3 million for the 28 weeks ended January 15, 2005. The $7.1 million
+increase in cash flows provided by operating activities was mainly due to a $3.1
+million decrease in net losses, net of non-cash charges, and by a decrease in
+working capital requirements of $4.0 million. The decrease in working capital
+requirements was principally related to increased bonus accruals based on
+improved company performance in the first half of fiscal 2006, reduced
+receivables from insurance carriers related to hurricane damage that was
+incurred in the first half of fiscal year 2005, and timing of payments received
+from third party childcare payers, offset by more timely payments of accounts
+payable due to increased cash availability in the first half of fiscal 2006.
+
+Cash flows used for investing activities were $4.1 million during the 28 weeks
+ended January 14, 2006 as compared to cash flows used of $5.4 million during the
+28 weeks ended January 15, 2005. The $1.3 million decrease in cash flows used
+for investing activities was due to decreased capital expenditures, and
+increased proceeds from the sale of assets, offset by acquisition costs related
+to the acquisition of one school.
+
+Cash flows provided by financing activities were $0.5 million during the 28
+weeks ended January 14, 2006, compared to cash flows provided by financing
+activities of $8.9 million during the 28 weeks ended January 15, 2005. The $8.4
+million decrease in cash flows provided by financing activities was due to a
+$8.2 million decrease in revolver borrowings (net of deferred issuance costs),
+and a $1.0 million reduction in proceeds from the issuance of redeemable
+preferred stock, offset by a $0.7 million increase in bank overdrafts related to
+the timing of monthly expense payments and a $0.1 million decrease in repayment
+of term loan and capital lease obligations.
+
+The Company has a working capital and stockholders' deficit as of January 14,
+2006 and has experienced losses before income taxes over each of the past three
+fiscal years. The Company required equity investments by LPA and other electing
+stockholders of $0.8 million, $5.0 million and $1.0 million in fiscal years
+2003, 2004 and 2005, respectively, to enable it to meet its financial
+obligations as they came due and provide adequate liquidity to operate the
+business. The last equity investment was made in December 2004 and the company
+has not required any equity investments since then.
+
+-19-
+
+Management has implemented a series of measures to improve the Company's
+operating results and cash flow. These actions included decreased discretionary
+expense spending and greater realization of revenue resulting from increased
+facility utilization and from increased controls over the use of tuition
+discounts and coupons. As a result of these and other actions, revenue and
+operating income for the 28 weeks ended January 14, 2006, are up 8.6% and 50%
+respectively. Management believes that these efforts, coupled with (i) the
+remaining $7.7 million of equity commitment, as of January 14, 2006, provided by
+LPA and certain of the other stockholders of Parent, (ii) the available funds
+under the Revolving Credit Facility of $6.0 million, (iii) the extension of the
+final maturity date of the Credit Agreement to November 2007 and (iv) revision
+of certain existing financial covenant targets and establishment of new targets
+for the extended period of the Credit Agreement, will enable the Company to
+comply with its required financial covenants, meet its obligations as they come
+due and provide adequate liquidity to operate the business for the next twelve
+months. However, there can be no assurance in this regard, nor can there be any
+assurance that the Company can obtain additional funding from LPA beyond that as
+noted above or from any other external source.
+
+CAPITAL EXPENDITURES
+
+Total capital expenditures for the 28 weeks ended January 14, 2006 and January
+15, 2005 were $4.1 million and $5.4 million, respectively. The Company views all
+capital expenditures, other than those incurred in connection with the
+development of new schools, to be maintenance capital expenditures. Maintenance
+capital expenditures for the 28 weeks ended January 14, 2006 and January 15,
+2005 were $4.1 million, and $5.1 million, respectively. There were no capital
+expenditures incurred in connection with the development of new schools for the
+28 weeks ended January 14, 2006 and $0.3 million was expended in connection with
+the development of new schools for the 28 weeks ended January 15, 2005. The
+company also incurred acquisition costs of $0.2 million in connection with the
+acquisition one school in the second quarter of fiscal year 2006.
+
+In addition to maintenance capital expenditures, the Company expends additional
+funds to repair and maintain its facilities in good working condition. Such
+funds are expensed in the periods in which they are incurred. The amounts of
+such expenses for the 28 weeks ended January 14, 2006 and January 15, 2005 were
+$7.6 million and $7.4 million, respectively.
+
+CRITICAL ACCOUNTING POLICIES
+
+The preparation of financial statements in conformity with accounting principles
+generally accepted in the United States of America requires that management make
+estimates and assumptions that affect the amounts reported in the financial
+statements and accompanying notes. Predicting future events is inherently an
+imprecise activity and as such requires the use of judgment. Actual results may
+vary from estimates in amounts that may be material to the financial statements.
+See "Cautionary Statement Concerning Forward Looking Statements."
+
+For a description of the Company's critical accounting policies, see "Item 7.
+Management's Discussion and Analysis of Financial Conditions and Results of
+Operations, Summary of Critical Accounting Policies", included in the Company's
+Annual Report on Form 10-K for the year ended July 2, 2005. There have been no
+significant changes to the Company's critical accounting policies during the 28
+weeks ended January 14, 2006 except for the Company's accounting for stock-based
+compensation related to the adoption SFAS No. 123 (R).
+
+Under Statement 123 (R), the Company uses the Monte Carlo valuation model to
+determine the fair value of Class C Units of LPA. The Monte Carlo model includes
+various assumptions, including the expected volatility and the expected life for
+Class C Units of LPA. These assumptions reflect the Company's best estimates,
+but they involve inherent uncertainties based on market conditions generally
+outside of the control of the Company. As a result, if other assumptions had
+been used, stock-based compensation expense, as calculated and recorded under
+Statement 123 (R) could have been materially impacted. Furthermore, if the
+Company uses different assumptions in future periods, stock-based compensation
+expense could be materially impacted in future periods. See Note 8 to the
+accompanying condensed consolidated financial statements included in this report
+for additional information regarding the adoption of Statement 123 (R).
+
+CAUTIONARY STATEMENT CONCERNING FORWARD-LOOKING STATEMENTS
+
+Under the safe harbor provisions of the Private Securities Litigation Reform Act
+of 1995, the Company cautions investors that any forward-looking statements or
+projections made by the Company, including those made in this
+
+-20-
+
+document, are subject to risks and uncertainties that may cause actual results
+to differ materially from those projected or discussed in these forward looking
+statements.
+
+This Management's Discussion and Analysis of Financial Condition and Results of
+Operations and other sections of this report contain forward-looking statements
+that are based on management's current expectations, estimates and projections.
+Words such as "expects," "projects," "may," "anticipates," "intends," "plans,"
+"believes," "seeks," "estimates," variations of these words and similar
+expressions are intended to identify these forward-looking statements. Certain
+factors, including but not limited to those listed below, may cause actual
+results to differ materially from current expectations, estimates, projections
+and from past results.
+
+     -    Economic factors, including changes in the rate of inflation, business
+          conditions and interest rates.
+
+     -    Operational factors, including the Company's ability to open and
+          profitably operate Schools, the Company's ability to comply with the
+          covenants contained in the Credit Agreement and the Company's ability
+          to satisfy its debt service obligations, including its obligations to
+          repay the Credit Agreement when it matures in November 2007 and the
+          notes when they mature in May 2008.
+
+     -    Demand factors, including general fluctuations in demand for childcare
+          services and seasonal fluctuations.
+
+     -    Competitive factors, including: (a) pricing pressures primarily from
+          local nursery schools and childcare centers and other large, national
+          for-profit childcare companies, (b) the hiring and retention of
+          trained and qualified personnel, (c) the ability to maintain
+          well-equipped facilities and (d) any adverse publicity concerning
+          alleged child abuse at the Company's facilities.
+
+     -    Governmental action including: (a) new laws, regulations and judicial
+          decisions related to state and local regulations and licensing
+          requirements, (b) changes in the Federal assistance and funding of
+          childcare services and (c) changes in the tax laws relating to La
+          Petite's operations.
+
+     -    Changes in accounting or other standards promulgated by the Financial
+          Accounting Standards Board, the Securities and Exchange Commission or
+          the Public Company Accounting Oversight Board.
+
+     -    Changes in costs or expenses, changes in tax rates, the effects of
+          acquisitions, dispositions or other events occurring in connection
+          with evolving business strategies.
+
+     -    Management's ability to implement plans designed to improve the
+          Company's operating results, cash flows and financial position and to
+          improve the disclosure controls and procedures of the Company.
+
+No assurance can be made that any expectation, estimate or projection contained
+in a forward-looking statement will be achieved. Readers are cautioned not to
+place undue reliance on such statements, which speak only as of the date made.
+The Company undertakes no obligation to release publicly any revisions to
+forward-looking statements as the result of subsequent events or developments.
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+Indebtedness as of January 14, 2006 consisted of Senior Notes in the aggregate
+principal amount of $145 million, the term loan under the Credit Agreement in
+the aggregate principal amount of $32.2 million and the revolving credit
+facility under the Credit Agreement providing for revolving loans to the Company
+in an aggregate principal amount (including swingline loans and the aggregate
+stated amount of letters of credit) of up to $25 million. Borrowings under the
+Senior Notes bear interest at 10% per annum. Borrowings under the Credit
+Agreement bear interest at a rate per annum equal (at the Company's option) to:
+(a) an adjusted London inter-bank offered rate ("LIBOR") plus a percentage based
+on the Company's financial performance; or (b) a rate equal to the higher of the
+administrative agent's published prime rate, a certificate of deposit rate
+multiplied by the statutory reserve rate, plus the cost of FDIC insurance or the
+federal funds effective rate plus 1/2 of 1% plus, in each case, a percentage
+based on the Company's financial performance. The borrowing margins applicable
+to the Credit Agreement are currently 4.25% for LIBOR loans and 3.25% for
+Alternate Base Rate loans as defined in the Credit Agreement. The Senior Notes
+mature in May 2008. Pursuant to Amendment No. 7 to the Credit Agreement,
+effective November 30, 2004, the final maturity of the Credit Agreement was
+extended to November 15, 2007. Payments due under the amortization schedule for
+the term loan are $0.2 million in the remainder of fiscal year 2006, $0.4
+million in fiscal year 2007 and $31.6 million in fiscal year 2008. The term loan
+is also subject to mandatory prepayment in the event of certain equity or debt
+issuances or asset sales by the Company or any of its subsidiaries in amounts
+equal to specified percentage of excess cash flow (as defined).
+
+A 1% increase or decrease in the applicable index rate would result in a
+corresponding interest expense increase or decrease of $0.5 million per year.
+
+-21-
+
+The Company had no derivative instruments at January 14, 2006.
+
+ITEM 4. CONTROLS AND PROCEDURES
+
+The Company maintains disclosure controls and procedures (the "Disclosure
+Controls") that are designed to ensure that information required to be disclosed
+in the reports filed under the Securities Exchange Act of 1934, as amended
+("Exchange Act"), is recorded, processed, summarized and reported within the
+time periods specified in the SEC's rules and forms. The Company's Disclosure
+Controls include, without limitation, those components of internal controls over
+financial reporting ("Internal Controls") that provide reasonable assurances
+that transactions are recorded as necessary to permit preparation of the
+Company's financial statements in accordance with generally accepted accounting
+principles.
+
+As of January 14, 2006 the Company evaluated the effectiveness of the design and
+operation of its Disclosure Controls pursuant to Rule 15d-15 of the Exchange
+Act. This evaluation ("Controls Evaluation") was done under the supervision and
+with the participation of management, including the Chief Executive Officer
+("CEO") and the Chief Financial Officer ("CFO"). Based on this evaluation, the
+CEO and CFO have concluded that, to the best of their knowledge, the Disclosure
+Controls are effective, at a reasonable level of assurance, to ensure that
+information required to be disclosed by the Company in reports that it files or
+submits under the Securities Exchange Act of 1934 is recorded, processed,
+summarized and reported, within the time periods specified in the Commission's
+rules and forms.
+
+The Company's Disclosure Controls, including the Company's Internal Controls,
+are designed to provide a reasonable level of assurance that the stated
+objectives are met. The Company's management, including the CEO and CFO, does
+not expect that the Company's Disclosure Controls or Internal Controls will
+prevent all errors and all fraud. A control system, no matter how well conceived
+and operated, can provide only reasonable, not absolute, assurance that the
+objectives of the control system are met. Further, the design of a control
+system must reflect the fact that there are resource constraints, and the
+benefits of controls must be considered relative to their costs. Because of the
+inherent limitations in all control systems, no evaluation of controls can
+provide absolute assurance that all control issues and instances of fraud, if
+any, within the Company have been detected. These inherent limitations include
+the realities that judgments in decision-making can be faulty, and that
+breakdowns can occur because of simple error or mistake. Additionally, controls
+can be circumvented by the individual acts of some persons, by collusion of two
+or more people, or by management override of the control. Because of the
+inherent limitations in a cost-effective control system, misstatements due to
+error or fraud may occur and not be detected.
+
+There have been no changes in the Company's internal control over financial
+reporting that occurred during the Company's most recent fiscal quarter that has
+materially affected, or is reasonably likely to materially affect the Company's
+internal control over financial reporting.
+
+                                    *********
+
+-22-
+
+PART II - OTHER INFORMATION
+
+ITEM 1. LEGAL PROCEEDINGS
+
+The Company is presently, and has been from time to time, subject to claims and
+litigation arising in the ordinary course of business. Management believes that
+none of the claims or litigation, of which it is aware, will materially affect
+the Company's financial condition, liquidity, or annual results of operations,
+although assurance cannot be given with respect to the ultimate outcome of any
+such actions.
+
+ITEM 6. EXHIBITS
+
+     31.1 CFO Section 302 certifications.
+
+     31.2 CEO Section 302 certifications.
+
+     32   CEO and CFO Section 906 certifications.
+
+ITEMS 2, 3, 4 AND 5 ARE NOT APPLICABLE AND HAVE BEEN OMITTED.
+
+-23-
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+                                        LPA HOLDING CORP.
+
+Dated: February 28, 2006                    /s/ Neil P. Dyment
+                                            ------------------------------------
+                                        By: Neil P. Dyment
+
+                                        Chief Financial Officer and duly
+                                        authorized representative of the
+                                        registrant
+
+-24-
+
+SIGNATURE
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+                                        LA PETITE ACADEMY, INC.
+
+Dated: February 28, 2006                    /s/ Neil P. Dyment
+                                            ------------------------------------
+                                        By: Neil P. Dyment
+
+                                        Chief Financial Officer and duly
+                                        authorized representative of the
+                                        registrant
+
+-25-
+
+<EX-31.1>
+ 2
+ c02879exv31w1.txt
+ CFO SECTION 302 CERTIFICATIONS
+
+EXHIBIT 31.1
+
+     CERTIFICATION PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002
+
+I, Neil P. Dyment, Chief Financial Officer, certify that:
+
+1. I have reviewed this quarterly report on Form 10-Q of LPA Holding Corp. and
+La Petite Academy, Inc.;
+
+2. Based on my knowledge, this report does not contain any untrue statement of a
+material fact or omit to state a material fact necessary to make the statements
+made, in light of the circumstances under which such statements were made, not
+misleading with respect to the period covered by this report;
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects the
+financial condition, results of operations and cash flows of the registrants as
+of, and for, the periods presented in this report;
+
+4. The registrants' other certifying officer and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrants and have:
+
+     a) Designed such disclosure controls and procedures, or caused such
+disclosure controls and procedures to be designed under our supervision, to
+ensure that material information relating to the registrants, including its
+consolidated subsidiaries, is made known to us by others within those entities,
+particularly during the period in which this report is being prepared;
+
+     b) Evaluated the effectiveness of the registrants' disclosure controls and
+procedures and presented in this report our conclusions about the effectiveness
+of the disclosure controls and procedures, as of the end of the period covered
+by this report based on such evaluation; and
+
+     c) Disclosed in this report any change in the registrants' internal control
+over financial reporting that occurred during the registrants' most recent
+fiscal quarter (the registrants' fourth fiscal quarter in the case of an annual
+report) that has materially affected, or is reasonably likely to materially
+affect, the registrants' internal control over financial reporting; and
+
+5. The registrants' other certifying officer and I have disclosed, based on our
+most recent evaluation of internal control over financial reporting, to the
+registrants' auditors and the audit committee of the registrants' board of
+directors (or persons performing the equivalent function):
+
+     a) All significant deficiencies and material weaknesses in the design or
+operation of internal control over financial reporting which are reasonably
+likely to adversely affect the registrants' ability to record, process,
+summarize and report financial information; and
+
+     b) Any fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrants' internal control over
+financial reporting.
+
+Date: February 28, 2006
+
+By /s/ Neil P. Dyment
+   ----------------------------------
+   Neil P. Dyment
+   Chief Financial Officer
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ c02879exv31w2.txt
+ CEO SECTION 302 CERTIFICATIONS
+
+EXHIBIT 31.2
+
+     CERTIFICATION PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002
+
+I, Gary A. Graves, Chief Executive Officer, certify that:
+
+1. I have reviewed this quarterly report on Form 10-Q of LPA Holding Corp. and
+La Petite Academy, Inc.;
+
+2. Based on my knowledge, this report does not contain any untrue statement of a
+material fact or omit to state a material fact necessary to make the statements
+made, in light of the circumstances under which such statements were made, not
+misleading with respect to the period covered by this report;
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects the
+financial condition, results of operations and cash flows of the registrants as
+of, and for, the periods presented in this report;
+
+4. The registrants' other certifying officer and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrants and have:
+
+     a) Designed such disclosure controls and procedures, or caused such
+disclosure controls and procedures to be designed under our supervision, to
+ensure that material information relating to the registrants, including its
+consolidated subsidiaries, is made known to us by others within those entities,
+particularly during the period in which this report is being prepared;
+
+     b) Evaluated the effectiveness of the registrants' disclosure controls and
+procedures and presented in this report our conclusions about the effectiveness
+of the disclosure controls and procedures, as of the end of the period covered
+by this report based on such evaluation; and
+
+     c) Disclosed in this report any change in the registrants' internal control
+over financial reporting that occurred during the registrants' most recent
+fiscal quarter (the registrants' fourth fiscal quarter in the case of an annual
+report) that has materially affected, or is reasonably likely to materially
+affect, the registrants' internal control over financial reporting; and
+
+5. The registrants' other certifying officer and I have disclosed, based on our
+most recent evaluation of internal control over financial reporting, to the
+registrants' auditors and the audit committee of the registrants' board of
+directors (or persons performing the equivalent function):
+
+     a) All significant deficiencies and material weaknesses in the design or
+operation of internal control over financial reporting which are reasonably
+likely to adversely affect the registrants' ability to record, process,
+summarize and report financial information; and
+
+     b) Any fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrants' internal control over
+financial reporting.
+
+Date February 28, 2006
+
+By /s/ Gary A. Graves
+   ----------------------------------
+   Gary A. Graves
+   Chief Executive Officer
+
+</EX-31.2>
+
+<EX-32>
+ 4
+ c02879exv32.txt
+ CEO AND CFO SECTION 906 CERTIFICATIONS
+
+EXHIBIT 32
+
+          CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED
+            PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Quarterly Report of LPA Holding Corp. and La Petite
+Academy, Inc. (the "Companies") on Form 10-Q for the quarterly period ended
+January 14, 2006 as filed with the Securities and Exchange Commission on the
+date hereof (the "Report"), I, Gary A. Graves, Chief Executive Officer and I,
+Neil P. Dyment, Chief Financial Officer of the Companies, certify, pursuant to
+18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley
+Act of 2002, that, to the undersigned's knowledge:
+
+     (1)  The Report fully complies with the requirements of section 13(a) or
+          15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78m or
+          78o(d)); and
+
+     (2)  The information contained in the Report fairly presents, in all
+          material respects, the financial condition and results of operations
+          of the Companies.
+
+/s/ Gary A. Graves                      /s/ Neil P. Dyment
+- -------------------------------------   ----------------------------------------
+Gary A. Graves                          Neil P. Dyment
+Chief Executive Officer                 Chief Financial Officer
+
+February 28, 2006                       February 28, 2006
+
+A signed original of this written statement required by Section 906 has been
+provided to the Companies and will be retained by the Companies and furnished to
+the Securities and Exchange Commission or its staff upon request.
+
+</EX-32>
+
