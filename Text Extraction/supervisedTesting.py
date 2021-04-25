@@ -2,12 +2,15 @@ import os
 import re
 import pandas as pd
 from sklearn.tree import DecisionTreeClassifier
+from sklearn.ensemble import RandomForestClassifier
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import plot_roc_curve, plot_confusion_matrix
+from sklearn.model_selection import train_test_split
 import numpy as np
 import matplotlib.pyplot as plt
 
-PATH = "C:\\Users\\jpetr\\PycharmProjects\\SEC-Analytics\\Data\\10-K Sample"
+PATH = "D:\\Python\\Projects\\FinTech\\SEC-Analytics\\Data\\10-K Sample"
+# PATH = "C:\\Users\\jpetr\\PycharmProjects\\SEC-Analytics\\Data\\10-K Sample"
 REGEX_10K = r"(Item[\s]+?7\.[\s\S]*?)(Item[\s]+?8\.)"
 
 def get_index(raw_text, text_positions, is_open = True):
@@ -50,10 +53,10 @@ def get_supervised_old():
 
     file.close()
 
-def get_supervised():
+def get_supervised(new_file_name):
     _, _, file_names = next(
-        os.walk(
-            f'C:\\Users\\jpetr\\PycharmProjects\\SEC-Analytics\\Data\\10-K Sample'))
+        os.walk(PATH))
+            # f'C:\\Users\\jpetr\\PycharmProjects\\SEC-Analytics\\Data\\10-K Sample'))
 
     for file_name in file_names:
         file_path = f'{PATH}\\{file_name}'
@@ -73,7 +76,6 @@ def get_supervised():
                     opening_index = index
                     closing_index = min(range(len(items)), key=lambda i: abs(items[i] - (item + len(mda))))
 
-            print(opening_index, closing_index)
 
             os.startfile(file_path)
             output_file = open('output.txt', 'w')
@@ -83,17 +85,28 @@ def get_supervised():
         except Exception as e:
             print(e, file_name)
 
-        supervised_file = open('supervised2.csv', 'a')
-        supervised_file.write(f'{file_name},{opening_index},{closing_index}\n')
-        supervised_file.close()
-        input('Continue?')
+        print(f'\n{file_name}\nOpening: {opening_index}\nClosing: {closing_index}')
+        actual_open = input('What is the open index? :')
+        actual_close = input('What is the close index? :')
 
-if __name__ == "__main__":
+        if actual_open == '':
+            actual_open = opening_index
+
+        if actual_close == '':
+            actual_close = closing_index
+
+
+        supervised_file = open(new_file_name, 'a')
+        supervised_file.write(f'{file_name},{actual_open},{actual_close}\n')
+        supervised_file.close()
+
+def test():
     df = pd.read_csv('supervised2.csv')
     # print(df)
     df = df[df['open'] != 'None']
 
-    d = pd.DataFrame(columns=['position', 'near_management', 'trailing_period', 'trailing_7', 'y_open', 'y_close'])
+    data = pd.DataFrame(columns=['position', 'near_management', 'trailing_period', 'trailing_7', 'y_open', 'y_close',
+                                 'trailing_newline'])
     # X_open = pd.DataFrame()
     y_open = []
     # X_close = pd.DataFrame()
@@ -110,7 +123,6 @@ if __name__ == "__main__":
         y_open += open_items
 
         total_text_length = len(file_text)
-
 
         for index, item in enumerate(items):
 
@@ -129,18 +141,42 @@ if __name__ == "__main__":
             else:
                 trailing_7 = 0
 
+            if '\n' in file_text[item: item + 15]:
+                trailing_newline = 1
+            else:
+                trailing_newline = 0
 
+            data = data.append(
+                {
+                    'position': item / total_text_length,
+                    'y_open': y_open[index],
+                    'near_management': near_management,
+                    'y_close': y_close[index],
+                    'trailing_period': trailing_period,
+                    'trailing_7': trailing_7,
+                    'trailing_newline': trailing_newline
+                }, ignore_index=True)
 
+    logistic = RandomForestClassifier(class_weight='balanced', max_depth=5, random_state=69)
+    # logistic = DecisionTreeClassifier(class_weight='balanced')
+    # logistic = LogisticRegression(class_weight='balanced', random_state=69)
+    X = data[['position', 'near_management', 'trailing_period', 'trailing_7', 'trailing_newline']]
+    y = data['y_open']
 
-            d = d.append({'position': item / total_text_length, 'y_open': y_open[index], 'near_management': near_management, 'y_close': y_close[index], 'trailing_period': trailing_period, 'trailing_7': trailing_7}, ignore_index=True)
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.25, random_state=69)
 
-    logistic = DecisionTreeClassifier(class_weight='balanced')
-    # logistic = LogisticRegression(class_weight='balanced')
-    X = np.array(d[['position', 'near_management', 'trailing_period', 'trailing_7']])
     # X = np.array(d[['position', 'near_management', 'trailing_period', 'trailing_7']])
-    logistic.fit(X, d['y_open'])
+    logistic.fit(X_train, y_train)
 
-    plot_confusion_matrix(logistic, X, d['y_open'])
+    plot_confusion_matrix(logistic, X_train, y_train)
     plt.show()
-    plot_roc_curve(logistic, X, d['y_open'])
+    plot_confusion_matrix(logistic, X_test, y_test)
     plt.show()
+    plot_roc_curve(logistic, X_train, y_train)
+    plt.show()
+    plot_roc_curve(logistic, X_test, y_test)
+    plt.show()
+
+if __name__ == "__main__":
+    get_supervised('supervised3.csv')
+
