@@ -30,9 +30,9 @@ if __name__ == "__main__":
         try:
             mda = match[-1][0]
             os.startfile(file_path)
-            output_file = open('Regex Testing\\output.txt', 'w')
+            output_file = open('Text Extraction\\output.txt', 'w')
             output_file.write(mda)
-            os.startfile('Regex Testing\\output.txt')
+            os.startfile('Text Extraction\\output.txt')
             output_file.close()
         except Exception as e:
             print(e, file_name)
