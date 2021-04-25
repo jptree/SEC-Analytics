@@ -8,10 +8,16 @@ from sklearn.metrics import plot_roc_curve, plot_confusion_matrix
 from sklearn.model_selection import train_test_split
 import numpy as np
 import matplotlib.pyplot as plt
+import shap
 
-PATH = "D:\\Python\\Projects\\FinTech\\SEC-Analytics\\Data\\10-K Sample"
-# PATH = "C:\\Users\\jpetr\\PycharmProjects\\SEC-Analytics\\Data\\10-K Sample"
+# PATH = "D:\\Python\\Projects\\FinTech\\SEC-Analytics\\Data\\10-K Sample"
+PATH = "C:\\Users\\jpetr\\PycharmProjects\\SEC-Analytics\\Data\\10-K Sample"
 REGEX_10K = r"(Item[\s]+?7\.[\s\S]*?)(Item[\s]+?8\.)"
+
+pd.options.display.width = 0
+# pd.set_printoptions(max_rows=200, max_columns=10)
+pd.set_option('display.max_columns', 10)
+pd.set_option('display.max_rows', 100)
 
 def get_index(raw_text, text_positions, is_open = True):
     if is_open:
@@ -54,11 +60,16 @@ def get_supervised_old():
     file.close()
 
 def get_supervised(new_file_name):
+    already_done = open('supervised3.csv').read()
+
     _, _, file_names = next(
         os.walk(PATH))
             # f'C:\\Users\\jpetr\\PycharmProjects\\SEC-Analytics\\Data\\10-K Sample'))
 
     for file_name in file_names:
+        if file_name in already_done:
+            print('file already done!')
+            continue
         file_path = f'{PATH}\\{file_name}'
         file_text = open(file_path).read()
         match = re.findall(REGEX_10K, file_text, re.IGNORECASE)
@@ -70,18 +81,26 @@ def get_supervised(new_file_name):
         try:
             mda = match[-1][0]
 
+            modified_file_text = ''
+            for index, s in enumerate(re.split(r'item', file_text, flags=re.IGNORECASE)):
+                modified_file_text += f'{s} item $%$ {index} $%$'
+
             for index, item in enumerate(items):
                 # Check for beginning index
                 if file_text[item: item + len(mda)] == mda:
                     opening_index = index
                     closing_index = min(range(len(items)), key=lambda i: abs(items[i] - (item + len(mda))))
 
+            modified_file = open('modified.txt', 'w')
+            modified_file.write(modified_file_text)
+            modified_file.close()
+            os.startfile('modified.txt')
 
-            os.startfile(file_path)
+            # os.startfile(file_path)
             output_file = open('output.txt', 'w')
             output_file.write(mda)
-            os.startfile('output.txt')
             output_file.close()
+            os.startfile('output.txt')
         except Exception as e:
             print(e, file_name)
 
@@ -100,29 +119,87 @@ def get_supervised(new_file_name):
         supervised_file.write(f'{file_name},{actual_open},{actual_close}\n')
         supervised_file.close()
 
+
+def data_mine(X_train, X_test, y_train, y_test):
+    from sklearn.metrics import accuracy_score, log_loss
+    from sklearn.neighbors import KNeighborsClassifier
+    from sklearn.svm import SVC, LinearSVC, NuSVC
+    from sklearn.tree import DecisionTreeClassifier
+    from sklearn.ensemble import RandomForestClassifier, AdaBoostClassifier, GradientBoostingClassifier
+    from sklearn.naive_bayes import GaussianNB
+    from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
+    from sklearn.discriminant_analysis import QuadraticDiscriminantAnalysis
+
+    classifiers = [
+        KNeighborsClassifier(3),
+        SVC(kernel="rbf", C=0.025, probability=True),
+        # NuSVC(probability=True),
+        DecisionTreeClassifier(),
+        RandomForestClassifier(),
+        AdaBoostClassifier(),
+        GradientBoostingClassifier(),
+        GaussianNB(),
+        LinearDiscriminantAnalysis(),
+        # QuadraticDiscriminantAnalysis()
+    ]
+
+    # Logging for Visual Comparison
+    log_cols = ["Classifier", "Accuracy", "Log Loss"]
+    log = pd.DataFrame(columns=log_cols)
+
+    for clf in classifiers:
+        clf.fit(X_train, y_train)
+        name = clf.__class__.__name__
+
+        print("=" * 30)
+        print(name)
+
+        print('****Results****')
+        train_predictions = clf.predict(X_test)
+        acc = accuracy_score(y_test, train_predictions)
+        print("Accuracy: {:.4%}".format(acc))
+
+        train_predictions = clf.predict_proba(X_test)
+        ll = log_loss(y_test, train_predictions)
+        print("Log Loss: {}".format(ll))
+
+        log_entry = pd.DataFrame([[name, acc * 100, ll]], columns=log_cols)
+        log = log.append(log_entry)
+
+        plot_roc_curve(clf, X_test, y_test)
+        plt.show()
+
+    print("=" * 30)
+
+
 def test():
-    df = pd.read_csv('supervised2.csv')
+    df = pd.read_csv('supervised4.csv')
     # print(df)
     df = df[df['open'] != 'None']
 
     data = pd.DataFrame(columns=['position', 'near_management', 'trailing_period', 'trailing_7', 'y_open', 'y_close',
-                                 'trailing_newline'])
+                                 'trailing_newline', 'leading_newline', 'total_size', 'leading_tab', 'leading_spaces',
+                                 'regex_open', 'regex_close'])
     # X_open = pd.DataFrame()
-    y_open = []
+
     # X_close = pd.DataFrame()
-    y_close = []
-    for index, row in df.iterrows():
+
+    for df_index, row in df.iterrows():
+        y_close = []
+        y_open = []
+
         file_text = open(f'{PATH}\\{row.file}').read()
         items = [m.start() for m in re.finditer('item', file_text, re.IGNORECASE)]
         close_items = [0] * len(items)
         close_items[int(row.close)] = 1
         open_items = [0] * len(items)
-        open_items[int(row.close)] = 1
+        open_items[int(row.open)] = 1
 
         y_close += close_items
         y_open += open_items
 
         total_text_length = len(file_text)
+        match = re.findall(REGEX_10K, file_text, re.IGNORECASE)
 
         for index, item in enumerate(items):
 
@@ -146,6 +223,32 @@ def test():
             else:
                 trailing_newline = 0
 
+            if '\n' in file_text[item - 5: item]:
+                leading_newline = 1
+            else:
+                leading_newline = 0
+
+            if '\t' in file_text[item - 5: item]:
+                leading_tab = 1
+            else:
+                leading_tab = 0
+
+            if '  ' in file_text[item - 5: item]:
+                leading_spaces = 1
+            else:
+                leading_spaces = 0
+
+            regex_open = 0
+            regex_close = 0
+
+            try:
+                mda = match[-1][0]
+                if file_text[item: item + len(mda)] == mda:
+                    regex_open = 1
+                    regex_close = 1
+            except IndexError:
+                e = 1
+
             data = data.append(
                 {
                     'position': item / total_text_length,
@@ -154,20 +257,30 @@ def test():
                     'y_close': y_close[index],
                     'trailing_period': trailing_period,
                     'trailing_7': trailing_7,
-                    'trailing_newline': trailing_newline
+                    'trailing_newline': trailing_newline,
+                    'leading_newline': leading_newline,
+                    'total_size': total_text_length,
+                    'leading_tab': leading_tab,
+                    'leading_spaces': leading_spaces,
+                    'regex_open': regex_open,
+                    'regex_close': regex_close
                 }, ignore_index=True)
 
-    logistic = RandomForestClassifier(class_weight='balanced', max_depth=5, random_state=69)
-    # logistic = DecisionTreeClassifier(class_weight='balanced')
-    # logistic = LogisticRegression(class_weight='balanced', random_state=69)
-    X = data[['position', 'near_management', 'trailing_period', 'trailing_7', 'trailing_newline']]
+    logistic = RandomForestClassifier(class_weight='balanced', max_depth=8, random_state=69)
+    # # logistic = DecisionTreeClassifier(class_weight='balanced')
+    # # logistic = LogisticRegression(class_weight='balanced', random_state=69)
+
+    X = data[['position', 'near_management', 'trailing_period', 'trailing_7', 'trailing_newline', 'leading_newline',
+              'total_size', 'leading_tab', 'leading_spaces', 'regex_open']]
+    # X = data[['regex_open']]
+
     y = data['y_open']
 
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.25, random_state=69)
-
-    # X = np.array(d[['position', 'near_management', 'trailing_period', 'trailing_7']])
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.25, random_state=69, shuffle=True)
+    # #
+    # # # X = np.array(d[['position', 'near_management', 'trailing_period', 'trailing_7']])
     logistic.fit(X_train, y_train)
-
+    #
     plot_confusion_matrix(logistic, X_train, y_train)
     plt.show()
     plot_confusion_matrix(logistic, X_test, y_test)
@@ -177,6 +290,19 @@ def test():
     plot_roc_curve(logistic, X_test, y_test)
     plt.show()
 
+    # explainer = shap.TreeExplainer(logistic)
+    # shap_values = explainer.shap_values(X)
+    # shap.summary_plot(shap_values, X)
+
+    data['predicted'] = logistic.predict(X)
+    data['prob'] = [probs[1] for probs in logistic.predict_proba(X)]
+    print(data)
+
+    # shap.plots.beeswarm(shap_values)
+
+    # data_mine(X_train, X_test, y_train, y_test)
+
 if __name__ == "__main__":
-    get_supervised('supervised3.csv')
+    # get_supervised('supervised4.csv')
+    test()
 
