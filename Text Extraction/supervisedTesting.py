@@ -10,8 +10,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 import shap
 
-# PATH = "D:\\Python\\Projects\\FinTech\\SEC-Analytics\\Data\\10-K Sample"
-PATH = "C:\\Users\\jpetr\\PycharmProjects\\SEC-Analytics\\Data\\10-K Sample"
+PATH = "D:\\Python\\Projects\\FinTech\\SEC-Analytics\\Data\\10-K Sample"
+# PATH = "C:\\Users\\jpetr\\PycharmProjects\\SEC-Analytics\\Data\\10-K Sample"
 REGEX_10K = r"(Item[\s]+?7\.[\s\S]*?)(Item[\s]+?8\.)"
 
 pd.options.display.width = 0
@@ -297,6 +297,11 @@ def test():
     data['predicted'] = logistic.predict(X)
     data['prob'] = [probs[1] for probs in logistic.predict_proba(X)]
     print(data)
+
+    for index, row in data[~(data['predicted'] == data['y_open'])].iterrows():
+        os.startfile(f'{PATH}\\{row.file}')
+        print(row['predicted'], row['y_open'])
+        input('continue?')
 
     # shap.plots.beeswarm(shap_values)
 
