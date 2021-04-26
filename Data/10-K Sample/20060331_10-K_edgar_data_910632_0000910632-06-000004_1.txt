@@ -1,0 +1,2046 @@
+<Header>
+<FileStats>
+    <FileName>20060331_10-K_edgar_data_910632_0000910632-06-000004_1.txt</FileName>
+    <GrossFileSize>133198</GrossFileSize>
+    <NetFileSize>102599</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>345</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>13</N_Tables>
+    <N_Exhibits>0</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000910632-06-000004.hdr.sgml : 20060331
+<ACCEPTANCE-DATETIME>20060331084718
+ACCESSION NUMBER:		0000910632-06-000004
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20051231
+FILED AS OF DATE:		20060331
+DATE AS OF CHANGE:		20060331
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ICON CASH FLOW PARTNERS L P SIX
+		CENTRAL INDEX KEY:			0000910632
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-EQUIPMENT RENTAL & LEASING, NEC [7359]
+		IRS NUMBER:				133723089
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-28136
+		FILM NUMBER:		06725327
+
+	BUSINESS ADDRESS:	
+		STREET 1:		100 FIFTH AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10011
+		BUSINESS PHONE:		2124184700
+
+	MAIL ADDRESS:	
+		STREET 1:		100 FIFTH AVENUE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10011
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ICON CASH FLOW 94 LP
+		DATE OF NAME CHANGE:	19930814
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ UuQwq/PnjEkNFuAY3OB1uTpyr4mvv86I3yOAtefk/07Dc/XlkYdxkh0xpX4MlJR6
+ w1Ss/9TnXc9fhGmR0oOO8w==
+
+ 0000910632-06-000004.txt : 20060331
+
+10-K
+ 1
+ six.txt
+
+UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 10-K
+
+     [x]  Annual  Report  Pursuant  to  Section  13 or 15(d)  of the  Securities
+Exchange Act of 1934 for the fiscal year ended   December 31, 2005
+                                       or
+
+     [ ]  Transition  Report  Pursuant to Section 13 or 15(d) of the  Securities
+Exchange Act of 1934
+
+Commission File Number           000-28136
+                       ---------------------------------------------------------
+
+ICON Cash Flow Partners L.P. Six
+             (Exact name of registrant as specified in its charter)
+
+                  Delaware                                      13-4006824
+- --------------------------------------------         ---------------------------
+         (State or other jurisdiction of                     (I.R.S. Employer
+         incorporation or organization)                   Identification Number)
+
+100 Fifth Avenue, 4th Floor, New York, New York                 10011
+- --------------------------------------------------------------------------------
+(Address of principal executive offices)                     (Zip Code)
+
+Registrant's telephone number, including area code           (212) 418-4700
+                                                   -----------------------------
+
+Securities registered pursuant to Section 12(b) of the Act:   None
+
+Securities registered pursuant to Section 12(g) of the Act:  Units of limited
+                                                             partnership
+                                                             interests
+
+Indicate by check mark whether the registrant is a well-known  seasoned  issuer,
+as defined in Rule 405 of the Security Act. [ ] Yes [x] No
+
+Indicate by check mark  whether the  registrant  is not required to file reports
+pursuant to Section 13 or Section 15(d) of the Act. [ ] Yes [x] No
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the  preceding 12 months (or for such  shorter  period that the  registrant  was
+required  to file  such  reports),  and  (2) has  been  subject  to such  filing
+requirements for the past 90 days. [x] Yes [ ] No
+
+Indicate by check mark if disclosure of delinquent  filers  pursuant to Item 405
+of Regulation  S-K is not contained  herein,  and will not be contained,  to the
+best of registrant's  knowledge,  in definitive proxy or information  statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [x] Yes [ ] No
+
+Indicate by check mark whether the registrant is a large  accelerated  filer, an
+accelerated  filer or a  non-accelerated  filer.  See definition of "accelerated
+filer and large  accelerated  filer" in Rule 12b-2 of the  Exchange  Act.  Large
+accelerated filer [ ] Accelerated filer [ ] Non-accelerated filer [x]
+
+Indicate by check mark whether the  registrant is a shell company (as defined in
+Rule 12b-2 of the Exchange Act). [ ] Yes [x] No
+
+State the aggregate market value of the voting and non-voting common equity held
+by non-affiliates  computed by reference to the price at which the common equity
+was last sold, or the average bid and asked price of such common  equity,  as of
+the last day of the registrant's most recently  completed second fiscal quarter:
+Not applicable. There is no established market for the limited partnership units
+of the registrant.
+
+Number of outstanding  limited  partnership units of the registrant on March 15,
+2006 is 377,758.
+
+                       Documents Incorporated by Reference
+None.
+
+Table of Contents
+
+                                     PART I
+
+Page
+                                                                                              
+Item 1.    Business                                                                            1
+
+Item 1A.   Risk Factors                                                                        3
+
+Item 1B.   Unresolved Staff Comments                                                           3
+
+Item 2.    Properties                                                                          3
+
+Item 3.    Legal Proceedings                                                                   3
+
+Item 4.    Submission of Matters to a Vote of Security Holders                                 3
+
+                                     PART II
+
+Item 5.    Market for the Registrant's Securities and Related Security Holder Matters          4
+
+Item 6.    Selected Consolidated Financial Data                                                4
+
+Item 7.    General Partner's Discussion and Analysis of Financial Condition and Results of
+           Operations                                                                          6
+
+Item 7A.   Qualitative and Quantitative Disclosures About Market Risk                         11
+
+Item 8.    Consolidated Financial Statements                                                  12
+
+Item 9.    Changes in and Disagreements with Accountants on Accounting
+           and Financial Disclosure                                                           29
+
+Item 9A.   Controls and Procedures                                                            29
+
+Item 9B.   Other Information                                                                  29
+
+                                    PART III
+
+Item 10.   Directors and Executive Officers of the Registrant's General Partner               30
+
+Item 11.   Executive Compensation                                                             31
+
+Item 12.   Security Ownership of Certain Beneficial Owners and General Partner
+           and Related Security Holder Matters                                                31
+
+Item 13.   Certain Relationships and Related Transactions                                     32
+
+Item 14.   Principal Accountant Fees and Services                                             32
+
+                                     PART IV
+
+Item 15.   Exhibits and Financial Statement Schedules                                         32
+
+     SIGNATURES                                                                               33
+
+PART I
+
+Forward-Looking Statements
+
+     Certain  statements  within this Annual Report on Form 10-K may  constitute
+forward-looking   statements  within  the  meaning  of  the  Private  Securities
+Litigation  Reform  Act of 1995  ("PLSRA").  These  statements  are  being  made
+pursuant to the PSLRA, with the intention of obtaining the benefits of the "safe
+harbor"  provisions of the PLSRA,  and, other than as required by law, we assume
+no  obligation  to  update  or  supplement  such   statements.   Forward-looking
+statements are those that do not relate solely to historical fact. They include,
+but are not limited to, any statement  that may predict,  forecast,  indicate or
+imply future  results,  performance,  achievements  or events.  You can identify
+these   statements  by  the  use  of  words  such  as  "may,"  "will,"  "could,"
+"anticipate," "believe," "estimate," "expects," "intend," "predict" or "project"
+and variations of these words or comparable words or phrases of similar meaning.
+These  forward-looking  statements  reflect our current beliefs and expectations
+with respect to future  events and are based on  assumptions  and are subject to
+risks and  uncertainties  and other  factors  outside our control that may cause
+actual results to differ materially from those projected.
+
+Item 1. Business
+
+     Our History
+
+     ICON Cash Flow Partners L.P. Six (the  "Partnership") was formed on July 8,
+1993 as a Delaware  limited  partnership.  The  Partnership  will continue until
+December 31, 2010, unless terminated sooner. When used in this report, the terms
+"we," "us" and "our" refers to the Partnership.
+
+     Our General  Partner is ICON  Capital  Corp.  (our  "General  Partner"),  a
+Connecticut  corporation.  Our General Partner manages and controls the business
+affairs,  including,  but not limited  to, our  equipment  leases and  financing
+transactions under the terms of a management agreement with us.
+
+     Our maximum offering was $120,000,000 and we commenced business  operations
+on our initial  closing  date,  November 12,  1993,  with the issuance of 16,538
+limited  partnership  units  representing  $1,653,773 of capital  contributions.
+Between  April 1, 1994 and  November  8,  1995,  the date of our final  closing,
+367,319 additional limited partnership units were sold representing  $36,731,939
+of  capital  contributions  bringing  the total  admission  to  383,857  limited
+partnership  units  representing  $38,385,712 of capital  contributions.  In the
+period from November 8, 1995 through December 31, 2005 we redeemed 6,099 limited
+partnership units. At December 31, 2005 we had 377,758 limited partnership units
+outstanding.
+
+     Our Business
+
+     We are an equipment leasing fund. Our principal investment objective was to
+obtain the maximum  economic  return from our investments for the benefit of our
+partners.  To achieve this objective we: (i) acquired a diversified portfolio of
+leases and financing  transactions;  (ii) made monthly cash distributions to our
+partners commencing with each partner's admission to the Partnership, continuing
+through  the  reinvestment  period,  which  ended on November  10,  2000,  (iii)
+re-invested  substantially all undistributed  cash from operations and cash from
+sales of equipment and financing  transactions  during the reinvestment  period;
+and (iv) disposed of our investments and are distributing the cash from sales of
+such  investments to our partners during our  disposition  period which began in
+November 2000. We anticipate completing our disposition period during the Spring
+of 2006.
+
+1
+
+With the  proceeds  from  the sale of our  limited  partnership  units,  we
+primarily  engaged in the business of acquiring  equipment subject to lease and,
+to a lesser degree,  acquiring  ownership rights to items of leased equipment at
+lease  expiration.  Some of our  equipment  leases  were  acquired  for cash and
+provided current cash flow,  which we refer to as "income" leases.  The majority
+of the  purchase  price of our other  equipment  leases was  financed,  so these
+leases generated little or no current cash flow because substantially the entire
+rental payments received from a lessee was paid to a lender.  For these "growth"
+leases,  we anticipated that the future value of the leased  equipment  exceeded
+the cash portion of the purchase price paid for the equipment.
+
+     We  invested  most of the net  proceeds  from  our  offering  in  items  of
+equipment  that were subject to a lease.  After the net offering  proceeds  were
+invested,  additional  investments  were made with the cash  generated  from our
+initial  investments  to the  extent  that  cash was not  needed  for  expenses,
+reserves and distributions to partners.  The investment in additional  equipment
+in this manner is called  "reinvestment."  We purchased  equipment  from time to
+time until five years from the date we completed our  offering.  This time frame
+is called the "reinvestment period," which ended on November 10, 2000. After the
+reinvestment  period,  we began  selling  our assets in the  ordinary  course of
+business during a time frame called the "disposition period."
+
+     Partners'   capital  accounts  are  increased  for  their  initial  capital
+contribution plus their  proportionate  share of earnings and decreased by their
+proportionate  share  of  losses  and  distributions.   Profits,   losses,  cash
+distributions and disposition proceeds are allocated 99% to our limited partners
+and 1% to our General  Partner  until each  limited  partner has  received  cash
+distributions  and  disposition  proceeds  sufficient  to reduce their  adjusted
+capital  contribution  account  to  zero  and  received,   in  addition,   other
+distributions  and  allocations  which would provide an 8% per annum  cumulative
+return on their outstanding  adjusted capital contribution  account.  After such
+time, the distributions will be allocated 90% to our limited partners and 10% to
+our General Partner.
+
+     At  December  31,  2005 and 2004,  we had  total  assets  of  $522,149  and
+$9,751,921, respectively. For the year ended December 31, 2005, our revenue from
+rental income and finance income was $724,372, which was derived from one lessee
+which  accounted  for 99% of our rental  income and finance  income.  We had net
+income for the year ended  December  31,  2005 of  $301,693.  For the year ended
+December  31,  2004,  our revenue  from rental  income and finance  income total
+revenue was $965,309,  which was derived from one lessee which accounted for 97%
+of our rental  income and  finance  income.  We incurred a net loss for the year
+ended  December 31, 2004 of $998,444.  For the year ended December 31, 2003, our
+revenue from rental income and finance income was $1,119,781,  which was derived
+from one lessee which accounted for 84% of our rental income and finance income.
+We incurred a net loss for the year ended December 31, 2003 of $3,109,672.
+
+     At December 31, 2005 we have no remaining  leases and are in the process of
+winding up our operations which we expect to complete during the Spring of 2006.
+
+     Segment Information
+
+     We have only one  operating  segment:  the business of acquiring  equipment
+subject to leases with companies that we generally believe to be creditworthy.
+
+     Our Competition
+
+     The equipment leasing industry is highly competitive.  When seeking leasing
+transactions  for sale, we compete with leasing  companies,  manufacturers  that
+lease their  products  directly,  equipment  brokers  and dealers and  financial
+institutions,   including  commercial  banks  and  insurance   companies.   Many
+competitors are larger than us and have greater financial resources than we do.
+
+     Employees
+
+     We have no direct  employees.  Our General  Partner has full and  exclusive
+control over our management and operations.
+
+2
+
+Available Information
+
+     Our Annual  Reports on Form 10-K and our most recent  Quarterly  Reports on
+Form 10-Q and  amendments to those reports,  if any, and our Current  Reports on
+Form 8-K and any  amendments to those  reports,  are available free of charge on
+our  internet  website  at  http://www.iconcapital.com  as  soon  as  reasonably
+practicable after such reports are electronically filed with or furnished to the
+Securities and Exchange  Commission.  This  information is also available on the
+Securities and Exchange Commission's website, at http://www.sec.gov.
+
+Item 1A. Risk Factors
+
+     We  are  in  our  disposition  period  and  we  anticipate  completing  our
+disposition  during the Spring of 2006.  You should  carefully read and consider
+these risks,  together with all other  information in this Annual Report on Form
+10-K. If any of the following  risks  actually  occur,  our business,  operating
+results and financial condition could be adversely affected.
+
+     Uncertainties associated with the equipment leasing business may affect our
+business, operating results and financial condition.
+
+     We are subject to a number of  uncertainties  associated with the equipment
+leasing business which may affect our business,  operating results and financial
+condition. These include:
+
+o        the technological and economic obsolescence of equipment;
+o        management and other fees paid by us; and
+o        increases in our expenses (including taxes and insurance expense).
+
+     Our General Partner's decisions are subject to conflicts of interest with
+us.
+
+     Our General  Partner  could be confronted  with  decisions in which it will
+have an economic  incentive to place its interests above those of our interests.
+Our General Partner sponsors and currently manages seven other equipment leasing
+businesses. See "Item 13. Certain Relationships and Related Transactions."
+
+Item 1B. Unresolved Staff Comments
+
+         None.
+
+Item 2. Properties
+
+     We neither  own nor lease  office  space or any other real  property in our
+business at the present time.
+
+Item 3. Legal Proceedings
+
+     In the  ordinary  course of  conducting  our  business,  we are  subject to
+certain claims,  suits,  and complaints  filed against us. In General  Partner's
+opinion, the outcome of such matters, if any, will not have a material impact on
+our consolidated financial position or results of operations.  No material legal
+proceedings are currently pending against us or against any of our assets.
+
+Item 4. Submission of Matters to a Vote of Security Holders
+
+     No matters  were  submitted  to a vote of  security  holders for the fourth
+quarter 2005.
+
+3
+ 
+                                     PART II
+
+Item 5.  Market for the  Registrant's  Securities  and Related  Security  Holder
+Matters
+
+     Our  limited  partnership  units  are  not  publicly  traded  nor is  there
+currently a market for our limited  partnership  units.  It is unlikely that any
+such market will develop.
+
+                                                    Number of Partners
+               Title of Class                      as of March 15, 2006
+- ------------------------------------         -------------------------------
+               General Partner                                 1
+              Limited Partners                               2,260
+
+     We pay monthly distributions to our partners beginning with their admission
+to the Partnership through the termination of the reinvestment period, which was
+November  10,  2000.  We did not pay any  distributions  during  the year  ended
+December 31, 2005.  For the two years ended December 31, 2004  distributions  to
+our limited partners totaled $314,487, and $2,417,343 respectively.  For the two
+years ended  December  31,  2004 we paid  distributions  to our General  Partner
+totaling $3,177, and $24,418, respectively.
+
+     Our  reinvestment  period ended November 10, 2000.  During the  disposition
+period, we have and will continue to distribute  substantially all distributable
+cash from  operations and equipment  sales to the partners and begin the orderly
+termination of its  operations  and affairs.  We have not and will not invest in
+any additional new finance or lease transactions  during the disposition period.
+We anticipate completing our disposition during the Spring of 2006.
+
+     In order for National  Association of Securities  Dealers  ("NASD") members
+and their  associated  persons to have  participated in the offering and sale of
+interests in limited partnership units (the "Units") pursuant to the offering or
+to participate in any future offering of our Units, we are required  pursuant to
+NASD Rule  2710(c)(6)  to  disclose  in each annual  report  distributed  to our
+limited partners a per unit estimated value of our Units, the method by which we
+developed the estimated value and the date used to develop the estimated  value.
+In addition, our General Partner must prepare annual statements of our estimated
+Unit values to assist  fiduciaries  of  retirement  plans  subject to the annual
+reporting  requirements of the Employee Retirement Income Security Act ("ERISA")
+in the preparation of their reports  relating to an investment in our Units. For
+these  purposes,  we estimated  that our Units do not have any value per Unit at
+September 30, 2005.
+
+     This  estimate  was based on the  amount of  remaining  undiscounted  lease
+payments on our existing  leases,  the booked  estimated  residual values of the
+equipment held by us upon the  termination of those leases and our cash on hand.
+From this amount we then subtracted our total debt  outstanding and then divided
+that sum by the total  number of Units  outstanding.  This  valuation  was based
+solely on our General  Partner's  perception of market  conditions and the types
+and amounts of our assets. No independent valuation was sought.  However, as set
+forth below, there is no significant public trading market for our Units at this
+time.  The  foregoing  valuation  was  performed  solely  for the ERISA and NASD
+purposes  described above.  There is no market for our Units, and,  accordingly,
+this value does not represent an estimate of the amount a limited  partner would
+receive  if he were to seek to sell  his  Units.  Furthermore,  there  can be no
+assurance  as to the  amount  we may  actually  receive  if and  when we seek to
+liquidate our assets or the amount of lease  payments and equipment  disposition
+proceeds we will  actually  receive over our remaining  term.  Our Units are not
+publicly  traded nor is there  currently a market for our Units.  It is unlikely
+that any such market will develop.
+
+Item 6. Selected Consolidated Financial Data
+
+     The selected  consolidated  financial data should be read together with the
+consolidated  financial  statements  and  related  notes  included  in  Item  8.
+Financial Statements contained elsewhere in our Annual Report on Form 10-K.
+
+4
+
+(a) During the year ended December 31, 2005 we had gains on sales from equipment
+of approximately $631,000, or $1.67 per weighted average limited partner unit.
+
+(b) During the year ended  December  31,  2003 we recorded  an  impairment  loss
+provision of $1,500,000 or $3.97 per weighted average limited partnership unit.
+
+5
+
+Item 7. General  Partner's  Discussion  and Analysis of Financial  Condition and
+Results of Operations
+
+     Our General  Partner's  Discussion and Analysis of Financial  Condition and
+Results of Operations contains forward-looking statements.  These statements are
+based on current  expectations  and  assumptions  that are  subject to risks and
+uncertainties.  Actual  results  could  differ  materially  because  of  factors
+discussed in "Part I.  Forward-Looking  Statements"  and "Item 1A. Risk Factors"
+located elsewhere in this Annual Report on Form 10-K.
+
+     Overview
+
+     We are an equipment  leasing  fund formed on July 8, 1993.  We began active
+operations  on  November  12,  1993.  We  primarily  engaged in the  business of
+acquiring  equipment  subject  to  lease  and,  to a  lesser  degree,  acquiring
+ownership rights to items of leased equipment at lease  expiration.  Some of our
+equipment leases were acquired for cash and provided current cash flow, which we
+refer to as "income"  leases.  The majority of the  purchase  price of our other
+equipment  leases was financed,  so these leases  generated little or no current
+cash flow because  substantially  all the rental payments received from a lessee
+was paid to a lender.  For these "growth" leases, we anticipated that the future
+value of the leased  equipment  would  exceed the cash  portion of the  purchase
+price  paid for the  equipment.  We are  currently  completing  our  disposition
+period,  wherein we have sold our assets and are  seeking to wind up  operations
+during the Spring of 2006.
+
+     Lease and Other Significant Transactions
+
+     During the year ended December 31, 2005, we engaged in the following  sales
+of leased equipment. We did not purchase,  finance or sell any equipment for the
+years ended December 31, 2004 and 2003.
+
+     Chemical Industry
+
+     We had a 25% interest in a sodium chlorate  production  facility subject to
+lease with EKA  Chemicals,  Inc. We received  rental  payments of $186,250  each
+during July and December  2005.  The lease expired with the final rental payment
+in December 2005, at which time title in the equipment  passed to EKA Chemicals,
+Inc. for a one dollar buy out.
+
+     Sale of Interest in ICON Cheyenne LLC
+
+     On December 28, 2005, we sold our 1.0% ownership  interest in ICON Cheyenne
+LLC to ICON Income Fund Eight B L.P. ("Fund Eight B"), an entity also managed by
+our General Partner, for approximately $4,800, thereby increasing Fund Eight B's
+ownership in ICON Cheyenne LLC to 97.73%. This amount represented our fair value
+in ICON  Cheyenne LLC at December 28, 2005.  Fair value was  determined  using a
+cash flow analysis of the remaining leases.
+
+     Sale of two McDonnell Douglas MD-83 Aircraft
+
+     We along with ICON Cash Flow  Partners,  L.P.,  Series E ("Series  E"), had
+ownership  interests  of 99% and 1%,  respectively,  in ICON Cash Flow  Partners
+L.L.C.  II ("LLC II"). LLC II owned a McDonnell  Douglas MD-83 aircraft on lease
+Aerovias de Mexico,  S.A. de C.V.  ("Aeromexico")  which expired  during January
+2005.  Aeromexico  continued to operate the aircraft after the lease  expiration
+and was making  monthly  rental  payments  in  accordance  with the terms of the
+expired  lease.  On October 21, 2005, LLC II sold the aircraft to FINOVA Capital
+Corporation ("FINOVA") in exchange for the outstanding non-recourse debt balance
+owed to  FINOVA  of  approximately  $9,600,000.  LLC II's  gain on this sale was
+approximately  $637,000,  of which the  Partnership's  portion is  approximately
+$631,000.
+
+6
+
+We  along  with  Series  E,  had   ownership   interests  of  1%  and  99%,
+respectively,  in ICON Cash Flow Partners L.L.C.  ("ICON LLC"). ICON LLC owned a
+McDonnell  Douglas MD-83 aircraft on lease with Aeromexico  which expired during
+January  2005.  Aeromexico  continued  to operate the  aircraft  after the lease
+expiration and was making monthly rental  payments in accordance  with the terms
+of the expired lease.  On June 14, 2005, ICON LLC sold the aircraft to FINOVA in
+exchange for the outstanding  balance of non-recourse  debt and accrued interest
+owed to FINOVA of  approximately  $9,831,000.  ICON  LLC's gain on this sale was
+approximately  $180,000,  of which the  Partnership's  portion is  approximately
+$1,800.
+
+     Coal Handling Facility
+
+     We had a 0.5025% interest in  ICON/Boardman  Facility LLC, a joint venture,
+an entity also managed by our General  Partner that entered into a Memorandum of
+Agreement with the lessee to sell the coal handling  facility  effective May 27,
+2005. The sale price was approximately  $21,250,000.  Our portion of the gain on
+the sale was approximately $24,000.
+
+     Current Business Environment and Outlook
+
+     The  United  States  economy  appears  to be  recovering,  and the  leasing
+industry's outlook for the foreseeable future is encouraging.  The November 2005
+Economic Vital Signs Report by the United States Joint Economic Committee stated
+that fears stemming from economic impact of natural disasters appears unfounded,
+that gross domestic  product (GDP) increased 3.8% during the third quarter 2005.
+As conditions for capital  investment  remain  favorable and indicate  continued
+growth,  we anticipate that capital spending by corporations  should continue to
+increase in 2006.  Increased  capital  spending  may increase  available  leases
+thereby  creating  more  opportunities  in the  leasing  market.  We believe the
+leasing industry's outlook for the foreseeable future is encouraging.
+
+     Other  factors  which may  negatively  affect the leasing  industry are the
+proposed  legal and  regulatory  changes that may affect tax benefits of leasing
+and the  continued  misperception  by potential  lessees,  stemming  from Enron,
+WorldCom and others,  that leasing should not play a central role as a financing
+alternative. However, as economic growth continues and interest rates inevitably
+begin to rise over time, we are optimistic  that more lessees will return to the
+marketplace.
+
+     New Accounting Pronouncements
+
+     On June 1, 2005 the Financial  Accounting  Standards Board issued Statement
+of Financial Accounting Standards ("SFAS") No. 154 "Accounting Changes and Error
+Corrections" ("SFAS 154") which replaces Accounting Principles Board Opinion No.
+20,  "Accounting  Changes"  ("APB  20") and SFAS No.  3,  "Reporting  Accounting
+Changes in Interim  Financial  Statements," and changes the requirements for the
+accounting  for and  reporting  of a change in  accounting  principle.  SFAS 154
+requires  retrospective  application to prior periods' financial statements of a
+voluntary change in accounting  principle unless it is impracticable  for fiscal
+years  beginning  after December 15, 2005. APB 20 previously  required that most
+voluntary  changes in  accounting  principle be  recognized  by including in net
+income of the period of the change the cumulative  effect of changing to the new
+accounting  principle.  We do not  expect  the  adoption  of SFAS 154 to have an
+impact on our financial position or results of operations.
+
+     Our General Partner does not believe that any recently issued,  but not yet
+effective,  accounting  pronouncements,  if  currently  adopted,  would  have  a
+material effect on the accompanying financial statements.
+
+7
+
+Critical Accounting Policies
+
+     An  appreciation  of our  critical  accounting  policies  is  necessary  to
+understand our financial results. These policies may require our General Partner
+to make difficult and subjective  judgments  regarding  uncertainties,  and as a
+result,  such  estimates may  significantly  impact our financial  results.  The
+precision of these  estimates and the  likelihood of future  changes depend on a
+number of underlying variables and a range of possible outcomes.  We applied our
+critical accounting policies and estimation methods  consistently in all periods
+presented.  We consider the following  accounting policies to be critical to our
+business:
+
+o        Lease classification and revenue recognition
+o        Asset Impairments
+
+     Lease Classification and Revenue Recognition
+
+     The equipment we lease to third  parties is classified  either as a finance
+lease, a leveraged lease, or an operating lease,  which is determined based upon
+the terms of each lease. Initial direct costs are capitalized and amortized over
+the term of the related  lease for both a finance  lease and a leveraged  lease.
+For an operating  lease, the initial direct costs are included as a component of
+the cost of the equipment and depreciated.
+
+     For finance leases, we record, at lease inception,  the total minimum lease
+payments receivable from the lessee, the estimated  unguaranteed  residual value
+of the equipment at lease  termination,  the initial direct costs related to the
+lease and the related unearned income. Unearned income represents the difference
+between the sum of the minimum  lease  payments  receivable  plus the  estimated
+unguaranteed residual minus the cost of the leased equipment. Unearned income is
+recognized as finance income ratably over the term of the lease.
+
+     For leveraged leases, we record, at lease inception,  our net investment in
+the equipment  which  consists of the minimum  lease  payments  receivable,  the
+estimated  unguaranteed residual value of the equipment at lease termination and
+the initial  direct costs related to the lease,  net of the unearned  income and
+principal  and interest on the related  non-recourse  debt.  Unearned  income is
+recognized  as income over the life of the lease at a constant rate of return on
+the positive net investment.
+
+     For operating leases, income is recorded as rental income and is recognized
+on the straight line method over the lease term.
+
+     Our General  Partner has an  investment  committee  that  approves each new
+equipment  acquisition  and lease  transaction.  As part of their process,  they
+determine the residual value to be used once the  acquisition has been approved.
+The factors  considered in determining  the residual value include,  but are not
+limited to, the  creditworthiness of the potential lessee, the type of equipment
+being  considered,  how the equipment is integrated  into the potential  lessees
+business,  the length of the lease and  industry in which the  potential  lessee
+operates.  Residual  values are reviewed in accordance with our policy to review
+all significant assets in our portfolio.
+
+     Asset Impairments
+
+     The significant assets in our asset portfolio are periodically reviewed, at
+least annually,  by our General Partner,  to determine whether events or changes
+in  circumstances  indicate  that the  carrying  value  of an  asset  may not be
+recoverable.   Our  General  Partner  uses  independent  qualified  third  party
+appraisers  to  assist  in the  review  process.  An  impairment  loss  will  be
+recognized if the carrying  amount of a long-lived  asset is not recoverable and
+exceeds its fair value. In such circumstances,  we will estimate the future cash
+flows  (undiscounted  and without interest  charges) expected to result from the
+use of the asset and its eventual disposition.  Future cash flows are the future
+cash inflows  expected to be generated by an asset less the future cash outflows
+expected to be necessary to obtain those  inflows.  An  impairment  loss will be
+measured  as the  amount by which the  carrying  amount  of a  long-lived  asset
+exceeds its fair value.
+
+8
+
+The events or changes in  circumstances  which  generally  indicate that an
+asset  may be  impaired  are (i) the  estimated  fair  value  of the  underlying
+equipment  is less than our  carrying  value or (ii) the lessee is  experiencing
+financial difficulties and it does not appear likely that the estimated proceeds
+from the  disposition  of the asset will be  sufficient to satisfy the remaining
+obligation  to the lender and our residual  position in the asset.  Generally in
+the latter  situation,  the residual  position  relates to equipment  subject to
+third party notes payable where the lessee remits their rental payments directly
+to the lender and we do not recover our residual position until the note payable
+is repaid in full.
+
+Results of  Operations  for the Years Ended  December 31, 2005 ("2005") and 2004
+("2004")
+
+     We sold  our  final  leased  assets  during  December  2005  and we have no
+remaining assets other than cash. We expect to be liquidating  during the Spring
+of 2006.
+
+         Revenue for 2005 and 2004 are summarized as follows:
+
+Total revenue for 2005 increased by $309,763, or 28.7%, as compared to 2004
+which was  primarily due to a net gain on sales of  equipment.  Offsetting  this
+increase we  experienced  decreases  in every other  revenue  category  which is
+consistent with our winding up of operations during 2005.
+
+         Expenses for 2005 and 2004 are summarized as follows:
+
+Total  expenses for 2005  decreased  by  $990,374,  or 47.7% as compared to
+2004. The decrease is consistent with our winding up of operations  during 2005.
+During 2005 we sold all of our leased equipment.
+
+     Net Loss
+
+     As a result of the  foregoing  factors,  net income in 2005 was $301,693 as
+compared to a net loss in 2004 of $998,444.  The net income per weighted average
+number of limited  partnership  units outstanding was $0.79 for 2005 as compared
+to a  net  loss  per  weighted  average  number  of  limited  partnership  units
+outstanding of $2.62 for 2004.
+
+9
+
+Results of  Operations  for the Years Ended  December 31, 2004 ("2004") and 2003
+("2003")
+
+         Revenue for 2004 and 2003 are summarized as follows:
+
+Total revenue for 2004 decreased by $57,451,  or 5.1%, as compared to 2003.
+The decrease in rental  income was due to equipment on lease to National  Steel,
+previously held as investments in operating leases, which was sold at the end of
+2003. During 2004, we terminated leases and incurred a smaller loss on equipment
+sales  than we  incurred  during  2003.  The  increase  in  income  (loss)  from
+investments  in joint  ventures  was due  primarily  to the  dissolution  of our
+investment  in AIC Trust.  The decrease in other income is due to an  adjustment
+during 2004  related to our General  Partner's  revised  estimate  that  certain
+liabilities relating to previously terminated leases were no longer valid.
+
+         Expenses for 2004 and 2003 are summarized as follows:
+
+Total  expenses for 2004  decreased by  $2,168,679,  or 51%, over 2003. The
+decrease in expenses was a result of overall reduced fund activity. The decrease
+in  depreciation  was  due to our  General  Partner's  decision  to  discontinue
+depreciation on the Aeromexico  aircraft at July 1, 2004 due to the value of the
+aircraft  approximating  its fair value at that time. The decrease in impairment
+loss was due to an impairment  charge on the  Aeromexico  aircraft in 2003 which
+was not deemed  necessary in 2004.  The  decrease in general and  administrative
+expenses was primarily due to a reduction in professional  fees due to the above
+mentioned  reduction in fund  activity.  The provision for bad debts reversal in
+2003 was due to our  General  Partner's  review of the  allowance  for  doubtful
+accounts and the  conclusion  that the allowance was overstated at that time. No
+such reversal was deemed necessary in 2004.
+
+10
+
+Net Loss
+
+     As a result of the  foregoing  factors,  net loss was  $998,444  in 2004 as
+compared to a net loss of $3,109,672 in 2003. The net loss per weighted  average
+number of limited  partnership  units  outstanding was $2.62 in 2004 compared to
+the  net  loss  per  weighted  average  number  of  limited   partnership  units
+outstanding of $8.15 in 2003.
+
+     Liquidity and Capital Resources
+
+     Sources and Uses of Cash
+
+     Our main  source  of cash  during  2005  and  2004  was from our  operating
+activities and investing activities,  respectively.  During 2005 we had positive
+cash flows from operations of approximately $349,000. Additionally,  during 2005
+we received  cash from  investing  activities.  We also  received  approximately
+$50,000 from the sales of equipment and approximately $84,000 from distributions
+from our  investments in joint ventures.  During 2004 we received  approximately
+$452,000  from   distributions   from  our   investments   in  joint   ventures.
+Additionally,  during  2004  we  had  positive  cash  flow  from  operations  of
+approximately $203,000.
+
+     We had no  substantial  uses of cash during 2005.  Our primary uses of cash
+during 2004 were cash distributions to our partners and repayments to affiliated
+entities.
+
+     Financings and Borrowings
+
+     At December 31, 2005, we are not a party to any non-recourse debt.
+
+     Based upon our current  level of  operations,  we believe  that the cash we
+have available will be adequate to meet our  short-term  liquidity  needs and to
+complete our disposition  period,  which we anticipate will be completed  during
+the Spring of 2006.
+
+     Distributions
+
+     We  paid  monthly  distributions  to  our  partners  beginning  with  their
+admission to the Partnership through the termination of the reinvestment period,
+which was November 10, 2000.  We did not pay any  distributions  during the year
+ended  December  31,  2005.  For the  years  ended  December  31,  2004 and 2003
+distributions were made to our limited partners totaled $314,487, and $2,417,343
+respectively.  For  the  years  ended  December  31,  2004,  and  2003  we  paid
+distributions to our General Partner totaling $3,177, and $24,418, respectively.
+
+     Contractual Obligations and Commitments
+
+     At December  31, 2005 we have no  contractual  obligations  and are a not a
+party to non-recourse or recourse debt.
+
+     Off-Balance Sheet Transactions
+
+         None.
+
+Item 7A. Qualitative and Quantitative Disclosures About Market Risk
+
+     We, like most other companies,  are exposed to certain market risks,  which
+includes changes in interest rates and the demand for equipment (and the related
+residuals)  owned by us. We believe  that our  exposure to other  market  risks,
+including foreign currency  exchange rate risk,  commodity risk and equity price
+risk, are  insignificant,  at this time, to both our financial  position and our
+results of operations.
+
+11
+
+Item 8.  Financial Statements
+
+     Index to Financial Statements                                     Page
+
+     Report of Independent Registered Public Accounting Firm            13
+
+     Consolidated Balance Sheets at December 31, 2005 and 2004          14
+
+     Consolidated Statements of Operations for the Years Ended
+       December 31, 2005, 2004 and 2003                                 15
+
+     Consolidated Statement of Changes in Partners' Equity for the
+       Years Ended December 31, 2003, 2004 and 2005                     16
+
+     Consolidated Statements of Cash Flows for the Years Ended
+       December 31, 2005, 2004, and 2003                                17
+
+     Notes to Consolidated Financial Statements                         19
+
+12
+
+The Partners
+ICON Cash Flow Partners L.P. Six
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+     We have audited the accompanying  consolidated  balance sheets of ICON Cash
+Flow Partners L.P. Six (a Delaware  limited  partnership) and subsidiaries as of
+December  31,  2005  and  2004  and  the  related  consolidated   statements  of
+operations,  changes in partners'  equity,  and cash flows for each of the three
+years in the period  ended  December  31,  2005.  These  consolidated  financial
+statements  are  the  responsibility  of  the  Partnership's   management.   Our
+responsibility  is  to  express  an  opinion  on  these  consolidated  financial
+statements based on our audits.
+
+     We  conducted  our audits in  accordance  with the  standards of the Public
+Company Accounting Oversight Board (United States). Those standards require that
+we plan and perform the audit to obtain  reasonable  assurance about whether the
+financial statements are free of material  misstatement.  The Partnership is not
+required  to have,  nor were we engaged  to  perform,  an audit of its  internal
+control over financial reporting.  Our audit included  consideration of internal
+control over financial  reporting as a basis for designing audit procedures that
+are appropriate in the  circumstances,  but not for the purpose of expressing an
+opinion  on  the  effectiveness  of  the  Partnership's  internal  control  over
+financial reporting.  Accordingly, we express no such opinion. An audit includes
+examining,  on a test basis,  evidence supporting the amounts and disclosures in
+the  financial  statements.  An audit also  includes  assessing  the  accounting
+principles  used  and  significant  estimates  made  by  management,  as well as
+evaluating the overall  financial  statement  presentation.  We believe that our
+audits provide a reasonable basis for our opinion.
+
+In our opinion,  the consolidated  financial  statements  referred to above
+present fairly, in all material  respects,  the financial  position of ICON Cash
+Flow Partners L.P. Six and  subsidiaries  as of December 31, 2005 and 2004,  and
+the results of their operations and their cash flows for each of the three years
+in the period ended December 31, 2005, in conformity with accounting  principles
+generally accepted in the United States of America.
+
+     As  discussed  in Note  1,  the  Partnership's  reinvestment  period  ended
+November 10, 2000 and its disposition period commenced.  As of December 31, 2005
+the  Partnership  has  disposed of its entire  equipment  portfolio  and related
+assets and anticipates winding up operations during 2006.
+
+/s/ Hays & Company LLP
+
+March 3, 2006
+New York, New York
+
+13
+ 
+                        ICON Cash Flow Partners L.P. Six
+                        (A Delaware Limited Partnership)
+                           Consolidated Balance Sheets
+                                  December 31,
+
+                                     ASSETS
+                                                    2005               2004
+                                                    ----               ----
+ Cash and cash equivalents                      $      522,149    $     34,167
+                                                --------------    ------------
+
+ Investments in finance leases:
+     Minimum rents receivable                                -         563,313
+     Unearned income                                         -          (2,967)
+                                                --------------    ------------
+
+     Net investment in finance leases                        -         560,346
+                                                --------------    ------------
+
+ Investments in operating leases:
+    Equipment, at cost                                       -      17,714,798
+    Accumulated depreciation                                 -      (8,668,859)
+                                                --------------    ------------
+   Net investments in operating leases                       -       9,045,939
+                                                --------------    ------------
+
+ Investments in joint ventures                               -          86,524
+ Other assets, net                                           -          24,945
+                                                --------------    ------------
+
+            Total assets                        $      522,149    $  9,751,921
+                                                ==============    ============
+
+                        LIABILITIES AND PARTNERS' EQUITY
+
+ Note payable - non-recourse and accrued
+   interest                                     $            -    $  9,339,699
+ Security deposits and deferred
+   credits                                                   -           7,337
+ Accounts payable and accrued
+   expenses                                                  -           7,613
+ Due to affiliates, net                                      -         150,000
+ Minority interest                                           -          26,816
+                                                --------------    -----------
+
+        Total liabilities                                    -       9,531,465
+                                                --------------    ------------
+
+ Commitments and Contingencies
+
+ Partners' equity:
+   General Partner                                    (322,463)       (325,480)
+   Limited Partners (377,758.47 units outstanding,
+         $100 per unit original issue price)           844,612         545,936
+                                                --------------    ------------
+   Total partners'equity                               522,149         220,456
+                                                --------------    ------------
+   Total liabilities and partners' equity       $      522,149    $  9,751,921
+                                                ==============    ============
+
+See notes to consolidated financial statements.
+
+14
+ 
+                        ICON Cash Flow Partners L.P. Six
+                        (A Delaware Limited Partnership)
+                      Consolidated Statements of Operations
+                            Years Ended December 31,
+
+See notes to consolidated financial statements.
+
+15
+
+ICON Cash Flow Partners L.P. Six
+                        (A Delaware Limited Partnership)
+              Consolidated Statement of Changes in Partners' Equity
+                  Years Ended December 31, 2003, 2004 and 2005
+
+See notes to consolidated financial statements.
+
+16
+ 
+                        ICON Cash Flow Partners L.P. Six
+                        (A Delaware Limited Partnership)
+                      Consolidated Statements of Cash Flows
+                            Years Ended December 31,
+
+See notes to consolidated financial statements.
+
+17
+
+ICON Cash Flow Partners L.P. Six
+                        (A Delaware Limited Partnership)
+                      Consolidated Statements of Cash Flows
+                            Years Ended December 31,
+
+See notes to consolidated financial statements.
+
+18
+ 
+                        ICON Cash Flow Partners L.P. Six
+                        (A Delaware Limited Partnership)
+                   Notes To Consolidated Financial Statements
+                           December 31, 2005 and 2004
+
+(1)    Organization
+
+     ICON Cash Flow Partners L.P. Six (the  "Partnership") was formed on July 8,
+1993 as a  Delaware  limited  partnership.  The  Partnership  is  engaged in one
+business segment,  the business of acquiring  equipment  subject to leases.  The
+Partnership will continue until December 31, 2010, unless terminated sooner.
+
+     The  principal  objective  of the  Partnership  was to obtain  the  maximum
+economic return from its investments for the benefit of its partners. To achieve
+this objective, the Partnership:  (i) acquired a diversified portfolio of leases
+and financing transactions; (ii) made monthly cash distributions to its partners
+commencing  with each  partner's  admission to the  Partnership,  and  continued
+through  the  reinvestment  period,  which  ended on November  10,  2000;  (iii)
+re-invested  substantially all undistributed  cash from operations and cash from
+sales of equipment and financing  transactions  during the reinvestment  period;
+and (iv) disposed of the Partnership's  investments and is distributing the cash
+from sales of such investments to its partners during the disposition period.
+
+     The General  Partner of the Partnership is ICON Capital Corp. (the "General
+Partner"), a Connecticut  corporation.  The General Partner manages and controls
+the business affairs,  including but not limited to, the Partnership's equipment
+leases and financing transactions under the terms of a management agreement with
+the Partnership.  Additionally,  the General Partner has a 1% ownership interest
+in the Partnership.
+
+     The  Partnership's  reinvestment  period  ended  November  10, 2000 and the
+Partnership  commenced its disposition period. During the disposition period the
+Partnership is distributing substantially all distributable cash from operations
+and equipment sales to the partners and will continue the orderly termination of
+its operations and affairs.  The  Partnership  will not invest in any additional
+finance or lease transactions during the disposition period. The Partnership has
+disposed of its entire  equipment  portfolio and related assets and  anticipates
+winding up its operations during 2006.
+
+     The Partnership's maximum offering amount was $120,000,000. The Partnership
+commenced  business  operations on its initial  closing date of, March 31, 1994,
+with the issuance of 16,538 limited partnership units representing $1,653,773 of
+capital  contributions.   Between  April  1,  1994  and  November  8,  1995  the
+Partnership's  final closing date, 367,319 additional limited  partnership units
+were sold,  bringing the total admissions to 383,857 limited  partnership  units
+representing  $38,385,712  of capital  contributions.  Between 1995 and 2005 the
+Partnership  redeemed  6,099  limited  partnership  units  resulting  in 377,758
+limited partnership units outstanding at December 31, 2005.
+
+     Partners'   capital  accounts  are  increased  for  their  initial  capital
+contribution plus their  proportionate  share of earnings and decreased by their
+proportionate  share  of  losses  and  distributions.   Profits,   losses,  cash
+distributions and disposition proceeds are allocated 99% to the limited partners
+and 1% to the General  Partner  until each  limited  partner has  received  cash
+distributions and disposition proceeds sufficient to reduce its adjusted capital
+contribution  account to zero and receive, in addition,  other distributions and
+allocations  which  would  provide  a 10% per annum  cumulative  return on their
+outstanding  adjusted  capital  contribution  account.   After  such  time,  the
+distributions  will be  allocated  90% to the  limited  partners  and 10% to the
+General Partner.
+
+19
+ 
+                        ICON Cash Flow Partners L.P. Six
+                        (A Delaware Limited Partnership)
+                   Notes To Consolidated Financial Statements
+                           December 31, 2005 and 2004
+
+(2)    Summary of Significant Accounting Policies
+
+     Consolidation and Minority Interest
+
+     The  consolidated   financial   statements  include  the  accounts  of  the
+Partnership and its majority owned subsidiaries.  All intercompany  accounts and
+transactions have been eliminated in consolidation.
+
+    The Partnership accounts for its interests in minority owned joint ventures
+where the  Partnership's  ownership  percentage is 20% to 50%,  under the equity
+method of accounting.  In such cases, the Partnership's original investments are
+recorded  at  cost  and  adjusted   for  its  share  of  earnings,   losses  and
+distributions.
+
+     The Partnership accounts for its interests in minority owned joint ventures
+where the  Partnership's  ownership  percentage  is less than 20% under the cost
+method of accounting.  In such cases, the Partnership's original investments are
+recorded at cost and adjusted for its distributions.
+
+     Cash and Cash Equivalents
+
+     Cash  and  cash  equivalents  include  cash  in  banks  and  highly  liquid
+investments with original maturity dates of three months or less when purchased.
+
+     Concentration of Credit Risk
+
+     Concentrations  of credit risk with respect to lessees are dispersed across
+different  industry  segments within the United States of America and throughout
+the world; accordingly the Partnership is exposed to business and economic risk.
+Although the Partnership does not currently  foresee a concentrated  credit risk
+associated  with these lessees,  lease payments are dependent upon the financial
+stability of the segments in which they operate.
+
+     Allowance for Doubtful Accounts
+
+     The  Partnership  estimates  collectibility  of  receivables  by  analyzing
+historical bad debts,  lessee  concentrations  and credit worthiness and current
+economic  trends when  evaluating  the  adequacy of the  allowance  for doubtful
+accounts.  The Partnership  records an allowance for doubtful  accounts when the
+analysis indicates that the probability of full collection is unlikely.
+
+      Investment in Operating Leases
+
+     Operating  leases  are  stated  at  cost  less  accumulated   depreciation.
+Depreciation is being provided for using the straight-line  method over the term
+of the related  equipment  lease to its estimated  residual  value at lease end.
+Upon  final  disposition  of the  equipment,  the cost and  related  accumulated
+depreciation  will be removed from the accounts and the resulting profit or loss
+will be reflected in the  consolidated  statement of  operations.  Revenues from
+operating  leases are  recognized on a straight line basis over the lives of the
+related leases.
+
+20
+
+ICON Cash Flow Partners L.P. Six
+                        (A Delaware Limited Partnership)
+                   Notes To Consolidated Financial Statements
+                           December 31, 2005 and 2004
+
+(2)    Summary of Significant Accounting Policies - continued
+
+     Asset Impairments
+
+     The  Partnership's  asset  portfolio  is  periodically  reviewed,  at least
+annually, to determine whether events or changes in circumstances  indicate that
+the carrying  value of an asset may not be  recoverable.  An impairment  loss is
+recognized if the carrying  amount of a long-lived  asset is not recoverable and
+exceeds its fair value. If there is an indication of impairment, the Partnership
+estimates  the future cash flows  (undiscounted  and without  interest  charges)
+expected  to  result  from the use of the asset  and its  eventual  disposition.
+Future cash flows are the cash inflows expected to be generated by an asset less
+the cash  outflows  expected to be  necessary  to obtain  those  inflows.  If an
+impairment is determined to exist,  an impairment loss is measured as the amount
+by which the carrying amount of a long-lived asset exceeds its fair value.
+
+     The events or changes in  circumstances  which  generally  indicate that an
+asset  may be  impaired  are (i) the  estimated  fair  value  of the  underlying
+equipment  is less than its  carrying  value or (ii) the lessee is  experiencing
+financial difficulties and it does not appear likely that the estimated proceeds
+from the  disposition  of the asset will be  sufficient to satisfy the remaining
+obligation to the  non-recourse  lender and our residual  position in the asset.
+Generally in the latter  situation,  the residual  position relates to equipment
+subject to third party  non-recourse notes payable where the lessee remits their
+rental payments  directly to the lender and the Partnership does not recover its
+residual position until the non-recourse note payable is repaid in full.
+
+     Redemption of Limited Partnership Units
+
+     The Partnership may, at its discretion,  redeem units from a limited number
+of  its  limited  partners  in any  one  year,  as  defined  in the  partnership
+agreement.   The  redemption  amounts  are  calculated   following  a  specified
+redemption formula in accordance with the partnership agreement.  Redeemed units
+have no  voting  rights  and do not  share in  distributions.  Redeemed  limited
+partnership units are accounted for as a reduction from partners' equity.
+
+     Per Unit Data
+
+     Net income  (loss) and  distributions  per unit are based upon the weighted
+average number of units outstanding during the year.
+
+     Revenue Recognition
+
+     The Partnership  leases  equipment to third parties which may be classified
+as either a finance lease or an operating lease,  which is determined based upon
+the terms of each lease. Initial direct costs are capitalized and amortized over
+the term of the related lease for a finance lease.  For an operating  lease, the
+initial  direct costs are  included as a component of the cost of the  equipment
+and depreciated.
+
+     For finance leases, the Partnership records, at lease inception,  the total
+minimum lease payments  receivable from the lessee,  the estimated  unguaranteed
+residual value of the equipment at lease  termination,  the initial direct costs
+related to the lease and the related unearned income. Unearned income represents
+the difference between the sum of the minimum lease payments receivable plus the
+estimated unguaranteed residual minus the cost of the leased equipment. Unearned
+income is  recognized  as finance  income  over the term of the lease  using the
+effective interest rate method.
+
+21
+
+ICON Cash Flow Partners L.P. Six
+                        (A Delaware Limited Partnership)
+                   Notes To Consolidated Financial Statements
+                           December 31, 2005 and 2004
+
+(2)    Summary of Significant Accounting Policies - continued
+
+     For  operating  leases,  rental  income is  recognized on the straight line
+method over the lease term.  Billed and uncollected  operating lease receivables
+are included in other  assets.  Deferred  income is the  difference  between the
+timing of the cash payments and the income recognized on a straight line basis.
+
+     Income Taxes
+
+     The  Partnership is taxed as a partnership for Federal and state income tax
+purposes.  No provision for income taxes has been  recorded  since the liability
+for such taxes is that of each of the individual  limited  partner's rather than
+the  Partnership's.   The  Partnership's  income  tax  returns  are  subject  to
+examination by the Federal and state taxing  authorities,  and changes,  if any,
+could adjust the individual income tax of the limited partner's.
+
+     Fair Value of Financial Instruments
+
+     Statement of Financial Accounting Standards ("SFAS") No. 107,  "Disclosures
+About Fair Values of Financial Instruments," requires disclosures about the fair
+value of financial instruments, except for lease related assets and liabilities.
+Separate disclosure of fair value information at December 31, 2005 and 2004 with
+respect to the Partnership's  assets and liabilities is not separately  provided
+since  (i)  SFAS No.  107  does not  require  fair  value  disclosures  of lease
+arrangements and (ii) the carrying value of financial  assets,  other than lease
+related  investments,  and the  recorded  value of notes  payables  approximates
+market value.
+
+     Use of Estimates
+
+     The  preparation  of financial  statements  in conformity  with  accounting
+principles  generally  accepted  in the United  States of America  requires  the
+General  Partner to make  estimates  and  assumptions  that affect the  reported
+amounts of assets and  liabilities  and the disclosure of contingent  assets and
+liabilities  at the  date  of the  consolidated  financial  statements  and  the
+reported  amounts of revenues and expenses during the reporting  period.  Actual
+results could differ from those estimates.
+
+     Recent Accounting Pronouncements
+
+     On June 1, 2005 the Financial  Accounting  Standards Board issued Statement
+of Financial Accounting Standards ("SFAS") No. 154 "Accounting Changes and Error
+Corrections" ("SFAS 154") which replaces Accounting Principles Board Opinion No.
+20,  "Accounting  Changes"  ("APB  20") and SFAS No.  3,  "Reporting  Accounting
+Changes in Interim  Financial  Statements," and changes the requirements for the
+accounting  for and  reporting  of a change in  accounting  principle.  SFAS 154
+requires  retrospective  application to prior periods' financial statements of a
+voluntary change in accounting  principle unless it is impracticable  for fiscal
+years  beginning  after December 15, 2005. APB 20 previously  required that most
+voluntary  changes in  accounting  principle be  recognized  by including in net
+income of the period of the change the cumulative  effect of changing to the new
+accounting  principle.  The Partnership does not expect the adoption of SFAS 154
+to have an impact on its financial position or results of operations.
+
+     The General Partner does not believe that any recently issued,  but not yet
+effective,  accounting  pronouncements,  if  currently  adopted,  would  have  a
+material effect on the accompanying consolidated financial statements.
+
+22
+
+ICON Cash Flow Partners L.P. Six
+                        (A Delaware Limited Partnership)
+                   Notes To Consolidated Financial Statements
+                           December 31, 2005 and 2004
+
+(3)    Joint Ventures
+
+     The Partnership  and its  affiliates,  entities also managed by the General
+Partner,  formed  seven  joint  ventures,  discussed  below,  for the purpose of
+acquiring and managing various assets. The Partnership and these affiliates have
+substantially  identical investment objectives and participate on the same terms
+and  conditions.  The  Partnership and the other joint venturers have a right of
+first  refusal to purchase the  equipment,  on a pro-rata  basis,  if any of the
+other joint  venturers  desire to sell their interests in the equipment or joint
+venture.
+
+     The joint venture  described below is majority owned and consolidated  with
+the Partnership.
+
+     ICON Cash Flow Partners L.L.C. II
+
+     The  Partnership  along with an affiliate,  ICON Cash Flow Partners,  L.P.,
+Series E ("Series E), had ownership  interests of 99% and 1%,  respectively,  in
+ICON Cash Flow Partners  L.L.C II ("LLC II").  LLC II owned a McDonnell  Douglas
+MD-83  aircraft  (the "LLC II  Aircraft").  The LLC II  Aircraft  was  leased to
+Aerovias de Mexico,  S.A.  de C.V.  ("Aeromexico")  for $75,000 per month.  This
+lease expired  during January 2005.  Aeromexico  continued to operate the LLC II
+Aircraft  after the lease  expiration  and was making  monthly  rental  payments
+directly to the non-recourse  lender in accordance with the terms of the expired
+lease.
+
+     On October  21,  2005,  LLC II sold its  interest in the LLC II Aircraft to
+FINOVA  Capital  Corporation  ("FINOVA")  in exchange  for the then  outstanding
+non-recourse debt balance owed to FINOVA of approximately $9,600,000.  Given the
+depressed market for aircraft of this type, the General Partner  determined that
+any remarketing  opportunity  would not benefit the Partnership given the amount
+of the outstanding debt and the maintenance upgrades that may have been required
+to the Aircraft.  Accordingly,  the General  Partner  decided it was in the best
+interest  of the  Partnership  to sell the LLC II  Aircraft  to  FINOVA  in full
+satisfaction of the outstanding  balance of the debt. LLC II's gain on this sale
+was approximately  $637,000 of which the Partnership's  portion is approximately
+$631,000.
+
+     The  six  joint  ventures   described  below  are  minority  owned  by  the
+Partnership  and  are  accounted  for  under  the  equity  method,  whereby  the
+Partnership's  original  investment  was recorded at cost and is adjusted by its
+share of earnings, losses and distributions of the joint ventures.
+
+     ICON Cash Flow Partners L.L.C.
+
+     The Partnership along with Series E, had ownership interests of 1% and 99%,
+respectively,  in ICON Cash Flow Partners L.L.C. ("ICON LLC"). ICON LLC owned an
+aircraft  (the "LLC  Aircraft")  on lease with  Aeromexico.  This lease  expired
+during January 2005.  Aeromexico continued to operate the LLC Aircraft after the
+lease  expiration and was making monthly rental  payments in accordance with the
+terms of the expired lease.
+
+     On June 14, 2005,  ICON LLC sold the LLC Aircraft to FINOVA in exchange for
+the  outstanding  balance of  non-recourse  debt and  accrued  interest  owed to
+FINOVA.  The  gain on  this  sale  was  approximately  $180,000,  of  which  the
+Partnership's portion is approximately $1,800.
+
+23
+
+ICON Cash Flow Partners L.P. Six
+                        (A Delaware Limited Partnership)
+                   Notes To Consolidated Financial Statements
+                           December 31, 2005 and 2004
+
+(3)    Joint Ventures - continued
+
+     ICON Receivables 1997-A L.L.C.
+
+     The Partnership along with three affiliates, ICON Cash Flow Partners, L.P.,
+Series D ("Series D"),  Series E, and ICON Cash Flow Partners L.P.  Seven ("L.P.
+Seven")  contributed  and assigned  equipment  leases,  finance  receivables and
+residuals  to ICON  Receivables  1997-A  L.L.C.  ("1997-A")  for the  purpose of
+securitizing their cash flow collections. At December 31, 2004, the Partnership,
+Series D, Series E and L.P. Seven owned,  31.03%,  17.81%,  31.19%,  and 19.97%,
+respectively, in 1997-A.
+
+     At December 31,  2004,  1997-A's  operations  were  liquidated  as the note
+holders have been fully repaid for their  investment in 1997-A and the remaining
+receivables  relating  to the  securitizations  totaling  $345,152,  due from an
+affiliate of the General Partner relating to lease receivables, were written-off
+as  uncollectible.  The remaining  cash was being  reserved to pay for potential
+property tax; sales tax and other liabilities, if any.
+
+     ICON Receivables 1997-B L.L.C.
+
+     The Partnership and two  affiliates,  Series E and L.P. Seven,  formed ICON
+Receivables 1997-B L.L.C.  ("1997-B") contributed and assigned equipment leases,
+finance  receivables  and residuals or to 1997-B for the purpose of securitizing
+their  cash flow  collections.  The  Partnership,  Series E and L.P.  Seven each
+contributed cash, equipment leases and residuals to 1997-B and own 8.33%, 75.00%
+and 16.67% interests, respectively, in 1997-B.
+
+     At December 31,  2004,  1997-B's  operations  were  liquidated  as the note
+holders have been repaid for most of their  investment in 1997-B.  The remaining
+cash was  reserved  to pay for  potential  property  tax;  sales  tax and  other
+liabilities, if any.
+
+     ICON/Boardman Facility LLC
+
+     The Partnership  along with ICON Income Fund Eight A L.P. ("Fund Eight A"),
+had ownership interests of 0.5025% and 99.4975%,  respectively, in ICON/Boardman
+Facility LLC ("ICON BF").  ICON BF owned a coal handling  facility on lease with
+Portland  General  Electric  ("PGE"),  a utility  company  located in  Portland,
+Oregon.
+
+     The General Partner entered into a Memorandum of Agreement with PGE to sell
+the  coal  handling  facility  effective  May 27,  2005.  The  sales  price  was
+approximately  $21,250,000.  ICON  BF  recognized  a net  gain  on the  sale  of
+approximately  $4,834,000,  of which the  Partnership's  portion of the gain was
+approximately  $24,000.  On  September  29, 2005 the  Partnership  received  its
+liquidating distribution in ICON BF in the amount of $68,308.
+
+24
+
+ICON Cash Flow Partners L.P. Six
+                        (A Delaware Limited Partnership)
+                   Notes To Consolidated Financial Statements
+                           December 31, 2005 and 2004
+
+(3)    Joint Ventures - continued
+
+     ICON Cheyenne LLC
+
+     The Partnership  along with L.P.  Seven,  Fund Eight A and ICON Income Fund
+Eight B L.P. ("Fund Eight B") formed ICON Cheyenne LLC ("ICON Cheyenne") for the
+purpose of acquiring and managing a portfolio of equipment leases  consisting of
+over the road rolling  stock,  manufacturing  equipment and  materials  handling
+equipment.  The  Partnership,  L.P.  Seven,  Fund Eight A and Fund Eight B owned
+1.0%, 10.31%, 1.0% and 87.69% interests,  respectively, in ICON Cheyenne at that
+time. The original  transaction involved acquiring from Cheyenne Leasing Company
+a portfolio of 119 leases, of which at December 31, 2005, 16 remain active, with
+various  expiration dates ranging through  September 2007. During December 2005,
+the  Partnership  sold  its  1.0%  ownership  percentage  to  Fund  Eight  B for
+approximately  $4,800.  This  price was  determined  by the  General  Partner to
+represent fair value of the Partnership's investment in ICON Cheyenne determined
+using a cash flow analysis of the remaining leases.
+
+     ICON/AIC Trust
+
+     In 2001, the  Partnership  along with,  L.P. Seven and Fund Eight A formed,
+ICON/AIC  Trust ("AIC Trust") for the purpose of owning and managing a portfolio
+of equipment leases located in England. On December 28, 2001, AIC Trust sold its
+remaining leases, subject to the related debt, in exchange for a note receivable
+of (pound)2,575,000  ($3,744,822  converted at the exchange rate at December 31,
+2001) which was payable in six installments through June 2004. In July 2004, the
+final installment on the note was collected and distributed to the beneficiaries
+of AIC Trust. On September 30, 2004, AIC Trust was dissolved.  The  Partnership,
+L.P.  Seven and Fund Eight A owned  interests  of,  25.51%,  30.76% and  43.73%,
+respectively.
+
+     For  the  year  ended  December  31,  2004,  the  Partnership  realized  an
+additional  $107,519 of foreign currency  translation gains from the transaction
+which  is  included  in  income  from  investments  in  joint  ventures  in  the
+accompanying consolidated statement of operations.
+
+(4)    Investments in Operating Leases
+
+     Investments in operating leases are summarized as follows at December 31:
+
+                                          2005           2004
+                                          ----           ----
+ Aircraft                             $        -     $ 17,600,646
+ Technology Equipment                          -          114,152
+                                      ----------     ------------
+                                               -       17,714,798
+ Less: accumulated depreciation                -       (8,668,859)
+                                      ----------     ------------
+
+                                      $        -     $  9,045,939
+                                      ==========     ============
+
+     On October 21, 2005,  LLC II sold its interest in the LLC II Aircraft,  the
+only  remaining  asset  of the  Partnership,  to  FINOVA  in  exchange  for  the
+outstanding   non-recourse   debt  balance  owed  to  FINOVA  of   approximately
+$9,600,000.  Given the depressed  market for aircraft of this type,  the General
+Partner  determined  that any  remarketing  opportunity  would not  benefit  the
+Partnership  given  the  amount  of the  outstanding  debt  and the  maintenance
+upgrades  that may have been required to the LLC II Aircraft.  Accordingly,  the
+General  Partner  decided it was in the best interest of the Partnership to sell
+the LLC II Aircraft to FINOVA in full satisfaction of the outstanding balance of
+the debt. The gain on this sale was approximately $637,000.
+
+25
+
+ICON Cash Flow Partners L.P. Six
+                        (A Delaware Limited Partnership)
+                   Notes To Consolidated Financial Statements
+                           December 31, 2005 and 2004
+
+(4)    Investments in Operating Leases - continued
+
+     During  2003 the  Partnership  recorded  an  impairment  loss on the LLC II
+Aircraft of $1,500,000.  This impairment loss was a result of an appraisal which
+indicated  a lower  fair  market  value  at  lease  termination  than  initially
+estimated.
+
+(5)    Allowance for Doubtful Accounts
+
+     During 2003 the provision for doubtful accounts was reversed as a result of
+the General Partner's determination that the allowance for doubtful accounts was
+overstated based on an analysis of the remaining lease payments due.
+
+(6)    Note Payable - Non Recourse
+
+     On October  21,  2005,  LLC II sold its  interest in the LLC II Aircraft to
+FINOVA in exchange for the outstanding  non-recourse debt balance owed to FINOVA
+of approximately $9,600,000.
+
+(7) Income Taxes (Unaudited)
+
+     No provision  for income taxes has been  recorded  since the  liability for
+such  taxes  is  that  of  each  of the  individual  partners  rather  than  the
+Partnership.  The Partnership's income tax returns are subject to examination by
+the Federal and state taxing authorities,  and changes, if any, could adjust the
+individual income tax of the partners.
+
+     At December 31, 2005 and 2004, the partners'  equity  accounts  included in
+the   consolidated   financial   statements   totaled   $522,149  and  $220,456,
+respectively.  The partners' capital for Federal income tax purposes at December
+31,  2005  and 2004  totaled  $5,704,218  and  $(3,165,713),  respectively.  The
+difference  arises primarily from sales expenses  reported as a reduction in the
+partners' capital accounts for financial  reporting purposes but not for Federal
+income tax reporting purposes,  and differences in depreciation and amortization
+between financial reporting purposes and Federal income tax purposes.
+
+     The following  table  reconciles net income (loss) for financial  statement
+reporting  purposes to the net income (loss) for Federal  income tax purposes as
+follows:
+
+26
+
+ICON Cash Flow Partners L.P. Six
+                        (A Delaware Limited Partnership)
+                   Notes To Consolidated Financial Statements
+                           December 31, 2005 and 2004
+
+(8)    Transactions with Related Parties
+
+     In accordance with the terms of the Management  Agreement,  the Partnership
+pays  the  General  Partner  management  fees  ranging  from 1% to 7% based on a
+percentage of the rentals received either directly by the Partnership or through
+joint   ventures.   In  addition,   the  General   Partner  is  reimbursed   for
+administrative   expenses   incurred  in  connection   with  the   Partnership's
+operations.
+
+     The General Partner performs certain services relating to the management of
+the  Partnership's  equipment  leasing  activities.  Such  services  include the
+collection  of lease  payments  from the  lessees of the  equipment,  re-leasing
+services in connection  with  equipment  which is off-lease,  inspections of the
+equipment,  liaison with and general  supervision  of lessees to assure that the
+equipment is being properly operated and maintained,  monitoring  performance by
+the lessees of their  obligations  under the leases and the payment of operating
+expenses.
+
+     Administrative  expense  reimbursements  are costs  incurred by the General
+Partner and necessary to the Partnership's  operations.  These costs include the
+General  Partner's  legal,   accounting,   investor   relations  and  operations
+personnel, as well as, professional fees and other costs that are charged to the
+Partnership  based upon the  percentage of time such  personnel  dedicate to the
+Partnership.  Excluded are salary and related costs,  travel  expenses and other
+administrative  costs incurred by individuals with a controlling interest in the
+General Partner. Effective for the period from July 1, 2004 through December 31,
+2005, the General Partner,  voluntarily decided to waive its right to management
+fees and administrative expense reimbursements.
+
+     The General  Partner also has a 1% interest in the  Partnership's  profits,
+losses and  distributions.  The Partnership  paid  distributions  to the General
+Partner of $3,177, and $24,418,  respectively,  for the two years ended December
+31,  2004.  No  distributions  were paid for the year ended  December  31, 2005.
+Additionally,  the General  Partner's  interest in the  Partnership's net income
+(loss) was $3,107,  $(9,984), and $(31,097),  respectively,  for the three years
+ended December 31, 2005.
+
+     Fees and other  expenses  charged to operations by the  Partnership  to the
+General  Partner or its affiliates  for the years ended December 31, 2005,  2004
+and 2003, respectively, were as follows:
+
+At December 31, 2004, the  Partnership had a net payable of $150,000 due to
+L.P. Seven which related to  distributions  received from AIC Trust on behalf of
+L.P. Seven. This amount was repaid by the Partnership in January 2005.
+
+(9)    Concentrations
+
+     The  Partnership's  cash and cash  equivalents are held  principally at one
+financial  institution and at times may exceed insured  limits.  The Partnership
+has placed  these funds in a high quality  institution  in order to minimize the
+risk.
+
+27
+ 
+                        ICON Cash Flow Partners L.P. Six
+                        (A Delaware Limited Partnership)
+                   Notes To Consolidated Financial Statements
+                           December 31, 2005 and 2004
+
+(9)    Concentrations - continued
+
+     The  Partnership had one lessee for the years ended December 31, 2005, 2004
+and 2003 that represents  approximately 98%, 97% and 84%,  respectively,  of the
+Partnership's total finance lease income and operating lease income combined.
+
+(10)   Other Income
+
+     Other income for the year ended  December 31, 2004 was $184,146 and related
+to the General Partner's revised estimate that certain  liabilities  relating to
+previously terminated leases were no longer valid at December 31, 2004.
+
+     Other income for the year ended  December 31, 2003 of $353,019 is comprised
+of the  following;  $160,883 of a residual note payable that was written down to
+the General Partner's  estimate of the current balance due, $136,283 relating to
+a legal  settlement  for a lease,  which was  terminated in December  2002,  and
+$55,903  relating  to  the  General  Partner's  revised  estimate  that  certain
+liabilities  relating to  previously  terminated  leases were no longer valid at
+December 31, 2003.
+
+(11) Selected Quarterly Financial Data (Unaudited)
+
+     The following  table is a summary of selected  financial  data, by quarter,
+for the years ended December 31, 2005 and 2004:
+
+28
+ 
+Item  9.  Changes  in and  Disagreements  with  Accountants  on  Accounting  and
+Financial Disclosure
+
+     During the year ended  December 31, 2005 we had no  disagreements  with our
+accountants on any matters of accounting or financial reporting.
+
+Item 9A. Controls and Procedures
+
+     Evaluation of disclosure controls and procedures
+
+     In connection  with the  preparation of this Annual Report on Form 10-K for
+the year ended December 31, 2005, as well as the financial statements and Annual
+Reports  on Form  10-K for the year  ended  December  31,  2005 for our  General
+Partner and our affiliates, our General Partner carried out an evaluation, under
+the  supervision  and with the  participation  of the  management of our General
+Partner,  including its Chief Executive Officer and the Principal  Financial and
+Accounting  Officer,  of the  effectiveness  of the design and  operation of our
+General Partner's disclosure controls and procedures as of the end of the period
+covered by this report pursuant to the Securities Exchange Act of 1934. Based on
+the foregoing evaluation, except as noted below, the Chief Executive Officer and
+the  Principal  Financial  and  Accounting  Officer  concluded  that our General
+Partner's disclosure controls and procedures were effective.
+
+     While evaluating our General Partner's  disclosure controls and procedures,
+our General Partner recognized that greater internal controls were needed to aid
+in a more efficient closing of our financial  statements,  thereby requiring our
+General  Partner to hire  additional  skilled  accounting  staff to support  the
+senior vice president of accounting  hired by our General  Partner at the end of
+the third quarter of 2004. Accordingly, our General Partner hired two additional
+accounting  staff members during 2005 who are certified  public  accountants and
+are  experienced  with  public  reporting  entities.  Our General  Partner  will
+continue to evaluate its disclosure  controls and procedures to determine  their
+effectiveness  and  adequacy and will take the steps  necessary,  in our General
+Partner's  opinion,  to ensure the adequacy of our General Partner's  disclosure
+controls and procedures.
+
+     In designing and evaluating our General Partner's  disclosure  controls and
+procedures,   our  General  Partner  recognized  that  disclosure  controls  and
+procedures,  no  matter  how well  conceived  and  operated,  can  provide  only
+reasonable,  not  absolute,  assurance  that the  objectives  of the  disclosure
+controls and procedures are met. Our General Partner's  disclosure  controls and
+procedures have been designed to meet reasonable assurance standards. Disclosure
+controls  and  procedures  cannot  detect or prevent  all error and fraud.  Some
+inherent  limitations  in disclosure  controls and  procedures  include costs of
+implementation, faulty decision-making,  simple error and mistake. Additionally,
+controls  can be  circumvented  by the  individual  acts  of  some  persons,  by
+collusion of two or more people, or by management override of the controls.  The
+design of any system of controls is based,  in part,  upon  certain  assumptions
+about the  likelihood of future  events,  and there can be no assurance that any
+design will succeed in  achieving  its stated  goals under all  anticipated  and
+unanticipated  future  conditions.  Over time,  controls  may become  inadequate
+because of changes in conditions,  or the degree of compliance with  established
+policies or procedures.
+
+     Our General Partner's Chief Executive  Officer and Principal  Financial and
+Accounting  Officer have determined that no weakness in disclosure  controls and
+procedures  had any  material  effect on the accuracy  and  completeness  of our
+financial reporting and disclosure included in this report.
+
+Item 9B. Other Information
+
+         Not applicable.
+
+29
+
+PART III
+
+Item 10. Directors and Executive Officers of the Registrant's General Partner
+
+     Our General  Partner,  ICON Capital Corp., a Connecticut  corporation,  was
+formed in 1985. Our General Partner's principal offices are located at 100 Fifth
+Avenue,  4th Floor,  New York, New York 10011, and the telephone number is (212)
+418-4700.  The officers of our General  Partner have extensive  experience  with
+transactions  involving the acquisition,  leasing,  financing and disposition of
+equipment,  including acquiring and disposing of equipment subject to leases and
+full financing transactions.
+
+     Our General  Partner is engaged in a broad range of  equipment  leasing and
+financing  activities.  Through its sales  representatives  and through  various
+broker relationships  throughout the United States, our General Partner offers a
+broad range of equipment leasing services.
+
+     Our General Partner performs certain services relating to the management of
+our equipment leasing activities.  Such services include the collection of lease
+payments from the lessees of the  equipment,  re-leasing  services in connection
+with equipment  which is off-lease,  inspections of the equipment,  liaison with
+and  general  supervision  of  lessees  to assure  that the  equipment  is being
+properly operated and maintained, monitoring performance by the lessees of their
+obligations under the leases and the payment of operating expenses.
+
+Our General Partner's officers and directors are:
+
+Name             Age          Position
+        -----           ----           --------
+                              
+ Beaufort J. B. Clarke  59       Chairman, Chief Executive Officer and Director
+ Paul B. Weiss          45       President and Director
+ Thomas W. Martin       52       Chief Operating Officer, Chief Financial Officer
+                                   and Director
+
+Beaufort J. B. Clarke,  has been our Chairman,  Chief Executive Officer and
+Director  since August of 1996. He was our  President  from August of 1996 until
+December  31,  1998.  Prior to his present  positions,  Mr.  Clarke was founder,
+President  and Chief  Executive  Officer of Griffin  Equity  Partners,  Inc.  (a
+purchaser  of equipment  leasing  portfolios)  from October 1993 through  August
+1996. Prior to that, Mr. Clarke was President of Gemini Financial Holdings, Inc.
+(an  equipment   leasing  company)  from  June  1990  through   September  1993.
+Previously,  Mr. Clarke was a Vice President of AT&T Systems Leasing. Mr. Clarke
+formerly was an attorney  with Shearman and  Sterling.  Mr. Clarke  received his
+B.A. from the George Washington University and a J.D. degree from the University
+of South Carolina.  Mr. Clarke has been in the equipment leasing business,  as a
+business person and lawyer, since 1979.
+
+     Paul B. Weiss,  has been our President and Director  since January 1, 1999.
+Mr. Weiss was our Director and Executive  Vice President  responsible  for lease
+acquisitions  from November of 1996 until December 31, 1998. Mr. Weiss served as
+Executive Vice President and  co-founder of Griffin Equity  Partners,  Inc. from
+October of 1993 through  November of 1996.  Prior to that,  Mr. Weiss was Senior
+Vice  President of Gemini  Financial  Holdings,  Inc. from 1991 to 1993 and Vice
+President of Pegasus  Capital  Corporation (an equipment  leasing  company) from
+1988 through 1991. Mr. Weiss has a B.A. in Economics from  Connecticut  College.
+Mr. Weiss has been in the equipment leasing business since 1988.
+
+     Thomas W. Martin,  has been our Chief Operating Officer since February 2006
+and has been our Chief Financial  Officer and Director (and Director,  President
+and Treasurer of the  dealer-manager  as well) since August of 1996.  Mr. Martin
+was the Executive Vice President,  Chief  Financial  Officer and a co-founder of
+Griffin Equity  Partners,  Inc. from October 1993 to August 1996. Prior to that,
+Mr. Martin was Senior Vice  President of Gemini  Financial  Holdings,  Inc. from
+April  1992 to  October  1993  and he held the  position  of Vice  President  at
+Chancellor  Corporation (an equipment  leasing  company) for 7 years. Mr. Martin
+has a B.S. degree from  University of New Hampshire.  Mr. Martin has been in the
+equipment leasing business since 1983.
+
+30
+
+Code of Ethics
+
+     Our  General  Partner on our  behalf  has  adopted a code of ethics for its
+Chief Executive Officer,  Chief Financial Officer and Chief Accounting  Officer.
+The Code of Ethics is available  free of charge by requesting it in writing from
+our General  Partner.  Our General  Partner's  address is 100 Fifth Avenue,  4th
+Floor, New York, New York 10011.
+
+Item 11. Executive Compensation
+
+     We have no directors or officers.  Our General  Partner and its  affiliates
+were paid or accrued the following  compensation and reimbursement for costs and
+expenses for the years ended December 31, 2005, 2004 and 2003.
+
+Our   General   Partner   also  has  a  1%  interest  in  our  profits  and
+distributions.  We paid  distributions  to our  General  Partner of $3,177,  and
+$24,418,  respectively,  for the years  ended  December  31,  2004 and 2003.  No
+distributions were paid for the year ended December 31, 2005. Additionally,  our
+General Partner's  interest in our net income (loss) was $3,107,  $(9,984),  and
+$(31,097), respectively, for the years ended December 31, 2005, 2004 and 2003.
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management
+
+     (a)  We are a limited  partnership  and therefore do not have voting shares
+          of  stock.  No  person  of  record  owns,  or is  known  by us to  own
+          beneficially, more than 5% of any class of our securities.
+
+     (b)  As of March 15, 2006, Directors and Officers of our General Partner do
+          not own any of our equity securities.
+
+     (c)  Our General Partner owns the equity securities,  as follows; a General
+          Partner Interest which represents initially a 1% and potentially a 10%
+          interest in our income, gain and losses. Our General Partner owns 100%
+          of the General Partner Interest.
+
+31
+
+Item 13. Certain Relationships and Related Transactions
+
+     See Item 11 for a discussion of our related party transactions. See Notes 3
+and 8 to our consolidated  financial  statements for a discussion of our related
+party activity and investments in joint ventures.
+
+Item 14. Principal Accountant Fees and Services
+
+     During the year ended  December  31,  2005 and 2004 our  auditors  provided
+audit  services  relating  to our annual  report on Form 10-K and our  quarterly
+reports on Form 10-Q. Additionally,  our auditors provided other services in the
+form of tax compliance work. Their fees are shown in the table below:
+
+                                 2005             2004
+                                 ----             ----
+Audit Fees                      $28,930          $27,000
+
+Audit related fees                   -                -
+
+Tax fees (for compliance)        34,227           18,400
+                                -------          ------
+
+                                $63,157          $45,400
+                                =======          =======
+
+                                     PART IV
+
+Item 15. Exhibits and Financial Statement Schedules
+
+     (a) 1. Financial Statements
+
+         See index to financial statements included as Item 8 to this Annual
+Report on Form 10-K hereof.
+
+         2. Financial Statement Schedules
+
+               Schedules not listed above have been omitted because they are not
+               applicable or the information required to be set forth therein is
+               included in the financial statements or notes thereto.
+
+         3. Exhibits:
+
+         31.1 Rule 13a-14(a)/15d-14(a) certifications.
+
+         31.2 Rule 13a-14(a)/15d-14(a) certifications.
+
+         32.1 Certification  pursuant to 18 U.S.C. ss.1350, as adopted pursuant
+               to Section 906 of the Sarbanes-Oxley Act of 2002.
+
+         32.2 Certification  pursuant  to  18  U.S.C.  ss.1350,  as  adopted
+               pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+
+32
+
+SIGNATURES
+
+Pursuant to the  requirements of Section 13 or 15(d) of the Securities  Exchange
+Act of 1934,  the  Partnership  caused this report to be signed on its behalf by
+the undersigned, thereunto duly authorized.
+
+ICON Cash Flow Partners L.P. Six File No. 000-28136  (Registrant) by its General
+Partner, ICON Capital Corp.
+
+Date: March 31, 2006
+
+/s/ Beaufort J.B. Clarke
+- ------------------------
+Beaufort J.B. Clarke
+Chairman, Chief Executive Officer and Director
+(Principal Executive Officer)
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report
+has been signed below by the following  persons on behalf of the  Registrant and
+in the capacity and on the dates indicated.
+
+ICON Capital Corp.
+Sole General Partner of the Registrant
+
+Date: March 31, 2006
+
+/s/ Beaufort J.B. Clarke
+- ------------------------
+Beaufort J.B. Clarke
+Chairman, Chief Executive Officer and Director
+(Principal Executive Officer)
+
+Date: March 31, 2006
+
+/s/ Paul B. Weiss
+- -----------------
+Paul B. Weiss
+President and Director
+
+Date: March 31, 2006
+
+/s/ Thomas W. Martin
+- --------------------
+Thomas W. Martin
+Chief Operating Officer and Chief Financial Officer
+(Principal Financial and Accounting Officer)
+
+Supplemental  Information to be furnished with reports filed pursuant to Section
+15(d) of the Act by Registrants which have not registered securities pursuant to
+Section 12 of the Act.
+
+No annual report or proxy material has been sent to security holders.  An annual
+report  will  be  sent  to the  members  and a copy  will  be  forwarded  to the
+Commission.
+
+33
+
+Exhibit 31.1
+
+Certification  Pursuant  to Section  302 of the  Sarbanes-Oxley  Act of 2002 (18
+U.S.C. ss.1350)
+
+I, Beaufort J.B. Clarke, certify that:
+
+1.   I have  reviewed this annual report on Form 10-K of ICON Cash Flow Partners
+     L.P. Six;
+
+2.   Based on my knowledge,  this report does not contain any untrue  statements
+     of a material fact or omit to state a material  fact  necessary to make the
+     statements made, in light of the circumstances  under which such statements
+     were made,  not  misleading  with  respect  to the  period  covered by this
+     report;
+
+3.   Based  on my  knowledge,  the  financial  statements  and  other  financial
+     information  included  in  this  report,  fairly  present  in all  material
+     respects the financial  condition,  results of operations and cash flows of
+     the registrant as of, and for, the periods presented in this report;
+
+4.   The  registrant's  other  certifying  officer  and  I are  responsible  for
+     establishing and maintaining disclosure controls and procedures (as defined
+     in Exchange Act Rules  13a-15(e) and  15d-15(e))  for the registrant and we
+     have:
+
+     a.   designed  such  disclosure  controls  and  procedures,  or caused such
+          disclosure   controls  and   procedures  to  be  designed   under  our
+          supervision,  to ensure  that  material  information  relating  to the
+          registrant,  including its consolidated subsidiaries, is made known to
+          us by others within those entities,  particularly during the period in
+          which this report is being prepared;
+
+     b.   evaluated the  effectiveness of the registrant's  disclosure  controls
+          and procedures and presented in this report our conclusions  about the
+          effectiveness of the disclosure  controls and procedures as of the end
+          of the period covered by this report based on such evaluation; and
+
+     c.   disclosed  in this  report  any  change in the  registrant's  internal
+          control over financial reporting that occurred during the registrant's
+          most recent fiscal quarter (the registrant's  fourth fiscal quarter in
+          the case of an annual  report)  that has  materially  affected,  or is
+          reasonably  likely to materially  affect,  the  registrant's  internal
+          control over financial reporting; and
+
+5.   The registrant's  other certifying  officer and I have disclosed,  based on
+     our most recent evaluation of internal control over financial reporting, to
+     the  registrant's  auditors  and the board of  directors  of the  Corporate
+     Manager (or persons performing the equivalent function):
+
+     a.   all significant  deficiencies and material weaknesses in the design or
+          operation  of internal  control  over  financial  reporting  which are
+          reasonably  likely to  adversely  affect the  registrant's  ability to
+          record, process, summarize and report financial information; and
+
+     b.   any fraud, whether or not material,  that involves management or other
+          employees who have a  significant  role in the  registrant's  internal
+          control over financial reporting.
+
+Dated:  March 31, 2006
+
+/s/ Beaufort J.B. Clarke
+- ------------------------
+Beaufort J. B. Clarke
+Chairman and Chief Executive Officer
+ICON Capital Corp.
+General Partner of ICON Cash Flow Partners L.P. Six
+
+Exhibit 31.2
+
+Certification  Pursuant  to Section  302 of the  Sarbanes-Oxley  Act of 2002 (18
+U.S.C. ss.1350)
+
+I, Thomas W. Martin, certify that:
+
+1.   I have  reviewed this annual report on Form 10-K of ICON Cash Flow Partners
+     L.P. Six;
+
+2.   Based on my knowledge,  this report does not contain any untrue  statements
+     of a material fact or omit to state a material  fact  necessary to make the
+     statements made, in light of the circumstances  under which such statements
+     were made,  not  misleading  with  respect  to the  period  covered by this
+     report;
+
+3.   Based  on my  knowledge,  the  financial  statements  and  other  financial
+     information  included  in  this  report,  fairly  present  in all  material
+     respects the financial  condition,  results of operations and cash flows of
+     the registrant as of, and for, the periods presented in this report;
+
+4.   The  registrant's  other  certifying  officer  and  I are  responsible  for
+     establishing and maintaining disclosure controls and procedures (as defined
+     in Exchange Act Rules  13a-15(e) and  15d-15(e))  for the registrant and we
+     have:
+
+     a.   designed  such  disclosure  controls  and  procedures,  or caused such
+          disclosure   controls  and   procedures  to  be  designed   under  our
+          supervision,  to ensure  that  material  information  relating  to the
+          registrant,  including its consolidated subsidiaries, is made known to
+          us by others within those entities,  particularly during the period in
+          which this report is being prepared;
+
+     b.   evaluated the  effectiveness of the registrant's  disclosure  controls
+          and procedures and presented in this report our conclusions  about the
+          effectiveness of the disclosure  controls and procedures as of the end
+          of the period covered by this report based on such evaluation; and
+
+     c.   disclosed  in this  report  any  change in the  registrant's  internal
+          control over financial reporting that occurred during the registrant's
+          most recent fiscal quarter (the registrant's  fourth fiscal quarter in
+          the case of an annual  report)  that has  materially  affected,  or is
+          reasonably  likely to materially  affect,  the  registrant's  internal
+          control over financial reporting; and
+
+5.   The registrant's  other certifying  officer and I have disclosed,  based on
+     our most recent evaluation of internal control over financial reporting, to
+     the  registrant's  auditors  and the board of  directors  of the  Corporate
+     Manager (or persons performing the equivalent function):
+
+     a.   all significant  deficiencies and material weaknesses in the design or
+          operation  of internal  control  over  financial  reporting  which are
+          reasonably  likely to  adversely  affect the  registrant's  ability to
+          record, process, summarize and report financial information; and
+
+     b.   any fraud, whether or not material,  that involves management or other
+          employees who have a  significant  role in the  registrant's  internal
+          control over financial reporting.
+
+Dated: March 31, 2006
+
+/s/ Thomas W. Martin
+- --------------------
+Thomas W. Martin
+Chief Operating Officer and Chief Financial Officer
+(Principal Financial and Accounting Officer)
+ICON Capital Corp.
+General Partner of ICON Cash Flow Partners L.P. Six
+
+Exhibit 32.1
+
+Certification  Pursuant  to Section  906 of the  Sarbanes-Oxley  Act of 2002 (18
+U.S.C. ss.1350)
+
+I, Beaufort J.B.  Clarke,  Chairman and Chief Executive  Officer of ICON Capital
+Corp.,  the General  Partner of the  Registrant  in  connection  with the Annual
+Report of ICON Cash Flow Partners L.P. Six (the  "Partnership") on Form 10-K for
+the year ended  December 31,  2005,  as filed with the  Securities  and Exchange
+Commission on the date hereof (the "Annual Report") certify, pursuant to Section
+906 of the Sarbanes-Oxley Act of 2002, that, to the best of my knowledge:
+
+1.   The Annual Report fully complies with the  requirements of Section 13(a) or
+     15(d) of the Securities Exchange Act of 1934 (15 U.S.C. ss.78m); and
+
+2.   The  information  contained in the Annual  Report fairly  presents,  in all
+     material respects, the financial condition and results of operations of the
+     Partnership.
+
+Dated:   March 31, 2006
+
+/s/ Beaufort J.B. Clarke
+- ------------------------
+Beaufort J.B. Clarke
+Chairman and Chief Executive Officer
+ICON Capital Corp.
+General Partner of ICON Cash Flow Partners L.P. Six
+
+36
+
+Exhibit 32.2
+
+Certification  Pursuant  to Section  906 of the  Sarbanes-Oxley  Act of 2002 (18
+U.S.C. ss.1350)
+
+I,  Thomas W.  Martin,  Chief  Operating  Officer  and Chief  Financial  Officer
+(Principal  Financial and Accounting Officer) of ICON Capital Corp., the General
+Partner of the Registrant in connection with the Annual Report of ICON Cash Flow
+Partners L.P. Six (the  "Partnership")  on Form 10-K for the year ended December
+31,  2005,  as filed with the  Securities  and Exchange  Commission  on the date
+hereof  (the  "Annual  Report")   certify,   pursuant  to  Section  906  of  the
+Sarbanes-Oxley Act of 2002, that, to the best of my knowledge:
+
+1.   The Annual Report fully complies with the  requirements of Section 13(a) or
+     15(d) of the Securities Exchange Act of 1934 (15 U.S.C. ss.78m); and
+
+2.   The  information  contained in the Annual  Report fairly  presents,  in all
+     material respects, the financial condition and results of operations of the
+     Partnership.
+
+Dated: March 31, 2006
+
+/s/ Thomas W. Martin
+- --------------------
+Thomas W. Martin
+Chief Operating Officer and Chief Financial Officer
+(Principal Financial and Accounting Officer)
+ICON Capital Corp.
+General Partner of ICON Cash Flow Partners L.P. Six
+

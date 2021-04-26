@@ -1,0 +1,1457 @@
+<Header>
+<FileStats>
+    <FileName>20060331_10-K_edgar_data_89261_0001193125-06-069532_1.txt</FileName>
+    <GrossFileSize>780974</GrossFileSize>
+    <NetFileSize>141277</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>504579</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>76</N_Tables>
+    <N_Exhibits>3</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001193125-06-069532.hdr.sgml : 20060331
+<ACCEPTANCE-DATETIME>20060331082451
+ACCESSION NUMBER:		0001193125-06-069532
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20051231
+FILED AS OF DATE:		20060331
+DATE AS OF CHANGE:		20060331
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EXX INC/NV/
+		CENTRAL INDEX KEY:			0000089261
+		STANDARD INDUSTRIAL CLASSIFICATION:	GAMES, TOYS & CHILDREN'S VEHICLES (NO DOLLS & BICYCLES) [3944]
+		IRS NUMBER:				880325271
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-05654
+		FILM NUMBER:		06725292
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1350 EAST FLAMINGO SUITE 689
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89119
+		BUSINESS PHONE:		7025983223
+
+	MAIL ADDRESS:	
+		STREET 1:		1350 EAST FLAMINGO SUITE 689
+		CITY:			LAS VEGAS
+		STATE:			NV
+		ZIP:			89119
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SFM CORP
+		DATE OF NAME CHANGE:	19920703
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ JYgIu/ir668uiW9L9MzDobepGdi1sFbOl75KogYZi130PhrQpQeM89KEHJCClEjr
+ nJuI0r5UMhii7XWW5WQeZg==
+
+ 0001193125-06-069532.txt : 20060331
+
+10-K
+ 1
+ d10k.htm
+ FORM 10-K
+
+Form 10-K 
+
+UNITED STATES        SECURITIES AND EXCHANGE COMMISSION        Washington, DC 20549        FORM 10-K       (Mark One)   
+    For the fiscal year ended December 31, 2005      or       
+    For the transition period from                        to
+                            Commission
+file number 1-5654       EXX INC          (Exact Name of Registrant as Specified in its Charter)        
+
+Nevada   
+     
+   88-0325271    
+ 
+     (State or Other Jurisdiction of       Incorporation or Organization)    
+     
+   (I.R.S. Employer Identification No.)    
+     
+     702-598-3223        (Registrant s Telephone Number, Including Area Code)       Securities registered pursuant to
+Section 12(b) of the Act:       
+
+Title of Each Class    
+      
+     Name of Each Exchange       on Which Registered     
+ 
+  Common Stock Par Value $.01 Class A  
+      
+  American Stock Exchange   
+
+Common Stock Par Value $.01 Class B  
+      
+  American Stock Exchange   
+    Securities registered pursuant to Section 12(g) of the Act:       None       Indicate by check mark if the registrant is a
+well-known seasoned issuer, as defined in Rule 405 of the Securities Act.      Yes          No          Indicate by check
+mark if the registrant is not required to file reports pursuant to Section 13 or Section 15 (d) of the Act.      Yes          No          Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934
+during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.         Yes        No           Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not contained
+herein, and will not be contained, to the best of registrant s knowledge, in definitive proxy or information statements incorporated by reference on Part III of this Form 10-K or any amendment to this Form 10-K.          Indicate by check mark whether the registrant is a large accelerated filer or a non-accelerated filer. See definition of
+ accelerated filer and large accelerated filer  in Rule 12b-2 of the Exchange Act. (Check One)       
+
+Large Accelerated Filer            
+     
+  Accelerated Filer            
+     
+  Non-Accelerated Filer           
+    Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act.):
+Yes          No           The aggregate market value of the shares held by non-affiliates on June 30, 2005 was $10,130,291, based on closing prices of $2.04 and $1.75 per share, respectively of the registrant s Class A and Class
+B common stock on the American Stock Exchange on June 30, 2005. Of the shares outstanding, 4,718,348 Class A shares and 293,515 Class B shares are held by non-affiliates.      Number of shares of Common Stock, Par Value $.01 per share, outstanding as of March 20, 2006: 10,412,307 Class A shares and 858,093 Class B shares (exclusive of 1,649,300 Class A shares and 16,600 Class
+B shares held in registrant s treasury).        
+
+PART 1         FORWARD-LOOKING STATEMENTS AND CAUTIONARY STATEMENTS UNDER THE PROVISIONS OF THE PRIVATE SECURITIES LITIGATION REFORM ACT OF 1995       This
+report, including the  Business  and  Management s Discussion and Analysis of Financial Condition and Results of Operations  ( MD A ) sections, contains  forward-looking statements  within the meaning
+of the Private Securities Litigation Reform Act of 1995, which can be identified by the use of forward-looking terminology such as  may,   intend,   will,   expect,   anticipate,   plan, 
+ management believes,   estimate,   continue  or  position  or the negatives of or other variations on those terms or comparable terminology. In particular, any statement, express or implied, concerning future
+operating results or the ability to generate revenues, income or cash flow are forward-looking statements. Readers are cautioned that reliance on any forward-looking statement involves risks and uncertainties and that, although EXX believes that the
+assumptions on which the forward-looking statements contained in this report are based are reasonable, any of those assumptions could prove to be inaccurate. As a result, the forward-looking statements, based on those assumptions, also could be
+incorrect, and actual results may differ materially from any results indicated or suggested by those forward-looking statements. The uncertainties in this regard include, but are not limited to the matters discussed below under  Risk
+Factors  as well as the following: EXX s ability to continue to access funding for its operations; those discussed under  Environmental Compliance  in this Part 1; Item 3 of this report and other cautionary statements
+contained elsewhere throughout the  Business Section  of this report; the cyclical nature of the industries served by EXX, all of which have encountered significant downturns in the past; the level of production by and demand from
+EXX s principal customers, upon which EXX is substantially dependent; whether, when and to what extent expected orders materialize; whether EXX will be able to successfully launch new programs; the impact on EXX of actions by its competitors,
+some of which are significantly larger and have greater financial and other resources than EXX; and developments with respect to contingencies, including environmental matters, litigation and retained liabilities from businesses previously sold by
+EXX. All forward-looking statements are expressly qualified by the cautionary statements set forth therein. In light of these and other uncertainties, the inclusion of a forward-looking statement in this report should not be regarded as a
+representation by EXX that EXX s plans and objectives will be achieved. Except as required by law, EXX undertakes no obligation to update any forward-looking statements.       
+
+Item 1.    
+    Business .         EXX INC ( EXX  or the
+ Company ) is a holding company for businesses operated by its subsidiaries. These businesses are organized into two business segments: the Mechanical Equipment segment and the Plastics and Rubber segment. The Mechanical Equipment segment
+produces transmission, powertrain and engine components and assemblies for the automotive, medium and heavy-duty truck and agricultural vehicle industries, machine tools, electric motors and telecommunications equipment. The Plastics and Rubber
+segment produces cosmetic and functional seals and boots and functional engine compartment products primarily for the automotive industry and toys. Hereafter, EXX and its various subsidiaries are referred to as the ( Group ). Financial
+information about each of EXX s business segments is contained in Note 15  Segment Information  to EXX s Consolidated Financial Statements.      EXX is the holding company resulting from the reorganization of SFM Corporation ( SFM ) as approved by its shareholders at a special meeting on October 18, 1994 and effective on October 21, 1994. The purpose of adopting
+a holding company structure was to enhance EXX s ability to obtain new financing by enabling potential investors to clearly focus on the strengths and diversity of EXX s businesses, facilitate acquisitions and protect each of EXX s
+businesses to the extent possible from the business risks which arise out of its other businesses.      As part of the Reorganization, each outstanding share
+of SFM common stock was converted into three shares of EXX Class A common stock and one share of EXX Class B common stock. The new stock was substantially identical to the old stock in rights and privileges except that holders of outstanding
+shares of Class B common stock have the right to elect two-thirds or the next rounded number of directors in excess of two-thirds if the number of Directors is not divisible by three, and the holders of outstanding shares of the Class A common
+stock have the right to elect the remaining directors of EXX.      Under the Reorganization, SFM became a wholly-owned subsidiary of EXX and each of SFM s
+wholly-owned subsidiaries became wholly-owned subsidiaries of EXX with each subsidiary retaining its assets and liabilities and continuing its business. In order to effect the transactions, SFM distributed as a dividend to EXX all the outstanding
+stock of each of its subsidiaries as well as SFM s cash, cash equivalents and certain promissory notes.      In March 2000, EXX paid a 400% stock dividend
+which provided for a dividend of four shares of Class A stock for each share of Class A and/or Class B common stock held. All transactions and disclosures in the consolidated financial statements relating to EXX s Class A and
+Class B common stock have been restated to reflect this dividend.         
+   2   
+
+In July 2001, the Company purchased 679,994 shares of Newcor, Inc. ( Newcor ) common stock and $500,000
+principal amount of Newcor s 9.875% Senior Subordinated Notes due 2008, from five of the former directors of Newcor and 24,000 shares from David A. Segal (the Company s Chairman). In connection with such purchases, the Company paid an
+aggregate of $1,679,000 in cash. Prior to the Company s acquisition of these shares, the Company accounted for its pre-existing investment in Newcor as an available for sale marketable security. The changes in the market value of the Newcor
+shares were recorded as comprehensive income in each applicable period. The additional acquisition increased the Company s ownership percentage in Newcor to approximately 31%, thereby requiring the Company to use the equity method of accounting
+for this investment in accordance with Accounting Principles Board Opinion No. 18,  The Equity Method of Accounting for Investments in Common Stock . As of December 31, 2002, the Company owned approximately 1,546,000 shares of
+the outstanding common stock of Newcor and based on its equity in the losses of Newcor, the Company reduced the carrying value of its investment (including subordinated notes) in Newcor to zero. In February 2002, Newcor filed for reorganization
+under Chapter 11 of the U.S. Bankruptcy Act. As a result of the reorganization plan approved by the creditors, these shares were of no value at December 31, 2002 and were effectively cancelled via the reorganization.      On January 31, 2003, a Plan of Reorganization of Newcor became effective. Under a rights offering to stockholders included as part of Newcor s Plan of
+Reorganization, EXX purchased 11,877 shares of common stock of Newcor for a total purchase price of $5,939,000. The shares purchased by EXX constitute 98.975% of the outstanding common stock of the reorganized Newcor entity and, as a result, Newcor
+ceased to be a stand-alone public reporting company and became a consolidated subsidiary of EXX. The purchase price was established in the Plan of Reorganization, as approved by the creditors, the United States Trustee for the District of Delaware
+and the United States Bankruptcy Court for the District of Delaware. The source of funds for EXX s purchase was cash on hand. In addition to the purchase made by EXX, certain former stockholders of Newcor purchased shares of common stock of
+Newcor under the rights offering made in connection with the Plan of Reorganization. The former stockholders purchased an aggregate of 123 shares totaling $61,000, which represented 1.025%, of the aggregate purchase price and are accounted for as a
+minority interest in EXX s Consolidated Financial Statements. The primary purpose of the acquisition of Newcor was to expand EXX s operations. Through its subsidiaries, Newcor designs and manufactures precision machined components and
+assemblies, machine tools and custom rubber and plastic products primarily for the automotive and agricultural vehicle markets. Newcor is also a supplier of standard and specialty machines and equipment systems principally for the automotive and
+appliance industries.      Newcor sells and markets its products into two principal markets defined as automotive and light truck (59% of 2005 revenues) and
+heavy-duty components (41% of 2005 revenues) including Class 8 over the highway trucks, agricultural equipment and other industrial markets. The markets served by Newcor are highly cyclical and are impacted by the general strength of the economy, by
+prevailing interest rates and by other factors outside the control of Newcor. The markets for automotive, heavy-duty trucks, agricultural equipment and capital goods, for which Newcor supplies goods and services, have all experienced both strength
+in recent years as well as significant downturns.      Such downturns have had a material adverse effect on the revenues, profitability and cash flow of
+suppliers to these industries, including Newcor, and there can be no assurance that one or all such industries will not experience similar downturns in the future. A cyclical decline in overall demand in any of the markets served by Newcor would
+have a material adverse effect on EXX s financial condition, results of operations and debt service capability.      Newcor operates in industries that
+are highly competitive, though somewhat fragmented. If any customer becomes dissatisfied with Newcor s prices, quality or timeliness of delivery, it could award future business or move existing business to a competitor or possibly move the
+business in-house. There can be no assurance that Newcor s products will continue to compete successfully with the products of competitors, including original equipment manufacturers ( OEMs ) themselves, many of which are
+significantly larger and have greater financial and other resources than Newcor.      During 2005, sales to each of four customers (Detroit Diesel Company,
+John Deere and Company and American Axle Manufacturing and DaimlerChrysler Corporation) equaled or exceeded 10% of consolidated sales. Although EXX and its subsidiaries have ongoing supply relationships with approximately 175 customers, there can be
+no assurance that sales to customers will continue at the same levels or at all. Each of these customers has, and regularly exercises, substantial negotiating leverage over its suppliers and continuation of these relationships is dependent upon the
+customers  satisfaction with the price, quality and delivery of products, engineering capabilities and customer services. While management believes its relationships with its customers generally are mutually satisfactory, if any of these larger
+customers were to reduce substantially or discontinue their purchases, the financial condition and results of operations of EXX would be materially adversely affected. From time to time, suppliers to these large customers enter into agreements
+mandating periodic price reductions, which thereby, effectively require such suppliers to improve their efficiency and reduce costs in order to maintain profit margins, and Newcor is presently a party to several such agreements.         
+   3   
+
+Mechanical Equipment Segment        This segment consists of seven operating units at December 31, 2005: Deco Engineering, Inc. ( DECO ), Blackhawk Engineering, Inc. ( Blackhawk ), Rochester Gear, Inc. ( RGI ), Machine
+Tool and Gear, Inc. ( MTG ), the Bay City division of Newcor, the Howell Electric Motors Division of SFM Corp. ( Howell ) and TX Technology Corp.      DECO produces high-volume precision machined engine and powertrain components and assemblies primarily for the heavy-duty truck market. Blackhawk s principal line of business is machining large gray iron, nodular
+iron and steel foundry castings for companies with business in the agricultural market. RGI and MTG produce high-quality shafts, axles, transmission parts, differential pins and gears, rear axle shafts and other machined components. RGI and MTG
+participate primarily in the automotive market.      Effective January 31, 2006, the operations of the Blackhawk systems group were sold to a group which
+included the former manager of that operation.      The Bay City division of Newcor designs and assembles standard and special custom machines and systems to
+meet its customers  welding, assembly, forming, heat treating and testing process requirements. The revenue from the Bay City division derives from a variety of markets including automotive, appliance, consumer goods, and others.      The Howell Electric Motors Division of SFM Corp. is engaged in the assembly and sale of alternating current, fractional and small integral motors ranging from 1/4 to 10
+horsepower. Howell s product line consists of such specialty items as blower motors designed for use in air conditioning systems, flat-type motors used in floor scrubbing and polishing machines, and motor pump assemblies used in food machinery
+products and a variety of other applications. In recent years, a substantial portion of Howell s sales have been to the floor care service industry and the food machinery industry, and have been effected through Howell s own marketing
+personnel and several independent sales representatives working on a commission basis.      In April 1994, TX Systems Inc., a newly formed subsidiary of EXX,
+acquired the operating assets and businesses of TX Technologies, Inc. and TX Software, Inc. These companies were engaged in the cable pressurization and monitoring systems business. The TX Systems Inc. acquisition together with the activities of
+another newly formed subsidiary - TX Technology Corp. - broadened EXX s activities in the capital goods segment, allowing EXX entry to the telecommunications industry. The TX Companies operate the cable pressurization and monitoring system
+business. The business provides means to prevent telecommunications signal reductions through use of cable pressurization equipment and equipment to monitor cable pressure, as well as equipment to report the results of the monitoring over telephone
+lines.      Operating units in the Mechanical Equipment segment have numerous competitors, both domestic and foreign. Orders are almost exclusively obtained
+through competitive bidding, based on quality, engineering capabilities, delivery and price. Substantially all of the segment s revenue comes from domestic sales through either salaried sales staff or independent manufacturers 
+representatives. Engineering design changes and model year changes mandated by the customers in both the automotive and heavy-duty truck market occur routinely and require the segment to maintain competitive pricing with strong business
+relationships to insure that future business is attained.      Most raw materials, supplies and other components are purchased from a number of suppliers.
+Occasionally, a unit will depend upon a single supplier for a particular item when required by the customer. The segment has not experienced any material difficulty obtaining necessary purchased materials.      Throughout its product lines, the segment has various patents and trademarks that have been obtained over a number of years and expire at various times. The loss of any
+single patent or trademark would not materially affect the sales and profitability of EXX.      The Mechanical Equipment segment is considered seasonal,
+varying primarily on customer s semi-annual shutdowns in July and December.      There are no unusual working capital requirements within the
+segment s businesses. In general, new business opportunities and capacity enhancements within this segment require capital expenditures.      The
+Mechanical Equipment segment primarily operates under annual blanket purchase orders with its customers. Specific releases against these blanket purchase orders are made on a daily basis by the customer. Accordingly, order backlog is not considered
+meaningful to this segment.      Less than 1% of the segment s revenue is derived from government or government related contracts.         
+   4   
+
+Plastics and Rubber Segment        This segment consisted of six operations at December 31, 2005: Boramco, Inc. ( Boramco ), Plastronics Plus, Inc. ( Plastronics ), Henry Gordy International, Inc. ( Gordy ),
+Handi-Pac, Inc., ( Handi-Pac ), Hi-Flier, Inc. ( Hi-Flier ) and Sellers   Josephson Inc. ( Sellers ).      The segment
+utilizes dip, cast and injection molding processes to manufacture both interior components (principally transmission shift boots, steering column and gearshift lever seals and air conditioning ducts) and engine compartment and other body components
+(body and dash panel grommets and fuel filler seals). The segment s injection molding facilities are used to manufacture fluid recovery systems, hose and wire brackets, speaker seals and vacuum control systems.      Gordy was formed during 1987 to conduct the business associated with certain assets purchased from Henry Gordy, Inc. and Gordy International, Inc.      Gordy markets a line of  impulse  toys through a national network of commissioned sales representatives, together with its own sales staff. Its products are
+distributed directly or through wholesalers to a wide range of retail outlets including, but not limited to, toy stores, discount chains, drug stores and supermarkets.      In February 1994, Hi-Flier, a newly formed subsidiary of EXX, purchased the assets of Hi-Flier Manufacturing Co., a leader in the kite business for more than 70 years. This acquisition strengthened EXX s Plastics
+and Rubber segment by providing product lines that compliment those of the Gordy subsidiary.      In February 1997, EXX (through a newly-formed subsidiary)
+acquired all the outstanding capital stock of Handi-Pac, Inc. ( Handi-Pac ) d/b/a Steven Manufacturing Co. Handi-Pac manufactured several types of toys, including pre-school, ride-on, classic and educational toys. In addition, during the
+third quarter of 1997, a wholly-owned subsidiary acquired the assets of Confectionery and Novelty Design International, LLC ( CANDI ), a Northbrook, Illinois maker of candy-filled toy products. While this acquisition was not a material
+purchase, it added a complimentary product to the business mix at that time.      In October 2005, EXX (through a newly-formed subsidiary) acquired the assets
+of Sellers   Josephson, Inc., a New Jersey manufacturer of vinyl wall coverings, in a auction from the estate of a bankrupt company. This business, operating under the names Sellers   Josephson Inc. manufacturers and sells its
+products primarily to wholesale distributors and to a limited extent to certain end users. This acquisition is expected to strengthen EXX s Plastics and Rubber segment by providing new revenues.      Each of the operations in the Plastics and Rubber segment has several competitors, primarily all domestic. Orders are almost exclusively obtained through competitive
+bidding, based on quality, engineering capabilities, delivery and price. All of the segment s revenue results from domestic sales through either salaried sales staff or independent manufacturers  representatives. Engineering design changes
+and model year changes mandated for the OEM s in both the automotive and heavy-duty truck market occur routinely and require the segment to maintain competitive pricing with strong business relationships to ensure that future business is
+attained.      Most raw materials, supplies and other components are purchased from a number of suppliers. Occasionally, a member of the segment will depend
+upon a single supplier for a particular item when instructed by the customer. The segment has not experienced any difficulty obtaining necessary purchased materials.      Throughout its product lines, members of the segment have various patents and trademarks that have been obtained over a number of years and expire at various times. The loss of any single patent or trademark would not
+materially affect the sales and profitability of EXX.      The Plastics and Rubber segment is considered seasonal, varying primarily with the automotive
+industries semi-annual shutdowns in July and December.      There are no unusual working capital requirements within the
+Plastics and Rubber segment.      Newcor s Plastics and Rubber segment primarily operates under annual blanket purchase orders with its customers.
+Specific releases against these blanket purchase orders are made on a daily basis by the customer. Accordingly, order backlog is not considered meaningful to this segment.      None of the segment s revenue is derived from government contracts.      Additional information regarding each segment is contained in Note 5 to EXX s Consolidated Financial Statements included in this Annual Report on Form 10-K.         
+   5   
+
+Environmental Compliance        Compliance by the Group with federal, state and local laws and regulations pertaining to the environment has not and is not anticipated to have any material effect on the capital expenditures, earnings or operations
+of the Group. All operations are subject to various federal, state and local environment laws, ordinances and regulations, including those governing discharges into the air and water, the storage, handling and disposal of solid and hazardous wastes,
+the remediation of soil and groundwater contaminated by petroleum products or hazardous substances or wastes and the health and safety of employees ( Environmental Laws ). The nature of the Group s current and former operations and
+the history of industrial uses at some of its facilities expose the Group to the risk of liabilities or claims with respect to environmental and related worker health and safety matters. Compliance with Environmental Laws, stricter interpretations
+of or amendments to such laws or more vigorous enforcement policies by regulatory agencies may require material expenditures by the Group. In addition, under certain Environmental Laws a current or previous owner or operator of property may be
+liable for the costs of removal or remediation of certain hazardous substances or petroleum products on, under or in such property, without regard to whether the owner or operator knew of, or caused, the presence of the contaminants, and regardless
+of whether the practices that resulted in the contamination were legal at the time they occurred.        Employees        At December 31, 2005, the Group had approximately 1100 employees. Approximately 17% of the Group s employees and contract workers at December 31, 2005,
+were represented by collective bargaining agreements which expire in 2007. In addition, many of the Group s customers employ workforces represented by unions, and many of these customers have experienced work stoppages at various times in the
+past. A dispute between any part of the Group and its employees, or between any of its major customers and such customers  employees, could have a material adverse effect on EXX s financial condition and results of operations. In 2004,
+there were work stoppages at two of the Group s facilities neither of which had a material adverse effect on EXX s financial condition and results of operations.      EXX does not have any foreign operations and, therefore, does not segregate its revenue by geographic area. Export sales, principally to customers in Mexico and Canada, represented less than 5% of consolidated revenue
+in the twelve-month period ended December 31, 2005.       
+
+Item 1A.    
+    Risk Factors          The following are some of the risks that we
+face in our business. The list of risk factors is not exhaustive. There can be no assurance that we have correctly identified and appropriately assessed all factors affecting our business or that are publicly available and other information with
+respect to these matters is complete and correct. Additional risks not presently known to us or that we currently believe to be immaterial also may adversely impact us. Should any risks and uncertainties develop into actual events, these
+developments could have material adverse effects on our business, financial condition and results of operations.       The loss of or a significant reduction
+in, purchases of our products by our major customers could adversely affect our business.       The Mechanical Equipment segment reported sales to four
+customers that accounted for a total of 69% in consolidated sales in 2005. Any reduction in business from these customers can adversely affect our business. Reduction in business could be caused by any number of reasons including the customers
+themselves losing their market share, making design changes, obtaining new sources and other competition.       Our operations are linked to domestic
+automotive production and a decrease in consumer demand, tighter governmental regulations or increased costs could negatively impact our operations       Our operations are cyclical because they are directly related to domestic automotive production which is itself cyclical and dependent on general economic conditions and other factors. Sales of products to the automotive industry represent
+a major part of our sales. There can be no assurance that positive trends in sales in this area will continue. A decrease in consumer demand for the models that generate the most sales for us, our failure to obtain sales order for new or redesigned
+models, pricing pressure from our customers or competitors could have a material adverse effect on our business. Disruption in the availability of fuel or governmental regulations could impact vehicle mix and volume which could also adversely affect
+the demand for our existing products.       The inability to obtain raw materials, component parts, and/or finished goods in a timely and cost-effective
+manner from suppliers would adversely affect our ability to manufacture and market our products.       We purchase raw materials and component parts from
+suppliers to be used in the manufacturing of our products. In addition, we purchase certain finished goods from suppliers. Changes in our relationships with suppliers or increases in the costs of purchased  
+       
+   6   
+
+raw materials, component parts or finished goods could result in manufacturing interruptions, delays, inefficiencies or our inability to market products. In
+addition, our profit margins would decrease if prices of purchased raw materials, component parts, or finished goods increase and we are unable to pass on those increases to our customers.       We operate in highly competitive markets.       The markets in which we
+operate are highly competitive. The intensity of this competition, which is expected to continue, can result in price discounting and margin pressures throughout the industry and adversely affect our ability to increase or maintain prices for our
+products. Many of our competitors have greater financial resources, which may place us at a competitive disadvantage in responding to substantial industry changes, such as changes in governmental regulations that require major additional capital
+expenditures. In addition, certain of our competitors may have lower overall labor costs.       Failure to keep pace with technological developments may
+adversely affect our operations.       We are engaged in an industry which will be affected by future technological developments. The introduction of
+products or processes utilizing new technologies could render our existing products or processes obsolete or unmarketable. Our success will depend upon our ability to develop and introduce on a timely and cost-effective basis new products, processes
+and applications that keep pace with technological developments and address increasingly sophisticated customer requirements. We may not be successful in identifying, developing and marketing new products, applications and processes and product or
+process enhancements. We may experience difficulties that could delay or prevent the successful development, introduction and marketing of product or process enhancements or new products, applications or processes. Our products, applications or
+processes may not adequately meet the requirements of the marketplace and achieve market acceptance. Our business, operating results and financial condition could be materially and adversely affected if we were to incur delays in developing new
+products, applications or processes or product or process enhancements or if we were to not gain market acceptance.       We may incur material losses and
+costs as a result of product liability, warranty, recall claims or other lawsuits or claims that may be brought against us.       We are exposed to product
+liability and warranty claims in the normal course of business in the event that our products actually or allegedly fail to perform as expected or the use of our products results, or is alleged to result, in bodily injury and/or property damage.
+Accordingly, we could experience material warranty or product liability costs in the future and incur significant costs to defend against these claims. We currently carry insurance and maintain allowances for product liability claims. However, we
+cannot assure you that our insurance coverage will be adequate if such claims do arise, and any liability not covered by insurance could have a material adverse impact on our business. A future claim could involve the imposition of punitive damages,
+the award of which, pursuant to state laws, may not be covered by insurance. In addition, warranty claims are not covered by our product liability coverage. Any product liability or warranty issues may adversely impact our reputation as a
+manufacturer of high quality, safe products and may have a material adverse effect on our business.       The costs associated with complying with
+environmental and safety regulations could lower our margins.       We, like other manufacturers, continue to face heavy governmental regulation of our
+products, especially in the areas of environment and employee health and safety. See  Business-Environmental Compliance . Complying with environmental and safety requirements has added and will continue to add to the cost of our products,
+and increases the capital-intensive nature of our business. While we believe that we are in compliance in all material respects with these laws and regulations, we cannot assure you that we will not be adversely impacted by costs, liabilities or
+claims with respect to our operations under existing laws or those that may be adopted. These requirements are complex, change frequently and have tended to become more stringent over time. Therefore, we could incur substantial costs, including
+cleanup costs, fines and civil or criminal sanctions as a results of violations, or liabilities under, environmental laws and safety regulations.       We
+are subject to a number of restrictive debt covenants.       Our credit facility and other debt instruments contain certain restrictive debt covenants that
+may hinder our ability to pursue attractive business opportunities. Our ability to meet these restrictive covenants may be affected by factors outside our control. Failure to meet one or more of these restrictive covenants may result in an event of
+default. Upon an event of default, our lender(s) may be entitled to declare all amounts outstanding as due and payable.       EXX s principal
+shareholder has voting control over the Company.       David A. Segal, EXX s Chief Executive Officer and principal shareholder, owns approximately 44%
+and 55% of the outstanding shares of our Class A and Class B common stock. As a result, he has effective voting control over the Company, including the  
+       
+   7   
+
+election of directors, and is able to effectively prevent an affirmative vote which would be necessary for a merger, sale of assets or similar transaction,
+irrespective of whether other shareholders believe such a transaction to be in their best interests. The Company s Articles of Incorporation and By-laws do not provide for cumulative voting in the election of directors.       Future sales of common stock could affect the price of common stock.       No prediction can be made as to effect, if any that future sales of shares or the availability of shares for sale will have on the market price of the common stock prevailing from time to time. Sales of substantial amounts of common stock,
+or the perception that such sales might occur, could adversely affect prevailing market prices of the common stock.       
+
+Item 1B.    
+    Unresolved Staff Comments          Not applicable.       
+
+Item 2.    
+    Properties          The Group conducts its business in Company-owned
+facilities totaling approximately 634,000 square feet and leased facilities totaling approximately 223,000 square feet of office, engineering, manufacturing and warehouse space. All of these facilities are suitable to meet the current capacity needs
+of the Group. Operating leases expire at various times through 2014.      Below is a summary of the principal facilities:       
+       
+   8   
+
+Item 3.    
+    Legal Proceedings          There were no material pending legal
+proceedings, other than ordinary routine litigation incidental to the business to which EXX or its subsidiaries are a party or of which any of their properties is the subject, except for the following:      Newcor is the subject of two labor actions relating to contract bargaining with the UAW at its Bay City Division. One action is currently on appeal to the Sixth Circuit
+Court of Appeals. That appeal relates to an NLRB order that, in part, requires Newcor to reinstate its former collective bargaining agreement and to make affected employees whole for any losses sustained as a result of the implementation of
+Newcor s final contract offer. The other action relates to an unfair labor practice charge filed by the UAW alleging purported violations of federal labor law by the Bay City Division following the implementation of the final contract offer.
+The NLRB Region 7 is investigating this action. Newcor is vigorously defending both actions. The outcome of either case cannot be currently determined.       
+
+Item 4.    
+    Submission of Matters to a Vote of Security Holders          Not
+applicable.         
+   9   
+
+PART II         
+
+Item 5.    
+    Market for the Registrant s Common Stock, Related Stockholder Matters and Issuer Purchases of Equity Securities.          EXX s Class A common stock and Class B common stock are traded on the American Stock Exchange. The following table sets forth the high and low sales prices for
+the Class A common stock and Class B common stock for the two most recent fiscal years as reported on the American Stock Exchange.       
+    As of March 21, 2006, there were approximately 1,200 stockholders of record of Class A shares and 350
+stockholders of record of Class B shares.      EXX has not declared nor paid any dividends during the last two fiscal years.      The information contained under the heading  Equity Compensation Plan Information  in Item 12 is incorporated herein by reference.       
+
+Item 6.   
+    Selected Financial Data .          
+
+(A)  
+  Newcor operations have been included in the Consolidated Financial Statements of EXX commencing January 31, 2003. See Note 3 to the Consolidated Financial Statements.
+
+(B)  
+  Restated to reflect change in reporting entity. See Note 3 to the Consolidated Financial Statements.         
+
+10   
+
+Item 7.    
+    Management s Discussion and Analysis of Financial Condition and Results of Operations.          Please refer to the Forward-Looking Statements and Cautionary Statements at the beginning of this 10-K Report.      Due to the
+factors noted in the Forward-Looking Statements paragraph and elsewhere in this Management s Discussion and Analysis of Financial Condition and Results of Operations, EXX s future earnings and stock price may be subject to significant
+volatility, particularly on a quarterly basis. This could result in an immediate and adverse effect on the trading price of EXX s common stock. Past financial performance should not be considered a reliable indicator of future performance, and
+investors should not use historical trends to anticipate results or trends in future periods.      In January 2003, under the Newcor Plan of Reorganization,
+EXX purchased 11,877 shares or 98.975% of the outstanding common stock of the reorganized Newcor for approximately $5,939,000. In July 2005, under a merger agreement by Newcor with a newly formed wholly owned subsidiary of EXX, the remaining
+outstanding shares of Newcor were purchased at $1,088 per share which was the book value of Newcor at June 30, 2005. As a result of the merger, EXX owns 100% of the issued and outstanding common stock of Newcor. See Note 3 to the Consolidated
+Financial Statements which further discusses this event.      In prior periods, both Newcor and EXX referred to an impending loss of a supply contract with a
+major customer. A press release and Form 8-K dated October 3, 2003 announced the signing of a new three year supply contract with that customer with certain reductions in prices and volume offset by certain additional benefits to other Newcor
+units dealing with the customer s affiliates. In 2004, the new contract resulted in a revenue reduction of approximately $9,000,000 in the Mechanical Equipment segment compared to 2003. In 2005, the revenues increased by $9,000,000 compared to
+2004 due to higher volumes on existing business.      Newcor s largest customer, American Axle   Manufacturing, informed Newcor that certain
+parts currently machined by a subsidiary of Newcor would be withdrawn from the Newcor subsidiary to be manufactured in-house by American Axle   Manufacturing. Newcor anticipated that the loss of sales would begin to affect Newcor in the
+third quarter of 2005 and continue through December 2006. Newcor estimated that this change would reduce its consolidated sales by approximately 20%. Thus far, AXL has in-sourced one part in the third quarter 2005 which accounted for approximately
+4% of total sales to AXL. During the first quarter of 2006, AXL in-sourced two additional parts. The loss of these three parts accounts for approximately 24% of 2005 sales to AXL. Management of the Company has performed an impairment analysis on the
+long-lived assets of the operations affected by the loss of revenues related to American Axle   Manufacturing, under the provisions of SFAS No. 144. Based on this analysis, management has determined that as of December 31, 2005,
+there is no impairment on any of the long-lived assets as the discounted future cash flows of the subsidiary, directly affected by the loss of American Axle   Manufacturing, exceeds the net book value of its assets at December 31,
+2005.      In May 2005, the Company reported that one of the subsidiaries of Newcor received purchase orders from Daimler Chrysler Corporation
+( DCX ) to machine axles for two current powertrain programs. The anticipated sales would approximate a 20% increase over the Company s then sales and profitability on an annual basis. Production under the contracts began in the
+second quarter of 2005 and is currently operating at contract levels.      In June 2005, the Company reported that a second subsidiary of Newcor had been
+awarded a machining program for a DCX powertrain. The annual sales of this program were estimated at approximately 10% of the Company s 2004 annual sales. Full production under the program began in the third quarter of 2005. Based on the new
+contracts from DCX it is anticipated that DCX will become Newcor s largest customer.       2005 Compared to 2004
+      Net sales in 2005 were $147,337,000 compared to $143,548,000 in 2004 which was an increase of $3,789,000. Net sales represented a 3% increase from the
+prior year sales. On an overall basis, the decrease in sales referred to above by the new three year supply contract was mitigated by additional sales in the other subsidiaries. The Mechanical Equipment segment reported total sales of $126,827,000
+in 2005 compared to $121,036,000 in 2004, an increase of $5,791,000 or 5% from 2004. The increase in sales in the Mechanical Equipment segment was attributable to increased sales with the heavy-duty truck market and automotive market, partially
+offset by decreased sales within the agricultural and specialty machining markets. The Plastics and Rubber segment sales were $20,510,000 in 2005 compared to $22,512,000 in 2004, a decrease of $2,002,000. The decrease in sales in the Plastics and
+Rubber segment was due to lower sales in the automotive market.      Gross profit was $16,335,000 in 2005 compared to gross profit of $21,554,000 in 2004, a
+decrease of $5,219,000. Gross profit as a percentage of sales decreased to 11% in 2005 compared to 15% in 2004. These reductions were caused both by the pricing of the new sales contract referred to above as well as overall market competition. The
+Mechanical Equipment segment reported $12,194,000 of gross profit in 2005 compared to $15,088,000 for 2004. Gross profit as a percentage of sales decreased to 10% in 2005 from 12% in 2004. The  
+       
+   11   
+
+reductions were caused by both the pricing of the new sales contract referred to above as well as overall market competition in the segment. The Plastics and
+Rubber segment realized $4,141,000 of gross profit in 2005 compared to $6,466,000 for 2004. Gross profit as a percentage of sales decreased to 20% in 2005 from 29% in 2004. The lower margins in the Plastics and Rubber segment reflect the impact of
+lower sales volume as well as the changed product mix.      Selling and general and administrative expenses were $12,849,000 in 2005 compared to $14,998,000 in
+2004, a decrease of $2,149,000 or 14% from 2004. On a comparable basis adjusted for the Newcor acquisition, selling and general expenses decreased 14% from 2004 to 2005 and reflected management s concerted effort to control costs in these
+areas.      Operating income was $2,068,000 in 2005 compared to $2,033,000 in 2004, an increase of $35,000. Operating income in 2005, as reported, reflected a
+$1,368,000 impairment charge to goodwill and a $50,000 impairment charge to fixed assets as referred to in Note 5 to EXX s Consolidated Financial Statement. The charge relates to a review and a determination of the impairment of certain long
+lived assets including goodwill of a subsidiary in the Plastics and Rubber segment. Operating income in 2004, as reported, reflected a $4,523,000 impairment charge referred to in Note 5 to EXX s Consolidated Financial Statement. The charges
+related to a review and a determination of the impairment of certain long lived assets including goodwill of a subsidiary in the Mechanical Equipment segment. The Mechanical Equipment segment generated operating income of $3,082,000 in 2005,
+compared to $2,785,000 in 2004, an increase of $297,000. The Plastics and Rubber segment generated operating income of $229,000 in 2005, compared to $3,784,000 in 2004, a decrease of $3,555,000. Corporate and other operating expenses were $1,243,000
+in 2005 compared to $4,536,000 in 2004 a decrease of $3,293,000.      Income from continuing operations before income taxes was $1,853,000 in 2005 compared to
+$2,894,000 in 2004, a decrease of $1,041,000. Income from continuing operations before income taxes in 2005 reflects a gain of $1,200,000 from early extinguishment of debt discussed in Note 9 to EXX s Consolidated Financial Statement. The gain
+related to the purchase of $6,000,000 of Newcor unsecured notes for a price of $4,800,000 and the subsequent cancellation of $2,800,000 of these notes by the Trustee. Income from continuing operations before Income taxes in 2004 reflected a gain of
+$2,520,000 from early extinguishment of debt discussed in Note 9 to EXX s Consolidated Financial Statement. The gain related to the purchase of $6,000,000 of Newcor unsecured notes for a price of $3,480,000 and the subsequent cancellation of
+these notes by the Trustee. Interest expense was $1,622,000 in 2005 compared to $1,917,000 in 2004. The overall decrease in interest reflected the reduction in the various debt instruments during the year.      EXX generated net income of $881,000 or $.08 per share basic and $.07 per share diluted compared to a net income of $1,504,000 or $.13 per share basic and $.12 per share
+diluted in 2004.      EXX reported a deferred tax asset of $2,011,000 at December 31, 2005 and a deferred tax asset of $1,451,000 at December 31,
+2004. Management believes this asset will be realized as a result of taxable earnings in the future.       2004 Compared to
+2003       Net sales in 2004 were $143,548,000 compared to $135,474,000 in 2003, which was an increase of $8,074,000. Net sales represented a 6% increase
+from the prior year sales on a dollar for dollar basis. Net sales represented a 3% decrease on a comparable basis adjusted for the Newcor acquisition. On an overall basis, the decrease in sales referred to by the new three year supply contract was
+mitigated by additional sales in the other subsidiaries. The Mechanical Equipment segment had reported total sales of $121,036,000 in 2004 compared to $112,187,000 in 2003, an increase of $8,849,000 on a dollar for dollar basis. The Mechanical
+Equipment sales in 2004 represented an 8% increase on a dollar for dollar basis from the prior year sales. On a comparable basis adjusted for the Newcor acquisition, the Mechanical Equipment sales for 2004 represented a 1% decrease from the prior
+year. The decrease in sales referred to above attributable to the new three year supply contract, was offset somewhat by additional sales in the other Mechanical Equipment segment subsidiaries. The Plastics and Rubber segment sales were $22,512,000
+in 2004 compared to $23,287,000 in 2003, a decrease of $775,000 on a dollar for dollar basis. On a comparable basis adjusted for the Newcor acquisition, the Plastics and Rubber segment sales for 2004 reflected a 9% decrease from the prior year.
+     Gross profit was $21,554,000 in 2004 compared to gross profit of $25,126,000 in 2003, a decrease of $3,572,000 on a dollar for dollar basis. Gross profit
+as a percentage of sales decreased to 15% in 2004 compared to 19% in 2003. The reduction was caused both by the pricing of the new sales contract referred to above as well as overall market competition. The Mechanical Equipment segment realized
+$15,088,000 of gross profit in 2004 compared to $19,310,000 for 2003 on a dollar for dollar basis. Gross profit as a percentage of sales decreased to 12% in 2004 from 17% in 2003. The reduction was caused by both the pricing of the new sales
+contract referred to above as well as overall market competition in the segment. The Plastics and Rubber segment realized $6,466,000 of gross profit in 2004 compared to $6,316,000 for 2003 on a dollar for dollar basis. Gross profit as a percentage
+of sales increased to 29% in 2004 from 27% in 2003 on a dollar for dollar basis based on the improved product mix.      Selling and general and administrative
+expenses were $14,998,000 in 2004 compared to $15,107,000 in 2003, a decrease of $109,000. On a comparable basis adjusted for the Newcor acquisition, selling and general expenses decreased 9% from 2003 to 2004 and which reflected management s
+concerted effort to control costs in these areas.         
+   12   
+
+Operating income was $2,033,000 in 2004 compared to $10,019,000 in 2003, a decrease of $7,986,000 on a dollar for dollar
+basis. Operating income in 2004 as reported, reflected a $4,523,000 impairment charge referred to in Note 5 to EXX s Consolidated Financial Statement. The charge related to a review and a determination of the impairment of certain long lived
+assets including goodwill of a subsidiary in the Mechanical Equipment segment. On a comparable basis reflecting the Newcor acquisition, operating income decreased 81% from 2003 to 2004. The Mechanical Equipment segment generated operating income of
+$2,785,000 in 2004, compared to $9,933,000 in 2003, a decrease of $7,148,000 on a dollar for dollar basis. The Plastics and Rubber segment generated operating income of $3,784,000 in 2004, compared to $3,001,000 in 2003, an increase of $783,000 on a
+dollar for dollar basis. Corporate and other operating expenses were $4,536,000 in 2004 compared to $2,915,000 in 2003 on a dollar for dollar basis.      Income from continuing operations before income taxes was $2,894,000 in 2004 compared to $8,053,000 in 2003, a decrease of $5,159,000. Income from continuing operations before income taxes in 2004 reflected a gain of $2,520,000 from early
+extinguishment of debt discussed in Note 9 to EXX s Consolidated Financial Statement. The gain related to the purchase of $6,000,000 of Newcor unsecured notes for a price of $3,480,000 and the subsequent cancellation of these notes by the
+Trustee. Interest expense was $1,917,000 in 2004 compared to $2,149,000 in 2003 on a dollar for dollar basis. The overall decrease in interest reflected the reduction in the various debt instruments during the year including the forgiveness of the
+Newcor debt.      EXX generated net income of $1,504,000 or $.13 per A and B common share compared to a net income of $5,817,000 or $.52 per A and B common
+share in 2003.      EXX reported a deferred tax asset of $1,451,000 at December 31, 2004 and a deferred tax asset of $1,511,000 at December 31, 2003.
+Management believed this asset would be realized as a result of taxable earnings in the future.        Liquidity and Capital Resources     
+  During 2005, EXX generated $8,282,000 of cash flows from operating activities compared to $10,659,000 in 2004. In 2005, cash flow of $8,551,000 was provided from
+income before depreciation and amortization, deferred income taxes and special charges and credits compared to $10,833,000 in 2004. The decrease in cash flows in 2005 was principally due to the reduction of net income. In 2005, operating cash flows
+of $1,616,000 were used to fund accounts payable offset by the reduction of $158,000 of accounts receivable, $1,829,000 of inventories and $350,000 of other current assets. In 2004, operating cash flows of $2,338,000 were used to fund accounts
+receivables as well as $589,000 of inventories offset by an increase in accounts payable totaling $1,769,000. The industry trend has slowed collections somewhat during the latter part of 2004.      In 2005, EXX s investing activities used cash of $5,663,000 to purchase property and equipment compared to using cash of $874,000 in 2004 to purchase property and
+equipment. Additionally, in 2005, EXX used $3,650,000 of cash to acquire the assets of Sellers   Josephson, Inc.      During 2005 and 2004, EXX s
+financing activities used cash of $5,611,000 and $8,793,000, respectively. In 2005, Newcor repaid $5,611,000 of long-term debt. In 2004, Newcor repaid $8,793,000 of long-term debt.      The following table summarizes the Company s contractual cash repayment obligations at December 31, 2005.       
+
+(a)  
+  These notes are in default and, accordingly, have been classified as currently due. They are non-recourse to the parent.        At the end of 2005, EXX had working capital of approximately $26,099,000 and a current ratio of 2.5 to 1. At the end of 2004, EXX had working capital of approximately
+$29,160,000 and a current ratio of 2.4 to 1.         
+   13   
+
+In January 2003, under the Newcor Plan of Reorganization, EXX purchased 11,877 shares or 98.975% of the outstanding
+common stock of the reorganized Newcor for approximately $5,939,000. In July 2005, EXX purchased the remaining outstanding 123 shares for approximately $134,000. See Note 3 to the Consolidated Financial Statements for further discussion of the
+event.      In October 2005, EXX (through a newly-formed subsidiary) purchased the assets of Sellers   Josephson, Inc., for approximately $3,650,000.
+The funds utilized for this purchase were provided from EXX s working capital.      At December 31, 2005, EXX considered its cash and cash
+equivalents of $6,478,000 together with availability of its Newcor subsidiary s line of credit of $2,100,000, net of a $700,000 outstanding letter of credit to be adequate for its current operating needs.      EXX has no present plans that will require material capital expenditures for any of EXX s businesses. Capital expenditures are expected to be in the ordinary course
+of business and financed by cash generated from operations.      EXX believes the effects of inflation will not have a material effect on its future
+operations.        Critical Accounting Policies        EXX
+has prepared its consolidated financial statements and related disclosures in conformity with accounting principles generally accepted in the United States of America. This has required EXX to make estimates, judgments and assumptions that affected
+the amounts EXX reported. Note 1 of Notes to Consolidated Financial Statements contains the significant accounting principles used to prepare EXX s consolidated financial statements.      EXX has identified certain critical accounting policies that required EXX to make assumptions about matters that were uncertain at the time of our estimates. Had
+different estimates and assumptions been used, the amounts recorded could have been significantly different. Additionally, actual results that would have a material effect on EXX s accounting policies that were affected by the estimates,
+assumptions, and judgments used in the preparation of EXX s consolidated financial statements are listed below.       Inventories . Certain of
+EXX s inventories are valued at the lower of cost, on the last-in, first-out ( LIFO ) method, or market. The remainder of EXX s inventories is valued at the lower of cost, on the first-in, first-out ( FIFO ) method, or
+market. EXX periodically assesses this inventory for obsolescence and potential excess by reducing the difference between the cost and the estimated market value of the inventory based on assumptions about future demand and historical sales
+patterns. If market conditions or future demand are less favorable than EXX s current expectations, additional inventory write downs or reserves may be required, which could have an adverse effect on EXX s reported results in the period
+the adjustments are made.       Income Taxes.  EXX complies with SFAS No. 109,  Accounting for Income Taxes,  which requires that deferred
+tax assets and liabilities be recognized using enacted tax rates for the effect of temporary differences between the book and tax bases of recorded assets and liabilities. SFAS 109 also requires a valuation allowance if it is more likely than not
+that a portion of the deferred tax asset will not be realized. EXX has determined that it is more likely than not that EXX s future taxable income will be sufficient to realize its deferred tax assets.       Intangible Assets.  Intangible Assets are being amortized over their estimated useful or economical lives and include provisions for patents, customer lists and
+customer relationships. Please see Note 2 to EXX s Consolidated Financial Statements for further explanation.       Impairment of Long-Lived Assets .
+The Company periodically assesses the recoverability of the carrying amounts of long-lived assets. A loss is recognized when expected discounted future cash flows are less than the carrying amount of the asset. The impairment loss is the difference
+by which the carrying amount of the asset exceeds its fair value. Please refer to Note 5 to EXX s Consolidated Financial Statements for an explanation of impairment charges in 2005 and 2004.       Pension Accounting.  The Company utilizes certain assumptions in the actuarially determined values of its periodic pension cost and pension benefit obligation.
+Such assumptions include the discount rate of 6.00% and the expected rate of return on plan assets of 8.75%, which are used in determining the periodic pension cost. Please refer to Note 12 to EXX s Consolidated Financial Statements for an
+explanation of the pension accounting as well as the related current charges and credits.       
+
+Item 7A.    
+    Quantitative and Qualitative Disclosures about Market Risk.          EXX s cash and cash equivalent investments are in short term money market investments, U.S. Treasury Money Market investments, Government Agency obligations and commercial paper. They are subject to limited interest rate risks. A 10%
+change in interest rates would not have a material effect on EXX s consolidated financial statements.         
+   14   
+
+Item 8.    
+    Financial Statements and Supplementary Data          The financial
+statements and schedules required by this Item may be found beginning with the index page on page F-1 immediately following the signature page and are incorporated herein by reference.       
+
+Item 9.    
+    Changes in and Disagreements with Accountants on Accounting and Financial Disclosure.          None       
+
+Item 9A.    
+    Controls And Procedures          The registrant carried out an
+evaluation, under the supervision and with the participation of the registrant s management, including the registrant s Chief Executive Officer and Chief Financial Officer, of the effectiveness of the registrant s disclosure controls
+and procedures, as defined in Rules 13a-15(e) and 15d-15(e) of the Securities and Exchange Act of 1934. Based on that evaluation, the Chief Executive Officer and Chief Financial Officer has concluded that the registrant s disclosure controls
+and procedures as of December 31, 2005 were effective to ensure that information required to be disclosed by the registrant in reports that it files or submits under the Securities Exchange Act of 1934 is recorded, processed, summarized and
+reported within the time periods specified in the Securities and Exchange Commission s rules and forms.      There were no changes in the
+registrant s internal control over financial reporting that occurred during the quarter ended December 31, 2005 that have materially affected, or are reasonably likely to materially affect, the registrant s internal control over
+financial reporting.       
+
+Item 9B.    
+    Other Information          On January 30, 2006, the Newcor
+Board of Directors renewed Mr. Segal s employment agreement with Newcor for the three year period ending January 30, 2009. On the same date, the EXX Compensation Committee approved the renewal of the employment agreement. The terms of
+Mr. Segal s Newcor employment agreement and the modification for renewal procedures are described in Mr. Segal s Employment Agreement dated September 1, 2001 and the Addendum to Employment Agreement dated January 31,
+2003 which are incorporated by reference to the Newcor Form 10 Q Report dated September 30, 2001 and the EXX Form 10Q Report dated September 30, 2003, respectively.         
+   15   
+
+PART III         
+
+Item 10.    
+    Directors and Executive Officers of the Registrant.          The
+following table sets forth certain information regarding each director and executive officer of the Company. Except as otherwise indicated, each director or executive officer has had the same principal occupation or employment during the past five
+years. Currently, no director serves as a director of another publicly-held company.       
+
+Name    
+      
+     Principal Occupation,       Positions with the Company     
+
+Jerry Fishman (1)     Age-57 - Director     Continuously since 1984   
+      
+    Director and Vice President of     The Fishman Organization Inc.     Director of Newcor    
+
+Norman H. Perlmutter (2)     Age- 64 - Director     Continuously since 1984   
+      
+    CPA, private practice     Director of Newcor    
+
+Frederic Remington (3)     Age-76 - Director     Continuously since 1984   
+      
+    Retired     Director of Newcor    
+
+David A. Segal (4)     Age-66 - Director     Continuously since 1984   
+      
+    Chairman, CEO and CFO of EXX     Chairman and CEO of Newcor    
+
+(1)  
+  Mr. Fishman serves on the Company s Audit Committee, Compensation Committee, Stock Option Committee and Nomination and Corporate Governance Committee.
+
+(2)  
+  Mr. Perlmutter serves on the Company s Audit Committee, Compensation Committee and Stock Option Committee.         
+
+(3)  
+  Mr. Remington served as Chairman of the Board and Vice President of Peerless Tube Co., a manufacturer of aerosol cans and collapsible metal tubes, for over five years before
+retiring in late January 2003. Mr. Remington serves on the Company s Audit Committee, Compensation Committee, Stock Option Committee and Nominating and Corporate Governance Committee.         
+
+(4)  
+  Mr. Segal has been Chairman of the Board, Chief Executive Officer and Chief Financial Officer of EXX for more than the past five years. Previously, Mr. Segal was Chairman
+of the Board and Chief Executive Officer of SFM Corp.         Board Meetings and Committees       During 2005, the Company s Board of Directors met five times. The Board has an Audit Committee, a Compensation Committee, a Stock Option Committee and a Nominating
+and Corporate Governance Committee. Each of the committees of the Board of Directors is comprised of non-employee directors who meet the independence requirements of the American Stock Exchange. Each director attended not less than 75% of the
+meetings of the Board of Directors and committees of which such director was a member in 2005. It is the Company s policy to strongly encourage members of the Board of Directors to attend the Company s annual meeting. At the last annual
+meeting, all of the then current directors were in attendance.      The Audit Committee is currently composed of Messrs. Fishman, Perlmutter and Remington,
+each of whom is independent as defined in the American Stock Exchange listing standards. The Audit Committee adopted a new written charter effective April 20, 2004. The Audit Committee s tasks include meeting with the auditors to review
+the scope, accuracy and results of the audit, making inquiries as to the adequacy of the Company s accounting, financial and operating controls and evaluating on an annual basis the qualification, performance and independence of the
+Company s auditors. The  Audit Committee financial expert  designated by the Board of Directors is Norman Perlmutter. The Audit Committee held four meetings in 2005.      The Compensation Committee is currently composed of Messrs. Fishman, Perlmutter and Remington. The Compensation Committee recommends the compensation level of the Chief Executive Officer and other executive officers
+and prepares the executive compensation report included in the Company s proxy statements. The Compensation Committee did not meet during 2005.         
+   16   
+
+The Stock Option Committee is composed of Messrs. Fishman, Perlmutter and Remington. The Stock Option Committee
+recommends the granting of stock options to executive officers as deemed appropriate. The Stock Option Committee did not meet in 2005.      The Nominating and
+Corporate Governance Committee was formed in April 2004. The Committee consists of Messrs. Fishman and Remington. The Committee adopted a written charter effective at the time it was organized. The Committee assists and advises the Board of
+Directors with respect to identifying individuals qualified to become members of the Board of Directors and recommends to the Board the director nominees for the next annual meeting of shareholders. In addition, the Committee evaluates the overall
+function and performance of the Board of Directors and its committees. The Nominating and Corporate Governance Committee met once in 2005.      The Company has
+adopted a Code of Ethics for Senior Executive and Financial Officers. The code of ethics is available at no charge by requesting a copy from the Company at: EXX INC, Attention: David A. Segal, Chairman of the Board, Suite 689, 1350 East Flamingo
+Road, Las Vegas, Nevada 89119.      The Company has established procedures for stockholders or other interested parties to communicate directly with the Board
+of Directors. Such parties can contact the Board of Directors by mail at: EXX INC, Attention: David A. Segal, Chairman of the Board, Suite 689, 1350 East Flamingo Road, Las Vegas, Nevada 89119. All communications made by this means will be received
+by the Chairman of the Board.       Section 16 Beneficial Ownership Reporting Compliance.       To the Company s knowledge, all directors, officers and beneficial owners of more than 10% of the Company s securities have filed on a timely basis during 2005,
+all reports required by Section 16 (a) of the Exchange Act.       
+
+Item 11.    
+    Executive Compensation.          The following table provides
+summary information concerning compensation awarded, paid or accrued by the Company to or on behalf of the executive officers of the Company for the years ended December 31, 2005, 2004, 2003.        Summary Compensation Table         
+
+17   
+
+Compensation of Directors       Directors who also are employees of the Company (i.e., Mr. Segal) receive no fees for their service as directors or for attendance at Board and committee meetings. Non-employee directors receive $1,000 for each Board meeting attended
+with a minimum of $4,000 per year. Audit Committee members receive $500 for each Audit Committee attended. Compensation Committee and Stock Option Committee members receive $150 for each committee meeting attended. The Nominating and Corporate
+Governance Committee members serve on this committee for no additional compensation. Non-employee directors of Newcor, Inc., EXX s subsidiary, receive either $500 or $1,500 for each Newcor, Inc. Board meeting with a minimum of $10,000 per year.
+      Executive Employment Contracts       Effective
+October 21, 1994, the Company entered into a 10-year executive employment agreement with Mr. Segal with an option to renew for an additional five years. Under the agreement, Mr. Segal s base compensation is $300,000 per year with
+annual increases based on a Consumer Price Index formula. In addition, there is a profit bonus under which Mr. Segal will receive 5% of the consolidated pre-tax earnings of the Company. The agreement also provided an option whereby
+Mr. Segal could require the Company to purchase all of his common stock in the Company on the date his employment terminates, at the greater of fair market value or $10 per share (prior to adjustment). In 1997, in order to avoid the
+classification of the shares owned by Mr. Segal as  mezzanine  capital and the reduction to future earnings per share (or increase to future loss per share) which would result with such classification, Mr. Segal agreed to
+relinquish his contractual right to require the Company to purchase his shares, in exchange for options, granted in 1998, to purchase 1,900,000 Class A and 100,000 Class B shares of common stock at prices equal to, or greater than, the market
+value at the date of the grant. The 1998 options expired March 31, 2003. Effective April 24, 2003, Mr. Segal was granted new options to purchase 1,900,000 Class A shares and 100,00 Class B shares at an exercise price of $.89 per
+Class A share of common stock and $1.15 per Class B share of common stock which was the closing stock price per share on the American Stock Exchange on the grant date. These options expire on December 31, 2013. The option grant was
+ratified by the shareholders at the EXX INC annual meeting on May 22, 2003.      Effective September 3, 2001, Newcor entered into a 10-year executive
+employment agreement with Mr. Segal with subsequent additional 10-year renewals. Under the agreement, Mr. Segal s base compensation is $500,000 per year with annual increases based on a Consumer Price Index Formula. In addition, there
+is a profit bonus under which Mr. Segal will receive 5% of Newcor s pretax profit in each fiscal year. Effective January 31, 2003, under the terms of the Newcor Bankruptcy filing, Mr. Segal s employment contract was modified
+to a 3-year term with subsequent 3-year renewals at the same base compensation as above plus increases on a Consumer Price Index formula using 2002 as a base. The payment of bonuses accrued under the original contract was deferred until three months
+after the complete payment of the $28,000,000 of the new Newcor notes. Effective January 31, 2006, Mr. Segal s employment contract with Newcor was renewed for a 3 year period.      Effective August 9, 2000, Newcor entered into an employment agreement with James J. Connor to be President and Chief Executive Officer for a base compensation of
+$200,000 adjusted to $250,000 starting in 2001 plus a bonus formula to be determined by the Board of Directors. Effective January 31, 2003, under the terms of the Newcor Bankruptcy filing, Mr. Connor s contract was modified regarding
+change of control definition, cancellation of Newcor stock options, and terms of the bonus arrangements to be solely determined by the Newcor Board of Directors. Mr. Connor resigned from Newcor effective September 2, 2005.       Pension Benefits       A subsidiary of the Company has a non-contributory
+defined benefit pension plan for salaried employees, which was  frozen  by action of the Board of Directors in 1988. Monthly benefits payable at age 65 are equal to 50% of final average earnings, less 75% of the primary Social Security
+benefit.  Final average earnings  is the average of the highest consecutive five of the last ten years ended December 31, 1987, and monthly benefits are reduced pro rata for each full year of service less than 30. Benefits are paid on
+a straight-life annuity basis or in an optional form, which is actuarially equivalent to a life annuity.       Pension Plan Table
+       
+    The  Pension Plan Table  reflects estimated annual benefits payable at age 65 on a straight-life annuity
+basis at various compensation levels and years of service, before being reduced by up to 75% of the retiree s annual primary Social Security benefit.         
+   18   
+
+With 20 years of service, Mr. Segal is the only executive officer of the Company currently credited under the plan.
+The estimated final average earnings, based on annual salary and bonus, for Mr. Segal prior to reduction of Social Security Benefits are $98,300.      Newcor has a non-contributory defined benefit pension plan for salaried employees which was frozen by its Board of Directors effective December 31, 2003. Under the terms of the plan, pension benefits are determined by using 1.1% of the
+average monthly earnings for the highest consecutive 60-month employment, currently capped at $17,083 per month times the period of benefit service. Benefits are payable upon reaching 63 years of age. Mr. Segal is the only executive officer
+participating under the plan. Mr. Connor is currently fully vested and will receive a pension of approximately $7,200 per year upon reaching 63 years of age. Mr. Segal will be fully vested in August 2006 and will be eligible to receive a
+pension of approximately $4,700 per year at that time.       Stock Options       In 1994, the Company s Board of Directors adopted and the stockholders approved the EXX INC 1994 Stock Option Plan, which provided for the issuance of incentive stock options within the meaning of
+Section 422 of the Internal Revenue Code, as amended, and for the issuance of non-qualified stock options (not intended to qualify under Section 422 of the Code). Pursuant to the plan, 5,000,000 shares of Class A common stock were
+reserved for issuance upon the exercise of options to officers, directors, employees and consultants of the Company as either incentive and/or non-qualified options.      At December 31, 2005, there were no options outstanding to purchase shares of Class A common stock for grant under the 1994 Stock Option Plan. The plan terminated in 2004 and was not renewed.       Fiscal Year-End Option Values       The following table sets forth
+information with respect to the number of exercisable and unexercisable stock options at December 31, 2005, as well as the value of such stock options having an exercise price lower than the last reported trading price on December 31, 2005
+( in-the-money  options) held by the executive officers named in the Summary Compensation Table. The executive officers named in the Summary Compensation Table did not exercise any stock options in 2005.       
+
+(2)  
+  Based on a price per share of $2.04, the last reported sale price of the Class A common stock on December 30, 2005 and $1.75, the last reported sale price of the Class B
+common stock on December 30, 2005 and the exercise price per share of $.89 for the Class A common stock and $1.15 for the Class B common stock.           
+   19   
+
+Item 12.    
+    Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters .         The following table and footnotes describe persons known to management to be the beneficial owners of 5% or more of each class of the Company s common stock as well
+as the stockholdings of all the directors as of March 24, 2006, as reported to the Company or as contained in filings made with the Securities and Exchange Commission. Each person has sole voting and dispositive power over the shares indicated
+as being beneficially owned below.       
+
+(2)  
+  All information regarding Ms. Bradley is based on (a) Amendment to Schedule 13 G/A, relating to Class A common stock, filed with the Securities and Exchange
+Commission ( SEC) on February 14, 2006 and (b) Amendment to Schedule 13G, relating to Class B common stock, filed with the SEC on August 30, 2000.         
+
+(3)  
+  All information regarding Ms. Bethune is based on (a) Schedule elating to Class A common stock, filed with the SEC on August 11, 2000, (b) Schedule 13G,
+relating to Class B common stock, filed with the SEC on August 11, 2000, and (c) Form 4, relating to Class A common stock, filed with the SEC on July 15, 2005.         
+
+(4)  
+  Ms. Bradley and Ms. Bethune are both daughters of David A. Segal. Mr. Segal disclaims beneficial ownership of any stock owned by Ms. Bradley and
+Ms. Bethune.           
+   20   
+
+Equity Compensation Plan Information       The following table provides information as of December 31, 2005 with respect to the shares of the Company s common stock that may be issued under existing equity compensation plans.       
+
+Plan Category    
+      
+     Number of Securities to be issued upon exercise
+of outstanding options, warrants and rights       (a)    
+      
+     Weighted-average exercise price of outstanding options, warrants and rights       (b)    
+      
+     Number of securities remaining available for future
+issuance under equity compensation plans (excluding securities reflected       in column (a))       (c)     
+ 
+    Equity compensation plans approved by stockholders   
+      
+  2,000,000  
+      
+  $  
+  .90  
+
+Equity compensation plans not approved by stockholders   
+
+Total   
+      
+  2,000,000  
+      
+  $  
+  .90  
+
+Item 13.    
+    Certain Relationships and Related Transactions .         With the
+exception of Mr. Segal, who is the Company s Chairman, Chief Executive Officer and Chief Financial Officer, all directors are independent as that term is defined in the American Stock Exchange listing standards.      In connection with Newcor s bankruptcy reorganization as of January 2003, Mr. Segal, the Company s Chairman, Chief Executive Officer and Chief Financial
+Officer, purchased the claims or rights of certain parties with respect to approximately $2,400,000 aggregate principal amount of unsecured senior notes issued by the Company s Newcor subsidiary ( Newcor Notes ). During the fourth
+quarter of 2004, Mr. Segal purchased approximately $594,000 aggregate principal amount of Newcor Notes from the holders thereof. In January 2005, Mr. Segal purchased an additional $5,000,000 aggregate principal amount of Newcor Notes from
+the holders thereof. In December 2005, Mr. Segal purchased an additional $1,700,000 aggregate principal amount of Newcor Notes from the holders thereof. At December 31, 2005, Mr. Segal, directly or through entities he controls held
+approximately $9,700,000 or 50% of the outstanding principal amount of Newcor notes. During 2005, Mr. Segal received interest payments from Newcor of approximately $450,000.       
+
+Item 14.    
+    Principal Accountant Fees and Services .         Rothstein,
+Kass   Company, P.C., the Company s independent public accountants for 2005, have also been selected as such for the Company s current fiscal year.      The following table presents fees for professional audit services rendered by Rothstein, Kass   Company, P.C. for the audit of the Company s annual consolidated financial statements, and fees billed for
+other services rendered for the fiscal years shown.       
+
+(1)  
+  Audit Fees consist of fees rendered for professional services for the audit of the Company s consolidated financial statements included in our Forms 10-K and review of
+unaudited financial information included in our Forms 10-Q during the years ended December 31, 2005 and 2004 and services that are normally provided in connection with statutory and regulatory filings or engagements.     
+     
+   21   
+
+(2)  
+  Audit-Related Fees consist of fees rendered for assurance and related services that are reasonably related to the performance of the audit or review of the Company s
+consolidated financial statements and are not reported under  Audit Fees.          
+
+(3)  
+  Tax Fees consist of fees rendered for professional services rendered for tax compliance, tax advice and tax planning. These services include assistance regarding federal and state
+tax compliance, tax planning and compliance work in connection with acquisitions.         
+
+(4)  
+  All Other Fees consist of fees for products and services other than the services reported above.        The Audit Committee of the Board of Directors has established a policy requiring the approval of all audit engagement fees and terms and the pre-approval of all non-audit services provided to the Company. The policy
+prohibits the Audit Committee from delegating to management the committee s responsibility to pre-approve permitted services of our independent public accountants.      During 2005, the Audit Committee pre-approved non-audit services related to tax compliance. The Audit Committee pre-approved 100% of the fees for services covered under the captions  Audit Related Fees,  and
+ Tax Fees,  for fiscal years 2004 and 2005.      Prior to retaining Rothstein, Kass   Company, P.C. to provide any non-audit services, the
+Audit Committee considered whether provision of all these services was compatible with maintaining the independence of Rothstein, Kass   Company, P.C. and determined that the provision of these services would not interfere with such
+independence.        PART IV         
+
+Item 15.   
+   Exhibits and Financial Statement Schedules          
+
+(a)  
+  1.  Financial Statements          
+
+Independent Auditors  Report   
+
+Consolidated Balance Sheets   
+
+Consolidated Statements of Operations   
+
+Consolidated Statements of Changes in Stockholders  Equity   
+
+Consolidated Statements of Cash Flows   
+
+2.  Schedules to Financial Statements         II -
+Valuation and Qualifying Accounts       
+
+Exhibit No.   
+      
+     Description    
+
+2.1  
+      
+  Agreement of Merger and Plan of Reorganization, EXX INC  
+      
+  (1  
+  )   
+
+2.2  
+      
+  Amendment to Agreement of Merger and Plan of Reorganization, EXX INC  
+      
+  (2  
+  )   
+
+3.1  
+      
+  Articles of Incorporation, EXX INC.  
+      
+  (1  
+  )   
+
+4.1  
+      
+  Newcor Senior Increasing Rate Notes due 2013 Indenture.  
+      
+  (7  
+  )   
+
+10.1  
+      
+  Amendment dated March 27, 1998 to employment agreement with David A. Segal. *  
+      
+  (3  
+  )   
+
+10.2  
+      
+  Employment Agreement covering Newcor employment with David A. Segal dated September 3, 2001 *  
+      
+  (4  
+  )   
+
+10.3  
+      
+  Addendum to Employment Agreement covering Newcor employment with David A. Segal. *  
+      
+  (5  
+  )   
+
+10.4  
+      
+  Employment Agreement covering Newcor employment with James J. Connor dated August 9, 2000. *  
+      
+  (6  
+  )   
+       
+   22   
+
+10.5  
+      
+  Addendum to Employment Agreement covering Newcor employment with James J. Connor. *  
+      
+  (5  
+  )   
+
+10.6  
+      
+  Addendum to Change in Control Agreement covering Newcor employment with James J. Connor. *  
+      
+  (5  
+  )   
+
+10.7  
+      
+  Credit Agreement between Newcor, Inc. and its subsidiaries and National City Bank of Michigan-Illinois dated February 20, 2004.  
+      
+  (8  
+  )   
+
+10.8  
+      
+  First Amendment to 2004 Credit Agreement between Newcor, Inc. and its subsidiaries and National City Bank dated March 28, 2005.  
+      
+  (9  
+  )   
+
+21  
+      
+  List of Subsidiaries of EXX INC.  
+
+31  
+      
+  Certification of Chief Executive Officer and Chief Financial Officer under Section 302 of the Sarbanes-Oxley Act of 2002.  
+
+32  
+      
+  Certification Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.  
+
+*  
+  Indicates a management contract or compensatory plan and arrangement.           
+   23   
+
+SIGNATURES       Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.       
+
+EXX INC   
+
+By:  
+     
+    /s/ DAVID A. SEGAL    
+
+David A. Segal, Chairman of the Board   
+    Date: March 24, 2006      Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been signed below by the following persons on behalf of the registrant and in the capacities and on the dates indicated.   
+
+By:  
+     
+    /s/ JERRY FISHMAN    
+
+Jerry Fishman, Director    
+    Date: March 24, 2006       
+
+By:  
+     
+    /s/ NORMAN H. PERLMUTTER    
+
+Norman H. Perlmutter, Director    
+    Date: March 24, 2006       
+
+By:  
+     
+    /s/ FREDERIC REMINGTON    
+
+Frederic Remington, Director    
+    Date: March 24, 2006       
+
+By:  
+     
+    /s/ DAVID A. SEGAL    
+
+David A. Segal, Chief Executive Officer     Chief Financial Officer     Chairman of the Board and Director    
+    Date: March 24, 2006         
+
+   24   
+
+EXX INC AND SUBSIDIARIES        
+  INDEX TO CONSOLIDATED FINANCIAL STATEMENTS AND FINANCIAL STATEMENT SCHEDULE (ITEMS 8 AND 15 (d))        
+     OTHER SCHEDULES ARE OMITTED BECAUSE OF THE ABSENCE OF CONDITIONS UNDER WHICH THEY ARE REQUIRED OR BECAUSE THE
+REQUIRED INFORMATION IS GIVEN IN THE CONSOLIDATED FINANCIAL STATEMENTS OR NOTES THERETO.          
+   F-1   
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM       To the Board of Directors and
+Stockholders of      EXX INC      We
+have audited the accompanying consolidated balance sheets of EXX INC and Subsidiaries (collectively, the  Company ) as of December 31, 2005 and 2004, and the related consolidated statements of operations, changes in stockholders 
+equity and cash flows for each of the years in the three-year period ended December 31, 2005. These consolidated financial statements are the responsibility of the Company s management. Our responsibility is to express an opinion on these
+financial statements based on our audits.      We conducted our audits in accordance with the standards of the Public Company Accounting Oversight Board
+(United States). Those standards require that we plan and perform the audits to obtain reasonable assurance about whether the financial statements are free of material misstatement. The Company is not required to have, nor were we engaged to
+perform, an audit of its internal control over financial reporting. Our audits included consideration of internal control over financial reporting as a basis for designing audit procedures that are appropriate in the circumstances, but not for the
+purpose of expressing an opinion on the effectiveness of the Company s internal control over financial reporting. Accordingly, we express no such opinion .  An audit also includes examining, on a test basis, evidence supporting the amounts
+and disclosures in the financial statements, assessing the accounting principles used and significant estimates made by management, as well as evaluating the overall financial statement presentation. We believe that our audits provide a reasonable
+basis for our opinion.      In our opinion, the consolidated financial statements referred to above present fairly, in all material respects, the financial
+position of EXX Inc and Subsidiaries as of December 31, 2005 and 2004, and the results of its operations and its cash flows for each of the years in the three-year period ended December 31, 2005, in conformity with accounting principles
+generally accepted in the United States of America.      In connection with our audits of the consolidated financial statements referred to above, we audited
+the financial statement schedule listed in accompanying index. In our opinion, the financial statement schedule, when considered in relation to the consolidated financial statements taken as a whole, presents fairly, in all material respects, the
+information stated therein.        
+
+/s/ ROTHSTEIN, KASS   COMPANY, P.C.    
+ 
+   Roseland, New Jersey      March 3, 2006         
+   F-2   
+
+EXX INC AND SUBSIDIARIES        CONSOLIDATED BALANCE SHEETS        
+     See notes to consolidated financial statements.          
+   F-3   
+
+EXX INC AND SUBSIDIARIES        CONSOLIDATED STATEMENTS OF OPERATIONS        
+     See notes to consolidated financial statements.          
+   F-4   
+
+EXX INC AND SUBSIDIARIES        CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS  EQUITY        Years Ended December 31, 2005, 2004 and 2003        
+     
+     See notes to consolidated financial statements.          
+   F-5   
+
+EXX INC AND SUBSIDIARIES        CONSOLIDATED STATEMENTS OF CASH FLOWS        
+     See notes to consolidated financial statements.          
+   F-6   
+
+EXX INC AND SUBSIDIARIES        CONSOLIDATED STATEMENTS OF CASH FLOWS (CONTINUED)        
+     See notes to consolidated financial statements.          
+   F-7   
+
+EXX INC AND SUBSIDIARIES        NOTES TO CONSOLIDATED FINANCIAL STATEMENTS        
+
+1.   
+   Nature of operations         EXX INC and Subsidiaries (collectively, the
+ Company ) operate primarily in the mechanical equipment industry and the plastics and rubber industry. The Company s operations primarily involve the design and manufacturing of precision machined components and assemblies and custom
+rubber and plastic products predominately for the automotive and agricultural vehicle markets. Operations in the mechanical equipment industry also involve the design, assembly and sale of capital goods, such as electric motors and cable
+pressurization equipment. Operations in the plastics and rubber industry also include the importation and sale of impulse toys. The Company s mechanical equipment products are incorporated into customers  products or are used to maintain
+customers  equipment.       
+
+2.   
+   Summary of significant accounting policies          Principles of
+Consolidation       The accompanying consolidated financial statements include the accounts of EXX INC and its wholly-owned subsidiaries. All material
+intercompany accounts and transactions have been eliminated in consolidation.       Revenue Recognition       The Company recognizes revenues when goods are shipped and title passes to customers. Provisions are established, as appropriate, for uncollectible accounts, returns and
+allowances and warranties in connection with sales.       Cash and Cash Equivalents       For the purposes of the statement of cash flows, the Company considers all highly-liquid debt instruments with maturities of three months or less to be cash equivalents. As of December 31, 2005, and at various
+times during the year, balances of cash at financial institutions exceeded the federally insured limit. The Company has not experienced any losses in such accounts and believes it is not subject to any significant credit risk on cash and cash
+equivalents.       Accounts Receivable       The Company carries
+its accounts receivable at cost less an allowance for doubtful accounts. On a periodic basis, the Company evaluates its accounts receivable and establishes an allowance for doubtful accounts, based on a history of past write-offs and collections and
+current credit conditions. Accounts are written off as uncollectible if payments are not expected to be received.       Fair Value of Financial Instruments
+      The fair value of the Company s assets and liabilities which qualify as financial instruments under Statement of Financial Accounting Standards
+( SFAS ) No. 107,  Disclosures About Fair Value of Financial Instruments,  approximate the carrying amounts presented in the accompanying consolidated balance sheets.       Comprehensive Income       The Company complies with SFAS No. 130,
+ Reporting Comprehensive Income.  SFAS No. 130 establishes rules for the reporting and display of comprehensive income (loss) and its components. SFAS No. 130 requires the Company s change in the minimum pension liability to
+be included in other comprehensive income (loss).         
+   F-8   
+
+EXX INC AND SUBSIDIARIES        NOTES TO CONSOLIDATED FINANCIAL STATEMENTS          
+
+2.   
+   Summary of significant accounting policies (continued)          Inventories       Certain inventories are valued at the lower of cost, on the last-in, first-out ( LIFO ) method, or market. The
+remainder of the inventories are valued at the lower of cost, on the first-in, first-out ( FIFO ) method, or market.       Impairment of Long-Lived
+Assets       The Company adheres to SFAS No. 144,  Accounting for the Impairment or Disposal of Long-Lived Assets  and periodically assesses
+the recoverability of the carrying amounts of long-lived assets, including goodwill and other intangible assets. A loss is recognized when expected discounted future cash flows are less than the carrying amount of the asset. The impairment loss is
+the difference by which the carrying amount of the asset exceeds its fair value.       Property and Equipment       Property and equipment are stated at cost less accumulated depreciation and are depreciated or amortized on the straight-line method over the estimated useful lives of
+the assets as follows:       
+    Maintenance and repairs are charged to operations, while betterments and improvements are capitalized.   
+   Advertising       Advertising costs are charged to operations as
+incurred and were $31,000, $22,000 and $75,000 for 2005, 2004 and 2003, respectively.       Research and Development Costs       The Company complies with SFAS No. 2,  Accounting for Research and Development Costs.  Expenditures for research and development are charged to operations
+as incurred and were $214,000, $234,000 and $233,000 for 2005, 2004 and 2003, respectively.       Goodwill       In accordance with SFAS No. 142,  Goodwill and Other Intangible Assets,  goodwill is not amortized but as required, the Company performs annual testing for
+impairment (comparison of estimated fair value to carrying value). Several factors are used to evaluate the recoverability of goodwill, including management s plans for future operations, recent operating results and each division s
+projected discounted cash flows.         
+   F-9   
+
+EXX INC AND SUBSIDIARIES        NOTES TO CONSOLIDATED FINANCIAL STATEMENTS          
+
+2.   
+   Summary of significant accounting policies (continued)          Intangible Assets       Intangible assets are amortized over their estimated useful or economic lives using the straight-line method as follows:
+
+Patents   
+      
+  10 years   
+ 
+    Customer lists   
+      
+  3 years   
+ 
+    Customer relationships   
+      
+  5 years   
+     Income Taxes       The Company complies with SFAS No. 109,  Accounting for Income Taxes,  which requires an asset and liability approach to financial reporting for income taxes. Deferred income tax assets and liabilities are computed for
+differences between the financial statement and tax bases of assets and liabilities that will result in future taxable or deductible amounts, based on enacted tax laws and rates applicable to the periods in which the differences are expected to
+affect taxable income. Income tax benefits recognized from the deduction of goodwill are used to reduce the carrying value of goodwill in the financial statements as they are realized. Valuation allowances are established, when necessary, to reduce
+deferred income tax assets to the amount expected to be realized.       Pension Plans and Post Retirement Benefits, Other Than Pensions       In December 2003, the FASB revised SFAS No. 132,  Employers  Disclosures about Pensions and Other Postretirement Benefits.  This Statement revises
+employers  disclosures about pension and other postretirement benefit plans. It does not change the measurement or recognition of those plans required by SFAS No. 87, 88 and 106. The revised SFAS requires additional disclosures about the
+assets, obligations, cash flows and net periodic benefit cost of defined benefit pension plans and other defined benefit postretirement plans. The additional disclosure requirements are included in Note 12.       Earnings Per Share       The Company complies with SFAS No. 128,
+ Earnings Per Share,  which requires dual presentation of basic and diluted income per share for all periods presented. Basic income per share excludes dilution and is computed by dividing income available to common stockholders by the
+weighted-average number of common shares outstanding during the period. Diluted income per share reflects the potential dilution that could occur if securities or other contracts to issue common stock were exercised or converted into common stock or
+resulted in the issuance of common stock that then shared in the income of the Company.       Stock-Based Compensation       The Company follows SFAS No. 123,  Accounting for Stock-Based Compensation.  The provisions of SFAS No. 123 allow companies to either expense the
+estimated fair value of stock options or to continue to follow the intrinsic value method set forth in Accounting Principles Board Opinion No. 25,  Accounting for Stock Issued to Employees  ( APB 25 ) but disclose the pro
+forma effect on net income (loss) had the fair value of the options been expensed. The Company has elected to continue to apply APB 25 in accounting for its stock option incentive plans.         
+   F-10   
+
+EXX INC AND SUBSIDIARIES        NOTES TO CONSOLIDATED FINANCIAL STATEMENTS          
+
+2.   
+   Summary of significant accounting policies (continued)          Stock-Based Compensation (continued)       The Company used the Black-Scholes option-pricing model to determine the fair value of grants made in
+2003. The following assumptions were applied in determining the pro forma compensation cost:       
+
+Risk-free interest rate   
+      
+  3.56%   
+ 
+    Expected option term   
+      
+  5 years   
+ 
+    Expected price volatility   
+      
+  56% - 85%   
+ 
+    Dividend yield   
+
+Had compensation cost for the Company s stock option grant been determined based on the fair value, at the
+grant or issue date, in 2003 and, consistent with the provisions of SFAS No. 123, the Company s net income and income per share would have been reduced to the pro forma amounts indicated below       
+     Treasury Stock       Shares of Class A and B common stock repurchased by the Company are recorded at cost as treasury stock and result in a reduction of stockholders  equity in the Company s Consolidated Balance Sheets. When shares are reissued,
+the Company uses the weighted average cost method for determining cost. The difference between the cost of shares and the issuance price is added or deducted for additional contributed capital.       Use of Estimates       The preparation of consolidated financial
+statements in conformity with accounting principles generally accepted in the United States of America requires management to make estimates and assumptions that affect the reported amounts of assets and liabilities and disclosure of contingent
+assets and liabilities at the date of the consolidated financial statements and the reported amounts of revenues and expenses during the reporting period. Actual results could differ from those estimates.         
+   F-11   
+
+EXX INC AND SUBSIDIARIES        NOTES TO CONSOLIDATED FINANCIAL STATEMENTS          
+
+2.   
+   Summary of significant accounting policies (continued)          Recently
+Issued Accounting Pronouncements       In May 2005, the FASB issued SFAS No. 154,  Accounting Changes and Error Correction - A Replacement of APB
+Opinion No. 20 and FASB Statement No. 3  (SFAS No. 154). SFAS No. 154 replaces APB Opinion No. 20,  Accounting Changes  (Opinion 20), and FASB Statement No. 3,  Reporting Accounting Changes in
+Interim Financial Statements,  and changes the requirements for the accounting for and reporting of a change in accounting principle. Opinion 20 previously required that most voluntary changes in accounting principle be recognized by including
+in net income of the period of the change the cumulative effect of change to the new accounting principles. SFAS No. 154 requires retrospective application to prior periods  financial statements of changes in accounting principle. SFAS
+No. 154 defines retrospective application as the application of a different accounting principle to prior accounting periods as if that principle had always been used. SFAS No. 154 also requires that a change in depreciation, amortization,
+or depletion method for long-lived, non-financial assets be accounted for as a change in accounting estimate affected by a change in accounting principle. The Company is not required to adopt the provisions of SFAS No. 154 until June 1,
+2006, although earlier adoption is permitted. Management is currently evaluating the provisions of SFAS No. 154.      In December 2004, the Financial
+Accounting Standards Board ( FASB ) issued SFAS No. 123(R),  Accounting for Stock-Based Compensation (Revised 2004).  SFAS No. 123(R) supersedes APB No. 25 and its related implementation guidance. SFAS
+No. 123(R) establishes standards for the accounting for transactions in which an entity exchanges its equity instruments for goods or services. It also addresses transactions in which an entity incurs liabilities in exchange for goods or
+services that are based on the fair value of the entity s equity instruments or that may be settled by the issuance of those equity instruments. SFAS No. 123(R) focuses primarily on accounting for transactions in which an entity obtains
+employee services in share-based payment transactions. SFAS No. 123(R) requires a public entity to measure the cost of employee services received in exchange for an award of equity instruments based on the grant-date fair value of the award
+(with limited exceptions). That cost will be recognized over the period during which an employee is required to provide service in exchange for the award the requisite service period (usually the vesting period). No compensation costs are recognized
+for equity instruments for which employees do not render the requisite service. The grant-date fair value of employee share options and similar instruments will be estimated using option-pricing models adjusted for the unique characteristics of
+those instruments (unless observable market prices for the same or similar instruments are available). If an equity award is modified after the grant date, incremental compensation cost will be recognized in an amount equal to the excess of the fair
+value of the modified award over the fair value of the original award immediately before the modification. The Company has not completed its evaluation of SFAS No. 123(R) but expects the adoption of this new standard will not have an impact on
+operating results due to the manner of the Company s use of options as employee incentives.      In November 2004, the FASB issued SFAS No. 151,
+ Inventory Costs-an amendment of ARB No. 43, Chapter 4.  SFAS No. 151 has been issued to clarify the accounting for abnormal amounts of idle facility expense, freight, handling costs, and wasted material (spoilage), which
+requires that those items be recognized as current-period charges regardless of whether they meet the criterion of  so abnormal . In addition, this Statement requires that allocation of fixed production overheads to the costs of conversion
+be based on the normal capacity of the production facilities. Management of the Company does not believe the effects of SFAS No. 151 have a material effect on the consolidated financial statements, as the Company has not incurred any inventory
+costs that meet the definition of  so abnormal.          
+   F-12   
+
+EXX INC AND SUBSIDIARIES        NOTES TO CONSOLIDATED FINANCIAL STATEMENTS          
+
+3.   
+   Acquisitions          Sellers   Josephson       On October 4, 2005, a wholly owned subsidiary of the Company acquired substantially all of the assets of Sellers   Josephson, Inc., an Englewood, New Jersey
+manufacturer of vinyl wall coverings. The assets were acquired through a bankruptcy court sale of assets. The assets and business acquired are being operated as a newly incorporated wholly-owned subsidiary of the Company within its Plastics and
+Rubber segment using the Sellers   Josephson name and the results since the acquisition date are included in the consolidated financial statements of the Company.       Newcor, Inc.       In July 2001, the Company purchased an additional 679,994 shares of Newcor Inc. ( Newcor )
+common stock and $500,000 principal amount of Newcor s 9.875% Senior Subordinated Notes due 2008, from five of the former directors of Newcor and 24,000 shares from David A. Segal (the Company s Chairman). In connection with such
+purchases, the Company paid an aggregate of $1,679,000 in cash. Prior to the Company s acquisition of these additional shares, the Company accounted for its investment in Newcor as an available for sale marketable security. The changes in the
+market value of the Newcor shares were recorded as comprehensive income in each applicable period. The additional acquisition increased the Company s ownership percentage in Newcor to approximately 31%, thereby requiring the Company to use the
+equity method of accounting for this investment in accordance with APB Opinion No. 18,  The Equity Method of Accounting for Investments in Common Stock.  As of December 31, 2002, the Company owned approximately 1,546,000 shares
+of the outstanding common stock of Newcor and based on its equity in the losses of Newcor, the Company reduced its investment (including subordinated notes) in Newcor to zero. In February 2002, Newcor filed for bankruptcy under Chapter 11 of the
+U.S. Bankruptcy Code. As a result of the reorganization plan approved by the creditors, these shares were of no value at December 31, 2002 and were effectively cancelled via the reorganization.      On January 31, 2003, the Plan of Reorganization of Newcor became effective and under a rights offering to stockholders, the Company purchased 11,877 shares of
+common stock of Newcor for a total purchase price of $5,939,000. The shares purchased by the Company constituted 98.975% of the outstanding common stock of the reorganized Newcor entity and, as a result, Newcor ceased to be a stand-alone public
+reporting company and became a consolidated subsidiary of the Company. The purchase price was established in the Plan of Reorganization, as approved by the creditors, the United States Trustee for the District of Delaware and the United States
+Bankruptcy Court for the District of Delaware. The source of funds for the Company s purchase was cash on hand. In addition to the purchase made by the Company, certain former stockholders of Newcor purchased shares of common stock of Newcor
+under the rights offering. The former stockholders purchased an aggregate of 123 shares totaling $61,000 which represented 1.025%, of the aggregate purchase price and are accounted for as a minority interest in the Company s consolidated
+financial statements. The primary purpose of the acquisition of Newcor was to expand the Company s operations. Newcor designs and manufactures precision machine components and assemblies, machine tools and custom rubber and plastic products
+primarily for the automotive and agricultural vehicle markets. Newcor is also a supplier of standard and specialty machines and equipment systems principally for the automotive and appliance industries.         
+   F-13   
+
+EXX INC AND SUBSIDIARIES        NOTES TO CONSOLIDATED FINANCIAL STATEMENTS          
+
+3.   
+   Acquisitions (continued)         The following condensed balance sheet
+reflects the assets and liabilities of Newcor at their fair market values at January 31, 2003.       
+    Other assets include goodwill of approximately $14,592,000 and approximately $5,920,000 allocated to customer
+lists and patents which are being amortized over periods ranging from 3 to 10 years. Goodwill was reduced by $1,688,000, $1,688,000 and $1,899,000 to give effect to the tax benefit derived from the amortization of goodwill for income tax purposes
+for the years ended December 31, 2005, 2004 and 2003, respectively.      The goodwill principally arose due to the deferred tax liabilities recorded by
+the Company in connection with the reduction of the tax basis of Newcor subsidiaries resulting from the cancellation of debt due to the restructuring of Newcor in U.S. Federal Bankruptcy Court.      The net book values at December 31, 2005 and 2004 were $1,296,000 and $1,468,000, respectively, for patents, $1,509,000 and $2,236,000, respectively, for customer
+relationships and $10,000 and $178,000, respectively, for customer lists.      On July 1, 2005 (the  Effective Date ), Newcor and
+Transinternational Widget Corp. ( TWC ), a Delaware corporation and wholly owned subsidiary of EXX INC, were merged under the provisions of the General Corporation Law of the State of Delaware (the  Merger ). Pursuant to the
+Merger, TWC merged with and into Newcor, with Newcor as the surviving corporation, and each issued and outstanding share of Newcor common stock was converted into the right to receive an amount in cash equal to $1,088, which amount represents the
+book value of said share of Newcor as of June 30, 2005. As the result of the merger, EXX holds 100% of the issued and outstanding common stock of Newcor.      During the year ended December 31, 2005, the Company recorded an impairment charge of $1,368,000. This charge was taken against the goodwill on one of the Company s subsidiaries in the Plastics and Rubber Segment. See Note 5 for
+further details.      During the year ended December 31, 2004, the Company recorded an impairment charge against goodwill in the amount of $1,028,000.
+This charge was taken against the goodwill on one of the Company s subsidiaries in the Mechanical Equipment segment. See Note 5 for further details.         
+   F-14   
+
+EXX INC AND SUBSIDIARIES        NOTES TO CONSOLIDATED FINANCIAL STATEMENTS          
+
+4.   
+   Discontinued operations         The purchase of Newcor, Inc. resulted in
+the Company having a debt leverage ratio which exceeded the level that management historically had accepted. The short-term strategy was to reduce the debt level and refinance the exit financing to more favorable terms. As part of that strategy
+management considered a variety of options, one of which included divestitures. The directors of the Company were given an unsolicited offer by the management of the operation divested, and after further negotiations on terms, accepted the
+negotiated purchase offer. The divested operation produced various rubber and plastic automotive components manufactured through rotational casting, dip molding and slush casting processes.      In September 2003, the Company completed the sale of the net assets of one of the divested operations, formerly a part of the Plastics and Rubber segment, for a selling
+price of $2,800,000, of which $2,550,000 was received in cash at closing, with the balance due in the form of a $250,000 interest bearing note. Since the net assets of the subsidiary were recorded at their fair market value as a result of purchase
+accounting adjustments, no gain was recognized on the sale. The net sales and pretax income of the subsidiary for the year ended December 31, 2003 prior to the disposition date were $8,024,000 and $872,000, respectively.       
+
+5.   
+   Impairment of long-lived assets         The Company has determined that a
+charge to earnings of approximately $1,368,000 related to the impairment of goodwill and $50,000 related to the impairment of fixed assets of subsidiaries in the Plastics and Rubber segment was required during the fourth quarter of 2005. In
+accordance with SFAS No. 144  Accounting for the Impairment or Disposal of Long-Lived Assets , management performed an impairment analysis on all long lived assets, including goodwill of the subsidiary. The analysis was based on
+management s estimates of the net present value of operating cash flows using a discount rate of 10%. The analysis resulted in an impairment of the assets of the subsidiary as the net book value exceeded the present value of the cash flows. The
+charge to earnings for the full amount of the impairment was recorded in the fourth quarter of 2005.      During the year ended December 31, 2004, the
+Company determined that a charge to earnings of approximately $4,523,000 related to the impairment of certain assets of a subsidiary in the Mechanical Equipment segment was required during the fourth quarter of 2004. In accordance with SFAS
+No. 144  Accounting for the Impairment or Disposal of Long-Lived Assets  management performed an impairment analysis on all long lived assets, including goodwill of the subsidiary. The analysis was based on management s estimates
+of the net present value of operating cash flows using a discount rate of 10%. The analysis resulted in an impairment of the assets of the subsidiary as the net book value exceeded the present value of the cash flows. The charge to earnings for the
+full amount of the impairment was recorded in the fourth quarter of 2004.         
+   F-15   
+
+EXX INC AND SUBSIDIARIES        NOTES TO CONSOLIDATED FINANCIAL STATEMENTS          
+
+6.   
+   Inventories         Inventories consist of the following at
+December 31, 2005 and 2004:       
+    Inventories stated on the LIFO method amounted to $1,429,000 and $196,000 at December 31, 2005 and 2004,
+respectively, which amounts are below replacement cost by approximately $895,000 and $357,000 at December 31, 2005 and 2004, respectively.      During
+2005, net income was positively affected by $112,000 as a result of using the LIFO method. During 2004 and 2003, net income was not materially affected as a result of using the LIFO method.       
+
+7.   
+   Property and equipment         Property and equipment consists of the
+following at December 31, 2005 and 2004:       
+       
+   F-16   
+
+EXX INC AND SUBSIDIARIES        NOTES TO CONSOLIDATED FINANCIAL STATEMENTS          
+
+8.   
+   Intangible assets         Intangible assets consist of the following at
+December 31, 2005 and 2004:       
+    Amortization expense for the years ended December 2005, 2004 and 2003 was $1,066,000, $1,064,000 and $974,000,
+respectively.      Estimated amortization expense for the five years subsequent to December 31, 2005 is as follows:       
+       
+   F-17   
+
+EXX INC AND SUBSIDIARIES        NOTES TO CONSOLIDATED FINANCIAL STATEMENTS          
+
+9.   
+   Long-term debt         Long-term debt at December 31, 2005 and 2004
+is comprised of the following:       
+    Future aggregate required principal payments for each of the next five years are as follows:       
+
+(a)  
+  Newcor and its subsidiaries entered into an agreement with various unsecured debtors as a result of the Plan of Reorganization (the  Unsecured Notes ). The Unsecured Notes
+bear interest at 6% in the first 5 years and 7% in the last five years of these ten-year notes. Annual amortization is based on excess cash flow as defined in the indenture but is generally calculated as earnings before income taxes plus
+depreciation and amortization less capital expenditures up to a maximum of $5,000,000, less cash paid for taxes, less term debt reductions.           
+   F-18   
+
+EXX INC AND SUBSIDIARIES        NOTES TO CONSOLIDATED FINANCIAL STATEMENTS          
+
+9.   
+   Long-term debt (continued)         The balance remaining
+after amortization based on the excess cash flow is due upon maturity of the notes on January 31, 2013. No principal payments were required on the Unsecured Notes for the years ended December 31, 2005 and 2004.      During the fourth quarter of 2005, the Company purchased $3,200,000 principal amount of the Unsecured Notes for a purchase price of $2,560,000. In
+addition, Newcor purchased $2,800,000 principal amount for a purchase price of $2,240,000. The gain on forgiveness of debt of $1,200,000 was recorded as other income during the year ended December 31, 2005. The $2,800,000 of notes purchased by
+Newcor were cancelled by the Trustee and were not considered outstanding at the end of 2005.      During the fourth quarter of 2004, Newcor
+purchased $6,000,000 principal amount of the Unsecured Notes for a purchase price of $3,480,000. The gain on forgiveness of debt of $2,520,000 was recorded as other income during the year ended December 31, 2004. The $6,000,000 of Unsecured
+Notes were cancelled by the Trustee and were not considered outstanding at the end of 2004.      As of December 31, 2004 the Company s
+Chairman had purchased approximately $3,000,000 principal amount of the Unsecured Notes. During 2005, the Chairman (either personally or through entities controlled by the Chairman) purchased an additional $6,721,000 principal amount of the
+Unsecured Notes, giving the Chairman ownership of approximately 50% of the total outstanding principal amount of the Unsecured Notes. For the year ended December 31, 2005, the Chairman received interest payments of approximately $450,000 from
+Newcor from the outstanding Unsecured Notes owned by him.       
+
+(b)  
+  These notes and capital lease obligation are the obligations of one of the Company s subsidiaries. These notes and capital lease obligation were in default at December 31,
+2005 and 2004 because the subsidiary is unable to make the required payments due to a lack of adequate cash flow. There are cross default provisions, covering only this subsidiary, in the capital lease obligation triggered by the default on the
+notes. There are no cross default provisions relating to the notes and / or the capital lease obligations which affect any of the other debt obligations. This debt is non-recourse to the Company.        During 2005 an agreement to terminate the capital lease of the Handi-Pac subsidiary was signed retroactive to December 31, 2004. A new five month
+lease which expired on May 31, 2005 replaced the old lease. The consolidated financial statements reflect the terms of the above agreements including writing off the capital lease and its related assets which resulted in a loss of approximately
+$371,000.       Bank Facility       In February 2004, Newcor
+entered into a credit agreement ( 2004 Credit Agreement ) with National City Bank. The 2004 Credit Agreement allows for $2,100,000 of available borrowings with reducing availability based upon an equal monthly amortization over three years
+net of a $700,000 outstanding line of credit, none of which was outstanding at December 31, 2005. The borrowings are secured by the machinery and equipment owned by Newcor and its subsidiaries, except the machinery and equipment securing the
+$2,211,000 of equipment notes.      The Unsecured Notes and the Credit Agreement with National City Bank in note 9(a) above, have cross default provisions to
+other indebtedness of Newcor, Inc. as defined in their respective agreements. There are no other cross default provisions relative to any of the other Newcor subsidiaries.      Newcor was in compliance with all bank covenants at December 31, 2005.         
+   F-19   
+
+EXX INC AND SUBSIDIARIES        NOTES TO CONSOLIDATED FINANCIAL STATEMENTS          
+
+10.   
+   Accounts payable and other current liabilities         Accounts payable
+and other current liabilities consist of the following at December 31, 2005 and 2004:       
+     
+    The provision for income taxes consists of the
+following for the years ended December 31, 2005, 2004 and 2003:       
+       
+   F-20   
+
+EXX INC AND SUBSIDIARIES        NOTES TO CONSOLIDATED FINANCIAL STATEMENTS          
+
+11.   
+   Income taxes (continued)         The following reconciles the Federal
+statutory tax rate to the effective income tax rate:       
+
+F-21   
+
+EXX INC AND SUBSIDIARIES        NOTES TO CONSOLIDATED FINANCIAL STATEMENTS          
+
+11.   
+   Income taxes (continued)          
+    The amounts are recorded in the consolidated balance sheets as follows:       
+
+12.   
+   Pension plans and post retirement benefits, other than pensions         The Company provides retirement benefits for certain employees under several defined benefit pension plans. Benefits from these plans are based on compensation, years of service and either fixed dollar amounts per years of service or
+employee compensation during the later years of employment. The assets of the pension plans consist principally of cash equivalents, corporate and government bonds, and common and preferred stocks.      The Company s funding policy is to contribute annually at least the minimum amount required by the Employee Retirement Income Security Act (ERISA) of 1974.
+Effective January 1, 1988, one of the plans was curtailed through an amendment to freeze benefits and future participation. Effective December 31, 2003 most of the benefits under the largest plan were curtailed through an amendment to
+freeze benefits and future participation for most employees.         
+   F-22   
+
+EXX INC AND SUBSIDIARIES        NOTES TO CONSOLIDATED FINANCIAL STATEMENTS          
+
+12.   
+   Pension plans and post retirement benefits, other than pensions (continued)         Net periodic pension cost for the Company-sponsored plans is as follows:       
+    The following table sets forth the changes in benefit obligations for the years ended December 31, 2005 and
+2004 for the Company-sponsored defined benefit pension plans:       
+       
+   F-23   
+
+EXX INC AND SUBSIDIARIES        NOTES TO CONSOLIDATED FINANCIAL STATEMENTS          
+
+12.   
+   Pension plans and post retirement benefits, other than pensions (continued)         The following table sets forth the change in plan assets for the years ended December 31, 2005 and 2004 for the Company-sponsored defined benefit pension plans:       
+    The funded status for the years ended December 31, 2005 and 2004 is as follows:       
+    Amounts recognized in the consolidated balance sheets consist of the following:       
+       
+   F-24   
+
+EXX INC AND SUBSIDIARIES        NOTES TO CONSOLIDATED FINANCIAL STATEMENTS          
+
+12.   
+   Pension plans and post retirement benefits, other than pensions (continued)         Weighted average assumptions used to determine benefit obligations for the years ended December 31, 2005, 2004 and 2003:       
+    Weighted average assumptions used to determine net periodic benefit cost for the years ended December 31,
+2005, 2004 and 2003:       
+    The accumulated benefit obligation for all defined benefit pension plans was $44,242,000 and $42,217,000 at
+December 31, 2005 and 2004, respectively.      The weighted average asset allocations of the Company s pension plans at December 31, 2005 and
+2004 are as follows:       
+    The Company does not expect to make a contribution to its pension plans during the year ending December 31,
+2006.         
+   F-25   
+
+EXX INC AND SUBSIDIARIES        NOTES TO CONSOLIDATED FINANCIAL STATEMENTS          
+
+12.   
+   Pension plans and post retirement benefits, other than pensions (continued)         The Company expects to make benefit payments for each of the next five years as follows:       
+    The Company s investment strategies and policies require that the plans assets be invested in a blend of
+equity stocks or funds and fixed income bonds or bond funds. Cash or cash equivalents are to be minimal but sufficient to service the liquidity needs of the plans. Target allocations require that 40% of total assets be invested in fixed income
+related assets and 60% be invested in equity related investments. These targets did not change during the year ended December 31, 2005. The Company s investment advisor rebalances the asset allocation if the actual asset holdings vary by
+more than 5% of the target policy.      In order to achieve the long-term investment return on plan assets assumption of 8.7%, the Company has determined that
+an asset allocation with greater concentration in the equities market will be required. Historically, equity investments average returns that exceed the Company s assumption, but are more volatile than fixed income investments. Fixed income
+investments tend to be more stable from year to year but earn investment returns less than the equity investments. The Company s targeted long-term expectation of fixed income investments is 6% to 7% and equity investments are targeted to earn
+10% to 11%.      Newcor is obligated to provide health care and life insurance benefits to certain eligible retired employees. However, all post retirement
+benefits, other than pensions, were discontinued for all employees who retired after January 1, 1993. This plan obligation is unfunded but the accumulated post retirement benefit obligation, as actuarially determined, has been fully accrued for
+in the accompanying consolidated balance sheets using an assumed health care cost trend rate of 6.75%. The medical plan pays a stated percentage of most medical expenses, reduced for any deductible and payments made by government programs or other
+group coverage. The cost of providing these benefits is shared with the retirees. The cost sharing arrangements limit Newcor s future retiree medical cost increases to the rate of inflation, as measured by the Consumer Price Index.   
+   
+    In 1994, the Company s Board of Directors
+adopted and the stockholders approved the EXX INC 1994 Stock Option Plan (the  Plan ), which provided for the issuance of incentive stock options within the meaning of Section 422 of the Internal Revenue Code, as amended, and for the
+issuance of non-qualified stock options (not intended to qualify under Section 422 of the Code). Pursuant to the Plan, 5,000,000 shares of Class A common stock were reserved for issuance upon the exercise of options to officers, directors,
+employees and consultants of the Company as either incentive and/or non-qualified options.      At December 31, 2005, there were no options outstanding to
+purchase shares of Class A common stock for grant under the 1994 Stock Option Plan. The Plan was terminated in 2004 and was not renewed.         
+   F-26   
+
+EXX INC AND SUBSIDIARIES        NOTES TO CONSOLIDATED FINANCIAL STATEMENTS          
+
+13.   
+   Stock option plan (continued)         The status of the Company s
+stock options are summarized below:       
+
+In addition to the options issued as a performance award to the CEO in (b) above in 2003, the Board of Directors approved and
+the shareholders ratified the issuance of 250,000 shares of Class B common stock to the CEO. The Company recorded compensation expense of $192,000 for these shares in the year ended December 31, 2003.       
+
+14.   
+   Commitments and contingencies          Leases       The Company leases certain office and plant facilities and manufacturing equipment under non-cancelable operating leases expiring through April 2014 and one lease under a
+month-to month agreement.      Future minimum lease payments under these leases are as follows:       
+    Rent expense for the years ended December 31, 2005, 2004 and 2003 amounted to $796,000, $476,000 and
+$395,000, respectively.         
+   F-27   
+
+EXX INC AND SUBSIDIARIES        NOTES TO CONSOLIDATED FINANCIAL STATEMENTS          
+
+14.   
+   Commitments and contingencies (continued)          Employment Agreements
+      The Company has employment agreements with an officer, who is a principal stockholder, for a minimum annual salary totaling $895,000, adjusted annually
+for increases in the Consumer Price Index, plus bonus based on the Company s earnings. The agreements expire during 2009.       Litigation
+      Newcor is the subject of two labor actions relating to contract bargaining with the UAW at its Bay City Division. One action is currently on appeal to
+the Sixth Circuit Court of Appeals. That appeal relates to an NLRB order that, in part, requires Newcor to reinstate its former collective bargaining agreement and to make affected employees whole for any losses sustained as a result of the
+implementation of Newcor s final contract offer. The other action relates to an unfair labor practice charge filed by the UAW alleging purported violations of federal labor law by the Bay City Division following the implementation of the final
+contract offer. This action is being investigated by the NLRB Region 7. Newcor is vigorously defending both actions. The outcome of either case cannot be currently determined. In addition, the Company is a party to various other legal matters. In
+the opinion of management, these legal matters will not have a material adverse effect on the financial position, results of operations or cash flows of the Company.       
+
+15.   
+   Segment information         The Company complies with SFAS No. 131,
+ Disclosures about Segments of an Enterprise and Related Information.  SFAS No. 131 requires disclosures of segment information on the basis that is used internally for evaluating segment performance and deciding how to allocate
+resources to segments.      Management has identified two reportable business segments based on the type of products and services provided; Mechanical
+Equipment and Plastic and Rubber. The Mechanical Equipment segment comprises that business of the company that generally involves the fabrication of products from metal based materials. Such products include machined production components and
+assemblies utilized by our customers in their finished products, or equipment used by customers for their own fabrication or assembly of products. Products manufactured by this segment include automotive axles, transmission shafts, differential
+pins, heavy-duty engine rocker arms, and assembled specialty equipment, as well as electric motors and cable pressurization equipment.      The Plastics and
+Rubber segment is comprised of operations that utilize a variety of plastic and rubber based compounds to either produce components or market end products to this segment s customer base. This segment fabricates production parts to the
+automotive industry in a variety of interior molding and under-the-hood applications and also includes the importation and sale of impulse toys.      The
+accounting policies of the Company s operating segments are the same as those presented in Note 2. There are no inter-segment sales. Each segment is managed according to the products, which are provided to the respective customers and
+information is reported on the basis of reporting to the Company s chief operating decision maker.         
+   F-28   
+
+EXX INC AND SUBSIDIARIES        NOTES TO CONSOLIDATED FINANCIAL STATEMENTS          
+
+15.   
+   Segment information (continued)         Operating segment information for
+2005, 2004, and 2003 is summarized as follows:       
+       
+   F-29   
+
+EXX INC AND SUBSIDIARIES        NOTES TO CONSOLIDATED FINANCIAL STATEMENTS          
+
+15.   
+   Segment information (continued)          
+    Net sales to countries outside of the United States for the years ended December 31, 2005, 2004 and 2003 were
+approximately $6,997,000, $7,032,000 and $5,815,000, respectively, and were attributable primarily to sales from the Company s Mechanical Equipment segment. There were no significant sales to any individual foreign country or region.
+     The Mechanical Equipment segment had sales to four major customers in 2005 that accounted for 24%, 23%, 12% and 10%, respectively, and three customers in
+2004 that accounted for 27%, 15% and 15%, respectively, and two major customers in 2003 that accounted for 25% and 22%, respectively, of consolidated net sales.      In 2004, Newcor s then largest customer, American Axle   Manufacturing, informed Newcor that certain parts currently machined by a subsidiary of Newcor would be withdrawn from the Newcor subsidiary to be manufactured in-house
+by American Axle   Manufacturing. Newcor anticipated that the loss of sales would begin to affect Newcor in the third quarter of 2005 and continue through December 2006. Newcor estimated that this change would reduce its consolidated sales
+by approximately 20%. Thus far, AXL has in-sourced one part in the third quarter of 2005 which accounted for approximately 4% of total sales to AXL. During the first quarter of 2006, AXL in-sourced two additional parts. The loss of these three parts
+accounts for approximately 24% of 2005 sales to AXL. Management of the Company has performed an impairment analysis on the long-lived assets of the operations affected by the loss of revenues related to American Axle   Manufacturing, under
+the provisions of SFAS No. 144. Based on this analysis, management has determined that as of December 31, 2005, there is no impairment on any of the long-lived assets as the discounted future cash flows of the subsidiary, directly affected
+by the loss of the American Axle   Manufacturing business, exceeds the net book value of its assets at December 31, 2005.      In May 2005, the
+Company reported that one of the subsidiaries of Newcor received purchase orders from Daimler Chrysler Corporation ( DCX ) to machine axles for two current powertrain programs. The anticipated sales would approximate a 20% increase over
+the Company s then sales and profitability on an annual basis. Production under the contracts began in the second quarter of 2005 and is currently operating at contract levels.      In June, the Company reported that a second subsidiary of Newcor had been awarded a machining program for a DCX powertrain. The annual sales of this program were estimated at approximately 10% of the Company s
+2004 annual sales. Full production under the program began in the third quarter of 2005. Based on the new contracts from DCX it is anticipated that DCX will become Newcor s largest customer.         
+   F-30   
+
+EXX INC AND SUBSIDIARIES        NOTES TO CONSOLIDATED FINANCIAL STATEMENTS          
+
+16.   
+   Selected quarterly results (Unaudited)          
+
+F-31   
+
+EXX INC AND SUBSIDIARIES        SCHEDULE II        VALUATION AND QUALIFYING ACCOUNTS        
+       
+   S-1   
+
+<EX-21>
+ 2
+ dex21.htm
+ LIST OF SUBSIDIARIES OF EXX INC.
+
+List of Subsidiaries of EXX INC. 
+
+Exhibit 21        LIST OF SUBSIDIARIES OF EXX INC        
+
+NAME OF SUBSIDIARIES OF EXX INC    
+      
+     NAME UNDER WHICH SUBSIDIARY DOES BUSINESS    
+      
+     STATE OF INCORPORATION     
+
+Newcor, Inc.  
+      
+  Newcor Bay City  
+      
+  Delaware   
+
+SFM CORP.  
+      
+  Howell Electric Motors  
+      
+  New Jersey   
+
+Henry Gordy International Inc.  
+      
+  Henry Gordy Int l  
+      
+  Delaware   
+
+TX Technology Corp.  
+      
+  TX Technology Corp.  
+      
+  Delaware   
+
+TX Systems Inc.  
+      
+  TX Systems Inc.  
+      
+  Nevada   
+
+Hi-Flier Inc.  
+      
+  Hi-Flier Inc.  
+      
+  Nevada   
+
+Sellers   Josephson Inc.  
+      
+  Sellers   Josephson Inc.  
+      
+  Delaware   
+
+Handi-Pac, Inc.  
+      
+  Steven Mfg. Co.  
+      
+  Missouri   
+
+NAME OF SUBSIDIARIES OF NEWCOR, INC.    
+
+Deco Engineering, Inc.  
+      
+  Deco Engineering, Inc.  
+      
+  Michigan   
+
+Rochester Gear, Inc.  
+      
+  Rochester Gear, Inc.  
+      
+  Michigan   
+
+Plastronics Plus, Inc.  
+      
+  Plastronics Plus, Inc.  
+      
+  Wisconsin   
+
+Blackhawk Engineering, Inc.  
+      
+  Blackhawk Engineering  
+      
+  Iowa   
+
+Boramco, Inc.  
+      
+  Boramco, Inc.  
+      
+  Indiana   
+
+Machine Tool   Gear, Inc.  
+      
+  MT G Inc.  
+      
+  Michigan   
+
+</EX-21>
+
+<EX-31>
+ 3
+ dex31.htm
+ SECTION 302 CEO AND CFO CERTIFICATION
+
+Section 302 CEO and CFO Certification 
+
+Exhibit 31        CERTIFICATION PURSUANT TO RULE 13a-14 PROMULGATED UNDER        SECURITIES EXCHANGE ACT OF 1934 AS AMENDED
+      I, David A Segal, Chief Executive Officer and Chief Financial Officer, certify that:       
+
+1.  
+  I have reviewed this annual report on Form 10-K of EXX INC;         
+
+2.  
+  Based on my knowledge, this annual report does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements, in light of the
+circumstances under which such statements were made, not misleading with respect to the period covered by this annual report;         
+
+3.  
+  Based on my knowledge, the consolidated financial statements, and other financial information included in this annual report, fairly present in all material respects the financial
+condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this annual report;         
+
+4.  
+  I am responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-14 and 15d-14) for the registrant and have:
+       (a) Designed such disclosure controls and procedures or caused such disclosure controls and procedures to be
+designed under my supervision to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this annual report is
+being prepared;      (b) Evaluated the effectiveness of the registrant s disclosure controls and procedures as presented in
+this report my conclusions about the effectiveness of the disclosure controls and procedures as of the end of the period covered by this report based on such evaluation; and      (c) Disclosed in this report any change in the registrant s internal control over financial reporting that occurred during the
+registrant s fourth fiscal quarter that had materially affected or is reasonably likely to materially affect registrant s internal control over financial reporting; and       
+
+5.  
+  I have disclosed, based on my most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of registrant s
+board of directors:        (a) All significant deficiencies and material weaknesses in the design or operation of
+internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial data; and      (b) Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s
+internal control over financial reporting.       
+
+Date: March 24, 2006   
+
+/s/ David A. Segal    
+
+David A. Segal    
+
+Chief Executive Officer    
+
+Chief Financial Officer    
+
+</EX-31>
+
+<EX-32>
+ 4
+ dex32.htm
+ SECTION 906 CEO AND CFO CERTIFICATION
+
+Section 906 CEO and CFO Certification 
+
+Exhibit 32        CERTIFICATION PURSUANT TO        18 U.S.C. SECTION 1350,        AS ADOPTED PURSUANT TO        SECTION 906
+OF THE SARBANES-OXLEY ACT OF 2002       In connection with the Annual Report of EXX INC (the  Company ) on Form 10-K for the year ended
+December 31, 2005 as filed with the Securities and Exchange Commission on the date hereof (the  Report ), I, David A. Segal, Chairman of the Board, Chief Executive Officer and Chief Financial Officer of the Company, certify, pursuant
+to 18 U.S.C.   1350, as adapted pursuant to   906 of the Sarbanes-Oxley Act of 2002, that:       
+
+(1)  
+  The Report fully complies with the requirements of section 13(a) or 15 (d) of the Securities Exchange Act of 1934; and         
+
+(2)  
+  The information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company.         
+
+Date: March 24, 2006   
+
+/s/ David A. Segal    
+
+David A. Segal    
+
+Chairman of the Board    
+
+Chief Executive Officer    
+
+Chief Financial Officer    
+
+</EX-32>
+

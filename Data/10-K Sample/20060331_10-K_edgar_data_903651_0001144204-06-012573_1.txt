@@ -1,0 +1,4244 @@
+<Header>
+<FileStats>
+    <FileName>20060331_10-K_edgar_data_903651_0001144204-06-012573_1.txt</FileName>
+    <GrossFileSize>1574132</GrossFileSize>
+    <NetFileSize>171473</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>1092430</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>41</N_Tables>
+    <N_Exhibits>6</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001144204-06-012573.hdr.sgml : 20060331
+<ACCEPTANCE-DATETIME>20060330200254
+ACCESSION NUMBER:		0001144204-06-012573
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		7
+CONFORMED PERIOD OF REPORT:	20051231
+FILED AS OF DATE:		20060331
+DATE AS OF CHANGE:		20060330
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			INNODATA ISOGEN INC
+		CENTRAL INDEX KEY:			0000903651
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROCESSING & DATA PREPARATION [7374]
+		IRS NUMBER:				133475943
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1216
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-22196
+		FILM NUMBER:		06724924
+
+	BUSINESS ADDRESS:	
+		STREET 1:		THREE  UNIVERSITY PLAZA
+		STREET 2:		SUITE 506
+		CITY:			HACKENSACK
+		STATE:			NJ
+		ZIP:			07601
+		BUSINESS PHONE:		201 488 1200
+
+	MAIL ADDRESS:	
+		STREET 1:		THREE UNIVERSITY PLAZA
+		STREET 2:		SUITE 506
+		CITY:			HACKENSACK
+		STATE:			NJ
+		ZIP:			07601
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	INNODATA CORP
+		DATE OF NAME CHANGE:	19930505
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ CvT1sn7OCvBmNkBS+ygaujdOK3NBFhUGktJ3keo1GUsRbb8gPESmBgNaSGyjU3rv
+ 1ERKsRpannZn3cVOMV66YQ==
+
+ 0001144204-06-012573.txt : 20060331
+
+10-K
+ 1
+ v039005_10-k.htm
+
+UNITED
+      STATES  
+
+       SECURITIES
+      AND EXCHANGE COMMISSION  
+
+       WASHINGTON,
+      D.C. 20549  
+
+FORM
+      10-K   
+
+      (Mark
+      One) 
+
+Annual
+      report under section 13 or 15(  d  )
+      of the
+      securities exchange act of 1934  
+
+       For
+      the fiscal year ended      December
+      31, 2005   
+
+o     Transition
+      report under section 13 or 15  (d  )
+      of the
+      securities exchange act of 1934  
+
+Commission
+      file number    
+      0-22196   
+
+       INNODATA
+      ISOGEN, INC.  
+
+      (Exact
+      name of registrant as specified in its charter) 
+
+Securities
+              registered under Section 12(b) of the Exchange Act:   
+                 
+               None   
+
+Securities
+              registered under Section 12(g) of the Exchange Act:  
+                 
+               Common
+              Stock, $.01 par value   
+
+Indicate
+      by check mark if the registrant is a well-known seasoned issuer, as defined
+      in
+      Rule 405 of the Securities Act.  
+
+      Yes
+        o  
+      No
+
+Indicate
+      by check mark if the registrant is not required to file reports pursuant to
+      Section 13 or Section 15(d) of the Exchange Act. Yes   o  
+      No
+
+Indicate
+      by check mark whether the Registrant (1) has filed all reports required to
+      be
+      filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+      the
+      past twelve months (or for such shorter period that the Registrant was required
+      to file such reports), and (2) has been subject to such filing requirements
+      for
+      the past 90 days. Yes        
+      No
+  o 
+
+Indicate
+      by check mark if disclosure of delinquent filers in response to Item 405 of
+      Regulation S-K is not contained herein, and will not be contained, to the best
+      of Registrant's knowledge, in definitive proxy or information statements
+      incorporated by reference in Part III of this Form 10-K or any amendment to
+      this
+      Form 10-K.          
+
+Indicate
+      by check mark whether the registrant is a large accelerated filer, an
+      accelerated filer, or a non-accelerated filer.     See
+      definition of  accelerated filer and large accelerated filer  in Rule 12b-2 of
+      the Exchange Act. 
+
+      Large
+      accelerated filer   o     Accelerated
+      filer   o     Non-accelerated
+      filer          
+
+Indicate
+      by check mark whether the registrant is a shell company (as defined in Rule
+      12b-2 of the Exchange Act).    
+
+      Yes
+        o  
+      No
+
+State
+      the
+      aggregate market value of the voting and non-voting common equity held by
+      non-affiliates computed by reference to the price at which the common equity
+      was
+      last sold, or the average bid and asked price of such common equity, as of
+      the
+      last business day of the registrant's most recently completed second fiscal
+      quarter     $60,000,000   
+
+State
+      the
+      number of shares outstanding of each of the issuer's classes of common equity,
+      as of the latest practicable date. 
+
+24,086,603
+      shares of common stock, $.01 par value, as of February 28,
+      2006.  
+
+DOCUMENTS
+      INCORPORATED BY REFERENCE 
+
+      [SEE
+      INDEX TO EXHIBITS] 
+
+PART
+      I   
+
+Disclosures
+      in this Form 10-K contain certain forward-looking statements, including without
+      limitation, statements concerning our operations, economic performance, and
+      financial condition. These forward-looking statements are made pursuant to
+      the
+      safe harbor provisions of the Private Securities Litigation Reform Act of 1995.
+      The words  estimate,   believe,   expect,  and  anticipate  and other similar
+      expressions generally identify forward-looking statements, which speak only
+      as
+      of their dates.  
+
+These
+      forward-looking statements are based largely on our current expectations, and
+      are subject to a number of risks and uncertainties, including without
+      limitation, continuing revenue concentration in a limited number of clients,
+      continuing reliance on project-based work, worsening of market conditions,
+      changes in external market factors, the ability and willingness of our clients
+      and prospective clients to execute business plans which give rise to
+      requirements for digital content and professional services in knowledge
+      processing, difficulty in integrating and deriving synergies from acquisitions,
+      potential undiscovered liabilities of companies that we acquire, changes in
+      our
+      business or growth strategy, the emergence of new or growing competitors,
+      various other competitive and technological factors, and other risks and
+      uncertainties set forth under  Risk Factors.   
+
+Our
+      actual results could differ materially from the results referred to in the
+      forward-looking statements. In light of these risks and uncertainties, there
+      can
+      be no assurance that the results referred to in the forward-looking statements
+      contained in this release will occur.  
+
+We
+      undertake no obligation to update or review any guidance or other
+      forward-looking information, whether as a result of new information, future
+      developments or otherwise.  
+
+Item
+      1. Description of Business.  
+
+General
+
+We
+        provide
+      business services that help organizations create, manage, use and distribute
+      information more effectively and economically.  
+
+Our
+      services encompass outsourced content services and information technology (IT)
+      professional services, which constitute separate reporting segments. Our
+      outsourced content offerings consist of fabrication services for digitization,
+      imaging, data conversion and composition, XML and other mark-ups, translation
+      and localization; and knowledge services for adding value to a client's content.
+      Our IT professional offerings focus on the design, implementation, integration
+      and deployment of systems used to author, manage and distribute content.
+
+Outsourced
+      content services represented 87%, 81% and 82% of total revenue in each of the
+      three years ended December 31, 2005, respectively.      Outsourced
+      content services for business processes that we anticipate a client will require
+      for an indefinite period generate what we regard as recurring revenues.
+      Approximately 58% and 47% of our revenues were recurring in the years ended
+      December 31, 2005 and 2004, respectively. A substantial majority of our IT
+      professional services is provided on a project basis that generates
+      non-recurring revenues.  
+
+In
+      2005,
+      we provided our services to approximately 100 clients primarily in four
+      content-intensive sectors. 
+
+Publishing,
+                media and information services, including EBSCO and Reed Elsevier;
+
+Global
+                2000 enterprises, including Hamilton Sundstrand and Lockheed Martin;
+
+Educational
+                and cultural institutions, including Cornell University
+
+Government
+                agencies 
+
+I-1 
+
+We
+      work
+      directly with existing and prospective clients to identify and refine their
+      objectives, and to design, implement, integrate and deploy new and improved
+      solutions to satisfy those objectives. We believe we provide high quality,
+      value-added services to our clients on a timely basis and have developed a
+      close
+      relationship with them as a result. To enhance those relationships, we provide
+      project support 24 hours a day, seven days a week, through our Asia-based
+      customer service center, and we maintain sales, service and strategic support
+      in
+      North America and Europe in proximity to the operations of most of our clients.
+
+One
+      client accounted for 27%, 23% and 33% of our total revenues for each of the
+      three years ended December 31, 2005, respectively. One other client accounted
+      for 12% and 31% of our revenues for the years ended December 31, 2005 and 2004,
+      respectively. No other client accounted for 10% or more of our total revenues
+      during these periods. Revenues from clients located in foreign countries
+      (principally in Europe) accounted for 35%, 30% and 47% of our total revenues
+      for
+      each of the three years ended December 31, 2005, respectively.  
+
+A
+      substantial portion of the services we provide to our clients is subject to
+      our
+      clients' needs. Our agreements with clients are in most cases terminable on
+      30
+      to 90 days' notice and are typically subject to client
+      requirements. 
+
+We
+      are
+      headquartered in Hackensack, New Jersey, just outside New York City. We have
+      two
+      additional solutions centers in North America, seven production facilities
+      in
+      Asia (the Philippines, India and Sri Lanka) and a technology and tools
+      development center in India. We were incorporated in Delaware in 1988.
+
+Innodata
+      Isogen's Services  
+
+Outsourced
+      Content Services.    We
+      group
+      our outsourced content services into two categories: fabrication services and
+      knowledge services.  
+
+Fabrication
+      Services.   
+      Our
+      fabrication services include digitization, imaging, data conversion and
+      composition services, XML and mark-up services, as well as translation and
+      localization services. We use leading-edge technologies to capture our clients'
+      relevant content and convert it into XML and other related mark-up standards.
+      These technologies include high-speed scanning; a variety of commercial and
+      proprietary optical/intelligent character recognition, or OCR/ICR, applications;
+      structured workflow processes; and proprietary applications and tools designed
+      to create meaningful, accurate and consistent data.  
+
+To
+      convert the captured content to XML, tags are inserted within the content to
+      provide a marker that computers can process. Our proprietary technology includes
+      production-grade, auto-tagging applications that utilize pattern recognition
+      algorithms based on comprehensive rule sets and related heuristics. This
+      technology enables the mass creation or conversion of XML content from complex,
+      unstructured data or content.  
+
+We
+      price
+      our digitization, content conversion and composition services based on the
+      quantity delivered or resources utilized.  
+
+As
+      an
+      example, we built, for a secondary publisher, a searchable online archive
+  that
+      contains the back runs of three historical newspaper publications   .
+         The
+      archive shows each newspaper page as a high-resolution image that can be
+      magnified over 200% of its normal size. Each issue is digitally reproduced
+      from
+      cover to cover, including news stories and editorials, graphics and
+      advertisements that bring history to life. Using the latest technology, we
+      imaged the backfile and saved each page as a high-resolution, bitonal TIFF
+      image. We captured the text of every headline, byline and story on every page
+      using OCR, tagged the key information in XML and saved the text and image files
+      for storage in an XML repository. 
+
+Knowledge
+      Services.   
+      Our
+      knowledge services add value to a client's content. These services include
+      content creation and enhancement, taxonomy and controlled vocabulary
+      development, hyperlinking, indexing, abstracting, copyediting and general
+      editorial services, including the provision of synopses and annotations. We
+      also
+      provide editorial and research services that cover a wide spectrum of expertise,
+      including medicine, law, engineering, management, finance, science and the
+      humanities. To provide these services, we have organized knowledge teams that
+      consist of a number of educated and highly trained people with expertise in
+      the
+      relevant subject. We typically price our knowledge services based on the
+      quantity delivered or resources utilized.  
+
+I-2 
+
+As
+      an
+      example, a major publisher of scientific, technical and medical information
+      sought to build one of the world's largest databases of scientific journal
+      citations and references. We created records of nearly 15,000 journal titles
+      going back almost 13 years, encoded in a way that supported integrated web
+      searches and seamless linking. Under a long-term engagement, we maintain the
+      database with daily updates, managing on behalf of our client a production
+      process in which we aggregate, digitize, convert and enhance data.  
+
+IT
+      Professional Services.    Clients
+      that use our IT professional services typically require publishing, performance
+      support or process automation systems that enable multiple authors to
+      collaborate on content and enable multiple products to be generated from
+      single-source XML repositories. Projects vary in size and duration. Our IT
+      professional services are typically provided on a project basis that involves
+      a
+      defined task that, upon completion, does not generate any significant amount
+      of
+      continuing revenues. We frequently work on-site at clients to develop
+      specifications and define requirements and to interact with end-users of the
+      application. Detailed design, implementation and testing are generally performed
+      at our offices in Dallas and Austin, Texas, as well as offshore at our office
+      in
+      Gurgaon, India.  
+
+Our
+      IT
+      professional services focus on the design, implementation, integration and
+      deployment of systems used to author, manage and distribute content. We group
+      these services into four categories: consulting; systems integration; custom
+      application development; and other IT professional services, including
+      applications maintenance, support, evaluation, implementation and training.
+
+Consulting.   
+      We offer
+      consulting services that focus on evaluating, advising, creating, overseeing
+      or
+      reviewing processes and/or technology designs that are necessary for a client
+      to
+      improve its management, use or distribution of information. We assist our
+      clients by first understanding their business objectives and then analyzing
+      and
+      recommending the appropriate hardware and software specifications, as well
+      as
+      the process and engineering changes that will fulfill these objectives. Our
+      consultants have a broad mix of functional and industry expertise. Our highly
+      skilled process analysts, workflow architects and project managers enable
+      clients to outsource to us their entire content operations, and thereby enhance
+      the client's ability to manage, use and distribute the content.  
+
+As
+      an
+      example, a major defense contractor was awarded a multi-billion dollar military
+      contract to build a new war plane. The military required that the technical
+      documentation be delivered in electronic format and be useable by field
+      technicians using handheld PDAs, as well as by pilots in the cockpit. The
+      defense contractor hired us to recommend an XML-based publishing approach.
+      Over
+      several months, our team made several recommendations and redesigned the
+      client's core business processes and systems architecture to achieve its
+      objectives, including the ability to support high-volume, link-intensive data.
+      We were then engaged by the client to develop the system. The completed system
+      provided an end-to-end workflow that included link management, support for
+      complex graphics, customized backend databases to support fast search and
+      retrieval and customized user interfaces.  
+
+Systems
+      Integration.   
+      Our
+      systems integration services include the integration of disparate authoring
+      tools, content and knowledge management systems and composition tools into
+      an
+      overall IT infrastructure, and also include the development of software that
+      enhances the compatibility among various components of the overall IT
+      infrastructure. We also undertake the management of programs and vendors during
+      this process. Many of our systems integration projects involve organizations
+      that are migrating to XML and other standards-based publishing systems or are
+      seeking to integrate disparate data sources into a common environment. Our
+      IT
+      projects often include content analysis and the development of information
+      architectures.  
+
+For
+      example, one of the world's most successful IT equipment manufacturers was
+      faced
+      with the challenge of producing increasingly complex technical documentation
+      faster, in more languages and across multiple platforms, as well as in print.
+      This was necessary because of shortening product life cycles and the desire
+      to
+      market products in remote global markets. Over a 12-month period, our team
+      of
+      information architects and developers provided strategy and process consulting,
+      product evaluation and information engineering services. We addressed complex
+      content authoring, translation and localization and document rendition
+      requirements. The result was a completely re-engineered standards-based product
+      documentation system that enabled our client to easily revise and re-use content
+      and translate that content into 35 languages seamlessly. We improved our
+      client's time-to-market by significantly reducing the turnaround time for
+      documentation and revisions, and substantially reduced overall product
+      documentation costs. Our team of two domestic project managers and five offshore
+      developers continue to provide the client ongoing systems enhancement and
+      maintenance under a long-term engagement.  
+
+I-3 
+
+Custom
+      Application Development.   
+      Our
+      custom application development services help our clients create new applications
+      and enhance the functionalities of our clients' existing software applications.
+      We design systems, develop software and run pilots.  
+
+Our
+      application development services span the entire range of client server and
+      Internet technologies. Our IT professional services staff is expert in XML
+      and
+      related information standards, as well as in emerging computing platforms.
+      Our
+      programmers are skilled in a range of programming languages and in a diverse
+      set
+      of application program interfaces, applications servers and database
+      technologies.  
+
+As
+      an
+      example, a client in the information services industry needed to build an
+      enterprise-scale publishing platform for a new online information service using
+      the latest knowledge processing technologies. Our team of onshore and offshore
+      technologists designed and built the platform over a period of several months,
+      including authoring and classification workflow systems, backend database and
+      user interface. Our content services department aggregated, digitized and
+      enhanced multiple gigabytes of data for the successful product pilot. Our single
+      program manager coordinated the efforts of our IT professional services team,
+      our outsourced content services team and other vendors on-site at the client s
+      location.  
+
+Other
+      IT Professional Services.   
+      We
+      assist our clients in the evaluation and implementation of software packages
+      developed by third party vendors. We specialize in enterprise content management
+      systems developed by several vendors, including: Documentum, Content@, XHive
+      Corporation and Vasont Systems; and document authoring systems developed by
+      vendors including Arbortext and Blast Radius; publishing tools developed by
+      vendors including TopLeaf, Antenna House and FrameMaker; as well as various
+      content analysis and extraction tools.  
+
+We
+      provide support for our clients  content-related applications, ensuring that
+      systems remain operational and responsive to changing user requirements. In
+      doing so, we are often able to enhance processes and improve service levels.
+      Through our domestic, on-site and offshore delivery model, we provide a range
+      of
+      support services to our clients.  
+
+Sales
+      and Marketing  
+
+We
+      have
+      four executive-level business development professionals and eight full-time
+      sales personnel and are targeting to increase our full-time salesperson
+      headcount by the end of 2006. Historically, our sales efforts depended heavily
+      on senior management. We are transitioning to a more structured direct sales
+      model in which we implement additional sales infrastructure, add dedicated
+      sales
+      support personnel and hire additional sales persons. In this model, our
+      executive-level business development professionals will continue to manage
+      key
+      client relationships through targeted interaction with our clients' senior
+      management, while sales professionals will be responsible for identifying
+      prospective clients and executing day-to-day sales strategies.  
+
+Our
+      sales
+      organization is responsible for qualifying and otherwise pursuing prospects,
+      securing direct personal access to decision makers at existing and prospective
+      clients and obtaining orders for our services and solutions. Our sales
+      professionals work directly with clients to identify their requirements and
+      with
+      our engineering teams to define the solutions that best fit our clients'
+      specific needs.  
+
+I-4 
+
+Sales
+      activities include the design and generation of presentations and proposals,
+      account and client relationship management and the organization of account
+      activities.  
+
+Consulting
+      personnel from our project analysis group and our engineering services group
+      closely support our direct sales effort. These individuals assist the sales
+      force in understanding the technical needs of clients and providing responses
+      to
+      these needs, including demonstrations, prototypes, pricing quotations and time
+      estimates. In addition, account managers from our customer service group support
+      our direct sales effort by providing ongoing project-level, post-sale support
+      to
+      our clients.  
+
+We
+      constantly seek to expand the nature and scope of our engagements with existing
+      clients by increasing the volume of our business and extending the breadth
+      and
+      value of services offered.  
+
+Our
+      marketing organization is responsible for developing and increasing the
+      visibility and awareness of our brand and our service offerings; defining and
+      communicating our value proposition; and generating qualified, early-stage
+      leads
+      and furnishing effective sales support tools.  
+
+Over
+      the
+      past 12 months, we have created a partner program pursuant to which we have
+      formed collaborative relationships with selected leading software vendors and
+      service providers in many of our key markets. We believe that our partner
+      program is an important way for our sales force to generate more and
+      better-quality leads. Furthermore, the partner program helps us gain technical
+      insights that allow us to better evaluate the effectiveness of the various
+      tools
+      that we recommend to our clients.  
+
+Primary
+      marketing outreach activities include event marketing (including exhibiting
+      at
+      trade shows, conferences and seminars); direct and database marketing; public
+      and media relations (including speaking engagements and active participation
+      in
+      industry and technical standard bodies); and web marketing (including search
+      engine optimization, search engine marketing and the maintenance and continued
+      development of external web sites).  
+
+Research
+      and Development  
+
+In
+      2005
+      we spent approximately $770,000 on research and development. We did not spend
+      any significant amounts for research and development in 2004 and
+      2003. 
+
+Competition  
+
+The
+      market for outsourced content services is highly competitive, fragmented and
+      intense. Several of our major competitors are SPI Technologies, Apex CoVantage,
+      Techbooks and Jouve. However, we are not aware of any single competitor that
+      provides the same comprehensive range of outsourced content services as we
+      do.
+      We believe that we also compete successfully by offering high quality services
+      and favorable pricing by leveraging our technical skills, IT infrastructure,
+      process knowledge, offshore model and economies of scale. Our competitive
+      advantages are especially attractive to clients for undertakings that are
+      technically sophisticated, sizable in scope or scale, or that require a highly
+      fail-safe environment with technology redundancy. We also believe that the
+      timeliness with which we provide our services enables our clients to reduce
+      the
+      time it takes for them to release their products to the market, thereby
+      providing a competitive advantage to the client.  
+
+A
+      number
+      of large and mid-sized technology and business consulting practices compete
+      with
+      our IT professional services by offering content-related integration and
+      consulting services as part of their broad and generalized offerings. Major
+      companies such as IBM, EDS, Bearing Point, Accenture, Booz Allen and others
+      compete for entire content supply chain dollars, and Thomas Technology Solutions
+      and RivCom are also engaged in this business. However, there are few firms
+      that
+      focus exclusively on our niche, and most of these firms have less capacity
+      and a
+      narrower strategic focus on the content supply chain.  
+
+I-5 
+
+As
+      a
+      provider of outsourced content services and IT professional services, we also
+      compete at times with in-house personnel at existing or prospective clients
+      who
+      may attempt to duplicate our services in-house.  
+
+Some
+      of
+      our competitors have longer operating histories, significantly greater
+      financial, human, technical and other resources and greater name recognition
+      than we do, and we cannot assure you that we will continue to compete
+      effectively with them.  
+
+There
+      are
+      relatively few barriers preventing companies from competing with us. We do
+      not
+      own any patented technology that would preclude or inhibit others from entering
+      our market. 
+
+Employees  
+
+As
+      of
+      December 31, 2005, we employed 87 persons in the United States and Europe and
+      approximately 6,000 persons in five production facilities in the Philippines,
+      one production facility in Sri Lanka, one production facility in India and
+      a
+      technology and tools development center in India. Most of our employees have
+      graduated from at least a two-year college program. Many of our employees hold
+      advanced degrees in law, business, technology, medicine and social sciences.
+      No
+      employees are currently represented by a labor union, and we believe that our
+      relations with our employees are satisfactory.  
+
+Item
+      1A. Risk Factors.  
+
+We
+      have historically relied on a very limited number of clients that have accounted
+      for a significant portion of our revenues and our results of operations could
+      be
+      adversely affected if we lose one or more of these significant
+      clients.  
+
+We
+      have
+      historically relied on a very limited number of clients that have accounted
+      for
+      a significant portion of our revenues. One client accounted for 27%, 23% and
+      33%
+      of our total revenues for the years ended December 31, 2005, 2004 and 2003,
+      respectively. One other client accounted for 12% and 31% of our revenues for
+      the
+      years ended December 31, 2005 and 2004, respectively. We may lose any of these
+      or our other major clients as a result of our failure to meet or satisfy our
+      clients  requirements, the completion or termination of a project or engagement,
+      or the selection of another service provider. 
+
+In
+      addition, the revenues we generate from our major clients may decline or grow
+      at
+      a slower rate in future periods than in the past. If we lose any of our
+      significant clients, our revenues and results of operations could be adversely
+      affected and we may incur a loss from operations. Our services are typically
+      subject to client requirements, and in most cases are terminable upon 30 to
+      90
+      days  notice. 
+
+A
+      significant portion of our services is provided on a non-recurring basis for
+      specific projects, and our inability to replace large projects when they are
+      completed has adversely affected, and could in the future adversely affect,
+      our
+      revenues and results of operations.  
+
+We
+      provide a portion of our services for specific projects that generate revenues
+      that terminate on completion of a defined task and we regard these revenues
+      as
+      non-recurring. Non-recurring revenues derived from these project-based
+      arrangements accounted for approximately 42% of our total revenues for the
+      year
+      ended December 31, 2005 and approximately 53% of our total revenues for the
+      year ended December 31, 2004. While we seek wherever possible to
+      counterbalance periodic declines in revenues on completion of large projects
+      with new arrangements to provide services to the same client or others, we
+      were
+      not able in 2005 to avoid declines in revenues when large projects were
+      completed. Our inability to obtain sufficient new projects to counterbalance
+      any
+      decreases in such work adversely affected our revenues and results of operations
+      in 2005 and may adversely affect our future revenues and results of
+      operations. 
+
+A
+      large portion of our accounts receivable is payable by a limited number of
+      clients; the inability of any of these clients to pay its accounts receivable
+      would adversely affect our results of operations.  
+
+I-6 
+
+Several
+      significant clients account for a large percentage of our accounts receivable.
+      As of December 31, 2005, 37%, or $2.7 million, of our accounts
+      receivable was due from one client. If any of these clients were unable, or
+      refuse, for any reason, to pay our accounts receivable, our results of
+      operations would be adversely affected.  
+
+Quarterly
+      fluctuations in our results of operations could make financial forecasting
+      difficult and could negatively affect our stock price.  
+
+We
+      have
+      experienced, and expect to continue to experience, significant fluctuations
+      in
+      our quarterly revenues and results of operations. During the past eight
+      quarters, our net income ranged from a loss of approximately $900,000 to a
+      profit of approximately $3.1 million.  
+
+Our
+      quarterly operating results are also subject to certain seasonal fluctuations.
+      Our fourth and first quarters include the months of December and January, when
+      billable services activity by professional staff, as well as engagement
+      decisions by clients, may be reduced due to client budget planning cycles.
+      Demand for our services generally may be lower in the fourth quarter due to
+      reduced activity during the holiday season and fewer working days for our
+      Philippines-based staff during this period. These and other seasonal factors
+      may
+      contribute to fluctuations in our results of operations from quarter to quarter.
+
+We
+      compete in highly competitive markets that have low barriers to
+      entry.  
+
+The
+      markets for our services are highly competitive and fragmented. We may not
+      be
+      able to compete successfully against our competitors in the future. Some of
+      our
+      competitors have longer operating histories, significantly greater financial,
+      human, technical and other resources and greater name recognition than we do.
+      If
+      we fail to be competitive with these companies in the future, we may lose market
+      share, which could adversely affect our revenues and results of operations.
+
+There
+      are
+      relatively few barriers preventing companies from competing with us. We do
+      not
+      own any patented technology that would preclude or inhibit others from entering
+      our market. As a result, new market entrants also pose a threat to our business.
+      We also compete with in-house personnel at current and prospective clients,
+      who
+      may attempt to duplicate our services using in-house personnel. We cannot assure
+      you that our clients will outsource more of their needs to us in the future,
+      or
+      that they will not choose to provide internally the services that they currently
+      obtain from us. If we are not able to compete effectively, our revenues and
+      results of operations could be adversely affected.  
+
+We
+      are the subject of continuing litigation, including litigation by certain of
+      our
+      former employees.  
+
+We
+      are
+      subject to various legal proceedings and claims which arise in the ordinary
+      course of business. In addition, in connection with the cessation of all
+      operations at certain of our foreign subsidiaries, certain former employees
+      have
+      filed various actions against one of our Philippine subsidiaries and have
+      purported also to sue us and certain of our officers and directors. An
+      unfavorable ruling in any of these proceedings could adversely affect our
+      financial condition and results of operations. See  Legal Proceedings."
+
+Our
+      international operations subject us to risks inherent in doing business on
+      an
+      international level, any of which could increase our costs and hinder our
+      growth.  
+
+The
+      major
+      part of our operations is carried on in the Philippines, India and Sri Lanka,
+      while our headquarters are in the United States and our clients are primarily
+      located in North America and Europe. While we do not depend on revenues from
+      sources internal to the countries in which we operate, we are nevertheless
+      subject to certain adverse economic factors relating to overseas economies
+      generally, including inflation, external debt, a negative balance of trade
+      and
+      underemployment. Other risks associated with our international business
+      activities include:  
+
+I-7 
+
+difficulties
+                in staffing international projects and managing international operations,
+                including overcoming logistical  
+                and communications challenges;  
+
+local
+                competition, particularly in the Philippines, India and Sri Lanka;
+
+imposition
+                of public sector controls;  
+
+trade
+                and tariff restrictions;  
+
+price
+                or exchange controls;  
+
+currency
+                control regulations;  
+
+foreign
+                tax consequences;  
+
+labor
+                disputes and related litigation and liability;
+
+limitations
+                on repatriation of earnings; and  
+
+the
+                burdens of complying with a wide variety of foreign laws and regulations.
+
+One
+      or
+      more of these factors could adversely affect our business and results of
+      operations.  
+
+Our
+      international operations subject us to currency exchange fluctuations, which
+      could adversely affect our results of operations.  
+
+To
+      date,
+      most of our revenues have been denominated in U.S. dollars, while a significant
+      portion of our expenses, primarily labor expenses in the Philippines, India
+      and
+      Sri Lanka, is incurred in the local currencies of countries in which we operate.
+      For financial reporting purposes, we translate all non-United States denominated
+      transactions into dollars in accordance with accounting principles generally
+      accepted in the United States. As a result, we are exposed to the risk that
+      fluctuations in the value of these currencies relative to the dollar could
+      increase the dollar cost of our operations and therefore adversely affect our
+      results of operations.  
+
+The
+      Philippines has historically experienced high rates of inflation and major
+      fluctuations in the exchange rate between the Philippine peso and the U.S.
+      dollar. Continuing inflation without a corresponding devaluation of the peso
+      against the dollar, or any other increase in the value of the peso relative
+      to
+      the dollar, could adversely affect our results of operations. Since 1997, we
+      have not purchased foreign currency futures contracts for pesos, but we may
+      choose to do so in the future.  
+
+New
+      regulation of the Internal Revenue Service may impose significant U.S. income
+      taxes on our subsidiaries in the Philippines.  
+
+Our
+      subsidiaries incorporated in the Philippines were domesticated in Delaware
+      as
+      limited liability companies. In August 2004, the Internal Revenue Service
+      promulgated regulations, effective August 12, 2004, that treat certain
+      companies incorporated in foreign jurisdictions and also domesticated as
+      Delaware limited liability companies as U.S. corporations for U.S. federal
+      income tax purposes. We have effected certain filings with the Secretary of
+      State of the State of Delaware to ensure that these subsidiaries are no longer
+      domesticated in Delaware. As a result, commencing January 1, 2005,
+      these subsidiaries are not treated as U.S. corporations for U.S. federal income
+      tax purposes under the regulations and are not subject to U.S. federal income
+      taxes commencing as of such date.  
+
+I-8 
+
+In
+      the
+      preamble to such regulations, the IRS expressed its view that dual registered
+      companies described in the preceding sentence are also treated as U.S.
+      corporations for U.S. federal income tax purposes for periods prior to August
+      12, 2004. On January 30, 2006, the IRS issued its final regulations, stating
+      that neither the temporary regulations nor these final regulations are
+      retroactive. The earliest date that any entity is subject to these regulations
+      is August 12, 2004. For periods prior to the date these final regulations apply
+      (i.e., prior to August 12, 2004), the classification of dually chartered
+      entities is governed by the pre-existing regulations. We believe that our
+      historic treatment of these subsidiaries as not having been required to pay
+      taxes in the United States for the period prior to August 12, 2004 is correct,
+      and would vigorously defend its treatment if challenged. As such, we have made
+      no provision for U.S. taxes in its financial statements for these entities
+      for
+      the periods prior to August 12, 2004. 
+
+Furthermore,
+      we cannot assure you that the Internal Revenue Service will not assert other
+      positions with respect to the foregoing matters, including positions with
+      respect to our treatment of the tax consequences of the termination of the
+      status of our Philippines subsidiaries as Delaware limited liability companies,
+      that, if successful, could increase materially our liability for U.S. federal
+      income taxes.  
+
+If
+      certain tax authorities in North America and Europe challenge the manner in
+      which we allocate our profits, our net income will
+      decrease.  
+
+We
+      benefit from tax incentives in certain jurisdictions where tax incentives have
+      been extended to encourage foreign investment or where income tax rates are
+      low.
+      Our taxes could increase if these tax incentives are not renewed upon
+      expiration, or if tax rates applicable to us are increased. Substantially all
+      of
+      the services provided by our Asian subsidiaries are performed on behalf of
+      clients based in North America and Europe. We believe that profits from our
+      Asian operations are not sufficiently connected to jurisdictions in North
+      America or Europe to give rise to income taxation in those jurisdictions, other
+      than U.S. taxes that may arise as the result of the former status of our
+      Philippine subsidiaries as Delaware limited liability companies as described
+      in
+      the preceding risk factor. Tax authorities in jurisdictions in North America
+      and
+      Europe could, however, challenge the manner in which we allocate our profits
+      among our subsidiaries, and we may not prevail in this type of challenge. If
+      our
+      Asian profits became subject to income taxes in these other jurisdictions,
+      our
+      worldwide effective tax rate could increase, thereby decreasing our net income.
+
+An
+      expiration or termination of our current tax holidays could adversely affect
+      our
+      results of operations.  
+
+We
+      currently benefit from income tax holiday incentives in the Philippines, India
+      and Sri Lanka which provide that we pay reduced income taxes in those
+      jurisdictions for a fixed period of time that varies depending on the
+      jurisdiction. An expiration or termination of our current tax holidays could
+      substantially increase our worldwide effective tax rate, thereby decreasing
+      our
+      net income and adversely affecting our results of operations.  
+
+Regional
+      instability in the Philippines, India and Sri Lanka could adversely affect
+      business conditions in those regions, which could disrupt our operations and
+      adversely affect our business and results of operations.  
+
+We
+      conduct a majority of our operations in the Philippines, India and Sri Lanka.
+      These operations remain vulnerable to political unrest. Political instability
+      could adversely affect the legal environment for our business activities in
+      those regions.  
+
+In
+      particular, the Philippines has experienced ongoing problems with insurgents.
+      The Abu Sayyaf group of kidnappers, which is purported to have ties to the
+      Al
+      Qaeda terrorist organization, is concentrated on Basilan Island. While Basilan
+      Island is not near our facilities and the government of the Philippines has
+      taken action to eradicate this group, we cannot assure you that these efforts
+      will be successful or that the Abu Sayyaf group will not attempt to disrupt
+      activities or commit terrorist acts in other areas of the Philippines or South
+      Asia.  
+
+In
+      recent
+      years there have been military confrontations between India and Pakistan that
+      have occurred in the region of Kashmir and along the India-Pakistan border.
+      In
+      addition, in recent years there has been civil unrest in Sri Lanka.
+
+I-9 
+
+Further
+      political tensions and an escalation in these hostilities could adversely affect
+      our Philippines, Indian and Sri Lankan based operations and therefore adversely
+      affect our revenues and results of operations.  
+
+Terrorist
+      attacks or a war could adversely affect our results of
+      operations.  
+
+Terrorist
+      attacks, such as the attacks of September 11, 2001 in the United States,
+      and other acts of violence or war, such as the conflict in Iraq, could affect
+      us
+      or our clients by disrupting normal business practices for extended periods
+      of
+      time and reducing business confidence. In addition, these attacks may make
+      travel more difficult and may effectively curtail our ability to serve our
+      clients' needs, any of which could adversely affect our results of operations.
+
+It
+      is unlikely that we will pay dividends.  
+
+We
+      have
+      not paid any cash dividends since our inception and do not anticipate paying
+      any
+      cash dividends in the foreseeable future. We expect that our earnings, if any,
+      will be used to finance our growth.  
+
+Item
+      2. Description of Property.  
+
+Our
+      services are primarily performed from our Hackensack, New Jersey headquarters,
+      our Dallas and Austin, Texas offices, and seven overseas facilities, all of
+      which are leased. In addition, we have a technology and tools development
+      facility in Gurgaon, India, which is also leased. The square footage of all
+      our
+      leased properties is approximately 405,000. Rental payments on property leases
+      were approximately $2.0 million in 2005. 
+
+Item
+      3. Legal Proceedings.  
+
+The
+      Innodata Employees Association (IDEA), Jomarie Deles and other complainants
+      have
+      sued one of our Philippines subsidiaries, and have purported also to sue us
+      and
+      certain of our officers and directors, in    Innodata
+      Philippines Employees Association (IDEA) v Innodata
+      Philippines, Inc.   
+      (filed
+      July 27, 2001 at the National Conciliation and Mediation Board of the
+      Philippine Department of Labor and Employment in Manila); Innodata Employees
+      Association (IDEA),    Jomarie
+      Deles, et al v. Innodata Philippines, Inc.   
+      (filed
+      July 1, 2002 in the National Labor Relations Commission of the Republic of
+      the Philippines in Manila); and in related cases and proceedings filed in the
+      Philippines Supreme Court, the Philippine Court of Appeals and the Philippines
+      Department of Labor and Employment. Complainants seek to require reinstatement
+      of employment and to recover back wages for an allegedly illegal facility
+      closing on June 7, 2002 based on the terms of a collective bargaining
+      agreement with this subsidiary. If complainants' claims had merit they could
+      be
+      entitled to back wages of up to $5.0 million for the period from
+      June 7, 2002 to June 6, 2005, consistent with prevailing
+      jurisprudence. After consultation with counsel, we believe that the
+      complainants' claims are without merit and we intend to defend against them
+      vigorously.  
+
+In
+      addition, we are subject to various legal proceedings and claims which arise
+      in
+      the ordinary course of business. While we currently believe that the ultimate
+      outcome of these proceedings will not have a material adverse affect on our
+      financial condition or results of operations, litigation is subject to inherent
+      uncertainties. Were an unfavorable ruling to occur, it could have a material
+      adverse effect on our financial condition and results of operations.
+
+Item
+      4. Submission of Matters to a Vote of Security
+      Holders-None.  
+
+I-10 
+
+PART
+        II   
+
+Item
+        5. Market for Common Equity and Related Stockholder Matters.
+
+Innodata
+        Isogen, Inc. (the  Company ) Common Stock is quoted on the Nasdaq National
+        Market System under the symbol  INOD.  On February 28, 2006, there were 114
+        stockholders of record of the Company s Common Stock based on information
+        provided by the Company's transfer agent. Virtually all of the Company s
+        publicly held shares are held in  street name  and the Company believes the
+        actual number of beneficial holders of its Common Stock to be approximately
+        4,800. 
+
+The
+        following table sets forth the high and low sales prices on a quarterly basis
+        for the Company's Common Stock, as reported on Nasdaq, for the two years
+        ended
+        December 31, 2005.  
+
+Dividends  
+
+The
+        Company has never paid cash dividends on its Common Stock and does not
+        anticipate that it will do so in the foreseeable future. The future payment
+        of
+        dividends, if any, on the Common Stock is within the discretion of the Board
+        of
+        Directors and will depend on the Company's earnings, its capital requirements
+        and financial condition and other relevant factors.  
+
+II-1 
+
+Securities
+        Authorized for Issuance Under Equity Compensation Plans  
+
+The
+        following table sets forth the aggregate information for the Company's equity
+        compensation plans in effect as of December 31, 2005: 
+
+(1) 
+
+Consists
+                  of stock options to purchase 1,015,164 shares of common stock granted
+                  to
+                  the Company's current Chairman pursuant to an agreement entered
+                  into at
+                  time of hire. 
+
+II-2 
+
+Item
+        6. Selected Financial Data (In thousands, except per share
+        amounts).  
+
+II-3 
+
+Item
+        7. Management's Discussion and Analysis of Financial Condition and Results
+        of
+        Operations.  
+
+Revenues  
+
+We
+        derive
+        the majority of our revenues from outsourced content services. These services
+        consist of fabrication and knowledge services. Outsourced content services
+        that
+        are provided for a specific project generate revenues that terminate on
+        completion of a defined task and we regard these revenues as non-recurring.
+        We
+        also provide outsourced content services for business processes that we
+        anticipate will continue for an indefinite period and therefore generate
+        what we
+        regard as recurring revenues. We price our outsourced content services based
+        on
+        the quantity delivered or resources utilized. Revenues for outsourced content
+        services are recognized in the period in which the services are performed
+        and
+        delivered.  
+
+We
+        also
+        derive a portion of our revenues from IT professional services.
+        A substantial majority of our IT professional services is provided on a
+        project basis that generates non-recurring revenues. These services consist
+        of
+        consulting, systems integration, custom application development and other
+        professional services. We price our professional services on an hourly basis
+        for
+        actual time and expense incurred, or on a fixed-fee turn-key basis. Revenues
+        for
+        contracts billed on a time and materials basis are recognized as services
+        are
+        performed. Revenues under fixed-fee contracts are recognized on the percentage
+        of completion method of accounting as services are performed or milestones
+        are
+        achieved.  
+
+Recurring
+        revenues consisted of 58% and 47% of total revenues for the years ended December
+        31, 2005 and 2004, respectively. The substantial majority of our recurring
+        revenues are derived from outsourced content services. A small portion of
+        our
+        recurring revenues is derived from the application maintenance agreements
+        related to our IT professional services. Non-recurring revenues vary depending
+        on the size and completion dates of specific projects.  
+
+We
+        have
+        historically relied on a very limited number of clients that have accounted
+        for
+        a significant portion of our revenues. One client accounted for 27%, 23%
+        and 33%
+        of our total revenues for the years ended December 31, 2005, 2004 and 2003,
+        respectively. One other client accounted for 12% and 31% of our revenues
+        for the
+        years ended December 31, 2005 and 2004, respectively. We may lose any of
+        these
+        or our other major clients as a result of our failure to meet or satisfy
+        our
+        clients  requirements, the completion or termination of a project or engagement,
+        or the selection of another service provider. 
+
+In
+        addition, the revenues we generate from our major clients may decline or
+        grow at
+        a slower rate in future periods than in the past. If we lose any of our
+        significant clients, our revenues and results of operations could be adversely
+        affected and we may incur a loss from operations. Our services are typically
+        subject to client requirements, and in most cases are terminable upon 30
+        to 90
+        days  notice. 
+
+See
+ Risk
+        Factors.  
+
+Direct
+        Operating Costs  
+
+Direct
+        operating costs for both our outsourced content services and IT professional
+        services consist of direct payroll, occupancy costs, depreciation,
+        telecommunications, computer services and supplies. We anticipate our cost
+        of
+        labor to increase in 2006 by approximately $500,000 per quarter as a result
+        of
+        general wage increases. 
+
+Selling
+        and Administrative Expenses  
+
+Selling
+        and administrative expenses for both our outsourced content services and
+        IT
+        professional services consist of management and administrative salaries,
+        sales
+        and marketing costs, new services research and related software development,
+        and
+        administrative overhead. We anticipate selling and administrative expenses
+        to
+        increase in absolute terms as we continue to grow our business, and as we
+        increase our spending on new services research and related software development.
+        Commencing October 1, 2003, we unified our selling and related activities
+        for our outsourced content services and IT professional services segments.
+        As
+        such, selling and corporate administrative costs are not segregated by, nor
+        are
+        they allocated to, operating segments for periods commencing January 1,
+        2004. 
+
+II-4 
+
+Results
+        of Operations  
+
+Year
+        Ended December 31, 2005 Compared to the Year Ended December 31,
+        2004  
+
+Revenues  
+
+Revenues
+        were $42.1 million for the year ended December 31, 2005 compared to
+        $53.9 million for the similar period in 2004.  
+
+One
+        client accounted for 27% and 23% of our total revenues for the years ended
+        December 31, 2005 and 2004, respectively. A second client accounted for 12%
+        and 31% of our revenues for the years ended December 31, 2005 and 2004,
+        respectively. No other client accounted for 10% or more of our total revenues
+        for these periods. Further, for the years ended December 31, 2005 and 2004,
+        revenues from clients located in foreign countries (principally in Europe)
+        accounted for 35% and 30% of our total revenues, respectively.  
+
+Revenues
+        from outsourced content services decreased 16% to $36.7 million for the
+        year ended December 31, 2005 from $43.7 million for the similar period
+        in 2004. This decrease primarily reflects an $8 million decline in revenues
+        from a major outsourced content services project that was   terminated
+        late in the first quarter of 2005. We did not obtain sufficient new projects
+        to
+        counterbalance the decline in revenues from the termination of this
+        project. 
+
+Revenues
+        from IT professional services decreased 47% to $5.4 million for the year
+        ended December 31, 2005 from $10.2 million for the similar period in
+        2004. T  he
+        results in the 2004 period reflect approximately $4.4  
+        million
+        of revenues from two projects that were completed in 2004. 
+
+For
+        the
+        year ended December 31, 2005, approximately 58% of our revenue was recurring
+        and
+        the 42% balance was non-recurring, compared with 47% and 53%, respectively,
+        for
+        the year ended December 31, 2004. 
+
+Direct
+        Operating Costs  
+
+Direct
+        operating costs were $30.9 million and $33.1 million for the years
+        ended December 31, 2005 and 2004, respectively, a decrease of 7%. Direct
+        operating costs as a percentage of revenues were 73% for the year ended
+        December 31, 2005 and 61% for the year ended December 31, 2004.
+
+Direct
+        operating costs for outsourced content services were $26.6 million and
+        $27.5 million for the years ended December 31, 2005 and 2004,
+        respectively, a decrease of 3%. Direct operating costs of outsourced content
+        services as a percentage of revenues from outsourced content services were
+        72%
+        and 63% for the years ended December 31, 2005 and 2004, respectively.
+  Fixed
+        costs increased approximately 2%, principally resulting from growth in our
+        engineering technology department. The overall increase in fixed costs was
+        in
+        part offset by a reduction in depreciation and amortization costs of
+        approximately $800,000.  
+        The
+        increase in direct operating costs of outsourced content services as a
+        percentage of revenues from outsourced content services principally results
+        from
+        a 2% percentage point increase in v  ariable
+        costs of production as a percent of revenues, and from decreased revenues
+        in
+        2005 without a corresponding decrease to fixed costs. 
+
+Direct
+        operating costs for IT professional services were $4.3 million and $5.6
+        million for the years ended December 31, 2005 and 2004 respectively. Direct
+        operating costs of IT professional services as a percentage of revenues from
+        IT
+        professional services were 80% and 55% for the years ended December 31,
+        2005 and 2004, respectively.   The
+        dollar decrease in direct operating costs of IT professional services for
+        the
+        2005 period was due to a reduction in labor costs. The increase in direct
+        operating costs of IT professional services as a percentage of revenues from
+        IT
+        professional services was primarily attributable to decreased revenues without
+        a
+        corresponding decrease in these costs. 
+
+II-5 
+
+Selling
+        and Administrative Expenses  
+
+Selling
+        and administrative expenses were $13.7 million and $10.2 million for
+        the years ended December 31, 2005 and 2004, respectively, an increase of
+        34%. Selling and administrative expenses as a percentage of revenues were
+        33%
+        and 19% for the years ended December 31, 2005 and 2004 respectively.
+        Selling and marketing expenses increased by approximately $1.8 million, partly
+        as a result of increased costs from our continued efforts to enhance our
+        business development infrastructure.   In
+        addition, in 2005 we spent approximately $0.8 million in new services research
+        and related software development. The balance of the increase from 2004
+        principally reflects general increases in administrative costs. 
+
+Net
+        Loss/Income  
+
+We
+        recorded a net loss of $1.7 million in 2005 compared with net income of $7.9
+        million in 2004. The principal reasons for the decrease in 2005 were the
+        decline
+        in revenues and the increase in selling and administrative
+        expenses. 
+
+Other  
+
+On
+        January 5, 2005, we announced our intent to raise funds and filed a registration
+        statement on Form   S-3 to register 4,250,000 shares of our
+        common stock, plus 3,250,000 shares of common stock currently held by certain
+        of
+        our directors and officers. On March 23, 2005, we terminated the offering
+        and as
+        such, in the fourth quarter 2004, expensed approximately $625,000 of offering
+        costs. 
+
+In
+        January 2004, we reached a settlement agreement with and received
+        $1.0 million in cash from a former client in full satisfaction of a
+        $2.6 million outstanding balance that we had fully written off as a bad
+        debt in 2001. The $1.0 million receipt, net of $37,000 in recovery costs,
+        is reflected as bad debt recovery for the year ended December 31, 2004.
+
+For
+        the
+        year ended December 31, 2005, the benefit from income taxes as a percentage
+        of loss before income taxes was 22%. The 2005 benefit from income taxes is
+        lower
+        than the U.S. Federal statutory rate, principally due to a portion of the
+        U.S.
+        net operating losses which were not recognized, offset in part by certain
+        overseas income which is neither subject to foreign income taxes because
+        of tax
+        holidays granted to us, nor subject to tax in the U.S. unless repatriated.
+
+For
+        the
+        year ended December 31, 2004, the provision for income taxes as a
+        percentage of income was 29%. The 2004 provision is lower than the U.S. Federal
+        statutory rate, principally due to certain overseas income which is neither
+        subject to foreign income taxes because of tax holidays granted to us, nor
+        subject to tax in the U.S. unless repatriated.  
+
+In
+        August
+        2004, the IRS promulgated regulations, effective August 12, 2004, that had
+        the
+        effect of making certain of our overseas entities taxable in the United States
+        for U.S. federal income tax purposes. As a result, in the fourth quarter
+        2004,
+        we provided approximately $450,000 for U.S. income taxes attributable to
+        these
+        applicable overseas entities. In addition, in December 2004, we effected
+        certain
+        filings in Delaware to ensure that these subsidiaries will not be treated
+        as
+        U.S. corporations for U.S. federal income tax purposes as of the date of
+        filing
+        and as such, will not be subject to U.S. federal income taxes commencing
+        January
+        1, 2005. 
+
+II-6 
+
+Year
+        Ended December 31, 2004 Compared to the Year Ended December 31,
+        2003  
+
+Revenues  
+
+Revenues
+        were $53.9 million for the year ended December 31, 2004 compared to
+        $36.7 million for the similar period in 2003.  
+
+One
+        client accounted for 23% and 33% of our total revenues for the years ended
+        December 31, 2004 and 2003, respectively. A second client accounted for 31%
+        of our revenues for the year ended December 31, 2004. No other client
+        accounted for 10% or more of our total revenues for these periods. Further,
+        for
+        the years ended December 31, 2004 and 2003, revenues from clients located
+        in foreign countries (principally in Europe) accounted for 30% and 47% of
+        our
+        total revenues, respectively.  
+
+Revenues
+        from outsourced content services increased 46% to $43.7 million for the
+        year ended December 31, 2004 from $30.0 million for the similar period
+        in 2003. The increase was primarily due to   increased
+        revenues from several new projects. Of the $43.7 million of revenues for
+        the
+        year ended December, 31, 2004, approximately $13.8 million, or 31%, resulted
+        from new projects, substantially all of which were for existing
+        clients. 
+
+Revenues
+        from IT professional services increased 52% to $10.2 million for the year
+        ended December 31, 2004 from $6.7 million for the similar period in
+        2003. T  his
+        increase was primarily due to increased revenues from new projects.
+        Approximately $9.5 million, or 93%, of revenues from IT professional services
+        for the year ended December 31, 2004 resulted from new projects, a majority
+        of
+        which were for existing clients. 
+
+For
+        the
+        year ended December 31, 2004, approximately 53% of our revenue was non-recurring
+        and the 47% balance was recurring, compared with 47% and 53%, respectively,
+        for
+        the year ended December 31, 2003. 
+
+Direct
+        Operating Costs  
+
+Direct
+        operating costs were $33.1 million and $27.0 million for the years
+        ended December 31, 2004 and 2003, respectively, an increase of 23%. Direct
+        operating costs as a percentage of revenues were 61% for the year ended
+        December 31, 2004 and 74% for the year ended December 31, 2003.
+
+Direct
+        operating costs for outsourced content services were $27.5 million and
+        $23.0 million for the years ended December 31, 2004 and 2003,
+        respectively, an increase of 19%. Direct operating costs of outsourced content
+        services as a percentage of revenues from outsourced content services were
+        63%
+        and 77% for the years ended December 31, 2004 and 2003, respectively. The
+        dollar increase for the content services segment in the 2004 period was
+        principally due to increases in both labor and non-labor costs as a result
+        of
+        increased revenues. The decrease in direct operating costs of outsourced
+        content
+        services as a percentage of revenues from outsourced content services for
+        the
+        2004 period was principally due to lower labor costs as a percentage of revenues
+        resulting from improved process efficiencies and aggressive project cost
+        management, as well as a 46% increase in revenues compared to a 12% increase
+        in
+        fixed non-labor costs.  
+
+Direct
+        operating costs for IT professional services were $5.6 million and $4.0
+        million for the years ended December 31, 2004 and 2003 respectively. Direct
+        operating costs of IT professional services as a percentage of revenues from
+        IT
+        professional services were 54% and 59% for the years ended December 31,
+        2004 and 2003, respectively. The dollar increase in direct operating costs
+        of IT
+        professional services for the 2004 period was principally due to increases
+        in
+        personnel and related costs. The decrease in direct operating costs of IT
+        professional services as a percentage of revenues from IT professional services
+        for the 2004 period was primarily attributable to increased resource utilization
+        resulting in a 4% decrease in non-labor costs as a percentage of revenues
+        from
+        IT professional services, and a one percent decrease in direct labor costs
+        as a
+        percentage of revenues. 
+
+II-7 
+
+Selling
+        and Administrative Expenses  
+
+Selling
+        and administrative expenses were $10.2 million and $8.9 million for
+        the years ended December 31, 2004 and 2003, respectively, an increase of
+        15%. Selling and administrative expenses as a percentage of revenues were
+        19%
+        and 24% for the years ended December 31, 2004 and 2003, respectively.
+        Selling and administrative expenses for the year ended December 31, 2003
+        include
+        a non-cash compensation charge of approximately $650,000. Excluding this
+        charge,
+        selling and administrative expenses for the year ended December 31, 2004
+        would have increased by approximately $2.0 million, or 24%, from the
+        similar period in 2003. Approximately $1.7 million of the increase in selling
+        and administrative expenses relates to increases in selling and marketing
+        costs,
+        primarily attributable to the hiring of additional business development,
+        management and sales support personnel, as well as to increased marketing
+        programs and activities. 
+
+Net
+        Income  
+
+We
+        recorded net income of $7.9 million in 2004 compared with net income of
+        approximately $500,000 in 2003. The principal reason for the increase in
+        2004 is
+        the increase in revenues and the resulting gross margin. 
+
+Other  
+
+On
+        January 5, 2005, we announced our intent to raise funds and filed a registration
+        statement on Form   S-3 to register 4,250,000 shares of our
+        common stock, plus 3,250,000 shares of common stock currently held by certain
+        of
+        our directors and officers. On March 23, 2005, we terminated the offering
+        and as
+        such, in the fourth quarter 2004, expensed approximately $625,000 of offering
+        costs. 
+
+In
+        January 2004, we reached a settlement agreement with and received
+        $1.0 million in cash from a former client in full satisfaction of a
+        $2.6 million outstanding balance that we had fully written off as a bad
+        debt in 2001. The $1.0 million receipt, net of $37,000 in recovery costs,
+        is reflected as bad debt recovery for the year ended December 31, 2004.
+
+For
+        the
+        year ended December 31, 2004, the provision for income taxes as a
+        percentage of income was 29%. The 2004 provision is lower than the U.S. Federal
+        statutory rate, principally due to certain overseas income which is neither
+        subject to foreign income taxes because of tax holidays granted to us, nor
+        subject to tax in the U.S. unless repatriated.  
+
+In
+        August
+        2004, the IRS promulgated regulations, effective August 12, 2004, that had
+        the
+        effect of making certain of our overseas entities taxable in the United States
+        for U.S. federal income tax purposes. As a result, in the fourth quarter
+        2004,
+        we provided approximately $450,000 for U.S. income taxes attributable to
+        these
+        applicable overseas entities. In addition, in December 2004, we effected
+        certain
+        filings in Delaware to ensure that these subsidiaries will not be treated
+        as
+        U.S. corporations for U.S. federal income tax purposes as of the date of
+        filing
+        and as such, will not be subject to U.S. federal income taxes commencing
+        January
+        1, 2005. 
+
+The
+        provision for income taxes for the year ended December 31, 2003 is higher
+        as a
+        percentage of pre-tax income than the federal statutory rate due primarily
+        to
+        foreign and state income taxes, and to certain foreign source losses for
+        which
+        no tax benefit is available, partially offset by the effect of income in
+        tax
+        jurisdictions currently under tax holiday. 
+
+II-8 
+
+Liquidity
+        and Capital Resources  
+
+Selected
+        measures of liquidity and capital resources, expressed in thousands are as
+        follows:  
+
+Net
+        Cash Provided By Operating Activities  
+
+Net
+        cash
+        provided by operating activities was $1.1 million for the year ended
+        December 31, 2005 compared to $15.7 million provided by operating
+        activities for the year ended December 31, 2004, a decrease of
+        approximately $14.5 million. The $14.5   million
+        decrease in net cash provided by operating activities is principally due
+        to a
+        $9.5 million decrease in net income, a $1.3 million decrease in non-cash
+        charges and a $3.7 million reduction as a result of changes in operating
+        assets
+        and liabilities  . 
+
+Accounts
+        receivable totaled $7.2 million at December 31, 2005, representing
+        approximately 55 days of sales outstanding, compared to $8.0 million, or 57
+        days, at December 31, 2004. 
+
+A
+        significant amount of the Company's revenues are derived from clients in
+        the
+        publishing industry. Accordingly, the Company's accounts receivable generally
+        include significant amounts due from such clients. In addition, as of
+        December 31, 2005, approximately 36% of the Company's accounts receivable
+        was from foreign (principally European) clients and 37% of accounts receivable
+        was due from one client. As of December 31, 2004, approximately 27% of the
+        Company's accounts receivable was from foreign (principally European) clients
+        and 69% of accounts receivable was due from two clients. 
+
+Net
+        Cash Used in Investing Activities  
+
+For
+        the
+        year ended December 31, 2005, we spent cash approximating $2.3 million for
+        capital expenditures, compared to approximately $2,051,000 for the year ended
+        December 31, 2004. Furthermore, during the year ended
+        December 31, 2005, we financed the purchase of software licenses
+        totaling approximately $488,000. Capital spending in 2005 and 2004 related
+        principally to normal ongoing equipment upgrades, project requirement specific
+        equipment, and improvements in infrastructure. During the next twelve months,
+        we
+        anticipate that capital expenditures for ongoing technology, hardware, equipment
+        and infrastructure upgrades will approximate $3 million. Furthermore, in
+        the
+        next twelve months, we anticipate spending approximately $1.8 million
+        on construction and infrastructure related costs in connection with the
+        relocation of three of our Asian facilities, our Dallas office and for the
+        renovation of our U.S. headquarters. Such anticipated expenditures are in
+        addition to potential capital expenditures for new service offerings. In
+        connection with the relocation of our Dallas office, the lessor agreed to
+        pay
+        approximately $250,000 as incentive for us to terminate the lease prior to
+        its
+        contractual expiration date. In connection with this transaction, we will
+        recognize income of approximately $250,000 in the first quarter of
+        2006. 
+
+Net
+        Cash Provided by Financing Activities  
+
+Proceeds
+        from the exercise of stock options provided cash approximating $1,297,000
+        and
+        $1,082,000 in 2005 and 2004, respectively. In addition, payments of long-term
+        obligations approximated $702,000 and $88,000 in 2005 and 2004,
+        respectively. 
+
+During
+        the year ended December 31, 2005, we entered into an agreement with a
+        vendor to acquire certain additional software licenses and to receive support
+        and subsequent software upgrades on this and other currently owned software
+        licenses through February 2008 for a total cost of approximately
+        $1.6 million. This total obligation and associated cost totaling
+        approximately $1.6 million is a non-cash investing and financing activity.
+        Of
+        the $1.6 million, approximately $528,000 was paid during the year ended December
+        31, 2005 and $528,000 will be paid as a financing activity in the next 12
+        months. 
+
+II-9 
+
+Availability
+        of Funds  
+
+We
+        have a
+        $5.0 million line of credit pursuant to which we may borrow up to 80% of
+        eligible accounts receivable at the bank s alternate base rate plus  % or LIBOR
+        plus 3%. The line, which expires in May, 2006, is secured by our accounts
+        receivable. The Company has not borrowed against its credit line in
+        2005. 
+
+We
+        believe that existing cash and internally generated funds will be sufficient
+        for
+        our reasonably anticipated working capital and capital expenditure requirements
+        during the next 12 months. We fund our foreign expenditures from our U.S.
+        corporate headquarters on an as-needed basis.  
+
+Contractual
+        Obligations  
+
+The
+        table
+        below reflects our contractual cash obligations, expressed in thousands,
+        at
+        December 31, 2005. 
+
+Inflation,
+        Seasonality and Prevailing Economic Conditions  
+
+To
+        date,
+        inflation has not had a significant impact on our operations. We generally
+        perform work for our clients under project-specific contracts,
+        requirements-based contracts or long-term contracts. Contracts are typically
+        subject to numerous termination provisions.  
+
+Our
+        quarterly operating results are subject to certain seasonal fluctuations.
+        Our
+        fourth and first quarters include the months of December and January, when
+        billable services activity by professional staff, as well as engagement
+        decisions by clients, may be reduced due to client budget planning cycles.
+        Demand for our services generally may be lower in the fourth quarter due
+        to
+        reduced activity during the holiday season and fewer working days for our
+        Philippines-based staff during this period. These and other seasonal factors
+        may
+        contribute to fluctuations in our operating results from quarter to quarter.
+
+Critical
+        Accounting Policies and Estimates  
+
+Basis
+        of Presentation and Use of Estimates  
+
+Management s
+        discussion and analysis of its results of operations and financial condition
+        is
+        based upon our consolidated financial statements, which have been prepared
+        in
+        accordance with accounting principles generally accepted in the United States.
+        The preparation of these financial statements requires management to make
+        estimates and judgments that affect the reported amounts of assets, liabilities,
+        revenues and expenses, and related disclosure of contingent assets and
+        liabilities. On an on-going basis, we evaluate our estimates, including those
+        related to accounts receivable. Management bases its estimates on historical
+        experience and on various other assumptions that are believed to be reasonable
+        under the circumstances, the results of which form the basis for making
+        judgments about the carrying values of assets and liabilities that are not
+        readily apparent from other sources. Actual results may differ from these
+        estimates under different assumptions or conditions.  
+
+II-10 
+
+Allowance
+        for Doubtful Accounts  
+
+We
+        establish credit terms for new clients based upon management s review of their
+        credit information and project terms, and perform ongoing credit evaluations
+        of
+        our customers, adjusting credit terms when management believes appropriate
+        based
+        upon payment history and an assessment of their current credit worthiness.
+        We
+        record an allowance for doubtful accounts for estimated losses resulting
+        from
+        the inability of our clients to make required payments. We determine this
+        allowance by considering a number of factors, including the length of time
+        trade
+        accounts receivable are past due, our previous loss history, our estimate
+        of the
+        client s current ability to pay its obligation to us, and the condition of the
+        general economy and the industry as a whole. While credit losses have generally
+        been within expectations and the provisions established, we cannot guarantee
+        that credit loss rates in the future will be consistent with those experienced
+        in the past. In addition, we have credit exposure if the financial condition
+        of
+        one of our major clients were to deteriorate. In the event that the financial
+        condition of our clients were to deteriorate, resulting in an impairment
+        of
+        their ability to make payments, additional allowances may be necessary.
+
+Revenue
+        Recognition  
+
+We
+        recognize revenue for content manufacturing and outsourcing services in the
+        period in which we perform services and deliver in accordance with Staff
+        Accounting Bulletin 104.  
+
+We
+        recognize IT professional services revenue from custom application and systems
+        integration development which requires significant production, modification
+        or
+        customization of software in accordance with Statement of Position ( SOP )
+        No. 97-2     Software
+        Revenue Recognition    
+        and in a
+        manner similar to SOP No. 81-1     Accounting
+        for Performance of Construction-Type and Certain Production-Type
+        Contracts .   
+        We
+        recognize revenue for such services billed under fixed fee arrangements using
+        the percentage-of-completion method under contract accounting as we perform
+        services or reach output milestones. We measure the percentage completed
+        either
+        by the percentage of labor hours incurred to date in relation to estimated
+        total
+        labor hours or in consideration of achievement of certain output milestones,
+        depending on the specific nature of each contract. For arrangements in which
+        percentage-of completion accounting is used, we record cash receipts from
+        customers and billed amounts due from customers in excess of recognized revenue
+        as billings in excess of revenues earned on contracts in progress (which
+        is
+        included in accounts receivable). Revenues from fixed-fee projects accounted
+        for
+        less than 10% of our total revenue for each of the three years ended December
+        31, 2005, respectively. We receive revenue billed on a time and materials
+        basis
+        as we perform the services.  
+
+Property
+        and Equipment  
+
+Property
+        and equipment is stated at cost and is depreciated on the straight-line method
+        over the  
+        estimated useful lives of the related assets, which is generally two to five
+        years. Leasehold improvements are amortized on a straight-line basis over
+        the
+        shorter of their estimated useful lives or the lives of the leases. 
+
+Long-lived
+        Assets  
+
+We
+        account for long lived assets under Statement of Financial Accounting Standards
+        ( SFAS ) 144, Accounting for the Impairment or Disposal of Long Lived Assets. We
+        assess the recoverability of our long-lived assets, which consist primarily
+        of
+        fixed assets and intangible assets with finite useful lives, whenever events
+        or
+        changes in circumstance indicate that the carrying value may not be recoverable.
+        The following factors, if present, may trigger an impairment  review: 
+(i)  significant  underperformance  relative  to 
+expected historical  or  projected  future  operating 
+results; (ii) significant negative industry  or  economic 
+trends; (iii) significant decline in our stock price  for  a 
+sustained  period;  and  (iv)  a  change  in our
+        market capitalization relative to net book value. If the recoverability of
+        these
+        assets is unlikely because  of  the  existence  of one or
+        more of the above-mentioned factors,  we perform an  impairment
+        analysis using a projected discounted cash flow  method.  We must make
+        assumptions regarding estimated future cash flows and other factors to determine
+        the fair value of these respective assets. If these estimates or related
+        assumptions change in the future, we may be required to record an impairment
+        charge. Impairment charges would be included in  general  and 
+administrative  expenses  in  our statements  of
+        operations,  and  would result in reduced carrying amounts of the
+        related assets on  our balance  sheets. We did not identify or record
+        an impairment in any of our long lived assets in the three years ended December
+        31, 2005. 
+
+II-11 
+
+Income
+        Taxes  
+
+We
+        determine our deferred taxes based on the difference between the financial
+        statement and tax bases of assets and liabilities, using enacted tax rates,
+        as
+        well as any net operating loss or tax credit carryforwards expected to reduce
+        taxes payable in future years. We provide a valuation allowance when it is
+        more
+        likely than not that some or all of a deferred tax asset will not be realized.
+        Unremitted earnings of foreign subsidiaries have been included in the
+        consolidated financial statements without giving effect to the United States
+        taxes that may be payable on distribution to the United States to the extent
+        such earnings are not anticipated to be remitted to the United States.
+
+Goodwill
+        and Other Intangible Assets  
+
+SFAS
+        142
+        requires that we test goodwill for impairment using a two-step fair value
+        based
+        test. The first step of the goodwill impairment test, used to identify potential
+        impairment, compares the fair value of a reporting unit with its carrying
+        amount, including goodwill. If the carrying amount of the reporting unit
+        exceeds
+        its fair value, the second step of the goodwill impairment test must be
+        performed to measure the amount of the impairment loss, if any. If impairment
+        is
+        determined, we will recognize additional charges to operating expenses in
+        the
+        period in which they are identified, which would result in a reduction of
+        operating results and a reduction in the amount of goodwill. Our most recent
+        test for impairment was conducted as of September 30, 2005 in which the
+        estimated fair values of the reporting unit exceeded its carrying amount,
+        including goodwill. As such, no impairment was identified or
+        recorded. 
+
+Accounting
+        for Stock-Based Compensation  
+
+We
+        account for our   stock
+        options issued to employees and outside directors pursuant to Accounting
+        Principles Board Opinion ( APB ) No. 25,  Accounting for Stock Issued to
+        Employees  and has adopted the disclosure requirements of SFAS No. 123,
+ Accounting for Stock-Based Compensation , and SFAS No. 148,  Accounting for
+        Stock-Based Compensation - Transition and Disclosure - an Amendment of FASB
+        Statement No. 123 . Although at times we have recognized compensation expense
+        upon the modification of stock options, in the three years ended December
+        31,
+        2005, we have not recognized compensation expense upon the issuance of stock
+        options. 
+
+Development
+        Costs of Software   
+
+We
+        expense as research and development costs for the development of new software
+        to
+        be sold, leased, or otherwise marketed as a separate product or as part of
+        a
+        product or process, and substantial enhancements to such existing software
+        products, until technological feasibility has been established, at which
+        time
+        any additional development costs are capitalized until the product is available
+        for general release to customers.  We expense all other research and
+        development costs as incurred. 
+
+We
+        did
+        not capitalize any software development costs during the three years ended
+        December 31, 2005.  Included in the selling and administrative expense are
+        research and development costs totaling approximately $770,000 for the year
+        ended December 31, 2005. 
+
+II-12 
+
+Significant
+        New Accounting Pronouncements Not Yet Adopted  
+
+In
+        December 2004, the FASB issued SFAS No. 123 (R),   Share-Based
+        Payment,   which is a revision of SFAS No. 123 and supersedes Accounting
+        Principles Board ( APB ) Opinion No. 25.
+        SFAS No. 123 (R) requires all share-based payments to
+        employees, including grants of employee stock options, to be valued at fair
+        value on the date of grant, and to be expensed over the applicable vesting
+        period. Pro forma disclosure of the income statement effects of share-based
+        payments is no longer an alternative. SFAS No. 123 (R) is
+        effective as of the beginning of the next fiscal year that begins after June
+        15,
+        2005. For the Company, SFAS 123 (R) is effective as of January 1, 2006. In
+        addition, companies must also recognize compensation expense related to any
+        awards that are not fully vested as of the effective date. Compensation expense
+        for the unvested awards will be measured based on the fair value of the awards
+        previously calculated in developing the pro forma disclosures in accordance
+        with
+        the provisions of SFAS No. 123. We expect that the adoption of SFAS No. 123
+        (R) will result in increased compensation expense for stock options granted
+        through December 31, 2005 of approximately $200,000 in 2006. 
+
+In
+        May
+        2005, the FASB issued SFAS No. 154,  Accounting Changes and Error Corrections 
+( SFAS 154 ), which replaces APB Opinion No. 20,  Accounting Changes  ( APB 20 )
+        and FASB Statement No. 3,  Reporting Accounting Changes in Interim Financial
+        Statements  ( SFAS 3 ). APB 20 required that changes in accounting principles be
+        recognized by including the cumulative effect of the change in the period
+        in
+        which the new accounting principle was adopted. SFAS 154 requires retrospective
+        application of the change to prior periods  financial statements, unless it is
+        impracticable to determine the period-specific effects of the change. SFAS
+        154
+        also provides that a change in method of depreciating or amortizing a long-lived
+        non-financial asset be accounted for as a change in estimate effected by
+        a
+        change in accounting principle, and also provides that correction of errors
+        in
+        previously issued financial statements should be termed a  restatement.  SFAS
+        154 is effective as of the beginning of the next fiscal year that begins
+        after
+        December 15, 2005. For the Company, SFAS 154 is effective as of January 1,
+        2006.
+        We do not believe the adoption of this statement will have an impact on our
+        consolidated financial statements. 
+
+Item
+        7A. Quantitative and Qualitative Disclosures About Market
+        Risk.  
+
+We
+        are
+        exposed to interest rate change market risk with respect to our credit line
+        with
+        a financial institution which is priced based on the bank s alternate base rate
+        (7.25% at December 31, 2005) plus  % or LIBOR (4.4375% at December 31, 2005)
+        plus 3%. We have not borrowed under this line in 2005. To the extent we utilize
+        all or a portion of this line of credit, changes in the interest rate will
+        have
+        a positive or negative effect on our interest expense.  
+
+We
+        have
+        operations in foreign countries. While we are exposed to foreign currency
+        fluctuations, we presently have no financial instruments in foreign currency
+        and
+        do not maintain significant funds in foreign currency beyond those necessary
+        for
+        operations.  
+
+II-13 
+
+Item
+        8. Financial Statements.  
+
+INNODATA
+        ISOGEN, INC. AND SUBSIDIARIES     
+
+         INDEX
+        TO FINANCIAL STATEMENTS  
+
+II-14 
+
+REPORT
+        OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM  
+
+Board
+        of
+        Directors and Stockholders of 
+
+        Innodata
+        Isogen, Inc.  
+
+We
+        have
+        audited the accompanying consolidated balance sheets of Innodata
+        Isogen, Inc. and subsidiaries as of December 31, 2005 and 2004, and
+        the related consolidated statements of operations, stockholders  equity and cash
+        flows for each of the three years in the period ended December 31, 2005.
+        These financial statements are the responsibility of the Company s management.
+        Our responsibility is to express an opinion on these financial statements
+        based
+        on our audits.  
+
+We
+        conducted our audits in accordance with the standards of the Public Company
+        Accounting Oversight Board (United States). Those standards require that
+        we plan
+        and perform the audit to obtain reasonable assurance about whether the financial
+        statements are free of material misstatement.   The
+        Company is not required to have, nor were we engaged to perform an audit
+        of its
+        internal control over financial reporting. Our audits included consideration
+        of
+        internal control over financial reporting as a basis for designing audit
+        procedures that are appropriate in the circumstances, but not for the purpose
+        of
+        expressing an opinion on the effectiveness of the Company s internal control
+        over financial reporting. Accord  ingly
+        we
+        express no such opinion.     An
+        audit
+        includes examining, on a test basis, evidence supporting the amounts and
+        disclosures in the financial statements. An audit also includes assessing
+        the
+        accounting principles used and significant estimates made by management,
+        as well
+        as evaluating the overall financial statement presentation. We believe that
+        our
+        audits provide a reasonable basis for our opinion.  
+
+In
+        our
+        opinion, the financial statements referred to above present fairly, in all
+        material respects, the consolidated financial position of Innodata
+        Isogen, Inc. and subsidiaries as of December 31, 2005 and 2004, and
+        the consolidated results of their operations and their consolidated cash
+        flows
+        for each of the three years in the period ended December 31, 2005 in
+        conformity with accounting principles generally accepted in the United States
+        of
+        America.  
+
+Our
+          audit
+          was conducted for the purpose of forming an opinion on the basic financial
+          statements taken as a whole. The Schedule II    Valuation and Qualifying
+          Accounts  is presented for purposes of additional analysis and is not a
+          required part of the basic financial statements. This schedule has been
+          subjected to the auditing procedures applied in the audit of the basic
+          financial
+          statements and, in our opinion, is fairly stated in all material respects
+          in
+          relation to the basic financial statements taken as a whole. 
+
+II-15 
+
+INNODATA
+        ISOGEN, INC. AND SUBSIDIARIES  
+
+         CONSOLIDATED
+        BALANCE SHEETS  
+
+         DECEMBER
+        31, 2005 AND 2004  
+
+         (Dollars
+        in Thousands)  
+
+See
+          notes
+          to consolidated financial statements 
+
+II-16 
+
+INNODATA
+      ISOGEN, INC. AND SUBSIDIARIES  
+
+       CONSOLIDATED
+      STATEMENTS OF OPERATIONS  
+
+       YEARS
+      ENDED DECEMBER 31, 2005, 2004 AND 2003  
+
+       (In
+      thousands, except per share amounts)  
+
+See
+      notes
+      to consolidated financial statements 
+
+II-17 
+
+INNODATA
+        ISOGEN, INC. AND SUBSIDIARIES  
+
+         CONSOLIDATED
+        STATEMENT OF STOCKHOLDERS  EQUITY  
+
+         YEARS
+        ENDED DECEMBER 31, 2005, 2004 AND 2003  
+
+         (In
+        thousands)  
+
+See
+        notes
+        to consolidated financial statements 
+
+II-18 
+
+INNODATA
+        ISOGEN INC. AND SUBSIDIARIES  
+
+         CONSOLIDATED
+        STATEMENTS OF CASH FLOWS  
+
+         YEARS
+        ENDED DECEMBER 31, 2005, 2004 AND 2003  
+
+         (In
+        thousands)  
+
+See
+        notes
+        to consolidated financial statements 
+
+II-19 
+
+INNODATA
+        ISOGEN, INC. AND SUBSIDIARIES  
+
+         NOTES
+        TO CONSOLIDATED FINANCIAL STATEMENTS   
+
+         YEARS
+        ENDED DECEMBER 31, 2005, 2004 AND 2003  
+
+1.  
+
+DESCRIPTION
+                  OF BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING
+                  POLICIES  
+
+Description
+        of Business-   Innodata
+        Isogen, Inc. and subsidiaries (the  Company ), is a leading provider of
+        business services that help organizations create, manage, use and distribute
+        information more effectively and economically. The Company provides outsourced
+        content services and content-related information technology (IT) professional
+        services. The Company s outsourced content services focus on fabrication
+        services and knowledge services. Fabrication services include digitization
+        and
+        data conversion services, content creation and XML services. Knowledge services
+        include content enhancement, hyperlinking, indexing and general editorial
+        services. The Company s IT professional services focus on the design,
+        implementation, integration and deployment of systems used to author, manage
+        and
+        distribute content.  
+
+Principles
+        of Consolidation   -The
+        consolidated financial statements include the accounts of Innodata Isogen,
+        Inc.
+        and its subsidiaries, all of which are wholly owned. All significant
+        intercompany transactions and balances have been eliminated in consolidation.
+
+Use
+        of Estimates   -In
+        preparing financial statements in conformity with accounting principles
+        generally accepted in the United States of America, management is required
+        to
+        make estimates and assumptions that affect the reported amounts of assets
+        and
+        liabilities, and the disclosure of contingent assets and liabilities at the
+        date
+        of the financial statements, and the reported amounts of revenues and expenses
+        during the reporting period. Actual results could differ from those estimates.
+
+Revenue
+        Recognition   -Revenue
+        for content manufacturing and outsourcing services is recognized in the period
+        in which services are performed and delivery has occurred in accordance with
+        Staff Accounting Bulletin 104.  
+
+The
+        Company recognizes its IT professional services revenues from custom application
+        and systems integration development which requires significant production,
+        modification or customization of software in accordance with Statement of
+        Position ( SOP ) No. 97-2     Software
+        Revenue Recognition    
+        and in a
+        manner similar to SOP No. 81-1     Accounting
+        for Performance of Construction-Type and Certain Production-Type
+        Contracts .   
+        Revenue
+        from such services billed under fixed fee arrangements is recognized using
+        the
+        percentage-of-completion method under contract accounting as services are
+        performed or output milestones are reached. The percentage completed is measured
+        either by the percentage of labor hours incurred to date in relation to
+        estimated total labor hours or in consideration of achievement of certain
+        output
+        milestones, depending on the specific nature of each contract. For arrangements
+        in which percentage-of completion accounting is used, the Company records
+        cash
+        receipts from customers and billed amounts due from customers in excess of
+        recognized revenue as billings in excess of revenues earned on contracts
+        in
+        progress (which is included in accounts receivable). Revenues from fixed-fee
+        projects accounted for less than 10% of our total revenue for each of the
+        three
+        years ended December 31, 2005, 2004 and 2003. Revenue billed on a time and
+        materials basis is recognized as services are performed.  
+
+Foreign
+        Currency   -The
+        functional currency for the Company s production operations located in the
+        Philippines, India and Sri Lanka is U.S. dollars. As such, transactions
+        denominated in Philippine pesos, Indian and Sri Lanka rupees were translated
+        to
+        U.S. dollars at rates which approximate those in effect on transaction dates.
+        Monetary assets and liabilities denominated in foreign currencies at
+        December 31, 2005 and 2004 were translated at the exchange rate in effect
+        as of those dates. Exchange gains and losses resulting from such transactions
+        were not material in 2005, 2004 and 2003.  
+
+Cash
+        Equivalents-   For
+        financial statement purposes (including cash flows), the Company considers
+        all
+        highly liquid debt instruments purchased with an original maturity of three
+        months or less to be cash equivalents.  
+
+II-20 
+
+Property
+        and Equipment-   Property
+        and equipment is stated at cost and is depreciated on the straight-line method
+        over the estimated useful lives of the related assets, which is generally
+        two to
+        five years. Leasehold improvements are amortized on a straight-line basis
+        over
+        the shorter of their estimated useful lives or the lives of the
+        leases. 
+
+Long-lived
+        Assets   -The
+        Company accounts for long lived assets under Statement of Financial Accounting
+        Standards ( SFAS ) 144, Accounting for the Impairment or Disposal of Long Lived
+        Assets. Management assesses the recoverability of its long-lived assets,
+        which
+        consist primarily of fixed assets and intangible assets with finite useful
+        lives, whenever events or changes in circumstance indicate that the carrying
+        value may not be recoverable. The following factors, if present, may trigger
+        an
+        impairment  review:  (i)  significant 
+underperformance  relative  to  expected historical 
+or  projected  future  operating  results; (ii) significant
+        negative industry  or  economic  trends; (iii) significant
+        decline in the Company s stock price  for  a  sustained 
+period;  and  (iv)  a  change  in the Company s market
+        capitalization relative to net book value. If the recoverability of these
+        assets
+        is unlikely because of the  existence  of one or more of the
+        above-mentioned factors,  an  impairment analysis is performed using a
+        projected discounted cash flow  method.  Management must make
+        assumptions regarding estimated future cash flows and other factors to determine
+        the fair value of these respective assets. If these estimates or related
+        assumptions change in the future, the Company may be required to record an
+        impairment charge. Impairment charges would be included in  general 
+and  administrative  expenses  in  the  Company s 
+statements  of operations,  and  would result in reduced carrying
+        amounts of the related assets on  the  Company s  balance 
+sheets. No impairment was identified or recorded in the three years ended
+        December 31, 2005. 
+
+Goodwill
+        and Other Intangible Assets-   Goodwill
+        primarily includes the excess purchase price paid over the fair value of
+        net
+        assets acquired. Effective July 1, 2002, the Company adopted SFAS No. 142,
+         Goodwill and Other Intangible Assets.  Under SFAS 142, the Company tests its
+        goodwill on an annual basis using a two-step fair value based test. The first
+        step of the goodwill impairment test, used to identify potential impairment,
+        compares the fair value of a reporting unit, with its carrying amount, including
+        goodwill. If the carrying amount of the reporting unit exceeds its fair value,
+        the second step of the goodwill impairment test must be performed to measure
+        the
+        amount of the impairment loss, if any. If impairment is determined, the Company
+        will recognize additional charges to operating expenses in the period in
+        which
+        they are identified, which would result in a reduction of operating results
+        and
+        a reduction in the amount of goodwill. In the annual impairment test conducted
+        by the Company on September 30, 2005, the estimated fair values of the reporting
+        unit exceeded its carrying amount, including goodwill. As such, no impairment
+        was identified or recorded. 
+
+Income
+        Taxes   -Deferred
+        taxes are determined based on the difference between the financial statement
+        and
+        tax bases of assets and liabilities, using enacted tax rates, as well as
+        any net
+        operating loss or tax credit carryforwards expected to reduce taxes payable
+        in
+        future years. A valuation allowance is provided when it is more likely than
+        not
+        that some or all of a deferred tax asset will not be realized. Unremitted
+        earnings of foreign subsidiaries for the three years ended December 31, 2005,
+        have been included in the consolidated financial statements without giving
+        effect to the United States taxes that may be payable on distribution to
+        the
+        United States to the extent such earnings are not anticipated to be remitted
+        to
+        the United States.  
+
+Accounting
+        for Stock-Based Compensation   -  The
+        Company accounts for its stock options issued to employees and outside directors
+        pursuant to Accounting Principles Board Opinion ( APB ) No. 25,  Accounting for
+        Stock Issued to Employees  and has adopted the disclosure requirements of SFAS
+        No. 123,  Accounting for Stock-Based Compensation , and SFAS No. 148,
+ Accounting for Stock-Based Compensation - Transition and Disclosure - an
+        Amendment of FASB Statement No. 123 . Although at times compensation expense has
+        been recognized upon the modification of stock options, in the three years
+        ended
+        December 31, 2005, no compensation expense has been recognized upon
+        the issuance of stock options. 
+
+The
+        following table illustrates the effect on net income (loss) and earnings
+        (loss)
+        per share if the Company had applied the fair value recognition provisions
+        of
+        SFAS No. 123 to stock-based employee compensation using the assumptions
+        described in note 8, stock options.  
+
+II-21 
+
+Fair
+        Value of Financial Instruments   -  The
+        carrying amounts of financial instruments, including cash and cash equivalents,
+        accounts receivable and accounts payable approximated fair value as of December
+        31, 2005 and 2004 because of the relative short maturity of these instruments.
+        The carrying amounts of long term obligations approximated their fair value
+        as
+        of December 31, 2005 and 2004 based upon rates currently available to the
+        Company. 
+
+Accounts
+        Receivable   -The
+        majority of the Company s accounts receivable are due from secondary publishers
+        and information providers. The Company establishes credit terms for new clients
+        based upon management s review of their credit information and project terms,
+        and performs ongoing credit evaluations of its customers, adjusting credit
+        terms
+        when management believes appropriate based upon payment history and an
+        assessment of their current credit worthiness. The Company records an allowance
+        for doubtful accounts for estimated losses resulting from the inability of
+        its
+        clients to make required payments. The Company determines its allowance by
+        considering a number of factors, including the length of time trade accounts
+        receivable are past due (accounts outstanding longer than the payment terms
+        are
+        considered past due), the Company s previous loss history, the client s current
+        ability to pay its obligation to the Company, and the condition of the general
+        economy and the industry as a whole. While credit losses have generally been
+        within expectations and the provisions established, the Company cannot guarantee
+        that credit loss rates in the future will be consistent with those experienced
+        in the past. In addition, there is credit exposure if the financial condition
+        of
+        one of the Company s major clients were to deteriorate. In the event that the
+        financial condition of the Company s clients were to deteriorate, resulting in
+        an impairment of their ability to make payments, additional allowances may
+        be
+        necessary.  
+
+Concentration
+        of Credit Risk   -The
+        Company maintains its cash with high quality financial   i  nstitutions,
+        located primarily in the United States. To the extent that such cash exceeds
+        the
+        maximum insurance levels, the Company is uninsured. The Company has not
+        experienced any losses in such accounts. 
+
+Income
+        (Loss) Per Share   -  
+        Basic
+        earnings (loss) per share is computed by dividing income (loss) available
+        to
+        common shareholders by the weighted-average number of common shares outstanding
+        during the period. Diluted earnings (loss) per share is computed by dividing
+        income (loss) available to common shareholders by the weighted-average number
+        of
+        common shares outstanding during the period increased to include the number
+        of
+        additional common shares that would have been outstanding if the dilutive
+        potential common shares had been issued. The dilutive effect of the outstanding
+        options is reflected in diluted earnings (loss) per share by application
+        of the
+        treasury stock method. Diluted net loss per share for 2005 does not include
+        potential common shares derived from stock options because as a result of
+        the
+        Company incurring losses, their effect would have been
+        antidilutive. 
+
+II-22 
+
+Development
+        Costs for Software-   C  osts
+        for
+        the development of new software to be sold, leased, or otherwise marketed
+        as a
+        separate product or as part of a product or process, and substantial
+        enhancements to such existing software products, are expensed as research
+        and
+        development costs as incurred until technological feasibility has been
+        established, at which time any additional development costs are capitalized
+        until the product is available for general release to customers.  All other
+        research and development costs are expensed as incurred. 
+
+No
+        software development costs were capitalized during the three years ended
+        December 31, 2005.  Included in the selling and administrative expense are
+        research and development costs totaling approximately $770,000 for the year
+        ended December 31, 2005. 
+
+New
+        Accounting Pronouncements:  
+
+In
+        December 2004, the FASB issued SFAS No. 123 (R),   Share-Based
+        Payment  , which is a revision of SFAS No. 123 and supersedes Accounting
+        Principles Board ( APB ) Opinion No. 25. SFAS
+        No. 123 (R) requires all share-based payments to employees,
+        including grants of employee stock options, to be valued at fair value on
+        the
+        date of grant, and to be expensed over the applicable vesting period. Pro
+        forma
+        disclosure of the income statement effects of share-based payments is no
+        longer
+        an alternative. SFAS No. 123 (R) is effective as of the beginning of the
+        next
+        fiscal year that begins after June 15, 2005. For the Company, SFAS 123 (R)
+        is
+        effective as of January 1, 2006. In addition, companies must also recognize
+        compensation expense related to any awards that are not fully vested as of
+        the
+        effective date. Compensation expense for the unvested awards will be measured
+        based on the fair value of the awards previously calculated in developing
+        the
+        pro forma disclosures in accordance with the provisions of SFAS No. 123.
+        The Company expects its adoption of SFAS No. 123 (R) will result in increased
+        compensation expense for stock options granted through December 31, 2005
+        of
+        approximately $200,000 in 2006. 
+
+In
+        May
+        2005, the FASB issued SFAS No. 154,  Accounting Changes and Error Corrections 
+( SFAS 154 ), which replaces APB Opinion No. 20,  Accounting Changes  ( APB 20 )
+        and FASB Statement No. 3,  Reporting Accounting Changes in Interim Financial
+        Statements  ( SFAS 3 ). APB 20 required that changes in accounting principles be
+        recognized by including the cumulative effect of the change in the period
+        in
+        which the new accounting principle was adopted. SFAS 154 requires retrospective
+        application of the change to prior periods  financial statements, unless it is
+        impracticable to determine the period-specific effects of the change. SFAS
+        154
+        also provides that a change in method of depreciating or amortizing a long-lived
+        non-financial asset be accounted for as a change in estimate effected by
+        a
+        change in accounting principle, and also provides that correction of errors
+        in
+        previously issued financial statements should be termed a  restatement.  SFAS
+        154 is effective as of the beginning of the next fiscal year that begins
+        after
+        December 15, 2005. For the Company, SFAS 154 is effective as of January 1,
+        2006.
+        The Company does not believe the adoption of this statement will have an
+        impact
+        on its consolidated financial statements. 
+
+II-23 
+
+2.  
+
+PROPERTY AND
+                EQUIPMENT   
+
+Property
+        and equipment, stated at cost less accumulated depreciation and amortization
+        (in
+        thousands), consist of the following: 
+
+Depreciation
+        expense was approximately $2,561,000, $3,120,000 and $3,807,000 for each
+        of the
+        three years ended December 31, 2005, respectively.  
+
+In
+        2003,
+        the Company entered into a three year lease for certain equipment located
+        in one
+        of its Philippine facilities. The equipment was capitalized at its fair market
+        value of approximately $641,000, which represented the present value of the
+        minimum lease payments plus trade-in value of exchanged equipment of $175,000.
+        The loss on such trade-in approximated $58,000. In 2004, the Company entered
+        into another three year lease agreement for certain equipment located in
+        one of
+        its India facilities. The equipment was capitalized at its fair market value
+        of
+        approximately $66,000 which represented the present value of the minimum
+        lease
+        payments. 
+
+At
+        December 31, 2005 and 2004, equipment under capital leases had a net book
+        value
+        of approximately $209,000 and $435,000 respectively. 
+
+3.  
+
+INCOME
+                  TAXES  
+
+The
+        significant components of the provision for (benefit from) income taxes for
+        each
+        of the three years ended December 31, 2005, 2004 and 2003 (in
+        thousands) are as follows:  
+
+II-24 
+
+The
+        reconciliation of the U.S. statutory rate with the Company s effective tax rate
+        for each of the three years ended December 31, 2005 is summarized as
+        follows:  
+
+During
+        each of the three years ended December 31, 2005, 2004 and 2003 tax benefits
+        related to stock option exercises were $334,000, $358,000 and $132,000,
+        respectively. Such benefits were recorded as a reduction of income taxes
+        payable
+        and an increase in additional paid-in capital. 
+
+Deferred
+        tax assets and liabilities are classified as current or non-current according
+        to
+        the classification of the related asset or liability. Significant components
+        of
+        the Company s deferred tax assets and liabilities as of December 31, 2005 and
+        2004 are as follows (in thousands): 
+
+II-25 
+
+In
+        assessing the realization of deferred tax assets, management considers whether
+        it is more likely than not that all or some portion of the deferred tax assets
+        will not be realized. The ultimate realization of the deferred tax assets
+        is
+        dependent upon the generation of future taxable income during the periods
+        in
+        which temporary differences are deductible and net operating losses are
+        utilized. Based on a consideration of these factors, the Company has established
+        a valuation allowance of approximately $1,127,000 and $105,000 at
+        December 31, 2005 and 2004, respectively. 
+
+United
+        States and foreign components of (loss) income before income taxes for each
+        of
+        the three years ended December 31, 2005, 2004 and 2003 (in thousands) are
+        as follows:  
+
+Certain
+        of the Company s foreign subsidiaries are subject to tax holidays for various
+        periods ranging from 2005 to 2014, pursuant to which the income tax rate
+        for
+        these subsidiaries is substantially reduced. Unless renewed, as the tax holidays
+        expire, the Company s overall effective tax rate will be negatively impacted.
+        The tax benefit for tax holidays was approximately $500,000, $800,000 and
+        $300,000 for each of the three years ended December 31, 2005, 2004 and
+        2003, respectively. 
+
+The
+        Company has U.S. Federal net operating loss carryforwards available of
+        approximately $3 million which will expire in 2025. 
+
+In
+        August
+        2004, the Internal Revenue Service ( IRS ) promulgated regulations, effective
+        August 12, 2004, that treated certain of the Company s subsidiaries that are
+        incorporated in foreign jurisdictions and also domesticated as Delaware limited
+        liability companies as U.S. corporations for U.S. federal income tax purposes.
+        In the preamble to such regulations, the IRS expressed its view that dual
+        registered companies described in the preceding sentence are also treated
+        as
+        U.S. corporations for U.S. federal income tax purposes for periods prior
+        to
+        August 12, 2004. On January 30, 2006, the IRS issued its final regulations,
+        stating that neither the temporary regulations nor these final regulations
+        are
+        retroactive. The earliest date that any entity is subject to these regulations
+        is August 12, 2004. For periods prior to the date these final regulations
+        apply
+        (i.e., prior to August 12, 2004), the classification of dually chartered
+        entities is governed by the pre-existing regulations. The Company believes
+        that
+        its historic treatment of these subsidiaries as not having been required
+        to pay
+        taxes in the United States for the period prior to August 12, 2004 is correct,
+        and would vigorously defend its treatment if challenged. As such, the Company
+        has made no provision for U.S. taxes in its financial statements for these
+        entities for the periods prior to August 12, 2004. Furthermore, the Company
+        cannot be assured that the IRS will not assert other positions with respect
+        to
+        the foregoing matters that, if successful, could increase materially the
+        Company s liability for U.S. federal income taxes. In December 2004, the Company
+        effected certain filings in Delaware to ensure that these subsidiaries will
+        not
+        be treated as U.S. corporations for U.S. federal income tax purposes as of
+        the
+        date of filing and as such, were not subject to U.S. federal income taxes
+        commencing January 1,   2005. 
+
+4.  
+
+LONG
+                  TERM OBLIGATIONS  
+
+In
+        2005,
+        the Company entered into an agreement with a vendor to acquire certain
+        additional software licenses and to receive support and subsequent software
+        upgrades on this and other currently owned software licenses through February
+        2008. Pursuant to the agreement, the Company paid $528,000 as of
+        December 31, 2005, and will make eight payments of approximately
+        $132,000 per quarter thereafter, commencing in March 2006.  
+
+II-26 
+
+The total cost (in thousands) was allocated to the
+          following
+          asset accounts: 
+
+The
+        current portion of the obligation totaling approximately $528,000 is included
+        on
+        the balance sheet under current portion of long term obligations. The remaining
+        long-term portion is reflected as a long-term obligation. Also included in
+        long-term obligations are long-term capital lease obligations totaling
+        $20,000. 
+
+Long
+        term
+        obligations (including capital lease obligations totaling $155,000) are payable
+        as follows (amounts in thousands): 
+
+The
+        total
+        obligation and associated cost totaling $1,583,000 is considered a 2005 non-cash
+        investing and financing activity. 
+
+5.  
+
+COMMITMENTS
+                  AND CONTINGENT LIABILITIES  
+
+Line
+        of Credit   -The
+        Company has a $5 million line of credit pursuant to which it may borrow up
+        to 80% of eligible accounts receivable at the bank s alternate base rate plus  %
+        or LIBOR plus 3%. The line, which expires in May 2006, is secured by the
+        Company s accounts receivable. The Company did not borrow against its credit
+        line in 2005.  
+
+Leases   -The
+        Company is obligated under various operating lease agreements for office
+        and
+        production space. Certain agreements contain escalation clauses and requirements
+        that the Company pay taxes, insurance and maintenance costs. Company leases
+        that
+        include escalated lease payments are straight-lined over the non-cancelable
+        base
+        lease period in accordance with SFAS 13.  
+
+Lease
+        agreements for production space in most overseas facilities, which expire
+        through 2030, contain provisions pursuant to which the Company may cancel
+        the
+        leases with a minimal notice period, generally subject to forfeiture of security
+        deposit. The annual rental for the cancelable leased space in 2005 is
+        approximately $1,390,000. For the years ended December 31, 2005, 2004 and
+        2003, rent expense, principally for office and production space, totaled
+        approximately $1,956,000, $1,725,000 and $1,700,000, respectively.  
+
+In
+        addition, the Company leases certain equipment under short-term capital and
+        operating lease agreements. For each of the three years ended December 31,
+        2005, rent expense for equipment totaled approximately $71,000, $47,000 and
+        $36,000, respectively.  
+
+II-27 
+
+At
+        December 31, 2005, future minimum annual rental commitments on
+        non-cancelable leases (excluding operating leases with terms less than one
+        year)
+        (in thousands) are as follows:   
+
+In
+        connection with the relocation of the Company s Dallas office, the lessor agreed
+        to pay approximately $250,000 as incentive to terminate the lease prior to
+        its
+        contractual expiration date. In connection with this transaction, the Company
+        will recognize income of approximately $250,000 in the first quarter of
+        2006. 
+
+Litigation
+           -In
+        connection with the cessation of all operations at certain foreign subsidiaries,
+        certain former employees have filed various actions against certain of the
+        Company s Philippine subsidiaries, and have purported to also sue the Company
+        and certain of its officers and directors, seeking to require reinstatement
+        of
+        employment and to recover back wages for an allegedly illegal facility closing
+        on June 7, 2002 based on the terms of a collective bargaining agreement with
+        this subsidiary. If the complainants  claims have merit, they could be entitled
+        to back wages of up to $5.0 million for the period from June 7, 2002 to June
+        6,
+        2005, consistent with prevailing jurisprudence. Based upon consultation with
+        legal counsel, management believes the claims are without merit and is defending
+        against them vigorously. 
+
+In
+        addition, the Company is subject to various legal proceedings, tax audits
+        and
+        claims which arise in the ordinary course of business. 
+
+While
+        management currently believes that the ultimate outcome of all these proceedings
+        will not have a material adverse effect on the Company s financial position or
+        overall trends in results of operations, litigation is subject to inherent
+        uncertainties. Were an unfavorable ruling to occur, there exists the possibility
+        of a material adverse impact on the operating results of the period in which
+        the
+        ruling occurs. In addition, the estimate of potential impact on the Company s
+        financial position or overall results of operations for the above legal
+        proceedings could change in the future.  
+
+Foreign
+        Currency   -The
+        Company s production facilities are located in the Philippines, India and Sri
+        Lanka. To the extent that the currencies of these countries fluctuate, the
+        Company is subject to risks of changing costs of production after pricing
+        is
+        established for certain customer projects. However, most significant contracts
+        contain provisions for price renegotiation.  
+
+Employment
+        Agreements   -On
+        January 1, 2004, the Company entered into a four year employment agreement
+        with the co-founder of ISOGEN, an entity the Company acquired in 2001, to
+        serve
+        as an executive vice president of the Company. Pursuant to the agreement,
+        he
+        will be compensated at a rate of $250,000 per annum for the first year, subject
+        to annual review for discretionary annual increases thereafter, and will
+        be
+        eligible to receive an annual cash bonus, the amount of which will be based
+        upon
+        meeting certain goals. In addition, on November 10, 2003, he was granted an
+        option to purchase 200,000 shares of the Company s common stock at $3.35 per
+        share. In connection with his previous employment agreement, in 2002 the
+        executive was granted an option to purchase 150,000 shares of the Company s
+        common stock at $4.00 per share, and was issued 11,587 unregistered shares
+        of
+        the Company s common stock. 
+
+II-28 
+
+In
+        December 2005, the Company entered into a three year employment agreement
+        with
+        its Chief Financial Officer. The agreement provides for annual base compensation
+        of $300,000, plus additional short term incentive compensation conditioned
+        on
+        the attainment of certain quantity and quality objectives to be established
+        by
+        the Compensation Committee of the Board of Directors. The agreement also
+        provides for insurance and other fringe benefits, and contains confidentiality
+        and non-compete and non-interference provisions. In addition, the Company
+        granted 250,000 fully vested options to purchase 250,000 shares of the Company's
+        common stock ("Option Shares") at an exercise price of $3.28 per share. The
+        options expire on the earlier of (i) December 21, 2015, (ii) 60 days after
+        employment ceases or (iii) 12 months following the termination of employment
+        as
+        a result of his death or disability. Furthermore, no Option Shares may be
+        sold
+        during the first year after the date of grant; no more than 25% of the Option
+        Shares may be sold during the second year after the date of grant; no more
+        than
+        50% of the Option Shares may be sold during the second and third years after
+        the
+        date of grant, and no more than 75% of the Option Shares may be sold during
+        the
+        second, third and fourth years after the date of grant. No restrictions on
+        sales
+        apply after the fourth anniversary of the date of grant.    
+
+Indemnifications   -The
+        Company is obligated under certain circumstances to indemnify directors and
+        certain officers against costs and liabilities incurred in actions or threatened
+        actions brought against such individual because such individuals acted in
+        the
+        capacity of director and/or officer of the Company. In addition, the Company
+        has
+        contracts with certain clients pursuant to which the Company has agreed to
+        indemnify the client for certain specified and limited claims. These
+        indemnification obligations are in the ordinary course of business and, in
+        many
+        cases, do not include a limit on potential maximum future payments. As of
+        December 31, 2005, the Company has not recorded a liability for any
+        obligations arising as a result of these indemnifications.  
+
+Liens   -In
+        connection with the procurement of tax incentives at one of the company s
+        foreign subsidiaries, the foreign zoning authority was granted a first lien
+        on
+        the subsidiary s property and equipment. As of December 31, 2005, such
+        equipment had a book value of $690,000.  
+
+6.  
+
+PENSION
+                  BENEFITS       
+
+U.S.
+        Defined Contribution Pension Plan-   The
+        Company has a defined contribution plan qualified under Section 401(k) of
+        the Internal Revenue Code, pursuant to which substantially all of
+        its U.S. employees are eligible to participate after completing six months
+        of
+        service. Participants may elect to contribute a portion of their compensation
+        to
+        the plan. Under the plan, the Company has the discretion to match a portion
+        of
+        participants      contributions.
+        The Company intends to match approximately $71,000 to the plan for the fiscal
+        year ended December 31, 2005.  For the fiscal years ended December 31, 2004
+        and 2003, the Company s matching contributions were approximately $75,000 and
+        $48,000 respectively. 
+
+Non-U.S.
+        Pension benefits -    Most
+        of
+        the Company s non-U.S. subsidiaries provide for government mandated, defined
+        pension benefits. For certain of these subsidiaries, vested eligible employees
+        are provided a lump sum payment upon retiring from the Company at a defined
+        age.
+        The lump sum amount is based on the salary and tenure as of retirement date.
+        Other non-U.S subsidiaries provide for a lump sum payment to vested employees
+        on
+        retirement, death, incapacitation or termination of employment, based upon
+        the
+        salary and tenure as of the date employment ceases. The liability for such
+        defined benefit obligations is determined and provided on the basis of actuarial
+        valuations as of December 31, 2005. Pension expenses for foreign subsidiaries
+        totaled approximately $251,000, $228,000 and $124,000 for each of the three
+        years ended December 31, 2005, 2004 and 2003, respectively.  
+
+Included
+        in accrued salary, wages and related benefits as of December 31, 2005 and
+        2004
+        are accrued pension liabilities related to the above unfunded plans totaling
+        approximately $493,000 and $327,000 respectively. 
+
+II-29 
+
+The
+        following table sets out the status of the non-U.S pension benefits and the
+        amounts (in thousands) recognized in the Company s consolidated financial
+        statements. Amounts for 2003 are not significant and as such, have been
+        excluded: 
+
+Benefit
+        obligations:  
+
+Components
+        of Net Periodic Pension Cost:  
+
+Unrecognized
+        Actuarial Loss/ (Gain):  
+
+Experience
+        gains and losses and effects of changes in actuarial assumptions are carried
+        forward and amortized over a period no longer than the average future service
+        of
+        employees. 
+
+The
+        following table sets out the unrecognized actuarial gain/(loss) (in thousands),
+        as of December, 31 2005. 
+
+Actuarial
+        assumptions for all non-U.S. plans are described below. The discount rates
+        are
+        used to measure the year end benefit obligations and the earnings effects
+        for
+        the subsequent year. 
+
+II-30 
+
+Estimated
+        Future Benefit Payments:  
+
+The
+        following benefit payments (in thousands), which reflect expected future
+        service, as appropriate, are expected to be paid: 
+
+7.  
+
+CAPITAL
+                  STOCK  
+
+T  he Company is
+        authorized to issue 75,000,000 shares of common stock and 5,000,000 shares
+        of
+        preferred stock. Each share of common stock has one vote.   The
+        Board
+        of Directors is authorized to fix the terms, rights, preferences and limitations
+        of the preferred stock and to issue the preferred stock in series which differ
+        as to their relative terms, rights, preferences and limitations.  
+
+Stockholder
+        Rights Plan   -On
+        December 16, 2002, the Board of Directors adopted a Stockholder Rights Plan
+        ( Rights Plan ) in which one right ( Right ) was declared as a dividend for each
+        share of the Company s common stock outstanding. The purpose of the plan is to
+        deter a hostile takeover of the Company. Each Right entitles its holders
+        to
+        purchase, under certain conditions, one one-thousandth of a share of newly
+        authorized Series C Participating Preferred Stock ( Preferred Stock ), with
+        one one-thousandth of a share of Preferred Stock intended to be the economic
+        and
+        voting equivalent of one share of the Company s common stock. Rights will be
+        exercisable only if a person or group acquires beneficial ownership of 15%
+        (25%
+        in the case of specified executive officers of the Company) or more of the
+        Company s common stock or commences a tender or exchange offer, upon the
+        consummation of which such person or group would beneficially own such
+        percentage of the common stock. Upon such an event, the Rights enable dilution
+        of the acquiring person s or group s interest by providing that other holders of
+        the Company s common stock may purchase, at an exercise price of $4.00, the
+        Company s common stock having a market value of $8.00 based on the then market
+        price of the Company s common stock, or at the discretion of the Board of
+        Directors, Preferred Stock, having double the value of such exercise price.
+        The
+        Company will be entitled to redeem the Rights at $.001 per Right under certain
+        circumstances set forth in the Rights Plan. The Rights themselves have no
+        voting
+        power and will expire on December 26, 2012, unless earlier exercised,
+        redeemed or exchanged.  
+
+Common
+        Stock Reserved   -As
+        of
+        December 31, 2005, the Company had reserved for issuance approximately
+        7,445,000 shares of common stock pursuant to the Company s stock option plans
+        (including an aggregate of 1,015,164 options issued to the Company s Chairman
+        which were not granted pursuant to stockholder approved stock option plans).
+
+Treasury
+        Stock   -In
+        2004,
+        the Company retired 584,000 shares of its treasury stock.  
+
+II-31 
+
+8.  
+
+STOCK
+                  OPTIONS  
+
+The
+        Company adopted, with stockholder approval, 1996, 1998, 2001, and 2002 Stock
+        Option Plans (the  1996 Plan,   1998 Plan,   2001 Plan,  and  2002 Plan ) which
+        provide for the granting of options to purchase not more than an aggregate
+        of
+        1,999,992, 3,600,000, 900,000, and 950,000 shares of common stock, respectively,
+        subject to adjustment under certain circumstances. Such options may be incentive
+        stock options ( ISOs ) within the meaning of the Internal Revenue Code of 1986,
+        as amended, or options that do not qualify as ISOs ( Non-Qualified Options ).
+
+The
+        option exercise price per share may not be less than the fair market value
+        per
+        share of common stock on the date of grant (110% of such fair market value
+        for
+        an ISO, if the grantee owns stock possessing more than 10% of the combined
+        voting power of all classes of the Company s stock). Options may be granted
+        under the Stock Option Plan to all officers, directors, and employees of
+        the
+        Company and, in addition, Non-Qualified Options may be granted to other parties
+        who perform services for the Company. No options may be granted under the
+        1996
+        Plan after July 8, 2006; under the 1998 Plan after July 8, 2008; under
+        the 2001 Plan after May 31, 2011; and under the 2002 Plan after
+        June 30, 2012.  
+
+The
+        Plans
+        may be amended from time to time by the Board of Directors of the Company.
+        However, the Board of Directors may not, without stockholder approval, amend
+        the
+        Plans to increase the number of shares of common stock which may be issued
+        under
+        the Plans (except upon changes in capitalization as specified in the Plans),
+        decrease the minimum exercise price provided in the Plans or change the class
+        of
+        persons eligible to participate in the Plans.  
+
+The
+        fair
+        value of options at date of grant was estimated using the Black-Scholes pricing
+        model with the following weighted average assumptions: expected lives of
+        eight
+        years for options granted in 2005, four to four and one-half years for options
+        granted in 2004, and six years for options granted in 2003; risk free interest
+        rate of 4.39% in 2005, 3.19% in 2004, and 4.2% in 2003; expected volatility
+        of
+        150% in 2005, 114% in 2004, and 140% in 2003; and a zero dividend rate in
+        each
+        of the three years ended December 31, 2005. The weighted average grant date
+        fair
+        value of options granted in 2005, 2004, and 2003 was $3.28, $2.89 and $3.18,
+        respectively. 
+
+II-32 
+
+The
+        following table presents information related to stock options for 2005, 2004
+        and
+        2003.  
+
+Options
+        granted prior to 2003 vest over a four year period and have a five year life.
+        In
+        2004, substantially all options granted vest over a four year period and
+        have a
+        ten year life.   In
+        2005,
+        the Company granted to officers and directors, fully vested options to purchase
+        760,000 shares of the Company's common stock ("Option Shares") at an exercise
+        price of ranging between $3.00 and $3.46 per share. The options expire on
+        the
+        earlier of (i) ten years after date of grant, (ii) 60 days after employment
+        ceases and (iii) 12 months following the termination of employment as a result
+        of his or her death or disability. Furthermore, no Option Shares may be sold
+        during the first year after the date of grant; no more than 25% of the Option
+        Shares may be sold during the second year after the date of grant; no more
+        than
+        50% of the Option Shares may be sold during the second and third years after
+        the
+        date of grant, and no more than 75% of the Option Shares may be sold during
+        the
+        second, third and fourth years after the date of grant. No restrictions on
+        sales
+        apply after the fourth anniversary of the date of grant.    
+
+In
+        2003,
+        the Company extended the expiration date of options granted to certain officers,
+        directors and employees, substantially all of which were vested, to purchase
+        315,000, 566,000, 522,000 and 133,000 shares of its common stock at $.47,
+        $.50,
+        $.67 and $2.00, respectively. In connection with the extension, the option
+        holders agreed not to sell shares of stock acquired upon exercise of the
+        extended options for designated periods of time ending between June 2004 to
+        March 2005. In connection with this transaction, compensation expense of
+        approximately $650,000 was recorded in the second quarter of 2003 based upon
+        the
+        difference between the exercise price and the market price of the underlying
+        common stock on the date the options were extended. Compensation expense
+        is
+        included as a component of selling and administrative expenses.  
+
+II-33 
+
+In
+        May 2005, the Company and certain of its officers and directors agreed to
+        change the initial exercise price and initial expiration date of vested options
+        to purchase 1,390,346 shares of the Company s common stock held by such officers
+        to a new price of $2.59, and to new expiration dates as follows: 
+
+In
+        connection with the extension, the option holders agreed not to sell, pledge
+        or
+        otherwise dispose of any of the shares of common stock received upon exercise
+        of
+        their respective option(s) referred to above until the earliest to occur
+        of (i)
+        May 16, 2007; (ii) the first day on which the closing market price for the
+        Company s stock is at least $5.00 per share for ten consecutive trading days; or
+        (iii) the termination of employment or directorship (as applicable) with
+        the
+        Company either (A) by the Company, for reasons other than  for cause  or (B) by
+        the option holder, upon mutual agreement between the option holder and the
+        Company. 
+
+In
+        addition, the Chief Executive Officer further agreed to pay to the Company
+        any
+        pre-tax net profit earned from the sale of the shares of common stock received
+        upon exercise of his options set forth above if he directly or indirectly
+        competes with the Company or solicits Company customers or clients during
+        the
+        period from May 16, 2005 until the first anniversary of the termination of
+        his
+        employment for any reason. 
+
+No
+        equity
+        compensation expense has been recorded because the exercise price of the
+        modified options was equal to the price of the underlying common stock on
+        the
+        date the grants were modified. In addition, pursuant to Emerging Issues Task
+        Force ( EITF ) 00-23, Issues Related to the Accounting for Stock Compensation
+        under APB Opinion No. 25 and FASB Interpretation No. 44, the Company has
+        determined that the modified grants continue to qualify for fixed accounting
+        treatment. 
+
+In
+        December 2005, the Company accelerated the vesting of options to purchase
+        790,000 shares of Common Stock that were previously granted to the Chief
+        Executive Officer and certain officers and directors. Pursuant to the
+        modification agreement, the officers and directors agreed to not sell, pledge
+        or
+        otherwise dispose of more than a certain number of shares issued or issuable
+        upon exercise of these options during the period of time that such option
+        shares
+        would otherwise have not vested. As a result of the accelerated vesting,
+        the
+        Company will avoid future non-cash compensation charges approximating $1.3
+        million resulting from the Company s adoption of SFAS 123 (R) on January 1,
+        2006. 
+
+II-34 
+
+9.  
+
+SEGMENT
+                  REPORTING AND
+                  CONCENTRATIONS  
+
+The
+        Company s operations are classified into two reporting segments: (1) outsourced
+        content services and (2) IT professional services. The outsourced content
+        services segment focuses on fabrication services and knowledge services.
+        Fabrication services include digitization and data conversion services, content
+        creation and XML services. Knowledge services include content enhancement,
+        hyperlinking, indexing and general editorial services. The IT professional
+        services segment focuses on the design, implementation, integration and
+        deployment of systems used to author, manage and distribute content. The
+        Company s outsourced content services revenues are generated principally from
+        its production facilities located in the Philippines, India and Sri Lanka.
+        The
+        Company does not depend on revenues from sources internal to the countries
+        in
+        which the Company operates; nevertheless, the Company is subject to certain
+        adverse economic and political risks relating to overseas economies in general,
+        such as inflation, currency fluctuations and regulatory burdens. 
+
+Commencing
+        October 1, 2003, the Company unified its selling and related activities for
+        its
+        content and professional services segments. As such, selling and corporate
+        administrative costs are not segregated by, nor are they allocated to, operating
+        segments. The loss (income) before income taxes, by operating segment has
+        been
+        reclassified for comparative purposes. 
+
+II-35 
+
+Long-lived
+        assets as of December 31, 2005 and 2004, respectively by geographic region
+        are
+        comprised of: 
+
+One
+          client accounted for 27%, 23% and 33% of the Company's revenues for the
+          years
+          ended December 31, 2005, 2004 and 2003, respectively. One other client
+          accounted for 12% and 31% of the Company s revenues for the year ended December
+          31, 2005 and 2004, respectively. No other client accounted for 10% or more
+          of
+          revenues during these periods. Further, in the years ended December 31,
+          2005, 2004 and 2003, revenues to non-US clients accounted for 35%, 30%,
+          and 47%,
+          respectively, of the Company's revenues.  
+
+Revenues
+          for each of the three years ended December 31, 2005, 2004 and 2003 by geographic
+          region (determined based upon customer s domicile), are as follows: 
+
+A
+          significant amount of the Company's revenues are derived from clients in
+          the
+          publishing industry. Accordingly, the Company's accounts receivable generally
+          include significant amounts due from such clients. In addition, as of
+          December 31, 2005, approximately 36% of the Company's accounts receivable
+          was from foreign (principally European) clients and 37% of accounts receivable
+          was due from one client. As of December 31, 2004, approximately 27% of
+          the
+          Company's accounts receivable was from foreign (principally European) clients
+          and 69% of accounts receivable was due from two clients. 
+
+II-36 
+
+10.  
+
+INCOME
+                    (LOSS) PER
+                    SHARE  
+
+Basic
+        (loss) income per share is based on the weighted average number of common
+        shares
+        outstanding without consideration of potential common stock. Diluted (loss)
+        income per share is based on the weighted average number of common and potential
+        common shares outstanding. The difference between weighted average common
+        shares
+        outstanding and adjusted dilutive shares outstanding represents the dilutive
+        effect of outstanding options. Options to purchase 3,099,000 shares of common
+        stock at December 31, 2005 and 1,337,000 shares of common stock at December
+        31,
+        2003 were outstanding but not included in the computation of diluted earnings
+        per share because the options  exercise price was greater than the average
+        market price of the common shares and therefore, the effect would have been
+        antidilutive. Such shares excluded at December 31, 2004 were insignificant.
+        In
+        addition, diluted net loss per share in 2005 does not include 1,733,000
+        potential common shares derived from stock options because as a result of
+        the
+        Company incurring losses, their effect would have been antidilutive.
+
+11.  
+
+QUARTERLY
+                  RESULTS OF OPERATIONS
+                  (UNAUDITED)  
+
+In
+        January 2004, the Company reached a settlement agreement and received $1,000,000
+        cash from a former client as full satisfaction of a $2.6 million dollar
+        remaining outstanding balance that the Company had fully written off as a
+        bad
+        debt in 2001. The $1,000,000 receipt, net of $37,000 in recovery costs, is
+        reflected as bad debt recovery income in the statement of operations for
+        the
+        year ended December 31, 2004. 
+
+In
+        January 2005, the Company filed a registration statement on Form S-3 to register
+        4,250,000 shares of its common stock, plus 3,250,000 shares of common stock
+        held
+        by certain directors and officers of the Company. On March 23, 2005, the
+        Company
+        terminated the offering and, as such, in the fourth quarter 2004, expensed
+        approximately $625,000 of offering costs. 
+
+II-37 
+
+Pursuant
+        to an income tax audit by the Indian bureau of taxation, on March 27, 2006
+        one
+        of the Company s Indian subsidiaries has received a tax assessment approximating
+        $350,000, including interest, for the fiscal tax year ended March 31, 2003.
+        Management disagrees with the basis of the tax assessment, and will vigorously
+        appeal the assessment. However, the ultimate outcome cannot be determined
+        at
+        this time. 
+
+In
+        addition, the Company has been notified that its U.S. federal income tax
+        return
+        for 2004 will be subject to audit by the I.R.S. Since such audit has not
+        yet
+        commenced, the Company has no basis for determining the amount of any potential
+        tax adjustment that might result from such audit. 
+
+II-38 
+
+Item
+        9. Changes in and Disagreements with Accountants on Accounting and Financial
+        Disclosure.  
+
+None 
+
+Item
+        9A. Controls and Procedures.  
+
+An
+        evaluation has been carried out under the supervision and with the participation
+        of our management, including our Chief Executive Officer and Chief Financial
+        Officer, of the effectiveness of the design and the operation of our "disclosure
+        controls and procedures" (as such term is defined in Rules 13a-15(e) under
+        the
+        Securities Exchange Act of 1934) as of December 31, 2005 ( Evaluation Date ).
+        Based on such evaluation, our Chief Executive Officer and Chief Financial
+        Officer have concluded that, as of the Evaluation Date, the disclosure controls
+        and procedures are reasonably designed and effective to ensure that (i)
+        information required to be disclosed by us in the reports we file or submit
+        under the Securities Exchange Act of 1934 is recorded, processed, summarized
+        and
+        reported within the time periods specified in the SEC's rules and forms,
+        and
+        (ii) such information is accumulated and communicated to our management,
+        including our Chief Executive Officer and Chief Financial Officer, as
+        appropriate to allow timely decisions regarding required
+        disclosure. 
+
+There
+        were no changes in our internal controls over financial reporting in connection
+        with the evaluation required by paragraph (d) of Rules 13a-15 or 15d-15 under
+        the Exchange Act that occurred during our last fiscal quarter that materially
+        affected or are reasonably likely to materially affect the internal controls
+        over financial reporting.  
+
+II-39 
+
+PART
+        III   
+
+Item
+        10. Directors, Officers, Promoters and Control Persons; Compliance with Section
+        16(a) of the Exchange Act.  
+
+The
+        information called for by Item 10 is incorporated by reference from the
+        Company s definitive proxy statement for the 2006 Annual Meeting of Stockholders
+        to be filed pursuant to Regulation 14A under the Exchange Act no later than
+        120
+        days after the end of the Company s 2005 fiscal year. 
+
+The
+        information concerning the Company s Executive Officers required by this Item is
+        incorporated by reference to the Company s proxy statement under the heading
+ Executive Officers . The information concerning the Company s Directors
+        required by this Item is incorporated by reference to the Company s proxy
+        statement under the heading  Election of Directors . Information concerning
+        compliance by the Company s Officers, Directors and 10% stockholders with
+        Section 16(a) of the Securities Exchange Act of 1934 is incorporated by
+        reference to the information contained in the Company s Proxy Statement under
+        the heading  Compliance with Section 16(a) of the Exchange Act.  Information
+        regarding the presence of an audit committee financial expert required by
+        this
+        Item is incorporated by reference to the Company s Proxy Statement under the
+        heading  Committees of the Board of Directors.   
+
+The
+        Company has a code of ethics that applies to all of its employees, officers,
+        and
+        directors, including its principal executive officer, principal financial
+        and
+        accounting officer, and controller. The text of the Company s code of ethics is
+        posted on its website at www.innodata-isogen.com. The Company intends to
+        disclose future amendments to, or waivers from, certain provisions of the
+        code
+        of ethics for executive officers and directors in accordance with applicable
+        NASDAQ and SEC requirements. 
+
+Item
+        11. Executive Compensation.  
+
+The
+        information called for by Item 11 is incorporated by reference from the
+        Company s definitive proxy statement for the 2006 Annual Meeting of Stockholders
+        to be filed pursuant to Regulation 14A under the Exchange Act no later than
+        120
+        days after the end of the Company s 2005 fiscal year. Information appearing
+        under the captions  Compensation Committee Report on Executive Compensation 
+ Report of the Audit Committee  and  Stock Performance Graph  to be included in
+        the Company s 2006 Proxy Statement is not incorporated herein by this reference.
+
+Item
+        12. Security Ownership of Certain Beneficial Owners and Management and Related
+        Stockholder Matters.  
+
+The
+        information called for by Item 12 is incorporated by reference from the
+        Company s definitive proxy statement for the 2006 Annual Meeting of Stockholders
+        to be filed pursuant to Regulation 14A under the Exchange Act no later than
+        120
+        days after the end of the Company s 2005 fiscal year.  
+
+Item
+        13. Certain Relationships and Related Transactions.  
+
+The
+        information called for by Item 13 is incorporated by reference from the
+        Company s definitive proxy statement for the 2006 Annual Meeting of Stockholders
+        to be filed pursuant to Regulation 14A under the Exchange Act no later than
+        120
+        days after the end of the Company s 2005 fiscal year.  
+
+III-1 
+
+Item
+        14. Principal Accountant Fees and Services.  
+
+The
+        information called for by Item 14 is incorporated by reference from the
+        Company s definitive proxy statement for the 2006 Annual Meeting of Stockholders
+        to be filed pursuant to Regulation 14A under the Exchange Act no later than
+        120
+        days after the end of the Company s 2005 fiscal year. 
+
+III-2 
+
+PART
+          IV  
+
+Item
+          15. Exhibits, Financial Statement Schedules and Reports on Form
+          8-K.  
+
+(a)
+
+1.
+                    Financial Statements. See Item 8. Index to Financial
+                    Statements. 
+
+2.
+                    Financial Statement Schedules. Schedule II - Valuation and Qualifying
+                    Accounts 
+
+3.
+                        Exhibits   
+
+Exhibits
+          which are indicated as being included in previous filings are incorporated
+          herein by reference.  
+
+IV-1 
+
+IV-2 
+
+INNODATA
+            ISOGEN, INC.  
+
+             SCHEDULE
+            II  
+
+             VALUATION
+            AND QUALIFYING ACCOUNTS  
+
+             (Dollars
+            in Thousands)  
+
+Activity
+            in the Company's allowance for doubtful accounts for the years ended
+            December
+            31, 2005, 2004 and 2003 was as follows:  
+
+IV-3 
+
+SIGNATURES  
+
+In
+          accordance with Section 13 or 15(d) of the Exchange Act, the registrant
+          caused
+          this report to be signed on its behalf by the undersigned, thereunto duly
+          authorized. 
+
+INNODATA
+                    ISOGEN, INC. 
+
+By:    
+                  /s/ Jack
+                  Abuhoff   
+
+Jack
+                  Abuhoff   
+
+Chairman
+                    of the
+                    Board of Directors, 
+
+                    Chief Executive Officer and
+                    President 
+
+In
+          accordance with the Exchange Act, this report has been signed below by
+          the
+          following persons on behalf of the registrant and in the capacities and
+          on the
+          dates indicated  . 
+
+Signature 
+
+Title 
+
+Date 
+
+/s/
+                    Jack Abuhoff 
+
+Chairman
+                    of the Board of Directors, 
+
+March
+                    29, 2006 
+
+Jack
+                    Abuhoff 
+
+Chief
+                    Executive Officer and President 
+
+/s/
+                    Steven L. Ford 
+
+Executive
+                    Vice President, 
+
+March
+                    29, 2006 
+
+Steven
+                    L. Ford 
+
+Chief
+                    Financial Officer 
+
+/s/
+                    Stephen Agress 
+
+Vice
+                    President Finance, 
+
+March
+                    29, 2006 
+
+Stephen
+                    Agress 
+
+Chief
+                    Accounting Officer 
+
+/s/
+                    Haig S. Bagerdjian 
+
+Director
+
+March
+                    29, 2006 
+
+Haig
+                    S. Bagerdjian  
+
+/s/
+                    Louise C. Forlenza 
+
+Director 
+
+March
+                    29, 2006 
+
+Louise
+                    C. Forlenza 
+
+/s/
+                    John R. Marozsan 
+
+Director 
+
+March
+                    29, 2006 
+
+John
+                    R. Marozsan 
+
+<EX-21>
+ 2
+ v039005_ex21.htm
+
+Unassociated Document
+
+Exhibit
+      21  
+
+Significant
+      Subsidiaries  
+
+Name
+                under   
+
+State
+                or other   
+
+which
+                subsidiary  
+
+jurisdiction
+                of   
+
+conducts
+
+Name
+                of Subsidiary  
+
+incorporation  
+
+business  
+
+Isogen
+                International, LLC  
+
+Delaware 
+
+Same
+
+Innodata
+                India (Private) Limited 
+
+India 
+
+Same 
+
+Innodata
+                XML Content Factory, Inc. 
+
+Philippines 
+
+Same
+
+ESS
+                Manufacturing Company, Inc. 
+
+Philippines 
+
+Same
+
+Content
+                Online Services, Inc. 
+
+Philippines 
+
+Same
+
+Innodata
+                Asia Holdings, Limited 
+
+Bermuda 
+
+Same
+
+Innodata
+                Lanka (Private) Limited 
+
+Sri
+                Lanka  
+
+Same
+
+</EX-21>
+
+<EX-23>
+ 3
+ v039005_ex23.htm
+
+Unassociated Document
+
+Exhibit
+      23  
+
+CONSENT
+      OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM  
+
+We
+      have
+      issued our report dated March 17, 2006 (except for Note 13 as to which is dated
+      March 28, 2006) accompanying the consolidated financial statements and schedules
+      included in the Annual Report of Innodata Isogen, Inc. and subsidiaries on
+      Form 10-K for the year ended December 31, 2005. We hereby consent
+      to the incorporation by reference of said report in the Registration Statements
+      of Innodata Isogen, Inc. on Form S-8 (Registration No. 33-85530, dated
+      October 21, 1994, Registration No. 333-3464, dated April 18, 1996,
+      Registration No. 33-63085, dated September 9, 1998 and Registration
+      No. 333-82185, dated July 2, 1999, and Registration No. 333-118506, dated
+      August 24, 2004) and on Form S-3 (Registration No. 33-62012, dated
+      April 11, 1996, Registration No. 333-91649, dated
+      January 6, 2000 and Registration No. 333-51400, dated
+      January 2, 2001). 
+
+Grant
+      Thornton LLP 
+
+      Edison,
+      New Jersey 
+
+      March
+      17,
+      2006 (except for Note 13 as to which  
+
+      is
+      dated
+      March 28, 2006) 
+
+</EX-23>
+
+<EX-31.1>
+ 4
+ v039005_ex31-1.htm
+
+Unassociated Document
+
+Exhibit
+      31.1  
+
+CERTIFICATIONS 
+
+I,
+      Jack
+      Abuhoff, certify that: 
+
+1. 
+
+I
+                have reviewed this annual report on Form 10-K of Innodata Isogen,
+                Inc.; 
+
+2. 
+
+Based
+                on my knowledge, this annual report does not contain any untrue statement
+                of a material fact or omit to state a material fact necessary to
+                make the
+                statements made, in light of the circumstances under which such statements
+                were made, not misleading with respect to the period covered by this
+                annual report; 
+
+3. 
+
+Based
+                on my knowledge, the financial statements, and other financial information
+                included in this annual report, fairly present in all material respects
+                the financial condition, results of operations and cash flows of
+                the
+                registrant as of, and for, the periods presented in this annual
+                report; 
+
+4. 
+
+The
+                registrant s other certifying officer and I are responsible for
+                establishing and maintaining disclosure controls and procedures (as
+                defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant
+                and we have: 
+
+a) 
+
+designed
+                such disclosure controls and procedures, or caused such disclosure
+                controls and procedures to be designed under our supervision, to
+                ensure
+                that material information relating to the registrant, including its
+                consolidated subsidiaries, is made known to us by others within those
+                entities, particularly during the period in which this annual report
+                is
+                being prepared; 
+
+b) 
+
+evaluated
+                the effectiveness of the registrant s disclosure controls and procedures
+                and presented in this annual report our conclusions about the
+                effectiveness of the disclosure controls and procedures, as of the
+                end of
+                the period covered by this report based on such evaluation;
+                and 
+
+c) 
+
+disclosed
+                in this report any change in the registrant's internal control over
+                financial reporting that occurred during the registrant's most recent
+                fiscal quarter that has materially affected, or is reasonably likely
+                to
+                materially affect, the registrant's internal control over financial
+                reporting; 
+
+5. 
+
+The
+                registrant s other certifying officers and I have disclosed, based on our
+                most recent evaluation of internal controls over financial reporting,
+                to
+                the registrant s auditors and the audit committee of registrant s board of
+                directors (or persons performing the equivalent
+                function): 
+
+a) 
+
+all
+                significant deficiencies and material weaknesses in the design or
+                operation of internal control over financial reporting which are
+                reasonably likely to adversely affect the registrant s ability to record,
+                process, summarize and report financial information;
+                and 
+
+b)  
+             
+                any
+                fraud, whether or not material, that involves management or other
+                employees who have a significant role in the registrant s internal control
+                over financial reporting. 
+
+Dated:
+      March 29, 2006 
+
+/s/
+                Jack Abuhoff          
+
+Jack
+                Abuhoff  
+
+Chairman
+                of the Board, 
+
+Chief
+                Executive Officer and President 
+
+</EX-31.1>
+
+<EX-31.2>
+ 5
+ v039005_ex31-2.htm
+
+Unassociated Document
+
+Exhibit
+      31.2  
+
+I,
+      Steven
+      L. Ford, certify that: 
+
+1.  
+             
+                I
+                have reviewed this annual report on Form 10-K of Innodata Isogen,
+                Inc.; 
+
+2. 
+
+Based
+                on my knowledge, this annual report does not contain any untrue statement
+                of a material fact or omit to state a material fact necessary to
+                make the
+                statements made, in light of the circumstances under which such statements
+                were made, not misleading with respect to the period covered by this
+                annual report; 
+
+3. 
+
+Based
+                on my knowledge, the financial statements, and other financial information
+                included in this annual report, fairly present in all material respects
+                the financial condition, results of operations and cash flows of
+                the
+                registrant as of, and for, the periods presented in this annual
+                report; 
+
+4. 
+
+The
+                registrant s other certifying officer and I are responsible for
+                establishing and maintaining disclosure controls and procedures (as
+                defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant
+                and we have: 
+
+a) 
+
+designed
+                such disclosure controls and procedures, or caused such disclosure
+                controls and procedures to be designed under our supervision, to
+                ensure
+                that material information relating to the registrant, including its
+                consolidated subsidiaries, is made known to us by others within those
+                entities, particularly during the period in which this annual report
+                is
+                being prepared; 
+
+b) 
+
+evaluated
+                the effectiveness of the registrant s disclosure controls and procedures
+                and presented in this annual report our conclusions about the
+                effectiveness of the disclosure controls and procedures, as of the
+                end of
+                the period covered by this report based on such evaluation;
+                and 
+
+c) 
+
+disclosed
+                in this report any change in the registrant's internal control over
+                financial reporting that occurred during the registrant's most recent
+                fiscal quarter that has materially affected, or is reasonably likely
+                to
+                materially affect, the registrant's internal control over financial
+                reporting; 
+
+5. 
+
+The
+                registrant s other certifying officers and I have disclosed, based on our
+                most recent evaluation of internal controls over financial reporting,
+                to
+                the registrant s auditors and the audit committee of registrant s board of
+                directors (or persons performing the equivalent
+                function): 
+
+a) 
+
+all
+                significant deficiencies and material weaknesses in the design or
+                operation of internal control over financial reporting which are
+                reasonably likely to adversely affect the registrant s ability to record,
+                process, summarize and report financial information;
+                and 
+
+b) 
+
+any
+                fraud, whether or not material, that involves management or other
+                employees who have a significant role in the registrant s internal control
+                over financial reporting. 
+
+Dated:
+      March 29, 2006 
+
+/s/
+                Steven L. Ford 
+
+Steven
+                L. Ford  
+
+Executive
+                Vice President 
+
+Chief
+                Financial Officer 
+
+</EX-31.2>
+
+<EX-32.1>
+ 6
+ v039005_ex32-1.htm
+
+Unassociated Document
+
+Exhibit
+      32.1  
+
+CERTIFICATION
+      PURSUANT TO 
+
+      18
+      U.S.C.
+      SECTION 1350, 
+
+      AS
+      ADOPTED PURSUANT TO 
+
+      SECTION
+      906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In
+      connection with the Annual Report of Innodata Isogen, Inc. (the  Company ) on
+      Form 10-K for the year ended December 31, 2005 as filed with the Securities
+      and
+      Exchange Commission on the date hereof (the  Report ), I, Jack Abuhoff, Chief
+      Executive Officer of the Company, certify, pursuant to 18 U.S.C.  1350, as
+      adopted pursuant to  906 of the Sarbanes-Oxley Act of 2002, that to the best of
+      my knowledge: 
+
+1. 
+
+the
+                Report fully complies with the requirements of section 13(a) or 15(d)
+                of
+                the Securities Exchange Act of 1934; and
+
+2. 
+
+the
+                information contained in the Report fairly presents, in all material
+                respects, the financial condition and results of operations of the
+                Company. 
+
+/s/
+                Jack Abuhoff       
+
+Jack
+                Abuhoff  
+
+Chairman
+                of the Board, 
+
+Chief
+                Executive Officer and President 
+
+March
+                29, 2006 
+
+</EX-32.1>
+
+<EX-32.2>
+ 7
+ v039005_ex32-2.htm
+
+Unassociated Document
+
+Exhibit
+      32.2  
+
+CERTIFICATION
+      PURSUANT TO 
+
+      18
+      U.S.C.
+      SECTION 1350, 
+
+      AS
+      ADOPTED PURSUANT TO 
+
+      SECTION
+      906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In
+      connection with the Annual Report of Innodata Isogen, Inc. (the  Company ) on
+      Form 10-K for the year ended December 31, 2005 as filed with the Securities
+      and
+      Exchange Commission on the date hereof (the  Report ), I, Steven L. Ford,
+      Executive Vice President and Chief Financial Officer of the Company, certify,
+      pursuant to 18 U.S.C.  1350, as adopted pursuant to  906 of the Sarbanes-Oxley
+      Act of 2002, that to the best of my knowledge: 
+
+1. 
+
+the
+                Report fully complies with the requirements of section 13(a) or 15(d)
+                of
+                the Securities Exchange Act of 1934; and
+
+2. 
+
+the
+                information contained in the Report fairly presents, in all material
+                respects, the financial condition and results of operations of the
+                Company. 
+
+/s/
+                Steven L. Ford 
+
+Steven
+                L. Ford  
+
+Executive
+                Vice President 
+
+Chief
+                Financial Officer 
+
+March
+                29, 2006 
+
+</EX-32.2>
+

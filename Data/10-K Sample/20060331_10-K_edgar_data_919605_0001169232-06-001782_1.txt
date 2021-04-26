@@ -1,0 +1,2783 @@
+<Header>
+<FileStats>
+    <FileName>20060331_10-K_edgar_data_919605_0001169232-06-001782_1.txt</FileName>
+    <GrossFileSize>201210</GrossFileSize>
+    <NetFileSize>150131</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>503</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>19</N_Tables>
+    <N_Exhibits>2</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001169232-06-001782.hdr.sgml : 20060331
+<ACCEPTANCE-DATETIME>20060331142148
+ACCESSION NUMBER:		0001169232-06-001782
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20051231
+FILED AS OF DATE:		20060331
+DATE AS OF CHANGE:		20060331
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BIOCORAL INC
+		CENTRAL INDEX KEY:			0000919605
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE OPERATORS (NO DEVELOPERS) & LESSORS [6510]
+		IRS NUMBER:				330601504
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-23512
+		FILM NUMBER:		06727761
+
+	BUSINESS ADDRESS:	
+		STREET 1:		38 RUE ANATOLE FRANCE
+		STREET 2:		LEVALLOIS PERRET CEDEX
+		CITY:			LEVALLOIS PERRET
+		STATE:			I0
+		ZIP:			92594
+		BUSINESS PHONE:		01133147579843
+
+	MAIL ADDRESS:	
+		STREET 1:		38 RUE ANATOLE FRANCE
+		STREET 2:		LEVALLOIS PERRET CEDEX
+		CITY:			LEVALLOIS PERRET
+		STATE:			I0
+		ZIP:			92594
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	IMMO FINANCE CORP
+		DATE OF NAME CHANGE:	19940420
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HERMENEUTICS CORP
+		DATE OF NAME CHANGE:	19940301
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ DnsqPeIM8lnmXI7jsa9/Y3Jd9kZFD1Jo9fcALzw9YYxMy5sEAQ59Sn4Y/1bQrzLe
+ snuT6pvkHjtF03s9Nk5KLA==
+
+ 0001169232-06-001782.txt : 20060331
+
+10-K
+ 1
+ d67568_10k.txt
+ ANNUAL REPORT
+ 
+                                  United States
+                       Securities and Exchange Commission
+                             Washington, D.C. 20549
+
+                                    FORM 10-K
+                Annual Report Pursuant to Section 13 or 15(d) of
+                       the Securities Exchange Act of 1934
+
+                      For the Year Ended December 31, 2005
+
+                           Commission File No. 0-23512
+
+                                 Biocoral, Inc.
+               (Exact name of issuer as specified in its charter)
+
+                Delaware                                33-0601504
+     (State or other jurisdiction of       (I.R.S. Employer Identification No.)
+     incorporation or organization)
+
+ 38 rue Anatole France, 92594 Levallois       011-3314-757-9843           N/A
+           Perret Cedex France               (Issuer's telephone      (Zip Code)
+(Address of Issuer's principal executive      number, including
+                offices)                         area code)
+
+      Securities registered pursuant to Section 12(g) of the Exchange Act:
+
+                          Common Stock, $.001 par value
+                                (Title of Class)
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as
+defined in Rule 405 of the Securities Act. Yes |_| No |X|
+
+Indicate by check mark if the registrant is not required to file reports
+pursuant to Section 13 or Section 15(d) of the Act. Yes |_| No |X|
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Exchange Act during the past 12 months
+(or for such shorter period that the registrant was required to file such
+reports), and (2) has been subject to such filing requirements for the past 90
+days. Yes |X| No |_|
+
+Indicate by check mark if disclosure of delinquent filers, in response to Item
+405 of Regulation S-K, is not contained herein, and will not be contained, to
+the best of registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or any
+amendment to this Form 10-K. |_|
+
+Indicate by check mark whether the registrant is a large accelerated filer, an
+accelerated filer, or a non-accelerated filer. See definition of "accelerated
+filer and large accelerated filer" in Rule 12b-2 of the Exchange Act. (Check
+one):
+
+Large Accelerated Filer |_|  Accelerated Filer |X|   Non-Accelerated Filer |_|
+
+Indicate by check mark whether the registrant is a shell company (as defined in
+Rule 12b-2 of the Exchange Act). Yes |_| No |X|
+
+The issuer's revenues for the year ended December 31, 2005 were $316,200.
+
+The aggregate market value of the registrant's voting and non-voting common
+equity held by non-affiliates as of March 15, 2006 was approximately
+$221,399,412.
+
+The number of outstanding shares of the registrant's common stock as of March
+15, 2006 was 11,353,816.
+
+Documents Incorporated by Reference: None.
+
+TABLE OF CONTENTS
+
+PART I                                                                                                         Page
+                                                                                                        
+Item 1.    Description of Business.....................................................................    1
+Item 2.    Description of Property.....................................................................    11
+Item 3.    Legal Proceedings...........................................................................    11
+Item 4.    Submission of Matters to a Vote of Security Holders.........................................    11
+
+PART II
+Item 5.    Market for Common Equity and Related Stockholder Matters....................................    11
+Item 6.    Selected Financial Data.....................................................................    12
+Item 7.    Management's Discussion and Analysis of Financial Condition and Results of Operations.......    12
+Item 8.    Financial Statements and Supplementary Data.................................................    F-1 - F-18
+Item 9.    Changes in and Disagreements with Accountants on Accounting and Financial Disclosure........    17
+Item 9A    Controls and Procedures.....................................................................    17
+Item 9B    Other Information...........................................................................    17
+
+PART III
+
+Item 10    Directors, Executive Officers, Promoters and Control Persons................................    17
+Item 11.   Executive Compensation......................................................................    19
+Item 12.   Security Ownership of Certain Beneficial Owners and Management..............................    20
+Item 13.   Certain Relationships and Related Transactions..............................................    21
+Item 14    Principal Accountant Fees and Services......................................................    21
+Item 15.   Exhibits and Reports on Form 8-K............................................................    22
+
+-----------------------
+
+      This Registration Statement contains trademarks, service marks and
+registered marks of other companies, as indicated. Trademarks identified by (R)
+and (TM) are registered trademarks or trademarks are the properties of their
+respective owners.
+
+                             -----------------------
+
+           PRELIMINARY STATEMENT REGARDING FORWARD-LOOKING STATEMENTS
+
+      This Registration Statement contains forward-looking statements that
+relate to future events or our future financial performance. In some cases, you
+can identify forward-looking statements by terminology such as "may," "should,"
+"expects," "plans," "anticipates," "believes," "estimates," "predicts,"
+"potential" or "continue" or the negative of these terms or other comparable
+terminology. Specific forward-looking statements contained in this Registration
+Statement include, but are not limited to, our (i) belief that our trading
+platform is uniquely positioned to become a preferred platform of many varying
+markets worldwide; (ii) belief that our trading system and processes will
+withstand competition and regulatory changes; (iii) expectations for marketing
+and sales opportunities in diverse markets; (iv) belief that we may require more
+capital; (v) belief that alternative sources of financing are available if
+required; and (vi) anticipation that we will not pay a cash dividend on our
+common stock in the near future. These statements are only predictions and
+involve known and unknown risks, uncertainties, and other factors, including the
+risks in Item 1A. Risk Factors, which may cause our or our industry's actual
+results, levels of activity, performance or achievements to be materially
+different from any future results, levels of activity, performance or
+achievements expressed or implied by these forward-looking statements.
+
+      While these forward-looking statements, and any assumptions upon which
+they are based, are made in good faith and reflect our current judgment
+regarding the direction of our business, actual results will almost always vary,
+sometimes materially, from any estimates, predictions, projections, assumptions
+or other future performance suggested herein. Except as required by applicable
+law, including the securities laws of the United States, we do not intend to
+update any of the forward-looking statements to conform these statements to
+actual results.
+
+PART I
+
+Item 1. Description of Business
+
+Background
+
+Biocoral, Inc., a Delaware corporation, is an international biomaterials
+"tissue-engineering" company specializing in the research, development and
+commercialization of patented high biotechnologies and biomaterials in the
+health care area. Through our subsidiaries, Biocoral, Inc. researches, develops,
+manufactures and commercializes bone graft substitutes and other high technology
+patented biomaterials in a number of countries outside the United States. We
+entered the biomaterials field in 1995 by agreeing to acquire Inoteb, SA, a
+French corporation from 10 individuals "the founders", all French nationals. The
+shares and bonds of Inoteb acquired in 1995 represented, at such time, 51.5% of
+the capital stock of Inoteb. We increased our ownership percentage through
+several additional investments in Inoteb common stock to 67% in 1997 and to 100%
+in 1998.
+
+Our representative offices are located at 38 rue Anatole France, Levallois
+Perret Cedex, France consisting of approximately 2000 square feet of office
+space.
+
+Biocoral(R)
+
+Biocoral(R) our primary product, is a natural coral "carbonate Calcium" derived
+bone graft substitute and is used by surgeons and practitioners because of its
+biocompatibility, resorbability, osseo conduction and safety. Certain chemical,
+physical and structural characteristics of coral are very similar to that of
+human bone tissue. Biocoral(R) is derived from three particular species of coral
+naturally present in abundance. Biocoral(R) is primarily (more than 98%)
+comprised of calcium carbonate. Porous and resorbable, Biocoral(R) is prepared
+in microgranules as well as in engineered shapes according to specific
+indication. Due to its similarity to bone tissue, Biocoral(R) is compatible,
+resorbed by the body as new bone growth invades the Biocoral(R) and is replaced
+by neoformed invasion. It is highly porous with numerous interconnected channels
+which allow a total migration to the center of the implant free of contamination
+risk. Because Biocoral(R) is resorbed, it can be combined with antimicrobials,
+anticancer agents or other pharmaceuticals for slow release into bone tissue,
+resulting in an advantage over autologous bone grafts. Since 2000 we have worked
+with an accredited European university research group on purification of our raw
+material, coral, in order to produce a natural 100% mineral product. After
+long-term collaboration and efforts we have finally developed a method for
+purification of our raw material coral which will allow us to offer Biocoral(R)
+as a natural 100% mineral bone substitute. We have filed a patent with an
+international extension for this method of purification and the final product
+issued using this method. We are planning to put this purification method in
+place at our manufacturing facilities which will allow to us to offer what we
+believe will be the only natural 100% mineral bone substitute.
+
+The principal current alternative to Biocoral(R)is the utilization of autologous
+(from the patient's own body) bone grafts. The use of autologous bone grafts
+requires the patient to undergo one or more additional surgeries to harvest the
+bone graft material. This is not always feasible due to the condition of the
+patient or other contraindications, and must be shaped in a separate procedure
+to fit the graft area.
+
+According to our French subsidiary, Biocoral(R) has been used in more than
+500,000 patients, principally in Western Europe and Korea. Biocoral(R) was
+originally patented in France in 1979, in the United States in 1982, and in
+Japan in 1989. Our French subsidiary acquired the patent rights to Biocoral(R)
+from ANVAR/CNRS, (l'ANVAR)" National Agency for Valorization of Research" and
+(CNRS) "French National Center for Scientific Research", both French
+governmental agencies. Through our subsidiaries, we have developed twelve
+additional patent titles for various applications and uses of our products,
+including among others osteoporosis remediation, autologous glue and combination
+with growth factor, among others. Through these twelve additional patent title
+applications in various countries in Europe, Switzerland, Canada, Japan,
+Australia, and the United States, we own more than 219 patent applications
+around the world and approximately 166 of which have thus far been granted by
+various countries by their official government patent office, including most
+European Community countries, Switzerland, Canada, Japan, Australia, and in the
+United States by the US Department of Commerce Patent and Trademark Office.
+
+We believe that our method for purification of our raw material coral will
+reinforce our technologies and the uses of our product in the various
+indications over which we own patents.
+
+Using proprietary manufacturing processes, our chief product, Biocoral(R), is a
+resorbable biomaterial derived from Natural Carbonate Calcium in the metastable
+crystalline aragonite form in a natural condition ocean-generated coral used as
+bone graft sustitutes has certain characteristics (including chemical
+composition, porosity, mineral content and bioactive properties) that permit its
+safe, contamination-free use. Its similarity to human bone facilitates its
+replacement by newly-formed bone. Substantially all of our revenue has been
+derived from sales of the first generation of our
+
+1
+
+products. The second generation of products and their application after long
+years of research and development and success of several clinical applications
+now are ready for marketing. Our product application in the treatment of bone
+disease associated with natural bone demineralization, for example, such as in
+cases of osteoporosis fractures and their prevention, is based on technology
+that is protected by strong patents which have thus far been granted by various
+countries by their official government patent office, including most European
+Community countries, Canada, Australia, Japan and in the United States by the US
+Department of Commerce Patent and Trademark office.
+
+We have not yet begun to seek FDA approval for sale of our products in the
+United States but are preparing the documentation required for our product
+homologation application in the United States. We have identified the
+requirements for this application and approached a US medical supply distributor
+in order to access the US market. An accredited scientific team in the US has
+conducted human clinical studies with a five-year follow up to confirm bone
+reconstruction in oral application. This study confirmed the stability of the
+successful result and management believes that this study will facilitate FDA
+approval for our product used in this indication when we file for FDA approval.
+We anticipate submitting this application during 2006. Canadian approval of
+Biocoral(R) has been renewed in 2004 by the Canadian Health Care Authority
+"Sante Canada," and our products are already commercialized in the European
+Community and Asia. During 2005, we entered into a distribution agreement with a
+Canadian medical supply company in order to access the Canadian market.
+
+Clinical Applications
+
+Biocoral(R) has been used in various clinical applications. Current uses include
+the following: (a) orthopedic surgery uses include spinal surgery, tibial
+(shinbone) osteotomies, hip fractures, trephine (skull) hole replacement,
+fracture repair and filling of bone cavities particularly in bone fractures due
+to osteoporosis; (b) maxillocraniofacial surgery and plastic surgery uses
+include reconstructive and cosmetic surgery; (c) oral surgery uses include
+filling of bone defects due to loss of teeth or periodontal disease.
+
+We are preparing new clinical human trials for autologous fibrin glue in
+different indications which we expect to begin during 2007. We believe that the
+results of these clinical trials may allow us to extend the market for our
+innovative products for use in other indications. However, there can be no
+assurance that we will be able to extend the market for our products.
+
+Osteoporosis, "A Bone Disease Associated with Natural Bone Demineralization",
+Patented Application
+
+We have developed from 1994 and since successfully experimented with the
+application of our product Biocoral(R) for the treatment and prevention of
+osteoporotic or low bone mass fracture. We developed and patented this
+application in most countries around the world which covers the use of our
+product and any other product based on the use of calcium salts.
+
+Osteoporosis is a bone disease due to natural bone demineralization in which
+bone density decreases combined with increased bone brittleness and porosity
+that causes the bones to become thin and weak. It occurs mostly in women after
+menopause. That's because the female hormone oestrogen helps women maintain bone
+strength. As oestrogen levels decline, bone is lost. Osteoporosis can also occur
+in men. Other risk factors include: delayed puberty, poor calcium intake,
+smoking, excess alcohol consumption or from medications such as glucocorticoids.
+
+As bones weaken, they are more likely to break (fracture). Hip, wrist and spine
+bones are at the greatest risk of breaking. The breaks in spine bones are known
+as vertebral compression fractures, or VCFs. Left untreated, they may lead to
+kyphosis, commonly referred to as "dowager's hump."
+
+Some statistics
+
+According to the International Osteoporosis Foundation (www.osteofound.org), 40%
+of all middle-aged women (8 out of 20) and 15% of middle-aged men (3 out of 20)
+in Europe will suffer one or more osteoporotic fractures during their remaining
+lifetime. In fact, someone in Europe has a fracture every 30 seconds as a result
+of osteoporosis. Furthermore, they estimate that the number of osteoporosis
+patients will double over the next 50 years with the projected increase in the
+aging population and as a result of lifestyle factors. However, despite the fact
+that the incidence of osteoporotic fractures is growing, the problem is
+under-recognized with only one in two osteoporotic spinal fractures being
+diagnosed.
+
+The clinical trials conducted by our subsidiaries over the past eleven years
+have demonstrated the feasibility of this treatment to reduce the consequences
+of fractures caused by osteoporosis and to avoid the occurrence of fracture as
+well. We are developing several variants of our Biocoral(R) technology aimed at
+treatment of bone disease due to natural bone demineralization (such as
+osteoporosis) ,and Treatment and Prevention of Osteoporotic Fracture.
+Biocoral(R) offers a superior method of preventing and repair of bone fractures
+due to osteoporosis. It has the ability to help the skeletal system, reinforcing
+it where it is weak and fragile. Biocoral(R) can serve both to heal bones that
+are already fractured and
+
+2
+
+to prevent bone fractures from occurring. Phase II clinical trials in Europe
+demonstrated the efficacy of Biocoral(R) for local osteoporosis treatment in
+rebuilding bone, particularly in combination with osteodensimatic screening.
+
+In 2000, we began Phase III multi-center clinical trials of our product,
+"Biocoral(R)", for the treatment of hip fractures due to osteoporosis, in 14
+clinics in Europe. In 2002, the period for inclusion of patients in the Phase
+III multi-center clinical trials ended. In the third quarter of 2002, the
+preliminary report of the follow up study was completed. The preliminary report
+confirmed the advantage of using our product in stabilization of fractures due
+to Osteoporosis. We were following up on the patients included in the trials and
+this follow-up continued through December 2003.
+
+The study was monitored by an independent organization in France called
+Biomatech located in city of Lyon which has been chosen directly by the French
+government agency " National Agency for Valorization of Research" (l'ANVAR). The
+prospective report was presented for review and comments on March 11, 2006 at a
+symposium organized by the company at the Concorde Lafayette Hotel in Paris,
+which representatives from most hospitals which participated in our study
+attended. The prospective report provided the final results and conclusions
+produced by independent monitoring and an independently directed investigation.
+This study has confirmed the therapeutic benefit of our product Biocoral(R) in
+the treatment of fractures which will permit better patient recovery, allowing
+patients faster mobility and return to a healthy state with a very low risk of
+refracture. In addition, during this symposium, we presented our technology
+under patented application for the prevention of low bone mass and Osteoporotic
+fracture and our new technology of purification of our raw material coral which
+will allow to us to offer what we believe will be the only natural 100% mineral
+bone substitute.
+
+We are also working on the prevention of osteoporotic fractures and believe that
+for the first time, patients who already have osteoporosis or had already
+suffered from osteoprotic fracture will be able to be treated before either
+refracture or the occurrence of fractures in other locations. Our product in
+this application is intended to permit the regeneration of newly formed bone in
+the area which is susceptible to osteoporosis and has a low bone mass. The
+initial human clinical study has demonstrated and confirmed the result of
+regeneration of newly formed bone in the bone mass area.
+
+We own, through our wholly-owned subsidiary, various patents in the application
+of treatment of bone disease due to natural bone demineralization (such as
+ostroprosis) and "Treatment and Prevention of Osteoporotic Fractures." Our
+technology underlying this application is protected by strong patent
+applications in many countries around the world where patent applications were
+filed. Our patent applications in this application have thus far been filed and
+granted by the official government patent offices of various countries,
+including 17 European Community countries, Japan, Australia, and in the United
+States by the US Department of Commerce Patent and Trademark Office. Our patent
+application in Canada was granted during 2005. Our patent covering technologies
+in this application in addition to protecting use of our Biocoral(R) product,
+also covers any other product based on calcium salts. Most of the bone
+substitutes in the market are based on calcium salts such as hydraoxapatite
+(phosphate of calcium).
+
+Autologous Fibrin Glue
+
+We have developed a medical device and a method for preparation of autologous
+fibrin glue which management believes is the world's first fully autologous
+fibrin glue. In 1993, our scientists began working on the development of this
+medical device and method for preparation of autologous fibrin glue. This
+autologous fibrin glue is prepared using the patient's own blood, in a closed
+system, thereby eliminating the risk of viral transmission, immunological
+problems and the risk of blood-borne disease transmission such as, for example,
+HIV and hepatitis. In contrast, all fibrin glues currently on the market
+(whether autologous or homologous) require foreign protein such as thrombin or
+antifibrinolitic.
+
+Surgical glue represents a fast growing segment of the biotech industry.
+Clinical trials have been done especially for skin replacement and skin grafts
+eliminating the need for protein based skin grafts. Following the successful
+result of the phase III human clinical trail for specific indications, the
+product file has been approved by the appropriate French authorities Agence
+Francaise de Securite Sanitaires des Produits de Sante (AFSSAPS) the French
+equivalent of the Food and Drug Administration. On September 14, 2000, AFSSAPS
+granted to a blood bank the authorization to prepare, use and distribute the new
+autologous fibrin glue that was developed by us. Before we can commence
+commercialization of the autologous fibrin glue, AFSSAPS requires that the
+French blood bank known as Etablissement Francaise du Sang ("EFS"), the
+exclusive operator of blood transfusions in France, prepare a report following
+up on the progress of the first fifty (50) patients treated with the autologous
+fibrin glue.
+
+3
+
+We have been coordinating the program to prepare the report with EFS and the
+blood bank of the French Army in Clamart, known as CTSA. The inclusion of
+patients began in April of 2002. Shortly thereafter, we were required to suspend
+the trial after testing of nine preparations in which a technical problem with
+the testing materials was observed. Three of these nine preparations were
+successful and have been used by surgeons on patients with successful results.
+Other preparations could not be used by surgeons. However, the discovery of this
+problem with the materials will help us to ensure that the final product is safe
+for patients.
+
+The investigation and correction of the technical problem has provided us with
+additional information on how to properly prepare and use the final product. On
+the basis of this information, we believe that the complication which was
+discovered during the trial was due to the quality of material used by the
+manufacturer in the production of the medical device and not with the autologous
+fibrin glue itself. The medical device we developed is manufactured by a third
+party pharmaceutical group.
+
+We have concluded our investigation of this problem and have determined that we
+must replace the manufacturer and the preparation materials used in order to
+restart the clinical trails required by AFSSAPS. We have not resumed clinical
+trials as we have not yet reached an agreement with a new manufacturer. We are
+in negotiations with several accredited medical device manufacturers which
+specialize in the type of blood bags needed for our medical device. We cannot
+give any specific date for resumption of clinical trails. We cannot assure that
+we will be able to complete our clinical trails successfully. We anticipate
+resuming the inclusion of patients and preparation before the end of 2006.
+However, we may be unable to resume the patient inclusion in 2006. Failure to
+successfully complete these trails could prevent us from obtaining authorization
+to market this product and could negatively affect our financial condition.
+
+Our technology underlying this application is protected by strong patent titles
+owned by our wholly-owned subsidiary in many countries around the world where
+patents applications were filed. Thus far, most of these have been granted and
+issued by the official government patent offices in the countries where they
+were filed, including most European Community countries, Switzerland, Canada,
+Japan, Australia, and in the United States by the US Department of Commerce
+Patent and Trademark Office.
+
+During 2005, we also entered into a collaboration agreement with TERUMO EUROPE
+N.V, a European Subsidiary of TERUMO CORPORATION a Japanese company which is
+active in healthcare area in order to conduct a test protocol to insure the
+feasibility of producing Thrombin from Therapeutic plasma in contact with our
+product, "Biocoral(R)".
+
+The test protocol has been conducted by both companies during 2005. The report
+of the study made by TERUMO EUROPE N.V. and countersigned by the company
+confirmed such feasibility of our Technology.
+
+In addition, at the same time, we entered into a letter of intent "letter of
+Intent" with TERUMO EUROPE N.V., pursuant to which TERUMO intends to obtain the
+right to manufacture and market medical devices covered by our patents and by
+the results of the laboratory test (including any future improvement patents
+covering this technology) of which Biocoral, Inc. is or will be the owner. By
+the same letter of Intent, Biocoral, Inc. commits itself to negotiate a possible
+cooperation agreement regarding the "Thrombin preparation from Therapeutic
+Plasma and Biocoral(R) with TERUMO on an exclusive basis. These exclusive
+negotiations took place for a period of three (3) months. The company declined
+to extend the exclusivity period in order to be free to pursue any better
+proposal for development of its technology relative to which we have received
+indications of interest.
+
+Composite Biocoral and Growth Factor
+
+For more than 16 years, studies have been undertaken to demonstrate that it is
+possible to accelerate the bone repair process by combining growth factors with
+a support matrix such as Biocoral(R). Some scientific research has shown that
+Biocoral(R), as a biomaterial, represents a useful support for growth factors.
+European clinical trials conducted over the past six years have had positive
+results confirming the acceleration of the bone repair process. Our technology
+underlying this application is protected by strong patents owned by our
+wholly-owned subsidiary in many countries around the world where patents
+applications were filed. Our patent applications in this application have thus
+far been granted in every country where filed by their official government
+patent offices, including 17 European Community countries, Canada, Japan,
+Australia, and in the United States by the US Department of Commerce Patent and
+Trademark Office.
+
+4
+
+Raw Materials and Manufacturing
+
+The primary raw material used by us to manufacture Biocoral(R), is natural
+coral. The coral used in our products is presently sourced from New Caledonia,
+but is also found in abundance in wide areas of the Indian and Pacific Oceans.
+We believe that our existing inventory of coral, together with coral sources
+immediately available to us, are sufficient to meet our present and future
+needs. To date, coral prices have been stable but no assurance can be had that
+they will not rise. We are, however, unaware of any factors which are likely to
+have a material adverse effect on our ability to obtain coral at a competitive
+price.
+
+For the past five years, the Company has collaborated with accredited scientists
+as well as with a special laboratory located at one of most prestigious European
+universities to develop a method of purification of its raw material "coral," in
+order to remove the trace amounts (between 0.016 to 0.026% depending upon the
+type of coral used) of amino acids which were present, without any change in
+chemical and crystalline structure of the coral. As a result of these efforts,
+the small percentage of amino acid can now be removed from our raw material. Our
+work on some final technical issues is now finished, and we expect to be able to
+put the method in place in our manufacturing process before the end of 2006. The
+purification of raw materials permits us to improve their performance and to
+offer what we believe to be the only natural 100% mineral bone substitute
+product in the world. We also filed a patent for this purification method
+including the final product issued from it. The patent will protect our main
+product for an additional 20 years. The patent was filed in France in 2003, with
+PCT extension in December 2004.
+
+The Company's manufacturing facility, located in Saint-Gonnery in France,
+complied with ISO 9002 norms and has been ISO 9002 rated since August 1995. On
+October 25, 1996, the manufacturing facility was granted, in addition to the ISO
+9002 certification, European Norms 46002 certification for the quality assurance
+system set up in the manufacturing process of Biocoral(R), and, on December 30,
+1996, the manufacturing facility was granted the EC certification allowing sales
+of Biocoral(R), throughout the European Community which was renewed in 2001. The
+EC certificate is valid until December 2006. The company has already made the
+arrangements for the renewal of its EC certificate for last quarter 2006. During
+October 2004, the manufacturing facility was audited by TUV Rheinland France and
+its certifications have been renewed for an additional five years until 2009 and
+the facility was classified as ISO 13485:00 certification. The Company also
+obtained the extension of its certification to ISO 13485 (1996) which allows the
+Company to continue offering its products in CANADA. Additionally, we are
+audited once a year by TUV Rheinland France to maintain our certifications. In
+December 2005, the Company was audited by TUV Rheinland France for an annual
+audit and extension of its certification from ISO 13485:00 and ISO 13485 (1996)
+certification to ISO 13485: 2003 which we successfully obtained.
+
+We believe this facility is adequate to service our present and medium-term
+future needs.
+
+Competition
+
+Our Biocoral(R) product competes with (i) natural bone obtained from autograft
+procedures and allograft sources; and (ii) two other synthetic bone products,
+one marketed in the United States by Interpore International, Inc. a
+publicly-held company with significantly greater resources and distribution
+capabilities than ours, and another that was approved by the FDA in May 1993.
+
+In May 1993, a second bone graft substitute was approved by the FDA. This
+product consists of hydroxyapatite- alcium phosphate and bovine collagen, which
+must be mixed with the patient's own bone marrow. We believe that this
+three-part system is more difficult to use due to the mixing process and has
+inferior mechanical qualities. It also requires efrigeration, has a shorter
+shelf life and raises the risks of adverse reaction in patients allergic to
+bovine collagen, and poses risk of infection. In addition, many countries have
+prohibited the commercialization of product utilizing bovine collagen as a base.
+
+In October of 1998, Interpore introduced resorbable Pro Osteon(TM). Pro
+Osteon(TM) is harvested from marine coral xoskeletons that are hydrothermally
+converted to hydroxyapatite, the natural mineral composition of bone. Pro
+Osteon(TM)'s interconnected porous structure closely resembles the porosity of
+human cancellous or cortical bone. When placed in contact with viable bone, the
+implant provides a strong, natural foundation for new bone ingrowth and offers
+structural support during the healing process. Upon healing, the composite of
+bone and Pro Osteon is comparable in strength to the surrounding bone.
+
+Effective June 22, 2004, Interpore closed its merger with Biomet, Inc. pursuant
+to which Biomet acquired all of the outstanding shares of Interpore stock for
+cash at $14,50 per share with a 29% premium for a total amount of $259 million.
+
+5
+
+Autograft and allograft bone have been used for graft material for a much longer
+period of time than Biocoral(R) and similar materials, and in order to increase
+our future sales of Biocoral(R), we will have to demonstrate to the medical
+community the surgical and patient advantages, safety, efficacy, cost
+effectiveness and clinical results of Biocoral(R). Most of our competitors have
+substantially greater resources, larger market share and greater research and
+development capabilities than ours and may, therefore, be expected to compete
+aggressively and successfully in the markets for our products.
+
+We believe that Biocoral(R) provides an attractive alternative to autograft and
+allograft bone graft materials. In an autograft procedure, bone material is
+first harvested from another part of the patient's skeleton and then, in a
+second procedure, grafted to the site of the bone deficit. The harvesting
+procedure increases operating time and expense, and can lead to complications
+such as infection, excessive blood loss, chronic pain and deformity. When an
+autograft is not feasible or desirable, allograft bone, typically obtained from
+a cadaver, can be used. In order to maintain mechanical and biological
+properties, some allograft bone is not sufficiently secure to avoid all risks of
+disease transmission. Therefore, unlike Biocoral(R), which is a sterile and
+biocompatible material, allograft bone carries the risks of implant rejection
+and the transmission of infectious agents such as hepatitis and HIV. The use of
+Biocoral(R) entails none of these risks and provides clinical results comparable
+to those of autograft material in suitable condition for use.
+
+Biocoral(R) was originally patented in France in 1979, in the United States in
+1982, and in Japan in 1989. Our French subsidiary acquired the patent rights to
+Biocoral(R) from ANVAR/CNRS, the French National Center for Scientific Research,
+a French governmental agency. Through our subsidiaries, we have developed an
+additional ten titles of patents for various applications and uses of our
+products, such as osteoporosis remediation, autologous glue, combination with
+growth factor, among others. Through these ten titles patent applications in
+various countries in Europe, Canada, the United States, Japan, Australia, and
+Switzerland, we own more than 219 patent applications around the world and
+approximately 166 of which have thus far been granted by various countries by
+their official government patent office, including most European Community
+countries, Canada, Australia, Japan and in the United States by the US
+Department of Commerce Patent and Trademark office.
+
+Homologous fibrin sealant is biologically prepared from large plasma pools, with
+the addition of other biologicals such as thrombin and anti fibrinolytics
+products necessary for their activation. Even after a safety process has been
+implemented, there can be residual unexpected viral transmission or
+immunological problems. Safer autologous fibrin glue can be prepared by
+different processes, but are not standardized and need other biologicals such as
+thrombin and antifibrinolytics.
+
+The new autologous fibrin glue prepared by our innovative medical device is
+standardized and truly safe due to the use of calcium as an activator, without
+the addition of any other biologicals such as thrombin or antifibrinolytics. In
+addition, the composition remains constant in terms of components and
+properties.
+
+Our technology underlying this application is protected by strong patent titles
+in many countries around the world where patent applications were filed. Thus
+far, most of these have been granted and issued by the official government
+patent offices in the countries where they were filed, including most European
+Community countries, Switzerland, Canada, Japan, Australia, and in the United
+States by the US Patent and Trademark Office.
+
+One of our patent titles covers technology called "method for preparation of
+biological adhesive enriched with platelet factors and application". Our patent
+applications in this application have thus far been filed and granted by the
+official government patent offices of various countries, including France and 15
+European Community countries, Japan, and in the United States by the US
+Department of Commerce Patent and Trademark Office. However, our patent
+application covering this technology in Japan, after being granted in October
+1999, received written opposition from Thermogensis Corp of California in June
+2000. We were required to defend the patent against this opposition. The
+Japanese Patent Office rejected the opposition in May 2003, and the patent was
+reaffirmed.
+
+We have been able to compete in Europe against producers that also sell products
+in the United States. Despite their significantly greater resources, management
+believes that it will, once our products have been approved by the FDA, be able
+to be competitive with such companies because of the quality of our products.
+See "Business -- Government Regulation." Biocoral(R) has been used in European
+dental applications for more than 17 years. This use, together with the
+scientific results of our in vivo use and clinical trials have demonstrated the
+efficacy of using Biocoral(R) for bone regeneration in dental applications. We
+compete with many businesses in the production and distribution of
+
+6
+
+biomaterials for filling bone cavities before rehabilitation of partially and
+totally edentulous patients. These businesses compete primarily on the basis of
+product performance and price, as well as customer loyalty and service.
+Biocoral(R) also competes with bone grafts and bone graft substitutes. Companies
+selling competitive products sometimes also sell dental implants, so bundling
+these products is often a strategy. All of these businesses compete primarily on
+the basis of product performance and price, as well as on customer loyalty and
+service.
+
+Management believes that our products are superior to our competitors' products.
+We have identified the requirements for this application and approached a US
+medical supply distributor in order to access the US market. An accredited
+scientific team in the US has conducted human clinical studies with a 5 year
+follow up to confirm bone reconstruction in oral application. This study
+confirmed the stability of the successful result and management believes that
+this study will facilitate FDA approval for our product used in this indication
+when we file for FDA approval. We have begun to make arrangements for the
+commencement of clinical trials for certain of our products with a long term/
+medium term view toward FDA approval thereof. In the interim, we will focus on
+increasing our European and other sales of our products and entering into joint
+ventures with key strategic partners for distribution of our products, research
+and development and the like. No assurance can be given that any such
+arrangements will be reached or that they will be profitable.
+
+We believe that in certain cases, some of our competitors may be infringing on
+our patents. We are exploring various options for enforcing these patents where
+necessary. Bio Holdings, our wholly-owned subsidiary and the owner of all of our
+patents, has sent warnings to these possible infringers in France, England and
+Germany. The Company is considering pursuing legal action against these possible
+infringers in United States and other countries in Europe.
+
+Governmental Regulation
+
+Biocoral(R) has been approved for marketing in Europe, Korea, South Africa,
+Canada and Australia. Biocoral(R) has been approved for reimbursement in France
+by French National Health Authority (Securite Sociale) and is listed on the
+"Liste des Produits et Prestations Remboursables" (LPPR) reimbursement by French
+National Health Authority. Our products are subject to significant government
+regulation in the United States and other countries. To test clinically, and to
+produce and mass market products for human diagnostic and therapeutic use in the
+United States, we must comply with mandatory procedures and safety standards
+established by the Food and Drug Administration ("FDA") and comparable state and
+foreign regulatory agencies. Typically, such standards require that products be
+approved by the government agency as safe and effective for their intended use
+before being marketed for human applications.
+
+There are two principal methods by which we may obtain FDA approval to market
+regulated products in the United States. One method is to seek FDA approval
+under the 510(k) procedure. Section 510(k) of the Food, Drug and Cosmetic Act
+requires those device manufactures who must register to notify the FDA, at least
+90 days in advance, of their intent to market a medical device. This is known as
+Premarket Notification - also called PMN or 510(k). It allows the FDA to
+determine whether the device is equivalent to a device already placed into one
+of the three classification categories. Thus, "new" devices (not in commercial
+distribution prior to May 28, 1976) that have not been classified can be
+properly identified. Specially, medical device manufacturers are required to
+submit a premarket notification if they intend to introduce a device into
+commercial distribution for the first time or reintroduce a device that will be
+significantly changed or modified to the extent that its safety or effectiveness
+could be affected. Such change or modification could relate to the design,
+material, chemical composition, energy source, manufacturing process, or
+intended use.
+
+In the past, we have had discussions with the FDA, which indicated that
+Biocoral(R) may be classified as a Class 3 Medical Device in the United States
+and may be considered equivalent to Pro Osteon(TM) (Pro Osteon) which is a bone
+graft substitute, already registered by the FDA. See "Competition." We believe
+that the 510(k) procedure should apply to Biocoral(R). If the 510(k) procedure
+were applied to Biocoral(R), an FDA audit would not be necessary before the
+homologation could be granted. To the best of our knowledge, the FDA can require
+an audit at any time.
+
+An accredited scientific team in the US has conducted human clinical studies
+with a five-year follow-up to confirm bone reconstruction in oral application.
+This study confirmed the stability of the successful result and management
+believes that this study will facilitate FDA approval of our product used in
+this indication when we file for such approval.
+
+The alternative method is to obtain premarket approval ("PMA") from the FDA.
+Under the PMA procedure, the applicant must obtain an Investigational Device
+Exemption (IDE) before beginning the substantial clinical testing required to
+determine the safety, efficacy and potential hazards of the products. The review
+period under the PMA
+
+7
+
+procedure may last for several years. The FDA also imposes requirements on
+manufacturers and sellers of products under its jurisdiction, such as labeling,
+manufacturing practices, record keeping and reporting. Obtaining such approvals
+in the US could take some time and involve substantial expenditures. No clinical
+testing on humans may be undertaken in the United States without first obtaining
+an IDE from the FDA.
+
+Employees
+
+Except for our wholly-owned French subsidiary, we currently have no employees
+other than our officers and directors who devote as much time as they believe
+necessary to conduct our business and maintain our operations. French
+subsidiaries currently has nine employees all of whom are full time. In
+addition, we engage the services of various scientific and research consulting
+teams under consulting contracts, working on research and development projects
+in different laboratories and hospitals in France and other countries.
+
+Subsidiaries
+
+The company conducts its operation in Europe via several subsidiaries, including
+its French and UK subsidiaries and others.
+
+Bio Holdings International Limited
+
+Bio Holdings International Limited is one of the company's wholly-owned
+subsidiaries which was formed to hold and manage the principal patents of the
+company. We own all of Bio Holdings's outstanding shares, and cover all of Bio
+Holdings's expenses:
+
+      -     deposits and files all patents and follows up with the patent
+            counsels and patent offices in each country where the patents are
+            filed;
+
+      -     extends filing territory and works to protect our patents; and
+
+      -     looks after and maintains patents.
+
+Item 1A. Risk Factors
+
+      To date, we have generated only limited revenues from sales of our
+products and have an accumulated deficit.
+
+      Until 2005, more than two-thirds of our business was in research and
+development with an emphasis on developing our technology in order to produce
+marketable products. We have completed most of our research program and are now
+ready to begin commercialization and marketing of our products. However, to
+date, we have generated only limited revenues and have had to raise capital from
+investors through debt and equity offerings in order to sustain our research and
+development efforts. For the fiscal year ended December 31, 2005, we had net
+sales of approximately $316,200 an accumulated deficit of 20,159,946.
+
+      We can provide no assurance of the successful and timely marketability of
+our products.
+
+      Products using our technology are in the late stages of research and
+development. Further testing will be required to determine their commercial
+viability. Our success will depend on our ability to make out products
+commercially competitive products on a timely basis. The pre-marketing schedules
+for our products may be affected by a variety of factors, including
+difficulties, proprietary technology of others, and changes in governmental
+regulation, many of which will not be within our control. Any delay in the
+pre-marketing, introduction or marketing of our products could result either in
+such products being marketed at a time when their cost and performance
+characteristics would not be competitive in the marketplace or in the shortening
+of their commercial lives. In light of the long-term nature of our projects, the
+unproven technology involved and the other factors, there can be no assurance
+that we will be able to market our products successfully.
+
+      We must comply with significant government regulations.
+
+      The manufacture, pre-marketing and marketing of biotechnologies and
+biomaterials for use in health care are subject to regulation, primarily by the
+FDA in the United States and by comparable authorities in other countries. These
+national agencies and other federal, state, local and foreign entities regulate,
+among other things, research and
+
+8
+
+development activities (including testing in animals and in humans) and the
+testing, manufacturing, handling, labeling, storage, record keeping, approval,
+advertising and promotion of the products that we are developing. Noncompliance
+with applicable requirements can result in various adverse consequences,
+including, delay in approving or refusal to approve product licenses or other
+applications, suspension or termination of clinical investigations, revocation
+of approvals previously granted, fines, criminal prosecution, recall or seizure
+of products, injunctions against shipping products and total or partial
+suspension of production and/or refusal to allow a company to enter into
+governmental supply contracts.
+
+      We rely upon patents to protect our technology. We may be unable to
+protect our intellectual property rights.
+
+      Our ability to compete effectively will depend on our ability to maintain
+the proprietary nature of our technologies, including Biocoral(R) and its use in
+different applications. Through twelve patent title applications in various
+countries in Europe, Switzerland, Canada, Japan, Australia, and the United
+States, we own more than 219 patent applications around the world, approximately
+166 of which have thus far been granted by various countries. We depend upon
+confidentiality agreements with our officers, employees and contracting
+counterparties to maintain the proprietary nature of the technology. These
+measures may not afford us sufficient or complete protection, and others may
+independently develop technology similar to ours, otherwise avoid the
+confidentiality agreements, violate our patents or produce patents that would
+materially and adversely affect our business, prospects, financial condition,
+and results of operations. Such competitive events, technologies and patents may
+limit our ability to raise funds, prevent other companies from collaborating
+with us, and in certain cases prevent us from further developing our technology
+due to third party patent blocking right.
+
+      We rely upon third parties for the manufacturing and distribution of some
+of our products.
+
+      We manufacture our main product, Biocoral(R), through our wholly-owned
+manufacturing subsidiary. However, for manufacture of our medical device, which
+allows the preparation of our autologous glue, once the product is ready for
+marketing, we rely on third party manufacturers. Our reliance on third parties
+for the manufacture of our products creates a dependency that could severely
+disrupt our research and development, our clinical testing, and ultimately our
+sales and marketing efforts if the source of such supply proves to be unreliable
+or unavailable. If the contracted manufacturing source is unreliable or
+unavailable, we may not be able to manufacture or market our products.
+
+      If we are unable to establish or manage strategic collaborations in the
+future, our revenue and product development may be limited.
+
+      Our strategy includes substantial reliance upon strategic collaborations
+for development, marketing and commercialization of our products. Establishing
+strategic collaborations is difficult and time-consuming. Our discussion with
+potential collaborators may not lead to the establishment of collaborations on
+favorable terms, if at all. If we successfully establish new collaborations,
+these relationships may not result in the successful development or
+commercialization of our product candidates or the generation of sales revenue.
+To the extent that we enter into co-promotion or other collaborative
+arrangements, our product revenues are likely to be lower than if we directly
+marketed and sold any products that we may develop.
+
+      If we enter into manufacturing and marketing collaborations, our success
+will in part depend on the performance of our collaborators. We will not
+directly control the amount or timing of resources devoted by our collaborators
+to activities related to our product candidates. Our corporate collaborators may
+not commit sufficient resources to our pre-marketing and manufacturing programs
+or the commercialization, marketing or distribution of our products. If any
+collaborator fails to commit sufficient resources, our pre-marketing and
+marketing programs related to this collaboration could be delayed or terminated.
+Also, our collaborators may pursue other existing or development-stage products
+or alternative technologies in preference to those being developed in
+collaboration with us. Finally, if we fail to observe our obligations in our
+agreements with them, our collaborators may have the right to terminate those
+agreements.
+
+9
+
+We may incur substantial liabilities from any product liability claims if
+our insurance coverage for those claims is inadequate.
+
+      We currently have product liability insurance which we believe adequately
+covers potential liability which may arise from our products. However, we cannot
+be certain that our insurance will be adequate to cover every claim we may face.
+We may face an inherent risk of product liability exposure related to the sale
+and use of our products. An individual may bring a liability claim against us if
+one of the products causes, or merely appears to have caused, an injury. If we
+cannot successfully defend ourselves against the product liability claim, we
+will incur substantial liabilities. Regardless of merit or eventual outcome,
+liability claims may result in decreased demand for our product candidates,
+injury to our reputation, withdrawal of clinical trial participants, costs of
+related litigation, substantial monetary awards to patients or other claimants,
+loss of revenues, the inability to commercialize product candidates, and
+increased difficulty in raising required additional funds in the private and
+public capital markets.
+
+      We depend upon our senior management and key consultants and their loss or
+unavailability could put us at a competitive disadvantage.
+
+      We depend upon the efforts and abilities of our senior executive, Nasser
+Nassiri, and other members of our management team and scientific advisors. The
+loss or unavailability of the services of any of these individuals for any
+significant period of time could have a material adverse effect on our business,
+prospects, financial condition and results of operations. We have not obtained,
+do not own, nor are we the beneficiary of, key-person life insurance. See
+"Management--Employment Agreements".
+
+      The biotechnology and biomaterials industries are characterized by a high
+degree of competition. We may be unable to compete with more substantial
+enterprises.
+
+      The biotechnology and biomaterials industries are characterized by a high
+degree of competition. Competition in the biomaterials industry is based
+significantly on scientific and technological factors. These factors include the
+availability of patent and other protection for technology and products, the
+ability to commercialize technological developments and the ability to obtain
+governmental approval for testing, manufacturing and marketing. We compete with
+specialized biotechnology firms in the United States, Europe, Japan and
+elsewhere, as well as pharmaceutical companies that are applying biotechnology
+to their operations. Our ability to compete successfully with other companies in
+the pharmaceutical field will also depend to a considerable degree on our
+ability to raise capital to fund the development and marketing of our products.
+
+      We are aware of certain competitors who are attempting to utilize our
+technology and produce products similar to or competitive with ours. Our
+technologies are protected by strong patents in many countries around the world.
+Accordingly, we believe we can successfully challenge any misappropriation of
+our technology by our competitors.
+
+      Our competition will be determined in part by the potential applications
+for which our products are developed and ultimately approved by regulatory
+authorities. Additionally, the timing of market introduction of some of our
+potential products or of competitors' products may be an important competitive
+factor. Accordingly, the relative speed with which we can develop products,
+complete pre-clinical testing, clinical trials and approval processes and supply
+commercial quantities to market are expected to be important competitive
+factors. We expect that competition among products approved for sale will be
+based on various factors, including product efficacy, safety, reliability,
+availability, price and patent position. (See "Item 1. Description of Business
+- -- Competition.")
+
+      We may incur increased costs as a result of recently enacted and proposed
+changes in laws and regulations relating to corporate governance matters.
+
+      Recently enacted and proposed changes in the laws and regulations
+affecting public companies, including the provisions of the Sarbanes-Oxley Act
+of 2002 and rules adopted or proposed by the SEC and, will result in increased
+costs to us as we evaluate the implications of these laws and regulations and
+respond to their requirements. These laws and regulations could make it more
+difficult or more costly for us to obtain certain types of insurance, including
+director and officer liability insurance, and we may be forced to accept reduced
+policy limits and coverage or incur substantially higher costs to obtain the
+same or similar coverage. The impact of these events could also make it more
+difficult for us to attract and retain qualified persons to serve on our Board
+of Directors, our board committees or as executive officers. We are continuously
+evaluating and monitoring developments with respect to these laws and
+regulations and cannot predict or estimate the amount or timing of additional
+costs we may incur to respond to their requirements.
+
+10
+
+A limited public trading market may cause volatility in the price of our
+common stock and may cause it to be illiquid.
+
+      Our common stock is quoted on the OTC Bulletin Board under the symbol
+BCRA. The quotation of our common stock on the OTC Bulletin Board does not
+assure that a meaningful, consistent and liquid trading market currently exists,
+and, in fact, in recent years the market for our stock has experienced extreme
+price fluctuations and traded in low volume. The illiquidity of our common stock
+could make it difficult for a stockholder to sell or otherwise dispose of
+shares.
+
+      We do not intend to pay dividends.
+
+      We do not expect to pay any cash dividends in the foreseeable future.
+
+Item 1B. Unresolved Staff Comments.
+
+None.
+
+Item 2. Description of Property.
+
+Our French subsidiary currently leases its principal executive offices from an
+unrelated third party for an aggregate annual rent of approximately $56,000
+(approximately 46,000 euros).
+
+We previously leased our manufacturing facility in Saint Gonnery in the west of
+France until the year 2001. We now own the property which includes a reception
+area, laboratory-chemistry and bacteriology area, workshop maintenance area,
+stock F area, stock SM area, laboratory-prothes area, stock 1 area, room
+dresses, radio operator area, raw material area, an local conditioning and
+control, drying and washing area, management and accountancy area.
+
+Item 3. Legal Proceedings.
+
+None.
+
+Item 4. Submission of Matters to a Vote of Security Holders.
+
+None.
+
+                                     PART II
+
+Item 5. Market for Common Equity and Related Stockholder Matters.
+
+At December 31, 2005 there were 11,353,816 shares of our common stock issued and
+outstanding. Our common stock trades on the OTC Bulletin Board. The following
+table sets forth information regarding the high and low closing price per share
+for our common stock on the OTC Bulletin Board as reported by
+SiliconInvestor.com(TM). Such prices do not necessarily reflect actual
+transactions and do not include retail mark-ups, mark-downs or commissions.
+
+Quarter Ended                             High                        Low
+- -------------                             ----                        ---
+December 31, 2005                        $22.50                      $12.00
+September 30, 2005                       $24.00                      $24.00
+June 30, 2005                            $20.00                      $ 3.00
+March 31, 2005                           $55.00                      $13.00
+
+December 31, 2004                        $15.50                      $10.05
+September 30, 2004                       $20.00                      $ 7.00
+June 30, 2004                            $35.00                      $20.00
+March 31, 2004                           $95.00                      $40.00
+
+11
+
+Holders
+
+As of December 31, 2005, there were approximately 400 holders of record of the
+shares of our common stock including several European financial and portfolio
+institutions.
+
+Dividends
+
+We have paid no cash dividends on our equity securities to date and do not
+anticipate the payment of cash dividends on our equity securities in the near
+future. We paid a dividend of one share of our common stock for each three
+shares owned on December 18, 1995 and paid, in December 1996, another stock
+dividend of one share for each three shares owned as of November 6, 1996.
+
+Recent Sales of Unregistered Securities
+
+During January 2005, the Company received $300,000 in connection with the
+subscription of the 7% Notes sold on December 2004. During September 2005, the
+Company sold to an accredited investor an additional $200,000 of the 7% Notes.
+(See Note 8.)
+
+All Notes as described above were sold to "accredited investors" only in a
+private placement intended to be exempt from registration pursuant to the
+provisions of Regulation D of the Securities Act of 1933.
+
+We believe that the sales of the above securities were deemed to be exempt from
+registration under the Securities Act in reliance on Section 4(2) of the
+Securities Act of 1933, as amended, or Regulation D promulgated thereunder. The
+recipients of securities in each such transaction represented their intentions
+to acquire the securities for investment only and not with a view to or for sale
+in connection with any distribution thereof and appropriate legends were affixed
+to the instruments representing such securities issued in such transactions. All
+recipients either received adequate information about us or had adequate access,
+through their relationships with us, to such information.
+
+Item 6.  Selected Financial Data
+
+Item 7. Management's Discussion and Analysis of Financial Condition and Results
+of Operations
+
+The following discussion and analysis should be read in conjunction with our
+consolidated financial statements and notes included in the financial statement
+contained elsewhere in this annual report.
+
+12
+
+Summary of Significant Accounting Policies and Estimates
+
+This discussion and analysis of our financial condition and results of
+operations is based upon our consolidated financial statements, which have been
+prepared in accordance with accounting principles generally accepted in the
+United States of America. The preparation of these consolidated financial
+statements requires us to make estimates and judgments that affect the reported
+amounts of assets, liabilities, revenues, and expenses, and related disclosures
+of contingent assets and liabilities. On an on-going basis, we evaluate our
+estimates, including those related to accounts receivable, property and
+equipment, stock based compensation and contingencies. We base our estimates on
+historical experience and on various assumptions that are believed to be
+reasonable under the circumstances, the results of which form the basis for
+making judgments about the carrying values of assets and liabilities that are
+not readily apparent from other sources. Actual results may differ from these
+estimates under different assumptions or conditions. The assumptions and bases
+for estimates used in preparing our consolidated financial statements are set
+forth as significant accounting policies in Note 3 of the notes to the
+consolidated financial statements included in this annual report and are
+summarized below:
+
+Intangible Assets. Intangible assets consist of expenses incurred on approved
+patents and on the successful defense of approved patents. Amortization is
+computed using the straight-line method over the estimated period of benefit.
+The valuation of these intangible assets is based upon estimates as to the
+current value of each patent and the period of benefit and such estimates are
+subject to fluctuations. The value of a particular patent could fluctuate based
+upon factors, such as competing technology or the creation of new applications,
+which are not accounted for in making, but could affect, the estimates used.
+
+Allowance for Doubtful Accounts. We estimate uncollectibility of trade accounts
+receivable by analyzing historical bad debts, customer concentrations, customer
+creditworthiness and current economic trends when evaluating the adequacy of the
+allowance for doubtful accounts. We consider these factors to be the best
+available indicators of the likelihood of collection of trade accounts
+receivable. However, they are subject to uncertainty, and collectibility cannot
+be precisely determined.
+
+Investment in Limited Partnership. We own an investment in a limited
+partnership, which is accounted for under the equity method of accounting. Under
+this method, the initial investment is recorded at cost. Subsequently, the
+investment is increased or decreased for our pro-rata share of the partnership's
+income and losses. No ready trading market exists for this partnership interest
+by which we can determine with any certainty its value. Moreover, because it is
+initially valued at cost, which in turn is based upon negotiations between us
+and the limited partnership, this initial valuation may or may not reflect the
+value which an independent third party would assign to the partnership interest.
+This investment is illiquid, and, should we determine to liquidate it, we may be
+unable to do so at a price that equals or approximates the valuation reflected
+on our balance sheet.
+
+Results of Operations
+
+Fiscal 2005 vs. 2004
+
+Net sales, which are solely attributable to our wholly owned European
+subsidiaries, totaled approximately $316,200 for the year ended December 31,
+2005, a decrease of approximately $35,400 (or approximately 10%) from
+approximately $351,600 for the year ended December 31, 2004. This decrease is
+partially attributable in particular to a decrease in sales of products in the
+maxillocraniofacial surgery area in France and decrease in orders from our
+distributor during 2005 which was due to the internal reconstruction of their
+organization.
+
+Cost of sales was approximately $222,400 for the year ended December 31, 2005,
+an increase of approximately $50,300 (or approximately 29.3%) from approximately
+$172,100 for the year ended December 31, 2004. The main factor contributing to
+this increase was an increase in some of the company's fixed charges that were
+attributed to cost of sales.
+
+As discussed above in reference to net sales and cost of sales, all of our sales
+are made outside the United States and as such, we primarily account for
+earnings and costs in euros. In order to comply with GAAP, our financial
+statements as well as the following discussion are in terms of U.S. dollars.
+Accordingly, the expenses discussed below may partially differ as a result of
+fluctuating exchange rates in addition to the other factors discussed.
+
+Operating expenses were approximately $817,600 during the year ended December
+31, 2005, a decrease of approximately $76,400 (approximately 8.5%) from
+approximately $894,000 for the year ended December 31, 2004. This decrease was
+primarily due to a decrease in the company's research and development activities
+during in 2005.
+
+13
+
+Consulting and professional fees during the year ended December 31, 2005 were
+approximately 321,900, an increase of $60,700 (or approximately 23.2%) compared
+to approximately $261,200 during the year ended December 31, 2004. Most of these
+fees are incurred in Europe, and as such, a portion of the increase resulted
+from exchange rate fluctuations and part of increase was attributable to
+consulting fees associated with the development of the next generation of
+products. Finally there were additional professional fees associated with the
+compliance for the Sarbanes-Oxley Act of 2002.
+
+Other income (net of expenses) totaled approximately $(162,000) of expense for
+the year ended December 31, 2005 as compared to approximately $66,000 of income
+for the year ended December 31, 2004. This decrease was primarily due to the
+fact that there was no forgiveness income in 2005 ($297,800 in 2004) and there
+was no accrual of approximately $54,000 for estimated litigation.
+
+As a result of the above, our net loss for the year ended December 31, 2005
+totaled approximately $885,800 or $.08 per share compared to a net loss of
+approximately $496,200 or $.04 per share for the year ended December 31, 2004.
+
+These losses per share were based on weighted average common shares outstanding
+of 11,353,816 & 11,299,267 for the years ended December 31, 2005 and 2004
+respectively.
+
+Fiscal 2004 vs. 2003
+
+Net sales, which are solely attributable to Inoteb, SA ("Inoteb"), our
+wholly-owned French subsidiary, totaled approximately $352,000 for the year
+ended December 31, 2004, a decrease of approximately $10,000 (or approximately
+2.8%) from approximately $362,000 for the year ended December 31, 2003. This
+decrease is partially attributable to a decrease in sales of products in the
+maxillocraniofacial surgery area in France and the orthopedic and neurosurgery
+markets during 2004. This decrease also resulted from stock (storage) levels
+accumulated at our distributors in particular in Greece where we had no orders
+in 2004 compared to 2003 and to a greater overall reduction in sales activity
+for the year ended December 31, 2004 versus the year ended December 31, 2003.
+
+Cost of sales was approximately $172,000 for the year ended December 31, 2004,
+an increase of approximately $115,000 (or approximately 200%) from approximately
+$57,000 for the year ended December 31, 2003. The main factor contributing to
+this decrease was a variation of gross inventories and the impact of booking at
+the year ended December 31, 2003 of gross inventories of resterilizable goods.
+It is also partially due to the revision in the method of calculation of cost of
+sales under GAAP in 2003.
+
+As discussed above in reference to net sales and cost of sales, all of our sales
+are made outside the United States and as such, we primarily account for
+earnings and costs in euros. In order to comply with GAAP, our financial
+statements as well as the following discussion are in terms of U.S. dollars.
+Accordingly, the expenses discussed below may partially differ as a result of
+fluctuating exchange rates in addition to the other factors discussed.
+
+Operating expenses were approximately $894,000 during the year ended December
+31, 2004, an increase of approximately $140,000 (approximately 18.6%) from
+approximately $754,000 for the year ended December 31, 2003. This increase was
+primarily due to increased costs in our wholly-owned subsidiary, Bio Holdings
+International LTD, related to additional patent costs in 2004.
+
+Consulting and professional fees during the year ended December 31, 2004 were
+approximately 261,000, an increase of $18,000 (or approximately 7.4%) compared
+to approximately $243,000 during the year ended December 31, 2003. Most of these
+fees are incurred in Europe, and as such, we primarily account for them in
+Euros. A portion of the increase resulted from exchange rate fluctuations and
+part of increase was attributable to consulting fees associated with the
+development of the next generation of products and professional fees associated
+with the Sarbanes-Oxley Act of 2002.
+
+Other income (net of expenses) totaled approximately $66,000 of income for the
+year ended December 31, 2004 as compared to approximately $130,000 of expense
+for the year ended December 31, 2003. This decrease is primarily due the accrual
+of approximately $54,000 for estimated litigation.
+
+As a result of the above, our net loss for the year ended December 31, 2004
+totaled approximately $496,200 or $.04 per share compared to a net loss of
+approximately $319,000 or $.03 per share for the year ended December 31, 2003.
+
+14
+
+These losses per share were based on weighted average common shares outstanding
+of 11,299,267 & 112,297,573 for the years ended December 31, 2004 and 2003
+respectively.
+
+Financial Condition, Liquidity and Capital Resources
+
+Fiscal 2005 vs. 2004
+
+As shown in the accompanying consolidated financial statements, we had net
+losses of approximately $885,800 and $496,200 in 2005 and 2004, respectively.
+The net loss in 2005 and 2004 included a nonrecurring income item relating to
+forgiveness of debt of approximately $297,800 Management believes that it is
+likely that we will continue to incur net losses through at least 2006. We had a
+working capital deficiency and stockholders' deficiency of approximately
+$418,000 and $2,852,000 at December 31, 2005, respectively.
+
+During 2005, we sold $500,000 of 7% convertible promissory notes. We also own
+marketable securities which are classified as available-for-sale and consisted
+of equity securities with an aggregate fair value of approximately $193,800. In
+addition, during February 2006, we received $150,000 additional funds for which
+are yet to be documented as convertible notes payable. Accordingly, management
+believes that we have sufficient liquid resources to operate through at least
+December 31, 2006.
+
+Our marketable securities are classified as available-for-sale and consisted of
+equity securities with an aggregate fair value of approximately $193,800 and a
+cost totaling approximately $646,000 at December 31, 2005. The net unrealized
+holding loss was approximately $452,200 for the year ended December 31, 2005
+which increased accumulated other comprehensive loss, a component of total
+stockholders' deficiency to approximately $603,400 as of December 31, 2005.
+
+For the year ended December 31, 2005, we had a negative cash flow from operating
+activities of approximately $366,200. We had cash provided by financing
+activities of $500,000. Our net loss of approximately $885,800 increased our
+accumulated deficit to approximately $20,160,000 at December 31, 2005.
+
+Fiscal 2004 vs. 2003
+
+As shown in the accompanying consolidated financial statements, we had net
+losses of approximately $496,000 and $319,000 in 2004 and 2003, respectively.
+The net loss in 2004 and 2003 included a nonrecurring income item relating to
+forgiveness of debt of approximately $297,800 and $259,800 respectively
+Management believes that it is likely that we will continue to incur net losses
+through at least 2004. We had a working capital deficiency and stockholders'
+deficiency of approximately $38,000 and $2,126,800 at December 31, 2004,
+respectively.
+
+During 2004, we sold additional 7% convertible promissory notes in the aggregate
+principal amount of $650,000. $350,000 of this amount was received during 2004
+and $300,000 in January 2005. We also own marketable securities which are
+classified as available-for-sale and consisted of equity securities with an
+aggregate fair value of approximately $247,800 at December 31, 2004.
+
+For the year ended December 31, 2004, we had negative cash flow from operating
+activities of approximately $620,000. We had cash provided by financing
+activities of approximately $929,000. Our net loss of approximately $496,000
+increased our accumulated deficit to approximately $19,427,000 at December 31,
+2004.
+
+During the year ended December 31, 2003, we sold a portion of our investments
+available for sale and received approximately $23,100 in proceeds and realized a
+loss on the transaction of approximately $28,300.
+
+Our marketable securities are classified as available-for-sale and consisted of
+equity securities with an aggregate fair value of approximately $247,000 and a
+cost totaling approximately $646,000 at December 31, 2004. The net unrealized
+holding loss was approximately $399,000 for the year ended December 31, 2004
+which increased accumulated other comprehensive loss, a component of total
+stockholders' deficiency to approximately $611,600 as of December 31, 2004.
+
+15
+
+Forward-Looking Statements
+
+In this annual report, we include some forward-looking statements that involve
+substantial risks and uncertainties and other factors that may cause our
+operational and financial activity and results to differ from those expressed or
+implied by these forward-looking statements. In many cases, you can identify
+these statements by forward-looking words such as "may," "expect," "anticipate,"
+"believe," "estimate," "plan," "intend" and "continue," or similar words. You
+should read statements that contain these words carefully because they discuss
+our future expectations, contain projections of our future results of operations
+or of our financial condition, or state other "forward-looking" information.
+Statements relating to restarting of clinical trials for certain of its products
+or receiving certain revenues or proceeds constitute forward-looking statements
+under the federal securities laws. Such statements are subject to certain risks
+and uncertainties that could cause the actual timing of such revenues, clinical
+trials or other events to differ materially from those projected.
+
+You should not place undue reliance on these forward-looking statements. The
+section captioned "Management's Discussion and Analysis of Financial Condition
+and Plan of Operations," as well as any cautionary language in this annual
+report, provide examples of risks, uncertainties and events that may cause our
+actual results to differ materially from our expectations.
+
+Although we believe that the expectations reflected in the forward-looking
+statements are reasonable, we cannot guarantee future results, levels of
+activity, performance or achievements.
+
+We do not undertake any obligation to publicly update or revise any
+forward-looking statements, whether as a result of new information, future
+events or otherwise. Because of the risks and uncertainties, the forward-looking
+events and circumstances discussed in this annual report might not occur.
+
+Item 7A. Quantitative and Qualitative Disclosures About Market Risk.
+
+      Market risk generally represents the risk that losses may occur in the
+values of financial instruments as a result of movements in interest rates,
+foreign currency exchange rates and commodity prices. We do not enter into
+derivatives or other financial instruments for hedging or speculative purposes.
+However, we do invest in Euro-denominated marketable securities which are
+subject to market and exchange-rate risk, and we are generally subject to
+fluctuations in the Euro/Dollar exchange rate for that portion of our operations
+which are conducted in Euros.
+
+Exchange Rate Exposure
+
+      We conduct much of our business operations (and incur substantially all of
+our operating costs other than professional and consulting fees) through our
+European subsidiaries in Euros and, as such, are exposed to risk resulting from
+the fluctuation of exchange rates between the Euro and the US Dollar. We do not
+engage in any hedging or other transactions for the purpose of minimizing this
+risk. However, we do invest in certain Euro-denominated marketable securities as
+discussed below. (See "Item 7 -- Management's Discussion and Analysis of
+Financial Condition and Results of Operations" for a discussion of the effect of
+Euro/Dollar fluctuations on our results of operations.)
+
+Marketable Securities
+
+      A portion of our Euro/Dollar exchange rate exposure arises from our
+investment in marketable securities. We classify our investments in marketable
+securities as available for sale, and those that we intend to hold for more than
+one year as non-current. Unrealized holding gains and losses are reported as a
+separate component of stockholders' deficiency, as part of accumulated other
+comprehensive income (loss), until realized.
+
+The cost and fair market value of marketable securities available-for-sale held
+as of December 31:
+
+       -------------------------------------------------------------------------
+                    December 31, 2005    December 31, 2004    December 31, 2003
+       -------------------------------------------------------------------------
+       Cost            $  646,057          $   646,057            $   646,057
+       -------------------------------------------------------------------------
+       Fair Value         193,783              247,811                208,189
+       -------------------------------------------------------------------------
+
+16
+
+Item 8. Financial Statements and Supplementary Data
+
+Biocoral, Inc. and Subsidiaries Index to Consolidated Financial Statements and
+Schedule.
+
+Financial Statements:
+
+F-1
+
+Report on Internal Control over Financial Reporting
+
+Our management is responsible for establishing and maintaining adequate internal
+control over financial reporting for the Company. Internal control over
+financial reporting is defined in Rule 13a-15(f) or 15d-15(f) promulgated under
+the Securities Exchange Act of 1934 as a process designed by, or under the
+supervision of, our principal executive and principal financial officers and
+effected by our Board of Directors, management and other personnel, to provide
+reasonable assurance regarding the reliability of financial reporting and the
+preparation of financial statements for external purposes in accordance with
+generally accepted accounting principles and includes those policies and
+procedures that:
+
+      o     Pertain to the maintenance of records that in reasonable detail
+            accurately and fairly reflect the transactions and dispositions of
+            our assets;
+
+      o     Provide reasonable assurance that transactions are recorded as
+            necessary to permit preparation of financial statements in
+            accordance with generally accepted accounting principles, and that
+            receipts and expenditures of the Company are being made only in
+            accordance with authorizations of our management and directors; and
+
+      o     Provide reasonable assurance regarding prevention or timely
+            detection of unauthorized acquisition, use or disposition of the
+            Company's assets that could have a material effect on the financial
+            statements.
+
+Because of its inherent limitations, internal control over financial reporting
+may not prevent or detect misstatements. Also, projections of any evaluation of
+effectiveness to future periods are subject to the risk that controls may become
+inadequate because of changes in conditions, or that the degree of compliance
+with the policies or procedures may deteriorate.
+
+Management assessed the effectiveness of the Company's internal control over
+financial reporting as of December 31, 2005. In making this assessment,
+management used the criteria set forth by the Committee of Sponsoring
+Organizations of the Treadway Commission (COSO) in this Internal
+Control-Integrated Framework.
+
+Based on our assessment, we believe that, as of December 31, 2005, our internal
+control over financial reporting was effective at a reasonable assurance level
+based on these criteria.
+
+Moore & Associates Chrtd., our independent registered public accounting firm,
+has issued an audit report, included in page F-3 , on our assessment of our
+internal control over financial reporting.
+
+F-2
+
+Report of Independent Registered Public Accounting Firm on Internal Control Over
+                              Financial Reporting
+
+The Board of Directors and Stockholders of Biocoral, Inc
+
+      We have audited management's assessment, included in the accompanying
+Management's Report on Internal Control over Financial Reporting that Biocoral,
+Inc. maintained effective internal control over financial reporting as of
+December 31, 2005, based on criteria established in Internal Control--Integrated
+Framework issued by the Committee of Sponsoring Organizations of the Treadway
+Commission (the COSO criteria). Biocoral, Inc.'s management is responsible for
+maintaining effective internal control over financial reporting and for its
+assessment of the effectiveness of internal control over financial reporting.
+Our responsibility is to express an opinion on management's assessment and an
+opinion on the effectiveness of the company's internal control over financial
+reporting based on our audit.
+
+      We conducted our audit in accordance with the standards of the Public
+Company Accounting Oversight Board (United States). Those standards require that
+we plan and perform the audit to obtain reasonable assurance about whether
+effective internal control over financial reporting was maintained in all
+material respects. Our audit included obtaining an understanding of internal
+control over financial reporting, evaluating management's assessment, testing
+and evaluating the design and operating effectiveness of internal control, and
+performing such other procedures as we considered necessary in the
+circumstances. We believe that our audit provides a reasonable basis for our
+opinion.
+
+      A company's internal control over financial reporting is a process
+designed to provide reasonable assurance regarding the reliability of financial
+reporting and the preparation of financial statements for external purposes in
+accordance with generally accepted accounting principles. A company's internal
+control over financial reporting includes those policies and procedures that (1)
+pertain to the maintenance of records that, in reasonable detail, accurately and
+fairly reflect the transactions and dispositions of the assets of the company;
+(2) provide reasonable assurance that transactions are recorded as necessary to
+permit preparation of financial statements in accordance with generally accepted
+accounting principles, and that receipts and expenditures of the company are
+being made only in accordance with authorizations of management and directors of
+the company; and (3) provide reasonable assurance regarding prevention or timely
+detection of unauthorized acquisition, use, or disposition of the company's
+assets that could have a material effect on the financial statements.
+
+      Because of its inherent limitations, internal control over financial
+reporting may not prevent or detect misstatements. Also, projections of any
+evaluation of effectiveness to future periods are subject to the risk that
+controls may become inadequate because of changes in conditions, or that the
+degree of compliance with the policies or procedures may deteriorate.
+
+      In our opinion, management's assessment that Biocoral,Inc. maintained
+effective internal control over financial reporting as of December 31, 2005, is
+fairly stated, in all material respects, based on the COSO criteria. Also, in
+our opinion Biocoral, Inc. maintained, in all material respects, effective
+internal control over financial reporting as of December 31, 2005, based on the
+COSO criteria.
+
+      We also have audited, in accordance with the standards of the Public
+Company Accounting Oversight Board (United States), the consolidated balance
+sheets of Biocoral, Inc. as December 31, 2005, 2004, and the related
+consolidated statements of income, cash flows and shareholders' equity for each
+of the three years in the period ended December 31, 2005 and our report dated
+March 27, 2006 expressed an unqualified opinion thereon.
+
+/s/ Moore & Associates, Chartered
+Moore & Associates, Chartered
+
+March 27, 2006
+Las Vegas
+
+F-3
+
+Report of Independent Registered Public Accounting Firm
+
+To the Board of Directors and Shareholders of Biocoral, Inc.:
+
+We have audited the accompanying consolidated balance sheets of Biocoral, Inc.
+and subsidiaries as of December 31, 2005 and 2004, and the related consolidated
+statements of operations, shareholders' equity, and cash flows for each of the
+three years in the period ended December 31, 2005. These financial statements
+are the responsibility of the Company's management. Our responsibility is to
+express an opinion on these financial statements based on our audits.
+
+We conducted our audits in accordance with the standards of the Public Company
+Accounting Oversight Board (United States). Those standards require that we plan
+and perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. An audit includes examining, on a
+test basis, evidence supporting the amounts and disclosures in the financial
+statements. An audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall
+financial statement presentation. We believe that our audits provide a
+reasonable basis for our opinion.
+
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the consolidated financial position of Biocoral, Inc. and
+subsidiaries at December 31, 2005 and 2004, and the consolidated results of its
+operations and its cash flows for each of the three years in the period ended
+December 31, 2005 in conformity with U.S. generally accepted accounting
+principles.
+
+We have also audited in accordance with standards of the Public Company
+Accounting Oversight Board (United States), the effectiveness of Biocoral Inc.'s
+internal control over financial reporting as of December 31, 2005, based on
+criteria established in Internal Control -- Integrated Framework issued by the
+Committee of Sponsoring Organizations of the Treadway Commission and our report
+dated March 27, 2005 expressed an unqualified opinion thereon.
+
+/s/ Moore & Associates, Chartered
+Moore & Associates, Chartered
+
+March 27, 2006
+Las Vegas
+
+F-4
+
+BIOCORAL, INC. AND SUBSIDIARIES
+                           CONSOLIDATED BALANCE SHEETS
+
+The accompanying notes are an integral part of these consolidated financial
+statements.
+
+F-5
+
+BIOCORAL, INC. AND SUBSIDIARIES
+                      CONSOLIDATED STATEMENTS OF OPERATIONS
+
+The accompanying notes are an integral part of these consolidated financial
+statements.
+
+F-6
+
+BIOCORAL, INC. AND SUBSIDIARY
+               CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS'
+                        DEFICIENCY AND COMPREHENSIVE LOSS
+                  YEARS ENDED DECEMBER 31, 2005, 2004 AND 2003
+
+The accompanying notes are an integral part of these consolidated financial
+statements.
+
+F-7
+
+BIOCORAL, INC. AND SUBSIDIARIES
+                CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+The accompanying notes are an integral part of these consolidated financial
+statements.
+
+F-8
+
+Note 1 - Description of Business
+
+      Biocoral, Inc. ("Biocoral") was incorporated under the laws of the State
+      of Delaware on May 4, 1992. Biocoral is a holding company that conducts
+      its operations primarily through its wholly-owned European subsidiaries.
+      Biocoral, Inc., together with its subsidiaries are referred to
+      collectively herein as the "Company."
+
+      The Company's operations are in several business segments which consist
+      primarily of research and development, manufacturing and marketing of
+      patented high technology biomaterials, bone substitute materials made from
+      coral and other orthopedic, oral and maxillo-facial products, including
+      products marketed under the trade name of Biocoral. Most of the Company's
+      operations are conducted from Europe. The Company has obtained regulatory
+      approvals to market its products throughout Europe, Canada and certain
+      other countries. The Company owns various patents for its products which
+      have been registered and issued in the United States, Canada, Japan,
+      Australia and various countries throughout Europe. However, the Company
+      has not applied for the regulatory approvals needed to market its products
+      in the United States.
+
+Note 2 - Liquidity
+
+      The Company had net losses of approximately $885,800, $496,200 and
+      $319,000 in 2005, 2004 and 2003, respectively. The net loss in 2004 and
+      2003 includes a nonrecurring income item relating to forgiveness of debt
+      of approximately $297,800 and $259,800 (See Note 8(A)). Management
+      believes that it is likely that the Company will continue to incur net
+      losses through at least 2006. The Company had a working capital deficiency
+      of approximately $418,100, $38,400 and $711,000 for 2005, 2004 and 2003,
+      respectively. The Company also had a stockholders' deficiency of
+      approximately $2,852,000 $1,974,400 and $2,117,000 at December 31, 2005,
+      2004 and 2003, respectively. During January and September 2005, the
+      Company received approximately $500,000 relating to the issuance of the 7%
+      convertible promissory notes payable (See Notes 8(C)). The Company also
+      had as of December 31, 2005 approximately $193,800 of investments in
+      available-for-sale securities. In addition, during February 2006, the
+      Company received $150,000 additional funds for which are yet to be
+      documented as convertible notes payable. Management believes that these
+      funds will provide sufficient working capital to operate through 2006.
+
+Note 3 - Summary of Significant Accounting Policies
+
+      (A) Basis of Presentation
+
+      The accompanying consolidated financial statements are presented in United
+      States dollars under accounting principles generally accepted in the
+      United States of America.
+
+      (B) Principles of Consolidation
+
+      The accompanying consolidated financial statements include all of the
+      accounts of Biocoral, Inc. and its wholly-owned subsidiaries as of and for
+      the period ended December 31, 2005, 2004 and 2003. Cabestan, Inc., 3H
+      "Healthcare and High Biotechnology Innovation, Inc." and Immo
+      Distribution, Ltd., are not operating subsidiaries. All material
+      intercompany balances and transactions have been eliminated in
+      consolidation.
+
+      (C) Cash and Cash Equivalents
+
+      The Company considers cash on hand, cash in banks, certificates of
+      deposit, time deposits and other short term securities with maturities of
+      three months or less when purchased as cash and cash equivalents. There
+      were no cash equivalents held by the Company at December 31, 2005, 2004
+      and 2003.
+
+F-9
+
+Note 3 - Summary of Significant Accounting Policies - continued
+
+      (D) Concentration of Credit Risk
+
+      Concentrations of credit risk with respect to trade accounts receivable
+      are limited due to the large number of customers and their dispersion
+      across geographic areas around the world. However, all trade accounts
+      receivable are concentrated in the health care sector. The Company does
+      not currently see a concentrated credit risk associated with these
+      receivables, even though repayment is dependent upon the financial
+      stability of this industry and the respective country's national
+      economies.
+
+      (E) Allowance for Doubtful Accounts
+
+      The Company estimates uncollectibility of trade accounts receivable by
+      analyzing historical bad debts, customer concentrations, customer credit
+      worthiness and current economic trends when evaluating the adequacy of the
+      allowance for doubtful accounts.
+
+      (F) Investments in Marketable Securities
+
+      The Company invests in European common stocks. Available-for-sale
+      securities are carried at fair market value, with unrealized gains and
+      losses, net of tax, reported as a separate component of stockholders'
+      deficiency. In determining realized gains and losses, the cost of the
+      securities sold is based upon the specific identification method. The
+      Company reviews each marketable security to determine whether a decline in
+      fair market value in other than temporary. If the decline is deemed other
+      than temporary, the cost basis of the individual security is written down
+      to the fair value as a new cost basis and the amount written down is
+      included in operations as a realized loss.
+
+      (G) Inventories
+
+      Inventories are stated at the lower of cost or market, determined on the
+      first-in, first-out ("FIFO") method.
+
+      (H) Property and Equipment
+
+      Property and equipment are recorded at cost less accumulated depreciation
+      and amortization. Depreciation and amortization are computed using the
+      straight-line method over the estimated useful lives of the assets.
+      Estimated useful lives are 25 years for building and building
+      improvements, two to twelve years for equipment and furnishings and one
+      year for computer software. Normal maintenance and repairs of property and
+      equipment are expensed as incurred, while renewals, betterments and major
+      repairs that materially extend the useful live of the property and
+      equipment are capitalized.
+
+      (I) Investment in Limited Partnership
+
+      The Company owns a 9.3% interest in Bensenville Associates Ltd., a limited
+      partnership, which is accounted for under the equity method of accounting.
+      Under this method, the initial investment is recorded at cost.
+      Subsequently, the investment is increased or decreased for the Company's
+      pro-rata share of the partnership's income and losses. The Company's share
+      of the loss in the partnership for the years ended December 31, 2005, 2004
+      and 2003 was approximately $9,800, $15,000 and $63,336, respectively, and
+      the book value of the investment at December 31, 2005, 2004 and 2003 was
+      $10,444, $20,209 and $35,209, respectively.
+
+      (J) Intangible Assets
+
+      Intangible assets consist of expenses incurred on approved patents and on
+      the successful defense of approved patents. Amortization is computed using
+      the straight line method over the estimated period of the benefit. The
+      Company retroactively capitalized $176,418 and $157,743 of costs in 2005
+      and 2004 respectively. There were no costs capitalized in 2003. The
+      components of intangible assets and costs capitalized in 2005, 2004 and
+      2003 are as follows:
+
+F-10
+
+Note 3 - Summary of Significant Accounting Policies - continued
+
+(K) Impairment of Long-Lived Assets
+
+      In accordance with Statement of Financial Accounting Standards ("SFAS")
+      No. 144 "Accounting for the Impairment or Disposal of Long-Lived Assets",
+      the Company reviews long-lived assets for impairment whenever
+      circumstances and situations change such that there is an indication that
+      the carrying amounts may not be recovered. In such circumstances, the
+      Company will estimate the future cash flows expected to result from the
+      use of the asset and its eventual disposition. Future cash flows are the
+      future cash inflows expected to be generated by an asset less the future
+      outflows expected to be necessary to obtain those inflows. If the sum of
+      the expected future cash flows (undiscounted and without interest charges)
+      is less than the carrying amount of the asset, the Company will recognize
+      an impairment loss to adjust to the fair value of the asset. Management
+      believes that there are no impaired long-lived assets at December 31,
+      2005, 2004 and 2003.
+
+      (L) Income Taxes
+
+      The Company accounts for deferred taxes in accordance with SFAS No. 109
+      "Accounting for Income Taxes." Under this method, deferred tax assets and
+      liabilities are determined based on differences between financial
+      reporting and tax basis of assets and liabilities. Deferred tax assets and
+      liabilities are measured using enacted tax rates and laws that will be in
+      effect when the differences are expected to reverse. Valuation allowances
+      are established when necessary to reduce deferred tax assets to the amount
+      expected to be realized.
+
+      (M) Revenue Recognition
+
+      Sales are recognized when the earnings process is complete and
+      collectibility is reasonably assured, which is usually when the goods are
+      shipped to customers. Amounts billed related to shipping and handling are
+      included in revenue.
+
+      (N) Shipping and Handling Costs
+
+      Shipping and handling costs are included in cost of sales in accordance
+      with guidance established by the Emerging Issues Task Force, issue No.
+      00-10, "Accounting for Shipping and Handling Costs." During 2005, 2004 and
+      2003, there were no material shipping and handling costs.
+
+      (O) Research and Development
+
+      The Company expenses all research and development costs as incurred.
+
+      (P) Stock Based Compensation
+
+      Effective January 1, 2003 the Company adopted SFAS No. 148, "Accounting
+      for Stock-Based Compensation-Transition and Disclosure" ("SFAS 148"). SFAS
+      148 amends SFAS No. 123 "Accounting for Stock-Based Compensation" ("SFAS
+      123"), and provides alternative methods of transition for a voluntary
+      change to the fair value based method of accounting for stock-based
+      employee compensation. In addition, SFAS 148 amends the disclosure
+      requirements of SFAS 123 to require more prominent and more frequent
+      disclosures in financial statements of the effects of stock-based
+      compensation. The interim disclosure requirements of SFAS 148 are
+      effective for interim periods beginning after December 15, 2002. The
+      Company's stock-based compensation
+
+F-11
+
+Note 3 - Summary of Significant Accounting Policies - continued
+
+      related to employees and non-employee directors is recognized using the
+      intrinsic value method in accordance with Accounting Principles Board
+      Opinion No. 25, "Accounting for Stock Issued to Employees," and thus there
+      is no compensation expense for options granted with exercise prices equal
+      to the fair value of the Company's common stock on the date of the grant.
+      With respect to stock based compensation granted to non employees, the
+      Company records an expense equal to the fair value of the option on the
+      measurement date, which is either the earlier of the date at which a
+      commitment for performance is reached or the date at which the service is
+      complete.
+
+      (Q) Computation of Net Loss per Share
+
+      The Company presents basic loss per share and, if applicable, diluted
+      earnings per share pursuant to the provisions of SFAS No. 128, "Earnings
+      per Share" ("SFAS 128").
+
+      Under SFAS 128 basic net loss per share is computed by dividing the net
+      loss for the year by the weighted average number of shares outstanding
+      during the year. Diluted net earnings per share is computed by dividing
+      the net earnings for the year by the weighted average number of common
+      share and common share equivalents outstanding during the year. Common
+      stock equivalents would arise from the exercise of stock options. For the
+      year ended December 31, 2005, none were issued. For the year ended
+      December 31, 2004, the Company cancelled options granted June 30, 1999 for
+      purchasing the total of 34,270 shares and granted the new options for
+      purchasing the total of 200,000 shares. For the year ended December 31,
+      2003, none were issued. Diluted net loss has not been disclosed for the
+      years ended December 31, 2005, 2004 and 2003 as the effect is
+      anti-dilutive.
+
+      (R) Foreign Currency Translation and Transactions
+
+      Assets and liabilities of the foreign subsidiaries are translated at
+      current exchange rates and related revenues and expenses are translated at
+      average exchange rates in effect during the year. Resulting translation
+      adjustments, if material, are recorded as accumulated other comprehensive
+      loss which is a separate component of stockholders' deficit.
+
+      (S) Comprehensive Loss
+
+      The foreign currency translation gains (losses) resulting from the
+      translation of the financial statements of the Company's subsidiaries
+      expressed in Euros to United States dollars are reported as accumulated
+      other comprehensive income (loss) in the consolidated statement of changes
+      in stockholders' deficiency and comprehensive loss.
+
+      The unrealized gains and losses, net of tax, resulting from the valuation
+      of available-for sale securities at their fair market value at year end
+      are reported as other comprehensive income (loss) in consolidated
+      statement of changes in stockholders' deficiency and comprehensive loss.
+
+      The change in accumulated unrealized loss on investments in marketable
+      securities during the year ended December 31, 2005, 2004 and 2003 was as
+      follows:
+
+F-12
+
+Note 3 - Summary of Significant Accounting Policies - continued
+
+      (U) Faire Value of Financial Instruments
+
+      The Financial Accounting Standards Board ("FASB") issued SFAS No. 107,
+      "Disclosure about Fair Value of Financial Instruments", which requires
+      disclosure of fair value information about financial instruments when it
+      is practicable to estimate that value. The carrying amounts of financial
+      instruments, including cash, accounts receivable, accounts payable and
+      accrued interest payable approximate fair value at December 31, 2005, 2004
+      and 2003, due to the relatively short maturity of the instruments. The
+      investment in limited partnership is recorded using the equity method and
+      it is not practical to estimate the fair value of this investment without
+      incurring excessive cost, as this investment is not publicly traded.
+      Long-term debt approximates fair value based upon based upon debt terms
+      available for entities under similar terms.
+
+      (V) Use of Estimates
+
+      The preparation of consolidated financial statements in conformity with
+      accounting principles generally accepted in the United States of America
+      requires management to make estimates and assumptions that affect the
+      reported amounts of assets and liabilities and the disclosure of
+      contingent assets and liabilities at the date of the financial statements
+      and revenues and expenses during the reporting period. Actual results
+      could differ from those estimates.
+
+      (W) Recent Accounting Pronouncements
+
+      In November 2004, the FASB issued SFAS No. 151 "Amendment of ARB No. 43,
+      Chapter 4, Inventory Pricing". This statement clarifies the accounting for
+      abnormal amounts of idle facility expense, freight, handling costs, and
+      wasted material (spoilage). The statement requires that those items be
+      recognized as current-period charges regardless of whether they meet the
+      criterion of "so abnormal". In addition, this statement requires that
+      allocation of fixed production overheads to the costs of conversion be
+      based on the normal capacity of the production facilities. The provisions
+      of this statement shall be effective for inventory costs incurred during
+      fiscal years beginning after June 15, 2005. Earlier application is
+      permitted for inventory costs incurred during fiscal years beginning after
+      the date this Statement is issued. The provisions of this Statement shall
+      be applied prospectively. Management believes this statement will not have
+      a material impact on the Company's consolidated financial statements.
+
+      (X) Reclassifications
+
+      Certain reclassifications have been made to the 2004 financial statements
+      to conform to the 2005 presentation.
+
+Note 4 - Investments in Marketable Securities
+
+      During 2005, 2004 and 2003, the Company classified its investments in
+      marketable securities as available for sale, and those that intend to hold
+      for more than one year as non-current. Unrealized holding gains and losses
+      are reported as a separate component of stockholders' deficiency as part
+      of accumulated other comprehensive income (loss) until realized. The
+      following is a reconciliation of original cost to fair market value for
+      securities held as of December 31:
+
+F-13
+
+Note 5- Inventories
+
+      Inventories consist of the following at December 31:
+
+Note 6 - Property and Equipment
+
+      Property and equipment consists of the following at December 31:
+
+Note 7 - Intangible Assets
+
+       Intangible assets consist of the following at December 31:
+
+Note 8 - Long-Term Debt
+
+      Long-term debt consists of the following at December 31:
+
+F-14
+
+Note 8 - Long-Term Debt - continued
+
+(A)   On March 25, 2002 the holders of the 6% convertible promissory notes
+      payable (the "6% Notes") agreed to extend the due date from December 31,
+      2002 to December 31, 2004 and on March 1, 2004 agreed to extend the due
+      date to December 31, 2006. On January 23rd, 2006, the note holders agreed
+      to extend the due date from December 31, 2006 to December 31, 2008. The 6%
+      Notes are convertible at any time, at a rate of $.045, at the holder's
+      option, subject to Company approval. The 6% Notes were not affected by the
+      reverse stock split on December 23, 2002. Interest on the 6% Notes is
+      payable annually, at the Company's option, either in cash or common stock
+      of the Company. The Company sold the 6% Notes in the aggregate principal
+      amount of $3,000,000 to "accredited investors" during year 2000 through a
+      private placement intended to be exempt from registration pursuant to the
+      provisions of Regulation D of the Securities Act of 1933. A portion of the
+      proceeds, $1,000,000, had been held in an escrow account pending the
+      Company's issuance of all of the required regulatory documents and the
+      listing of the Company's common stock for trading on The NASDAQ Stock
+      Market. On June 26, 2003, the money held in the escrow account was
+      returned to the note holders. Since the $1,000,000 proceeds were never
+      used by the Company, but always maintained in the escrow account, the
+      Company wrote off the prior years' accrued interest of $179,836 and the
+      accrued issuance costs of $80,000 associated with these 6% Notes resulting
+      in a benefit of $259,836, which was recorded as forgiveness of debt in the
+      consolidated statements of operations.
+
+      On December 20, 2004, the Company approved requests from certain holders
+      of 6% Notes for the conversion of approximately $336,000 of interest into
+      shares of the Company's common stock. As a result of the conversion, the
+      Company charged approximately $336,000 to accrued interest for the year
+      then ended December 31, 2004 based on the beneficial conversion feature of
+      these 6% notes. The conversion took place at the rate of $10 per share
+      using a conversion rate utilizing the average closing price of the
+      Company's common stock for the 20 trading days immediately preceding the
+      conversion.
+
+(B)   These non interest bearing advances represent funds provided to one of
+      Company's European Subsidiaries by ANVAR, an agency of the French
+      government that finances or subsidizes certain "credible" research and
+      development projects. If the research does not result in a commercially
+      feasible product and certain other conditions are met, the subsidiary will
+      not have to pay some or all of the advances.
+
+      During the third quarter of 2004, notes of $297,800 were written off by
+      ANVAR under the terms of their research and development agreement upon the
+      determination that certain research will not result in a commercially
+      feasible product.
+
+(C)   The Company 7% convertible promissory notes payable (the "7% Notes") are
+      due December 31, 2006. The holder or holders of 7% Notes (subject to
+      Company approval and consent) may at any time, convert the principal
+      amount of the 7% Notes into shares of the Corporation's common stock
+      ranking pari passu at the conversion ratio shall be obtained by utilizing
+      the average closing sale price of such shares in the over-the-counter
+      market for the 20 trading days immediately preceding.
+
+      The Company may, at any time, prepay in whole or in part the principal
+      amount, plus accrued interest to the date of prepayment, of all
+      outstanding 7% Notes, upon 30 days' written notice by certified or
+      registered mail to the registered owners of all outstanding 7% Notes. Such
+      payment shall be made either in cash or in shares of the Company's common
+      stock in the Company's sole discretion at the conversion ratio which shall
+      be obtained by utilizing the average closing sale price of such shares in
+      the over-the-counter market for the 20 trading days immediately preceding.
+
+      During December 2003 through February 2004, the Company sold 7% Notes in
+      the aggregate principal amount of $850,000 to "accredited investors"
+      through a private placement intended to be exempt from registration
+      pursuant to the provisions of Regulation D of the Securities Act of 1933.
+      At December 31, 2003 the Company had received approximately $560,000, of
+      which approximately $135,000 was received as stockholder advances during
+      2002 and approximately $425,000 during 2003, and approximately an
+      additional $290,000 during February 2004.
+
+F-15
+
+Note 8 - Long-Term Debt - continued
+
+      From February to July 2004, the Company sold an additional $350,000 under
+      the new subscription for $350,000 of 7% convertible promissory notes
+      payable (the "7% Notes"). In further, during December 2004, the Company
+      sold to an accredited investor an additional 7% Notes in the aggregate
+      principal amount of $300,000. The Company will pay a 7% commission on
+      $650,000, which was sold during 2004.
+
+      A conversion took place on December 2004 for $100,000 note at the rate of
+      $10 per share using a conversion rate utilizing the average closing price
+      of the Company's common stock for the 20 trading days immediately
+      preceding the conversion.
+
+      During January 2005 the Company received $300,000 in connection with the
+      subscription of the 7% Notes sold on December 2004. During September 2005,
+      the Company sold to an accredited investor an additional $200,000 of the
+      7% Notes. The Company will pay a 7% commission on $200.000, which was sold
+      en September 2005. At December 31, 2005 the Company had outstanding a
+      total of $1,600,000 relating to the 7% Notes.
+
+      On February 10, 2006 the holders of the 7% Notes agreed to extend the due
+      date from December 31, 2006 to December 31, 2008.
+
+      The aggregate maturities of long-term debt at December 31, 2005 are as
+      follows:
+
+               ---------------------------------------------------------
+                December 31,
+               ---------------------------------------------------------
+                    2006                                          0,00
+               ---------------------------------------------------------
+                    2007                                          0,00
+               ---------------------------------------------------------
+                    2008                                   $ 2,300,000
+               ---------------------------------------------------------
+                                                           $ 2,300,000
+               -----------------------------------------================
+
+Note 9 - Income Taxes
+
+      At December 31, 2005, the Company had net operating loss carry forwards of
+      approximately $11,677,800 available to reduce future Federal taxable
+      income, which, if not used, will expire at various dates through December
+      31, 2024. These net operating loss carry forwards create a deferred tax
+      asset of approximately $3,975,000. There are no other material differences
+      between amounts used for financial reporting purposes and tax reporting
+      purposes. Since it is more likely than not that the Company will not
+      realize a benefit from these net operating loss carry forwards a 100%
+      valuation allowance has been recorded to reduce the deferred tax asset to
+      its net realizable value.
+
+      One of the Company's European wholly owned subsidiaries has a net
+      operating loss of approximately $5,000,000 at December 31, 2004 under
+      French tax regulations. Prior to January 1, 2004 these net operating
+      losses could be carried forward five years to offset future taxable
+      income. After January 1, 2004 these net operating loss carry forwards can
+      be carried forward indefinitely to offset future taxable income. This net
+      operating loss creates a deferred tax asset of approximately $1,700,000.
+      There are no other material differences between amounts used for financial
+      reporting purposes and tax reporting purposes. Since it is more likely
+      than not that the subsidiary will not realize a benefit from these net
+      operating losses carry forwards a 100% valuation allowance has been
+      recorded to reduce the deferred tax asset to its net realizable value.
+
+      Income taxes differ from the statutory rate due to the following at
+      December 31:
+
+F-16
+
+Note 10 - Stock Option Plan
+
+      In December 21, 2004, the Company decided to cancel all option contracts
+      and reissue new contracts. A summary of the Company's stock option
+      activity is as follows for the years ended December 31, 2005, 2004 and
+      2003:
+
+The fair value of the option grant is estimated on the date of grant using
+      the Black-Scholes option-pricing model. A summary of the Company's stock
+      options outstanding is as follows:
+
+Note 11 - Segment and Geographic Information
+
+      Information about the Company's assets and its operations in different
+      geographic locations at December 31, 2005, 2004 and 2003 is shown below
+      pursuant to the provisions of SFAS No. 131, "Disclosures about Segments of
+      an Enterprise and Related Information."
+
+      The following shows information about the Company's foreign operations at
+      December 31, 2004 and 2003:
+
+F-17
+
+Note 12 - Related Party
+
+      The Company has a consulting agreement with its Chairman and President in
+      which he earns $150,000 annually. The agreement expired in August 2005 and
+      was renewed for an additional three years in September 2005. At December
+      31, 2005, 2004 and 2003 the Company owed this individual an aggregate of
+      $736,258, $518,758 and $390,000, respectively, of which $600,000, $412,500
+      and $300,000, respectively relate to the consulting agreement, the balance
+      of $134,438, $104,438, and $90,000, respectively relate to un-reimbursed
+      travel expenses and $1,820 relate to start-up costs. In the year ended
+      December 31, 2005, to help the Company's cash position, the president has
+      deferred receipt of any 2005 and 2004 cash compensation pursuant to his
+      consulting agreement.
+
+Note 13 - Commitments and Contingencies
+
+      The Company rents certain office space under an operating lease expiring
+      on April 30, 2004, with an automatic renewal of three years. The lease has
+      been renewed for the three years ending April 30, 2007. This agreement is
+      transferable and can be cancelled with six months notice. Rent expense for
+      the years ended December 31, 2005, 2004 and 2003 were approximately
+      $52,000 for each year.
+
+      At December 31, 2005, total minimum rentals under noncancellable operating
+      leases with an initial or remaining term lease term of one year or more
+      are as follows:
+
+                   ----------------------------------------
+                    Year Ending
+                    December 31:
+                   ----------------------------------------
+                        2006                      52,000
+                   ----------------------------------------
+                        2007                      17,333
+                   ----------------------------------------
+                                                $ 69,333
+                   --------------------------==============
+
+F-18
+
+Item 9. Changes in and Disagreements with Accountants on Accounting and
+Financial Disclosure
+
+There were no disagreements with accountants on accounting and financial
+disclosure. For discussion regarding recent changes of our independent
+accountants, please see our Annual Report on Form 10-KSB for the year ended
+December 31, 2003 and 2004 and our previously filed and subsequent Current
+Reports on Form 8-K.
+
+Item 9A. Controls and Procedures
+
+(a) Evaluation of Disclosure Controls and Procedures. As of the end of the
+period covered by this report, the Company carried out an evaluation, under the
+supervision and with the participation of its management, including the
+Company's Chief Executive Officer and Chief Financial Officer, of the
+effectiveness of the Company's disclosure controls and procedures (as defined in
+Rules 13a-15(e) and 15d-15(e) of the Securities Exchange Act of 1934). Based on
+this evaluation, the Company's Chief Executive Officer and Chief Financial
+Officer have concluded that the Company's disclosure controls and procedures are
+effective in timely notifying them of information the Company is required to
+disclose in its periodic SEC filings and in ensuring that this information is
+recorded, processed, summarized and reported within the time periods specified
+in the SEC's rules and regulations.
+
+(b) Changes in Internal Control. During the fourth quarter of fiscal year 2005,
+there were no significant changes in our internal control over financial
+reporting that have materially affected, or are reasonably likely to materially
+affect, our internal control over financial reporting.
+
+(c) Management's Report on Internal Control over Financial Reporting. Pursuant
+to Section 404 of the Sarbanes-Oxley Act of 2002 and the rules and regulations
+adopted pursuant thereto, the Company included a report of management's
+assessment of the effectiveness of its internal control over financial reporting
+as of December 31, 2005 as part of this report. The Company's independent
+registered public accounting firm also attested to, and reported on,
+management's assessment of the effectiveness of internal control over financial
+reporting as of December 31, 2005. Management's report and the independent
+registered public accounting firm's attestation report are included in Item 8
+hereof, of this report and are incorporated herein by reference.
+
+Item 9B. Other Information.
+
+None.
+
+                                    PART III
+
+Item 10. Directors, Executive Officers, Promoters and Control Persons
+
+Directors and Executive Officers
+
+The following persons are our executive officers and directors:
+
+- ----------------------------------------------------------------------------
+Name                  Age           Positions with our Company
+- ----                  ---           --------------------------
+- ----------------------------------------------------------------------------
+
+Nasser Nassiri         42           President, Chief Executive Officer and
+                                    Chairman of the Board
+- ----------------------------------------------------------------------------
+
+Yuhko Grossman         41           Secretary, Treasurer and Director
+- ----------------------------------------------------------------------------
+
+Jean Darondel          63           Director
+- ----------------------------------------------------------------------------
+
+Mr. Nasser Nassiri has been the President, Chief Executive Officer and Chairman
+of the Board of our company since 1997. Mr. Nassiri is a Europe-based financier.
+Since 1990, he has been a private investor and financial advisor to several
+European financial and portfolio institutions, as well as group investment
+companies and pharmaceutical businesses in the Middle East. From 1983 to 1987,
+Mr. Nassiri was a director of Prak Management, a privately-held Middle
+East-based oil and gas holding company.
+
+Ms. Yuhko Grossman is our Secretary, Treasurer and a director. Ms. Grossman is
+currently a director of Ono Trading Company of Canada Ltd., a large wholesale
+company dealing in industrial safety equipment, and a director of Ono Import
+Export Company Ltd., an international trading company. Previously, Ms. Grossman
+spent over ten years
+
+17
+
+working with the largest retail pharmaceutical chain in Canada, where her
+responsibilities included the restructuring and implementation of new management
+and information systems following corporate buy-outs. Ms. Grossman holds degrees
+from Simon Fraser University in Modern European History, Political Science and
+Physics.
+
+Dr. Jean Dardonel is a member of our board of directors. Dr. Jean Darondel was
+co-founder of Inoteb and was its President General until March 18, 2003. He is
+an active member of different scientific pilotage committees programs. Dr.
+Darondel is known for his research in the field of veterinary medicine and
+business development in the medical/pharmaceutical fields.
+
+Board of Directors
+
+All of our directors serve until the next annual meeting of stockholders or
+until their successors are duly elected and qualified. All of our officers serve
+at the discretion of the board of directors. There are no family relationships
+among the directors and executive officers.
+
+Scientific Advisory Board
+
+We also have a scientific advisory board to aid us in the strategic development
+of our products. The following are the members of the scientific advisory board:
+
+Dr. Yves Cirotteau is an orthopedic and traumatologic surgeon. Dr. Yves
+Cirotteau is Medical Scientific Director of our French subsidiary. He is a
+member of the SOFCOT (French Orthopaedic and Traumatologic Society), Hip and
+Knee Society and AAAS (American Association for Advancement of Science). Dr.
+Cirotteau is the principal inventor of Biocoral(R) applications in curative and
+preventive treatments of osteoporotic fractures and is involved in its
+development.
+
+Professor L'Hocine Yahia is a full professor at the mechanical department of
+engineering of the polytechnic school of Montreal (l'Ecole Polytechnique de
+Montreal) where he is in charge of research group of biomechanics and
+biomaterials (Groupe de recherche en biomecanique et biomateriaux "GRBB"). He is
+also the professor associated with the hospital complex with Montreal (Centre
+Hospitalier de Montreal "CHUM"). Professor Yahia has a distinguished track
+record in tissue engineering and advanced biomaterials "Intelligent Materials,
+Polymers and Ceramics".
+
+Prof. Jean-Pierre Ouhayoun is a doctor of dental surgery and Professor and
+ex-Chairman of the Department of Periodontology at the University of Paris
+School of Dentistry. He is also Chief of the dental clinic at Garanciere Hotel
+Dieu, and is in charge of the research unit at the Orthopedic Research
+Laboratory in Paris specializing in bone regeneration.
+
+Dr. Alberto Jussman is a specialist in post-menopausal medicine and the
+prevention of osteoporosis and is a consultant to the Laboratoires pour la
+Pharmacie et les Devices Medical and teaches at the CHU Bichat-Claude Bernard in
+Paris.
+
+Dr. Jean Darondel, a director of our company, is also a member of the scientific
+advisory board.
+
+Mr. Roland Schmitthauesler is currently part of the National Center of Blood
+Transfusion in France. He is the former Chief of the Laboratory of the Plasma
+Unit at the CRTS in Strasborg. Mr. Roland Schmitthauesler has been associated
+with the development of Biocoral's autologous glue since 1991.
+
+Dr. Genevieve Guillemin is a scientist and director of CNRS (French National
+Center of Scientific Research). Dr. Guillemin co-filed the original 1979 patent
+for Biocoral(R) and still participates in the development of Biocoral(R).
+
+Prof. Yann Le Petitcorps is a professor at the University of Bordeaux where he
+holds a chair in material sciences and heads a research group focused on
+engineering and material science which, among other areas, includes metallic and
+ceramic structural biomaterials. Prof. Le Petitcorps received his PhD in
+material science from the University of Bordeaux in 1985 and, in 2003, received
+the Prize of Metallurgy from the French Academy of Science. Prof. L Petitcorp
+supervises a laboratory belonging to the French National Center for Scientific
+Research, and conducts research in the field of materials for structural or
+biomaterial applications in collaboration with several industrial (dental and
+orthopaedic) companies.
+
+18
+
+Limitation on Liability of Directors
+
+As permitted by Delaware law, our certificate of incorporation includes a
+provision which provides that a director shall not be personally liable to us or
+our stockholders for monetary damages for a breach of fiduciary duty as a
+director, except (i) for any breach of the director's duty of loyalty to us or
+our stockholders, (ii) under Section 174 of the General Corporation Law of the
+State of Delaware, which prohibits the unlawful payment of dividends or the
+unlawful repurchase or redemption of stock, or (iii) for any transaction from
+which the director derives an improper personal benefit. This provision is
+intended to afford directors protection against, and to limit their potential
+liability for, monetary damages resulting from suits alleging a breach of duty
+of care by a director. As a consequence of this provision, our stockholders will
+be unable to recover monetary damages against directors for action taken by them
+which may constitute negligence or gross negligence in performance of their
+duties unless such conduct falls within one of the foregoing exceptions. The
+provision, however, does not alter the applicable standards governing a
+director's fiduciary duty and does not eliminate or limit our right, or the
+right of any stockholder, to obtain an injunction or any other type of
+non-monetary relief in the event of a breach of fiduciary duty. We believe this
+provision will assist in securing and retaining qualified persons to serve as
+directors.
+
+Compliance With Section 16(a) of the Securities Exchange Act of 1934
+
+Section 16(a) of the Securities Exchange Act of 1934, as amended, requires our
+directors and executive officers, and persons who own more than ten percent of a
+registered class of our Common Stock, to file with the Securities and Exchange
+Commission initial reports of ownership and reports of changes in ownership of
+our Common Stock. Officers, directors and ten-percent stockholders are required
+by SEC regulations to furnish us with copies of all Section 16(a) forms they
+file. During the fiscal year ended December 31, 2005, no such reports were
+submitted to us for review and, based upon this, to our knowledge, all Section
+16(a) filing requirements applicable to our officers and directors have been
+complied with except that our directors have not yet filed Forms 5 relating to
+the issuance of options in the first quarter of 2005.
+
+Code of Ethics
+
+We have not yet adopted a code of ethics for our company because our management
+team currently consists of only three individuals, each of whom is a director
+and two of whom are executive officers. Because our management team is small, we
+have determined that a formal code is unnecessary at this time.
+
+Item 11. Executive Compensation
+
+Presently, none of our executive officers receive any salary. However, on
+September 1, 1997, we entered into a Consulting Agreement with Nasser Nassiri,
+our Chairman, pursuant to which Mr. Nassiri serves as our Chairman. The
+Agreement, which was for a three year term, provided for base compensation of
+$150,000 per annum, reimbursement of certain expenses and for a payment of two
+years' compensation thereunder in the event of a change in control of the
+Company. The agreement was renewed, on the same terms, in 2000 for two years
+until August 30, 2002 and has been renewed during 2002 for an additional three
+years until August 2005 and has been renewed in August 2005 for an additional
+three year until August 2008. Through December 31, 2005, to help the company's
+cash position. Our Chairman has deferred receipt of any cash compensation
+pursuant to his Consulting Agreement.
+
+Stock Option Plan
+
+On May 4, 1992, we adopted a stock option plan which originally authorized the
+granting of options to purchase up to 2,000,000 shares of common stock. On April
+16, 2001, this was increased to 20,000,000 shares.
+
+As of December 21, 2005, we cancelled all of the outstanding options and
+replaced them with options having substantially similar terms and conditions,
+but with an exercise price of $10.00 per share, in the following amounts:
+
+                  Nasser Nassiri                       100,000
+                  Jean Darondel                         50,000
+                  Yuhko Grossman                        50,000
+
+Aggregate Option Exercises and Fiscal Year-End Option Values
+
+The following table lists the number of securities underlying unexercised
+options at December 31, 2005.
+
+19
+
+Director Compensation
+
+Our directors do not receive compensation for their services as directors, but
+are reimbursed for travel and all reasonable out-of-pocket expenses incurred in
+connection with each board meeting attended or other company services.
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management
+
+The following table sets forth certain information known to us with respect to
+the beneficial ownership of our common stock as of March 15, 2006 by:
+
+      o     all persons who are beneficial owners of five percent (5%) or more
+            of our common stock;
+
+      o     each of our directors;
+
+      o     each of our named executive officers; and
+
+      o     all current directors and executive officers as a group.
+
+Except as otherwise indicated, and subject to applicable community property
+laws, the persons named in the table below have sole voting and investment power
+with respect to all shares of common stock held by them. Beneficial ownership is
+determined in accordance with the rules of the Securities and Exchange
+Commission. In computing the number of shares beneficially owned by a person and
+the percentage ownership of that person, shares of common stock subject to
+options held by that person that are currently exercisable or exercisable within
+60 days of March 15, 2006 are deemed outstanding. Such shares, however, are not
+deemed outstanding for the purpose of computing the percentage ownership of any
+other person.
+
+*- Indicates less than 1%
+
+20
+
+(1)   Includes for Mr. Darondel options to purchase 50,000 shares of common
+      stock, which are exercisable at $10 per share.
+
+(2)   Includes for Mr. Grossman, options to purchase 50,000 shares of common
+      stock, which are exercisable at $10 per share.
+
+(3)   Includes for Mr. Nassiri, options to purchase 100,000 shares of common
+      stock, which are exercisable at $10 per share.
+
+(4)   The issuance of options to the officers and directors were not approved by
+      our shareholders.
+
+(5)   Based upon 11,353,816 shares of common stock outstanding.
+
+       Securities Authorized for Issuance Under Equity Compensation Plans
+
+Other than those listed on the table above, we do not have any equity securities
+outstanding or authorized for issuance pursuant to any equity compensation
+plans.
+
+Item 13. Certain Relationships and Related Transactions
+
+None.
+
+Item 14. Principal Accountant Fees and Services.
+
+Audit Fees for 2005
+
+Ourprincipal accountant for 2005 is Moore & Associates, Chartered. For services
+rendered in connection with the audit of our 2004 consolidated financial
+statements, we have paid them $6,250 to date, but we have not been billed for
+the balance of the fees for this audit.
+
+The auditor of our French subsidiaries for 2005 was Consultaudit. For services
+rendered in connection with the audit of our French subsidiaries's 2005
+financial statements, Consultaudit has billed us 11,678 Euros subsidiaries (or
+approximately $14,013*), 6578.00 Euros (or approximately $7,894*) of which has
+not yet been paid.
+
+Audit Fees for 2004
+
+Our principal accountant for 2004 was Shelley International CPA. For services
+rendered in connection with the audit of our 2004 consolidated financial
+statements and review of the first, second and third quarters of 2005, we paid
+Shelley International CPA $23,000. However, our current auditor, Moore &
+Associates, chartered, whose report covers our consolidated financial statements
+for the fiscal years ended December 31, 2005 and 2003, has reaudited these
+consolidated financial statements for 2004 which are included in its report for
+2005, which is filed herewith.
+
+The auditor of our French subsidiary for 2004 was Consultaudit. For services
+rendered in connection with the audit of our French subsidiary's 2004 financial
+statements, we paid Consultaudit 10,839.80 Euros (or approximately $13,000*).
+
+Audit Fees for 2003
+
+Our principal accountant for 2003 was Weinberg & Company. For services rendered
+in connection with the audit of our 2003 consolidated financial statements and
+review of first quarter of 2004, including reissuance of their opinion for
+filing with the consolidated financial statements in the Annual Report on Form
+10-KSB for the year ended December 31, 2004, we paid them $33,000. In connection
+with the reissuance of Weinberg's report, we signed a settlement agreement with
+Weinberg which settled all amounts which we may have owed them including the
+reissuance fee.
+
+21
+
+We requested that Weinberg reissue its 2003 report for inclusion in this Annual
+Report on Form 10-K. However, Weinberg requested that we pay an additional
+considerable amount for such reissuance. Because we consider this amount to be
+far in excess of the company should reasonably be charged for this reissuance,
+we instead had the audit of the 2003 consolidated financial statements redone by
+our auditor Moore & Associates, Chartered whose report covering these
+consolidated financial statements as well as those for 2005 is filed herewith.
+
+We paid Most & Company LLP approximately $12,000 for services in connection with
+the review of our unaudited consolidated financial statements for filing with
+our Quarterly Reports on Form 10-QSB of June 30, 2004 and September 30, 2004. We
+paid Most & Company LLP $9,000 for the audit of our consolidated financial
+statements for the year ended December 31, 2004. However, this audit was not
+completed by Most & Company, and we are currently in litigation with Most to
+recover a portion of these fees.
+
+The auditor of our French subsidiary for 2003 was Consultaudit. For services
+rendered in connection with the audit of our French subsidiary's 2003 financial
+statements, we paid Consultaudit 10,481 Euros (or approximately $12,577*).
+
+*The Euro to Dollar conversions are based upon an average conversion rate of
+approximately $1.20 to (euro)1.00. This is an average estimated over the periods
+indicated and is subject to fluctuation during such periods.
+
+Item 15. Exhibits and Reports on Form 8-K.
+
+(a) Unless otherwise indicated, the following is a list of exhibits filed as a
+part of this annual report:
+
+- ------------------------------------------------------------------------------------------------------------------
+Exhibit Number      Description of Document
+- ------------------------------------------------------------------------------------------------------------------
+                   
+3.1                 Certificate of Incorporation, as amended(1)(2)
+- ------------------------------------------------------------------------------------------------------------------
+3.2                 By-laws (1)
+- ------------------------------------------------------------------------------------------------------------------
+3.3                 Certificate of Amendment to Certificate of Incorporation(4)
+- ------------------------------------------------------------------------------------------------------------------
+3.4                 Certificate of Amendment to Certificate of Incorporation(4)
+- ------------------------------------------------------------------------------------------------------------------
+4.1                 Form of Company's 3 year 7% Convertible Redeemable Debenture due December 31, 2006
+- ------------------------------------------------------------------------------------------------------------------
+4.2                 Form of Option Agreement(4)
+- ------------------------------------------------------------------------------------------------------------------
+31                  Certification of Nasser Nassiri pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+- ------------------------------------------------------------------------------------------------------------------
+32                  Certification of Nasser Nassiri pursuant to Rule 13(a)
+- ------------------------------------------------------------------------------------------------------------------
+
+(1)   Incorporated by reference to Exhibit 3.1 to the Company's Form 10-SB
+      Registration Statement filed with the Commission on February 25, 1994, as
+      amended.
+
+(2)   Incorporated by reference from Amendment No.1 to the Company's Form 10-SB
+      filed with the Commission on April 18, 1994.
+
+(3)   Incorporated by reference to the Company's Annual Report on Form 10-KSB
+      filed April 17, 1998.
+
+(4)   Incorporated by reference to Exhibit 4.2 to the Company's Annual Report on
+      Form 10-KSB/A filed May 19, 2005.
+
+22
+
+SIGNATURES
+
+In accordance with Section 13 or 15(d) of the Securities Exchange Act of 1934,
+the Registrant has duly caused this report to be signed on our behalf by the
+undersigned, thereunto duly authorized, on March 30, 2006.
+
+                                        BIOCORAL, INC
+
+By: /s/ Nasser Nassiri
+                                            ------------------
+                                            Nasser Nassiri
+                                            President, Chief Executive Officer
+                                            and Principal Accounting Officer
+
+In accordance with the Securities Exchange Act of 1934, this report has been
+signed below by the following persons on behalf of the Registrant and in the
+capacities indicated.
+
+- -------------------------------------------------------------------------------------------------------------------------
+Signature                               Title                                     Date
+- -------------------------------------------------------------------------------------------------------------------------
+                                                                               
+/s/ Nasser Nassiri                      President, Chief Executive Officer        March 30, 2006
+- -------------------------               and Chairman of the Board of Directors
+      Nasser Nassiri                    (Principal Executive Officer and
+                                        Principal Accounting Officer)
+
+- -------------------------------------------------------------------------------------------------------------------------
+
+/s/ Yuhko Grossman                      Secretary, Treasurer and Director         March 30, 2006
+- ----------------------
+     Yuhko Grossman
+
+- -------------------------------------------------------------------------------------------------------------------------
+
+/s/ Jean Darondel                       Director                                  March 30, 2006
+- ------------------
+     Jean Darondel
+- -------------------------------------------------------------------------------------------------------------------------
+
+23
+
+<EX-31>
+ 2
+ d67568_ex31.txt
+ RULE 13A-14(A)/15D-14(A) CERTIFICATIONS
+ 
+Exhibit 31
+
+                                 CERTIFICATIONS
+
+I, Nasser Nassiri, certify that:
+
+1. I have reviewed this Annual Report on Form 10-K of Biocoral, Inc.;
+
+2. Based on my knowledge, this annual report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to make
+the statements made, in light of the circumstances under which such statements
+were made, not misleading with respect to the period covered by this annual
+report;
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this annual report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the
+registrant as of, and for, the periods presented in this annual report;
+
+4. The registrant's other certifying officers and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-14 and 15d-14) for the registrant and have:
+
+a. designed such disclosure controls and procedures, or caused such disclosure
+controls and procedures to be designed under our supervision, to ensure that
+material information relating to the registrant, including its consolidated
+subsidiaries, is made known to us by others within those entities, particularly
+during the period in which this annual report is being prepared;
+
+b. designed such internal control over financial reporting, or caused such
+internal control over financial reporting to be designed under our supervision,
+to provide reasonable assurance regarding the reliability of financial reporting
+and the preparation of financial statements for external purposes in accordance
+with generally accepted accounting principles;
+
+c. evaluated the effectiveness of the registrant's disclosure controls and
+procedures and presented in this annual report our conclusions about the
+effectiveness of the disclosure controls and procedures, as of the end of the
+period covered by this report based on such evaluation;
+
+d. disclosed in this report any change in the registrant's internal control over
+financial reporting that occurred during the registrant's fourth fiscal quarter
+that has materially affected, or is reasonably likely to affect, the
+registrant's internal control over financial reporting; and
+
+5. The registrant's other certifying officers and I have disclosed, based on our
+most recent evaluation of internal control over financial reporting, to the
+registrant's auditors and the audit committee of registrant's board of directors
+(or persons performing the equivalent functions):
+
+a. all significant deficiencies and material weaknesses in the design or
+operation of internal control over financial reporting which are reasonably
+likely to adversely affect the registrant's ability to record, process,
+summarize and report financial information; and
+
+b. any fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrant's internal control over
+financial reporting.
+
+Date: March  30, 2006                      /s/ Nasser Nassiri
+                                           ------------------
+                                           Nasser Nassiri
+                                           President, CEO, Chairman of the Board
+                                           and Principal Accounting Officer
+
+</EX-31>
+
+<EX-32>
+ 3
+ d67568_ex32.txt
+ SECTION 1350 CERTIFICATIONS
+ 
+Exhibit 32
+
+                                 BIOCORAL, INC.
+                            CERTIFICATION PURSUANT TO
+                             18 U.S.C. SECTION 1350,
+                       AS ADOPTED PURSUANT TO SECTION 906
+                        OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Annual Report of Biocoral, Inc. (the "Company") on Form
+10-K for the period ending December 31, 2005, as filed with the Securities and
+Exchange Commission on the date hereof (the "Report"), I, Nasser Nassiri, the
+President, CEO, Chairman of the Board of the Company and the Principal
+Accounting Officer, hereby certify, pursuant to 18 U.S.C. ss. 1350, as adopted
+pursuant to ss. 906 of the Sarbanes-Oxley Act of 2002, that to the best of my
+knowledge: (1) the Report fully complies with the requirements of Section 13(a)
+or 15(d) of the Securities Exchange Act of 1934; and (2) the information
+contained in the Report fairly presents, in all material respects, the financial
+condition and result of operations of the Company.
+
+/s/ Nasser Nassiri
+                                          ------------------
+                                          Nasser Nassiri
+                                          President, CEO, Chairman of the Board
+                                          and Principal Accounting Officer
+
+Date: March 30, 2006
+
+</EX-32>
+

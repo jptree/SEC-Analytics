@@ -1,0 +1,3406 @@
+<Header>
+<FileStats>
+    <FileName>20060331_10-K_edgar_data_917259_0001104659-06-021362_1.txt</FileName>
+    <GrossFileSize>1660858</GrossFileSize>
+    <NetFileSize>133050</NetFileSize>
+    <NonText_DocumentType_Chars>2466</NonText_DocumentType_Chars>
+    <HTML_Chars>1100254</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>34</N_Tables>
+    <N_Exhibits>6</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001104659-06-021362.hdr.sgml : 20060331
+<ACCEPTANCE-DATETIME>20060331165711
+ACCESSION NUMBER:		0001104659-06-021362
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		9
+CONFORMED PERIOD OF REPORT:	20051231
+FILED AS OF DATE:		20060331
+DATE AS OF CHANGE:		20060331
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ML PRINCIPAL PROTECTION LP
+		CENTRAL INDEX KEY:			0000917259
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				133750642
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-25000
+		FILM NUMBER:		06729712
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6TH FL, SOUTH TOWER, M L WORLD HDQR
+		STREET 2:		C/O ML FUTURES INVESTMENT PARTNERS INC
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10080-6106
+		BUSINESS PHONE:		2122364161
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O MERRILL LYNCH INVESTMENT PARTNERS IN
+		STREET 2:		WORLD FINANCIAL CENTER S TOWER 6TH FL
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10080-6106
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ML PRINCIPAL PROTECTION PLUS LP
+		DATE OF NAME CHANGE:	19940616
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SECTOR STRATEGY FUND VII LP
+		DATE OF NAME CHANGE:	19940107
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Eon2ISV+ITWhwczJVjzfFREVxBM6N+frjAWq4Iq9acuUc9CGicprT56ojwXYOaDd
+ ER9mZPCwMzf9xSUB+nPacA==
+
+ 0001104659-06-021362.txt : 20060331
+
+10-K
+ 1
+ a06-7497_510k.htm
+ ANNUAL REPORT PURSUANT TO SECTION 13 AND 15(D)
+
+UNITED STATES   
+
+   SECURITIES AND EXCHANGE COMMISSION   
+
+Washington, D.C. 20549   
+
+FORM 10-K   
+
+Commission file number:  0-25000   
+
+ML PRINCIPAL PROTECTION L.P.   
+
+  (Exact name of registrant as specified in its charter)  
+
+Delaware   
+
+13-3750642 (Registrant)   
+
+(State or other jurisdiction of  
+
+(I.R.S. Employer  
+
+incorporation or organization)  
+
+Identification No.)  
+
+c/o Merrill Lynch Alternative Investments LLC   
+
+   Princeton Corporate Campus   
+
+   800 Scudders Mill Road   Section 2-G   
+
+   Plainsboro, New Jersey 08536   
+
+  (Address of principal executive offices)  
+
+Registrant s telephone number, including area code:    (609) 282-6996    
+
+Securities registered
+pursuant to Section 12(b) of the Act: 
+  None    
+
+Securities registered
+pursuant to Section 12(g) of the Act:   Limited
+Partnership Units    
+
+Indicate by check mark if
+the registrant is a well-known seasoned issuer as defined by Rule 405 of
+the Securities Act.  
+
+Yes    o     No      
+
+Indicate by check mark if
+the registrant is not required to file reports pursuant to Section 13 or
+15 (d) of the Act.  
+
+Yes    o     No      
+
+Indicate by check mark
+whether the registrant (1) has filed all reports required to be filed by Section 13
+or 15(d) of the Securities Exchange Act of 1934 during the preceding 12
+months (or for such shorter period that the registrant was required to file
+such reports), and (2) has been subject to such filing requirements for
+the past 90 days.  
+
+Yes          No   o  
+
+Indicate by check mark if
+disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not
+contained herein, and will not be contained, to the best of registrant s
+knowledge, in definitive proxy or information statements incorporated by
+reference in Part III of this Form 10-K or any amendment to this Form 10-K.      
+
+Indicate by check mark
+whether the registrant is a large accelerated filer, an accelerated filer, or a
+non-accelerated filer. See definition of  accelerated filer and large
+accelerated filer  in Rule 12b-2 of the Exchange Act. Check one:  
+
+Large accelerated filer    o  
+
+Accelerated filer    o  
+
+Non-accelerated filer       
+
+Indicate by check mark
+whether registrant is an accelerated filer (as defined by Rule 12b-2 of
+the Act).  
+
+Yes    o     No      
+
+Indicate by check mark
+whether registrant is a shell company (as defined by Rule 12b-2 of the
+Act).  
+
+Yes    o     No      
+
+As of February 1,
+2006, limited partnership units with an aggregate value of $10,357,809 were
+outstanding and held by non-affiliates.  
+
+Documents Incorporated by Reference   
+
+The registrant s 2005
+Annual Report and Report of Independent Registered Public Accounting Firm, the
+annual report to security holders for the fiscal year ended December 31, 2005,
+is incorporated by reference into Part II, Item and Part IV hereof and filed as
+an Exhibit herewith. The Annual Report is available free of charge by
+contacting Merrill Lynch Alternative Investments Client Services at
+1-877-465-8435.  
+
+ML
+PRINCIPAL PROTECTION L.P.   
+
+ANNUAL REPORT FOR 2005 ON FORM 10-K  
+
+Table of
+Contents   
+
+PART I   
+
+Item 1.   
+
+Business   
+
+1  
+
+Item 1A.    
+
+Risk factors   
+
+7  
+
+Item 2.   
+
+Properties   
+
+9  
+
+Item 3.   
+
+Legal Proceedings   
+
+9  
+
+Item 4.   
+
+Submission of Matters to a Vote of Security
+  Holders   
+
+9  
+
+PART II   
+
+Item 5.   
+
+Market for Registrant s Common Equity,
+  Related Stockholder Matters and Issuer Purchases of Equity Securities   
+
+10  
+
+Item 6.   
+
+Selected Financial Data   
+
+11  
+
+Item 7.   
+
+Management s Discussion and Analysis of
+  Financial Condition and Results of Operations   
+
+15  
+
+Item 7A.   
+
+Quantitative and Qualitative Disclosures
+  about Market Risk   
+
+20  
+
+Item 8.   
+
+Financial Statements and Supplementary Data   
+
+21  
+
+Item 9.   
+
+Changes in and Disagreements with
+  Accountants on Accounting and Financial Disclosure   
+
+21  
+
+Item 9A.   
+
+Controls and Procedures   
+
+21  
+
+Item 9B.   
+
+Other Information   
+
+21  
+
+PART III   
+
+Item 10.   
+
+Directors and Executive Officers of the
+  Registrant   
+
+22  
+
+Item 11.   
+
+Executive Compensation   
+
+23  
+
+Item 12.   
+
+Security Ownership of Certain Beneficial
+  Owners and Management and Related Stockholder Matters   
+
+24  
+
+Item 13.   
+
+Certain Relationships and Related Transactions   
+
+24  
+
+Item 14.   
+
+Principal Accountant Fees and Services   
+
+25  
+
+PART IV   
+
+Item 15.   
+
+Exhibits and Financial Statement Schedules   
+
+26  
+
+i  
+
+PART I   
+
+Item 1:         Business   
+
+(a)               General Development
+of Business : 
+
+ML Principal Protection L.P. (the  Partnership ) was organized under
+the Delaware Revised Uniform Limited Partnership Act on January 3, 1994 and
+commenced trading activities on October 12, 1994. The Partnership engages
+currently, through an investment in a limited liability company (see below) in
+the speculative trading of a portfolio of futures options on futures and
+forward contracts on a wide range of commodities. The Partnership s objective
+is achieving, through speculative trading, substantial capital appreciation,
+over time.  
+
+Merrill Lynch Alternative Investments LLC ( MLAI ) is the general
+partner of the Partnership and is a wholly-owned subsidiary of Merrill Lynch
+Investment Managers LP ( MLIM ) which, in turn, is an indirect wholly-owned
+subsidiary of Merrill Lynch   Co. Inc. ( Merrill Lynch ). Prior to December
+1, 2005, the general partner of the partnership was Merrill Lynch Investment
+Managers LLC ( MLIM LLC ). Merrill Lynch, Pierce, Fenner   Smith
+Incorporated ( MLPF S ), a wholly-owned subsidiary of Merrill Lynch, is the
+Partnership s commodity broker.  
+
+The multi-advisor
+funds (the  Multi-Advisor Funds ) sponsored by MLAI allocate their assets to a
+number of the same independent advisors (the  Advisors ). MLIM (the predecessor
+general partner of the Partnership) consolidated the trading accounts of nine
+of its Multi-Advisor Funds as of June 1, 1998. The consolidation was achieved
+by having these Multi-Advisor Funds close their existing trading accounts and
+invest in ML Multi-Manager Portfolio LLC, a Delaware limited liability company,
+( MM LLC ) which opened a single account with each Advisor selected.  
+
+Effective after
+the close of business on December 31, 2004, MM LLC liquidated and the
+Partnership invested in Global Horizons I L.P. formerly ML Global Horizons L.P.
+( Global Horizons ). Global Horizons is a MLAI managed limited partnership that
+has an investment strategy similar to MM LLC.  
+
+The Units were sold in separate Series, each of which has its own Net
+Asset Value. All Series trade pursuant to the same Advisor combination, but
+because they begin trading at different times they have different Net Asset
+Values and may have different percentages of their capital invested in Global Horizons.  
+
+As of December 31, 2005, the Partnership s capitalization was
+$10,232,424 and the Net Asset Value per Series 2005 Unit (the combined initial
+Series of Units), originally $1.000 as of January 1, 2005, had fallen to $
+0.9621.  
+
+From January 1, 2003 through December 31, 2004, the highest month-end
+Net Asset Value of a Series A Unit was  
+$1.1504 (February 29, 2004) and the lowest was $1.0196 (March 31, 2003).  
+
+Through December 31, 2002, the highest month-end Net Asset Value of a
+Series A Unit before combination was $151.52 (adding back $29.50 in
+Distributions) (December 31, 2002) and the lowest was $101.04 (December 31,
+1994).  
+
+The Partnership was a  principal protected  commodity pool. Merrill
+Lynch provided the guarantee described below under Item 1(c),  Narrative
+Description of Business   Merrill Lynch s  Principal Protection  Undertaking to
+the Partnership  that all Units of any given Series will have a Net Asset Value
+  after payment of all fixed-rate annual as well as discretionary distributions
+on such Units, in the case of Units sold on or prior to May 1, 1997   of at
+least their initial $100 subscription price as of a specified date after their
+issuance (the  Principal Assurance Date  for such Series, seven years after
+issuance for all outstanding Series sold before May 1, 1997 and five years
+after issuance for all Series sold thereafter). This guarantee did not prevent
+substantial losses, but rather serves only as a form of  stop loss,  limiting
+the maximum loss which investors who retain their Units until such Units 
+Principal Assurance Date can incur. In order to protect Merrill Lynch from any
+liability under its guarantee, MLIM LLC imposed substantial opportunity costs
+on the Partnership by deleveraging its trading, retaining a substantial portion
+of the Partnership s assets in the Partnership rather than investing such
+assets in for allocation to trading. If the Net Asset Value per Unit of a
+Series declined to 110% or less of the present value of $100, plus any
+fixed-rate annual distributions due on such Series, discounted back from the
+Principal Assurance Date, MLIM LLC would terminate trading with respect to such
+Series altogether in order to ensure that Merrill Lynch incurred no financial
+obligation to the Partnership under Merrill Lynch s guarantee of the minimum
+Net Asset Value per Unit of such Series. The Principal Assurance Dates for
+Series A through S came to term on or before December 31, 2004 and were not
+renewed. The  
+
+above Series Units remain
+outstanding, with 100% of their assets allocated to trading, without any  principal
+protection  feature and no longer pay annual distributions.  
+
+(b)               Financial
+Information about Segments : 
+
+The Partnership s business constitutes only one segment for financial
+reporting purposes, i.e  .,   a speculative
+commodity pool. The Partnership does not engage in sales of goods or services.  
+
+(c)               Narrative
+Description of Business : 
+
+General    
+
+The Partnership traded, through its investment in Global Horizons, in
+futures, options on futures, and forwards contract in the major sectors of the
+world economy with the objective of achieving substantial capital appreciation
+over time. For the periods presented prior to the close of business on December
+31, 2004, the Partnership traded its investments through MM LLC.  
+
+MLAI is the Partnership s trading manager, with responsibility for
+selecting Advisors to manage Global Horizon s assets, allocating and
+reallocating Global Horizon s assets among different Advisors.  
+
+Considered as a whole, the Partnership, through its investment in
+Global Horizons (and former investment in MM LLC), trades in a diversified
+range of international markets. Certain Advisors considered individually,
+concentrate primarily on trading in a limited portfolio of markets. The
+composition of the  sectors  included in the Partnership s portfolio varies
+substantially over time.  
+
+MLAI may, from time to time, direct certain individual Advisors to
+manage their Partnership accounts as if they were managing more equity than the
+actual capital allocated to them.  
+
+One of the objectives of the Partnership is to provide diversification
+for a limited portion of the risk segment of the Limited Partners  portfolios.
+Commodity pool performance has historically often demonstrated a low degree of
+performance correlation with traditional stock and bond holdings. Since it
+began trading, the Partnership s returns have, in fact, frequently been
+non-correlated with the United States stock and bond markets.  
+
+2  
+
+Merrill Lynch s  Principal Protection 
+Undertaking to the Partnership    
+
+Merrill Lynch agreed to contribute sufficient capital to the
+Partnership so that it will have adequate funds, after adjusting for all
+liabilities to third parties, that the Net Asset Value per Unit of each Series
+will be no less than $100 as of the Principal Assurance Date for such Series
+(after the payment of all distributions, if any, on Units of such Series). This
+guarantee, which is effective with respect to any given Series as of the
+Principal Assurance Date for such Series, is a guarantee only of a return of an
+investor s initial investment (plus distributions, if any). It is not a
+guarantee against the loss of the time value of such investment or a guarantee
+of profit. The Principal Assurance Dates for Series A through S came to term on
+or before December 31, 2004, respectively and were not renewed. Currently all
+Units have no principal protection feature and no longer pay annual
+distributions.  
+
+Operation of a Series after its Principal
+Assurance Date    
+
+MLAI may determine to dissolve a Series as of its Principal Assurance
+Date, to extend the Merrill Lynch guarantee for a certain period of time
+(resetting the minimum Net Asset Value per Unit of such Series guaranteed by
+Merrill Lynch) or to continue to operate such Series without a principal
+protection feature. Series A through S continue to operate without the  principal
+protection  feature.  
+
+Consolidation of Series    
+
+MLIM LLC after
+making the previously announced distributions for Series F and prior to the opening
+of business on January 2, 2003, consolidated those series that had come to term
+on or before December 31, 2002 (Series A through F and K through N) into a new
+series, Series A 2003, with a $1.00 per Unit Net Asset Value. The aggregate Net
+Asset Value of each investor s new Units was equal to the aggregate Net Asset
+Value of their original Units as of December 31, 2002. The consolidation had no
+economic effect on the investors. MLIM LLC contributed $5,499 to the
+Partnership, the amount necessary due to the effects of rounding, to insure all
+investors received Units equal in value to their original holdings at December
+31, 2002. The following is a listing of the number of new Series A 2003 Units
+each investor received for each Unit of their original series holding.  
+
+Immediately following the distribution announcement and prior to the
+opening of business on January 2, 2004, Series G, H, and O through R, those
+series that had come to term on or before December 31, 2003, but after December
+31, 2002, were consolidated into a new series, Series 2004, with a $1.00 per
+Unit Net Asset Value. The aggregate Net Asset Value of each investor s new
+Units is equal to the aggregate Net Asset Value of their original Units at
+December 31, 2003. The consolidation had no adverse economic effect on the
+investors. MLIM LLC contributed $314 to the Partnership, the amount necessary
+due to the effects of rounding to insure all investors received Units equal in
+value to their original holdings at December 31, 2003. The following is a list
+of the number of new Units each investor received of Series 2004 for each Unit
+of their original series holding.  
+
+3  
+
+Prior to the opening of business on January 2, 2005, Series A 2003,
+Series 2004 and Series S were consolidated into a new series, Series 2005, with
+a $1.00 Unit Net Asset Value. The aggregate Net Asset Value of each investor s
+new Units is equal to the aggregate Net Asset Value of their original Units at
+December 31, 2004. The consolidation had no adverse economic effect on the
+investors. MLIM LLC contributed $733 to the Partnership, the amount necessary
+due to the effects of rounding, to insure that all investors received Units
+equal in value to their original holdings at December 31, 2004. The issuance of
+the new series was exempt from registration pursuant to Section 4(2) of the
+Securities Act of 1933. The following is a listing of the number of new Units each
+investor received of Series 2005 for each Unit of their original series
+holding.  
+
+Use of Proceeds and Interest Income    
+
+Market Sectors  . 
+
+The Partnership trades, through its investment in Global Horizons (and
+its former investment in MM LLC), in a diversified group of markets under the
+direction of multiple independent Advisors. These Advisors can, and do, from
+time to time, materially alter the allocation of their overall trading
+commitments among different market sectors. Except in the case of certain
+trading programs which are purposefully limited in the markets which they
+trade, there is essentially no restriction on the commodity interests which may
+be traded by any Advisor or the rapidity with which an Advisor may alter its
+market sector allocations.  
+
+Market Types  . 
+
+The Partnership trades, through its investments in Global Horizons (and
+its former investment in MM LLC),  on a
+variety of United States and foreign futures exchanges. Substantially all of
+the Partnership s off-exchange trading takes place in the highly liquid,
+institutionally based currency forward markets.  
+
+Many of the Partnership s currency trades are executed in
+the spot and forward foreign exchange markets (the  FX Markets ) where there
+are no direct execution costs. Instead, the participants, banks and dealers, in
+the FX Markets take a  spread  between the prices at which they are prepared to
+buy and sell a particular currency and such spreads are built into the pricing
+of the spot or forward contracts with the Partnership. In its exchange of
+futures for physical ( EFP ) trading, the Partnership acquires cash currency
+positions through banks and dealers. The Partnership pays a spread when it
+exchanges these positions for futures. This spread reflects, in part, the
+different settlement dates of the cash and the futures contracts, as well as
+prevailing interest rates, but also includes a pricing spread in favor of the
+banks and dealers, which may include a Merrill Lynch entity.   
+
+As in the case of its market sector allocations, the Partnership s
+commitments to different types of markets   U.S. and non-U.S., regulated and
+non-regulated   differ substantially from time to time as well as over time.  
+
+4  
+
+Custody of Assets  . 
+
+All of the Partnership s assets are currently held in customer accounts
+at MLPF S.  
+
+Interest paid by Merrill Lynch on the
+Partnership s U.S. Dollar and Non U.S. Dollar Assets    
+
+All
+of the Partnership s U.S. dollar assets invested in  Global Horizons were maintained at MLPF S. On assets held in
+U.S. dollars, Merrill Lynch credited Global Horizons with interest at the prevailing 91-day U.S.
+Treasury bill rate. Global Horizons was
+credited with interest on any of its assets and net gains actually held by
+Merrill Lynch in non-U.S. dollar currencies at a prevailing local rate received
+by Merrill Lynch. Merrill Lynch may derive certain economic benefit, in excess
+of the interest, which Merrill Lynch paid to Global Horizons from possession of such assets.  
+
+Merrill Lynch charged the Partnership through Global Horizons, Merrill
+Lynch s cost of financing realized and unrealized losses on Global
+Horizons,  non-U.S. dollar-denominated
+positions  .    
+
+Prior to the opening of business on January 1, 2005, the Partnership
+invested through MM LLC. MLPF S s and Merrill Lynch s arrangements with MM
+LLC were similar to the arrangements with Global Horizons as outlined in the
+preceding two paragraphs.  
+
+Charges    
+
+The following table summarizes the charges incurred by the Partnership
+during 2005, 2004, and 2003 allocated from MM LLC.  
+
+The Partnership s average month-end Net Assets during 2005, 2004, and
+2003 equaled $11,368,154, $13,826,437, and $16,639,849, respectively.  
+
+During 2005, the Partnership earned directly or primarily through its
+investment in Global Horizons $353,414 in interest income, or approximately
+3.11% of the Partnership s average month-end Net Assets. During 2004 and 2003,
+the Partnership earned directly or primarily through its investment in MM LLC
+$173,439 and $180,856 in interest income, or approximately 1.25% and 1.09% of
+the Partnership s average month-end Net Assets.  
+
+5  
+
+Description of Current Charges   
+
+Recipient   
+
+Nature
+  of Payment   
+
+Amount
+  of Payment   
+
+MLPF S  
+
+Brokerage Commissions  
+
+A flat-rate monthly commission of up to 0.604 of 1% (a 7.25% annual
+  rate) of the Partnership s month-end assets committed to trading.  
+
+During 2005, 2004 and 2003, the Partnership paid round-turn
+  commissions through its investment in Global Horizons and formerly MM LLC.
+  The estimated aggregate round turn commission rate for Global Horizons for
+  the year ended December 31, 2005 was $39. The estimated aggregate round turn
+  commission rate for MM LLC for the years ended December 31, 2004 and 2003 was
+  $45 and $53, respectively.  
+
+MLPF S  
+
+Use of Partnership assets  
+
+Merrill Lynch may derive certain economic benefit from the deposit of
+  certain of the Partnership s U.S. dollar Available Assets.  
+
+MLAI  
+
+Administrative Fees  
+
+The Partnership pays MLAI a monthly administrative fee equal to 0.021
+  of 1% (a 0.25 of 1% annual rate) of the Partnership s month-end total assets.
+  MLAI pays the Partnership s routine administrative costs.  
+
+Other Counterparties  
+
+Bid-ask spreads  
+
+Bid-ask spreads on forward and related trades.  
+
+Advisors  
+
+Profit Shares  
+
+All Advisors can receive quarterly or annual Profit Shares ranging
+  from 20% to 25% (depending on the Advisor) of any New Trading Profit achieved
+  by their Partnership account. Profit Shares are also paid upon the net
+  reallocation of assets away from an Advisor and the redemption of Units. New
+  Trading Profit is calculated separately in respect of each Advisor,
+  irrespective of the overall performance of the Partnership. The Partnership
+  may pay substantial Profit Shares during periods when it is incurring
+  significant overall losses.  
+
+Advisors  
+
+Consulting Fees  
+
+MLPF S pays the Advisors annual Consulting Fees ranging up to
+  2.5% of the Partnership s average month-end assets allocated to them for
+  management, after reduction for a portion of the brokerage commissions
+  accrued with respect to such assets.  
+
+MLPF  Others  
+
+Extraordinary expenses  
+
+Actual costs incurred; none paid to date.  
+
+6  
+
+Regulation    
+
+MLAI, the Advisors and MLPF S are each subject to regulation by the
+Commodity Futures Trading Commission (the  CFTC ) and the National Futures
+Association ( NFA ). Other than in respect of its periodic reporting
+requirements under the Securities Exchange Act of 1934, and the registration of
+the Units for continuous public distribution under the Securities Act of 1933,
+the Partnership itself is generally not subject to regulation by the Securities
+and Exchange Commission (the  SEC ). However, MLAI itself is registered as an  investment
+adviser  under the Investment Advisers Act of 1940. MLPF S is also
+regulated by the SEC and the National Association of Securities Dealers.  
+
+(i) through (xii)   not applicable.  
+
+(xiii)  The Partnership has no
+employees.  
+
+(d)              Financial
+Information about Geographic Areas : 
+
+The Partnership does not engage in material operations in foreign
+countries, nor is a material portion of the Partnership s revenue derived from
+customers in foreign countries. However, the Partnership trades through its
+investment in Global Horizons (and formerly through MM LLC), on a number of
+foreign commodity exchanges. The Partnership does not engage in the sales of
+goods or services.  
+
+Item 1A:  Risk
+Factors    
+
+Past      Performance Not Necessarily Indicative of Future Results   
+
+Past performance is not necessarily indicative of
+future results. Neither the Advisors  nor the Partnership s past performance
+may be representative of how they or it, respectively, may trade in the future.  
+
+Volatile Markets; Highly Leveraged Trading   
+
+Futures and forward trading is highly leveraged, and
+market price levels are volatile and materially affected by unpredictable
+factors such as weather and governmental intervention. The combination of
+leverage and volatility creates a high degree of risk.  
+
+Substantial Charges   
+
+The Partnership is subject to substantial charges.  
+
+The incentive compensation paid to the Advisors is
+based on the individual performance of each Advisor, not the overall
+performance of the Partnership. Historically, the Partnership has paid
+substantial incentive compensation to certain Advisors during periods when the
+performance of the Partnership as a whole was breakeven or unprofitable.  
+
+Importance   
+  of General Market Conditions   
+
+Overall market or economic conditions   which neither
+MLAI (the  General Partner ) nor any Advisor can predict or control   have a
+material effect on performance. Furthermore, such overall conditions can
+adversely affect the performance of numerous Advisors at or about the same
+time, despite their implementing different and independent strategies.
+Consequently, the multi-Advisor structure of the Partnership does not assure
+that its performance will not be adversely affected by future market or
+economic conditions.  
+
+Combining Independent Trading Strategies   
+
+Combining independent trading strategies involves
+substantial opportunity costs, as one Advisor s profits are frequently offset
+by another Advisor s losses. Different Advisors often take opposite positions
+for the Partnership, eliminating the profit potential of the combined
+positions.  
+
+Systematic   
+  Strategies   
+
+Most of the Partnership s assets have been allocated
+since inception to Advisors which rely on technical, systematic strategies. The
+widespread use of technical trading systems frequently results in numerous
+managers attempting to execute similar trades at or about the same time,
+altering trading patterns and affecting market liquidity. Furthermore, the  
+
+7  
+
+profit potential of trend-following systems may be
+diminished by the changing character of the markets, which may make historical
+price data (on which technical programs are based) only marginally relevant to
+future market patterns.  
+
+Discretionary   
+  Strategies   
+
+Certain of the Partnership s Advisors are
+discretionary rather than systematic traders. Discretionary trading managers
+may be prone to emotionalism and a lack of discipline in their trading. Relying
+on subjective trading judgment may produce less consistent results than those
+obtained by more systematic approaches.  
+
+Increased   
+  Assets Under Management   
+
+There appears to be a tendency for the rates of return
+achieved by managed futures advisors to decline as assets under management increase.
+None of the Advisors has agreed to limit the amount of additional equity which
+it may manage, and most of them are at or near their all-time high in assets
+under management.  
+
+No Assurance of Advisors  Continued Services;
+Competition for Advisors   
+
+There is no assurance that any Advisor will be willing
+or able to continue to provide advisory services to the Partnership. There is
+severe competition for the services of qualified Advisors, and the Partnership
+may not be able to retain satisfactory replacement or additional Advisors on
+acceptable terms. The General Partner must allocate Advisor availability among
+its different partnerships for which the general partner has authority,
+including the Partnership, and, accordingly, may not at all times select for
+the Partnership those Advisors which the General Partner would otherwise
+believe to be in its best interests.  
+
+Changes in Trading Strategy   
+
+An Advisor may make certain changes in its trading
+strategies without the knowledge of the General Partner.  
+
+Illiquid Markets   
+
+Certain positions held by the Partnership may become
+illiquid, preventing an Advisor from acquiring positions otherwise indicated by
+its strategy or making it impossible for an Advisor to close out positions
+against which the market is moving.  
+
+Trading on Non-U.S. Exchanges   
+
+The Advisors trade extensively on non-U.S. exchanges.
+These exchanges are not regulated by any United States governmental agency. The
+Partnership could incur substantial losses trading on foreign exchanges to
+which it would not have been subject had the Advisors limited their trading to
+U.S. markets.  
+
+The profits and losses derived from trading foreign
+futures and options will generally be denominated in foreign currencies;
+consequently, the Partnership will be subject to a certain degree of
+exchange-rate risk in trading such contracts.  
+
+The Partnership Could Lose Assets and Have Its
+Trading Disrupted Due to the Bankruptcy of Brokers   
+
+The Partnership is subject to the risk of its clearing
+broker, exchange or clearinghouse insolvency. Partnership assets could be lost
+or impounded during lengthy bankruptcy proceedings. Were a substantial portion
+of the Partnership s capital tied up in a bankruptcy, the General Partner might
+suspend or limit trading, perhaps causing the Partnership to miss significant
+profit opportunities. No Partnership managed by the General Partner has ever
+lost any assets due to the bankruptcy or default of a broker, exchange or
+clearinghouse, but there can be no assurance that this will not happen in the future.  
+
+8  
+
+Item 2:         Properties   
+
+The Partnership does not use any physical properties in the conduct of
+its business.  
+
+The Partnership s offices are the offices of MLAI (Merrill Lynch
+Alternative Investments LLC, Princeton Corporate Campus, 800 Scudders Mill Road
+- - Section 2G, Plainsboro, New Jersey 08536). MLAI performs administrative
+services for the Partnership from MLAI s offices.  
+
+Item 3:         Legal
+Proceedings   
+
+Neither the Partnership MLIM LLC nor MLAI has ever been the subject of
+material litigation. Merrill Lynch is the 100% indirect owner of MLAI, MLIM,
+MLPF S and all other Merrill Lynch entities involved in the operation of
+the Partnership. Merrill Lynch as well as certain of its subsidiaries and
+affiliates have been named as defendants in civil actions, arbitration
+proceedings and claims arising out of their respective business activities.
+Although the ultimate outcome of these actions cannot be predicted at this time
+and the results of legal proceedings cannot be predicted with certainty, it is
+the opinion of management that the result of these matters will not be
+materially adverse to the business operations or financial condition of MLAI or
+the Partnership.  
+
+Item 4:         Submission of Matters to a
+Vote of Security Holders   
+
+None.  
+
+9  
+
+PART II   
+
+Item 5:         Market
+for Registrant s Common Equity, Related Stockholder Matters and Issuer
+Purchases of Securities   
+
+Item 5(a)   
+
+(a)               Market Information : 
+
+There is no established public trading market for the Units, nor is it
+anticipated that one will develop. Limited Partners may redeem Units as of the
+end of each month at Net Asset Value, subject to certain early redemption
+charges. Units redeemed prior to the Principal Assurance Date were not entitled
+to any benefits under the Merrill Lynch, Inc. guarantee.  
+
+(b)               Holders : 
+
+As of December 31, 2005, there were 525 holders of Units, including
+MLAI.  
+
+(c)               Dividends : 
+
+For Series issued on or prior to May 1, 1997, the Partnership made
+annual fixed-rate distributions, payable irrespective of profitability, of
+$3.50 per Unit. Discretionary distributions of up to 50% of any Distributable
+New Appreciation, as defined, recognized as of each twelve-month anniversary of
+the issuance of each Series of Units, subject to an annual limit of 4% of the
+Net Asset Value per Unit of each Series as of the beginning of the preceding
+twelve-month period could also be made. Distributions, whether fixed-rate or
+discretionary, do not reduce the $100 minimum Net Asset Value per Unit assured
+to investors as of the Principal Assurance Date for their Series of Units.  
+
+(d)                Recent Sales of Unregistered Securities;
+Uses of Proceeds From Registered Securities:   
+
+Not applicable.  
+
+As of December 31, 2005, 2004 and 2003, the Partnership had made the
+following distributions:  
+
+The Partnership does not make any distributions on any Series of Unit
+issued subsequent to May 1, 1997.  
+
+(d)               Securities
+Authorized for Issuance Under Equity Compensation Plans : 
+
+Not applicable.  
+
+Recent Sales of Unregistered Securities; Uses
+of Proceeds From Registered Securities.   
+
+Not applicable.  
+
+10  
+
+Item 5(b)   
+
+Not applicable.  
+
+Item 5(c)   
+
+Not applicable.  
+
+Item 6:         Selected Financial Data   
+
+The following selected financial data has been derived from the audited
+financial statements of the Partnership:  
+
+11  
+
+(1) Net of aggregate
+distribution of $28.00 per unit on Series G Units and $28.00 on Series H Units. 
+
+(2) Net of aggregate distribution of $29.50 per unit on Series A Units,
+$31.50 on Series B Units, $28.50 on Series C Units, $26.50 on Series D Units,
+$26.50 on Series E Units, $24.75 on Series F Units, $24.50 on Series G Units
+and $24.50 on Series H Units.  
+
+(3) Net of aggregate distribution of $29.50 per unit on Series A Units,
+$28.00 on Series B Units, $25.00 on Series C Units, $23.00 on Series D Units,
+$23.00 on Series E Units, $21.25 on Series F Units, $21.00 on Series G Units
+and $21.00 on Series H Units.  
+
+12  
+
+ML PRINCIPAL PROTECTION L.P.   
+
+   December 31, 2005   
+
+Type of Pool:   
+Multi-Advisor; Selected Advisor/Publicly-Offered/ Principal Protected (1) 
+
+   Inception of Trading:     October 12, 1994 
+
+   Aggregate Subscriptions  :
+$164,914,392 
+
+   Current Capitalization:     $10,232,424 
+
+   Worst Monthly Drawdown:(2)     (4.04)% 
+(03/03) 
+
+   Worst Peak-to-Valley Drawdown:(3)     (8.76)% 
+(03/04-09/04) 
+
+Rates of
+Return are presented on a composite, not a Series-by-Series, basis.  
+
+Monthly Rates of Return(4)   
+
+(1) Pursuant to applicable CFTC regulations, a  Multi-Advisor 
+Partnership is defined as one that allocates no more than 25% of its Assets to
+any single manager. The Partnership does not currently allocate more than 25%
+of its Trading Assets to any single Advisor but may do so in the future;
+consequently, it is referred to as a Multi-Advisor; Selected Advisor 
+Partnership. Certain funds, including funds sponsored by MLAI, are structured
+so as to guarantee to investors that their investment will be worth no less
+than a specified amount (typically, the initial purchase price) as of a date
+certain after the date of investment. The CFTC refers to such funds as  Principal
+Protected.   The Merrill Lynch Guarantee
+and ML- related deleveraging of the Partnership s trading provides the  Principal
+Protection  feature of the Partnership. The  Principal Protection  feature no
+longer applies to Series A through S as of December 31, 2004.  
+
+(2) Worst Monthly Drawdown represents the largest negative Monthly Rate
+of Return experienced by the Partnership since January 1, 2001; a Drawdown is
+measured on the basis of month-end Net Asset Value only, and does not reflect
+intra-month figures.  
+
+(3) Worst Peak-to-Valley
+Drawdown represents the greatest percentage decline from a month-end cumulative
+Monthly Rate of Return since January 1, 2001 without such cumulative Monthly
+Rate of Return being equaled or exceeded as of a subsequent month-end. For
+example, if the Monthly Rate of Return was (1)% in each of January and
+February, 1% in March and (2)% in April, the Peak-to-Valley Drawdown would
+still be continuing at the end of April in the amount of approximately (3)%, whereas
+if the Monthly Rate of Return had been approximately 3% in March, the Peak-to-Valley
+Drawdown would have ended as of the end of February at approximately the (2)%
+level. 
+
+(4) Monthly Rate of Return is
+the net performance of the Partnership during the month of determination
+(including interest income and after all expenses accrued or paid) divided by
+the total equity of the Partnership as of the beginning of such month.  
+
+13  
+
+MONTH-END NET ASSET VALUE PER SERIES A
+UNIT (SERIES A 2003 FOR JANUARY 1, 2003 THROUGH DECEMBER 31, 2004 AND SERIES
+2005 THEREAFTER)  
+
+(c) After reduction for the first, second, third, fourth, fifth and
+sixth annual distribution and the $3.50 per Series A Unit distribution made on
+October 1, 2001.  
+
+(d) After reduction for the first, second, third, fourth, fifth, sixth
+and seventh annual distribution and the $3.50 per Series A Unit distribution
+made on October 1, 2002.  
+
+14  
+
+Item 7:         Management s Discussion and
+Analysis of Financial Condition and Results of Operations   
+
+Results of Operations    
+
+Advisor Selections   
+
+The Partnership s results
+of operations depend on MLAI s ability to select Advisors and the Advisors 
+ability to trade profitably. MLAI s selection procedures and trading leveraging
+analysis, as well as the Advisors  trading methods, are confidential, so that
+substantially the only available information relevant to the Partnership s
+results of operations is its actual performance record to date. Because of the
+speculative nature of its trading, the Partnership s past performance is not
+necessarily indicative of its future results.  
+
+MLAI has made
+frequent changes to both trading asset allocations among Advisors and Advisor
+combinations as well as from time to time adjusting the percentage of the
+Partnership s assets committed to trading.  
+
+MLAI s decision to
+terminate or reallocate assets among Advisors is based on a combination of numerous
+factors. Advisors are, in general, terminated primarily for unsatisfactory
+performance, but other factors   for example, a change in MLAI s or an Advisor s
+market outlook, apparent deviation from announced risk control policies,
+excessive turnover of positions, changes in principals, commitment of resources
+to other business activities, etc.   may also have a role in the termination or
+reallocation decision. The market judgment and experience of MLAI s principals
+is an important factor in its asset allocation decisions.  
+
+MLAI has no
+timetable or schedule for making Advisor changes or reallocations, and
+generally makes a medium- to long-term commitment to all Advisors selected.
+There can be no assurance as to the frequency or number of Advisor changes that
+may take place in the future, or as to how long any of the current Advisors
+will continue to manage assets for the Partnership.  
+
+General  
+
+A number of the
+Advisors are trend following traders, whose programs do not attempt to predict
+price movements. No fundamental economic supply or demand analyses are used by
+these Advisors, and no macroeconomic assessments of the relative strengths of
+different national economies or economic sectors are evaluated. Instead, the
+programs apply proprietary computer models to analyzing past market data, and
+from this data alone attempt to determine whether market prices are trending.
+These traders base their strategies on the theory that market prices reflect
+the collective judgment of numerous different traders and are, accordingly, the
+best and most efficient indication of market movements. However, there are
+frequent periods during which fundamental factors external to the market
+dominate prices.  
+
+If a trend-following
+Advisor s models identify a trend, they signal positions, which follow it. When
+these models identify the trend as having ended or reversed, these positions
+are either closed out or reversed. Due to their trend-following character,
+these Advisors  programs do not predict either the commencement or the end of a
+price movement. Rather, their objective is to identify a trend early enough to
+profit from it and detect its end or reversal in time to close out the
+Partnership s positions while retaining most of the profits made from following
+the trend.  
+
+In analyzing the
+performance of trend-following programs, economic conditions, political events,
+weather factors, etc. are not directly relevant because only market data has
+any input into trading results. Furthermore, there is no direct connection
+between particular market conditions and price trends. There are so many
+influences on the markets that the same general type of economic event may lead
+to a price trend in some cases but not in others. The analysis is further
+complicated by the fact that the programs are designed to recognize only
+certain types of trends and to apply only certain criteria of when a trend has
+begun. Consequently, even though significant price trends may occur, if these
+trends are not comprised of the type of intra-period price movements, which the
+programs are, designed to identify, a trend-following Advisor may miss the
+trend altogether.  
+
+In the case of the
+Advisors who implement strategies, which rely more on discretion and market
+judgment, it is not possible to predict, from their performance during past
+market cycles, how they will respond to future market events.  
+
+15  
+
+Performance Summary    
+
+This performance summary
+is an outline description of how the Partnership performed in the past, not necessarily
+any indication of how it will perform in the future. In addition, the general
+causes to which certain price movements are attributed may or may not in fact
+have caused such movements, but simply occurred at or about the same time.  
+
+The Advisors, as a
+group, are unlikely to be profitable in markets in which such trends do not
+occur. Static or erratic prices are likely to result in losses. Similarly,
+unexpected events (for example, a political upheaval, natural disaster or
+governmental intervention) can lead to major short-term losses, as well as
+gains.  
+
+While there can be no assurance that any Advisor will be profitable,
+under any given market condition, markets in which substantial and sustained
+price movements occur typically offer the best profit potential for the
+Partnership.  
+
+2005   
+
+Though an overall loss was realized for the year, the Partnership s
+overall trading performance was profitable with trading in metals and stock
+indices contributing the most profits.  
+
+Trading in the metals sector posted the most profits for the year. Long
+positions in base and precious metals contributed to profits early in the year
+but detracted from performance in the second quarter. Long metal positions in
+the third quarter, specifically copper, contributed to profits as global growth
+increased speculation that demand and therefore, prices would increase. Metals
+continued their upward trend through the latter part of the year as demand
+remained strong for base and precious metals.  
+
+Trading in stock indices posted solid trading profits as well for the
+year despite losses posted in the first half of the year. Losses occurred early
+in the year due to a trend reversal from long global equities to short global
+equities. Trading in stock indices contributed positively to performance in the
+second half of the year with long positions in global equities contributing the
+most as global markets rallied. Trading in the Nikkei, DAX and European
+equities posted strong gains as they rallied at year end.  
+
+The interest rate sector posted gains for the year primarily due to
+profits posted in the first half of the year despite this sector detracting
+from performance for the Partnership in the second half of the year. In the
+beginning of the year the interest rate sector was the best performing sector
+as the Partnership benefited from long U.S. dollar positions versus the Euro
+and long Euro and Japanese fixed incomes. Long positions in the ten-year German
+bund also contributed to gains. Mid-year a rally in bond prices attributed to
+losses as did long positions in Japanese and European government bonds. Trading
+in German bunds further detracted from performance. Gains were posted in
+October primarily due to short exposures to U.S. and European yield curves, as
+bond prices fell over concerns that the central banks would continue to raise
+rates; however these profits were not enough to outweigh losses posted
+throughout the latter part of the fourth quarter. Interest rates detracted as
+the U.S. yield curve inverted, resulting in a challenging environment for
+trading managers. Additionally, the market perception that the Federal Reserve
+would end its interest rate increase sooner rather than later sparked a sell
+off of the U.S. dollar. Furthermore, many global long-term interest rates moved
+lower, causing negative returns for select short positions, particularly to the
+German bund and British gilt.  
+
+Trading in the energy sector also posted gains for the Partnership
+despite the sector detracting from performance in the fourth quarter. Gains
+were experienced in the energy sector as the Partnership benefited from long
+positions in crude oil and gas as these industries profited. During the second
+quarter, crude oil and heating oil declined as crude oil fell in price, which
+negatively impacted trend followers. Trading in the energy sector posted the
+largest gains in the third quarter. Long energy positions in the entire energy
+complex, as well as a rally in the energy sector due to Hurricane Katrina
+attributed to those gains. Natural gas retreated from its record high prices
+set in September, negatively impacting trading managers. Natural gas continued
+its decline throughout the fourth quarter detracting from performance.  
+
+Trading in the agricultural sector posted slight losses for the
+Partnership for the year, with the first and latter part of the year
+contributing to profits and mid-year detracting from performance. During the
+first quarter, gains were experienced from long positions in cattle and hog
+markets. Gains were posted due to coffee, which experienced a lack of supply
+and a growing demand. Gains in exposure to hogs and soybeans were not enough to
+offset trading losses in other commodities. Long exposure to soymeal further
+attributed to losses. Short exposure to corn and long exposure to London  
+
+16  
+
+coffee detracted from
+performance in the third quarter. Agriculture posted small gains at the end of
+the year as long sugar positions rallied due to an expectation of reduced
+supplies.  
+
+Trading in the currency sector posted the largest losses for the
+Partnership for the year, despite small gains posted in the second quarter.
+Losses in the beginning of the year were due to a trend reversal from short
+U.S. dollar positions to long U.S. dollar positions. Long Japanese yen and
+Swiss franc positions also experienced losses. With the U.S. Federal Reserve
+expressing concern about inflation, investors predicted that interest rates and
+the U.S. dollar would rise. This caused losses as investors fled from emerging
+currencies. In the second quarter, long positions in the British pound and the
+Australian dollar contributed to gains. Short positions to the British pound
+and Swiss franc enabled the Partnership to capitalize on trend reversals in the
+market in the latter half of the second quarter. China s revaluation of the
+yuan caused volatility across the currency markets. The U.S. dollar weakened
+based on higher oil prices and the potential Federal Reserve slowdown in
+September. British pounds detracted from performance in the foreign sector. The
+U.S. dollar rallied against most major currencies, primarily the yen, which
+attributed to losses. Higher yielding carry trades reversed causing losses to
+be posted as well. The year ended with currencies on the upswing. Short Euro and
+Swiss franc and long Mexican peso positions contributed to performance.  
+
+2004   
+
+During 2004 all of the
+Partnership s assets were invested in MM LLC. The Partnership received trading
+profits as an investor in MM LLC. The following commentary of 2004 describes
+the trading results for MM LLC during the year.  
+
+The Partnership s overall
+trading performance was successful with trading in the interest rate sector
+proving to be the most profitable.  
+
+The interest rate sector was the most profitable for the Partnership,
+despite choppy trading conditions early in the year. Long exposure early in the
+year to most of the major global yield curves proved to generate positive
+results though overall exposure was light compared to historical exposure. Bond
+markets were fairly range bound during the second quarter however, yields on
+the U.S. ten-year note reached their highest levels since July 2002. U.S.
+Treasury markets reacted to the employment data during the third quarter with a
+strong sell-off, which caused the sector to reduce the long exposure to change
+to a net short bias. The Federal Reserve raised key interest rates by 25 basis
+points on September 21st and softer economic data eventually pushed longer-term
+maturities higher by the end of the quarter. The U.S. fixed income markets,
+particularly the front end, reversed their sell-off, which started in November,
+but rallied during the first week of December, only to reverse that trend
+during the last two weeks of the year.  
+
+The energy sector had the second highest gains for this Partnership.
+The upward trend in crude oil prices and related products continued in their
+secular bull market trend, in a very volatile fashion. Colder than expected
+winter months in the Northeast and Midwest U.S., instability with Russian suppliers,
+fears of worldwide terrorism, and active hurricane season in the U.S., all
+contributed to keeping prices high throughout the year. The end of the year did
+see a pull back from the all time highs in energy prices, due to both
+fundamental and technical factors, such as increased stockpiles and speculators
+trading the market.  
+
+Trading in agricultural commodities posted gains for the Partnership.
+In the beginning of the year, the USDA cut its forecast of the crop supply for
+both soybeans and corn, which sent prices surging. This long term rally
+continued through the second quarter on strong demand from Asia and lower
+estimates of supply from South America. Demand from China and diminishing
+supplies had kept prices high for quite some time. Small gains were posted in
+June, with cotton prices dropping allowing short exposures to generate profits.
+Corn also posted a significant decline during the month, which caused the
+portfolio to adjust positions from long to short. The USDA gave a low crop
+estimate as there were forecasts of an early freeze following a cool summer and
+slow crop development all surprising the market and posting losses as the short
+positions were covered. Cocoa had a volatile move in November as the political
+situation in the Ivory Coast deteriorated. The year ended with fundamental
+factors continuing to drive coffee prices higher, reaching over $1 per pound, a
+level not seen since July 2000.  
+
+The metals sector was not profitable for the Partnership. Despite gains
+in the first quarter and third quarter, the year was not profitable. The second
+quarter generated significant losses in both industrial and precious metals.
+The U.S. dollar strengthening and the fear of higher interest rates which would
+curb growth, caused base and precious metals to sell-off. Industrial metals,
+particularly copper, added to performance in the third quarter while exposure
+to precious metals contributed a small gain. Copper rallied primarily based on
+increasing demand from China and tight supply conditions. The year ended with
+the metals sector posting a loss, as gains in long industrials were outweighed
+by losses in long precious metal exposure. Gold experienced its first decline
+in six months.  
+
+17  
+
+Stock indices posted a loss for the Partnership. The market was choppy
+throughout the year making trading difficult. The Partnership was able to
+realize some gains in the beginning of the year on long exposure to global
+equities from momentum based and fundamental models performing well. However,
+stock indices posted a loss that exceeded the gains from earlier in the first
+quarter. In April, the Japanese Nikkei experienced a sudden deterioration,
+which sent that market plunging approximately 5% in one day. Losses in the U.S.
+outweighed moderate gains in some of the international markets late in the
+third quarter. However, stock indices posted a strong gain the end of the year,
+as markets continued the upward trend on positive economic data, a decline in
+energy prices and increased overall confidence. Gains were made across the
+U.S., Asia and Europe.  
+
+The currency sector was the least profitable for the Partnership. The
+currency markets continued its long trend of a weakening U.S. dollar. However,
+trading was very choppy and gains generated in the beginning of the first
+quarter were lost. Early U.S. dollar strength reversed towards the end of the
+first quarter and at the quarter s close the U.S. dollar fell to a four year
+low against the Japanese yen. The U.S. dollar rebounded at the beginning of the
+second quarter only to weaken at the end of the quarter. The currency markets
+remained range bound versus the U.S. dollar throughout the third quarter. The
+year ended with the U.S. dollar continuing to decline against various other currencies.  
+
+2003   
+
+During 2003 all of the
+Partnership s assets were invested in MM LLC. The Partnership received trading
+profits as an investor in MM LLC. The following commentary of 2003 describes
+the trading results for MM LLC during the year.  
+
+The Partnership s overall
+trading performance was successful with trading in the currency sector proving
+to be the most profitable. The Partnership experienced gains in all sectors.  
+
+The currency sector had
+the most significant gains for the year. The weakening U.S. dollar continued to
+decline as it has for over a year and the Partnership was well positioned to
+capitalize on its U.S. dollar positions against other currencies. The largest
+gains versus the U.S. dollar during January and February were with the
+Australian dollar and Canadian dollar. In March, on hopes that the war with
+Iraq would be short, the U.S. dollar strengthened and returned some of the
+profits earned early in the year. The U.S. dollar depreciated against most
+major currencies throughout most of the second quarter. The currency markets
+judged the developments in the Middle East as negative for the U.S. economy and
+trade, and the U.S. dollar sold off against most major currencies. The U.S.
+dollar continued to weaken significantly during the month of May when Treasury
+Secretary Snow indicated he was comfortable with current declines and that a
+cheaper U.S. dollar would increase exports. The U.S. dollar strengthened
+against most major currencies late June, reversing some earlier profits. During
+the middle of the third quarter, the U.S. dollar appreciated relative to the
+European currencies. In the fourth quarter the U.S. dollar declined against
+other major currencies, as concerns over the widening trade deficits persisted.
+Gains in trading the Australian dollar and Euro outweighed smaller losses in
+other markets during the fourth quarter.  
+
+Trading in stock indices
+posted a gain for the year. The market was choppy throughout the year making
+trading difficult. The Partnership was able to realize some gains in January on
+short positions as most indices recorded three-month lows. At the beginning of
+the third quarter, the equities were fairly quiet with strong gains being
+generated in trading global stock indices, primarily the Nikkei 225. During the
+middle of the third quarter, the losses in the S P 500 and Dow Jones
+futures outweighed gains in other markets. However, the Japanese Nikkei was the
+strongest performer as it gained over 8% on strong economic numbers. In
+December, a profit was posted as long exposure to global equities from momentum
+based models performed well as equities closed the year out with positive
+performance. The main drives to performance in this sector were the DAX and the
+S P500.  
+
+The metals sector was
+also profitable for the year. Gold drove profits in January as it continued its
+run up. The general perception of risks in the financial markets and the
+geopolitical situation unfolding was a main driver for the gold market in
+January. Gold generated losses in March through June as gold s appeal as a safe
+investment diminished. At the closing of the third quarter, both the industrial
+and metal complex sectors benefited from increases in valuation. In November,
+gold rallied and prices reached a six-year high and was one of the main drivers
+of performance for the sector. The year ended with strong physical demand from
+Asia accelerating the up trend in base metals, particularly, nickel and copper,
+which benefited our long exposure to these markets.  
+
+Interest rate futures
+were profitable for the year. Significant gains in February and May as well as
+in July due to the massive sell-off in bonds, offset losses throughout the
+remainder of the year. U.S. and European bonds rallied until the beginning of
+the third quarter when the U.S. bond market suffered losses after the U.S.
+government announced its  
+
+18  
+
+intentions to borrow a record amount to finance the
+huge deficit. European bonds were weaker, but generally outperformed U.S. bonds
+during such period. Despite a record $60 billion refunding program in the U.S.,
+bonds managed a timid recovery after making new lows. Trading conditions remain
+choppy in this sector and overall exposure continues to remain low, since no
+clear trends have emerged at the end of the year.  
+
+Energy was a profitable
+sector for the year. In February, the best performing month, natural gas prices
+rose nearly 40% in a single day in connection with expected severely cold
+weather and supply shortages. This helped the Partnership retain profits as
+prices declined in crude oil and natural gas in March. The markets in April and
+May were dominated by the developments in the Middle East, especially OPEC s
+reaction to the developments in Iraq. Production was not being resumed as
+initially estimated even though the destruction of the oilfields was smaller
+than expected. Natural gas was very volatile during June. During the middle of
+the third quarter, crude oil and most of the other energy markets were almost
+unchanged with high volatility throughout this period. The volatility was
+mainly due to the uncertainty in supply and estimates of demand that were
+projected to increase. This was partly offset by expectations of the possible
+resumption of oil production by Iraq. Strong gains were generated trading
+unleaded gas and crude oil, only to be reversed in September. The year ended
+with losses posted in the fourth quarter primarily due to milder weather in the
+U.S., which lead to a downward trend in natural gas. Prices were volatile after
+the arrest of Saddam Hussein and by a potential increase of OPEC quotas.  
+
+Trading in agricultural
+commodities posted small gains for the year. Livestock markets were off in
+February as Russia imposed an import limit to help its domestic production.
+Sugar was to blame for losses in March as prices reversed and hit a two-month
+low. Gains in April, mainly from soybeans, which rallied due to revisions in
+crop estimates and weather overseas, were overshadowed by losses in May and
+June due to changes in crop estimates and a volatile livestock market. In the
+beginning of the third quarter, short exposure in corn generated strong profits
+as the U.S. government forecasted a record crop for this year. Supply and
+demand continued to drive the cattle market as prices rose sharply in the
+beginning of the third quarter. Weather drove prices up due to very little rain
+in the Midwest, where a substantial portion of the U.S. crops grow. By the end
+of the third quarter, supply concerns drove the corn and soybean markets due to
+the fact the USDA reported a better than expected yield on corn and lower
+yields on soybeans. The fourth quarter began with posted gains as grain export
+data was very bullish for most grain markets and soybeans. Later in the fourth
+quarter, the discovery of the first case of mad cow disease contributed to the
+posting of losses.  
+
+Variables
+Affecting Performance    
+
+The principal variables, which determine the net performance of the
+Partnership, are gross profitability and interest income. Gross profitability
+is, in turn, effected by the percentage of the Partnership s assets allocated
+to trading.  
+
+During
+all periods set forth under  Selected Financial Data,  the interest rates in
+many countries were at unusually low levels. The low interest rates in the
+United States (although higher than in many other countries) negatively
+impacted revenues because interest income is typically a major component of the
+Partnership s profitability. In addition, low interest rates are frequently
+associated with reduced fixed income market volatility, and in static markets
+the Partnership s profit potential generally tends to be diminished. On the
+other hand, during periods of higher interest rates, the relative
+attractiveness of a high risk investment such as the Partnership may be reduced
+as compared to high yielding and much lower risk fixed-income investments.  
+
+The Partnership s Brokerage Commissions and Administrative Fees are a
+constant percentage of the Partnership s assets allocated to trading and total
+assets, respectively. The only Partnership costs (other than the insignificant
+currency trading costs) which are not based on a percentage of the Partnership s
+assets (allocated to trading or total) are the Profit Shares payable to the
+Advisors on an Advisor-by-Advisor basis. Gross profitability is in turn
+effected by the percentages of the Partnership s assets allocated to trading.
+During periods when Profit Shares are a high percentage of net trading gains,
+it is likely that there has been substantial performance non-correlation among
+the Advisors (so that the total Profit Shares paid to those Advisors which have
+traded profitably are a high percentage, or perhaps even in excess, of the
+total profits recognized, as other Advisors have incurred offsetting losses,
+reducing overall trading gains but not the Profit Shares paid to the successful
+Advisors)   suggesting the likelihood of generally trendless, non-consensus
+markets.  
+
+Unlike many
+investment fields, there is no meaningful distinction in the operation of the
+Partnership between realized and unrealized profits. Most of the contracts
+traded by the Partnership are highly liquid and can be closed out at any time.  
+
+Except in unusual circumstances, factors (e.g. regulatory approvals,
+cost of goods sold, employee relations and the like) which often materially
+affect an operating business have virtually no impact on the Partnership.  
+
+19  
+
+The Different Series of
+Units   
+
+During 2005 all Series of Units were invested in Global Horizons I L.P.
+and were subject to the same method of calculating their fees (prior to the
+close of business on December 31, 2004, all Series of Units were invested in MM
+LLC). Despite these fundamental similarities among the different Series,
+because the Series begin trading at different times they are likely, as a
+result of trading profits and losses, to pay different Profit Shares (although
+to the same group of Advisors) and have different Net Asset Values.  
+
+Liquidity; Capital
+Resources   
+
+The Partnership sells no securities other than the Units. The
+Partnership borrows, through Global Horizons, only to a limited extent and only
+on a strictly short-term basis in order to finance losses on non-U.S. dollar
+denominated trading positions pending the conversion of the Partnership s U.S.
+dollar deposits. These borrowings are at a prevailing short-term rate in the
+relevant currency. They have been immaterial to the Partnership s operations to
+date and are expected to continue to be so.  
+
+Substantially all of the Partnership s assets are held in cash, through
+Global Horizons. The Net Asset Value of the Partnership s cash is not affected
+by inflation. However, changes in interest rates could cause periods of strong
+up or down price trends, during which the Partnership s profit potential
+generally increases. Inflation in commodity prices could also generate price
+movements which the strategies might successfully follow.  
+
+Except in very unusual circumstances, the Partnership should be able to
+close out any or all of its open trading positions and liquidate any or all of
+its securities holdings quickly and at market prices. This permits an Advisor
+to limit losses, as well as reduce market exposure on short notice should its
+strategies indicate doing so. In addition, because there generally is a readily
+available market value for the Partnership s positions and assets, the
+Partnership s monthly Net Asset Value calculations typically are precise, and
+investors need only wait ten business days to receive the full redemption
+proceeds of their Units.  
+
+(The Partnership has no off-balance sheet arrangements or contractual
+obligations of the type described in Items 303(a)(4) and 303(a)(5) of
+Regulation S-K.)  
+
+Item 7A:   Quantitative and
+Qualitative Disclosures about Market Risk    
+
+Not applicable.  
+
+20  
+
+Item 8:         Financial Statements and
+Supplementary Data   
+
+Selected Quarterly Financial Data  
+
+ML Principal
+  Protection L.P.  
+
+Net Income by Quarter  
+
+  Eight Quarters through December 31, 2005  
+
+The financial statements
+required by this Item are included in Exhibit 13.01. 
+
+The supplementary financial information ( information about oil and gas
+producing activities ) specified by Item 302 of Regulation S-K is not
+applicable.  
+
+Item 9:         Changes in and Disagreements
+with Accountants on Accounting and Financial Disclosure   
+
+There were no changes in
+or disagreements with independent auditors on accounting and financial
+disclosure.  
+
+Item 9A:  Controls and
+Procedures    
+
+Merrill Lynch
+Alternative Investments LLC, the General Partner of ML Principal Protection
+L.P., with the participation of the General Partner s Chief Executive Officer
+and the Chief Financial Officer, has evaluated the effectiveness of the design
+and operation of its disclosure controls and procedures with respect to the
+Partnership as of the end of the period covered by this annual report, and,
+based on their evaluation, have concluded that these disclosure controls and
+procedures are effective. Additionally, there were no significant changes in
+the Partnership s internal controls or in other factors that could
+significantly affect these controls subsequent to the date of their evaluation,
+including any corrective actions with regard to significant deficiencies and
+material weaknesses.  
+
+Item 9B:   Other
+Information    
+
+Not applicable.  
+
+21  
+
+PART III   
+
+Item 10:  Directors and Executive
+Officers of the Registrant    
+
+10(a) and 10(b)  Identification of Managers and Executive Officers :  
+
+As a limited partnership, the Partnership itself has no officers or
+directors and is managed by MLAI. Trading decisions are made by the Advisors on
+behalf of the Partnership. Trading decisions are made by the advisors on behalf
+of the Partnership. MLAI promotes the Partnership and its controlling person.  
+
+The managers and executive officers of MLAI and their respective
+business backgrounds are as follows.  
+
+Robert M. Alderman   
+
+Chief Executive Officer, President and Manager  
+
+Steven B. Olgin   
+
+Vice President, Chief Operating Officer and Manager  
+
+Michael L. Pungello   
+
+Vice President, Chief Financial Officer and Treasurer  
+
+Jeffrey F. Chandor   
+
+Manager  
+
+Mr. Alderman was born in 1960. Mr. Robert M. Alderman is Chief
+Executive Officer, President and Manager of MLAI. Mr. Alderman is a Managing
+Director of Merrill Lynch Global Private Client and global head of Retail Sales
+and Business Management for Alternative Investments. Prior to re-joining
+Merrill Lynch and the International Private Client Group in 1999, he was a
+partner in the Nashville, Tennessee based firm of J.C. Bradford   Co. where
+he was the Director of Marketing, and a National Sales Manager for Prudential
+Investments. Mr. Alderman first joined Merrill Lynch in 1987 where he worked
+until 1997. During his tenure at Merrill Lynch, Mr. Alderman has held positions
+in Financial Planning, Asset Management and High Net Worth Services. He received
+his Master s of Business Administration from the Carroll School of Management
+Boston College and a Bachelor of Arts from Clark University.  
+
+Steven B. Olgin was born in 1960. Mr. Olgin is Vice President, Chief
+Operating Officer and a Manager of MLAI. He joined MLAI in July 1994 and became
+a Vice President in July 1995. From 1986 until July 1994, Mr. Olgin was an
+associate of the law firm of Sidley   Austin. In 1982, Mr. Olgin graduated
+from The American University with a Bachelor of Science in Business Administration
+and a Bachelor of Arts in Economics. In 1986, he received his Juris Doctor from
+the John Marshall Law School. Mr. Olgin is a member of the Managed Funds
+Association s Government Relations Committee and has served as an arbitrator
+for the National Futures Association. Mr. Olgin is a member of the Illinois
+Bar.  
+
+Michael L. Pungello was born in 1957. Mr. Pungello is a Vice President,
+Chief Financial Officer and Treasurer of MLAI. He was First Vice President and
+Senior Director of Finance for Merrill Lynch s Operations, Services and
+Technology Group from January 1998 to March 1999. Prior to that, Mr. Pungello
+spent over 18 years with Deloitte   Touche LLP, and was a partner in their
+financial services practice from June 1990 to December 1997. He graduated from
+Fordham University in 1979 with a Bachelor of Science in Accounting and
+received his Master s of Business Administration in Finance from New York
+University in 1987.  
+
+Jeffrey F. Chandor was born in 1942. Mr. Chandor is
+the Global Sales Director of the General Partner. Mr. Chandor became a Manager
+of the General Partner on April 1, 2003. He was a Senior Vice President,
+Director of Sales, Marketing and Research and a Director of Merrill Lynch
+Investment Partners, Inc., a predecessor to the General Partner. He joined
+Merrill Lynch, Pierce, Fenner   Smith Incorporated in 1971 and has served
+as the Product Manager of International Institutional Equities, Equity
+Derivatives and Mortgage-Backed Securities as well as Managing Director of
+International Sales in the United States, and Managing Director of Sales in
+Europe. Mr. Chandor holds a Bachelor of Arts degree from Trinity College,
+Hartford, Connecticut.  
+
+22  
+
+As of December 31, 2005, the principals of MLAI had no investment in
+the Partnership, and MLAI S general partner interest in the Partnership was
+valued at $154,642.  
+
+MLAI acts as the sponsor, general partner or manager to ten public
+futures funds whose units of limited partnership or member interests are
+registered under the Securities Exchange Act of 1934: Global Horizons I L.P.,
+ML Futures Investments L.P., ML JWH Strategic Allocation L.P., ML Select
+Futures I L.P, John W. Henry   Co./Millburn L.P., ML Appleton FuturesAccess
+LLC, ML Aspect FuturesAccess LLC, ML Cornerstone FuturesAccess LLC, ML Winton
+FuturesAccess LLC, and the Partnership. Because MLAI serves as the sponsor,
+general partner or manager of each of these funds, the officers and managers of
+MLAI effectively manage them as officers and directors of such funds.  
+
+(c)               Identification of
+Certain Significant Employees : 
+
+None.  
+
+(d)               Family Relationships : 
+
+None.  
+
+(e)               Business Experience : 
+
+See Item 10(a) and
+(b) above.  
+
+(f)                Involvement in
+Certain Legal Proceedings : 
+
+None.  
+
+(g)               Promoters and
+Control Persons : 
+
+Not applicable.  
+
+(h)               Audit
+Committee Financial Expert : 
+
+Not applicable. (Neither the Partnership nor
+MLAI has an audit committee.)  
+
+Section 16 (a) Beneficial Ownership Reporting
+Compliance   
+
+Not Applicable.  
+
+Code of Ethics  : 
+
+The Partnership has adopted a code of ethics, as of the end of the
+period covered by this report, which applies to the Partnership s (MLAI s)
+principal executive officer and principal financial officer or persons
+performing similar functions on behalf of the Partnership. A copy of the code
+of ethics is available to any person, without charge, upon request by calling 1-877-465-8435.  
+
+Item 11:   Executive
+Compensation    
+
+The managers and officers
+of MLAI are remunerated by MLAI in their respective positions. The Partnership
+does not itself have any officers, directors or employees. The Partnership pays
+Brokerage Commissions to an affiliate of MLAI and Administrative Fees to MLAI.
+MLAI or its affiliates may also receive certain economic benefits from holding
+certain of the Partnership s U.S. dollar Assets in offset accounts, as
+described in Item 1(c) above. The directors and officers receive no other
+compensation from the Partnership, and the managers receive no compensation for
+serving as managers of MLAI. There are no compensation plans or arrangements
+relating to a change in control of either the Partnership or MLAI.  
+
+23  
+
+Item 12:   Security Ownership
+of Certain Beneficial Owners and Management and Related Stockholder Matters    
+
+(a)               Security Ownership
+of Certain Beneficial Owners : 
+
+Not applicable (The Units are non-voting limited partnership interests.
+The Partnership is managed by MLAI, its general partner).  
+
+(b)               Security Ownership
+of Management : 
+
+As of December 31, 2005, MLAI owned 160,738 Units (Unit-equivalent
+general partnership interests), which was approximately 1.48% of the total
+Units outstanding.  
+
+(c)               Changes
+in Control : 
+
+None.  
+
+(d)              Securities
+Authorized for Issuance Under Equity Compensation Plans: 
+
+Not applicable.  
+
+Item 13:   Certain
+Relationships and Related Transactions    
+
+(a)               Transactions between
+Merrill Lynch and the Partnership  
+
+All of the service
+providers to the Partnership, other than the Advisors, are affiliates of
+Merrill Lynch. Merrill Lynch negotiated with the Advisors over the level of
+their advisory fees and Profit Shares. However, none of the fees paid by the
+Partnership to any Merrill Lynch party were negotiated, and they are higher
+than would have been obtained in arm s-length bargaining.  
+
+The Partnership
+indirectly pays Merrill Lynch through MLPF S and MLAI, substantial
+Brokerage Commissions and Administrative Fees, respectively, as well as bid-ask
+spreads on forward currency trades. The Partnership also pays MLPF S
+interest on short-term loans extended by MLPF S to cover losses on foreign
+currency positions.  
+
+Within the Merrill Lynch
+organization, MLAI is the direct beneficiary of the revenues received by
+different Merrill Lynch entities from the Partnership. MLAI controls the
+management of the Partnership and serves as its promoter. Although MLAI has not
+sold any assets, directly or indirectly, to the Partnership, MLAI makes
+substantial profits from the Partnership due to the foregoing revenues.  
+
+No loans have been, are
+or will be outstanding between MLAI or any of its principals and the
+Partnership.  
+
+MLAI paid substantial selling commissions and trailing commissions to
+MLPF S for distributing the Units. MLAI is ultimately paid back for these
+expenditures from the revenues it receives from the Partnership.  
+
+(b)               Certain Business
+Relationships : 
+
+MLPF S, an affiliate of MLAI, acts as the principal commodity
+broker for the Partnership.  
+
+In 2005, Global Horizons expensed directly on behalf of the
+Partnership: (i) Brokerage Commissions of $792,797 to MLPF S, which
+included $158,576 in consulting fees earned by the Advisors; and (ii)
+Administrative Fees of $27,338 to MLIM LLC and MLAI. In addition, MLAI and its
+affiliates may have derived certain economic benefit from possession of the
+Partnership s assets, as well as from foreign exchange and EFP trading.  
+
+See Item 1(c),  Narrative Description of Business   Charges  and    Description
+of Current Charges  for a discussion of other business dealings between MLAI
+affiliates and the Partnership.  
+
+24  
+
+(c)               Indebtedness of
+Management : 
+
+The Partnership is prohibited from making any loans, to management or
+otherwise.  
+
+(d)               Transactions
+with Promoters : 
+
+Not applicable.  
+
+Item 14:   Principal Accountant
+Fees and Services    
+
+(a)               Audit
+Fees  
+
+Aggregate fees billed for
+professional services rendered by Deloitte   Touche LLP in connection with
+the audit of the Partnership s financial statements as of and for the year
+ended December 31, 2005 were $21,500.  
+
+Aggregate fees billed for
+these services for the year ended December 31, 2004 were $23,550.  
+
+(b)               Audit-Related Fees  
+
+There were no
+other audit-related fees billed for the years ended December 31, 2005 or 2004
+related to the Partnership.  
+
+(c)               Tax Fees  
+
+Aggregate fees
+billed for professional services rendered by Deloitte Tax LLP in connection
+with the tax compliance, advice and preparation of the Partnership s, tax
+returns for the year ended December 31, 2005 were $152,000.  
+
+Aggregate fees
+billed for these services for the year ended December 31, 2004 were $66,000.  
+
+(d)               All Other Fees  
+
+No fees were
+billed by Deloitte   Touche LLP, Deloitte Tax LLP or any member firms of
+Delloitte Touche Tohmatsu, and their respective affiliates during the years
+ended December 31, 2005 or 2004 for any other professional services in relation
+to the Partnership.  
+
+Neither the Partnership nor MLAI has an audit committee to pre-approve
+principal accountant fees and services. In lieu of an audit committee, the
+managers and the principal financial officer pre-approve all billings prior to
+the commencement of the performance of such services.  
+
+25  
+
+PART IV   
+
+Item 15:   Exhibits and
+Financial Statement Schedules    
+
+1.                 Financial
+Statements (found in Exhibit 13.01) : 
+
+2.                 Financial
+Statement Schedules : 
+
+Financial statement schedules not included in this Form 10-K have been
+omitted for the reason that they are not required or are not applicable or that
+equivalent information has been included in the financial statements or notes
+thereto.  
+
+3.                 Exhibits : 
+
+The following exhibits are incorporated by reference or are filed
+herewith to this Annual Report on Form 10-K:  
+
+Designation   
+
+Description   
+
+1.01  
+
+Selling Agreement among the Partnership, MLIM LLC, MLPF S, the
+  Selling Agent and the Advisors.  
+
+Exhibit 1.01  : 
+
+Is incorporated herein by reference from Exhibit 1.01 contained in
+  Amendment No. 1 to the Registration Statement (File No. 33-73914) filed on
+  July 14, 1994, on Form S-1 under the Securities Act of 1933 (the  Registrant s
+  Registration Statement ).  
+
+1.01(a)  
+
+Form of Selling Agreement Amendment among the Partnership, MLIM LLC,
+  MLPF S, the Selling Agent and the Advisors.  
+
+Exhibit 1.01(a)  : 
+
+Is incorporated herein by reference from Exhibit 1.01(a) contained in
+  the Registrant s report on Form 10-K for the year ended December 31, 2005.  
+
+3.01(i)  
+
+Amended and Restated Limited Partnership Agreement of the
+  Partnership.  
+
+Exhibit 3.01(i)  : 
+
+Is incorporated herein by reference from Exhibit 3.01(ii) contained
+  in the Registrant s Registration Statement (as Exhibit A).  
+
+3.05(ii)  
+
+Amended and Restated Certificate of Limited Partnership of the
+  Partnership, dated July 27, 1995.  
+
+Exhibit 3.05(ii)  : 
+
+Is incorporated herein by reference from Exhibit 3.05(ii) contained
+  in the Registrant s report on Form 10-Q for the Quarter Ended June 30, 1995.  
+
+26  
+
+10.01(h)  
+
+Form of Advisory Agreement among the Partnership, MLIM LLC,  MLPF S and each Advisor.  
+
+Exhibit 10.01(h)  : 
+
+Is incorporated herein by reference from Exhibit 10.01(h) contained
+  in the Registrant s report on Form 10-Q for the Quarter Ended June 30, 1995.  
+
+10.02  
+
+Form of Consulting Agreement between MLPF S and each Advisor.  
+
+Exhibit 10.02  : 
+
+Is incorporated herein by reference from Exhibit 10.02 contained
+  in the Registrant s Registration Statement.  
+
+10.03  
+
+Form of Customer Agreement between the Partnership and MLPF S .   
+
+Exhibit 10.03   
+
+Is incorporated herein by reference from Exhibit 10.03 contained in
+  the Registrant s Registration Statement (as Exhibit B).  
+
+10.05  
+
+Merrill Lynch   Co., Inc. Guarantee.  
+
+Exhibit 10.05  : 
+
+Is incorporated herein by reference from Exhibit 10.05 contained in
+  the Registrant s Registration Statement (as Exhibit B).  
+
+10.06  
+
+Form of Subscription Agreement and Power of Attorney.  
+
+Exhibit 10.06  : 
+
+Is incorporated herein by reference from Exhibit 10.06 contained in
+  the Registrant s Registration Statement (as Exhibit D).  
+
+10.07(a)  
+
+Foreign Exchange Desk Service Agreement, dated July 1, 1993 among
+  Merrill Lynch International Bank, MLAI, MLPF S and various MLIM AS LLC
+  funds.  
+
+Exhibit 10.07(a)  : 
+
+Is incorporated herein by reference from Exhibit 10.07 contained in
+  the Registrant s Registration Statement (as Exhibit D).  
+
+10.07(b)  
+
+Amendment to Foreign Exchange Desk Service Agreement, dated July 14,
+  1994, among Merrill Lynch Investment Bank, MLAI, MLPF S and the
+  Partnership.  
+
+Exhibit 10.07(b)  : 
+
+Is incorporated herein by reference from Exhibit 10.07 contained in
+  the Registrant s Registration Statement.  
+
+10.08  
+
+Investment Advisory Contract between MLPF S, the Partnership, the
+  Trading Partnership and MLIM LLC.  
+
+Exhibit 10.08  : 
+
+Is incorporated herein by reference from Exhibit 10.08 contained in
+  the Registrant s Registration Statement.  
+
+10.09(a)  
+
+Form of Advisory and Consulting Agreement Amendment among MLIM LLC,
+  each Advisor, the Partnership and MLPF S.  
+
+Exhibit 10.09(a)  : 
+
+Is incorporated herein by reference from Exhibit 10.09(a) contained
+  in the Registrant s report on Form 10-K for the year ended December 31, 1996.  
+
+10.09(b)  
+
+Form of Amendment to the Customer Agreement among the Partnership and
+  MLPF S.  
+
+Exhibit 10.09(b)  : 
+
+Is incorporated herein by reference from Exhibit 10.09(b) contained
+  in the Registrant s report on Form 10-K for the year ended December 31, 1996.  
+
+27  
+
+28  
+
+SIGNATURES  
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed
+on its behalf by the undersigned, thereunto duly authorized.  
+
+ML PRINCIPAL PROTECTION L.P.   
+
+By:   MERRILL LYNCH ALTERNATIVE INVESTMENTS LLC    
+
+General Partner  
+
+By:  
+
+/s/Robert M. Alderman  
+
+Robert M. Alderman  
+
+Chief Executive Officer, President and Manager  
+
+(Principal Executive Officer)  
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, this report has been signed on March 31, 2005 by the
+following persons on behalf of the Registrant and in the capacities indicated.  
+
+Signature   
+
+Title   
+
+Date   
+
+/s/Robert M. Alderman  
+
+Chief Executive Officer, President and Manager  
+
+March 31, 2006  
+
+Robert M. Alderman  
+
+(Principal Executive Officer)  
+
+/s/Steven B. Olgin  
+
+Vice President, Chief Operating Officer and Manager  
+
+March 31, 2006  
+
+Steven B. Olgin  
+
+/s/Michael L. Pungello  
+
+Vice President, Chief Financial Officer and Treasurer  
+
+March 31, 2006  
+
+Michael L. Pungello  
+
+(Principal Financial and Accounting Officer)  
+
+/s/Jeffrey F. Chandor  
+
+Manager  
+
+March 31, 2006  
+
+Jeffrey F. Chandor  
+
+(Being the principal executive officer, the principal financial and
+accounting officer and a majority of the managers of Merrill Lynch Investment
+Managers LLC)  
+
+MERRILL LYNCH ALTERNATIVE INVESTMENTS LLC   
+
+General Partner of Registrant  
+
+March 31, 2006  
+
+By:  
+
+/s/Robert M. Alderman  
+
+Robert M. Alderman  
+
+Chief Executive Officer, President and Manager  
+
+(Principal Executive Officer)  
+
+29  
+
+ML PRINCIPAL PROTECTION L.P.   
+
+ANNUAL
+REPORT FOR 2005 ON FORM 10-K  
+
+INDEX TO EXHIBITS   
+
+Exhibit    
+
+Exhibit 13.01  
+
+2005 Annual Report and Report of Independent Registered Public
+  Accounting Firm  
+
+Exhibit 13.01(a)  
+
+2005 Annual Report and Report of Independent Registered Public
+  Accounting Firm Trading Limited Liability Company sponsored by MLAI:  
+
+Global Horizons I L.P.  
+
+30  
+
+<EX-13.01>
+ 2
+ a06-7497_5ex13d01.htm
+ ANNUAL REPORT TO SECURITY HOLDERS
+
+Exhibit 13.01   
+
+ML PRINCIPAL PROTECTION L.P.    
+
+(A Delaware Limited
+  Partnership)    
+
+Financial Statements for the years ended  
+
+December 31, 2005, 2004 and 2003 and  
+
+Report of Independent Registered  
+
+Public Accounting Firm  
+
+ML PRINCIPAL PROTECTION L.P.  
+
+   ( A Delaware
+Limited Partnership )  
+
+TABLE OF CONTENTS  
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING
+FIRM   
+
+To the Partners of  
+
+    ML Principal
+Protection L.P.:  
+
+We have audited the accompanying statements of
+financial condition of ML Principal Protection L.P. (the  Partnership ) as of December
+ 31, 2005 and 2004, and the related statements of operations and changes
+in partners  capital for each of the three years in the period ended December 31,
+2005 and the financial data highlights for the year ended December 31, 2005.
+These financial statements and financial data highlights are the responsibility
+of the Partnership s management. Our responsibility is to express an opinion on
+these financial statements and financial data highlights based on our audits.  
+
+We conducted our audits in accordance with the
+standards of the Public Company Accounting Oversight Board (United States). Those
+standards require that we plan and perform the audit to obtain reasonable
+assurance about whether the financial statements and financial data highlights
+are free of material misstatement. The Partnership is not required to have, nor
+were we engaged to perform, an audit of its internal control over financial
+reporting. Our audits included consideration of internal control over financial
+reporting as a basis for designing audit procedures that are appropriate in the
+circumstances, but not for the purpose of expressing an opinion on the
+effectiveness of the Partnership s internal control over financial reporting. Accordingly,
+we express no such opinion. An audit also includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the financial statements, assessing
+the accounting principles used and significant estimates made by management, as
+well as evaluating the overall financial statement presentation. We believe
+that our audits provide a reasonable basis for our opinion.  
+
+In our opinion, such financial statements and
+financial data highlights present fairly, in all material respects, the
+financial position of ML Principal Protection L.P. as of December 31, 2005
+and 2004, and the results of its operations, changes in its partners  capital
+and the financial data highlights for each of the periods presented in
+conformity with accounting principles generally accepted in the United States
+of America.  
+
+/s/ Deloitte   Touche LLP   
+
+New York, New York  
+
+  March 6, 2006  
+
+ML PRINCIPAL PROTECTION L.P.  
+
+   ( A Delaware
+Limited Partnership )  
+
+STATEMENTS OF FINANCIAL CONDITION  
+
+  DECEMBER 31, 2005 AND 2004  
+
+See notes to
+financial statements.  
+
+2  
+
+ML PRINCIPAL PROTECTION L.P.  
+
+  ( A Delaware Limited Partnership )  
+
+STATEMENTS OF OPERATIONS  
+
+  FOR THE YEARS ENDED DECEMBER 31, 2005, 2004 AND
+2003  
+
+Substantially all items of income and expense are
+derived from the investment in Global Horizons for year ended December 31,
+2005  
+
+  and MM LLC for the years ended December 31, 2004
+and 2003.  
+
+See notes to financial statements.  
+
+3  
+
+ML PRINCIPAL PROTECTION L.P.  
+
+  ( A Delaware Limited Partnership )  
+
+STATEMENTS OF CHANGES IN PARTNERS  CAPITAL  
+
+  FOR THE YEARS ENDED DECEMBER 31, 2005, 2004 AND
+2003  
+
+See notes to financial
+statements.  
+
+4  
+
+ML PRINCIPAL PROTECTION L.P.  
+
+  ( A Delaware Limited Partnership )  
+
+FINANCIAL DATA HIGHLIGHTS  
+
+  FOR THE YEAR ENDED DECEMBER 31, 2005  
+
+The following per Unit data and ratios have been
+derived from information provided in the financial statements.  
+
+*Series 2005 units were issued on January 2, 2005 (See Note
+7).  
+
+See notes to financial statements.  
+
+5  
+
+ML PRINCIPAL
+PROTECTION L.P.  
+
+  ( A Delaware Limited Partnership )  
+
+NOTES TO FINANCIAL STATEMENTS  
+
+1.                  SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+
+Organization   
+
+ML Principal Protection L.P (the  Partnership ) was
+organized as an open-end fund under the Delaware Revised Uniform Limited
+Partnership Act on January 3, 1994 and commenced trading activities on October 12,
+1994. The Partnership engages currently, through a limited liability company,
+Global Horizons I L.P. ( Global Horizons ) in the speculative trading of
+futures, options on futures and forward contracts on a wide range of
+commodities. Through December 31, 2004, the Partnership traded, through a
+similar limited liability company, ML Multi-Manager Portfolio LLC ( MM LLC ). Effective
+December 31, 2004, after the close of business, MM LLC redeemed all of the
+Partnership s units and the proceeds were invested in Global Horizons, which
+has an investment strategy similar to MM LLC. Merrill Lynch Alternative
+Investments LLC ( MLAI ) is the general partner of the Partnership and is a
+wholly-owned subsidiary of Merrill Lynch Investment Managers LP ( MLIM ), which
+in turn, is an indirect wholly-owned subsidiary of Merrill Lynch   Co.
+Inc. ( Merrill Lynch ). Merrill Lynch, Pierce, Fenner   Smith
+Incorporated ( MLPF S ), a wholly-owned subsidiary of Merrill Lynch, is the
+Partnership s commodity broker. Prior to December 1, 2005, Merrill Lynch
+Investment Managers LLC ( MLIM LLC ) was the general partner of the
+Partnership. All of the Partnership s assets are held in accounts maintained at
+MLPF S. MLAI intends to maintain a general partner s interest of at least
+1% of the total capital in each series of units. MLAI and the Limited
+Partners share in the trading revenues and interest income of the Partnership
+in proportion to the respective interests in the Partnership.  
+
+The following notes relate to the operations of the
+Partnership through its investments in Global Horizons and MM LLC. As of December 31,
+2005, the Partnership s percentage of ownership share of Global Horizons was 3.81%.
+As of December 31, 2004 (prior to MM LLC liquidation) and 2003, the
+Partnership s percentage of ownership share of MM LLC was 13.44% and 11.02%,
+respectively. MLAI selects independent trading advisors ( Advisors ) to manage Global
+Horizons  assets, and allocates and reallocates such trading assets among existing,
+replacement and additional Advisors.  
+
+Estimates    
+
+The preparation of financial statements in conformity
+with accounting principles generally accepted in the United States of America
+requires management to make estimates and assumptions that affect the reported
+amounts of assets and liabilities and disclosure of contingent assets and
+liabilities at the date of the financial statements and the reported amounts of
+revenues and expenses during the reporting period. Actual results could differ
+from those estimates.  
+
+Revenue Recognition   
+
+Commodity futures, options on futures and forwards are
+recorded on the trade date and open contracts are reflected in Net unrealized
+profit (loss) on open contracts in the Statements of Financial Condition of Global
+Horizons (MM LLC as of December 31, 2004) at the difference between the
+original contract value and the market value (for those commodity interests for
+which market quotations are readily available) or at fair value. The change in
+unrealized profit (loss) on open contracts from one period to the next is
+reflected in Change in unrealized under Trading profits (losses) in the
+Statements of Operations of Global Horizons (MM LLC for the years ended December 31,
+2004 and 2003).  
+
+6  
+
+Foreign Currency Transactions   
+
+The Partnership s functional currency is the U.S.
+dollar; however, it transacts business in currencies other than the U.S. dollar.
+Assets and liabilities denominated in currencies other than the U.S. dollar are
+translated into U.S. dollars at the rates in effect at the dates of the
+Statements of Financial Condition. Income and expense items denominated in
+currencies other than the U.S. dollar are translated into U.S. dollars at the
+rates in effect during the period. Gains and losses resulting from the
+translation to U.S. dollars are reported in Realized under Trading profit
+(loss) on the Statements of Operations of Global Horizons (MM LLC for the years
+ended December 31, 2004 and 2003).  
+
+Operating Expenses and Selling Commissions    
+
+MLAI pays all routine operating costs (including
+legal, accounting, printing, postage and similar administrative expenses) of
+the Partnership. MLAI receives an administrative fee as well as a portion of the
+brokerage commissions paid by the Partnership through Global Horizons
+(previously MM LLC).  
+
+No selling commissions have been or are paid directly
+by Limited Partners. All selling commissions are paid by MLAI.  
+
+Income Taxes   
+
+No provision for income taxes has been made in the
+accompanying financial statements as each Partner is individually responsible
+for reporting income or loss based on such Partner s respective share of the
+Partnership s income and expenses as reported for income tax purposes.  
+
+Redemptions   
+
+A Limited Partner may redeem some or all of such
+Partner s Units at Net Asset Value as of the close of business on the last
+business day of any month upon ten calendar days  notice.  
+
+Dissolution of the Partnership   
+
+The Partnership will terminate on December 31,
+2024 or at an earlier date if certain conditions occur, as well as under
+certain other circumstances as set forth in the Limited Partnership Agreement.  
+
+Indemnifications   
+
+In the normal course of business, the Partnership
+enters into contracts and agreements that contain a variety of representations
+and warranties and which provide general indemnifications. The Partnership s
+maximum exposure under these arrangements is unknown, as this would involve
+future claims that may be made against the Partnership that have not yet
+occurred. The Partnership expects the risk of any future obligation under these
+indemnifications to be remote.  
+
+2.                  INVESTMENT IN GLOBAL
+HORIZONS/RECEIVABLE FROM MM LLC 
+
+The financial statements of Global Horizons and MM LLC
+for the years ended December 31, 2005 and  
+
+7  
+
+2004, respectively, are bound together with this
+report and should be read in conjunction with the Partnership s financial
+statements. Effective December 31, 2004, MM LLC liquidated and the fair
+value of the Partnership s investment in MM LLC is reflected in Receivable from
+MM LLC on the Statement of Financial Condition.  
+
+The investment in Global Horizons as of December 31,
+2005 is reflected in the financial statements at fair value based upon the
+Partnership s proportionate interest in Global Horizons. Fair value of the
+investment in Global Horizons is equal to the market value of the net assets of
+Global Horizons allocable to the Partnership as an investor.  
+
+All income and expense for the Partnership was derived
+from its investment in Global Horizons or MM LLC, based on the Partnership s
+proportionate share of Global Horizons  or MM LLC s revenues and expenses.  
+
+3.                  RELATED PARTY
+TRANSACTIONS. 
+
+The Partnership s U.S. dollar assets are maintained at
+MLPF S through Global Horizons and previously MM LLC. On assets held in
+U.S. dollars, Merrill Lynch credits the Partnership with interest at the
+prevailing 91-day U.S. Treasury bill rate. The Partnership is credited with
+interest on any of its net gains actually held by Merrill Lynch in non-U.S.
+dollar currencies at a prevailing local rate received by Merrill Lynch. Merrill
+Lynch may derive certain economic benefits, in excess of the interest,
+which Merrill Lynch pays to the Partnership, from possession of such assets. The
+Partnership indirectly receives this interest through its investment in Global
+Horizons (MM LLC for the years ended December 31, 2004).  
+
+Merrill Lynch charges the Partnership, through its
+investment in Global Horizons (MM LLC for the years ended December 31,
+2004 and 2003), Merrill Lynch s cost of financing realized and unrealized
+losses on the Partnership s non-U.S. dollar-denominated positions. Such amounts
+are netted against interest income. These amounts are not significant to the
+financial statements of the Partnership.  
+
+Through its investment in Global Horizons and
+previously MM LLC, the Partnership pays brokerage commissions to MLPF S at
+a flat monthly rate of .604 of 1% (a 7.25% annual rate) of month-end trading
+assets invested in Global Horizons (MM LLC for the years ended December 31,
+2004 and 2003). Through its investment in Global Horizons and previously MM
+LLC, the Partnership also pays MLAI, and previously MLIM LLC, a monthly
+administrative fee of .021 of 1% (a 0.25% annual rate) of the Partnership s
+total month-end trading assets. Assets committed to trading are not reduced for
+purposes of calculating brokerage commissions and administrative fees by any
+accrued brokerage commissions, administrative fees, Profit Shares or other fees
+or charges.  
+
+MLPF S pays the Advisors annual consulting fees up
+to 2.50% of the Partnership s average month-end trading assets allocated to a
+specific Advisor for management, after reduction for a portion of the brokerage
+commissions accrued with respect to such assets.  
+
+8  
+
+4.                  ANNUAL DISTRIBUTIONS 
+
+The Partnership made annual
+fixed-rate distributions, payable irrespective of profitability, of $3.50 per
+Unit on Units issued prior to May 1, 1997 until the Principal Assurance
+Date. No distributions are payable on Units issued after May 1, 1997. For
+the years ended December 31, 2005, 2004 and 2003, the Partnership made the
+following distributions:  
+
+5.                  ADVISORY AGREEMENTS 
+
+Global Horizons (MM LLC
+for the years ended December 31, 2004 and 2003) and the Advisors have each
+entered into Advisory Agreements. These Advisory Agreements generally renew
+annually after they are entered into, subject to certain rights exercisable by
+the Partnership. The Advisors determine the commodity futures, options on
+futures and forwards trades to be made on behalf of their respective accounts,
+subject to certain rights reserved by MLAI.  
+
+Profit Shares, generally
+ranging from 20% to 25% of any New Trading Profit, as defined, recognized by
+each Advisor individually, irrespective of the overall performance of any
+series, either as of the end of each calendar quarter or year and upon the net
+reallocation of assets away from an Advisor, including Unit redemptions, are
+paid by Global Horizons (MM LLC for the years ended December 31, 2004 and
+2003) to the appropriate Advisors to the extent of the applicable percentage of
+any New Trading Profit attributable to such Units.  
+
+6.                  COPPER SETTLEMENT 
+
+The
+Partnership, as a member of a class of plaintiffs, received a settlement
+payment in February 2005 relating to certain copper trades made by a
+number of investors, including the Partnership, during a period in the mid-1990s.
+Members of the class were those who purchased or sold COMEX, a subsidiary
+of the New York Mercantile Exchange, copper futures or options contracts
+between June 24, 1993 and June 15, 1996. The amount of the settlement
+for the Partnership was $6,070, which is included in Realized under Trading
+profits (losses) on the Statement of Operations of the Partnership for the year
+ended December 31, 2005.  
+
+9  
+
+7.                  NET ASSET VALUE PER
+UNIT 
+
+Prior to the opening of
+business on January 2, 2005, Series A 2003, Series 2004 and Series S
+were consolidated into a new series, Series 2005, with a $1.00 Unit Net
+Asset Value. The aggregate Net Asset Value of each investor s new Units was
+equal to the aggregate Net Asset Value of their original Units at December 31,
+2004. The consolidation had no adverse economic effect on the investors. MLIM
+LLC contributed $733 to the Partnership, the amount necessary due to the
+effects of rounding, to insure that all investors received Units equal in value
+to their original holdings at December 31, 2004. The following is a
+listing of the number of new Units each investor received of Series 2005
+for each Unit of their original series holding.  
+
+Prior
+to the opening of business on January 2, 2004, Series G, H, and O
+through R, were consolidated into a new series, Series 2004, with a $1.00
+per Unit Net Asset Value. The aggregate Net Asset Value of each investor s new
+Units is equal to the aggregate Net Asset Value of their original Units at December 31,
+2003. The consolidation had no adverse economic effect on the investors. MLIM
+LLC contributed $314 to the Partnership, the amount necessary due to the
+effects of rounding, to insure all investors received Units equal in value to
+their original holdings at December 31, 2003. The following is a listing
+of the number of new Units each investor received of Series 2004 for each
+Unit of their original series holding.  
+
+10  
+
+Prior to the opening of business on January 2,
+2003, Series A through F and K through N, were consolidated into a new
+series, Series A 2003, with a $1.00 per Unit Net Asset Value. The
+aggregate Net Asset Value of each investor s new Units is equal to the
+aggregate Net Asset Value of their original Units at December 31, 2002. The
+consolidation had no adverse economic effect on the investors. MLIM LLC
+contributed $5,499 to the Partnership, the amount necessary due to the effects
+of rounding, to insure that all investors received Units equal in value to
+their original holdings at December 31, 2002. The following is a listing
+of the number of new Units each investor received of Series A 2003 for
+each Unit of their original series holding.  
+
+At December 31, 2005, the Net Asset Value of the
+Units is as follows:  
+
+At December 31, 2004, the Net Asset Values of
+the different series of Units are as follows:  
+
+8.                  WEIGHTED AVERAGE
+UNITS 
+
+Weighted average number of Units outstanding is
+computed for purposes of computing net income (loss) per weighted average Unit.
+The weighted average number of Units outstanding for the years ended December 31,
+2005, 2004 and 2003 equals the Units outstanding as of such date, adjusted
+proportionately for Units redeemed or issued based on the respective length of
+time each was outstanding during the year.  
+
+11  
+
+9.                   FAIR VALUE AND OFF-BALANCE SHEET RISK 
+
+The Partnership invests indirectly in derivative
+instruments as a result of its investment in Global Horizons (MM LLC as of December 31,
+2004), but does not itself hold any derivative instrument positions. The nature
+of this Partnership has certain risks, which cannot be presented on the
+financial statements.  
+
+Market Risk   
+
+Derivative instruments involve varying degrees of off-balance
+sheet market risk. Changes in the level or volatility of interest rates,
+foreign currency exchange rates or the market values of the financial
+instruments or commodities underlying such derivative instruments frequently
+result in changes in the Partnership s net unrealized profit on such derivative
+instruments as reflected in Statements of Financial Condition of Global
+Horizons (MM LLC as of December 31, 2004). The Partnership s exposure to
+market risk is influenced by a number of factors, including the relationships
+among the derivative instruments held by Global Horizons (MM LLC as of December 31,
+2004) as well as the volatility and liquidity of the markets in which such
+derivative instruments are traded.  
+
+10.            SUBSEQUENT EVENT 
+
+On February 15, 2006, Merrill Lynch and
+BlackRock, Inc ( BlackRock ) announced that they have reached an agreement to
+merge the asset management business of MLIM and BlackRock to create a new
+independent asset management company. The transaction has been approved by the
+boards of directors of both Merrill Lynch and BlackRock and is expected to
+close in the third quarter of 2006. As a result of the transaction, the
+combined company will become the general partner or sponsor of the Partnership.  
+
+12  
+
+* * * * * * * * * *  
+
+To the best of the knowledge and belief of the  
+
+  undersigned, the
+information contained in this  
+
+  report is accurate and
+complete.  
+
+Michael Pungello  
+
+  Chief Financial Officer  
+
+  Merrill Lynch Alternative
+Investments, LLC  
+
+  General Partner of  
+
+  ML Principal Protection
+L.P.  
+
+13  
+
+</EX-13.01>
+
+<EX-13.01(A)>
+ 3
+ a06-7497_5ex13d01a.htm
+ 302 CERTIFICATION
+
+Exhibit 13.01(a)   
+
+GLOBAL HORIZONS I L.P.    
+
+    (A Delaware Limited Partnership)    
+
+Financial Statements for the years ended  
+
+  December 31, 2005, 2004 and 2003  
+
+  And Report of Independent Registered  
+
+  Public Accounting Firm  
+
+GLOBAL
+HORIZONS I L.P.  
+
+TABLE
+OF CONTENTS  
+
+REPORT OF
+INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM   
+
+To the Partners of  
+
+  Global Horizons I L.P.:  
+
+We have audited the accompanying statements of
+financial condition of Global Horizons I L.P. (the  Partnership ) as of
+December 31, 2005 and 2004, and the related statements of operations and
+changes in partners  capital for each of the three years in the period ended
+December 31, 2005 and the financial data highlights for the year ended December
+31, 2005. These financial statements and financial data highlights are the
+responsibility of the Partnership s management. Our responsibility is to
+express an opinion on these financial statements and financial data highlights
+based on our audits.  
+
+We conducted our audits in accordance with the
+standards of the Public Company Accounting Oversight Board (United States). Those
+standards require that we plan and perform the audits to obtain reasonable
+assurance about whether the financial statements and financial data highlights
+are free of material misstatement. The Partnership is not required to have nor
+were we engaged to perform, an audit of its internal control over financial
+reporting. Our audits included consideration of internal control over financial
+reporting as a basis for designing audit procedures that are appropriate in the
+circumstances, but not for the purpose of expressing an opinion on the
+effectiveness of the Partnership s internal control over financial reporting. Accordingly,
+we express no such opinion. An audit also includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the financial statements,
+assessing the accounting principles used and significant estimates made by
+management, as well as evaluating the overall financial statement presentation.
+We believe that our audits provide a reasonable basis for our opinion.  
+
+In our opinion, such financial statements and
+financial data highlights present fairly, in all material respects, the
+financial position of Global Horizons I L.P. as of December 31, 2005 and
+2004, and the results of its operations, changes in its partners  capital and
+financial data highlights for each of the periods presented in conformity with
+accounting principles generally accepted in the United States of America.  
+
+/s/ Deloitte   Touche LLP   
+
+New York, New York  
+
+  March 6, 2006  
+
+GLOBAL
+HORIZONS I L.P.  
+
+  ( A
+Delaware Limited Partnership )  
+
+STATEMENTS OF
+FINANCIAL CONDITION  
+
+  DECEMBER
+31, 2005 AND 2004  
+
+See
+notes to financial statements.  
+
+  2  
+
+GLOBAL
+HORIZONS I L.P.  
+
+  ( A
+Delaware Limited Partnership )  
+
+STATEMENTS OF OPERATIONS  
+
+  FOR
+THE YEARS ENDED DECEMBER 31, 2005, 2004 AND 2003  
+
+*Calculation of net
+income (loss) per weighted average general partner and limited partner unit
+excludes net loss allocated to non-unitized interests for the year ended
+December 31, 2005.  
+
+See
+notes to financial statements.  
+
+3  
+
+GLOBAL
+HORIZONS I L.P.  
+
+  ( A
+Delaware Limited Partnership )  
+
+STATEMENTS OF
+CHANGES IN PARTNERS  CAPITAL  
+
+  FOR
+THE YEARS ENDED DECEMBER 31, 2005, 2004 AND 2003  
+
+See
+notes to financial statements.  
+
+4  
+
+GLOBAL
+HORIZONS I L.P.  
+
+  ( A
+Delaware Limited Partnership )  
+
+FINANCIAL DATA HIGHLIGHTS  
+
+  FOR
+THE YEAR ENDED DECEMBER 31, 2005  
+
+The
+following per Unit data and ratios have been derived from information provided
+in the financial statements.  
+
+See
+notes to financial statements.  
+
+5  
+
+GLOBAL
+HORIZONS I L.P.  
+
+  ( A
+Delaware Limited Partnership )  
+
+NOTES TO FINANCIAL
+STATEMENTS  
+
+1.                  SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+
+Organization   
+
+Global Horizons I L.P. (the  Partnership ), formerly ML Global
+Horizons, LP,  was organized as an
+open-end fund under the Delaware Revised Uniform Limited Partnership Act on May
+11, 1993 and commenced trading activities on January 4, 1994. The Partnership
+engages in the speculative trading of futures, options on futures and forward
+contracts on a wide range of commodities. The Partnership issues units of
+limited partnership interest ( Units ) at Net Asset Value as of the beginning
+of each month. Effective December 1, 2005 Merrill Lynch Alternative Investments
+LLC ( MLAI ) became the general partner of the Partnership. Prior to December 1,
+2005, Merrill Lynch Investment Managers LLC ( MLIM LLC ) was the general
+partner of the Partnership. MLAI is a wholly-owned subsidiary of Merrill Lynch
+Investment Managers LP ( MLIM ), which in turn, is an indirect wholly-owned
+subsidiary of Merrill Lynch   Co. Inc. ( Merrill Lynch ). Trading authority
+is delegated to independent trading advisors (the  Advisors ) by MLIM. Merrill
+Lynch, Pierce, Fenner   Smith Incorporated ( MLPF S ), a wholly-owned
+subsidiary of Merrill Lynch, is the Partnership s commodity broker. MLAI has
+agreed to maintain a general partner s interest of at least 1% of the total
+capital of the unitized series in the Partnership. MLAI and each Limited
+Partner share in the profits and losses of the Partnership in proportion to
+their respective interests in the Partnership.  
+
+Estimates   
+
+The preparation of financial statements in conformity
+with accounting principles generally accepted in the United States of America
+requires management to make estimates and assumptions that affect the reported
+amounts of assets and liabilities and disclosure of contingent assets and
+liabilities at the date of the financial statements as well as the reported
+amounts of revenues and expenses during the reporting period. Actual results
+could differ from those estimates.  
+
+Revenue Recognition   
+
+Commodity futures, options on futures and forward
+contract transactions are recorded on trade date and open contracts are
+reflected in Net unrealized profit on open contracts in the Statements of
+Financial Condition as the difference between the original contract value and
+the market value (for those commodity interests for which market quotations are
+readily available). The change in unrealized profit on open contracts from one
+period to the next is reflected in Change in unrealized in the Statements of Operations.  
+
+Foreign Currency Transactions   
+
+The Partnership s functional currency is the U.S.
+dollar; however, it transacts business in currencies other than the U.S. dollar.
+Assets and liabilities denominated in currencies other than the U.S. dollar are
+translated into U.S. dollars at the rates in effect at the dates of the
+Statements of Financial Condition. Income and expense items denominated in
+currencies other than the U.S. dollar are translated into U.S. dollars at the
+rates in effect during the period. Gains and losses resulting from the
+translation to U.S. dollars are reported in Realized in the Statements of Operations.  
+
+6  
+
+Cash at Broker   
+
+A portion of the assets maintained at MLPF S is
+restricted to meet maintenance requirements. Typically, margin requirements
+range from 5% to 25% of the face value of the derivatives traded.  
+
+Operating Expenses, Ongoing Offering Costs and Selling
+Commissions    
+
+MLAI pays for all routine operating costs (including
+legal, accounting, printing, postage and similar administrative expenses) of
+the Partnership, including the costs, if any, of the ongoing offering of the
+Units. MLAI receives an administrative fee as well as a portion of the
+brokerage commissions paid to MLPF S by the Partnership.  
+
+No selling commissions have been or are paid directly
+by Limited Partners. All selling commissions are paid by MLAI.  
+
+Income Taxes   
+
+No provision for income taxes has been made in these
+financial statements as each Partner is individually responsible for reporting
+income or loss based on such Partner s respective share of the Partnership s
+income and expenses as reported for income tax purposes.  
+
+Distributions   
+
+The Limited Partners are entitled to receive, equally
+per Unit, any distributions which may be made by the Partnership. No such
+distributions have been declared for the years ended December 31, 2005, 2004 or
+2003.  
+
+Subscriptions   
+
+Units are offered as of the close of business at the
+end of each month. Units are purchased as of the first business day of any
+month at Net Asset Value, but the subscription request must be submitted at
+least ten calendar days before the end of the preceding month. Subscriptions
+submitted less than ten days before the end of a month will be applied to Unit
+subscriptions as of the beginning of the second month after receipt, unless
+revoked by MLAI.  
+
+Redemptions   
+
+A Limited Partner may redeem some or all of such
+Partner s Units at Net Asset Value as of the close of business on the last
+business day of any calendar month upon ten calendar days  notice. Units
+redeemed on or prior to the end of the twelfth full month after purchase are
+assessed an early redemption charge of 3% of their Net Asset Value as of the
+date of redemption.  
+
+Dissolution of the Partnership   
+
+The Partnership will terminate on December 31, 2023 or
+at an earlier date if certain conditions occur, as well as under certain other
+circumstances as set forth in the Limited Partnership Agreement.  
+
+7  
+
+Indemnifications   
+
+In the normal course of business, the Partnership
+enters into contracts and agreements that contain a variety of representations
+and warranties and which provide general indemnifications. The Partnership s
+maximum exposure under these arrangements is unknown, as this would involve
+future claims that may be made against the Partnership that have not yet
+occurred. The Partnership expects the risk of any future obligation under these
+indemnifications to be remote.  
+
+8  
+
+2.                  CONDENSED
+SCHEDULES OF INVESTMENTS 
+
+The Partnership s investments, defined as Net
+unrealized profit on open contracts on the Statements of Financial Condition,
+as of December 31, 2005, and 2004, are as follows:  
+
+2005   
+
+2004   
+
+No individual contract s unrealized gain or loss
+comprised greater than 5% of the Partner s capital as of December 31, 2005 or
+2004.  
+
+9  
+
+3.                  RELATED PARTY
+TRANSACTIONS 
+
+The
+Partnership s U.S. dollar assets are maintained at MLPF S. On assets held in
+U.S. dollars, Merrill Lynch credits the Partnership with interest at the
+prevailing 91-day U.S. Treasury bill rate. The Partnership is credited with
+interest on any of its net gains actually held by MLPF S in non-U.S. dollar
+currencies at a prevailing local rate received by Merrill Lynch. Merrill Lynch
+may derive certain economic benefit, in excess of the interest which Merrill
+Lynch pays to the Partnership, from possession of such assets.   
+
+Merrill Lynch charges the Partnership Merrill Lynch s
+cost of financing realized and unrealized losses on the Partnership s non-U.S.
+dollar denominated positions. Such amounts are netted against interest income
+due to the insignificance of such amounts.  
+
+As of February 1, 2004, the Partnership was made
+available for new investment. Series A and F units pay brokerage commissions to
+MLPF S at a flat monthly rate of .583 of 1% (a 7.00% annual rate) of the
+Series  month-end trading assets. Series I pays brokerage commissions to
+MLPF S at a flat monthly rate of .333 of 1% (a 4.00% annual rate) of the
+Series  month-end trading assets. The Partnership pays MLAI a monthly
+administrative fee of .021 of 1% (a 0.25% annual rate) of the Partnership s
+month-end trading assets. Month-end trading assets are not reduced, for
+purposes of calculating brokerage commissions and administrative fees, by any
+accrued brokerage commissions, administrative fees, Profit Shares or other fees
+or charges. Prior to February 1, 2004 the brokerage commissions on Series F was
+a monthly rate of .604 of 1% (a 7.25% annual rate). Brokerage commissions for
+the non-unitized series range from .604 of 1% (a 7.25% annual rate) to .729 of
+1% (a 8.75% annual rate).  
+
+MLAI estimates that the round-turn equivalent
+commission rate charged to the Partnership by MLPF S during the years ended
+December 31, 2005, 2004 and 2003 was approximately $39, $90 and $84,
+respectively (not including, in calculating round-turn equivalents, forward
+contracts on a futures-equivalent basis).  
+
+MLPF S pays the Advisors annual consulting fees
+ranging up to 2.00% of the Partnership s average month-end assets allocated to
+them for management, after reduction for a portion of the brokerage commissions
+accrued with respect to such assets.  
+
+Prior to January 1, 2004, the Partnership paid to MLIM
+LLC an Incentive Override equal to 10% of the Net New Gain, as defined. Such
+payments were also made to MLIM LLC from the redemption value of Units redeemed
+as of the end of interim months during a year, to the extent of any Net New
+Gain attributable to such Units when redeemed. For the year ended December 31,
+2003, an Incentive Override of $805,634 was paid to MLIM LLC.  
+
+Due to affiliate on the Statement of Financial
+Condition relates to cash assets held in accounts relating to a previously
+liquidated fund and the general partners investments in that fund. This amount
+will be paid to MLAI upon the legal liquidation of the affiliated fund.  
+
+4.                  ADVISORY AGREEMENTS 
+
+The Partnership and the Advisors have each entered
+into Advisory Agreements. These Advisory Agreements generally renew one year
+after they are entered into, subject to certain renewal rights exercisable by
+the Partnership. The Advisors determine the commodity futures, options on
+futures and forward contract trades to be made on behalf of their respective
+Partnership accounts, subject to certain trading policies and to certain rights
+reserved by MLAI.  
+
+10  
+
+Profit Shares, generally ranging from 20% to 25% of
+any New Trading Profit, as defined, recognized by each Advisor considered
+individually, irrespective of the overall performance of the Partnership, as of
+either the end of each calendar quarter or year and upon the net reallocation
+of assets away from an Advisor, are paid by the Partnership to each Advisor. Profit
+Shares are also paid out in respect of Units redeemed as of the end of interim
+months, to the extent of the applicable percentage of any New Trading Profit
+attributable to such Units.  
+
+5.                  WEIGHTED AVERAGE
+UNITS 
+
+The weighted average
+number of Units outstanding is computed for purposes of disclosing net income
+(loss) per weighted average Unit. The weighted average number of Units
+outstanding for the years ended December 31, 2005, 2004 and 2003 equals the
+Units outstanding as of such date, adjusted proportionately for Units sold and
+redeemed based on the respective length of time each was outstanding during the
+year.  
+
+6.                  UNITIZED AND
+NON-UNITIZED SERIES 
+
+At December 31, 2005 and 2004, the Net Asset Values of
+the different unitized series and the partners holding the non-unitized series
+of the Partnership are as follows:  
+
+December 31, 2005  
+
+Unitized Series   
+
+Non-unitized Series   
+
+11  
+
+December 31, 2004  
+
+Effective January 1, 2005, three funds (the  Feeder
+Funds ) in which MLAI is general partner or sponsor invested their net assets
+in a non-unitized series of the Partnership. The Feeder Funds are all closed to
+new investment and are segregated from other subscriptions as the non-unitized
+series. At the point of contribution, the total investment by the Feeder Funds
+was $97,084,491.  
+
+7.                  COPPER
+SETTLEMENT 
+
+The Partnership, as a member of
+a class of plaintiffs, received a settlement payment in February 2005 relating
+to certain copper trades made by a number of investors, including the Partnership,
+during a period in the mid-1990s. Members of the class were those who purchased
+or sold Comex copper futures or options contracts between June 24, 1993 and
+June 15, 1996. The amount of the settlement for the Partnership was $27,888,
+which is included in Realized under Trading profits (losses) on the Statement
+of Operations of the Partnership for the year ended December 31, 2005.  
+
+8.                  FAIR VALUE AND OFF-BALANCE
+SHEET RISK 
+
+The nature of this
+Partnership has certain risks, which cannot all be presented on the financial
+statements. The following summarizes some of those risks.  
+
+Market Risk   
+
+Derivative instruments involve varying degrees of
+off-balance sheet market risk. Changes in the level or volatility of interest
+rates, foreign currency exchange rates or the market values of the financial
+instruments or commodities underlying open contracts frequently result in
+changes in the Partnership s net unrealized profit on such derivative
+instruments as reflected in the Statements of Financial Condition. The
+Partnership s exposure to market risk is influenced by a number of factors,
+including the relationships among the derivative instruments held by the
+Partnership as well as the volatility and liquidity of the markets in which the
+derivative instruments are traded.  
+
+MLAI has procedures in place intended to control
+market risk exposure, although there can be no assurance that they will, in
+fact, succeed in doing so. These procedures focus primarily on monitoring the
+trading of the Advisors, calculating the Net Asset Values of the Partnership as
+of the close of business on each day and reviewing outstanding positions for
+over-concentrations. While MLAI does not itself intervene in the markets to
+hedge or diversify the Partnership s market exposure, MLAI may urge the
+Advisors to reallocate positions in an attempt to avoid over-concentrations. However,
+such interventions are unusual and unless it appears that the Advisors have
+begun to deviate from past practice or trading policies or to be trading
+erratically, MLAI s basic risk control procedures consist simply of the ongoing
+process of advisor monitoring, with the market risk controls being applied by
+the Advisors themselves.  
+
+12  
+
+Credit Risk   
+
+The risks associated with exchange-traded contracts
+are typically perceived to be less than those associated with over-the-counter
+(non-exchange-traded) transactions, because exchanges typically (but not
+universally) provide clearinghouse arrangements in which the collective credit
+(in some cases limited in amount, in some cases not) of the members of the
+exchange is pledged to support the financial integrity of the exchange. In
+over-the-counter transactions, on the other hand, traders must rely solely on
+the credit of their respective individual counterparties. Margins, which may be
+subject to loss in the event of a default, are generally required in exchange
+trading, and counterparties may also require margin in the over-the-counter
+markets.  
+
+The credit risk associated with these instruments from
+counterparty nonperformance is the net unrealized profit on open contracts,
+included in the Statements of Financial Condition. The Partnership attempts to
+mitigate this risk by dealing exclusively with Merrill Lynch entities as clearing
+brokers.  
+
+The Partnership, in its normal course of business,
+enters into various contracts with MLPF S acting as its commodity broker. Pursuant
+to the brokerage agreement with MLPF S (which includes a netting
+arrangement), to the extent that such trading results in receivables from and
+payables to MLPF S, these receivables and payables are offset and reported
+as a net receivable or payable and included in Net unrealized profit on open
+contracts on the Statements of Financial Condition.  
+
+9.                  SUBSEQUENT
+EVENT 
+
+On February 15, 2006, Merrill Lynch and BlackRock, Inc
+( BlackRock ) announced that they have reached an agreement to merge the asset
+management business of MLIM and BlackRock to create a new independent asset
+management company. The transaction has been approved by the boards of
+directors of both Merrill Lynch and BlackRock and is expected to close in the
+third quarter of 2006. As a result of the transaction, the combined company
+will become the general partner or sponsor of the Partnership.  
+
+13  
+
+*   *  
+*   *   *  
+*   *    *  
+*   *   *  
+*   *  
+
+To the best of the knowledge and belief of the  
+
+  undersigned, the information contained in this  
+
+  report is accurate and complete.  
+
+Michael Pungello  
+
+  Chief Financial Officer  
+
+  Merrill Lynch Alternative Investments LLC  
+
+  General Partner of  
+
+  ML Global Horizons L.P.  
+
+14  
+
+</EX-13.01(A)>
+
+<EX-31.01>
+ 4
+ a06-7497_5ex31d01.htm
+ 302 CERTIFICATION
+
+EXHIBIT 31.01   
+
+RULE
+13a-14(a)/15d-14(a) CERTIFICATIONS    
+
+I, Robert M. Alderman, certify that:  
+
+1. I have reviewed this report on Form 10-K of ML Principal Protection
+L.P.;  
+
+2. Based on my knowledge, this report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to make
+the statements made, in light of the circumstances under which such statements
+were made, not misleading with respect to the period covered by this report;  
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects
+the financial condition, results of operations and cash flows of the registrant
+as of, and for, the periods presented in this report;  
+
+4. The registrant s other certifying officer and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have:  
+
+a) Designed such disclosure controls
+and procedures, or caused such disclosure controls and procedures to be
+designed under our supervision, to ensure that material information relating to
+the registrant, including its consolidated subsidiaries, is made known to us by
+others within those entities, particularly during the period in which this
+report is being prepared;   
+
+b) Evaluated the effectiveness of
+the registrant s disclosure controls and procedures and presented in this
+report our conclusions about the effectiveness of the disclosure controls and
+procedures, as of the end of the period covered by this report based on such
+evaluation; and   
+
+c) Disclosed in this report any change in the registrant s internal
+control over financial reporting that occurred during the registrant s most
+recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an
+annual report) that has materially affected, or is reasonably likely to
+materially affect, the registrant s internal control over financial reporting;
+and  
+
+5. The registrant s other certifying officer and I have disclosed,
+based on our most recent evaluation of internal control over financial
+reporting, to the registrant s auditors and the audit committee of registrant s
+board of directors (or persons performing the equivalent functions):  
+
+a)   All significant deficiencies and material weaknesses
+in the design or operation of internal control over financial reporting which
+are reasonably likely to adversely affect the registrant s ability to record,
+process, summarize and report financial information; and  
+
+b) Any fraud,
+whether or not material, that involves management or other employees who have a
+significant role in the registrant s internal control over financial reporting.  
+
+Date: March 31, 2006  
+
+By  
+
+/s/ ROBERT M. ALDERMAN  
+
+Robert M. Alderman  
+
+Chief Executive Officer, President and Manager  
+
+(Principal Executive Officer)   
+
+</EX-31.01>
+
+<EX-31.02>
+ 5
+ a06-7497_5ex31d02.htm
+ 302 CERTIFICATION
+
+EXHIBIT 31.02   
+
+RULE
+13a-14(a)/15d-14(a) CERTIFICATIONS    
+
+I, Michael L. Pungello, certify that:  
+
+1. I have reviewed this report on Form 10-K of ML Principal Protection
+L.P.;  
+
+2. Based on my knowledge, this report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to make
+the statements made, in light of the circumstances under which such statements
+were made, not misleading with respect to the period covered by this report;  
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects
+the financial condition, results of operations and cash flows of the registrant
+as of, and for, the periods presented in this report;  
+
+4. The registrant s other certifying officer and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have:  
+
+a) Designed such disclosure controls
+and procedures, or caused such disclosure controls and procedures to be
+designed under our supervision, to ensure that material information relating to
+the registrant, including its consolidated subsidiaries, is made known to us by
+others within those entities, particularly during the period in which this
+report is being prepared;   
+
+b) Evaluated the effectiveness of
+the registrant s disclosure controls and procedures and presented in this
+report our conclusions about the effectiveness of the disclosure controls and
+procedures, as of the end of the period covered by this report based on such
+evaluation; and   
+
+c) Disclosed in this report any change in the registrant s internal
+control over financial reporting that occurred during the registrant s most
+recent fiscal quarter (the registrant s fourth fiscal quarter in the case of an
+annual report) that has materially affected, or is reasonably likely to
+materially affect, the registrant s internal control over financial reporting;
+and  
+
+5. The registrant s other certifying officer and I have disclosed,
+based on our most recent evaluation of internal control over financial
+reporting, to the registrant s auditors and the audit committee of registrant s
+board of directors (or persons performing the equivalent functions):  
+
+a) All significant deficiencies and material weaknesses in the design
+or operation of internal control over financial reporting which are reasonably
+likely to adversely affect the registrant s ability to record, process,
+summarize and report financial information; and  
+
+b) Any fraud,
+whether or not material, that involves management or other employees who have a
+significant role in the registrant s internal control over financial reporting.  
+
+Date: March 31, 2006  
+
+By  
+
+/s/ MICHAEL L. PUNGELLO  
+
+Michael L. Pungello  
+
+Vice President, Chief Financial Officer  
+
+and Treasurer  
+
+(Principal Financial and Accounting Officer)  
+
+</EX-31.02>
+
+<EX-32.01>
+ 6
+ a06-7497_5ex32d01.htm
+ 906 CERTIFICATION
+
+EXHIBIT 32.01   
+
+SECTION
+1350 CERTIFICATION    
+
+In connection with this annual report of ML Principal
+Protection L.P. (the  Company ) on Form 10-K for the fiscal year ended December
+31, 2005 as filed with the Securities and Exchange Commission on the date hereof
+(this  Report ), I, Robert M. Alderman, Chief Executive Officer, President and
+Manager of the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted
+pursuant of the Sarbanes-Oxley Act of 2002, that:   
+
+1. This Report containing the financial statements fully complies with
+the requirements of Section 13(a) or 15(d) of the Securities Exchange Act of
+1934; and  
+
+2. The information contained in this Report fairly
+presents, in all material respects, the financial condition and results of
+operations of the Company.  
+
+Date: March 31, 2006  
+
+By  
+
+/s/ ROBERT M. ALDERMAN  
+
+Robert M. Alderman  
+
+Chief Executive Officer, President and Manager  
+
+(Principal Executive Officer)  
+
+</EX-32.01>
+
+<EX-32.02>
+ 7
+ a06-7497_5ex32d02.htm
+ 906 CERTIFICATION
+
+EXHIBIT 32.02   
+
+SECTION
+1350 CERTIFICATION    
+
+In connection with this annual report of ML Principal
+Protection L.P. ( the  Company ) on Form 10-K for the fiscal year ended
+December 31, 2005 filed with the Securities and Exchange Commission on the date
+hereof (this  Report ), I, Michael L. Pungello, Vice President, Chief Financial
+Officer and Treasurer of the Company, certify, pursuant to 18 U.S.C. Section
+1350, as adopted pursuant of the Sarbanes-Oxley Act of 2002, that:   
+
+1. This Report containing
+the financial statements fully complies with the requirements of Section 13(a)
+or 15(d) of the Securities Exchange Act of 1934; and  
+
+2. The information contained in this Report fairly
+presents, in all material respects, the financial condition and results of
+operations of the Company.  
+
+Date: March 31, 2006  
+
+By  
+
+/s/ MICHAEL L. PUNGELLO  
+
+Michael L. Pungello  
+
+Vice President, Chief Financial Officer  
+
+and Treasurer  
+
+(Principal Financial and Accounting Offi)  
+
+</EX-32.02>
+

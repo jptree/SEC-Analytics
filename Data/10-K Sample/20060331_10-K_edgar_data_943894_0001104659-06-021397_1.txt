@@ -1,0 +1,3145 @@
+<Header>
+<FileStats>
+    <FileName>20060331_10-K_edgar_data_943894_0001104659-06-021397_1.txt</FileName>
+    <GrossFileSize>1226403</GrossFileSize>
+    <NetFileSize>142011</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>732970</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>26</N_Tables>
+    <N_Exhibits>4</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001104659-06-021397.hdr.sgml : 20060331
+<ACCEPTANCE-DATETIME>20060331172301
+ACCESSION NUMBER:		0001104659-06-021397
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20051231
+FILED AS OF DATE:		20060331
+DATE AS OF CHANGE:		20060331
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			EZENIA INC
+		CENTRAL INDEX KEY:			0000943894
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMPUTER COMMUNICATIONS EQUIPMENT [3576]
+		IRS NUMBER:				043114212
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-25882
+		FILM NUMBER:		06730107
+
+	BUSINESS ADDRESS:	
+		STREET 1:		NORHTWEST PARK
+		STREET 2:		63 THIRD AVE
+		CITY:			BURLINGTON
+		STATE:			MA
+		ZIP:			01803
+		BUSINESS PHONE:		6178632000
+
+	MAIL ADDRESS:	
+		STREET 1:		NORTHWEST PARK
+		STREET 2:		63 THIRD AVE
+		CITY:			BURLINGTON
+		STATE:			MA
+		ZIP:			01803
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	VIDEOSERVER INC
+		DATE OF NAME CHANGE:	19950413
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ AMyWrMNQsPiALokzNybmkeColg3uIrT/Zmpn1TLGSaFmQIgtgwSAULWPPMWvls3O
+ V9V3+jrT3SPbJ3JiYTS9eg==
+
+ 0001104659-06-021397.txt : 20060331
+
+10-K
+ 1
+ a06-2248_110k.htm
+ ANNUAL REPORT PURSUANT TO SECTION 13 AND 15(D)
+
+UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION   
+
+   WASHINGTON,
+D.C. 20549   
+
+   FORM 10-K   
+
+   ANNUAL REPORT PURSUANT TO SECTION 13 OR
+15(d) 
+OF THE SECURITIES EXCHANGE ACT OF 1934   
+
+   For
+the year ended December 31, 2005   
+
+   Commission
+File Number 0-25882   
+
+   EZENIA! INC.   
+
+  (Exact name of registrant
+as specified in its charter)  
+
+DELAWARE   
+     (State or other jurisdiction of 
+  incorporation or organization)   
+
+04-3114212    
+  (I.R.S. employer 
+  identification number)  
+
+14 Celina Ave, Suite 17-18,
+Nashua, New Hampshire 03063   
+
+  (Address of principal
+executive offices, including zip code)  
+
+   (781) 505-2100   
+
+  (Registrant s telephone number, including area code)  
+
+Securities Registered
+Pursuant to Section 12(b) of the Act:   
+
+  None  
+
+   Securities Registered
+Pursuant to Section 12(g) of the Act:   
+
+  Common Stock $.01 par value  
+
+  Indicate by check mark if
+the Registrant is a well-known seasoned issuer, as defined in Rule 405 of
+the Securities Act.   Yes    o     No    x  
+
+  Indicate by check mark if
+the Registrant is not required to file reports pursuant to Section 13 or
+15(d) of the Act.   Yes    o     No    x  
+
+  Indicate by check mark
+whether the Registrant (1) has filed all reports required to be filed by Section 13
+or 15(d) of the Securities Exchange Act of 1934 during the preceding 12
+months (or for such shorter period that the Registrant was required to file
+such reports), and (2) has been subject to such filing requirements for
+the past 90 days.   Yes    x     No    o  
+
+  Indicate by check mark if
+disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not
+contained herein, and will not be contained, to the best of Registrant s
+knowledge, in definitive proxy or information statements incorporated by
+reference in Part III of this Form 10-K or any amendment to
+this Form 10-K.   Yes    o     No    x  
+
+  Indicate by check mark
+whether the Registrant is a large accelerated filer, an accelerated filer or a
+non-accelerated filer. See definition of  accelerate filer  and  large
+accelerated filer  in Rule 12b-2 of the Exchange Act). Large
+Accelerated Filer   Yes    o     No    x     Accelerated Filer   Yes    o     No    x     Non-Accelerated
+Filer   Yes    x     No    o  
+
+  Indicate by checkmark
+whether the Registrant is a shell company (as defined in Rule 12b-2
+of the Exchange Act).   Yes    o     No    x  
+
+  The aggregate market value
+of the voting and non-voting common stock held by non-affiliates of the
+Registrant was $28,146,459 (computed by reference to the price at which the
+Registrant s common stock was last sold on the OTC Bulletin Board on June 30,
+2005).  
+
+  The number of shares outstanding of the Registrant s
+common stock as of March 24, 2006 was 14,623,422.  
+
+   DOCUMENTS INCORPORATED BY
+REFERENCE    
+
+  Portions
+of the definitive Proxy Statement to be delivered to Shareholders in connection
+with the Annual Meeting of Shareholders to be held May 24, 2006 are
+incorporated by reference into Part III hereof. With the exception of the
+portion of such Proxy Statement that is expressly incorporated herein, such
+Proxy Statement shall not be deemed filed as part of this Annual Report on Form 10-K.  
+
+Ezenia!
+Inc. 
+2005 Form 10-K Annual Report 
+Table of Contents   
+
+Page   
+
+PART I    
+
+Item 1.   
+
+Business   
+
+3  
+
+Item
+  1A.   
+
+Risk
+  Factors   
+
+10  
+
+Item
+  2.   
+
+Description
+  of Property   
+
+13  
+
+PART II    
+
+Item 5.   
+
+Market for Registrant s Common Equity, Related
+  Stockholder Matters and Issuer Purchases of Equity Securities   
+
+13  
+
+Item
+  6.   
+
+Selected
+  Financial Data   
+
+14  
+
+Item 7.   
+
+Management s Discussion and Analysis of Financial
+  Condition and Results of Operations   
+
+15  
+
+Item 7A.   
+
+Quantitative and Qualitative Disclosures about Market
+  Risk   
+
+23  
+
+Item 8.   
+
+Financial Statements and Supplementary Data   
+
+24  
+
+Item 9A .  
+
+Controls and Procedures   
+
+43  
+
+PART III    
+
+Item 10.   
+
+Directors and Executive Officers of the Registrant   
+
+43  
+
+Item 11.   
+
+Executive Compensation    
+
+43  
+
+Item 12.   
+
+Security Ownership of Certain Beneficial Owners and
+  Management and Related Stockholder Matters    
+
+44  
+
+Item 13.   
+
+Certain Relationships and Related Transactions   
+
+44  
+
+Item 14.   
+
+Principal Accountant Fees and Services   
+
+44  
+
+PART IV    
+
+Item 15.   
+
+Exhibits and Financial Statements Schedules   
+
+45  
+
+Signatures   
+
+47  
+
+The Company s trademarks include Ezenia!, the Ezenia!
+Logo, InfoWorkSpace, LaunchPad, and Encounter.  All other trademarks referred to in this
+document are the property of their respective companies.  
+
+2  
+
+PART I   
+
+     ITEM 1.                    BUSINESS 
+
+  Founded in 1991, Ezenia! Inc. ( Ezenia  or the  Company )
+a Delaware corporation, develops and markets products that enable organizations
+to provide high-quality group communication and collaboration capabilities to
+commercial, governmental, consumer and institutional users. Ezenia s products
+allow individuals and groups, regardless of proximity constraints, to interact
+and share information in a natural, spontaneous way voice-to-voice,
+face-to-face, mouse-to-mouse, keyboard-to-keyboard flexibly, securely and in
+real-time. Using our products, individuals can interact through a natural
+meeting experience, allowing groups to work together effectively and
+disseminate vital information quickly in a secure environment.  
+
+  Ezenia offers one of the most comprehensive
+commercially available lines of collaborative products. Ezenia s InfoWorkSpace
+(IWS) software product, combined with its legacy videoconferencing products,
+enables voice communication, instant messaging, white boarding, virtual workspaces,
+and video conferences across a wide range of networks including local area
+networks (LAN), intranets, the Internet, and circuit-based networks. Furthermore,
+because Ezenia products include both software-only solutions and configurable
+hardware solutions, they can be deployed with relative ease at small sites or
+in locations with a large number of users.  
+
+  Ezenia historically has
+sold the legacy videoconferencing products worldwide through leading resellers,
+integrators and marketers of video collaboration, and networking solutions, and
+will continue to do so as long as demand exists. Most recently, for the IWS
+product and services, Ezenia sells to customers in the Federal government,
+mostly in the Department of Defense (DoD) and the intelligence community,
+either directly, or in many instances, in partnership with the premier defense
+contractors and/or integrators. It is in Ezenia s interest to leverage these
+partnerships with well-established contractors and/or integrators to further
+expand the deployment and provide the support of IWS in large-scale
+opportunities.  
+
+     Company
+Background and Evolution True Collaboration versus Videoconferencing   
+
+  In 1991, Ezenia, known at the time as VideoServer,
+designed, developed, manufactured, and sold Multipoint Control Systems or Units
+(MCS or MCU) for both the circuit-oriented, Integrated Services Digital Network
+(ISDN)-based and packet-switched, Internet Protocol (IP)-based
+videoconferencing applications. Ezenia s MCS was unique at the time with its
+PC-based, flexible hardware design approach and system configurations,
+leveraging commercial off-the-shelf base operating systems. At that time,
+traditional videoconferencing vendors concentrated mostly on the development of
+more and more sophisticated, standard-based endpoints to be used in
+point-to-point videoconferencing. Ezenia focused its business, not on the
+endpoints, but on systems deployed in the infrastructure backroom, to enable
+three or more sites or parties involved in videoconferencing to properly communicate
+among themselves, by switching video sources based on audio processing of
+current and immediately preceding speakers. Ezenia s technical advantages were
+derived by masking and compensating for incompatibilities between endpoints
+from different manufacturers, algorithmic transcoding, compensation for
+different bandwidth requirements, and simultaneous multi-windowed video
+arrangements on the monitor known as  Hollywood Squares , just to name a few.  
+
+  For the circuit-switched market segment, Ezenia offered
+the Series 2000 MCS which can scale up to forty eight (48) ports or sites
+with a variety of network capabilities including but not limited to V.35, T1 and
+E1 interfaces, Asynchronous Transfer Mode (ATM) and Frame Relay. Multiple Series 2000
+MCS can be cascaded together to allow for large-scale videoconferences. To this
+day, the Series 2000 MCS is still considered the cornerstone of rock solid
+reliability in the industry and in many customer installations. Ezenia still
+produces, ships, and provides support for the Series 2000 MCS.  
+
+3     
+
+For the packet-switched market segment, Ezenia offered
+a low-end, software-only solution NetServer 1000 which provides a
+cost-effective solution for departmental applications. For comparable
+deployments to its ISDN counterparts, Ezenia offered the NetServer 3000 MCS,
+which can also scale up to forty eight (48) ports or sites. Similarly, multiple
+NetServer 3000 MCS can be cascaded together to support large-scale video
+conferences. Ezenia also offered the NetGate which, with its associated
+gatekeeper software, controls, monitors, polices, and facilitates
+communications traffic between the ISDN and IP environments. Ezenia still
+produces, ships, and provides support for the NetServer and NetGate MCS.  
+
+  In the late 90 s, Ezenia fully realized the
+limitations and narrow applications of its videoconferencing products which,
+among many deficiencies, are monolithic, require highly specialized support and
+services, stand apart from the normal office environment that most information
+workers are accustomed to, and do not provide a solution to the need to truly
+collaborate and disseminate information in real time. Contrary to how most
+videoconferencing vendors would like to indoctrinate potential customers, video in
+particular talking heads as in the case of most video conferences was and is,
+now more than ever, far from being the  piece de resistance  of true,
+meaningful real-time collaboration. Furthermore, its monolithic approach,
+whereby you either get a successful videoconference session or get nothing,
+relegates all other more critical collaboration activities second to video
+talking heads. Most importantly, the lack of presence awareness detection and
+the inability to leverage the web for ease of access prevent flexible,
+on-demand, free-flowing collaboration sessions whereby participants can come,
+go, or be invited at will.  
+
+  In March 2001,
+Ezenia completed the first phase of its transformation with the acquisition of
+the IWS business from General Dynamics. As an application solution and technology
+built on top of Placeware s (see Third Party Technology note below) web
+conferencing technology, IWS:  
+
+             Allows
+users to be aware of the online presence of colleagues, enables true multimedia
+collaboration sessions starting with the simplest instant messaging
+(keyboard-to-keyboard) and expanding to the most complex all-encompassing
+(mouse-to-mouse) sharing and dissemination of mission critical information
+simultaneously with in-session, super-imposed audio conferencing and/or video
+streaming; 
+
+             Leverages
+commercially off-the-shelf base operating systems such as the Windows and
+Solaris platforms; and 
+
+             Fits
+into the virtual office environment that most information workers are familiar
+with. 
+
+  The use and growth of
+real-time collaborative technologies within commercial or governmental
+enterprises, while still early in its adoption curve, are beginning to
+accelerate. The investment in information and collaborative technologies helps
+customers flatten their organizations, improve enterprise wide communication, shorten
+the decision-making process, and facilitate real-time reactions to critical
+issues. Rather than just providing access to inert data stored on a server, the
+goal today is to find ways to enable information workers to collaborate and
+share their expertise to derive knowledge from databases in real time and in a
+secure environment. Collaborative technologies are about creating informational
+value through better, faster and more efficient human interaction and
+cooperation, not just more data. Businesses and governmental organizations
+today need solutions that make it easier for people to work together, share
+information and expertise, coordinate activities across departments, networks,
+agencies, building complexes, facilities spread all over the country, and field
+deployments around the world.  
+
+     Products   
+
+  Ezenia s expertise is in
+developing products that deliver highly secure and flexible support for
+informational collaboration, in-session audio conferencing, and video streaming
+capabilities across a wide range of platforms. The Company s products have been
+designed with a scaleable, modular architecture to give customers the
+flexibility to add capacity, processing power, and conferencing features as the
+customer   
+
+4     
+
+network
+and application requirements grow. Using a common set of hardware and software
+building blocks, customers can choose from a wide range of product
+configurations that differ in capacity, price, network connectivity and
+features, all of which share the same operating software user interface. Products
+may be configured for use in customer premises environments or may be
+configured with specialized packaging for use in a telephone carrier s central
+office setting. The Company believes a key differentiator for its products is
+the built-in robust security features, allowing them to be installed in some of
+the highest clearance and security sites in the market.  
+
+      InfoWorkSpace    
+
+  IWS is a comprehensive suite of collaboration
+applications designed to allow any organization to more efficiently
+communicate, particularly when attempting to work as, and within, a group. From
+an overall perspective, IWS, when used effectively can reduce or even eliminate
+dependency on travel, traditional video conferencing, traditional audio
+conferencing and the phone, and even e-mail and file servers. Essentially, IWS
+is like a corporate campus or enterprise whose resources can be accessed by an
+information worker through his or her own desktop or laptop PC. Users can
+browse through the virtual campus, facility, or building to locate the room to
+be used for a meeting, or just pick the needed contact(s) and initiate the
+meeting with the click of the mouse.  
+
+  Our customers, including the U.S. intelligence
+community, the U.S. Joint Forces Command, and various branches of the U.S.
+Armed Forces including the Marines, Navy, Air Force and Army, have leveraged
+the flexibility of IWS to aid in a myriad of missions. From daily mission
+briefs to medivac procedures in Afghanistan to operational support in Fallujah,
+IWS has increasingly become a vital part of the U.S. defense network. The
+stability, scalability and security of IWS allows our customers to depend on
+our software to complete mission-critical assignments and save lives in some of
+the world s most dangerous areas.  
+
+  At a basic level, IWS is a cross-platform solution in
+a box, supporting both UNIX and Windows base operating systems. A standard
+software suite comes complete with our server software package, database,
+application server, and user directory along with a number of ancillary add-ons.
+This suite provides a self-sufficient workgroup environment for a user base of
+up to several hundred users. However, with a few simple system configurations,
+IWS servers can be federated in such a way that multiple servers can trust one
+another in order to support collaboration across an enterprise with thousands
+of participants.  
+
+  IWS security infrastructure is built upon the best
+practices that have been in use in operating systems for decades. Much like a
+UNIX administrator can limit access to a directory or even a file to a limited
+set of users, IWS administrators can lock rooms down to restrict users from
+seeing sensitive data that is outside their area of responsibility. Permission-based
+access allows administrators to finely tune a user s access profile to the file
+level. Data can be encrypted using standard SSL protocols and access can be
+controlled with PKI and X.509 certificates. All data within the application can
+be audited and searched for specific words or patterns of words. IWS provides a
+high level of security capabilities as well as a safety net to capture any
+breaches that may arise from human errors.  
+
+  The stability, scalability, flexibility and security
+capabilities of IWS are critically important for our customers, but the true power
+of IWS is in its collaboration applications. Users can participate in an
+interactive conference with absolutely no set up procedures. This is a
+significant leap forward from where the industry was just a few years ago,
+using videoconferences as the only interactive medium. With IWS, no longer is a
+heavy piece of hardware required at each terminal point of collaboration. No
+longer is it necessary to schedule a conference with a bridge operator, and no
+longer is a whole new network infrastructure required to support an interactive
+conferencing capability. Information workers, once logged in to IWS, can
+initiate a conference by going to a virtual room and inviting the participants
+as needed. Rooms are either pre-defined or created on demand as needs dictate. Once
+inside a room, either by   
+
+5     
+
+joining or being invited
+into a session, participants can have an audio conference straight from the
+software. No set up is required. No additional cost is incurred. Participants
+even can be in multiple rooms at the same time, offering a more productive
+virtual environment than in the physical world. Participants can share and work
+on documents from the file cabinet associated with a room. Users can have an
+interactive white board session and save the results. Users also can manage
+their calendar and participate in message boards and save that information to
+the server where they can access it any time from any place.  
+
+  A high-level
+summary of IWS features and functions is listed below:  
+
+             Text
+chat, in a one-to-one arrangement, in a conference environment, or in multiple
+combinations of one-on-one and/or conference environments; 
+
+             Audio
+chat, in a one-to-one arrangement, in a conference environment, or in multiple
+combinations of one-on-one and/or conference environments; 
+
+             Interactive
+whiteboard which all users can see and modify in real time; 
+
+             Application
+sharing allowing the screen view of any application on any desktop or laptop PC
+of any information worker to be broadcasted to all other participants; 
+
+             Secured
+file cabinet, from which permission-based access allows for documents to be
+stored, retrieved, and monitored at any time from any place; 
+
+             Multi-Level
+security allows users of one security level to have real-time collaboration
+sessions with users at another security level; 
+
+             SSL
+and PKI encryption, which, when configured, renders traffic secure across the
+wire; 
+
+             Full
+system auditing, which allows all data and actions to be audited and
+searchable; 
+
+             Instant
+messaging, a lightweight application that provides all interactive
+capabilities; and 
+
+             Virtual meeting area, a
+more robust application that provides both real-time collaborative capabilities
+as well as static functions like file cabinet, message board, and calendaring. 
+
+      Encounter MCS
+Family    
+
+  The Encounter
+product line includes:  
+
+             Encounter
+3000 NetServer: real-time collaboration server designed to support large
+enterprise and service provider customers; 
+
+             Encounter
+3000 NetGate: gateway solution that allows traditional videoconferencing
+systems to participate in IP-based collaboration sessions; and 
+
+             Encounter 1000 NetServer:
+real-time collaboration server geared towards smaller, departmental workgroups
+or more distributed organizations. 
+
+6     
+
+Series 2000
+MCS    
+
+  The Series 2000
+MCS product line, designed for switched digital circuit networks, includes a
+number of platform configurations which can be expanded through customer
+selection of optional processing modules and software applications. The
+following table lists the configurations offered by the Company:  
+
+MODEL   
+
+CAPACITY   
+
+TARGET MARKET/APPLICATION   
+
+2007  
+
+8
+  users   
+
+Mid-range CPE for
+  distributed network environments  
+
+2020  
+
+48
+  users  
+
+Large CPE/central office
+  network with extensive multimedia applications  
+
+CO    
+
+48 users  
+
+High availability central office server  
+
+Market and Channels   
+
+  Ezenia markets its IWS products and related services
+to customers within the US federal government, primarily to the US DoD and to
+the US intelligence community worldwide. Ezenia also provides these products
+and services to the defense and intelligence organizations of foreign allies of
+the United States government.  
+
+  IWS products and services are licensed on an annual
+subscription and renewal basis, during which software updates and basic
+technical support are included as part of base offerings. Enhanced service
+offerings are also offered in a subscription model. Training, installation, and
+customization are sold on an incidental basis.  
+
+  The worldwide government marketplace is best
+understood as a matrix of customers, sales vehicles (contracts), and sales channels.
+Ezenia employs a sales model which is an analog to this government market
+matrix. IWS products and related services are available to specific segments of
+the government, using various vehicles, including Ezenia s own GSA Schedule,
+and multiple channels both directly, with the Company s own sales force, and
+indirectly. For indirect channels, Ezenia partners with General Dynamics, SAIC,
+and Northrop Grumman among others.  
+
+  In fiscal year 2005, approximately 43% of our sales of
+IWS products and related services were through our indirect channels. Ezenia s
+top three end-user customers for IWS products and related services in 2005 were
+US Joint Forces Command, Defense Intelligence Agency, and the US Army.  
+
+  Meanwhile, our legacy MCS sales are primarily to international
+customers and end users.  In 2005, Ezenia
+delivered these products through distributors, dealers, vertical market
+resellers, and systems integrators, as well as directly to end-users. Revenue
+from international markets accounted for approximately 3%, 2%, and 14% of our
+revenue for the years ended December 31, 2005, 2004, and 2003,
+respectively.  
+
+  Ezenia conducts its sales
+and marketing activities from its principal offices in Nashua, New Hampshire,
+as well as from two other sales locations in the United States.  
+
+     Research and Product Development   
+
+  Ezenia believes that its future success depends on its
+ability to continue to enhance and expand its existing enterprise collaboration
+products and to develop new products that maintain its technology leadership.
+Ezenia has invested and will continue to invest in the development of products
+and core technologies while also leveraging the integration of  best-of-breed 
+software components through strategic partnerships. Extensive product
+development input is obtained via direct feedback from end users and suggested
+improvements from strategic partners and resellers. We carefully monitor the
+migration of industry standards and remain committed to developing products
+utilizing such standards. This includes the development of interoperable
+collaboration products to meet either industry needs and/or DoD-driven   
+
+7     
+
+interoperability criteria,
+while maintaining a keen focus on the security aspects of enterprise
+collaboration, including solutions in the web conferencing arena.  
+
+  As of December 31,
+2005, Ezenia s research and development staff consisted primarily of software
+engineers augmented with US-based and US-citizen software contractors. Many of
+our software engineers carry top-secret levels of security clearance. The Company s
+net research and development expenditures were approximately $1.2 million, $1.1
+million, and $1.9 million in 2005, 2004 and 2003, respectively, representing
+approximately 9%, 10%, and 23% of revenue, respectively. All software
+development costs have been expensed as incurred because costs eligible for
+capitalization have not been material to date.  
+
+     Customer Support and Service   
+
+  Ezenia provides technical support and services to its
+resellers and direct customers. A high level of continuing service and support
+is critical to our objective of developing long-lasting relationships with
+customers and partners. Ezenia s partners and resellers offer a broad range of
+support including installation, maintenance and on-site and headquarters-level
+technical support of products to their end-user customers. Ezenia provides a
+comprehensive service program including problem management, training,
+diagnostic tools, software updates and upgrades, as well as spare parts
+programs to facilitate and supplement the efforts of our partners and
+resellers.  
+
+  Ezenia offers a technical support hotline to its
+resellers and customers, which is staffed by our network engineers who
+generally provide either immediate or same-day responses to most questions. As
+our products have built-in remote diagnostic capabilities, most problems can be
+diagnosed without incurring travel or on-site visits. When necessary, however,
+support engineers are dispatched to the customer s facility for critical
+situations. All of our support engineers carry various levels of security
+clearance.  
+
+  With respect to the Series 2000 and Encounter
+MCS, Ezenia warranties related software and hardware products for 90 days. We
+also offer post-warranty support programs ranging from services on a
+time-and-material basis to full-service contracts on a 24-hour, 7-day-a-week
+basis as well as training courses.  
+
+     Manufacturing Series 2000
+and Encounter Systems   
+
+  Ezenia s manufacturing
+operations consist primarily of materials management, quality control, test
+engineering, production, shipping and logistics related to its legacy
+videoconferencing hardware products. Ezenia employs an outsourced manufacturing
+model in which it designs the significant hardware subassemblies for its
+products and uses independent third-party contract assembly companies to
+perform printed circuit board assembly and other production activities with
+internal efforts generally limited to final product configuration, assembly and
+testing. This manufacturing model offers the capability to quickly fulfill
+orders with limited lead times thus providing enhanced customer satisfaction
+and improved inventory management. Because     of
+the generally short cycle between order and shipment and because the majority
+of our sales in each quarter result from orders booked in that quarter, Ezenia
+does not have a material backlog.  
+
+     Third Party Technology   
+
+  Ezenia licenses technology
+from third parties, including software which is integrated with internally
+developed software, and used in our products to perform key functions. There
+can be no assurance that functionally similar technology will continue to be
+available on commercially reasonable terms in the future, or at all. In
+particular, in February 2005 we entered into a new agreement with
+Microsoft Corporation, with an effective date of January 1, 2005, to
+extend an existing software distribution license agreement through
+December 2007. The software distribution license agreement allows us to
+integrate Microsoft s Live Communication software into our IWS product line.  
+
+8  
+
+Competition   
+
+  The market for multimedia collaboration is an emerging
+segment with a variety of either new vendors entering the competitive landscape
+or old vendors from existing industries, such as legacy videoconferencing,
+attempting to claim a new turf. Furthermore, multimedia collaboration can also
+be grouped into two main groups: real-time synchronous solutions versus
+asynchronous products a la antiquated Lotus Notes. While most vendors
+adopt the client-server architecture, a very few insist on the merit of
+peer-to-peer. Still yet, large vendors offer both types of products. From
+another perspective, vendors could be classified into two classes of providers.
+The first group provides customer-premise solutions, while the second
+implements a hosted environment.  
+
+  Even though Ezenia business primarily focuses on the
+real-time synchronous, client-server, customer-premise market segment within
+the government, depending upon the possible perspectives, various vendors could
+be considered as likely competitors. From the legacy videoconferencing
+industry, Polycom, RADvision and Tandberg are legitimate contenders.
+Established industry giants such as AOL, Cisco, EMC, Google, IBM, Microsoft,
+Oracle and, more recently, Adobe with its acquisition of Macromedia, among
+others, offer a wide variety of solutions ranging from simple instant messaging
+to complete offerings. In addition, a multitude of smaller and well-respected
+companies such as WebEx, Raindance, Saba, Jabber, Interwise, etc... constitutes
+a new breed of emerging contenders in this intensely contested market segment.  
+
+  Many of these companies, as well as other current and
+potential competitors, have substantially greater financial, technical, and
+sales and marketing resources than Ezenia. If we are unable to retain our
+existing customers in the US government, or are unable to convince a sufficient
+number of new companies or customers with an interest in collaborative
+technologies to adopt our IWS collaborative software product over alternative
+technologies marketed by our competitors, our financial results will suffer,
+through price reductions and loss of market share.  
+
+  With respect to our legacy
+videoconferencing hardware products, we consider our primary videoconferencing
+competitors to be Polycom, RADvision and Tandberg Telecom.  
+
+  The principal competitive
+factors in the market for multimedia collaboration are, and should continue to
+be, breadth of capabilities, security, stability, reliability, price,
+performance, network management capabilities, customer support and
+interoperability. We plan to compete by offering the best-of-breed enterprise
+solutions encompassing all of these factors. However, we cannot be certain that
+potential customers will be attracted to our products, especially if our
+competitors invest substantially more money into their products and technology.  
+
+     Proprietary Rights   
+
+  Ezenia relies on a
+combination of contractual rights, trade secrets and copyright laws to
+establish and protect its intellectual property rights. We believe that,
+because of the rapid pace of technological change in the data communications
+and telecommunications industries, intellectual property protection for its
+products is only one factor in our success, complementing the knowledge,
+abilities and experience of our employees, the frequency of our product
+enhancements, our relationships with our partners, our relationships with our
+customers and their satisfaction with the performance of IWS, the effectiveness
+of our marketing activities, and the responsiveness and quality of our
+services.  
+
+  In August 2002,
+Ezenia entered into an agreement with Tandberg Telecom AS to sell all patents
+and pending applications related to its videoconferencing products, which was
+completed in October 2002. In exchange
+for an up-front license fee of $1.25 million, a loan for an additional $1.25
+million which was forgiven at the closing, and an additional $2.4 million also
+received at the closing, Ezenia granted Tandberg a fully paid, non-exclusive,
+non-transferable license under the patents and pending applications relating to
+our videoconferencing technology (the video patent portfolio). Additionally, we
+retained a fully   
+
+9     
+
+paid, non-exclusive, non-transferable license for our
+use in connection with its videoconferencing and enterprise collaboration
+products.  
+
+  In June 2000, Ezenia
+settled its patent infringement suit against Accord Networks Ltd. (Accord) in
+the United States District Court for the District of Massachusetts. The
+settlement agreement provided, among other things, that Ezenia receive $6.5
+million, which the Company received net of foreign tax withholding of $975
+thousand, pending a resolution of certain tax matters related to the settlement
+with the tax authorities in Israel. In April 2004, Ezenia reached a
+settlement agreement with the Israeli Tax Commission (ITC), resulting in the
+receipt by the Company of cash proceeds related to the disputed amount, net of
+interest earned and associated fees, of approximately $706 thousand.  
+
+     Employees   
+
+  At December 31, 2005,
+Ezenia employed 46 people, including 20 in research and development, 10 in
+customer support, 8 in sales and marketing, and 8 in finance and
+administration. None of our employees are represented by a labor organization.  
+
+  Ezenia s success depends,
+to a significant degree, upon the continuing contributions of its key
+management, sales, marketing and research and development personnel, many of
+whom would be difficult to replace, including Khoa Nguyen, the Company s Chief
+Executive Officer, President and Chief Financial Officer. We do not carry
+key-man life insurance on any of our employees, including Mr. Nguyen. We
+do not have employment contracts with our key personnel other than Mr. Nguyen.
+We believe that our future success will depend in large part upon our ability
+to attract additional key employees and retain our key employees.  
+
+     Availability of
+Filings   
+
+  You
+may access, free of charge, through our website at www.ezenia.com, our Annual
+Report on Form 10-K, Quarterly Reports on Form 10-Q,
+Current Reports on Form 8-K and any amendments to such reports, all
+filed pursuant to Section 13(a) and 15(d) of the Securities
+Exchange Act of 1934, as amended. The information contained on our web site is
+not incorporated by reference into this document and should not be considered a
+part of this report. Our web site address is included in this document as an
+inactive textual reference only.  
+
+     ITEM 1A.            RISK
+FACTORS 
+
+     Liquidity and history of losses.         As
+further described under Liquidity and Capital Resources, management believes,
+although there can be no assurances, due to the growth and  acceptance of our IWS product, the expected
+growth of Internet-based collaboration products in general, and our successive
+quarters of profitability and continued vigilance on cost control, that our
+cash and available resources will enable us to continue as a viable entity.     There can be no assurances that we can
+achieve our goal of showing consistent quarterly revenue and profit growth,
+which are both largely dependent on whether we can meet our future new order
+bookings targets. 
+
+     Dependence on major customers.           While we are focusing efforts on broadening our
+customer base, sales to a relatively small number of customers within the US
+government, specifically within the DoD and the intelligence community, have
+accounted for a significant portion of revenue. This concentration of customers
+may cause revenues and operating results to fluctuate from quarter-to-quarter
+based on major customers  requirements, and the timing of their orders and
+shipments. Our agreements with customers generally do not include minimum purchase
+commitments or exclusivity arrangements. Our operating results could be
+materially and adversely affected if any present or future major customer were
+to choose to reduce its level of orders, were to change to another vendor for
+purchases of a similar product, were to realize a reduction in approved funding
+for collaborative technologies, or were to delay paying or fail to pay amounts
+due to us. 
+
+10     
+
+Third Party Technology.       Ezenia utilizes certain technology which
+it licenses from third parties, including software which is integrated with
+internally developed software, and used in the Company s products to perform
+key functions. There can be no assurance that functionally similar technology
+will continue to be available on commercially reasonable terms in the future,
+or at all. In particular, in February 2005 Ezenia entered into a new agreement
+with Microsoft Corporation to extend an existing software distribution license
+agreement. The software distribution license agreement allows Ezenia to integrate
+Microsoft s Live Communication software with our proprietary software, to
+create IWS. 
+
+     Reduced demand for traditional videoconferencing
+products.           The
+demand for traditional videoconferencing technology has experienced a rapid
+decline. Ezenia s videoconferencing product and related services revenue
+declined to approximately $495 thousand in 2005, from approximately $633
+thousand in 2004 and approximately $2.3 million in 2003. We expect that sales
+of this legacy hardware technology will continue to decline in 2006. 
+
+     Evolving markets.           Sales of real-time collaboration
+products account for a significant and increasing portion of Ezenia s revenue.
+Our success depends, to a significant extent, on the acceptance and the rate of
+adoption of Internet-based collaboration products, in general, and the IWS
+product, in particular. There can be no assurance that any of the markets for
+our products will develop to the extent, in the manner, or at the rate
+anticipated by us. In addition, future prices that we are able to obtain for
+our products may decrease as a result of new product introductions by others,
+price competition, technological change or other factors. 
+
+     Rapid technological change.           The market for our products is characterized by
+rapidly changing technology, evolving industry standards, emerging network
+architectures and frequent new product introductions. The adoption rate of new
+technologies and products may adversely impact near-term growth of the
+conferencing market as users evaluate the alternatives. We have invested, and
+for 2006 plans to continue to invest, in product development and products
+incorporating certain of these new technologies. Many other companies are also
+developing products incorporating these new technologies that are competitive
+with our current and future offerings. Ezenia s success will depend, in part,
+upon our ability through continued investments to maintain technological
+leadership, to enhance and expand our existing product offerings, and to select
+and develop in a timely manner new products that achieve market acceptance. 
+
+     Competition.           The market for multimedia collaboration products is
+highly competitive. Ezenia expects competition to increase significantly in the
+future, as the market for similar products is expected to significantly expand.
+A number of companies have introduced or announced their intention to introduce
+products that could be competitive with Ezenia s products, and the rapidly
+evolving nature of the markets in which Ezenia competes may attract other new
+entrants, as they perceive opportunities. Some of the Ezenia s current and
+potential competitors have longer operating histories and greater financial,
+technical, sales, and marketing resources. If we are unable to retain our
+existing customers in the US government, or were unable to convince a
+sufficient number of new companies or customers with an interest in
+collaborative technologies to adopt the IWS collaborative software product over
+alternative technologies marketed by our competitors, our financial results
+would suffer. 
+
+  The principal competitive
+factors in the market for multimedia collaboration are, and should continue to
+be, breadth of capabilities, demonstrated interoperability, price, performance,
+network management capabilities, reliability, scalability, customer support and
+security. Ezenia plans to compete by offering collaboration and enterprise
+products with a broad range of capabilities and high performance. However, we
+cannot be certain that potential customers will be attracted to our products,
+especially if competitors were to invest substantially more money into their
+products and technology.  
+
+     Acceptance of IWS in the commercial market.             In 2001, Ezenia
+purchased the operating assets and intellectual property of the IWS business
+unit of General Dynamics Electronic Systems. We entered into the purchase
+agreement with the expectation that the transaction would result in certain
+benefits including,  
+
+11     
+
+among other things,
+benefits relating to expanded and complementary product offerings, enhanced
+revenues, increased market opportunity, new technology, the addition of
+engineering personnel, and the expectation that we would be successful in
+expanding the market for IWS products, both within certain organizations of the
+US government, including the DoD and the intelligence community, but also
+commercially. There can be no assurance of success in the commercial market for
+IWS or other products that we may introduce, in 2006 or beyond.  
+
+     Protection of proprietary technology.           Ezenia s success depends, to a large extent, on its
+ability to protect its proprietary technology. Ezenia relies primarily on a
+combination of contractual rights, trade secrets and copyrights to protect its
+intellectual property rights, including the fully-paid, non-exclusive,
+non-transferable license granted by Tandberg to Ezenia for use in connection
+with its videoconferencing and enterprise collaboration products. 
+
+     Retention of key employees.             Ezenia s success
+depends, to a significant degree, upon the continuing contributions of its key
+management, sales, marketing, and research and development personnel, many of
+whom would be difficult to replace, including Khoa Nguyen, Ezenia s Chief
+Executive Officer, President and Chief Financial Officer. Ezenia does not carry a key-man life
+insurance on any of its employees, including Mr. Nguyen. Ezenia
+does not have employment contracts with its key personnel other than Mr. Nguyen.
+Ezenia believes that its future success will depend in large part upon its
+ability to attract and retain such key employees. 
+
+     Stock price volatility.             The market price of Ezenia s
+common stock, like that of other technology companies, is highly volatile and
+is subject to wide fluctuations in response to quarterly variations in
+operating results, announcements of technological innovations or new products
+by Ezenia or its competitors, changes in financial estimates by securities
+analysts or other events or factors. Ezenia s stock price may also be affected
+by broader market trends unrelated to Ezenia s performance. 
+
+     Market for Company s common equity.       The
+shares of the Ezenia s common stock were delisted from The Nasdaq National
+Market in August 2003 and are now traded on the OTC Bulletin Board. As a
+result, an investor may find it more difficult to dispose of the securities due
+to low trading volume or obtain accurate quotations as to the market value of
+the securities. In addition, Ezenia is subject to Rule 15c2-11
+promulgated by the SEC. If Ezenia fails to meet criteria set forth in such Rule (for
+example, by failing to file periodic reports as required by the Exchange Act),
+various practice requirements are imposed on broker-dealers who sell securities
+governed by the Rule to persons other than established customers and
+accredited investors. For these types of transactions, the broker-dealer must
+make a special suitability determination for the purchaser and have received
+the purchaser s written consent to the transactions prior to sale.
+Consequently, the Rule may have a material adverse effect on the ability
+of broker-dealers to sell Ezenia s securities, which may materially affect the
+ability of shareholders to sell the securities in the secondary market. The
+delisting could make trading Ezenia s shares more difficult for investors,
+potentially leading to further declines in the share price. It would also make
+it more difficult for Ezenia to raise additional capital. Due to the delisting,
+Ezenia would also incur additional costs under state blue-sky laws if Ezenia
+were to sell equity. 
+
+     Board of director recruitment.           Currently we have six directors on
+our Board, five of whom meet the standards for independence as specified by the
+SEC and the national stock exchanges. Historically, we have strived to have an
+audit committee comprised of at least three independent directors, as required
+by the national stock exchanges. Currently we have three directors serving on
+our audit committee, all of whom meet the standards for independence as
+specified by the SEC. One of our directors, Gerald P. Carmen, has the necessary
+financial expertise to serve as chairman of our audit committee. We are
+continuing in our attempts to identify additional qualified individuals to
+serve as independent directors of Ezenia. However, the market for highly
+qualified individuals available and willing to serve as directors to companies
+similar to ours is intense, and there can be no assurance that we will be able
+to identify, recruit and ultimately secure the services of such individuals in
+a timely manner or at all. 
+
+12  
+
+ITEM
+2.                    DESCRIPTION OF
+PROPERTY 
+
+  Ezenia s corporate office
+and principal research, development and manufacturing facility is located in
+Nashua, New Hampshire, in an approximately 6,000 square foot facility. In
+March 2005, we entered into an agreement to move our corporate office from
+Burlington, Massachusetts at the conclusion of its lease in June 2005. We
+decided to make the move as part of an effort to reduce expenses and excess
+capacity. Ezenia also has a sales and service office located in Sterling, Virginia
+and a research, development and service office located in Colorado Springs,
+Colorado. As of December 31, 2003, Ezenia had closed all foreign offices,
+and therefore, no longer has any leases outside of the United States.  
+
+     PART II   
+
+     ITEM
+5.                    MARKET FOR REGISTRANT S
+COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY
+SECURITIES 
+
+  Since
+2003, Ezenia s common stock has been quoted on the OTC Bulletin Board, under
+the symbol  EZEN.OB . The following table sets forth, for the periods indicated,
+the high and low bid or sale prices per share of our common stock as reported
+on the OTC Bulletin Board.  
+
+As of March 24, 2006, Ezenia had approximately
+121 shareholders of record. This does not reflect persons or entities that hold
+their stock in nominee or  street  name through various brokerage firms. Ezenia
+has not paid dividends on its common stock. Ezenia anticipates it will reinvest
+future earnings, if any, and therefore, does not intend to pay dividends in the
+foreseeable future.  
+
+  See Part III, Item 12
+for information regarding securities authorized for issuance under Ezenia s
+equity compensation plans.  
+
+13     
+
+ITEM
+6.                    SELECTED FINANCIAL
+DATA 
+
+(1)             2005
+amounts include a tax benefit of $91 thousand, related to a reduction in the
+valuation allowance associated with deferred tax assets. 
+
+  (2)             2004
+amounts include a tax benefit of $1.4 million, or $0.10 per share, related to a
+net benefit of approximately $819 thousand as a result of the ITC settlement,
+and approximately $608 thousand relating to a tax refund for tax years 1996,
+1997, and 1998. 
+
+  (3)             2003
+amounts include a tax benefit of $267 thousand, or $0.02 per share, related to
+a change in the estimate for potential liabilities related to federal and state
+income taxes paid in prior years. 
+
+  (4)             2002
+amounts include a write-down of inventory of $3.7 million, or $0.27 per share,
+an impairment of goodwill of $10.7 million, or $0.78 per share relating to the
+change in accounting principle, an impairment of fixed assets of $2.3 million,
+or $0.17 per share, a tax benefit of $2.7 million, or $0.19 per share, related
+primarily to a tax refund, and a gain on sale of patents of $4.9 million, or
+$.36 per share. 
+
+  (5)             2001
+amounts include a charge to operations of $2.0 million, or $0.15 per share,
+related to the restructuring of certain of the Company s operations, a
+write-down of goodwill and other long-term assets totaling $7.1 million, or
+$0.52 per share, and a tax benefit of $2.2 million, or $0.16 per share,
+relating to the reversal of reserves recorded in prior years. 
+
+  Effective January 1,
+2002, Ezenia adopted the provisions of Statement of Financial Accounting
+Standards (SFAS) No. 142,  Goodwill and Other Intangible Assets.   This statement affects Ezenia s treatment of
+goodwill and other intangible assets. Had SFAS No. 142 been adopted for the
+year ended December 31, 2001, the net loss and loss per share would have
+been $28.3 million and $2.07 per share, respectively. No other years presented
+above would have been affected.  
+
+14  
+
+ITEM 7.                    MANAGEMENT S
+DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+     Management s
+Discussion and Analysis of Financial Condition and Results of Operations   
+
+     SAFE
+HARBOR FOR FORWARD LOOKING STATEMENTS   
+
+   Management s Discussion and Analysis of Financial
+Condition and Results of Operations ( MD A ) should be read in conjunction
+with the Consolidated Financial Statements and Notes included in Item 8 of this
+Annual Report. MD A contains forward-looking statements including
+statements concerning drivers of revenue growth; our plans to improve
+performance and execution; changes in accounting principles and changes in
+actual or assumed tax liabilities; product demand and growth opportunities;
+industry trend  and conditions, our use
+of direct and indirect sales channels; expense monitoring and management; our
+anticipated capital requirements and working capital needs; and our anticipated
+reinvestment of future earnings. These forward-looking statements are neither
+promises nor guarantees, but involve risks and uncertainties that may cause
+actual results to differ materially from those in the forward-looking
+statements. Factors that may cause such differences include, but are not
+limited to, our ability to maintain or accurately forecast revenue growth or to
+anticipate and accurately forecast a decline in revenue from any of our
+products or services; our ability to compete in an intensely competitive
+market; our ability to develop and introduce new products or enhancements on
+schedule and that respond to customer requirements and rapid technological
+change; new product introductions and enhancements by competitors; our ability
+to select and implement appropriate business models, plans and strategies and
+to execute on them; our ability to identify, hire, train, motivate, and retain
+highly qualified management/other key personnel 
+and our ability to manage changes and transitions in management/other
+key personnel; the impact of global economic and political conditions on our
+business; unauthorized use or misappropriation of our intellectual property; as
+well as the risk factors discussed herein and in other periodic reports filed
+with the SEC. Readers should not place undue reliance on any such
+forward-looking statements, which speak only as of the date they are made. We
+disclaim any obligation to publicly update or revise any such statement to
+reflect any change in our expectations or in events, conditions, or
+circumstances on which any such statements may be based, or that may affect the
+likelihood that actual results will differ from those contained in the
+forward-looking statements.   
+
+     Overview   
+
+  The growth and acceptance of the IWS product line
+continued for the quarter and the year ending December 31, 2005 as we
+recorded our ninth consecutive quarter of profitability. For the year, revenues
+increased approximately 27%, operating income was up approximately 94%, and
+earnings per share were $0.26, up $0.03 per share. Revenue relating to our
+InfoWorkSpace product increased approximately 30% in 2005 over 2004. IWS-related
+revenue accounted for approximately 96% of total revenues. We continued to see
+a decline in revenue related to our legacy videoconferencing product line as
+expected in 2005, with total revenue of approximately $495 thousand, down from
+approximately $633 thousand in 2004. In addition, we continued to control costs
+as operating expenses as a percentage of revenue dropped to approximately 39%
+for the year ending December 31, 2005, as compared to approximately 48%
+for the year ended December 31, 2004.  
+
+  Our current business focus is to continue to enhance
+our various collaborative product and service offerings, develop and deploy new
+products and services, and to expand our sales, service, engineering, and
+marketing organizations. This focus is subject to change as the driving
+influence in our future direction will be based on the needs of our customer
+base. The market for multi-media collaboration products is highly competitive
+and we expect both, competition and the overall market competitive products to
+significantly increase in the future. In addition, some of our current and
+potential competitors have longer operating histories and greater financial,
+technical, sales, and marketing resources. If we are unable to retain our
+existing customers in the US government, or we are unable to convince a
+sufficient number of new companies or customers with an interest in
+collaborative technologies to adopt the IWS collaborative   
+
+15     
+
+software product over
+alternative technologies marketed by our competitors, our financial results
+would suffer. We believe that the key differentiating factors in the market
+will continue to be breadth of capabilities, demonstrated interoperability,
+price, performance, network management capabilities, reliability, scalability,
+customer support and security.  
+
+  Ezenia plans to continue
+to enhance existing products and offerings based on our customer requirements,
+as well as to work on developing new products and services which will expand
+the opportunities available to us in the overall collaboration market. In March 2006,
+the Company released its newest version of InfoWorkSpace, version 3.0, along
+with announcing a number of new service offerings. InfoWorkSpace 3.0 adds and
+or enhances features which specifically address the key factors above:  interoperability, scalability, multi-level
+security, enhancements to the user experience, network management, and
+reliability. In addition, we currently offer the following services for our
+products:  IWS User Training, IWS
+Administrator Training, IWS Installation Training, Installation service, and
+Daily Consulting service. Extended maintenance service plans are also available.
+Beginning in April 2006, Ezenia will begin offering On-Line training for
+the IWS Administrator and IWS User courses. This training should save customers
+travel time, lost productivity, and unnecessary collateral expenses. In
+addition to expanding our training course offerings, we will provide an
+unprecedented level of support to our customer base with our  Exercise and
+Deployment Services , which are targeted to our government customers and allow
+military or other units or teams preparing for deployment or exercise maneuvers
+to eliminate the need to tear down, transport, and bring up their own systems,
+prior to and following these activities.  
+
+     Critical Accounting Policies   
+
+  The discussion and analysis of our financial condition
+and results of operations are based upon our consolidated financial statements,
+which have been prepared in accordance with accounting principles generally accepted
+in the United States of America. The preparation of these financial statements
+requires us to make estimates and judgments that affect the reported amounts of
+assets, liabilities, revenues and expenses and related disclosure of contingent
+assets and liabilities. On an on-going basis, we evaluate our estimates,
+including those related to revenue recognition, bad debts, inventories, income
+taxes and warranty obligations. We base our estimates on historical experience
+and on various other assumptions that we believe to be reasonable under the
+circumstances, the results of which form the basis for making judgments about
+the carrying value of assets and liabilities that are not readily apparent from
+other sources. Actual results may differ from these estimates under different
+assumptions or conditions. We believe the following critical accounting
+policies and the related judgments and estimates affect the preparation of our
+consolidated financial statements.  
+
+     Revenue Recognition   
+
+  Product revenue consists of sales of IWS software
+licenses and maintenance agreements, IWS product related training,
+installation, and consulting, and video products. Revenue from sales of IWS
+software license and maintenance agreements is recognized ratably over the
+license agreement  periods, which are
+generally one year, pursuant to the guidance provided by Statement of Position
+97-2,  Software Revenue Recognition  (SOP 97-2), issued by the
+American Institute of Certified Public Accountants (AICPA). Revenue from IWS
+training, installation, and consulting services are recognized as the services
+are performed provided there is vendor specific objective evidence (VSOE) of
+fair value which is the price charged when the services are sold separately. Revenue
+from video product sales is recognized upon shipment to the customer and the
+fulfillment of all contractual terms and conditions, pursuant to the guidance
+provided by Staff Accounting Bulletin No. 104,  Revenue Recognition in
+Financial Statements  (SAB 104), issued by the Securities and Exchange
+Commission.  
+
+  Product development revenue relates to contracts
+involving customization of the IWS product according to customer
+specifications. Revenue associated with contracts for product development
+revenue   
+
+16     
+
+with milestone-based
+deliverables requiring a customers  acceptance is recognized upon the customer s
+acceptance in accordance with terms of the contract, in conformity with the
+guidance provided by SOP 81-1,  Accounting For Performance of
+Construction Type and Certain Production Type Contracts  Issued by the American
+Institute of Certified Public Accountants. The cost recognition associated with
+these deliverables or milestones is deferred until the terms of acceptance are
+satisfied and revenue is recognized.  
+
+  Service revenue represents sales of service contracts
+related to the maintenance of video products. Maintenance revenue is deferred
+and recognized ratably over the term of the applicable agreement.  
+
+  Products and software
+licenses are sold without any contractual right of return by the customer. Deferred
+revenue represents amounts received from customers under subscription software
+licenses, maintenance agreements, or for product sales in advance of revenue
+recognition. Judgment is required in evaluating the creditworthiness of our
+customers. In all instances, revenue is not recognized until we have
+determined, at the outset of the arrangement that collectibility is reasonably
+assured. Amounts billed to customers related to shipping and handling charges
+are recorded upon shipment and the related costs are included in cost of goods
+sold.  
+
+     Allowance for Doubtful Accounts   
+
+  Our policy is to maintain allowances for estimated
+losses resulting from the inability of our customers to make required payments.
+Credit limits are established through a process of reviewing the financial
+history and stability of each customer. Where appropriate, we obtain credit
+rating reports and financial statements of the customer when determining or
+modifying their credit limits. We regularly evaluate the collectibility of our
+trade receivable balances based on a combination of factors. When a customer s
+account balance becomes past due, we initiate dialogue with the customer to
+determine the cause. If it is determined that the customer will be unable to
+meet its financial obligation to us, such as in the case of a bankruptcy
+filing, deterioration in the customer s operating results or financial
+position, or other material events impacting the customer s business, we record
+a specific allowance to reduce the related receivable to the amount we expect
+to recover given all information presently available.  
+
+  At December 31, 2005,
+our accounts receivable balance of approximately $4.5 million is reported net
+of allowances of approximately $339 thousand. We believe our reported allowances
+are adequate. If the financial conditions of our customers were to deteriorate,
+however, resulting in their inability to make payments, we may need to record
+additional allowances, which would result in additional expenses being recorded
+for the period in which such determination was made.  
+
+     Inventory Reserves   
+
+  Historically, as a designer, developer and
+manufacturer of videoconferencing hardware solutions, we were exposed to a
+number of economic and industry factors that could result in portions of our
+inventory becoming either obsolete or in excess of anticipated usage. Our
+policy is to establish inventory reserves when conditions exist that suggest
+that our inventory may be in excess of anticipated demand or is obsolete based
+upon our assumptions about future demand for our products and market
+conditions. When recorded, our reserves are intended to reduce the carrying
+value of our inventory to its net realizable value.  
+
+  Ezenia provided for an excess and obsolescence reserve
+for 100% of its inventory due to the continued decline in demand relating to
+the legacy videoconferencing product line. During the three years in the period
+ended December 31, 2005 Ezenia was able to realize sales of its legacy
+videoconferencing hardware products. The cost of these product sales was offset
+by adjustments to reduce the related inventory reserves. At December 31,
+2005 and 2004, our net inventory reserves are approximately $4.5 million.  
+
+17     
+
+Income Taxes   
+
+  The calculation of tax assets and liabilities involves
+significant judgment in estimating the impact of uncertainties in the
+application of complex tax laws. Deferred tax assets and liabilities are
+determined at the end of each year based on the future tax consequences that
+can be attributed to net operating loss and credit carryovers as well as the
+differences between the financial statement carrying amounts of existing assets
+and liabilities and their respective tax bases. The deferred tax assets are
+reduced by a valuation allowance if it is more likely than not that the tax
+benefits will not be realized. The realization of deferred tax assets is
+dependant upon the generation of future taxable income. In determining the
+valuation allowance, Ezenia considers past performance, expected future taxable
+income, and qualitative factors which Ezenia considers to be appropriate to be
+considered in estimating future taxable income. Ezenia s forecast of expected
+future taxable income is for future periods that can be reasonably estimated. Changes
+in results that differ materially from our current expectations may cause us to
+change our judgment on future taxable income. These changes, if any, may
+require us to adjust our existing tax valuation allowance higher or lower than
+the amount we have previously recorded.  
+
+  In the fourth quarter of
+2005, as a result of our assessment of future taxable income, we released
+approximately $138 thousand of valuation allowance against deferred tax assets
+resulting in a net tax benefit of approximately $91 thousand. Please see Part
+II, Note 6, regarding disclosure with respect to a restatement of 2004 and 2003
+components of deferred tax items.  
+
+     Product Warranties   
+
+  Our products are sold with warranty provisions that
+require us to remedy deficiencies in quality or performance of our products
+over a period of 90 days, at no cost to our customers. Our policy is to
+establish warranty reserves at the time of sale when our estimate of the costs
+that will be incurred to fulfill those warranty requirements becomes material.
+As of December 31, 2005, we believed that our future cost of materials,
+labor and overhead for the servicing of our products sold through that date were
+not material and no reserve was warranted. If actual product failures or
+material or service delivery costs differ from our estimates, our warranty
+liability would need to be revised accordingly.  
+
+     Results
+of operations years ended December 31, 2005, 2004 and 2003   
+
+     Revenue   
+
+  Revenue increased to approximately $13.2 million in
+2005 from approximately $10.4 million in 2004. The increase in revenue was
+principally related to a 30% increase in sales related to our IWS product line.
+The increase in sales of IWS can be attributed to an increasing rate of product
+acceptance within the developing collaborative software market as well as
+greater spending within our customer base. Product revenue related to IWS
+increased approximately $3.2 million or 39%, while product development revenue
+declined approximately $276 thousand. Product development revenue is revenue
+related to product customization work performed for customers seeking
+enhancements to our current product.  The
+decline in product development revenue was primarily driven by the
+milestone-based deliverable schedule of the underlying contracts. Our legacy
+videoconferencing products and related service revenues continued to decline to
+approximately $495 thousand (4% of total revenues) in 2005 from approximately $633
+thousand (6% of total revenues) in 2004. We expect to see a continued decline
+in videoconferencing-related products and services revenue.  
+
+18  
+
+Revenue increased to
+approximately $10.4 million in 2004 from approximately $8.2 million in 2003.
+The increase in revenue was principally related to a 64% increase in sales
+related to our IWS product line. Significant gains were made in the product
+development area as revenue grew from approximately $73 thousand in 2003
+to approximately $1.5 million in 2004. Revenue from videoconferencing products
+and related services declined to approximately $633 thousand (6% of total
+revenues) in 2004 from approximately $2.3 million (28% of total revenues) in
+2003.  
+
+     Gross profit   
+
+   Cost of revenues includes material
+costs, costs of third-party software licenses, assembly labor and overhead,
+customer support costs, and engineering and development costs associated with
+product development revenue. Gross profit as a percentage of revenues increased
+in 2005, to 66.0%, from 65.5% in 2004 and 54.6% in 2003. The increase in gross
+profit is primarily attributed to reduced IWS licensing costs offset by a
+decline in margin related to product development work recognized from 73.3% in
+2004 to 55.6% in 2005. Gross margin related to product development revenue was
+51.0% in 2003. Gross profit in 2003 was significantly impacted by our legacy
+videoconferencing hardware sales of $1.9 million during the year, which had no
+net reported cost basis due to the write down of inventory in the previous year.
+Adjusting for this impact, reported gross profit would have been 41.5% in 2003.   
+
+     Research and development   
+
+  Research and development
+expenses include payroll, employee benefits, other headcount related costs, and
+miscellaneous costs associated with product development. Research and
+development expenses increased to approximately $1.2 million in the year ended December 31,
+2005, from approximately $1.1 million in 2004, but decreased from
+approximately $1.9 million in 2003. The increase in spending in 2005 as
+compared with 2004 is primarily due to an increase in personnel related costs
+offset by a decrease in consultant costs as we made a concerted effort to
+replace outsourced engineering personnel with permanent employees. The decrease
+in spending in 2004 as compared with 2003 was primarily due to cost saving
+initiatives undertaken by Ezenia in 2003 to better align its cost structure
+with its revenues.  
+
+     Sales and marketing   
+
+  Sales and marketing
+expenses include payroll, employee benefits, and other headcount related costs
+associated with sales and marketing personnel and advertising, tradeshows,
+seminars, and other marketing-related programs. Sales and marketing expenses
+increased to approximately $1.5 million in the year ended December 31,
+2005, from approximately $1.4 million in 2004, and from approximately $1.1
+million in 2003. The increase is primarily related to higher personnel related
+costs and trade show costs, offset by lower commission and consultant costs. The
+increased spending in 2004 as compared with 2003 was primarily related to
+higher salary, commission and travel costs associated with an increase in IWS
+personnel, as well as higher consulting and advertising costs.  
+
+     General and administrative   
+
+  General and administrative
+costs include payroll, employee benefits, and other headcount-related costs
+associated with the finance, human resources, management information systems,
+and other administrative headcount, and legal and investor relations costs, and
+other administrative fees. General and administrative expenses decreased to
+approximately $1.8 million in the year ended December 31, 2005, from
+approximately $1.9 million in 2004.  The
+decreased spending in 2005 as compared with 2004 was primarily due to decreases
+seen in legal, professional fees, and insurance costs partially offset by
+increases in compensation related costs, consultant costs related to Sarbanes
+Oxley compliance work, and bad debt recoveries. General and administrative
+expenses increased approximately $68 thousand from the year ended December 31,
+2004 as compared with the year ended December 31, 2003. The increase was   
+
+19     
+
+primarily
+due to an increase in legal and compensation related costs partially offset by
+decreases in consultant costs and bad debt recoveries.  
+
+     Occupancy
+and other facilities-related expenses   
+
+  Occupancy and other
+facilities-related expenses increased to approximately $621 thousand in the
+year ended December 31, 2005, from approximately $579 thousand in 2004,
+and decreased from approximately $675 thousand in 2003. These costs include
+rent expense and other operating costs associated with our former headquarters
+facility in Burlington, Massachusetts, our current headquarters in Nashua, New
+Hampshire, and two other sales and development offices in the United States, in
+Colorado and in Virginia. In February 2005, we moved its sales office in
+Alexandria, VA to Sterling, VA and in June 2005, the Company moved its
+headquarters facility to Nashua, New Hampshire from Burlington, Massachusetts.
+Both moves were to more cost efficient space. In December 2003, we also
+moved our Colorado development office to more cost efficient space. The
+increased spending in 2005 is primarily attributed to one time charges of $170
+thousand for a lease termination fee associated with our decision not to renew
+the lease on our headquarters facility in Burlington, Massachusetts, and $12
+thousand related to the loss on the sublease of our Alexandria, VA office for
+the remaining 14 months, offset by reduced rental costs. The decreased spending
+in 2004 as compared to 2003 was primarily related to the Colorado office move
+in December 2003, and to additional cost savings initiatives we initially
+undertook during 2003 to better align its cost structure with its revenues.  
+
+     Interest income, net   
+
+  Interest income, net,
+consists of interest on cash, cash equivalents and marketable securities. Interest
+income increased to approximately $191 thousand in 2005 from approximately $122
+thousand in 2004 and approximately $6 thousand in 2003. The increase in 2005
+was primarily related to an increase in the amount of cash available for
+investment during the year as compared to 2004. The increase in 2004 as
+compared to 2003 was due primarily to approximately $66 thousand of interest
+received in connection with our settlement reached in April 2004 with the
+ITC, approximately $30 thousand of interest received as a result of an income
+tax refund of approximately $608 thousand received in December 2004, and
+an increase in the amount of cash available for investment during the year.  
+
+     Settlement fees and other income   
+
+  The settlement fees
+reported for the year ended December 31, 2004 are one-time legal and
+professional fees related to our settlement reached in April 2004 with the
+ITC concerning tax matters associated with its patent infringement suit against
+Accord, which was settled in June 2000. Other income consists primarily of
+sales of previously written off assets and other miscellaneous non-operating
+income.  
+
+     Income tax benefit   
+
+  The amount reported as
+current income tax benefit in 2005 is comprised of current income tax expense
+of approximately $47 thousand, in both estimated federal alternative minimum
+tax expense and state income tax expense. In addition, the amount includes a
+deferred tax benefit of approximately $138 thousand associated with the
+release of a portion of our valuation allowance based on our conclusion that a
+portion of the deferred tax asset would be realized. The income tax benefit
+reported in the year ended December 31, 2004 of approximately $1.4 million
+related to our settlement with the ITC resulting in the receipt in April 2004
+of $975 thousand, net of approximately $156 thousand of withholding tax on the
+gross settlement amount. The income tax benefit in 2004 also included an
+approximately $608 thousand refund of prior year taxes relating to the carry
+back of the net operating losses incurred in 2001 to prior years. The income
+tax benefit reported in the year ended December 31, 2003 of approximately
+$267   
+
+20     
+
+thousand
+related to a change in the estimate for potential liabilities related to
+federal and state income taxes paid in prior years.  
+
+     Liquidity and Capital Resources   
+
+   At December 31, 2005, we
+had cash and cash equivalents of approximately $9.4 million.  We
+generated  profits from operations of
+approximately $3.5 million for the year ended December 31, 2005, and a net
+profit for the year of approximately $3.8 million, as compared with an
+operating profit in the year ended December 31, 2004 of $1.8 million, and
+a net profit of approximately $3.2 million in 2004.  
+
+  We generated cash from operations of $3.8 million in
+fiscal 2005 compared to $3.2 million in 2004 and cash used in operations of $96
+thousand in 2003. Increases in cash provided by operating activities in 2005
+were primarily the result of increases in net income and increases in accounts
+payable, accrued expenses, and deferred revenue offset by increased uses of
+working capital attributable to an increase in accounts receivable. Increases
+in cash provided by operating activities in 2004 were primarily the result of
+increases in net income and increases in deferred revenue offset by increased
+uses for working capital attributable to increases in accounts receivable and
+prepaid software licenses. In 2003, cash used by operating activities was
+primarily the result of an increase in deferred revenue offset by a net loss
+and uses for working capital attributable to increases in accounts receivable
+and prepaid software licenses.  
+
+  The Company invested approximately $206 thousand in
+property and equipment in fiscal 2005 compared to $93 thousand in fiscal 2004
+and no outlay of cash relative to 2003 investing activities. The Company has
+generated cash from financing activities of $291 thousand, $102 thousand, and
+$9 thousand in 2005, 2004, and 2003 respectively, primarily from proceeds of
+sales of the Company s common stock pursuant to the Company s various stock
+plans.  
+
+  Our contractual obligations relate primarily to its
+facilities leases and a contractual purchase commitment. We lease our primary
+facility in Nashua, New Hampshire, under an operating lease, which expires in June 2010.
+We also have three other leases for office space in the United States, located
+in Colorado Springs, Colorado, Sterling, Virginia, and Alexandria, Virginia for
+sales, development and technical support operations. We have entered into a sub
+lease agreement for our Alexandria, Virginia office. These leases expire at
+various dates through November 2011. Future minimum lease obligations at December 31,
+2005 under all of these non-cancelable operating leases, including the effects
+of the Alexandria, Virginia sublease, are approximately $153 thousand in 2006,
+$178 thousand in 2007, $179 thousand in 2008, $180 thousand in 2009, $126
+thousand in 2010, and $98 thousand in 2011.  
+
+  In February 2005 we entered into a new agreement
+with Microsoft to extend an existing software distribution license agreement. Under
+the agreement, we are required to purchase a minimum of approximately $2.8
+million of product during the fiscal year 2006.  
+
+  We include standard intellectual property
+indemnification provisions in our licensing agreements in the ordinary course
+of business. Pursuant to our product license agreements, we will indemnify,
+hold harmless, and agree to reimburse the indemnified party for losses suffered
+or incurred by the indemnified party, generally business partners or customers,
+in connection with certain patent, copyright or other intellectual property
+infringement claims by third parties with respect to our products. Other
+agreements with our customers provide indemnification for claims relating to
+property damage or personal injury resulting from the performance of services
+by Ezenia or its subcontractors. Historically, our costs to defend lawsuits or
+settle claims relating to such indemnity agreements have been insignificant.
+Accordingly, the estimated fair value of these indemnification provisions is
+immaterial.  
+
+  In August 2002, Ezenia
+entered into an agreement with Tandberg Telecom AS to sell all patents and
+pending applications related to its videoconferencing products, which was
+completed in October 2002. In exchange for an up-front license fee of
+$1.25 million, a loan for an additional $1.25 million which was   
+
+21     
+
+forgiven
+at the closing, and an additional $2.4 million also received at the closing,
+Ezenia granted Tandberg a fully paid, non-exclusive, non-transferable license
+under the patents and pending applications relating to Ezenia s
+videoconferencing technology (the video patent portfolio). Additionally, Ezenia
+retained a fully paid, non-exclusive, non-transferable license for Ezenia s use
+in connection with its videoconferencing and enterprise collaboration products.  
+
+  In May 2003, after failing
+to comply with certain continued listing standards for the NASDAQ SmallCap
+Market, including maintaining a minimum bid price of at least $1.00 per share,
+or the requirement for Ezenia to have a minimum $2.5 million in stockholders
+equity, Ezenia received a delisting notification from NASDAQ. After exercising
+its right for an appeal of this determination to a NASDAQ Listing
+Qualifications Panel, the Panel determined to delist Ezenia s securities from
+The NASDAQ Stock Market in August 2003. Since then, Ezenia s common stock
+has been quoted on the OTC Bulletin Board. The market value and liquidity of
+Ezenia s common stock, as well as Ezenia s ability to raise additional capital,
+has been and may continue to be materially adversely affected by this delisting
+decision.  
+
+  Operating costs were in line
+with our expectations for the year ended December 31, 2005. If order
+bookings are less than expected in 2006, we may take steps to reduce spending
+on such discretionary items as capital expenditures and marketing, however, we
+are committed to making the necessary investments in building and expanding our
+infrastructure.  
+
+  Ezenia s success in achieving
+its goal of showing consistent quarterly top line and bottom line growth is
+largely dependent on whether it can continue to grow its future order bookings
+and related revenue targets. Order bookings, which are purchase orders placed
+by customers, are properly not recorded as revenue or recognized as revenue
+until all requirements of that order are satisfied, although the cash flow received
+from these orders may more closely follow the receipt date of the order. Accordingly,
+largely as a result of its successive quarters of profitability, management
+believes that its existing cash resources will be sufficient to fund its
+anticipated working capital and capital expenditure needs for at least the next
+twelve months. We anticipate that we will continue to generate positive cash
+flow from operations for 2006 and that existing cash reserves will therefore be
+sufficient to meet our working and capital requirement needs during this
+period.  
+
+  The
+following table summarizes our outstanding contractual obligations:  
+
+Recent Accounting pronouncements   
+
+  In December 2004, the Financial Accounting
+Standards Board issued SFAS No. 123R,      Share- Based Payment      (SFAS 123R). This Statement is a revision of SFAS 123 and
+supersedes APB 25 and its related implementation guidance. SFAS 123R
+establishes standards for transactions in which an entity exchanges its equity
+instruments for goods or services. This standard requires a public entity to measure
+the cost of employee services received in exchange for an award of equity
+instruments based on the grant date fair value of the award. This eliminates
+the exception to account for such awards using the intrinsic method previously
+allowable under APB Opinion No.25. In March 2005, the Securities and
+Exchange Commission (SEC) released Staff Accounting Bulletin (SAB) 107,
+Share-Based Payment, which expresses views of the SEC Staff about the
+application of SFAS No. 123R. SFAS No.123R was to be effective for interim
+or annual reporting periods beginning on or after June 15, 2005, but in April 2005
+the SEC issued a rule that SFAS No. 123R will be effective only for
+annual reporting periods beginning on or after June 15, 2005. 
+
+22     
+
+Ezenia adopted SFAS 123R
+on January 1, 2006 under the modified-prospective transition method and
+the adoption will materially increases stock compensation expense and decreases
+net income. Accordingly, in fiscal 2006, total stock-based compensation expense
+from stock options using the fair value provisions of SFAS 123R, is estimated
+to be approximately $800 thousand. In order to develop the fiscal 2006
+stock-based compensation expense estimate, we utilized assumptions on items
+such as projected option grants and expected life and volatility, which were
+similar to the amounts in fiscal 2005. In addition, SFAS 123R requires that the
+excess tax benefits related to stock compensation be reported as a cash inflow
+from financing activities rather than as a reduction of taxes paid in cash from
+operations.  
+
+     ITEM 7A.            QUANTITATIVE
+AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK 
+
+  To date, Ezenia has not
+utilized derivative financial instruments or derivative commodity instruments.
+Ezenia invests cash in highly liquid investments, consisting of highly rated
+U.S. and state government securities, commercial paper and short-term money
+market funds. These investments are subject to minimal credit and market risk
+and Ezenia has no debt other than its contractual lease obligations. A 10%
+change in interest rates would not have a material impact on Ezenia s financial
+position, operating results or cash flows. We have closed our foreign offices,
+and sales to foreign customers from the United States are in U.S. dollars. Therefore,
+Ezenia has no significant foreign currency risk.  
+
+23     
+
+ITEM
+8.                    FINANCIAL
+STATEMENTS AND SUPPLEMENTARY DATA 
+
+     INDEX   
+
+24  
+
+Report of Independent Registered Public Accounting
+Firm   
+
+  The Board of Directors and Stockholders 
+Ezenia! Inc.  
+
+  We have audited the accompanying consolidated balance
+sheets of Ezenia! Inc. and subsidiaries as of December 31, 2005 and 2004
+and the related consolidated statements of operations, stockholders  equity,
+and cash flows for the three year period ended December 31, 2005. Our
+audits also included the financial statement schedules listed in the Index at
+Item 15(a). These financial statements and schedule are the responsibility of
+the Company s management. Our responsibility is to express an opinion on these
+financial statements and schedule based on our audits.  
+
+  We conducted our audits in accordance with the auditing
+standards of the Public Company Accounting Oversight Board (United States).
+Those standards require that we plan and perform the audit to obtain reasonable
+assurance about whether the financial statements are free of material
+misstatement. The Company is not required to have, nor were we engaged to
+perform, an audit of its internal controls over financial reporting. Our audits
+included consideration of internal control over financial reporting as a basis
+for designing audit procedures that are appropriate in the circumstances, but
+not for the purpose of expressing an opinion on the effectiveness of the
+Company s internal control over financial reporting. Accordingly, we express no
+such opinion. An audit also includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements, assessing the
+accounting principles used and significant estimates made by management, as
+well as evaluating the overall financial statement presentation. We believe that
+our audits provide a reasonable basis for our opinion.  
+
+  In our opinion, such consolidated financial statements
+referred to above present fairly, in all material respects, the consolidated
+financial position of Ezenia! Inc. and subsidiaries at December 31, 2005
+and 2004 and the consolidated results of their operations and their cash flows
+for each of the three years in the period ended December 31, 2005, in
+conformity with accounting principles generally accepted in the United States
+of America. Also, in our opinion, the related financial statement schedule,
+when considered in relation to the basic financial statements taken as a whole,
+presents fairly in all material respects the information set forth therein.  
+
+  See Note 6 for a
+discussion regarding restatement of previously filed disclosures regarding the
+components of the Company s deferred tax assets. The restatement has no effect
+on the consolidated financial position, results of operations or cash flows of
+the Company.  
+
+/s/ BROWN  
+  BROWN LLP  
+
+Boston, Massachusetts  
+
+  March 28, 2006  
+
+25  
+
+Consolidated
+Balance Sheets   
+
+See accompanying notes  .     26  
+
+Consolidated
+Statements of Operations   
+
+See accompanying notes  .     27  
+
+Consolidated
+Statements of Stockholders  Equity (Deficit) and Comprehensive Income (Loss)   
+
+See accompanying notes.  
+
+28   
+
+Consolidated
+Statements of Cash Flows   
+
+See accompanying notes.     29  
+
+Notes to the Consolidated Financial Statements   
+
+     1.   Nature
+of Business and Basis of Presentation   
+
+  Ezenia! Inc. ( Ezenia  or the  Company ) operates in
+one business segment, which is the design, development, manufacturing,
+marketing and sale of conferencing and real-time collaboration solutions for
+corporate and governmental networks and eBusiness.  Founded in 1991, Ezenia! develops and markets
+products that enable organizations to provide high-quality group communication
+and collaboration capabilities to commercial, governmental, consumer and
+institutional users. Ezenia s products allow individuals and groups, regardless
+of proximity constraints, to interact and share information in a natural,
+spontaneous way voice-to-voice, face-to-face, mouse-to-mouse,
+keyboard-to-keyboard, flexibly, securely and in real-time.  Using our products, individuals can interact
+through a natural meeting experience, allowing groups to work together
+effectively and disseminate vital information quickly in a secure environment.  
+
+  The consolidated financial statements include the accounts
+of Ezenia and its wholly owned subsidiaries. All significant inter-company
+transactions and balances have been eliminated. All assets and liabilities of
+Ezenia s foreign subsidiaries are translated at the rate of exchange at the end
+of the year, while sales and expense are translated at the average rate in
+effect during the year. The net effect of these translation adjustments has
+been immaterial.  
+
+  Certain amounts in 2003
+have been reclassified to permit comparison with 2005 and 2004 classifications.  
+
+   2.   Management s
+Plans   
+
+   Ezenia s
+success in achieving its goal of showing consistent quarterly top line and
+bottom line growth is largely dependent on whether it can continue to grow its
+future order bookings, and related revenue targets. P rior to 2004, Ezenia incurred substantial
+recurring operating losses and negative cash flow from operations and incurred
+an accumulated deficit of approximately $60.3 million at December 31, 2003.
+During 2005 and 2004, Ezenia achieved income from operations of $3.5 million and
+$1.8 million, net income of $3.8 million and $3.2 million, and generated cash
+from operations of $3.8 million and $3.2 million respectively, and has
+$9.4 million of cash and cash equivalents as of December 31, 2005. Accordingly, largely as a result of its
+successive quarters of profitability, management believes, although there can
+be no assurances, that its existing cash resources will be sufficient to fund
+its anticipated working capital and capital expenditure needs for at least the
+next twelve months. We anticipate that we will continue to generate positive
+cash flow from operations for 2006 and that existing cash reserves will
+therefore be sufficient to meet our working and capital requirement needs
+during this period.  
+
+   3.   Summary of
+Significant Accounting Policies   
+
+   Use of Estimates   
+
+  The preparation of the
+financial statements in conformity with accounting principles generally
+accepted in the United States of America requires management to make estimates
+and assumptions that affect the reported amounts of assets and liabilities, and
+disclosure of contingent assets and liabilities, if any, at the date of the
+financial statements and the reported amounts of revenues and expenses during
+the reporting period. Actual results could differ from these estimates.  
+
+30     
+
+Notes to the Consolidated Financial Statements (Continued)   
+
+3.       Summary of Significant Accounting Policies (Continued) 
+
+   Revenue recognition   
+
+  Product revenue consists of sales of InfoWorkSpace ( IWS )
+software licenses and maintenance agreements, IWS product related training,
+installation, and consulting, and video products. Revenue from sales of IWS
+software licenses and maintenance agreements is recognized ratably over the
+subscription software license contract periods, which are generally one year,
+pursuant to the guidance provided by Statement of Position ( SOP ) 97-2,    Software Revenue Recognition    (SOP 97-2), issued by
+the American Institute of Certified Public Accountants (AICPA). Revenue from
+IWS training, installation, and consulting services are recognized as the
+services are performed provided there is vendor specific objective evidence
+(VSOE) of fair value which is the price charged when the services are sold
+separately. Revenue from video product sales is recognized upon shipment to the
+customer and the fulfillment of all contractual terms and conditions, pursuant
+to the guidance provided by Staff Accounting Bulletin No. 104,    Revenue Recognition in Financial Statements    (SAB 104),
+issued by the Securities and Exchange Commission.  
+
+  Product development revenue relates to contracts
+involving customization of the IWS product according to customer
+specifications. Revenue associated with contracts for product development
+revenue with milestone-based deliverables requiring a customers  acceptance is
+recognized upon the customer s acceptance in accordance with terms of the
+contract, in conformity with the guidance provided by SOP 81-1,    Accounting For Performance of Construction Type and Certain Production
+Type Contracts    issued by the AICPA. The associated cost recognition
+with these deliverables or milestones is deferred until the terms of acceptance
+are satisfied and revenue is recognized.  
+
+  Service revenue represents sales of service contracts
+related to the maintenance of video products. Maintenance revenue is deferred
+and recognized ratably over the term of the applicable agreement.  
+
+  Products and software licenses are sold without any
+contractual right of return by the customer. Deferred revenue represents
+amounts received from customers under subscription software licenses,
+maintenance agreements, or for product sales in advance of revenue recognition.
+Judgments are required in evaluating the creditworthiness of our customers. In
+all instances, revenue is not recognized until we have determined, at the
+outset of the arrangement that collectibility is reasonably assured. Amounts
+billed to customers related to shipping and handling charges are recorded as
+revenue upon shipment and the related costs are included in cost of goods sold.  
+
+   Product Warranties   
+
+  Our products are sold with warranty provisions that
+require us to remedy deficiencies in quality or performance of our products
+over a period of 90 days, at no cost to our customers. Our policy is to
+establish warranty reserves at the time of sale when our estimates of the costs
+that will be incurred to fulfill those warranty requirements become material.
+At December 31, 2005, we believe that our future cost of materials, labor
+and overhead for the servicing of our products sold through that date are not
+material and no reserve is warranted. If actual product failures or material or
+service delivery costs differ from our estimates, our warranty liability would
+need to be revised accordingly.  
+
+   Third Party
+Technology   
+
+  Ezenia s IWS product incorporates third party
+technology in the form of software licenses, which we purchase from other
+software vendors. Software licenses purchased from vendors are reported as
+prepaid licenses and amortized to cost of revenue over the subscription period,
+which is generally one year.  
+
+31     
+
+Notes to the Consolidated Financial Statements (Continued)   
+
+3.       Summary of Significant Accounting Policies (Continued) 
+
+   Advertising   
+
+  Advertising
+costs are included in sales and marketing expense. Ezenia uses its website as
+its main form of advertising along with participating in various industry
+related trade shows and currently does not incur material advertising costs.
+Advertising costs are expensed as incurred. Advertising expense approximated
+$49 thousand in fiscal 2005 and $39 thousand in fiscal 2004. Ezenia did not
+incur advertising expense for fiscal 2003.  
+
+   Cash equivalents   
+
+  Ezenia considers all
+liquid investments with a maturity of 90 days or less at the date of purchase
+to be cash equivalents. Cash equivalents and marketable securities consist of
+highly rated U.S. and state government securities, commercial paper and
+short-term money market funds.  
+
+   Financial
+instruments and concentrations of credit risk   
+
+  Ezenia s financial instruments consist primarily of
+cash and cash equivalents, trade receivables, accounts payable and accrued
+expenses. The carrying value of these financial instruments approximates fair
+value due to their short term to maturity. Financial instruments, which
+potentially subject Ezenia to concentrations of credit risk, are cash
+equivalents and accounts receivable.  
+
+  Major financial institutions maintain all the Company s
+cash equivalents. Concentration of credit risk with respect to accounts
+receivable is limited to certain customers to whom Ezenia makes substantial
+sales. To reduce risk, we routinely assess the financial strength of our customers.
+Ezenia maintains an allowance for doubtful accounts based on accounts past due
+according to contractual terms and historical collection experience. Actual
+losses when incurred are charged to the allowance. Write-offs related to
+accounts receivable have been within management s expectations.  
+
+  Revenue from one customer
+accounted for approximately 20% of total revenues in 2005, 33% of total
+revenues in 2004, and 38% of total revenues in 2003. Accounts receivable from
+this customer amounted to approximately $1.8 million, $1.8 million and $1.9
+million at December 31, 2005, 2004 and 2003, respectively. Revenue from
+international markets was approximately $362 thousand, $391 thousand and $1.1
+million in 2005, 2004 and 2003, respectively.  
+
+   Equipment and
+improvements   
+
+  Equipment
+and improvements are stated at cost and depreciated using the straight-line
+method over the following estimated useful lives:  
+
+Computer software and
+  equipment  
+
+3 years  
+
+Office equipment  
+
+5 years  
+
+Furniture and fixtures  
+
+5 years  
+
+Leasehold improvements  
+
+Shorter of lease term or estimated useful life  
+
+Repairs and maintenance
+costs are expensed as incurred.  
+
+32     
+
+Notes to the Consolidated Financial Statements (Continued)   
+
+3.       Summary of Significant Accounting Policies (Continued) 
+
+   Research and
+development costs   
+
+  Research and development
+costs are charged to expense as incurred. Internally developed software costs
+are expensed as incurred until it is determined that the technology needed to
+achieve performance requirements exists. To date, internally developed software
+has been available for release concurrent with the establishment of
+technological feasibility and, accordingly, costs eligible for capitalization
+have been insignificant and expensed as incurred.  
+
+   Income taxes   
+
+  Deferred tax assets and liabilities are determined at
+the end of each year based on the future tax consequences that can be
+attributed to net operating loss and credit carryovers as well as the
+differences between the financial statement carrying amounts of existing assets
+and liabilities and their respective tax bases. The deferred tax assets are
+reduced by a valuation allowance if it is more likely than not that the tax
+benefits will not be realized. The realization of deferred tax assets is
+dependant upon the generation of future taxable income. In determining the
+valuation allowance, we consider past performance, expected future taxable
+income, and qualitative factors which we consider to be appropriate to be
+considered in estimating future taxable income. The Company s forecast of
+expected future taxable income is for future periods that can be reasonably
+estimated. Results that differ materially from our current expectations may cause
+us to change our judgment on future taxable income. These changes, if any, may
+require us to adjust our existing tax valuation allowance higher or lower than
+the amount we have recorded.  
+
+  In the fourth quarter of 2005, as a result of our
+assessment of future taxable income, we released approximately $138 thousand of
+valuation allowance against deferred tax assets resulting in a net tax benefit
+of approximately $91 thousand. The calculation of tax liabilities involves
+significant judgment in estimating the impact of uncertainties in the
+application of complex tax laws.  
+
+   Net income (loss)
+per share   
+
+  The Company reports net income (loss) per share in
+accordance with the Statement of Financial Accounting Standards ( SFAS ) No. 128,
+   Earnings per Share  .  Diluted earnings
+per share include the effect of dilutive stock options.  
+
+  Shares
+used in computing basic and diluted net income (loss) per share are as follows:  
+
+Accounting for
+stock-based compensation   
+
+  Ezenia has elected to account for its stock-based
+compensation plans pursuant to Accounting Principles Board Opinion No. 25,
+   Accounting for Stock Issued to Employees,   
+(APB 25) and related interpretations rather than the alternative fair value
+accounting provided under SFAS No. 123,    Accounting
+for Stock-Based Compensation   ( SFAS No. 123 ).  Ezenia has
+recognized no compensation expense related to its stock option plans and its
+stock purchase plan.  
+
+33     
+
+Notes to the Consolidated Financial Statements (Continued)   
+
+3.       Summary of Significant Accounting Policies (Continued) 
+
+  Pro-forma information regarding net income (loss) and
+income (loss) per share, as if we had used the fair value method pursuant to SFAS
+No. 123 to account for stock options issued under our various stock option
+plans, and shares purchased under the 1995 Employee Stock Purchase Plan, as
+amended,  is presented below. The fair
+value of stock activity under these plans was estimated at the date of grant
+using a Black-Scholes option pricing model with the following assumptions as of
+the date of grant: risk-free interest rates equal to the then available rate
+for zero-coupon U.S. government issues with a remaining term equal to the
+expected life of the options; no dividend yields; an average volatility factor
+of the expected market price of Ezenia s common stock over the expected life of
+the option of 1.50 in 2005, 1.24 in 2004 and 1.82 in 2003; and a
+weighted-average expected life of the option of 
+6.8 years in 2005, 6.4 years in 2004 and 7.4 years in 2003.  
+
+  For
+purposes of pro-forma disclosures, the estimated weighted average grant date
+fair value of options granted during the year of $1.44, $0.53 and $0.19 in
+2005, 2004 and 2003, respectively, is amortized to expense over the related
+vesting period. Pro-forma information is as follows:  
+
+Recent Accounting
+pronouncements   
+
+  In December 2004, the
+Financial Accounting Standards Board issued SFAS No. 123R,    Share     -    Based Payment    (SFAS
+123R). This Statement is a revision of SFAS 123 and supersedes APB 25 and its related
+implementation guidance. SFAS 123R establishes standards for transactions in
+which an entity exchanges its equity instruments for goods or services. This
+standard requires a public entity to measure the cost of employee services
+received in exchange for an award of equity instruments based on the grant date
+fair value of the award. This eliminates the exception to account for such
+awards using the intrinsic method previously allowable under APB Opinion No. 25.
+In March 2005, the Securities and Exchange Commission (SEC) released Staff
+Accounting Bulletin (SAB) 107, Share-Based Payment, which expresses views of
+the SEC Staff about the application of SFAS No. 123R. SFAS No. 123R was to
+be effective for interim or annual reporting periods beginning on or after June 15,
+2005, but in April 2005 the SEC issued a rule that SFAS No. 123R
+will be effective only for annual reporting periods beginning on or after June 15,
+2005. 
+
+  The Company is required to
+adopt SFAS 123R on January 1, 2006 and under the modified-prospective
+transition method, the adoption is expected to materially increase stock
+compensation expense and decrease earnings. Accordingly, in fiscal 2006, total
+stock-based compensation expense from stock options using the fair value provisions
+of SFAS 123R, is estimated to be approximately $800   
+
+34     
+
+Notes to the Consolidated Financial Statements (Continued)   
+
+3.       Summary of Significant Accounting Policies (Continued) 
+
+  thousand.
+In order to develop the fiscal 2006 stock-based compensation expense estimate,
+we utilized assumptions on items such as projected option grants and expected
+life and volatility, which were similar to the amounts in fiscal 2005. In
+addition, SFAS 123R requires that the excess tax benefits related to stock
+compensation be reported as a cash inflow from financing activities rather than
+as a reduction of taxes paid in cash from operations.  
+
+   4.   Inventories   
+
+  Inventories consist primarily of finished goods
+relating to legacy video conferencing hardware equipment Historically, as a
+designer, developer and manufacturer of videoconferencing hardware solutions,
+Ezenia was exposed to a number of economic and industry factors that could
+result in portions of our inventory becoming either obsolete or in excess of
+anticipated usage. Our policy is to establish inventory reserves when
+conditions exist that suggest that our inventory may be in excess of anticipated
+demand or is obsolete based upon our assumptions about future demand for our
+products and market conditions. When recorded, our reserves are intended to
+reduce the carrying value of our inventory to its net realizable value.  
+
+  Ezenia has previously provided for excess and
+obsolescence reserve for 100% of its inventory due to the continued decline in
+demand relating to the legacy videoconferencing product line. During each of the
+three years in the period ended December 31, 2005 Ezenia was able to
+realize sales of its legacy videoconferencing hardware products. The cost of
+these product sales was offset by adjustments to reduce the related inventory
+reserves. At December 31, 2005 and 2004, our net inventory reserves are
+approximately $4.5 million.  
+
+   5.   Equipment and
+Improvements   
+
+  Property
+and equipment are recorded at cost less accumulated depreciation and
+amortization. Depreciation is calculated using the straight-line method over
+the useful lives of the respective assets. Leasehold improvements are amortized
+over the shorter of the estimated useful lives of the improvements or the
+remaining lease term. Ezenia made no purchases of equipment or improvements in
+the year ended December 31, 2003. For the years ended December 31,
+2005 and December 31, 2004, we had the following activity net of
+depreciation:  
+
+35  
+
+Notes to the Consolidated Financial Statements (Continued)   
+
+   5.   Equipment and
+Improvements (Continued)   
+
+  Depreciation expense for
+the years ended December 31, 2005 and 2004 was $44 thousand and $8
+thousand, respectively.  
+
+     6.   Income taxes   
+
+  The
+provision (benefit) for income taxes is as follows:  
+
+The amount reported as current income tax benefit in
+2005 is comprised of current income tax expense of approximately $47 thousand
+in estimated federal alternative minimum tax expense and state income tax
+expense and, a deferred tax benefit of approximately $138 thousand associated
+with the release of a portion of the Company s valuation allowance. The amount
+reported as income tax benefit in 2004 is the result of an $819 thousand net
+settlement reached with the ITC and a $608 thousand refund received in
+connection with the 2002 carry back of net operating losses incurred in 2001.
+The amount reported as income tax benefit in 2003 is the result of the reversal
+of tax reserves recorded in prior years.  
+
+  A
+reconciliation of the expected income tax (benefit) computed using the federal
+statutory income tax rate to the Company s effective income tax rate at December 31
+for the years ended 2005, 2004, and 2003 is as follows:  
+
+36     
+
+Notes to the Consolidated Financial Statements (Continued)   
+
+6.       Income taxes (Continued) 
+
+  The American Jobs Creation Act of 2004 (the  Act ) was
+signed into law on October 22, 2004. The Act contains numerous amendments
+and additions to the U.S. corporate income tax rules. None of these changes,
+either individually or in the aggregate, is expected to have a significant
+effect on Ezenia s income tax liability. The Company is continuing to evaluate
+the Act and does not expect to complete this evaluation until after Congress
+and the Treasury Department provide guidance clarifying certain provisions.  
+
+  The
+Company s deferred tax assets consist of the following:  
+
+At December 31, 2005, Ezenia had domestic federal
+net operating loss carryforwards of approximately $53.1 million available to
+reduce future taxable income, which expire at various dates beginning in 2020
+through 2025. Ezenia also has federal research and development tax credit
+carryforwards of approximately $2.4 million available to reduce future tax
+liabilities. Ezenia has state net operating loss carryforwards of approximately
+$53.2 million as of December 31, 2005 available to reduce state future
+taxable income, which expire at various dates beginning in 2005 through 2010.
+Ezenia also has state research and development tax credit carryforwards of
+approximately $918 thousand as of December 31, 2005.  
+
+  Under the provisions of the Internal Revenue Code,
+certain substantial changes in the Company s ownership may result in a
+limitation on the amount of net operating loss carryforwards and research and
+development credit carryforwards which may be utilized annually to offset
+future taxable income and taxes payable.  
+
+  As required by SFAS No. 109,
+management of the Company has evaluated the positive and negative evidence
+bearing upon the realizability of its deferred tax assets, which are comprised
+principally of NOL carryforwards, research and experimentation credit
+carryforwards, capitalized start up expenditures, purchased intangibles, and
+research and development expenditures amortizable over sixty months. Management
+has determined at this time that it is more likely than not that the Company
+will recognize a portion of the benefits of its federal and state deferred tax
+assets. Accordingly, in 2005 a provision for current income tax of
+approximately $47 thousand relating primarily to federal alternative minimum
+taxes was recorded, which was offset by the release of a valuation allowance of
+approximately $138 thousand in the fourth quarter. As a result, a valuation
+allowance of approximately $31.9 million has been established at December 31,
+2005, resulting in a net deferred tax asset of approximately $138 thousand. The
+amount of the deferred tax asset considered realizable could be reduced or
+increased in the near term if estimates of future taxable income during the
+carryforward period change.  
+
+37     
+
+Notes to the Consolidated Financial Statements (Continued)   
+
+6.       Income taxes (Continued) 
+
+   Restatement of 2004
+and 2003 deferred tax items:   
+
+  In connection with the Company s review of income tax
+returns previously filed in relation to our disclosures relative to certain
+temporary differences we have restated certain of the deferred tax asset
+amounts and corresponding valuation allowance from our previously filed Form
+10-K s for the years ended December 31, 2004 and 2003, respectively.  While the adjustments individually are
+material to our tax disclosures there was no impact to our balance sheet,
+statement of operations, stockholders equity or cash flows.  Accordingly, the following represents the
+restated amounts as compared to amounts previously disclosed in our prior Form
+10-K.  
+
+  The Company s deferred tax
+assets are comprised of the following:  
+
+The restatements in 2003 were primarily related to a
+$2,851 thousand understatement of state net operating loss carryforwards, an
+understatement of cumulative temporary differences related to purchased
+intangibles of $259 thousand and of various reserves, accruals and allowances
+of $1,713 thousand offset by an overstatement of tax credit carryforwards of
+$1,448 thousand.  The 2004 restatements
+relate primarily to a $527 thousand understatement of federal net operating
+losses offset by a $376 thousand overstatement of tax credit carryforwards.  
+
+  As a result of these
+restatements to the aforementioned deferred tax items a restated reconciliation
+of the expected income tax (benefit) computed using the federal statutory
+income tax rate to the Company s effective income tax rate for the years 2004
+and 2003 is as follows:  
+
+38     
+
+Notes to the Consolidated Financial Statements (Continued)   
+
+7.       Other
+Income 
+
+  Ezenia had previously
+settled a patent infringement suit against Accord in the United States District
+Court for the District of Massachusetts. The settlement agreement, provided,
+among other things, that Ezenia receive $6.5 million in return for a covenant
+not to sue with respect to the patents that were the subject of the litigation.
+Ezenia received the payment in 2000, net of foreign tax withholding of $975 housand,
+pending a resolution of certain tax matters related to the settlement with the
+tax authorities in Israel. In April 2004, Ezenia reached a settlement
+agreement with the Israel Tax Commission (ITC), resulting in the receipt by
+Ezenia of cash proceeds related to the disputed amount, net of interest earned,
+tax withholding, and settlement fees of approximately $179 thousand.  
+
+   8.   Commitments
+and Contingencies   
+
+  Ezenia s contractual
+obligations relate primarily to its facilities leases and a contractual
+purchase commitment. In 2005, Ezenia moved its headquarters facility from
+Burlington, Massachusetts to Nashua, New Hampshire and incurred a $170 thousand
+lease termination fee. The primary facility in Nashua, New Hampshire is leased under
+an operating lease, which expires in June 2010. We also have three other
+leases for office space in the United States, located in Colorado Springs,
+Colorado, Sterling, Virginia, and Alexandria, Virginia for sales, development
+and technical support operations. On February 28, 2005 we entered into a
+new five year operating lease to move our Alexandria, Virginia sales and
+service office to a new facility in Sterling, Virginia. At the same time, we
+entered into a sublease agreement to lease our Alexandria, Virginia facility
+for the remaining 14 months of our lease term. As a result of the move, we will
+lower our overall facility costs in Virginia. These leases expire at various
+dates through November 2011. Rent expense was approximately $199 thousand,
+$278 thousand, and $361 thousand in 2005, 2004 and 2003, respectively.  
+
+  The
+following table summarizes our outstanding contractual obligations:  
+
+Purchase commitments
+represent obligations under agreements, which are not unilaterally cancelable
+by us, are legally enforceable and specify fixed or minimum amounts of goods or
+services at fixed or minimum prices. If order bookings are less than expected
+in 2006, it is possible that we will be unable to meet our minimum purchase
+commitment resulting in a possible material adjustment later in the year.  
+
+  Ezenia is subject to a
+variety of claims and suits that arise from time to time in the ordinary course
+of its business.  Currently
+we are not a defendant in any claims or suits.  As of December 31, 2004, Ezenia
+had reserved approximately $160 thousand for potential liabilities that we
+expected to incur as a result of lawsuits filed during the fourth quarter of
+2004. During the quarter ended June 30, 2005, we resolved these suits for
+approximately $15 thousand and therefore reversed the excess accrual of
+approximately $145 thousand, which is included as a credit in general and
+administrative expense as a change in estimate. 
+
+39  
+
+Notes to the Consolidated Financial Statements (Continued)   
+
+   9.       Stockholders
+Equity 
+
+  The Company has authorized 2,000,000 shares of
+undesignated Preferred Stock. Each series of Preferred Stock shall have such
+rights, preferences, privileges and restrictions, including voting rights,
+dividend rights, conversion rights, redemption privileges and liquidation
+preferences as determined by the Board of Directors.  
+
+  In connection with the
+Company s prior acquisition of the IWS business unit we issued
+400,000 shares of our common stock of which 290,000 of those shares were
+subject to a put right by the seller of the IWS business unit. Such common
+stock subject to the put right was reported as temporary equity. In July 2003,
+in connection with an amendment to a software development agreement, the seller
+agreed to estimate its put right and, accordingly, the $2.9 million value
+associated with the 290,000 shares of common stock that was no longer subject
+to the put option, was credited to stockholders equity.  
+
+   10.       Benefit
+Plans 
+
+     Stock option plans   
+
+  The Company s Amended and Restated 1991 Stock
+Incentive Plan (the  1991 Plan ) provided for the sale or award of common
+stock, or the grant of incentive stock options or nonqualified stock options
+for the purchase of common stock, for up to 6,090,541 shares to officers,
+employees and consultants. The 1991 Plan terminated on March 31, 2001, and
+no further options have been granted under the 1991 Plan subsequent to that
+date. At December 31, 2005, there were 655,252 shares of common stock
+reserved to be issued upon exercise of outstanding options granted under the
+1991 Plan.  
+
+  The 2001 Stock Incentive Plan was approved and adopted
+by the Board of Directors on April 11, 2001 (the  2001 Stock Incentive
+Plan ). The 2001 Stock Incentive Plan provided for the sale or award of common
+stock, or the grant of non-qualified stock options for the purchase of common
+stock, for up to 5,000,000 shares to officers, directors, employees and
+consultants of the Company. Vesting of options granted under the 2001 Stock
+Incentive Plan accelerates upon change of control or acquisition as defined in
+the 2001 Stock Incentive Plan. The 2001 Stock Incentive Plan terminated on December 31,
+2004 and no further options have been granted under the 2001 Stock Incentive
+Plan subsequent to this date.  At December 31,
+2005, there were 239,437 shares of common stock reserved to be issued upon
+exercise of outstanding options granted under the 2001 Stock Incentive Plan.  
+
+  The 2004 Stock Incentive
+Plan was approved and adopted by the Board of Directors on December 31,
+2004 (the  2004 Stock Incentive Plan ). The 2004 Stock Incentive Plan provides
+for the sale or award of common stock or the grant of non-qualified stock
+options for the purchase of common stock, for up to 7,500,000 shares to
+officers, directors, employees and consultants of the Company. The Board of
+Directors administers the 2004 Stock Incentive Plan, and the terms of grants
+and awards made pursuant to the 2004 Stock Incentive Plan. Vesting of options
+granted under the 2004 Stock Incentive Plan accelerates upon change of control
+or acquisition as defined in the 2004 Stock Incentive Plan. The 2004 Stock
+Incentive Plan will terminate on December 31, 2014. At December 31,
+2005, there were 916,950 shares of common stock reserved to be issued upon
+exercise of outstanding options granted under the 2004 Stock Incentive Plan.  
+
+     1994
+Non-employee director stock option plan   
+
+  In April 1995, the Board of
+Directors and shareholders approved the Director Plan, which was amended by the
+Board of Directors on June 5, 2002 (the  Director Plan ). The Director
+Plan provided that the Board of Directors, at its discretion, was permitted to
+grant options to non-employee directors,   
+
+40     
+
+Notes to the Consolidated Financial Statements (Continued)   
+
+10.       Benefit Plans (Continued) 
+
+   subject
+to terms and conditions as determined by the Board of Directors.  The
+Director Plan terminated on November 9, 2004, and no further options have
+been granted under the Director Plan subsequent to that date. At December 31,
+2005, there were 34,000 shares of common stock reserved to be issued upon
+exercise of outstanding options granted under the Director Plan.  
+
+  A
+summary of option activity under the 2004 Stock Incentive Plan, 2001 Stock
+Incentive Plan, the 1991 Plan and the Director Plan is as follows:  
+
+Related
+information for options outstanding and exercisable as of December 31,
+2005 under these option plans is as follows:  
+
+Employee stock purchase plan   
+
+  The Company s 1995
+Employee Stock Purchase Plan (the  1995 Employee Stock Purchase Plan ) as
+amended on May 30, 2001 and further amended on January 24, 2005,
+provides eligible employees the right to purchase common stock at a price per
+share equal to 85% of the lower of the fair market value of the common stock at
+the beginning or end of each offering period. Participation in the offering is
+limited to 10% of an employee s compensation (not to exceed amounts allowed
+under Section 423 of the Internal Revenue Code), may be terminated at any
+time by the employee and automatically ends on termination of employment with
+the Company. A total of 900,000 shares of common stock have been reserved for   
+
+41     
+
+Notes to the Consolidated Financial Statements (Continued)   
+
+10.       Benefit Plans (Continued) 
+
+  issuance
+under the 1995 Employee Stock Purchase Plan. Pursuant to the terms of the 1995
+Employee Stock Purchase Plan, no options under the 1995 Employee Stock Purchase
+Plan can be issued after January 31, 2005 and, as such, the 1995 Employee
+Stock Purchase Plan is now terminated. In fiscal year 2005, 35,394 shares of
+common stock were issued at the grant date fair value of $0.85 per share under
+the 1995 Employee Stock Purchase Plan. No shares were issued under the 1995
+Employee Stock Purchase Plan during fiscal year 2004, 2003, and 2002.  
+
+     Savings plan   
+
+  The Company sponsors a
+savings plan for its employees, which has been qualified under Section 401(k) of
+the Internal Revenue Code. Eligible employees are permitted to contribute to the
+401(k) plan through payroll deductions within statutory and plan limits. Contributions
+from the Company are made at the discretion of the Board of Directors and
+approximated $22,000, $18,000, and $30,000 in 2005, 2004, and 2003, respectively.  
+
+     11.       Quarterly
+financial information (unaudited) 
+
+12.   Subsequent
+events   
+
+  On February 7, 2006, Ezenia entered into an
+agreement amending its operating lease for its sales and service facility
+located in Colorado Springs, Colorado. Under the agreement, an additional 2,010
+square feet of space was added to the premises and the term of the lease was
+extended an additional five years.  
+
+  On February 17, 2006,
+Ezenia received a favorable ruling on its Motion for Summary Judgment on two
+claims brought against Datacraft Mexico, S.A. ( Datacraft ) for breach of
+contract. The claims stem from a balance due of approximately $276 thousand for
+the delivery of goods to Datacraft in 2002 and 2003. The Company expects, as a
+result of this ruling, to have these claims settled in 2006.  
+
+42  
+
+ITEM
+9A.            CONTROLS AND PROCEDURES 
+
+  As required by Rule 13a-15 under the
+Securities Exchange Act of 1934, as of December 31, 2005, the Company s
+management, under the supervision and with the participation of the person
+currently acting as both the chief executive officer and the chief financial
+officer, carried out an evaluation of the effectiveness of the Company s
+disclosure controls and procedures. Based on this evaluation, the Company s
+chief executive officer and chief financial officer concluded that the
+Company s disclosure controls and procedures were effective at the reasonable
+assurance level to ensure that the information required to be disclosed on the
+reports filed or submitted by the Company under the Securities Exchange Act of
+1934 was recorded, processed, summarized, and reported within the requisite
+time periods, including ensuring that such material information is accumulated
+and communicated to the Company s management to allow timely decisions
+regarding required disclosure. There were no changes in the Company s internal
+control over financial reporting that occurred during the quarter ended
+December 31, 2005 that materially affected, or are reasonably likely to
+materially affect, the Company s internal control over financial reporting.  
+
+  The Company s disclosure controls and procedures are
+designed to provide reasonable assurance of achieving their objectives. Because
+of the inherent limitations in all control systems, no evaluation of controls
+can provide absolute assurance that all control issues and instances of fraud,
+if any, within the Company have been detected. These inherent limitations
+include the realities that judgments in decision-making can be faulty, and that
+breakdowns can occur because of simple error or mistake. Additionally, controls
+can be circumvented by the individual acts of some persons, by collusion of two
+or more people, or by management override of the control. The design of any
+system of controls also is based in part upon certain assumptions about the
+likelihood of future events, and there can be no assurance that any design will
+succeed in achieving it stated goals under all potential future conditions.
+Over time, control may become inadequate because of changes in conditions, or
+the degree of compliance with the policies or procedures may deteriorate.
+Because of the inherent limitations in a cost-effective control system,
+misstatements due to error or fraud may occur and not be detected.  
+
+     PART III   
+
+     ITEM 10.             DIRECTORS
+AND EXECUTIVE OFFICERS OF THE REGISTRANT 
+
+  Information with respect to Directors and compliance
+with Section 16(a) of the Securities Exchange Act may be found in the
+sections captioned,  Proposal No. 1 Election of Directors  and  Section 16(a) Beneficial
+Ownership Reporting Compliance  appearing in the definitive Proxy Statement to
+be delivered to shareholders in connection with the Annual Meeting of
+Shareholders to be held on May 24, 2006. Such information is incorporated
+herein by reference.  
+
+  The Company has adopted,
+ratified and approved a Code of Business Conduct and Ethics (the  Code ) that
+applies to all of the Company s employees, including its executive officer, and
+directors. The Company shall also provide to any person without charge, upon
+request, a copy of the Code. Any such request must be made in writing to the
+Company, c/o Investor Relations, 14 Celina Ave, Suite 17-18, Nashua,
+New Hampshire 03063.  
+
+     ITEM 11.             EXECUTIVE
+COMPENSATION 
+
+  The information required
+with respect to this item may be found in the sections captioned  Executive
+Compensation and Other Information Concerning Directors and Executive Officers 
+appearing in the definitive Proxy Statement to be delivered to shareholders in
+connection with the Annual Meeting of Shareholders to be held on May 24,
+2006. Such information is incorporated herein by reference.  
+
+43     
+
+ITEM
+12.             SECURITY OWNERSHIP OF
+CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER MATTERS 
+
+  The information found in
+the section captioned,  Security Ownership of Certain Beneficial Owners and
+Management  appearing in the definitive Proxy Statement to be delivered to
+shareholders in connection with the Annual Meeting of Shareholders to be held
+on May 24, 2006 is incorporated herein by reference.  
+
+     Equity
+Compensation Plan Information   
+
+  The following table sets forth information as of December 31,
+2005 about the Company s equity compensation plans under which shares of its
+common stock are authorized for issuance.  
+
+(1)             Includes
+655,252 shares of common stock to be issued upon exercise of outstanding
+options under the Amended and Restated 1991 Stock Incentive Plan, 34,000 shares
+of common stock to be issued upon exercise of outstanding options under the
+1994 Non-Employee Director Option Plan, and 916,950 shares of common stock to
+be issued upon exercise of outstanding options under the 2004 Stock Incentive
+Plan. 
+
+  (2)             Includes
+6,583,050 shares of common stock remaining available for future issuance under
+the 2004 Stock Incentive Plan. The Amended and Restated 1991 Stock Incentive
+Plan terminated on March 31, 2001, the 1994 Non Employee Director Option
+Plan terminated on November 9, 2004, and the 1995 Employee Stock Purchase
+Plan terminated on January 31, 2005, and no additional options may be
+granted under these plans. 
+
+  (3)             Represents
+shares of common stock to be issued upon exercise of outstanding options under
+the 2001 Stock Incentive Plan. The 2001 Stock Incentive Plan terminated on December 31,
+2004, and no additional options may be granted under this plan. 
+
+  A description of the Stock
+Incentive Plans is included in Note 10 to the Company s Consolidated Financial
+Statements set forth herein.  
+
+     ITEM
+13.             CERTAIN RELATIONSHIPS AND
+RELATED TRANSACTIONS 
+
+  The information required
+with respect to this item may be found in the section captioned,  Certain
+Transactions  appearing in the definitive Proxy Statement to be delivered to
+shareholders in connection with the Annual Meeting of Shareholders to be held
+on May 24, 2006. Such information is incorporated herein by reference.  
+
+     ITEM
+14.             PRINCIPAL ACCOUNTANT FEES
+AND SERVICES 
+
+  The information required
+with respect to this item may be found in the section captioned,  Principal
+Accountant Fees and Services  appearing in the definitive Proxy Statement to be
+delivered to shareholders in connection with the Annual Meeting of Shareholders
+to be held on May 24, 2006. Such information is incorporated herein by
+reference.  
+
+44  
+
+PART IV   
+
+     ITEM 15.             EXHIBITS,
+AND FINANCIAL STATEMENT SCHEDULES, AND REPORTS ON FORM 8-K 
+
+   (a)              Documents
+Filed as Part of Form 10-K  
+
+   1.                      Consolidated
+Financial Statements.  
+
+  The following
+consolidated financial statements and supplementary data are included in Part II-Item 8
+filed as part of this report:  
+
+             Report
+of Independent Registered Public Accounting Firm 
+
+             Consolidated
+Balance Sheets as of December 31, 2005 and 2004 
+
+             Consolidated
+Statements of Operations for the years ended December 31, 2005, 2004 and
+2003 
+
+             Consolidated
+Statements of Stockholders  Equity for the years ended December 31, 2005,
+2004 and 2003 
+
+             Consolidated
+Statements of Cash Flows for the years ended December 31, 2005, 2004 and
+2003 
+
+             Notes
+to Consolidated Financial Statements 
+
+             Quarterly Financial
+Information (unaudited) 
+
+   2.                      Financial
+Statement Schedule.  
+
+             Schedule
+II Valuation and Qualifying Accounts 
+
+  Schedules not
+listed above have been omitted because they are not applicable, not required or
+the information required is shown in the consolidated financial statements or
+the notes thereto.  
+
+   3.                      List
+of Exhibits.  
+
+45     
+
+Copies of any of
+these exhibits are available without charge upon written request to Investor
+Relations, Ezenia! Inc., 14 Celina Avenue, Suite 17-18, Nashua, NH
+03063.  
+
+  +                   Management
+contract for compensatory plan or arrangement required to be filed as an
+exhibit to this report pursuant to Item 15(c) of this report. 
+
+  (1)             Incorporated by
+reference from the Company s Registration Statement on Form S-1. 
+
+  (2)             Incorporated by
+reference from the Company s Form 10-K filed with the Securities and
+Exchange Commission for the year ended December 31, 1995. 
+
+  (3)             Incorporated by
+reference from the Company s Form 10-K filed with the Securities and
+Exchange Commission for the year ended December 31, 1998. 
+
+  (4)             Incorporated by
+reference from the Company s Form 10-K filed with the Securities and
+Exchange Commission for the year ended December 31, 2000. 
+
+  (5)             Incorporated by
+reference from the Company s Form 10-Q for the quarter ended September 30,
+2001. 
+
+  (6)             Incorporated by
+reference from the Company s Registration Statement on Form S-8
+filed with the Securities and Exchange Commission on December 21, 2001. 
+
+  (7)             Incorporated by
+reference from the Company s Form 10-Q for the quarter ended September 30,
+2002. 
+
+  (8)             Incorporated by
+reference from the Company s Form 10-K filed with the Securities and
+Exchange Commission for the year ended December 31, 2002. 
+
+  (9)             Incorporated by
+reference from the Company s Form 10-K/A filed with the Securities
+and Exchange Commission for the year ended December 31, 2004. 
+
+  (10)      Incorporated
+by reference from the Company s Form 10-Q for the quarter ended March 31,
+2005. 
+
+46  
+
+SIGNATURES   
+
+  Pursuant to the requirements of Section 13 or 15(d) of
+the Securities Exchange Act of 1934, the Registrant has duly caused this report
+to be signed on its behalf by the undersigned, thereunto duly authorized.  
+
+EZENIA! INC.  
+
+/s/
+  KHOA D. NGUYEN  
+
+Khoa D. Nguyen  
+
+Chairman,
+  Chief Executive Officer, President and   
+
+Chief
+  Financial Officer   
+
+(Principal
+  Financial and Accounting Officer,   
+
+Authorized
+  Officer)   
+
+Date: March 31, 2006   
+
+Pursuant to the
+requirements of the Securities Exchange Act of 1934, this report has been
+signed below by the following persons on behalf of the Registrant and in the
+capacities and on the dates indicated.  
+
+Signature   
+
+Title   
+
+Date   
+
+/s/ KHOA D.
+  NGUYEN  
+
+Chairman, Chief
+  Executive Officer,  
+
+March 31,
+  2006  
+
+Khoa
+  D. Nguyen  
+
+President and Chief Financial Officer (Principal
+  Financial and Accounting Officer, Authorized Officer)  
+
+/s/ RONALD L.
+  BRELAND  
+
+Director  
+
+March 31,
+  2006  
+
+Ronald
+  L. Breland  
+
+/ s/ GERALD P. CARMEN  
+
+Director  
+
+March 31,
+  2006  
+
+Gerald
+  P. Carmen  
+
+/s/ THOMAS G.
+  MCINERNEY  
+
+Director  
+
+March 31,
+  2006  
+
+Thomas
+  G. McInerney  
+
+/  s/ JOHN A. MCMULLEN 
+
+Director  
+
+March 31,
+  2006  
+
+John
+  A. McMullen  
+
+/  s/ JOHN F. STEWART 
+
+Director  
+
+March 31,
+  2006  
+
+John F. Stewart  
+
+47  
+
+EZENIA! INC.   
+
+   SCHEDULE
+II VALUATION AND QUALIFYING ACCOUNTS   
+
+48  
+
+Exhibit Index   
+
++                   Management
+contract for compensatory plan or arrangement required to be filed as an
+exhibit to this report pursuant to Item 15(c) of this report. 
+
+  (1)             Incorporated
+by reference from the Company s Registration Statement on Form S-1. 
+
+49     
+
+(2)             Incorporated
+by reference from the Company s Form 10-K filed with the Securities
+and Exchange Commission for the year ended December 31, 1995. 
+
+  (3)             Incorporated
+by reference from the Company s Form 10-K filed with the Securities
+and Exchange Commission for the year ended December 31, 1998. 
+
+  (4)             Incorporated
+by reference from the Company s Form 10-K filed with the Securities
+and Exchange Commission for the year ended December 31, 2000. 
+
+  (5)             Incorporated
+by reference from the Company s Form 10-Q for the quarter ended September 30,
+2001. 
+
+  (6)             Incorporated
+by reference from the Company s Registration Statement on Form S-8
+filed with the Securities and Exchange Commission on December 21, 2001. 
+
+  (7)             Incorporated
+by reference from the Company s Form 10-Q for the quarter ended September 30,
+2002. 
+
+  (8)             Incorporated
+by reference from the Company s Form 10-K filed with the Securities
+and Exchange Commission for the year ended December 31, 2002. 
+
+  (9)             Incorporated
+by reference from the Company s Form 10-K/A filed with the
+Securities and Exchange Commission for the year ended December 31, 2004. 
+
+  (10)      Incorporated
+by reference from the Company s Form 10-Q for the quarter ended
+March 31, 2005. 
+
+50  
+
+<EX-21.1>
+ 2
+ a06-2248_1ex21d1.htm
+ SUBSIDIARIES OF THE REGISTRANT
+
+Exhibit 21.1   
+
+  The following is a list of the Company s current
+subsidiary, which is wholly owned:  
+
+Subsidiary Name 
+
+Organized Under The Laws Of  
+
+Ezenia International, Inc.  
+
+Massachusetts  
+
+The
+following are subsidiaries of Ezenia International, Inc. all of which are
+wholly-owned:  
+
+Subsidiary Name 
+
+Organized Under The Laws Of  
+
+Ezenia Latin America, Inc.  
+
+Massachusetts  
+
+</EX-21.1>
+
+<EX-23.2>
+ 3
+ a06-2248_1ex23d2.htm
+ CONSENTS OF EXPERTS AND COUNSEL
+
+Exhibit 23.2   
+
+   Consent of
+Independent Registered Public Accounting Firm   
+
+  We consent to the
+incorporation by reference in the following Registration Statements; (Form S-8
+No. 33-96192), (Form S-3 No. 333-28209), (Form S-8
+No. 333-85245), (Form S-8 333-44984), (Form S-3
+No. 333-66628), (Form S-8 No. 333-75824), and
+(Form S-8 No. 333-125415), of our report dated March 28,
+2006, which includes an explanatory paragraph for the effects of a restatement
+for prior years income tax disclosures, with respect to the consolidated
+financial statements and schedule of Ezenia! Inc. appearing in this Annual
+Report on Form 10-K of Ezenia! Inc. for the year ended December 31,
+2005.  
+
+</EX-23.2>
+
+<EX-31.1>
+ 4
+ a06-2248_1ex31d1.htm
+ 302 CERTIFICATION
+
+Exhibit 31.1   
+
+   CERTIFICATIONS   
+
+  I, Khoa D. Nguyen,
+the President, Chief Executive Officer and Chief Financial Officer of Ezenia!
+Inc. (the  Company ), certify that:  
+
+  1.                    I have reviewed
+this annual report on Form 10-K of the Company; 
+
+  2.                    Based on my
+knowledge, this annual report does not contain any untrue statement of a
+material fact or omit to state a material fact necessary to make the statements
+made, in light of the circumstances under which such statements were made, not
+misleading with respect to the period covered by this annual report; 
+
+  3.                    Based on my
+knowledge, the financial statements, and other financial information included
+in this annual report, fairly present in all material respects the financial
+condition, results of operations and cash flows of the Company as of, and for,
+the periods presented in this annual report; 
+
+  4.                    As the sole
+certifying officer I am responsible for establishing and maintaining disclosure
+controls and procedures (as defined in Exchange Act Rules 13a-15(e) and
+15d-15(e)) of the Company and we have: 
+
+  a.                    Designed such
+disclosure controls and procedures, or caused such disclosure controls and
+procedures to be designed under my supervision, to ensure that material
+information relating to the Company, including its consolidated subsidiaries,
+is made known to me by others within those entities, particularly during the
+period in which this annual report is being prepared; 
+
+  b.                   Evaluated the
+effectiveness of the Company s disclosure controls and procedures and presented
+in this report our conclusions about the effectiveness of the disclosure
+controls and procedures, as of the end of the period covered by this report
+based on such evaluation; and 
+
+  c.                    Disclosed in this
+report any change in the Company s internal control over financial reporting that
+occurred during the Company s fourth fiscal quarter that has materially
+affected, or is reasonably likely to materially affect, the Company s internal
+control over financial reporting; and 
+
+  5.                    As the sole
+certifying officer I have disclosed, based on my most recent evaluation of
+internal control over financial reporting, to the Company s auditors and the
+audit committee of Company s board of directors (or persons performing the
+equivalent functions): 
+
+  a.                    All significant
+deficiencies and material weaknesses in the design or operation of internal
+control over financial reporting which are reasonably likely to adversely
+affect the Company s ability to record, process, summarize and report financial
+information; and 
+
+  b.                   Any
+fraud, whether or not material, that involves management or other employees who
+have a significant role in the Company s internal control over financial
+reporting. 
+
+Date:
+  March 31, 2006   
+
+By:  
+
+/s/ KHOA D.
+  NGUYEN  
+
+Khoa D. Nguyen  
+
+Chief
+  Executive Officer   
+
+Chief
+  Financial Officer   
+
+</EX-31.1>
+
+<EX-32.1>
+ 5
+ a06-2248_1ex32d1.htm
+ 906 CERTIFICATION
+
+Exhibit 32.1   
+
+   CHIEF EXECUTIVE
+OFFICER AND CHIEF FINANCIAL OFFICER CERTIFICATION PURSUANT TO 
+18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO 
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002   
+
+  This certification set forth below is hereby made
+solely for the purpose of satisfying the requirements of Section 906 of
+the Sarbanes-Oxley Act of 2002 and may not be relied upon or used for any other
+purposes.  
+
+  In connection with the Annual Report of Ezenia! Inc.
+(the  Company ) on Form 10-K for the year ended December 31, 2005,
+as filed with the Securities and Exchange Commission on the date hereof (the  Report ),
+I, Khoa D. Nguyen, Chief Executive Officer and Chief Financial Officer of the
+Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant
+to Section 906 of the Sarbanes-Oxley Act of 2002, that to my knowledge: (1) the
+Report fully complies with the requirements of Section 13(a) or 15(d) of
+the Securities Exchange Act of 1934; and (2) the information contained in
+the Report fairly presents, in all material respects, the financial condition
+and results of operations of the Company.  
+
+  A
+signed original of this written statement required by Section 906 or other
+document authenticating, acknowledging or otherwise adopting the signature that
+appears in typed form within the electronic version of this written statement
+required by Section 906 has been provided to the Company and will be
+retained by the Company and furnished to the Securities and Exchange Commission
+or its staff upon request.  
+
+Date: March 31, 2006 
+
+By:  
+
+/s/ Khoa D. Nguyen  
+
+Khoa D. Nguyen  
+
+Chief Executive Officer   
+
+Chief Financial Officer   
+
+</EX-32.1>
+

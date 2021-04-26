@@ -1,0 +1,2953 @@
+<Header>
+<FileStats>
+    <FileName>20060331_10-K_edgar_data_922408_0000922408-06-000002_1.txt</FileName>
+    <GrossFileSize>192173</GrossFileSize>
+    <NetFileSize>154034</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>780</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>15</N_Tables>
+    <N_Exhibits>5</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000922408-06-000002.hdr.sgml : 20060331
+<ACCEPTANCE-DATETIME>20060331160300
+ACCESSION NUMBER:		0000922408-06-000002
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		6
+CONFORMED PERIOD OF REPORT:	20051231
+FILED AS OF DATE:		20060331
+DATE AS OF CHANGE:		20060331
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FIVE STAR PRODUCTS INC
+		CENTRAL INDEX KEY:			0000922408
+		STANDARD INDUSTRIAL CLASSIFICATION:	WHOLESALE-HARDWARE & PLUMBING & HEATING EQUIPMENT & SUPPLIES [5070]
+		IRS NUMBER:				133729186
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-25869
+		FILM NUMBER:		06728956
+
+	BUSINESS ADDRESS:	
+		STREET 1:		777 WESTCHESTER AVENUE
+		STREET 2:		FOURTH FLOOR
+		CITY:			WHITE PLAINS
+		STATE:			NY
+		ZIP:			10604
+		BUSINESS PHONE:		(914) 249-9700
+
+	MAIL ADDRESS:	
+		STREET 1:		777 WESTCHESTER AVENUE
+		STREET 2:		FOURTH FLOOR
+		CITY:			WHITE PLAINS
+		STATE:			NY
+		ZIP:			10604
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ PR567cmgXqofj8EJbDkGmb1Y8EjjY0jd5Kejvoy6NDtnVea1nnK+H7vBedyQfjX7
+ D27Cs4sktyxiL1m9D1KY3Q==
+
+ 0000922408-06-000002.txt : 20060331
+
+10-K
+ 1
+ fsp10k05.txt
+ FIVE STAR PRODUCTS FORM 10-K FOR THE YEAR ENDED DECEMBER 31, 2005
+ 
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 10-K
+
+[X] Annual Report Pursuant to Section 13 or 15(d) of The Securities Exchange Act
+of 1934
+
+For the fiscal year ended     December 31, 2005
+
+                                       or
+
+[ ] Transition Report Pursuant to Section 13 or 15(d) of The Securities Exchange
+    Act of 1934
+
+For the transition period from             to
+
+                        Commission File Number 333-78252
+
+                            FIVE STAR PRODUCTS, INC.
+- -------------------------------------------------------------------------------
+             (Exact name of Registrant as specified in its charter)
+
+       Delaware                                         13-3729186
+(State of Incorporation)                    (I.R.S. Employer Identification No.)
+
+777 Westchester Avenue                                    10604
+(Address of principal executive offices)                (Zip Code)
+
+                                 (914) 249-9700
+                         Registrant's telephone number,
+including area code:
+
+Securities registered pursuant to Section 12(b) of the Act:      None
+
+Securities registered pursuant to Section 12(g) of the Act:
+                                                   Common Stock, $.01 Par Value
+                                                   ----------------------------
+                                                          (Title of Class)
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as
+defined in Rule 405 of the Securities Act.  Yes   ___ No __X__
+
+Indicate by check mark if the registrant is not required to file reports
+pursuant to Section 13 or 15(d) of the Act.  Yes ____ No __X__
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the Registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days. Yes _X__ No____ -
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. X
+
+Indicate by check mark whether the registrant is a large accelerated filer, an
+accelerated filer, or a non-accelerated filer. See definition of "accelerated
+filer and large accelerated filer" in Rule 12b-2 of the Exchange Act. (Check
+one):
+
+Large accelerated filer ____   Accelerated filer__     Non-accelerated filer_X__
+
+Indicate by check mark whether the registrant is a shell company (as defined in
+Rule 12(b)-2 of the Exchange Act). Yes __ __ No __X__ --- -
+
+The aggregate market value of the outstanding shares of the Registrant's Common
+Stock, par value $.01 per share held by non-affiliates as of June 30, 2005 was
+approximately $2,122,226 based on the closing price of the Common Stock on the
+OTC Bulletin Board, which is operated by NASDAQ Stock Market.
+
+The number of shares outstanding of the registrant's Common Stock as of March
+15, 2006:
+
+Class                                                    Outstanding
+
+Common Stock, par value $.01 per share                       14,396,077 shares
+
+DOCUMENTS INCORPORATED BY REFERENCE         None
+
+TABLE OF CONTENTS
+PART I                                                                                         Page
+                                                                                             
+         Item 1. Business....................................................................... 1
+
+         Item 1A. Risk Factors..................................................................6
+
+         Item 1B. Unresolved Staff Comments.....................................................7
+
+         Item 2. Properties.....................................................................7
+
+         Item 3. Legal Proceedings..............................................................8
+
+         Item 4. Submission of Matters to a Vote of Security Holders............................8
+
+PART II
+         Item 5. Market for the Registrant's Common
+         Equity and Related Stockholder Matters.................................................8
+
+         Item 6. Selected Financial Data.......................................................10
+
+         Item 7.  Management's Discussion and Analysis of
+         Financial Condition and Results of Operations.........................................11
+
+         Item 7A. Quantitative and Qualitative Disclosures About Market Risk...................17
+
+         Item 8. Financial Statements and Supplementary Data...................................20
+
+         Item 9.  Changes in and Disagreements with
+         Accountants on Accounting and Financial Disclosure....................................37
+
+         Item 9A. Controls and Procedures......................................................37
+
+PART III
+         Item 10. Directors and Executive Officers of the Registrant...........................38
+
+         Item 11. Executive Compensation.......................................................40
+
+         Item 12. Security Ownership of Certain Beneficial
+         Owners and Management. and Related Stockholder Matters................................45
+
+         Item 13. Certain Relationships and Related Transactions...............................46
+
+         Item 14. Principal Accounting Fees and Services.......................................49
+
+PART IV
+         Item 15. Exhibits, Financial Statement Schedules......................................50
+
+         Signatures        ....................................................................51
+
+Cautionary Statement Regarding Forward-Looking Statements
+
+This report contains forward-looking statements within the meaning of Section
+27A of the Securities Act of 1933, as amended, and Section 21E of the Securities
+Exchange Act of 1934, as amended. The Private Securities Litigation Reform Act
+of 1995 provides a "safe harbor" for forward looking statements. Forward-looking
+statements are not statements of historical facts, but rather reflect our
+current expectations concerning future events and results. We use words such as
+"expects", "intends", "believes", "may", "will" and "anticipates" to indicate
+forward-looking statements. Because these forward-looking statements involve
+risks and uncertainties, there are important factors that could cause actual
+results to differ materially from those expressed or implied by these
+forward-looking statements, including, but not limited to, those factors set
+forth under Item 1A - Risk Factors and those other risks and uncertainties
+detailed in the Company's periodic reports and registration statements filed
+with the Securities and Exchange Commission. We caution that these risk factors
+may not be exhaustive. We operate in a continually changing business
+environment, and new risk factors emerge from time to time. We cannot predict
+these new risk factors, nor can we assess the effect, if any, of the new risk
+factors on our business or the extent to which any factor or combination of
+factors may cause actual results to differ from those expressed or implied by
+these forward-looking statements.
+
+If any one or more of these expectations and assumptions proves incorrect,
+actual results will likely differ materially from those contemplated by the
+forward-looking statements. Even if all of the foregoing assumptions and
+expectations prove correct, actual results may still differ materially from
+those expressed in the forward-looking statements as a result of factors we may
+not anticipate or that may be beyond our control. While we cannot assess the
+future impact that any of these differences could have on our business,
+financial condition, results of operations and cash flows or the market price of
+shares of our common stock, the differences could be significant. We do not
+undertake to update any forward-looking statements made by us, whether as a
+result of new information, future events or otherwise. You are cautioned not to
+unduly rely on such forward-looking statements when evaluating the information
+presented in this report.
+
+                                     PART I
+
+Item 1:  Business
+
+General Development of Business
+
+         Five Star Products Inc. (the "Company" or "Five Star") is engaged in
+the wholesale distribution of home decorating, hardware and finishing products.
+It serves over 3,500 independent retail dealers in twelve states, making Five
+Star one of the largest distributors of its kind in the Northeast. Five Star
+operates two state -of -the -art warehouse facilities, located in Newington, CT
+and East Hanover, NJ. All operations are coordinated from Five Star's New Jersey
+headquarters. At December 31, 2005 Five Star is a majority owned subsidiary of
+National Patent Development Corporation ("NPDC").
+
+         The Company, which was then 37.5% owned by GP Strategies Corporation
+("GPS"), purchased its business from GPS in 1998 in exchange for cash and a
+$5,000,000 unsecured 8% note payable ("the Note"). In 2002 and 2003, GPS
+
+1
+
+converted $1,000,000 principal amount of the Note into 4,272,727 shares of the
+Company's common stock. In 2004, the Company, through a tender offer,
+repurchased approximately 2,628,000 shares of its common stock. The conversion
+of the Note and the tender offer increased GPS' ownership in the Company to
+approximately 64%. On July 30, 2004, GPS contributed its ownership interest in
+Five Star and the Note to National Patent Development Corporation ("NPDC"). On
+November 24, 2004, GPS completed the spin-off to its shareholders of the common
+stock of NPDC (the "Spin-Off"). . The Note, as amended, bore interest at 8%,
+payable quarterly, and matured on June 30, 2005. On June 30, 2005 the Company
+and NPDC agreed to extend the Note for a one-year term maturing on June 30,
+2006. In consideration for NPDC extending the Note, the Company paid NPDC a fee
+of one percent of the Note's outstanding balance or $28,000. In addition, the
+interest rate on the Note has been increased to 9%.
+
+         NPDC provided legal, tax, business development, insurance and employee
+benefit administration services to the Company pursuant to a management services
+agreement for a fee of up to $10,000 per month. The agreement is automatically
+renewable for successive one-year terms unless one of the parties notifies the
+other in writing at least six months prior to the end of any renewal thereof.
+The management fee increased to $25,000 per month effective October 1, 2004. In
+addition the Company agreed to reimburse NPDC for $16,666 per month for Mr.
+Feldman's (NPDC's Chief Executive Officer) for service to the Company effective
+October 1, 2004. The agreement was renewed for 2006. On January 1, 2006 the
+management fee was reduced from $25,000 to $14,167. As a result of the spin-off
+of NPDC, GPS transferred to NPDC the rights and obligations under this
+Agreement.
+
+         In the first quarter of 2000, the Company expanded its sales territory
+with the addition of an established, dedicated sales force servicing the
+Mid-Atlantic States, and as far south as North Carolina. This addition to the
+sales force generates revenues of approximately $9 million annually. The Company
+services this new territory from its 236,000 square foot East Hanover, New
+Jersey facility, from which it also services the Northeast, enabling the Company
+to leverage its fixed costs over a broader revenue base.
+
+         The Company offers products from leading manufacturers such as
+Valspar/Cabot Stain, William Zinsser & Company, DAP, General Electric
+Corporation, Newell/Irwin, USG, Stanley Tools, Minwax and 3M Company. The
+Company distributes its products to retail dealers, which include lumber yards,
+"do-it yourself" centers, hardware stores and paint stores principally in the
+northeast region. It carries an extensive inventory of the products it
+distributes and provides delivery, generally within 24 to 72 hours. The Company
+has grown to be one of the largest independent distributors in the Northeast by
+providing a complete line of competitively priced products, timely delivery and
+attractive pricing and financing terms to its customers. Much of the Company's
+success can be attributed to a continued commitment to provide customers with
+the highest quality service at reasonable prices.
+
+         As one of the largest distributors of paint sundry items in the
+Northeast, the Company enjoys cost advantages and favorable supply arrangements
+over the smaller distributors in the industry. This enables the Company to
+compete as a "low cost" provider. The Company uses a fully computerized
+warehouse system to track all facets of its distribution operations. The Company
+has enhanced the sophistication of its warehouse and office facilities to take
+full advantage of economies of scale, speed the flow of orders and to compete as
+
+2
+
+a low cost distributor. Nearly all phases of the selling process from inventory
+management to receivable collection are automated and tracked; all operations
+are overseen by senior management at the New Jersey facility. The Company is
+able to capitalize on manufacturer discounts by strategically timing purchases
+involving large quantities.
+
+         Management takes a proactive approach in coordinating all phases of the
+Company's operations. For example, sales managers require all sales
+representatives to call on customers once every week. Each salesperson transmits
+his or her orders through the Company's automated sales system, to the IBM
+AS/400 computer located at the New Jersey facility. The salesperson system
+combines the ability to scan product codes in the customers' stores and download
+the information to a hand held device computer for final transmission. Based on
+the floor plan of each warehouse and the location of products therein, the
+computer designs a pattern for the orders to be picked. The orders are then
+relayed to the appropriate location and typically picked in the evening. The
+warehouse facilities are well-maintained and skillfully organized. A bar-coded
+part number attached to the racking shelves identifies the location of each of
+the approximately 23,000 stock keeping units (SKUs). The products are loaded
+onto the Company's trucks in the evening in the order that they will be
+unloaded, and are delivered directly to the customers locations the following
+morning.
+
+         Additional information about the Company may be found at
+www.fivestargroup.com
+
+Customers
+
+         Five Star's largest customer accounted for approximately 4.0% of its
+sales in 2005 and its 10 largest customers accounted for approximately 13.7% of
+such sales. All such customers are unaffiliated and Five Star does not have a
+long-term contractual relationship with any of them.
+
+Management Information System
+
+         All of Five Star's inventory control, purchasing, accounts payable and
+accounts receivable are fully automated on an IBM AS/400 computer system. In
+addition, Five Star's software alerts buyers to purchasing needs, and monitors
+payables and receivables. This system allows senior management to control
+closely all phases of Five Star's operations. Five Star also maintains a
+salesperson-order-entry system, which allows the salesperson to scan product
+information and then download the information to a hand held device. The hand
+held device contains all product and customer information and interacts with the
+AS/400.
+
+Purchasing
+
+         Five Star relies heavily upon its purchasing capabilities to gain a
+competitive advantage relative to its competitors. Five Star's capacity to stock
+the necessary products in sufficient volume and its ability to deliver them
+promptly upon demand is one of the strongest components of service in the
+distribution business, and is a major factor in Five Star's success.
+
+         Since retail outlets depend upon their distributor's ability to supply
+products quickly upon demand, inventory is the primary working capital
+
+3
+
+investment for most distribution companies, including Five Star. Through its
+strategic purchasing decisions, Five Star carries large quantities of inventory
+relative to its competitors and thus can boast fill ratios of approximately 95%.
+
+         All purchasing decisions based on current inventory levels, sales
+projections, manufacturer discounts and recommendations from sales
+representatives, are made by the merchandising group, located in New Jersey, in
+order to effectively coordinate Five Star's activities. In addition to senior
+management's active involvement, regional sales managers play an extremely
+critical role in this day-to-day process.
+
+         Five Star has developed strong, long-term relationships with the
+leading suppliers since its predecessor company, J. Leven, was founded in 1912.
+As a major distributor of paint sundry items, suppliers rely on Five Star to
+introduce new products to market. Furthermore, suppliers have grown to trust
+Five Star's ability to penetrate the market. As a result, Five Star is often
+called on first by manufacturers to introduce new products into the marketplace.
+For example, Minwax, Bestt Liebco and Cabot Stain have utilized Five Star to
+introduce and distribute some of their new product innovations.
+
+Marketing
+
+         The do-it-yourself industry relies on distributors to link
+manufacturer's products to the various retail networks. The do-it-yourself
+market operates on this two-step distribution process, i.e., manufacturers deal
+through distributors who in turn service retailers. This occurs principally
+because most retailers are not equipped to carry sufficient inventory in order
+to be cost effective in their purchases from manufacturers. Thus, distributors
+add significant value by effectively coordinating and transporting products to
+retail outlets on a timely basis. Five Star distributes and markets products
+from hundreds of manufacturers to all of the various types of retailers from
+regional paint stores, to lumber yards, to independent paint and hardware
+stores.
+
+         The marketing efforts are directed by regional sales managers. These
+individuals are responsible for designing, implementing and coordinating
+marketing policies. They work closely with senior management to coordinate
+company-wide marketing plans as well as to service Five Star's major multi-state
+customers. In addition, each regional sales manager is responsible for
+overseeing the efforts of his sales representatives.
+
+         The sales representatives, by virtue of frequent contact with Five
+Star's customers, are the most integral part of Five Star's marketing strategy.
+It is their responsibility to generate revenue, ensure customer satisfaction and
+expand the customer base. Each representative covers an assigned geographic
+area. The representatives are compensated based solely on commission. Five Star
+has experienced low turnover in its sales force; most representatives have a
+minimum of five years' experience with Five Star. Many sales representatives had
+retail experience in the paint or hardware industry when they were hired by Five
+Star.
+
+         Five Star's size, solid reputation for service, large inventory and
+attractive financing terms provide sales representatives with tremendous
+advantages relative to competing sales representatives from other distributors.
+In addition, the representatives' efforts are strengthened by company-sponsored
+
+4
+
+marketing events. For example, each year in the first quarter, Five Star invites
+all of its customers to special trade shows for Five Star's major suppliers, so
+that suppliers may display their products and innovations. Five Star also
+participates in advertising circular programs in the spring and the fall which
+contain discount specials and information concerning new product innovations.
+
+         Five Star has a history of enhancing its growth through complementary
+acquisitions which have allowed it to preempt much of its competition as a
+high-quality, competitively priced distributor.
+
+Industry Dynamics
+
+The Do-It-Yourself Industry
+
+         The paint sundry items distribution industry is closely related to the
+do-it-yourself retail market, which has tended to exhibit elements of
+counter-cyclicality. In times of recession, consumers tend to spend more on home
+improvements if they cannot afford to trade up to bigger homes. In times of
+economic strength, consumers tend to spend heavily in home improvements because
+they believe they can afford to complete their home improvement projects.
+According to the National Retail Hardware Association, total retail sales by
+home improvement retailers are estimated to be $270 billion in 2005 and are
+projected to grow at a 5.75% compound rate through 2009.
+
+         Painting is the quintessential do-it-yourself project. Painting has to
+be done more frequently than most remodeling jobs, and it is a relatively
+inexpensive way to update the appearance of a home. For these reasons, the paint
+and paint sundry items industry tends to be counter-cyclical and a solid growth
+segment of the do-it-yourself market.
+
+Competition
+
+         Competition within the industry is intense. There are large national
+distributors commonly associated with national franchises such as Ace and
+TruServ as well as smaller regional distributors, all of whom offer similar
+products and services. Five Star's customers face stiff competition from Home
+Depot and Lowe's, which purchase directly from manufacturers and dealer-owned
+distributors such as Ace and TruServ. Moreover, in some instances manufacturers
+will bypass the distributor and choose to sell and ship their products directly
+to the retail outlet. The principal means of competition for Five Star are its
+strategically placed distribution centers and its extensive inventory of
+quality, name-brand products. Five Star will continue to focus its efforts on
+supplying its products to its customers at a competitive price and on a timely,
+consistent basis. In the future, Five Star will attempt to acquire complementary
+distributors and to expand the distribution of its line of private-label
+products sold under the "Five Star" name. Through internal growth and
+acquisitions, Five Star has already captured a leading share in its principal
+market, the Northeast. This growth-oriented acquisition strategy of acquiring
+complementary distributors has allowed Five Star to compete against a
+substantial number of its competitors. While other paint sundry items
+distributors sell to the same retail networks as Five Star, they are at a
+distinct disadvantage due to Five Star's experience, sophistication and size.
+
+5
+
+Hardware stores that are affiliated with the large, dealer-owned
+distributors such as Ace also utilize Five Star's services because they are
+uncomfortable with relying solely on their dealer network. Most cooperative-type
+distributors lack the level of service and favorable credit terms that
+independent hardware stores enjoy with Five Star. Five Star effectively competes
+with the dealer-owned distributors because it provides more frequent sales
+calls, faster deliveries, better financing terms and a full line of vendors and
+products to choose from.
+
+Employees
+
+         The Company employs approximately 245 people. Management-employee
+relations are considered good at both of Five Star's warehouse facilities. The
+Teamsters union represents approximately 94 union employees at the New Jersey
+warehouse facility. The Connecticut warehouse facility is completely
+non-unionized. Five Star has never experienced a labor strike at its facilities.
+Five Star's contract with Local No. 11, affiliated with the International
+Brotherhood of Teamsters expires on December 20, 2008.
+
+Item 1A  Risk Factors
+
+         Set forth below and elsewhere in this report and in other documents the
+Company files with the Securities and Exchange Commission are risks and
+uncertainties that could cause the Company's actual results to differ materially
+from the results contemplated by the forward-looking statements contained in
+this report and other public statements made by the Company.
+
+Expiration of Leases for Warehouse Facilities
+
+         The Company's leases for its Connecticut and New Jersey facilities
+expire in the first quarter of 2007. At this time the Company is exploring its
+options, but has not yet renewed the current facility leases, nor entered into
+leases for new facilities. Our inability to enter into leases under favorable
+terms could have a material adverse impact on our business.
+
+The loss of our key personnel, including our executive management team, could
+harm our business.
+
+         Our success is largely dependent upon the experience and continued
+services of our executive management team and our other key personnel. The loss
+of one or more of our key personnel and a failure to attract or promote suitable
+replacements for them may adversely affect our business.
+
+Competition Could Adversely Affect our Performance
+
+         Competition within the do-it-yourself industry is intense. There are
+large national distributors commonly associated with national franchises such as
+Ace and TruServ as well as smaller regional distributors, all of whom offer
+products and services similar to those offered by Five Star. Moreover, in some
+instances, manufacturers will bypass distributors and choose to sell and ship
+their products directly to retail outlets. In addition, Five Star's customers
+face stiff competition from Home Depot, and Lowe's, which purchases directly
+from manufacturers, and national franchises such as Ace and TruServ. Five Star
+
+6
+
+competes principally through its strategically placed distribution centers and
+its extensive inventory of quality, name-brand products. Five Star will continue
+to focus its efforts on supplying its products to its customers at a competitive
+price and on a timely, consistent basis.
+
+Changing economic conditions in the United States could harm our business.
+
+         Our revenues and profitability are related to general levels of
+economic activity and employment in the United States. As a result, any
+significant economic downturn or recession could harm our business or financial
+condition.
+
+Control by NPDC
+
+         The Company is controlled by the Company's principal stockholder, NPDC,
+whose interest may not be aligned with those of the Company's other
+stockholders. As of March 15, 2006 NPDC owned approximately 64% of the Company's
+outstanding common stock. Accordingly, NPDC will be able to influence our
+management and affairs and all matters requiring stockholder approval, including
+the election of directors and approval of significant corporate transactions.
+This concentration of ownership may have the effect of delaying, discouraging or
+preventing a change in control and might affect the market price of the
+Company's common stock. See Notes 3 and 6 to Notes to Consolidated Financial
+Statements for a description of transactions between the Company and NPDC.
+
+Item 1B. Unresolved Staff Comments
+
+         None
+
+Item 2.           Properties
+
+         Five Star leases 236,000 square feet in New Jersey, 111,000 square feet
+in Connecticut, 1,300 square feet of sales offices in New York and 800 square
+feet in Maryland. Five Star's operating lease for the New Jersey facility
+expires in March, 2007, and the annual rent is $1,187,000. Five Star's lease for
+the Connecticut facility expires in February, 2007, and its annual rent is
+$402,000. The New York sales office pays $19,000 per year in rent and the
+Maryland office pays $11,000. The Company's White Plains, New York office space
+is provided by GPS pursuant to the Agreement.
+
+         The leases for the Company's Connecticut and New Jersey warehouse
+facilities expire in the first quarter of 2007. The Company is exploring
+alternatives. See "Risk Factors - Expiration of Leases for Warehouse
+Facilities".
+
+         Except as described above, the current facilities leased by the Company
+are considered to be suitable and adequate for their intended uses and are
+considered to be well maintained and in good condition.
+
+7
+
+Item 3.           Legal Proceedings
+
+         The Company is from time to time subject to litigation or other legal
+proceedings arising in the ordinary course of business. The Company is not a
+party to any legal proceeding, the outcome of which is believed by management to
+have a reasonable likelihood of having any material adverse effect upon the
+financial condition and operating results of the Company.
+
+Item 4. Submission of Matters to a Vote of Security Holders
+
+         No matters were submitted to a vote of security holders during the
+fourth quarter of the fiscal year covered by this report.
+
+                                     PART II
+
+Item 5:  Market for the Registrant's Common Equity and Related Stockholder
+                  Matters
+
+         The following table presents the high and low prices for the Common
+Stock for 2005 and 2004. The Company's Common Stock, $.01 par value, is quoted
+on the OTC Bulletin Board, which is operated by the NASDAQ Stock Market.
+
+The number of shareholders of record of the Common Stock as of March
+15, 2006 was 3,130 and the closing price of the Common Stock on the OTC Bulletin
+Board on that date was $0.19. The Company has not declared any cash dividends in
+2005 and 2004. The current policy of the Company's Board of Directors is to
+retain earnings, if any, to finance the operation of the Company's business. The
+payment of cash dividends on the Common Stock in the future will depend on the
+Company's earnings, financial condition and capital needs and on other factors
+deemed pertinent by the Company's Board of Directors.
+
+8
+
+Equity Compensation Plan Information as of December 31, 2005.
+
+- ------------------------------- ---------------------------- ------------------------- ---------------------------------
+Plan category                   Number of securities         Weighted-average          Number of securities
+                                to be issued upon            exercise price of         remaining available for
+Non-Qualified                   exercise of                  outstanding options       future issuance under
+  Stock Option Plan             outstanding options                                    equity compensation
+                                (a)                          (b)                       plans (excluding securities
+                                                                                       reflected in column(a))
+                                                                                       (c)
+- ------------------------------- ---------------------------- ------------------------- ---------------------------------
+- ------------------------------- ---------------------------- ------------------------- ---------------------------------
+Equity compensation
+                                                                                             
+plans not approved by                    1,100,000                    $0.14                       1,500,000
+security holders
+- ------------------------------- ---------------------------- ------------------------- ---------------------------------
+- ------------------------------- ---------------------------- ------------------------- ---------------------------------
+Total                                    1,100,000                    $0.14                       1,500,000
+- ------------------------------- ---------------------------- ------------------------- ---------------------------------
+
+For a description of the material terms of the Company's Non-Qualified
+Stock Option Plan, see Note 8 in the Notes to the Consolidated Financial
+Statements.
+
+9
+
+FIVE STAR PRODUCTS, INC. AND SUBSIDIARIES
+
+                      SELECTED CONSOLIDATED FINANCIAL DATA
+
+                    (in thousands, except per share amounts)
+
+Item 6.  Selected Financial Data
+
+10
+
+Item 7.          Management's Discussion and Analysis of Financial Condition and
+                 Results of Operations
+
+                              Results of Operations
+Overview
+
+  Five Star is a publicly held company that is a leading distributor in the
+United States of home decorating, hardware, and finishing products. Five Star
+offers products from leading manufacturers in the home improvement industry and
+distributes those products to retail dealers, which include lumber yards, "do-it
+yourself" centers, hardware stores and paint stores. Five Star has grown to be
+one of the largest independent distributors in the Northeast United States by
+providing a complete line of competitively priced products, timely delivery and
+attractive pricing and financing terms to its customers.
+
+The following key factors affect Five Star's financial and operation
+performance:
+
+o        its ability to negotiate the lowest prices from its suppliers,
+
+o        its ability to increase revenue by obtaining new customers, while
+         maintaining a level fixed cost structure by utilizing its
+         existing warehouses,
+
+o        the housing market in general,
+
+o        consumers' confidence in the economy,
+
+o        consumers' willingness to invest in their homes, and
+
+o        weather conditions that are conducive to home improvement projects.
+
+The following key performance measures are utilized by the Company's management
+to run Five Star's business:
+
+o        new U.S. housing starts,
+
+o        sales of existing homes,
+
+o        sales of high margin products to its customers,
+
+o        purchases from each vendor, and
+
+o        performance benchmarks used by Home Depot and Lowe's, such as number of
+         stores and square footage, as well as financial benchmarks.
+
+Five Star operates in the Home Improvement market, which has grown in recent
+years and for which the Home Improvement Research Institute predicts average
+annual industry growth of nearly 5.75% for the next several years. Nonetheless,
+Five Star faces intense competition from large national distributors, smaller
+regional distributors, and manufacturers that bypass the distributor and sell
+directly to the retail outlet. The principal means of competition for Five Star
+are its strategically placed distribution centers and its extensive inventory of
+quality, name-brand products. In addition, Five Star's customers face stiff
+competition from Home Depot and Lowe's, which purchase directly from
+manufacturers. As a result of such competition, while the Home Improvement
+market has expanded significantly in recent years, Five Star's revenue has not
+
+11
+
+increased at the same rate, and such revenue would have declined if Five Star
+had not entered into new geographic sales territories as described below. In
+spite of this, the independent retailers that are Five Star's customers remain a
+viable alternative to Home Depot and Lowe's, due to the shopping preferences of
+and the retailer's geographic convenience for some consumers.
+
+Five Star has continued to expand its sales territory with an addition of a
+sales force servicing the Mid-Atlantic States, as far south as North Carolina,
+which has generated additional annual revenues of approximately $10.4 million
+since 2000. Five Star services this territory from its existing New Jersey
+warehouse, enabling Five Star to leverage its fixed costs over a broader revenue
+base. To further expand, Five Star will attempt to grow its revenue base in the
+Mid-Atlantic States, to acquire complementary distributors and to expand the
+distribution of its use of private-label products sold under the "Five Star"
+name.
+
+Results of Operations
+
+Year Ended December 31, 2005 compared to Year Ended December 31, 2004
+
+The Company recognized a loss before income taxes of $ 0.4 million for the year
+ended December 31, 2005 as compared to income before income taxes of $2 million
+for the year ended December 31, 2004. The decrease in profitability of $2.4
+million is primarily due to decreased gross margin of $1.7 million, an increase
+of .8 million in interest expense and management fees offset by a reduction in
+selling, general and administrative expenses of $0.1 million.
+
+Sales. Sales increased by $4.4 million from $102 million in 2004 to $106 million
+in 2005. This increase was a result of rising prices due to increased raw
+material costs for certain of the Company's vendors, as well as increased sales
+volume generated from the Company's annual trade shows. In addition Five Star
+conducts small local trade shows for its customer base to create additional
+incremental revenue.
+
+Gross margin. Gross margin of $17.6 million or 16.6% of sales, in 2005 decreased
+by $1.7 million or 9.0% when compared to gross margin of $19.4 million, or 19.0%
+of sales in 2004. The decrease in gross margin percentages from 2004 to 2005 was
+the result of unfavorable shift in the product mix sold, increased price based
+competition , an increase in vendor pricing in particular for petroleum based
+products as well as a resistance to price increases from customers.
+
+Selling, general and administrative. Selling, general and administrative
+expenses increased by $0.1 million or less than 1% primarily due to increases in
+delivery expenses, salesmen commissions and management fees of $ 0.3 million
+offset by a reduction in general and administrative expenses of $ 0.2 million.
+
+Interest expense. The increase in interest expense in 2005 of $0.5 million is
+the result of an increase in average borrowings related to the Company's Loan
+Agreement, offset by a decrease in average borrowings related to the Note.
+
+12
+
+Income taxes. The company recognized an income tax benefit in 2005 of $ 0.1
+million, and income tax expense of $0.8 million in 2004 at an effective tax rate
+of 25% in 2005 and 42% in 2004.
+
+Results of Operations
+
+Year Ended December 31, 2004 compared to Year Ended December 31, 2003
+
+The Company recognized income before income taxes of $2 million for the year
+ended December 31, 2004 as compared to income before income taxes of $1 million
+for the year ended December 31, 2003. The increase in profitability of $1
+million is primarily due to increased gross margin of $1.7 million, mainly
+offset by an increase in selling, general and administrative expenses of $ 0.5
+million
+
+Sales. Sales increased by $6.9 million from $95.1 million in 2003 to $102
+million in 2004. The increase was primarily a result of increased sales to the
+Company's existing customer base. Sales to existing customers have increased
+mainly due to Five Star offering more product lines for the retailers to stock,
+as well as Five Star conducting small local trade shows for its customers to
+create additional sales. Revenue was favorably affected by clement weather in
+the Northeast during 2004, causing an increase in home improvement projects.
+
+Gross margin. Gross margin of $19.4 million or 19% of sales, in 2004 increased
+by $1.7 million or 9.4%, when compared to gross margin of $17.7 million, or
+18.6% of sales, in 2003. The increase in gross margin dollars was primarily the
+result of increased sales. The increase in gross margin percentages from 2003 to
+2004 were primarily a result of improved purchasing efficiencies and product mix
+sold, partially offset by increased warehousing costs. The Company includes
+warehousing costs in Cost of Goods Sold.
+
+Selling, general and administrative. Selling, general and administrative
+expenses increased by $0.6 million or 3% primarily due to increased delivery
+expenses, salesmen commissions, medical expenses and legal and professional
+fees.
+
+Interest expense. The increase in interest expense in 2004 of $0.1 million is
+the result of an increase in average borrowings related to the Company's Loan
+Agreement, offset by a decrease in average borrowings related to the Note.
+
+Income taxes. The company recognized income tax expense of $0.8 million in 2004
+and $0.4 in 2003, at an effective income tax rate of 42% for both years.
+
+Liquidity and Capital Resources
+
+At December 31, 2005, the Company had cash of $3,000 and working capital of
+$3,497,000, compared to cash of $4,000 and working capital of $3,758,000 as of
+December 31, 2004 respectively. The Company believes that cash generated from
+operations and borrowing availability under existing credit agreements will be
+sufficient to fund the Company's working capital requirements for at least the
+next twelve months.
+
+13
+
+The decrease in cash of $1,000 for the year ended December 31, 2005 resulted
+from cash used by operations of $1,355,000 primarily consisting of an increase
+in accounts receivable of $ 972,000, and a decrease in accounts payable and
+accrued expenses of $ 5,703,000 offset by a decrease in inventory of $ 6,000,000
+and cash used for additions to property plant and equipment of $ 175,000, offset
+by cash provided by short term borrowings of $ 1,529,000.
+
+The increase in accounts receivable, which caused a decrease in operating cash
+flows, is a result of: slightly stronger sales during the fourth quarter of 2005
+and the payments of accounts receivable. The decrease in accounts payable and
+accrued expenses, which caused a decrease in operating cash flows, is primarily
+a result of payments made to the Company's trade vendors. The decrease in
+inventory, which caused an increase in operating cash flows, is the result of
+the Company selling through its inventory, while minimizing the level of new
+purchases. The increase in short-term borrowings, which caused an increase in
+financing cash flows, is the result of the Company borrowing under its Loan and
+Security Agreement to finance the shortfall in operating cash flows.
+
+In 2003, the Company's wholly-owned subsidiary, Five Star Group, Inc., obtained
+a Loan and Security Agreement (the "Loan Agreement") with Bank of America
+Business Capital (formerly Fleet Capital Corporation) (the "Lender"). The Loan
+Agreement has a five-year term, with a maturity date of June 30, 2008. The Loan
+Agreement, as amended on August 1, 2005, provides for a $35,000,000 revolving
+credit facility, which allows Five Star Group, Inc. to borrow based upon a
+formula of up to 65% of eligible inventory and 85% of eligible accounts
+receivable, as defined therein. The interest rates under the Loan Agreement, as
+amended, consist of LIBOR plus a credit spread of 1.5% (6.64% at December 31,
+2005) for borrowings not to exceed $15,000,000 and the prime rate (8.0% at
+December 31, 2005) for borrowings in excess of the above-mentioned LIBOR-based
+borrowings. The credit spreads can be reduced in the event that Five Star Group,
+Inc. achieves and maintains certain performance benchmarks. At December 31, 2005
+and December 31, 2004, approximately $19,764,000 and $18,234,000 was outstanding
+under the Loan Agreement and approximately $1,451,000 and $434,000 was available
+to be borrowed, respectively. Substantially all of the Company's assets are
+pledged as collateral for these borrowings. Under the Loan Agreement the Company
+is subject to covenants requiring minimum net worth, limitations on losses, if
+any, and minimum or maximum values for certain financial ratios. For the year
+ended December 31, 2005 the Company was not in compliance with the covenant that
+required a certain minimum net income/fixed charge coverage ratios, however, for
+the period, the Company received a waiver of default from the Lender through
+December 31, 2005.
+
+In connection with the Loan Agreement, Five Star Group, Inc. also entered into a
+derivative transaction with the Lender on June 20, 2003. The derivative
+transaction is an interest rate swap and has been designated as a cash flow
+hedge. Effective July 1, 2004 through June 30, 2008, Five Star Group, Inc. will
+pay a fixed interest rate of 3.38% to the Lender on notional principal of
+$12,000,000. In return, the Lender will pay to Five Star Group, Inc. a floating
+rate, namely, LIBOR, on the same notional principal amount. The credit spread
+under the new Loan Agreement is not included in, and will be paid in addition to
+this fixed interest rate of 3.38%.
+
+14
+
+The fair value of the interest rate swap amounted to $ 395,000 at December 31,
+2005 and $105,000 at December 31, 2004, and is included in other assets in the
+accompanying balance sheets.
+
+On June 17, 2004, Five Star Group, Inc. has also entered into a derivative
+interest rate collar transaction during the period from July 1, 2004 through
+June 30, 2008 on notional principal of $12,000,000. The transaction consists of
+an interest rate floor of 2.25%, whereas if LIBOR is below 2.25%, the Lender
+will pay to Five Star Group, Inc. the difference between LIBOR and 2.25%, on the
+same notional principal amount. The transaction also consists of an interest
+rate cap of 5.75%, whereas if LIBOR is above 5.75%, Five Star Group, Inc. will
+pay to the Lender the difference between LIBOR and 5.75%, on the same notional
+principal amount.
+
+The interest rate swap and interest rate collar entered into by the Company in
+connection with the Loan Agreement are being accounted for under SFAS No. 133,
+as amended, "Accounting for Derivative Instruments and Hedging Activities." SFAS
+No. 133 requires all derivatives to be recognized in the balance sheet at fair
+value. Derivatives that are not hedges must be adjusted to fair value through
+earnings. If the derivative is a cash flow hedge, changes in the fair value of
+the derivative are recognized in other comprehensive income until the hedged
+item is recognized in earnings. The ineffective portion of a derivative's change
+in fair value is immediately recognized in earnings. Changes in the fair value
+of the interest rate swap, which has been designated as a cash flow hedge, were
+recognized in other comprehensive income. Changes in the fair value of the
+interest rate collar from June 17, 2004 through December 31, 2005 amount to
+approximately $20,000, which has been charged to earnings during the year ended
+December 31, 2005.
+
+The Company's wholly-owned subsidiary, Five Star Group, Inc., has an unsecured
+note payable (the "Note") to JL Distributors, Inc., a wholly-owned subsidiary of
+NPDC following the spin-off of NPDC from GPS on November 24, 2004. The Note, as
+amended, bore interest at 8%, payable quarterly, and matured on June 30, 2005.
+On June 30, 2005 the Company and NPDC agreed to extend the Note for a one-year
+term maturing on June 30, 2006. In consideration for NPDC extending the Note,
+the Company paid NPDC a fee of one percent of the Note's outstanding balance or
+$28,000. In addition, the interest rate on the Note has been increased to 9%.
+
+The Note is subordinated to the indebtedness under the Loan Agreement according
+to an Agreement of Subordination & Assignment (the "Subordination Agreement")
+between Five Star Group, Inc. and JL Distributors, Inc. dated June 20, 2003. The
+Subordination Agreement permits the annual repayment of principal under certain
+circumstances. The balance of the Note was $2,800,000 as of December 31, 2005.
+
+15
+
+Contractual Obligations and Commitments
+
+The following table summarizes the note payable, capital lease commitments,
+operating lease commitments, purchase commitments and a consulting agreement as
+of December 31, 2005 (in thousands):
+
+Application of Critical Accounting Policies
+
+The Company's consolidated financial statements have been prepared in accordance
+with accounting principles generally accepted in the United States of America.
+Certain accounting policies have a significant impact on amounts reported in the
+financial statements. A summary of those significant accounting policies can be
+found in Note 2 to the Company's financial statements included herein.
+
+Among the significant judgments made by management in the preparation of the
+Company's financial statements are the determination of the allowance for
+doubtful accounts and adjustments of inventory valuations. These adjustments are
+made each reporting period in the ordinary course of accounting. As the Company
+carries finished goods which turn over several times a year, the Company does
+not record a reserve for inventory obsolescence. The Company expenses defective
+finished goods in the period the defect is discovered.
+
+Revenue recognition
+
+Revenue on product sales is recognized at the point in time when the product has
+been shipped, title and risk of loss has been transferred to the customer, and
+the following conditions are met: persuasive evidence of an arrangement exists,
+the price is fixed and determinable, and collectibility of the resulting
+receivable is reasonably assured. Allowances for estimated returns and
+allowances are recognized when sales are recorded.
+
+Valuation of accounts receivable
+
+Provisions for allowance for doubtful accounts are made based on historical loss
+experience adjusted for specific credit risks. Measurement of such losses
+requires consideration of Five Star's historical loss experience, judgments
+about customer credit risk, and the need to adjust for current economic
+conditions. The allowance for doubtful accounts as a percentage of total gross
+trade receivables was 3.2 % and 2.1% as of December 31, 2005 and December 31,
+2004. This increase is reflective of increased credit losses projected from
+several insolvent customers.
+
+16
+
+Recent Accounting Pronouncements
+
+During December 2004, the Financial Accounting Standards Board ("FASB") issued a
+new standard entitled Statement of Financial Accounting Standards ("SFAS") 123R,
+Share-Based Payment, which would revise SFAS No. 123, Accounting for Stock Based
+Compensation, and amend SFAS No. 95, Statement of Cash Flows. Among other items,
+the new standard would require the expensing, in the financial statements, of
+stock options issued by the Company. The new standard will be effective for the
+Company January 1, 2006. As permitted under SFAS No. 123 the Company currently
+accounts for share-based payments to employees using Accounting Principles Board
+("APB") Opinion No. 25 intrinsic value method, and as such, recognizes no
+compensation cost for employee stock options. Accordingly the adoption of SFAS
+No. 123R fair value method could have a significant impact on the Company's
+results of operations, although it will have no impact on the Company's overall
+financial position.
+
+Item 7A.       QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK.
+
+As of December 31, 2005, the Company had approximately $7.8 million of variable
+rate borrowings. The Company estimates that for every 1% fluctuation in general
+interest rates, assuming debt levels at December 31, 2005, interest expense
+would vary by $78,000.
+
+The Company is a party to an interest rate swap agreement designated as a cash
+flow hedge whereby changes in the cash flows of the swap will offset changes in
+the interest rate payments on the Company's variable-rate revolving loan,
+thereby reducing the Company's exposure to fluctuations in LIBOR. Changes in the
+fair value of the interest rate swap are recognized in accumulated other
+comprehensive income, net of income taxes.
+
+Effective July 1, 2004 through June 30, 2008, Five Star Group, Inc. will pay a
+fixed interest rate of 3.38% to the Lender on notional principal of $12,000,000.
+In return, the Lender will pay to Five Star Group, Inc. a floating rate, namely,
+LIBOR, on the same notional principal amount. The credit spread under the new
+Loan Agreement is not included in, and will be paid in addition to this fixed
+interest rate of 3.38%.
+
+On June 17, 2004, Five Star Group has also entered into a derivative interest
+rate collar transaction during the period from July 1, 2004 through June 30,
+2008 on notional principal of $12,000,000. The transaction consists of an
+interest rate floor of 2.25%, whereas if LIBOR is below 2.25%, the Lender will
+pay to Five Star Group, Inc. the difference between LIBOR and 2.25%, on the same
+notional principal amount. The transaction also consists of an interest rate cap
+of 5.75%, whereas if LIBOR is above 5.75%, Five Star Group, Inc. will pay to the
+Lender the difference between LIBOR and 5.75%, on the same notional principal
+amount.
+
+17
+
+8.                Financial Statements and Supplementary Data
+
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Page
+
+Report of Independent Registered Public Accounting Firm                  20
+
+Financial Statements:
+    Consolidated Balance Sheets - December 31, 2005 and 2004             21
+
+    Consolidated Statements of Operations and Comprehensive Income -
+    Years ended December 31, 2005, 2004 and 2003                         22
+
+    Consolidated Statements of Changes in Stockholders' Equity -
+    Years ended December 31, 2005, 2004 and 2003                         23
+
+    Consolidated Statements of Cash Flows -
+    Years ended December 31, 2005, 2004 and 2003                         24
+
+    Notes to Consolidated Financial Statements                           25
+
+18
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+Board of Directors and Stockholders of
+Five Star Products, Inc.:
+
+We have audited the accompanying consolidated balance sheets of Five Star
+Products Inc. and subsidiaries (the "Company") as of December 31, 2005 and 2004
+and the related consolidated statements of operations and comprehensive income,
+changes in stockholders' equity and cash flows for each of the years in the
+three-year period ended December 31, 2005. These financial statements are the
+responsibility of the Company's management. Our responsibility is to express an
+opinion on these financial statements based on our audits.
+
+We conducted our audits in accordance with the standards of the Public Company
+Accounting Oversight Board (United States). Those standards require that we plan
+and perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. An audit includes examining, on a
+test basis, evidence supporting the amounts and disclosures in the financial
+statements. An audit also includes assessing the accounting principles used and
+significant estimates made by management, as well as evaluating the overall
+financial statement presentation. We believe that our audits provide a
+reasonable basis for our opinion.
+
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the consolidated financial position of Five Star Products
+Inc. and subsidiaries as of December 31, 2005 and 2004, and the consolidated
+results of their operations and their cash flows for each of the years in the
+three year period ended December 31, 2005, in conformity with accounting
+principles generally accepted in the Unites States of America.
+
+EISNER LLP
+New York, New York
+March 10, 2006
+
+19
+
+FIVE STAR PRODUCTS, INC. AND SUBSIDIARIES
+
+                           CONSOLIDATED BALANCE SHEETS
+
+                 (in thousands, except share and per share data)
+
+See accompanying notes to the consolidated financial statements.
+
+20
+
+FIVE STAR PRODUCTS, INC. AND SUBSIDIARIES
+
+         CONSOLIDATED STATEMENTS OF OPERATIONS AND COMPREHENSIVE INCOME
+
+                      (in thousands, except per share data)
+
+See accompanying notes to the consolidated financial statements.
+
+21
+
+FIVE STAR PRODUCTS, INC. AND SUBSIDIARIES
+           CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS' EQUITY
+                  Years Ended December 31, 2005, 2004 and 2003
+                                 (in thousands)
+
+See accompanying notes to the consolidated financial statements.
+
+22
+
+FIVE STAR PRODUCTS, INC. AND SUBSIDIARIES
+
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+                                 (in thousands)
+
+See accompanying notes to the consolidated financial statements.
+
+23
+
+FIVE STAR PRODUCTS, INC. AND SUBSIDIARIES
+
+                   Notes to Consolidated Financial Statements
+
+34                                              (Continued)
+
+1.       Business and relationship with National Patent Development Corporation
+
+Five Star Products, Inc. (the "Company" or "Five Star") owns 100% of Five Star
+Group, Inc. which is a wholesale distributor of home decorating, hardware and
+finishing products in the northeastern United States. At December 31, 2005 the
+Company is a majority owned subsidiary of National Patent Development
+Corporation ("NPDC").
+
+         The Company, which was then 37.5% owned by GP Strategies Corporation
+("GPS"), purchased its business from GPS in 1998 in exchange for cash and a
+$5,000,000 unsecured 8% note payable ("the Note"). In 2002 and 2003, GPS
+converted $1,000,000 principal amount of the Note into 4,272,727 shares of the
+Company's common stock. In 2004, the Company, through a tender offer,
+repurchased approximately 2,628,000 shares of its common stock. The conversion
+of the Note and the tender offer increased GPS' ownership in the Company to
+approximately 64%. On July 30, 2004, GPS contributed its ownership interest in
+Five Star and the Note to NPDC. On November 24, 2004, GPS completed the spin-off
+to its shareholders of the common stock of NPDC.
+
+2.       Summary of significant accounting policies
+
+Principles of consolidation. The consolidated financial statements include the
+accounts of the Company and its wholly owned subsidiaries. All significant
+intercompany balances and transactions have been eliminated in consolidation.
+
+Revenue recognition. Revenue on product sales is recognized at the point in time
+when the product has been shipped, title and risk of loss has been transferred
+to the customer, and the following conditions are met: persuasive evidence of an
+arrangement exists, the price is fixed and determinable, and collectibility of
+the resulting receivable is reasonably assured. Allowances for estimated returns
+and allowances are recognized when sales are recorded.
+
+Inventory. Inventory is valued at the lower of cost, using the first-in,
+first-out (FIFO) method, or market. Inventory consists solely of finished
+products, and includes allocated warehousing costs.
+
+Machinery and equipment. Fixed assets are carried at cost less accumulated
+depreciation. Major additions and improvements are capitalized, while
+maintenance and repairs that do not extend the lives of the assets are expensed.
+Gain or loss, if any, on the disposition of fixed assets is recognized currently
+in operations. Depreciation is calculated primarily on a straight-line basis
+over estimated useful lives of the assets.
+
+Shipping and handling costs. Shipping and handling costs are included as a part
+of selling, general and administrative expenses. These costs amounted to
+$4,981,000, $4,756,000 and $4,416,000 for the years ended December 31, 2005,
+2004 and 2003, respectively.
+
+Advertising costs. The Company expenses advertising costs as incurred.
+Advertising expense was $33,000, $91,000 and $57,000 for the years ended
+December 31, 2005, 2004 and 2003, respectively.
+
+24
+
+Income taxes. Income taxes are provided for based on the asset and liability
+method of accounting pursuant to Statement of Financial Accounting Standards
+("SFAS") No. 109, "Accounting for Income Taxes". Under SFAS No. 109, deferred
+tax assets and liabilities are recognized for the estimated future tax
+consequences attributable to differences between the financial statement
+carrying amounts of existing assets and liabilities and their respective tax
+bases. Deferred tax assets and liabilities are measured using enacted tax rates
+in effect for the year in which those temporary differences are expected to be
+recovered or settled. Under SFAS No. 109, the effect on deferred tax assets and
+liabilities of a change in tax rates is recognized in income in the period that
+includes the enactment date.
+
+Use of estimates. The preparation of financial statements in conformity with
+accounting principles generally accepted in the United States of America
+requires management to make estimates and assumptions that affect the reported
+amounts of assets and liabilities and disclosure of contingent assets and
+liabilities at the date of the financial statements and the reported amounts of
+revenues and expenses during the reporting period. Actual results could differ
+from these estimates.
+
+Concentration of credit risk. Financial instruments that potentially subject the
+Company to significant concentrations of credit risk consist primarily of
+accounts receivable. Sales are made principally to independently owned paint and
+hardware stores in the northeast United States.
+
+Fair value of financial instruments. The carrying value of cash and cash
+equivalents, accounts receivable and accounts payable approximate estimated fair
+values because of short maturities. The carrying value of short term borrowings
+approximates estimated fair value because borrowings accrue interest which
+fluctuates with changes in LIBOR. The estimated fair value for the Company's
+$2,800,000 fixed rate note payable to NPDC approximated carrying values at
+December 31, 2005 and 2004, respectively, using calculations based on market
+rates. Derivative instruments are carried at fair value representing the amount
+the Company would receive or pay to terminate the derivative.
+
+Derivatives and hedging activities. SFAS No. 133, as amended, "Accounting for
+Derivative Instruments and Hedging Activities" requires all derivatives to be
+recognized in the balance sheet at fair value. Derivatives that are not hedges
+must be adjusted to fair value through earnings. If the derivative is a cash
+flow hedge, changes in the fair value of the derivative are recognized in other
+comprehensive income until the hedged item is recognized in earnings. The
+ineffective portion of a derivative's change in fair value is immediately
+recognized in earnings. Changes in the fair value of the interest rate swap,
+which has been designated as a cash flow hedge, were recognized in other
+comprehensive income. Changes in the fair value of the interest rate collar are
+recognized in earnings (See Note 3).
+
+Recent Accounting Pronouncements. During December 2004, the Financial Accounting
+Standards Board ("FASB") issued a new standard entitled Statement of Financial
+Accounting Standards ("SFAS") 123R, Share-Based Payment, which would revise SFAS
+No. 123, Accounting for Stock Based Compensation, and amend SFAS No. 95,
+Statement of Cash Flows. Among other items, the new standard would require the
+expensing, in the financial statements, of stock options issued by the Company.
+The new standard will be effective for the Company on January 1, 2006. As
+permitted under SFAS No. 123 the Company currently accounts for share-based
+
+25
+
+payments to employees using Accounting Principles Board ("APB") Opinion No. 25
+intrinsic value method, and as such, recognizes no compensation cost for
+employee stock options. Accordingly the adoption of SFAS No. 123R fair value
+method could have a significant impact on the Company's results of operations,
+although it will have no impact on the Company's overall financial position. The
+impact of adoption of SFAS No. 123R cannot be predicted at this time, because it
+will depend on levels of share-based payments in the future. However had the
+Company adopted SFAS No. 123R in prior periods, the impact of that statement
+would have approximated the impact of SFAS No. 123 as described in the
+disclosure of pro forma net (loss) income and related earnings per share data
+shown below under "Stock-based compensation"
+
+Stock-based compensation. The Company has elected to continue to account for its
+stock-based compensation plans using the intrinsic value method prescribed by
+Accounting Principles Board. Opinion No. 25 ("APB No. 25"), "Accounting for
+Stock Issued to Employees". Under the provisions of APB No. 25, employee
+compensation is measured as the excess, if any, of the quoted market price of
+the Company's common stock at the date of the grant over the amount an employee
+must pay to acquire the stock.
+
+Had the Company determined compensation cost based on the fair value method at
+the grant date for its stock options under SFAS No. 123, the Company's net
+(loss) income and per share amounts would have been changed to the pro forma
+amounts indicated below (in thousands, except per share amounts):
+
+                                                Year Ended December 31,
+                                                -----------------------
+                                          2005              2004       2003
+                                          ----              ----       ----
+Net (loss) income - as reported          $(287)           $1,140       $598
+Compensation expense net of tax            (11)              (12)       (18)
+                                           ----              ----      -----
+Pro forma net income                     $(298)           $1,128       $580
+                                         ======           ======       ====
+
+Per share data
+Basic - as reported                     $(0.02)            $0.08      $0.04
+Basic - pro forma                       $(0.02)            $0.08      $0.04
+Diluted - as reported                   $(0.02)            $0.07      $0.04
+Diluted - pro forma                     $(0.02)            $0.07      $0.04
+
+The Company did not grant any options during 2005, 2004 and 2003.
+
+Earnings per share. Basic earnings per share (EPS) is based upon the weighted
+average number of common shares outstanding during the period. Diluted EPS is
+based upon the weighted average number of common shares outstanding during the
+period assuming the issuance of common shares for all dilutive potential common
+shares outstanding. For the years ended December 31, 2005 and 2003 options
+outstanding to purchase approximately 1,100,000 and 1,530,000 shares of common
+stock, respectively, were not included in the diluted per share computation
+because their effect would be anti-dilutive.
+
+26
+
+Earnings per share (EPS) for the years ended December 31, 2005, 2004 and 2003
+are computed as follows (in thousands, except per share amounts):
+
+3.       Short-term borrowings
+
+In 2003, the Company's wholly-owned subsidiary, Five Star Group, Inc., entered
+into a Loan and Security Agreement (the "Loan Agreement") with Bank of America
+Business Capital (formerly Fleet Capital Corporation) (the "Lender"). The Loan
+Agreement has a five-year term, with a maturity date of June 30, 2008. The Loan
+Agreement, as amended on August 1, 2005, provides for a $35,000,000 revolving
+credit facility, which allows Five Star Group, Inc. to borrow based upon a
+formula of up to 65% of eligible inventory and 85% of eligible accounts
+receivable, as defined therein. The interest rates under the Loan Agreement, as
+amended, consist of LIBOR plus a credit spread of 1.5% (6.64% at December 31,
+2005) for borrowings not to exceed $15,000,000 and the prime rate (8.0% at
+December 31, 2005) for borrowings in excess of the above-mentioned LIBOR-based
+borrowings. The credit spreads can be reduced in the event that Five Star Group,
+Inc. achieves and maintains certain performance benchmarks. At December 31, 2005
+and 2004, $19,764,000 and $18,234,000 was outstanding under the Loan Agreement
+and approximately $1,451,000 and $434,000 was available to be borrowed,
+respectively. Substantially all of the Company's assets are pledged as
+collateral for these borrowings. Under the Loan Agreement the Company is subject
+to covenants requiring minimum net worth, limitations on losses, if any, and
+minimum or maximum values for certain financial ratios. For the year ended
+December 31, 2005 the Company was not in compliance with the covenant that
+required a certain minimum loss/fixed charge coverage ratios, however, for the
+
+27
+
+period ended December 31, 2005 the Company received a waiver of default from the
+Lender through December 31, 2005.
+
+In connection with the Loan Agreement, Five Star Group, Inc., on June 20, 2003
+entered into an interest rate swap with the lender which has been designated as
+a cash flow hedge. Effective July 1, 2004 through June 30, 2008, Five Star
+Group, Inc. will pay a fixed interest rate of 3.38% to the Lender on notional
+principal of $12,000,000. In return, the Lender will pay to Five Star Group,
+Inc. a floating rate, namely, LIBOR, on the same notional principal amount. The
+credit spread under the Loan Agreement is not included in, and will be paid in
+addition to the 3.38%.
+
+The fair value of the interest rate swap amounted to $ 395,000 at December 31,
+2005 and $105,000 at December 31, 2004, and is included in other assets in the
+accompanying balance sheets. Changes in the fair value of the interest rate swap
+were recognized in other comprehensive income.
+
+On June 17, 2004, Five Star Group, Inc. has also entered an into interest rate
+collar transaction during the period from July 1, 2004 through June 30, 2008 on
+notional principal of $12,000,000. The transaction consists of an interest rate
+floor of 2.25%, whereas if LIBOR is below 2.25%, the Lender will pay to Five
+Star Group, Inc. the difference between LIBOR and 2.25%, on the same notional
+principal amount. The transaction also consists of an interest rate cap of
+5.75%, whereas if LIBOR is above 5.75%, Five Star Group, Inc. will pay to the
+Lender the difference between LIBOR and 5.75%, on the same notional principal
+amount. Changes in the fair value of the interest rate collar, which amounted to
+approximately $1,000 and $19,000 during 2005 and 2004, respectively, have been
+charged to earnings during such years.
+
+4.       401(k) plan
+
+The Company maintains a 401(k) Savings Plan for employees who have completed one
+year of service. The Savings Plan permits pre-tax contributions to the Savings
+Plan of 2% to 50% of compensation by participants pursuant to Section 401(k) of
+the Internal Revenue Code. The Company matches 40% of the participants' first 6%
+of compensation contributed, not to exceed an amount equivalent to 2.4% of that
+participant's compensation.
+
+The Savings Plan is administered by a trustee appointed by the Board of
+Directors of the Company and all contributions are held by the trustee and
+invested at the participants' directions in various mutual funds. The Company's
+expense associated with the Savings Plan was approximately $119,000, $123,000
+and $125,000 for the years ended December 31, 2005, 2004, and 2003,
+respectively.
+
+28
+
+5.       Machinery and equipment
+
+Machinery and equipment consist of the following (in thousands):
+
+Depreciation and amortization expense for the years ended December 31, 2005,
+2004, and 2003 was $317,000, $293,000 and $287,000, respectively.
+
+6.       Related party transactions
+
+(a)  Management agreement
+
+NPDC provided legal, tax, business development, insurance and employee benefit
+administration services to the Company pursuant to a management services
+agreement for a fee of up to $10,000 per month. The agreement is automatically
+renewable for successive one-year terms unless one of the parties notifies the
+other in writing at least six months prior to the end of any renewal thereof.
+The management fee increased to $25,000 per month effective October 1, 2004. In
+addition the Company agreed to reimburse NPDC for $16,666 per month for Mr.
+Feldman's (NPDC's Chief Executive Officer) for service to the Company effective
+October 1, 2004. The agreement was renewed for 2006. On January 1, 2006 the
+management fee was reduced from $25,000 to $14,167. As a result of the spin-off
+of NPDC, GPS transferred to NPDC the rights and obligations under this
+Agreement.
+
+Fees incurred under the Agreement totaled $500,000, $215,000 and $100,000, for
+the years ended December 31, 2005, 2004 and 2003, respectively, and are included
+in selling, general and administrative expenses in the consolidated statements
+of operations. At December 31, 2005 and 2004, the amount due to GPS under the
+Agreement was $43,000 and $37,000, respectively.
+
+In addition, GPS and NPDC incurred certain expenses on behalf of Five Star,
+primarily involving insurance, legal and other professional expenses. Five Star
+reimbursed GPS and NPDC for such expense, which amounted to approximately
+$242,000, $239,000 and $338,000 for the years ended December 31, 2005, 2004 and
+2003, respectively.
+
+29
+
+(b) Related party debt
+
+The Company's wholly-owned subsidiary, Five Star Group, Inc., has an unsecured
+note payable (the "Note") to JL Distributors, Inc., a wholly-owned subsidiary of
+NPDC following the spin-off of NPDC from GPS on November 24, 2004. The Note, as
+amended, bears interest at 8%, which is payable quarterly, and was scheduled to
+mature on June 30, 2005.
+
+On June 30, 2005, the Company and NPDC agreed to extend the Note for a one-year
+term maturing on June 30, 2006. In consideration for NPDC extending the Note,
+the Company paid NPDC a fee of one percent of the Note's outstanding balance or
+$28,000. In addition, the interest rate on the Note has been increased to 9%.
+
+The Note is subordinated to the indebtedness under the Loan Agreement (see Note
+3) according to an Agreement of Subordination & Assignment (the "Subordination
+Agreement") between Five Star Group, Inc. and JL Distributors, Inc. dated June
+20, 2003. The Subordination Agreement permits the annual repayment of principal
+under certain circumstances. Pursuant to the provisions of the Subordination
+Agreement, the Company made repayments to GPS in the aggregate amount of
+$1,200,000 during 2003. In addition, in 2002 and 2003, GPS also exchanged
+$500,000 principal amount ($1,000,000 in total) of the Note for 2,272,727 and
+2,000,000 shares of the Company's common stock, respectively. In connection with
+the 2003 exchange, in consideration for GPS agreeing to exchange at a price of
+$0.25 per share, which was at a significant premium to the market price of the
+Company's common stock on the day prior to the approval of the transaction, the
+Company agreed to terminate a voting agreement and thereby GPS obtained a
+controlling financial interest in the Company. The balance of the Note was
+$2,800,000 as of December 31, 2005 and 2004.
+
+(c)  Other related party transactions
+
+On February 8, 2002, the Company entered into a Consulting and Severance
+Agreement (the "Agreement") with Richard Grad, the former President and Chief
+Executive Officer of the Company. Pursuant to the Agreement, Mr. Grad will
+receive $145,000 per year for consulting services to be rendered to the Company
+and a severance fee at the rate of $5,000 per year, for a five-year period
+ending February 8, 2007. In addition, in August, 2002, Mr. Grad was granted
+options to purchase 150,000 shares of the Company's Common Stock at the quoted
+market price on the date of grant, which options vest annually over the term of
+the Agreement in equal installments. Such options were valued at an aggregate
+amount of $13,000. The Agreement also provided for the repurchase by the Company
+of 192,308 shares of the Company's Common Stock held by Mr. Grad for an
+aggregate purchase price of $25,000. During this five-year period, Mr. Grad is
+also receiving certain benefits, including medical benefits, life insurance and
+use of an automobile.
+
+30
+
+7.       Income taxes
+
+The components of income tax expense (benefit) are as follows (in thousands):
+
+As of December 31, 2005 and 2004, net deferred income taxes consist of the
+following (in thousands):
+
+                                                       December 31,
+                                                  ---------------------------
+                                                  ------------ --------------
+Deferred tax assets (liabilities)                    2005         2004
+                                                     ----         ----
+
+    Allowance for doubtful accounts                 $ 154         $ 98
+    Accrued compensation                                5            3
+    Inventory                                          13           63
+                                                     ----         ----
+    Total current deferred tax assets                 172          164
+    Net operating losses                               76
+    Machinery and equipment                           240          214
+    Interest rate collar                                8            8
+    Deferred compensation                              36           39
+    Interest rate swap                               (158)         (44)
+                                                     -----         ----
+    Total long-term deferred tax assets               202          217
+
+    Valuation allowance                               (36)         (39)
+                                                     -----        -----
+
+    Net long-term deferred tax assets                 166          178
+                                                      ---          ---
+
+Net deferred tax assets                              $338         $342
+                                                     ====         ====
+
+31
+
+A reconciliation between the Company's tax provision and the U.S. statutory rate
+follows
+(in thousands):
+
+- ---------------------------------- ------------------ --------- ----------------
+Years ended December 31,                   2005          2004          2003
+- ---------------------------------- ------------------ --------- ----------------
+- ---------------------------------- ------------------ --------- ----------------
+Tax at U.S. statutory rate                $(131)         $673          $350
+State and local taxes net of
+ Federal benefit                             (8)          135            69
+Items not deductible                         29            25            23
+Valuation allowance adjustment               (3)            -             -
+Other                                        16             8            (9)
+                                        -------        ------        ------
+Income taxes                               $(97)         $841          $433
+                                           =====         ====          ====
+
+Under SFAS No. 109, a valuation allowance is provided when it is more likely
+than not that some portion of deferred tax assets will not be realized. The
+valuation allowance was decreased $3,000 during 2005 and was unchanged during
+2004 and 2003.
+
+8.       Stock options
+
+On January 1, 1994, the Company's Board of Directors adopted the Five Star
+Products, Inc. 1994 Stock Option Plan (the "Stock Option Plan"), which became
+effective August 5, 1994. The Stock Option Plan, as amended provides for
+4,000,000 shares of Common Stock to be reserved for issuance, subject to
+adjustment in the event of stock splits, stock dividends, recapitalizations,
+reclassifications or other capital adjustments. Unless designated as "incentive
+stock options" intended to qualify under Section 422 of the Internal Revenue
+Code, options granted under the Stock Option Plan are intended to be
+nonqualified options. Options may be granted to any director, officer or other
+key employee of the Company and its subsidiaries, and to consultants and other
+individuals providing services to the Company.
+
+The term of any option granted under the Stock Option Plan will not exceed ten
+years from the date of the grant of the option and, in the case of incentive
+stock options granted to a 10% or greater holder in the total voting stock of
+the Company, three years from the date of grant. The exercise price of any
+option will not be less than the fair market value of the Common Stock on the
+date of grant or, in the case of incentive stock options granted to a 10% or
+greater holder in the total voting stock, 110% of such fair market value.
+
+Options granted vest 20% on date of grant with the balance vesting in equal
+annual installments over four years. At December 31, 2005, the Company had
+1,500,000 shares of common stock reserved for future grants under the Stock
+Option Plan.
+
+32
+
+Activity relating to stock options granted by the Company:
+
+The following table summarizes information about the Plan's options at December
+31, 2005:
+
+9.       Commitments and contingencies
+
+The Company has several noncancellable leases which cover real property,
+machinery and equipment. Such leases expire at various dates and some of them
+have options to extend their terms.
+
+Minimum rental obligations under long-term operating leases are indicated in the
+table below (in thousands). Figures for real property include estimated amounts
+of supplemental lease obligations, such as pro-rated assessments for property
+taxes or common-area expenses.
+
+                                              Machinery and
+                       Real Property            equipment          Total
+          ---------------------------------------------------------------
+          ---------------------------------------------------------------
+
+          2006                1,779                   937          2,716
+          2007                  436                   930          1,366
+          2008                    -                   395            395
+          2009                    -                    78             78
+          ---------------------------------------------------------------
+          ---------------------------------------------------------------
+          Total              $2,215                $2,340         $4,555
+                             ======                ======          ======
+
+  During 2005, 2004, and 2003, the Company incurred $3,058,000, $2,886,000 and
+  $2,914,000, respectively, of rental expenses. GPS has guaranteed the leases
+  for the Company's New Jersey and Connecticut warehouses, totaling
+  approximately $1,589,000 per year through the first quarter of 2007.
+
+33
+
+10.      Valuation and Qualifying Accounts
+
+The following is a summary of the allowance for doubtful accounts related to
+accounts receivable for the years ended December 31 (in thousands):
+
+                                                  2005          2004      2003
+                                                  ----          ----      ----
+        Balance at beginning of year             $ 306          $702      $640
+        Charged to expense                         147            91       107
+        Uncollectible accounts written off,
+          net of recoveries                         27          (487)      (45)
+                                                    --        ------       ---
+        Balance at end of year                   $ 480          $306      $702
+                                                 =====          ====       ====
+
+11.      Accounts payable and accrued expenses
+
+Accounts payable and accrued expenses are comprised of the following at December
+31, 2005 and 2004 (in thousands):
+
+                                                    December 31,
+                                                  2005         2004
+        Accounts payable                         $6,290      $11,597
+        Accrued expenses                          1,400        1,313
+        Due to NPDC/GPS                              64           37
+        Other                                     1,047        1,557
+                                                  -----        -----
+                                                 $8,801      $14,504
+
+34
+
+FIVE STAR PRODUCTS, INC. AND SUBSIDIARIES
+
+35
+
+Selected Quarterly Financial Data (unaudited)
+
+The following is a summary of the quarterly results of operations for the years
+ended December 31, 2005 and 2004 (in thousands, except per share data):
+
+35
+
+ITEM 9.   Changes in and Disagreements with Accountants on Accounting and
+          Financial Disclosure
+
+                None
+
+ITEM 9A.  Controls and Procedures
+
+         "Disclosure controls and procedures" are the controls and other
+procedures of an issuer that are designed to ensure that information required to
+be disclosed by the issuer in the reports filed or submitted by it under the
+Securities Exchange Act of 1934, as amended (the "Exchange Act") is recorded,
+processed, summarized and reported within the time periods specified in the
+Securities and Exchange Commission's rules and forms. These controls and
+procedures are designed to ensure that information required to be disclosed by
+an issuer in its Exchange Act reports is accumulated and communicated to the
+issuer's management, including its principal executive and financial officers,
+as appropriate, to allow timely decisions regarding required disclosure.
+
+         Under the supervision and with the participation of the Company's Chief
+Executive Officer and Chief Financial Officer, the Company carried out an
+evaluation of the effectiveness of the design and operation of the Company's
+disclosure controls and procedures pursuant to the Exchange Act Rule 13a-15(e)
+as of December 31, 2005. Based upon the evaluation, the Chief Executive Officer
+and Chief Financial Officer concluded that the Company's disclosure controls and
+procedures are effective as of the end of the period covered by this report.
+
+         During the year ended December 31, 2005, there were no changes in the
+Company's internal control over financial reporting that have materially
+affected, or are reasonably likely to materially affect, the internal control
+over financial reporting.
+
+36
+
+PART III
+
+Item 10.        Directors and Executive Officers of the Registrant
+
+         Jerome I. Feldman has been Chairman of the Board of the Company since
+1994. In 1959 he founded GP Strategies Corporation ("GPS"), a global provider of
+training and e-Learning solutions. He has been a director of GSE Systems, Inc.,
+("GSE"), a real-time simulations company since 1994 and Chairman of the Board of
+GSE since 1997, Chairman of the Board and Chief Executive Officer of NPDC since
+August 2004 and a director of Valera Pharmaceuticals, Inc. since January 2005.
+Mr. Feldman is also Chairman of the New England Colleges Fund and a Trustee of
+the Northern Westchester Hospital Foundation. Age 77
+
+         Charles Dawson has been President of the Company and of Five Star
+Group, Inc. ("Five Star") since 2002 and Vice President and a director of the
+Company since 1999. Since 1993 Mr. Dawson has held several managerial positions
+with Five Star. Age 50
+
+         Bruce Sherman has been Executive Vice President, Sales of the Company
+and of Five Star since 2002, Vice President and a director of the Company since
+1999 and Vice President of Sales of Five Star since 1993. He is a member of the
+New York and New Jersey Paint and Decorating Association. Age 53
+
+         Steven Schilit has been Executive Vice President, Chief Operating
+Officer of the Company and of Five Star since 2002, Vice President and a
+director of the Company since 1999 and since 1981 has held several executive
+positions with Five Star. Age 59
+
+         John Moran has been a director of the Company since 2002. He is Chief
+Executive Officer of GSE and a director of GSE since November 2003 and had been
+Vice President of GPS since 2001, President and Chief Executive Officer of GP
+e-Learning Technologies, Inc. from 2000 to 2001 and from 1994 to 2000 he was
+Group President, Training and Technologies Group of General Physics Corporation.
+Age 55
+
+         Carll Tucker has been a director of the Company since 2002. In 1986 he
+founded Trader Publications and was its President until 1999, which published
+The Patent Trader newspaper and various local magazines, newsletters and
+programs for cultural institutions in Westchester, Putnam and Fairfield
+counties. Trader Publications was sold to Gannett Corporation in 1999. Mr.
+Tucker is the author of a weekly newspaper column in the Westchester Patent
+Trader, "Looseleaves", since 1983. Mr. Tucker is also a Trustee of Northern
+Westchester Hospital Center and was its Chairman of the Board from 1999-2001.
+Age 53
+
+Compliance with Section 16(a) of the Exchange Act
+
+         Section 16(a) of the Exchange Act requires the Company's officers and
+directors, and persons who own more than 10% of a registered class of the
+
+37
+
+Company's securities, to file reports of ownership and changes in ownership with
+the SEC and to furnish copies of such reports to the Company.
+
+         Based solely on its review of copies of such reports for 2005, the
+Company believes that during 2005, all reports applicable to its officers,
+directors and greater than 10% beneficial owners were filed on a timely basis.
+
+Audit Committee
+
+         The Company has established an Audit Committee of the Board of
+Directors consisting of Carll Tucker. The Board of Directors has determined that
+Mr. Tucker qualifies as an "audit committee financial expert" under applicable
+SEC regulations and satisfies the independence requirements of the SEC.
+
+Code of Ethics
+
+         The Company has adopted a Code of Ethics for directors, officers, and
+employees of the Company and its subsidiaries, including but not limited to the
+principal executive officer, the principal financial officer, the principal
+accounting officer or controller, or persons performing similar functions for
+the Company and its subsidiaries. The Code of Ethics and Conduct of Business
+Policy is available on the Company's website at www.fivestargroup.com. A copy of
+this Code of Business Conduct and Ethics is also incorporated by reference into
+this report as Exhibit 14.1. If the Company makes any substantive amendment to
+the Code of Ethics or grants any waiver from a provision of the Code of Ethics
+for its executive officers or directors, the Company will disclose the nature of
+such amendment or waiver on its website at www.fivestargroup.com. The Company
+will also provide a copy of such Code of Ethics and Code of Business Policy to
+any person upon written request made to the Company's Secretary in writing to
+the following address: Five Star Products, Inc., Attn: Secretary, 777
+Westchester Avenue, White Plains, NY 10604, with a copy to Five Star Products,
+Inc., General Counsel at the same address.
+
+38
+
+Item 11. Executive Compensation
+
+Executive Compensation
+
+         The following table and notes present the aggregate compensation paid
+by the Company's subsidiary, Five Star, to its President and to the Company's
+other executive officers for services rendered to Five Star in 2005.
+
+                           SUMMARY COMPENSATION TABLE
+
+Annual
+                                            Compensation
+                                          Salary          Bonus     All Other
+Name and Principal Position      Year      ($)             ($)         ($)
+- ---------------------------      ----      ---             ---         ---
+Charles Dawson                   2005     265,460      120,000(1)    1,804((2))
+President                        2004     251,933       55,000       1,170((2))
+                                 2003     234,018       40,000         695((2))
+
+Steven Schilit                   2005     236,080      120,000(1)    9,890((3))
+Executive Vice President and     2004     211,140       55,000       8,181((3))
+Chief Operating Officer          2003     212,027       40,000       5,968((3))
+
+Bruce Sherman                    2005     259,584      120,000(1)    9,176((4))
+Executive Vice President         2004     219,013       55,000       6,842((4))
+Sales                            2003     232,173       40,000       5,748((4))
+
+(1)  Bonus were accrued on December 31, 2004 and paid in 2005 pursuant to the
+     term of the Employment Agreement.  See "Executive Compensation - Employment
+     Agreements").
+
+(2)  Consists of executive life insurance premiums.
+
+(3)  Consists of $6,378, $5,200 and $4800 as matching contributions made by
+     the Company to the 401(k) Savings Plan for 2005, 2004 and 2003,
+     respectively, and $3,512, $2,981, and $1,168 for executive life
+     insurance premiums for 2005, 2004 and 2003, respectively.
+
+(4)  Consists of $6,737, $5,088 and $4,800 as matching contributions made by
+     the Company to the 401(k) Savings Plan for 2005, 2004 and 2003
+     respectively, and $2,438, $1,754 and $948 for executive life insurance
+     premiums for 2005, 2004 and 2003, respectively.
+
+Option Grants in 2005
+
+No options were granted to the named executive officers in 2005.
+
+39
+
+Aggregate Option Exercises in 2005
+                        And Fiscal Year-End Option Values
+
+         The following table and note contain information concerning the
+exercise of stock options under the Plan during 2005 and unexercised options
+under the Plan held at the end of 2005 by the named executive officers. Unless
+otherwise indicated, options are to purchase shares of Common Stock.
+
+(1)  Calculated  based on $0.18,  which the closing  price of the Common Stock
+     as was quoted on the OTC Bulletin  Board on December 31, 2005, which is
+     operated by the NASDAQ Stock Market.
+
+Directors Compensation
+
+         During 2005, directors who were not employees of the Company or its
+subsidiaries received $1,500 for each meeting of the Board of Directors
+attended, and generally do not receive any additional compensation for service
+on the committees of the Board of Directors except for Carll Tucker who received
+$25,000 for serving on the Audit Committee. Employees of the Company or its
+subsidiaries do not receive additional compensation for serving as directors.
+
+Employment Agreements
+
+         Charles Dawson. As of November 28, 2001, Charles Dawson and Five Star
+Group, Inc. entered into an employment agreement pursuant to which Mr. Dawson is
+employed as President of the Company for a period commencing January 1, 2002
+until December 31, 2005, (the "Employment Term"), unless sooner terminated. The
+Employment Agreement expired on December 31, 2005.
+
+         Commencing January 1, 2002, Mr. Dawson's base salary is $225,000, with
+annual increases of at least 3% effective on the second year of the Employment
+Term. Mr. Dawson will receive a target bonus of $100,000, calculated based upon
+the following two components: (1) earnings growth of the Company, and (2) an
+achievement of certain Company goals, weighted 75% and 25% respectively. Mr.
+Dawson's target bonus for the years 2004 and 2005, was $120,000, and $130,000,
+
+40
+
+respectively, which was be determined by components and weighting factors based
+upon the goals and objectives of the Company, mutually agreed upon. Pursuant to
+the employment agreement, on November 28, 2001 the Company granted Mr. Dawson
+under the Company's option plan, options to purchase 150,000 shares of the
+Company's Common Stock at an exercise price of $0.14 per share. Such options
+vest 20% immediately and 20% on each November 28, commencing November 28, 2001
+and terminating on November 28, 2006. The Company is also required to provide
+Mr. Dawson with an automobile.
+
+         The Company may terminate the employment agreement for cause which is
+defined as (i) breach by Mr. Dawson of any of the terms of the employment
+agreement, provided that the Company has given fifteen days notice prior to
+termination for any breach of any of the terms of the employment agreement which
+are capable of cure, (ii) gross neglect by Mr. Dawson of his duties continuing
+for 30 days after written warning issued to Mr. Dawson setting forth the conduct
+constituting such gross neglect, (iii) conviction of Mr. Dawson for any felony
+or any crime involving moral turpitude; (iv) the conviction of Mr. Dawson of any
+offense involving the property of the Company or any of its affiliates; (v) the
+commission by Mr. Dawson of any act of fraud or dishonesty; (vi) the engagement
+by Mr. Dawson in misconduct resulting in serious injury to the Company, or (vii)
+the physical or mental disability of Mr. Dawson, whether totally or partially,
+if he is unable to perform substantially his duties for a period of (i) two
+consecutive months or (ii) shorter periods aggregating three months during any
+twelve month period, such termination to be effective thirty days after written
+notice of such decision delivered to Mr. Dawson. If Mr. Dawson is terminated for
+cause, he shall not be entitled to any compensation, including without
+limitation, the bonus, if any, after the date of termination for the year in
+which the termination takes place. If Mr. Dawson's employment is terminated by
+his death or disability, the Company is required to pay Mr. Dawson his base
+salary then in effect for the month during which termination occurred, and four
+months thereafter. In the event that termination occurs more than six months
+after the start of the then-current contract year, Mr. Dawson shall receive a
+bonus for that year prorated through the date of termination.
+
+         If the Company terminates the employment agreement for any reason,
+other than those set forth in the employment agreement, the Company is obligated
+to continue to pay Mr. Dawson's base salary as then in effect for the period
+commencing from the date of termination and ending on the termination date of
+the employment agreement and shall only be obligated to pay the Bonus, if any,
+through the date of termination on a pro rata basis.
+
+         Bruce Sherman As of November 28, 2001, Bruce Sherman and Five Star
+Group, Inc. entered into an employment agreement pursuant to which Mr. Sherman
+is employed as Executive Vice President, Sales of the Company for a period
+commencing January 1, 2002 until December 31, 2005, (the "Employment Term"),
+unless sooner terminated. The employment Agreement expired on December 31, 2005.
+
+         Commencing January 1, 2002, Mr. Sherman's base salary is $220,000, with
+annual increases of at least 3% effective on the second year of the Employment
+Term. Mr. Sherman will receive a target bonus of $100,000, calculated based upon
+the following two components: (1) earnings growth of the Company, and (2) an
+achievement of certain Company goals, weighted 75% and 25% respectively. Mr.
+Sherman's target bonus for the years 2004 and 2005, was $120,000, and $130,000,
+
+41
+
+respectively, which was determined by components and weighting factors based
+upon the goals and objectives of the Company, mutually agreed upon. Pursuant to
+the employment agreement, on November 28, 2001 the Company granted Mr. Sherman
+under the Company's option plan, options to purchase 150,000 shares of the
+Company's Common Stock at an exercise price of $0.14 per share. Such options
+vest 20% immediately and 20% on each November 28, commencing November 28, 2001
+and terminating on November 28, 2006. The Company is also required to provide
+Mr. Sherman with an automobile.
+
+         The Company may terminate the employment agreement for cause which is
+defined as (i) breach by Mr. Sherman of any of the terms of the employment
+agreement, provided that the Company has given fifteen days notice prior to
+termination for any breach of any of the terms of the employment agreement which
+are capable of cure, (ii) gross neglect by Mr. Sherman of his duties continuing
+for 30 days after written warning issued to Mr. Sherman setting forth the
+conduct constituting such gross neglect, (iii) conviction of Mr. Sherman for any
+felony or any crime involving moral turpitude; (iv) the conviction of Mr.
+Sherman of any offense involving the property of the Company or any of its
+affiliates; (v) the commission by Mr. Sherman of any act of fraud or dishonesty;
+(vi) the engagement by Mr. Sherman in misconduct resulting in serious injury to
+the Company, or (vii) the physical or mental disability of Mr. Sherman, whether
+totally or partially, if he is unable to perform substantially his duties for a
+period of (i) two consecutive months or (ii) shorter periods aggregating three
+months during any twelve month period, such termination to be effective thirty
+days after written notice of such decision delivered to Mr. Sherman. If Mr.
+Sherman is terminated for cause, he shall not be entitled to any compensation,
+including without limitation, the bonus, if any, after the date of termination
+for the year in which the termination takes place. If Mr. Sherman's employment
+is terminated by his death or disability, the Company is required to pay Mr.
+Sherman his base salary then in effect for the month during which termination
+occurred, and four months thereafter. In the event that termination occurs more
+than six months after the start of the then-current contract year, Mr. Sherman
+shall receive a bonus for that year prorated through the date of termination.
+
+         If the Company terminates the employment agreement for any reason,
+other than those set forth in the employment agreement, the Company is obligated
+to continue to pay Mr. Sherman's base salary as then in effect for the period
+commencing from the date of termination and ending on the termination date of
+the employment agreement and shall only be obligated to pay the Bonus, if any,
+through the date of termination on a pro rata basis.
+
+         Steven Schilit As of November 28, 2001, Steven Schilit and Five Star
+Group, Inc. entered into an employment agreement pursuant to which Mr. Schilit
+is employed as Executive Vice President and Chief Operating Officer of the
+Company for a period commencing January 1, 2002 until December 31, 2005, (the
+"Employment Term"), unless sooner terminated. The employment Agreement expired
+on December 31, 2005.
+
+         Commencing January 1, 2002, Mr. Schilit's base salary is $200,000, with
+annual increases of at least 3% effective on the second year of the Employment
+Term. Mr. Schilit will receive a target bonus of $100,000, calculated based upon
+the following two components: (1) earnings growth of the Company, and (2) an
+achievement of certain Company goals, weighted 75% and 25% respectively. Mr.
+
+42
+
+Schilit's target bonus for the years 2004 and 2005, was be $120,000, and
+$130,000, respectively, which was determined by components and weighting factors
+based upon the goals and objectives of the Company, mutually agreed upon.
+Pursuant to the employment agreement, on November 28, 2001 the Company granted
+Mr. Schilit under the Company's option plan, options to purchase 150,000 shares
+of the Company's Common Stock at an exercise price of $0.14 per share. Such
+options vest 20% immediately and 20% on each November 28, commencing November
+28, 2001 and terminating on November 28, 2005. The Company is required also to
+provide Mr. Schilit with an automobile.
+
+         The Company may terminate the employment agreement for cause which is
+defined as (i) breach by Mr. Schilit of any of the terms of the employment
+agreement, provided that the Company has given fifteen days notice prior to
+termination for any breach of any of the terms of the employment agreement which
+are capable of cure, (ii) gross neglect by Mr. Schilit of his duties continuing
+for 30 days after written warning issued to Mr. Schilit setting forth the
+conduct constituting such gross neglect, (iii) conviction of Mr. Schilit for any
+felony or any crime involving moral turpitude; (iv) the conviction of Mr.
+Schilit of any offense involving the property of the Company or any of its
+affiliates; (v) the commission by Mr. Schilit of any act of fraud or dishonesty;
+(vi) the engagement by Mr. Schilit in misconduct resulting in serious injury to
+the Company, or (vii) the physical or mental disability of Mr. Schilit, whether
+totally or partially, if he is unable to perform substantially his duties for a
+period of (i) two consecutive months or (ii) shorter periods aggregating three
+months during any twelve month period, such termination to be effective thirty
+days after written notice of such decision delivered to Mr. Schilit. If Mr.
+Schilit is terminated for cause, he shall not be entitled to any compensation,
+including without limitation, the bonus, if any, after the date of termination
+for the year in which the termination takes place. If Mr. Schilit's employment
+is terminated by his death or disability, the Company is required to pay Mr.
+Schilit his base salary then in effect for the month during which termination
+occurred, and four months thereafter. In the event that termination occurs more
+than six months after the start of the then-current contract year, Mr. Schilit
+shall receive a bonus for that year prorated through the date of termination.
+
+         If the Company terminates the employment agreement for any reason,
+other than those set forth in the employment agreement, the Company is obligated
+to continue to pay Mr. Schilit's base salary as then in effect for the period
+commencing from the date of termination and ending on the termination date of
+the employment agreement and shall only be obligated to pay the Bonus, if any,
+through the date of termination on a pro rata basis.
+
+43
+
+Item 12. Security Ownership of Certain Beneficial Owners and Management
+
+                             PRINCIPAL STOCKHOLDERS
+
+         The following table sets forth certain information as of March 15,
+2006, with respect to shares of Common Stock which are beneficially owned by (a)
+each person who owns more than 5% of the Company's Common Stock, (b) each
+director of the Company, (c) each of the persons named in the Summary
+Compensation Table and (d) all executive officers and directors of the Company
+as a group.
+
+                                                 Beneficial Ownership
+
+                                              Number of             Percentage
+Name and Address                            Common Shares              of Class
+
+National Patent Development Corporation       9,133,417(1)             63.8%
+777 Westchester Avenue
+White Plains, NY 10604
+
+Jerome I. Feldman                               150,000(2)               *
+
+Charles Dawson                                  150,000(2)               *
+
+Bruce Sherman                                 150,000((2))               *
+
+Steven Schilit                                150,000((2))               *
+
+John Moran                                    150,000((2))               *
+
+Carll Tucker                                   50,000((2))               *
+
+All directors and executive officers
+as a group (6 persons)                        800,000((2))              5.3%
+- --------------
+* The number of shares owned is less than one percent of the outstanding shares
+of Common Stock.
+
+(1)      See "Certain Relationships and Related Transactions."
+
+(2)      Includes 150,000 shares of Common Stock issuable upon exercise of
+         currently exercisable stock options held by each of Messrs. Feldman,
+         Dawson, Sherman, Schilit, Moran, and 50,000 shares of Common Stock
+         issuable upon exercise of currently exercisable stock options held by
+         Mr. Tucker, and 800,000 shares for all executives and officers as a
+         group.
+
+44
+
+EQUITY COMPENSATION PLAN INFORMATION
+
+         The following is information as of December 31, 2005 about shares of
+Company Common Stock that may be issued upon exercise of options under the
+Company's Non-Qualified Stock Option Plan. For a description of the material
+terms of the Company's Non-Qualified Stock Option Plan, see Note 8 to the Notes
+to the Consolidated Financial Statements included in the Company's Annual Report
+for the year ended December 31, 2005.
+
+- ------------------------------- ---------------------------- ------------------------- ---------------------------------
+Plan category                   Number of securities         Weighted-average          Number of securities
+Non-Qualified                   to be issued upon            exercise price of         remaining available for
+Stock Option Plan               exercise of                  outstanding options,      future issuance under
+                                outstanding options,         warrants and rights       equity compensation
+                                warrants and rights                                    plans (excluding securities
+                                                                                       reflected in column(a)
+                                (a)                          (b)                       (c)
+- ------------------------------- ---------------------------- ------------------------- ---------------------------------
+- ------------------------------- ---------------------------- ------------------------- ---------------------------------
+Equity compensation             (outstanding options)        (weighted average         number of options left
+plans not approved                                           price)
+                                                                                             
+by security holders                      1,100,000                    $0.14                       1,500,000
+- ------------------------------- ---------------------------- ------------------------- ---------------------------------
+- ------------------------------- ---------------------------- ------------------------- ---------------------------------
+Total                                    1,100,000                    $0.14                       1,500,000
+- ------------------------------- ---------------------------- ------------------------- ---------------------------------
+
+Item 13. Certain Relationships and Related Transactions
+
+         On September 30, 1998, the Company purchased its business from GP
+Strategies Corporation ("GPS"), for approximately $16,500,000 in cash and a five
+year, 8%, $5,000,000 unsecured promissory note (the "Note"). The maturity of the
+Note was scheduled to mature on June 30, 2005 and was further extended until
+June 30, 2006.
+
+         On August 2, 2002 the Company entered into a transaction to reduce its
+long-term debt to GPS. The principal amount of the Note was reduced by $500,000
+to $4,500,000. In connection with this debt reduction, GPS received 2,272,727
+shares of the Company's common stock. The transaction valued the Company's
+common stock at $0.22 per share, which was a premium to the open market value at
+that time. As a result of this transaction, GPS' ownership of the Company
+increased to approximately 48% from approximately 37% of the Company's
+outstanding shares of common stock.
+
+         On October 8, 2003, GPS exchanged $500,000 principal amount of the Note
+for 2,000,000 shares of the Company's common stock, reducing the outstanding
+principal amount of the Note to $3,000,000 (as described below) and increasing
+GPS' ownership of the Company's common stock to approximately 54% of the then
+outstanding shares. In consideration for GPS agreeing to exchange the debt for
+common stock at a conversion price of $0.25 per share, which was more than twice
+the $0.11 closing market price of the Company's common stock on the day prior to
+approval of the transaction, the Company agreed to terminate the voting
+agreement between the Company and GPS. The voting agreement, which by its terms
+would in any case have terminated on June 30, 2004, provided that GPS (i) would
+vote its shares of the Company's common stock so that not more than 50% of the
+members of the Company's board of directors would be officers or directors of
+
+45
+
+the Company and (ii) would vote on matters other than the election of directors
+in the same proportion as the Company's other shareholders. The transaction was
+approved by a Special Committee of Company's board of directors; the Special
+Committee consisted of an independent non-management director who is
+unaffiliated with the Company.
+
+         On June 20, 2003, GPS entered into an Agreement of Subordination and
+Assignments (the "Subordination Agreement") with the Company and its lenders
+that permits the annual repayment of principal on the Note. Pursuant to the
+provisions of the Subordination Agreement, in 2004 GPS received partial
+repayment from the Company in the amount of $1,200,000, which along with the
+exchange transaction described above reduced the outstanding principal amount of
+the Note from $4,500,000 to $2,800,000. On July 30, 2004, GPS contributed its
+ownership interest in the Company and the Note to NPDC. On November 24, 2004,
+GPS completed the spin-off of the common stock NPDC.
+
+         The Note, as amended, bore interest at 8%, payable quarterly, and
+matured on June 30, 2005. On June 30, 2005 the Company and NPDC agreed to extend
+the Note for a one-year term maturing on June 30, 2006. In consideration for
+NPDC extending the Note, the Company paid NPDC a fee of one percent of the
+Note's outstanding balance or $28,000. In addition, the interest rate on the
+Note has been increased to 9%.
+
+         The Note is subordinated to the indebtedness under the Loan Agreement
+according to an Agreement of Subordination & Assignment (the "Subordination
+Agreement") between Five Star Group, Inc. and JL Distributors, Inc. dated June
+20, 2003. The Subordination Agreement permits the annual repayment of principal
+under certain circumstances. The balance of the Note was $2,800,000 as of
+December 31, 2005.
+
+         On February 6, 2004, the Company announced an issuer tender offer
+through which it would repurchase up to 5,000,000 shares, or approximately 30%
+of its common stock currently outstanding, at $0.21 per share, originally set to
+expire on March 16, 2004. On March 17, 2004, the Company announced that it had
+increased the price it was offering to pay for the shares in the tender offer to
+$0.25 per share and extended the offer to March 31, 2004. Based on the final
+tabulation by the depositary for the tender offer, approximately 2,628,000
+shares of common stock were tendered and acquired by the Company. The effect of
+the tender offer and the exchange transactions described above was to increase
+GPS' ownership in the Company to approximately 64%.
+
+         If, following the tender offer, GPS were to increase its ownership to
+at least 80% of Five Star's common stock, Five Star would become, for federal
+tax purposes, part of the affiliated group of which GPS is the common parent. As
+a member of such affiliated group, Five Star would be included in GPS's
+consolidated federal income tax returns, Five Star's income or loss would be
+included as part of the income or loss of the affiliated group and any of Five
+Star's income so included might be offset by the consolidated net operating
+losses, if any, of the affiliated group. The agreement between GPS and Five Star
+also provided that, if Five Star became a member of the affiliated group, GPS
+and Five Star would enter into a tax sharing agreement pursuant to which Five
+Star would make tax sharing payments to GPS equal to 80% of the amount of taxes
+Five Star would pay if Five Star were to file separate consolidated tax returns
+but did not pay as a result of being included in GPS affiliated group. As a
+
+46
+
+result of the spin-off of NPDC, which held GPS's interest in Five Star, NPDC
+would enter into such tax sharing agreement in lieu of GPS.
+
+         GPS has guaranteed the leases for Five Star's New Jersey and
+Connecticut warehouses and leases for certain equipment, totaling approximately
+$1,589,000 per year through the first quarter of 2007. GPS's guarantee of such
+leases was in effect when the Company's business was conducted by a wholly-owned
+subsidiary of GPS. In 1998, GPS sold substantially all of the operating assets
+of the Five Star business to the predecessor corporation of the Company. As part
+of this transaction, the landlord of the New Jersey and Connecticut facilities
+and the lessor of the equipment did not consent to the release of GPS's
+guarantee. GPS's guarantees have continued after the Spin-Off.
+
+         Five Star's White Plains, New York office space is provided by GPS
+pursuant to the Management Services Agreement described below.
+
+         John Moran, the Chief Executive Officer of GSE and a former executive
+of the GPS, is a director of the Company and Andrea D. Kantor, the Executive
+Vice President and General Counsel of GPS, is also the General Counsel of the
+Company.
+
+         NPDC provided legal, tax, business development, insurance and employee
+benefit administration services to the Company pursuant to a management services
+agreement for a fee of up to $10,000 per month. The agreement is automatically
+renewable for successive one-year terms unless one of the parties notifies the
+other in writing at least six months prior to the end of any renewal thereof.
+The agreement was renewed for 2006. The management fee increased to $25,000 per
+month effective October 1, 2004. In addition the Company agreed to reimburse
+NPDC for $16,666 per month for Mr. Feldman's (NPDC's Chief Executive Officer)
+for service to the Company effective October 1, 2004. On January 1, 2006 the
+management fee was reduced from $25,000 to $14,167. As a result of the spin-off
+of NPDC, GPS transferred to NPDC the rights and obligations under this
+Agreement.
+
+         Fees incurred under the Agreement totaled $500,000, $215,000 and
+$100,000, for the years ended December 31, 2005, 2004 and 2003, respectively. At
+December 31, 2004, the amount due to GPS under the Agreement which is included
+in accounts payable and accrued expenses was $37,000. At December 31, 2005, the
+amount due to NPDC under the Agreement was $43,000, which is included in
+accounts payable and accrued expenses.
+
+         In addition, GPS and NPDC incurred certain expenses on behalf of Five
+Star, primarily involving insurance, legal and other professional expenses. Five
+Star reimbursed GPS and NPDC for such expense, which amounted to approximately
+$242,000, $239,000 and $338,000 for the years ended December 31, 2005, 2004 and
+2003, respectively.
+
+47
+
+ITEM 14.          PRINCIPAL ACCOUNTANT FEES AND SERVICES
+
+Independent Auditors Fees
+
+         The following table sets forth the fees billed to the Company for the
+fiscal years ended December 31, 2005 and 2004 for professional services rendered
+by the Company's independent auditors, Eisner LLP:
+
+                                            December 31,        December 31,
+                                                2005                2004
+                                                ----                ----
+           Audit Fees(a)......................$107,000.           $100,000
+           Audit-Related Fees(b)................$.0....           $ 10,000
+           Tax Fees                               0                    0
+           All other Fees.........................0...                 0
+- ----------
+(a)  Audit fees consisted principally of fees for the audit of the annual
+     financial statements and reviews of the condensed consolidated financial
+     statements included in the Company's quarterly reports on Form 10-Q and
+     review of registration statements.
+
+(b)  Audit-related fees consisted of the audit of the financial statements of
+     the Company's employee benefit plan.
+
+Policy on Pre-Approval of Services Provided by Independent Auditor
+
+         Pursuant to the requirements of the Sarbanes-Oxley Act of 2002, the
+terms of the engagement of Eisner LLP are subject to specific pre-approval
+policies of the Audit Committee. All audit and permitted non-audit services to
+be performed by Eisner LLP require pre-approval by the Audit Committee in
+accordance with pre-approval policies established by the Audit Committee. The
+procedures require all proposed engagements of Eisner LLP for services of any
+kind be directed to the Company's General Counsel and then submitted for
+approval to the Audit Committee prior to the beginning of any service.
+
+48
+
+PART IV
+
+Item 15. Exhibits, Financial Statement Schedules
+
+(a)(1) The following financial statements are included in Part II, Item 8:
+
+                                                                           Page
+
+Report of Independent Registered Public Accounting Firm                      20
+
+Financial Statements:
+
+         Consolidated Balance Sheets - December 31, 2005 and 2004            21
+
+         Consolidated Statements of Operations and Comprehensive Income -
+         Years ended December 31, 2005, 2004 and 2003                        22
+
+         Consolidated Statements of Changes in Stockholders' Equity -
+         Years ended December 31, 2005, 2004 and 2003                        23
+
+         Consolidated Statements of Cash Flows -
+         Years ended December 31, 2005, 2004 and 2003                        24
+
+         Notes to Consolidated Financial Statements                          25
+
+(a)(2)   Schedules have been omitted because they are not required
+         or are not applicable, or the required information has been
+          included in the financial statements or the notes thereto.
+
+(a)(3)   See accompanying Index to Exhibits
+
+49
+
+SIGNATURE
+
+         Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+                                                     FIVE STAR PRODUCTS, INC.
+
+Charles Dawson, President
+
+Dated:   March 31, 2005
+
+Signature                          Title
+
+Charles Dawson             President, and Director
+                           (Principal Executive and Operating Officer)
+
+Jerome I. Feldman          Chairman of the Board
+
+Bruce Sherman              Executive Vice President, Sales and Director
+
+Steven Schilit             Executive Vice President, Chief Operating Officer
+                           and Director
+
+Neal W. Collins            Chief Financial Officer
+                           (Principal Financial and Accounting Officer)
+
+John Moran                  Director
+
+50
+
+INDEX TO EXHIBITS
+
+Exhibit No.                                 Document
+
+ 3.            Amended Certificate of Incorporation of the Registrant.
+               Incorporated herein by reference to Exhibit 3 of the Registrant's
+               Annual Report on Form 10-K for the year ended December 31, 1996.
+
+ 3.1           Amended By-laws of the Registrant. Incorporated herein by
+               reference to Exhibit 3.1 of the Registrant's Annual Report on
+               Form 10-K/A for the year ended December 31, 2003.
+
+ 10.           1994 Stock Option Plan of the Registrant as amended on January 1,
+               2002. Incorporated herein by reference to Exhibit 10 of the
+               Registrant's Annual Report on Form 10-K for the year ended
+               December 31, 2001.
+
+ 10.1          Management Services Agreement, dated as of August 5, 1994,
+               between GP Strategies Corporation and the Registrant.
+               Incorporated herein by reference to Exhibit 10.3 of the
+               Registrant's Registration Statement on Form S-1 filed on July 22,
+               1994, Registration Statement No. 33-78252.
+
+ 10.2          Lease dated as of February 1, 1986 between Vernel Company and
+               Five Star Group, Inc., as amended on July 25, 1994. Incorporated
+               herein by reference to Exhibit 10.6 of the Registrant's Annual
+               Report on Form 10-K for the year ended December 31, 1998.
+
+ 10.3          Lease dated as of May 4, 1983 between Vornado, Inc., and Five
+               Star Group, Inc. Incorporated herein by reference to Exhibit 10.7
+               of the Registrant's Annual Report on Form 10-K for the year ended
+               December 31, 1998.
+
+ 10.4          Lease Modification and Extension Agreement dated July 6, 1996
+               between Hanover Public Warehousing, Inc. and Five Star Group,
+               Inc. Incorporated herein by reference to Exhibit 10.8 of the
+               Registrant's Annual Report on Form 10-K for the year ended
+               December 31, 1998.
+
+ 10.5          Agreement between Five Star Group and Local No. 11 affiliated
+               with International Brotherhood of Teamsters dated December 12,
+               2000. Incorporated herein by reference to Exhibit 10.7 to the
+               Registrant's Annual Report on Form 10-K for the year ended
+               December 31, 2000.
+
+ 10.6          Memorandum of Agreement by and between Five Star Group and
+               Teamsters Local 11, affiliated with International Brotherhood of
+               Teamsters dated December 12, 2003. Incorporated herein by
+               reference to Exhibit 10.7 of the Registrant's Annual Report on
+               Form 10-K for the year ended December 31, 2003.
+
+51
+
+10.7          Loan and Security Agreement dated as of June 20, 2003 by and
+               between the Registrant, as Borrower and Fleet Capital as Lender.
+               Incorporated herein by reference to Exhibit 10.1 of the
+               Registrant's Form 10-Q for the quarter ended June 30, 2003.
+
+ 10.8          Agreement of Subordination & Assignment dated as of June 20, 2003
+               by JL Distributions, Inc., as Creditor in favor of Fleet Capital
+               Corporation as Lender to Five Star Group, Inc. as Debtor.
+               Incorporated herein by reference to Exhibit 10.2 of the
+               Registrant's Form 10-Q for the quarter ended June 30, 2003.
+
+ 10.9          First Modification Agreement dated as of May 28, 2004 by and
+               between Five Star Group, Inc. as borrower and Fleet Capital
+               Corporation, as Lender. Incorporated herein by reference to
+               Exhibit 10.11 of the Registrant;s Form 10-K for the year ended
+               December 31, 2004.
+
+ 10.10         Second Modification Agreement dated as of March 22, 2005 by and
+               between Five Star Group, Inc. as borrower and Fleet Capital
+               Corporation, as Lender. Incorporated herein by reference to
+               Exhibit 10.12 of the Registrant's Form 10-K for the year ended
+               December 31, 2004.
+
+ 10.11         Third Modification Agreement dated as of June 1, 2005 by and
+               between Five Star Group, as borrower and fleet Capital
+               Corporation, as Lender. Incorporated herein by reference to
+               Exhibit 10.1 of the Registrant's Form 10-Q for the second quarter
+               ended June 30, 2005.
+
+ 10.12         Fourth Modification Agreement dated September 26, 2005, but
+               effective as of August 1, 2005 by and between Five Star Group,
+               Inc. as borrower and Fleet Capital Corporation, as Lender.
+               Incorporated herein by reference to Exhibit 10.1 of the
+               Registrant's Form 10-Q for the third quarter ended September 30,
+               2005.
+
+ 10.13         Fifth Modification Agreement dated November 14, 2005 -Waiver of
+               minimum Fixed Charge Coverage Ratio requirement for the three
+               months ended September 30, 2005 by and between Five Star Group,
+               Inc. as borrower and Fleet Capital Corporation, as Lender.
+               Incorporated herein by reference to Exhibit 10.2 of the
+               Registrant's Form 10-Q for the third quarter ended September 30,
+               2005.
+
+ 10.14         Sixth Modification Agreement dated March 23, 2006 - Waiver of
+               Fixed Charge Coverage for the fiscal quarter and fiscal year
+               ending December 31, 2005 by and between Five Star Group, Inc. as
+               borrower and Fleet Capital Corporation, as Lender.*
+
+ 10.15         Amended Note in the amount fo $2,800,000 dated June 30, 2005
+               between the Registrant and National Patent Development
+               Corporation. Incorporated herein by reference to Exchibit 10.2 of
+               the Registrant's Form 10-Q for the second quarter ended June 30,
+               2005.
+
+52
+
+10.16         Consulting and Severance Agreement dated as of February 8, 2002
+               between the Registrant and Richard Grad. Incorporated herein by
+               reference to Exhibit 10.11 of the Registrant's Annual Report on
+               Form 10-K for the year ended December 31, 2001.
+
+ 10.17         Employment Agreement dated as of November 28, 2001 between the
+               Registrant and Charles Dawson. Incorporated herein by reference
+               to Exhibit 10.12 of the Registrant's Annual Repot on Form 10-K
+               for the year ended December 31, 2001.
+
+ 10.18         Employment Agreement dated as of November 28, 2001 between the
+               Registrant and Bruce Sherman. Incorporated herein by reference to
+               Exhibit 10.13 of the Registrant's Annual Report on Form 10-K for
+               the year ended December 31, 2001.
+
+ 10.19         Employment Agreement dated as of November 28, 2001 between the
+               Registrant and Steven Schilit. Incorporated herein by reference
+               to Exhibit 10.14 of the Registrant's Annual Report on Form 10-K
+               for the year ended December 31, 2001.
+
+ 10.20         Agreement dated as of January 22, 2004, between the Company and
+               GP Strategies Corporation. Incorporated herein by reference to
+               Exhibit 99(d) of the Registrant Schedule TO filed on February 6,
+               2004.
+
+ 10.21         Tax Sharing Agreement dated as of February 1, 2004 between
+               Registrant and GP Strategies Corporation. Incorporated herein by
+               reference to Exhibit 10.19 of the Registrant's Annual Report on
+               Form 10-K for the year ended December 31, 2003.
+
+ 14.1          Code of Ethics Policy. Incorporated herein by reference to
+               Exhibit 14.1 of the Registrant's Annual Report on Form 10-K/A for
+               the year ended December 31, 2003
+
+ 21.           Subsidiaries*
+
+ 22.           N/A
+
+ 31.1          Certification of Chief Executive Officer*
+
+ 31.2          Certification of Chief Financial Officer*
+
+ 32.1          Certification Pursuant to 18 U.S.C. Section 1350*
+
+*  Filed herewith
+
+53
+
+<EX-10>
+ 2
+ ex1016.txt
+ SIXTH MODIFICATION AGREEMENT DATED MARCH 23, 2006
+
+March 23, 2006
+
+FIVE STAR GROUP, INC.
+903 Murray Road
+P.O. Box 1960
+East Hanover, New Jersey 07936
+
+       Attention: Steve Schilit, Exec. Vice President
+
+               Re: $35,000,000 Revolving Loan from Bank of America, N.A. to Five
+                    Star Group, Inc.
+
+                   SIXTH MODIFICATION AGREEMENT:
+                             Waiver of Fixed Charge Coverage for
+                             the fiscal quarter and fiscal year
+                             ending December 31 2005 and
+                             resetting of Fixed Charge Coverage
+                             effective as at March 31, 2006 and
+                             thereafter and resetting of covenant
+                             prohibiting losses in any two fiscal
+                             consecutive quarters
+
+Dear Mr. Schilit:
+
+                 On or about June 20, 2003, Five Star Group, Inc. ("Borrower")
+and Bank of America, N.A. (through its predecessor Fleet Capital Corporation and
+hereinafter "Lender") entered into a certain Loan and Security Agreement which
+has been amended by the following instruments of modification (such certain Loan
+and Security Agreement as so amended being hereinafter referred to as the "Loan
+Agreement"):
+
+(a)                        an instrument of modification dated as of May 28,
+                           2004 and entitled "First Modification Agreement";
+
+(b)                        an instrument of modification dated as of March 22,
+                           2005 and entitled "Second Modification Agreement";
+
+(c)                        an instrument of modification dated as of June 1,
+                           2005 and entitled "Third Modification Agreement";
+
+(d)                        an instrument of modification dated as of September
+                           26, 2005, but effective as of August 1, 2005, and
+                           entitled "Fourth Modification Agreement"; and
+
+(e)                        an instrument of modification dated as of November
+                           14, 2005, but effective as of August 1, 2005, and
+                           constituting a fifth modification agreement.
+
+Section 5.21(a) and (b) of the Loan Agreement provides as
+follows:
+
+                  Fixed Charge Coverage:
+
+                         (a) As at March 31, 2003 and continuing at all times
+                  thereafter, BORROWER must maintain its "Fixed Charge Coverage"
+                  at a ratio greater than 1.1 to 1.0.
+
+                         (b) Compliance with this Section will be tested
+                  quarterly and annually, using a rolling 12 month basis, by
+                  reference to BORROWER's annual and quarterly financial
+                  statements required to be submitted pursuant to Section 5.6
+                  above and by using GAAP.
+
+                 Borrower has failed to comply with the aforesaid covenant for
+its fiscal quarter and fiscal year ending December 31 2005, because its Fixed
+Charge Coverage as at such test date was less than 1.1 to 1.0. Borrower's
+failure to comply with the aforesaid covenant constitutes an Event of Default
+under, among other provisions, Section 7.2 of the Loan Agreement.
+
+                 Borrower has asked that Lender waive such Event of Default for
+the fiscal quarter and fiscal year ending December 31, 2005. Borrower has also
+asked that Lender reset the Fixed Charge Coverage effective with the fiscal
+quarter ending March 31, 2006, and for all fiscal quarters thereafter. Borrower
+has lastly asked that Lender amend the covenant prohibiting losses in any two
+fiscal consecutive quarters so that it will not be tested as at March 31, 2006.
+
+                 In this regard, please be advised that Lender will honor
+Borrower's request and does hereby do each of the following:
+
+                 (i) Lender does hereby waive Borrower's default for failing to
+comply with the requirement set forth in Section 5.21(a) and (b) of the Loan
+Agreement that Borrower's Fixed Charge Coverage be more than 1.1 to 1.0 for the
+fiscal quarter and fiscal year ending December 31, 2005.
+
+                 (ii) Lender does hereby amend Section 5.21(a) and Section
+5.21(b) of the Loan Agreement as follows (it being intended to reset Borrower's
+Fixed Charge Coverage effective with the fiscal quarter ending March 31, 2006,
+and for all fiscal quarters thereafter):
+
+                           (a)   (1) As at March 31, 2003 and at all times
+                                 thereafter through and including June 30, 2005,
+                                 BORROWER must maintain its "Fixed Charge
+                                 Coverage" at a ratio greater than 1.1 to 1.0.
+
+2
+
+(2) As at September 30, 2005, and December 30,
+                                 2005, BORROWER's compliance with any "Fixed
+                                 Charge Coverage" shall be waived.
+
+                                 (3) As at March 31, 2006, BORROWER must
+                                 maintain its "Fixed Charge Coverage" at a ratio
+                                 greater than 1.0 to 1.0 for the three-month
+                                 period ending March 31, 2006.
+
+                                 (4) As at June 30, 2006, BORROWER must maintain
+                                 its "Fixed Charge Coverage" at a ratio greater
+                                 than 1.1 to 1.0 for the six-month period ending
+                                 June 30, 2006.
+
+                                 (5) As at September 30, 2006, BORROWER must
+                                 maintain its "Fixed Charge Coverage" at a ratio
+                                 greater than 1.1 to 1.0 for the nine-month
+                                 period ending September 30, 2006.
+
+                                 (6) As at December 31, 2006, BORROWER must
+                                 maintain its "Fixed Charge Coverage" at a ratio
+                                 greater than 1.1 to 1.0 for the twelve-month
+                                 period ending December 31, 2006.
+
+                                 (7) As at March 31, 2007, and continuing at all
+                                 times thereafter, BORROWER must maintain its
+                                 "Fixed Charge Coverage" at a ratio greater than
+                                 1.1 to 1.0.
+
+                           (b)   Except for the test dates March 31, 2006, and
+                                 June 30, 2006, and September 30, 2006, on which
+                                 compliance will be tested on a year-to-date
+                                 basis, compliance with this Section will be
+                                 tested quarterly and annually, using a rolling
+                                 12 month basis, by reference to BORROWER's
+                                 annual and quarterly financial statements
+                                 required to be submitted pursuant to Section
+                                 5.6 above and by using GAAP.
+
+3
+
+(iii) Lender does hereby amend Section 6.15(b) of the Loan
+Agreement as follows (it being intended to waive testing as at March 31, 2006,
+of the covenant prohibiting losses in any two fiscal consecutive quarters):
+
+                           (b)      LENDER will determine compliance with this
+                                    Section on a quarterly basis (commencing
+                                    with the fiscal quarter ending March 31,
+                                    2003) using the consolidated financial
+                                    information required to be submitted by
+                                    BORROWER under this Agreement and by using
+                                    GAAP, provided, however, that
+                                    notwithstanding the foregoing, LENDER will
+                                    not test this covenant on March 31, 2006.
+
+                 Lender's aforesaid waiver and amendments are subject to
+Borrower's confirmation and acceptance of the following terms and conditions
+(and Borrower's acceptance of this letter by its execution of a copy hereof will
+be deemed such confirmation and acceptance):
+
+         (1)               (a) Borrower must confirm and, by its acceptance and
+                           execution of a copy of this letter, does confirm that
+                           all amounts due and owing under the Revolving Loan,
+                           the Loan Agreement and the Loan Documents described
+                           therein (hereinafter the "Loan Documents") are owed
+                           to Lender without offset, defense, recoupment,
+                           set-off, deduction, or counterclaim.
+
+                  (b)      Borrower must confirm and, by its acceptance and
+                           execution of a copy of this letter, does confirm that
+                           as of March 21, 2006, the following principal and
+                           interest amounts were owed on the Revolving Loan:
+
+                           (1) Principal $21,026,009.38
+                           (2) Interest: interest which accrued from March 1,
+                               2006.
+
+         (2)      Borrower must confirm and, by its acceptance and execution of
+                  a copy of this letter, does confirm that there exist no claims
+                  or charges against any actions or inactions of Lender in
+                  extending the Revolving Loan or in making disbursements
+                  thereunder or in otherwise administering the Revolving Loan,
+                  the Loan Agreement and/or the Loan Documents.
+
+         (3)      Borrower must waive, release and discharge and, by its
+                  acceptance and execution of a copy of this letter, does waive,
+                  release and discharge any and all claims or causes of action
+                  of any kind whatsoever, whether at law or in equity, arising
+                  on or prior to the date hereof, which Borrower may have
+
+4
+
+against Lender, its predecessors, its successors and assigns,
+                  agents, employees and counsel, in connection with the
+                  Revolving Loan, the Loan Agreement and the Loan Documents. The
+                  waivers and releases made herein include the waiver of any
+                  damages which may have been or may in the future be caused to
+                  Borrower or to its properties or business prospects because of
+                  the actions waived and released and the agreements made
+                  herein, including without limitation, any actual or implicit,
+                  direct or indirect, incidental or consequential damages
+                  suffered by Borrower therefrom, including but not limited to
+                  (a) lost profits, (b) loss of business opportunity, (c)
+                  increased financing costs, (d) increased legal and other
+                  administrative fees and (e) damages to business reputation.
+
+         (4)      Borrower must confirm and, by its acceptance and execution of
+                  a copy of this letter, does confirm that all of the terms,
+                  covenants and provisions of the Revolving Loan, the Loan
+                  Agreement and the Loan Documents (as all have been heretofore
+                  and hereby amended) shall continue in full force and effect.
+
+         (5)      Borrower must continue to comply with the terms of the
+                  Revolving Loan and not be in default thereunder.
+
+         (6)      All rights of Lender shall continue to be determined in
+                  accordance with the Loan Agreement and the Loan Documents
+                  until all Liabilities (as defined in the Loan Agreement) are
+                  paid in full.
+
+         (7)      This waiver with respect to the Fixed Charge Coverage of
+                  Section 5.21 of the Loan Agreement relates only to Borrower's
+                  fiscal quarter and fiscal year ending December 31, 2005, and
+                  only for such fiscal quarter and such fiscal year ending
+                  December 31, 2005.
+
+         (8)      The Fixed Charge Coverage provisions of Section 5.21(a) of the
+                  Loan Agreement, as hereby amended, will remain in effect for
+                  all quarters effective with the fiscal quarter ending March
+                  31, 2006, and for all fiscal quarters thereafter.
+
+         (9)      This waiver with respect to the covenant prohibiting losses in
+                  any two fiscal consecutive quarters as set forth in Section
+                  6.15(b) of the Loan Agreement relates only to Lender's
+                  agreement not to test such covenant as at March 31, 2006.
+
+         (10)     This letter will be deemed a modification of the Loan
+                  Agreement and Borrower's obligations hereunder will be
+                  considered a covenant of the Loan Agreement.
+
+5
+
+(11)     All of the Loan  Documents  described  and  defined  in the
+                  Loan  Agreement  shall be deemed to be  amended in manner
+                  consistent hereto and conforming herewith.
+
+         (12)     Five Star Products, Inc., as guarantor of the amounts owed
+                  under the Loan Agreement, must confirm to Lender that its
+                  instrument of guaranty continues in full force and effect and
+                  is not impaired or otherwise lessened or adversely affected by
+                  the waiver and amendment granted by this letter.
+
+         (13)     JL Distributors, Inc. as the holder of debt whose payment has
+                  been subordinated to the payment of the Liabilities owed under
+                  the Loan Agreement, must confirm to Lender that its instrument
+                  of subordination continues in full force and effect and is not
+                  impaired or otherwise lessened or adversely affected by the
+                  waiver and amendment granted by this letter.
+
+         (14)     Borrower must pay for the services of Lender's counsel who was
+                  engaged to review the Loan Agreement and to assist in the
+                  preparation of this letter and authorizes Lender to effect
+                  payment of such fee in the manner allowed by the
+                  "Authorization to Charge Accounts" as set forth in the Loan
+                  Agreement.
+
+                 If Borrower is in agreement with the terms and conditions of
+this letter, please execute and also have guarantor Five Star Products, Inc.,
+and subordinated debt holder JL Distributors, Inc., execute the enclosed copy of
+this letter and return it to me no later than March 25, 2006.
+
+                                             Very truly yours,
+
+                                             BANK OF AMERICA, N.A.
+
+By: Edmundo Kahn, Vice President
+
+6
+
+CONSENT OF FIVE STAR GROUP, INC.
+
+FIVE STAR GROUP, INC., hereby agrees to the terms and conditions
+of the above letter as of March 23, 2006.
+
+WITNESS:                                          FIVE STAR GROUP, INC.
+
+_____________________________                     By: _________________________
+Lydia DeSantis, Corporate Secretary                   Steve Schilit, Exec. VP
+
+7
+
+</EX-10>
+
+<EX-21>
+ 3
+ ex21.txt
+ SUBSIDIARIES
+ 
+                                                            Exhibit 21
+
+FIVE STAR PRODUCTS, INC.
+
+                                  SUBSIDIARIES
+
+Jurisdiction
+                                                                 Of
+                                                             Incorporation
+
+Five Star Group, Inc.                                          Delaware
+
+</EX-21>
+
+<EX-31>
+ 4
+ ex311.txt
+ CERTIFICATION OF CEO
+ 
+                                                                   Exhibit 31.1
+                                  CERTIFICATION
+
+         I, Charles Dawson, Chief Executive Officer of Five Star Products, Inc.,
+certify that:
+
+         1. I have reviewed this annual report on Form 10-K of Five Star
+Products, Inc.;
+
+         2. Based on my knowledge, this report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to make
+the statements made, in light of the circumstances under which such statements
+were made, not misleading with respect to the period covered by this report;
+
+         3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects the
+financial condition, results of operations and cash flows of the registrant as
+of, and for, the periods presented in this report;
+
+         4. The registrant's other certifying officer and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have:
+
+                  (a) Designed such disclosure controls and procedures, or
+         caused such disclosure controls and procedures to be designed under our
+         supervision, to ensure that material information relating to the
+         registrant, including its consolidated subsidiaries, is made known to
+         us by others within those entities, particularly during the period in
+         which this report is being prepared;
+
+                  (b) Evaluated the effectiveness of the registrant's disclosure
+         controls and procedures and presented in this report our conclusions
+         about the effectiveness of the disclosure controls and procedures, as
+         of the end of the period covered by this report based on such
+         evaluation; and
+
+                  (c) Disclosed in this report any change in the registrant's
+         internal control over financial reporting that occurred during the
+         registrant's most recent fiscal quarter (the registrant's fourth fiscal
+         quarter in the case of an annual report) that has materially affected,
+         or is reasonably likely to materially affect, the registrant's internal
+         control over financial reporting; and
+
+         5. The registrant's other certifying officer and I have disclosed,
+based on our most recent evaluation of internal control over financial
+reporting, to the registrant's auditors and the audit committee of the
+registrant's board of directors (or persons performing the equivalent function):
+
+                  (a) All significant deficiencies and material weaknesses in
+         the design or operation of internal control over financial reporting
+
+which are reasonably likely to adversely affect the registrant's
+         ability to record, process, summarize and report financial information;
+         and
+
+                  (b) Any fraud, whether or not material, that involves
+         management or other employees who have a significant role in the
+         registrant's internal control over financial reporting.
+
+Date: March 31, 2006
+
+Charles Dawson
+
+</EX-31>
+
+<EX-31>
+ 5
+ ex312.txt
+ CERTIFICATION OF CFO
+ 
+                                                               Exhibit 31.2
+                                  CERTIFICATION
+
+         I, Neal Collins, Chief Financial Officer of Five Star Products, Inc.,
+certify that:
+
+         1. I have reviewed this annual report on Form 10-K of Five Star
+Products, Inc.;
+
+         2. Based on my knowledge, this report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to make
+the statements made, in light of the circumstances under which such statements
+were made, not misleading with respect to the period covered by this report;
+
+         3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects the
+financial condition, results of operations and cash flows of the registrant as
+of, and for, the periods presented in this report;
+
+         4. The registrant's other certifying officer and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have:
+
+                  (a) Designed such disclosure controls and procedures, or
+         caused such disclosure controls and procedures to be designed under our
+         supervision, to ensure that material information relating to the
+         registrant, including its consolidated subsidiaries, is made known to
+         us by others within those entities, particularly during the period in
+         which this report is being prepared;
+
+                  (b) Evaluated the effectiveness of the registrant's disclosure
+         controls and procedures and presented in this report our conclusions
+         about the effectiveness of the disclosure controls and procedures, as
+         of the end of the period covered by this report based on such
+         evaluation; and
+
+                  (c) Disclosed in this report any change in the registrant's
+         internal control over financial reporting that occurred during the
+         registrant's most recent fiscal quarter (the registrant's fourth fiscal
+         quarter in the case of an annual report) that has materially affected,
+         or is reasonably likely to materially affect, the registrant's internal
+         control over financial reporting; and
+
+         5. The registrant's other certifying officer and I have disclosed,
+based on our most recent evaluation of internal control over financial
+reporting, to the registrant's auditors and the audit committee of the
+registrant's board of directors (or persons performing the equivalent function):
+
+                  (a) All significant deficiencies and material weaknesses in
+         the design or operation of internal control over financial reporting
+
+which are reasonably likely to adversely affect the registrant's
+         ability to record, process, summarize and report financial information;
+         and
+
+                  (b) Any fraud, whether or not material, that involves
+         management or other employees who have a significant role in the
+         registrant's internal control over financial reporting.
+
+Date: March 31, 2006
+
+Neal Collins
+
+</EX-31>
+
+<EX-32>
+ 6
+ ex32.txt
+ CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350
+ 
+                                                                  Exhibit 32.1
+
+CERTIFICATION PURSUANT TO
+                             18 U.S.C. SECTION 1350
+                             AS ADOPTED PURSUANT TO
+                  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Annual Report on Form 10-K of Five Star
+Products, Inc. (the "Company") for the year ended December 31, 2005 as filed
+with the Securities and Exchange Commission on the date hereof (the "Report"),
+the undersigned hereby certifies, pursuant to 18 U.S.C. Section 1350, as adopted
+pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that, to such
+officer's knowledge:
+
+         (1) The Report fully complies with the requirements of Section 13(a) or
+15(d) of the Securities Exchange Act of 1934; and
+
+         (2) The information contained in the Report fairly presents, in all
+material respects, the financial condition and results of operations of the
+Company.
+
+Date: March 31, 2006
+
+Charles Dawson                                       Neal Collins
+Chief Executive Officer                              Chief Financial Officer
+
+</EX-32>
+

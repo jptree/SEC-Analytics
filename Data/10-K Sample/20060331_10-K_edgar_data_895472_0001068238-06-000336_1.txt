@@ -1,0 +1,744 @@
+<Header>
+<FileStats>
+    <FileName>20060331_10-K_edgar_data_895472_0001068238-06-000336_1.txt</FileName>
+    <GrossFileSize>274035</GrossFileSize>
+    <NetFileSize>19483</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>169358</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>6</N_Tables>
+    <N_Exhibits>0</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001068238-06-000336.hdr.sgml : 20060331
+<ACCEPTANCE-DATETIME>20060331142613
+ACCESSION NUMBER:		0001068238-06-000336
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20051231
+FILED AS OF DATE:		20060331
+DATE AS OF CHANGE:		20060331
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MERRILL LYNCH MUNICIPAL ABS INC
+		CENTRAL INDEX KEY:			0000895472
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		IRS NUMBER:				133698229
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-13716
+		FILM NUMBER:		06727799
+
+	BUSINESS ADDRESS:	
+		STREET 1:		WORLD FINANCIAL CENTER
+		STREET 2:		NORTH TOWER 9TH FLR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10281
+		BUSINESS PHONE:		2124499938
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ML MUNICIPAL ASSET BACKED CORP
+		DATE OF NAME CHANGE:	19931222
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ CJtAVVtwrXPldlX625/mBr201peFo/8/IGlW9EqRkoDdUb7U4iKtLgiXONIeXUWW
+ ThQqWOF6DyNWzk5r2huoog==
+
+ 0001068238-06-000336.txt : 20060331
+
+10-K
+ 1
+ merrilllynchabs05_10k.htm
+ MERRILL LYNCH 10K
+
+SECURITIES AND EXCHANGE COMMISSION  
+
+  Washington, D.C. 20549  
+
+-------  
+
+FORM 10-K  
+
+FOR ANNUAL AND TRANSITION REPORTS  
+
+  PURSUANT TO SECTIONS 13 OR 15 (d) OF THE  
+
+  SECURITIES EXCHANGE ACT OF 1934  
+
+(MARK ONE)  
+
+x   ANNUAL REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES EXCHANGE ACT OF 1934  
+
+For the fiscal year ended December 31, 2005.  
+
+  ------------------  
+
+OR  
+
+/ / TRANSITION REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES EXCHANGE ACT OF 1934  
+
+For the transition period from ___________ to ___________  
+
+Securities registered pursuant to Section 12 (b) of the Act:  
+
+TITLE OF EACH CLASS      
+         
+               NAME OF EACH EXCHANGE ON WHICH REGISTERED        
+
+PREREFUNDED MUNICIPAL CERTIFICATES, SERIES 2, DUE OCTOBER 1, 2012   
+         
+              NEW YORK STOCK EXCHANGE     
+
+PREREFUNDED MUNICIPAL CERTIFICATES, SERIES 3, DUE OCTOBER 1, 2012   
+         
+              NEW YORK STOCK EXCHANGE      
+
+  Securities registered pursuant to Section 12 (g) of the Act: None  
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.  
+
+Yes     
+         
+              __    
+
+No    
+         
+               X          
+
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Act.  
+
+Yes     
+         
+              __    
+
+No    
+         
+               X          
+
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15 (d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes /X/ No / /  
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K is not contained herein and will not be contained, to the best of registrant's knowledge, in definitive proxy or information statements incorporated by reference in Part III of the Form 10-K or any amendment to this Form 10-K.   
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, or a non-accelerated filer.  See definition of  accelerated filer and large accelerated filer  in Rule 12b-2 of the Exchange Act. (check one)  
+
+Large accelerated filer ____   
+         
+              Accelerated filer ____   
+         
+              Non-accelerated filer __X__      
+
+Indicate by check mark whether the registrant is shell company (as defined in Rule 12b-2 of the Act).  
+
+Yes     
+
+No    
+         
+              X       
+
+State the aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the pridce at which the common equity was last sold, or the average bid and asked price of such common equity, as of the last business day of the registrant s most recently completed second fiscal quarter.  
+
+ALL THE VOTING STOCK IS HELD BY AFFILIATES OF THE REGISTRANT.  
+
+(APPLICABLE ONLY TO REGISTRANTS INVOLVED IN BANKRUPTCY  
+
+  PROCEEDINGS DURING THE PRECEDING FIVE YEARS)  
+
+Indicate by check mark whether the registrant has filed all documents and reports required to be filed by Section 12, 13 or 15 (d) of the Securities Exchange Act of 1934 subsequent to the distribution of securities under a plan confirmed by a court. Yes / / No / /  
+
+(APPLICABLE ONLY TO CORPORATE REGISTRANTS)  
+
+Indicate the number of shares outstanding of each of the registrant's classes of common stock, as of the latest practicable date.  
+
+AS OF DECEMBER 31, 2005, THERE ARE 100 SHARES OF COMMON STOCK.  
+
+DOCUMENTS INCORPORATED BY REFERENCE  
+
+List hereunder the following documents if incorporated by reference and the Part of the Form 10-K (e.g., Part I, Part II, etc.) into which the document is incorporated: (1) any annual report to security-holders; (2) any proxy or information statement; and (3) any prospectus filed pursuant to Rule 424 (b) or (c) under the Securities Act of 1933. The listed documents should be clearly described for identification purposes (e.g., annual report to security-holders for fiscal year ended December 24, 1980).  
+
+PART I  
+
+Item 1.   
+         
+              BUSINESS.     
+
+EXEMPT PER NO-ACTION LETTER PUBLICLY AVAILABLE MAY 30, 1996.     
+
+Item 1A.   
+         
+              RISK FACTORS     
+
+NOT APPLICABLE     
+
+Item 1B.   
+         
+              UNRESOLVED STAFF COMMENTS     
+
+NOT APPLICABLE     
+
+Item 2.   
+         
+              PROPERTIES.     
+
+EXEMPT PER NO-ACTION LETTER PUBLICLY AVAILABLE MAY 30, 1996.     
+
+Item 3.   
+         
+              LEGAL PROCEEDINGS.     
+
+NONE.     
+
+Item 4.   
+         
+              SUBMISSION OF MATTERS TO A VOTE OF SECURITY-HOLDERS.     
+
+NONE.      
+
+PART II  
+
+Item 5.   
+         
+              MARKET FOR REGISTRANT'S COMMON EQUITY, RELATED STOCKHOLDERS     
+
+MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES.      
+
+(a)    
+         
+              Number of holders of record of each Series of Certificates as of December 31, 2005:      
+
+SERIES 2:     
+         
+              18 HOLDERS*;      
+
+SERIES 3:     
+         
+              17 HOLDERS*.      
+
+(b)    
+         
+              Principal market in which registrant's Certificates are being traded:      
+
+SERIES 2.    
+         
+              NEW YORK STOCK EXCHANGE      
+
+SERIES 3.    
+         
+              NEW YORK STOCK EXCHANGE      
+
+(c)    
+         
+              Report of Dividends:      
+
+EXEMPT PER NO-ACTION LETTER PUBLICLY AVAILABLE MAY 30, 1996.       
+
+Item 6.   
+         
+              SELECTED FINANCIAL DATA.     
+
+EXEMPT PER NO-ACTION LETTER PUBLICLY AVAILABLE MAY 30, 1996.     
+
+Item 7.   
+         
+              MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION     
+
+AND RESULTS OF OPERATIONS.     
+
+EXEMPT PER NO-ACTION LETTER PUBLICLY AVAILABLE MAY 30, 1996.     
+
+Item 7A.   
+         
+              QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK.     
+
+NONE     
+
+Item 8.   
+         
+              FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA.     
+
+EXEMPT PER NO-ACTION LETTER PUBLICLY AVAILABLE MAY 30, 1996.     
+
+Item 9.   
+         
+              CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING     
+
+AND FINANCIAL DISCLOSURE.     
+
+NONE.     
+
+Item 9A   
+         
+              CONTROLS AND PROCEDURE.     
+
+NOT APPLICABLE     
+
+Item 9B   
+         
+              OTHER INFORMATION.     
+
+NOT APPLICABLE      
+
+* Number of Holders per Series equals the number of Direct Participants holding Certificates through The Depository Trust Company plus the number of accounts held at Merrill Lynch for the benefit of Certificateholders.  
+
+PART III  
+
+Item 10.   
+         
+              DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT.     
+
+EXEMPT PER NO-ACTION LETTER PUBLICLY AVAILABLE MAY 30, 1996.     
+
+Item 11.    
+         
+              EXECUTIVE COMPENSATION.     
+
+EXEMPT PER NO-ACTION LETTER PUBLICLY AVAILABLE MAY 30, 1996.     
+
+Item 12.   
+         
+              SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT     
+
+AND RELATED STOCKHOLDER MATTERS.     
+
+EXEMPT PER NO-ACTION LETTER PUBLICLY AVAILABLE MAY 30, 1996.     
+
+Item 13.   
+         
+              CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS.     
+
+EXEMPT PER NO-ACTION LETTER PUBLICLY AVAILABLE MAY 30, 1996.     
+
+Item 14.   
+         
+              PRINCIPAL ACCOUNTING FEES AND SERVICES.     
+
+NOT APPLICABLE      
+
+PART IV  
+
+Item 15.   
+         
+              EXHIBITS, FINANCIAL STATEMENT SCHEDULES.     
+
+(a)   
+         
+              (1)    
+         
+              Financial Statements     
+
+NONE     
+
+(2)   
+         
+              Financial Statement Schedule     
+
+NONE     
+
+(3)   
+         
+              Exhibits     
+
+31.1   
+         
+              RULE 13A-14 CERTIFICATION     
+
+99.1   
+         
+              Independant Accountants' Report on Applying Agreed-Upon Procedures     
+
+99.2   
+         
+              Notice of Substitution of Defeasance Obligations     
+
+99.3   
+         
+              Statements to holders of Merrill Lynch Municipal ABS, Inc. Prerefunded Municipal Certificates, Series 2 AND Series 3 relating to the Distribution Dates of April 1, 2005, as amended and October 1, 2005.     
+
+99.4   
+         
+              Trustee's certification     
+
+(b)   
+         
+              Reports on Form 8-K     
+
+NONE.     
+
+(c)   
+         
+              Not Applicable      
+
+(d)   
+         
+              Not Applicable      
+
+SIGNATURES  
+
+Pursuant to the requirements of the Section 13 or 15 (d) of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.  
+
+MERRILL LYNCH MUNICIPAL ABS, INC.     
+
+By:    
+         
+              /s/ Edward J. Sisk     
+
+----------------------------------     
+
+Name:   
+         
+              Edward J. Sisk     
+
+Title:   
+         
+              Authorized Signatory     
+
+Date:   
+         
+              March 27, 2006      
+
+EXHIBIT INDEX  
+
+EXHIBIT        
+
+31.1   
+         
+              Rule 14a-14 Certification      
+
+99.1   
+         
+              Independant Accountants' Report on Applying Agreed-Upon Procedures     
+
+99.2   
+         
+              Notice of Substitution of Defeasance Obligations     
+
+99.3   
+         
+              Statements to holders of Merrill Lynch Municipal ABS, Inc. Prerefunded Municipal Certificates, Series 2 and Series 3, relating to the Distribution Dates of April 1, 2005, as amended, and October 1, 2005.     
+
+99.4   
+         
+              Trustee s Certification      
+
+Exhibit 31.1  
+
+I, Edward J. Sisk, certify that:  
+
+1.    
+         
+              I have reviewed this annual report on Form 10-K, and all reports on Form 8-K containing distribution or servicing reports filed in respect of periods included in the year covered by this report of Merrill Lynch Municipal ABS, Inc. Prerefunded Municipal Certificates, Series 2 and Series 3;      
+
+2.    
+         
+              Based on my knowledge, the information in these reports, taken as a whole, does not contain any untrue statement of a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading as of the last day of the period covered by this annual report;      
+
+3.    
+         
+              Based on my knowledge, the distribution or servicing information required to be provided to the depositor by the trustee under the pooling and servicing, or similar, agreement, for inclusion in these reports is included in these reports;      
+
+4.    
+         
+              I am responsible for reviewing the activities performed by the depositor and the trustee under the pooling and servicing, or similar, agreement and based upon my knowledge and the annual compliance review required under that agreement, and except as disclosed in the reports, the depositor and trustee have each fulfilled its obligations under that agreement; and      
+
+5.    
+         
+              The reports disclose all significant deficiencies relating to the compliance by the trustee and the depositor with the minimum servicing or similar standards based upon the report provided by an independent public accountant, after conducting a review in compliance with the Uniform Single Attestation Program for Mortgage Bankers or similar procedure, as set forth in the pooling and servicing, or similar, agreement, that is included in these reports.       
+
+  In giving the certifications above, I have reasonably relied on information provided to me by the following unaffiliated party: Deutsche Bank Trust Company Americas.  
+
+By /s/ Edward J. Sisk      
+
+--------------------------------      
+
+Name: Edward J. Sisk      
+
+Title: Assistant Vice President      
+
+Date: March 27, 2006      
+
+Exhibit 99.1  
+
+Independent Accountant s Report   
+
+Merrill Lynch Municipal ABS, Inc. (as Depositor)  
+
+  c/o Merrill Lynch, Pierce, Fenner   Smith Incorporated  
+
+  World Financial Center   
+
+  North Tower, 9 th  Floor  
+
+  250 Vesey Street  
+
+  New York, New York 10080  
+
+Deutsche Bank Trust Company Americas (as Trustee)  
+
+  60 Wall Street   
+
+  New York, New York  10005  
+
+Re:    
+         
+               Prerefunded Municipal Certificates Series 2 and Series 3 (the  Certificates )        
+
+Ladies and Gentlemen:  
+
+We have examined management s assertions that the Depositor and the Trustee have complied, in all material respects, with the provisions of the Trust Agreement dated as of March 28, 1995 (the  Trust Agreement ), during the periods covered by the annual report on Form 10-K filed by the Depositor on behalf of the Trust for the year ended December 31, 2005 (the  Annual Report ).  Management is responsible for compliance with the Trust Agreement. Our responsibility is to express an opinion on management s assertions based on our examination.  
+
+Our examination was made in accordance with standards established by the American Institute of Certified Public Accountants and, accordingly, included examining, on a test basis, evidence about the Depositor s and the Trustee s compliance with the Trust Agreement and performing such other procedures as considered necessary in the circumstances.  We believe that our examination provides a reasonable basis for our opinion.  
+
+In our opinion, the Depositor and the Trustee have complied, in all material respects, with the Trust Agreement during the period covered by the Annual Report and management s assertions with respect to such compliance are fairly stated, in all material respects, for the year ended December 31, 2005.  
+
+New York, New York  
+
+  March 27, 2006  
+
+EXHIBIT 99.2  
+
+On March 30, 2006, Deutsche Bank Trust Company Bank (Tel: (212) 454-4226), the escrow trustee for the prerefunded bonds underlying Merrill Lynch Municipal ABS, Inc. Prerefunded Municipal Certificates, Series 2 and Series 3, upon inquiry by the registrant, reported that no substitution of defeasance obligations in the escrow for each of the related maturity of bonds has occurred.  
+
+EXHIBIT 99.3  
+
+STATEMENTS TO HOLDERS OF MERRILL LYNCH MUNICIPAL ABS, INC.  
+
+  PREREFUNDED MUNICIPAL CERTIFICATES, SERIES 2 AND SERIES 3,  
+
+  RELATING TO THE DISTRIBUTION DATES OF APRIL 1, 2005,  
+
+  AS AMENDED AND OCTOBER 1, 2005.  
+
+[LOGO] Deutsche Bank  
+
+Safet Kalabovic  
+
+  Bankers Trust Company  
+
+  (201) 593-6850  
+
+April 1, 2005  
+
+Merrill Lynch  
+
+  World Financial Center  
+
+  North Towers - 9th Floor  
+
+  250 Vesey Street  
+
+  New York, NY 10281-1309  
+
+  Attn Alan Levy  
+
+The Depository Trust Company  
+
+  55 Water Street  
+
+  New York, NY 10004  
+
+  Attn: Fran Vespa  
+
+Re:    
+         
+              Merrill Lynch Municipal ABS, Inc.     
+
+Prerefunded Municipal Certificates Series 1, 2 and 3      
+
+All:  
+
+Pursuant to Section 4.03 of the Trust Agreement dated as of March 28, 1995, Deutsche Bank Trust Company Americas, as Trustee for the above-referenced bond issues, hereby notifies you of the debt service payments for each Series due on April 1, 2005. Attached is a payment schedule for each Series.  
+
+If you have any questions, please feel free to call me at (212) 250-2268.  
+
+Very truly yours,  
+
+Teddy Banica  
+
+  Associate  
+
+[LOGO] Deutsche Bank  
+
+April 1, 2005  
+
+Bielka Tortorelli  
+
+  Merrill Lynch  
+
+  World Financial Center  
+
+  250 Vesey Street  
+
+  New York, New York 10281  
+
+Re:   
+         
+              Merrill Lynch Municipal ABS, Inc.     
+
+Prerefunded Municipal Certificates Series 1, 2 and 3      
+
+Bielka:  
+
+For the above referenced issues, the principal and interest information for April 1, 2005 is attached. All other relevant information is as follows:  
+
+Premium on Bonds   
+         
+              None     
+
+Trustee Fees Payable   
+         
+              None     
+
+Interest Shortfall on Bonds   
+         
+              None     
+
+Aggregate Shortfall on Bonds   
+         
+              None     
+
+Accrued Interest undistributed to holders   
+         
+              None     
+
+Accrued Principal undistributed to holders   
+         
+              None     
+
+Underlying Bonds on issues   
+         
+              Attached      
+
+Should you have any questions please call me at (212) 250-2268.  
+
+Sincerely,  
+
+Teddy Banica  
+
+  Associate  
+
+[LOGO] Deutsche Bank  
+
+October 3, 2005  
+
+Merrill Lynch  
+
+  World Financial Center  
+
+  North Towers   9th Floor  
+
+  250 Vesey Street  
+
+  New York, NY 10281-1309  
+
+  Attn: Alan Levy  
+
+The Depository Trust Company  
+
+  55 Water Street  
+
+  New York, NY 10004  
+
+  Attn: Fran Vespa  
+
+Re:   
+         
+              Merrill Lynch Municipal ABS, Inc.     
+
+Prerefunded Municipal Certificates Series 1, 2 and 3      
+
+All:  
+
+Pursuant to Section 4.03 of the Trust Agreement dated as of March 28, 1995, Deutsche Bank Trust Company Americas, as Trustee for the above-referenced bond issues, hereby notifies you of the debt service payments for each Series due on October 3, 2005.  Attached is a payment schedule for each Series.  
+
+If you have any questions, please feel free to call me at (212) 250-2268.  
+
+Very truly yours,  
+
+Teddy Banica  
+
+  Associate  
+
+[LOGO] Deutsche Bank  
+
+October 3, 2005  
+
+Bielka Tortorelli  
+
+  Merrill Lynch  
+
+  World Financial Center  
+
+  250 Vesey Street  
+
+  New York, New York 10281  
+
+Re:   
+         
+              Merrill Lynch Municipal ABS, Inc.     
+
+Prerefunded Municipal Certificates Series 1, 2 and 3      
+
+Bielka:  
+
+For the above referenced issues, the principal and interest information for October 3, 2005 is attached.  All other relevant information is as follows:  
+
+Premium on Bonds   
+         
+              None     
+
+Trustee Fees Payable   
+         
+              None     
+
+Interest Shortfall on Bonds   
+         
+              None     
+
+Aggregate Shortfall on Bonds   
+         
+              None     
+
+Accrued Interest undistributed to holders   
+         
+              None     
+
+Accrued Principal undistributed to holders   
+         
+              None     
+
+Underlying Bonds on issues   
+         
+              Attached      
+
+Should you have any questions please call me at (212) 250-2268.  
+
+Sincerely,  
+
+Teddy Banica  
+
+  Associate  
+
+Exhibit 99.4  
+
+The undersigned, being an officer of Deutsche Bank Trust Company Americas, as trustee (the "Trustee"), with respect to Merrill Lynch Municipal ABS, Inc. Prerefunded Municipal Certificates, Series 2 and Series 3, on whose behalf Merrill Lynch Municipal ABS Inc. has prepared this annual report on Form 10-K for the fiscal year ended December 31, 2005 (the "Annual Report"), certifies as follows:  
+
+1. The Trustee is the trustee under the trust agreement.  
+
+2. Based on my knowledge, for the periods included in the year covered by the Annual Report, the Trustee has fulfilled its obligations, including any servicing obligations, under the trust agreement.  
+

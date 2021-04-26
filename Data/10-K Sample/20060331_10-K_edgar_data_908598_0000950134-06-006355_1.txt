@@ -1,0 +1,3765 @@
+<Header>
+<FileStats>
+    <FileName>20060331_10-K_edgar_data_908598_0000950134-06-006355_1.txt</FileName>
+    <GrossFileSize>534739</GrossFileSize>
+    <NetFileSize>194515</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>211454</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>41</N_Tables>
+    <N_Exhibits>6</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000950134-06-006355.hdr.sgml : 20060331
+<ACCEPTANCE-DATETIME>20060331120128
+ACCESSION NUMBER:		0000950134-06-006355
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		7
+CONFORMED PERIOD OF REPORT:	20051231
+FILED AS OF DATE:		20060331
+DATE AS OF CHANGE:		20060331
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AETRIUM INC
+		CENTRAL INDEX KEY:			0000908598
+		STANDARD INDUSTRIAL CLASSIFICATION:	INSTRUMENTS FOR MEAS & TESTING OF ELECTRICITY & ELEC SIGNALS [3825]
+		IRS NUMBER:				411439182
+		STATE OF INCORPORATION:			MN
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-22166
+		FILM NUMBER:		06726482
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2350 HELEN ST
+		CITY:			NORTH ST PAUL
+		STATE:			MN
+		ZIP:			55109
+		BUSINESS PHONE:		6127041800
+
+	MAIL ADDRESS:	
+		STREET 1:		2350 HELEN STREET
+		CITY:			NORTH ST PAUL
+		STATE:			MN
+		ZIP:			55109
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ QDFURIdzxYo0tWQKbF2ykEENt3FlYpHjhfSBFpXvk/f9k8BBz8Dzss0ByW0fNw/J
+ EUTHcsNsTbMWmw7eRdl0Uw==
+
+ 0000950134-06-006355.txt : 20060331
+
+10-K
+ 1
+ c03145e10vk.htm
+ FORM 10-K
+
+e10vk 
+
+Table of Contents   
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549 
+
+FORM 10-K 
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) 
+OF THE SECURITIES EXCHANGE ACT OF 1934 
+
+For the fiscal year ended December 31, 2005 
+Commission file number 000-22166 
+
+AETRIUM INCORPORATED 
+
+(Exact name of registrant as specified in its charter)
+
+Securities registered pursuant to Section 12(b) of the Act: 
+NONE 
+Securities registered pursuant to Section 12(g) of the Act: 
+COMMON STOCK, PAR VALUE $.001 PER SHARE 
+
+Indicate by check mark if the Registrant is a well-known seasoned issuer, (as defined in Rule
+405 of the Securities Act). Yes     No    
+
+Indicate by check mark if the Registrant is not required to file reports pursuant to Section
+13 or 15(d) of the Exchange Act. Yes     No    
+
+Indicate by check mark whether the Registrant (1) has filed all reports required to be filed
+by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or
+for such shorter period that the Registrant was required to file such reports), and (2) has been
+subject to such filing requirements for the past 90 days. Yes     No    
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405 of Regulation
+S-K is not contained herein, and will not be contained, to the best of Registrant s knowledge, in
+definitive proxy or information statements incorporated by reference in Part III of this Form 10-K
+or any amendment to this Form 10-K.    
+
+Indicate by check mark whether the Registrant is a large accelerated filer, an accelerated
+filer, or a non-accelerated filer. See definition of  accelerated filer and large accelerated
+filer  in Rule 12b-2 of the Exchange Act. Large accelerated filer     Accelerated filer    
+Non-accelerated filer    
+
+Indicate by check mark whether the Registrant is a shell company (as defined in Exchange Act
+Rule 12b-2). Yes     No    
+
+As of June 30, 2005 (the last business day of the Registrant s most recently completed second
+fiscal quarter), the aggregate market value of the Common Stock of the Registrant (based upon the
+closing price of the Common Stock at that date as reported by the The Nasdaq Stock Market),
+excluding outstanding shares beneficially owned by directors and executive officers, was
+$26,437,000.
+
+As of March 17, 2006, 9,908,464 shares of Common Stock of the Registrant were outstanding.
+
+Part III of this Annual Report on Form 10-K incorporates by reference information (to the
+extent specific sections are referred to herein) from the Registrant s definitive Proxy Statement
+for its 2006 Annual Meeting of Stockholders to be held May 24, 2006 (the  2006 Proxy Statement ).
+
+Form 10-K 
+
+For the fiscal year ended December 31, 2005 
+
+TABLE OF CONTENTS 
+
+PART I  
+
+ITEM 1.  
+
+BUSINESS   
+
+1  
+
+ITEM 1A.  
+
+RISK FACTORS   
+
+9  
+
+ITEM 2.  
+
+PROPERTIES   
+
+11  
+
+ITEM 3.  
+
+LEGAL PROCEEDINGS   
+
+12  
+
+ITEM 4.  
+
+SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS   
+
+12  
+
+ITEM 4A.  
+
+EXECUTIVE OFFICERS OF THE REGISTRANT   
+
+13  
+
+PART II  
+
+ITEM 5  
+
+MARKET FOR THE REGISTRANT S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS   
+
+15  
+
+ITEM 6.  
+
+SELECTED FINANCIAL DATA   
+
+16  
+
+ITEM 7.  
+
+MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS   
+
+17  
+
+ITEM 7A.  
+
+QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK   
+
+24  
+
+ITEM 8.  
+
+FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA   
+
+24  
+
+ITEM 9.  
+
+CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE   
+
+24  
+
+ITEM 9A.  
+
+CONTROLS AND PROCEDURES   
+
+25  
+
+ITEM 9B.  
+
+OTHER INFORMATION   
+
+25  
+
+PART III  
+
+ITEM 10.  
+
+DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT   
+
+26  
+
+ITEM 11.  
+
+EXECUTIVE COMPENSATION   
+
+26  
+
+ITEM 12.  
+
+SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT   
+
+26  
+
+ITEM 13.  
+
+CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS   
+
+26  
+
+ITEM 14.  
+
+PRINCIPAL ACCOUNTANT FEES AND SERVICES   
+
+27  
+
+PART IV  
+
+ITEM 15.  
+
+EXHIBITS AND FINANCIAL STATEMENT SCHEDULES   
+
+28  
+
+Commercial Lease    
+     Independent Registered Public Accounting Firm's Consent    
+     Certification Pursuant to Section 302    
+     Certification Pursuant to Section 302    
+     Certification Pursuant to Section 302    
+     Certification Pursuant to Section 906    
+
+Table of Contents   
+
+PART I 
+
+This Form 10-K contains certain forward-looking statements within the meaning of the Private
+Securities Litigation Reform Act of 1995. For this purpose, any statements contained in this Form
+10-K that are not statements of historical fact may be deemed to be forward-looking statements.
+Without limiting the foregoing, words such as  may,   will,   expect,   believe,   anticipate, 
+ estimate  or  continue  or comparable terminology are intended to identify forward-looking
+statements. These statements by their nature involve substantial risks and uncertainties, and
+actual results may differ materially depending on a variety of factors, including those set forth
+under Item 1A below. We undertake no obligation to correct or update any forward-looking
+statements, whether as a result of new information, future events or otherwise. You are advised,
+however, to consult any future disclosures we may make on related subjects in future filings with
+the SEC. References in this Form 10-K to  Aetrium,   the company,   we  and  our,  unless the
+context otherwise requires, refer to Aetrium Incorporated and its consolidated subsidiaries and
+their respective predecessors.
+
+ITEM 1. BUSINESS. 
+
+Overview 
+
+We design, manufacture and market a variety of electromechanical equipment used in the
+handling and testing of semiconductor and passive electronic devices, such as integrated circuits,
+or ICs, and discrete electronic devices. Our primary focus is on high volume IC device types and
+on the latest device package designs. Our products are purchased primarily by semiconductor
+manufacturers and their assembly and test subcontractors. Our products are used in the test,
+assembly and packaging, or TAP, segment of semiconductor manufacturing (in which we include the
+manufacture of both semiconductor and passive electronic devices). Our products automate critical
+functions to improve manufacturing yield, raise quality levels, increase product reliability and
+reduce manufacturing costs.
+
+We have three principal equipment product lines:
+
+Test Handler Products  . In terms of revenue, this is our largest product line. Our
+broad line of test handler products incorporates thermal conditioning, contacting and
+automated handling technologies to provide automated handling of ICs and discrete
+electronic devices during production test cycles. We also offer change kits to adapt
+our test handlers to different device package configurations or to upgrade installed
+equipment for enhanced performance. Change kits represent a significant part of our
+revenue. 
+
+Semiconductor Automation Products  . Our primary line of semiconductor automation
+products is sold to semiconductor manufacturers and is used to automate the loading and
+unloading of burn-in boards. We also sell semiconductor automation products to original
+equipment manufacturers, or OEMs, to be incorporated as the automated handling
+components of such OEMs  own proprietary equipment for a variety of other IC processing
+requirements, such as marking, lead scanning, and lead trim and form. 
+
+Reliability Test Equipment  . The primary focus of our reliability test products is
+to provide IC manufacturers with structural performance data to aid in the evaluation
+and improvement of IC designs and manufacturing processes to increase IC yield and
+reliability. 
+
+Test handler products accounted for 41%, 56% and 52% of our net sales in 2005, 2004 and 2003,
+respectively. Semiconductor automation products accounted for 8%, 6% and 11% of our net sales in
+
+Table of Contents   
+
+2005, 2004 and 2003, respectively. Reliability test equipment accounted for 24%, 21% and 20%
+of our net sales in 2005, 2004 and 2003, respectively. Change kits and spare parts accounted for
+27%, 17% and 17% of our net sales in 2005, 2004 and 2003, respectively.
+
+Industry conditions for the semiconductor equipment industry weakened during the second half
+of 2004, and these weakened industry conditions continued into 2005. However, by mid 2005 the
+semiconductor industry had worked out of the excess inventory position that became apparent by the
+second half of 2004, and production capacity utilization rates had risen to a high level. These
+factors and continuing growth in demand for ICs began fueling a recovery for the semiconductor
+equipment industry, and particularly the TAP segment, that gained momentum during the remainder of
+2005. According to Semiconductor Equipment and Materials International, although bookings and
+revenues for the TAP segment of the semiconductor equipment industry were down 13.4% and 16.1%,
+respectively, over 2004, bookings increased throughout the year, and revenues increased
+particularly in the second half of the year. Our results were similar in pattern. Our revenues
+declined over the first half of 2005 before beginning to rebound in the second half with sequential
+increases of 19% and 51% in the third and fourth quarters, respectively. Our bookings in 2005
+declined 9.6% over 2004, but bookings activity gained significant momentum over the year,
+particularly in the fourth quarter, and we ended the year with $8.1 million in backlog. Our
+improving performance, aided by favorable industry conditions, was augmented by successful
+completions of evaluations and follow on orders by new and established customers for our newest
+product introductions.
+
+Analysts of the semiconductor industry are generally forecasting continued growth in that
+industry throughout 2006. Assuming continued favorable industry conditions, we believe that our
+solid product offerings, including our newest product introductions, coupled with our lean cost
+structure and our strong working capital base, position us to out perform our industry segment.
+
+All of our product development and manufacturing activities are conducted at either our North
+St. Paul, Minnesota or Dallas, Texas facilities. We manufacture products within each of our
+principal product lines at both of these facilities.
+
+Our strategy has focused on revenue growth through product line expansion, by both internally
+developing and acquiring complementary technologies, businesses or product lines. Technologies,
+businesses and product lines that we have acquired in the past pursuant to this strategy have since
+been assimilated and consolidated into our current operations.
+
+We were incorporated in Minnesota in December 1982. Our executive offices are located at 2350
+Helen Street, North St. Paul, Minnesota 55109. Our telephone number is (651) 770-2000. Our website
+address is  www.aetrium.com . We make available free of charge through our website our Annual Reports
+on Form 10-K, Quarterly Reports on Form 10-Q, Current Reports on Form 8-K, and all amendments to
+those reports, as soon as is reasonably practicable after such material is electronically filed
+with or furnished to the SEC. Our website is not intended to be a part of, nor are we incorporating
+it by reference into, this Annual Report on Form 10-K.
+
+Financial Information About Segments 
+
+Since our inception, we have operated in the single industry segment of supplying
+electromechanical equipment to the semiconductor industry. Our financial results are set forth in
+Items 6 and 15 of this Annual Report on Form 10-K.
+
+2
+
+Table of Contents   
+
+Test Handler Products 
+
+Test handlers are electromechanical systems interfaced with a tester to form a test system
+designed to handle, thermally condition, contact and sort ICs and discrete electronic devices
+automatically during the final test stage of the manufacturing process. The devices are loaded
+into the test handler from bowls, tubes or trays and then, if required, transported to a
+temperature chamber within the test handler where they are thermally conditioned and controlled to
+the required testing temperature. The devices are then placed into a contactor, which provides an
+electrical connection between the device and the tester. After testing, the test handler sorts the
+devices according to test performance as provided by the tester. In some cases, additional process
+steps are completed by the test handler system. These include marking or inspection of the device
+packages, and automatic placement of the devices into a tube, tray or tape for shipment to the end
+user. Test handlers must meet industry criteria for thermal conditioning, contactor integrity and
+minimization of damage to the device during the test handling cycle.
+
+ICs are multi-function semiconductor devices that may contain millions of individual
+transistors, and include microprocessors, microcontrollers, digital signal processors and memory
+devices. ICs come in a wide range of sizes and package types, depending upon their application.
+Discrete electronic devices are single function semiconductor devices, such as transistors and
+diodes, and passive electronic devices, such as resistors and capacitors. They are typically very
+small and are manufactured in several package types.
+
+In the testing of ICs and discrete electronic devices, the device package type being tested
+often dictates the type of test handler used. Small outline packages, or SOPs, constituting the
+largest IC package segment, have leads, or electrical contacts, extending from two sides and are
+typically tested with gravity feed test handlers. Micro leadless packages, or MLPs (and sometimes
+referred to as MLF  TM  s, SONs or QFNs), have electrical contact pads flush with
+the sides and bottoms of the ICs and are typically tested with gravity feed or turret based test
+handlers. MLPs constitute one of the fastest growing new IC package types.
+
+Discrete electronic device package types include small outline transistor packages, or SOTs,
+which are also sometimes used for the smallest ICs. Discrete electronic device package types are
+typically tested with turret based test handlers.
+
+More complex ICs are sometimes packaged in IC package families with leads more easily damaged
+in handling. These package families are typically tested with pick-and-place test handlers.
+
+Our primary focus continues to be on the newest device and package types, and the largest
+volume and fastest growing markets, in the IC side of the semiconductor industry. Our test handler
+products are complementary with minimal overlap of application, and we distribute and service them
+through a common organization for efficiency. Our primary test handler product lines are our
+gravity feed test handlers and our turret based test handlers.
+
+Gravity Feed Test Handlers  
+
+Traditionally, test handlers have used gravity to move ICs from tubes or trays through the
+handler system and back into tubes or trays. Typically, in gravity feed systems ICs are halted at
+necessary points in the handling process by stopping against other ICs or singulation mechanisms,
+which can result in lead damage to IC packages with more fragile leads. Accordingly, gravity feed
+handlers are best suited for leadless packages and IC packages with more rugged leads, which
+include MLPs and most SOPs.
+
+Our gravity feed test handlers compete most favorably in high-volume applications and their
+high throughput rates are an added advantage in relatively short test time applications. These
+handlers adapt to  plunge-to-board -type contacting and third party contactors, as well as our
+internally developed
+
+3
+
+Table of Contents   
+
+proprietary contactors, providing cost-effective solutions to a wide range of customer test
+requirements. In  plunge-to-board -type contacting, the IC is placed directly against the test head
+with no intermediary sockets or connections, which is particularly well suited for high performance
+ICs. Our gravity feed test handlers can heat or cool the ICs being tested to test temperatures
+ranging from -55 degrees C to  155 degrees C. They use mechanical refrigeration to cool ICs, which
+is more economical and less dangerous than liquid nitrogen, commonly used as a refrigerant in
+competing handlers. Our dual and quad site gravity feed test handlers can simultaneously test
+devices in each of their sites to increase productivity and reduce testing costs in certain
+applications. Our principal gravity feed test handlers include:
+
+55V6 Series.  First introduced in 2002, our 55V6 Series of single and dual
+site gravity feed test handlers for analog and logic IC applications addresses a wide
+range of IC packages, including SOPs and MLPs. The 55V6 Series offers a small
+footprint, a vertical backplane that can accommodate any size of test head, and our
+high speed test site actuator that we believe offers significant throughput advantages
+over our competition, depending upon device test times and thermal conditioning
+requirements. 
+
+55V8 Series.  Our recently introduced 55V8 Series of quad site gravity feed
+test handlers for analog and logic IC applications addresses a wide range of IC
+packages, including SOPs and MLPs. The 55V8 Series offers the advantages of the 55V6
+Series, including our high speed test site actuator. 
+
+5050 Series . Our 5050 Series of gravity feed test handlers for analog and
+logic IC applications addresses a wide range of SOP package types. In addition to
+single test site capability, we offer dual test site and quad test site capability
+within our 5050 Series of handlers .  
+
+Turret Based Test Handlers  
+
+Turret based test handlers have a series of pickup heads that rotate around a fixed axis and
+move devices from station to station. They are typically configured for bowl feed input and tape
+and reel output, although they can be configured for tube or tray input and tube or tray output.
+One or more stations on turret based handlers are used for testing ICs and discrete electronic
+devices. Stations on turret based handlers can also be used for additional process steps such as
+marking and inspection. Turret based handlers are well suited for discrete electronic devices and
+smaller ICs that are difficult to handle in gravity feed handlers because of their size and small
+mass, and are well suited for MLPs because MLPs can be handled in bulk. Turret based handlers are
+typically more costly than gravity feed handlers, but typically offer higher throughput rates than
+gravity feed handlers.
+
+Our turret based test handlers are designed for high volume testing of discrete electronic
+devices and ICs in MLP, SOT and some CSP packages. CSPs, or chip scale packages, are a category of
+some of the smallest IC packages, with package sizes being no more than 1.2 times the size of the
+IC die within. Our turret based test handlers can integrate several functions, including test,
+laser marking, mark inspection, lead inspection, and tape and reel output. They can be configured
+for a variety of options for contacting, including  plunge-to-board -type contacting. These test
+handlers are typically configured for bowl feed input and tape and reel output. Our principal
+turret based handlers include:
+
+Model 5800.  We introduced the Model 5800 Integrated Test Handler in 2000.
+It has eight stations, and can be configured for up to four test sites. It operates at
+temperatures ranging from ambient to  150 degrees C, and can be configured for tube
+input and tube output. 
+
+Model 8832.  We introduced the Model 8832 Integrated Test Handler in 2000.
+It has 32 stations, which provide a high degree of flexibility in integrating
+additional device process
+functions into the handler. It can be configured for up to eight test sites and,
+optionally, for tube or tray input and tube or tray output. 
+
+4
+
+Table of Contents   
+
+Change Kits, Upgrades and Spare Part   s 
+
+We have an ongoing demand for IC and discrete electronic device package change kits for our
+installed test handler products, including test handlers no longer in our active product lines. We
+sell a variety of change kits to accommodate the growing variety of device packages used in the
+semiconductor industry. The demand for change kits is driven by the introduction of new device
+package types and increased production volumes experienced by our end customers. Also included in
+change kits are upgrade kits to enhance the performance of installed equipment. We sell spare
+parts with new equipment orders as kits or separately as piece parts or in kit form as required.
+
+Semiconductor Automation Products 
+
+We have applied our core automation technologies to extend our product lines to other
+applications of automation of the handling of ICs and discrete electronic devices.
+
+Our primary product line of automation products is our 4800 Series, used to automate the
+loading and unloading of burn-in boards. Burn-in boards vary in size and density, and are used to
+place individual ICs into a convection oven for an extensive reliability screening and stress
+testing procedure known as  burn-in.  Our burn-in board automation products take untested ICs out
+of trays or other media and place them into sockets on a burn-in board. After the burn-in test is
+complete, the 4800 Series system unloads and removes ICs that have completed the burn-in cycle from
+the burn-in board sockets and sorts the ICs according to the results of the test as provided by the
+burn-in system. The burn-in process screens for early failures by operating the IC at elevated
+voltages and temperatures, usually at 125 degrees C, for periods typically ranging from 12 to 96
+hours. Burn-in systems can process thousands of ICs simultaneously, utilizing multiple boards.
+Most leading-edge microprocessors, digital signal processors, and memory ICs undergo burn-in
+testing.
+
+Our 4800 Series comes in single pick-up head, dual-head, five-head, ten-head and our recently
+introduced sixteen-head versions. The single and dual head models are best suited for large IC
+packages or for those applications requiring a quick conversion of the 4800 Series system to handle
+a different IC package. The five-head, ten-head and sixteen-head systems are best suited to high
+volume memory applications. Our new sixteen-head version offers significant throughput advantage
+over other versions and in 2005 successfully completed an evaluation and verification process at a
+key customer. All versions are available with a variety of input and output options, including
+tubes and trays. Package positioning stations ensure device alignment into sockets and output
+media. An optional stacked burn-in board elevator and trolley allows the system to process up to 32
+burn-in boards without any operator intervention.
+
+Reliability Test Equipment 
+
+The IC industry s demand for higher performance devices through smaller circuit geometries has
+led to significant technological changes in the materials and processes used to manufacture ICs,
+including a continuing migration to copper materials for the increasingly minute circuitry of
+devices. These changes in technology, along with IC user demand for increased reliability, have
+created a need for increasingly sophisticated reliability testing of IC designs and manufacturing
+processes. Our reliability test equipment product line enables IC manufacturers to force and
+measure precise levels of voltage and current through ICs, collect and analyze relevant data, and
+predict lifetime performance of ICs. This equipment can be utilized to perform reliability testing
+of packaged and unpackaged ICs.
+
+5
+
+Table of Contents   
+
+In 1998, we introduced our 1164 Series of reliability test equipment, including a suite of
+applications for customers to perform a variety of tests. We have since added many new features,
+including the full reliability test functionality necessary for testing an IC manufacturer s entire
+copper process. The 1164 Series features a modular design that allows for great flexibility in
+performing reliability tests, and can test up to 4,096 devices at a time and perform numerous
+simultaneous tests on batches of ICs. 15 of the top 20 semiconductor manufacturers in the world are
+using our 1164 Series of reliability test equipment for copper and related advanced process
+technologies.
+
+Our reliability test products also include a line of products designed to test over-voltage
+protection devices for telecommunications applications.
+
+Competition 
+
+The semiconductor capital equipment market is highly competitive. In the market for test
+handler products, we compete with a number of companies ranging from very small businesses to large
+companies, some of which have substantially greater financial, manufacturing, marketing and product
+development resources than we have. Some of these companies manufacture and sell both testers and
+test handlers. The particular companies with which we compete vary with our different test handler
+product lines, with no one company dominating the overall test handler market. The companies with
+which we compete most directly in the test handler market include Multitest Electronic Systems
+GmbH, Rasco AG, Yokogawa Electric Corporation, Ismeca S.A., SRM Technology (M) Sdn Bhd, Tesec
+Corporation and Cohu, Inc.
+
+We compete for test handler sales primarily on the basis of effective handler throughput, cost
+of ownership, temperature accuracy and other performance characteristics of our products, the
+breadth of our product lines, the effectiveness of our sales and distribution channels and our
+customer relationships. We believe we compete favorably on all of these factors.
+
+The market for burn-in board automation products is highly competitive. We compete with a
+number of companies ranging from very small businesses to large companies, some of which have
+substantially greater financial, manufacturing, marketing and product development resources than we
+have. The companies with which we compete most directly in this market include Cohu, Inc., Racal
+Instruments and Todo Seisakusho, Ltd.
+
+We compete for burn-in board automation product sales primarily on the basis of effective
+throughput, cost of ownership, versatility, and other performance characteristics of our products,
+design customization, the breadth of our product line, the effectiveness of our sales and
+distribution channels and our customer service. We believe we compete favorably on all of these
+factors.
+
+The market for our reliability test equipment is also highly competitive and our competitors
+include QualiTau, Ltd., Chiron Technology Pte. Ltd., ESPEC Corp. and Reedholm Instruments Co. We
+compete for reliability test system sales on the basis of technology, price, delivery, system
+flexibility and overall system performance. We believe we compete favorably on all of these
+factors.
+
+Manufacturing and Supplies 
+
+We manufacture test handlers, reliability test equipment and some automation products at our
+North St. Paul, Minnesota facility. We manufacture our turret based test handler products, some of
+our reliability test equipment and our 4800 Series at our Dallas, Texas facility. Our manufacturing
+operations consist of procurement and inspection of components and subassemblies, assembly and
+extensive testing of finished products.
+
+6
+
+Table of Contents   
+
+We emphasize quality and reliability in both the design and manufacture of our products. We
+or our suppliers inspect all components and subassemblies for mechanical and electrical compliance
+to our specifications. We test all finished products against our specifications, and customer
+specifications where applicable, and fully assembled test handler products are tested at all
+temperatures for which they are designed and with all the device packages to be accommodated.
+
+A significant portion of the components and subassemblies used in our products, including
+machined parts, PC boards, refrigeration systems, vacuum pumps and contactor elements, are
+manufactured by third parties on a subcontract basis. As a part of our total quality management
+program, we have an ongoing supplier quality program under which we select, monitor and rate our
+suppliers, and recognize suppliers for outstanding performance.
+
+Certain components used in our products, including certain contactor components, printed
+circuit boards and refrigeration systems, are currently available from only a limited number of
+sources. We do not maintain long-term supply agreements with most of our suppliers, and we purchase
+most of our components through individual purchase orders. We may not always be able to replace all
+of our suppliers within a time period consistent with our business requirements. We attempt to
+keep an adequate supply of critical components in our inventory to minimize any significant impact
+the loss of a supplier may cause.
+
+Customers 
+
+We rely on a limited number of customers for a substantial percentage of our net sales. In
+2005, Maxim Integrated Products, Inc. accounted for 33% of net sales and UST Technology Pte. Ltd.,
+one of our international distributors, accounted for 24% of net sales. Maxim Integrated Products,
+Inc. also accounted for more than 10% of net sales in 2004 and 2003. Samsung America, Inc. also
+accounted for more than 10% of net sales in 2004, and MB Electronique S.A., another of our
+international distributors, also accounted for more than 10% of net sales in 2003. The loss of or a
+significant reduction in orders by these or other significant customers, including reductions due
+to market, economic or competitive conditions in the semiconductor industry, would likely have a
+negative impact on our financial condition and results of operations.
+
+Sales and Marketing 
+
+We market our products through a combination of direct salespeople, domestic independent sales
+representatives and international distributors. Our direct sales organization, comprised of seven
+salespeople, is responsible for most domestic sales, and coordinates the activities of our domestic
+independent sales representatives and international distributors and actively participates with
+them in selling efforts. This enables us to establish strong direct ties with our customers.
+
+We maintain sales and service locations in North St. Paul, Minnesota, Santa Clara, California,
+San Diego, California, Dallas, Texas, and Saugus, Massachusetts. As of December 31, 2005, we had
+international distributors located in the United Kingdom, France, Germany, Italy, Korea, Japan,
+Taiwan, Hong Kong, China, Thailand, Malaysia, Singapore and the Philippines.
+
+Our marketing efforts include participation in industry trade shows and production of product
+literature and sales support tools. These efforts are designed to generate sales leads for our
+domestic independent sales representatives, international distributors and direct salespeople.
+
+International shipments accounted for 63%, 52% and 54% of our net sales in 2005, 2004 and
+2003, respectively. In addition, it is not uncommon for U.S. customers to take delivery of
+products in the
+
+7
+
+Table of Contents   
+
+United States for subsequent shipment to international sites. Most of our international
+shipments are made to international sites of U.S. semiconductor manufacturers, although there is a
+growing foreign customer base included in our international sales.
+
+We invoice all of our international sales in U.S. dollars and, accordingly, have not
+historically been subject to fluctuating currency exchange rates. We establish credit limits from
+time to time on our international distributors, who purchase products from us and resell to
+end-users. We may also require irrevocable letters of credit from our end-user international
+customers to minimize credit risk and to simplify the purchasing/payment cycle.
+
+Research and Development 
+
+We believe we must continue to enhance, broaden and modify our existing product lines to meet
+the constantly evolving needs of the semiconductor equipment market. To date, we have relied both
+on internal development and acquisitions of technology and product lines to extend our product
+lines, increase our customer base and avoid reliance on any single semiconductor equipment market
+segment. Our research and development is conducted at both our North St. Paul, Minnesota and
+Dallas, Texas facilities. We focus our new product development efforts on what we believe to be the
+most compelling requirements in the largest and fastest growing segments of the IC side of the
+semiconductor industry, with emphasis on near term revenue potential. In 2005, we concentrated our
+new product development efforts on:
+
+completing development of and beta testing the 55V8 Series quad test site
+gravity feed handlers; 
+
+developing eight test site capability for the 55V Series of test handlers; 
+
+extending our turret based test handler product line; 
+
+developing and beta testing the sixteen-head model burn in board
+loader/unloader for the 4800 Series; and 
+
+developing additional test capabilities for our 1164 Series of reliability
+test equipment for the latest generations of copper, gate oxide and transistor device
+technologies. 
+
+Product development expenses include new product development and continuation engineering. Our
+continuation engineering efforts include the development of additional change kits to meet the
+expanding families of IC and discrete electronic device package types, further advancement of
+contactor technologies, and the addition of features and performance options for existing
+equipment.
+
+We expense all research and development costs, including costs for software development, as
+incurred. In 2005, 2004 and 2003, our expenses relating to research and development were
+approximately $3.1 million, $3.6 million and $2.6 million, respectively. In 2005 our research and
+development expense totaled about 19% of our revenue. Over time, our objective is to invest
+approximately 12% to 15% of our net sales in research and development. However, the percentage may
+be higher in periods of reduced sales, such as 2005. We employed 24 engineering personnel as of
+December 31, 2005.
+
+Intellectual Property 
+
+We attempt to protect the proprietary aspects of our products with patents, copyrights, trade
+secret law and internal nondisclosure safeguards. We currently hold several U.S. patents covering
+certain
+
+8
+
+Table of Contents   
+
+features of our handling systems, reliability test systems and automation products, the
+contactor elements incorporated in certain of our test handlers, and elements of our proprietary
+conductive thermal technology. The source code for the software contained in our products is
+considered proprietary and we typically do not furnish source code to our customers. We have also
+entered into confidentiality agreements with our employees. Despite these restrictions, it may be
+possible for competitors or users to copy aspects of our products or to obtain information that we
+regard as a trade secret.
+
+There is a rapid pace of technological change in the semiconductor industry, which in turn
+compels us to continually enhance and extend our product lines. We believe that patent, trade
+secret and copyright protection is less significant to our competitive position than factors such
+as the knowledge, ability and experience of our personnel, new product development, frequent
+product enhancements, name recognition and ongoing, reliable product maintenance and support.
+
+Backlog 
+
+Our backlog was $8.1 million at the end of 2005 and $2.8 million at the end of 2004. Because
+purchase orders are generally subject to cancellation or delay by customers with limited or no
+penalty, our backlog is not necessarily indicative of future revenue or earnings. We expect to
+ship in 2006 all of our backlog as of the end of 2005.
+
+Employees 
+
+As of December 31, 2005, we had 91 employees, consisting of 38 in manufacturing, 24 in
+engineering and product development, 17 in sales, marketing and customer service, and 12 in general
+administration and finance. None of our employees is represented by a labor union or is subject to
+any collective bargaining agreement. We have never experienced a work stoppage and we believe that
+our employee relations are satisfactory.
+
+Financial Information About Geographic Areas 
+
+See Note 15 to the Consolidated Financial Statements included in this Annual Report on Form
+10-K for information about geographic areas.
+
+ITEM 1A. RISK FACTORS. 
+
+Several important risks and uncertainties exist which could have an impact on our future
+operating results. These factors could cause our actual results to differ materially from our
+anticipated results or results that are reflected in any forward-looking statements in this Annual
+Report on Form 10-K. These factors, and their impact on the success of our operations and our
+ability to achieve our goals, include the following:
+
+Market Fluctuations in the Semiconductor Industry  
+
+Our business and results of operations depend upon capital expenditures by manufacturers of
+ICs and discrete electronic devices. As a result, our operating results are materially dependent
+upon economic and business conditions in the semiconductor industry. This industry has been
+subject to significant market fluctuations and has experienced periodic downturns, which often have
+had a disproportionate effect on capital equipment suppliers, such as Aetrium. In periods of
+excess capacity, the semiconductor industry sharply reduces purchases of capital equipment, such as
+our products. A downturn or slowdown in the semiconductor industry could substantially reduce our
+revenues and operating results and could harm our financial condition. There has been a trend of
+increasing revenues in the TAP segment of the
+
+9
+
+Table of Contents   
+
+semiconductor equipment industry that began in the third quarter of 2005. This trend may not
+continue and a reversal of this trend could have a material and adverse impact on our operations.
+
+Successful Development and Introduction of New Products and Product Improvements  
+
+We operate in an industry that is highly competitive with respect to timely product
+innovations. The market for our products is characterized by rapid technological change and
+evolving industry standards. The development of more complex ICs has driven the need for new
+equipment and processes to produce such devices at an acceptable cost. We believe that our future
+success will depend in part upon our ability to anticipate and respond rapidly to changes in
+technologies, IC and discrete electronic device package types, market trends and industry
+standards. If we cannot successfully develop and introduce new and enhanced cost-effective
+products on a timely basis that are accepted in the marketplace, our business and operating results
+would likely suffer.
+
+Reliance on Significant Customers  
+
+We rely on a limited number of customers for a substantial percentage of our net sales. A
+reduction, delay or cancellation of orders from one or more of these significant customers, or the
+loss of one or more of these customers, would likely have a negative impact on our operating
+results.
+
+Impact of Competitive Markets  
+
+The markets for all of our main product lines are highly competitive. Some of our competitors
+have substantially greater financial, manufacturing, marketing and product development resources
+than we have. For most of our customers, we are not the sole supplier of our type of equipment. In
+addition, it is common for customers to evaluate more than one supplier s equipment for their
+emerging requirements. Accordingly, we are at significant risk to lose orders to competing
+suppliers, and even to being displaced as a supplier at potentially significant customers, which
+would likely have a negative impact on our operating results.
+
+Fixed Cost Constraints on Reduction of Expenses  
+
+Many of our expenses, particularly those relating to properties, capital equipment and certain
+manufacturing overhead items, are fixed in the short term. Accordingly, reduced demand for our
+products and services causes our fixed production costs to be allocated across reduced production
+volumes, which negatively affects our gross margins and profitability. Our ability to reduce
+expenses is further constrained because we must continue to invest in research and development to
+maintain our competitive position and to maintain service and support for our existing customer
+base. Accordingly, in the event of a reduction in our revenues, resulting from an industry
+downturn or otherwise, we may not be able to maintain profitable operations.
+
+Impact of Cost Reduction Actions  
+
+In the event of a sustained downturn and continuing decline in our revenues, we may implement
+cost reduction actions, such as workforce reductions, consolidation of operations, pay freezes and
+reductions, and reductions in other expenditures. In doing so, we would attempt to maintain the
+necessary infrastructures to allow us to take full advantage of subsequent improvements in
+conditions. However, there can be no assurance that reductions we may have made in personnel and
+expenditure levels and the loss of the capabilities of personnel we may have terminated would not
+inhibit us in the timely completion of product development efforts, the effective service of and
+responsiveness to customer requirements, and the timely ramp up of production in response to
+improving market conditions.
+
+10
+
+Table of Contents   
+
+Impact of Changes in Securities Laws and Regulations  
+
+We have made, and will need to continue to make, changes in our corporate governance and
+securities disclosure and compliance practices as a result of the Sarbanes-Oxley Act of 2002. The
+SEC and the NASD have enacted, and we expect will continue to enact, new rules on a variety of
+subjects as a result of the Sarbanes-Oxley Act of 2002. While we believe that we can ultimately
+comply with the new legislated requirements associated with being a public company, compliance with
+the Sarbanes-Oxley Act of 2002 will increase our costs and may present new challenges and risks.
+These developments could also possibly make it more difficult and more expensive to obtain director
+and officer liability insurance. We may be required to accept reduced coverage or incur
+substantially higher costs to obtain coverage for our officers and directors, which may make it
+more difficult for us to attract and retain qualified board members or executive officers. We are
+currently evaluating and monitoring regulatory developments and cannot estimate the timing or
+magnitude of additional costs that may be incurred as a result of the Sarbanes-Oxley Act of 2002.
+
+Reduction in the Sales Efforts by our Current Distributors  
+
+We market and sell our test handlers and reliability test products outside of the United
+States primarily through international distributors that are not under our direct control. We have
+limited internal sales personnel. A reduction in the sales efforts by our current distributors, or
+the termination of one or more of these relationships with Aetrium, could negatively affect our
+operating results.
+
+Risks Inherent in our International Sales  
+
+We expect that international sales will continue to account for a significant portion of our
+net sales. As a result, our operations are subject to a number of risks inherent in conducting
+business internationally, which if any of them occur could negatively impact our operating results.
+
+Supply of Significant Components for our Products  
+
+Certain significant components used in our products, including certain contactor components,
+printed circuit boards, and refrigeration systems, are currently available only from sole or
+limited sources. We do not maintain long-term supply agreements with most of our suppliers and we
+purchase most of our components through individual purchase orders. Our inability to obtain
+components in required quantities or of acceptable quality could result in delays or reductions in
+our product introductions or shipments, which could damage our relationships with our customers and
+cause our operating results to suffer.
+
+ITEM 2. PROPERTIES. 
+
+We conduct our corporate functions and manufacturing, product development, sales, marketing
+and field service activities in North St. Paul, Minnesota. We currently occupy approximately
+45,000 square feet in North St. Paul under a lease that expires in February 2011. We also conduct
+manufacturing, product development, sales, marketing and field service activities in approximately
+28,000 square feet in Dallas, Texas, under a lease that expires in April 2008. We consider our
+present facilities to be sufficient for our current operations.
+
+In addition, as of December 31, 2005, we had the following lease obligations:
+
+We vacated a 30,000 square foot facility that is adjacent to our North St.
+Paul facility in June 2001 when we consolidated our North St. Paul operations into a
+single building. As of 
+
+11
+
+Table of Contents   
+
+December 31, 2005, approximately two-thirds of this space was subleased to third parties.
+This facility was under a lease that expired in February 2006. 
+
+We vacated a 45,000 square foot facility in Poway, California in 2000.
+This lease expires in January 2010. This space is currently subleased to third
+parties. We remain liable under the lease on a contingent basis. 
+
+ITEM 3. LEGAL PROCEEDINGS. 
+
+We are not a party to, and none of our property is the subject of, any material pending legal,
+governmental, administrative or other proceedings.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS. 
+
+We did not submit any matter to a vote of our security holders during the fourth quarter of
+fiscal year 2005.
+
+12
+
+Table of Contents   
+
+ITEM 4A. EXECUTIVE OFFICERS OF THE REGISTRANT. 
+
+Our executive officers, their ages and the offices they held as of March 1, 2006 are as
+follows:
+
+Name  
+       
+      Age  
+       
+      Position  
+
+Joseph C. Levesque
+
+61 
+
+Chairman of the Board, President and Chief Executive Officer 
+
+Douglas L. Hemer
+
+59 
+
+Chief Administrative Officer, Secretary and Director 
+
+Daniel M. Koch
+
+52 
+
+Vice President   Worldwide Sales 
+
+John J. Pollock
+
+46 
+
+Vice President   General Manager, North St. Paul Operations 
+
+Keith E. Williams
+
+62 
+
+President   Dallas Operations 
+
+Paul H. Askegaard
+
+54 
+
+Treasurer 
+
+Timothy G. Foley
+
+46 
+
+Vice President   Manufacturing, North St. Paul Operations 
+
+Dean K. Hedstrom
+
+56 
+
+Vice President   Engineering, North St. Paul Operations 
+
+Mr. Levesque   has served as our President, Chief Executive Officer and Chairman of our board
+since 1986. From 1973 to 1986, Mr. Levesque served in various capacities and most recently as
+Executive Vice President of Micro Component Technology, Inc., a manufacturer of IC testers and test
+handlers.
+
+Mr. Hemer   has served as one of our directors since 1986, and has served as our Secretary since
+May 2000 and as our Chief Administrative Officer since March 2001. He served as our Group Vice
+President from August 1998 to March 2001, as the President of our Poway, California operations from
+February 1997 to August 1998 and as our Chief Administrative Officer from May 1996 until February
+1997. Mr. Hemer was a partner in the law firm of Oppenheimer Wolff   Donnelly LLP for more than 15
+years before joining Aetrium. Mr. Hemer is also a director of Versa Companies, a privately held
+company.
+
+Mr. Koch   has served as our Vice President   Worldwide Sales since March 1991. From March 1990
+to March 1991, Mr. Koch served as the Vice President of Sales of Summation, Inc., a company
+involved with the testing of IC boards. From December 1973 to March 1990, Mr. Koch served in
+various sales positions and most recently as Vice President of Sales of Micro Component Technology,
+Inc.
+
+Mr. Pollock   has served as the Vice President and General Manager of our North St. Paul
+operations since December 2001. From August 1998 to December 2001, Mr. Pollock served as our Vice
+President of Product Development and Marketing. From April 1998 to August 1998, Mr. Pollock served
+as interim general manager of our North St. Paul operations. From November 1997 to May 1998, Mr.
+Pollock served as interim general manager of a test handler product line we had recently acquired.
+From September 1996 to August 1997, Mr. Pollock served as a Business Unit Manager.
+
+Mr. Williams   has served as the President of our Dallas operations since April 1998, when we
+acquired the handler equipment business of WEB Technology, Inc. Mr. Williams co-founded WEB in
+1982, and served as its President and CEO from its inception until we acquired it.
+
+13
+
+Table of Contents   
+
+Mr. Askegaard   has served as our Treasurer since February 1992. From October 1986 to February
+1992, Mr. Askegaard served as our Corporate Controller.
+
+Mr. Foley   has served as the Vice President   Manufacturing of our North St. Paul operations
+since December 2001. Prior to that, he served at our North St. Paul Operations as Vice President  
+Operations from August 1998 to December 2001, Vice President   Manufacturing from October 1996 to
+August 1998, and in various other positions since joining us in 1988.
+
+Mr. Hedstrom   has served as the Vice President   Engineering of our North St. Paul operations
+since September 2004. From 1993 to 1998 Mr. Hedstrom was a co-founder, director, and later
+President of CariTech, Inc., a manufacturer of carrier tape materials for the IC industry.
+Following the acquisition of CariTech by Illinois Tool Works in August 1998, he served as
+Engineering Manager   World Wide Operations for Illinois Tool Works until May 2001. Prior to
+founding CariTech and subsequent to his retirement from Illinois Tool Works, Mr. Hedstrom served as
+President and a Principal of Hedstrom Engineering Co., a consulting firm specializing in industrial
+automation and controls.
+
+14
+
+Table of Contents   
+
+PART II 
+
+ITEM 5.  
+       
+      MARKET FOR REGISTRANT S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER S PURCHASES
+OF EQUITY SECURITIES.  
+
+Market Information 
+
+Our common stock is quoted on The Nasdaq National Market under the symbol  ATRM.  The
+following table summarizes the high and low closing sale prices per share of our common stock for
+the periods indicated, as reported on The Nasdaq National Market. These prices do not include
+adjustments for retail mark-ups, markdowns or commissions.
+
+Holders 
+
+As of March 17, 2006, there were 154 shareholders of record. We estimate that an additional
+3,000 shareholders beneficially own stock held for their accounts at brokerage firms and financial
+institutions.
+
+Dividends 
+
+We have never paid cash dividends on our common stock. We currently intend to retain any
+earnings for use in our operations and do not anticipate paying cash dividends in the foreseeable
+future.
+
+Securities Authorized for Issuance Under Equity Compensation Plans 
+
+The information required to be disclosed by Item 201(d) of Regulation S-K,  Securities
+Authorized for Issuance Under Equity Compensation Plans,  is included under Item 12 of Part III of
+this Annual Report on Form 10-K.
+
+Recent Sale of Unregistered Securities 
+
+We did not have any unregistered sales of equity securities during fiscal year 2005.
+
+Issuer s Purchases of Equity Securities 
+
+We did not make any purchases of our common stock during the three months ended December 31,
+2005.
+
+15
+
+Table of Contents   
+
+ITEM 6. SELECTED FINANCIAL DATA. 
+
+You should read the Selected Financial Data presented below in conjunction with the
+Consolidated Financial Statements and notes thereto included elsewhere in this Annual Report on
+Form 10-K, and in conjunction with  Management s Discussion and Analysis of Financial Condition and
+Results of Operations  included elsewhere in this Annual Report on Form 10-K.
+
+Five Year Summary 
+(in thousands, except per share data) 
+
+1. 
+       
+     As a result of the adoption of SFAS No. 142,  Goodwill and Other
+Intangible Assets,  we recorded no goodwill amortization expense in
+2005, 2004, 2003 and 2002. Goodwill amortization expense amounted to
+$0.7 million in 2001. 
+
+2. 
+       
+     Includes a $0.1 million gain on a claim settlement and a $0.2 million
+loss on the sale of marketable securities. See Note 6 to the
+Consolidated Financial Statements. 
+
+3. 
+       
+     Includes a $0.1 million restructuring charge. 
+
+4. 
+       
+     Includes a $0.7 million goodwill impairment charge. 
+
+5. 
+       
+     Includes a $6.5 million goodwill impairment charge recorded as a
+cumulative effect of a change in accounting principle upon the
+adoption of SFAS No. 142,  Goodwill and Other Intangible Assets.  
+
+6. 
+       
+     Includes pre-tax charges of $3.7 million for inventory excess and
+obsolescence charges and $2.2 million for charges related to
+restructuring costs and asset write-downs. 
+
+16
+
+Table of Contents   
+
+ITEM 7.  
+       
+      MANAGEMENT S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS  
+
+Overview: 
+
+Aetrium designs, manufactures and markets a variety of electromechanical equipment used by the
+semiconductor industry to handle and test semiconductor and passive electronic devices, such as
+integrated circuits, or ICs, and discrete electronic devices. Our primary emphasis is on the IC
+segment of semiconductor manufacturing. Our equipment is used primarily in
+the test, assembly and packaging, or TAP, segment of the semiconductor equipment
+industry.
+
+The semiconductor equipment industry is often described as a cyclical growth industry
+characterized by a long-term growth trend occasionally interrupted by periods of contraction and
+significant declines in revenue. General industry conditions and the demand for Aetrium s products
+can fluctuate significantly from period to period as a result of numerous factors, including but
+not limited to changes in U.S. and worldwide economic conditions, supply and demand for ICs and
+discrete electronic devices, changes in semiconductor manufacturing capacity, advancements in
+industry technologies and competitive factors. For these and other reasons, our operating results
+for 2003, 2004 and 2005 may not be indicative of future operating results.
+
+Following a period of significant business expansion through calendar year 2000, the
+semiconductor equipment industry experienced a deep and prolonged business downturn during the
+three-year period ended December 31, 2003. U.S. and global economic conditions were generally weak
+during this period and although there was a brief improvement in industry conditions in early 2002,
+the apparent recovery stalled and many semiconductor manufacturers continued to experience
+significantly reduced demand for their products, elevated inventory levels and significant excess
+production capacity. These factors led to a dramatic cutback in capital spending, resulting in the
+most severe downturn in the history of the semiconductor equipment industry. Aetrium s revenues
+decreased significantly and our 2002 revenues of $12.7 million were down 37% compared with 2001 and
+down 72% compared with 2000.
+
+In 2003, semiconductor industry business conditions remained very weak although there were
+signs of improvement as the year progressed, including increasing shipments of semiconductors,
+decreasing inventory levels, improving capacity utilization rates and an improving economic
+climate. As the end of the year approached, these factors led to increased capital spending at
+levels that suggested the beginning of an industry recovery. Aetrium s revenues remained
+relatively flat through the first three quarters of 2003 and increased in the fourth quarter as
+equipment orders increased significantly. As a result of the stronger fourth quarter, our 2003
+revenues of $14.1 million were up 11% compared with 2002.
+
+In the first half of 2004, business conditions improved significantly as many semiconductor
+manufacturers increased capital spending in response to increased demand for their products.
+Aetrium s revenues increased dramatically in this period and were more than double the revenues for
+the first half of 2003. However, industry conditions weakened again in the second half of 2004 as
+semiconductor manufacturers addressed rising inventory levels. As a result, semiconductor
+manufacturers decreased capital spending, particularly in the TAP segment of the semiconductor
+equipment industry. Aetrium s orders and revenues decreased sequentially in the third and fourth
+quarters, and second half revenues were approximately 18% lower than the first half of the year.
+Revenues for the year totaled $27.8 million compared with $14.1 million in 2003, an increase of
+97%.
+
+Semiconductor equipment industry conditions remained generally weak in the first half of 2005
+and Aetrium s revenues continued to decline in the first and second quarters. However,
+semiconductor
+
+17
+
+Table of Contents   
+
+industry conditions steadily improved in the second half of 2005 as many manufacturers
+experienced improving demand for semiconductors, decreasing inventory levels and improving capacity
+utilization rates, leading to improved business conditions for equipment suppliers as well.
+Accordingly, while worldwide bookings for the TAP segment of the semiconductor equipment industry
+were down 13.4% year over year and billings were down 16.1%, both bookings and billings improved
+substantially in the second half of 2005. Aetrium s results followed this improving trend and our
+revenues increased sequentially by 19.1% to $3.7 million in the third quarter and by 51.2% to $5.6
+million in the fourth quarter. While our bookings for the year were down 9.6% from 2004, bookings
+improved substantially in the second half of 2005 and we finished the year with an $8.1 million
+backlog.
+
+Industry analysts are generally forecasting that favorable conditions will continue through
+2006. However, there can be no assurances as to the strength or duration of such improved business
+conditions or what the impact of future industry conditions may have on Aetrium.
+
+Critical Accounting Policies and Estimates: 
+
+Management s discussion and analysis of our financial condition and results of operations are
+based upon our consolidated financial statements, which have been prepared in accordance with
+accounting principles generally accepted in the United States of America. The preparation of these
+financial statements requires us to make estimates and judgments that affect the reported amounts
+of assets, liabilities, revenues and expenses, and related disclosure of contingent assets and
+liabilities. We base our estimates on historical experience and on various other assumptions that
+we believe are reasonable under the circumstances, the results of which form the basis for making
+judgments about the carrying values of assets and liabilities. Actual results may differ from these
+estimates under different assumptions or conditions. We believe the critical accounting policies
+that require the most significant judgments and estimates used in the preparation of our
+consolidated financial statements are those related to revenue recognition, accounts receivable,
+inventories, identifiable intangible assets, warranty obligations and income tax accounting.
+
+Revenue Recognition  
+
+Our policy is to recognize revenue on product sales upon shipment if contractual obligations
+have been substantially met, collection of the proceeds is assessed as being reasonably assured,
+and title and risk of loss have passed to the customer, which is generally the case for sales of
+spare parts, accessories, change kits and some equipment and equipment upgrades. In instances
+where title does not pass upon shipment, revenue is recognized upon delivery or customer acceptance
+based upon the terms of the sales agreement. In instances where equipment or equipment upgrade
+sales contracts include significant post-shipment obligations to be performed by Aetrium, revenue
+for the entire transaction is deferred until such obligations have been completed or, if
+applicable, the transaction is accounted for as a multiple-element arrangement. In instances where
+contractual terms can only be satisfied after shipment, such as meeting customer-specified
+acceptance requirements at the customer s site, revenue is not recognized until there is objective
+evidence that the applicable contract terms have been met. Due to the high selling prices of
+certain types of equipment, the timing of revenue recognition of a relatively small number of
+transactions may have a significant impact on our quarterly results.
+
+Accounts Receivable  
+
+We maintain an allowance for doubtful accounts that reflects our estimate of losses that may
+result from the uncollectibility of accounts receivable. Our allowance for doubtful accounts is
+based primarily on an analysis of individual accounts for which we have information indicating the
+customer may not be able to pay amounts owed to us. In these cases, based on the available facts
+and
+
+18
+
+Table of Contents   
+
+circumstances, we estimate the amount that will be collected from such customers. We also
+evaluate the collectibility of our accounts receivable in the aggregate based on factors such as
+the aging of receivable amounts, customer concentrations, historical experience, and current
+economic trends and conditions. We adjust our allowance for doubtful accounts when additional
+information is received that impacts the amount reserved. If circumstances change, our estimates of
+the recoverability of accounts receivable could be reduced or increased by a material amount. Such
+a change in estimated recoverability would be accounted for in the period in which the facts that
+give rise to the change become known. As of December 31, 2005, our allowance for doubtful accounts
+was $0.1 million.
+
+Inventories  
+
+We adjust our inventories for estimated excess and obsolete inventory equal to the difference
+between the cost of inventory and its estimated realizable value based upon assumptions about
+future product demand and market conditions. If actual product demand or market conditions are less
+favorable than those projected by management, additional inventory adjustments may be required. As
+of December 31, 2005, our provision for excess and obsolete inventory was $2.5 million.
+
+Identifiable Intangible Assets  
+
+We review our identifiable intangible assets and other long-lived assets whenever an event or
+change in circumstances indicates that the carrying value of an asset may be impaired. If such an
+event or change in circumstances occurs and potential impairment is indicated because the carrying
+values exceed the estimated future undiscounted cash flows, we would measure the impairment loss as
+the amount by which the carrying value of the asset exceeds its fair value. As of December 31,
+2005, the carrying value of our identifiable intangible assets was $0.3 million.
+
+Warranty Obligations  
+
+We accrue estimated warranty costs in the period that the related revenue is recognized. Our
+warranty cost estimates and warranty reserve requirements are determined based upon product
+performance, historical warranty experience, and costs incurred in addressing product performance
+issues. Should product performance or cost factors differ from our estimates, adjustments to our
+warranty accrual may be required. As of December 31, 2005, our warranty reserve was $0.2 million.
+
+Income Tax Accounting  
+
+We record the benefit we will derive in future accounting periods from tax losses and credits
+and deductible temporary differences as  deferred tax assets  on our balance sheet. These deferred
+tax assets are reduced by a valuation allowance when we believe it is more likely than not that
+some portion or all of the deferred tax assets will not be realized. We carry a valuation
+allowance to fully reserve these assets. We assess the realizability of our deferred tax assets and
+the need for this valuation allowance in accordance with Statement of Financial Accounting
+Standards No. 109,  Accounting for Income Taxes.  We expect to continue to maintain a full
+valuation allowance until we determine that we can sustain a level of profitability that
+demonstrates our ability to use these assets. To the extent we determine that the realization of
+some or all of these benefits is more likely than not based upon expected future taxable income, a
+portion or all of the valuation allowance will be reversed. Such a reversal would be recorded as
+an income tax benefit and, for some portion related to deductions for stock option exercises, an
+increase in shareholders  equity. As of December 31, 2005, our valuation allowance was $25.6
+million.
+
+19
+
+Table of Contents   
+
+Results of Operations :
+
+Selected statements of operations data as a percentage of our net sales for 2005, 2004 and
+2003 were as follows:
+
+Net Sales: 
+
+Our net sales by product line as a percentage of total sales for 2005, 2004 and 2003 were as
+follows:
+
+Net sales were $16.4 million in 2005 compared with $27.8 million in 2004, a decrease of
+41%. The decrease in sales was across all of our product lines and was attributable to the slowdown
+in the semiconductor industry that began in the second half of 2004 and continued into 2005. We
+experienced weak business conditions through the first half of 2005, but order activity increased
+in the third quarter and improved substantially in the fourth quarter. Net sales of test handlers,
+representing 41% of total net sales, were $6.8 million in 2005, a decrease of 57% compared to 2004.
+Net sales of reliability test equipment, representing 24% of total net sales, were $3.9 million in
+2005, a decrease of 32% compared to 2004. Net sales of automation equipment, representing 8% of
+total net sales, were $1.4 million in 2005, a decrease of 13% compared to 2004. Net sales of change
+kits and spare parts, representing 27% of total net sales, were $4.4 million in 2005, a decrease of
+9% compared to 2004. Sales of test handlers were most affected by the industry slowdown as excess
+inventories at our customers and customer efforts to increase productivity of their existing
+manufacturing capacity both delayed production equipment acquisitions.
+
+Net sales were $27.8 million in 2004 compared with $14.1 million in 2003, a 97% increase.
+Semiconductor industry conditions began to improve in the fourth quarter of 2003 and continued to
+strengthen in the first half of 2004, which resulted in an increase in the volume of products we
+sold in 2004 when compared to 2003. Although industry conditions weakened again in the second half
+of 2004, our net sales for the year increased across all our product lines compared to 2003. Net
+sales of test handlers, representing 56% of total net sales, were $15.7 million in 2004, an
+increase of 115% compared
+
+20
+
+Table of Contents   
+
+to 2003. Net sales of reliability test equipment, representing 21% of total net sales, were
+$5.7 million in 2004, an increase of approximately 100% over 2003. Net sales of semiconductor
+automation equipment, representing 6% of total net sales, were $1.6 million in 2004, an increase of
+3% over 2003. Net sales of change kits and spare parts, representing 17% of total net sales, were
+$4.8 million in 2004, an increase of $2.4 million or approximately 100% over 2003.
+
+Gross Profit: 
+
+Gross profit, as a percentage of net sales, was 49.3% of net sales in 2005 compared with 56.8%
+in 2004 and 52.8% in 2003. Gross margins decreased in 2005 due to inefficiencies associated with
+reduced production and revenue levels, a higher mix of discounted distributor sales compared with
+the prior year, and relatively high material and distribution costs of early, limited volume
+production runs of our Model 55V8 gravity feed test handlers. Gross margins improved in 2004
+compared to 2003 primarily due to efficiencies realized from significantly higher production
+volumes and revenue levels.
+
+Selling, General and Administrative Expenses: 
+
+Selling, general and administrative, or SG A, expenses were $7.1 million in 2005 compared with
+$8.7 million in 2004 and $6.4 million in 2003. Commissions expense decreased $1.0 million in 2005
+due primarily to the significantly reduced net sales volume. Incentive compensation expense
+decreased $0.5 million due primarily to the operating losses incurred in 2005. Amortization expense
+related to intangible assets decreased $0.3 million in 2005 as certain intangibles became fully
+amortized. SG A expenses increased by $2.3 million in 2004 compared with 2003. Commission expense
+increased $1.1 million in 2004 due to significantly higher net sales volume and a higher mix of
+commissionable foreign sales. Incentive compensation expense increased $0.5 million based on
+profit levels achieved in 2004. Employee wages increased approximately $0.4 million compared with
+the prior year primarily due to wage increases, including the reversal of wage reductions
+implemented prior to 2004.
+
+Research and Development Expenses: 
+
+Research and development expenses were $3.1 million in 2005 compared with $3.6 million in 2004
+and $2.6 million in 2003. The decrease in 2005 is attributed to a reduction of $0.4 million in
+materials and third-party contractor service costs, primarily associated with the development of
+our Model 55V8 gravity-feed test handler. Also, incentives expense decreased $0.1 million due to
+the operating losses incurred in 2005. Research and development expenses increased $1.0 million in
+2004 compared with 2003, including an increase of $0.6 million in third-party contractor service
+costs related primarily to the development of our Model 55V8 gravity feed test handler. Incentive
+compensation expense increased $0.1 million based on profit levels achieved in 2004. Wages
+increased $0.1 million due to the reversal of wage reductions implemented prior to 2004, normal
+wage increases and the addition of two engineering personnel during the year. As a percentage of
+net sales, research and development expenses were 19.1%, 12.9%, and 18.8 in 2005, 2004, and 2003,
+respectively. New product development is an essential part of our strategy to gain market share. We
+expect to invest 12% to 15% of our revenues in research and development during profitable periods,
+such as in 2004. However, we expect that our investment in research and development may exceed
+these levels during periods of reduced revenues, as was the case in 2005 and 2003.
+
+Interest Income, Net: 
+
+Interest income, net, amounted to $140,000, $61,000, and $41,000 in 2005, 2004 and 2003,
+respectively. These amounts consisted primarily of interest income from the investment of excess
+funds, partially offset by interest expense of approximately $11,000 related to a note payable to a
+bank in each of
+
+21
+
+Table of Contents   
+
+the years 2005 and 2004. Interest income increased in 2005 primarily due to increases in
+interest rates during the year. Interest income increased in 2004 compared with 2003 due to higher
+average cash balances and slightly higher interest rates.
+
+Other (Expense), Net: 
+
+In the second quarter of 2004, we settled a claim against a customer for past-due invoices for
+products we had delivered plus charges related to a purchase order cancelled by the customer in
+2001. We accepted shares of the customer s common stock with a market value of approximately
+$233,000 in settlement of these claims. Of this amount, approximately $106,000 was applied to the
+customer s past-due accounts receivable amounts owed to us. The remaining $127,000, related to
+purchase order cancellation charges, was recorded as a gain in the second quarter of 2004. Prior to
+December 31, 2004, we sold the shares for approximately $31,000 and realized a loss of
+approximately $202,000 in the fourth quarter of 2004. The net effect of these transactions was a
+net loss of $74,000, which is presented as  Other (expense), net  in our Consolidated Statement of
+Operations.
+
+Income Tax Expense (Benefit): 
+
+We recorded an income tax benefit of $30,000 in 2005 related primarily to a refund received on
+prior year taxes. In 2004, we recorded income tax expense of $52,000 on pre-tax income of $3.5
+million, consisting primarily of the federal alternative minimum tax and certain state minimum
+fees. Since 2000, we have maintained a valuation allowance to fully reserve our deferred tax
+assets. We recorded the valuation allowance in 2000 because the cumulative losses we had incurred
+over the previous three years made it questionable whether we would realize value from the deferred
+tax assets. We continue to monitor the realizability of the benefits related to our net deferred
+tax assets. To the extent we determine that the realization of some or all of these benefits is
+more likely than not based upon expected future taxable income, a portion or all of the valuation
+allowance will be reversed. Such a reversal would be recorded as an income tax benefit and, for
+some portion related to deductions for stock option exercises, an increase in shareholders  equity.
+
+Financial Condition, Liquidity and Capital Resources: 
+
+Cash and cash equivalents decreased by approximately $3.1 million in 2005 to $4.1 million at
+December 31, 2005. We used $3.1 million to fund operating activities during the year. The major
+components of cash flows used in operating activities were a net loss of $1.9 million, a $1.2
+million increase in accounts receivable, a $0.4 million increase in inventories, and a $0.6 million
+decrease in other accrued liabilities, partially offset by $0.8 million in non-cash depreciation
+and amortization expense. Accounts receivable increased primarily because the timing of fourth
+quarter shipments in 2005 was more concentrated in the latter part of the quarter as compared to
+2004. Inventories increased primarily due to an increase in purchases in response to significantly
+increased order activity in the fourth quarter of 2005. The decrease in other accrued liabilities
+reflects primarily a reduction in the balance of outstanding customer advance payments since
+December 31, 2004.
+
+Cash and cash equivalents increased by approximately $3.2 million in 2004. We generated $2.9
+million of cash from operating activities during the year. The major components of cash flows
+generated from operating activities were net income of $3.4 million, $1.1 million in non-cash
+depreciation and amortization expense, and an increase of $0.5 million in deferred revenue and
+customer deposits. These sources of cash were partially offset by increases in accounts receivable
+of $0.4 million and inventories of $1.9 million. Deferred revenue increased due to the receipt of
+$0.3 million in progress payments related to shipped equipment that had not met revenue recognition
+criteria at December 31, 2004 and customer deposits increased due to the receipt of a $0.1 million
+deposit with a special equipment order from a new
+
+22
+
+Table of Contents   
+
+customer. Inventories increased in 2004 due to increased production levels resulting from
+higher business volumes. Accounts receivable increased because revenues in the fourth quarter of
+2004 were approximately 23% higher than in the fourth quarter of 2003.
+
+Cash and cash equivalents decreased by approximately $1.7 million in 2003. We used $1.5
+million to fund operating activities during the year. The major components of cash flows used in
+operating activities were a net loss of $1.6 million, a $1.7 million increase in accounts
+receivable and a $1.0 million decrease in accrued liabilities partially offset by non-cash
+depreciation and amortization expense of $1.1 million, a $0.6 million decrease in inventories, and
+a $0.9 million increase in accounts payable. Accounts receivable increased primarily due to a 40%
+increase in net sales in the fourth quarter of 2003 compared with the fourth quarter of 2002 and
+also due to the timing of certain collections. Although we increased inventory purchases in
+December 2003 to support increased order activity, inventory levels decreased throughout 2003 as we
+continued inventory reduction initiatives first implemented in fiscal 2001. Accounts payable
+increased primarily due to increased inventory purchases in the fourth quarter of 2003 as discussed
+above. Accrued liabilities decreased primarily due to a reduction in deferred revenue associated
+with two equipment sales for which a total of $0.6 million in progress payments was received prior
+to December 31, 2002 and revenue was recognized in 2003 upon final acceptance of the equipment.
+
+Our use of cash in investing activities in 2005, 2004, and 2003 related primarily to
+expenditures for equipment, which amounted to $0.1 million, $0.2 million, and $0.2 million,
+respectively. The capital expenditures in 2004 and 2003 were primarily related to upgrading our
+data processing capabilities at both our North St. Paul, Minnesota and Dallas, Texas manufacturing
+facilities. In 2004, we received approximately $31,000 in cash from the sale of marketable
+securities originally received in a claim settlement.
+
+Net cash generated from financing activities was not significant in 2005 and 2003. In 2004,
+we generated $0.5 million from financing activities. We received approximately $0.4 million in
+cash from the exercise of employee stock options and $0.2 million in long-term bank financing
+related to certain data processing equipment purchases.
+
+Historically we have supported our capital expenditure and working capital needs with cash
+generated from operations and our existing cash and cash equivalents. We believe our cash and cash
+equivalents of $4.1 million at December 31, 2005 will be sufficient to meet capital expenditure and
+working capital needs at least through 2006. In addition, we have a revolving credit line agreement
+with a bank that provides for borrowings up to the lesser of $2.0 million or 90% of eligible
+accounts receivable plus 75% of eligible inventories. The credit agreement expires in October
+2006. We believe we will be able to extend the agreement at that time or obtain similar financing,
+if needed. However, there can be no assurance that such financing will be available with terms
+favorable to us or at all. Furthermore, if the improved industry conditions and increased business
+activity we experienced in late 2005 prove to be unsustainable and/or other factors,
+including future industry cycles, negatively impact the demand for our products, future cash flows
+could be adversely affected. Also, we may acquire other companies, product lines or technologies
+that are complementary to our business, and our working capital needs may change as a result of
+such acquisitions.
+
+23
+
+Table of Contents   
+
+Our significant contractual obligations as of December 31, 2005 and the effect such
+obligations are expected to have on our cash flows in future periods are summarized below (in
+thousands):
+
+The above minimum operating lease payments have not been reduced by minimum sublease
+rentals of $0.3 million due in the future under noncancellable subleases. Also, the minimum
+operating lease payments in the table above do not include a lease agreement we executed in
+February 2006 on our North St. Paul, Minnesota facility, which provides for monthly base rents of
+$23,333 with 2% annual increases through February 2011. Purchase order commitments are related
+primarily to inventory purchases in the ordinary course of business.
+
+Recent Accounting Pronouncements 
+
+In December 2004, the Financial Accounting Standards Board (FASB) issued Statement of Financial
+Accounting Standards (SFAS) No. 123 (Revised 2004),  Share-Based Payment  (SFAS 123R). SFAS 123R
+addresses all forms of share-based payment awards, including shares issued under employee stock
+purchase plans, stock options, restricted stock and stock appreciation rights. The standard
+generally requires companies to expense share-based payment awards with compensation cost for
+share-based payment transactions measured at fair value. Aetrium will be required to adopt the
+standard in the first quarter of our fiscal year ending December 31, 2006, which will result in a
+charge to our operations for all existing unvested stock options and any new stock option grants
+over their vesting periods. We expect that compensation expense related to unvested stock options
+at December 31, 2005 will amount to less than $25,000 in the first quarter of fiscal year 2006 and
+less than $50,000 for the full fiscal year (excluding any potential income tax benefits and the
+potential impact of future grants).
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK. 
+
+Our exposure to interest rate risk relates primarily to our short-term investment of excess
+funds which, as of December 31, 2005, consisted primarily of money market funds and bank
+certificates of deposit with original maturities of less than three months. Given the short
+duration of our investments and the size of our investment portfolio, we do not believe a change in
+interest rates would have a significant impact on our financial condition or results of operations.
+We generally conduct business in U.S. dollars and, therefore, risks associated with changes in
+foreign currency rates are insignificant.
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA. 
+
+The information required by this Item is included in our Consolidated Financial Statements and
+the report of our independent registered public accounting firm, which are included in this Annual
+Report on Form 10-K beginning on page F-1. The index to this report and the financial statements
+is included in Item 15(a)(1) below.
+
+ITEM 9.  
+       
+      CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+FINANCIAL DISCLOSURE.  
+
+None.
+
+24
+
+Table of Contents   
+
+ITEM 9A. CONTROLS AND PROCEDURES. 
+
+Our President and Chief Executive Officer, our Chief Administrative Officer and our Treasurer
+conducted an evaluation of the effectiveness of the design and operation of our disclosure controls
+and procedures (as defined in Securities Exchange Act Rules 13a-15(e) and 15d-15(e)) as of December
+31, 2005. Based on their evaluation, they concluded that our disclosure controls and procedures
+were effective and designed to give reasonable assurance that the information required to be
+disclosed by us in reports that we file or submit under the Exchange Act was made known to them by
+others and was recorded, processed, summarized and reported within the time periods specified in
+SEC rules and forms. There was no change in our internal controls that occurred during the fourth
+fiscal quarter in the period covered by this Annual Report on Form 10-K that has materially
+affected, or is reasonably likely to affect, our internal controls over financial reporting.
+
+ITEM 9B. OTHER INFORMATION. 
+
+None.
+
+25
+
+Table of Contents   
+
+PART III 
+
+ITEM 10.  
+       
+      DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT.  
+
+Directors of the Registrant 
+
+The information under the captions  Election of Directors   Information About Nominees, 
+ Election of Directors   Other Information About Nominees  and  Election of Directors Additional
+Information About the Board and Its Committees  in our 2006 Proxy Statement is incorporated in this
+Annual Report on Form 10-K by reference.
+
+Executive Officers of the Registrant 
+
+The information under the caption  Item 4A. Executive Officers of the Registrant  located
+elsewhere in this Annual Report on Form 10-K is incorporated herein by reference.
+
+Compliance with Section 16(a) of the Exchange Act 
+
+The information under the caption  Section 16(a) Beneficial Ownership Reporting Compliance  in
+our 2006 Proxy Statement is incorporated in this Annual Report on Form 10-K by reference.
+
+Identification of Audit Committee; Audit Committee Financial Expert 
+
+The information under the caption  Executive Compensation and Other Benefits   Audit Committee
+Report   Membership and Role of the Audit Committee  in our 2006 Proxy Statement is incorporated in
+this Annual Report on Form 10-K by reference.
+
+Code of Ethics 
+
+The information under the caption  Code of Ethics  in our 2006 Proxy Statement is incorporated
+in this Annual Report on Form 10-K by reference.
+
+ITEM 11. EXECUTIVE COMPENSATION. 
+
+The information under the captions  Election of Directors   Compensation of Directors  and
+ Executive Compensation and Other Benefits  in our 2006 Proxy Statement is incorporated in this
+Annual Report on Form 10-K by reference.
+
+ITEM 12.  
+       
+      SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED STOCKHOLDER
+MATTERS.  
+
+The information under the captions  Security Ownership of Certain Beneficial Owners and
+Management  and  Executive Compensation and Other Benefits Securities Authorized for Issuance Under
+Equity Compensation Plans  in our 2006 Proxy Statement is incorporated in this Annual Report on
+Form 10-K by reference.
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS. 
+
+The information under the caption  Certain Relationships and Related Transactions  in our 2006
+Proxy Statement is incorporated in this Annual Report on Form 10-K by reference.
+
+26
+
+Table of Contents   
+
+ITEM 14. PRINCIPAL ACCOUNTANT FEES AND SERVICES. 
+
+The information concerning principal accountant fees and services and the audit committee s
+pre-approval polices and procedures under the captions  Independent Registered Public Accounting
+Firm Audit and Non-Audit Fees  and  Independent Registered Public Accounting Firm Pre-approval
+Policies and Procedures  in our 2006 Proxy Statement is incorporated in this Annual Report on Form
+10-K by reference.
+
+27
+
+Table of Contents   
+
+PART IV 
+
+ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES 
+
+(a) 1. Financial Statements of Registrant. 
+
+The following Consolidated Financial Statements of Aetrium and the Independent Registered
+Public Accounting Firm s Report thereon are included herein:
+
+Description 
+       
+     Page(s) 
+
+Report of Independent Registered Public Accounting Firm 
+
+F-1 
+
+Consolidated Financial Statements:
+
+Consolidated Statements of Operations 
+
+F-2 
+
+Consolidated Balance Sheets 
+
+F-3 
+
+Consolidated Statements of Changes in Shareholders  Equity 
+
+F-4 
+
+Consolidated Statements of Cash Flows 
+
+F-5 
+
+Notes to Consolidated Financial Statements 
+
+F-6   F-17 
+
+(a) 2. Financial Statement Schedule of Registrant. 
+
+Schedule II   Valuation and Qualifying Accounts
+
+S-1 
+
+All other schedules are omitted as the required information is inapplicable or the information
+is presented in the financial statements or related notes.
+
+(a) 3. Exhibits. 
+
+The exhibits to this Annual Report on Form 10-K are listed in the Exhibit Index beginning on
+page E-1 of this Annual Report on  Form
+10-K. 
+
+If you were one of our shareholders on March 31, 2006 and you want a copy of any of the
+exhibits listed or referred to in the Exhibit Index, we will furnish it to you at a reasonable cost
+upon your written request sent to Aetrium Incorporated, 2350 Helen Street, North St. Paul,
+Minnesota 55109, Attn.: Shareholder Relations. 
+
+The following is a list of each management contract or compensatory plan or arrangement we are
+required to file as an exhibit to this Annual Report on Form 10-K pursuant to Item 15(b):
+
+28
+
+Table of Contents   
+
+29
+
+Table of Contents   
+
+FINANCIAL STATEMENTS OF REGISTRANT 
+
+Report of Independent Registered Public Accounting Firm 
+
+To the Shareholders and Board of Directors of Aetrium Incorporated
+
+In our opinion, the consolidated financial statements listed in the index appearing under Item
+15(a)(1) present fairly, in all material respects, the financial position of Aetrium Incorporated
+and its subsidiaries ( the Company ) at December 31, 2005 and 2004, and the results of their
+operations and their cash flows for each of the three years in the period ended December 31, 2005,
+in conformity with accounting principles generally accepted in the United States of America. In
+addition, in our opinion, the financial statement schedule appearing under Item 15(a)(2) presents
+fairly, in all material respects, the information set forth therein when read in conjunction with
+the related consolidated financial statements. These financial statements and financial statement
+schedule are the responsibility of the Company s management. Our responsibility is to express an
+opinion on these financial statements and financial statement schedule based on our audits. We
+conducted our audits of these statements in accordance with the standards of the Public Company
+Accounting Oversight Board (United States). Those standards require that we plan and perform the
+audit to obtain reasonable assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting the amounts and
+disclosures in the financial statements, assessing the accounting principles used and significant
+estimates made by management, and evaluating the overall financial statement presentation. We
+believe that our audits provide a reasonable basis for our opinion.
+
+/s/ PricewaterhouseCoopers LLP
+
+Minneapolis, Minnesota 
+March 24, 2006
+
+F-1
+
+Table of Contents   
+
+AETRIUM INCORPORATED 
+
+Consolidated Statements of Operations 
+
+The accompanying notes are an integral part of the consolidated financial statements. 
+
+F-2
+
+Table of Contents   
+
+AETRIUM INCORPORATED 
+
+Consolidated Balance Sheets 
+
+The accompanying notes are an integral part of the consolidated financial statements. 
+
+F-3
+
+Table of Contents   
+
+AETRIUM INCORPORATED 
+
+Consolidated Statements of Changes in Shareholders  Equity 
+
+The accompanying notes are an integral part of the consolidated financial statements. 
+
+F-4
+
+Table of Contents   
+
+AETRIUM INCORPORATED 
+
+Consolidated Statements of Cash Flows 
+
+The accompanying notes are an integral part of the consolidated financial statements. 
+
+F-5
+
+Table of Contents   
+
+AETRIUM INCORPORATED 
+
+Notes to Consolidated Financial Statements 
+
+NOTE 1: BUSINESS DESCRIPTION 
+
+Aetrium Incorporated designs, manufactures and markets a variety of electromechanical equipment
+used by the semiconductor industry to handle and test integrated circuits, or ICs, and discrete
+electronic devices. References in the Notes to Consolidated Financial Statements to  Aetrium, 
+ the company,   we  or  our,  unless the context otherwise requires, refer to Aetrium Incorporated
+and its consolidated subsidiaries and their respective predecessors.
+
+NOTE 2: SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES 
+
+Basis of Presentation:  The consolidated financial statements include the accounts of Aetrium
+Incorporated and its wholly owned subsidiaries. All intercompany accounts and transactions have
+been eliminated in consolidation.
+
+Use of Estimates:  The preparation of the consolidated financial statements in conformity with
+accounting principles generally accepted in the United States of America requires management to
+make estimates and assumptions that affect the amounts reported in the financial statements and
+accompanying notes. Actual results could differ from those estimates.
+
+Cash Equivalents:  Cash equivalents include highly liquid investments purchased with an original
+maturity of three months or less.
+
+Marketable Securities:  Marketable securities are classified as short-term or long-term in our
+balance sheet based on their maturity date and expectations regarding sales. Available-for-sale
+securities are carried at fair value, with unrealized gains and losses reported as a separate
+component of shareholders  equity until realized. Fair value is determined using quoted market
+prices. The carrying amounts of securities used to compute unrealized gains and losses and the cost
+of securities used to compute realized gains and losses are determined by specific identification.
+At December 31, 2005 and 2004 we had no marketable securities.
+
+Accounts Receivable and Allowance for Doubtful Accounts:  Trade accounts receivable are recorded at
+the invoiced amount and do not bear interest. The allowance for doubtful accounts is our best
+estimate of losses that may result from the uncollectibility of accounts receivable. We determine
+the allowance based primarily on an analysis of individual accounts. We also evaluate the
+collectibility of our accounts receivable in the aggregate based on factors such as the aging of
+receivable amounts, customer concentrations, historical experience, and current economic trends and
+conditions. Account balances are charged off against the allowance when we feel it is probable the
+receivable will not be recovered. We do not have any off-balance-sheet credit exposure related to
+our customers.
+
+Inventories:  Inventories are valued at the lower of cost or market, with cost determined on a
+first-in, first-out basis.
+
+Property and Equipment:  Furniture, fixtures and equipment are recorded at cost and are depreciated
+using the double declining balance method over estimated useful lives ranging from three to seven
+years. When assets are retired or disposed of, the cost and accumulated depreciation are removed
+from the accounts. Depreciation expense was approximately $0.2 million for each of the years ended
+December 31, 2005, 2004 and 2003. Maintenance and repairs are charged to expense as incurred.
+
+Other Intangible Assets:  Identifiable intangible assets, consisting primarily of acquired
+technology, are capitalized at their respective fair values, which are generally determined using
+discounted future cash
+
+F-6
+
+Table of Contents   
+
+AETRIUM INCORPORATED 
+Notes to Consolidated Financial Statements 
+
+flow techniques and assumptions appropriate to each situation. Such intangibles are amortized on a
+straight-line basis over their estimated useful lives of seven to fifteen years.
+
+Valuation of Long-Lived Assets:  Aetrium reviews its identifiable intangible and other long-lived
+assets for impairment whenever an event or change in circumstances indicates that the carrying
+value of an asset may not be recoverable. If such an event or change in circumstances occurs and
+potential impairment is indicated because the carrying values exceed the estimated future
+undiscounted cash flows, Aetrium would measure the impairment loss as the amount by which the
+carrying value of the asset exceeds its fair value.
+
+Revenue Recognition:  Aetrium s policy is to recognize revenue on product sales upon shipment if
+contractual obligations have been substantially met, collection of the proceeds is assessed as
+being reasonably assured, and title and risk of loss have passed to the customer, which is
+generally the case for sales of spare parts, accessories, change kits and some equipment and
+equipment upgrades. In instances where title does not pass upon shipment, revenue is recognized
+upon delivery or customer acceptance based upon the terms of the sales agreement. In instances
+where equipment or equipment upgrade sales contracts include significant post-shipment obligations
+to be performed by Aetrium, revenue for the entire transaction is deferred until such obligations
+have been completed or, if applicable, the transaction is accounted for as a multiple-element
+arrangement. In instances where contractual terms can only be satisfied after shipment, such as
+meeting customer-specified acceptance requirements at the customer s site, revenue is not
+recognized until there is objective evidence that the applicable contract terms have been met. In
+situations where equipment is shipped but revenue and the related receivable are not recognized,
+the cost of the equipment is included in inventories in our consolidated balance sheet. We often
+receive payments from customers prior to recognizing revenue. For example, we may receive partial
+payments prior to shipment, which we record as  customer deposits  or we may receive partial
+payments after shipment but prior to recognizing revenue, which we record as  deferred revenue. 
+Customer deposits and deferred revenue are recorded as liabilities and included as a component of
+ other accrued liabilities  in our consolidated balance sheet. See also Notes 7 and 8.
+
+Warranty Costs:  Estimated warranty costs are accrued in the period that the related revenue is
+recognized. The following table summarizes product warranty liability accruals and settlements for
+the three years ended December 31, 2005 (in thousands):
+
+There were no significant changes in estimated warranty accruals for any of the prior years
+presented.
+
+Research and Development:  Research and development expenditures, which include software development
+costs, are expensed as incurred. SFAS No. 86,  Accounting for the Costs of Computer Software to Be
+Sold, Leased or Otherwise Marketed,  requires the capitalization of certain software development
+costs once technological feasibility is established, which we define as the completion of a working
+model. To date, the period between achieving technological feasibility and the general
+availability of such software that is embedded in our equipment has been short and software
+development costs qualifying for capitalization have been insignificant. Accordingly, we have not
+capitalized any software development costs.
+
+Income Taxes:  Income taxes are accounted for in accordance with SFAS No. 109,  Accounting for
+Income Taxes.  Deferred tax assets are recognized for deductible temporary differences and tax
+credit
+
+F-7
+
+Table of Contents   
+
+AETRIUM INCORPORATED 
+Notes to Consolidated Financial Statements 
+
+carryforwards and deferred tax liabilities are recognized for taxable temporary differences.
+Deferred tax assets are reduced by a valuation allowance when, in the opinion of management, it is
+more likely than not that some portion or all of the deferred tax assets will not be realized, or
+the application of SFAS 109 does not permit management to conclude thereunder that it is more
+likely than not that some portion or all of the deferred tax assets will be realized.
+
+Income (Loss) Per Common Share:  Basic income (loss) per common share is computed by dividing net
+income (loss) by the weighted-average number of common shares outstanding during each period.
+Diluted income per share is computed by dividing net income by the weighted-average number of
+common shares and common equivalent shares outstanding during each period. Common equivalent shares
+include stock options using the treasury stock method. For loss periods, the computation of diluted
+loss per share excludes the impact of stock options because they would be antidilutive and diluted
+loss per share is therefore the same as basic loss per share. A reconciliation of the number of
+shares used in the computations of basic and diluted income (loss) per share follows (in
+thousands):
+
+For the years ended December 31, 2005 and 2003, all stock options are excluded from the loss
+per share computations because they would be antidilutive. As of December 31, 2005 and 2003,
+respectively, there were 1,737,827 and 1,895,299 outstanding stock options that could have
+potentially impacted diluted earnings per share. For the year ended December 31, 2004, options to
+purchase 260,938 common shares are excluded from the diluted computation because their exercise
+prices exceeded the average market value of our common stock and they would therefore be
+antidilutive to earnings per share.
+
+Stock-Based Employee Compensation:  Aetrium accounts for its stock incentive plans under the
+recognition and measurement principles of APB Opinion No. 25,  Accounting for Stock Issued to
+Employees,  and related Interpretations. No stock-based compensation cost is reflected in our
+consolidated statements of operations, as all options granted to employees and directors under our
+plans had an exercise price equal to the market value of the underlying common stock on the date of
+grant and all options vest based only upon continuing employment. Effective January 1, 2006, as
+described in Note 3, we will adopt Statement of Financial Accounting Standards (SFAS) No. 123
+(Revised 2004),  Share-Based Payment  (SFAS 123R), which will require us to record stock-based
+compensation expense in our consolidated statements of operations beginning in our quarter ended
+March 31, 2006.
+
+On May 25, 2005, the Compensation Committee of our board of directors accelerated the vesting of
+453,832 unvested and  out-of-the-money  stock options held by employees with exercise prices
+ranging from $2.76 to $4.81 per share. The options would have otherwise vested over various
+periods through September 2008. On June 2, 2005, our board of directors accelerated the vesting of
+22,500 unvested and  out-of-the-money  stock options held by each of our three independent
+directors with exercise prices of $2.76 per share. The options would have otherwise vested through
+December 2007. Our board of directors and its Compensation Committee determined that the
+acceleration of the vesting of the stock options was in the best interests of the company to
+enhance the incentive of the affected options and to provide us with greater flexibility for future
+grants of share-based incentives as SFAS 123R becomes effective. The acceleration of vesting
+enabled us to avoid recognizing compensation expense associated with these options in future
+periods following the adoption of SFAS 123R in January 2006.
+
+On August 17, 2005, the Compensation Committee of our board of directors granted stock options to
+certain employees to purchase 278,000 shares of our common stock. Also on that date, our board of
+
+F-8
+
+Table of Contents   
+
+AETRIUM INCORPORATED 
+Notes to Consolidated Financial Statements 
+
+directors granted options to each of our three independent directors to purchase 15,000 shares of
+our common stock. All of the options provided for an exercise price of $3.125 per share, the fair
+market value on the date of grant. All of the options were fully vested and exercisable on the date
+of grant and will expire five years after the date of grant.
+
+The following table illustrates the effect on net income (loss) and net income (loss) per share if
+we had applied the fair value recognition provisions of SFAS No. 123,  Accounting for Stock-Based
+Compensation ,   to stock-based compensation (in thousands, except per share amounts):
+
+The pro forma stock-based employee compensation expense for the year ended December 31, 2005
+included approximately $753,000 resulting from the acceleration of the vesting of certain stock
+options on May 25, 2005 and approximately $526,000 related to the fully vested stock options
+granted on August 17, 2005 as described above. For the years ending December 31, 2005, 2004 and
+2003, no income tax benefit was applied to the pro forma fair value expense calculated under SFAS
+No. 123 due to the valuation allowance we have maintained on our deferred tax assets (see Note 14
+for further discussion on income taxes). We expect that compensation expense related to unvested
+stock options at December 31, 2005, which will be recorded in our consolidated statement of
+operations when we adopt SFAS 123R in January 2006, will amount to less than $25,000 in the first
+quarter of fiscal year 2006 and less than $50,000 for the full fiscal year (excluding any potential
+income tax benefits and the potential impact of future grants).
+
+Using the Black-Scholes option-pricing model, the weighted-average fair value of options granted in
+2005, 2004, and 2003 was $1.63, $2.46, and $1.31, respectively. Weighted average assumptions used
+in applying the Black-Scholes option-pricing model to estimate the fair value of options granted
+were as follows:
+
+See Note 12 for additional information regarding Aetrium s stock option plans.
+
+Comprehensive Income (Loss):  Aetrium currently has no amounts included in Accumulated Other
+Comprehensive Income. Accordingly, our comprehensive income (loss) is equal to our net income
+(loss) for all periods presented.
+
+F-9
+
+Table of Contents   
+
+AETRIUM INCORPORATED 
+Notes to Consolidated Financial Statements 
+
+Repurchases of Common Stock:  Aetrium accounts for repurchased shares as retirements. The par value
+of repurchased shares is charged to the common stock account and the excess of the purchase cost
+over par value is charged to additional paid-in capital. We did not repurchase any of our
+outstanding common stock during any of the periods presented.
+
+NOTE 3: RECENT ACCOUNTING PRONOUNCEMENTS 
+
+In December 2004, the Financial Accounting Standards Board (FASB) issued SFAS 123R. SFAS 123R
+addresses all forms of share-based payment awards, including shares issued under employee stock
+purchase plans, stock options, restricted stock and stock appreciation rights. The standard
+generally requires companies to expense share-based payment awards with compensation cost for
+share-based payment transactions measured at fair value. Aetrium will be required to adopt the
+standard in the first quarter of our fiscal year ending December 31, 2006, which will result in a
+charge to our operations for all existing unvested stock options and any new stock option grants
+over their vesting periods. We expect that compensation expense related to unvested stock options
+at December 31, 2005, which will be recorded in our consolidated statement of operations when we
+adopt SFAS 123R in January 2006, will amount to less than $25,000 in the first quarter of fiscal
+year 2006 and less than $50,000 for the full fiscal year (excluding any potential income tax
+benefits and the potential impact of future grants).
+
+NOTE 4: SUPPLEMENTAL DISCLOSURE OF CASH FLOW INFORMATION 
+
+Cash payments (refunds) for interest and income taxes were as follows (in thousands):
+
+NOTE 5: IDENTIFIABLE INTANGIBLE ASSETS 
+
+Identifiable intangible assets are comprised of the following (in thousands):
+
+Amortization expense related to identifiable intangible assets was as follows (in thousands):
+2005   $536; 2004   $871; 2003   $884. Estimated amortization expense in future years is as
+follows (in thousands): 2006   $202; 2007   $113; 2008   $28.
+
+NOTE 6: OTHER (EXPENSE), NET 
+
+In the second quarter of 2004, we settled a claim against a customer for past-due invoices for
+products we had delivered plus charges related to a purchase order cancelled by the customer in
+2001. We accepted shares of the customer s common stock with a market value of approximately
+$233,000 in settlement of these claims. Of this amount, approximately $106,000 was applied to the
+customer s past-due accounts receivable amounts owed to us. The remaining $127,000, related to
+purchase order cancellation charges, was recorded as a gain in the second quarter of 2004. Prior to
+December 31, 2004, we sold the shares for
+
+F-10
+
+Table of Contents   
+
+AETRIUM INCORPORATED 
+Notes to Consolidated Financial Statements 
+
+approximately $31,000 and realized a loss of approximately $202,000 in the fourth quarter of 2004.
+The net effect of these transactions was a net loss of $74,196, which is presented as  Other
+(expense), net  in our Consolidated Statement of Operations.
+
+NOTE 7: INVENTORIES 
+
+A summary of the composition of inventories is as follows (in thousands):
+
+NOTE 8: OTHER ACCRUED LIABILITIES: 
+
+Other accrued liabilities are comprised of the following (in thousands):
+
+NOTE 9: CREDIT AGREEMENT AND LONG-TERM DEBT 
+
+On October 3, 2005, we entered into a revolving credit line agreement with a bank that provides for
+borrowings up to the lesser of $2.0 million or 90% of eligible accounts receivable plus 75% of
+eligible inventories and bears interest at the prime rate plus 0.25%. The agreement has a term of
+one year, is collateralized by substantially all company assets and provides that Aetrium maintain
+certain financial covenants. As of December 31, 2005, there were no borrowings under the line of
+credit agreement and Aetrium was in compliance with all covenants under the agreement.
+
+In 2004, we executed a note payable to a bank for $190,000, payable in monthly installments of
+$3,637 through March 2009. The note is collateralized by certain data processing equipment with a
+carrying value of approximately $111,000 at December 31, 2005, and bears interest at the prime rate
+plus 1.5% with a minimum loan interest rate of 5.5% and maximum rate of 7.5%. The prime interest
+rate was 7.25% at December 31, 2005. The loan balance at December 31, 2005 was $133,157. Future
+maturities of long-term debt as of December 31, 2005 are as follows (in thousands):
+
+NOTE 10: LEASE OBLIGATIONS 
+
+As of December 31, 2005, we leased two adjacent buildings in North St. Paul, Minnesota from a
+partnership controlled by a shareholder of Aetrium under two lease agreements. The shareholder is
+neither a director nor officer of Aetrium, and, to our knowledge, does not own more than five
+percent of our common stock. In 2001, we vacated one of the buildings in connection with a
+restructuring of our
+
+F-11
+
+Table of Contents   
+
+AETRIUM INCORPORATED 
+Notes to Consolidated Financial Statements 
+
+operations. Approximately two-thirds of this building was subleased to three unrelated parties
+during most of the time since we vacated and our obligations related to this building ended in
+February 2006 upon the expiration of the lease. We conduct our North St. Paul operations in the
+second building and, as described below, we extended the lease on this building for an additional
+five-year term in February 2006.
+
+Aetrium leases a manufacturing facility in Dallas, Texas under a lease agreement that expires in
+April 2008. The lease agreement provides us with an option to extend the term for an additional two
+years.
+
+In 2000, we vacated a leased facility in Poway, California. The lease expires in January 2010.
+The lease was assigned to an unrelated company in 2000 and Aetrium continued to be contingently
+liable under the lease if the assignee were to default. In January 2004, we were notified by the
+lease assignee that it would be discontinuing operations. We negotiated a termination of the lease
+assignment for a lump sum payment and the lease was re-assigned to Aetrium. As of December 31,
+2005, this facility is subleased to three independent parties with the sublease agreements expiring
+at various times between March and December 2006. We estimate that sublease income, including
+scheduled sublease rent increases, will fully offset the remainder of our future lease obligations.
+However, if one or more of our current subtenants were to default on their sublease agreements or
+if we are unsuccessful in extending subleases or locating replacement subtenants upon the
+expiration of current sublease agreements, we may have to record charges related to our future
+obligations under this lease.
+
+Rent expense related to the facility leases described above and various short-term equipment
+operating leases was as follows (in thousands):
+
+As of December 31, 2005, future minimum annual lease payments under operating leases were as
+follows (in thousands):
+
+The above minimum lease payments have not been reduced by minimum sublease rentals of $0.3
+million due in the future under noncancellable subleases.
+
+In February 2006, we entered into an agreement with a limited liability company controlled by the
+same Aetrium shareholder described above to extend the lease of the building in which we conduct
+our North St. Paul, Minnesota operations. The agreement provides for monthly base rents of $23,333
+with 2% increases annually through the end of the lease. The agreement expires on February 28,
+2011, at which time we have an option to extend the lease for an additional five-year term.
+
+NOTE 11: RELATED PARTY TRANSACTIONS 
+
+We purchase machined parts from two suppliers in which one of our executive officers has a minority
+ownership interest. Purchases from these suppliers are at arm s length and amounted to a total of
+$163,000, $210,000, and $237,000 in the years ended December 31, 2005, 2004 and 2003, respectively.
+
+F-12
+
+Table of Contents   
+
+AETRIUM INCORPORATED 
+Notes to Consolidated Financial Statements 
+
+NOTE 12: STOCK OPTION PLANS 
+
+Aetrium s 1993 Stock Incentive Plan (the 1993 Plan) terminated in June 2003. Stock options granted
+under the 1993 Plan that were outstanding at the time the plan terminated may continue to be
+exercised according to their individual terms. In May 2003, Aetrium s shareholders approved the
+adoption of the 2003 Stock Incentive Plan (the 2003 Plan) to replace the 1993 Plan. Employees,
+officers, directors, consultants and independent contractors providing services to us are eligible
+to receive awards under the 2003 Plan. The number of shares available for issuance under the 2003
+Plan is equal to 20% of the aggregate number of shares of common stock outstanding less the total
+number of shares of common stock issuable upon the exercise or conversion of any outstanding stock
+options, warrants or other stock rights. Our 2003 Plan is administered by the Compensation
+Committee of our board of directors and provides for the granting of: (a) stock options; (b) stock
+appreciation rights; (c) restricted stock; (d) performance awards; and (e) stock awards valued in
+whole or in part by reference to or otherwise based upon our stock. Options granted under the 2003
+Plan may be incentive stock options or nonqualified stock options. To date, nonqualified stock
+options are the only awards that we have granted under our 2003 Plan. The 2003 Plan will terminate
+on February 28, 2013. Our stock incentive plans provide that the Compensation Committee may, at
+its discretion, allow the exercise price of stock options to be paid, in whole or in part, by
+tendering previously acquired shares that have been held by the option holder for at least six
+months.
+
+The following table summarizes activity under our stock incentive plans:
+
+The following table summarizes information related to stock options outstanding at December
+31, 2005, all of which are nonqualified options and expire five years after the grant date and of
+which 616,415 options were fully exercisable when granted, 30,000 options became exercisable over
+32 months from date of grant, 753,445 options were initially scheduled to become exercisable over
+four years from date of grant and were subsequently modified to become fully exercisable on May 25,
+2005 to the extent not then exercisable, and 337,967 options become exercisable over four years
+from date of grant:
+
+F-13
+
+Table of Contents   
+
+AETRIUM INCORPORATED 
+Notes to Consolidated Financial Statements 
+
+NOTE 13: EMPLOYEE SAVINGS 401(k) PLAN 
+
+Aetrium has a 401(k) employee savings plan, which covers full-time employees who are at least 21
+years of age. Our contributions to the savings plan, which are at the discretion of management. We
+made no contributions to the plan in 2005 or 2003. We contributed $116,723 to the plan in 2004.
+
+NOTE 14: INCOME TAXES 
+
+Income tax expense (benefit) reported in our consolidated statement of operations is made up of the
+following components (in thousands):
+
+The federal income tax benefit in 2005 is related primarily to a refund received on prior year
+taxes.
+
+A reconciliation of income tax expense (benefit) computed using the federal statutory rate to the
+income tax expense (benefit) reported in our consolidated statements of operations is as follows
+(in thousands):
+
+During 2005, we generated research tax credits and additional state NOL carryforwards due to
+the extension of certain carryover periods in California.
+
+F-14
+
+Table of Contents   
+
+AETRIUM INCORPORATED 
+Notes to Consolidated Financial Statements 
+
+Deferred tax assets (liabilities) are comprised of the following (in thousands):
+
+We carry the benefit we will derive in future accounting periods from tax losses and credits
+and deductible temporary differences as  deferred tax assets  on our balance sheet. We carry a full
+valuation allowance against our deferred tax assets because the cumulative losses we had incurred
+over the previous three years made it questionable whether we would realize value from the deferred
+tax assets. We assess the realizability of our deferred tax assets and the need for this valuation
+allowance in accordance with SFAS No. 109. We expect to continue to maintain a full valuation
+allowance until we determine that we can sustain a level of profitability that demonstrates our
+ability to use these assets. To the extent we determine that the realization of some or all of
+these benefits is more likely than not based upon expected future taxable income, a portion or all
+of the valuation allowance will be reversed. Such a reversal would be recorded as an income tax
+benefit and, for some portion related to deductions for stock option exercises, an increase in
+shareholders  equity.
+
+Approximately $0.3 million of the $25.6 million valuation allowance at December 31, 2005 is related
+to deductions for exercised stock options (of which $0.2 million is related to options exercised in
+2004), which would be recorded as an increase in shareholders  equity if the valuation allowance
+were to be reversed in a future period.
+
+Aetrium has federal net operating loss carryforwards of approximately $47 million that will begin
+to expire in 2020 if not utilized. We also have state net operating loss carryforwards of
+approximately $18 million that will expire at various times, beginning in 2006, if not utilized. We
+also have federal and state research tax credit carryforwards of approximately $1.3 million that
+will expire at various times, beginning in 2013, if not utilized. The utilization of net operating
+loss carryforwards and research tax credit carryforwards may be subject to annual limitations in
+the event of future changes in ownership pursuant to the requirements of Section 382 of the
+Internal Revenue Code. Such limitations could result in the expiration of net operating loss and
+tax credit carryforwards before utilization.
+
+F-15
+
+Table of Contents   
+
+AETRIUM INCORPORATED 
+Notes to Consolidated Financial Statements 
+
+NOTE 15: PRODUCT LINE, GEOGRAPHIC, SIGNIFICANT CUSTOMER AND CONCENTRATION OF CREDIT RISK DATA 
+
+The following table sets forth the various components of net sales by product line as a percentage
+of total sales:
+
+All of our long-lived assets are located in the United States. Sales by geographic area based
+on product shipment destination were as follows (in thousands):
+
+Sales to customers comprising more than 10% of our total net sales were as follows:
+
+* 
+       
+     Sales to customer were less than 10% of total net sales 
+
+Accounts receivable from customers comprising more than 10% of our total accounts receivable were
+as follows:
+
+* 
+       
+     Accounts receivable from customer were less than 10% of total accounts
+receivable. 
+
+We sell our products principally to manufacturers of ICs and discrete electronic devices. Our
+accounts receivable balance is concentrated with customers principally in one industry. We
+regularly monitor the creditworthiness of our customers, however, in order to manage this
+collection risk.
+
+F-16
+
+Table of Contents   
+
+AETRIUM INCORPORATED 
+Notes to Consolidated Financial Statements 
+
+NOTE 16: QUARTERLY FINANCIAL DATA (UNAUDITED) 
+
+The following table sets forth quarterly financial data (in thousands, except per share data) for
+the years ended December 31, 2005 and 2004:
+
+1. 
+       
+     Includes a $0.1 million gain on a claim settlement in the second quarter and a $0.2 million loss on the sale of marketable securities in the fourth
+quarter. See Note 6 to the Consolidated Financial Statements. 
+
+2. 
+       
+     The sum of the four quarterly per share amounts do not equal the calculation for the full year due to rounding. 
+
+F-17
+
+Table of Contents   
+
+SIGNATURES 
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934,
+the registrant has duly caused this report to be signed on its behalf by the undersigned, thereunto
+duly authorized.
+
+AETRIUM INCORPORATED  
+
+Date:  March 31, 2006  
+     By:   
+     /s/ Joseph C. Levesque
+
+Joseph C. Levesque  
+
+Chief Executive Officer and President
+(principal executive officer)  
+
+By:   
+                                /s/ Paul H. Askegaard
+
+Paul H. Askegaard  
+
+Treasurer
+(principal financial and accounting officer)  
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, this report has been
+signed below on March 31, 2006 by the following persons on behalf of the registrant and in the
+capacities indicated.
+
+Signature 
+       
+     Title 
+
+/s/ Joseph C. Levesque
+
+Joseph C. Levesque
+
+Chairman of the Board 
+
+/s/ Darnell L. Boehm
+
+Darnell L. Boehm
+
+Director 
+
+/s/ Terrence W. Glarner
+
+Terrence W. Glarner
+
+Director 
+
+/s/ Andrew J. Greenshields
+
+Andrew J. Greenshields
+
+Director 
+
+/s/ Douglas L. Hemer
+
+Douglas L. Hemer
+
+Director 
+
+Table of Contents   
+
+AETRIUM INCORPORATED 
+
+EXHIBIT INDEX TO ANNUAL REPORT ON FORM 10-K 
+
+FOR THE FISCAL YEAR ENDED DECEMBER 31, 2005 
+
+E-1
+
+Table of Contents   
+
+E-2
+
+Table of Contents   
+
+E-3
+
+Table of Contents   
+
+E-4
+
+Table of Contents   
+
+SCHEDULE II 
+
+Valuation and Qualifying Accounts 
+
+(1) 
+       
+     Deductions represent sales or disposals of reserved inventory. 
+
+(2) 
+       
+     Amounts charged to other accounts represent the portion of the valuation allowance charged to
+Additional Paid-In Capital for income tax benefits related to stock option exercises. 
+
+S-1
+
+<EX-10.24>
+ 2
+ c03145exv10w24.htm
+ COMMERCIAL LEASE
+
+exv10w24 
+
+Exhibit 10.24 
+
+COMMERCIAL LEASE 
+
+This Commercial Lease (this   Lease  ), dated February 24, 2006, by and between  Hub Management as
+owner s agent for Kamko I, LLC, a Limited Liability Company , (  Landlord  ) and,  Aetrium
+Incorporated, a Minnesota corporation  (  Tenant  ).
+
+DEFINITIONS :
+
+Premises     That certain real property located in the City of North St Paul, County of Ramsey,
+State of Minnesota, legally described on  Exhibit A  attached hereto and incorporated herein.
+
+Building     That certain Building located on the Premises, containing approximately 44,800 square
+feet and commonly addressed as 2350 Helen Street, North St Paul, Minnesota, as shown on the site
+plan of the Premises attached hereto as  Exhibit B .
+
+In consideration for the Base Rent, Additional Rent and any additional compensation(s) outlined in
+this Lease, Landlord leases to Tenant the Premises under the following conditions: 
+
+1.0 TERM OF LEASE AND POSSESSION: 
+
+Landlord gives and Tenant takes possession of Premises for the term (the   Term  ) of  five years 
+beginning February 15, 2006 (the   Commencement Date  ) and ending February 28, 2011 (the   Expiration
+Date  ), unless terminated earlier as conditioned.
+
+Notwithstanding the earlier Commencement Date, Landlord will deliver possession of the Premises to
+Tenant in the condition required by this Lease on or before the Delivery Date (as hereinafter
+defined), but delivery of possession prior to or later than such Commencement Date will not affect
+the Expiration Date of this Lease. The Base Rent (as hereinafter defined) and Additional Rent (as
+hereinafter defined) will commence on the Commencement Date. Any occupancy by Tenant prior to the
+Commencement Date commences all mutual terms and obligations of this Lease. Landlord will have no
+responsibility or liability for loss or damage to fixtures, facilities or equipment installed or
+left on the Premises. If Premises are not ready for occupancy by Commencement Date and possession
+is delivered to Tenant later than Commencement Date, Base Rent and Additional Rent will begin on
+date of possession.
+
+1.1. OPTION TO RENEW: 
+
+Provided (i) Tenant is not in default of any terms or conditions of this Lease, or would be
+in default with the passage of time, the giving of notice, or both, and (ii) Tenant has
+provided Landlord with written notice that Tenant is exercising its Option to Renew under
+Section 1.2 of this Lease at least
+90 days but not more than 270 days prior to the Expiration Date, then
+
+-1-
+
+Tenant may extend the
+Term by five (5) years (the  Extension Term ) beginning immediately after the Expiration
+Date, upon the same terms and conditions of the Lease, except that:
+
+(i) 
+       
+     the Term will be modified as stated above; 
+
+(ii) 
+       
+     the Option to Renew in this Article 1.2 will be deleted; 
+
+(iii) 
+       
+     The Base Rent for each year of the Extension Term will be at ninety-five
+percent (95%) of then Fair Rental Value (as hereinafter defined) for similarly situated
+property.  Fair Rental Value  means the annual rent that a willing tenant would pay,
+and a willing landlord would accept, in arms-length, bona fide negotiations, if the
+Premises were leased to a single tenant for 5 years under a lease pursuant to which
+such tenant would not receive (and, accordingly, the rental rate that otherwise would
+be agreed to will be reduced to reflect the fact that Tenant will not receive) any
+rental concession, such as rental abatements or  free rent  periods or rental
+assumption, inducements or any leasehold improvement allowance, and otherwise taking
+into account any other pertinent factors, including, but not limited to, the net
+effective annual rates per square foot for office leases recently or then being entered
+into in suburban Minneapolis and St. Paul, Minnesota ( Comparable Rates  ). In
+determining the Fair Rental Value and using Comparable Rates in connection with such
+determination, the following factors (and any other factors then known to be pertinent)
+will be considered: the size of the Premises; the length of the term; use; quality of
+services provided; location and/or floor level; existing leasehold improvements;
+leasehold improvements to be provided by Landlord, whether directly or by allowance;
+the quality, age and location of the Building; financial strength of the applicable
+tenant; rental concessions (such as rental abatements or  free rent  periods and rent
+assumptions); inducements (such as signing bonuses, equity participation, tax benefits,
+or other participation in ownership); the respective obligations of the Landlord and
+the tenant, the manner in which the rents are then subject to escalation and the time
+the particular rate under consideration became or will become effective. 
+
+The Fair Rental Value will be determined as follows: Within 10 days after Landlord
+receives notice from Tenant regarding Tenant s election to exercise the Extension
+Option, Landlord will give notice to Tenant of its determination of the Fair Rental
+Value of the Premises for each year of the Extension Term, and Landlord s
+determination will constitute the Fair Rental Value unless Tenant objects in writing
+within 10 days after Tenant s receipt of Landlord s determination. If Tenant so
+objects, and the parties are unable to agree upon the Fair Rental Value within 20
+days after the Tenant s objection, then by written notice to Landlord within 10 days
+thereafter Tenant may request determination of the Fair Rental Value under this
+Article. If Tenant does not give such notice requesting determination of Fair Rental
+Value using the appraisal process described below, Tenant s exercise of the option
+will be deemed rescinded. If determination by the appraisal process is requested by
+Tenant, the Fair Rental Value will be determined by appraisal within 30 days after
+Tenant s request by a board of appraisers consisting of three reputable real estate
+professionals experienced in the leasing of commercial office/industrial space (each
+an  Expert ). One
+Expert will be appointed by Tenant, and the second Expert will be 
+
+-2-
+
+appointed by
+Landlord. The third Expert will be appointed by the first two Experts. If the first
+two Experts are unable to agree on a third Expert within 10 days after the
+appointment of the second Expert, or if either party refuses or neglects to appoint
+an Expert as herein provided within 10 days after the appointment of the first
+Expert, then the third Expert or the second Expert, whose appointment was not made
+as provided above, may be appointed by any judge of the Ramsey County District
+Court. Any Expert appointed by a judge of the Ramsey County District Court will be a
+reputable real estate appraiser experienced in appraising the rental value of
+commercial office/industrial space, and will be a member of the American Institute
+of Real Estate Appraisers with the designation of  MAI.  If determinations of at
+least two of the Experts are identical in amount, that amount will be determined to
+be the Fair Rental Value. If the determinations of all three Experts are different
+in amount, the highest appraised value will be averaged with the middle value (that
+average being referred to as  Sum A ). The lowest appraised value will be averaged
+with the middle value (that average being referred to as  Sum B ), and the Fair
+Rental Value will be determined as follows: (i) if neither Sum A nor Sum B differs
+from the middle appraised value by more than 10% of the middle appraised value, then
+the Fair Rental Value will be the average of the three appraisals, (ii) if either
+Sum A or Sum B (but not both) differs from the middle appraised value by more than
+10% of the middle appraised value, then the Fair Rental Value will be the average of
+the middle appraised value and the appraised value closer in amount to the middle
+appraised value, and (iii) if both Sum A and Sum B differ from the middle appraised
+value by more than 10% of the middle appraised value, then the Fair Rental Value
+will be equal to the middle appraised value. Written notice of the Fair Rental Value
+as duly determined in accordance with this Article will be promptly given to
+Landlord and Tenant and will be binding and conclusive on them. Each party will bear
+its own expenses in connection with the board proceeding (including the Expert
+appointed by it), and the fees of the third Expert will be borne equally. If, for
+any reason, the Fair Rental Value has not been determined at the time of the
+commencement of the Extension Option period, then the Fair Rental Value will be the
+amount set forth in Landlord s determination, and if the determination of the
+Experts as provided above indicates that a lesser or greater amount should have been
+paid than that which was actually paid, a proper adjustment will be made in a
+payment from Landlord to Tenant, or Tenant to Landlord, as the case may be.
+
+2.0 BASE RENT: 
+
+Tenant will pay to Landlord a monthly base rent (  Base Rent  ) on the first day of each month during
+the Term of this Lease (provided that Base Rent for the first month will be prorated from and
+payable on the Commencement Date) as follows:
+
+February 15-
+2006 - February 28, 2007   $23,333.00 
+March 1, 2007        - February 28, 2008- $23,800.00
+
+-3-
+
+March 1,
+2008   -   February 28, 2009   $24,276.00 
+March 1, 2009   -   February 28, 2010   $24,762.00 
+March 1, 2010   -   February 28, 2011   $25,256.00
+
+3.0 ADDITIONAL RENT: 
+
+Tenant will reimburse to Landlord monthly, on the same day that Base Rent is due, throughout the
+Term of Lease and any extension of this Lease, the following additional rent (  Additional Rent  ):
+any CAM (as defined in Article 3.1), Real Estate Taxes/Assessments (as defined in Article 3.2) and
+Utilities (as defined in Article 3.3) not paid directly by Tenant, and any Miscellaneous Charges or
+Reimbursements (as defined in Article 3.4).
+
+3.1 COMMON AREA MAINTENANCE EXPENSES (CAM): 
+
+Common Area Maintenance (  CAM  ) means Landlord s operating expenses to operate, maintain and
+repair the Premises, including, but not be limited to maintenance, repair, replacement and
+care of all lighting, plumbing, roofs, parking surfaces, landscaped areas, signs, snow
+removal, non-structural repair and maintenance of the exterior of the Building, costs of
+equipment purchased and used for such purposes, cleaning and cleaning supplies for the
+common areas, insurance premiums, wages and fringe benefits of personnel employed for such
+work. Additionally, during the term of this Lease, any extension and/or renewal of this
+Lease, CAM expenses will include the annual cost or portion allocable to the Building of any
+capital improvements made to the Building by Landlord which result in a reduction of
+expenses or required under any governmental law or regulation that was not applicable at the
+time it was constructed. Landlord may elect to amortize such costs over a reasonable time
+period and at a reasonable rate of interest.
+
+3.2 REAL ESTATE TAXES AND ASSESSMENTS: 
+
+Real Estate Taxes and Assessments means all real estate taxes, all assessments and any taxes
+in lieu thereof payable on each calendar year, which may be levied upon or assessed against
+the Building. Real Estate Taxes and Assessments due during the term of this Lease will be
+paid by Landlord when due and payable to the assessing authority. Landlord will bill Tenant
+on the monthly rental invoice and provide a copy of the Real Estate Tax bill for Real Estate
+Taxes and Assessments when due. Real Estate Taxes and Assessments due during the calendar
+year of the date of expiration of this Lease will be prorated on a calendar year basis to
+the date of expiration, and Tenant will pay any unpaid portion of such prorated amount to
+Landlord. In the event the taxing authorities additionally include in such real estate and
+assessments the value of any improvements made by Tenant, or of machinery, equipment,
+fixtures, inventory or other personal property or assets of Tenant, then Tenant will pay all
+the taxes attributable to such items. Landlord will furnish a copy of the real estate tax
+statement to Tenant.
+
+-4-
+
+3.3 UTILITIES 
+
+Landlord will provide mains and conduits to supply water, gas, electricity and sanitary
+sewage to the Building. Tenant will pay, when due, all charges for sewer and water usage,
+garbage/refuse disposal/removal and recycling, electricity, gas and other fuels,
+telephone/communication services and/or other utility services or energy source furnished to
+the Premises during the term of this Lease, or any extension and/or renewal of this Lease.
+Landlord, at its election, may invoice for reimbursement(s) of any Utility usage not paid
+directly by Tenant.
+
+3.4 MISCELLANEOUS CHARGES AND REIMBURSEMENTS 
+
+Miscellaneous Charges and Reimbursements includes, without limitation, service requests
+facilitated by Landlord at the direction of Tenant, notes due Landlord and any other
+miscellaneous charge due Landlord.
+
+4.0 COVENANT TO PAY RENT: 
+
+The covenants of Tenant to pay the Base Rent and the Additional Rent are each independent of any
+other covenant, condition, provision or agreement contained in this Lease. All rents are due and
+payable as invoiced on the first of the each month during the Term of Lease and any extensions of
+the Lease to Landlord at:
+
+Hub Management Company Inc 
+3050 Echo Lake Avenue 
+Mahtomedi, MN 55118
+
+or such other address as Landlord designates to Tenant in writing. Each monthly installment of
+Base Rent and Additional Rent will be paid without advance notice, demand, offset, or deduction.
+
+5.0 OVERDUE PAYMENTS :
+
+All Base Rent and Additional Rent under this Lease and the Extension Term (if applicable) will be
+due on the first of each calendar month, unless otherwise specified. Service charges will be
+imposed after the tenth of each calendar month in the amount five percent (5%) of the outstanding
+balance due.
+
+6.0 USE :
+
+The Premises will be used and occupied by Tenant solely for office and light manufacturing purposes
+and Tenant agrees that such use will be in compliance with all applicable laws, ordinances and
+governmental regulations affecting the Building and Premises. Tenant will immediately discontinue
+any use of the Premises which is not in compliance with any applicable laws, ordinances or
+governmental regulations. The Premises will not be used in such manner that, in accordance with
+any requirement of law or of any public authority, Landlord will be obliged on account of the
+purpose or manner of said use to make any addition or alteration
+to or in the Building. The Premises will not be used in any manner which will increase the rates
+required to be paid for public utility or for fire and extended coverage insurance covering the
+Building. Tenant will occupy the Premises,
+
+-5-
+
+conduct its business and control its agents, employees,
+invitees and visitors in such a way as is lawful, and reputable and will not permit or create any
+nuisance, noise, odor, or otherwise interfere with, annoy or disturb any other tenant in the
+Building in its normal business operations or Landlord in its management of the Building. Tenant s
+use of the Premises will conform to all the Landlord s rules and regulations relating to the use of
+the Building. Outside storage of any type of equipment, property or materials owned or used on the
+Premises by Tenant or its customers and suppliers will not be permitted, unless otherwise stated.
+
+7.0 CARE AND REPAIR OF PREMISES: 
+
+Tenant will, at all times throughout the Term of Lease and any extensions, and at its sole expense,
+keep and maintain the Premises in a clean, safe and sanitary condition and in compliance with all
+applicable laws, codes, ordinances, rules and regulations. Tenant s obligations hereunder will
+include without limitation, the maintenance, repair, replacement, if necessary of all interior
+walls, partitions, doors and windows, all exterior entrances, windows, doors and docks, the
+replacement of all broken glass, of any fixture/equipment/component of heating, ventilation, air
+conditioning (  HVAC  ) systems, all lighting systems, plumbing systems and electrical systems. In
+the event that an HVAC rooftop unit or ceiling hung unit heater requires replacement, the cost of
+such replacement will be shared between Landlord and Tenant, Tenant s share to be based on a ratio
+of the time of occupancy to the nearest one-half year to the estimated useful life of the unit,
+unless caused by the misuse or neglect of Tenant. Such estimations are fifteen (15) years for a
+roof top unit and ten (10) years for a ceiling hung unit heater under normal conditions. With the
+exception of HVAC equipment, when used in this provision, the term  repairs  will include
+replacements, and all such repairs or replacements made by the Tenant will be of equal quality to
+the original equipment or work. Tenant will keep and maintain all portions of the Premises and the
+sidewalk, parking areas and areas adjoining the same in a clean and orderly condition, free of
+accumulation of dirt, rubbish, snow and ice, regardless of any CAM performed by Landlord. Tenant
+will maintain a minimum temperature in the Premises of 40 degrees during the Lease Term.
+
+If Tenant fails, refuses or neglects to maintain or repair the Premises as required in this Lease
+after notice has been given Tenant, in accordance with Article 16.0 of this Lease, Landlord may
+make such repairs or replacements without liability to Landlord for any loss or damage that may
+accrue to Tenant s merchandise, fixtures or other property or to Tenant s business by reason
+thereof, and upon completion thereof, Tenant will pay to Landlord all costs plus 15% for overhead
+incurred by Landlord in making such repairs or replacements.
+
+Landlord will repair, at its expense, the structural portions of the Building, unless such repairs
+are required as a result of the acts of Tenant, its employs, agents, assigns or invitees, in which
+case the costs thereof will be borne by Tenant and payable by Tenant to Landlord.
+
+8.0 HAZARDOUS MATERIALS :
+
+Tenant will not (either with or without negligence) cause or permit the escape, disposal or release
+of any biologically or chemically active or other hazardous substances, or materials. Tenant will
+not allow the storage or use of such substances or materials in any manner not sanctioned by law or
+by
+
+-6-
+
+the highest standards prevailing in the industry for the storage and use of such substances or
+materials, nor allow to be brought into the Premises any such materials or substances except in the
+ordinary course of Tenant s business, and then only after written notice is given to Landlord of
+the identity of such substances or materials. Without limitation, hazardous substances and
+materials includes those described in the Comprehensive Environmental Response, Compensation and
+Liability Act of 1980, as amended, 42 U.S.C. Section 9601 et seq., the Resource Conservation and
+Recovery Act, as amended, 42 U.S.C. Section 6901 et seq., any applicable state or local laws and
+the regulations adopted under these acts. If any lender or governmental agency ever requires to
+ascertain whether or not there has been any release of hazardous materials, then the reasonable
+costs thereof will be reimbursed by Tenant to Landlord upon demand as additional charges if such
+requirement applies to the Premises. In addition, Tenant will execute affidavits, representations
+and the like from time to time at Landlord s request concerning Tenant s best knowledge and belief
+regarding the presence of hazardous substances or materials on the Premises. In all events, Tenant
+will indemnify Landlord from any release of hazardous materials on the Premises occurring while
+Tenant is in possession or elsewhere if caused by Tenant or persons acting under Tenant. The
+within covenants will survive the expiration or earlier termination of the lease term.
+
+9.0 PUBLIC LIABILITY INSURANCE :
+
+Tenant will during the term hereof keep in full force and effect at its own expense a policy or
+policies of public liability insurance with respect to the Premises and the business of Tenant, on
+terms and with companies approved in writing by Landlord, in which both Tenant and Landlord are
+covered by being named as insured parties under reasonable limits of liability not less than:
+$500,000 for injury/death to any one person; $1,000,000 for injury/death to more than one person,
+and $500,000 with respect to damage to property. Tenant will use its best efforts to cause 
+ such policy or policies to provide that thirty (30) days written notice be given to Landlord
+prior to cancellation thereof. Tenant will furnish evidence satisfactory to Landlord at the time
+this Lease is executed that such coverage is in full force and effect.
+
+10.0 SIGNAGE AND DISPLAYS: 
+
+Upon occupancy, Tenant may install such building exterior signage and/or building monument signage
+as are approved by Landlord, which installation will be at Tenant s sole cost and expense in
+compliance with city ordinances and building signage criteria. Any changes, modifications and/or
+maintenance of signage will be at Tenant s sole cost and expense with approval of Landlord.
+Additional signage, lettering, picture, notice or advertisement installed on or in any part of the
+Premises and visible from the exterior of the Building, or visible from the exterior of the
+Premises, must be approved by Landlord at Tenant s sole cost and expense. Said signs are to be
+maintained by Tenant at Tenant s expense. Landlord may remove any unauthorized signs without any
+liability to Landlord and may charge the expense incurred by such removal to Tenant.
+
+11.0 ALTERATIONS, INSTALLATION, FIXTURES: 
+
+Unless otherwise stated, Tenant will not make any alterations, additions or improvements in or to
+the Premises or add, disturb or in any way change any plumbing or wiring without the prior written
+consent of the Landlord which approval will not be unreasonably withheld. Notwithstanding the
+
+-7-
+
+foregoing, Landlord agrees to consent to non-structural alterations or improvements costing less
+than One Thousand Five Hundred Dollars ($1,500.00) in the aggregate, so long as all costs are
+promptly paid by Tenant and Tenant obtains and provides Landlord with prior written notice and
+copies of any required approvals, licenses, or permits and Tenant indemnifies Landlord against any
+liens arising from such non-structural alteration or improvement. In the event alterations are
+required by any governmental agency by reason of the use and occupancy of the Premises by Tenant,
+Tenant will make such alterations at its own cost and expense after first obtaining Landlord s
+written approval of plans and specifications and furnishing such indemnification as Landlord may
+reasonably require against liens, costs, damages and expenses arising out of such alterations.
+Tenant warrants to Landlord that all such alterations, additions, or improvements will be in strict
+compliance with all relevant laws, ordinances, governmental regulations and insurance requirements.
+Construction of such alterations or additions will commence only upon Tenant obtaining and
+exhibiting to Landlord the requisite approvals, licenses and permits and indemnification against
+liens. Unless otherwise agreed to, all alterations, installations, physical additions or
+improvements to the Premises made by Tenant will at once become the property of Landlord and will
+be surrendered to Landlord upon the termination of this Lease.
+
+12.0 ACCESS TO PREMISES :
+
+Tenant agrees to permit Landlord and the authorized representatives of Landlord to enter the
+Premises at all times during usual business hours with reasonable advanced notice for the purpose
+of inspecting the same and making any necessary repairs to the Premises and performing any work
+therein that may be necessary to comply with any laws, ordinances, rules, regulations or
+requirements of any public authority or of the Board of Fire Underwriters or any similar body or
+that Landlord may deem necessary to prevent waste or deterioration in connection with the Premises.
+Nothing herein will imply any duty upon the part of Landlord to do any such work which, under any
+provision of this Lease, Tenant is required to perform and the performance thereof by Landlord will
+not constitute a waiver of the Tenant s default to perform the same. Landlord may, during the
+progress of any work in the Premises or Building, keep and store upon the Premises or Building all
+necessary materials, tools, and equipment. Landlord will not in any event be liable for
+inconvenience, annoyance, disturbance, loss of business, or other damage of the Tenant, nor will
+Tenant s lease obligations be affected by reason of making repairs or the performance of any work,
+including materials handling into or through the Premises or Building.
+
+Landlord reserves the right to enter upon the Premises (a) at any time in the event of an
+emergency, and (b) at reasonable hours and with reasonable advanced notice to exhibit the Premises
+to prospective purchasers or others; and to exhibit the Premises to prospective tenants and to
+display  For Rent  or similar signs on windows or doors in the Premises during the last one hundred
+twenty (120) days of the term of this Lease, all without hindrance by Tenant.
+
+13.0 REMOVAL OF FIXTURES :
+
+Notwithstanding anything contained in Article 11.0, 17.0, or elsewhere in this Lease, if Landlord
+requests then Tenant will promptly remove at the sole cost and expense of Tenant all fixtures,
+equipment and alterations made by Tenant simultaneously with vacating the Premises and Tenant
+
+-8-
+
+will
+promptly restore said Premises to the condition that existed immediately prior to said fixtures,
+equipment and alterations having been made all at the sole cost and expense of Tenant.
+
+14.0 ASSIGNMENT OR SUBLETTING :
+
+Tenant agrees to use and occupy the Premises throughout the entire term hereof for the purpose
+herein specified and for no other purposes, in the manner and to substantially the extent now
+intended, and not to transfer or assign this Lease or sublet said Premises, or any part thereof,
+whether by voluntary act, operation of law, or otherwise, without obtaining the prior consent of
+Landlord in each instance. Except for an assignment to Tenant s Affiliate (as hereinafter
+defined), Tenant must seek such consent of Landlord to any assignment or sublease of this Lease by
+a written request therefor, setting forth such information as Landlord may deem necessary. For the
+purposes of this Lease,  Tenant s Affiliate  means a corporation then owned or controlled by Tenant
+with financial wherewithal and net worth acceptable in all respects to Landlord. Tenant agrees to
+provide Landlord with prior written notice, a copy of any proposed assignment documentation and any
+other information requested by Landlord regarding Tenant s Affiliate prior to a transfer to
+Tenant s Affiliate. Landlord agrees not to withhold consent unreasonably. Consent by Landlord to
+any assignment of this Lease or to any subletting of the Premises will not be a waiver of
+Landlord s right under this Article as to any subsequent assignment or subletting. Landlord s
+rights to assign this Lease are and will remain unqualified. No such assignment or subleasing will
+relieve the Tenant from any of Tenant s obligations in this Lease contained, nor will any
+assignment or sublease or other transfer of this Lease be effective unless the assignee, subtenant
+or transferee at the time of such assignment, sublease or transfer, assumes in writing for the
+benefit of Landlord, its successors or assigns, all of the terms, covenants, and conditions of this
+Lease thereafter to be performed by Landlord and agrees in writing to be bound thereby. Should
+Tenant sublease in accordance with the terms of this Lease, fifty (50%) of any increase in rental
+received by Tenant over the per square foot rental rate which is being paid by Tenant will be
+forwarded to and retained by Landlord, which increase will be in addition to the Base Rent and
+Additional Rent due Landlord under this Lease.
+
+15.0 SUCCESSORS AND ASSIGNS :
+
+The terms, covenants and conditions hereof will be binding upon and inure to the successors and
+assigns of the parties hereto.
+
+16.0 NOTICES :
+
+Any notice required or permitted under this Lease will be deemed sufficiently given or secured if
+sent by registered or certified return receipt mail or national courier service to Tenant at 2350
+Helen Street, North St. Paul, Minnesota 55109, and to Landlord at the address then fixed for the
+payment of rent as provided in Article 4.0 of this Lease and either party may by like written
+notice at any time designate a different address to which notices will subsequently be sent or rent
+to be paid.
+
+17.0 SURRENDER :
+
+On the Expiration Date or upon the termination hereof upon a day other than the Expiration Date,
+Tenant will peaceably surrender the Premises in good order, condition and repair (reasonable wear
+
+-9-
+
+and tear only excepted); in broom clean condition; office/restroom area vacuumed and cleaned. On
+or before the Expiration Date or upon termination of this Lease on a day other than the Expiration
+Date, Tenant will, at its expense, remove all trade fixtures, personal property and equipment and
+signs from the Premises and any property not removed will be deemed to have been abandoned. Any
+damage caused in the removal of such items will be repaired by Tenant and at its expense. All
+alterations, additions, improvements and fixtures (other than trade fixtures) which have been made
+or installed by Landlord or Tenant upon the Premises and all floor covering so installed will
+remain upon and be surrendered with the Premises as a part thereof, without disturbance,
+molestation or injury, and without charge, at the expiration or termination of this Lease. If the
+Premises are not surrendered on the Expiration Date or the date of termination, Tenant will
+indemnify Landlord against loss or liability, claims, without limitation, made by any succeeding
+tenant founded on such delay. Tenant will promptly surrender all keys for the Premises to Landlord
+at the place then fixed for payment of rent and will inform Landlord of combinations of any locks
+and safes on the Premises.
+
+18.0 HOLDING OVER :
+
+In the event of a holding over by Tenant after expiration or termination of this Lease without the
+consent in writing of Landlord, Tenant will be deemed a Tenant at sufferance and will pay rent for
+such occupancy at the rate of one and one-half times the last-current aggregate Base Rent and
+Additional Rent, prorated for the entire holding over period, plus all reasonable attorney s fees
+and expenses incurred by Landlord in enforcing its rights hereunder, plus any other damages
+occasioned by such holding over. Except as otherwise agreed, any holding over with the written
+consent of Landlord will constitute Tenant a month-to-month lease.
+
+19.0 ABANDONMENT :
+
+In the event Tenant removes its fixtures, equipment or machinery or vacates the Premises or any
+part thereof prior to the Expiration Date of this Lease, or discontinues or suspends the operation
+of its business conducted on the Premises for a period of more than one hundred twenty (120)
+consecutive days (except during any time when the Premises may be rendered untenable by reason of
+fire or other casualty), then in any such event Tenant will be deemed to have abandoned the
+Premises and Tenant will be in default under the terms of this Lease.
+
+20.0 DEFAULT OF TENANT :
+
+a. 
+       
+     In the event of any failure of Tenant to pay any rental due hereunder within ten (10) days
+after the same becomes due, or any failure to perform any other terms, conditions or covenants
+of this Lease to be observed or performed by Tenant for more than ten (10) days after written
+notice of such failure has been given to Tenant, or if Tenant or an agent of Tenant falsifies
+any report required to
+be furnished to Landlord pursuant to the terms of this Lease, or if Tenant or any guarantor
+of this Lease becomes bankrupt or insolvent, or file any debtor proceedings or any person
+takes or has against Tenant or any guarantor of this Lease in any court pursuant to any
+statute either of the United States or of any state a petition in bankruptcy or insolvency
+or for reorganization or for the appointment of a receiver or trustee of all or a portion of
+Tenant s or any such guarantor s property, or if Tenant or any such 
+
+-10-
+
+guarantor s property, or
+if Tenant or any such guarantor makes an assignment for the benefit of creditors, or
+petitions for or enters into an arrangement with its creditors, or if Tenant abandons the
+Premises or suffer this Lease to be taken under any writ of execution, then in any such
+event Tenant will be in default hereunder, and Landlord, in addition to other rights of
+remedies it may have, will have the immediate right of re-entry and may remove all persons
+and property from the Premises and such property may be removed and stored in a public
+warehouse or elsewhere at the cost of, and for the account of Tenant, without being guilty
+of trespass, or becoming liable for any loss or damage which may be occasioned thereby. 
+
+b. 
+       
+     Should Landlord elect to re-enter the Premises, as herein provided, or should it take
+possession of the Premises pursuant to legal proceedings or pursuant to any notice provided
+for by law, it may either terminate this Lease or it may from time to time, without
+terminating this Lease, make such alterations and repairs as may be necessary in order to
+re-let the Premises, and re-let the Premises or any part thereof for such term or terms (which
+may be for a term extending beyond the term of this Lease) and at such rental or rentals and
+upon such other terms and conditions as Landlord in its sole discretion may deem advisable.
+Upon each such subletting all rentals received by the Landlord from such re-letting will be
+applied first to the payment of any indebtedness other than rent due hereunder from Tenant to
+Landlord; second, to the payment of any costs and expenses of such re-letting, including
+brokerage fees and attorney s fees and costs of such alterations and repairs; third, to the
+payment of the rent due and unpaid hereunder, and the residue, if any will be held by Landlord
+and applied in payment of future rent as the same may become due and payable hereunder. If
+such rentals received from such re-letting during any month be less than that to be paid
+during that month by Tenant hereunder, Tenant, upon demand, will pay any such deficiency to
+Landlord. No such re-entry or taking possession of the Premises by Landlord will be construed
+as an election on its part to terminate this Lease unless a written notice of such intention
+be given to Tenant or unless the termination thereof be decreed by a court of competent
+jurisdiction. Notwithstanding any such re-letting without termination, Landlord may at any
+time after such re-entry and re-letting elect to terminate this Lease for such previous
+breach. Should Landlord at any time terminate this Lease for any such breach, in addition to
+any other remedies it may have, it may recover from Tenant all damages it may incur by reason
+of such breach, including the cost of recovering the Premises, attorney s fees, and costs, the
+unamortized portion of any leasehold improvements made by Landlord for Tenant and including
+the worth at the time of such termination of the excess, if any, of the amount of rent and
+charges equivalent to rent reserved in this Lease for the remainder of the stated term over
+the then reasonable rental value of the Premises for the remainder of the stated term, all of
+which amounts will be immediately due and payable from Tenant to Landlord. 
+
+c. 
+       
+     Landlord may, at its option, instead of exercising any other rights or remedies available to
+it in this Lease or otherwise by law, statute or equity, spend such money as is reasonably
+necessary to cure any default of Tenant herein and the amount so spent, and costs incurred,
+including attorney s fees in curing such default, will be paid by Tenant, as additional rent,
+upon demand. 
+
+-11-
+
+d. 
+       
+     In the event suit is brought for recovery of possession of the Premises, for the recovery of
+rent or any other amount due under the provisions of this Lease, or because of the breach of
+any other covenant herein contained on the part of the Tenant to be kept or performed, and a
+breach is established, Tenant will pay to Landlord all reasonable expenses incurred therefor,
+including attorney s fees and costs. 
+
+e. 
+       
+     Tenant waives any demand for possession of the Premises, and any demand for payment of rent
+and any notice of intent to re-enter the Premises, or of intent to terminate this Lease, other
+than the notices above provided in this Article, and any other notice or demand prescribed by
+any applicable statutes or laws. 
+
+f. 
+       
+     No remedy herein or elsewhere in this Lease or otherwise by law, statute or equity, conferred
+upon or reserved to Landlord or Tenant will be exclusive of any other remedy, but will be
+cumulative, and may be exercised from time to time and as often as the occasion may arise. 
+
+21.0 EMINENT DOMAIN :
+
+In the event of any eminent domain of condemnation proceeding or private sale in lieu thereof in
+respect to the Building during the term thereof, the following provisions will apply:
+
+a. 
+       
+     If the whole of the Premises are acquired or condemned by eminent domain for any public or
+quasi-public purpose, the term of this Lease will cease and terminate as of the date
+possession is taken in such proceedings and all rentals will be paid up to that date. 
+
+b. 
+       
+     If any part constituting less than the whole of the Premises is acquired or condemned as
+aforesaid, and in the event that such partial taking or condemnation materially affects the
+Premises so as to render the Premises unsuitable for the business of the Tenant, in the
+reasonable opinion of Landlord, then the term of this Lease will cease and terminate as of the
+date possession is taken by the condemning authority and rent will be paid to the date of such
+termination. In the event of a partial taking or condemnation of the Premises which does not
+materially affect the Premises so as to render the Premises unsuitable for the business of the
+Tenant, in the opinion of the Landlord, this Lease will continue in full force and effect with
+a proportionate abatement of the Base Rent and Additional Rent based on the portion, if any of
+the Premises taken. Landlord reserves the right, at its option, to restore the Building and
+the Premises to substantially the same condition as they were prior to such condemnation. In
+such event, Landlord will give written notice to Tenant, within thirty (30) days following the
+date possession is taken by the condemning authority, of Landlord s intention to restore.
+Upon Landlord s notice of election to restore, Landlord will commence restoration and will
+restore the Building and the Premises with reasonable promptness, subject to
+delays beyond Landlord s control and delays in the making of condemnation or sale proceeds
+adjustments by Landlord; and Tenant will have no right to terminate this Lease except as
+herein provided. Upon completion of such restoration, the rent will be adjusted based upon
+the portion, if any, of the Premises restored. Notwithstanding the foregoing, in the event
+that twenty percent (20%) or more of the floor area of the Building or twenty percent (20%)
+or more of the parking areas are so taken, then Landlord and Tenant will each have the right
+to terminate 
+
+-12-
+
+this Lease by giving written notice thereof to the other within thirty (30)
+days following the date possession is taken by the condemning authority. 
+
+c. 
+       
+     In the event of any condemnation or taking as a foresaid, whether whole or partial, the
+Tenant will not be entitled to any part of the award paid for such condemnation and Landlord
+is to receive the full amount of such award, the Tenant hereby expressly waiving any right to
+claim to any part thereof. 
+
+d. 
+       
+     Although all damages in the event of any condemnation will belong to the Landlord whether
+such damages are awarded as compensation for diminution in value of the leasehold or to the
+fee of the Premises, Tenant will have the right to claim and recover from the condemning
+authority, but not from Landlord, such compensation as may be separately awarded or
+recoverable by Tenant in Tenant s own right on account of any and all damage to Tenant s
+business by reason of the condemnation and for or on account of any cost or loss to which
+Tenant might be put in removing Tenant s merchandise, furniture, fixtures, leasehold
+improvements and equipment. However, Tenant will have no claim against Landlord or make any
+claim with the condemning authority for the loss of its leasehold estate, any unexpired term
+or loss of any possible renewal or extension of said lease or loss of any possible value of
+said lease, any unexpired term, renewal or extension of said lease. 
+
+22.0 RULES AND REGULATIONS :
+
+Tenant will observe and comply with such further reasonable rules and regulations as Landlord may
+prescribe, on written notice to Tenant for the safety, care and cleanliness of the Building.
+
+23.0 DAMAGE OR DESTRUCTION :
+
+In the event of any damage or destruction to the Premises by fire or other cause during the term
+hereof, the following provisions will apply:
+
+a. 
+       
+     If the Building is damaged by fire or any other cause to such extent that the cost of
+restoration, as estimated by Landlord, will equal or exceed twenty-five percent (25%) of the
+replacement value of the Building (exclusive of foundations) just prior to the occurrence of
+the damage, then Landlord may, not later than the thirtieth (30th) day following the damage,
+give Tenant written notice of Landlord s election to terminate this Lease. 
+
+b. 
+       
+     If the cost of restoration as estimated by Landlord will equal or exceed twenty-five percent
+(25%) of said replacement value of the Building and if the Premises are not suitable as a
+result of said damage for the purposes for which they are demised hereunder, in the reasonable
+opinion of Landlord, then Tenant may, no later than the thirtieth (30th) day following the
+damage, give Landlord a written notice of election to terminate this Lease. 
+
+c. 
+       
+     If the cost of restoration as estimated by Landlord amounts to less than twenty-five percent
+(25%) of said replacement value of the Building, or if, despite the cost, neither Landlord nor
+Tenant elects to terminate this Lease, Landlord will restore the Building and the Premises
+with reasonable promptness, subject to delays beyond Landlord s control and delays in the 
+
+-13-
+
+making of insurance adjustments by Landlord; and Tenant will have no right to terminate this
+Lease except as herein provided. Landlord will not be responsible for restoring or repairing
+leasehold improvements of the Tenant. 
+
+d. 
+       
+     In the event of either of the elections to terminate, this Lease will be deemed to terminate
+on the date of the receipt of the notice of election and all rentals will be paid up to that
+date. Tenant will have no claim against Landlord for the value of any unexpired term of this
+Lease. 
+
+e. 
+       
+     In any case where damage to the Building materially affects the Premises so as to render them
+unsuitable in whole or in part for the purposes for which they are demised hereunder, then,
+unless such destruction was wholly or partially caused by the negligence or breach of the
+terms of this Lease by Tenant, its employees, contractors or licensees, a portion of the rent
+based upon the amount of the extent to which the Premises are rendered unsuitable will be
+abated until repaired or restored. If the destruction or damage was wholly or partially
+caused by negligence or breach of the terms of this Lease by Tenant as aforesaid and if
+Landlord elects to rebuild, the rent will not abate and the Tenant will remain liable for the
+same. 
+
+24.0 CASUALTY INSURANCE :
+
+a. 
+       
+     Tenant will at all times during the term of this Lease, at its expense, maintain a policy or
+policies of insurance with premiums paid in advance issued by an insurance company licensed to
+do business in the State of Minnesota insuring the Building against loss or damage by fire,
+explosion or other insurable hazards and contingencies for the full replacement value. All
+insurance policies and renewals thereof required herein will (i) contain a loss payee and
+standard mortgage clause in favor of and in form acceptable to Landlord; and (ii) have an
+ agreed amount  endorsement or otherwise exclude co-insurance participation by the insured.
+Tenant will use its best efforts to cause such policy or policies to provide that thirty (30)
+days written notice be given to Landlord prior to cancellation thereof, and such policies will
+otherwise be reasonably satisfactory to Landlord in all other respects. Tenant will deliver to
+the Landlord s mortgagee copies of such policies satisfactory to the mortgagee evidencing the
+property insurance which is required herein. If Landlord s mortgagee should require additional
+insurance coverage than that required herein, Tenant will procure such insurance at its own
+expense. Tenant will promptly furnish copies of all renewal notices received by it. At least
+thirty (30) days prior to the expiration date of a required policy,
+Tenant will deliver to Landlord a copy of a renewal policy in form satisfactory to Landlord.
+Landlord may from time to time, but not more often than every three (3) years, require an
+insurance appraisal, reasonably satisfactory to Landlord, confirming the replacement cost of
+the insured property. If Tenant has a blanket insurance policy in force providing coverage
+for several properties of Tenant, including the subject Premises, Landlord will accept a
+certificate of such insurance together with a copy of such blanket insurance policy;
+provided the certificate sets forth the amounts of insurance and coverage, and such amounts
+are at least equal to the amounts required hereinabove, and otherwise complies with the
+requirements hereof. 
+
+-14-
+
+b. 
+       
+     Tenant will not carry any stock of goods or do anything in or about the Premises which will
+in any way impair or invalidate the obligation of the insurer under any policy of insurance
+required by this Lease. 
+
+c. 
+       
+     Landlord hereby waives and releases all claims, liabilities and causes of action against
+Tenant and its agents, servants and employees for loss of damage to, or destruction of, the
+Premises or any portion thereof, including the buildings and other improvements situated
+thereon, resulting from fire, explosion or the other perils included in standard extended
+coverage insurance, whether caused by the negligence of any of said persons or otherwise.
+Likewise, Tenant hereby waives and releases all claims, liabilities and causes of action
+against Landlord and its agents, servants and employees for loss of damage to, or destruction
+of, any of the improvements, fixtures, equipment, supplies, merchandise and other property,
+whether that of Tenant or of others in, upon or about the Premises resulting from fire,
+explosion or the other perils included in standard coverage insurance, whether caused by the
+negligence of any of said persons or otherwise. The waiver will remain in force whether or
+not the Tenant s or Landlord s insurer consents thereto. 
+
+d. 
+       
+     If Tenant installs any electrical equipment that overloads the power lines to the building or
+its wiring, Tenant will, at its own expense, make whatever changes are necessary to comply
+with the requirements of the insurance underwriter, insurance rating bureau and governmental
+authorities having jurisdiction. 
+
+25.0 COVENANTS TO HOLD HARMLESS :
+
+Unless the liability for damage or loss is caused by the negligence of Landlord, its agents or
+employees, Tenant will hold harmless Landlord from any liability for damages to any person or
+property in or upon the Premises and the Building, including the person and property of Tenant and
+its employees and all persons in the Building at its or their invitation or sufferance, and from
+all damages resulting from Tenant s failure to perform the covenants of this Lease. All property
+kept, maintained or stored on the Premises will be so kept, maintained or stored at the sole risk
+of Tenant. Tenant agrees to pay all sums of money in respect of any labor, service, materials,
+supplies or equipment furnished or alleged to have been furnished to Tenant in or about the
+Premises, and not furnished on order of Landlord, which may be secured by any mechanic s
+materialmen s or other lien to be discharged at the time performance of any obligation secured
+thereby matures, provided that Tenant may contest such lien, but if such lien is reduced to final
+judgment and if such judgment or process thereon is not stayed, or if stayed and said stay expires,
+then and in each such event,
+Tenant will forthwith pay and discharge said judgment. Landlord will have the right to post and
+maintain on the Premises, notices of non-responsibility under the laws of the State of Minnesota.
+
+26.0 NON-LIABILITY :
+
+Subject to the terms and conditions of this Article 26.0, Landlord will not be liable for any
+damage to property of Tenant or of others located on the Premises, nor for the loss or damage to
+any property of Tenant or of others by theft or otherwise unless directly caused by Landlord s
+gross negligence or willful misconduct. Landlord will not be liable for any injury or damage to
+persons or property resulting from fire, explosion, falling plaster, steam, gas, electricity,
+water, rain or snow or leaks
+
+-15-
+
+from any part of the Premises or from the pipes, appliances, or
+plumbing works or from the roof, street or subsurface or from any other place or by dampness.
+Landlord will not be liable for any such damage caused by other persons in the Premises, occupants
+of adjacent property, of the buildings, or the public or caused by operations in construction of
+any private, public or quasi-public work. Landlord will not be liable for any latent defect in the
+Premises. All property of Tenant kept or stored on the Premises will be so kept or stored at the
+risk of Tenant only and Tenant will hold Landlord harmless from any claims arising out of damage to
+the same, including subrogation claims by Tenant s insurance carrier unless directly caused by
+Landlord s gross negligence or willful misconduct.
+
+27.0 SUBORDINATION :
+
+This Lease will be subordinated to any mortgage that may now exist or that may hereafter be placed
+upon the Premises and to any and all advances made there under, and to the interest upon the
+indebtedness evidenced by such mortgages, and to all renewals, replacements and extensions thereof.
+In the event of execution by Landlord after the date of this Lease of any such mortgage, renewal,
+replacement or extension, Tenant agrees to execute a subordination agreement with the holder
+thereof which agreement will provide that:
+
+a. 
+       
+     Such holder will not disturb the possession and other rights of Tenant under this Lease so
+long as Tenant is not currently in default hereunder. 
+
+b. 
+       
+     In the event of acquisition of title to the Premises by such holder, such holder will accept
+the Tenant as Tenant of the Premises under the terms and conditions of this Lease and will
+perform all the obligations of Landlord hereunder, and 
+
+c. 
+       
+     The Tenant will recognize such holder as Landlord hereunder 
+
+Tenant will, upon receipt of a request from Landlord therefore, execute and deliver within fifteen
+(15) business days to Landlord or to any proposed holder of a mortgage or trust deed or to any
+proposed purchaser of the Premises an Estoppel Letter.
+
+28.0 ATTORNMENT :
+
+In the event of a sale or assignment of Landlord s interest, in the Building in which the Premises
+are located, or this Lease, or if the Building comes into custody or possession of a mortgagee or
+any other party whether because of a mortgage foreclosure, or otherwise, Tenant will attorn to such
+assignee or other party and recognize such party as Landlord hereunder; provided, however, Tenant s
+peaceable possession will not be disturbed so long as Tenant faithfully performs its obligations
+under this Lease. Tenant will execute, on demand, any attornment agreement required by any such
+party to be executed, containing such provisions as such party may require. Landlord will have no
+further obligations under this Lease after any such assignment.
+
+-16-
+
+29.0 NOVATION IN THE EVENT OF SALE :
+
+In the event of the sale of the Premises, Landlord will be and hereby is relieved of all of the
+covenants and obligations created hereby accruing from and after the date of sale, and such sale
+will result automatically in the purchaser assuming and agreeing to carry out all the covenants and
+obligations of Landlord herein. Notwithstanding the foregoing provisions of this Article 29.0,
+Landlord, in the event of a sale of the Premises, will cause to be included in the agreement of
+sale and purchase a covenant whereby the purchaser of the Premises assumes and agrees to carry out
+all of the covenants and obligations of Landlord herein.
+
+The Tenant agrees at any time and from time to time upon not less than fifteen (15) business days
+prior written request by the Landlord to execute, acknowledge and deliver to the Landlord a
+statement in writing certifying that this Lease is unmodified and in full force and effect or is in
+full force and effect as modified and stating the modifications, and the dates to which the basic
+rent and other charges have been paid in advance, if any, it being intended that any such statement
+delivered pursuant to this Article may be relied upon by any prospective purchaser of the fee or
+mortgagee or assignee of any mortgage upon the fee of the Premises.
+
+30.0 QUIET ENJOYMENT :
+
+Landlord warrants that it has full right to execute and to perform this Lease and to grant the
+estate demised, and that Tenant, upon payment of the rents and other amounts due and the
+performance of all the terms, conditions, covenants and agreements on Tenant s part to be observed
+and performed under this Lease, may peaceably and quietly enjoy the Premises for the business uses
+permitted hereunder, subject, nevertheless, to the terms and conditions of this Lease.
+
+31.0 RECORDING :
+
+Tenant will not record this Lease without the written consent of Landlord. However, upon the
+request of either party hereto, the other party will join in the execution of the Memorandum lease
+for the purposes of recordation. Said Memorandum lease will describe the parties, the Premises and
+the term of the Lease and will incorporate this Lease by reference. This Article 31.0 will not be
+construed to limit Landlord s right to file this Lease.
+
+32.0 CONSENTS BY LANDLORD :
+
+Whenever provision is made under this Lease for Tenant securing the consent or approval by
+Landlord, such consent or approval must only be in writing.
+
+33.0 INTENT OF PARTIES :
+
+Except as otherwise provided herein, the Tenant covenants and agrees that if it at any time fails
+to pay any cost or expense required to be paid by it, or fail to take out, pay for, maintain or
+deliver any of the insurance policies above required, or fails to make any other payment or perform
+any other act on its part to be made or performed as in this Lease provided, then the Landlord may,
+but will not be obligated so to do, and without notice to or demand upon the Tenant and without
+waiving or
+
+-17-
+
+releasing the Tenant from any obligations of the Tenant in this Lease contained, pay any
+such cost or expense, effect any such insurance coverage and pay premiums therefore, and may make
+any other payment or perform any other act on the part of the Tenant to be made and performed as in
+this Lease provided, in such manner and to such extent as the Landlord may deem desirable, and in
+exercising any such right, to also pay all necessary and incidental costs and expenses, employ
+counsel and incur and pay reasonable attorney s fees. All sums so paid by Landlord and all
+necessary and incidental costs and expenses in connection with the performance of any such act by
+the Landlord, together with interest thereon at the rate of fourteen percent (14%) per annum from
+the date of making such expenditures, by Landlord, will be deemed additional rent hereunder, and
+will be payable to Landlord on demand. Tenant covenants to pay any such sum or sums with interest
+as aforesaid and the Landlord will have the same rights and remedies in the event of the
+non-payment thereof by Tenant as in the case of default by Tenant in the payment of the Base Rent
+payable under this Lease.
+
+34.0 TENANT S COMPLIANCE WITH PATRIOT ACT 
+
+Tenant covenants with Landlord that Tenant will at all times comply with the USA Patriot Act, as
+the same may be amended from time to time (the   Patriot Act  ). Tenant represents to Landlord that
+Tenant is currently in compliance in every respect with the Patriot Act. Tenant covenants with
+Landlord that Tenant will not, at any time enter into any type of transaction with a party who is
+on the United States Treasury Department s Office of Foreign Assets Control (the   OFAC  ) list of
+designated nationals and blocked persons (the   OFAC List  ) and that Tenant will at all times comply
+with the requirements of the OFAC and the OFAC List, as the same may be amended from time to time.
+In the event Tenant discovers that a party to a transaction is listed on the OFAC List, Tenant will
+comply with all requirements of the OFAC and will notify Landlord immediately. Tenant represents
+to Landlord that Tenant is not currently on the OFAC List and is currently in compliance with the
+OFAC requirements and that Tenant is not currently involved in any transactions with a party on the
+OFAC List.
+
+35.0 GENERAL :
+
+a. 
+       
+     This Lease does not create the relationship of principal and agent or of partnership or of
+joint venture or of any association between Landlord and Tenant, the sole relationship between
+the parties hereto being that of Landlord and Tenant. 
+
+b. 
+       
+     No waiver of any default of Tenant hereunder will be implied from any omission by Landlord to
+take any action on account of such default if such default persists or is repeated, and no
+express waiver will affect any default other than the default specified in the express waiver
+and that only for the time and to the extent therein stated. One or more waivers by Landlord
+will not then be construed as a waiver of a subsequent breach of the same covenant, term or
+condition. The consent or approval by Landlord of any act by Tenant requiring Landlord s
+consent or approval will not waive or render unnecessary Landlord s consent to or approval of
+any subsequent similar act by Tenant. No action required or permitted to be taken by or on
+behalf of Landlord under the terms or provisions of this Lease will be deemed to constitute an
+eviction or disturbance of Tenant s possession of the Premises. All preliminary negotiations
+are merged into and incorporated in this Lease. The laws of the State of Minnesota will
+govern the validity, performance and enforcement of this Lease. 
+
+-18-
+
+c. 
+       
+     This Lease and the exhibits, if any, attached hereto and forming a part hereof, constitute
+the entire agreement between Landlord and Tenant affecting the Premises and there are no other
+agreements, either oral or written, between them other than herein set forth. No subsequent
+alteration, amendment, change or addition to this Lease will be binding upon Landlord or
+Tenant unless reduced to writing and executed in the same form and manner in which this Lease
+is executed. 
+
+d. 
+       
+     If any agreement, covenant or condition of this Lease or the application thereof to any
+person or circumstance is, to any extent, invalid or unenforceable, the remainder of this
+Lease, or the application of such agreement, covenant or condition to persons or circumstances
+other than those as to which it is held invalid or unenforceable, will not be affected thereby
+and each agreement, covenant or condition of this Lease will be valid and be enforced to the
+fullest extent permitted by law. 
+
+e. 
+       
+     The captions are inserted only as a matter of convenience and for reference, and in no way
+define, limit or describe the scope of this Lease nor the intent or any provision thereof. 
+
+f. 
+       
+     Submission of this instrument to Tenant or proposed Tenant or his agents or attorneys for
+examination, review, consideration or signature does not constitute or imply an offer to
+lease, reservation of space, or option to lease, and this instrument will have no binding
+legal effect until execution hereof by both Landlord/Owner and Tenant or its agents. 
+
+Signatures begin on the next page 
+
+-19-
+
+IN WITNESS WHEREOF , the Landlord and the Tenant have executed this lease in form and manner
+sufficient to bind them at law, as of the day and year first above written.
+
+LANDLORD: 
+
+TENANT:  
+
+/s/ Gary T. Mulcahy Sr.
+
+/s/ Douglas L. Hemer 
+
+(Signature) 
+
+(Signature)  
+
+February 26, 2006
+
+February 26, 2006 
+
+Date 
+
+Date  
+
+Gary T. Mulcahy Sr.
+
+Douglas L. Hemer 
+
+Name (print) 
+
+Name (print)  
+
+President
+
+Chief Administrative Officer 
+
+Title 
+
+Title  
+
+Attached Exhibits: 
+Exhibit A   Legal Description 
+Exhibit B- Site Plan 
+Exhibit C- Tenant Improvements
+
+-20-
+
+</EX-10.24>
+
+<EX-23.1>
+ 3
+ c03145exv23w1.htm
+ INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM'S CONSENT
+
+exv23w1 
+
+Exhibit 23.1 
+
+CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM 
+
+We hereby consent to the incorporation by reference in the Registration Statements on Form S-8
+(Nos. 33-72656, 333-111747, 333-111748) of our report dated March 24, 2006 relating to the
+financial statements and financial statement schedule, which is included in this Annual Report on
+Form 10-K for the year ended December 31, 2005.
+
+PricewaterhouseCoopers LLP 
+Minneapolis, Minnesota 
+March 24, 2006
+
+</EX-23.1>
+
+<EX-31.1>
+ 4
+ c03145exv31w1.htm
+ CERTIFICATION PURSUANT TO SECTION 302
+
+exv31w1 
+
+Exhibit 31.1 
+
+CERTIFICATION BY CHIEF EXECUTIVE OFFICER 
+AS ADOPTED PURSUANT TO 
+SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+
+I, Joseph C. Levesque, Chairman of the Board, President and Chief Executive Officer of Aetrium
+Incorporated, certify that:
+
+1. I have reviewed this annual report on Form 10-K of Aetrium Incorporated;
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or
+omit to state a material fact necessary to make the statements made, in light of the circumstances
+under which such statements were made, not misleading with respect to the period covered by this
+report;
+
+3. Based on my knowledge, the financial statements, and other financial information included in
+this report, fairly present in all material respects the financial condition, results of operations
+and cash flows of the registrant as of, and for, the periods presented in this report;
+
+4. The registrant s other certifying officers and I are responsible for establishing and
+maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and
+15d-15(e)) for the registrant and have:
+
+(a) Designed such disclosure controls and procedures, or caused such disclosure controls and
+procedures to be designed under our supervision, to ensure that material information relating to
+the registrant, including its consolidated subsidiaries, is made known to us by others within
+those entities, particularly during the period in which this report is being prepared;
+
+(b) Evaluated the effectiveness of the registrant s disclosure controls and procedures and
+presented in this report our conclusions about the effectiveness of the disclosure controls and
+procedures as of the end of the period covered by this report based on such evaluation; and
+
+(c) Disclosed in this report any change in the registrant s internal control over financial
+reporting that occurred during the registrant s most recent fiscal quarter (the registrant s
+fourth fiscal quarter in the case of this annual report) that has materially affected, or is
+reasonably likely to materially affect, the registrant s internal control over financial
+reporting; and
+
+5. The registrant s other certifying officers and I have disclosed, based on our most recent
+evaluation of internal control over financial reporting, to the registrant s auditors and the audit
+committee of registrant s board of directors (or persons performing the equivalent function):
+
+(a) All significant deficiencies and material weaknesses in the design or operation of internal
+control over financial reporting which are reasonably likely to adversely affect the
+registrant s ability to record, process, summarize and report financial information; and
+
+(b) Any fraud, whether or not material, that involves management or other employees who have a
+significant role in the registrant s internal control over financial reporting.
+
+Date: March 31, 2006
+
+/s/ Joseph C. Levesque 
+
+By:
+
+Joseph C. Levesque 
+
+Title:
+
+Chairman of the Board, President and Chief Executive Officer 
+
+</EX-31.1>
+
+<EX-31.2>
+ 5
+ c03145exv31w2.htm
+ CERTIFICATION PURSUANT TO SECTION 302
+
+exv31w2 
+
+Exhibit 31.2 
+
+CERTIFICATION BY CHIEF ADMINISTRATIVE OFFICER 
+AS ADOPTED PURSUANT TO 
+SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+
+I, Douglas L. Hemer, Chief Administrative Officer of Aetrium Incorporated, certify that:
+
+1. I have reviewed this annual report on Form 10-K of Aetrium Incorporated;
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or
+omit to state a material fact necessary to make the statements made, in light of the circumstances
+under which such statements were made, not misleading with respect to the period covered by this
+report;
+
+3. Based on my knowledge, the financial statements, and other financial information included in
+this report, fairly present in all material respects the financial condition, results of operations
+and cash flows of the registrant as of, and for, the periods presented in this report;
+
+4. The registrant s other certifying officers and I are responsible for establishing and
+maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and
+15d-15(e)) for the registrant and have:
+
+(a) Designed such disclosure controls and procedures, or caused such disclosure controls and
+procedures to be designed under our supervision, to ensure that material information relating to
+the registrant, including its consolidated subsidiaries, is made known to us by others within
+those entities, particularly during the period in which this report is being prepared;
+
+(b) Evaluated the effectiveness of the registrant s disclosure controls and procedures and
+presented in this report our conclusions about the effectiveness of the disclosure controls and
+procedures as of the end of the period covered by this report based on such evaluation; and
+
+(c) Disclosed in this report any change in the registrant s internal control over financial
+reporting that occurred during the registrant s most recent fiscal quarter (the registrant s
+fourth fiscal quarter in the case of this annual report) that has materially affected, or is
+reasonably likely to materially affect, the registrant s internal control over financial
+reporting; and
+
+5. The registrant s other certifying officers and I have disclosed, based on our most recent
+evaluation of internal control over financial reporting, to the registrant s auditors and the audit
+committee of registrant s board of directors (or persons performing the equivalent function):
+
+(a) All significant deficiencies and material weaknesses in the design or operation of internal
+control over financial reporting which are reasonably likely to adversely affect the
+registrant s ability to record, process, summarize and report financial information; and
+
+(b) Any fraud, whether or not material, that involves management or other employees who have a
+significant role in the registrant s internal control over financial reporting.
+
+Date: March 31, 2006
+
+/s/ Douglas L. Hemer 
+
+By:
+
+Douglas L. Hemer 
+
+Title:
+
+Chief Administrative Officer 
+
+</EX-31.2>
+
+<EX-31.3>
+ 6
+ c03145exv31w3.htm
+ CERTIFICATION PURSUANT TO SECTION 302
+
+exv31w3 
+
+Exhibit 31.3 
+
+CERTIFICATION BY TREASURER 
+AS ADOPTED PURSUANT TO 
+SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 
+
+I, Paul H. Askegaard, Treasurer of Aetrium Incorporated, certify that:
+
+1. I have reviewed this annual report on Form 10-K of Aetrium Incorporated;
+
+2. Based on my knowledge, this report does not contain any untrue statement of a material fact or
+omit to state a material fact necessary to make the statements made, in light of the circumstances
+under which such statements were made, not misleading with respect to the period covered by this
+report;
+
+3. Based on my knowledge, the financial statements, and other financial information included in
+this report, fairly present in all material respects the financial condition, results of operations
+and cash flows of the registrant as of, and for, the periods presented in this report;
+
+4. The registrant s other certifying officers and I are responsible for establishing and
+maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and
+15d-15(e)) for the registrant and have:
+
+(a) Designed such disclosure controls and procedures, or caused such disclosure controls and
+procedures to be designed under our supervision, to ensure that material information relating to
+the registrant, including its consolidated subsidiaries, is made known to us by others within
+those entities, particularly during the period in which this report is being prepared;
+
+(b) Evaluated the effectiveness of the registrant s disclosure controls and procedures and
+presented in this report our conclusions about the effectiveness of the disclosure controls and
+procedures as of the end of the period covered by this report based on such evaluation; and
+
+(c) Disclosed in this report any change in the registrant s internal control over financial
+reporting that occurred during the registrant s most recent fiscal quarter (the registrant s
+fourth fiscal quarter in the case of this annual report) that has materially affected, or is
+reasonably likely to materially affect, the registrant s internal control over financial
+reporting; and
+
+5. The registrant s other certifying officers and I have disclosed, based on our most recent
+evaluation of internal control over financial reporting, to the registrant s auditors and the audit
+committee of registrant s board of directors (or persons performing the equivalent function):
+
+(a) All significant deficiencies and material weaknesses in the design or operation of internal
+control over financial reporting which are reasonably likely to adversely affect the
+registrant s ability to record, process, summarize and report financial information; and
+
+(b) Any fraud, whether or not material, that involves management or other employees who have a
+significant role in the registrant s internal control over financial reporting.
+
+Date: March 31, 2006
+
+/s/ Paul H. Askegaard 
+
+By:
+
+Paul H. Askegaard 
+
+Title:
+
+Treasurer (principal financial and accounting officer) 
+
+</EX-31.3>
+
+<EX-32.1>
+ 7
+ c03145exv32w1.htm
+ CERTIFICATION PURSUANT TO SECTION 906
+
+exv32w1 
+
+Exhibit 32.1 
+
+CERTIFICATION PURSUANT TO 
+18 U.S.C. SECTION 1350, 
+AS ADOPTED PURSUANT TO 
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Annual Report of Aetrium Incorporated ( the Company ) on Form 10-K for the
+fiscal year ended December 31, 2005 as filed with the Securities and Exchange Commission on the
+date hereof (the  Report ), Joseph C. Levesque, as Chief Executive Officer of the Company, Douglas
+L. Hemer, as Chief Administrative Officer of the Company, and Paul H. Askegaard, as Treasurer of
+the Company, each hereby certifies, pursuant to 18 U.S.C. Section 1350, as adopted pursuant Section
+906 of the Sarbanes-Oxley Act of 2002, that:
+
+(1) The Report fully complies with the requirements of Section 13(a) or 15(d) of the
+Securities Exchange Act of 1934; and
+
+(2) The information contained in the Report fairly presents, in all material respects, the
+financial condition and result of operations of the Company.
+
+Date: March 31, 2006
+
+By:
+
+/s/ Joseph C. Levesque 
+
+Name:
+
+Joseph C. Levesque 
+
+Title:
+
+Chairman of the Board, President and 
+
+Chief Executive Officer 
+
+Date: March 31, 2006
+
+By:
+
+/s/ Douglas L. Hemer 
+
+Name:
+
+Douglas L. Hemer 
+
+Title:
+
+Chief Administrative Officer 
+
+Date: March 31, 2006
+
+By:
+
+/s/ Paul H. Askegaard 
+
+Name:
+
+Paul H. Askegaard 
+
+Title:
+
+Treasurer (principal financial and 
+
+accounting officer) 
+
+</EX-32.1>
+

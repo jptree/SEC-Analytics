@@ -1,0 +1,1029 @@
+<Header>
+<FileStats>
+    <FileName>20060331_10-K_edgar_data_946115_0001104659-06-021221_2.txt</FileName>
+    <GrossFileSize>478556</GrossFileSize>
+    <NetFileSize>27253</NetFileSize>
+    <NonText_DocumentType_Chars>6128</NonText_DocumentType_Chars>
+    <HTML_Chars>342202</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>11</N_Tables>
+    <N_Exhibits>6</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001104659-06-021221.hdr.sgml : 20060331
+<ACCEPTANCE-DATETIME>20060331154214
+ACCESSION NUMBER:		0001104659-06-021221
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		9
+CONFORMED PERIOD OF REPORT:	20051231
+FILED AS OF DATE:		20060331
+DATE AS OF CHANGE:		20060331
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TARGET RECEIVABLES CORP
+		CENTRAL INDEX KEY:			0000946115
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		IRS NUMBER:				411812153
+		STATE OF INCORPORATION:			MN
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-26930
+		FILM NUMBER:		06728700
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1000 NICOLLET MALL
+		STREET 2:		31ST FLOOR STE 3136
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55403
+		BUSINESS PHONE:		6123706530
+
+	MAIL ADDRESS:	
+		STREET 1:		1000 NICOLLET MALL
+		STREET 2:		31ST FLOOR STE 3136
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55403
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DAYTON HUDSON RECEIVABLES CORP
+		DATE OF NAME CHANGE:	19950602
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Target Credit Card Master Trust
+		CENTRAL INDEX KEY:			0001337063
+		IRS NUMBER:				411844836
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0131
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-127864-02
+		FILM NUMBER:		06728701
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1000 NICOLLET MALL
+		STREET 2:		SUITE 3136
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55403
+		BUSINESS PHONE:		612-696-3102
+
+	MAIL ADDRESS:	
+		STREET 1:		1000 NICOLLET MALL
+		STREET 2:		SUITE 3136
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55403
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ B4BnLayA4V8V9WvtKYAaIpIoyFtY6P8h5Zkae1eIDcePxD02F8C3v5tmSHo+vvBC
+ UJn8eZZx0THvN6tUlzwo3g==
+
+ 0001104659-06-021221.txt : 20060331
+
+10-K
+ 1
+ a06-2185_110k.htm
+ ANNUAL REPORT PURSUANT TO SECTION 13 AND 15(D)
+
+UNITED STATES   
+
+   SECURITIES AND EXCHANGE COMMISSION   
+
+   Washington, D.C. 20549   
+
+FORM 10-K   
+
+Commission file number  333-127864-02   
+
+TARGET RECEIVABLES CORPORATION   
+
+  (Depositor into the Issuing Entity for the Certificates)  
+
+TARGET CREDIT CARD MASTER TRUST   
+
+  (Issuing Entity for the Certificates)  
+
+  (Exact name of registrant as specified in its charter)  
+
+Registrant s telephone number, including area code:   612/696-3102    
+
+  Securities registered pursuant to Section 12(b) of
+the Act:   None    
+
+  Securities registered pursuant to Section 12(g) of
+the Act:  
+
+Floating Rate Class A Asset Backed
+Certificates, Series 2002-1   
+
+   Asset Backed Collateral Certificate, Series 2005-1   
+
+  (Title of Class)  
+
+Indicate
+by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405
+of the Securities Act.  
+
+  Yes     o       No      
+
+Indicate
+by check mark if the registrant is not required to file reports pursuant to Section 13
+or 15(d) of the Act.  
+
+  Yes     o       No      
+
+Indicate
+by check mark whether the registrant (1) has filed all reports required to
+be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to
+such filing requirements for the last 90 days:  
+
+  Yes             No   o  
+
+Indicate
+by check mark if disclosure of delinquent filers pursuant to Item 405 of
+Regulation S-K is not contained herein, and will not be contained, to the best
+of the registrant s knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any
+amendments to this Form 10-K.  
+
+  NOT APPLICABLE  
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an
+accelerated filer, or a non-accelerated filer. See definition of  accelerated
+filer and large accelerated filer  in Rule 12b-2 of the Exchange Act.                                                  (Check
+one): 
+
+Large
+  accelerated filer     o   
+
+Accelerated filer    o  
+
+Non-accelerated filer       
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2
+of the Exchange Act).  
+
+  Yes     o       No      
+
+State
+the aggregate market value of the voting and non-voting common equity held by
+non-affiliates of the registrants. The aggregate value shall be computed by
+reference to the price at which the common equity was sold, or the average bid
+and asked prices of such common equity, as of a specified date within 60 days
+prior to the date of filing.  
+
+The
+registrant has no voting or non-voting common equity outstanding as of the date
+of this report.  
+
+DOCUMENTS INCORPORATED BY REFERENCE   
+
+1. The sections of the registrant s Post-Effective
+Amendment to the Registration Statement (Registration No. 333-127864)
+filed on November 3, 2005 set forth below:  
+
+a.                                           Risk
+Factors  on pages S-13 through S-21 of the prospectus supplement; 
+
+b.                                          Target
+National Bank s Credit Card Business  on pages S-22 through S-26 of the
+prospectus supplement; and 
+
+c.                                          the
+prospectus. 
+
+2  
+
+PART I   
+
+Item 1.                                                                Business.  
+
+Target
+Credit Card Master Trust (the  Trust ) was formed pursuant to a Pooling and
+Servicing Agreement dated as of September 13, 1995 (as amended, modified
+or supplemented, the  Pooling and Servicing Agreement ), by and among Target
+National Bank, as servicer (the  Servicer ), Target Receivables Corporation, as
+transferor (the  Transferor ), and Wells Fargo Bank, National Association, as
+trustee (the  Trustee ). The Trust s only business is to act as a passive
+conduit to permit investments in a pool of the Transferor s consumer
+receivables generated by open-end credit card accounts owned by the Servicer.  
+
+Target
+Receivables Corporation was formed in Minnesota on May 15, 1995 and is a
+wholly-owned subsidiary of a corporation that is wholly-owned by Target
+Corporation. Target Receivables Corporation is the Transferor of the receivables
+to the Trust, the Depositor of the collateral certificate into the Target
+Credit Card Owner Trust 2005-1 (the  Owner Trust ), and the administrator of
+the Owner Trust.  
+
+Item 1A.                                                       Risk
+Factors.  
+
+Not
+applicable.  
+
+Item 1B.                                                       Unresolved
+Staff Comments.  
+
+None.  
+
+Item 2.                                                                Properties.  
+
+The
+assets of the Trust (the  Trust Assets ) include a portfolio of receivables
+(the  Receivables ) generated from time to time in a portfolio of consumer
+open-end credit card accounts (the  Accounts ), funds collected or to be
+collected in respect of the Receivables, monies on deposit in certain accounts
+of the Trust, any participation interests included in the Trust, funds
+collected or to be collected with respect to such participation interests and
+any enhancement with respect to a particular series or class. The Trust
+Assets are expected to change over the life of the Trust as receivables in
+consumer open-end credit card accounts and other open-end credit accounts and
+related assets are included in the Trust and as Receivables in Accounts
+included in the Trust are charged-off or removed.  
+
+Exhibits
+99.2 and 99.3 to this Report set forth certain information relating to the
+Transferor s fiscal year ended December 31, 2005. Such information, which
+was derived from the monthly settlement statements relating to such period as
+delivered to the Trustee pursuant to the Pooling and Servicing Agreement, is
+incorporated herein by reference.  
+
+3  
+
+Item 3.                                                                Legal
+Proceedings.  
+
+None.  
+
+Item 4.                                                                Submission
+of Matters to a Vote of Security Holders.  
+
+Not
+applicable.  
+
+PART II   
+
+Item 5.                                                                Market
+for Registrant s Common Equity, Related Stockholder Matters and Issuer
+Purchases of Equity Securities.  
+
+In July 2002,
+the Trust issued $750,000,000 of five year floating rate Class A
+Certificates to the public (the  Series 2002-1 Certificates ). In November 2005,
+the Trust issued a $1,153,846,154 Collateral Certificate (the  Series 2005-1
+Collateral Certificate ) and Target Receivables Corporation transferred the
+Collateral Certificate to the Owner Trust.  
+
+Although
+they trade in the over-the-counter market to a limited extent, there is
+currently no established public trading market for the Series 2002-1
+Certificates. The Series 2002-1 Certificates are held and delivered in
+book-entry form through the facilities of The Depository Trust Company ( DTC ),
+a  clearing agency  registered pursuant to the provisions of Section 17A
+of the Securities Exchange Act of 1934, as amended. The definitive Series 2002-1
+Certificates are held by Cede   Co., the nominee of DTC.  
+
+The
+undivided interests in the Trust, other than those represented by the Series 
+2002-1 Certificates and the Series 2005-1 Collateral Certificate, are
+owned by the Transferor and the Servicer.  
+
+Item 6.                                                                Selected
+Financial Data.  
+
+Not
+applicable.  
+
+Item 7.                                                                Management s
+Discussion and Analysis of Financial Condition and Results of Operations.  
+
+Not
+applicable.  
+
+Item 7A.                                                       Quantitative
+and Qualitative Disclosures About Market Risk.  
+
+Not
+applicable.  
+
+Item 8.                                                                Financial
+Statements and Supplementary Data.  
+
+Not
+applicable.  
+
+4  
+
+Item 9.                                                                Changes
+in and Disagreements with Accountants on Accounting and Financial Disclosure.  
+
+None.  
+
+Item
+9A.                                                       Controls
+and Procedures.  
+
+Not
+applicable.  
+
+Item 9B.                                                       Other
+Information.  
+
+Not
+applicable.  
+
+PART III   
+
+Item 10.                                                         Directors
+and Executive Officers of the Registrant.  
+
+Not
+applicable.  
+
+Item 11.                                                         Executive
+Compensation.  
+
+Not
+applicable.  
+
+Item 12.                                                         Security
+Ownership of Certain Beneficial Owners and Management and Related Stockholder
+Matters.  
+
+Not applicable.  
+
+Item 13.                                                         Certain
+Relationships and Related Transactions.  
+
+Not
+applicable.  
+
+Item
+14.                                                         Principal
+Accountant Fees and Services.  
+
+Not
+applicable.  
+
+5  
+
+PART IV   
+
+Item 15.                                                         Exhibits
+and Financial Statement Schedules.  
+
+a.                                          The
+following documents are filed as part of this Report. 
+
+3.                                           Exhibits  
+
+31.1                              Certification. 
+
+99.1                              Annual
+Servicer s Certificate for the year ended December 31, 2005. 
+
+99.2                              Annual
+Certificateholders  Statement for the year ended December 31, 2005, Series 2002-1. 
+
+99.3                              Annual
+Collateral Certificateholders  Statement for the year ended December 31,
+2005, Series 2005-1. 
+
+99.4                              Report
+of Independent Registered Public Accounting Firm. 
+
+99.5                              Report
+of Management on Compliance. 
+
+6  
+
+SIGNATURES   
+
+Pursuant to the
+requirements of Section 13 or 15(d) of the Securities Exchange Act of
+1934, the registrant has duly caused this report to be signed on its behalf by
+the undersigned, thereunto duly authorized.  
+
+TARGET
+  RECEIVABLES CORPORATION  
+
+Dated: March 31,
+  2006  
+
+By:  
+
+/s/ Douglas A.
+  Scovanner  
+
+Douglas A.
+  Scovanner,  
+
+President and
+  Director  
+
+Pursuant to the
+requirements of the Securities Exchange Act of 1934, this report has been signed
+below by the following persons on behalf of Target Receivables Corporation and
+in the capacities and on the dates indicated.  
+
+Signature   
+
+Title   
+
+Date   
+
+/s/ Douglas A.
+  Scovanner  
+
+Douglas A.
+  Scovanner  
+
+President and
+  Director 
+  (Principal Accounting 
+  Officer)  
+
+March 31,
+  2006  
+
+/s/ Sara J. Ross  
+
+Sara J. Ross  
+
+Vice President,
+  Treasurer 
+  and Director (Principal 
+  Financial Officer)  
+
+March 31,
+  2006  
+
+/s/ Terrence J.
+  Scully  
+
+Terrence J.
+  Scully  
+
+Vice President
+  and Director  
+
+March 31,
+  2006  
+
+7  
+
+EXHIBIT INDEX   
+
+8  
+
+<EX-31.1>
+ 2
+ a06-2185_1ex31d1.htm
+ 302 CERTIFICATION
+
+Exhibit 31.1   
+
+CERTIFICATION   
+
+I, Terrence J. Scully, certify that:  
+
+1.     I have reviewed this annual
+report on Form 10-K, and all reports on Form 8-K containing distribution or
+servicing reports filed in respect of periods included in the year covered by
+this annual report, of Target Credit Card Master Trust;  
+
+2.     Based on my knowledge, the information in
+these reports, taken as a whole, does not contain any untrue statement of a
+material fact or omit to state a material fact necessary to make the statements
+made, in light of the circumstances under which such statements were made, not
+misleading as of the last day of the period covered by this annual report;   
+
+3.     Based on my knowledge, the
+distribution or servicing information required to be provided to the trustee by
+the servicer under the pooling and servicing, or similar, agreement, for
+inclusion in these reports is included in these reports;  
+
+4.     I am responsible for
+reviewing the activities performed by the servicer under the pooling and
+servicing, or similar, agreement and based upon my knowledge and the annual
+compliance review required under that agreement, and except as disclosed in the
+reports, the servicer has fulfilled its obligations under that agreement; and  
+
+5.     The reports disclose all
+significant deficiencies relating to the servicer s compliance with the minimum
+servicing standards based upon the report provided by an independent public
+accountant, after conducting a review in compliance with the Uniform Single
+Attestation Program for Mortgage Bankers or similar procedure, as set forth in
+the pooling and servicing, or similar, agreement, that is included in these
+reports.  
+
+Dated: March 31, 2006  
+
+By:  
+
+/s/ Terrence J. Scully  
+
+Terrence J. Scully,  
+
+Vice President and Director  
+
+Target Receivables Corporation  
+
+</EX-31.1>
+
+<EX-99.1>
+ 3
+ a06-2185_1ex99d1.htm
+ EXHIBIT 99
+
+Exhibit 99.1   
+
+ANNUAL SERVICER S CERTIFICATE   
+
+TARGET NATIONAL BANK   
+
+TARGET CREDIT CARD MASTER TRUST   
+
+The undersigned, a duly
+authorized representative of Target National Bank, as Servicer,    pursuant
+to the Amended and Restated Pooling and Servicing Agreement dated as of April
+28, 2000,  as supplemented by the Series 2002-1 Supplement, dated as of July 2,
+2002 and the Series 2005-1  Supplement, dated as of November 9, 2005 (as
+amended and supplemented from time to time, the   Agreement ),
+among Target Receivables Corporation, as Transferor, Target National Bank, as  Servicer,
+and Wells Fargo Bank, National Association, as Trustee, does hereby certify
+that: 
+
+1.             Target National Bank is, as of the
+date hereof, the Servicer under the Agreement.    Capitalized
+terms used in this Certificate have their respective meanings as set forth in
+the Agreement. 
+
+2.             The undersigned is a Servicing
+Officer who is duly authorized pursuant to the  Agreement
+to execute and deliver this certificate to the Trustee.  
+
+3.             A review of the activities of the
+Servicer during the fiscal year ended December 31, 2005,  and
+of its performance under the Agreement was conducted under my supervision.  
+
+4.             Based on such review, the Servicer
+has, to the best of my knowledge, performed in all  material
+respects its obligations under the Agreement throughout such year and no
+default in the    performance of such obligations has occurred
+or is continuing except as set forth in paragraph 5 below. 
+
+5.             The following is a description of
+each default in the performance of the Servicer s  obligations
+under the provisions of the Agreement known to me to have been made by the
+Servicer    during the fiscal year ended December 31,
+2005 which sets forth in detail (i) the nature of each default,  (ii)
+the action taken by the Servicer, if any, to remedy each such default and (iii)
+the current status of  each such default: None. 
+
+IN WITNESS WHEREOF, the
+undersigned has duly executed this Certificate as of the  31st
+day of March, 2006.  
+
+TARGET NATIONAL BANK,   
+
+as Servicer,   
+
+By:   
+
+/s/
+  Thomas A. Swanson  
+
+Name:
+  Thomas A. Swanson  
+
+Title:
+  Vice President   Cashier  
+
+</EX-99.1>
+
+<EX-99.2>
+ 4
+ a06-2185_1ex99d2.htm
+ EXHIBIT 99
+
+Exhibit 99.2   
+
+ANNUAL CERTIFICATEHOLDERS  STATEMENT   
+
+TARGET CREDIT CARD MASTER TRUST (SERIES 2002-1)   
+
+Pursuant to
+the Amended and Restated Pooling and Servicing Agreement, dated as of April 28,
+2000, as supplemented by the Series 2002-1 Supplement, dated as of July 2, 2002
+(as may be amended and supplemented from time to time, the  Agreement ) among
+Target National Bank, as Servicer, Target Receivables Corporation, as
+Transferor, and Wells Fargo Bank, National Association, as Trustee, the
+Servicer is required to prepare certain information annually regarding
+distributions to and the performance of the Trust during the Monthly Periods
+for the Calendar year. The information which is required to be prepared with respect
+to the performance of the Trust during the period January 1, 2005 through
+December 31, 2005 is set forth below. Certain information is based on the
+Transferor s fiscal year end, ending December 31, 2005. Certain information is
+presented on the basis of an original principal amount of $1,000 per Certificate.
+Certain other information is presented based on the aggregate amounts for the
+Trust as a whole.  
+
+(5)  
+
+Delinquent
+  Balances.   
+
+The
+  aggregate amount of outstanding balances in the Accounts which were 2 or more
+  monthly payments contractually delinquent as of the end of the day on
+  December 31, 2005:  
+
+TARGET
+  NATIONAL BANK,  
+
+as Servicer  
+
+By:  
+
+/s/
+  Thomas A. Swanson  
+
+Name:
+  Thomas A. Swanson  
+
+Title:
+  Vice President   Cashier  
+
+</EX-99.2>
+
+<EX-99.3>
+ 5
+ a06-2185_1ex99d3.htm
+ EXHIBIT 99
+
+Exhibit 99.3   
+
+ANNUAL COLLATERAL CERTIFICATEHOLDERS  STATEMENT   
+
+TARGET CREDIT CARD MASTER TRUST (SERIES 2005-1)   
+
+Pursuant to the Amended and
+Restated Pooling and Servicing Agreement dated as of April 28, 2000, as
+supplemented by the Series 2005-1 Supplement, dated as of November 9, 2005 (as
+may be amended and supplemented from time to time, the  Agreement ) among
+Target National Bank, as Servicer, Target Receivables Corporation, as
+Transferor, and Wells Fargo Bank, National Association, as Trustee, the Servicer
+is required to prepare certain information annually regarding distributions to
+and the performance of the Trust during the Monthly Periods for the Calendar
+year. The information which is required to be prepared with respect to the
+performance of the Trust during the period January 1, 2005 through December 31,
+2005 is set forth below. Certain information is based on the Transferor s
+fiscal year end, ending December 31, 2005. Certain information is presented on
+the basis of an original principal amount of $1,000 per Certificate. Certain
+other information is presented based on the aggregate amounts for the Trust as
+a whole.  
+
+(3)  
+
+Recoveries.   
+
+(a)  
+
+The aggregate amount of
+  Collections processed January 2, 2005 through December 31, 2005 that
+  constitute Recoveries on Defaulted Receivables which were allocated in
+  respect of the Series 2005-1 Collateral Certificates   
+
+$  
+
+2,470,240.91   
+
+(4)  
+
+Principal Receivables in
+  the Trust.   
+
+(a)  
+
+The aggregate amount of
+  Principal Receivables in the Trust as of the end of the day on December 31,
+  2005 (which reflects the Principal Receivables represented by the
+  Transferor s Interest in the Trust and by the Investor Certificates)   
+
+$  
+
+6,093,806,744.85   
+
+(b)  
+
+The amount of Principal
+  Receivables in the Trust represented by the Series 2005-1 Collateral
+  Certificates (the  Invested Amount ) as of the end of the day on December 31,
+  2005  
+
+$  
+
+1,153,846,154.00   
+
+(c)  
+
+The Floating Allocation
+  Percentage (during the Revolving Period) or the Fixed/Floating Allocation
+  Percentage (during the Amortization Period) with respect to the Principal
+  Receivables in the Trust as of the end of the day December 31, 2005  
+
+20.97  
+
+%  
+
+(5)  
+
+Delinquent Balances.   
+
+The aggregate amount of
+  outstanding balances in the Accounts which were 2 or more monthly payments
+  contractually delinquent as of the end of the day on December 31, 2005:  
+
+(7)  
+
+Investor Charge Offs:
+  Reimbursement of Charge Offs.   
+
+(a)  
+
+The amount of the Investor
+  Charge Offs per $1,000 original principal amount (which will have the effect
+  of reducing, pro rata,  the amount of
+  Series 2005-1 Collateral Certificateholder s investment)   
+
+$  
+
+0   
+
+(b)  
+
+The total amount
+  reimbursed to the Trust from January 2, 2005 through December 31, 2005 in
+  respect of Investor Charge Offs in prior months  
+
+$  
+
+0   
+
+(c)  
+
+The amount set forth
+  immediately above per $1,000 original principal amount (which will have the
+  effect of increasing pro rata, the amount of each Series 2005-1 Collateral
+  Certificateholder s investment)  
+
+$  
+
+0   
+
+(8)  
+
+Investor Servicing Fee.   
+
+(a)  
+
+The amount of the Series
+  2005-1 Investor Monthly Servicing Fee payable by the Trust to the Servicer
+  from January 2, 2005 through December 31, 2005  
+
+$  
+
+670,319.61   
+
+(9)  
+
+The amount of Series
+  2005-1 Reallocated Principal Collections from January 2, 2005 through
+  December 31, 2005  
+
+$  
+
+0   
+
+(10)  
+
+The Pool Factor.   
+
+The Pool Factor (which
+  represents the ratio of the Series 2005-1 Adjusted Invested Amount as of the
+  end of the day on December 31, 2005 to the Invested Amount as of the Closing
+  Date). The Amount of a Series 2005-1 Class A Adjusted Invested Amount can be
+  determined by multiplying the original denomination of the Collateral
+  Certificate by the Series 2005-1 Class A Pool Factor  
+
+1.0  
+
+TARGET
+  NATIONAL BANK,  
+
+as
+  Servicer  
+
+By:  
+
+/s/
+  Thomas A. Swanson  
+
+Name:
+  Thomas A. Swanson  
+
+Title:
+  Vice President   Cashier  
+
+</EX-99.3>
+
+<EX-99.4>
+ 6
+ a06-2185_1ex99d4.htm
+ EXHIBIT 99
+
+Exhibit 99.4   
+
+Report of Independent Registered Public Accounting Firm  
+
+Target National Bank  
+
+  Its Officers and Directors  
+
+  As Servicer  
+
+We have examined management s
+assertion in the accompanying report, Report of Management on Compliance, dated
+February 15, 2006, that Target National Bank (the Bank), as Servicer, complied
+in all material respects with the administration and servicing requirements of
+Article III, Article IV, and Section 8.8 of the Amended and Restated Pooling
+and Servicing Agreement, dated April 28, 2000, and the applicable provisions of
+the Series 2002-1 Supplement, dated July 2, 2002, and the Series 2005-1
+Supplement, dated November 9, 2005, to the Target Credit Card Master Trust, as
+set forth in Exhibit A to the accompanying Report of Management on Compliance
+as of December 31, 2005, and for the fiscal year then ended. The Bank s
+management is responsible for the Bank s compliance with those requirements.
+Our responsibility is to express an opinion on management s assertion based on
+our examination.  
+
+Our examination was conducted
+in accordance with attestation standards established by the Public Company
+Accounting Oversight Board (United States) and, accordingly, included
+examining, on a test basis, evidence about the Bank s compliance with those
+requirements and performing such other procedures as we considered necessary in
+the circumstances. We believe that our examination provides a reasonable basis
+for our opinion. Our examination does not provide a legal determination on the
+Bank s compliance with specified requirements.  
+
+In our opinion, management s
+assertion that the Bank complied with the aforementioned requirements as of and
+for the year ended December 31, 2005, is fairly stated, in all material
+respects.  
+
+February 15, 2006  
+
+A Member
+  Practice of Ernst   Young Global  
+
+</EX-99.4>
+
+<EX-99.5>
+ 7
+ a06-2185_1ex99d5.htm
+ EXHIBIT 99
+
+Exhibit 99.5   
+
+Report
+of Management on Compliance  
+
+February 15,
+2006   
+
+We, as members of management of Target National Bank, as servicer, are
+responsible for complying with the administration and servicing requirements of
+Article III, Article IV and Section 8.8 of the Amended and
+Restated Pooling and Servicing Agreement, dated April 28, 2000   (as may be
+amended and supplemented from time to time, the  Pooling and Servicing Agreement ) and the applicable
+provisions of the Series 2002-1 Supplement, dated July 2, 2002, and
+the Series 2005-1 Supplement, dated November 9, 2005 (together, the  Supplements ) to the Target Credit Card Master Trust as
+set forth in Exhibit A. We also are responsible for establishing and
+maintaining effective internal control over compliance with the administration
+and servicing requirements of Article III, Article IV and Section 8.8
+of the Pooling and Servicing Agreement and the applicable provisions of the
+Supplements, as set forth in Exhibit A. We have performed an evaluation of
+Target National Bank s compliance with the requirements of the administration
+and servicing requirements of Article III, Article IV and Section 8.8
+of the Pooling and Servicing Agreement and the applicable provisions of the
+Supplements as set forth in Exhibit A, as of December 31, 2005 and
+for the fiscal year then ended. Based on this evaluation, we assert that as of
+and for the fiscal year ended December 31, 2005, Target National Bank
+complied, in all material respects, with the administration and servicing requirements
+of Article III, Article IV and Section 8.8 of the Pooling and
+Servicing Agreement and the applicable provisions of the Supplements, as set
+forth in Exhibit A.  
+
+Very truly yours,  
+
+/s/ Terrence J. Scully  
+
+Terrence J. Scully  
+
+President, Target National Bank  
+
+/s/ Thomas A. Swanson  
+
+Thomas A. Swanson  
+
+Vice President and Cashier,  
+
+Target National Bank  
+
+1  
+
+Exhibit A   
+
+Servicing Standards   
+
+Management of the Bank identified the following standards which are, in
+management s opinion, applicable to servicing credit card receivables and
+consistent with the applicable provisions of Article III, Article IV
+and Section 8.8 of the Amended and Restated Pooling and Servicing
+Agreement, dated April 28, 2000 (as may be amended and supplemented
+from time to time, the  Agreement ), as supplemented by the Series 2002-1
+Supplement, dated July 2, 2002, and the Series 2005-1 Supplement,
+dated November 9, 2005, to the Target Credit Card Master Trust (together,
+the  Supplements ).  
+
+I.                                              Finance
+Charges  
+
+1.                  Finance charges are
+calculated in accordance with the applicable cardholder agreements based on
+cardholder average daily balances. 
+
+2.     Finance charges are accurately reflected on the customers 
+monthly billing statements.  
+
+II.                                          Investor
+Accounting and Reporting  
+
+1.                  The monthly
+certificateholders  statements are prepared and sent to investors or trustees
+on a monthly basis. 
+
+2.                  The annual and
+monthly certificateholders  statements shall reconcile to the servicers 
+accounting records. 
+
+3.                  The annual and
+monthly certificateholders  statements are mathematically accurate and are
+prepared in accordance with the applicable provisions of the Agreement and the
+Supplements. 
+
+2  
+
+III.                                      Accounting  
+
+1.                  The servicing
+entity s records of individual credit card receivable balances shall agree
+with, or reconcile to, the records of debtors with respect to the unpaid
+principal balance. 
+
+IV.                                     Write-Offs  
+
+1.                  Write-offs of
+cardholder balances shall be completed within the applicable Office of the
+Comptroller of the Currency regulations and accounting principles generally
+accepted in the United States. 
+
+3  
+
+</EX-99.5>
+

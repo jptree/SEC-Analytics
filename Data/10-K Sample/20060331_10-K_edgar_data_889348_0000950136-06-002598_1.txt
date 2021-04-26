@@ -1,0 +1,3390 @@
+<Header>
+<FileStats>
+    <FileName>20060331_10-K_edgar_data_889348_0000950136-06-002598_1.txt</FileName>
+    <GrossFileSize>1679955</GrossFileSize>
+    <NetFileSize>121601</NetFileSize>
+    <NonText_DocumentType_Chars>621</NonText_DocumentType_Chars>
+    <HTML_Chars>1412796</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>48</N_Tables>
+    <N_Exhibits>6</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000950136-06-002598.hdr.sgml : 20060331
+<ACCEPTANCE-DATETIME>20060331152221
+ACCESSION NUMBER:		0000950136-06-002598
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		10
+CONFORMED PERIOD OF REPORT:	20051231
+FILED AS OF DATE:		20060331
+DATE AS OF CHANGE:		20060331
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CPI AEROSTRUCTURES INC
+		CENTRAL INDEX KEY:			0000889348
+		STANDARD INDUSTRIAL CLASSIFICATION:	AIRCRAFT PART & AUXILIARY EQUIPMENT, NEC [3728]
+		IRS NUMBER:				112520310
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11398
+		FILM NUMBER:		06728437
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200A EXECUTIVE DR
+		CITY:			EDGEWOOD
+		STATE:			NY
+		ZIP:			11717
+		BUSINESS PHONE:		5165865200
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ CgVxNvO+a7PTc0BpN+vFMB+5JmhqLI2lZ1z9Nw/WWAcVBiQMoG9rgINUuBATLQom
+ tk5xpKKkyRd3SyxnI2/GCA==
+
+ 0000950136-06-002598.txt : 20060331
+
+10-K
+ 1
+ file001.htm
+ FORM 10-K
+
+United
+States SECURITIES AND EXCHANGE COMMISSION  Washington, D.C.
+20549 
+ Form 10-K 
+ ANNUAL REPORT
+PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF
+1934 
+ For the fiscal year ended December 31,
+2005 
+ Commission file number
+1-11398 
+ CPI AEROSTRUCTURES, INC. 
+ (Exact name of registrant as specified in its
+charter) 
+
+New
+York  
+   
+  11-2520310  
+
+(State or
+other jurisdiction of incorporation or
+organization)  
+   
+  (I.R.S. Employer Identification
+No.)  
+
+60 Heartland Blvd., Edgewood, New York
+11717 
+ (Address of principal executive
+offices) 
+ (631)
+586-5200 
+ (Registrant s telephone
+number, including area code) 
+ Securities registered
+pursuant to Section 12(b) of the Act: 
+
+Title
+of Each Class  
+   
+  Name of each exchange on which
+registered  
+
+Common
+Stock, $.001 par value  
+   
+  American Stock Exchange,
+Inc.  
+
+Securities registered pursuant to
+Section 12(g) of the Act: None 
+ Indicate
+by check mark if the registrant is a well-known seasoned issuer, as
+defined in Rule 405 of the Securities Act. 
+ Yes   No   
+ Indicate
+by check mark if the registrant is not required to file reports
+pursuant to Section 13 or Section 15(d) of the Act. 
+ Yes   No   
+ Indicate
+by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities
+Exchange Act of 1934 during the preceding 12 months, and (2) has
+been subject to such filing requirements for the past 90 days. 
+ Yes   No   
+ Indicate by check mark if the disclosure of
+delinquent filers pursuant to Item 405 of Regulation S-K is not
+contained herein, and will not be contained, to the best of
+registrant s knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or
+any amendment to this Form
+10-K.    
+ Indicate by check
+mark whether the registrant is a large accelerated filer, an
+accelerated filer, or a non-accelerated filer. See definition of
+  accelerated filer   and
+  large accelerated filer   in Rule 12b-2
+of the Exchange Act (check one). 
+ Large
+accelerated filer    Accelerated
+filer    Non-accelerated
+filer    
+ Indicate by check
+mark whether the registrant is a shell company (as defined in Rule
+12-b2 of the Exchange Act). 
+ Yes   No   
+ As of June  30,  2005 (the last business
+day of the registrant s most recently completed second fiscal
+quarter), the aggregate market value of the registrant s common
+stock (based on its reported last sale price on the American Stock
+Exchange of $9.00) held by non-affiliates of the registrant was
+$38,305,917. 
+ As of March  24,  2006,
+the registrant had 5,447,042 common shares, $.001 par value,
+outstanding. 
+
+CPI
+AEROSTRUCTURES, INC. 
+ 
+ FORM 10-K ANNUAL
+REPORT-2005 
+ 
+ TABLE OF
+CONTENTS 
+
+PART
+I  
+   
+  1  
+
+Item
+1.  
+   
+  Description
+of Business  
+   
+  1  
+
+Item 1A.  
+   
+  Risk
+Factors  
+   
+  7  
+
+Item
+1B.  
+   
+  Unresolved staff
+comments  
+   
+  9  
+
+Item
+2.  
+   
+  Description of
+Properties  
+   
+  9  
+
+Item 3.  
+   
+  Legal
+Proceedings  
+   
+  9  
+
+Item
+4.  
+   
+  Submission of Matters to a Vote of Security
+Holders  
+   
+  9  
+
+PART
+II  
+   
+  10  
+
+Item 5.  
+   
+  Market for
+Common Equity, Related Stockholder Matters and Issuer Purchases of
+Equity Securities  
+   
+  10  
+
+Item
+6.  
+   
+  Selected Financial
+Data  
+   
+  11  
+
+Item
+7.  
+   
+  Management s Discussion and Analysis of Financial
+Condition and Results of
+Operations  
+   
+  12  
+
+Item
+7A.  
+   
+  Quantitative and Qualitative Disclosures About Market
+Risk  
+   
+  15  
+
+Item 8.  
+   
+  Financial
+Statements and Supplementary
+Data  
+   
+  15  
+
+Item 9.  
+   
+  Changes in
+and Disagreements with Accountants on Accounting and Financial
+Disclosure  
+   
+  15  
+
+Item
+9A.  
+   
+  Controls and
+Procedures  
+   
+  15  
+
+Item
+9B.  
+   
+  Other
+Information  
+   
+  16  
+
+PART
+III  
+   
+  17  
+
+Item 10.  
+   
+  Directors
+and Executive Officers of the
+Registrant  
+   
+  17  
+
+Item
+11.  
+   
+  Executive
+Compensation  
+   
+  19  
+
+Item
+12.  
+   
+  Security Ownership of Certain Beneficial Owners and
+Management  
+   
+  23  
+
+Item
+13.  
+   
+  Certain Relationships and Related
+Transactions  
+   
+  25  
+
+Item
+14.  
+   
+  Principal Accountant Fees and
+Services  
+   
+  25  
+
+PART
+IV  
+   
+  26  
+
+Item 15.  
+   
+  Exhibits and
+Financial Statement
+Schedules  
+   
+  26  
+
+Signatures Exhibits 
+
+PART
+I 
+ Item 1.     DESCRIPTION OF
+BUSINESS 
+ Introduction 
+ CPI Aerostructures, Inc.
+(  CPI Aero   or the
+  Company  ) is engaged in the contract
+production of structural aircraft parts principally for the United
+States Air Force and other branches of the U.S. armed forces. We also
+provide aircraft parts to the commercial sector of the aircraft
+industry but we are not currently pursuing new business in this sector.
+Our strategy for growth includes de-emphasizing our commercial
+operations and concentrating on government and military sales.
+96% of our revenues for 2005, 99% of our revenues for
+2004 and 98% of our revenues for 2003 were derived from
+government contract sales. 
+ We operate as a prime contractor
+supplying structural aircraft parts under prime contracts with the U.S.
+Government. In that capacity, we deliver skin panels, leading edges,
+flight control surfaces, engine components, wing tips, cowl doors,
+nacelle assemblies and inlet assemblies for military aircraft such as
+the C-5A   Galaxy   cargo jet, the T-38
+  Talon   jet trainer, the C-130
+  Hercules   cargo jet, the A-10
+  Thunderbolt   or
+  Warthog   attack jet and the E-3
+  Sentry   AWACS jet. We also operate as a
+subcontractor to leading aerospace prime contractors such as Northrop
+Grumman Corporation, Lockheed Martin Corporation and Vought Aircraft
+Industries, Inc. This is a field of opportunity that has opened up to
+us over the past two years. As a subcontractor, we deliver pod
+assemblies and bonded assemblies as well as perform small bench
+assembly work. We also supply commercial aircraft products including
+aprons and engine mounts, which attach jet engine housings to aircraft
+such as the Lear 60 and Astra Galaxy business jets. Our products are
+sub-assemblies, a series of parts fixed together to form a larger unit
+that will comprise a part of a complex aerodynamic structure. In
+conjunction with our assembly operations, we provide engineering,
+technical and program management services to our customers. 
+ CPI
+has 25 years of experience as a contractor, completing over 2,100
+contracts to date. Most members of our management team have held
+management positions at large defense contractors, including Northrop
+Grumman Corporation, Lockheed Martin Corporation and The Fairchild
+Corporation. Our technical team possesses extensive technical expertise
+and program management and integration capabilities. Our competitive
+advantage lies in our ability to offer large contractor capabilities
+with the flexibility and responsiveness of a small company, while
+staying competitive in cost and delivering superior quality products.
+While the larger prime contractors compete for significant modification
+awards and subcontract components to other suppliers, they generally do
+not compete for awards for smaller modifications or spare and repair
+parts, even for planes for which they are the original manufacturer. We
+qualify as a small business because we have less than 1,000 employees,
+and this allows us to compete on military awards set aside for
+companies with this small business status. 
+ While historically the
+majority of our contracts have been valued below $200,000, we have
+competed for, and have been awarded, significantly larger contracts,
+including an estimated $61  million award for the T-38
+  Talon   jet trainer and an estimated
+$215  million award for the C-5 cargo plane. We intend to
+continue to bid on these larger contracts. We believe that our success
+with the T-38 and C-5 programs will allow us to compete more
+effectively for larger awards in the future. 
+ CPI was incorporated
+under the laws of the State of New York in January  1980 under
+the name Composite Products International, Inc. CPI changed its name to
+Consortium of Precision Industries, Inc. in April  1989 and to
+CPI Aerostructures, Inc. in July  1992. In January  2005,
+we began doing business under the name CPI Aero. 
+ Our principal
+office is located at 60 Heartland Blvd., Edgewood, New York 11717 and
+our telephone number is (631) 586-5200. 
+ 1 
+
+Discontinued Operations 
+ In 1997, in
+an effort to diversify our business, we acquired Kolar Machine, Inc., a
+manufacturer of precision machine parts for the electronics industry.
+As a result of the downturn in the electronic manufacturing sector, we
+terminated Kolar s operations in December  2001, closed
+its Ithaca New York, facility and liquidated most of its assets through
+an auction in February  2002. Due to our decision to close the
+Kolar facilities and liquidate its assets, Kolar s operations
+have been classified as
+  discontinued.   
+ Significant
+Contracts 
+ The ongoing maintenance of existing aircraft by the
+U.S. Air Force is the primary driver of our growth in both the number
+of contracts and the size of awards. Our contracts with the Air Force
+accounted for substantially all of our revenue for 2003, 2004 and 2005.
+In most cases, we supply structural aircraft parts for aircraft that
+are no longer being manufactured but continue to be used and need to be
+maintained. CPI Aero has been awarded contracts within these
+maintenance programs on the C-5A and T-38. The following table sets
+forth the current actual and estimated Department of Defense budgets
+for the government s fiscal years ended and ending
+September  30,  2005, 2006 and 2007: 
+ Department of
+Defense
+Budgets* 
+
+Source:
+Department of Defense (amounts in
+millions) 
+
+(1) Programs to procure spare
+parts. 
+
+(2) Programs for aircraft
+modification and upgrade. 
+
+The C-5A
+  Galaxy   cargo jet is one of the largest
+aircraft in the world and can carry a maximum cargo load of
+270,000  pounds. Lockheed delivered the first C-5A in 1970. The
+C-5A Galaxy carries fully equipped combat-ready military units to any
+point in the world on short notice and then provides field support to
+sustain the fighting force. The Air Force has created a comprehensive
+program to ensure the capabilities of its C-5A fleet until 2040. We are
+one of the leading suppliers of structural spare parts and assemblies
+for the C-5A aircraft. We assemble numerous C-5A parts, including
+panels, slats, spoilers and wing-tips and are the only supplier of C-5A
+wing-tips to the U.S. government. Like the C-5A itself, the wing-tip is
+a large structure and is expensive   costing up to $750,000 for
+each replacement piece. Our first C-5A contract was approximately
+$590,000 of structural spares and was awarded in 1995. In 2004, the Air
+Force awarded us a seven-year TOP contract to build an assortment of
+parts for the C-5A, including wing tips and panels. The TOP contract is
+the largest contract in our history, with a potential value of up to
+$215  million. Since 1995, we have received releases under
+contracts for C-5A parts aggregating approximately $79  million,
+including $11.8  million from the TOP contract. Future releases
+under the TOP contract are unpredictable. C-5A contracts accounted for
+approximately 25% of our revenues for 2005. 
+ The T-38
+  Talon   is a twin-engine, high-altitude,
+supersonic jet primarily used for pilot training that first flew in
+1959. More than 1,100 were delivered to the Air Force between 1961 and
+1972, when production ended. There are approximately 500 T-38 s
+in active service with the Air Force, which has a program designed to
+extend the structural life of the T-38 until 2020. In 2001, we were
+awarded a ten-year contract to build the structural inlets for the T-38
+Propulsion Modification Program. At the time, the T-38 contract was the
+largest in our history, worth an estimated $61  million over the
+life of the program. The length and size of this program allow us to
+develop a long-term backlog and establish ourselves as a successful
+prime contractor for larger and longer term programs. The T-38 contract
+accounted for 46% of our revenues for 2005. 
+ 2 
+
+The balance of our revenue is generated
+from various smaller contract awards on assorted aircraft, including
+the MH-60S helicopter and the E-3 AWACS jet. 
+ Sales and
+Marketing 
+ We obtain all of our military contracts for our
+products and services through the process of competitive bidding. While
+historically the majority of our contracts have been valued below
+$200,000, we successfully have competed for and have been awarded
+significantly larger contracts. Our average sales cycle, which
+generally commences at the time a prospective customer issues a request
+for proposal and ends upon delivery of the final product to the
+customer, typically ranges from six to 18 months. Our military
+customers have included Defense Supply Center Richmond,
+Wright-Patterson Air Force Base (AFB), Warner Robins AFB, Tinker AFB,
+NAVICP, Hill AFB, U.S. Army and Redstone. Our commercial customers have
+included Boeing, B.F. Goodrich (Rohr), Northrop Grumman, Lockheed
+Martin, Nordam, Shinmaywa and Derco. 
+ We use third party service
+providers to help locate small government contracts that are regularly
+posted by the various defense logistic agencies. The service providers
+screen contracts according to criteria we establish and forward
+matching contracts to us. We then view the relevant contracts directly
+on government websites and select contracts on which we will bid based
+on how well they fit our core competency. As of March  24,
+2006, we had over $350  million in bids outstanding, and we
+continue to make bids on contracts on a weekly basis. We generally bid
+on 40 to 50 contracts per week. Over the past three years, we have been
+awarded approximately 13% of the contracts on which we have
+bid. 
+ We qualify for small business status because we have fewer
+than 1,000 employees. The military s fiscal year 2005 program
+goals were 23% for small business prime contracting and
+43% for subcontracting. During 2005, approximately 50% of
+the value of our current contracts were awarded to us under this
+program. 
+ The U.S. Air Force operates three Air Logistics Centers
+(ALC) through which it purchases all structural replacement and
+modification parts. Each ALC is located on a domestic Air Force base
+and is responsible for the repair and modification of different
+aircraft. Parts worn out in the normal course of operation and
+discarded instead of repaired are ordered through the centralized
+Defense Supply Center Richmond (DSCR). We use on-site consultants at
+each ALC and the DSCR to help in the procurement process. These
+consultants are important as relationship managers and typically have
+previous experience on the procurement side. The consultants provide us
+with timely feedback and keep us apprised of large contracts that might
+be up for bidding. Additionally, we currently have agreements with six
+sales representatives to market our products to a broader base of
+customers. 
+ The Market 
+ The majority of our parts are sold
+for use by the U.S. Air Force. Accordingly, the national defense budget
+and procurement funding decisions drive demand for our business. The
+U.S. Department of Defense (DoD) budget has been increasing over the
+past few years. Government spending requirements for procurement,
+operations and maintenance for 2006 and beyond will continue to be
+affected by the global war on terrorism through the continued need for
+military missions and reconstruction efforts in Iraq and Afghanistan
+and the related fiscal consequences of war. We expect that DoD spending
+will grow with the overall level of defense spending and we expect to
+benefit to the extent that such spending is allocated to aircraft
+modification programs and spending on spare and repair parts. 
+ The
+DoD recently completed the Congressionally mandated 2006 Quadrennial
+Defense Review (QDR). The QDR affirms the DoD s prior commitment
+to its prior extensive investments in cargo transportability and
+strategic lift and for maintaining and enhancing this capability by
+recapitalizing and modernizing its mobility platforms, including the
+acquisition and modernization of C-5 aircraft, one of our major
+programs. 
+ Notwithstanding defense budget increases and the
+DoD s commitment to maintaining support for aging aircraft,
+there has been a significant slowdown in government contract awards as
+well as releases  
+ 3 
+
+under previously awarded contracts. Faced with
+the uncertainties of appropriations and timing of contract awards and
+releases under previously awarded contracts, which we believe have been
+driven by the uncertainties of war and market and economic trends, we
+have expanded our activities to include operating as a subcontractor to
+leading aerospace prime contractors. While the slowdown in government
+contract awards also has affected these prime contractors, because they
+are able to bid on and receive contract awards for different programs
+than we are, we believe that pursuing such opportunities will enable us
+to access programs that we would not otherwise be able to given our
+smaller size and resources. By increasing our customer base, we are
+positioned to take advantage of additional market opportunities and
+reduce the impact of the slowdown in government contract awards and
+releases. These subcontracting opportunities have begun to materialize,
+and we have been awarded some initial subcontracts. We currently have
+proposals submitted to multiple prime contractors, and while we cannot
+predict the timing of awards, some of our outstanding proposals are so
+significant in size that any single award could increase our revenue
+and net income substantially 
+ Backlog 
+ We produce custom
+assemblies pursuant to long-term contracts and customer purchase
+orders. Backlog consists of aggregate values under such contracts and
+purchase orders, excluding the portion previously included in operating
+revenues on the basis of percentage of completion accounting, and
+including estimates of future contract price escalation. Substantially
+all of our backlog is subject to termination at will and rescheduling,
+without significant penalty. Congress often appropriates funds for a
+particular program or contract on a yearly or quarterly basis, even
+though the contract may call for performance that is expected to take a
+number of years. Therefore, our funded backlog does not include the
+full value of our contracts. Our backlog as of December
+31,  2004 and December  31,  2005, was as
+follows: 
+
+Of
+the total amount of our backlog at December  31,  2005,
+approximately 99.4% was attributable to government contracts.
+Approximately $18.6  million (91%) of the funded backlog
+at December  31,  2005 is expected to be recognized as
+revenue during 2006. 
+ Although our new contract awards decreased
+to $16.6  million in 2005, the government has continued to
+request quotes and our bidding activity and win rate remains at their
+approximate historical levels, we are currently experiencing a
+significant slowdown of government procurement. Our reduced backlog is
+reflective of this general slowdown in overall government
+ordering. 
+ Material and Parts 
+ We subcontract production of
+substantially all component parts incorporated into our products to
+third party manufacturers under firm fixed price orders. Our decision
+to purchase certain components generally is based upon whether the
+components are available to meet required specifications at a cost and
+delivery consistent with customer requirements. From time to time, we
+are required to purchase custom made parts from sole suppliers and
+manufacturers in order to meet specific customer requirements. To date,
+we have not experienced material delays in connection with obtaining
+custom parts and we believe that the loss of any single supplier or
+manufacturer would not have a material adverse effect on our
+business. 
+ We obtain our raw materials from several commercial
+sources. Although certain items are only available from limited sources
+of supply, we believe that the loss of any single supplier would not
+have a material adverse effect on our
+business. 
+ Competition 
+ The markets for our products are
+highly competitive. We compete with numerous larger, well-established
+prime contractors engaged in the supply of aircraft parts and
+assemblies to the  
+ 4 
+
+military, including Northrop Grumman
+Corporation, Lockheed Martin Corporation, The Boeing Company, The
+Nordam Group and Vought Aircraft Industries, Inc. All of these
+competitors possess significantly larger infrastructures, greater
+resources and the capabilities to respond to much larger contracts. In
+certain instances, we also may act as a subcontractor to some of these
+major prime contractors. We also compete against smaller contractors
+such as Aerocomponents, Aerospace Engineering and Support, GSE
+Dynamics, Honeycomb Company of America, Alton Iron Works, B B
+Devices and Precision Manufacturing. 
+ We believe that our
+competitive advantage lies in our ability to offer large contractor
+capabilities with the flexibility and responsiveness of a small
+company, while staying competitive in cost and delivering superior
+quality products. While the larger prime contractors compete for
+significant modification awards and subcontract components to other
+suppliers, they generally do not compete for awards in smaller
+modifications, spares and replacement parts, even for planes for which
+they are the original manufacturer. We believe we compete effectively
+against the smaller competitors because our smaller competitors
+generally do not have the expertise we have in responding to requests
+for proposals for government contracts. 
+ Government
+Regulation 
+ Environmental Regulation 
+ We are subject to
+regulations administered by the United States Environmental Protection
+Agency, the Occupational Safety and Health Administration, various
+state agencies and county and local authorities acting in cooperation
+with federal and state authorities. Among other things, these
+regulatory bodies impose restrictions to control air, soil and water
+pollution, to protect against occupational exposure to chemicals,
+including health and safety risks, and to require notification or
+reporting of the storage, use and release of certain hazardous
+chemicals and substances. The extensive regulatory framework imposes
+compliance burdens and risks on us. Governmental authorities have the
+power to enforce compliance with these regulations and to obtain
+injunctions or impose civil and criminal fines in the case of
+violations. 
+ The Comprehensive Environmental Response,
+Compensation and Liability Act of 1980 (CERCLA) imposes strict, joint
+and several liability on the present and former owners and operators of
+facilities that release hazardous substances into the environment. The
+Resource Conservation and Recovery Act of 1976 (RCRA) regulates the
+generation, transportation, treatment, storage and disposal of
+hazardous waste. In New York, the handling, storage and disposal of
+hazardous substances are governed by the Environmental Conservation
+Law, which contains the New York counterparts of CERCLA and RCRA. In
+addition, the Occupational Safety and Health Act, which requires
+employers to provide a place of employment that is free from recognized
+and preventable hazards that are likely to cause serious physical harm
+to employees, obligates employers to provide notice to employees
+regarding the presence of hazardous chemicals and to train employees in
+the use of such substances. 
+ Our operations require the use of a
+limited amount of chemicals and other materials for painting and
+cleaning, including solvents and thinners, which are classified under
+applicable laws as hazardous chemicals and substances. We have obtained
+a permit from the Town of Islip, New York, Building Division in order
+to maintain a paint booth containing flammable liquids. 
+ Federal
+Aviation Administration Regulation 
+ We are subject to regulation
+by the Federal Aviation Administration (FAA) under the provisions of
+the Federal Aviation Act of 1958, as amended. The FAA prescribes
+standards and licensing requirements for aircraft and aircraft
+components. We are subject to inspections by the FAA and may be
+subjected to fines and other penalties (including orders to cease
+production) for noncompliance with FAA regulations. Our failure to
+comply with applicable regulations could result in the termination of
+or our disqualification from some of our contracts, which could have a
+material adverse effect on our operations. 
+ 5 
+
+Government Contract Compliance 
+ Our
+government contracts are subject to the procurement rules and
+regulations of the United States government. Many of the contract terms
+are dictated by these rules and regulations. Specifically, cost-based
+pricing is determined under the Federal Acquisition Regulations (FAR),
+which provide guidance on the types of costs that are allowable in
+establishing prices for goods and services under U.S. Government
+contracts. For example, costs such as those related to charitable
+contributions, advertising, interest expense, and public relations are
+unallowable, and therefore not recoverable through sales. During and
+after the fulfillment of a government contract, we may be audited in
+respect of the direct and allocated indirect costs attributed thereto.
+These audits may result in adjustments to our contract costs.
+Additionally, we may be subject to U.S. government inquiries and
+investigations because of our participation in government procurement.
+Any inquiry or investigation can result in fines or limitations on our
+ability to continue to bid for government contracts and fulfill
+existing contracts. 
+ We believe that we are in substantial
+compliance with all federal, state and local laws and regulations
+governing our operations and have obtained all material licenses and
+permits required for the operation of our
+business. 
+ Insurance 
+ We maintain a $2  million
+general liability insurance policy, a $10  million products
+liability insurance policy, and a $5  million umbrella liability
+insurance policy. Additionally, we maintain a $5  million
+director and officers  insurance policy. We believe this
+coverage is adequate for the types of products presently marketed
+because of the strict inspection standards imposed on us by our
+customers before they take possession of our products. Additionally,
+the Federal Acquisition Regulations generally provide that we will not
+be held liable for any loss of or damage to property of the government
+that occurs after the government accepts delivery of our products and
+that results from any defects or deficiencies in our products unless
+the liability results from willful misconduct or lack of good faith on
+the part of our managerial personnel. 
+ Proprietary
+Information 
+ None of our current assembly processes or products
+is protected by patents. We rely on proprietary know-how and
+confidential information and employ various methods to protect the
+processes, concepts, ideas and documentation associated with our
+products. These methods, however, may not afford complete protection
+and there can be no assurance that others will not independently
+develop such processes, concepts, ideas and documentation. 
+ Employees 
+ As of March  24,  2006, CPI Aero had
+72 full-time employees. We employ temporary personnel with specialized
+disciplines on an as-needed basis. None of our employees is a member of
+a union. We believe that our relations with our employees are
+good. 
+ 6 
+
+Item 1A.     RISK FACTORS 
+ You
+should consider the following risks carefully in evaluating us and our
+business before making an investment decision. The risks described
+below are not the only risks we face. Additional risks may also impair
+our business operations. If any of the following risks occur, our
+business, results of operations or financial condition could be
+materially adversely affected. If that happens, the trading price of
+our common shares could decline, and you may lose all or part of your
+investment. 
+ 
+ Risks related to our business 
+ 
+ We
+depend on government contracts for most of our revenues. 
+ We are
+a supplier, either directly or as a subcontractor, to the U.S.
+government and its agencies, principally the U.S. Air Force. 96%
+of revenue for 2005, 99% of revenue for 2004 and 98% of
+our revenue for 2003 were derived from government contract sales. Two
+of our contracts, for the T-38   Talon  
+and the C-5, accounted for 46% and 25% of our revenue for
+2005, respectively. We depend on these government contracts for most of
+our business. If we are suspended or barred from contracting with the
+U.S. government, if our reputation or relationship with individual
+federal agencies were impaired, or if the government otherwise ceased
+doing business with us or significantly decreased the amount of
+business it does with us, our business, prospects, financial condition
+and operating results would be materially adversely affected. 
+ We
+face risks relating to government contracts. 
+ There are inherent
+risks in contracting with the U.S. government, including risks that are
+peculiar to the defense industry, which could have a material adverse
+effect on our business, prospects, financial condition and operating
+results. All contracts with the U.S. government contain provisions and
+are subject to laws and regulations that give the government rights and
+remedies not typically found in commercial contracts, including rights
+that allow the government to: 
+
+terminate
+contracts for convenience in whole or in part at any
+time; 
+
+reduce or modify contracts or
+subcontracts if its requirements or budgetary constraints
+change; 
+
+cancel multi-year contracts and
+related orders if funds for contract performance for any subsequent
+year become unavailable; 
+
+adjust
+contract costs and fees on the basis of audits completed by its
+agencies; 
+
+claim rights in products and
+systems produced by us; 
+
+suspend or bar
+us from doing business with U.S. government;
+and 
+
+control or prohibit the export of
+our products. 
+
+If the U.S. government terminates a contract for
+convenience, we may recover only our incurred or committed costs,
+settlement expenses and profit on work completed prior to the
+termination. If the government terminates a contract for default, we
+may not recover even those amounts, and instead may be liable for
+excess costs incurred by the government in procuring undelivered items
+and services from another source. 
+ 
+ We have risks
+associated with competing in the bidding process for U.S. government
+contracts. 
+ 
+ We obtain many of our U.S. government contracts
+through a competitive bidding process. In the bidding process, we face
+the following risks: 
+
+We must bid on
+programs in advance of their completion, which may result in unforeseen
+technological difficulties or cost
+overruns; 
+
+We must devote substantial
+time and effort to prepare bids and proposals for competitively awarded
+contracts that may not be awarded to us; and 
+
+7 
+
+Awarded contracts
+may not generate sales sufficient to result in profitability. 
+
+We are subject to strict governmental regulations relating to the
+environment, which could result in fines and remediation expense in the
+event of non-compliance. 
+ We are required to comply with
+extensive and frequently changing environmental regulations at the
+federal, state and local levels. Among other things, these regulatory
+bodies impose restrictions to control air, soil and water pollution, to
+protect against occupational exposure to chemicals, including health
+and safety risks, and to require notification or reporting of the
+storage, use and release of certain hazardous substances into the
+environment. This extensive regulatory framework imposes significant
+compliance burdens and risks on us. In addition, these regulations may
+impose liability for the cost of removal or remediation of certain
+hazardous substances released on or in our facilities without regard to
+whether we knew of, or caused, the release of such substances.
+Furthermore, we are required to provide a place of employment that is
+free from recognized and preventable hazards that are likely to cause
+serious physical harm to employees, provide notice to employees
+regarding the presence of hazardous chemicals and to train employees in
+the use of such substances. Our operations require the use of a limited
+amount of chemicals and other materials for painting and cleaning that
+are classified under applicable laws as hazardous chemicals and
+substances. If we are found not to be in compliance with any of these
+rules, regulations or permits, we may be subject to fines, remediation
+expenses and the obligation to change our business practice, any of
+which could result in substantial costs that would adversely impact our
+business operations and financial condition. 
+ We may be subject
+to fines and disqualification for non-compliance with Federal Aviation
+Administration regulations. 
+ We are subject to regulation by the
+Federal Aviation Administration under the provisions of the Federal
+Aviation Act of 1958, as amended. The FAA prescribes standards and
+licensing requirements for aircraft and aircraft components. We are
+subject to inspections by the FAA and may be subjected to fines and
+other penalties (including orders to cease production) for
+noncompliance with FAA regulations. Our failure to comply with
+applicable regulations could result in the termination of or our
+disqualification from some of our contracts, which could have a
+material adverse effect on our operations. 
+ If our subcontractors
+or suppliers fail to perform their contractual obligations, our prime
+contract performance and our ability to obtain future business could be
+materially and adversely impacted. 
+ Many of our contracts involve
+subcontracts with other companies upon which we rely to perform a
+portion of the services that we must provide to our customers. There is
+a risk that we may have disputes with our subcontractors, including
+disputes regarding the quality and timeliness of work performed by the
+subcontractor, customer concerns about the subcontract, our failure to
+extend existing task orders or issue new task orders under a
+subcontract, or our hiring of personnel of a subcontractor. A failure
+by one or more of our subcontractors to satisfactorily provide on a
+timely basis the agreed-upon supplies or perform the agreed-upon
+services may materially and adversely impact our ability to perform our
+obligations as the prime contractor. Subcontractor performance
+deficiencies could result in a customer eliminating our ability to
+progress bill or terminating our contract for default. A prohibition on
+progress billing may have an adverse effect upon our profitability and
+a default termination could expose us to liability and have a material
+adverse effect on our ability to compete for future contracts and
+orders. In addition, a delay in our ability to obtain components and
+equipment parts from our suppliers may affect our ability to meet our
+customers  needs and may have an adverse effect upon our
+profitability. 
+ We utilize the percentage of completion method of
+accounting which involves considerable use of estimates in determining
+revenues, costs and profits and in assigning amounts to accounting
+periods. 
+ We recognize revenue from our contracts over the
+contractual period under the percentage-of-completion (POC) method of
+accounting. Under the POC method of accounting, sales and gross profit
+are recognized as work is performed based on the relationship between
+actual costs  
+ 8 
+
+incurred and total estimated costs at the
+completion of the contract. Recognized revenues that will not be billed
+under the terms of the contract until a later date are recorded as an
+asset captioned   Costs and estimated earnings in excess
+of billings on uncompleted contracts.   Contracts where
+billings to date have exceeded recognized revenues are recorded as a
+liability captioned   Billings in excess of costs and
+estimated earnings on uncompleted contracts.   Changes to
+the original estimates may be required during the life of the contract.
+Estimates are reviewed monthly and the effect of any change in the
+estimated gross margin percentage for a contract is reflected in cost
+of sales in the period the change becomes known. The use of the POC
+method of accounting involves considerable use of estimates in
+determining revenues, costs and profits and in assigning the amounts to
+accounting periods. As a result, there can be a significant disparity
+between earnings (both for accounting and taxes) as reported and actual
+cash received by us during any reporting period. We continually
+evaluate all of the issues related to the assumptions, risks and
+uncertainties inherent with the application of the POC method of
+accounting; however, we cannot assure you that our estimates will be
+accurate. If our estimates are not accurate or a contract is
+terminated, we will be forced to adjust revenue in later periods.
+Furthermore, even if our estimates are accurate, we may have a
+shortfall in our cash flow and we may need to borrow money to pay taxes
+until the reported earnings materialize to actual cash
+receipts. 
+ If the contracts associated with our backlog were
+terminated, our financial condition would be adversely
+affected. 
+ The maximum contract value specified under each
+government contract that we enter into is not necessarily indicative of
+the revenues that we will realize under that contract. Because we may
+not receive the full amount we expect under a contract, we may not
+accurately estimate our backlog because the actual accrual of revenues
+on programs included in backlog may never occur or may change.
+Cancellations of pending contracts or terminations or reductions of
+contracts in progress could have a material adverse effect on our
+business, prospects, financial condition or results of operations. As
+of December  31,  2005, our backlog was $50.5
+million, of which 44% was funded and 56% was
+unfunded. 
+ We may be unable to retain personnel who are key to
+our operations. 
+ Our success, among other things, is dependent on
+our ability to attract and retain highly qualified senior officers and
+engineers. Competition for key personnel is intense. Our ability to
+attract and retain senior officers and experienced, top rate engineers
+is dependent on a number of factors, including prevailing market
+conditions and compensation packages offered by companies competing for
+the same talent. The inability to hire and retain these persons may
+adversely affect our production operations and other aspects of our
+business. 
+ Item 1B.     UNRESOLVED STAFF COMMENTS 
+ Not
+Applicable 
+ Item 2. DESCRIPTION OF PROPERTY 
+ CPI
+Aerostructures  executive offices and production facilities are
+situated in an approximate 60,000 square foot building located at 60
+Heartland Blvd., Edgewood, New York 11717. CPI Aerostructures occupies
+this facility under a ten-year lease that commenced in January
+2005. The current monthly base rent is $32,703, plus real estate taxes.
+Our base rent increases at 3% per year through 2014. We believe
+that our facilities are adequate for our current needs. 
+ Item
+3. LEGAL PROCEEDINGS 
+ None 
+ Item
+4. SUBMISSION OF MATTERS TO A VOTE OF
+SECURITYHOLDERS 
+ None 
+ 9 
+
+PART
+II 
+
+Item 5.  
+ MARKET FOR COMMON EQUITY, RELATED
+STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY
+SECURITIES 
+
+Market Information 
+ Our common shares are
+listed on the American Stock Exchange under the symbol CVU. The
+following table sets forth for 2004 and 2005, the high and low sales
+prices of our common shares for the periods indicated, as reported by
+the American Stock
+Exchange. 
+
+On March
+24,  2006, the closing sale price for our common shares on the
+American Stock Exchange was $9.85. On March  24,  2006,
+there were 141 holders of record of our common shares and, we believe,
+over 2,200 beneficial owners of our common shares. 
+ Dividend
+Policy 
+ To date, we have not paid any dividends on our common
+shares. Any payment of dividends in the future is within the discretion
+of our board of directors and will depend on our earnings, if any, our
+capital requirements and financial condition and other relevant
+factors. Our board of directors does not intend to declare any cash or
+other dividends in the foreseeable future, but intends instead to
+retain earnings, if any, for use in our business
+operations. 
+ Recent Sales of Unregistered Securities, Use of
+Proceeds from Registered Securities 
+ We made the following sales
+of unregistered securities during the three months ended
+December  31,
+2005. 
+
+Date
+of Sale  
+   
+  Title of Security  
+   
+  Number 
+Sold  
+   
+  Consideration Received and Description
+of Underwriting or Other Discounts to Market Price Afforded
+to Purchasers  
+   
+  Exemption 
+from Registration Claimed  
+   
+  If Option, Warrant  or
+Convertible  Security, Terms  of Exercise
+or Conversion  
+
+12/6/05  
+   
+  Common
+Stock  
+   
+  1,975  
+   
+  Common Stock issued  under
+Performance  Equity Plan 2000    no cash
+consideration  received by the Company  
+   
+  4(2)  
+   
+  N/A  
+
+12/7/05  
+   
+  Common
+Stock  
+   
+  1,667  
+   
+  Common stock issued  upon exercise of
+options:  $10,452.09 cash consideration  received by the
+Company  
+   
+  4(2)  
+   
+  N/A  
+
+12/7/05  
+   
+  Common
+Stock  
+   
+  15,000  
+   
+  Common stock issued  upon exercise of
+options:  $95,250.00 cash consideration  received by the
+Company  
+   
+  4(2)  
+   
+  N/A  
+
+10 
+
+ITEM 6.  
+ SELECTED
+FINANCIAL
+DATA 
+
+11 
+
+Item
+7.  
+ MANAGEMENT S DISCUSSION AND ANALYSIS OF
+FINANCIAL CONDITION AND RESULTS OF OPERATIONS 
+
+Forward-Looking
+Statements 
+ When used in this Form 10-K and in future filings by
+us with the Commission, the words or phrases   will
+likely result,     management
+expects   or   we expect,  
+  will continue,     is
+anticipated,     estimated  
+or similar expressions are intended to identify
+  forward-looking statements   within the
+meaning of the Private Securities Litigation Reform Act of 1995.
+Readers are cautioned not to place undue reliance on any such
+forward-looking statements, each of which speaks only as of the date
+made. As such statements are subject to certain risks and uncertainties
+that could cause actual results to differ materially from historical
+earnings and those presently anticipated or projected. The risks are
+included in   Item 1A: Risk Factors   and
+  Item 7: Management s Discussion and Analysis of
+Financial Condition and Results of Operations   included
+in this Form 10-K. We have no obligation to publicly release the result
+of any revisions, which may be made to any forward-looking statements
+to reflect anticipated or unanticipated events or circumstances
+occurring after the date of such statements. 
+ You should read the
+financial information set forth below in conjunction with our financial
+statements and notes. Except as otherwise indicated, the following
+discussion does not include the results of operations of Kolar, Inc.,
+which have been reclassified as discontinued
+operations. 
+ Business Operations 
+ Our operations consist of
+the design and production of structural aircraft parts principally for
+the United States Air Force and other branches of the U.S. armed
+forces. We also provide aircraft parts to the commercial sector of the
+aircraft industry, but we are not currently pursuing business in this
+sector. 
+ We compete with other prime contractors to win contracts
+through a process of competitive bidding. Additionally, we bid on
+subcontract work to leading aerospace prime contractors. This is a
+field of opportunity that has opened up to us over the past two
+years. 
+ After winning a contract, the length of the contract
+varies but is typically between one and two years for U.S. government
+contracts (although our T-38 contract and our C-5 TOP contract are for
+periods of 10 years and 7 years, respectively), and up to 10 years for
+commercial contracts. Our one commercial contract has an indefinite
+life. Except in cases where contract terms permit us to bill on a
+progress basis, we must incur upfront costs in producing assemblies and
+bill our customers upon delivery. Because of the upfront costs
+incurred, the timing of our billings and the nature of the
+percentage-of-completion method of accounting described below, there
+can be a significant disparity between the periods in which (a) costs
+are expended, (b) revenue and earnings are recorded and (c) cash is
+received. 
+ Critical Accounting Policies 
+ Revenue
+Recognition 
+ We recognize revenue from our contracts over the
+contractual period under the percentage-of-completion (POC) method of
+accounting. Under the POC method of accounting, sales and gross profit
+are recognized as work is performed based on the relationship between
+actual costs incurred and total estimated costs at the completion of
+the contract. Recognized revenues that will not be billed under the
+terms of the contract until a later date are recorded as an asset
+captioned   Costs and estimated earnings in excess of
+billings on uncompleted contracts.   Contracts where
+billings to date have exceeded recognized revenues are recorded as a
+liability captioned   Billings in excess of costs and
+estimated earnings on uncompleted contracts.   Changes to
+the original estimates may be required during the life of the contract.
+Estimates are reviewed monthly and the effect of any change in the
+estimated gross margin percentage for a contract is reflected in cost
+of sales in the period the change becomes known. The use of the POC
+method of accounting involves considerable use of  
+ 12 
+
+estimates in determining revenues, costs and
+profits and in assigning the amounts to accounting periods. As a
+result, there can be a significant disparity between earnings (both for
+accounting and taxes) as reported and actual cash received by us during
+any reporting period. We continually evaluate all of the issues related
+to the assumptions, risks and uncertainties inherent with the
+application of the POC method of accounting; however, we cannot assure
+you that our estimates will be accurate. If our estimates are not
+accurate or a contract is terminated, we will be forced to adjust
+revenue in later periods. Furthermore, even if our estimates are
+accurate, we may have a shortfall in our cash flow and we may need to
+borrow money to pay taxes until the reported earnings materialize to
+actual cash receipts. 
+ In December  2004, the FASB issued
+SFAS No. 123(R) (revised 2004),   Share-Based
+Payment  , which amends FASB Statement No. 123 and was
+effective for public companies for interim or annual periods beginning
+after June  15,  2005. The new standard requires us to
+expense employee stock options and other share-based payments. We will
+value our stock option expense using the Black-Scholes options pricing
+model.   
+ Results of Operations 
+ Year Ended
+December  31,  2005 as Compared to the Year Ended
+December  31,  2004 
+ 
+ Revenue.  Our
+revenue for the year ended December  31,  2005 was
+$25,526,404 compared to $30,269,030 for 2004, representing a decrease
+of $4,742,626 or 16%. This decrease was due to fewer contracts
+in 2005 as compared to 2004 and a less favorable product
+mix. 
+ 
+ Gross profit.  Gross profit for the year ended
+December  31,  2005 was $6,013,013, compared to $10,295,799
+for 2004, a decrease of $4,282,786 or 42%. Gross profit as a
+percentage of revenue for the year ended December  31,
+2005 was 24% compared to 34% for December
+31,  2004. Gross profit percentage declined for a number of
+reasons, including rework costs related to a first article rejection,
+increased factory overhead related to our move to new, larger
+facilities and related utility and maintenance costs, and higher
+indirect labor costs. The increased level of factory overhead and
+indirect labor have been maintained in anticipation of releases on
+contracts, including the C-5 TOP contract, that we already have been
+awarded and the receipt of any additional awards on some of our major
+outstanding bids. If these events are not forthcoming, we plan on
+reassessing this position. 
+ 
+ Selling, general and
+administrative expenses.  Selling, general and administrative
+expenses for the year ended December  31,  2005 were
+$3,342,729, compared to $3,424,953 for 2004, a decrease of $82,224, or
+2%. This decrease reflects a decrease of approximately $240,000
+in officers  bonuses, offset by an increase in expenses related
+to our efforts to sell to prime contractors. 
+ 
+ Income from
+operations.  Income from operations for the year ended
+December  31,  2005 was $2,670,284 compared to income from
+operations of $6,870,846 for the year ended December  31,
+2004, a decrease of $4,200,562, or 61%. The decrease was due to
+the decrease in gross profit decribed earlier and increases in expenses
+related to our efforts to sell to prime contractors. 
+ 
+ Interest
+Expense.  Interest expense for the year ended December
+31,  2005 was $18,314, compared to $8,109 for 2004, an increase
+of $10,205, or 126%. Interest expense is considered immaterial
+to our operations in both 2005 and 2004. 
+ 
+ Income from
+continuing operations.  Income from continuing operations for
+the year ended December  31,  2005 was $2,657,433 compared
+to income from continuing operations for the year ended December
+31,  2004 of $6,870,031, a decrease of $4,212,598, or 61%.
+The decrease was due to the decrease in gross profit described earlier
+and increases in expenses related to our efforts to sell to prime
+contractors. The 2005 results include income taxes computed at an
+effective tax rate of 43% compared to 26% for 2004. The
+increase was the result of us utilizing our remaining state net
+operating loss carryforward at the beginning of 2005 and utilizing all
+of our federal net operating loss carry forward in 2004. Basic income
+per share for the year ended December  31,  2005 was $0.28
+on an average of 5,422,101 shares outstanding, compared to $0.94 per
+share from continuing operations on an average of 5,386,595 shares
+outstanding for the year ended December  31,  2004. 
+ 13 
+
+Year Ended December  31,
+2004 as Compared to the Year Ended December  31,
+2003 
+ 
+ Revenue.  Our revenue for the year ended
+December  31,  2004 was $30,269,030 compared to $27,288,035
+for 2003, representing an increase of $2,980,995 or 11%. This
+increase was due to our company winning more than 200 new contract
+awards in 2004 totaling $17.9  million. 
+ 
+ Gross
+profit.  Gross profit for the year ended December
+31,  2004 was $10,295,799, compared to $9,004,783 for 2003, an
+increase of $1,291,016 or 14%. Gross profit as a percentage of
+revenue for the year ended December  31,  2004 was
+34% compared to 33% for the same period last year, due
+primarily to a more profitable sales mix. 
+ 
+ Selling, general and
+administrative expenses.  Selling, general and administrative
+expenses for the year ended December  31,  2004 were
+$3,424,953, compared to $3,177,173 for 2003, an increase of $247,780,
+or 8%. This increase is primarily attributable to costs of
+approximately $102,000 incurred due to the relocation of our
+facilities, an increase of $80,000 in salaries due to the hiring of
+additional administrative employees and an increase of approximately
+$70,000 in travel costs. 
+ 
+ Interest Expense.  Interest
+expense for the year ended December  31,  2004 was $8,109,
+compared to $148,006 for 2003, a decrease of $139,897, or 95%.
+The decrease in interest expense resulted from the repayment of debt
+using the proceeds of our February  2003 public
+offering. 
+ 
+ Income from continuing operations.  Income
+from continuing operations for the year ended December
+31,  2004 was $6,870,031 compared to income from continuing
+operations for the year ended December  31,  2003 of
+$8,127,043 which includes a gain on extinguishment of debt of
+$2,431,233, a decrease of $1,257,012 or 15%. The 2004 results
+include income taxes computed at an effective tax rate of 26%
+because we utilized all of our remaining net operating loss
+carryforward for federal income tax purposes, approximately $4,400,000.
+Basic income per share for the year ended December  31,
+2004 was $0.94 on an average of 5,386,595 shares outstanding, compared
+to $1.63 per share from continuing operations on an average of
+4,872,255 shares outstanding for the year ended December
+31,  2003. 
+ Liquidity and Capital
+Resources 
+ General 
+ At December  31,  2005, we
+had working capital of $26,029,916 compared to $24,396,402 at
+December  31,  2004, an increase of $1,633,514, or
+7%. 
+ Cash Flow 
+ A large portion of our cash is used
+in paying for materials and processing costs associated with contracts
+that are in process and which do not provide for progress payments.
+Additionally, contracts that permit us to bill on a progress basis must
+be classified as   on time   for us to
+apply for progress payments. Due to some delays in deliveries from
+three of our approximately 100 vendors, we are presently late on two of
+our contracts, which precludes us from applying for progress payments
+on these contracts. During the year ended December  31,
+2005, we incurred approximately $2,358,000 of costs related to
+contracts in excess of the amounts that we were permitted to bill on
+such contracts. These costs are components of   Costs and
+estimated earnings in excess of billings on uncompleted
+contracts   on our balance sheet and represent the
+aggregate costs and related earnings for uncompleted contracts for
+which the customer has not yet been billed. These costs and earnings
+are recovered upon shipment of products and presentation of billings in
+accordance with contract terms. 
+ Because the POC method of
+accounting requires us to use estimates in determining revenues, costs
+and profits and in assigning the amounts to accounting periods, there
+can be a significant disparity between earnings (both for accounting
+and taxes) as reported and actual cash received by us during any
+reporting period. Accordingly, it is possible that we may have a
+shortfall in our cash flow and may need to borrow money until the
+reported earnings materialize to actual cash receipts. 
+ JP Morgan
+Chase Credit Facility 
+ In September  2003, we entered into
+a three-year, $5  million revolving credit facility with JP
+Morgan Chase Bank, secured by our assets. The facility specifies
+interest rates that range between the  
+ 14 
+
+Prime Rate and 225 basis points over LIBOR,
+depending on certain terms and conditions. The facility requires us to
+maintain specified levels of working capital and other financial ratios
+as defined. At December  31,  2005, we were in compliance
+with all the covenants related to this facility. As of December
+31,  2005, we had not borrowed any funds pursuant to this
+facility. The Company s line of credit with JPMorgan Chase
+expires in September  2006. We anticipate either extending the
+line or securing a new line of credit prior to September
+2006. 
+ We believe that our existing resources, together with the
+availability under our credit facility, will be sufficient to meet our
+current working capital needs for at least the next 12 months. 
+ Contractual Obligations 
+ The table below summarizes
+information about our contractual obligations as of December
+31,  2005 and the effects these obligations are expected to have
+on our liquidity and cash flow in the future
+years. 
+
+** The
+employment agreements provide for bonus payments that are excluded from
+these amounts. 
+ Inflation 
+ Inflation historically has not
+had a material effect on our operations. 
+
+Item
+7A.  
+ QUANTITATIVE AND QUALITATIVE DISCLOSURE ABOUT
+MARKET RISK 
+
+None 
+
+Item 8.  
+ FINANCIAL
+STATEMENTS AND SUPPLEMENTARY DATA 
+
+(a) Financial
+Statements 
+ This information appears following Item 15 of this
+Report and is incorporated herein by reference. 
+
+Item
+9.  
+ CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON
+ACCOUNTING AND FINANCIAL DISCLOSURE 
+
+None 
+
+Item
+9A.  
+ CONTROLS AND PROCEDURES 
+
+An evaluation of
+the effectiveness of our disclosure controls and procedures was made as
+of December  31,  2005 under the supervision and with the
+participation of our management, including our chief executive officer
+and chief financial officer. Based on that evaluation, we concluded
+that our disclosure controls and procedures were not effective in
+recording, processing, summarizing and reporting, on a timely basis,
+information required to be disclosed by us in reports that we file or
+submit under the Securities Exchange Act of 1934 as a result of the
+material weakness in our internal control over financial reporting
+described below. 
+ 15 
+
+In the process of conducting our audit for
+the year ended December  31,  2005, J.H. Cohn LLP, our
+independent registered public accounting firm
+(  JHC  ), identified that (i) costs
+incurred, revenue recognized and billings to the customer on certain
+contracts during the year ended December  31,  2005 were
+not recognized properly due to an error made during our conversion from
+a manual accounting system to MAPICS, an enterprise-wide electronic
+processing system, and that (ii) there had been a misapplication of
+percentage of completion accounting with respect to our commercial
+contract. Our internal control over reviewing and recording revenue
+recognition did not detect this error. 
+ As part of the
+communications by JHC with our audit committee with respect to
+JHC s audit procedures for the year ended December
+31,  2005, JHC informed the audit committee that these
+deficiencies constituted a material weakness under standards
+established by the Public Company Accounting Oversight Board, or PCAOB.
+However, JHC confirmed to the audit committee that they would still be
+able to rely on their previously completed interim review of our
+financial statements. 
+ In order to remediate this material
+weakness, our senior management will monitor all costs and control
+total amounts generated through the MAPICS system that relate to
+billings and expenses and cross check such amounts to the general
+ledger and the applicable master job cost sheet. These remedial actions
+have not been in place long enough to have been tested and will be
+assessed for their adequacy on a continuous basis. 
+ Except as
+described above, during the most recently completed fiscal quarter,
+there has been no change in our internal control over financial
+reporting that has materially affected, or is reasonably likely to
+materially affect, our internal control over financial
+reporting. 
+
+Item 9B.  
+ OTHER
+INFORMATION 
+
+None 
+ 16 
+
+PART
+III 
+ Item 10.    DIRECTORS AND EXECUTIVE OFFICERS OF THE
+REGISTRANT 
+ Our directors and executive officers are as
+follows: 
+
+Name  
+   
+  Age  
+   
+  Position  
+
+Eric
+Rosenfeld
+(1)(2)(4)  
+   
+  48  
+   
+  Chairman
+of the Board of Directors (non-executive)  
+
+Edward J.
+Fred (1)  
+   
+  47  
+   
+  Chief Executive Officer, President and
+Director  
+
+Arthur August (1)  
+   
+  71  
+   
+  Chairman Emeritus and
+Director  
+
+Vincent Palazzolo  
+   
+  42  
+   
+  Chief
+Financial Officer  
+
+Walter Paulick
+(2)(3)(4)  
+   
+  59  
+   
+  Director  
+
+Kenneth
+McSweeney (2)(3)(4)  
+   
+  74  
+   
+  Director  
+
+A.
+C. Providenti
+(3)  
+   
+  68  
+   
+  Director  
+
+Key
+Employee    
+
+Frank
+Funicelli  
+   
+  63  
+   
+  Senior Vice President, Business
+Development  
+
+(1)  
+ Member
+of strategic planning
+committee. 
+
+(2)  
+ Member of compensation
+committee. 
+
+(3)  
+ Member of audit
+committee. 
+
+(4)  
+ Member of nominating
+committee. 
+
+Eric Rosenfeld  has been the non-executive
+chairman of our board of directors since January  2005 and a
+director and chairman of our strategic planning committee since
+April  2003. Mr.  Rosenfeld has been the president and
+chief executive officer of Crescendo Partners, L.P., a New York-based
+investment firm, since its formation in November  1998. Prior to
+forming Crescendo Partners, Mr.  Rosenfeld had been managing
+director at CIBC Oppenheimer and its predecessor company Oppenheimer
+  Co., Inc. for fourteen years. He was also chairman of the board
+of Spar Aerospace Limited, a company that provides repair and overhaul
+services for aircraft and helicopters used by governments and
+commercial airlines, from May  1999 through November  2001,
+until its sale to L-3 Communications. Since April  2004,
+Mr.  Rosenfeld also has been chairman, president and chief
+executive officer of Arpeggio Acquisition Corporation, a company that
+has entered into a merger agreement with Hill International, Inc., a
+construction management firm. He is also a director of Sierra Systems
+Group, Inc., a Toronto Stock Exchange-listed information technology,
+management consulting and systems integration firm based in Canada; a
+director of Emergis Inc., a Toronto Stock Exchange-listed company that
+enables the electronic processing of transactions in the finance and
+healthcare industries, the chairman of Computer Horizons Corp., a
+Nasdaq-listed company that provides information technology services to
+corporations. He was also a director of Geac Computer Corporation
+Limited which was a Toronto Stock Exchange and Nasdaq-listed company
+until its acquisition by Golden Gate Capital in March, 2006. Mr.
+Rosenfeld recently served as a director of AD OPT Technologies Inc.,
+which was a Toronto Stock Exchange-listed company until it was acquired
+by Kronos Inc. in November  2004. Mr.  Rosenfeld recently
+served as a director and head of the special committee of Pivotal
+Corporation, a Canadian based customer relations management software
+company that was sold to chinadotcom in February  2004.
+Mr.  Rosenfeld is a regular guest lecturer at Columbia Business
+School and he is a member of the faculty at the Directors College. He
+has served on numerous panels at Queen s University Business Law
+School Symposia, McGill Law School and the World Presidents 
+Organization. He also has been a regular guest host on CNBC. Mr.
+Rosenfeld received an M.B.A. from Harvard University and an A.B. degree
+in economics from Brown University. 
+ 
+ Edward J. Fred  has
+been an officer since February  1995 and a member of our board of
+directors since January  1999. He was our controller from
+February  1995 to April  1998, when he was appointed chief
+financial officer, a position he held until June  2003 and then
+from January  2004 to May  2004. He  
+ 17 
+
+was executive vice president from May
+2000 until December  2001 and was appointed to the position of
+president in January  2002 and to the position of chief executive
+officer in January  2003. For approximately ten years prior to
+joining our company, Mr.  Fred served in various positions for
+the international division of Grumman, where he last held the position
+of controller. Mr.  Fred holds a Bachelor of Business
+Administration in Accounting from Dowling College and an Executive MBA
+from Hofstra University. 
+ 
+ Arthur August,  one of our
+founders, has been our chairman emeritus since January  2005 and
+a director since January  1980. From January  1980 until
+December  2004, he was chairman of the board of directors and was
+our president until December  2001 and our chief executive
+officer until December  2002. From 1956 to 1979, Mr.
+August was employed by Northrop Grumman Corporation where he last held
+the position of deputy director. Mr.  August holds a certificate
+in Aeronautical Design from the Academy of Aeronautics, a Bachelor of
+Science degree in Industrial Management from C. W. Post College, a
+Masters degree in Engineering from New York University and is a
+graduate of the Program for Management Development at the Harvard
+Graduate School of Business. 
+ 
+ Vincent Palazzolo  has been
+our chief financial officer since May  2004. From December
+2003 to May  2004, he was employed by J. H. Cohn LLP as an audit
+partner. From 1988 through November  2003, Mr.  Palazzolo
+was employed by Goldstein Golub Kessler LLP
+(  GGK  ), where he was an audit partner
+from September  1999 through November  2003. While employed
+by GGK, from September  1999 to November  2003, Mr.
+Palazzolo also served as a managing director of American Express Tax
+and Business Services, Inc. Mr.  Palazzolo holds a Bachelor of
+Business Administration in Accounting from Hofstra University is a
+certified public accountant and is a member of the American Institute
+of Certified Public Accountants and the New York State Society of
+Certified Public Accountants. 
+ 
+ Walter Paulick  has been a
+director since April  1992 and chairman of our nominating
+committee since March  2004. Mr.  Paulick is currently a
+self-employed development consultant. From 1982 to November
+1992, Mr.  Paulick was a vice president of Parr Development
+Company, Inc., a real estate development company. From 1980 to 1982,
+Mr.  Paulick was employed by Key Bank, where he last held the
+position of vice president. From 1971 to 1980, Mr.  Paulick was a
+vice president of National Westminster U.S.A. Mr.  Paulick holds
+an associate degree in Applied Science from Suffolk Community College
+and Bachelor of Business Administration from Dowling
+College. 
+ 
+ Kenneth McSweeney  has been a director since
+February  1998 and chairman of our compensation committee since
+April  2003. Mr.  McSweeney has been an independent
+consultant to the aerospace industry since January  1995. From
+1961 to 1995, Mr.  McSweeney served in various management
+positions for Northrop Grumman Corporation, most recently as the vice
+president of its Aerostructures Division and a director of business
+development for the Mideast and gulf coast region. Mr.  McSweeney
+has extensive experience in aerostructures and logistics support
+products and is a licensed professional engineer in New York State. He
+holds Bachelor and Master of Science degrees in Electrical Engineering
+from the Polytechnic Institute of Brooklyn and a Masters degree in
+Business Management from CW Post College. He also completed the
+Executive Development Program at the Cornell School of Business and
+Public Administration. 
+ 
+ A. C. Providenti  has been a
+director and chairman of our audit committee since February
+2003. Since 1984, Mr.  Providenti has served as president of A.C.
+Providenti   Associates, Ltd., a consulting and strategic advisory
+firm. From 1977 to 1984, Mr.  Providenti served as senior vice
+president for finance and administration and as an executive committee
+member for Northville Industries Corp., a multinational petroleum
+storage, trading and distribution company. Mr.  Providenti holds
+a Bachelor s degree in Accounting from St. Francis College and a
+Masters of Business Administration from Fordham
+University. 
+ 
+ Frank Funicelli  has been with us since
+March  1988, serving as our Director of Operations from 1988 to
+1995, our vice president of operations from 1995 to 2002, and our vice
+president of business development from 2002 to December  2003 and
+became our senior vice president, business development in
+January  2004. From 1977 to 1988, was employed by Fairchild
+Republic Company where he served as Chief Industrial Engineer,
+Manufacturing Engineering Manager and Director of  
+ 18 
+
+Program Planning and Control. From 1966 to
+1977, he was with Grumman Aerospace where he served as Industrial
+Engineer, Manager of Manufacturing Planning and Control and Program
+Planning and Resource Control Manager. Mr.  Funicelli holds a
+Bachelor of Science degree in Industrial Engineering from Pratt
+Institute and a Master of Science in Management Engineering from C.W.
+Post College. 
+ Our board of directors is divided into three
+classes with only one class of directors being elected in each year and
+each class serving a three-year term. The term of office of the second
+class of directors (Class II), consisting of Walter Paulick and Eric
+Rosenfeld, will expire at our annual meeting in 2006. The term of
+office of the third class of directors (Class III), consisting of
+Arthur August and Edward J. Fred, will expire at our annual meeting in
+2007. The term of office of the first class of directors (Class I),
+consisting of Kenneth McSweeney and A.C. Providenti, will expire at our
+annual meeting in 2008. 
+ Section 16(a) Beneficial Ownership
+Reporting Compliance 
+ Section 16(a) of the Securities Exchange
+Act of 1934 requires our officers, directors and persons who own more
+than ten percent of a registered class of our equity securities to file
+reports of ownership and changes in ownership with the Securities and
+Exchange Commission. Officers, directors and ten percent stockholders
+are required by regulation to furnish us with copies of all Section
+16(a) forms they file. Based solely on copies of such forms received or
+written representations from certain reporting persons that no Form 5s
+were required for those persons, we believe that, during the fiscal
+year ended December  31,  2005, all filing requirements
+applicable to our officers, directors and greater than ten percent
+beneficial owners were complied with. 
+ Audit Committee Financial
+Expert 
+ Currently, our audit committee is comprised of Walter
+Paulick, Kenneth McSweeney and A.C. Providenti, with Mr.
+Providenti serving as the chairman of the audit committee. The board of
+directors believes that Mr.  Providenti is an
+  audit committee financial expert   (as
+defined in Regulation 229.401(h) of Regulation S-K). The board of
+directors also believes that Mr.  Providenti would be considered
+an   independent   director under Item
+7(d)(3)(iv) of Schedule 14A of the Securities Exchange Act of
+1934. 
+ Code of Ethics 
+ In March  2004, our board of
+directors adopted a written code of ethics that applies to our
+directors, officers and employees. A copy of our code of ethics was
+filed as Exhibit 14 to our Annual Report on Form 10-KSB for the year
+ended December  31,  2003. Requests for copies of our code
+of ethics should be sent in writing to CPI Aerostructures, Inc., 60
+Heartland Blvd., Edgewood, NY  11717, Attention: Corporate
+Secretary. 
+ Item 11.    EXECUTIVE COMPENSATION 
+ The
+following table sets forth all compensation awarded to, earned by, or
+paid for all services rendered to us during the fiscal years ended
+December  31,  2005, 2004 and 2003, by our chief executive
+officer and our other executive officers whose total compensation
+exceeded $100,000 during the year ended December  31,  2005
+(  Named Executive
+Officers  ). 
+ 19 
+
+Option Grants in 2005 
+ We did not
+grant any options to employees in the fiscal year ended December
+31,  2005. 
+ Aggregated Option Exercises and Fiscal Year End
+Option
+Values 
+
+(1)  
+  These
+values are based on the difference between the closing sale price of
+our common stock on December  31,  2005 of $9.94 and the
+exercise price of the options.  
+
+Employment
+Agreements 
+ Edward J. Fred 
+ In February
+2005, we entered into an amended and restated employment agreement with
+Edward J. Fred, which provides for Mr.  Fred to serve as our
+President and Chief Executive Officer until December  31,
+2007. Mr.  Fred s annual base salary was $252,000 for 2005
+and increased to $267,120 on January  1,  2006 and will
+increase to $283,150 on January  1,  2007. In addition,
+Mr.  Fred is eligible to receive an annual bonus. However, for
+the year ended December  31,  2005, Mr.  Fred did not
+receive a bonus. Mr.  Fred s annual bonus is calculated
+based on changes in our revenues and earnings before interest, taxes,
+depreciation and amortization (  EBITDA  )
+from the prior year. 25% of the bonus amount is determined by
+revenues and 75% by EBITDA. To the extent that a 10%
+annual increase in revenues and EBITDA from the prior year is achieved,
+Mr.  Fred is entitled to a target annual bonus equal to
+65% of his annual base salary. Should the revenue and/or EBITDA
+levels fall short of or exceed a 10% increase from the prior
+year, Mr.  Fred s bonus will decrease or increase by
+predetermined percentages. If there is more than a 15% annual
+decrease in EBITDA or revenues, no EBITDA bonus or revenue bonus will
+be paid. If there is an annual increase of 100% or more in
+EBITDA or revenues, Mr.  Fred s  EBITDA bonus or
+revenue bonus will be 75% more than the target annual bonus.
+Both bonuses will be adjusted pro rata if EBITDA and/or revenues fall
+in between two designated percentages. The first $140,000 of bonus will
+be paid in cash and the balance will be paid half in cash and half in
+shares of our common stock. The shares of common stock will be valued
+at the average of the last sale prices of the common stock for five
+consecutive trading days ending two trading days before issuance.
+Mr.  Fred s annual bonus for the years ending
+December  31,  2006 and 2007 will be calculated in the same
+manner as the December  31,  2005 bonus was calculated.
+Pursuant to the terms of Mr.  Fred s employment agreement,
+if a change of control (as such term is defined in the agreement)
+occurs prior to a termination by us without
+  cause   or by Mr.  Fred for
+  good reason   (as such terms are defined
+in the agreement), we must pay him a lump sum equal to three times the
+ 
+ 20 
+
+total compensation (including salary and
+bonus) earned by him during the last full calendar year of his
+employment. Mr.  Fred also has agreed not to compete with us
+during the term of his employment and for two years
+thereafter. 
+ Arthur August 
+ Under the terms of Mr.
+August s employment agreement, as amended, effective
+January  2005, he became our chairman emeritus and will serve in
+that position until December  31,  2006 and receive an
+annual base salary of $60,000. For the year ended December
+31,  2004, Mr.  August received an annual bonus equal to
+2% of our consolidated net income. Mr.  August was not
+entitled to receive any bonus for the year ended December
+31,  2005 and is not entitled to receive a bonus for the year
+ending December  31,  2006. Mr.  August is required
+to devote only such time to our business as he, in his sole discretion,
+deems necessary. Pursuant to the terms of Mr.  August s
+employment agreement, if a change of control (as such term is defined
+in the agreement) occurs prior to a termination by us without
+  cause   or by Mr.  August for
+  good reason   (as such terms are defined
+in the agreement), we must pay him a lump sum equal to three times the
+total compensation (including salary and bonus) earned by him during
+the last full calendar year of his employment. Mr.  August has
+agreed not to compete with us during the term of his employment and for
+five years thereafter. As consideration for his agreement not to
+compete with us for an extended period of time, we agreed to pay
+Mr.  August $300,000 in five, equal annual installments of
+$60,000 commencing on January  1,  2007. 
+ Vincent
+Palazzolo 
+ In February  2005, we entered into an amended
+and restated employment agreement with Vincent Palazzolo, which
+provides for Mr.  Palazzolo to serve as our Chief Financial
+Officer until December  31,  2006. Mr.
+Palazzolo s annual base salary was $175,000 until July
+31,  2005 and then increased to $183,750 on August
+1,  2005. In addition, Mr.  Palazzolo is eligible to
+receive an annual bonus. However, for the year ended December
+31,  2005, Mr.  Palazzolo did not receive a bonus.
+Mr.  Palazzolo s annual bonus is calculated based on
+changes in our revenues and EBITDA from the prior year. 25% of
+the bonus amount is determined by revenues and 75% by EBITDA. To
+the extent that a 10% annual increase in revenues and EBITDA
+from the prior year is achieved, Mr.  Palazzolo will be entitled
+to a target annual bonus equal to 45% of his annual base salary.
+Should the revenue and/or EBITDA levels fall short of or exceed a
+10% increase from the prior year, Mr.  Palazzolo s
+bonus will decrease or increase by predetermined percentages. If there
+is more than a 15% annual decrease in EBITDA or revenues, no
+EBITDA bonus or revenue bonus will be paid. If there is an annual
+increase of 100% or more in EBITDA or revenues, Mr.
+Palazzolo s  EBITDA bonus or revenue bonus will be
+75% more than the target annual bonus. Both bonuses will be
+adjusted pro rata if EBITDA and/or revenues fall in between two
+designated percentages. The first $75,000 of bonus will be paid in cash
+and the balance will be paid half in cash and half in shares of our
+common stock. The shares of common stock will be valued at the average
+of the last sale prices of the common stock for five consecutive
+trading days ending two trading days before issuance. Mr.
+Palazzolo s annual bonus for the year ending December
+31,  2006 will be calculated in the same manner as the
+December  31,  2005 bonus was calculated. Pursuant to the
+terms of Mr.  Palazzolo s employment agreement, if a
+change of control (as such term is defined in the agreement) occurs
+prior to a termination by us without
+  cause   or by Mr.  Palazzolo for
+  good reason   (as such terms are defined
+in the agreement), Mr.  Palazzolo may elect to receive a lump sum
+equal to $50,000 within 10 days of such election in lieu of his
+compensation and benefits under the employment agreement. Mr.
+Palazzolo also has agreed not to compete with us during the term of his
+employment and for two years thereafter. 
+ Compensation
+Arrangements for Directors 
+ Each of our non-employee directors
+receives an annual cash fee of $10,000 (payable quarterly) and is
+granted options to purchase 10,000 common shares on April
+1 st  of each year. The chairman of the audit committee
+receives an additional annual cash fee of $20,000 (payable quarterly)
+and is granted an additional 20,000 options on April
+1 st  of each year and the chairman of the strategic
+ 
+ 21 
+
+planning committee receives an additional
+cash fee of $10,000 payable quarterly. The chairman of the board
+receives an additional cash fee of $40,000 (payable quarterly) and is
+granted an additional 25,000 options on January  1 st 
+of each year. Our directors will continue to be reimbursed for the
+reasonable expenses they incur in attending meetings. 
+ Employee
+Benefit Plans 
+ In October  2000, we adopted the Greit Plan
+for the purpose of offering senior management a deferred compensation
+death benefit plan that would provide a tax-free benefit for senior
+management and which would be tax-neutral to us. Pursuant to the plan,
+we made a non-interest bearing loan to Arthur August in the amount of
+$150,000, which Mr.  August used to purchase a Greit Plan. This
+plan has since been terminated and the surrender value of the Greit
+Plan has been returned to Mr.  August. Mr.  August has
+placed the proceeds from the surrender value in an annuity in our name,
+which will appreciate to at least $150,000 by September  2011 in
+order to repay the loan made to him. Mr.  August also assigned to
+us an insurance policy on his life in the amount of $150,000 and agreed
+to maintain it until the date upon which the annuity matures.
+Accordingly, the loan to Mr.  August will be repaid upon the
+maturity date of the annuity or upon the death of Mr.  August,
+whichever occurs first. 
+ Stock Options 
+ Performance Equity
+Plan 2000 
+ The Performance Equity Plan 2000 authorizes the grant
+of 1,230,000 stock options, stock appreciation rights, restricted
+stock, deferred stock, stock reload options, and other stock based
+awards. As of December  31,  2005, options to purchase an
+aggregate of 860,000 common shares had been granted under this plan, of
+which 750,750 options remain outstanding at exercise prices ranging
+from $1.20 to $10.24 per share. As of March  24,  2006,
+options to purchase 373,025 common shares remain available for
+grant. 
+ 1998 Performance Equity Plan 
+ The 1998 Performance
+Equity Plan authorizes the grant of 463,334 stock options, stock
+appreciation rights, restricted stock, deferred stock, stock reload
+options, and other stock based awards. As of December  31,
+2005, options to purchase an aggregate of 546,002 common shares had
+been granted, of which 208,334 remain outstanding at exercise prices
+ranging from $2.53 to $11.31 per  share. As of March
+24,  2006, options to purchase 666 common shares remain available
+for grant. 
+ 1995 Stock Option Plan 
+ The 1995 Employee Stock
+Option Plan authorizes the grant of 200,000 stock options and stock
+appreciation rights. As of December  31,  2005, options to
+purchase an aggregate of 419,000 common shares had been granted, of
+which 155,001 remain outstanding at exercise prices ranging from $6.27
+to $10.48 per share. As of March  24,  2006, options to
+purchase 285 additional common shares remain available for
+grant. 
+ 1992 Employee Stock Option Plan 
+ The 1992 Employee
+Stock Option Plan authorized the grant of 83,334 options, all of which
+have been granted and 41,002 shares remain outstanding at exercise
+prices ranging from $2.59 to $6.27 per  share. No more shares may
+be granted under this plan. 
+ Other Options and Warrants 
+ On
+February  19,  2003, we issued to EarlyBirdCapital, Inc.
+(and its designees) five-year warrants to purchase an aggregate of
+200,000 common shares as compensation for acting as underwriter for our
+February  2003 public offering. The exercise price of the
+warrants is $4.40 per share. As of December  31,  2005,
+warrants to purchase 5,000 common shares had been
+exercised. 
+ 22 
+
+Item 12.  
+ SECURITY
+OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND RELATED
+STOCKHOLDER MATTERS 
+
+The table and accompanying footnotes set
+forth certain information as of March  24,  2006, with
+respect to the ownership of our common shares
+by: 
+
+each person or group who
+beneficially owns more than 5% of our common
+shares; 
+
+each of our
+directors; 
+
+each of our Named Executive
+Officers; and 
+
+all of our directors and
+executive officers as a group. 
+
+A person is deemed to be the
+beneficial owner of securities that can be acquired by the person
+within 60 days of March  24,  2006 upon the exercise of
+warrants or options. Accordingly, common shares issuable upon exercise
+of options and warrants that are currently exercisable or exercisable
+within 60 days of March  24,  2006 have been included in
+the table with respect to the beneficial ownership of the person owning
+the options or warrants, but not with respect to any other
+persons. 
+
+(1)  
+  Unless otherwise
+noted, we believe that all persons named in the table have sole voting
+and investment power with respect to all common shares beneficially
+owned by them, subject to community property laws, where
+applicable.  
+
+(2)  
+  There are 5,447,042
+shares currently issued and outstanding. Each person beneficially owns
+a percentage of our outstanding common shares equal to a fraction, the
+numerator of which is the number of common shares held by such person
+plus the number of common shares that he can acquire within 60 days of
+March  24,  2006 upon the exercise or conversion of
+options, warrants or convertible securities and the denominator of
+which is 5,447,042 (the number of common shares currently outstanding)
+plus the number of shares he can so acquire during such 60-day
+period.  
+
+23 
+
+(3)  
+  Unless
+otherwise noted, the business address of each of the following persons
+is c/o CPI Aerostructures, Inc., 60 Heartland Blvd., Edgewood, New York
+11717.  
+
+(4)  
+  Includes 398,334 common
+shares that Mr.  Fred has the right to acquire upon exercise of
+options.  
+
+(5)  
+  Includes (a) 385,000
+common shares that Mr.  August has the right to acquire upon
+exercise of options and (b) 3,000 common shares are owned by Mr.
+August s wife. Excludes an aggregate of 3,034 common shares
+owned by Mr.  August s adult children, all of which shares
+Mr.  August disclaims beneficial ownership.  
+
+(6)  
+  Includes common shares that Mr.
+Palazzolo has the right to acquire upon exercise of options.  
+
+(7)  
+  Represents common shares that Mr.
+Paulick has the right to acquire upon exercise of options. Does not
+include 10,000 common shares underlying options that will be granted to
+Mr.  Paulick on April  1,
+2006.  
+
+(8)  
+  Includes 25,000 common
+shares that Mr.  McSweeney has the right to acquire upon exercise
+of options. Does not include 10,000 common shares underlying options
+that will be granted to Mr.  McSweeney on April  1,
+2006.  
+
+(9)  
+  Represents common shares
+that Mr.  Providenti has the right to acquire upon exercise of
+options. Does not include an aggregate of 30,000 common shares
+underlying options that will be granted to Mr.  Providenti on
+April  1,
+2006.  
+
+(10)  
+  Represents (a) 46,000
+common shares beneficially owned as joint tenants by Mr.
+Rosenfeld and his wife; (b) 883,334 shares held by Crescendo Partners
+II, L.P. Series L (  Crescendo Partners
+II  ); and (c) 75,000 common shares that Mr.
+Rosenfeld has the right to acquire upon exercise of options. Mr.
+Rosenfeld is the senior managing member of the sole general partner of
+Crescendo Partners II. Mr.  Rosenfeld disclaims beneficial
+ownership of the shares held by Crescendo Partners II, except to the
+extent of his pecuniary interest therein. Does not include 10,000
+common shares underlying options that will be granted to Mr.
+Rosenfeld on April  1,
+2006.  
+
+(11)  
+  Represents (a) 231,324
+common shares held by Midwood Capital Partners, L.P.
+(  LP  ) and (b) 252,426 common shares held
+by Midwood Capital Partners QP, L.P.
+(  QP   and together with LP, the
+  Funds  ). Midwood Capital Management LLC
+(  Capital  ) is the sole general partner
+of the Funds and, as such, has the sole authority to vote and dispose
+of all of the common shares held by the Funds. David E. Cohen and Ross
+D. DeMont are the managers of Capital and as such, have shared
+authority to vote and dispose of all of the common shares held by the
+Funds. The foregoing information was derived from an Amendment to
+Schedule 13G filed with the Securities and Exchange Commission on March
+21,  2006.  
+
+(12)  
+  The
+information with respect to Rutabaga Capital Management is derived from
+a Schedule 13G filed with the Securities and Exchange Commission on
+February  14,
+2006.  
+
+(13)  
+ Includes an aggregate
+of 1,038,334 common shares that Messrs. Fred, August, Palazzolo,
+Paulick, McSweeney, Providenti and Rosenfeld have the right to acquire
+upon exercise of outstanding options. 
+
+24 
+
+Equity Compensation Plan
+Information 
+ The following table sets forth certain information
+at December  31,  2005 with respect to our equity
+compensation plans that provide for the issuance of options, warrants
+or rights to purchase our
+securities. 
+
+Plan
+Category  
+   
+  Number of Securities to be
+Issued upon Exercise of Outstanding Options, Warrants and
+Rights  
+   
+  Weighted-Average Exercise Price of Outstanding
+Options, Warrants and Rights  
+   
+  Number of
+Securities Remaining Available for Future Issuance under
+Equity Compensation Plans (excluding securities reflected
+in the first column)  
+
+Equity
+Compensation Plans Approved by Security
+Holders  
+
+1,155,087  
+
+$  
+  4.89  
+
+373,976  
+
+Equity
+Compensation Plans Not Approved by Security
+Holders(1)  
+
+195,000  
+
+$  
+  4.40  
+
+-0-  
+
+(1)  
+  See
+  Stock Options   Other Options and
+Warrants   description above.  
+
+Item
+13.    CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS 
+ For
+information concerning employment agreements with, compensation of, and
+stock options granted to our executive officers and directors, see
+  Item 10. Executive
+Compensation.   
+ Item 14.    PRINCIPAL ACCOUNTANT
+FEES AND SERVICES 
+ Principal Accountant
+Fees 
+
+(1)  
+  Represents
+the aggregate fees billed for professional services rendered by our
+principal accountants for the audits of our annual financial statements
+for the years ended December  31,  2005 and December
+31,  2004 and review of financial statements included in our
+quarterly reports on Form 10-Q or services that are normally provided
+by the accountant in connection with statutory and regulatory filings
+or engagements for those periods.  
+
+(2)  
+  Represents the aggregate fees billed for
+professional services rendered by our principal accountants for the
+preparation of our federal and state income tax returns for the years
+ended December  31,  2005 and
+2004.  
+
+(3)  
+  Represents the aggregate fees billed
+for other professional services rendered by our principal accountants,
+including the audit of our 401 (K) profit sharing plan and out of
+pocket expenses.  
+
+Audit Committee Pre-Approval Policies and
+Procedures 
+ In accordance with Section 10A(i) of the Securities
+Exchange Act of 1934, before we engage our independent accountants to
+render audit or non-audit services, the engagement is approved by our
+audit committee. Our audit committee approved all of the fees referred
+to in the sections entitled   Audit Fees,  
+  Audit-Related Fees,     Tax
+Fees   and   All Other Fees  
+above. 
+ 25 
+
+PART IV 
+ Item 15.    EXHIBITS,
+FINANCIAL STATEMENT
+SCHEDULES 
+
+26 
+
+*  
+  Management
+compensation contract or
+arrangement.  
+
+**  
+  Filed
+herewith.  
+
+(2)  
+  Filed as an
+exhibit to the Company s Annual Report on Form 10-KSB for year
+ended December  31,  1995 and incorporated herein by
+reference.  
+
+(3)  
+  Filed as an exhibit
+to the Company s Annual Report on Form 10-KSB for the year ended
+December  31,  1998 and incorporated herein by
+reference.  
+
+(4)  
+  Filed as an exhibit
+to the Company s Annual Report on Form 10-KSB for the year ended
+December  31,  2000 and incorporated herein by
+reference.  
+
+(5)  
+  Filed as an exhibit
+to Schedule 13D filed on behalf of Edward J. Fred on October
+19,  2001 and incorporated herein by
+reference.  
+
+(6)  
+  Filed as an exhibit
+to Schedule 13D filed on behalf of Arthur August on October
+19,  2001 and incorporated herein by
+reference.  
+
+27 
+
+(7)  
+  Filed as an
+exhibit to the Company s Quarterly Report on Form 10-QSB for the
+quarter ended September  30,  2001 and incorporated herein
+by reference.  
+
+(8)  
+  Filed as an
+exhibit to the Company s Current Report on Form 8-K dated
+January  22,  2002, as amended, and incorporated herein by
+reference.  
+
+(9)  
+  Filed as an exhibit
+to Schedule 13D filed on behalf of Arthur August on July
+12,  2002 and incorporated herein by
+reference.  
+
+(10)  
+  Filed as an exhibit
+to Schedule 13D filed on behalf of Edward J. Fred on July
+12,  2002 and incorporated herein by
+reference.  
+
+(12)  
+  Filed as an exhibit
+to the Company s Current Report on Form 8-K dated May
+24,  2004 and incorporated herein by
+reference.  
+
+(13)  
+  Filed as an exhibit
+to the Company s Current Report on Form 8-K dated
+February  7,  2005 and incorporated herein by
+reference.  
+
+(14)  
+  Filed as an exhibit
+to the Company s Current Report on Form 8-K dated
+December  1,  2005 and incorporated herein by
+reference.  
+
+(15)  
+  Filed as an exhibit
+to the Company s Annual Report on Form 10-KSB for the year ended
+December  31,  2003 and incorporated herein by
+reference.  
+
+(16)  
+  Filed as an exhibit
+to the Company s Current Report on Form 8-K dated May
+24,  2005 and incorporated herein by
+reference.  
+
+28 
+
+CPI
+AEROSTRUCTURES, INC. 
+
+INDEX TO FINANCIAL
+STATEMENTS 
+
+F-1 
+
+Report
+of Independent Registered Public Accounting
+Firm 
+ 
+ To the Board of Directors and
+Shareholders CPI Aerostructures, Inc. 
+ We have
+audited the accompanying balance sheets of CPI Aerostructures, Inc. as
+of December  31,  2005 and 2004, and the related statements
+of income, changes in shareholders' equity and cash flows for the
+years then ended. These financial statements are the responsibility of
+the Company's management. Our responsibility is to express an
+opinion on these financial statements based on our audits. 
+ We conducted our audits in accordance with standards of the
+Public Company Accounting Oversight Board (United States). Those
+standards require that we plan and perform the audit to obtain
+reasonable assurance about whether the financial statements are free of
+material misstatement. An audit includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the financial
+statements. An audit also includes assessing the accounting principles
+used and significant estimates made by management, as well as
+evaluating the overall financial statement presentation. We believe
+that our audits provide a reasonable basis for our opinion. 
+ In our opinion, the financial statements referred to above
+present fairly, in all material respects, the financial position of CPI
+Aerostructures, Inc. as of December  31,  2005 and 2004,
+and its results of operations and cash flows for the years then ended,
+in conformity with accounting principles generally accepted in the
+United States of America. 
+ 
+ /s/J.H. Cohn
+LLP 
+ J.H. Cohn LLP 
+ Jericho, New
+York March  29,  2006 
+ F-2 
+
+REPORT OF
+INDEPENDENT REGISTERED PUBLIC ACCOUNTING
+FIRM 
+ 
+ To the Board of Directors CPI
+Aerostructures, Inc. 
+ We have audited the
+accompanying statements of income, shareholders' equity and cash
+flows of CPI Aerostructures, Inc. for the year ended December
+31,  2003. These financial statements are the responsibility of
+the Company's management. Our responsibility is to express an
+opinion on these financial statements based on our
+audit. 
+ We conducted our audit in accordance with the
+standards of the Public Company Accounting Oversight Board (United
+States). Those standards require that we plan and perform the audit to
+obtain reasonable assurance about whether the financial statements are
+free of material misstatement. An audit includes examining, on a test
+basis, evidence supporting the amounts and disclosures in the financial
+statements. An audit also includes assessing the accounting principles
+used and significant estimates made by management, as well as
+evaluating the overall financial statement presentation. We believe
+that our audit provides a reasonable basis for our
+opinion. 
+ In our opinion, the financial statements referred
+to above present fairly, in all material respects, the results of the
+operations of CPI Aerostructures, Inc. and its cash flows for the year
+ended December  31,  2003 in conformity with United States
+generally accepted accounting principles. 
+ 
+ /s/
+Goldstein Golub Kessler LLP 
+ 
+  GOLDSTEIN GOLUB
+KESSLER LLP  
+ New York, New
+York 
+ January  30,
+2004 
+ F-3 
+
+CPI
+AEROSTRUCTURES, INC. 
+ BALANCE
+SHEETS 
+
+See
+Notes to Financial Statements 
+ F-4 
+
+CPI AEROSTRUCTURES,
+INC. 
+ STATEMENTS OF
+INCOME 
+
+See
+Notes to Financial Statements 
+ F-5 
+
+CPI
+AEROSTRUCTURES, INC. 
+ STATEMENTS OF
+SHAREHOLDERS  EQUITY 
+
+Years ended December
+31,  2005, 2004 and
+2003 
+
+See
+Notes to Financial Statements 
+ F-6 
+
+CPI AEROSTRUCTURES,
+INC. 
+ STATEMENTS OF CASH
+FLOWS 
+
+See
+Notes to Financial Statements 
+ F-7 
+
+CPI
+AEROSTRUCTURES, INC.       NOTES TO FINANCIAL
+STATEMENTS December  31,
+2005 
+
+1.  
+  PRINCIPAL
+BUSINESS ACTIVITYAND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES:
+
+CPI Aerostructures, Inc. s
+(  CPI   or the
+  Company  ) operations consist of the
+design and production of complex aerospace structural subassemblies
+under U.S. government and commercial contracts. The length of the
+Company s contracts varies but is typically between one and two
+years for U.S. government contracts, although our T-38 contract and our
+C-5 TOP contract are for 10 years and 7 years, respectively. Our one
+commercial contract has an indefinite life. 
+
+CPI s
+revenue is recognized based on the percentage of completion method of
+accounting for its contracts measured by the percentage of total costs
+incurred to date to estimated total costs at completion for each
+contract. Contract costs include all direct material, labor costs,
+tooling and those indirect costs related to contract performance, such
+as indirect labor, supplies, tools, repairs and depreciation costs.
+Selling, general and administrative costs are charged to expense as
+incurred. Estimated losses on uncompleted contracts are recognized in
+the period in which such losses are determined. Changes in job
+performance may result in revisions to costs and income and are
+recognized in the period in which revisions are determined to be
+required. The percentage of completion method of accounting involves
+considerable use of estimates in determining revenues, costs and
+profits and in assigning the amounts to accounting periods and, as a
+result, there can be a significant disparity between earnings (both for
+accounting and taxes) as reported and actual cash received by us during
+any reporting period. In accordance with industry practice, costs and
+estimated earnings in excess of billings on uncompleted contracts,
+included in the accompanying balance sheets, contain amounts relating
+to contracts and programs with long production cycles, a portion of
+which will not be realized within one year. CPI s recorded
+revenue may be adjusted in later periods in the event that CPI s
+cost estimates prove to be inaccurate or a contract is
+terminated. 
+
+Our government contracts are subject to the
+procurement rules and regulations of the United States government. Many
+of the contract terms are dictated by these rules and regulations.
+Specifically, cost-based pricing is determined under the Federal
+Acquisition Regulations (  FAR  ), which
+provide guidance on the types of costs that are allowable in
+establishing prices for goods and services under U.S. Government
+contracts. For example, costs such as those related to charitable
+contributions, advertising, interest expense, and public relations are
+unallowable, and therefore not recoverable through sales. During and
+after the fulfillment of a government contract, we may be audited in
+respect of the direct and allocated indirect costs attributable
+thereto. These audits may result in adjustments to our contract
+costs. 
+
+The Company maintains cash in bank deposit accounts
+which, at times, may exceed federally insured limits. The Company has
+not experienced any losses in such accounts. The Company believes it is
+not exposed to any significant credit risk on
+cash. 
+
+Accounts receivable are reported at their outstanding
+unpaid principal balances. The Company writes off accounts when they
+are deemed to be  
+
+F-8 
+
+CPI
+AEROSTRUCTURES, INC.       NOTES TO FINANCIAL
+STATEMENTS December  31,
+2005 
+
+uncollectible. The Company has experienced
+insignificant amounts of bad debts in such
+accounts. 
+
+Depreciation and amortization of plant and
+equipment is provided by the straight-line method over the estimated
+useful lives of the respective assets or the life of the lease, for
+leasehold improvements. 
+
+The preparation of financial
+statements in conformity with accounting principles generally accepted
+in the United States of America requires the use of estimates by
+management. Actual results could differ from these
+estimates. 
+
+The Company reviews its long-lived assets and
+certain related intangibles for impairment whenever changes in
+circumstances indicate that the carrying amount of an asset may not be
+fully recoverable. As a result of its review, the Company does not
+believe that any such change has occurred. If such changes in
+circumstance are present, a loss is recognized to the extent the
+carrying value of the asset is in excess of the sum of the undiscounted
+cash flows expected to result from the use of the asset and amounts
+expected to be realized upon its eventual disposition. 
+
+The
+fair value of the Company s short-term debt is estimated based
+on the current rates offered to the Company for debt of similar terms
+and maturities. Using this method, the fair value of the
+Company s short-term debt was not significantly different than
+the stated value at December  31,  2005. 
+
+Basic earnings per common share
+is computed using the weighted-average number of shares outstanding.
+Diluted earnings per common share is computed using the
+weighted-average number of shares outstanding adjusted for the
+incremental shares attributed to outstanding options and warrants to
+purchase common stock. Incremental shares of 692,707, 727,479 and
+510,011 were used in the calculation of diluted earnings per common
+share in 2005, 2004 and 2003, respectively. Incremental shares of
+155,000 and 75,000 were not included in the diluted earnings per share
+calculations at December  31,  2005 and 2004, respectively,
+as their exercise price was in excess of the Company s stock
+price and, accordingly, these shares are not assumed to be exercised
+for the diluted earnings per share calculation. All shares were
+included in the diluted earnings per share calculation for
+December  31,  2003. 
+
+F-9 
+
+CPI
+AEROSTRUCTURES, INC.       NOTES TO FINANCIAL
+STATEMENTS December  31,
+2005 
+
+The Company has elected to apply
+Accounting Principles Board (  APB  )
+Opinion No. 25,  Accounting for Stock Issued to Employees , and
+related interpretations in accounting for its stock options issued to
+employees (intrinsic value) and has adopted the disclosure-only
+provisions of Statement of Financial Accounting Standards
+(  SFAS  ) No. 123,  Accounting for
+Stock-Based Compensation . Had the Company elected to recognize
+compensation cost based on the fair value of the options granted at the
+grant date as prescribed by SFAS No. 123, the Company s net
+income and income per common share would have been as
+follows: 
+
+The
+Company s assumptions used to calculate the fair values of
+options issued during 2005 were (i) risk-free interest rate of
+4.2% , (ii) expected life of 5 years, (iii) expected volatility
+of 32%, and (iv) expected dividends of zero. In 2004, the
+Company s assumptions used to calculate the fair values of
+options issued were (i) risk-free interest rates of 2.74% and
+4.00%, (ii) expected life of 5-10 years, (iii) expected
+volatility of 35%, and (iv) expected dividends of zero. In 2003,
+the Company s assumptions used to calculate the fair values of
+options issued were (i) risk-free interest rates of 2.10% and
+2.78%, (ii) expected life of 10 years, (iii) expected volatility
+of 198%, and (iv) expected dividends of zero. 
+
+In
+December  2004, the FASB issued SFAS No. 123(R) (revised 2004),
+   Share-Based Payment   , which
+amends SFAS No. 123 and was effective for public companies for interim
+or annual periods beginning after June  15,  2005. The new
+standard requires us to expense employee stock options and other
+share-based payments. The company will value employee share options
+using the Black-Scholes options pricing model.  The new standard
+may be adopted in one of three ways   the modified prospective
+transition method, a variation of the modified prospective transition
+method or the modified retrospective transition method. At
+December  31,  2005 there is a deferred expense of $77,752
+for the unamortized portion of options issued during 2005, all of which
+will be expensed in 2006. 
+
+F-10 
+
+CPI
+AEROSTRUCTURES, INC.       NOTES TO FINANCIAL
+STATEMENTS December  31,
+2005 
+
+2.  
+  COSTS
+AND ESTIMATED EARNINGS IN EXCESS OF BILLINGS ON UNCOMPLETED
+CONTRACTS:  
+   
+ At December  31,  2005, costs
+and estimated earnings in excess of billings on uncompleted contracts
+(unbilled) consist
+of: 
+
+At
+December  31,  2004, costs and estimated earnings in excess
+of billings on uncompleted contracts (unbilled) consist
+of: 
+
+Unbilled
+costs and estimated earnings are billed in accordance with applicable
+contract terms. As of December  31,  2005, $ 2,115,000 of
+the balances above, primarily commercial contracts, are not expected to
+be collected within one year. There are no amounts billed under
+retainage provisions. 
+
+F-11 
+
+CPI
+AEROSTRUCTURES, INC.       NOTES TO FINANCIAL
+STATEMENTS December  31,
+2005 
+
+3.  
+  ACCOUNTS
+RECEIVABLE:  
+   
+ Accounts receivable consists of
+trade receivables as
+follows: 
+
+4.  
+  PLANT
+AND EQUIPMENT:  
+   
+ Plant and equipment, at cost, consists
+of the
+following: 
+
+5.  
+  RELATED
+PARTY TRANSACTIONS:  
+   
+ In October  2000, the Company
+adopted a Greit Plan for the purpose of offering senior management a
+deferred compensation death benefit plan (the
+  Plan  ) that provides a tax-free benefit
+and which is tax-neutral to the Company. Pursuant to the Plan, the
+Company made a noninterest-bearing loan to an employee in the amount of
+$150,000, which was used to purchase the Plan. The Plan has since been
+terminated. The surrender value has been returned to the employee who
+has placed the proceeds from the surrender value in an annuity, which
+will mature to $150,000. Simultaneously, the employee purchased an
+insurance policy in the amount of $150,000, of which the Company is the
+sole beneficiary. The loan to the employee will be repaid to the
+Company upon the maturity date of the annuity or upon the death of the
+employee, whichever occurs
+first. 
+
+6.  
+  DISCONTINUED
+OPERATIONS:  
+   
+ On January  22,  2002, the
+Company announced a decision made by the board of directors as of
+December  31,  2001 to close the Kolar facilities located
+in Ithaca, New York, and liquidate its assets through a public auction
+of its machinery and equipment and the private sale of its real
+estate.On February  21,  2002, Kolar sold a substantial
+portion of its machinery and equipment at an auction conducted by
+Daley-Hodkin Corporation at Kolar s main facility in Ithaca, New
+York. In connection with the discontinuance of Kolar s
+operations, the  
+
+F-12 
+
+CPI
+AEROSTRUCTURES, INC.       NOTES TO FINANCIAL
+STATEMENTS December  31,
+2005 
+
+Company incurred a one-time charge of
+$10,422,816 related to the write-off of Kolar s assets, net of
+expected proceeds, and an accrual for estimated losses during the
+phase-out period. The disposition of Kolar s operations
+represents a disposal of a business segment under APB Opinion No. 30 in
+2001. Accordingly, results of the operation have been classified as
+discontinued. On July  2,  2003, Kolar s corporate
+entity was merged into the Company. For business segment reporting
+purposes, Kolar s business results were previously classified as
+the   Machining   segment. In 2003, the
+Company sold the remaining assets for Kolar and recorded a gain of
+$461,235. 
+
+7.  
+  LONG
+TERM DEBT AND CREDIT FACILITY:  
+   
+ Long term debt
+includes capital leases which expire during 2007. The leases require
+monthly payments of principal and interest, imputed at an interest rate
+of 5% and 9% per annum. 
+
+Future minimum lease
+payments under long-term debt are as
+follows: 
+
+In September  2003,
+the Company entered into a three year, $5.0  million revolving
+credit facility with JP Morgan Chase Bank, secured by the assets of the
+Company. The facility specifies interest rates that range between the
+Prime Rate and 225 basis points over LIBOR, depending on certain terms
+and conditions. As of December  31,  2005, the Company has
+not borrowed any funds pursuant to this
+facility. 
+
+F-13 
+
+CPI
+AEROSTRUCTURES, INC.       NOTES TO FINANCIAL
+STATEMENTS December  31,
+2005 
+
+8.  
+  COMMITMENTS:  
+   
+ The
+Company has employment agreements with six employees. The aggregate
+future commitment under these agreements is as
+follows: 
+
+These
+agreements provide for additional bonus payments that are calculated as
+defined. 
+
+The Company leases an office and warehouse
+facility under a non-cancelable operating lease which expires in
+December  2014. The aggregate future commitment under this
+agreement is as
+follows: 
+
+9.  
+  INCOME
+TAXES:  
+   
+ The provision for income taxes consists of the
+following: 
+
+F-14 
+
+CPI
+AEROSTRUCTURES, INC.       NOTES TO FINANCIAL
+STATEMENTS December  31,
+2005 
+
+The
+difference between the income tax provision computed at the federal
+statutory rate and the actual tax provision is accounted for as
+follows: 
+
+The
+components of deferred income tax assets and liabilities are as
+follows:  
+
+At
+December  31,  2005 and 2004, the temporary differences
+results from depreciation and difference in revenue recognized between
+book and taxes. 
+
+During 2004, the Company reversed
+approximately $850,000 of valuation allowance, which was reducing the
+deferred tax asset related to the Company s net operating loss
+carryforwards to an amount that the Company deemed more likely than not
+to be realized. The Company has no valuation allowance at
+December  31,  2005. 
+
+F-15 
+
+CPI
+AEROSTRUCTURES, INC.       NOTES TO FINANCIAL
+STATEMENTS December  31,
+2005 
+
+10.
+  
+  EMPLOYEE STOCK OPTION
+PLANS:  
+   
+ In April  1992, the Company adopted the
+1992 Stock Option Plan (the   1992 Plan  ).
+The 1992 Plan, for which 83,334 common shares are reserved for
+issuance, provides for the issuance of either incentive stock options
+or nonqualified stock options to employees, consultants or others who
+provide services to the Company. The options may not be exercised more
+than five years from the date of issuance. No more options may be
+granted under the 1992 Plan. 
+
+In 1995, the Company adopted
+the 1995 Stock Option Plan (the   1995
+Plan  ), as amended, for which 200,000 common shares are
+reserved for issuance. The 1995 Plan provides for the issuance of
+either incentive stock options or nonqualified stock options to
+employees, consultants or others who provide services to the Company.
+The options  exercise price is equal to the closing price of the
+Company s shares on the day of issuance, except for incentive
+stock options granted to the Company s president, which are
+exercisable at 110% of the closing price of the Company s
+shares on the date of issuance. 
+
+In 1998, the Company
+adopted the 1998 Performance Equity Plan (the   1998
+Plan  ). The 1998 Plan, as amended, reserved 463,334
+common shares for issuance. The 1998 Plan provides for the issuance of
+either incentive stock options or nonqualified stock options to
+employees, consultants or others who provide services to the Company.
+The options  exercise price is equal to the closing price of the
+Company s shares on the day of issuance, except for incentive
+stock options granted to the Company s president, which are
+exercisable at 110% of the closing price of the Company s
+shares on the date of issuance. 
+
+In 2000, the Company
+adopted the Performance Equity Plan 2000 (the   2000
+Plan  ). The 2000 Plan, as amended, reserved 1,230,000
+common shares for issuance. The 2000 Plan provides for the issuance of
+either incentive stock options or nonqualified stock options to
+employees, consultants or others who provide services to the Company.
+The options  exercise price is equal to the closing price of the
+Company s shares on the day of issuance, except for incentive
+stock options granted to the Company s president, which are
+exercisable at 110% of the closing price of the Company s
+shares on the date of issuance. 
+
+F-16 
+
+CPI
+AEROSTRUCTURES, INC.       NOTES TO FINANCIAL
+STATEMENTS December  31,
+2005 
+
+A summary of the status of the
+Company s four stock option plans as of December
+31,  2005 and 2004 and changes during those years is as
+follows: 
+
+The
+following table summarizes information about stock options outstanding
+and exercisable at December  31,  2005: 
+
+12.
+  
+  EMPLOYEE BENEFIT PLAN:  
+   
+ On
+September  11,  1996, CPI s board of directors
+instituted a defined contribution plan under Section 401(k) of the
+Internal Revenue Code (the   Code  ). On
+October  1,  1998, the Company amended and standardized
+both the CPI and Kolar plans as required by the Code. Pursuant to the
+amended plan, qualified employees may contribute a percentage of their
+pretax eligible  
+
+F-17 
+
+CPI
+AEROSTRUCTURES, INC.       NOTES TO FINANCIAL
+STATEMENTS December  31,
+2005 
+
+compensation to the Plan and the Company
+will match a percentage of each employee s contribution.
+Additionally, the Company has a profit-sharing plan covering all
+eligible employees. Contributions by the Company are at the discretion
+of management. The amount of contributions recorded by the Company in
+2005, 2004 and 2003 amounted to $91,318, $108,706 and $81,310,
+respectively. 
+
+15.
+  
+  SUMMARY OF QUARTERLY INFORMATION
+(UNAUDITED)  
+
+F-18 
+
+In
+accordance with Section 13 or 15(d) of the Exchange Act, the registrant
+caused this report to be signed on its behalf by the undersigned,
+thereunto duly
+authorized. 
+
+Dated:
+March  30,  2006  
+   
+  CPI AEROSTRUCTURES,
+INC. (Registrant)  
+
+By:  
+   
+  /s/
+Edward J. Fred  
+
+Edward J. Fred 
+Chief Executive Officer, President,  Secretary and
+Director  
+
+In accordance with the Exchange Act, this
+report has been signed below by the following persons on behalf of the
+registrant and in the capacities and on the dates
+indicated: 
+
+Signature 
+  
+ Title 
+  
+ Date 
+
+/s/
+Eric Rosenfeld 
+  
+ Chairman
+of the Board of Directors 
+  
+ March  30,
+2006 
+
+Eric Rosenfeld 
+
+/s/ Edward J.
+Fred 
+  
+ Chief Executive
+Officer, President, Secretary and Director 
+  
+ March
+30,  2006 
+
+Edward J. Fred 
+
+/s/
+Arthur August 
+  
+ Chairman
+Emeritus 
+  
+ March  30,
+2006 
+
+Arthur August 
+
+/s/ Vincent
+Palazzolo 
+  
+ Chief
+Financial Officer 
+  
+ March  30,
+2006 
+
+Vincent Palazzolo 
+
+/s/ Walter
+Paulick 
+  
+ Director 
+  
+ March  30,
+2006 
+
+Walter
+Paulick 
+
+/s/ Kenneth
+McSweeney 
+  
+ Director 
+  
+ March
+30,  2006 
+
+Kenneth
+McSweeney 
+
+/s/ A.C.
+Providenti 
+  
+ Director 
+  
+ March
+30,  2006 
+
+A.C.
+Providenti 
+
+<EX-21.1>
+ 5
+ file002.htm
+ SUBSIDIARIES OF THE REGISTRANT
+
+EXHIBIT
+21.1 
+ Subsidiaries of the
+Registrant 
+ None. 
+
+</EX-21.1>
+
+<EX-23.1>
+ 6
+ file003.htm
+ CONSENT OF AUDITORS
+
+Exhibit
+23.1 
+ 
+ CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING
+FIRM 
+ We consent to the incorporation by reference in the
+Company s Registration Statement on Form S-8 (Registration
+Numbers 333-11669, 333-42403 and 333-130077) and on Form S-3
+(Registration Numbers 333-08391 and 333-08216), of our report dated
+March  29,  2006, on our audit of the financial statements
+of CPI Aerostructures, Inc. as of and for the years ended
+December  31,  2005 and 2004, appearing in the 2005 Annual
+Report on Form 10-K. 
+
+</EX-23.1>
+
+<EX-23.2>
+ 7
+ file004.htm
+ CONSENT OF ACCOUNTANTS
+
+Exhibit
+23.2 
+ CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING
+FIRM 
+ To the Board of Directors CPI
+Aerostructures, Inc. 
+ We hereby consent to
+incorporation by reference in Registration Numbers 333-11669, 333-42403
+and 333-130077 on Form S-8 and Registration Numbers 333-08391 and
+333-08216 on Form S-3 of our report dated January  30,
+2004 on the statements of income, shareholders  equity, and cash
+flows of CPI Aerostructures, Inc. for the year ended December
+31,  2003, which appear in the December  31,  2005
+Annual Report on Form 10-K of CPI Aerostructures,
+Inc. 
+ 
+ /s/ Goldstein Golub Kessler
+LLP 
+ 
+ GOLDSTEIN GOLUB KESSLER LLP 
+ New York, New
+York 
+ March 30,
+2006 
+
+</EX-23.2>
+
+<EX-31.1>
+ 8
+ file005.htm
+ CERT CEO SECT 302
+
+EXHIBIT
+31.1 
+ SECTION 302 CERTIFICATION PURSUANT TO RULE 13a-14 AND
+15d-14 UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS
+AMENDED 
+ I, Edward J. Fred, certify
+that: 
+
+1.  
+ I have reviewed this Annual Report on
+Form 10-K of CPI Aerostructures, Inc.; 
+
+2.  
+ Based
+on my knowledge, this report does not contain any untrue statement of a
+material fact or omit to state a material fact necessary to make the
+statements made, in light of the circumstances under which such
+statements were made, not misleading with respect to the period covered
+by this report; 
+
+3.  
+ Based on my knowledge, the
+financial statements, and other financial information included in this
+report, fairly present in all material respects the financial
+condition, results of operations and cash flows of the registrant as
+of, and for, the periods presented in this
+report; 
+
+4.  
+ The registrant s other
+certifying officer(s) and I are responsible for establishing and
+maintaining disclosure controls and procedures (as defined in Exchange
+Act Rules 13a-15(e) and 15d-15(e)) for the registrant and
+have: 
+
+(a)  
+ Designed such disclosure controls and
+procedures, or caused such disclosure controls and procedures to be
+designed under our supervision, to ensure that material information
+relating to the registrant, including its consolidated subsidiaries, is
+made known to us by others within those entities, particularly during
+the period in which this report is being
+prepared; 
+
+(b)  
+ [intentionally
+omitted]; 
+
+(c)  
+ Evaluated the effectiveness of
+the registrant s disclosure controls and procedures and
+presented in this report our conclusions about the effectiveness of the
+disclosure controls and procedures, as of the end of the period covered
+by this report based on such evaluation;
+and 
+
+(d)  
+ Disclosed in this report any change in
+the registrant s internal control over financial reporting that
+occurred during the registrant s fourth fiscal quarter that has
+materially affected, or is reasonably likely to materially affect, the
+registrant s internal control over financial reporting;
+and 
+
+5.  
+ The registrant s other certifying
+officer(s) and I have disclosed, based on our most recent evaluation of
+internal control over financial reporting, to the registrant s
+auditors and to the audit committee of the registrant s board of
+directors (or persons performing the equivalent
+functions): 
+
+(a)  
+ All significant deficiencies and
+material weaknesses in the design or operation of internal control over
+financial reporting which are reasonably likely to adversely affect the
+registrant s ability to record, process, summarize and report
+financial information; and 
+
+(b)  
+ Any fraud, whether
+or not material, that involves management or other employees who have a
+significant role in the registrant s internal control over
+financial reporting. 
+
+Date: March  30,
+2006 
+
+By:   /s/ Edward J.
+Fred                         
+   
+     Name:
+Edward J. Fred     Title: Chief Executive
+Officer,                   President and
+Secretary 
+
+</EX-31.1>
+
+<EX-31.2>
+ 9
+ file006.htm
+ CERT CFO SECT 302
+
+EXHIBIT
+31.2 
+ SECTION 302 CERTIFICATION PURSUANT TO RULE 13a-14 AND
+15d-14 UNDER THE SECURITIES EXCHANGE ACT OF 1934, AS
+AMENDED 
+ I, Vincent Palazzolo, certify
+that: 
+
+1.  
+ I have reviewed this Annual Report on
+Form 10-K of CPI Aerostructures, Inc.; 
+
+2.  
+ Based
+on my knowledge, this report does not contain any untrue statement of a
+material fact or omit to state a material fact necessary to make the
+statements made, in light of the circumstances under which such
+statements were made, not misleading with respect to the period covered
+by this report; 
+
+3.  
+ Based on my knowledge, the
+financial statements, and other financial information included in this
+report, fairly present in all material respects the financial
+condition, results of operations and cash flows of the registrant as
+of, and for, the periods presented in this
+report; 
+
+4.  
+ The registrant s other
+certifying officer(s) and I are responsible for establishing and
+maintaining disclosure controls and procedures (as defined in Exchange
+Act Rules 13a-15(e) and 15d-15(e)) for the registrant and
+have: 
+
+(a)  
+ Designed such disclosure
+controls and procedures, or caused such disclosure controls and
+procedures to be designed under our supervision, to ensure that
+material information relating to the registrant, including its
+consolidated subsidiaries, is made known to us by others within those
+entities, particularly during the period in which this report is being
+prepared; 
+
+(b)  
+ [intentionally
+omitted]; 
+
+(c)  
+ Evaluated the
+effectiveness of the registrant s disclosure controls and
+procedures and presented in this report our conclusions about the
+effectiveness of the disclosure controls and procedures, as of the end
+of the period covered by this report based on such evaluation;
+and 
+
+(d)  
+ Disclosed in this report any
+change in the registrant s internal control over financial
+reporting that occurred during the registrant s fourth fiscal
+quarter that has materially affected, or is reasonably likely to
+materially affect, the registrant s internal control over
+financial reporting; and 
+
+5.  
+ The
+registrant s other certifying officer(s) and I have disclosed,
+based on our most recent evaluation of internal control over financial
+reporting, to the registrant s auditors and to the audit
+committee of the registrant s board of directors (or persons
+performing the equivalent
+functions): 
+
+(a)  
+ All significant
+deficiencies and material weaknesses in the design or operation of
+internal control over financial reporting which are reasonably likely
+to adversely affect the registrant s ability to record, process,
+summarize and report financial information;
+and 
+
+(b)  
+ Any fraud, whether or not
+material, that involves management or other employees who have a
+significant role in the registrant s internal control over
+financial reporting. 
+
+Date: March  30,
+2006 
+
+By:  
+   
+   /s/ Vincent Palazzolo         
+ Name: Vincent
+Palazzolo Title: Chief Financial
+Officer  
+
+</EX-31.2>
+
+<EX-32.1>
+ 10
+ file007.htm
+ CERT 906
+
+EXHIBIT
+32.1 
+ CERTIFICATION PURSUANT TO 18 U.S.C. SECTION
+1350 AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY
+ACT OF 2002 
+ In connection with the Annual Report of CPI
+Aerostructures, Inc. (the   Company  ) on
+Form 10-K for the year ended December  31,  2005 as filed
+with the Securities and Exchange Commission (the
+  Report  ), the undersigned, in the
+capacities and on the date indicated below, hereby certifies pursuant
+to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the
+Sarbanes-Oxley Act of 2002, that: 
+ 1. the Report
+fully complies with the requirements of Section 13(a) or 15(d) of the
+Securities Exchange Act of 1934; and 
+ 2. the
+information contained in the Report fairly presents, in all material
+respects, the financial condition and results of operation of the
+Company. 
+ Dated: March  30,
+2006 
+
+/s/ Edward J.
+Fred 
+ Edward J. Fred Chief Executive Officer, President,
+and Secretary 
+
+By:   /s/ Vincent
+Palazzolo 
+                 Name: Vincent
+Palazzolo                 Title: Chief Financial
+Officer 
+
+</EX-32.1>
+

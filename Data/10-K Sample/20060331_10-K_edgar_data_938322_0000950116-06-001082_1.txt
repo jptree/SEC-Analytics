@@ -1,0 +1,2648 @@
+<Header>
+<FileStats>
+    <FileName>20060331_10-K_edgar_data_938322_0000950116-06-001082_1.txt</FileName>
+    <GrossFileSize>181576</GrossFileSize>
+    <NetFileSize>145260</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>642</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>18</N_Tables>
+    <N_Exhibits>3</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000950116-06-001082.hdr.sgml : 20060331
+<ACCEPTANCE-DATETIME>20060331143657
+ACCESSION NUMBER:		0000950116-06-001082
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20051231
+FILED AS OF DATE:		20060331
+DATE AS OF CHANGE:		20060331
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COMMONWEALTH INCOME & GROWTH FUND II
+		CENTRAL INDEX KEY:			0000938322
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-MISCELLANEOUS EQUIPMENT RENTAL & LEASING [7350]
+		IRS NUMBER:				232735641
+		STATE OF INCORPORATION:			PA
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	033-89476
+		FILM NUMBER:		06727915
+
+	BUSINESS ADDRESS:	
+		STREET 1:		470 JOHN YOUNG WAY
+		STREET 2:		SUITE 300
+		CITY:			EXTON
+		STATE:			PA
+		ZIP:			19341
+		BUSINESS PHONE:		610-594-9600
+
+	MAIL ADDRESS:	
+		STREET 1:		470 JOHN YOUNG WAY
+		STREET 2:		SUITE 300
+		CITY:			EXTON
+		STATE:			PA
+		ZIP:			19341
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ A6EOjE9FBW39tuT6OELrgfdGdqQL79atRveTRimUKCnDzz7dQyEMkEAriRLbS7N/
+ bNVvjNBlUnuIKCe/gbXWIQ==
+
+ 0000950116-06-001082.txt : 20060331
+
+10-K
+ 1
+ ten-k.txt
+ 10-K
+
+UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 10-K
+
+[X] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT
+OF 1934 (FEE REQUIRED) FOR THE FISCAL YEAR ENDED DECEMBER 31, 2005
+
+[ ] TRANSITION REPORT PURSUANT TO SECTION 13 or 15(d) OF THE SECURITIES EXCHANGE
+ACT OF 1934
+
+                        Commission File Number: 33-89476
+
+                      COMMONWEALTH INCOME & GROWTH FUND II
+             (Exact name of registrant as specified in its charter)
+
+         Pennsylvania                                           23-2785120
+(State or other jurisdiction of                              (I.R.S. Employer
+ incorporation or organization)                           Identification Number)
+
+                               470 John Young Way
+                                 Exton, PA 19341
+          (Address, including zip code, of principal executive offices)
+
+                                 (610) 594-9600
+               (Registrant's telephone number including area code)
+
+           Securities registered pursuant to Section 12(b) of the Act:
+
+           Title of each class                    Name of exchange on
+           to be so registered                      which each class
+                                                  is to be registered
+
+              None                                      N/A
+
+           Securities registered pursuant to Section 12(g) of the Act:
+
+                      Units of Limited Partnership Interest
+                      -------------------------------------
+                                (Title of Class)
+
+         Indicate by check mark whether the registrant (i) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months, and (ii) has been subject to such filing
+requirements for the past 90 days: YES [X] NO [ ]
+
+         Indicate by check mark if disclosure of delinquent filers pursuant to
+Item 405 of Regulation S-K is not contained herein, to the best of Registrant's
+knowledge, in definitive proxy or information statements incorporated by
+reference in Part III of this Form 10-K or any amendment to this Form 10-K: YES
+[X] NO [ ] Indicate by check mark whether the registrant is an accelerated filer
+(as defined in Rule 12c-2 of the Act): YES [ ] NO [X]
+
+         Indicate by check mark whether the registrant is a shell company (as
+defined in Rule 12b-2 of the Act): YES [ ] NO [X]
+
+         Aggregate Market Value of Voting and Non-Voting Common Equity Held by
+non-affiliates of the Registrant: N/A
+
+         Indicate by check mark if the registrant is a well-known seasoned
+issuer, (as defined in Rule 405 of the Act): YES [ ] NO [X]
+
+FORM 10-K
+                                DECEMBER 31, 2005
+
+                                TABLE OF CONTENTS
+
+PART I
+                                                                               
+Item 1.     Business                                                               3
+Item 1A.    Risk Factors                                                           6
+Item 1B.    Unresolved Staff Comments                                              6
+Item 2.     Properties                                                             6
+Item 3.     Legal Proceedings                                                      6
+Item 4.     Submission of Matters to a Vote of Security Holders                    7
+
+                                     PART II
+Item 5.     Market for Registrant's Common Equity, Related Stockholder Matters
+            and Issuer Purchases of Equity Securities                              7
+Item 6.     Selected Financial Data                                                9
+Item 7.     Management's Discussion and Analysis of Financial Condition and
+            Results of Operations                                                 11
+Item 7A.    Quantitative and Qualitative Disclosures About Market Risk            14
+Item 8.     Financial Statements and Supplementary Data                           14
+Item 9.     Changes in and Disagreements with Accountants on Accounting and
+            Financial Disclosure                                                  14
+Item 9A.    Controls and Procedures                                               15
+Item 9B.    Other Information                                                     15
+
+                                    PART III
+Item 10.    Directors and Executive Officers of the Registrant                    15
+Item 11.    Executive Compensation                                                18
+Item 12.    Security Ownership of Certain Beneficial Owners and Management        18
+Item 13.    Certain Relationships and Related Transactions                        19
+Item 14.    Principal Accountant Fees and Services                                25
+
+                                     PART IV
+Item 15.    Exhibits and Financial Statements                                     25
+
+            Index to Exhibits
+
+            Signatures
+
+            Certifications
+
+2
+
+PART I
+
+ITEM 1:     BUSINESS
+
+GENERAL
+
+Commonwealth Income & Growth Fund II (the "Partnership") was formed on January
+13, 1995, under the Pennsylvania Revised Uniform Limited Partnership Act. The
+Partnership began offering $15,000,000 of Units of Limited Partnership ("Units")
+to the public on May 12, 1995 (the "Offerings"). On September 22, 1995, the
+escrow agent released $2,521,380 in subscriptions from investors and 126,118
+Units were admitted as Limited Partners of the Partnership. The Partnership
+terminated its offering of Units on May 12, 1997, with 461,817 Units
+($9,235,185) admitted as Limited Partners of the Partnership.
+
+The Partnership began liquidation effective April 1, 2005. Particular items of
+equipment may be sold at any time if, in the judgment of the General Partner, it
+is in the best interest of the Partnership to do so. The determination of
+whether particular items of the partnership equipment should be sold will be
+made by the General Partner after consideration of all relevant factors
+(including prevailing economic conditions, the cash requirements of the
+Partnership, potential capital appreciation, cash flow and federal income tax
+considerations), with a view toward achieving the principal investment
+objectives of the Partnership.
+
+See "The Glossary" below for the definition of capitalized terms not otherwise
+defined in the text of this report.
+
+PRINCIPAL INVESTMENT OBJECTIVES
+
+The Partnership was formed for the purpose of acquiring various types of
+Equipment, including computer peripheral and other similar capital equipment.
+The Partnership utilized the net proceeds of the Offering to purchase IBM and
+IBM compatible computer peripheral and other similar capital equipment. The
+Partnership utilizes Retained Proceeds and debt financing (not exceeding 30% of
+the aggregate cost of the Equipment owned or subject to Conditional Sales
+Contract by the Partnership at the time the debt was incurred) to purchase
+additional Equipment. The Partnership acquires and leases equipment principally
+to U.S. corporations and other institutions pursuant to Operating Leases. The
+Partnership retains the flexibility to enter into Full Payout Net Leases, Direct
+Financing Leases and Conditional Sales Contracts. Currently, the Partnership's
+primary objective is the orderly and efficient liquidation of its equipment
+portfolio.
+
+Limited Partners do not have the right to vote on or otherwise approve or
+disapprove any particular investment to be made by the Partnership or the terms
+of any sale of equipment in liquidation
+
+The General Partner has the discretion consistent with its fiduciary duty to
+change the investment objectives of the Partnership if it determines that such a
+change is in the best interest of the Limited Partners and so long as such a
+change is consistent with the Partnership Agreement. The General Partner will
+notify the Limited Partners if it makes such a determination to change the
+Partnership's investment objectives.
+
+TYPES OF EQUIPMENT
+
+COMPUTER PERIPHERAL EQUIPMENT. Computer peripheral equipment consists of devices
+used to convey information into and out of a central processing unit (or
+"mainframe") of a computer system, such as tape drives, disk drives, tape
+controllers, disk controllers, printers, terminals and related control units,
+all of which are in some way related to the process of storing, retrieving, and
+processing information by computer.
+
+Computer technology has developed rapidly in recent years and is expected to
+continue to do so. Technological advances have permitted continued reductions in
+the cost of computer processing capacity, thereby permitting applications not
+economically feasible a few years ago. Much of the older IBM and IBM compatible
+computer peripheral equipment has not been retired from service, because
+software is generally interchangeable between older and newer equipment and
+older equipment are capable of performing many of the same functions as newer
+equipment. The General Partner believes that historically values of peripheral
+equipment have been affected less dramatically by changes in technology than
+have the values of central processing units. An equipment user who upgrades to a
+more advanced central processor generally can continue to use his existing
+peripheral equipment. Peripheral equipment nevertheless is
+
+                                                                               3
+
+subject to declines in value as new, improved models are developed and become
+available. Technological advances and other factors, discussed below in
+Management Discussion and Analysis, have at times caused dramatic reduction in
+the market prices of older models of IBM and IBM compatible computer peripheral
+equipment from the prices at which they were originally introduced.
+
+DESCRIPTION OF LEASES
+
+The Partnership to date has purchased only Equipment that is subject to a lease
+or for which a lease or similar agreement will be entered into contemporaneously
+with the consummation of the Partnership's acquisition of the Equipment. The
+General Partner to date has leased most of the Equipment purchased by the
+Partnership to third parties pursuant to Operating Leases. Operating Leases are
+relatively short-term (12 to 48 month) leases under which the aggregate
+noncancellable rental payments during the original term of the lease are not
+sufficient to permit the lessor to recover the purchase price of the subject
+Equipment. The Equipment may also be leased pursuant to Full Payout Net Leases.
+Full Payout Net Leases are leases under which the aggregate noncancellable
+rental payments during the original term of the lease are at least sufficient to
+recover the purchase price of the subject Equipment. It is anticipated that the
+Partnership will enter into few, if any, Full Payout net Leases. The General
+Partner may also enter into Conditional Sales Contracts for Equipment. A
+Conditional Sales Contract generally provides that the noncancellable payments
+to the seller over the term of the contract are sufficient to recover the
+investment in such Equipment and to provide a return on such investment. Under a
+Conditional Sales Contract, the seller reserves title to, and retain a security
+interest in, the Equipment until the Purchase Price of the Equipment is paid. As
+of December 31, 2005, the Partnership has not entered into any Full Payout Net
+Leases or Conditional Sales Contracts for Equipment and does not presently
+intend to do so. The Equipment may also be leased pursuant to Capital Leases.
+Capital Leases are leases under which the Equipment either transfers to the
+lessee at the end of the lease term, contains a bargain purchase price option,
+the lease term is equal to 75% or more of the estimated economic life of the
+Equipment, or the present value at the beginning of the lease term of the
+minimum lease payments is equal to or exceeds 90% of the excess of the fair
+value of the Equipment. As of December 31, 2005, we have entered into seven
+Capital Leases with two lessees.
+
+In general, the terms of the Partnership's leases, whether the Equipment is
+leased pursuant to an Operating lease, Capital Lease or a Full Payout Net Lease,
+depend upon a variety of factors, including: the desirability of each type of
+lease from both an investment and a tax point of view; the relative demand among
+lessees for Operating, Capital Lease or Full Payout Net Leases; the type and use
+of Equipment and its anticipated residual value; the business of the lessee and
+its credit rating; the availability and cost of financing; regulatory
+considerations; the accounting treatment of the lease sought by the lessee or
+the Partnership; and competitive factors.
+
+An Operating Lease generally represents a greater risk to the Partnership than a
+Capital Lease or Full Payout Net Lease, because in order to recover the purchase
+price of the subject Equipment and earn a return on such investment, it is
+necessary to renew or extend the Operating Lease, lease the Equipment to a third
+party at the end of the original lease term, or sell the Equipment. On the other
+hand, the term of an Operating Lease is generally much shorter than the term of
+a Capital Lease or Full Payout Net Lease, and the lessor is thus afforded an
+opportunity under an Operating Lease to re-lease or sell the subject Equipment
+at an earlier stage of the Equipment's life cycle than under a Capital Lease or
+Full Payout Net Lease. Also, the annual rental payments received under an
+Operating Lease are ordinarily higher than those received under a Capital Lease
+or Full Payout Net Lease.
+
+The Partnership's policy is to generally enter into "triple net leases" (or the
+equivalent, in the case of a Conditional Sales Contract) which typically provide
+that the lessee or some other party bear the risk of physical loss of the
+Equipment; pay taxes relating to the lease or use of the Equipment; maintain the
+Equipment; indemnify the Partnership-lessor against any liability suffered by
+the Partnership as the result of any act or omission of the lessee or its
+agents; maintain casualty insurance in an amount equal to the greater of the
+full value of the Equipment and a specified amount set forth in the lease; and
+maintain liability insurance naming the Partnership as an additional insured
+with a minimum coverage which the General Partner deems appropriate. In
+addition, the Partnership may purchase "umbrella" insurance policies to cover
+excess liability and casualty losses, to the extent deemed practicable and
+advisable by the General Partner. As of December 31, 2005, all leases that have
+been entered into are "triple net leases".
+
+                                                                               4
+
+The General Partner has not established any standards for lessees to whom it
+will lease Equipment and, as a result, there is not an investment restriction
+prohibiting the Partnership from doing business with any lessees. However, a
+credit analysis of all potential lessees is undertaken by the General Partner to
+determine the lessee's ability to make payments under the proposed lease. The
+General Partner may refuse to enter into an agreement with a potential lessee
+based on the outcome of the credit analysis.
+
+The terms and conditions of the Partnership's leases, or Conditional Sales
+Contracts, are each determined by negotiation and may impose substantial
+obligations upon the Partnership. Where the Partnership assumes maintenance or
+service obligations, the General Partner generally causes the Partnership to
+enter into separate maintenance or service agreements with manufacturers or
+certified maintenance organizations to provide such services. Such agreements
+generally require annual or more frequent adjustment of service fees. As of
+December 31, 2005, the Partnership has not entered into any such agreements.
+
+Remarketing fees are paid to the leasing companies from which the Partnership
+purchases leases. These are fees that are earned by the leasing companies when
+the initial terms of the lease have been met. The General Partner believes that
+this strategy adds value since it entices the leasing company to "stay with the
+lease" for potential extensions, remarketing or sale of equipment. This strategy
+potentially minimizes any conflicts the leasing company may have with a
+potential new lease and will potentially assist in maximizing overall portfolio
+performance. The remarketing fee is tied into lease performance thresholds and
+is factored in the negotiation of the fee.
+
+LIQUIDATION POLICIES
+
+The Partnership began disposing of its Equipment in April 2005. The
+Partnership's objective is to sell all of its assets and dissolve by December
+31, 2006.
+
+Particular items of Equipment may be sold at any time if, in the judgment of the
+General Partner, it is in the best interest of the Partnership to do so. The
+determination of whether particular items of Partnership Equipment should be
+sold or otherwise disposed of is made by the General Partner after consideration
+of all relevant factors (including prevailing general economic conditions,
+lessee demand, the General Partner's views of current and future market
+conditions, the cash requirements of the Partnership, potential capital
+appreciation, cash flow and federal income tax considerations), with a view
+toward achieving the principal investment objectives of the Partnership. As
+partial payment for Equipment sold, the Partnership may receive purchase money
+obligations secured by liens on such Equipment. Subject to the General Partner's
+discretion the Partnership may extend beyond December 31, 2006, if deemed
+beneficial to the Partnership.
+
+MANAGEMENT OF EQUIPMENT
+
+Equipment management services for the Partnership's Equipment is provided by the
+General Partner and its Affiliates and by persons employed by the General
+Partner. Such services will consist of collection of income from the Equipment,
+negotiation and review of leases, Conditional Sales Contracts and sales
+agreements, releasing and leasing-related services, payment of operating
+expenses, periodic physical inspections and market surveys, servicing
+indebtedness secured by Equipment, general supervision of lessees to assure that
+they are properly utilizing and operating Equipment, providing related services
+with respect to Equipment, supervising, monitoring and reviewing services
+performed by others in respect to Equipment and preparing monthly Equipment
+operating statements and related reports.
+
+GENERAL RESTRICTIONS
+
+         Under the Partnership Agreement, the Partnership is not permitted,
+among other things, to:
+
+         (a)      invest in junior trust deeds unless received in connection
+                  with the sale of an item of Equipment in an aggregate amount
+                  which does not exceed 30% of the assets of the Partnership on
+                  the date of the investment;
+         (b)      invest in or underwrite the securities of other issuers;
+         (c)      acquire any Equipment for Units;
+         (d)      issue senior securities (except that the issuance to lenders
+                  of notes or other evidences of indebtedness in connection with
+                  the financing or refinancing of Equipment or the Partnership's
+                  business shall not be deemed to be the issuance of senior
+                  securities);
+
+                                                                               5
+
+(e)      make loans to any Person, including the General Partner or any
+                  of its Affiliates, except to the extent a Conditional Sales
+                  Contract constitutes a loan;
+         (f)      sell or lease any Equipment to, lease any Equipment from, or
+                  enter into any sale-leaseback transactions with, the General
+                  Partner or any of its Affiliates; or
+         (g)      give the General Partner or any of its Affiliates an exclusive
+                  right or employment to sell the Partnership's Equipment.
+
+The General Partner has also agreed in the Partnership Agreement to use its best
+efforts to assure that the Partnership shall not be deemed an "investment
+company" as such term is detained in the Investment Company Act of 1940.
+
+The General Partner and its Affiliates may engage in other activities, whether
+or not competitive with the Partnership. The Partnership Agreement provides,
+however, that neither the General Partner nor any of its Affiliates may receive
+any rebate or "give up" in connection with the Partnership's activities or
+participate in reciprocal business arrangements that circumvent the restrictions
+in the Partnership Agreement against dealings with Affiliates.
+
+EMPLOYEES
+
+The Partnership had no employees in 2005 and receives administrative and other
+services from a related party, Commonwealth Capital Corp. (CCC), which has 51
+employees as of December 31, 2005.
+
+ITEM 1A.    RISK FACTORS
+
+THERE IS NO PUBLIC MARKET FOR THE UNITS, AND YOU MAY BE UNABLE TO SELL OR
+TRANSFER YOUR UNITS AT A TIME AND PRICE OF YOUR CHOOSING
+
+There exists no public market for the units, and the general partner does not
+expect a public market for units to develop. The units cannot be pledged or
+transferred without the consent of the General Partner. The units should be
+purchased as a long-term investment only.
+
+The General Partner has sole discretion in deciding whether we will redeem units
+in the future. Consequently, you may not be able to liquidate your investment in
+the event of an emergency. You must be prepared to hold your units for the life
+of the fund.
+
+LIMITED PARTNERS DO NOT HAVE THE RIGHT TO VOTE ON OR OTHERWISE APPROVE OR
+DISAPPROVE OF ANY PARTICULAR INVESTMENT TO BE MADE BY THE PARTNERSHIP OR THE
+TERMS OF ANY SALE OF EQUIPMENT IN LIQUIDATION.
+
+ITEM 1B.    UNRESOLVED STAFF COMMENTS
+
+NOT APPLICABLE
+
+ITEM 2:     PROPERTIES
+
+NOT APPLICABLE
+
+ITEM 3:     LEGAL PROCEEDINGS
+
+NOT APPLICABLE
+
+                                                                               6
+
+ITEM 4:     SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+NOT APPLICABLE
+
+PART II
+
+ITEM 5:     MARKET FOR THE REGISTRANTS COMMON EQUITY, RELATED STOCKHOLDER
+            MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES
+
+There is no public market for the Units nor is it anticipated that one will
+develop. As of December 31, 2005, there were 539 holders of Units. The Units are
+not listed on any exchange or permitted to trade on any over-the-counter market.
+In addition, there are substantial restrictions on the transferability of Units.
+
+GENERAL LIMITATIONS
+
+Units cannot be transferred without the consent of the General Partner, which
+may be withheld in its absolute discretion. The General Partner monitors
+transfers of Units in an effort to ensure that all transfers are within certain
+safe harbors promulgated by the IRS to furnish guidance regarding publicly
+traded partnerships. These safe harbors limit the number of transfers that can
+occur in any one year. The General Partner intends to cause the Partnership to
+comply with the safe harbor that permits nonexempt transfers and redemptions of
+Units of up to five percent of the total outstanding interest in the
+Partnership's capital or profits in any one year.
+
+REDEMPTION PROVISION
+
+On a semi-annual basis, the General Partner, at its discretion, will establish
+an amount for redemption, generally not to exceed two percent of the outstanding
+Units per year, subject to the General Partner's good faith determination that
+such redemptions will not (a) cause the Partnership to be taxed as a corporation
+under Section 7704 of the Code or (b) impair the capital or operations of the
+Partnership. (The Partnership may redeem Units in excess of the two percent
+limitation if, in the good faith judgment of the General Partner, the conditions
+imposed in the preceding sentence would remain satisfied.) The redemption price
+for Units will be 105% of the selling Limited Partner's Adjusted Capital
+Contributions attributable to the Units for sale. Following the determination of
+the annual redemption amount, redemptions will occur on a semi-annual basis and
+all requests for redemption, which must be made in writing, must be on file as
+of the Record Date in which the redemption is to occur. The General Partner will
+maintain a master list of requests for redemption with priority being given to
+Units owned by estates, followed by IRAs and Qualified Plans. All other requests
+will be considered in the order received. Redemption requests made by or on
+behalf of Limited Partners who are not affiliated with the General Partner or
+its Affiliates will be given priority over those made by Limited Partners who
+are affiliated with the General Partner or its Affiliates. All redemption
+requests will remain in effect until and unless canceled, in writing, by the
+requesting Limited Partner(s).
+
+The Partnership began accepting redemption requests beginning 30 months
+following the termination of the Offering. There will be no limitations on the
+period of time that a redemption request may be pending prior to its being
+granted. Limited Partners will not be required to hold their interest in the
+Partnership for any specified period prior to their making a redemption request.
+
+In order to make a redemption request, Limited Partners will be required to
+advise the General Partner in writing of such request. Upon receipt of such
+notification, the Partnership will provide detailed forms and instructions to
+complete the request.
+
+EXEMPT TRANSFERS
+
+The following six categories of transfers are exempt transfers for purposes of
+calculating the volume limitations imposed by the IRS and will generally be
+permitted by the General Partner:
+
+                                                                               7
+
+(1)      transfers in which the basis of the Unit in the hands of the
+                  transferee is determined, in whole or in part, by reference to
+                  its basis in the hands of the transferor (for example, Units
+                  acquired by corporations in certain reorganizations,
+                  contributions to capital, gifts of Units, Units contributed to
+                  another partnership, and no liquidating as well as liquidating
+                  distributions by a parent partnership to its partners of
+                  interests in a sub partnership);
+         (2)      transfers at death;
+         (3)      transfers between members of a family (which include brothers
+                  and sisters, spouse, ancestors, and lineal descendants);
+         (4)      transfers resulting from the issuance of Units by the
+                  Partnership in exchange for cash, property, or services;
+         (5)      transfers resulting from distributions from Qualified Plans;
+                  and
+         (6)      any transfer by a Limited Partner in one or more transactions
+                  during any 30-day period of Units representing in the
+                  aggregate more than five percent of the total outstanding
+                  interests in capital or profits of the Partnership.
+
+ADDITIONAL RESTRICTIONS ON TRANSFER
+
+Limited Partners who wish to transfer their Units to a new beneficial owner are
+required to pay the Partnership up to $50 for each transfer to cover the
+Partnership's cost of processing the transfer application and take such other
+actions and execute such other documents as may be reasonably requested by the
+General Partner. There is no charge for re-registration of a certificate in the
+event of a marriage, divorce, death, or trust so long as the transfer is not a
+result of a sale of the Units.
+
+In addition, the following restrictions apply to each transfer: (i) no transfer
+may be made if it would cause 25% or more of the outstanding Units to be owned
+by benefit plans; and (ii) no transfer is permitted unless the transferee
+obtains such governmental approvals as may reasonably be required by the General
+Partner, including without limitation, the written consents of the Pennsylvania
+Securities Commissioner and of any other state securities agency or commission
+having jurisdiction over the transfer.
+
+ALLOCATION AND DISTRIBUTION BETWEEN THE GENERAL PARTNER AND THE LIMITED PARTNERS
+
+Cash distributions, if any, are made quarterly on March 31, June 30, September
+30 and December 31, of each year. Distributions are made 99% to the Limited
+Partners and one percent to the General Partner until the Limited Partners have
+received an amount equal to their Capital Contributions plus the Priority
+Return; thereafter, cash distributions will be made 90% to Limited Partners and
+10% to the General Partner. Distributions made in connection with the
+liquidation of the Partnership or a Partner's Units will be made in accordance
+with the Partner's positive Capital Account balance as determined under the
+Partnership Agreement and Treasury Regulations.
+
+The Priority Return is calculated on the Limited Partners' Adjusted Capital
+Contributions for their Units. The Adjusted Capital Contributions will initially
+be equal to the amount paid by the Limited Partners for their Units. If
+distributions at any time exceed the Priority Return, the excess will reduce the
+Adjusted Capital Contributions, decreasing the base on which the Priority Return
+is calculated.
+
+If the proceeds resulting from the sale of any Equipment are reinvested in
+Equipment, sufficient cash will be distributed to the Partners to pay the
+additional federal income tax resulting from such sale for a Partner in a 39.6%
+federal income tax bracket or, if lower, the maximum federal income tax rate in
+effect for individuals for such taxable year.
+
+Generally, the General Partner is allocated Net Profits equal to its cash
+distributions (but not less than one percent of Net Profits) and the balance is
+allocated to the Limited Partners. Net Profits arising from transactions in
+connection with the termination or liquidation of the Partnership are allocated
+in the following order: (1) First, to each Partner in an amount equal to the
+negative amount, if any, of his Capital Account; (2) Second, an amount equal to
+the excess of the proceeds which would be distributed to the Partners based on
+the Operating Distributions to the Partners over the aggregate Capital Accounts
+of all the Partners, to the Partners in proportion to their respective shares of
+such excess, and (3) Third, with respect to any remaining Net Profits, to the
+Partners in the same proportions as if the distributions were Operating
+Distributions. Net Losses, if any, are in all cases allocated 99% to the Limited
+Partners and one percent to the General Partner.
+
+                                                                               8
+
+Net Profits and Net Losses are computed without taking into account, in each
+taxable year of the Partnership, any items of income, gain, loss or deduction
+required to be specially allocated pursuant to Section 704(b) of the Code and
+the Treasury Regulation promulgated there under. No Limited Partner is required
+to contribute cash to the capital of the Partnership in order to restore a
+closing Capital Account deficit, and the General Partner has only a limited
+deficit restoration obligation under the Partnership Agreement.
+
+Quarterly distributions in the following amounts were declared and paid to the
+Limited Partners during 2005, 2004 and 2003.
+
+     QUARTER ENDED                      2005         2004         2003
+     -----------------------------   ----------   ----------   ----------
+     March 31                        $        0   $  114,286   $  114,286
+     June 30                             45,725      114,285      171,428
+     September 30                        56,933      114,285      171,428
+     December 31                         56,831       56,925      114,286
+                                     ----------   ----------   ----------
+                                     $  159,489   $  399,781   $  571,428
+                                     ==========   ==========   ==========
+
+ALLOCATIONS AND DISTRIBUTIONS AMONG THE LIMITED PARTNERS
+
+Except during the Offering Period, Cash Available for Distribution, which is
+allocable to the Limited Partners, is apportioned among and distributed to them
+solely with reference to the number of Units owned by each as of the Record Date
+for each such distribution. During the Offering Period, Cash Available for
+Distribution which is allocable to the Limited Partners was apportioned among
+and distributed to them with reference to both (i) the number of Units owned by
+each as of each Record Date and (ii) the number of days since the previous
+Record Date (or, in the case of the first Record Date, the commencement of the
+Offering Period) that the Limited Partner owned the Units.
+
+After the Offering Period, Net Profits, Net Losses and Cash Available for
+Distribution allocable to the Limited Partners is apportioned among them in
+accordance with the number of Units owned by each. A different convention was
+utilized during the Offering Period, whereby Net Profits and Net Losses
+allocable to Limited Partners were apportioned among them in the ratio which the
+product of the number of Units owned by a Limited Partner multiplied by the
+number of days in which the Limited Partner owns such Units during the period
+bears to the sum of such products for all Limited Partners.
+
+In addition, where a Limited Partner transfers Units during a taxable year, the
+Limited Partner may be allocated Net Profits for a period for which such Limited
+Partner does not receive a corresponding cash distribution.
+
+ITEM 6:     SELECTED FINANCIAL DATA
+
+The following table sets forth, in summary form, selected financial data for the
+Partnership as of March 31, 2005 and for each of the four years ending December
+31, 2004. This table is qualified in its entirety by the more detailed
+information and financial statements presented elsewhere in this report, and
+should be read in conjunction with "Management's Discussion and Analysis of
+Financial Condition and Results of Operations" and the financial statements and
+related notes thereto included herein. As described in Note 2 of the
+accompanying financial statements, the Partnership adopted the liquidation basis
+of accounting effective April 1, 2005. Information presented at December 31,
+2005 follows this basis of accounting. The information for March 31, 2005 and
+the four prior years follows the going-concern basis of accounting.
+
+                                                                               9
+
+Net income (loss) per unit is computed based upon net income (loss) allocated to
+the Limited Partners and the weighted average number of equivalent Units
+outstanding during the year. Cash distribution per Unit is computed based upon
+distributions allocated to the Limited Partners and the weighted average number
+of equivalent Units outstanding during the year.
+
+                                                                              10
+
+ITEM 7: MANAGEMENT DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF
+            OPERATIONS
+
+CRITICAL ACCOUNTING POLICIES AND ESTIMATES
+
+The Partnership's discussion and analysis of its financial condition and results
+of operations are based upon its financial statements which have been prepared
+in accordance with accounting principles generally accepted in the United
+States. The preparation of these financial statements requires the Partnership
+to make estimates and judgments that affect the reported amounts of assets,
+liabilities, revenues and expenses. The Partnership bases its estimates on
+historical experience and on various other assumptions that are believed to be
+reasonable under the circumstances, the results of which form the basis for
+making judgments about the carrying values of assets and liabilities that are
+not readily apparent from other sources. Actual results may differ from these
+estimates under different assumptions or conditions.
+
+The Partnership believes that its critical accounting policies affect its more
+significant judgments and estimates used in the preparation of its financial
+statements.
+
+NET ASSETS IN LIQUIDATION
+
+As a result of the General Partner's approval of the plan of liquidation as of
+April 1, 2005, we changed our basis of accounting to the liquidation basis
+effective on such date. This basis of accounting is considered appropriate when,
+among other things, liquidation of a company is probable and the net realizable
+value of assets is reasonably determinable. Under the liquidation basis of
+accounting, assets are stated at their estimated net realizable cash value and
+liabilities are stated at their anticipated settlement amounts. There are
+substantial risks and uncertainties associated with carrying out the liquidation
+of the Partnership. The valuations presented in the accompanying Statement of
+Net Assets in Liquidation represent estimates, based on present facts and
+circumstances, of the net realizable values of assets and the costs associated
+with carrying out the liquidation. The actual costs and values are expected to
+differ from the amounts shown herein and could be greater or lesser than the
+amounts recorded
+
+REVENUE RECOGNITION
+
+Through December 31, 2005, the Partnership's leasing operations consist
+substantially of operating leases and seven direct financing leases. Operating
+lease revenue is recognized on a monthly basis in accordance with the terms of
+the lease agreement. Unearned revenue from direct financing agreements is
+amortized to revenue over the lease term.
+
+The Partnership reviews a customer's credit history before extending credit and
+establishes a provision for uncollectible accounts receivable based upon the
+credit risk of specific customers, historical trends and other information.
+
+LONG-LIVED ASSETS
+
+The Partnership evaluates its long-lived assets when events or circumstances
+indicate that the value of the asset may not be recoverable. The Partnership
+determines whether impairment exists by estimating the undiscounted cash flows
+to be generated by each asset. If the estimated undiscounted cash flows are less
+than the carrying value of the asset then impairment exists. The amount of the
+impairment is determined based on the difference between the carrying value and
+the fair value. Fair value is determined based on estimated discounted cash
+flows to be generated by the asset.
+
+Depreciation on computer equipment for financial statement purposes is based on
+the straight-line method over estimated useful lives of four years.
+
+                                                                              11
+
+REIMBURSABLE EXPENSES
+
+Reimbursable expenses, which are charged to the Partnership by CCC in connection
+with the administration and operation of the Partnership, are allocated to the
+Partnership based upon several factors including, but not limited to, the number
+of investors, compliance issues, and the number of existing leases.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+For the period ended March 31, 2005, the Partnership used cash flow from
+operating activities of $5,000, which includes a net loss of $173,000 and
+depreciation and amortization expenses of $111,000. Other non-cash activities
+included in the determination of net loss include direct payments of lease
+income by lessees to banks of $6,000.
+
+The Partnership's primary source of capital for the period ended March 31, 2005
+was proceeds from the sale of computer equipment of $13,000. The Partnership's
+primary source of capital for the year ended December 31, 2004 was from
+repayment of $231,000 made by CCC for the outstanding note, and proceeds from
+the sale of computer equipment of $244,000. The Partnership's primary sources of
+capital for the years ended December 31, 2003 was cash from operations of
+$62,000, and proceeds from the sale of computer equipment of $423,000. The
+primary uses of cash for the years ended December 31, 2004 and 2003, were for
+capital expenditures for new equipment totaling $4,000 and $15,000, the payment
+of acquisition fees of $1,000 and $1,000, and the payment of preferred
+distributions to partners totaling $404,000 and $577,000, respectively.
+
+The Partnership's investment strategy of acquiring computer equipment and
+generally leasing it under triple-net leases to operators, who generally meet
+specified financial standards, minimizes the Partnership's operating expenses.
+As of December 31, 2005, the Partnership had future minimum rentals on
+non-cancelable operating leases of $7,000 for the year ended 2006. As of
+December 31, 2005, the Partnership had future minimum rentals on non-cancelable
+capital leases of $6,000 for the year ended 2006. At December 31, 2005, the
+outstanding debt was $32,000, with interest rates ranging from 5.95% to 6.5% and
+will be payable through June 2006.
+
+CCC, on behalf of the Partnership and other affiliated partnerships, acquires
+computer equipment subject to associated debt obligations and lease agreements
+and allocates a participation in the cost, debt and lease revenue to the various
+partnerships based on certain risk factors. The Partnership's share of the
+computer equipment in which they participate at December 31, 2005 and 2004 was
+approximately $840,000 and $1,306,000, respectively, which is included in the
+Partnership's fixed assets on their balance sheet, and the total cost of the
+equipment shared by the Partnership with other partnerships at December 31, 2005
+and 2004 was approximately $1,536,000 and $2,249,000, respectively. The
+Partnership's share of the outstanding debt associated with this equipment at
+December 31, 2005 and 2004 was approximately $0 and $700, respectively, which is
+included in the Partnership's liabilities on the balance sheet, and the total
+outstanding debt at December 31, 2005 and 2004 related to the equipment shared
+by the Partnership was approximately $0 and $1,000, respectively.
+
+RESULTS OF OPERATIONS
+
+For the period ended March 31, 2005, the Partnership recognized income of
+approximately $29,000 and expenses of approximately $202,000, resulting in a net
+loss of approximately $173,000. In 2004 and 2003, the Partnership recognized
+income of $742,000 and $1,958,000 and expenses of $1,284,000 and $1,828,000,
+resulting in net loss of $542,000 for the years ended December 31, 2004, and net
+income for the year ended December 31, 2003 of $130,000.
+
+Lease income decreased to $29,000 for the period ended March 31, 2005, down from
+$698,000 and $1,516,000 in 2004 and 2003, respectively, primarily due to the
+fact that more lease agreements terminated than new lease agreements were
+entered into every year since 2001.
+
+The Partnership sold computer equipment with a net book value of approximately
+$19,000 for the period ended March 31, 2005, for a net loss of approximately
+$6,000. The Partnership sold computer equipment during the year ended December
+31, 2004 and 2003 with a net book value of $298,000 and $143,000, respectively,
+for a net (loss) gain of $(54,000) and $439,000 in 2004 and 2003, respectively.
+
+                                                                              12
+
+Operating expenses, excluding depreciation, consist of accounting, legal,
+outside service fees and reimbursement of expenses to CCC, for administration
+and operation of the Partnership. These expenses decreased by 79% to $83,000,
+down from $398,000 and $608,000 during the years ended December 31, 2004 and
+2003, respectively. The decrease in operating expenses from 2004 to 2005 is
+consistent with the liquidation activities and the expiration and sale of leases
+at end of term.
+
+The equipment management fee is approximately 5% of the gross lease revenue
+attributable to equipment that is subject to operating and capital leases. The
+equipment management fee decreased 99% to $300 during the period ended March 31,
+2005, down from $36,000 and $76,000 during the years ended December 31, 2004 and
+2003, respectively, which is consistent with the change in lease income.
+
+Depreciation and amortization expenses consist of depreciation on computer
+equipment, equipment acquisition fees and debt placement fees. The decrease of
+86% to $110,000, during the period ended March 31, 2005, down from $770,000 and
+$1,055,000 during the years ended December 31, 2004 and 2003, respectively, is
+attributable to the decrease in the computer equipment portfolio being leased.
+
+The Partnership identified specific computer equipment and associated equipment
+acquisition costs, which were reevaluated due to technological changes. The
+Partnership determined that no adjustment was necessary for the period ended
+March 31, 2005. In 2004 and 2003 the Partnership determined that the carrying
+amount of certain assets was greater than the undiscounted cash flows to be
+generated by these assets. The Partnership recorded charges of $40,000, and
+$31,000, respectively, in the fourth quarters of 2004 and 2003 to record the
+assets at their estimated fair value. Such amounts have been included in
+depreciation expense in the accompanying financial statements.
+
+NET INCOME / LOSS
+
+Net loss for the period ended March 31, 2005 decreased to $173,000 in 2005 from
+net loss of $542,000 in 2004 and net income of $130,000 in 2003.
+
+The changes in net income (loss) were attributable to the changes in revenues
+and expenses as discussed above.
+
+COMMITMENTS AND CONTINGENCIES
+
+         CONTRACTUAL CASH OBLIGATIONS
+
+The following table presents our contractual cash obligations as of
+December 31, 2005:
+
+                              PAYMENTS DUE BY PERIOD
+                            ---------------------------
+                               TOTAL           2006
+                            ------------   ------------
+Installment notes payable
+ due 2006:
+     Principal              $     32,239   $     32,239
+     Interest                        567            567
+                            ------------   ------------
+TOTAL                       $     32,806   $     32,806
+                            ============   ============
+
+                                                                              13
+
+RECENT ACCOUNTING PRONOUNCEMENTS
+
+In May 2005, the Financial Accounting Standards Board (FASB) issued SFAS No.
+154, "Accounting Changes and Error Corrections" (SFAS No. 154) which replaces
+APB No. 20 "Accounting Changes" and SFAS No. 3, "Reporting Accounting Changes in
+Interim Financial Statements - An Amendment of APB Opinion No. 28." SFAS No. 154
+provides guidance on the methods issuers should use to account for and report
+accounting changes and error corrections. Specifically, this statement requires
+that issuers retrospectively apply any voluntary change in accounting principles
+to prior period financial statements, if it is practicable to do so. This
+principle replaces APB No. 20, which required that most voluntary changes in
+accounting principle be recognized by including the cumulative effect of the
+change to the new accounting principle on prior periods in the net income
+reported by the issuer in the period in which it instituted the change. SFAS No.
+154 also redefines the term "restatement" to mean the correction of an error by
+revising previously issued financial statements. Unless adopted early, SFAS No.
+154 is effective for accounting changes and corrections of errors made in fiscal
+years beginning after December 15, 2005. The Partnership does not expect the
+adoption of SFAS No. 154 to have an impact on its financial position or results
+of operations.
+
+ITEM 7.A:   QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+         The Partnership believes its exposure to market risk is not material
+due to the fixed interest rate of its long- term debt and its associated fixed
+revenue streams.
+
+ITEM 8:     FINANCIAL STATEMENTS
+
+         Our financial statements for the fiscal years ended December 31, 2005
+and 2004, and the report thereon of Asher and Company, Ltd. and the report
+thereon of BDO Seidman, LLP for the fiscal year ended December 31, 2003, are
+included in this annual report.
+
+ITEM 9:     CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+            FINANCIAL DISCLOSURE
+
+Effective October 11, 2004, the registrant dismissed its principal independent
+accounting firm, BDO Seidman, LLP. BDO Seidman, LLP's report on the registrant's
+financial statements for 2003 did not contain any adverse opinion or a
+disclaimer of opinion, nor were they qualified or modified as to uncertainty,
+audit scope or accounting principles. The decision to change accountants was
+approved by the board of directors of the registrant's general partner. During
+the registrant's 2003 fiscal year and the interim period prior to such
+dismissal, the registrant had no disagreements with BDO Seidman, LLP on any
+matter of accounting principles or practices, financial statement disclosure, or
+auditing scope or procedure, which disagreements, if not resolved to the
+satisfaction of BDO Seidman, LLP, would have caused BDO Seidman, LLP to make
+reference to the subject matter of the disagreements in connection with its
+report. Further, during the registrant's 2003 recent fiscal year and the interim
+period prior to such dismissal, there occurred no reportable events, as set
+forth in Item 304(a)(1)(v) of Regulation S-K.
+
+The registrant provided BDO Seidman, LLP with a copy of this disclosure on or
+prior to the date hereof and requested BDO Seidman, LLP to provide the
+registrant with a letter addressed to the Securities and Exchange Commission
+stating whether it agreed with the statements contained herein. A copy of such
+letter will be filed by amendment to this report when and if it is received by
+the registrant.
+
+Also effective October 11, 2004, the registrant retained Asher & Company, Ltd.
+of Philadelphia, Pennsylvania as its principal independent accounting firm. The
+registrant believes that Asher & Company, Ltd. is an accounting firm of a size
+and scope of experience better suited to the registrant's current needs than the
+registrant's former accounting firm.
+
+                                                                              14
+
+During 2003, we had not consulted with Asher & Company, Ltd. on any matter that
+(i) involved the application of accounting principles to a specific completed or
+contemplated transaction, or the type of audit opinion that might be rendered on
+our financial statements, in each case where written or oral advice was
+provided, that was an important factor considered by us in reaching a decision
+as to the accounting, auditing or financial reporting issue; or (ii) was either
+the subject of a disagreement or event, as that term is described in item
+304(a)(1)(iv)(A) of Regulation S-X.
+
+ITEM 9A:    CONTROLS AND PROCEDURES
+
+Our management, under the supervision and with the participation of the
+principal executive officer and principal financial officer, have evaluated the
+effectiveness of our controls and procedures related to our reporting and
+disclosure obligations as of December 31, 2005, which is the end of the period
+covered by this Annual Report on Form 10-K. Based on that evaluation, the
+principal executive officer and principal financial officer have concluded that
+our disclosure controls and procedures are sufficient to provide that (a)
+material information relating to us, including our consolidated subsidiaries, is
+made known to these officers by our and our consolidated subsidiaries other
+employees, particularly material information related to the period for which
+this periodic report is being prepared; and (b) this information is recorded,
+processed, summarized, evaluated and reported, as applicable, within the time
+periods specified in the rules and forms promulgated by the Securities and
+Exchange Commission.
+
+ITEM 9B:    OTHER INFORMATION
+
+     NOT APPLICABLE
+
+ITEM 10:    DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+GENERAL
+
+The Partnership does not have any Directors or executive officers.
+
+The General Partner, a wholly owned subsidiary of Commonwealth of Delaware,
+Inc., a Delaware corporation, which is in turn a wholly-owned subsidiary of CCC,
+a Pennsylvania corporation, was incorporated in Pennsylvania on August 26, 1993.
+The General Partner also acts as the General Partner for Commonwealth Income &
+Growth Fund I, Commonwealth Income & Growth Fund III, Commonwealth Income &
+Growth Fund IV, Commonwealth Income & Growth Fund V, and Commonwealth Income &
+Growth Fund VI. The principal business office of the General Partner is 470 John
+Young Way, Suite 300, Exton, PA 19341, and its telephone number is 610-594-9600.
+The General Partner manages and controls the affairs of the Partnership and has
+sole responsibility for all aspects of the Partnership's operations. The
+officers of the General Partner devote such time to the affairs of the
+Partnership as in the opinion of the General Partner is necessary to enable it
+to perform its function as General Partner. The officers of the General Partner
+are not required to spend their full time in meeting their obligations to the
+Partnership.
+
+The directors and officers of the General Partner and key employees of CCC are
+as follows:
+
+NAME                       TITLE
+- ------------------------   -----------------------------------------------------
+George S. Springsteen      Chairman of the Board, Treasurer and Chief Executive
+                           Officer of CCC, CCSC, and Commonwealth Income &
+                           Growth Fund, Inc. ("CIGF, Inc.)
+
+Kimberly A. Springsteen    Director, Secretary, President & Chief Operations
+                           Officers of CCC, CCSC and CIGF, Inc. Chief Compliance
+                           Officer of CCSC.
+
+Henry J. Abbott            Director, Senior Vice President & Portfolio Manager
+                           of CCC, CCSC and CIGF, Inc.
+
+                                                                              15
+
+Lynn A. Franceschina       Controller, Senior Vice President of CCC, CCSC and
+                           CIGF, Inc.
+
+Katrina M. Mason           Due Diligence Officer, Senior Vice President of CCC,
+                           CCSC and CIGF, Inc.
+
+Jay Dugan                  Chief Technology Officer, Senior Vice President of
+                           CCC, CCSC and CIGF, Inc.
+
+Donald Bachmayer           Accounting Manager, Vice President of CCC, CCSC, and
+                           CIGF, Inc.
+
+Mark Hershenson            Broker Services Manager, Vice President of CCC, CCSC
+                           and CIGF, Inc.
+
+James Pruett               Compliance Officer, Assistant Vice President of CCC,
+                           CCSC, and CIGF, Inc.
+
+Donnamarie D. Abbott       Investor Services Manager, Assistant Vice President
+                           of CCC, and CIGF, Inc.
+
+         GEORGE S. SPRINGSTEEN, age 71, is a founding stockholder, Chairman of
+the Board and Chief Executive Officer of Commonwealth Capital Corp. since 1978.
+In addition, Mr. Springsteen serves as Chairman of the Board and Chief Executive
+Officer and registered principal of the broker/dealer, Commonwealth Capital
+Securities Corp and the General Partner, Commonwealth Income & Growth Fund Inc.
+He oversees numerous equipment investment portfolios and is responsible for
+business development. Mr. Springsteen and his wife, Kim, are the sole
+shareholders of the parent company and its affiliates. Mr. Springsteen oversees
+the Portfolio Advisory Committee, the Audit Committee, the Disaster Recovery
+Committee and the Facilities Committee. Before starting Commonwealth, Mr.
+Springsteen managed a portfolio of $120 million at Granite Computer Corp.,
+bought their portfolio and founded his own firm. Mr. Springsteen attended the
+University of Delaware and holds his NASD Series 22, 63 and 39 licenses. Mr.
+Springsteen is a member of the Equipment Leasing Association and a founding
+member of the Computer Dealers Leasing Association prior to, as well as a member
+of the Investment Program Association. (Mr. Springsteen is the spouse of
+Kimberly A. Springsteen)
+
+         KIMBERLY A. SPRINGSTEEN, age 46, joined Commonwealth in 1997, as a
+founding registered principal and Chief Compliance Officer of its broker/dealer,
+Commonwealth Capital Securities Corp. and serves as Director and Secretary,
+President and Chief Operating Officer of the parent and its affiliates. Ms.
+Springsteen is responsible for oversight of daily operations, due diligence and
+business development. Ms. Springsteen also oversees the Portfolio Advisory
+Committee, the Audit Committee, the Disaster Recovery Committee and the
+Facilities Committee. Ms. Springsteen has developed and presented numerous
+motivational, informational and sales training workshops over the past 25 years.
+Prior to Commonwealth, Ms. Springsteen served as Senior Vice President &
+Marketing Manager in the Alternative Investments Department of Wheat
+First/Butcher & Singer, a broker/dealer headquartered in Richmond, Virginia,
+where she raised over $450,000,000 of capital in the real estate, equipment
+leasing, tax credit and energy-related industries. Ms. Springsteen holds her
+NASD Series 7, 63 and 39 licenses and is a member of the Equipment Leasing
+Association, the Financial Planners Association and serves on the Board of
+Trustees for the Investment Program Association. Ms. Springsteen is the wife of
+George Springsteen and is co-shareholder of the parent and its affiliates.
+
+         HENRY J. ABBOTT, age 55, joined Commonwealth in 1998, as a Portfolio
+Manager. Mr. Abbott serves as a Director, Senior Vice President and Portfolio
+Manager of the parent and its affiliates. Mr. Abbott is a registered principal
+of the broker/dealer. Mr. Abbott is responsible for lease acquisitions,
+equipment dispositions and portfolio review. Additionally, Mr. Abbott is also
+responsible for oversight of residual valuation, due diligence, equipment
+inspections, negotiating renewal and purchase options and remarketing off lease
+equipment. Mr. Abbott serves as senior member on the Portfolio Advisory
+Committee, the Audit Committee, the Disaster Recovery Committee and the
+Facilities Committee. Prior to Commonwealth, Mr. Abbott has been active in the
+commercial lending industry, working primarily on
+
+                                                                              16
+
+asset-backed transactions for more than 30 years. Mr. Abbott attended St. John's
+University and holds his NASD Series 7, 63 and 24 licenses. Mr. Abbott was a
+founding partner of Westwood Capital LLC in New York, a Senior Vice President
+for IBJ Schroeder Leasing Corporation and has managed a group specializing in
+the provision of operating lease finance programs in the high technology sector.
+Mr. Abbott brings extensive knowledge and experience in leasing and has managed
+over $1.5 billion of secured transactions. Mr. Abbott is a member of the
+Equipment Leasing Association and the Investment Program Association.
+
+         LYNN A. FRANCESCHINA, age 34, joined Commonwealth in 2001 and serves as
+Senior Vice President and Controller of the parent and its affiliates. Ms.
+Franceschina is responsible for the oversight of all accounting, cash
+management, financial reporting and audit and tax preparation functions. During
+the period of March 2004 to October 2004, Ms. Franceschina was employed with
+Wilmington Trust Corp., where she was a part in the development of policies and
+procedures related to Sarbanes Oxley and its documentation. Prior to
+Commonwealth, in 1994 until 1999, Ms. Franceschina served as a Senior Accountant
+with Duquesne University, and from 1999 to 2000, a Senior Financial Analyst for
+Environ Products. Ms. Franceschina attended Robert Morris University and holds a
+Bachelor of Science in Accounting. Ms. Franceschina serves on the Portfolio
+Advisory Committee and the Disaster Recovery Committee, as well as a member of
+the Equipment Leasing Association, the Investment Program Association and the
+Institute of Management Accountants.
+
+         KATRINAM. MASON, age 33, joined Commonwealth in 2002 and serves as
+Senior Vice President, Broker/Dealer Relations Manager and Due Diligence Manager
+of the parent and its affiliates. Ms. Mason is a registered principal of the
+broker/dealer. Ms. Mason is responsible for managing due diligence and
+broker/dealer development, as well as coordination of the national sales and
+marketing effort, syndication and product development. Ms. Mason serves on the
+Disaster Recovery Committee and the Website Committee. Prior to Commonwealth,
+Ms. Mason worked at ICON Securities, an equipment leasing sponsor, from 1997 to
+2002 and served as President from 2001 to 2002. Prior to that, Ms. Mason served
+as a Regional Marketing Director of Textainer Capital, an equipment-leasing
+sponsor. Ms. Mason attended the University of California at Santa Barbara and
+holds a Bachelor of Arts and also attended University of San Francisco and holds
+an MBA. Ms Mason holds her NASD Series 7, 22, 63 & 24 licenses. Ms. Mason is a
+member of the Equipment Leasing Association, the Financial Planners Association
+and the Investment Program Association.
+
+         JAY DUGAN, age 57, joined Commonwealth in 2002 and serves as Senior
+Vice President and Chief Technology Officer of the parent and its affiliates.
+Mr. Dugan is responsible for the information technology vision, security and
+operation and ongoing development, including network configurations, protection
+of corporate assets and maximizing security and efficiency of information flow.
+Prior to Commonwealth, Mr. Dugan founded First Securities USA, an NASD member
+firm, in 1988 and operated that firm through 1998. From 1999 until 2002, Mr.
+Dugan was an independent due diligence consultant until he came to Commonwealth
+to develop that area of the firm. Mr. Dugan attended St. Petersburg College and
+holds an AS Degree in Computer Networking Technology. Mr. Dugan is a Microsoft
+Certified Systems Engineer, Microsoft Certified Database Administrator and
+Comp-Tia Certified Computer Technician. Mr. Dugan is a senior member of the
+Disaster Recovery Committee, as well as oversight member of the Website
+Committee.
+
+         DONALD A. BACHMAYER, age 41, joined Commonwealth in 2004 and serves as
+Vice President and Accounting Manager of the General Partner, CCC and certain of
+its subsidiaries where he has been employed since 2004. Mr. Bachmayer is
+responsible for financial reporting and analysis, cash management and tax
+compliance. He is a member of the Portfolio Advisory Committee. Prior to joining
+Commonwealth, from 2002 to 2004, Mr. Bachmayer served as Accounting Supervisor
+for LEAF Financial, an equipment-leasing sponsor, where his responsibilities
+included cash management, commission and syndication reporting. From 1997 to
+2001, Mr. Bachmayer was a senior accountant/auditor with Fishbein & Company,
+P.C., certified public accountants, with responsibilities including audit,
+financial reporting, cash management, commission and syndication reporting, and
+tax preparation. Mr. Bachmayer attended LaSalle University and holds a Bachelor
+of Science in Accounting.
+
+         MARK HERSHENSON, age 40, joined Commonwealth in 2002 and serves as Vice
+President and Broker Services Manager of the parent and its affiliates. Mr.
+Hershenson is responsible for management of
+
+                                                                              17
+
+all custodial relationships, broker services in the areas of product education
+and production goals, wholesaler scheduling/support and internal sales staff.
+Prior to Commonwealth, Mr. Hershenson served as part of a financial planning
+practice at American United Life from 1999 through 2002. He has written a book
+for the Florida Insurance Commissioner on how to sell insurance products.
+Additionally, in 1991 through 1998, Mr. Hershenson served as sales trainer fat
+MetLife for over 100 registered representatives. Mr. Hershenson attended
+Stonehill College and holds a Bachelor's in Psychology, with a concentration in
+Marketing/Organizational Behaviorism and Master's level coursework in Financial
+Planning though American College. Mr. Hershenson holds his NASD Series 6, 7 and
+63 licenses. Mr. Hershenson is a member of the Equipment Leasing Association and
+the Investment Program Association.
+
+         JAMES PRUETT, age 40, joined Commonwealth in 2002 and serves as
+Assistant Vice President and Compliance Officer of the parent and its
+affiliates. Mr. Pruett is responsible for management of regulatory policies and
+procedures, assisting in compliance internal audit, associate regulatory
+filings, broker/dealer registrations, state and broker/dealer financial
+regulatory reporting requirements. Mr. Pruett assists in the management of
+shareholder records and updates. Mr. Pruett is a member of the Website
+Committee. Mr. Pruett holds his NASD Series 22 and 63 licenses. Prior to joining
+Commonwealth, Mr. Pruett served as Managing Editor/Associate Publisher for
+Caliber Entertainment, a publishing and entertainment licensing company. Mr.
+Pruett's responsibilities included oversight of production of publishing
+library, as well as serving as Editor-in-Chief for all publications and
+additionally served as Media Relations Liaison. Mr. Pruett is a member of the
+Equipment Leasing Association and the Investment Program Association.
+
+         DONNAMARIE D. ABBOTT, age 47, joined Commonwealth in 2001 and serves as
+Assistant Vice President and Investor Services Manager of the parent and its
+affiliates. Ms. Abbott is responsible for management of daily operations in
+Investor Services, from pre-formation stage through issuance of investors' final
+distribution, communication, audited financial report, including fund masters,
+blue sky coordination, subscription processing, distributions, transfers of
+interest, redemptions, reporting and tax reporting. Ms. Abbott is a member of
+the Office Development Committee, the Website Committee and the Disaster
+Recovery Committee. Ms. Abbott holds her NASD Series 22 and 63 licenses. Prior
+to joining Commonwealth, Ms. Abbott served as a Pennsylvania licensed realtor.
+Ms. Abbott is a member of the Equipment Leasing Association and a member of the
+Investment Program Association.
+
+         The directors and officers of the General Partner are required to spend
+only such time on the Partnership's affairs as is necessary in the sole
+discretion of the directors of the General Partner for the proper conduct of the
+Partnership's business. A substantial amount of time of such directors and
+officers is expected to be spent on matters unrelated to the Partnership,
+particularly after the Partnership's investments have been selected. Under
+certain circumstances, such directors and officers are entitled to
+indemnification from the Partnership.
+
+         The Partnership has no audit committee financial expert, as defined
+under Section 229.401 of the Exchange Act, serving on its audit committee. An
+audit committee is not required because the Partnership is not a listed security
+as defined by Section 240.10A-3; therefore, no audit committee financial expert
+is required.
+
+CODE OF ETHICS
+
+         In view of the fiduciary obligation that the General Partner has to the
+Partnership, the General Partner believes an adoption of a formal code of ethics
+is unnecessary and would not benefit the Partnership, particularly, in light of
+Partnership's limited business activities.
+
+ITEM 11:    EXECUTIVE COMPENSATION
+
+         NOT APPLICABLE
+
+ITEM 12:    SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+                                                                              18
+
+NOT APPLICABLE
+
+ITEM 13:    CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+         The following table summarizes the types, amounts and recipients of
+compensation to be paid by the Partnership directly or indirectly to the General
+Partner and its Affiliates. Some of these fees are paid regardless of the
+success or profitability of the Partnership's operations and investments. While
+such compensation and fees were established by the General Partner and are not
+based on arm's-length negotiations, the General Partner believes that such
+compensation and fees are comparable to those that would be charged by an
+unaffiliated entity or entities for similar services. The Partnership Agreement
+limits the liability of the General Partner and its Affiliates to the
+Partnership and the Limited Partners and provides indemnification to the General
+Partner and its Affiliates under certain circumstances.
+
+AMOUNT        AMOUNT         AMOUNT
+ENTITY RECEIVING                                                          INCURRED      INCURRED       INCURRED
+  COMPENSATION                        TYPE OF COMPENSATION               DURING 2005   DURING 2004    DURING 2003
+- -------------------      ---------------------------------------------   -----------   -----------    -----------
+                                                                                               
+                                       OPERATIONAL AND SALE
+                                      OR LIQUIDATION STAGES
+
+The General Partner      REIMBURSABLE  EXPENSES.  The General and        $   105,000   $   331,000    $   371,000
+and its Affiliates       its Affiliates are entitled to reimbursement
+                         by the Partnership for the cost of goods,
+                         supplies or services obtained and used by
+                         the General Partner in connection with the
+                         administration and operation of the
+                         Partnership from third parties unaffiliated
+                         with the General Partner. In addition, the
+                         General Partner and its affiliates are
+                         entitled to reimbursement of certain
+                         expenses incurred by the General Partner and
+                         its affiliates in connection with the
+                         administration and operation of the
+                         Partnership. The amounts set forth on this
+                         table do not include expenses incurred in
+                         the offering of Units.
+
+The General Partner      EQUIPMENT  ACQUISITION FEE. An Equipment        $         0   $     1,000    $     1,000
+                         Acquisition Fee of four percent of the
+                         Purchase Price of each item of Equipment
+                         purchased as compensation for the
+                         negotiation of the acquisition of the
+                         Equipment and the lease thereof or sale
+                         under a Conditional Sales Contract. The
+                         fee was paid upon each closing of the
+                         Offering with respect to the Equipment
+                         purchased by the Partnership with the
+                         net proceeds of the Offering available
+                         for investment in Equipment. If the
+                         Partnership acquires Equipment in an
+                         amount exceeding the net proceeds of the
+                         Offering available for investment in
+                         Equipment, the fee will be paid when
+                         such Equipment is acquired.
+
+The General Partner      EQUIPMENT  MANAGEMENT FEE. A monthly fee        $     4,000   $    36,000    $    76,000
+                         equal to the lesser of (i) the fees
+                         which would be charged by an independent
+                         third party for similar services for
+                         similar equipment or (ii) the sum of (a)
+                         two percent of (1) the Gross Lease
+                         Revenues attributable to Equipment which
+                         is subject to Full Payout Net Leases
+                         which contain net lease provisions plus
+                         (2) the purchase price paid on
+                         Conditional Sales Contracts as received
+                         by the Partnership and (b) five percent
+                         of the Gross Lease Revenues attributable
+                         to Equipment which is subject to
+                         Operating Leases.
+
+19
+
+The General Partner      PARTNERSHIP  INCOME  AND  DISTRIBUTIONS.        $         0   $     4,038    $     5,772
+                         The General Partner has a present and
+                         continuing one percent interest of
+                         $1,000 in the Partnership's item of
+                         income, gain, loss, deduction, credit,
+                         and tax preference. In addition, the
+                         General Partner receives one percent of
+                         Cash Available for Distribution until
+                         the Limited Partners have received
+                         distributions of Cash Available for
+                         Distribution equal to their Capital
+                         Contributions plus the 10% Priority
+                         Return and thereafter, the General
+                         Partner will receive 10% of Cash
+                         Available for Distribution.
+
+The Partnership is subject to various conflicts of interest arising out
+of its relationships with the General Partner and its Affiliates. These
+conflicts include the following:
+
+COMPETITION WITH GENERAL PARTNER AND AFFILIATES: COMPETITION FOR MANAGEMENT'S
+TIME
+
+         The General Partner and its Affiliate sponsor other investor programs,
+which are in potential competition with the Partnership in connection with the
+purchase of Equipment as well as opportunities to lease and sell such Equipment.
+Competition for Equipment has occurred and is likely to occur in the future. The
+General Partner and its Affiliates may also form additional investor programs,
+which may be competitive with the Partnership.
+
+         If one or more investor programs and the Partnership are in a position
+to acquire the same Equipment, the General Partner will determine which program
+will purchase the Equipment based upon the objectives of each and the
+suitability of the acquisition in light of those objectives. The General Partner
+will generally afford priority to the program or entity that has had funds
+available to purchase Equipment for the longest period of time. If one or more
+investor programs and the Partnership are in a position to enter into lease with
+the same lessee or sell Equipment to the same purchaser, the General Partner
+will generally afford priority to the Equipment which has been available for
+lease or sale for the longest period of time.
+
+         Certain senior executives of the General Partner and its Affiliates
+also serve as officers and directors of the other programs and are required to
+apportion their time among these entities. The Partnership is, therefore, in
+competition with the other programs for the attention and management time of the
+General Partner and Affiliates. The officers and directors of the General
+Partner are not required to devote all or substantially all of their time to the
+affairs of the Partnership.
+
+         GLOSSARY
+
+         The following terms used in this Report shall (unless otherwise
+expressly provided herein or unless the context otherwise requires) have the
+meanings set forth below.
+
+         "Acquisition Expenses" means expenses relating to the prospective
+selection and acquisition of or investment in Equipment, whether or not actually
+acquired, including, but not limited to, legal fees and expenses, travel and
+communication expenses, costs of appraisals, accounting fees and expenses and
+miscellaneous expenses.
+
+         "Acquisition Fee" means the total of all fees and commissions paid by
+any party in connection with the initial purchase of Equipment acquired by the
+Partnership. Included in the computation of such fees or commissions shall be
+the Equipment Acquisition Fee, any commission, selection fee, construction
+supervision fee, finance fee, non-recurring management fee of a similar nature,
+however designated.
+
+         "Adjusted Capital Contributions" means Capital Contributions of the
+Limited Partners reduced to not less than zero by any cash distribution received
+by the Limited Partners pursuant to Sections 4/2 or 8/1, to the extent such
+distributions exceed any unpaid Cumulative Return as of the date such
+distributions were made.
+
+                                                                              20
+
+"Affiliate" means, when used with reference to a specified Person, (I)
+any Person that directly or indirectly through one or more intermediaries,
+controls or is controlled by or is under common control with the specified
+Person, (ii) any Person that is a director or an executive officer of, partner
+in, or serves in a similar capacity to, the specified Person, or any Person
+which the specified Person is an executive officer of partner or with respect to
+which the specified Person serves in a similar capacity, (iii) any Person owning
+or controlling 10% or more of the outstanding voting securities of such
+specified Person, or (iv) if such Person is an officer, director or partner, any
+entity for which such Person acts in such capacity.
+
+         "Capital Account" means the separate account established for each
+Partner pursuant to Section 4/.1.
+
+         "Capital Contributions" means, in the case of the General partner, the
+total amount of money contributed to the Partnership by the General Partner,
+and, in the case of the Limited Partners, $20 for each Unit or where the context
+requires, the total Capital Contributions of all the Partners.
+
+         "Capital Leases" are leases under which the Equipment either transfers
+to the lessee at the end of the lease term, contains a bargain purchase price
+option, the lease term is equal to 75% or more of the estimated economic life of
+the Equipment, or the present value at the beginning of the lease term of the
+minimum lease payments is equal to or exceeds 90% of the excess of the fair
+value of the Equipment.
+
+         "Cash Available for Distribution" means Cash Flow plus net Disposition
+Proceeds plus cash funds available for distribution from Partnership reserves,
+less such amounts as the General Partner, in accordance with this Agreement,
+causes the Partnership to reinvest in Equipment or interests therein, and less
+such amounts as the General Partner, in its sole discretion, determines should
+be set aside for the restoration or enhancement of Partnership reserves.
+
+         "Cash Flow" for any fiscal period means the sum of (i) cash receipts
+from operations, including, but not limited to, rents or other revenues arising
+from the leasing or operation of the Equipment and interest, if any, earned on
+funds on deposit for the Partnership, but not including Net Disposition
+Proceeds, minus (ii) all cash expenses and costs incurred and paid in connection
+with the ownership, lease, management, use and/or operation of the Equipment,
+including, but not limited to, fees for handling and storage; all interest
+expenses paid and all repayments of principal regarding borrowed funds;
+maintenance; repair costs; insurance premiums; accounting and legal fees and
+expenses; debt collection expenses; charges, assessments or levies imposed upon
+or against the Equipment; ad valorem, gross receipts and other property taxes
+levied against the Equipment; and all costs of repurchasing Units in accordance
+with this Agreement; but not including depreciation or amortization of fees or
+capital expenditures, or provisions for future expenditures, including, without
+limitation, Organizational and Offering Expenses.
+
+         "Closing Date" means the date, as designated by the General Partner, as
+of which the Units shall cease being offered to the public pursuant to the
+Offering, and shall be no later than the second anniversary of the Effective
+Date.
+
+         "Code" means the Internal Revenue Code of 1986, as amended, and as may
+be amended from time to time by future federal tax statues. Any reference this
+Agreement to a particular provision of the Code shall mean, where appropriate,
+the corresponding provision of any successor statute.
+
+         "Competitive Equipment Sale Commission" means that brokerage fee paid
+for services rendered in connection with the purchase or sale of equipment that
+is reasonable, customary, and competitive in light of the size, type, and
+location of the Equipment.
+
+         "Conditional Sales Contract" means an agreement to sell Equipment to a
+buyer in which the seller reserves title to, and retains a security interest in,
+the Equipment until the Purchase Price of the Equipment is paid.
+
+         "Cumulative Return" means an amount equal to a return at a rate of 10%
+per annum, compounded daily, on the Adjusted Capital Contribution for all
+outstanding Units, which amount shall begin accruing at the end of the calendar
+quarter in which such Units are sold by the Partnership.
+
+                                                                              21
+
+"Effective Date" means the date on which the Partnership's registration
+statement on Form S-1 with respect to the Units, as filed with the Securities
+and Exchange Commission, becomes effective under the Securities Act of 1933, as
+amended.
+
+         "Equipment" means each item of and all of the computer peripheral and
+other similar capital equipment purchased, owned, operated, and/or leased by the
+Partnership or in which the Partnership has acquired a direct or indirect
+interest, as more fully described in this Agreement, together with all
+appliances, parts, instruments, accessories, furnishings, or other equipment
+included therein and all substitutions, renewals, or replacements of, and all
+additions, improvements, and accessions to, any and all thereof.
+
+         "Full Payout Net Lease" means an initial Net Lease of the Equipment
+under which the non-cancelable rental payments due (and which can be calculated
+at the commencement of the Net Lease) during the initial noncancellable fixed
+term (not including any renewal or extension period) of the lease or other
+contract for the use of the Equipment are at least sufficient to recover the
+Purchase Price of the Equipment.
+
+         "General Partner" means Commonwealth Income & Growth Fund, Inc. and any
+additional, substitute or successor general partner of the Partnership.
+
+         "Gross Lease Revenues" means Partnership gross receipts from leasing or
+other operation of the Equipment, except that, to the extent the Partnership has
+leased the Equipment from an unaffiliated party, it shall mean such receipts
+less any lease expense.
+
+         "Initial Closing " means January 27, 1998.
+
+         "IRA" means an Individual Retirement Account as described in Section
+408 of the Code.
+
+         "Limited Partner" means a Person who acquires Units and who is admitted
+to the Partnership as a limited partner in accordance with the terms of this
+Agreement.
+
+         "Majority in Interest" means, with respect to the Partnership, Limited
+Partners holding more than 40% of the outstanding Units held by all Limited
+Partners at the Record Date for any vote or consent of the Limited Partners.
+
+         "Minimum Subscription Amount" means an aggregate of $1,500,000 in
+subscriptions from Limited Partners.
+
+         "Net Disposition Proceeds" means the net proceeds realized by the
+Partnership from the refinancing, sale or other disposition of Equipment,
+including insurance proceeds or lessee indemnity payments arising from the loss
+or destruction of Equipment, less such amounts as are used to satisfy
+Partnership liabilities.
+
+         "Net Lease" means a lease or other contract under which the owner
+provides equipment to a lessee or other operator in return for a payment, and
+the lessee assumes all obligations and pays for the operation, repair,
+maintenance, taxes and insuring of the Equipment, so that the non-cancelable
+rental payments under the lease are absolutely net to the lessor.
+
+         "Net Profits" or "Net Losses" shall be computed in accordance with
+Section 703(a) of the Code (including all items of income, gain, loss or
+deduction required to be stated separately pursuant to Section 703(a) (1) of the
+Code) for each taxable year of the Partnership or shorter period or subsequent
+to an interim closing of the Partnership's books with the following adjustments:
+(i) any income of the Partnership that is exempt from federal income tax and not
+otherwise taken into account in computing Net Profits and Net Loss pursuant to
+this definition shall be added to such taxable income of shall reduce such
+taxable loss; (ii) any expenditure of the Partnership described in Code Section
+705(a) (2) (B) or treated as Code Section 705(a) (2) (B) expenditures pursuant
+to Treasury Regulations Section 1.704-1(b) (2) (iv) (I) and not otherwise taken
+into account in computing Net Profits and Net Losses pursuant to this definition
+shall be subtracted from such taxable income or loss; (iii) items of income,
+gain, loss and deduction specially allocated pursuant to Section 7.3 of this
+Agreement shall not be included in the computation of Net Profits
+
+                                                                              22
+
+or Net Loss; and if property is reflected on the books of the Partnership at a
+book value that differs from the adjusted tax basis of the property in
+accordance with Treasury Regulation Section 1.704-1 (b) (2) (iv) (d) or (f),
+depreciation, amortization, and gain or loss with respect to such property shall
+be determined by reference to such book value in a manner consistent with
+Treasury Regulation Section 1.704-1 (b) (2) (iv) (g). The terms "Net Profit" or
+"Net Losses" shall include the Partnership's distributive share of the profit or
+loss of any partnership or joint venture in which it is a partner or joint
+venturer.
+
+         "Offering" means the initial public offering of the Units in the
+Partnership, as described in the Prospectus.
+
+         "Offering Period" means the period commencing the Effective Date and
+ending the last day of the calendar month in which the Closing Date occurs.
+
+         "Operating Lease" means a lease or other contractual arrangement under
+which an unaffiliated party agrees to pay the Partnership, directly or
+indirectly, for the use of the Equipment, and which is not a Full Payout Net
+Lease.
+
+         "Organizational and Offering Expenses" means the expenses incurred in
+connection with the organization of the Partnership and in preparation of the
+offering for registration and subsequently offering and distributing it to the
+public, including Underwriting Commissions, listing fees and advertising
+expenses except advertising expenses related to the leasing of the Program's
+Equipment.
+
+         "Partners" means any one or more of the General Partner and the Limited
+Partners.
+
+         "Partnership" means Commonwealth Income & Growth Fund II, a
+Pennsylvania limited partnership.
+
+         "Person" means an individual, partnership, joint venture, corporation,
+trust, estate or other entity.
+
+         "Program" means a limited or general partnership, joint venture,
+unincorporated association or similar organization, other than a corporation
+formed and operated for the primary purpose of investment in and the operation
+of or gain from an interest in Equipment.
+
+         "Purchase Price" means, with respect to any Equipment, an amount equal
+to the sum of (i) the invoice cost of such Equipment or any other such amount
+paid to the seller, (ii) any closing, delivery and installation charges
+associated therewith not included in such invoice cost and paid by or on behalf
+of the Partnership, (iii) the cost of any capitalized modifications or upgrades
+paid by or on behalf of the Partnership in connection with its purchase of the
+Equipment, and (iv) the amount of the Equipment Acquisition Fee and any other
+Acquisition Fees, but excluding points and prepaid interest.
+
+         "Term Debt" means debt of the Partnership with a term in excess of
+twelve months, incurred with respect to acquiring or investing in Equipment, or
+refinancing non-Term Debt, but not debt incurred with respect to refinancing
+existing Partnership Term Debt.
+
+         "Underwriting Commissions" mean selling commissions and dealer-manager
+fees paid to broker-dealers by the Partnership in connection with the offer and
+sale of Units.
+
+         "Unit" means a limited partnership interest in the Partnership.
+
+ITEM 14:    PRINCIPAL ACCOUNTING FEES AND SERVICES
+
+AUDIT FEES
+
+The aggregate fees billed for each of the fiscal years ended December 31, 2005
+and 2004 for professional services rendered by the Partnership's independent
+registered public account firm for the audit of our annual financial statements
+and review of the financial statements included in our Form 10-Q or services
+that are
+
+normally provided by the accountant in connection with statutory and regulatory
+filings or engagements for those fiscal years were $32,000 and $32,000,
+respectively.
+
+                                                                              23
+
+AUDIT-RELATED FEES
+
+The aggregate fees billed in the fiscal years ended December 31, 2005 and 2004
+for assurance and related services by the Partnership's independent registered
+public account firm that are reasonably related to the performance of the audit
+or review of the registrant's financial statements and are not reported under
+the paragraph captioned "Audit Fees" above are $0 and $0, respectively.
+
+TAX FEES
+
+The aggregate fees billed in the fiscal years ended December 31, 2005 and 2004
+for professional services rendered by the Partnership's independent registered
+public account firm for tax compliance, tax advice and tax planning were $0 and
+$0, respectively.
+
+ALL OTHER FEES
+The aggregate fees billed in the fiscal years ended December 31, 2005 and 2004
+for products and services provided by the Partnership's independent registered
+public account firm, other than the services reported above under other captions
+of this Item 14 are $0 and $0, respectively.
+
+PRE-APPROVAL POLICIES AND PROCEDURES
+
+All audit related services, tax planning and other services were pre-approved by
+the Board of Directors of the General Partner, which concluded that the
+provision of such services by the Partnership's independent registered public
+account firm was compatible with the maintenance of that firm's independence in
+the conduct of its auditing functions. The policy of the General Partner
+provides for pre-approval of these services and all audit related, tax or other
+services not prohibited under Section 10A(g) of the Securities Exchange Act of
+1934, as amended to be performed for us by our independent auditors, subject to
+the de minimus exception described in Section 10A(i)(1)(B) of the Exchange Act.
+on an annual basis and on individual engagements if minimum thresholds are
+exceeded.
+
+The percentage of audit-related, tax and other services that were approved by
+the board of directors is zero (-0-).
+
+                                                                              24
+
+PART IV
+
+ITEM 15: EXHIBITS, FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 10-K
+
+(a)(1)  Financial Statements
+
+        Report of Independent Registered Public Accounting Firm          F-1
+
+        Report of Independent Registered Public Accounting Firm          F-2
+
+        Statement of Net Assets in Liquidation at
+         December 31, 2005                                               F-3
+
+        Balance Sheet as of December 31, 2004                            F-4
+
+        Statement of Changes in Net Assets in Liquidation at
+         December 31, 2005                                               F-5
+
+        Statements of Operations for December 31, 2003 through
+         the three months ended March 31, 2005                           F-6
+
+        Statements of Partners Capital (Deficit) for December 31, 2003
+         through the three months ended March 31, 2005                   F-7
+
+        Statements of Cash Flows for December 31, 2003 through the
+         year ended December 31, 2005                                    F-8-9
+
+        Notes to Financial Statements                                    F-10-22
+
+(a)(2)  Schedules.
+
+         Schedules are omitted because they are not applicable, not required, or
+because the required information is included in the financial statements and
+notes thereto.
+
+(a) (3)  Exhibits.
+         *  3.1 Certificate of Limited Partnership
+         **3.2 Agreement of Limited Partnership
+         **10.1 Agency Agreement dated as of May 12, 1995 by and among the
+Partnership, the General Partner and Wheat First Securities, Inc.
+
+         * Incorporated by reference from the Partnership's Registration
+Statement on Form S-1 (Registration No. 33-89476)
+
+(b)      Reports on Form 8-K
+
+(c)      Exhibits.
+
+         31.1     Rule 13a-14(a)/15d-14(a) Certifications by the Principal
+Executive Officer
+
+         31.2     Rule 13a-14(a)/15d-14(a) Certifications by the Principal
+Financial Officer
+
+         32       Section 1350 Certifications by the Principal Executive Officer
+and Principal Financial Officer
+
+                                                                              25
+
+SIGNATURES
+
+         Pursuant to the requirements of Section 15(d) of the Securities
+Exchange Act of 1934, the Registrant has duly caused this Report to be signed on
+its behalf March 31, 2006 by the undersigned thereunto duly authorized.
+
+                                           COMMONWEALTH INCOME & GROWTH FUND II
+                                           By: COMMONWEALTH INCOME &
+                                               GROWTH FUND, INC.,
+                                               General Partner
+
+                                           By: /s/ George S. Springsteen
+                                               ---------------------------------
+                                               George S. Springsteen,
+                                               Chief Executive Officer
+
+         Pursuant to the requirements of the Securities Exchange Act of 1934,
+this Report has been signed below by the following persons on behalf of the
+Registrant and in the capacities indicated on March 31, 2006.
+
+SIGNATURE                                       CAPACITY
+- --------------------------   ---------------------------------------------------
+
+/s/ GEORGE S.SPRINGSTEEN     Chairman, Chief Executive Officer, and Sole
+- -------------------------    Director of Commonwealth Income & Growth Fund, Inc.
+George S. Springsteen
+
+/s/ KIMBERLY A.SPRINGSTEEN   President, Chief Operating
+- --------------------------   Officer and Secretary
+Kimberly A. Springsteen
+
+                                                                              26
+
+COMMONWEALTH INCOME
+                                                                & GROWTH FUND II
+
+YEARS ENDED DECEMBER 31, 2005, 2004 AND 2003
+
+COMMONWEALTH INCOME
+                                                                & GROWTH FUND II
+
+FINANCIAL STATEMENTS
+                                    YEARS ENDED DECEMBER 31, 2005, 2004 AND 2003
+
+COMMONWEALTH INCOME & GROWTH FUND II
+
+                                                                        CONTENTS
+
+     REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM                1
+
+     REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM                2
+
+     FINANCIAL STATEMENTS
+         Statement of net assets in liquidation                             3
+         Balance sheet                                                      4
+         Statement of changes in net assets in liquidation                  5
+         Statements of operations                                           6
+         Statements of partners' capital (deficit)                          7
+         Statements of cash flows                                         8-9
+
+     NOTES TO FINANCIAL STATEMENTS                                      10-23
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+The Partners
+Commonwealth Income & Growth Fund II
+Exton, Pennsylvania
+
+        We have audited the statements of net assets in liquidation of
+Commonwealth Income & Growth Fund II ("Partnership") as of December 31, 2005,
+and the related statement of changes in net assets in liquidation for the period
+from April 1, 2005 to December 31, 2005. In addition, we have audited the
+balance sheet as of December 31, 2004 and the related statements of income,
+Partners' capital and cash flows for the year ended December 31, 2004 and the
+related statements of income, Partners' capital and cash flows for the period
+from January 1, 2005 to March 31, 2005. These financial statements are the
+responsibility of the Partnership's management. Our responsibility is to express
+an opinion on these financial statements based on our audits.
+
+        We conducted our audits in accordance with the standards of the Public
+Company Accounting Oversight Board (United States). Those standards require that
+we plan and perform the audit to obtain reasonable assurance about whether the
+financial statements are free of material misstatement. The Partnership is not
+required to have, nor were we engaged to perform, an audit of its internal
+control over financial reporting. Our audits included consideration of internal
+control over financial reporting as a basis for designing audit procedures that
+are appropriate in the circumstances, but not for the purpose of expressing an
+opinion on the effectiveness of the Partnership's internal control over
+financial reporting. Accordingly, we express no such opinion. An audit also
+includes examining, on a test basis, evidence supporting the amounts and
+disclosures in the financial statements, assessing the accounting principles
+used and significant estimates made by management, as well as evaluating the
+overall financial statement presentation. We believe that our audits provide a
+reasonable basis for our opinion.
+
+        As more fully described in Note 2, the Partnership is currently being
+liquidated. As a result, the Partnership has changed its basis of accounting for
+periods subsequent to March 31, 2005 from the going-concern basis to the
+liquidation basis.
+
+        In our opinion, the financial statements referred to above present
+fairly, in all material respects, the net assets in liquidation of Commonwealth
+Income & Growth Fund II as of December 31, 2005 and the changes in its net
+assets in liquidation for the period from April 1, 2005 to December 31, 2005,
+its financial position as of December 31, 2004, and the results of its
+operations and cash flow the year ended December 31, 2004 and for the period
+from January 1, 2005 to March 31, 2005 in conformity with accounting principles
+generally accepted in the United States of America applied on the bases
+described in the preceding paragraph.
+
+As described in Note 2, these financial statements as of December 31,
+2005 and for the period form April 1, 2005 to December 31, 2005 have been
+prepared on the liquidation basis of accounting, which requires management to
+make significant assumptions and estimates regarding the fair value of assets
+and the estimate of liquidating costs to be incurred. Because of the inherent
+uncertainty related to these estimates and assumptions, there will likely be
+differences between these estimates and the actual results and those differences
+may be material.
+
+/s/ ASHER & COMPANY, Ltd.
+
+Philadelphia, Pennsylvania
+March 29, 2006
+
+REPORT OF INDEPENDENT CERTIFIED PUBLIC ACCOUNTANTS
+
+The Partners
+Commonwealth Income & Growth Fund II
+Exton, Pennsylvania
+
+We have audited the accompanying statements of operations, partners' capital,
+and cash flows of Commonwealth Income & Growth Fund II for the year ended
+December 31, 2003. These financial statements are the responsibility of the
+Partnership's management. Our responsibility is to express an opinion on these
+financial statements based on our audits.
+
+We conducted our audit in accordance with auditing standards generally accepted
+in the United States. Those standards require that we plan and perform the audit
+to obtain reasonable assurance about whether the financial statements are free
+of material misstatement. An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements. An audit
+also includes assessing the accounting principles used and significant estimates
+made by management, as well as evaluating the overall financial statement
+presentation. We believe that our audit provides a reasonable basis for our
+opinion.
+
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the results of operations and cash flows of Commonwealth
+Income & Growth Fund II for the year ended December 31, 2003, in conformity with
+accounting principles generally accepted in the United States.
+
+                                                /s/ BDO Seidman, LLP
+
+Philadelphia, Pennsylvania
+March 12, 2004
+
+COMMONWEALTH INCOME & GROWTH FUND II
+
+                                          STATEMENT OF NET ASSETS IN LIQUIDATION
+
+See accompanying notes to financial statements.
+
+COMMONWEALTH INCOME & GROWTH FUND II
+
+                                                                   BALANCE SHEET
+
+See accompanying notes to financial statements.
+
+COMMONWEALTH INCOME & GROWTH FUND II
+
+                               STATEMENT OF CHANGES IN NET ASSETS IN LIQUIDATION
+
+See accompanying notes to financial statements.
+
+COMMONWEALTH INCOME & GROWTH FUND II
+
+                                                        STATEMENTS OF OPERATIONS
+
+See accompanying notes to financial statements.
+
+COMMONWEALTH INCOME & GROWTH FUND II
+
+                                                 STATEMENTS OF PARTNERS' CAPITAL
+
+See accompanying notes to financial statements.
+
+COMMONWEALTH INCOME & GROWTH FUND II
+
+                                                        STATEMENTS OF CASH FLOWS
+
+COMMONWEALTH INCOME & GROWTH FUND II
+
+                                                        STATEMENTS OF CASH FLOWS
+
+See accompanying notes to financial statements.
+
+COMMONWEALTH INCOME & GROWTH FUND II
+
+                                                   NOTES TO FINANCIAL STATEMENTS
+
+1.   BUSINESS            Commonwealth Income & Growth Fund II (the
+                         "Partnership") is a limited partnership organized in
+                         the Commonwealth of Pennsylvania to acquire, own and
+                         lease various types of computer peripheral equipment
+                         and other similar capital equipment, which will be
+                         leased primarily to U.S. corporations and institutions.
+                         Commonwealth Capital Corp ("CCC"), on behalf of the
+                         Partnership and other affiliated partnerships, acquires
+                         computer equipment subject to associated debt
+                         obligations and lease agreements and allocates a
+                         participation in the cost, debt and lease revenue to
+                         the various partnerships based on certain risk factors.
+                         The Partnership's General Partner is Commonwealth
+                         Income & Growth Fund, Inc. (the "General Partner"), a
+                         Pennsylvania corporation which is an indirect wholly
+                         owned subsidiary of CCC. CCC is a member of the
+                         Investment Program Association (IPA), Financial
+                         Planning Association (FPA), and the Equipment Leasing
+                         Association (ELA).
+
+                         The Partnership began liquidation effective April 1,
+                         2005. Particular items of equipment may be sold at any
+                         time if, in the judgment of the General Partner, it is
+                         in the best interest of the Partnership to do so. The
+                         determination of whether particular items of
+                         partnership equipment should be sold will be made by
+                         the General Partner after consideration of all relevant
+                         factors (including prevailing economic conditions, the
+                         cash requirements of the Partnership, potential capital
+                         appreciation, cash flow and federal income tax
+                         considerations), with a view toward achieving the
+                         principal investment objectives of the Partnership.
+
+                         Allocations of income and distributions of cash are
+                         based on the Partnership's Limited Partnership
+                         Agreement (the "Agreement"). The various allocations
+                         under the Agreement prevent any limited partner's
+                         capital account from being reduced below zero and
+                         ensure the capital accounts reflect the anticipated
+                         sharing ratios of cash distributions, as defined in the
+                         Agreement. During 2005, annual cash distributions to
+                         limited partners were made at rate of 1.7% of their
+                         original contributed capital. During 2004, annual cash
+                         distributions to limited partners were made at rate of
+                         4.3% of their original contributed capital. During
+                         2003, annual cash distributions to limited partners
+                         were made at a rate of 6.2% of their original
+                         contributed capital. Distributions during 2005 reflect
+                         an annual return of capital in the amount of
+                         approximately $0.35 per weighted average number of
+                         limited partnership units outstanding during the
+
+COMMONWEALTH INCOME & GROWTH FUND II
+
+                                                   NOTES TO FINANCIAL STATEMENTS
+
+                         year. Distributions during 2004 reflect an annual
+                         return of capital in the amount of approximately $0.87
+                         per weighted average number of limited partnership
+                         units outstanding during the year. Distributions during
+                         2003 reflect an annual return of capital in the amount
+                         of approximately $1.25 per weighted average number of
+                         limited partnership units outstanding during the year.
+
+2.   LIQUIDATION BASIS   As a result of the General Partner's approval of the
+                         plan of liquidation as of April 1, 2005, we changed our
+                         basis of accounting to the liquidation basis effective
+                         on such date. This basis of accounting is considered
+                         appropriate when, among other things, liquidation of a
+                         company is probable and the net realizable value of
+                         assets is reasonably determinable. Under the
+                         liquidation basis of accounting, assets are stated at
+                         their estimated net realizable cash value and
+                         liabilities are stated at their anticipated settlement
+                         amounts. There are substantial risks and uncertainties
+                         associated with carrying out the liquidation of the
+                         Partnership. The valuations presented in the
+                         accompanying Statement of Net Assets in Liquidation
+                         represent estimates, based on present facts and
+                         circumstances, of the net realizable values of assets
+                         and the costs associated with carrying out the
+                         liquidation. The actual costs and values are expected
+                         to differ from the amounts shown herein and could be
+                         greater or lesser than the amounts recorded.
+
+                         In presenting our Statement of Net Assets in
+                         Liquidation at December 31, 2005, we recorded a $7,500
+                         increase to assets. This increase represents the
+                         present value of future lease payments of leases.
+                         Included in the adjustment to net assets recorded in
+                         connection with the change from the going-concern to
+                         the liquidation basis of accounting, we recorded $8,000
+                         of accrued costs of liquidation representing the
+                         estimate of the costs to be incurred during
+                         liquidation. Payables to affiliates were decreased by
+                         $221,000 to represent the expected settlement value of
+                         these liabilities.
+
+3.   SUMMARY OF          REVENUE RECOGNITION
+     SIGNIFICANT
+
+COMMONWEALTH INCOME & GROWTH FUND II
+
+                                                   NOTES TO FINANCIAL STATEMENTS
+
+     ACCOUNTING          Through December 31, 2005 the Partnership's leasing
+     POLICIES            operations consist substantially of operating leases
+                         and seven direct-financing leases. Operating lease
+                         revenue is recognized on a monthly basis in accordance
+                         with the terms of the lease agreement. Unearned revenue
+                         from direct financing agreements is amortized to
+                         revenue over the lease term.
+
+                         The Partnership reviews a customer's credit history
+                         before extending credit and establishes a provision for
+                         uncollectible accounts receivable based upon the credit
+                         risk of specific customers, historical trends and other
+                         information.
+
+                         USE OF ESTIMATES
+
+                         The preparation of financial statements in conformity
+                         with U.S. generally accepted accounting principles
+                         requires management to make estimates and assumptions
+                         that affect the reported amounts of assets and
+                         liabilities and disclosure of contingent assets and
+                         liabilities at the date of the financial statements and
+                         the reported amounts of revenues and expenses during
+                         the reporting period. Actual results could differ from
+                         those estimates.
+
+                         FAIR VALUE OF FINANCIAL INSTRUMENTS
+
+                         Statement of Financial Accounting Standards ("SFAS")
+                         No.107, Disclosures About Fair Value of Financial
+                         Instruments, requires disclosure of the fair value of
+                         certain instruments. The carrying values of cash,
+                         receivables and payables approximate fair value due to
+                         the short term maturity of these instruments. For debt,
+                         the carrying amounts approximate fair value because the
+                         interest rates approximate current market rates.
+
+                         LONG-LIVED ASSETS
+
+                         The Partnership evaluates its long-lived assets when
+                         events or circumstances indicate that the value of the
+                         asset may not be recoverable. The Partnership
+                         determines whether impairment exists by estimating the
+                         undiscounted cash flows to be generated by each asset.
+                         If the estimated undiscounted cash flows are less than
+                         the carrying value of the asset then impairment exists.
+                         The amount of
+
+COMMONWEALTH INCOME & GROWTH FUND II
+
+                                                   NOTES TO FINANCIAL STATEMENTS
+
+                         the impairment is determined based on the difference
+                         between the carrying value and the fair value. The fair
+                         value is determined based on estimated discounted cash
+                         flows to be generated by the asset. In 2005 and 2004,
+                         the Partnership determined that the carrying amount of
+                         certain assets was greater than the undiscounted cash
+                         flows to be generated by these assets. The Partnership
+                         recorded charges of $9,000, $40,000, and $31,000 in the
+                         fourth quarter of 2005, 2004, and 2003, respectively to
+                         record the assets at their estimated fair value. Such
+                         amounts have been included in depreciation expense in
+                         the accompanying financial statements.
+
+                         Depreciation on computer equipment for financial
+                         statement purposes is based on the straight-line method
+                         over estimated useful lives of four years.
+
+                         INTANGIBLE ASSETS
+
+                         Equipment acquisition costs and deferred expenses are
+                         amortized on a straight-line basis over two- to-four
+                         year lives. Unamortized acquisition fees and deferred
+                         expenses are charged to amortization expense when the
+                         associated leased equipment is sold.
+
+                         CASH AND CASH EQUIVALENTS
+
+                         The Partnership considers all highly liquid investments
+                         with a maturity of three months or less to be cash
+                         equivalents. Cash equivalents have been invested in a
+                         money market fund investing directly in Treasury
+                         obligations. Cash at December 31, 2005 and 2004 was
+                         held in the custody of one financial institution. At
+                         times, the balances may exceed federally insured
+                         limits. The Partnership mitigates this risk by
+                         depositing funds with a major financial institution.
+                         The Partnership has not experienced any losses in such
+                         accounts, and believes it is not exposed to any
+                         significant credit risk.
+
+                         ACCOUNTS RECEIVABLE
+
+                         Accounts receivable includes current accounts
+                         receivable, net of allowances and other accruals. The
+                         Partnership regularly reviews the collectability of its
+                         receivables and the credit worthiness of its
+
+COMMONWEALTH INCOME & GROWTH FUND II
+
+                                                   NOTES TO FINANCIAL STATEMENTS
+
+                         customers and adjusts its allowance for doubtful
+                         accounts accordingly. The Partnership determined that
+                         no allowance was necessary at December 31, 2005 and
+                         2004.
+
+                         INCOME TAXES
+
+                         The Partnership is not subject to federal income taxes;
+                         instead, any taxable income (loss) is passed through to
+                         the partners and included on their respective income
+                         tax returns.
+
+                         Taxable income differs from financial statement net
+                         income as a result of reporting certain income and
+                         expense items for tax purposes in periods other than
+                         those used for financial statement purposes,
+                         principally relating to depreciation, amortization, and
+                         lease income.
+
+                         NET ASSETS IN LIQUIDATION PER EQUIVALENT LIMITED
+                         PARTNERSHIP UNIT
+
+                         In connection with the conversion from the
+                         going-concern basis of accounting to the liquidation
+                         basis, the net assets in liquidation per equivalent
+                         limited partnership unit is computed based upon net
+                         assets in liquidation allocated to the limited partners
+                         and the weighted average number of equivalent limited
+                         partner units outstanding during the period.
+
+                         NET INCOME (LOSS) PER EQUIVALENT LIMITED PARTNERSHIP
+                         UNIT
+
+                         The net income (loss) per equivalent limited
+                         partnership unit is computed based upon net income
+                         (loss) allocated to the limited partners and the
+                         weighted average number of equivalent limited partner
+                         units outstanding during the year.
+
+COMMONWEALTH INCOME & GROWTH FUND II
+
+                                                   NOTES TO FINANCIAL STATEMENTS
+
+                         REIMBURSABLE EXPENSES
+
+                         Reimbursable expenses, which are charged to the
+                         Partnership by CCC in connection with the
+                         administration and operation of the Partnership, are
+                         allocated to the Partnership based upon several factors
+                         including, but not limited to, the number of investors,
+                         compliance issues, and the number of existing leases.
+
+                         FORGIVENESS OF RELATED PARTY PAYABLES
+
+                         In accordance with Accounting Principles Board Opinion
+                         No. 26, Early Extinguishment of Debt, the Partnership
+                         accounts for forgiveness of related party payables as
+                         partner's capital transactions.
+
+                         RECENT ACCOUNTING PRONOUNCEMENTS
+
+                         In May 2005, the Financial Accounting Standards Board
+                         (FASB) issued SFAS No. 154, "Accounting Changes and
+                         Error Corrections" (SFAS No. 154) which replaces APB
+                         No. 20 "Accounting Changes" and SFAS No. 3, "Reporting
+                         Accounting Changes in Interim Financial Statements - An
+                         Amendment of APB Opinion No. 28." SFAS No. 154 provides
+                         guidance on the methods issuers should use to account
+                         for and report accounting changes and error
+                         corrections. Specifically, this statement requires that
+                         issuers retrospectively apply any voluntary change in
+                         accounting principles to prior period financial
+                         statements, if it is practicable to do so. This
+                         principle replaces APB No. 20, which required that most
+                         voluntary changes in accounting principle be recognized
+                         by including the cumulative effect of the change to the
+                         new accounting principle on prior periods in the net
+                         income reported by the issuer in the period in which it
+                         instituted the change. SFAS No. 154 also redefines the
+                         term "restatement" to mean the correction of an error
+                         by revising previously issued financial statements.
+                         Unless adopted early, SFAS No. 154 is effective for
+                         accounting changes and corrections of errors made in
+                         fiscal years beginning after December 15, 2005. The
+                         Partnership does not expect the adoption of SFAS No.
+                         154 to have an impact on its financial position or
+                         results of operations.
+
+COMMONWEALTH INCOME & GROWTH FUND II
+
+                                                   NOTES TO FINANCIAL STATEMENTS
+
+4.   NET INVESTMENT IN   The following lists the components of the net
+     DIRECT FINANCING    investment in direct financing leases as of
+     LEASES              December 31, 2005 and 2004:
+
+The following is a schedule of future minimum rentals
+                         on noncancellable direct financing leases at
+                         December 31, 2005:
+
+There are two lessees involved with the seven direct
+                         financing leases.
+
+5.   COMPUTER EQUIPMENT  The Partnership is the lessor of equipment under
+                         operating and capital leases with periods ranging from
+                         24 to 48 months. In general, associated costs such as
+                         repairs and maintenance, insurance and property taxes
+                         are paid by the lessee.
+
+                         The Partnership participates in leases that are shared
+                         with other affiliated Partnerships. The Partnership's
+                         share of the computer equipment in which they
+                         participate at December 31, 2005 and 2004 was
+                         approximately $840,000 and $1,306,000, respectively,
+                         which is included in the Partnership's fixed assets on
+                         their balance sheet. The total cost of the equipment
+                         shared by the Partnership with other affiliated
+                         partnerships at December 31, 2005 and 2004 was
+                         approximately $1,536,000 and $2,249,000, respectively.
+                         The Partnership's share of the outstanding debt
+                         associated with this equipment at December 31, 2005 and
+                         2004 was approximately $0 and $700, respectively, which
+                         is included in the Partnership's liabilities
+
+COMMONWEALTH INCOME & GROWTH FUND II
+
+                                                   NOTES TO FINANCIAL STATEMENTS
+
+                         on the balance sheet. The total outstanding debt at
+                         December 31, 2005 and 2004 related to the equipment
+                         shared by the Partnership was approximately $0 and
+                         $1,100, respectively.
+
+                         The following is a schedule of future minimum rentals
+                         on noncancelable operating leases at December 31, 2005:
+
+                         Year ending December 31,                       Amount
+                         ------------------------------------------   ----------
+                         2006                                         $    7,500
+                                                                      ----------
+                                                                      $    7,500
+                                                                      ==========
+
+     SIGNIFICANT         Lessees exceeding 10% of lease income for the years
+     CUSTOMERS           ended:
+
+                         Lessee                            2005    2004    2003
+                         -------------------------------   ----    ----    ----
+                         Lessee A                            --      41%     22%
+                         Lessee B                            --      --      16%
+                         Lessee C                            --      19%     12%
+                         Lessee D                            36%     11%     --
+                         Lessee F                            20%     --      --
+                                                           ----    ----    ----
+                         TOTAL % OF LEASE INCOME             56%     71%     50%
+                                                           ----    ----    ----
+
+                         Lessees exceeding 10% of accounts receivable at
+                         December 31:
+
+                         Lessee                                 2005       2004
+                         --------------------------------   --------   --------
+
+                         Lessee A                                 --         23%
+                         Lessee D                                 --         11%
+                         Lessee E                                 --         49%
+                         Lessee F                                 88%        --
+                                                            --------   --------
+                         TOTAL % OF ACCOUNTS RECEIVABLE           88%        83%
+                                                            --------   --------
+
+COMMONWEALTH INCOME & GROWTH FUND II
+
+                                                   NOTES TO FINANCIAL STATEMENTS
+
+6.   RELATED PARTY       REIMBURSABLE EXPENSES
+     TRANSACTIONS
+
+                         The General Partner and its affiliates are entitled to
+                         reimbursement by the Partnership for the cost of goods,
+                         supplies or services obtained and used by the General
+                         Partner in connection with the administration and
+                         operation of the Partnership from third parties
+                         unaffiliated with the General Partner. In addition, the
+                         General Partner and its affiliates are entitled to
+                         reimbursement for certain expenses incurred by the
+                         General Partner and its affiliates in connection with
+                         the administration and operation of the Partnership.
+                         During 2005, 2004 and 2003, the Partnership recorded
+                         $105,000, $331,000, and $371,000, respectively, for
+                         reimbursement of expenses to the General Partner.
+
+                         EQUIPMENT ACQUISITION FEE
+
+                         The General Partner is entitled to be paid an equipment
+                         acquisition fee of 4% of the purchase price of each
+                         item of equipment purchased as compensation for the
+                         negotiation of the acquisition of the equipment and
+                         lease thereof or sale under a conditional sales
+                         contract. The fee was paid upon each closing of the
+                         Offering with respect to the equipment to be purchased
+                         by the Partnership with the net proceeds for the
+                         Offering available for investment in equipment. If the
+                         Partnership acquires equipment in an amount exceeding
+                         the net proceeds of the Offering available for
+                         investment in equipment, the fee will be paid when such
+                         equipment is acquired. No equipment acquisition fees
+                         were paid to the General Partner in 2005. During 2004
+                         and 2003, equipment acquisition fees of approximately
+                         $1,000 and $1,000, respectively, were paid to the
+                         General Partner.
+
+                         DEBT PLACEMENT FEE
+
+                         As compensation for arranging term debt to finance the
+                         acquisition of equipment by the Partnership, the
+                         General Partner is paid a fee equal to 1% of such
+                         indebtedness; provided, however, that such fee shall be
+                         reduced to the extent the Partnership incurs such fees
+                         to third parties, unaffiliated with the General Partner
+                         or the lender, with respect to such indebtedness and no
+                         such fee will be paid with respect to borrowings from
+                         the General Partner or its affiliates. There were no
+                         debt placement fees paid to the General Partner in
+                         2005, 2004 and 2003.
+
+COMMONWEALTH INCOME & GROWTH FUND II
+
+                                                   NOTES TO FINANCIAL STATEMENTS
+
+                         EQUIPMENT MANAGEMENT FEE
+
+                         The General Partner is entitled to be paid a monthly
+                         fee equal to the lesser of (i) the fees which would be
+                         charged by an independent third party for similar
+                         services for similar equipment or (ii) the sum of (a)
+                         two percent of (1) the gross lease revenues
+                         attributable to equipment which is subject to full
+                         payout net leases which contain net lease provisions
+                         plus (2) the purchase price paid on conditional sales
+                         contracts as received by the Partnership and (b) 5% of
+                         the gross lease revenues attributable to equipment
+                         which is subject to operating leases. During 2005, 2004
+                         and 2003, equipment management fees of approximately
+                         $4,000, $36,000, and $76,000, respectively, were paid
+                         to the General Partner as determined pursuant to
+                         section (ii) above.
+
+                         RELEASE FEE
+
+                         As compensation for providing releasing services for
+                         any equipment for which the General Partner has,
+                         following the expiration of, or default under, the most
+                         recent lease or conditional sales contract, arranged a
+                         subsequent lease or conditional sales contract for the
+                         use of such equipment to a lessee or other party, other
+                         than the current or most recent lessee or other
+                         operator of such equipment or its affiliates
+                         ("Release"), the General Partner shall receive, on a
+                         monthly basis, a Release Fee equal to the lesser of (a)
+                         the fees which would be charged by an independent third
+                         party for comparable services for comparable equipment
+                         or (b) two percent of gross lease revenues derived from
+                         such Release. There were no such fees paid to the
+                         General Partner in 2005, 2004 and 2003.
+
+COMMONWEALTH INCOME & GROWTH FUND II
+
+                                                   NOTES TO FINANCIAL STATEMENTS
+
+                         EQUIPMENT LIQUIDATION FEE
+
+                         With respect to each item of equipment sold by the
+                         General Partner (other than in connection with a
+                         conditional sales contract), a fee equal to the lesser
+                         of (i) 50% of the competitive equipment sale commission
+                         or (ii) three percent of the sales price for such
+                         equipment is payable to the General Partner. The
+                         payment of such fee is subordinated to the receipt by
+                         the limited partners of the net disposition proceeds
+                         from such sale in accordance with the Partnership
+                         Agreement. Such fee will be reduced to the extent any
+                         liquidation or resale fees are paid to unaffiliated
+                         parties. There were no such fees paid to the General
+                         Partner in 2005, 2004 and 2003.
+
+7.   NOTES PAYABLE       Notes payable consisted of the following:
+
+These notes are secured by specific computer equipment
+                         and are nonrecourse liabilities of the Partnership.
+                         Aggregate maturities of notes payable for each of the
+                         years subsequent to December 31, 2005 are as follows:
+
+COMMONWEALTH INCOME & GROWTH FUND II
+
+                                                   NOTES TO FINANCIAL STATEMENTS
+
+                         Year ending December 31,                       Amount
+                         ------------------------------------------   ----------
+                         2006                                             32,239
+                                                                      ----------
+                                                                      $   32,239
+                                                                      ==========
+
+8.   SUPPLEMENTAL        Other noncash activities included in the determination
+     CASH FLOW           of net loss are as follows:
+     INFORMATION
+
+No interest or principal on notes payable was paid by
+                         the Partnership because direct payment was made by
+                         lessee to the bank in lieu of collection of lease
+                         income and payment of interest and principal by the
+                         Partnership.
+
+                         Noncash investing and financing activities include the
+                         following:
+
+COMMONWEALTH INCOME & GROWTH FUND II
+
+                                                   NOTES TO FINANCIAL STATEMENTS
+
+9.   RECONCILIATION OF NET INCOME (LOSS) REPORTED FOR FINANCIAL REPORTING
+     PURPOSES TO TAXABLE (LOSS) ON THE FEDERAL PARTNERSHIP RETURN
+
+COMMONWEALTH INCOME & GROWTH FUND II
+
+                                                   NOTES TO FINANCIAL STATEMENTS
+
+10.  QUARTERLY RESULTS   Summarized quarterly financial data for the years ended
+     OF OPERATION        December 31, 2005 and 2004 is as follows:
+     (UNAUDITED)
+
+Total costs and expenses includes an impairment
+                         adjustment of approximately $9,000 that was recorded in
+                         the fourth quarter of 2005.
+
+                         * Liquidation basis effective April 1, 2005.
+
+Total costs and expenses includes an impairment
+                         adjustment of approximately $40,000 that was recorded
+                         in the fourth quarter of 2004.
+
+<EX-31>
+ 2
+ ex31-1.txt
+ EXHIBIT 31.1
+
+EXHIBIT 31.1
+
+I, George S. Springsteen, certify that:
+1.       I have reviewed this report on Form 10-K of Commonwealth Income &
+         Growth Fund II (the registrant);
+2.       Based on my knowledge, this report does not contain any untrue
+         statement of a material fact or omit to state a material fact necessary
+         to make the statements made, in light of the circumstances under which
+         such statements were made, not misleading with respect to the period
+         covered by this report;
+3.       Based on my knowledge, the financial statements, and other financial
+         information included in this report, fairly present in all material
+         respects the financial condition, results of operations and cash flows
+         of the registrant as of, and for, the periods presented in this report;
+4.       The registrant's other certifying officer(s) and I are responsible for
+         establishing and maintaining disclosure controls and procedures (as
+         defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the
+         registrant and have:
+         (a)      Designed such disclosure controls and procedures, or caused
+                  such disclosure controls and procedures to be designed under
+                  our supervision, to ensure that material information relating
+                  to the registrant, including its consolidated subsidiaries, is
+                  made known to us by others within those entities, particularly
+                  during the period in which this report is being prepared;
+         (b)      Evaluated the effectiveness of the registrant's disclosure
+                  controls and procedures and presented in this report our
+                  conclusions about the effectiveness of the disclosure controls
+                  and procedures, as of the end of the period covered by this
+                  report based on such evaluation; and
+         (c)      Disclosed in this report any change in the registrant's
+                  internal control over financial reporting that occurred during
+                  the registrant's most recent fiscal quarter (the registrant's
+                  fourth fiscal quarter in the case of an annual report) that
+                  has materially affected, or is reasonably likely to materially
+                  affect, the registrant's internal control over financial
+                  reporting; and
+5.       The registrant's other certifying officer(s) and I have disclosed,
+         based on our most recent evaluation of internal control over financial
+         reporting, to the registrant's auditors and the audit committee of the
+         registrant's board of directors (or persons performing the equivalent
+         functions):
+         (a)      All significant deficiencies and material weaknesses in the
+                  design or operation of internal control over financial
+                  reporting which are reasonably likely to adversely affect the
+                  registrant's ability to record, process, summarize and report
+                  financial information; and
+
+         (b)      Any fraud, whether or not material, that involves management
+                  or other employees who have a significant role in the
+                  registrant's internal control over financial reporting.
+
+DATE: March 31, 2006                                     -----------------------
+                                                         George S. Springsteen
+                                                         Chief Executive Officer
+
+</EX-31>
+
+<EX-31>
+ 3
+ ex31-2.txt
+ EXHIBIT 31.2
+
+EXHIBIT 31.2
+
+I, Kimberly A. Springsteen, certify that:
+1.       I have reviewed this report on Form 10-K of Commonwealth Income &
+         Growth Fund II (the registrant);
+2.       Based on my knowledge, this report does not contain any untrue
+         statement of a material fact or omit to state a material fact necessary
+         to make the statements made, in light of the circumstances under which
+         such statements were made, not misleading with respect to the period
+         covered by this report;
+3.       Based on my knowledge, the financial statements, and other financial
+         information included in this report, fairly present in all material
+         respects the financial condition, results of operations and cash flows
+         of the registrant as of, and for, the periods presented in this report;
+4.       The registrant's other certifying officer(s) and I are responsible for
+         establishing and maintaining disclosure controls and procedures (as
+         defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the
+         registrant and have:
+         (a)      Designed such disclosure controls and procedures, or caused
+                  such disclosure controls and procedures to be designed under
+                  our supervision, to ensure that material information relating
+                  to the registrant, including its consolidated subsidiaries, is
+                  made known to us by others within those entities, particularly
+                  during the period in which this report is being prepared;
+         (b)      Evaluated the effectiveness of the registrant's disclosure
+                  controls and procedures and presented in this report our
+                  conclusions about the effectiveness of the disclosure controls
+                  and procedures, as of the end of the period covered by this
+                  report based on such evaluation.
+         (c)      Disclosed in this report any change in the registrant's
+                  internal control over financial reporting that occurred during
+                  the registrant's most recent fiscal quarter (the registrant's
+                  fourth fiscal quarter in the case of an annual report) that
+                  has materially affected, or is reasonably likely to materially
+                  affect, the registrant's internal control over financial
+                  reporting; and
+5.       The registrant's other certifying officer(s) and I have disclosed,
+         based on our most recent evaluation of internal control over financial
+         reporting, to the registrant's auditors and the audit committee of the
+         registrant's board of directors (or persons performing the equivalent
+         functions):
+         (a)      All significant deficiencies and material weaknesses in the
+                  design or operation of internal control over financial
+                  reporting which are reasonably likely to adversely affect the
+                  registrant's ability to record, process, summarize and report
+                  financial information; and
+         (b)      Any fraud, whether or not material, that involves management
+                  or other employees who have a significant role in the
+                  registrant's internal control over financial reporting.
+
+DATE: March 31, 2006                              ------------------------------
+                                                  Kimberly A. Springsteen
+                                                  Chief Financial Officer
+
+</EX-31>
+
+<EX-32>
+ 4
+ ex-32.txt
+ EXHIBIT 32
+
+EXHIBIT 32
+
+                  WRITTEN STATEMENT OF CHIEF EXECUTIVE OFFICER
+                           AND CHIEF FINANCIAL OFFICER
+                        FURNISHED PURSUANT TO SECTION 906
+           OF THE SARBANES-OXLEY ACT OF 2002 (18 U.S.C. SECTION 1350)
+              AND    FOR THE PURPOSE OF COMPLYING WITH RULE 13A-14(B) OF THE
+                     SECURITIES EXCHANGE ACT OF 1934.
+
+In connection with the Annual Report of Commonwealth Income & Growth Fund II
+(the "Company") on Form 10-K for the period ending December 31, 2005, as filed
+with the Securities and Exchange Commission on the date hereof (the "Report"),
+the undersigned, the Chief Executive Officer and the Chief Financial Officer of
+the Company respectively, each hereby certifies pursuant to 18 U.S.C. Section
+1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, to
+such officer's knowledge, that: (a) the Annual Report on Form 10-K of the
+Company for the year ended December 31, 2005 filed on the date hereof with the
+Securities and Exchange Commission (the "Report") fully complies with the
+requirements of Section 13(a) or 15(d) of the Securities Exchange Act of 1934;
+and (b) information contained in the Report fairly presents, in all material
+respects, the financial condition and results of operations of the Company.
+
+---------------------------
+                                                     George S. Springsteen
+                                                     Chief Executive Officer
+                                                     March 31, 2006
+
+---------------------------
+                                                     Kimberly A. Springsteen
+                                                     Chief Financial Officer
+                                                     March 31, 2006
+
+A signed original of this written statement required by Section 906, or other
+document authenticating, acknowledging, or otherwise adopting the signature that
+appears in typed form within the electronic version of this written statement
+required by Section 906, has been provided to the Company and will be retained
+by the Company and furnished to the Securities and Exchange Commission or its
+staff upon request.
+
+</EX-32>
+

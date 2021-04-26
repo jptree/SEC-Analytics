@@ -1,0 +1,3538 @@
+<Header>
+<FileStats>
+    <FileName>20060331_10-K_edgar_data_911149_0001104659-06-021093_1.txt</FileName>
+    <GrossFileSize>1475059</GrossFileSize>
+    <NetFileSize>156979</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>975279</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>32</N_Tables>
+    <N_Exhibits>4</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001104659-06-021093.hdr.sgml : 20060331
+<ACCEPTANCE-DATETIME>20060331124103
+ACCESSION NUMBER:		0001104659-06-021093
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20051231
+FILED AS OF DATE:		20060331
+DATE AS OF CHANGE:		20060331
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MICRO COMPONENT TECHNOLOGY INC
+		CENTRAL INDEX KEY:			0000911149
+		STANDARD INDUSTRIAL CLASSIFICATION:	INSTRUMENTS FOR MEAS & TESTING OF ELECTRICITY & ELEC SIGNALS [3825]
+		IRS NUMBER:				410985960
+		STATE OF INCORPORATION:			MN
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-22384
+		FILM NUMBER:		06726849
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2340 W COUNTY RD C
+		CITY:			ST PAUL
+		STATE:			MN
+		ZIP:			55113-2528
+		BUSINESS PHONE:		6516974000
+
+	MAIL ADDRESS:	
+		STREET 1:		2340 W COUNTY RD C
+		CITY:			ST PAUL
+		STATE:			MN
+		ZIP:			55113-2528
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ KmFJxvpRL0KpKd6mIOlhBU7b3UnqLOK1OjomR/zbwLqFLifJU1zcjhWtBDFR7v0p
+ 6GdK+M5Xf28aKzFdPqMpZg==
+
+ 0001104659-06-021093.txt : 20060331
+
+10-K
+ 1
+ a06-2044_110k.htm
+ ANNUAL REPORT PURSUANT TO SECTION 13 AND 15(D)
+
+SECURITIES AND EXCHANGE
+COMMISSION   
+
+   Washington, D.C. 20549   
+
+FORM 10-K   
+
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE   
+
+   SECURITIES EXCHANGE ACT OF 1934   
+
+For the year ended
+December 31, 2005   
+
+OR   
+
+o     
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE   
+
+   SECURITIES EXCHANGE ACT OF 1934   
+
+Commission file number 0-22384   
+
+MICRO COMPONENT TECHNOLOGY, INC.   
+
+  (Exact name of registrant as specified in its charter)  
+
+Minnesota   
+
+41-0985960   
+
+(State or other jurisdiction of  
+
+(I.R.S. Employer  
+
+incorporation or organization)  
+
+Identification No.)  
+
+2340 West County Road C, St. Paul, Minnesota 55113   
+
+  (Address of principal executive offices)  
+
+  Registrant s telephone number, including area code   (651)
+697-4000    
+
+Securities registered pursuant to Section 12(b) of the Act:   None    
+
+Securities registered pursuant to Section 12(g) of the Act:  
+
+   COMMON STOCK, $.01 PAR VALUE    
+
+  (Title of Class)  
+
+Indicate
+by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405
+of the Securities Act. Yes    o   No      
+
+Indicate
+by check mark if the registrant is not required to file reports pursuant to Section 13
+or Section 15(d) of the Act. Yes    o   No      
+
+Indicate
+by check mark whether the Registrant (1) has filed all reports required to
+be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months, and (2) has been subject to such
+filing requirements for the past 90 days. Yes       No   o  
+
+Indicate by check mark if
+disclosure of delinquent filers pursuant to Item 405 of Regulation S-K
+( 229.405 of this chapter) is not contained herein, and will not be contained,
+to the best of registrant s knowledge, in definitive proxy or information
+statements incorporated by reference in Part III of this Form 10-K or
+any amendment to this Form 10-K.      
+
+Indicate by check mark
+whether the registrant is a large accelerated filer, an accelerated filer, or a
+non-accelerated filer. See definition of  accelerated filer and large
+accelerated filer  in Rule 12b-2 of the Exchange Act. (Check one):  
+
+Large
+  Accelerated Filer   o  
+
+Accelerated Filer   o  
+
+Non-Accelerated Filer      
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule 12b-2
+of the Exchange Act). Yes    o   No      
+
+The aggregate market
+value of the common stock held by non-affiliates of the Registrant as of June 25,
+2005 (the business day of the Registrant s most recently completed second
+fiscal quarter), was $6.1 million based upon the closing price of $0.24 on that
+date for the shares.  
+
+Number
+of shares outstanding of the Registrant s Common stock, as of     March 15, 2006,     is 27,215,361.  
+
+DOCUMENTS INCORPORATED BY REFERENCE  
+
+  Portions of the Registrant s Definitive Proxy Statement for
+the annual meeting of stockholders (the  Proxy Statement ) to be filed within
+120 days after the Registrant s fiscal year ended December 31, 2005, are
+incorporated by reference into Part III.  
+
+MICRO COMPONENT TECHNOLOGY, INC. AND
+SUBSIDIARIES   
+
+TABLE OF
+CONTENTS   
+
+PART I    
+
+ITEM   
+
+1.   
+
+Business   
+
+ITEM   
+
+1A.   
+
+Risk Factors   
+
+ITEM   
+
+2.   
+
+Properties   
+
+ITEM   
+
+3.   
+
+Legal Proceedings   
+
+ITEM   
+
+4.   
+
+Submission
+  of Matters to a Vote of Security Holders   
+
+PART II    
+
+ITEM   
+
+5.   
+
+Market
+  for Registrant s Common Stock, Related Stockholder Matters and Issuer
+  Purchases of Equity Securities   
+
+ITEM   
+
+6.   
+
+Selected
+  Consolidated Financial Data   
+
+ITEM   
+
+7.   
+
+Management s
+  Discussion and Analysis of Results of Operations and Financial Condition   
+
+ITEM   
+
+7A.   
+
+Quantitative
+  and Qualitative Disclosures About Market Risk   
+
+ITEM   
+
+8.   
+
+Consolidated
+  Financial Statements and Supplementary Data   
+
+ITEM   
+
+9.   
+
+Changes in
+  and Disagreements with Accountants on Accounting and Financial Disclosure   
+
+ITEM    
+
+9A.   
+
+Controls and
+  Procedures   
+
+ITEM    
+
+9B.    
+
+Other Information   
+
+PART III    
+
+ITEM   
+
+10.   
+
+Directors
+  and Executive Officers of the Registrant   
+
+ITEM   
+
+11.   
+
+Executive
+  Compensation   
+
+ITEM   
+
+12.   
+
+Security
+  Ownership of Certain Beneficial Owners and Management
+  and Related Stockholders Matters   
+
+ITEM   
+
+13.   
+
+Certain
+  Relationships and Related Transactions   
+
+ITEM   
+
+14.   
+
+Principal
+  Accountant Fees and Services   
+
+ITEM   
+
+15.   
+
+Exhibits and
+  Financial Statement Schedules   
+
+Index to
+  Consolidated Financial Statements    
+
+Signatures and
+  Certifications   
+
+2  
+
+PART I    
+
+This Form 10-K
+contains certain forward-looking statements. For this purpose, any statements
+contained in this Form 10-K that are not statements of historical fact may be
+deemed to be forward-looking statements. Without limiting the foregoing, words
+such as  may,   will,   expect,   believe,   anticipate,   estimate  or  continue 
+or comparable terminology are intended to identify forward-looking statements. These
+statements by their nature involve substantial risks and uncertainties, and
+actual results may differ materially depending on a variety of factors,
+including those set forth in the section below entitled  Risk Factors.          
+
+ITEM 1. Business    
+
+General   
+
+Unless
+the context otherwise requires, references in this Report on Form 10-K to  MCT ,
+  We ,  Us ,  Registrant  and the  Company  refer to Micro Component
+Technology, Inc. and its consolidated subsidiaries. MCT was incorporated
+in Minnesota on June 20, 1972, was reorganized as a Delaware corporation
+on June 28, 1983 and reorganized as a Minnesota corporation on November 6,
+1996. MCT has three wholly owned active operating subsidiaries, Micro Component
+Technology Asia Pte. Ltd., ( MCT Asia ), MCT Asia (Penang) Sdn. Bhd., ( Penang ),
+and MCT Philippines, Inc ( Philippines ). Our principal executive offices are
+located at 2340 West County Road C, St. Paul, Minnesota 55113 and our telephone
+number at that location is (651) 697-4000.  
+
+Our trademarks
+used in this Form 10-K are:      MCT     ,      Infinity Systems     ,
+     Aseco     ,
+    Tapestr   y      
+,      Smart
+Solutions     ,      SmartMark           ,     SmartSort         ,    S martTrak          ,      Isocut     ,
+     MCT
+5100     ,      MCT 7632     ,      S-170     
+and      S-130     .
+All other trademarks or trade names referred to in this Form 10-K are the
+property of their respective owners.  
+
+Background   
+
+On January 31,
+2000, we completed our acquisition of Aseco Corporation, a Massachusetts based
+manufacturer of handling equipment. The acquisition was structured as a
+stock-for-stock purchase and was accounted for using the purchase method of
+accounting. The purchase price totaled $24.0 million, consisting of 2.6 million
+shares of MCT common stock valued at $22.5 million issued to former Aseco
+shareholders and $1.5 million of acquisition-related costs.  
+
+On April 11,
+2000, our Board of Directors elected to change our fiscal year end to a year
+ending on December 31, effective December 31, 1999. Our interim
+thirteen-week quarters each end on a Saturday.  
+
+On August 16,
+2000, we issued 3,000,000 shares of common stock, and on September 18,
+2000, we issued 290,000 shares of common stock, in a public stock offering. Proceeds
+from the offering totaled $19.7 million.  
+
+On December 24,
+2001, we issued $10.0 million of 10% Senior Subordinated Convertible Notes due
+in 2006 to a group of accredited investors. These Notes are convertible into
+MCT common stock. The conversion price was initially $2.60 per share. The Notes
+are redeemable by MCT at any time after January 3, 2004 as long as the
+market price of our common stock equals or exceeds 150% of the conversion price.
+Proceeds of the Notes, net of debt issuance costs, totaled $9.2 million. Holders
+of the Notes have standard registration rights if they convert the Notes to
+common stock.  
+
+On March 7,
+2003 and March 26, 2003, pursuant to a private equity placement with a group
+of accredited investors, we issued a total of 3,166,869 shares of common stock,
+which resulted in net proceeds to us of approximately $1.1 million. Stock
+issuance costs associated with this offering totaled approximately $241,000. As
+part of this offering, we also issued warrants to purchase 253,350 shares
+of common stock that have a term of five years with an exercise price of $0.43
+per share.  
+
+3  
+
+On June 30,
+2003, we completed the restructuring of $9.29 million, or 92.9%, of our 10%
+Senior Subordinated Convertible Notes, wherein the participating noteholders
+agreed to accept stock in lieu of cash for the next four semi-annual interest
+payment dates beginning June 30, 2003 through December 31, 2004, and
+we agreed to reduce the conversion price to $1.00 per share. On February 25,
+2005, we completed a second amendment to the agreement with the holders of our
+10% Senior Subordinated Convertible Notes, wherein holders of 80% of the
+remaining Notes, representing $2.9 million, agreed to continue to accept stock
+in payment of interest for the remaining four interest payments through December 24,
+2006. The conversion price was then reduced to $0.85 per share. On April 29,
+2005, we completed another financing transaction with Laurus. As a result of
+the new financing with Laurus, the conversion price for all of the Noteholders
+who accepted the prior restructuring agreements was at that time reduced to
+$0.61 per share.  
+
+On March 9,
+2004, we completed a $5.0 million financing transaction with an institutional
+lender, Laurus Master Fund, Ltd. ( Laurus ), secured by all of the assets of
+the Company. The financing included a $3.0 million working capital line of
+credit and a $2.0 million long-term note. The notes were partially convertible
+into shares of our common stock. In connection with the transaction, we issued
+to Laurus a seven-year warrant to purchase 400,000 shares of common stock at
+exercise prices ranging from $2.30 to $2.88 per share. The secured loan in
+existence at that time with a prior lender was terminated.  
+
+On
+January 28, 2005, we completed an amendment to the financing agreement
+with Laurus to defer payments on the long-term convertible note. As part of
+this amendment, the conversion prices for both notes were reduced. We also
+issued Laurus at that time a seven-year warrant to purchase 150,000 shares of
+common stock at $.67 per share.  
+
+On April 29,
+2005, we completed another financing transaction with Laurus in which we
+borrowed an additional $2.5 million, and which was convertible into shares of
+common stock. We also issued Laurus at that time an option to purchase
+2,556,651 shares of common stock at an exercise price of $.01 per share. We
+received net proceeds of approximately $2.4 million at the closing.  
+
+On
+February 17, 2006, we again restructured the financing with Laurus, and
+increased the total maximum secured indebtedness with Laurus to $9.25 million. The
+restructured financing now includes a $5.25 million term note. Interest is
+payable monthly on the term note at the prime rate plus 2.5%. Beginning 360
+days after closing, we are required to make monthly payments equal to 1/60th of
+the principal amount until three years after the closing, at which time the
+entire remaining principal and accrued interest is due and payable in full. The
+note is non-convertible. In addition to the $5.25 million note, the working
+capital line of credit was increased from $3.0 million to $4.0 million, and
+made non-convertible. The note is payable in full on March 8, 2008. Interest
+is payable monthly on the note at the prime rate plus 2.5%. The existing $1.2
+million over-advance in excess of the borrowing base on the working capital
+line of credit was extended until April 30, 2007. However, commencing on December 1,
+2006, the over-advance is to be reduced by $200,000 each month. The Company
+also issued Laurus a 10-year option to purchase 2,500,000 shares at an exercise
+price of $.01 per share. The shares issuable upon exercise of the option have
+standard registration rights. As a result of the new financing with Laurus, the
+conversion price for all of the Noteholders who accepted the prior
+restructuring agreements has been reduced to $0.56 per share.  
+
+Introduction   
+
+We are a leading supplier of integrated automation solutions
+for the global semiconductor test and assembly industry. We offer complete and
+comprehensive equipment automation solutions for the test, laser mark and mark
+inspect processes for the back-end of the semiconductor manufacturing process
+that significantly improve our customers  productivity, yield and throughput. Our
+solutions include our series of integrated Smart Solutions, automated test
+handlers, factory automation software and equipment integration services. Our
+customers include many leading semiconductor companies such as Microchip
+Technologies, Analog Devices, National Semiconductor, Phillips Semiconductor,
+Cypress Semiconductor and ST Microelectronics and many of the leading back-end
+contract test and assembly companies including Amkor and NS Electronics Bangkok.
+We believe we have one of the world s largest installed bases of handlers used
+to test semiconductor devices.  
+
+4  
+
+Semiconductor
+devices are becoming more complex and are characterized by shrinking semiconductor
+device sizes, miniaturized packaging, increased circuitry and larger wafer
+sizes. These trends have led manufacturers to seek new tools and new solutions
+to meet their demanding requirements. We believe that our complete offering of
+equipment automation products and services allows manufacturers to effectively
+address evolving process technologies and packaging formats, such as QFN (quad
+flat packages with no external leads) and miniaturized packaging.  
+
+Beginning
+in 1999, we broadened our strategy from that of a test handler manufacturer to
+also a provider of comprehensive equipment automation solutions for the
+back-end of the semiconductor manufacturing process. Consistent with this new
+strategy, we completed two acquisitions. Our acquisition of Infinity Systems in
+June 1999, a company involved in the development of factory automation
+software, was integral to the development of our integrated equipment Smart
+Solutions product suite. In January 2000, we completed our acquisition of
+Aseco, which provided us with increased machine vision and robotics engineering
+technology critical to the handling of strips and wafers.  
+
+Industry
+Overview   
+
+The semiconductor device industry had grown tremendously over
+the ten-year period ending in the year 2000. This growth had been driven by
+traditional semiconductor markets like personal computers and data processing,
+and more recently by the proliferation of semiconductor devices in
+telecommunications, wireless communications, and consumer electronics, as well
+as Internet infrastructure equipment. However, the semiconductor capital
+equipment market, in which we compete, has historically been subject to
+cyclical periods of high growth and contraction. In the fourth quarter of 2000,
+the semiconductor industry went into a sharp downturn, which intensified and
+continued through the majority of 2003, resulting in a significant adverse
+impact on our business. In late 2003, worldwide semiconductor bookings began
+showing signs of stabilization and demand for our products increased during
+this period and continued through the first half of 2004. However, in the third
+quarter of 2004 the markets again retracted, impacting our financial results
+through the end of 2004 and continuing through 2005. At this juncture, the
+return to sustained market growth cannot be predicted in the short term.  
+
+The
+process of semiconductor manufacturing is one of the most complicated and
+logistically challenging manufacturing processes in the world. An advanced
+semiconductor device can travel thousands of miles and undergo as many as 500
+production steps before completion. The semiconductor device manufacturing
+process is traditionally divided into two parts: the front-end, which includes
+wafer fabrication from raw materials to a finished wafer; and the back-end,
+which includes semiconductor device assembly, test, and packaging. Front-end
+and back-end manufacturing facilities are expected to run 24 hours a day, 7
+days a week to provide the productivity needed to meet the requirements of the
+market.  
+
+Initially,
+semiconductor manufacturers concentrated their efforts on improving the more
+expensive front-end wafer fabrication process. They improved the front-end by
+first automating the individual production tools and more recently by
+integrating the various production tools through factory automation software. Tool
+automation was significant because it replaced most human handling of the
+wafers with robotics, resulting in dramatically increased yields. Factory
+automation software is significantly improving productivity, yield and
+throughput in the front-end by utilizing powerful production scheduling,
+materials handling and process tool control software.  
+
+Automation
+and process improvement of back-end tools and facilities has severely lagged
+the front-end. Over the last several years, manufacturers began to seek
+automation and process solutions for the back-end production process. This is
+because, historically, the cost of back-end assembly and test processes was
+only a small portion of the total semiconductor device cost and traditional
+processes were able to provide adequate throughput. Today the cost of back-end
+assembly and test per semiconductor device often equals or exceeds the wafer
+fabrication cost per semiconductor device. We believe that as manufacturers
+seek to raise the standards of yield, productivity, throughput and cost
+reduction in the back-end, the growth rate of the newly developing back-end
+automation market could increase rapidly.  
+
+5  
+
+Traditional
+Semiconductor Manufacturing Process   
+
+Semiconductor
+devices arrive for test in strip or wafer format, with each strip or wafer
+containing multiple individual devices. Until recently, most semiconductor
+manufacturers believed it was necessary to test individual semiconductor
+devices after they were singulated, or cut from the strip or wafer. However, as
+semiconductor device and package sizes have shrunk, they have become extremely
+difficult to handle individually. For example, manufacturers  chip scale packages,
+or CSPs, are nearly the same size as the die they package. Traditional handling
+tools do not have the precision to adequately address the various semiconductor
+device size and chip-scale packaging technologies demanded by manufacturers. As
+a result, handling tools designed for singulated processes have become a bottleneck
+to throughput.  
+
+Manufacturers
+now acknowledge that post-test singulation can be done, in certain package
+formats, without damage to the device. This understanding permits manufacturers
+to process, handle, and test multiple devices while still in strip or wafer
+format. Strip handling increases process flexibility by permitting the handling
+and testing of a variety of packages, substrates and semiconductor device
+sizes. In addition, strip handling significantly increases throughput by
+reducing the number of process steps and by allowing the tester to easily test
+multiple semiconductor devices in parallel. We believe that as manufacturers
+seek to increase productivity, yield and throughput, they will increasingly
+adopt strip test processing. Consequently, we believe strip test processing
+technology will be critical to any back-end automation strategy and will
+facilitate re-tooling of many back end processes.  
+
+In
+implementing broader automation strategies in the back-end, manufacturers face
+other significant challenges besides the development of strip processing tools.
+For example, production tools in the back-end historically have not
+communicated well with one another, if at all, and the transitions between
+production steps have not been integrated. This lack of communication and
+integration has prevented back-end manufacturers from realizing many of the
+benefits of factory automation and has prevented the collection of critical
+process data.  
+
+Our
+Solution   
+
+We
+seek to provide our customers comprehensive equipment automation solutions for
+their test and assembly processes. By deploying our products and services, our
+customers are able to improve their production yields, factory throughput, tool
+productivity and utilization while reducing product cost. The key components of
+our solution are:  
+
+Tapestry series automated strip handler, 
+
+Smart Solutions integrated equipment product series, 
+
+Infinity Systems factory automation software and equipment integration
+services, and 
+
+Line of traditional test handlers for singulated processes. 
+
+Our solution provides the
+following benefits to our customers:  
+
+Flexibility to address new form factors, including wafers and
+strips.    We believe that our Tapestry series of
+handlers are among the first handlers capable of processing semiconductor
+devices in strip or wafer formats. Tapestry provides increased flexibility,
+permitting the handling and testing of a variety of packages, substrates and
+semiconductor device types. Depending on the application, we believe that our
+Tapestry handler s throughput capability is three to ten times greater than
+existing singulated handling options available today. 
+
+Ability to collect critical process data.    Our
+Smart Solutions equipment products utilize our factory automation software to
+provide both the hardware and software necessary to accurately track important
+yield events in the test and assembly portion of the back-end process. We use
+state-of-the-art technology including machine vision to accurately track all
+semiconductor devices as they travel through the test and assembly processes. This
+machine vision technology is not only critical to the precise positioning of
+strips, but also enables our software to generate critical process data. This
+information, together with yield information obtained in the assembly process  
+
+6  
+
+and the front-end
+facility, can provide real-time data on the entire semiconductor manufacturing
+process for each wafer, giving manufacturers the information they need to
+improve their processes and increase their yields.  
+
+Deployment of integrated, comprehensive solutions.    Our
+suite of equipment automation tools, software products and services
+addresses the varied automation needs of individual back-end manufacturing
+facilities. Our factory automation software has the ability to integrate
+production tools from various manufacturers into one total solution. This
+allows our customers to fulfill a significant portion of their test and
+assembly automation needs through a single supplier, thereby simplifying
+training, maintenance, capacity expansion and supplier accountability. 
+
+Worldwide service and support engineering.    We
+provide worldwide service and support engineering to our customers as part of
+the purchase of all of our products, which includes comprehensive installation
+support. As our products have expanded to offer greater functionality, we have
+provided application engineering support so that our customers can take
+advantage of these advances to improve their processes. 
+
+Strategy   
+
+Our
+objective is to be the leading supplier for the newly developing market of
+automated solutions for the semiconductor test and assembly market. Key
+elements of our strategy include:  
+
+Providing comprehensive automated solutions.    Today,
+we provide equipment automation solutions for the test and assembly portion of
+the semiconductor manufacturing process, including test, laser mark, mark
+inspect, and other processes. In addition, we are expanding our automation
+solutions to include equipment integration solutions compatible with products
+from a greater number of other equipment manufacturers such as trim, form and
+singulation system providers. We have enhanced the software component of our
+automation solutions by adding data analysis and report generating capabilities
+to increase our customer s ability to improve their manufacturing process. In
+the future we plan to expand the Smart Solution suite of products to
+handle other processes within the semiconductor test and assembly area. 
+
+Capitalizing on emerging chip scale packaging, or CSP, process
+development.    Our Smart Solutions and Tapestry products
+already meet initial chip scale package process requirements through strip
+handling. However, the vast numbers of new chip scale packages, recently
+introduced, have imposed additional requirements on semiconductor test and
+assembly processes, including the ability to perform multi-pass testing
+and stacked die testing. As a leader in providing equipment automation
+solutions that address chip scale packaging technologies, we are continuing
+development of next-generation handling and equipment automation solutions for
+advanced semiconductor device packaging. 
+
+Strengthening key customer relationships.    Our
+customers include many of the world s leading providers of semiconductor
+devices as well as major third-party test and assembly companies. We expect
+that our customers will look to us to help resolve their process as well as
+automation problems throughout the back-end. As we solve our customers  diverse
+needs, we will deepen our present customer relationships and also build our
+knowledge base so that we can develop similar relationships with others in the
+semiconductor manufacturing industry. 
+
+Leveraging our strong sales and service capability.    We
+predominantly sell our products through our direct sales force and have
+established sales and service offices in the world s major centers of
+semiconductor manufacturing including Penang, Malaysia, Singapore and in the
+Philippines. In addition to our sales and service engineers, we have several
+applications engineers in key customer support locations. We have placed
+software engineers in several Asian locations to directly support Infinity
+Systems  pursuit of factory automation software sales. 
+
+Continuing to develop and support existing singulated test handling
+solutions and products.    We believe that we have one of
+the largest installed bases of traditional test handlers in the world. We
+intend to support our customers who use singulated test handling with new
+product introductions for specialty applications. 
+
+7  
+
+Products   
+
+Automation
+Products     
+
+Smart Solutions     .    Our Smart Solutions equipment suite of products, once
+integrated with a tester, are designed to automate the entire test process from
+the point where the semiconductor devices have been packaged, through test,
+laser mark, inspection, singulation and sort, to the point of shipment to the
+customer. Our Smart Solutions product family offers semiconductor manufacturers
+greater flexibility, yield and throughput. These products are designed to meet
+the back-end semiconductor manufacturer s demand for greater production
+efficiency, lower cost of test and manufacturing flexibility. The following
+table sets forth our key automation product offerings by category, date
+introduced and application.  
+
+Automation
+  Product Category   
+
+Product Name   
+
+Introduced   
+
+Applications   
+
+Smart Solutions  
+
+Tapestry SC  
+
+July 2003  
+
+A next
+  generation handling system for semiconductor devices that are in strip or
+  wafer package formats.  
+
+Tapestry PH1  
+
+February 1999  
+
+A next
+  generation handling system for semiconductor devices that are in strip or
+  wafer package formats.  
+
+SmartMark SC  
+
+September 2004  
+
+A next
+  generation high-speed laser marker for integration with strip handling or for
+  marking strips with 2D codes.  
+
+SmartTrak  
+
+May 2000  
+
+Software
+  management system providing a map with information about each semiconductor
+  device in the strip.  
+
+Automation Software  
+
+Infinity Systems
+  Software Solutions  
+
+Acquired in June 1999  
+
+Manufacturing
+  software control systems for semiconductor assembly and test plants including
+  equipment integration through overall factory and corporate information
+  systems integration.  
+
+Our
+Smart Solutions equipment product family was introduced to meet the anticipated
+evolution of back-end manufacturing from singulated handling to strip
+processing through the final stages of assembly and electrical test. Additionally,
+our Smart Solutions products are designed with electronic strip mapping
+capability as a cornerstone. As high-density semiconductor strips with tiny
+chip scale packages become the standard, electronic strip mapping addresses the
+problem of manually tracking individual semiconductor devices within the strip.
+The new Smart Solutions systems provide customers enhanced performance in
+either stand-alone or integrated assembly lines. The current average selling
+price for Smart Solutions products vary from $300,000 for a single module and
+can approach approximately $1.0 million for a fully configured system that
+includes all of the components.  
+
+Tapestry
+SC, introduced in July 2003, is our next generation system for
+semiconductor devices that are in strip format. The system is targeted to meet
+the growing need for lower cost of ownership, greater flexibility, easier use,
+increased process control, faster set-up and changeover times. The Tapestry SC
+has several optional features and can be targeted at several different applications
+with the potential to add additional options and / or capability at a later
+time. The Tapestry SC is compatible and complementary to the Tapestry PH-1.  
+
+Tapestry,
+our strip handling system introduced in February 1999, is the flagship of
+the Smart Solution product family. Tapestry is a versatile, high volume,
+parallel test handling and thermal conditioning system for semiconductor
+devices that are in strip format. Thermal conditioning is required to ensure
+that a semiconductor device can operate normally in a wide range of
+temperatures. Tapestry can condition devices at temperatures ranging from  40
+degrees centigrade to +130 degrees centigrade. The system is capable of
+handling fine pitch chip scale packages as well as traditional leaded
+semiconductor devices in strip format. Using standard industry interfaces, the
+system is designed to function as a stand-alone system, or can be integrated
+into an in-line process with our other Smart Solution products or equipment of
+other manufacturers.  
+
+SmartMark
+SC, introduced in September 2004, is our next generation high-speed laser
+marker for integration with strip handling or for marking strips with 2D codes.
+This system takes advantage of the same base system that is used with our
+Tapestry SC, allowing for lower costs of production and a common platform of
+spare parts for our customers, thus lowering overall customer costs.  
+
+8  
+
+Our suite of
+Smart Solution equipment products includes additional modules to assist companies
+in automating the back-end of the semiconductor manufacturing process using the
+new strip format. These include the input/output devices for both slotted and
+stacked magazines used with strips.  
+
+Automation Software.    Infinity Systems Software
+Solutions provide highly sophisticated systems integration services to the
+semiconductor test and assembly industry. Infinity Systems  solutions assist
+customers in creating either new manufacturing environments or implementing new
+methods and control systems in existing ones. These installations allow
+previously isolated stand-alone equipment to exchange information with other
+equipment and provide for remote monitoring and control of these systems. Our
+engineering experience, efficient software development process, strong project
+management and our understanding of semiconductor handling systems allow us to
+assist customers in specifying equipment behavior and software interfaces as a
+proactive component of the design and procurement process. 
+
+Singulated
+Handling Products     
+
+We
+also provide more traditional singulated handling products utilizing
+gravity-feed technology. As a result of our shift in product strategy to
+strip-based solutions, we will build our singulated products only when a sales
+order exists and if technology permits. We continue to support these products
+for our installed base of systems for consumable and spare parts.  
+
+Other
+Products and Services     
+
+We provide service and spare parts for all of our current and
+many of our discontinued products. We have also done significant business in
+support services for a semiconductor device tester that is still widely used
+but that was last manufactured by us in 1993.  
+
+Research and Development   
+
+As an
+important element of our business strategy, we work closely with our customers
+to develop new products and enhancements of existing products to meet the
+evolving needs of the test and assembly market, particularly with respect to
+emerging semiconductor devices, while striving to provide the lowest cost of
+test. These efforts, historically focused on test handler products, have
+resulted in the successful introduction of several new product platforms,
+including our Tapestry family of products including the PH1, SC (ambient and
+elevated temperature versions) strip testing and associated handling modules,
+and our SmartMark and SmartMark SC products.  
+
+Although
+we rely primarily on our internal engineering capabilities to develop new
+products and enhance existing products, we also utilize contract services to
+enhance our technical capabilities or temporarily expand our resources. In
+addition, we work closely with several manufacturers of products that are
+incorporated into our products or are complementary to our products when we
+believe a higher quality, lower cost product would result.  
+
+An
+ongoing goal of our research and development activities is to reduce the time
+required to develop new products and bring them to market. As the back-end
+process becomes increasingly automated and complex, the development of improved
+software for our products becomes increasingly important.  
+
+Our research and development expenses were $2.0 million,
+$2.8 million, and $2.4 million in the years ended December 31, 2005, 2004
+and 2003, respectively.  Our combined resources totaled 21 employees and contractors
+in research and development, or approximately 26% of our entire workforce, at December 31,
+2005. We expect research and development expenses to remain fairly flat in 2006
+relative to 2005 levels, subject to mandated increases due to customer requirements
+for system related products.  
+
+9  
+
+Customers   
+
+Our customers include many of the leading manufacturers of
+semiconductor devices, as well as test and assembly companies, in the United
+States, Europe and Asia. In recent years, our significant customers have
+shifted from the major semiconductor manufacturers to test and assembly
+companies, corresponding to the increased utilization of test and assembly
+companies by the major semiconductor manufacturers. Microchip Technologies,
+Maxim Tech, and Kestronics accounted for 33%, 11% and 10% of our net sales,
+respectively, in the year ended December 31, 2005. Analog Devices,
+Microchip Technologies and Amkor Technology, Inc. accounted for 28%, 20%
+and 19% of our net sales, respectively, in the year ended December 31,
+2004. Microchip Technologies and Analog Devices accounted for 32% and 9% of our
+net sales, respectively, in the year ended December 31, 2003.  
+
+Our
+customers tend to limit the number of qualified equipment vendors they purchase
+from in order to gain the efficiencies of standardization across their
+production process. We therefore expend substantial efforts to maintain our
+relationships with our existing major customers to increase the likelihood that
+they will continue to select our products for their future generations of
+semiconductor devices.  
+
+Marketing,
+Sales and Worldwide Support   
+
+We
+market our products primarily to semiconductor manufacturers and third party
+test and assembly companies through our own sales force and in selected markets
+through independent sales representatives and distributors. Our automation
+solutions, however, are marketed directly by our employees to the key personnel
+at customers and potential customers who are in charge of capital equipment for
+the entire back-end. These sales frequently involve major decisions by the
+customer as to the configuration and operation of its entire back-end operation.
+Consequently, the sales cycle for Smart Solutions products may be longer
+than for our traditional handler products as the average order amount is
+generally larger.  
+
+We
+augment our sales efforts with direct customer support/service engineers and
+application engineers based in the field. These engineers are specialists in
+our product portfolio and partner with our customers to help determine product
+requirements. Our service engineers install our equipment and train the
+customers  operators and maintenance technicians on the proper use and care of
+our equipment. Our application engineers help identify emerging markets for new
+products.  
+
+We
+established a presence in Asia more than 20 years ago, where we operate through
+our subsidiaries with offices in Singapore and Penang, Malaysia. To supplement
+the region s sales and service coverage, we use sales representative companies
+and distributors in Korea, Taiwan and China. We also established an office in
+the Philippines to provide better sales and service support and the
+establishment of a software development group. We have stationed service engineers
+in Singapore, Malaysia, Thailand and the Philippines for rapid response to
+customer needs in Asia.  
+
+Manufacturing
+and Suppliers   
+
+In
+2002, we began the transition of our manufacturing operations from our St.
+Paul, Minnesota facility to Penang, Malaysia. This was completed in early 2003.
+It is our belief that our new Malaysian operations will provide cost savings as
+well as an increased presence in our prime sales geographical area. We combine
+proprietary software and components developed in our facilities with components
+and subassemblies obtained from outside suppliers. We have established
+relationships with suppliers in Malaysia which allow us to out-source
+manufacturing of our components to a number of different suppliers. We do not
+maintain any long-term supply agreements with any of our key suppliers.  
+
+Competition   
+
+The
+semiconductor device testing and assembly equipment industry is highly
+competitive, and the market for our automation products and services is
+expected to become more competitive. We face substantial competition   
+
+10  
+
+throughout the world
+primarily from manufacturers in Asia, the United States, Europe and Japan. The
+companies that we are aware of that currently offer a production grade strip
+handling solution comparable to our Tapestry products are Fico BV, ASM
+International, Electroglas, Tesec, Rasco, Multitest and Cohu, Inc., whose
+products were introduced between 1995 and 2005.  
+
+The
+principal elements of competition in our markets include throughput capability,
+quality, reliability, price, product performance, customer service and support,
+financial strength, versatility and the ability to deliver on schedule. Although
+we believe that we compete favorably with respect to each of these factors, new
+product introductions by our competitors could cause a decline in sales or loss
+of market acceptance of our existing products. If competitors introduce more
+technologically advanced products, the demand for our similar products would
+likely be reduced.  
+
+Intellectual
+Property Rights   
+
+We attempt to
+protect the proprietary aspects of our products with patents, trademarks and
+copyrights, as well as contractual and other trade secret protection
+strategies.  
+
+We frequently
+review our inventions and discoveries to attempt to determine which inventions
+will provide substantial differentiation between our products and those of our
+competitors. We currently have four U.S. patents issued and active. In certain
+cases, we may also choose to keep an invention or process confidential as
+trade secrets, in lieu of making public disclosure through the patenting
+process. Key employees are required to enter into nondisclosure and invention
+assignment agreements, and customers, vendors and other third parties also must
+agree to nondisclosure restrictions prior to disclosure of our trade secrets or
+other confidential or proprietary information.  
+
+We have developed
+and are using trademarks, slogans and other commercial symbols to advertise and
+sell our products, a number of which have been registered with the U.S. Patent
+and Trademark Office. Our proprietary computer programs are protected under
+federal copyright law as unpublished original works. We also maintain the
+secrecy of our software source codes through licensing and other restrictions.  
+
+The intellectual
+property position of any manufacturer, including us, is subject to
+uncertainties and may involve complex legal and factual issues. Allowed
+claims for our existing or future patents issued may be challenged,
+invalidated or circumvented, and any rights granted by those patents may not
+provide us with adequate protection. Additionally, it may be possible for
+competitors or customers to copy aspects of our products or to obtain
+information that we may regard as a trade secret. Litigation may be
+necessary in the future to enforce our patents and other intellectual property
+rights or to defend us against claims of infringement.  
+
+Backlog   
+
+At December 31, 2005, our backlog of unfilled orders for
+which a purchase order number has been assigned by the customer and for which a
+delivery schedule has been specified was $ 1.9 million. At December 31,
+2004, our backlog was $1.3 million. A significant portion of the backlog at December 31,
+2005, is expected to be shipped in the next two quarters. Since a large
+majority of the shipments made in a given quarter are usually made during the
+latter part of the quarter, and since a significant portion of shipments
+in a given quarter are booked during that same quarter, backlog as of a date in
+the middle of the quarter will typically be greater than backlog at quarter end.
+All orders are subject to cancellation by the customer with limited charges. Our
+backlog at a particular date is not necessarily indicative of actual sales for
+that or any succeeding period and does not reflect the effects of the SEC s
+Staff Accounting Bulletin No. 101, amended by Staff Accounting Bulletin
+104 (SAB 104) discussed in our revenue recognition policy in Note 1 of Notes to
+Consolidated Financial Statements included elsewhere herein.  
+
+11  
+
+Employees   
+
+At December 31,
+2005, we had a total of 80 employees in the following areas: 25 in
+manufacturing, 21 in engineering and research and development, 16 in sales,
+marketing, application engineering and service, and 18 in administration. Our
+workforce remained relatively stable during 2005. Many of our employees are
+highly skilled, and we believe our future success will depend in large part on
+our ability to attract and retain similar employees. None of our employees are
+covered by a collective bargaining agreement, and we have experienced no work
+stoppages. We consider our relationship with our employees to be good.  
+
+Seasonality
+in Quarterly Operating Results   
+
+During
+each quarter, we customarily sell a relatively small number of systems that
+carry a high average selling price. Although we believe our sales are not
+seasonal in nature, a small change in the number of products ordered and/or
+shipped and accepted in a quarter can have a significant impact on results of
+operations for that particular quarter. Moreover, production difficulties could
+delay shipments. Accordingly, our operating results may vary significantly
+from quarter to quarter and could be adversely affected for a particular
+quarter if shipments and customer acceptances for that quarter were lower than
+anticipated. Our quarterly operating results may also be affected by,
+among other factors, the timing of new product introductions, fluctuations in
+the semiconductor market and the actions of competitors.  
+
+Financial
+Information about Foreign and Domestic Operations and Export Sales   
+
+We
+operate in three geographic areas. Summarized data for our operations are
+included in Note 12 of Notes to Consolidated Financial Statements, included
+elsewhere herein.  
+
+ITEM 1A. Risk Factors    
+
+Set
+forth below is a discussion of the significant risk factors applicable to the
+Company. Additional risk factors may develop in the future.  
+
+Our
+ability to continue as a  going concern  is uncertain.   
+
+Our
+consolidated financial statements have been prepared on the assumption that we
+will continue as a going concern, which contemplates the realization of assets
+and liquidation of liabilities in the normal course of business. The Report of
+the Independent Registered Public Accounting Firm included herein contains an
+explanatory paragraph that raises substantial doubt about our ability to
+continue as a going concern.  
+
+As
+of December 31, 2005, we had cash and cash equivalents of $77,000, assets
+totaling $4.5 million, liabilities totaling $11.6 million, and incurred losses
+from continuing operations of $5.1 million for the year then ended. We expect
+to continue to expend cash and incur operating losses at the current net sales
+levels, but to a lesser extent than the twelve months ended December 31,
+2005 as certain operating expenses are expected to decline from 2005 levels.
+Our ability to generate cash and operating income is dependent on increasing
+our customer base to expand the penetration of our product technology and the
+realization of our lower operating expense targets. It is uncertain whether we
+will be able to obtain a sufficient amount of additional capital, if needed, on
+acceptable terms, or at all. Further, if future financing requirements are
+satisfied through the issuance of equity or debt instruments, shareholders may experience
+additional dilution in terms of their percentage of ownership of our securities.
+In the event that we are unable to obtain additional capital, our operations
+will be materially negatively impacted and we will be required to take actions
+that will harm our business, including potentially ceasing certain or all of
+our operations.  
+
+The
+success of our new products depends upon customer acceptance of both the
+testing of semiconductor devices in strip form and the automation of the
+back-end of the semiconductor manufacturing process.   
+
+12  
+
+Several
+of our new products, including our Tapestry strip handler and other Smart
+Solutions products, are used to test and process semiconductor devices in strip
+form. Assembly of semiconductor devices in strip form is the standard
+industry practice. However, we cannot assure you that testing of semiconductor
+devices in strip form will become widely accepted by the industry. Until
+recently, most semiconductor manufacturers believed it was necessary to test
+semiconductors after they were cut from the strips because they believed the
+act of cutting the strips containing the semiconductor devices, referred to as
+singulation, could result in damage or contamination to the semiconductor
+devices and, as a consequence, make the prior test results unreliable.  
+
+We
+introduced our Tapestry handling system in February 1999. In May 2000,
+we introduced other Smart Solutions products, which provide additional process
+capability for handling and testing semiconductor devices in strip form. In July of
+2003, we introduced our Tapestry SC, a second-generation system. In July of
+2004, we introduced our Tapestry SC SmartMark, a second-generation system. Our
+new products are attractive to customers only if the customers can see the
+value of automating the test and assembly portions of their semiconductor manufacturing
+operations. Although semiconductor manufacturers have automated the wafer
+fabrication portion of their operation, or the front-end of the semiconductor
+manufacturing process, very few semiconductor manufacturers have invested a
+significant amount of capital to automate the test and assembly portions of
+their operations. We are introducing new products for technologies, which may not
+be accepted on a wide-scale basis by the industry. If either the testing of
+semiconductor devices in strip form or wide-scale automation of the
+back-end is not accepted by the industry, our net sales likely will suffer.  
+
+Downturns
+in semiconductor industry business cycles could have a negative impact on our
+operating results.   
+
+Our business depends heavily upon capital expenditures
+by semiconductor manufacturers. The semiconductor industry is highly cyclical,
+with periods of capacity shortage and periods of excess capacity. In periods of
+excess capacity, the industry sharply cuts purchases of capital equipment, such
+as our products. Thus, a semiconductor industry downturn or slowdown substantially
+reduces our revenues and operating results and could hurt our financial
+condition. In the fourth quarter of 2000, the semiconductor capital equipment
+industry went into a severe downturn. This downturn continued through 2005, and
+has negatively affected our operations and financial condition.  
+
+We have
+offered automation solutions and, unless we effectively market our company as a
+provider of automation solutions, our expected financial results will suffer.   
+
+We offer equipment automation solutions and software
+development services. These solutions and services require different marketing
+techniques and involve a more extensive decision-making process by customers
+than for our traditional handler products. We need to successfully market our
+automation products using different sales methods than we have previously used.  
+
+We
+acquired an automation software business in June 1999 and introduced our
+first suite of products to provide an automation solution for the testing
+portion of semiconductor manufacturing in May 2000. The sales from these
+operations make up less than 1%, 3% and 6% of net sales for the years ended December 31,
+2005, 2004 and 2003, respectively. Our future success is dependent upon being
+able to successfully market our automation products. If we are not successful
+in effectively marketing ourselves as an equipment automation solutions
+provider to the semiconductor industry, our results of operations and financial
+condition will suffer.  
+
+We invest
+heavily in research and development efforts and our financial results depend
+upon the success of these efforts.   
+
+We
+have spent, and expect to continue to spend, a significant amount of time and
+resources developing new products and refining existing products and systems. In
+light of the long product development cycles inherent in our industry, these
+expenditures will be made well in advance of the prospect of deriving revenue
+from the sale of new systems.  
+
+13  
+
+Our
+ability to introduce and market new products successfully is subject to a wide
+variety of challenges during this development cycle, such as design defects or
+changing market requirements that could delay introduction of these systems. In
+addition, since our customers are not obligated by long-term contracts to
+purchase our products, our anticipated product orders may not materialize,
+or orders that do materialize may be canceled. As a result, if we do not
+achieve market acceptance of new products, we may not be able to realize
+sufficient sales needed to recoup our research and development expenditures.  
+
+Our
+operating results often have large changes from period to period, which may result
+in a decrease in our stock price.   
+
+Our quarterly and annual
+operating results are affected by a wide variety of factors that could
+adversely affect sales or operating results or lead to significant variability
+in our operating results. A variety of factors could cause this variability,
+including the following:  
+
+the cyclical nature of the semiconductor
+industry;   
+
+      delays in, or cancellation of,
+significant system purchases by customers;   
+
+      delays in the development, introduction
+and production of our products;   
+
+      changes in the mix of our products and
+their gross margins;   
+
+      new product introductions by competitors
+and competitive pricing pressures;   
+
+      the time required for us to adjust our
+operating expenses to respond to changes in sales and market conditions;   
+
+      the timing of any future acquisitions
+and their effect on our financial results;  
+
+      component shortages resulting in
+manufacturing delays; and   
+
+      pressure by customers to reduce prices,
+shorten delivery times and extend payment terms.  
+
+We
+cannot predict the impact of these and other factors on our sales or operating
+results in any future period. Results of operations in any period, therefore,
+should not be considered indicative of the results to be expected for any
+future period. Because of this difficulty in predicting future performance, our
+operating results may fall below expectations of security analysts or
+investors in some future periods. Our failure to meet these expectations would
+likely adversely affect the market price of our common stock.  
+
+Our stock
+price is volatile and it may drop unexpectedly.   
+
+Stock
+prices of companies in the semiconductor equipment industry, including ours,
+can swing dramatically with little relationship to operating performance. Factors,
+which could cause our stock price to change, include:  
+
+changes in the market s view of the
+semiconductor industry in general; 
+
+     changes in
+our quarterly operating results for the reasons set out in the previous risk
+factors for other reasons; 
+
+     changes in
+our reported financial results based on accounting pronouncements; 
+
+     changes in
+research analysts  expectations for us or our industry or failure to meet
+research analysts  estimates;  
+
+     changes in
+the general economic conditions or developments in the semiconductor industry
+which affect investors confidence; 
+
+     announcements by us or our
+competitors of technological innovations or new or enhanced products and; 
+
+Additional
+factors, which may impact our results, include:  
+
+we depend upon a few customers for
+the majority of our revenues and a reduction in their orders could adversely
+affect us; 
+
+     our operating results would be
+harmed if one of our key suppliers fails to deliver components for our products; 
+
+     the loss of any of our key personnel
+could harm our business; 
+
+     our markets are very competitive and
+demand for our products may decrease if additional competitors enter 
+
+14  
+
+our
+markets;  
+
+     our dependence upon international
+sales involves significant risk; 
+
+     the possible adverse impact of
+economic or political changes in the market we serve; 
+
+     our inability to obtain financing to
+fund continuing or expanding operations; 
+
+Fluctuations
+or decreases in the trading price of our common stock may adversely affect
+the ability to trade our shares. In addition, these fluctuations could
+adversely affect our ability to raise capital through future equity financing.  
+
+ITEM
+2. Properties    
+
+We occupy approximately 22,000 square feet of leased space in
+St. Paul, Minnesota, for our principal executive offices and research and
+product development activities. This lease expires in 2007. We occupy
+approximately 54,000 square feet of leased space in Penang, Malaysia, which is
+utilized as a manufacturing center. This lease expires in 2007. We occupy
+approximately 1,300 square feet of leased space in the Philippines in support
+of our applications engineering and software development activities. This lease
+expires in 2008. We believe that our current and committed facilities are
+adequate to support our activities for at least the next twelve months.  
+
+ITEM 3. Legal Proceedings    
+
+On April 11, 2005,
+judgment was entered against the Company in Superior Court of California in the
+amount of $379,000 plus legal and court costs for a total amount of $547,000 in
+the lawsuit brought by a prior landlord. The Company has reached an agreement
+with the landlord that will allow the Company to pay the judgment over a
+30-month period for a total amount of $443,000 plus interest at 10% per annum.  
+
+ITEM 4. Submission
+of Matters to a Vote of Security Holders    
+
+There were no matters submitted to a vote of the security
+holders during the quarter ended December 31, 2005.  
+
+PART II   
+
+ITEM
+5. Market for Registrant s Common Stock, Related Stockholder Matters and Issuer
+Purchases of Equity Securities    
+
+Our
+common stock is traded on the OTC Bulletin Board under the symbol MCTI. The
+following table sets forth, for the periods indicated, the high and low closing
+sale prices per share of our common stock, as reported by the OTC Bulletin
+Board. The share prices represent prices established between broker   dealers
+and therefore do not reflect prices of actual transactions.  
+
+15  
+
+The approximate number of holders of record of our common
+stock as of December 31, 2005 was 314.  
+
+We
+have never declared or paid any cash dividends on our common stock and do not
+anticipate paying any cash dividends in the foreseeable future. We currently
+intend to retain future earnings to fund the development and growth of our
+business.  
+
+Under
+the Note Purchase Agreement associated with the issuance of the 10% Senior
+Subordinated Convertible Notes and the Security Agreement associated with our
+Revolving Line of Credit and Term Note (each discussed in Note 7 in Notes to
+Consolidated Financial Statements contained elsewhere herein) we are prohibited
+from paying dividends.  
+
+ITEM
+6. Selected Consolidated Financial Data    
+
+SELECTED CONSOLIDATED FINANCIAL DATA   
+
+16  
+
+ITEM 7. Management s Discussion and Analysis of
+Results of Operations and Financial Condition    
+
+This
+Report on Form 10-K contains forward-looking statements that have been
+made pursuant to the provisions of the Private Securities Litigation Reform Act
+of 1995. These forward-looking statements are not historical facts, but rather
+are based on our current expectations, estimates and projections about the
+semiconductor capital equipment industry, and our beliefs and assumptions. We
+intend words such as  anticipates,   expects,   intends,   plans,   believes,   seeks, 
+ estimates  and similar expressions to identify forward-looking statements. These
+statements are not guarantees of future performance and are subject to certain
+risks, uncertainties and other factors, some of which are beyond our control
+and are difficult to predict. These factors could cause actual results to
+differ materially from those expressed or forecasted in the forward-looking
+statements. These risks and uncertainties are described in Item 1A and
+elsewhere in this report on Form 10-K. We caution you not to place undue
+reliance on these forward-looking statements, which reflect our management s
+view only as of the date of this Report on Form 10-K. We are not obligated
+to update these statements or publicly release the result of any revisions to
+them to reflect events or circumstances after the date of this Report on Form 10-K
+or to reflect the occurrence of unanticipated events.   
+
+Overview   
+
+We supply equipment automation solutions for the global
+semiconductor test and assembly manufacturing market. Our solutions include
+automated test handlers, factory automation software and our new integrated
+Smart Solutions equipment product line. We believe that our products can
+significantly improve the productivity, yield and throughput of the back-end,
+or to the post-wafer manufacturing process, including assembling, packaging,
+testing and singulating semiconductor devices.  
+
+Beginning in 1999 and continuing into 2000, we
+broadened our strategy from that of a test handler manufacturer to becoming a
+provider of comprehensive equipment automation solutions for the back-end of
+the semiconductor manufacturing process. First, we developed and introduced in February 1999
+our Tapestry strip handler. Tapestry combines strip handling capability with
+robotics, machine vision technology and critical software, enabling the testing
+and tracking of semiconductor devices in strip form and the generation of
+critical process data throughout the test process. Second, in June 1999 we
+acquired the Infinity Systems division of Fico. Infinity Systems has been
+involved in the development of factory automation software for the
+semiconductor manufacturing industry. Infinity Systems  software expertise was
+integral to the development of our integrated Smart Solutions equipment product
+line, introduced in May 2000. Together with a third party tester, our
+Smart Solutions equipment products including our Tapestry handler enable
+complete automation of the test, laser mark, mark inspect and other processes
+of the back end.  
+
+The demand for our products and services is dependent upon
+growth in the semiconductor industry and the increasing automation needs of
+semiconductor manufacturers and independent test and assembly facilities. In
+the fourth quarter of 2000, the semiconductor industry went into a sharp
+downturn, which continued through 2005. At this juncture, the return to
+sustained market growth cannot be predicted in the short term. As we have
+disclosed in our Form 10-K for the year ended December 31, 2004 and
+2003 and each of our Forms 10-Q for the first three quarters of 2005 and 2004,
+a continued or renewed market downturn might result in significant losses,
+charges for inventory revaluation, or asset impairment or restructuring charges.
+Consequently, in response to these changing market conditions, in addition to
+the actions taken in 2003, we took the following additional steps in 2004 and
+2005.  
+
+Workforce and Facility Cost Reductions   
+
+During the second quarter of 2005, in response
+to the continuing downturn in the semiconductor capital equipment market, we
+reduced our workforce across all functional areas by approximately 7% resulting
+in a restructuring charge of $66,000. This charge reflected severance and other
+benefit costs associated with this reduction. This workforce reduction affected
+a total of seven employees across all functional areas.  
+
+17  
+
+During the third quarter of 2005, in connection
+with our restructuring activities, we reduced our workforce within
+manufacturing and sales by approximately 2% resulting in a restructuring charge
+of $40,000. This charge reflected severance and other benefit costs associated
+with this reduction. This workforce reduction affected a total of two
+employees.  
+
+During the fourth quarter
+of 2004, we reduced our manufacturing workforce by 11% at the time, resulting
+in a restructuring charge of $35,000. This charge reflected severance and other
+benefit costs associated with the reduction. This workforce reduction affected
+a total of 12 employees all within the manufacturing area.  
+
+During
+the first quarter of 2003, in response to the continued and prolonged downturn
+in the semiconductor capital equipment industry, we reduced our workforce
+across all functional areas by approximately 24% at the time, resulting in a
+restructuring charge of $19,000. This charge reflected severance and other
+benefit costs associated with this reduction. This workforce reduction affected
+a total of 26 employees across all functional areas.  
+
+During the second quarter of 2003, we completed the
+restructuring of our master lease for our St. Paul, MN facility, resulting in a
+restructuring charge of $227,000, which included write-offs of $41,000 related
+to leasehold improvements in the vacated space which provided no future
+economic benefit to us. Additionally, we further reduced our workforce across
+all functional areas by approximately 4% at the time, resulting in a restructuring
+charge of $20,000. This charge reflected severance and other benefit costs
+associated with this reduction. This workforce reduction affected a total of
+four employees across all functional areas.  
+
+Financing transactions   
+
+On March 7, 2003 and March 26, 2003, pursuant to a
+private equity placement with a group of accredited investors, we issued a
+total of 3,166,869 shares of common stock, which resulted in net proceeds to us
+of approximately $1.1 million. Stock issuance costs associated with this
+offering totaled approximately $241,000. As part of this offering, we also
+issued warrants to purchase 253,350 shares of common stock that have a term of
+five years with an exercise price of $0.43 per share.  
+
+On June 30, 2003, we completed the
+restructuring of $9.29 million, or 92.9%, of our 10% Senior Subordinated
+Convertible Notes, wherein the participating noteholders agreed to accept stock
+in lieu of cash for the next four semi-annual interest payment dates beginning June 30,
+2003 through December 31, 2004, and the conversion price was lowered to
+$1.00 per share. On February 25, 2005, we completed a second
+amendment to the agreement with the holders of our 10% Senior Subordinated
+Convertible Notes, wherein holders of 80% of the remaining Notes, representing
+$2.9 million, agreed to continue to accept stock in payment of interest for the
+remaining four interest payments through December 24, 2006. The conversion
+price was then reduced to $0.85 per share. On April 29, 2005, we completed
+another financing transaction with Laurus. As a result of the new financing
+with Laurus, the conversion price for all of the Noteholders who accepted the
+prior restructuring agreements was at that time reduced to $0.61 per share.  
+
+In July of 2003, we
+completed negotiations with the majority of our vendors to extend the payment
+terms of the total amounts owed to them at the time. This resulted in $1.2
+million of our payables, or 67% of our total accounts payable at the time,
+being restructured with a total of 281 vendors. Under the terms of the extended
+payment plan, we have agreed to make four to eight equal payments beginning on July 30,
+2003 until the balances are satisfied. The number of vendors agreeing to this
+plan represented approximately 61% of our active vendors. As of December 31,
+2003, all scheduled payments have been made in accordance with the terms of the
+extended payment plan.  
+
+On March 9,
+2004, we completed a $5.0 million financing transaction with an institutional
+lender, Laurus Master Fund, Ltd. ( Laurus ), secured by all of the assets of
+the Company. The financing included a $3.0 million working capital line of
+credit and a $2.0 million long-term note. The notes were partially convertible
+into shares of our common stock. In connection with the transaction, we issued
+to Laurus a seven-year warrant to purchase 400,000 shares of common stock at
+exercise prices ranging from $2.30 to $2.88 per share. The secured loan in
+existence at that time with a prior lender was terminated.  
+
+18  
+
+On January 28,
+2005, we completed an amendment to the financing agreement with Laurus to defer
+payments on the long-term convertible note. As part of this amendment, the
+conversion prices on both notes were reduced. We also issued Laurus at that
+time a seven-year warrant to purchase 150,000 shares of common stock at $.67
+per share.  
+
+On April 29,
+2005, we completed another financing transaction with Laurus in which we borrowed
+an additional $2.5 million, and which was convertible into shares of common
+stock. We also issued Laurus at that time an option to purchase 2,556,651
+shares of common stock at an exercise price of $.01 per share. We received net
+proceeds of approximately $2.4 million at the closing.  
+
+On
+February 17, 2006, we again restructured the financing with Laurus, and
+increased the total maximum secured indebtedness with Laurus to $9.25 million. The
+restructured financing now includes a $5.25 million term note. Interest is
+payable monthly on the term note at the prime rate plus 2.5%. Beginning 360
+days after closing, we are required to make monthly payments equal to 1/60th of
+the principal amount until three years after the closing, at which time the
+entire remaining principal and accrued interest is due and payable in full. The
+note is non-convertible. In addition to the $5.25 million note, the working
+capital line of credit was increased from $3.0 million to $4.0 million, and
+made non-convertible. The note is payable in full on March 8, 2008. Interest
+is payable monthly on the note at the prime rate plus 2.5%. The existing $1.2
+million over-advance in excess of the borrowing base on the working capital
+line of credit was extended until April 30, 2007. However, commencing on December 1,
+2006, the over-advance is to be reduced by $200,000 each month. The Company
+also issued Laurus a 10-year option to purchase 2,500,000 shares at an exercise
+price of $.01 per share. The shares issuable upon exercise of the option have
+standard registration rights. As a result of the new financing with Laurus, the
+conversion price for all of the Noteholders who accepted the prior
+restructuring agreements has been reduced to $0.56 per share.  
+
+Most industry forecasts
+are presently predicting that capacity-driven purchases of capital equipment
+are expected to improve in 2006. However, the level of improvement and the
+ability for the market to sustain an improvement continues to be uncertain. Therefore,
+we will continue to monitor the market and if required, examine opportunities
+to further reduce our costs through further consolidation of operations,
+limiting capital expenditures, monitoring inventory purchases and additional
+strategic restructuring initiatives. Certain of these types of actions have the
+potential for further charges in future periods. The impact of a continuing
+contraction of the semiconductor capital equipment market has the potential to
+have a material adverse effect on our financial condition, results of
+operations, and cash flows.  
+
+Critical
+Accounting Policies   
+
+Revenue Recognition   
+
+Under SAB 104, we recognize revenue
+upon shipment, as our terms are FOB shipping point, for established equipment
+products that have previously satisfied existing customer performance specifications
+and that provide for full payment tied to shipment. Revenue for products that
+have not previously satisfied customer performance specifications or from sales
+where all or a portion of customer payment is based upon acceptance are only
+recognized upon customer acceptance. As such, in periods of increasing
+shipments, revenues will be deferred if the shipments are for new customers,
+new products or the payment terms are tied to acceptance criteria. Consequently,
+if these conditions exist, we may report revenue levels that are not
+reflective of actual shipment growth rates. Conversely, in periods of
+decreasing shipments, we potentially could recognize revenues related to
+shipments made in prior periods. Consequently, if these conditions exist, we may report
+revenue levels that are greater than actual shipments. During the year ended December 31,
+2005, revenue recorded approximated shipments.  
+
+19  
+
+Allowance for Doubtful Accounts   
+
+We record a provision for
+doubtful accounts based on specific identification of our accounts receivable.
+This involves a degree of judgment based on discussion with our internal sales
+and marketing groups, our customer base and the examination of the financial
+stability of our customers. There can be no assurance that our estimates will
+match actual amounts ultimately written off. During periods of downturn in the
+market for semiconductor capital equipment or economic recession, a greater
+degree of risk exists concerning the ultimate collectability of our accounts
+receivable due to the impact that these conditions might have on our customer
+base. For the year ended December 31, 2005, we recorded a provision of
+$46,000 and charged approximately $113,000 against the allowance for accounts
+receivable write-offs that we deemed to be uncollectible.  
+
+Valuation of Inventories   
+
+Our
+inventories are stated at the lower of cost or market. Cost is determined by
+the first-in, first-out ( FIFO ) method. We maintain a standard costing system
+for our inventories. Assumptions with respect to direct labor utilization,
+standard direct and indirect cost rates, vendor pricing and utilization of
+factory capacities are formulated in the development of our standard costing
+system. Sudden or continuing changes in the semiconductor capital equipment
+market affecting our shipments can result in significant production variances
+from our standard rates. These variances directly impact our gross profit performance
+and may cause variability in gross profits results from reporting
+period-to-reporting period. Our labor and overhead rates are set for production
+rates that match typical market conditions. Production variances are charged to
+cost of sales each quarter as incurred. Material standards are based upon normal
+purchase volumes. Purchase price variances are charged to costs of sales each
+quarter as incurred.  
+
+Provisions to reduce
+inventories to the lower of cost or market are made based on a review of excess
+and obsolete inventories through an examination of historical component
+consumption, current market demands and shifting product technology. Significant
+assumptions with respect to market trends and customer product acceptance are
+utilized to formulate our provision methods. Sudden or continuing downward
+changes in the semiconductor capital equipment market may cause us to
+record additional inventory revaluation charges in future periods. For the year
+ended December 31, 2005, we recorded an additional inventory reserve of
+$525,000. No write-down of our inventories occurred for the year ended December 31,
+2004 or 2003.  
+
+Accrued Warranty   
+
+We
+provide a standard thirteen month warranty program for our equipment products.
+We record provisions for warranty claims for these products based upon
+historical claim performance. This approach has been applied since the
+inception of the warranty program and involves a degree of subjectivity in that
+historical performance is used to estimate future warranty claims. There can be
+no assurance that our estimates will match the actual amount of future warranty
+claims.  
+
+Results
+of Operations   
+
+The
+following table sets forth, for the periods indicated, certain items in our
+statements of operations as a percentage of net sales:  
+
+20  
+
+Year Ended December 31, 2005 versus Year Ended December 31,
+2004    
+
+Net Sales.   Net sales for the year ended December 31,
+2005 decreased $7.5 million or 51.6% to $7.1 million, compared to net sales of
+$14.6 million for the prior year. Current year product sales continued to be
+severely impacted by the continued downturn in the semiconductor capital
+equipment market. Sales of our Tapestry and Smart Solutions strip-based
+products decreased $4.9 million or 60.0% over the prior year period, while
+sales of singulated device handler products also decreased $2.4 million or
+53.5% from the prior year period. Sales of our Tapestry and Smart Solutions
+strip-based product made up 46.0% of our net sales for the year ended December 31,
+2005 compared to 54.6% in the prior year period. If the market continues to be
+in this downturn, net sales would be adversely impacted in future periods. 
+
+Net sales to Asia comprised approximately 78.5% of our net
+sales for the year ended December 31, 2005. Net sales to customers in the
+United States represented approximately 17.1% and net sales to customers in
+Europe represented approximately 4.4% for year ended December 31, 2005. Comparatively,
+net sales to customers in Asia comprised approximately 72.8% of our net sales
+for the year ended December 31, 2004. Net sales to customers in the United
+States represented approximately 19.0% and net sales to customers in Europe
+represented approximately 8.2% for year ended December 31, 2004.  
+
+Gross
+Profit.   Gross profit decreased $4.8 million to $2.5 million
+or 35.8% of net sales from $7.3 million or 50.1% of net sales, for the
+comparable period in the prior year. The decrease in gross margin is directly
+related to the $525,000 additional inventory reserve recorded at the end of the
+year along with the decline in sales, resulting in fixed costs being spread
+over smaller sales volumes. Additionally, for the year ended December 31,
+2004, we benefited from approximately $1.5 million in gross margin dollars
+resulting from sales of products that had been previously written down to lower
+of cost or market. However, a continued contraction of the market for
+semiconductor capital equipment as well as changes in sales mix would
+negatively impact our gross margin contribution in future periods. 
+
+Selling,
+General and Administrative Expense.   Selling, general and
+administrative expense in 2005 was $4.2 million, or 59.6% of net sales compared
+to $5.6 million, or 38.2% of net sales in the prior year. The decrease in
+expense for the current year is a result of restructuring efforts that have
+been completed during 2003, 2004, and 2005. Although the expenses have been
+reduced, the percentage to net sales is higher than the prior year due to
+expenses being spread over lower net sales. Selling, general and administrative
+expense is expected to remain fairly flat in 2006 from 2005 due to expense
+cutting measures and the continuing retraction in the semiconductor capital
+equipment market. 
+
+Research
+and Development Expense  . Research and development expense in
+2005 was $2.0 million, or 28.0% of net sales compared to $2.4 million, or 19.5%
+of net sales in 2004. The decrease in expense for the current year is a direct
+result of certain development activities that have been completed during the
+year. The increase in percent of sales over prior year is directly related to
+the spread of expenses over a lower net sales amount. We expect research and
+development expenses to be slightly higher in 2006 due to the anticipation of
+new product development projects, subject to impacts resulting from market requirements. 
+
+Restructuring
+Charge.   Due to the continuing retraction of the semiconductor
+capital equipment market in 2005, we reduced our workforce across all
+functional areas by approximately 7% in the second quarter and 2% in the third
+quarter. The restructuring charge totaled $107,000 or 1.5% of net sales for the
+current year period. This charge reflected severance and other benefit costs
+associated with the reduction. This workforce reduction affected a total of 9
+employees. 
+
+21  
+
+Other
+Income (Expense).   Interest income for the year ended December 31,
+2005 was $13,000 compared to $6,000 for the comparable period in the prior year.
+This increase resulted from a slight rate increase in investment in interest-bearing
+cash and cash equivalents. Interest expense and other totaled $1.3 million or
+18.9% of net sales in the current year, compared to $0.9 million or 5.9% of net
+sales for the comparable period in the prior year. The increase in interest
+expense and other relates to the write-off of cumulative translation adjustment
+of $69,000 and higher average debt levels due to additional financing with an
+institutional lender. 
+
+Income
+Tax Provision.   During both 2005 and 2004, we incurred minimal
+tax liabilities. We have recorded valuation allowances against all benefits
+associated with net operating loss carry forwards due to uncertainty regarding
+their ultimate utilization. 
+
+Net Loss.
+  Net loss for the year ended December 31, 2005 was $5.1
+million, or $0.20 per basic and diluted share, as compared to net loss of $2.0
+million, or $ 0.08 per basic and diluted share for the comparable prior year
+period. 
+
+Year Ended December 31, 2004 versus Year Ended December 31,
+2003    
+
+Net Sales.   Net sales for the year ended December 31,
+2004 increased $3.5 million or 31.3% to $14.6 million, compared to net sales of
+$11.1 million for the prior year. Product acceptance requirements related to
+product and customer mix resulted in a net increase to revenues of less than
+$0.1 million over shipments for the year ended December 31, 2004, while
+these same factors caused a net increase to revenues of $.01 million over
+shipments in 2003. Sales of our Tapestry and Smart Solutions strip-based
+products increased $2.5 million or 44.6% over the prior year period, while
+sales of singulated device handler products also increased $0.9 million or
+86.9% from the prior year period. Sales of our Tapestry and Smart Solutions
+strip-based product made up 54.6% of our net sales for the year ended December 31,
+2004 compared to 49.6% in the prior year period. 
+
+Net sales to Asia comprised approximately 72.8% of our net
+sales for the year ended December 31, 2004. Net sales to customers in the
+United States represented approximately 19.0% and net sales to customers in
+Europe represented approximately 8.2% for year ended December 31, 2004. Comparatively,
+net sales to customers in Asia comprised approximately 62.8% of our net sales
+for the year ended December 31, 2003. Net sales to customers in the United
+States represented approximately 33.5% and net sales to customers in Europe
+represented approximately 3.7% for year ended December 31, 2003.  
+
+Gross
+Profit.   Gross profit increased $2.5 million to $7.3 million
+or 50.1% of net sales from $4.8 million or 43.4% of net sales, for the
+comparable period in the prior year. The increase in gross margin in 2004
+period primarily resulted from the many restructuring efforts that we have
+completed during 2003 coupled with our lower cost of operations associated with
+our Penang, Malaysia facility and higher net sales levels. This has resulted in
+lower fixed costs being spread over a larger number of products contributing to
+the overall improvement in gross profit performance. Additionally, for the year
+ended December 31, 2004, we benefited from approximately $1.5 million in
+gross margin dollars resulting from sales of products that had been previously
+written down to lower of cost or market. However, the recent contraction of the
+market for semiconductor capital equipment has the potential to negatively
+impact our gross margin contribution in future periods as well as changes in
+sales mix. 
+
+Selling,
+General and Administrative Expense.   Selling, general and administrative
+expense in 2004 was $5.6 million, or 38.3% of net sales compared to $4.9
+million, or 43.8% of net sales in the prior year. The increase in expense for
+2004 was a result of the costs required in connection with the higher net sales
+levels. However, the expense increases were at a lower rate than the increase
+in net sales, resulting in a decline in the percentage to sales. Selling,
+general and administrative expense is expected to decline in 2005 from 2004 levels
+due the recent retraction in the semiconductor capital equipment market. 
+
+Research
+and Development Expense  . Research and development expense in
+2004 was $2.8 million, or 19.5% of net sales compared to $2.4 million, or 21.1%
+of net sales in 2003. The increase in expense for 2004 was a direct result of
+certain development activities that resulted in the introduction of new product
+and existing product  
+
+22  
+
+enhancements during the
+year. However, the expense increases were at a lower rate than the increase in
+net sales, resulting in a decline in the percentage to sales.  
+
+Restructuring
+Charge.   Due to the retraction of the semiconductor capital
+equipment market in the second half of 2004, we reduced out workforce by 11%. The
+restructuring charge totaled $35,000 or 0.2% of net sales for the 2004 year. This
+charge reflected severance and other benefit costs associated with the reduction.
+This workforce reduction affected a total of 12 employees all within the
+manufacturing area. 
+
+Other
+Income (Expense).   Interest income for the year ended December 31,
+2004 was $6,000 compared to $5,000 for the comparable period in the prior year.
+This decrease resulted from the decrease in investment in interest-bearing cash
+and cash equivalents. Interest expense and other totaled $0.9 million or 6.2%
+of net sales in 2004 year, compared to $1.2 million or 11.0% of net sales for
+the comparable period in the prior year. The decline in interest expense and
+other resulted from lower average debt levels due to conversions of our 10%
+senior convertible debt. In connection with the transfer of our manufacturing
+operations to Penang, we sold certain fixed and other assets from our St. Paul,
+Minnesota facility resulting in a gain on sale of $209,000 or 1.9% of net sales
+for the year ended December 31, 2003. For the year ended December 31,
+2004, certain assets were disposed of resulting in a loss on sale of $12,000. 
+
+Income
+Tax Provision.   During both 2004 and 2003, we incurred minimal
+tax liabilities. We have recorded valuation allowances against all benefits
+associated with net operating loss carry forwards due to uncertainty regarding
+their ultimate utilization. 
+
+Net Loss.
+  Net loss for the year ended December 31, 2004 was $ 2.0
+million, or $0.08 per basic and diluted share, as compared to net loss of $3.7
+million, or $ 0.21 per basic and diluted share for the comparable prior year
+period. 
+
+23  
+
+Quarterly
+Results    
+
+The
+following tables present selected unaudited quarterly operating results for the
+eight fiscal quarters ended December 31, 2005, as well as the data
+expressed as a percentage of net sales. We believe that all necessary
+adjustments have been included to present fairly the quarterly information when
+read in conjunction with our consolidated financial statements. The operating
+results for any quarter are not necessarily indicative of the results for any
+subsequent period.  
+
+24  
+
+(1)      The sum of income
+(loss) per share for the fiscal quarters may differ from annual loss per
+share due to the required method of computing weighted average number of shares
+in the respective periods. 
+
+Liquidity and Capital Resources    
+
+The net loss and decreases in accounts payable were the
+primary uses of cash in 2005. The net loss and decreases in accounts payable
+and other accrued liabilities were the primary uses of cash in 2004. The net
+loss and increase in accounts receivable were the primary uses of cash in 2003.
+Cash used in operations was $3.2 million, $3.4 million and $2.2 million in
+2005, 2004 and 2003, respectively.  
+
+We
+record provisions for doubtful accounts based on specific identification of our
+accounts receivable. As a result of this examination, no provisions were
+recorded for the year ended December 31, 2005; however, we wrote off
+approximately $113,000, which we deemed uncollectible. We recorded no
+provisions for doubtful accounts for the years ended December 31, 2004 and
+December 31, 2003, respectively.  
+
+Capital
+expenditures totaled $35,000, $149,000 and $111,000 for the years ended December 31,
+2005, 2004 and 2003, respectively. Capital purchases for all periods have been
+primarily for production and computer equipment and for leasehold improvements.
+As of December 31, 2005, we had approximately $0.45 million in committed
+purchase orders outstanding with our vendors and budgeted capital expenditures
+for 2006 is approximately $0.1 million.  
+
+On March 7,
+2003 and March 26, 2003, pursuant to a private equity placement with a
+group of accredited investors, we issued a total of 3,166,869 shares of common
+stock, which resulted in net proceeds to us of approximately $1.1 million. Stock
+issuance costs associated with this offering totaled approximately $241,000. As
+part of this offering, we also issued warrants to purchase 253,350 shares
+of common stock that have a term of five years with an exercise price of $0.43
+per share.  
+
+On
+June 30, 2003, we completed the restructuring of $9.29 million, or 92.9%,
+of our 10% Senior Subordinated Convertible Notes, wherein the participating noteholders
+agreed to accept stock in lieu of cash for the next four semi-annual interest
+payment dates beginning June 30, 2003 through December 31, 2004. $10.0
+million of the Notes were originally issued in December 2001, resulting in
+proceeds to us of $9.2 million. As part of this restructuring, the Company
+amended the Notes of the participating noteholders to reduce the conversion
+price from $2.60 per share to $1.00 per share for the remainder of the term
+through December 2006. The agreement also included standard anti-dilution
+provisions, and required the Company to register the shares with the Securities
+and Exchange Commission.   On February 25,
+2005, we completed a second amendment to the agreement with the holders of our
+10% Senior Subordinated Convertible Notes, wherein holders of 80% of the
+remaining Notes, representing $2.9 million, agreed to continue to accept stock
+in payment of interest for the remaining four interest payments through December 24,
+2006. The conversion price was then reduced to $0.85 per share.   On
+April 29, 2005, we completed another financing transaction with Laurus. As
+a result of the new financing with Laurus, the conversion price for all of the
+Noteholders who accepted the prior restructuring agreements was at that time
+reduced to $0.61 per share. As of December 31, 2005, $6.4 million of the
+Notes have been converted to equity under this agreement, resulting in the
+issuance of 6,370,081 shares of our common stock to the noteholders.  
+
+In July of 2003, we
+completed negotiations with the majority of our vendors to extend the payment
+terms of the total amounts owed to them at the time. This resulted in $1.2
+million of our payables, or 67% of our total accounts payable at the time,
+being restructured with a total of 281 vendors. Under the terms of the extended
+payment plan, we have agreed to make four to eight equal payments beginning on July 30,
+2003 until the balances are satisfied. The number of vendors agreeing to this
+plan represented approximately 61% of our active vendors. As of December 31,
+2005,   all
+scheduled contractual payments have been made under this plan  .  
+
+On March 9,
+2004 we completed a $5.0 million secured financing transaction with an
+institutional lender. Under the terms of the three-year agreement, we put in
+place a $3.0 million secured working capital line of credit and a $2.0
+long-term convertible note. In connection with the execution of this credit
+facility, we issued to the lender a seven-year warrant to purchase 400,000
+shares of our common stock at exercise prices ranging from   
+
+25  
+
+$2.30 to $2.88. Our
+existing secured lending relationship was terminated as a result of this
+transaction. This credit facility is secured by all the assets of the Company.  
+
+On January 28,
+2005, we completed an amendment to the financing agreement with Laurus to defer
+payments on the long-term convertible note. As part of this amendment, the
+conversion prices on both notes were reduced. We also issued Laurus at that
+time a seven-year warrant to purchase 150,000 shares of common stock at $.67
+per share.  
+
+On April 29,
+2005, we completed another financing transaction with Laurus in which we
+borrowed an additional $2.5 million, and which was convertible into shares of
+common stock. We also issued Laurus at that time an option to purchase
+2,556,651 shares of common stock at an exercise price of $.01 per share. We
+received net proceeds of approximately $2.4 million at the closing.  
+
+On
+February 17, 2006, we again restructured the financing with Laurus, and
+increased the total maximum secured indebtedness with Laurus to $9.25 million. The
+restructured financing now includes a $5.25 million term note. Interest is
+payable monthly on the term note at the prime rate plus 2.5%. Beginning 360
+days after closing, we are required to make monthly payments equal to 1/60th of
+the principal amount until three years after the closing, at which time the
+entire remaining principal and accrued interest is due and payable in full. The
+note is non-convertible. In addition to the $5.25 million note, the working
+capital line of credit was increased from $3.0 million to $4.0 million, and
+made non-convertible. The note is payable in full on March 8, 2008. Interest
+is payable monthly on the note at the prime rate plus 2.5%. The existing $1.2
+million over-advance in excess of the borrowing base on the working capital
+line of credit was extended until April 30, 2007. However, commencing on December 1,
+2006, the over-advance is to be reduced by $200,000 each month. The Company also
+issued Laurus a 10-year option to purchase 2,500,000 shares at an exercise
+price of $.01 per share. The shares issuable upon exercise of the option have
+standard registration rights. As a result of the new financing with Laurus, the
+conversion price for all of the Noteholders who accepted the prior
+restructuring agreements has been reduced to $0.56 per share.  
+
+Our contractual obligations are as follows (in thousands):  
+
+For
+the year ended December 31, 2005, no common shares were exercised through employee
+stock options, warrants and our stock purchase plan. For the year ended December 31,
+2004, we issued approximately 0.1 million shares of common stock through the
+exercise of employee stock options and our stock purchase plan, which provided
+approximately $21,000 in cash to us. For the year ended December 31, 2003,
+we issued approximately 0.2 million shares of common stock through the exercise
+of employee stock options and our stock purchase plan, which provided approximately
+$0.2 million in cash to us.  
+
+We believe that these
+transactions in combination with our existing line of credit will provide the
+cash necessary to meet our operating, working capital and capital resource
+obligations through all of 2006.  
+
+In the
+future, we estimate that we may need to raise additional capital through
+debt or equity offerings to support the continuing requirements of the business
+due to the retraction of the semiconductor capital equipment market and the
+potential impacts on our cash flows and results of operations that could
+result. There is no assurance   
+
+26  
+
+that additional
+financing, if needed, will be available on terms and conditions acceptable or
+favorable to us, if at all.  
+
+Federal
+Tax Matters   
+
+We
+paid only nominal federal and state income taxes in the years ended December 31,
+2005, 2004 and 2003. At December 31, 2005, we had federal net operating
+loss carryforwards for tax reporting purposes of approximately $36.3 million
+after considering annual limitations under Section 382 of the Internal
+Revenue Code.  
+
+ITEM
+7A . Quantitative And Qualitative Disclosures About Market Risk     
+
+The vast majority of our transactions are denominated in U.S.
+dollars; as such, fluctuations in foreign currency exchange rates have historically
+had little impact on us. Inflation has not been a significant factor in our
+operations in any of the periods presented, and it is not expected to affect
+operations in the future. A 1% increase in interest rates would increase our
+interest expense by $92,500 per year. At December 31, 2005, our 10% Senior
+Convertible Notes carried interest at a fixed rate of 10%. Our short term
+revolving line of credit and long-term convertible debt carried interest at the
+prime rate plus 1.75%. The refinancing with Laurus on February 17, 2006
+changed this rate to prime plus 2.5%. There is no material market risk relating
+to our long-term debt.  
+
+Impact of
+New Accounting Standards   
+
+SFAS No. 154, Accounting Changes and Error Corrections.
+    In June 2005,
+FASB issued SFAS No. 154,    Accounting
+Changes and Error Corrections   , a replacement of APB Opinion No. 20
+and FASB Statement No. 3. The statement applies to all voluntary changes
+in accounting principle, and changes the requirements for accounting for and
+reporting of a change in accounting principle. SFAS No. 154 requires
+retrospective application to prior periods  financial statements of a voluntary
+change in accounting principle unless it is impracticable. SFAS No. 154 is
+effective for accounting changes and corrections of errors made in fiscal years
+beginning after December 15, 2005. Earlier application is permitted for
+accounting changes and corrections of errors made occurring in fiscal years
+beginning after June 1, 2005. The statement does not change the transition
+provisions of any existing accounting pronouncements, including those that are
+in a transition phase as of the effective date of this statement. The Company
+does not expect the adoption of SFAS No. 154 to have a material effect on
+its financial statements.  
+
+SFAS No. 123 (revised 2004),
+Share-Based Payment   . In December 2004, FASB issued
+SFAS No. 123 (revised 2004),   Share-Based
+Payment  , that focuses primarily on accounting for transactions in
+which an entity obtains employee services in share-based payment transactions. This
+statement replaces SFAS No. 123,   Accounting
+for Stock-Based      Compensation  ,
+and supersedes APB Opinion No. 25,   Accounting
+for Stock Issued to Employees  . Beginning with our quarterly period
+that begins January 1, 2006, we will be required to expense the fair value
+of employee stock options and similar awards. As a public company, we are
+allowed to select from two alternative transition methods, each having
+different reporting implications. We do not expect the adoption of SFAS No. 123R
+to have a material effect on our financial statements. 
+
+ITEM 8. Consolidated
+Financial Statements and Supplementary Data    
+
+See
+Consolidated Financial Statements included elsewhere in this Annual Report on Form 10-K
+for the year ended December 31, 2005. The financial information by quarter
+is included in Item 7 of this Annual Report on Form 10-K.  
+
+ITEM 9. Changes
+in and Disagreements with Accountants on Accounting and Financial Disclosure    
+
+On December 8, 2005, the Registrant s
+independent public accountants, Virchow, Krause   Company, LLP ( Virchow
+Krause ), formally notified the Registrant that it will resign, effective with
+the completion of the audit for the fiscal year ending December 31, 2005.  
+
+27  
+
+Also on December 8, 2005, the Board of
+Directors, pursuant to the recommendation of the Audit Committee, approved the
+retention of Olsen, Thielen   Co. Ltd. ( Olsen Thielen ), as the
+Registrant s independent public accountants for the fiscal year ending December 31,
+2006.  
+
+The audit report of Virchow Krause on the financial statements of the
+Company for the year ended December 31, 2004 contains an explanatory
+paragraph that raises substantial doubt about the Registrant s ability to
+continue as a going concern. The audit reports of Virchow Krause on the
+financial statements of the Registrant for the last two fiscal years ended December 31,
+2004, did not contain any other adverse opinion or disclaimer of opinion, nor
+were those opinions otherwise qualified or modified as to audit scope or
+accounting principles. During the Registrant s two most recent fiscal years
+ended December 31, 2004, and during the subsequent interim period
+preceding the resignation of Virchow Krause, there was no disagreement between
+the Registrant and Virchow Krause on any matter of accounting principles or
+practices, financial statement disclosure, or auditing scope or procedure
+which, if not resolved to Virchow Krause s satisfaction, would have caused
+Virchow Krause to make reference to the subject matter of the disagreement in
+connection with its reports. During the Registrant s two most recent fiscal
+years and the subsequent interim period through December 8, 2005, there
+were no reportable events, as that term is defined by Item 304 of Regulation
+S-K.  
+
+No consultations occurred between the Registrant and
+Olsen Thielen during the two most recent fiscal years ended December 31,
+2004, and during the subsequent interim period preceding the resignation of
+Virchow Krause, regarding either (1) the application of accounting
+principles to a specified transaction, either completed or proposed, or the
+type of audit opinion that might be rendered on the Registrant s financial
+statements, or (2) any matter that was the subject of a disagreement or a
+reportable event.  
+
+ITEM
+9A. Controls and Procedures    
+
+(a)        Evaluation of
+disclosure controls and procedures. 
+
+Under
+the supervision and with the participation of our management, including the
+Company s Chief Executive Officer and Chief Financial Officer, we evaluated the
+effectiveness of the design and operation of our disclosure controls and
+procedures (as defined in Rule 13a-15(e) under the Exchange Act) as
+of the end of the period covered by this report. Based upon that evaluation,
+the Chief Executive Officer and Chief Financial Officer concluded that, as of
+the evaluation date, our disclosure controls and procedures were not operating
+effectively with respect to the matters referred to in paragraph (b) below, but
+were otherwise effective to ensure that the information required to be
+disclosed by us in our periodic SEC filings is recorded, processed, summarized,
+and reported within the time periods specified in the Securities and Exchange
+Commission s rules and forms.  
+
+(b)      Changes in
+internal controls over financial reporting. 
+
+During
+the course of their audit of our consolidated financial statements for 2005,
+our independent registered public accounting firm, Virchow, Krause  
+Company, LLP (Virchow Krause), advised management and the Audit Committee that
+our internal controls had allowed an error in the inventory reserve calculation
+due to inconsistent treatment of work in process items from 2004 to 2005. Based
+on Virchow Krause s recommendation, management decided that an increase in the
+inventory reserve of approximately $525,000 was required as of December 31,
+2005, to reflect a revaluation of excess inventory and adjustments to inventory
+consumption rates. The inventory reserve error had no effect on reported
+results for any of the individual quarters in 2005. As a result of this
+experience, we revised and expanded our procedures for valuations of excess
+inventory and estimates of inventory consumption rates, and the related
+internal controls, to involve greater analysis of historical and projected
+usage of inventory as well as other data.  
+
+During the course of their audit, Virchow Krause
+recommended changes to certain other of the Company s controls and procedures,
+none of which had any impact on the audited financials statements for 2005 or
+prior years. As of the date of this report, management is in the process of
+implementing changes to these controls and procedures.  
+
+There
+were no additional changes in our internal control over financial reporting
+during the fourth quarter of 2005 that has materially affected, or is reasonably
+likely to affect, our internal control over financial reporting.  
+
+ITEM 9B. Other Information    
+
+This item is not applicable .  
+
+28  
+
+PART III    
+
+ITEM 10. Directors
+and Executive Officers of the Registrant    
+
+The information required by this item concerning directors and
+executive officers is incorporated by reference from the Proxy Statement to be
+filed no later than 120 days following our December 31, 2005 year-end.  
+
+ITEM 11. Executive Compensation    
+
+The
+information required under this item is hereby incorporated by reference from
+the Proxy Statement.  
+
+ITEM
+12. Security Ownership of Certain Beneficial Owners and Management and Related
+Stockholder Matters    
+
+The information required
+under this item is hereby incorporated by reference from the Proxy Statement.  
+
+ITEM 13. Certain
+Relationships and Related Transactions    
+
+The information required under this item is hereby
+incorporated by reference from the Proxy Statement.  
+
+ITEM
+14. Principal Accountant Fee and Services    
+
+The
+information required under this item is hereby incorporated by reference from
+the Proxy Statement.  
+
+ITEM
+15. Exhibits, Financial Statement Schedules and Reports on Form 8-K    
+
+(a)1. Consolidated
+Financial Statements   
+
+(a)3.
+Exhibits   
+
+29  
+
+30  
+
+31  
+
+MICRO COMPONENT TECHNOLOGY, INC. AND
+SUBSIDIARIES   
+
+Index to Consolidated Financial
+Statements   
+
+F-1  
+
+REPORT OF INDEPENDENT REGSITERED PUBLIC
+ACCOUNTING FIRM   
+
+To the Audit Committee,
+Stockholders and Board of Directors of  
+
+  Micro Component
+Technology, Inc. and Subsidiaries  
+
+  St. Paul, MN  
+
+We have audited the
+accompanying consolidated balance sheets of Micro Component Technology, Inc.
+and Subsidiaries as of December 31, 2005 and 2004, and the related
+consolidated statements of operations, stockholders  deficit and cash flows for
+the years ended December 31, 2005, 2004 and 2003. These consolidated
+financial statements are the responsibility of the company s management. Our
+responsibility is to express an opinion on these consolidated financial
+statements based on our audits.  
+
+We conducted our audits
+in accordance with the standards of the Public Company Accounting Oversight
+Board (United States). Those standards require that we plan and perform the
+audit to obtain reasonable assurance about whether the consolidated financial
+statements are free of material misstatement. An audit includes examining, on a
+test basis, evidence supporting the amounts and disclosures in the consolidated
+financial statements. An audit also includes assessing the accounting
+principles used and significant estimates made by management as well as
+evaluating the overall consolidated financial statement presentation. We
+believe that our audits provide a reasonable basis for our opinion.  
+
+In our opinion, the
+consolidated financial statements referred to above present fairly, in all
+material respects, the financial position of Micro Component Technology, Inc.
+and Subsidiaries as of December 31, 2005 and 2004 and the results of their
+operations and their cash flows for the years ended December 31, 2005,
+2004 and 2003 in conformity with U.S. generally accepted accounting principles.  
+
+The accompanying
+consolidated financial statements have been prepared assuming that the company
+will continue as a going concern. As discussed in Note 1 to the consolidated
+financial statements, the company has suffered recurring losses from operations
+and has a stockholders  deficit. These factors raise substantial doubt about
+its ability to continue as a going concern. Management s plans in regard to
+these matters are also described in Note 1. The consolidated financial
+statements do not include any adjustments that might result from the outcome of
+this uncertainty.  
+
+/s/ Virchow,
+  Krause   Company, LLP  
+
+Minneapolis, Minnesota  
+
+  February 3, 2006  
+
+  (Except for Note 12, as
+to which the date is February 17, 2006)  
+
+F-2  
+
+MICRO COMPONENT TECHNOLOGY, INC. AND
+SUBSIDIARIES   
+
+     CONSOLIDATED BALANCE SHEETS   
+
+  (in thousands, except share and per share amounts)  
+
+See Notes to Consolidated
+Financial Statements.  
+
+F-3  
+
+MICRO COMPONENT TECHNOLOGY, INC. AND
+SUBSIDIARIES   
+
+     CONSOLIDATED STATEMENTS OF
+OPERATIONS   
+
+  (in thousands, except per share data)  
+
+See Notes to Consolidated Financial Statements.  
+
+F-4  
+
+MICRO COMPONENT TECHNOLOGY, INC. AND
+SUBSIDIARIES   
+
+     CONSOLIDATED
+STATEMENTS OF CHANGES IN STOCKHOLDERS  DEFICIT   
+
+  (in thousands, except share data)  
+
+See Notes to Consolidated Financial Statements.  
+
+F-5  
+
+MICRO COMPONENT TECHNOLOGY, INC. AND
+SUBSIDIARIES   
+
+     CONSOLIDATED
+STATEMENTS OF CASH FLOWS   
+
+  (in thousands)  
+
+See Notes to
+Consolidated Financial Statements.  
+
+F-6  
+
+MICRO COMPONENT TECHNOLOGY, INC. AND
+SUBSIDIARIES   
+
+     NOTES TO CONSOLIDATED FINANCIAL
+STATEMENTS   
+
+NOTE 1
+- - DESCRIPTION OF BUSINESS AND SIGNIFICANT ACCOUNTING POLICIES   
+
+Business   
+
+We design, manufacture,
+market and service automated test handling equipment for the semiconductor
+industry. Our handlers are designed to handle most semiconductor or integrated
+circuit device packages currently in production. We operate in one business
+segment in three geographic locations.  
+
+A
+network of offices and representatives supports our customers across North
+America, Europe and Asia. Our company was formed in 1972 and is headquartered
+in St. Paul, Minnesota.  
+
+Basis of
+Presentation   
+
+The
+consolidated financial statements include the accounts of the parent company
+and our subsidiaries after elimination of all significant intercompany balances
+and transactions. All significant subsidiaries are 100% owned.  
+
+Our
+consolidated financial statements have been prepared on the assumption that we
+will continue as a going concern, which contemplates the realization of assets
+and liquidation of liabilities in the normal course of business. The
+independent registered public accounting firm report included herein contains
+an explanatory paragraph that raises substantial doubt about our ability to
+continue as a going concern. The financial statements do not include any
+adjustments to reflect the possible future effects on the recoverability and
+classification of assets or the amounts and classification of liabilities that may result
+from the outcome of this uncertainty  .  
+
+As
+of December 31, 2005, we had cash and cash equivalents of $77,000, working
+capital of negative $188,000, assets totaling $4.5 million, liabilities
+totaling $11.6 million and an accumulated deficit of $105.0 million for the
+year then ended. We expect to continue to expend cash and incur operating
+losses at the current net sales levels, but to a lesser extent than the twelve
+months ended December 31, 2005 as certain operating expenses are expected
+to decline from 2005 levels. Our ability to generate cash and operating income
+is dependent on increasing our customer base to expand the penetration of our
+product technology and the realization of our lower operating expense targets.  
+
+On
+February 17, 2006, we restructured the financing with Laurus, and
+increased the total maximum secured indebtedness with Laurus to $9.25 million
+from $7.0 million. The restructured financing now includes a $5.25 million term
+note. Interest is payable monthly on the term note at the prime rate plus 2.5%.
+Beginning 360 days after closing, we are required to make monthly payments
+equal to 1/60th of the principal amount until three years after the closing, at
+which time the entire remaining principal and accrued interest is due and
+payable in full. The note is non-convertible. In addition to the $5.25 million
+note, the working capital line of credit was increased from $3.0 million to
+$4.0 million, and made non-convertible. The note is payable in full on March 8,
+2008. Interest is payable monthly on the note at the prime rate plus 2.5%. The
+existing $1.2 million over-advance in excess of the borrowing base on the
+working capital line of credit was extended until April 30, 2007. However,
+commencing on December 1, 2006, the over-advance is to be reduced by
+$200,000 each month. The Company also issued Laurus a 10-year option to
+purchase 2,500,000 shares at an exercise price of $.01 per share. The shares
+issuable upon exercise of the option have standard registration rights.  
+
+The
+Company believes that the combination of reduced spending, increasing our
+customer base to further enable the penetration of our product technology, the
+amendment of our existing credit facility and the amendment of our agreement
+with the holders of our 10% Senior Convertible Notes, each discussed in Note
+13, contained   
+
+F-7  
+
+elsewhere herein, will
+provide the cash necessary to meet our operating, working capital and capital resource
+obligations through all of 2006.  
+
+Use of
+Estimates   
+
+The preparation of
+financial statements in conformity with accounting principles generally
+accepted in the United States of America requires that we make estimates and
+assumptions that affect amounts reported therein. Due to the inherent
+uncertainty involved in making estimates, actual results reported in future
+periods might differ from those estimates.  
+
+Revenue
+Recognition   
+
+Under SAB 104, our revenue is recognized upon
+shipment, as our terms are FOB shipping point, for established products that
+have previously satisfied existing customer performance specifications and that
+provide for full payment tied to shipment. Revenue for products that have not
+previously satisfied customer performance specifications or from sales where
+all or a portion of customer payment is based upon acceptance are only
+recognized upon customer acceptance. The related inventory costs are offset
+against the deferred revenue and reported as  deferred revenue in excess of
+costs incurred  in the consolidated balance sheet. Product warranty and installation
+costs are accrued in the period sales are recognized. Installation services are
+considered to be perfunctory as defined under SAB 104 and average less than 5%
+of the contract price. Revenue related to spare parts is recognized upon
+shipment. Revenue related to maintenance and service contracts are deferred and
+amortized to earnings on a straight-line basis over the life of the service
+contract. Custom integration software revenue is recognized on a project basis
+with milestone acceptance provisions. Shipping and handling costs are billed to
+the customer and included in the net revenue with the cost of shipment and
+handling charged to cost of goods sold.  
+
+Research
+and Development Expenses   
+
+Research
+and development expenses for new product development are charged to expense as
+incurred.  
+
+Financial
+Instruments   
+
+The
+carrying amounts for all financial instruments approximates fair value. The
+carrying amounts for cash and cash equivalents, accounts receivable, accounts
+payable and accrued liabilities approximates fair value because of the short
+maturity of these instruments. The fair value of capital lease obligations,
+note payable and long-term debt approximates the carrying amounts based upon
+the Company s expected borrowing rate for debt with similar remaining
+maturities and comparable risk.  
+
+Cash and
+Cash Equivalents   
+
+We
+consider all highly liquid investments purchased with original maturities of 90
+days or less to be cash equivalents. We place our temporary cash investments
+with high credit quality financial institutions. At times such investments may be
+in excess of the Federal Deposit Insurance Corporation (FDIC) insurance limit.  
+
+Accounts
+Receivable   
+
+We review customers  credit history before
+extending unsecured credit and establish an allowance for doubtful accounts
+based upon factors surrounding the credit risk of specific customers and other
+information. Invoice terms can vary from net 30 days, to percentage amounts of
+the total customer purchase order tied to acceptance criteria. The Company does
+not accrue interest on past due accounts receivable. The Company writes off
+receivables when they are deemed uncollectible after all collection attempts
+have failed. Accounts receivable are  
+
+F-8  
+
+shown
+net of an allowance for doubtful accounts of $148,000 and $215,000 at December 31,
+2005 and 2004, respectively.  
+
+Inventories   
+
+Inventories
+are stated at the lower of cost or market. Cost is determined by the first-in,
+first-out ( FIFO ) method. Provisions to reduce inventories to the lower of
+cost or market is made based on a review of excess and obsolete inventories,
+estimates of future sales, examination of historical consumption rates and the
+related value of component parts.  
+
+Property,
+Plant and Equipment   
+
+Property,
+plant and equipment are stated at cost. Depreciation is provided by the
+straight-line method over the estimated useful lives of the assets for
+financial reporting and accelerated methods for tax purposes. Leasehold
+improvements are amortized over the shorter of the estimated useful life or the
+lease term for financial reporting purposes. Estimated lives used in computing
+book depreciation are as follows:  
+
+Leasehold
+  improvements  
+
+3 to 10 years  
+
+Machinery and
+  equipment  
+
+2 to 7  
+
+Furniture and
+  fixtures  
+
+3 to 5  
+
+Impairment
+of Long-Lived Assets   
+
+We
+periodically evaluate the carrying value of long-lived assets for potential
+impairment. We consider projected future operating results, cash flows, trends,
+and other circumstances in making such estimates and evaluations. When the
+carrying value of any long-lived asset exceeds its projected undiscounted cash
+flows, impairment is recognized to reduce the carrying value to its fair market
+value.  
+
+Product
+Warranty   
+
+At the
+time the product is sold, estimated costs of warranty obligations to customers
+are charged to expense and a related accrual is established.  
+
+Income
+Taxes   
+
+We
+account for income taxes in accordance with the provisions of Statement of
+Financial Accounting Standards (SFAS) No. 109  , Accounting
+for Income Taxes  . Deferred income taxes are recorded based on differences
+in the bases of assets and liabilities between the financial statements and the
+tax returns as well as from loss carryforwards. The valuation allowance for
+deferred income tax benefits is determined by us based upon the expectation of
+whether the benefits are more likely than not to be realized.  
+
+Stock-Based
+Compensation   
+
+We
+account for stock-based transactions under SFAS No. 123  , Accounting for Stock-Based Compensation  . As permitted by
+SFAS No. 123, we have elected to continue following the guidance of APB
+Opinion No. 25 (as interpreted by FIN 44) for measurement and recognition
+of stock-based transactions with employees and non-employee directors. Because
+stock options have been granted at exercise prices at least equal to the fair
+market value of the stock at the grant date, no compensation cost has been
+recognized for stock options issued to employees and non-employee directors
+under the stock option plans. Stock-based transactions with non-employees are
+accounted for in accordance with SFAS No. 123 and related interpretations.  
+
+F-9  
+
+If compensation cost for our stock option and employee stock
+purchase plans had been determined based on the fair value at the grant dates,
+consistent with the method provided in SFAS No. 148 and SFAS No. 123,
+our net loss and net loss per share would have been as follows:  
+
+In December of 2004, the
+Compensation Committee of the Board of Directors approved the acceleration of
+the vesting of all of the then outstanding options under all plans. At the time
+of this approval all option exercise prices exceeded the public market price of
+the underlying common shares. This action resulted in 1,029,500 shares being
+accelerated with respect to their original vesting dates. This acceleration
+resulted in an additional $737,000 of net compensation expense being included
+in the above tables for the year ended December 31, 2004.  
+
+The fair value of options granted under the stock option and
+employee stock purchase plans for the years ended December 31, 2005, 2004,
+and 2003 was estimated on the date of grant using the Black-Scholes option
+pricing model with the following weighted average assumptions and results:  
+
+F-10  
+
+Foreign
+Currency Translation   
+
+Assets and liabilities of the foreign subsidiary are
+translated to U.S. dollars at year-end rates, and the statements of operations
+are translated at average exchange rates during the year. Translation adjustments
+arising from the translation of the foreign affiliates  net assets into U.S.
+dollars were recorded in cumulative other comprehensive income until 1999. During
+1999, the foreign subsidiary s functional currency changed to the U.S. dollar
+due principally to a significant shift in the amount of activity denominated in
+U.S. dollars versus the local currency. All translation adjustments are now
+recorded in the consolidated statements of operations. For the year ended December 31,
+2005, we expensed the cumulative translation adjustment of $69,000.  
+
+Reclassifications   
+
+Certain amounts previously reported in the 2003 consolidated
+financial statements have been reclassified to conform to the 2005 and
+2004 presentations. These reclassifications had no effect in previously
+reported net loss or stockholders  deficit.  
+
+New
+Accounting Standards   
+
+In December 2004,
+FASB issued SFAS No. 123 (revised 2004),   Share-Based
+Payment  , that focuses primarily on accounting for transactions in
+which an entity obtains employee services in share-based payment transactions. This
+statement replaces SFAS No. 123,   Accounting
+for Stock-Based Compensation  , and supersedes APB Opinion No. 25,
+  Accounting for Stock Issued to Employees  .
+Beginning with our quarterly period that begins June 26, 2006, we will be
+required to expense the fair value of employee stock options and similar awards.
+As a public company, we are allowed to select from two alternative transition
+methods, each having different reporting implications. The impact of SFAS No. 123R
+has not been determined at this time.  
+
+In June 2005,
+FASB issued SFAS No. 154,    Accounting
+Changes and Error Corrections   , a replacement of APB Opinion No. 20
+and FASB Statement No. 3. The statement applies to all voluntary changes
+in accounting principle, and changes the requirements for accounting for and
+reporting of a change in accounting principle. SFAS No. 154 requires
+retrospective application to prior periods  financial statements of a voluntary
+change in accounting principle unless it is impracticable. SFAS No. 154 is
+effective for accounting changes and corrections of errors made in fiscal years
+beginning after December 15, 2005. Earlier application is permitted for
+accounting changes and corrections of errors made occurring in fiscal years
+beginning after June 1, 2005. The statement does not change the transition
+provisions of any existing accounting pronouncements, including those that are
+in a transition phase as of the effective date of this statement. The Company
+does not expect the adoption of SFAS No. 154 to have a material effect on
+its financial statements.  
+
+F-11  
+
+NOTE 2 -
+LOSS PER COMMON SHARE   
+
+Loss per common share is computed in accordance with
+SFAS No. 128,   Earnings Per Share  .
+Basic loss per share is computed using the weighted average number of common
+shares outstanding during each period. Diluted earnings per share include the
+dilutive effect of common shares potentially issuable upon the exercise of
+stock options, warrants outstanding and the conversion of convertible debt. The
+following table reconciles the denominators used in computing basic and diluted
+loss per share for the periods reported (in thousands):  
+
+(1)       We reported a loss for the period. No
+adjustment was made for the effect of stock options, warrants or convertible
+debt as the effect was anti-dilutive. Stock options and warrants outstanding
+totaled 5,013,398 shares at December 31, 2005, 3,358,058 shares at December 31,
+2004 and 2,882,468 shares at December 31, 2003. We also have potentially
+issuable common shares of 5,950,687 related to our 10% Senior Subordinated
+Convertible Notes described in Note 7 contained elsewhere herein.  
+
+NOTE 3 -
+RESTRUCTURING CHARGES   
+
+The restructuring charges
+described below were incurred and paid within the years as set forth below.  
+
+2005 Restructuring Charges   
+
+During the second quarter of 2005, in response
+to the continuing downturn in the semiconductor capital equipment market, we
+reduced our workforce across all functional areas by approximately 7% resulting
+in a restructuring charge of $66,000. This charge reflected severance and other
+benefit costs associated with this reduction. This workforce reduction affected
+a total of seven employees across all functional areas.  
+
+During the third quarter of 2005, in connection
+with our restructuring activities, we reduced our workforce within
+manufacturing and sales by approximately 2% resulting in a restructuring charge
+of $40,000. This charge reflected severance and other benefit costs associated
+with this reduction. This workforce reduction affected a total of two
+employees.  
+
+2004 Restructuring Charges   
+
+During
+the fourth quarter, in response to a second half 2004 market contraction, we
+reduced our workforce by approximately 11% at the time, resulting in a
+restructuring charge of $35,000. This charge reflected severance and benefit
+costs associated with this reduction. This work force reduction affected a
+total of 12 employees principally with the manufacturing function.  
+
+2003
+Restructuring Charges   
+
+During
+the first quarter, in response to the continued and prolonged downturn in the
+semiconductor capital equipment industry, we reduced our workforce across all
+functional areas by approximately 24% at the time, resulting in a restructuring
+charge of $19,000. This charge reflected severance and other benefit costs  
+
+F-12  
+
+associated with this reduction. This workforce
+reduction affected a total of 26 employees across all functional areas.  
+
+During
+the second quarter, we completed the restructuring of our master lease for our
+St. Paul, MN facility, resulting in a restructuring charge of $227,000, which
+included write-offs of $41,000 related to leasehold improvements in the vacated
+space which provided no future economic benefit to us. Additionally, we further
+reduced our workforce across all functional areas by approximately 4% at the
+time, resulting in a restructuring charge of $20,000. This charge reflected
+severance and other benefit costs associated with this reduction. This
+workforce reduction affected a total of 4 employees across all functional
+areas.  
+
+NOTE 4  
+FINANCING TRANSACTIONS   
+
+On
+March 7, 2003 and March 26, 2003, pursuant to a private equity
+placement with a group of accredited investors, we issued a total of 3,166,869
+shares of common stock, which resulted in net proceeds to us of approximately
+$1.1 million. Stock issuance costs associated with this offering totaled
+approximately $241,000. As part of this offering, we also issued warrants
+to purchase 253,350 shares of common stock that have a term of five years with
+an exercise price of $0.43 per share.  
+
+On June 9,
+2003, the Company completed a one-year, $2.5 million secured working capital
+line of credit agreement with a bank. The advances bear interest at prime plus
+2.0% (6% at December 31, 2003). As of December 31, 2003, $348,000 was
+outstanding under this agreement. This loan was terminated in 2004.  
+
+On March 9,
+2004, we completed a $5.0 million financing transaction with an institutional
+lender, Laurus Master Fund, Ltd. ( Laurus ), secured by all of the assets of
+the Company. The financing included a $3.0 million working capital line of
+credit and a $2.0 million long-term note. The notes were partially convertible into
+shares of our common stock. In connection with the transaction, we issued to
+Laurus a seven-year warrant to purchase 400,000 shares of common stock at
+exercise prices ranging from $2.30 to $2.88 per share. The secured loan in
+existence at that time with a prior lender was terminated.  
+
+On January 28,
+2005, we completed an amendment to the financing agreement with Laurus to defer
+payments on the long-term convertible note. As part of this amendment, the
+conversion prices on both notes were reduced. We also issued Laurus at that
+time a seven-year warrant to purchase 150,000 shares of common stock at $.67
+per share.  
+
+On April 29,
+2005, we completed another financing transaction with Laurus in which we
+borrowed an additional $2.5 million, and which was convertible into shares of
+common stock. We also issued Laurus at that time an option to purchase
+2,556,651 shares of common stock at an exercise price of $.01 per share. We
+received net proceeds of approximately $2.4 million at the closing.  
+
+On
+February 17, 2006, we again restructured the financing with Laurus, and
+increased the total maximum secured indebtedness with Laurus to $9.25 million. The
+restructured financing now includes a $5.25 million term note. Interest is
+payable monthly on the term note at the prime rate plus 2.5%. Beginning 360
+days after closing, we are required to make monthly payments equal to 1/60th of
+the principal amount until three years after the closing, at which time the
+entire remaining principal and accrued interest is due and payable in full. The
+note is non-convertible. In addition to the $5.25 million note, the working
+capital line of credit was increased from $3.0 million to $4.0 million, and
+made non-convertible. The note is payable in full on March 8, 2008. Interest
+is payable monthly on the note at the prime rate plus 2.5%. The existing $1.2
+million over-advance in excess of the borrowing base on the working capital
+line of credit was extended until April 30, 2007. However, commencing on December 1,
+2006, the over-advance is to be reduced by $200,000 each month. The Company
+also issued Laurus a 10-year option to purchase 2,500,000 shares at an exercise
+price of $.01 per share. The shares issuable upon exercise of the option have
+standard registration rights.  
+
+F-13  
+
+NOTE 5  
+BALANCE SHEET INFORMATION   
+
+The allowance for
+doubtful accounts receivable was as follows (in thousands):  
+
+Provisions are charged to selling,
+general and administrative expense.  
+
+Major components of
+inventories were as follows (in thousands):  
+
+In accordance with
+accounting principles generally accepted in the United States of America, we
+value our inventories at the lower of cost or market.  
+
+The following table
+provides the inventory reserves for the years ended December 31, 2005 and
+2004.  
+
+We provide a standard
+thirteen month warranty program for our equipment products. We record provisions
+for warranty claims for these products based upon historical claim performance.
+The following table provides the expense recorded and charges against our
+reserves for the years ended December 31, 2005 and 2004.  
+
+F-14  
+
+Property, plant and
+equipment were as follows (in thousands):  
+
+NOTE 6 - LONG-TERM DEBT   
+
+Long-term debt and financing obligations were as follows (in
+thousands):  
+
+On March 9,
+2004, we completed a $5.0 million financing transaction with an institutional
+lender, Laurus Master Fund, Ltd. ( Laurus ), secured by all of the assets of
+the Company. The financing included a $3.0 million working capital line of
+credit and a $2.0 million long-term note. The notes were partially convertible
+into shares of our common stock. In connection with the transaction, we issued
+to Laurus a seven-year warrant to purchase 400,000 shares of common stock at
+exercise prices ranging from $2.30 to $2.88 per share. The secured loan in
+existence at that time with a prior lender was terminated.  
+
+On January 28,
+2005, we completed an amendment to the financing agreement with Laurus to defer
+payments on the long-term convertible note. As part of this amendment, the
+conversion prices on both notes were reduced. We also issued Laurus at that
+time a seven-year warrant to purchase 150,000 shares of common stock at $.67
+per share.  
+
+On April 29,
+2005, we completed another financing transaction with Laurus in which we
+borrowed an additional $2.5 million, and which was convertible into shares of
+common stock. We also issued Laurus at that time an option to purchase
+2,556,651 shares of common stock at an exercise price of $.01 per share. We
+received net proceeds of approximately $2.4 million at the closing.  
+
+On
+February 17, 2006, we again restructured the financing with Laurus, and
+increased the total maximum secured indebtedness with Laurus to $9.25 million. The
+restructured financing now includes a $5.25 million term note. Interest is
+payable monthly on the term note at the prime rate plus 2.5%. Beginning 360
+days after closing, we are required to make monthly payments equal to 1/60th of
+the principal amount until three years after the closing, at which time the
+entire remaining principal and accrued interest is due and payable in full. The
+note is non-convertible. In addition to the $5.25 million note, the working
+capital line of credit was increased from $3.0 million to $4.0 million, and
+made non-convertible. The note is payable in full on March 8, 2008. Interest
+is payable monthly on the note at the prime rate plus 2.5%. The existing $1.2
+million over-advance in excess of the  
+
+F-15  
+
+borrowing base on the working capital
+line of credit was extended until April 30, 2007. However, commencing on December 1,
+2006, the over-advance is to be reduced by $200,000 each month. The Company
+also issued Laurus a 10-year option to purchase 2,500,000 shares at an exercise
+price of $.01 per share. The shares issuable upon exercise of the option have
+standard registration rights. The term debt has been classified as long-term
+due to the refinancing subsequent to year-end (see Note 12) in accordance with
+SFAS 6, Classification of Short-Term Obligations Expected to Be Refinanced as
+Amended by ARB No. 43, Chapter 3d.  
+
+In
+December 2001, we issued $10.0 million of 10% Senior Subordinated
+Convertible Notes due in 2006 to a group of accredited investors. These Notes
+were initially convertible into our common stock at a conversion price equal to
+$2.60 per share. The Notes are redeemable by us at any time after January 3,
+2004 as long as the market price of our common stock equals or exceeds 150% of
+the conversion price. Proceeds from the Notes, net of debt issuance costs,
+totaled $9.2 million. Holders of the Notes have standard registration rights if
+they convert the Notes to common stock. The Note Purchase Agreement between us
+and the holders of the Notes contains certain affirmative and negative
+covenants. Among other things, these covenants prohibit us from paying dividends
+to our shareholders or incurring more than $5.0 million of indebtedness that is
+senior to, or ranks the same as the Notes. The covenants also require us to
+comply with applicable laws and regulations, maintain a market for our common
+stock, and provide the Note holders with copies of our SEC reports and certain
+other information. There are no financial covenants related to these Notes. On June 30, 2003, we completed the
+restructuring of $9.29 million, or 92.9%, of our 10% Senior Subordinated
+Convertible Notes, wherein the participating noteholders agreed to accept stock
+in lieu of cash for the next four semi-annual interest payment dates beginning June 30,
+2003 through December 31, 2004, and the conversion price for the Notes was
+reduced to $1.00 per share.   On February 25, 2005, we completed a second amendment to
+the agreement with the holders of our 10% Senior Subordinated Convertible
+Notes, wherein holders of 80% of the remaining Notes, representing $2.9 million,
+agreed to continue to accept stock in payment of interest for the remaining
+four interest payments through December 24, 2006. As part of this
+amendment, we agreed to reduce the Note conversion price to $0.85 per share,
+and use our best efforts to register the shares with the SEC.   On
+April 29, 2005, we completed another financing transaction with Laurus. As
+a result of the new financing with Laurus, the conversion price for all of the
+Noteholders who accepted the prior restructuring agreements was at that time
+reduced to $0.61 per share. During the
+year ended December 31, 2004, principal in the amount of $3.71 million and
+interest in the amount of $642,000 were converted into 4,364,260 shares of
+common stock. During the year ended December 31, 2003, principal in the
+amount of $2.66 million and interest in the amount of $553,000 were converted
+into 3,667,911 shares of common stock. There was no beneficial conversion of
+the Notes payable into common stock as defined in EITF 00-27 of  Application of
+Issue No. 98-5 to Certain Convertible Instruments.   
+
+On April 11,
+2005, judgement was entered against the Company in Superior Court of California
+in the amount of $379,000 plus legal and court costs for a total amount of
+$547,000 in a lawsuit brought by a prior landlord. The Company has reached an
+agreement with the landlord that will allow the Company to pay the judgement
+over a 30-month period for a total amount of $443,000 plus interest at 10% per
+annum.  
+
+Payments
+due under debt obligations, including additional amounts borrowed subsequent to
+year-end (see Note 12) are as follows: 2006 - $3,763,000, 2007 - $1,103,000;
+2008 - $1,050,000; and 2009 - $3,325,000.  
+
+NOTE 7 - INCOME TAXES   
+
+The Company incurred
+losses for the years ended December 31, 2005, 2004, and 2003,
+respectively, and recorded no provision for income taxes.  
+
+The
+reconciliation of income tax computed at the U.S. federal statutory rate to
+income tax expense recorded in the consolidated financial statements was as
+follows:  
+
+F-16  
+
+As of December 31,
+2005, we had federal net operating loss (NOL) carryforwards totaling
+approximately $36.3 million and tax credit carryforwards of approximately
+$122,000 which can be used to reduce future taxable income. Such tax loss and
+tax credit carryforwards begin to expire in 2012. Changes in the ownership of
+the Company have placed limitations on the annual usage of these NOLs. Future
+changes in ownership may place additional limitations on these losses.  
+
+The
+components of the deferred tax asset is as follows:  
+
+The
+Company has recorded a full valuation allowance against the asset because, in
+the opinion of management, it is more like than not that some portion or all of
+the deferred tax assets will not be realized.  
+
+NOTE 8
+- - ACCOUNTS PAYABLE   LONG TERM   
+
+In July of 2003, we
+completed negotiations with the majority of our vendors to extend the payment
+terms of the total amounts owed to them at the time. This resulted in $1.2
+million of our payables, or 67% of our total accounts payable at the time, being
+restructured with a total of 281 vendors. Under the terms of the extended
+payment plan, we agreed to make four to eight equal payments beginning on July 30,
+2003 until the balances are satisfied. The number of vendors agreeing to this
+plan represented approximately 61% of our active vendors. As of December 31,
+2005, all scheduled contractual payments have been made under this plan. The following
+sets forth the amounts due under this plan:  
+
+F-17  
+
+NOTE 9 - COMMITMENTS
+AND CONTINGENCIES   
+
+We lease certain facilities and equipment under various
+operating leases. Effective April 1997, we entered into an operating lease
+agreement and relocated our headquarters to a new facility in St. Paul,
+Minnesota, coinciding with the expiration of the operating lease at our
+previous headquarters facility. Under the terms of the new agreement, which
+extends through April 2007, we are responsible for base rent and all
+operating expenses associated with the portion of the facility that we occupy. The
+agreement provides us with a one-time option to cancel the lease after seven
+years, at which time we would only be responsible for certain unamortized
+build-out costs incurred by the landlord.   In May 2000, we notified our landlord of our intent
+to exercise our one-time option to lease the remaining additional 11,000 square
+feet within the same building at a date to be mutually determined.   We occupy approximately 54,000 square feet of leased space in
+Penang, Malaysia, which is utilized as a manufacturing center for our mature
+products. This lease expires in June 2007.  
+
+Total
+rent expense charged to operations, primarily for facilities and equipment, was
+$615,000, $814,000 and $847,000 for the years ended December 31, 2005,
+2004 and 2003, respectively.  
+
+The future minimum rental
+payments at December 31, 2005, due under noncancelable operating leases,
+are as follows: 2006 - $571,000; 2007 - $259,000 ; 2008 - $13,000 and zero
+thereafter.  
+
+We have an employment
+agreement with our Chief Executive Officer that may be terminated upon 60
+days written notice by either party. If we terminate the agreement, we shall
+continue to pay his salary in effect at date of termination for 12 months
+thereafter. We also have an agreement with another executive officer that provides
+for severance pay and other remuneration if his employment is terminated or
+duties significantly diminished as a result of a change of control.  
+
+NOTE 10 -
+STOCK OPTION AND BONUS PLANS AND WARRANTS TO PURCHASE COMMON STOCK   
+
+The
+Board of Directors previously reserved a total of 2,600,000 shares of common
+stock under the 1993 Incentive Stock Options Plan for key employees. This plan
+expired in April 2003 except for outstanding options. In June of
+2004, the Board of Directors and shareholders approved the 2004 Incentive Stock
+Plan and the reservation of 880,000 shares. Options under the two plans expire
+five to ten years from the date of grant and generally vest over a two-year or
+four-year period. If an individual ceases employment, he/she has 90 days to
+exercise vested options. Options granted in excess of the $100,000 annual IRS
+limitations become non-qualified. The Compensation Committee of the Board of
+Directors at their discretion can grant non-qualified options and restricted
+stock to eligible employees. In 2004 and 2003, the Board of Directors granted
+155,000 and 1,000,000, respectively, non-qualified options, which are included
+in the stock option table below.  
+
+In fiscal 1996, our Board
+of Directors and our shareholders approved the Stock Option Plan for Outside
+Directors. A total of 570,000 shares have been reserved for issuance under the
+plan. Each person who becomes an outside director will automatically be granted
+an option to purchase 10,000 shares. In addition, each outside director will
+also automatically be granted an option to purchase 10,000 shares immediately
+upon each reelection as a director, or on the anniversary of the prior year s
+grant in any year in which there is no meeting of the stockholders at which
+directors are elected. The period within which an option must be exercised will
+be the earlier of (1) ten years from the date of the grant, or (2) the
+date which is one year after the director ceases to be a director for any
+reason, provided that if a director voluntarily declines to stand for
+re-election after the age of 60, he shall not be required to exercise his
+options within one year after he ceases to be a director and shall continue to
+vest in his options after he ceases to be a director. The exercise price for
+each option will be the fair market value of the stock on the date of grant,
+and each option will generally vest over a two-year period at 50 percent per
+year.  
+
+F-18  
+
+As of December 31,
+2005, we have also reserved a total of 9,563,077 shares of common stock for
+issuance upon conversion of the Notes described in Note 7. As of December 31,
+2005, 6,370,081 shares of stock have been issued from this reserve pursuant to
+the conversion features of the Notes described in Note 7.  
+
+As
+of December 31, 2005, we have also reserved a total of 2,092,350 shares of
+common stock for issuance upon conversions in connection with the secured
+financing described in Note 7. As of December 31, 2005, no shares of stock
+have been issued from this reserve pursuant to the conversion features of the
+convertible debt described in Note 5. Debt subsequently made non-convertible
+described in Note 13.  
+
+We
+have also reserved 150,000 shares of common stock for the grant of
+non-qualified stock options for outside directors, consultants, advisors and
+employees.  
+
+F-19  
+
+Shares subject to options
+under these plans were as follows:  
+
+Options outstanding at December 31, 2005 had exercise
+prices ranging from $0.16 to $11.25 per share as summarized in the following
+table:  
+
+F-20  
+
+At December 31, 2005
+and 2004, 765,000 shares were available for future grants under the terms of
+these plans. In December of 2004, the Compensation Committee of the Board
+of Directors approved the acceleration of the vesting of all of the then
+outstanding options under all plans. At the time of this approval all option
+exercise prices exceeded the public market price of the underlying common
+shares. This action resulted in 1,029,500 shares being accelerated with respect
+to their original vesting dates.  
+
+In February 1996,
+the Board of Directors adopted the Employee Stock Purchase Plan and reserved
+300,000 shares of common stock for issuance under the Plan. Eligible employees
+can elect under the Plan to contribute between two percent and ten percent of
+their base pay each plan year (June 1 - May 31) to purchase shares of
+common stock at a price per share equal to 85 percent of market value on the
+first day of the plan year or the last day of the plan year, whichever is lower.
+Employee contributions are deducted from their regular salary or wages. The
+maximum number of shares that can be purchased by an employee in any plan year
+is 1,000 shares. For the years ended December 31, 2005 and 2004, no shares
+were issued under the plan. For the year ended December 31, 2003, 8,000
+shares were issued under the plan at a price of $0.37. For the year ended December 31,
+2002, 28,551 shares were issued under the plan at prices ranging from $2.59 to
+$2.68 at a weighted average price of $2.68. Approximately 122,900 shares remain
+reserved for future issuances.  
+
+NOTE 11 - SEGMENT, GEOGRAPHIC, CUSTOMER
+INFORMATION AND CONCENTRATION OF CREDIT RISK   
+
+We operate in one industry segment supplying automated
+equipment test handlers to the semiconductor industry. Net sales to customers
+located in the three geographic regions in which we operate are summarized as
+follows (in thousands):  
+
+Although
+our primary manufacturing facility is located in Penang, Malaysia, we do not
+hold a material amount of long-lived assets outside of the United States. Of
+our inventory reflected on the Company balance sheet as of December 31,
+2005, $2.5 million was located in our facility in Penang, Malaysia.  
+
+During the year ended December 31,
+2005 our top ten customers accounted for approximately 92% of net sales with
+three customers accounting for approximately 53.3% and one customer accounting
+for approximately 33% of net sales. During the year ended December 31,
+2004 our top ten customers accounted for approximately 93% of net sales with
+three customers accounting for approximately 65% of net sales and one customer
+accounting for approximately 26% of net sales. During the year ended December 31,
+2003, our top ten customers accounted for approximately 86% of net sales with
+three customers accounting for approximately 50% of net sales and one customer
+accounting for approximately 32% of net sales. As of December 31, 2005,
+one customer accounted for 55.6% of our total net accounts receivable.  
+
+NOTE 12
+  SUBSEQUENT EVENT   
+
+On
+February 17, 2006, we restructured the financing with Laurus, and
+increased the total maximum secured indebtedness with Laurus to $9.25 million. The
+restructured financing now includes a $5.25 million term note. Interest is
+payable monthly on the term note at the prime rate plus 2.5%. Beginning 360
+days after closing, we are required to make monthly payments equal to 1/60th of
+the principal amount until three years after the  
+
+F-21  
+
+closing, at which time the entire remaining
+principal and accrued interest is due and payable in full. The note is
+non-convertible. In addition to the $5.25 million note, the working capital
+line of credit was increased from $3.0 million to $4.0 million, and made
+non-convertible. The note is payable in full on March 8, 2008. Interest is
+payable monthly on the note at the prime rate plus 2.5%. The existing $1.2
+million over-advance in excess of the borrowing base on the working capital
+line of credit was extended until April 30, 2007. However, commencing on December 1,
+2006, the over-advance is to be reduced by $200,000 each month. The Company
+also issued Laurus a 10-year option to purchase 2,500,000 shares at an exercise
+price of $.01 per share. The shares issuable upon exercise of the option have
+standard registration rights.  
+
+As
+a result of the new financing with Laurus, the conversion price for all of the
+Noteholders who accepted the prior restructuring agreements has been reduced to
+$0.56 per share due to the conversion provision in the Note documents.  
+
+F-22  
+
+SIGNATURES   
+
+Pursuant to the requirements of Section 13 or 15(d) of
+the Securities Exchange Act of 1934, the Registrant has duly caused this report
+to be signed on its behalf by the undersigned; thereunto duly authorized, in
+the City of St. Paul, State of Minnesota, on March 30, 2006.  
+
+MICRO COMPONENT TECHNOLOGY, INC.  
+
+By:  
+
+/s/ Roger E.
+  Gower  
+
+Roger E. Gower  
+
+President,
+  Chief Executive Officer,  
+
+Chairman
+  of the Board and Director  
+
+Pursuant to the requirements of the Securities Exchange Act of
+1934, this report has been signed below by the following persons on behalf of
+the registrant in the capacities indicated on March 30, 2006.  
+
+Signature   
+
+Capacity   
+
+/s/Roger E.
+  Gower  
+
+President, Chief
+  Executive Officer,  
+
+Roger E. Gower  
+
+Chairman of the
+  Board and Director  
+
+/s/BachThuy T.
+  Vo  
+
+Interim Chief
+  Financial Officer  
+
+BachThuy T. Vo  
+
+/s/Donald J.
+  Kramer  
+
+Director  
+
+Donald J. Kramer  
+
+/s/David M.
+  Sugishita  
+
+Director  
+
+David M. Sugishita  
+
+/s/Donald R.
+  VanLuvanee  
+
+Director  
+
+Donald R. VanLuvanee  
+
+/s/Patrick
+  Verderico  
+
+Director  
+
+Patrick Verderico  
+
+<EX-23.1>
+ 2
+ a06-2044_1ex23d1.htm
+ CONSENTS OF EXPERTS AND COUNSEL
+
+EXHIBIT 23.1   
+
+CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM   
+
+We consent to the
+incorporation by reference in Registration Statement Nos. 333-72508, 333-95765,
+333-37641, 033-85766 and 333-117407 of Micro Component Technology, Inc.
+(the Company) on Form S-8 and Registration Statement Nos. 333-124762, 
+333-104590, 333-108072 and 333-115125 on Form S-2 of our report dated February 3,
+2006, (except for Note 12, as to which the date is February 17, 2006),
+which expresses an unqualified opinion and includes an explanatory paragraph
+relating to the Company s ability to continue as a going concern, appearing in
+this Annual Report on Form 10-K of Micro Component Technology, Inc.
+for the year ended December 31, 2005.  
+
+/s/ Virchow,
+  Krause   Company, LLP.  
+
+Minneapolis,
+Minnesota  
+
+  March 30,
+2006  
+
+</EX-23.1>
+
+<EX-31.1>
+ 3
+ a06-2044_1ex31d1.htm
+ 302 CERTIFICATION
+
+EXHIBIT 31.1   
+
+CERTIFICATION OF CHIEF EXECUTIVE
+OFFICER    
+
+I, Roger
+E. Gower, certify that:    
+
+1.
+I have reviewed this annual report on Form 10-K of Micro Component
+Technology, Inc.:  
+
+2.
+Based on my knowledge, this annual report does not contain any untrue statement
+of a material fact or omit to state a material fact necessary to make the
+statements made, in light of the circumstances under which such statements were
+made, not misleading with respect to the period covered by this annual report;  
+
+3.
+Based on my knowledge, the financial statements, and other financial
+information included in this annual report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the
+registrant as of, and for, the periods presented in this annual report;  
+
+4.
+The registrant s other certifying officers and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15) for the registrant and we
+have:  
+
+a) designed such disclosure controls and procedures, or caused such
+disclosure controls and procedures to be designed under our supervision, to
+ensure that material information relating to the registrant, including its
+consolidated subsidiaries, is made known to us by others within those entities,
+particularly during the period in which this annual report is being prepared;  
+
+b) evaluated the effectiveness of the registrant s disclosure controls
+and procedures and presented in this report our conclusions about the
+effectiveness of the disclosure controls and procedures, as of the end of the
+period covered by this report based on such evaluation.  
+
+c) disclosed in this report any changes in the registrant s internal
+control over financial reporting that occurred during the registrant s most
+recent fiscal quarter that has materially affected, or is reasonably likely to
+materially affect, the registrant s internal control over financial reporting;
+and  
+
+5.
+The registrant s other certifying officers and I have disclosed, based on our
+most recent evaluation of internal control over financial reporting, to the
+registrant s auditors and the audit committee of registrant s board of directors
+(or persons performing the equivalent function):  
+
+a) all significant deficiencies and material weakness in the design or
+operation of internal control over financial reporting which are reasonably
+likely to adversely affect the registrant s ability to record, process,
+summarize and report financial information; and  
+
+b) any fraud, whether or not material, that involves management or
+other employees who have a significant role in the registrant s internal
+controls over financial reporting.  
+
+Dated: March 30,
+  2006  
+
+By:  
+
+/s/ Roger E.
+  Gower  
+
+Roger E. Gower  
+  President and Chief Executive Officer  
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ a06-2044_1ex31d2.htm
+ 302 CERTIFICATION
+
+EXHIBIT 31.2   
+
+CERTIFICATION OF CHIEF FINANCIAL
+OFFICER   
+
+I,
+BachThuy T. Vo, certify that:  
+
+1.
+I have reviewed this annual report on Form 10-K of Micro Component
+Technology, Inc.:  
+
+2.
+Based on my knowledge, this annual report does not contain any untrue statement
+of a material fact or omit to state a material fact necessary to make the
+statements made, in light of the circumstances under which such statements were
+made, not misleading with respect to the period covered by this annual report;  
+
+3.
+Based on my knowledge, the financial statements, and other financial
+information included in this annual report, fairly present in all material
+respects the financial condition, results of operations and cash flows of the
+registrant as of, and for, the periods presented in this annual report;  
+
+4.
+The registrant s other certifying officers and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15) for the registrant and we
+have:  
+
+a) designed such disclosure controls and procedures, or caused such
+disclosure controls and procedures to be designed under our supervision, to
+ensure that material information relating to the registrant, including its
+consolidated subsidiaries, is made known to us by others within those entities,
+particularly during the period in which this quarterly report is being
+prepared;  
+
+b) evaluated the effectiveness of the registrant s disclosure controls
+and procedures and presented in this report our conclusions about the
+effectiveness of the disclosure controls and procedures, as of the end of the
+period covered by this report based on such evaluation.  
+
+c) disclosed in this report any changes in the registrant s internal
+control over financial reporting that occurred during the registrant s most
+recent fiscal quarter that has materially affected, or is reasonably likely to
+materially affect, the registrant s internal control over financial reporting;
+and  
+
+5.
+The registrant s other certifying officers and I have disclosed, based on our
+most recent evaluation of internal control over financial reporting, to the
+registrant s auditors and the audit committee of registrant s board of directors
+(or persons performing the equivalent function):  
+
+a) all significant deficiencies and material weakness in the design or
+operation of internal control over financial reporting which are reasonably
+likely to adversely affect the registrant s ability to record, process,
+summarize and report financial information; and  
+
+b) any fraud, whether or not material, that involves management or
+other employees who have a significant role in the registrant s internal
+controls over financial reporting.  
+
+Dated: March 30,
+  2006  
+
+By:  
+
+/s/
+  BachThuy T. Vo  
+
+BachThuy T. Vo  
+  Interim Chief Financial Officer  
+
+</EX-31.2>
+
+<EX-32>
+ 5
+ a06-2044_1ex32.htm
+ 906 CERTIFICATION
+
+EXHIBIT 32.0   
+
+SECTION 1350
+CERTIFICATION   
+
+The
+undersigned hereby certify that this report complies with the requirements of Section 13(a) or
+15(d) of the Securities Exchange Act of 1934, and that the information
+contained in this report fairly presents, in all material respects, the financial
+condition and results of operations of the Company.  
+
+Dated: March 30,
+  2006  
+
+By:  
+
+/s/ Roger E.
+  Gower  
+
+Roger E. Gower  
+  President and Chief Executive Officer  
+
+Dated: March 30,
+  2006  
+
+By:  
+
+/s/ BachThuy T.
+  Vo  
+
+BachThuy T. Vo  
+  Interim Chief Financial Officer  
+
+</EX-32>
+

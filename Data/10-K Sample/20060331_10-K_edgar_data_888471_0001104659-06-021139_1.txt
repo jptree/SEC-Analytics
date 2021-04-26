@@ -1,0 +1,3333 @@
+<Header>
+<FileStats>
+    <FileName>20060331_10-K_edgar_data_888471_0001104659-06-021139_1.txt</FileName>
+    <GrossFileSize>1300118</GrossFileSize>
+    <NetFileSize>144481</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>846802</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>26</N_Tables>
+    <N_Exhibits>8</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001104659-06-021139.hdr.sgml : 20060331
+<ACCEPTANCE-DATETIME>20060331135452
+ACCESSION NUMBER:		0001104659-06-021139
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		9
+CONFORMED PERIOD OF REPORT:	20051231
+FILED AS OF DATE:		20060331
+DATE AS OF CHANGE:		20060331
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NESTOR PARTNERS
+		CENTRAL INDEX KEY:			0000888471
+		STANDARD INDUSTRIAL CLASSIFICATION:	 [6221]
+		IRS NUMBER:				222149317
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-50725
+		FILM NUMBER:		06727476
+
+	BUSINESS ADDRESS:	
+		STREET 1:		MILLBURN RIDGEFIELD
+		STREET 2:		441 W PUTNAM AVE
+		CITY:			GREENWICH
+		STATE:			CT
+		ZIP:			06830
+		BUSINESS PHONE:		2036257554
+
+	MAIL ADDRESS:	
+		STREET 1:		MILLBURN RIDGEFIELD
+		STREET 2:		411 W PUTNAM AVE
+		CITY:			GREENWICH
+		STATE:			CT
+		ZIP:			06830
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ VMqWR1p0h2ua8ONeVCItWjQMGKe4LeGr5uvdjwccYsHn+XatY4WEQyc9tSC5caif
+ IjGyJqrkDzdkOOOHVti9LQ==
+
+ 0001104659-06-021139.txt : 20060331
+
+10-K
+ 1
+ a06-2168_110k.htm
+ ANNUAL REPORT PURSUANT TO SECTION 13 AND 15(D)
+
+UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION   
+
+Washington, D.C. 20549   
+
+FORM 10-K   
+
+Annual Report Pursuant to
+Section 13 or 15(d) 
+of the Securities Exchange Act of 1934   
+
+For the Fiscal Year Ended:
+December 31, 2005   
+
+or   
+
+o      Transition Report Pursuant to Section
+13 or 15(d) 
+of the Securities Exchange Act of 1934   
+
+Commission File Number: 000-50725   
+
+NESTOR PARTNERS   
+
+  (Exact name of registrant as specified in its charter)  
+
+New Jersey   
+
+22-2149317   
+
+(State or other jurisdiction of  
+
+(I.R.S. Employer  
+
+incorporation or organization)  
+
+Identification No.)  
+
+c/o MILLBURN RIDGEFIELD CORPORATION   
+
+   411 West Putnam Avenue   
+
+   Greenwich, Connecticut  06830   
+
+  (Address of principal executive offices)  
+
+Registrant s telephone
+number, including area code:     (203) 625-7554    
+
+Securities registered
+pursuant to Section 12(b) of the Act:     None    
+
+Securities registered pursuant to Section 12(g)
+of the Act:     Limited Partnership
+Interests    
+
+  (Title of Class)  
+
+Indicate
+by check mark if the registrant is a well-known seasoned issuer, as defined in
+Rule 405 of the Securities Act. Yes   o     No      
+
+Indicate by check mark if the registrant is not
+required to file reports pursuant to Section 13 or Section 15(d) of the Act. Yes   o    No     
+
+Indicate
+by check mark whether the registrant (1) has filed all reports required to be
+filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the
+preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.Yes         No   o  
+
+Indicate
+by check mark if disclosure of delinquent filers pursuant to Item 405 of
+Regulation S-K is not contained herein, and will not be contained, to the best
+of registrant s knowledge, in definitive proxy or information statements
+incorporation by reference in Part III of this Form 10-K or any amendment to
+this Form 10-K.      
+
+Indicate
+by check mark whether the registrant is a large accelerated filer, an
+accelerated filer, or a non-accelerated filer. See definition of  accelerated
+filer and large accelerated filer  in Rule 12b-2 of the Exchange Act. (Check
+one):  
+
+Large accelerated filer
+    o  
+
+Accelerated Filer   o  
+
+Non-accelerated filer      
+
+Indicate
+by check mark whether the registrant is a shell company (as defined in Rule
+12b-2 of the Act). Yes   o     No      
+
+State the aggregate market value of the voting and
+non-voting common equity held by non-affiliates computed by reference to the
+price at which the common equity was last sold, or the average bid and asked
+price of such common equity, as of the last business day of the registrant s
+most recently completed second fiscal quarter.  
+
+Not applicable.  
+
+Documents Incorporated by Reference  
+
+Registrant s Financial
+Statements for the years ended December 31, 2005, 2004 and 2003 with Report of
+Independent Registered Public Accounting Firm, the annual report to security
+holders for the fiscal year ended December 31, 2005, is incorporated by
+reference into Part II Item 8 and Part IV hereof and filed as an exhibit
+herewith.  
+
+PART I  
+
+Item 1.    Business   
+
+(a)    General development of business   
+
+Nestor Partners (the  Partnership ) is a limited
+partnership organized December 13, 1976 under the New Jersey Uniform Limited
+Partnership Act. The general partner of the Partnership is Millburn Ridgefield
+Corporation, a Delaware corporation (the  General Partner ).  
+
+The Partnership s business is trading a diversified
+portfolio of futures, forward and related option contracts on currencies,
+metals, financial instruments, stock indices, energy and agricultural commodities.
+Approximately 30%-45% of the Partnership s trading, measured by the General
+Partner s assessment of risk, currently takes place in the currency markets. The
+Partnership began its trading activities in February 1977. All trading
+decisions are made by the General Partner.  
+
+The General Partner was organized in May 1982 to
+manage discretionary accounts in futures and forward markets. It is the
+corporate successor to a futures trading and advisory organization which has
+been continuously managing assets in the currency and futures markets using
+quantitative, systematic techniques since 1971. The General Partner has been
+registered with the Commodity Futures Trading Commission ( CFTC ) as a  commodity
+pool operator  since September 13, 1984 and as a  commodity trading advisor 
+since July 1, 1982 and is a member of National Futures Association. The
+Millburn Corporation, an affiliate of the General Partner, performs certain
+accounting, administrative and operating functions for the Partnership and
+other commodity pools and investment partnerships managed by the General
+Partner.  
+
+As of December 31, 2005, the aggregate net asset value
+of the Partnership was $170,951,921. The value at December 31, 2005 of a
+limited partner s initial $1,000 investment in the Partnership on February 1,
+1977 would be $40,681.79, based on the actual rate of return a limited partner s
+investment in the Partnership would have recognized, net of the highest charges
+applicable to a limited partner, during each month in the calculation period
+from February 1977 to December 31, 2005.  
+
+The Partnership s fiscal year ends on December 31.  
+
+The Partnership will terminate on October 31, 2017 or
+upon the prior withdrawal, insolvency or dissolution of the General Partner or
+occurrence of any event legally requiring termination.  
+
+The
+Partnership is not a registered investment company or mutual fund. Accordingly,
+investors in the Partnership do not have the protections afforded by the
+Investment Company Act of 1940, as amended.  
+
+(b)    Financial information about industry segments   
+
+The
+Partnership s business constitutes only one segment, i.e., a speculative
+commodity pool. The Partnership does not engage in sales of goods and services.
+Financial information regarding the Partnership s business is set forth in Item
+6  Selected Financial Data  and in the Partnership s Financial Statements
+included as Exhibit 13.01 to this report.  
+
+(c)    Narrative description of business   
+
+The Partnership engages in the speculative trading of
+futures, options on futures, and forward contracts. The Partnership s sole
+trading adviser is the General Partner. The Partnership trades, pursuant to the
+General Partner s Diversified Portfolio, in the agricultural, metals, energy,
+interest rate and stock index futures and futures options markets and in the
+currency markets, trading primarily forward contracts in the interbank market. The  
+
+2  
+
+objective of the General Partner s trading method is
+to participate in all major sustained price moves in the markets traded. The
+General Partner s approach is medium-term to long-term in nature. The General
+Partner makes trading decisions pursuant to its trading method, which includes
+technical trend analysis, certain non-trend-following technical systems, and
+money management principles, which may be revised from time to time.  
+
+The General Partner is engaged in an ongoing research
+effort to improve its trading methods and to apply its quantitative analytic
+expertise to new financial products.  
+
+Successful systematic futures trading depends on two
+factors;  development and selection of
+the trading systems used in each market, and allocation of portfolio risk among
+the markets available for trading.  
+
+Market environments change over time, and particular
+systems may perform well in one environment but poorly in another. Likewise,
+portfolio sectors and individual markets go through periods where systematic
+trading is very profitable and other periods where no system makes any money.  
+
+The goal of the General Partner s research has been to
+develop and select a mix of systems in each market and allocate risk across a
+wide array of markets, so as to contain overall portfolio risk in the targeted
+range, while allowing exposure to profitable trend opportunities. Over the last
+30 years, the General Partner has developed hundreds of trading systems. These
+intermediate- to long-term trading systems generate buy or sell decisions in a
+particular market based on the direction of price movements in the market.  
+
+Systems can be materially different   better in some
+periods and worse in others. The main distinguishing features are time-frame
+over which systems work (intra-day to long-term), the type of data fed into
+them (granularity [ticks to weeks/months], type [market or economic
+statistics], source [cash, futures or options markets]), and the objective of
+the system (profiting from trends, trading-ranges or volatility). No single
+approach will work all the time. Therefore, the General Partner s objective is
+to have several approaches operating at all times. Since the early 1980 s, the
+General Partner has selected multiple systems for each market.  
+
+When arriving at the portfolio allocation, the General
+Partner seeks maximum diversification subject to liquidity constraints. The
+markets traded and allocations are reviewed monthly, although changes may occur
+less frequently. The following factors are considered in constructing a
+universe of markets to trade for each portfolio:  profitability, correlation of market
+performance, liquidity of markets, depth of markets, breadth of markets,
+professional judgment, desired diversification and transaction costs. Once the
+universe of markets is established, the General Partner s simulation and
+optimization techniques help determine which markets to include in the
+portfolio. The current allocation to any market in the portfolio does not
+exceed 3%.  
+
+Risk is a function of both price level and price
+volatility. In attempting to assess market volatility as a means of monitoring
+and evaluating risk, the General Partner uses its volatility overlay as a part
+of individual market risk management. This system is designed to measure the
+risk in the portfolio s position in each market and signals a decrease in
+position size when risk increases and an increase in position size when risk
+decreases. The General Partner s volatility overlay maintains overall portfolio
+risk and distribution of risk across markets within designated ranges. It is
+applied to the systematic strategies described above. A secondary benefit of
+the volatility overlay can be timely profit taking. Because markets tend to
+become more volatile after a profitable trend has been long underway, the
+volatility overlay often signals position reductions before trend reversals.  
+
+In
+addition to the volatility overlay, the General Partner s risk management
+focuses on money management principles applicable to the portfolio as a whole
+rather than to individual markets and control of leverage and portfolio
+size.  There are, however, no
+restrictions on the amount of leverage the General Partner may use at any time.
+
+3  
+
+The
+General Partner receives a flat-rate monthly brokerage fee equal to 0.458 of 1%
+of the month-end Net Assets (a 5.5% annual rate). The General Partner charges
+less than the annual brokerage rate of 5.5% to those subscribers who subscribe
+without incurring the selling commission paid by the General Partner, or
+subscribe incurring reduced selling commissions paid by the General Partner. These
+reductions have no effect on other investors. The General Partner also receives
+a profit share equal to 20% of any new trading profit as defined, determined as
+of the end of each calendar year. The annual profit share is calculated net of
+brokerage fees and administrative expenses.  
+
+The
+Partnership pays its administrative expenses, including costs incurred in
+connection with the continuing offering of the limited partnership interests ( Interests ),
+and any extraordinary expenses which it may incur. The General Partner pays all
+the routine costs of executing and clearing the Partnership s trades and all
+compensation due to the selling agents.  
+
+UBS
+Financial Services Inc., Deutsche Bank Securities, Inc. and Merrill Lynch,
+Pierce, Fenner   Smith Inc. act as the futures brokers for the Partnership.
+The Partnership executes currency forward trades with several brokers and
+banks, including Morgan Stanley   Co. Incorporated and clears all such
+trades with Morgan Stanley   Co. Incorporated, serving as prime broker. The
+Partnership pays  bid asked  spreads on its forward trades, as such spreads are
+incorporated into the pricing of forward contracts. The General Partner
+monitors the Partnership s trades to ensure that the prices it receives are
+competitive.  
+
+Each
+partner has a capital account, and its initial balance is the amount of his
+contribution to the Partnership. There is also a new profit memo account which
+is credited with the General Partner s profit share on redeemed Interests and
+any excess of the General Partner s profit share over the Partnership s taxable
+gains at year-end. The Net Assets of the Partnership are determined monthly,
+and any increase or decrease from the end of the preceding month is added to or
+subtracted from the accounts (including the new profit memo account) of the
+partners in the ratio that each account bears to all accounts. The credits to
+the new profit memo account are charged to the accounts of the limited
+partners.  
+
+At the end of each fiscal year the Partnership s
+taxable capital gain or loss (including gains and losses on open positions in
+certain futures and forward contracts which are  marked-to-market  at the end
+of the Partnership s fiscal year) and ordinary income and expense are allocated
+among the partners for tax purposes, and each partner who is a United States
+citizen or resident is required to include on his personal income tax return
+his distributive share of such items. Items of operating income such as
+interest and items of operating expense such as legal, accounting and filing
+fees that accrued during each month will be allocated among the persons who
+were partners during each month in the ratio that each partner s capital
+account bears to all partners  capital accounts.  
+
+Net capital gain is allocated first to the General
+Partner up to the amount of the General Partner s profit share for the year and
+then up to the amount of any balance in the new profit memo account. Net
+capital gain is next allocated to each partner who has redeemed all or a
+portion of his Interests during the year to the extent that the amount received
+on redemption exceeds the partner s Tax Basis. A partner s Tax Basis is the
+amount paid for the Interests redeemed plus net taxable income less taxable
+losses previously allocated to such Interests and less amounts previously
+distributed to the partner with respect to the redeemed Interests. Remaining
+net capital gain is allocated among the partners whose capital accounts have
+increased from their Tax Basis. The allocation to each partner is in the ratio
+that his increase bears to all partners  increases. Net capital gain remaining
+is allocated to each partner in the ratio that his capital account value bears
+to the total capital account value of all partners.  
+
+Net capital loss is allocated first to each limited
+partner who has redeemed all or a portion of his Interests during the year to
+the extent that the amount the partner s Tax Basis for the Interests redeemed
+exceeds the amount received on redemption. Remaining net taxable capital loss
+is allocated among the partners whose capital accounts have decreased from
+their Tax Basis. The allocation to each partner is in the ratio that his
+decrease bears to all partners  decreases. Net capital loss remaining is
+allocated to each partner in the ratio that his capital account value bears to
+the total capital account value of all partners.  
+
+The Partnership s cash and U.S. Treasury instruments
+are used by the Partnership to engage in its trading activities and as reserves
+to support that trading. The Partnership s assets deposited with the
+Partnership s futures  
+
+4  
+
+brokers as margin are maintained in  customer
+segregated funds accounts  or  foreign futures and foreign options secured
+amount accounts  and are held in cash, or U.S. Treasury instruments. Partnership
+assets not deposited as margin are maintained in bank or brokerage accounts and
+are held primarily in bank money market funds or U.S. Treasury instruments.  
+
+The Partnership does not engage in lending (other than
+through permitted securities investments). The General Partner does not
+anticipate making any distributions of Partnership profits, if any.  
+
+Regulation   
+
+Under
+the Commodity Exchange Act, as amended (the  CEA ), commodity exchanges and
+futures trading are subject to regulation by the CFTC. National Futures
+Association ( NFA ), a  registered futures association  under the CEA, is the
+only non-exchange self-regulatory organization for futures industry
+professionals. The CFTC has delegated to NFA responsibility for the
+registration of  commodity trading advisors,   commodity pool operators,   futures
+commission merchants,   introducing brokers  and their respective associated
+persons and  floor brokers  and  floor traders.   The CEA requires commodity pool operators and
+commodity trading advisors, such as the General Partner, and commodity brokers
+or futures commission merchants, such as the UBS Financial Services Inc.,
+Merrill Lynch, Pierce, Fenner   Smith Incorporated and Deutsche Bank A.G.,
+to be registered and to comply with various reporting and record keeping
+requirements. The CFTC may suspend a commodity pool operator s or trading
+advisor s registration if it finds that its trading practices tend to disrupt
+orderly market conditions or in certain other situations. In the event that the
+registration of the General Partner as a commodity pool operator or a commodity
+trading advisor were terminated or suspended, the General Partner would be
+unable to continue to manage the business of the Partnership. Should the
+General Partner s registration be suspended, termination of the Partnership
+might result.  
+
+In
+addition to such registration requirements, the CFTC and certain commodity
+exchanges have established limits on the maximum net long or net short position
+which any person may hold or control in particular commodities. Most exchanges
+also limit the changes in futures contract prices that may occur during a
+single trading day. Currency forward contracts are not subject to regulation by
+any United States Government agency.  
+
+(i)   through
+(xii) - not applicable.  
+
+(xiii)   the
+Partnership has no employees.  
+
+(d)    Financial
+information about geographic areas   
+
+The
+Partnership does not engage in material operations in foreign countries
+(although it does trade from the United States in foreign currency forward
+contracts and on foreign futures exchanges), nor is a material portion of its
+revenues derived from foreign customers.  
+
+(e)    Available
+information   
+
+The
+Partnership files quarterly, annual and current reports with the Securities and
+Exchange Commission ( SEC ). These reports are available to read and copy at
+the SEC s Public Reference Facilities in Washington, D.C. at 450 Fifth Street,
+N.W., Washington, D.C. 20549. Please call the SEC s toll free number,
+1-800-SEC-0330, for further information. The Partnership does not maintain a
+website where these reports are posted. However, the Partnership s filings are
+posted on the SEC s website at http://www.sec.gov.  
+
+Item
+1A.    Risk Factors   
+
+Risk of Loss    . An investor may incur significant
+losses on an investment in the Partnership. The General Partner cannot provide
+any assurance that investors will not lose all or substantially all of their
+investment.  
+
+Past Performance Records.       Although the General
+Partner has significant experience trading customer funds in the futures
+markets, and the Partnership itself has traded successfully since inception,    PAST PERFORMANCE     
+
+5   
+
+IS NOT NECESSARILY
+INDICATIVE OF FUTURE RESULTS.       R    eturns recognized by any given investor are materially
+affected by when that investor invested in the Partnership.  
+
+Futures and Forward Contract
+Trading Is Volatile    . Trading in the futures and forward markets typically results in
+volatile performance. Several occasions in the recent past have witnessed
+sudden and major reversals in these markets, resulting in major losses for
+traders. The performance record of the General Partner s trading has exhibited
+a considerable degree of volatility.  
+
+Highly Leveraged Trading.       The low margin deposits
+normally required in futures and forward trading permit an extremely high
+degree of leverage. The Partnership may frequently hold positions with a gross
+value several times in excess of the Partnership s Net Assets. Consequently, even
+a slight movement in the prices of its open positions could result in
+significant losses.  
+
+Markets May Be Illiquid or
+Disrupted.       Most
+United States futures exchanges limit fluctuations in some futures contract
+prices during a single day by regulations referred to as  daily limits.   During a single trading day no trades may be
+executed in such contracts at prices beyond the daily limit. Once the price of
+a futures contract has increased or decreased to the limit point, positions can
+be neither taken nor liquidated. Futures prices have occasionally moved to the
+daily limit for several consecutive days with little or no trading. Similar
+occurrences could prevent the Partnership from promptly liquidating unfavorable
+positions and subject the Partnership to substantial losses. Also, the
+Commodity Futures Trading Commission (the  CFTC ) or exchanges may suspend or
+limit trading. Trading on non-United States exchanges may also be subject to
+price fluctuation limits and are otherwise subject to periods of significant
+illiquidity. Trading in the forward currency markets is not subject to daily
+limits, although such trading is also subject to periods of significant
+illiquidity.  
+
+Failure of Brokerage Firms and
+Forward Market Participants.       The Commodity Exchange Act, as
+amended (the  CEA ) requires a clearing broker to segregate all funds received
+from such broker s customers in respect of futures (but not forward)
+transactions from such broker s proprietary funds. If any of the Partnership s
+commodity brokers were not to do so to the full extent required by law, or in
+the event of a substantial default by one or more of such broker s other
+customers, the assets of the Partnership might not be fully protected in the
+event of the bankruptcy of such broker. Furthermore, in the event of such a
+bankruptcy, the Partnership would be limited to recovering only a   pro rata   share of all available funds segregated on behalf
+of the affected commodity broker s combined customer accounts, even though
+certain property specifically traceable to the Partnership (for example, United
+States Treasury bills or cash deposited by the Partnership with such broker)
+was held by such broker. Commodity broker bankruptcies have occurred in which
+customers were not able to recover from the broker s estate the full amount of
+their funds on deposit with such broker and owing to them. Commodity broker
+bankruptcies are not insured by any governmental agency, and investors would
+not have the benefit of any protection such as that afforded customers of
+bankrupt securities broker-dealers by the Securities Investors Protection
+Corporation.  
+
+In respect of its forward trading, the Partnership
+will be subject to the risk of the inability or refusal to perform with respect
+to such contracts on the part of the principals or agents with or through which
+the Partnership trades. Any failure or refusal to discharge their contractual
+obligations by the counterparties with which the Partnership deals on the
+forward markets, whether due to insolvency, bankruptcy or other causes, could
+subject the Partnership to substantial losses. The Partnership will not be
+excused from performance under any forward contracts into which it has entered
+due to defaults under other forward contracts which in the General Partner s
+strategy were to have substantially  covered  the former. The Partnership deals
+in the forward markets only with major financial institution counterparties
+which the General Partner considers to be creditworthy. However, defaults have
+occurred in the forward markets, and the risk of such defaults cannot be
+eliminated from the Partnership s trading.  
+
+Certain Special Considerations
+Related to Forward Trading.           None of the CFTC, National Futures
+Association ( NFA ), futures exchanges or banking authorities currently
+regulate forward trading. Because a principal portion of the Partnership s
+currency trading takes place in the forward markets, prospective investors must
+recognize that much of the Partnership s activity takes place in unregulated
+markets rather than on futures exchanges subject to the jurisdiction of the
+CFTC or other regulatory bodies. Partnership funds on deposit with the currency
+forward counterparties with which the Partnership trades are not protected by
+the same segregation requirements imposed on CFTC regulated commodity brokers
+in respect of customer funds deposited with them. Although the  
+
+6  
+
+Partnership deals only with major financial
+institutions as currency forward counterparties, the insolvency or bankruptcy
+of a currency forward counterparty could subject the Partnership to the loss of
+its entire deposit with such counterparty. The forward markets are well
+established. However, it is impossible to predict how, given certain unusual
+market scenarios, the unregulated nature of these markets might affect the
+Partnership.  
+
+Trading in Options.       The General Partner has
+traded futures and forward options on behalf of the Partnership in the past and
+may trade such instruments in the future. Although successful options trading
+requires many of the same skills as successful futures and forward trading, the
+risks involved are somewhat different. For example, the assessment of near-term
+market volatility - which is directly reflected in the price of outstanding
+options - can be of much greater significance in trading options than it is in
+many long-term futures strategies. The use of options can be extremely
+expensive if market volatility is incorrectly predicted.  
+
+Trading on Futures Exchanges
+Outside the United States.       The General Partner trades on
+futures exchanges outside the United States on behalf of the Partnership. Trading
+on such exchanges is not regulated by any United States government agency and
+may involve certain risks not applicable to trading on United States exchanges.
+For example, some non-U.S. exchanges, in contrast to United States exchanges,
+are  principals  markets  similar to the forward markets in which performance
+is the responsibility only of the individual member with whom the Partnership
+has entered into a futures contract and not of any exchange or clearing
+corporation. In such cases, the Partnership will be subject to the risk of the
+inability or refusal to perform with respect the individual member with whom
+the Partnership has entered into a futures contract. Trading on foreign
+exchanges involves the additional risks of expropriation, burdensome or
+confiscatory taxation, moratoriums, exchange or investment controls and
+political or diplomatic disruptions, each of which might materially adversely
+affect the Partnership s trading activities. In trading on foreign exchanges,
+the Partnership is also subject to the risk of changes in the exchange rates
+between the United States dollar and the currencies in which the foreign
+contracts are settled.  
+
+Substantial Charges to
+Partnership.       The
+Partnership is obligated to pay the General Partner brokerage commissions and
+annual operating expenses regardless of whether the Partnership is profitable. (Operating
+expenses are limited to 1/4 of 1% per annum of the average month-end Net Assets
+of the Partnership.)  In addition, the
+General Partner receives, with respect to each Interest, a profit share of 20%
+of any increase in Trading Profits over the previous high point in Trading
+Profits at the end of each fiscal year. Trading Profits are based upon the
+increase in value of each Interest at the end of each fiscal year (or when an
+Interest is redeemed) including any unrealized appreciation in open futures and
+forward positions. Such appreciation may never be realized by the Partnership.  
+
+Because investors will purchase Interests at different
+times they may recognize different amounts of Trading Profits. Each limited
+partner will pay a profit share only on Trading Profits applicable to its
+Interests. Investors who make multiple investments in the Partnership will
+receive separate Interests for purposes of tracking the profit share. As a
+result, investors who own multiple Interests may pay a profit share in respect
+of some of their Interests even if they experience a loss on an aggregate
+basis.  
+
+Forward trading is conducted in a principals  market
+in which counterparties buy and sell currencies among each other, including a  bid-ask 
+spread in their pricing. Institutions trading in such markets do not pay
+brokerage commissions in addition to such spreads. It is not possible to
+quantify the  bid-ask  spreads paid by the Partnership in respect of its
+currency trading because it is not possible for the Partnership to know what,
+if any, profit its counterparty is making on the forward trades into which it
+enters. However, these spreads represent a significant execution cost to the
+Partnership.  
+
+Trading Decisions Based on
+Technical Systems.       Trading decisions of the General Partner are not
+determined by analysis of fundamental supply and demand factors, general
+economic factors or anticipated world events, but by technical trading systems
+involving trend analysis and other factors and the money management principles
+developed by the General Partner and its affiliates. The profitability of any
+trading system involving technical trend analysis depends upon the occurrence
+in the future of significant sustained price moves in at least some of the
+markets traded. Without such sustained price moves in at least some of the
+markets traded, the General Partner s trend-following systems are unlikely to
+produce profits and the Partnership could suffer significant losses.  
+
+7  
+
+Discretionary Aspects of the
+General Partner s Strategies    . Although the General Partner applies highly
+systematic strategies, these strategies retain certain discretionary aspects. Decisions,
+for example, to adjust the size of positions indicated by the systematic
+strategies, which futures contracts to trade and method of order entry, require
+judgmental input from the General Partner s principals. Discretionary
+decision-making may result in the General Partner s making unprofitable trades
+in situations when a more wholly systematic approach would not have done so.  
+
+Possible Effects of Technical
+Trading Systems.       There
+has been, in recent years, a substantial increase in interest in technical
+futures trading systems, particularly trend-following systems. As the capital
+under the management of trading systems based on the same general principles
+increases, an increasing number of traders may attempt to initiate or liquidate
+substantial positions at or about the same time as the Partnership, or
+otherwise alter historical trading patterns or affect the execution of trades,
+to the significant detriment of the Partnership.  
+
+Although the Partnership is as likely to be profitable
+as unprofitable in up or down markets, there is some tendency for managed
+futures products   particularly those managed by systematic, trend-following
+advisors   to perform similarly during the same or approximately the same
+periods. Prospective investors must recognize that, irrespective of the skill
+and expertise of the General Partner, the success of the Partnership may be
+substantially dependent on general market conditions over which the General
+Partner has no control.  
+
+In addition, there has been an increase in the use of
+trading systems employing counter-trend techniques that attempt to profit from
+the wide use of trend following systems by running stop points or otherwise. The
+increased use of such techniques could alter trading patterns the General
+Partner attempts to exploit to the detriment of the Partnership.  
+
+Changes in Trading Method.       The General Partner may
+modify its trading method without approval by or notice to limited partners. Modifications
+may include changes in or substitution of technical trading systems, risk
+control overlays, money management principles and markets traded and
+introduction of non-technical factors and methods of analysis and
+non-trend-following technical systems and methods of analysis. The trading
+systems to be utilized by the General Partner are proprietary and confidential.  
+
+Possible Effects of Speculative
+Position Limits.       The
+CFTC and United States exchanges have established limits referred to as  position
+limits  on the maximum net long or net short speculative futures position which
+any person may hold or control in particular futures contracts. Generally,
+banks and dealers do not impose such limits with respect to forward contracts
+in currencies. All futures accounts managed by the General Partner and its
+affiliates are combined for position limit purposes. With respect to trading in
+futures contracts subject to position limits (for example, corn, wheat, cotton,
+soybeans, soybean meal and oil), the General Partner may reduce the size of the
+positions which would otherwise be taken for the Partnership to avoid exceeding
+the limits. If position limits are exceeded by the General Partner in the
+opinion of the CFTC or any other regulatory body, exchange or board, the
+General Partner will liquidate positions in all accounts under its management,
+including the Partnership, as nearly as possible in proportion to respective
+amounts of equity in each account to the extent necessary to comply with
+applicable position limits.  
+
+Other Clients of the General
+Partner and Its Affiliates.       The General Partner manages futures
+and forward accounts other than the Partnership, including accounts in which
+the General Partner, its principals and employees have significant investments.
+The General Partner and its affiliates may manage additional accounts in the
+future. It is possible that such accounts may be in competition with the
+Partnership for the same or similar positions in the futures and forward
+markets. The General Partner intends generally to use similar trading methods
+for the Partnership and all other systematic accounts the General Partner and
+its affiliates manage. The General Partner will not knowingly or deliberately
+use systems for any account that are inferior to systems employed for any other
+account or favor any account over any other account. No assurance is given,
+however, that the results of the Partnership s trading will be similar to that
+of other accounts concurrently managed by the General Partner or its
+affiliates.  
+
+Possible Adverse Effects of
+Increasing the Assets Managed by the General Partner.     The General Partner has not agreed to
+limit the amount of additional equity which it may manage. The rates of return
+achieved by trading advisors often tend to degrade as assets under management
+increase. There can be no assurance that the  
+
+8  
+
+General Partner s strategies will not be adversely
+affected by additional equity, including the Partnership s account, accepted by
+the General Partner.  
+
+Dependence on Key Personnel.       Despite the systematic
+methods used by the General Partner, it is dependent on the services of a
+limited number of key persons. The loss of any such persons could make it more
+difficult for the General Partner to continue to manage the Partnership.  
+
+Limited Ability to Liquidate
+Investment in Interests.       An investment in an Interest cannot
+be immediately liquidated by a limited partner. Interests may be transferred
+only under limited circumstances and no market for Interests will exist at any
+time. A limited partner can liquidate his investment through redemption of his
+Interest. A limited partner may require the Partnership to redeem all or a
+portion of his Interest as of the last day of any month on fifteen days 
+written notice to the General Partner. Because notices of redemption must be
+submitted significantly in advance of the actual redemption date, the value
+received upon redemption may differ significantly from the value of the
+Interest at the time a decision to redeem is made. Furthermore, because
+redemptions are only permitted at month-end, investors are not able to select
+the value, or even the approximate value, at which they will redeem their
+Interests.  
+
+Conflicts of Interest.       The Partnership will be
+subject to a number of actual and potential conflicts of interest. Such
+conflicts may include, among other things, the possibility of the General
+Partner, a commodity broker for the Partnership or any of their respective
+affiliates favoring other customer accounts or their own proprietary trading in
+certain respects over that of the Partnership.  
+
+Limited Partners Will Not
+Participate in Management.       Purchasers of Interests will not be entitled
+to participate in the management of the Partnership or the conduct of its
+business. Such authority is vested solely in the General Partner.  
+
+Profits Included in Taxable
+Income Whether or Not Cash or Other Property is Distributed.       The Partnership is not
+required to make any distributions of cash or other property to the partners. If
+the Partnership has taxable income for a fiscal year, such income will be
+taxable to limited partners who are U.S. taxpayers in accordance with their
+allocable shares of the Partnership s profits, irrespective of the fact that no
+cash or other property has been distributed to them. Accordingly, the tax
+liability of limited partners for any profits of the Partnership will almost
+certainly exceed any distributions received from it.  
+
+Possible Limitation on
+Deductibility of  Investment Advisory Fees.        Noncorporate investors may be
+required to treat the amount of any incentive profit shares as well as a
+portion of the brokerage commissions and other ordinary expenses of the
+Partnership, as  investment advisory fees  which may be subject to substantial
+restrictions on deductibility for federal income tax purposes. Any such
+classification of these amounts could substantially increase the amount of the
+Partnership s profits (if any) subject to tax.  
+
+Passive  Losses.      Any income derived from the
+Partnership s trading activities will constitute  Portfolio Income  or other
+income not from a passive activity, which means that losses resulting from a
+limited partner s other passive activities cannot be offset against such
+income.  
+
+Possibility of Tax Audit.      There can be no assurance
+that the Partnership s tax returns will not be audited by the Internal Revenue
+Service or that adjustments to such returns will not be made as a result of
+such an audit. If an audit results in an adjustment, limited partners may be
+required to pay additional taxes, plus interest and possibly penalties and
+additions to tax.  
+
+Possible Changes in the Tax Code.      In recent years, the United
+States federal income tax law has undergone repeated and substantial changes, a
+number of which have been materially adverse, or potentially materially
+adverse, to investment partnerships. It is impossible to predict what the
+effect of future changes in the Internal Revenue Code of 1986, as amended, will
+be on an investment in the Partnership.  
+
+9  
+
+Statutory Regulation.       Although the
+Partnership and the General Partner are subject to regulation by the CFTC, the
+Partnership is not registered under the Investment Company Act of 1940. Investors
+are, therefore, not accorded the protection provided by such legislation.  
+
+Future Regulatory and Market
+Changes.       The
+regulation of the United States commodities markets has undergone substantial
+change in recent years, a process which is expected to continue. In addition, a
+number of substantial regulatory changes are pending or in progress in certain
+foreign markets. The effect of regulatory change on the Partnership is
+impossible to predict but could be material and adverse.  
+
+Some concern has been expressed by various
+governmental authorities that the impact of speculative pools of capital, such
+as the Partnership, on international currency trading is making it
+significantly more costly and difficult for central banks and governments to
+influence exchange rates. This and similar concerns could lead to pressure to
+restrict the access of speculative capital to these markets.  
+
+In addition to regulatory changes, the economic
+features of the markets to be traded by the Partnership have undergone, and are
+expected to continue to undergo, rapid and substantial changes as new
+strategies and instruments have been introduced. Furthermore, the number of
+participants, particularly institutional participants, in the futures and
+forward markets appears to have expanded substantially. There can be no
+assurance as to how the General Partner will perform given the changes to, and
+increased competition in, the marketplace.  
+
+Item 2.    Properties   
+
+The
+Partnership does not own or use any physical properties in the conduct of its
+business. The General Partner or an affiliate perform administrative services
+for the Partnership from their offices.  
+
+Item 3.    Legal Proceedings   
+
+The
+General Partner is not aware of any pending legal proceedings to which either
+the Partnership is a party or to which any of its assets are subject. In
+addition there are no pending material legal proceedings involving the General
+Partner.  
+
+Item 4.    Submission
+of Matters to a Vote of Security Holders   
+
+None.  
+
+PART II  
+
+Item 5.    Market for the Registrant s Common Equity and
+Related Stockholder Matters   
+
+(a)    Market Information .  
+
+There
+is no trading market for the Interests, and none is likely to develop. Interests
+may be redeemed upon  15 business days 
+written notice to the General Partner at their net asset value as of the last
+day of any month, subject to certain early redemption charges.  
+
+(b)    Holders .  
+
+As of
+December 31, 2005, there were 714 holders of Interests.  
+
+(c)    Dividends .  
+
+No
+distributions or dividends have been made on the Interests, and the General
+Partner has no present intention to make any.  
+
+10  
+
+(d)    Securities
+Authorized for Issuance Under Equity Compensation Plans .  
+
+None.  
+
+(e)    Recent
+Sales of Unregistered Securities; Use of Proceeds from Registered Securities .  
+
+The
+Partnership did not sell any unregistered securities within the past three
+years which have not previously been included in the Partnership s Quarterly
+Reports on Form 10-Q or in a Current Report on Form 8-K.  
+
+(f)    Issuer
+Purchases of Equity Securities .  
+
+Pursuant
+to the Partnership s Agreement of Limited Partnership, limited Partners may
+withdraw capital from their capital accounts in Partnership as of the end of
+each calendar month. The withdrawal of capital by limited partners has no
+impact on the value of the capital accounts of other limited partners.  
+
+The
+following table summarizes limited partner withdrawals during the fourth
+calendar quarter of 2005:  
+
+Item 6.    Selected Financial Data   
+
+The
+following is a summary of operations for the fiscal years 2005, 2004, 2003,
+2002 and 2001 and total assets of the Partnership at December 31, 2005, 2004,
+2003, 2002 and 2001.  
+
+*From
+trading of futures and forward contracts, foreign exchange transactions and
+U.S. Treasury obligations  
+
+11  
+
+Item 7.    Management s Discussion and Analysis of Financial
+Condition and Results of Operations   
+
+Reference
+is made to  Item 6.  Selected Financial Data   and  Item 8.  Financial
+Statements and Supplementary Data .  
+The information contained therein is essential to, and should be read in
+conjunction with, the following analysis.  
+
+Capital Resources   
+
+Interests
+may be offered for sale as of the beginning, and may be redeemed as of the end,
+of each month.  
+
+The
+amount of capital raised for the Partnership should not have a significant
+impact on its operations, as the Partnership has no significant capital
+expenditure or working capital requirements other than for monies to pay
+trading losses, brokerage commissions and charges. Within broad ranges of
+capitalization, the General Partner s trading positions should increase or
+decrease in approximate proportion to the size of the Partnership.  
+
+The
+Partnership raises additional capital only through the sale of Interests and
+capital is increased through trading profits (if any). The Partnership does not
+engage in borrowing.  
+
+The
+Partnership trades futures, options and forward contracts on interest rates,
+commodities, currencies, metals, energy and stock indices. Risk arises from
+changes in the value of these contracts (market risk) and the potential
+inability of counterparties or brokers to perform under the terms of their
+contracts (credit risk). Market risk is generally to be measured by the face
+amount of the futures positions acquired and the volatility of the markets
+traded. The credit risk from counterparty non-performance associated with these
+instruments is the net unrealized gain, if any, on these positions plus the
+value of the margin or collateral held by the counterparty. The risks
+associated with exchange-traded contracts are generally perceived to be less
+than those associated with over-the-counter transactions, because exchanges
+typically (but not universally) provide clearinghouse arrangements in which the
+collective credit (in some cases limited in amount, in some cases not) of the
+members of the exchange is pledged to support the financial integrity of the
+exchange. In over-the-counter transactions, on the other hand, traders must
+rely solely on the credit of their respective individual counterparties. Margins
+which may be subject to loss in the event of a default, are generally required
+in exchange trading, and counterparties may require margin or collateral in the
+over-the-counter markets.  
+
+The
+General Partner has procedures in place to control market risk, although there
+can be no assurance that they will, in fact, succeed in doing so. These
+procedures primarily focus on (1) real time monitoring of open positions;
+(2) diversifying positions among various markets; (3) limiting the
+assets committed as margin, generally within a range of 15% to 35% of an
+account s Net Assets at exchange minimum margins, (including imputed margins on
+forward positions) although the amount committed to margin at any time may be
+substantially higher; (4) prohibiting pyramiding (that is, using
+unrealized profits in a particular market as margin for additional positions in
+the same market); and (5) changing the equity utilized for trading by an
+account solely on a controlled periodic basis rather than as an automatic
+consequence of an increase in equity resulting from trading profits. The
+Partnership controls credit risk by dealing exclusively with large, well
+capitalized financial institutions as brokers and counterparties.  
+
+The
+financial instruments traded by the Partnership contain varying degrees of
+off-balance sheet risk whereby changes in the market values of the futures and
+forward contracts or the Partnership s satisfaction of the obligations may
+exceed the amount recognized in the statement of financial condition of the Partnership.  
+
+Due to
+the nature of the Partnership s business, substantially all its assets are
+represented by cash and United States government obligations, while the
+Partnership maintains its market exposure through open futures and forward
+contract positions.  
+
+12  
+
+The
+Partnership s futures contracts are settled by offset and are cleared by the
+exchange clearinghouse function. Open futures positions are marked to market
+each trading day and the Partnership s trading accounts are debited or credited
+accordingly. Options on futures contracts are settled either by offset or by
+exercise. If an option on a future is exercised, the Partnership is assigned a
+position in the underlying future which is then settled by offset. The
+Partnership s spot and forward currency transactions conducted in the interbank
+market are settled by netting offsetting positions or payment obligations and
+by cash payments.  
+
+The
+value of the Partnership s cash and financial instruments is not materially
+affected by inflation. Changes in interest rates, which are often associated
+with inflation, could cause the value of certain of the Partnership s debt
+securities to decline, but only to a limited extent. More important, changes in
+interest rates could cause periods of strong up or down market price trends,
+during which the Partnership s profit potential generally increases. However,
+inflation can also give rise to markets which have numerous short price trends
+followed by rapid reversals, markets in which the Partnership is likely to
+suffer losses.  
+
+Liquidity   
+
+The
+Partnership s assets are generally held as cash or cash equivalents which are
+used to margin the Partnership s futures and forward currency positions and
+withdrawn, as necessary, to pay redemptions and expenses. Other than potential
+market-imposed  limitations on liquidity,
+due, for example, to limited open interest in certain futures markets or to
+daily price fluctuation limits, which are inherent in the Partnership s futures
+and forward trading, the Partnership s assets are highly liquid and are
+expected to remain so. During its operations through December 31, 2005, the
+Partnership experienced no meaningful periods of illiquidity in any of the
+numerous markets traded by the General Partner.  
+
+Critical Accounting Estimates   
+
+The Partnership records its transactions in futures
+and forward currency contracts, including related income and expenses, on a
+trade date basis. Open futures contracts traded on an exchange are valued at
+market, which is based on the closing settlement price on the exchange where
+the futures contract is traded by the Partnership on the day with respect to
+which Net Assets are being determined. Open forward currency contracts are
+recorded at fair value, based on pricing models 
+that consider the current market prices ( Spot Prices ) plus the time
+value of money ( Forward Points ) and contractual prices of the underlying
+financial instruments. The Spot Prices and Forward Points for open forward
+currency contracts are generally based on the 3:00 P.M. New York time prices
+provided by widely used quotation service providers on the day with respect to
+which Net Assets are being determined. The Forward Points from the quotation
+service providers are generally in periods of one month, two months, three
+months and six months forward while the contractual forward delivery dates for
+the foreign currency contracts traded by the Partnership may be in between
+these periods.  
+
+The General Partner s policy is to calculate the
+Forward Points for each contract being valued by determining the number of days
+from the date the forward currency contract is being valued to its maturity
+date and then using straight-line interpolation to calculate the valuation of
+Forward Points for the applicable forward currency contract. The General
+Partner will also compare the calculated price to the forward currency prices
+provided by dealers to determine whether the calculated price is fair and
+reasonable.  
+
+The preparation of financial statements in conformity
+with accounting principles generally accepted in the United States of America
+requires management to make estimates and assumptions, such as accrual of
+expenses, that affect the amounts and disclosures reported in the financial
+statements. Based on the nature of the business and operations of the
+Partnership, the General Partner believes that the estimates utilized in
+preparing the Partnership s financial statements are appropriate and
+reasonable, however actual results could differ from these estimates. The
+estimates used do not provide a range of possible results that would require
+the exercise of subjective judgment. The General Partner further believes that,
+based on the nature of the business and operations of the Partnership, no other
+reasonable assumptions relating to the application of the Partnership s
+critical accounting estimates other than those currently used would likely
+result in materially different amounts from those reported.  
+
+13  
+
+Off-Balance Sheet
+Arrangements   
+
+The Partnership does not engage in off-balance sheet
+arrangements with other entities.  
+
+Contractual Obligations   
+
+The
+Partnership does not enter into any contractual obligations or commercial
+commitments to make future payments of a type that would be typical for an
+operating company or that would affect its liquidity or capital resources. The
+Partnership s sole business is trading futures and forward currency contracts,
+both long (contracts to buy) and short (contracts to sell). All such contracts
+are settled by offset, not delivery. Substantially all such contacts are for
+settlement within four months of the trade date and substantially all such
+contracts are held by the Partnership for less than four months before being
+offset or rolled over into new contracts with similar maturities. The
+Partnership s Financial Statements, included as Exhibit 13.01 to this report,
+present a Condensed Schedule of Investments setting forth net unrealized
+appreciation (depreciation) of the Partnership s open future and forward
+currency contracts, both long and short, at December 31, 2005.  
+
+Results of Operations   
+
+Performance Summary    
+
+The
+Partnership s success depends on the General Partner s ability to recognize and
+capitalize on trends and other profit opportunities in different sectors of the
+world economy. The General Partner s trading methods are confidential, so that
+substantially the only information that can be furnished regarding the
+Partnership s results of operations is its performance record. Unlike most
+operating businesses, general economic or seasonal conditions have no direct
+effect on the profit potential of the Partnership, while, at the same time, its
+past performance is not necessarily indicative of future results. Because of
+the speculative nature of its trading, operational or economic trends have
+little relevance to the Partnership s results. The General Partner believes,
+however, that there are certain market conditions   for example, markets with
+strong price trends   in which the Partnership has a better opportunity of
+being profitable than in others.  
+
+2005   
+
+During
+2005, the Partnership achieved a net realized and unrealized gain of $9,676,626
+from its trading operations (including foreign exchange transactions and
+translations). Brokerage commissions of $4,802,240 and administrative expenses
+of $460,610 were paid or accrued. The Partnership paid a profit share to the
+General Partner of $1,140,619. Interest income of $4,819,054 partially offset
+the Partnership s expenses resulting in a net gain of $8,092,211. An analysis
+of the trading gain (loss) by sector is as follows:  
+
+The Partnership produced
+a modest gain for the year. Equity indices were strongly profitable, and to a
+lesser extent so were cross rate currency positions, metals, energy and
+interest rates. On the other hand, sizable losses resulted from trading dollar
+currency positions, and lesser shortfalls came from trading grains, softs, and
+livestock.  
+
+14  
+
+International equity
+indices were highly profitable in 2005. Following some consolidation early in
+the year, non-U.S. equity indexes moved broadly higher through year end. There
+were gains from long positions in Asian, European, and South African equity
+indices. Solid growth worldwide propelled equities forward despite the headwinds
+that came from high energy prices and rising interest rates. Trading of U.S.
+stock indexes, which were range-bound for most of 2005, was not profitable,
+however.  
+
+Strong growth of
+industrial production, especially in China, underpinned demand for metals, and
+long positions in copper, zinc and platinum generated gains. Continuing
+expansion of money supply worldwide fueled demand for precious metals and long
+gold and silver positions were also profitable.  
+
+Energy prices were
+volatile, but still moved somewhat higher on balance for the year, and long
+positions in crude, heating oil, London gas oil, unleaded gasoline, and
+kerosene were slightly profitable. By the end of 2005, however, position sizes
+had been reduced significantly.  
+
+Interest rates were quite
+volatile during 2005. Early in the year, markets expected continuing declines
+in non-U.S. interest rates, and further advances in short term U.S. rates. Later
+on, however, interest rates rose rather broadly as the European Central Bank
+joined the Federal Reserve in raising official rates, as growth in emerging
+economies remained strong, as Japan showed evidence of exiting from its
+protracted slump, and as high prices for energy and other commodities induced
+inflation fears that periodically roiled markets. In this environment, profits
+from long non-U.S. interest rate positions during the first half of 2005 were
+largely offset by losses from these positions in the second half. Indeed, by
+year end, the portfolio s interest rate positions had been reduced or reversed
+from long to short, anticipating higher interest rates.  
+
+Turning to currencies,
+cross rate trades based on selling low yield currencies and buying high
+interest rate currencies were profitable. In particular, selling yen and buying
+the Australian dollar, Canadian dollar and British pound was profitable, as was
+selling the euro and buying Polish zlotys and Canadian dollars.  
+
+Dollar trading, however,
+was unprofitable throughout the year. The U.S. currency was not able to sustain
+a trend and exhibited significant volatility, especially during the second half
+of 2005. As a result, 14 of the 17 currencies traded versus the dollar
+registered losses or no appreciable gain for the year.  
+
+Trading
+of agricultural commodities and livestock generated losses. Prices of corn,
+wheat and elements of the soybean complex experienced wide swings in 2005, and
+modest losses were sustained across the grain sector of the portfolio. A long
+sugar position was quite profitable as weather related crop shortages in Brazil
+and Asia increased demand for the commodity and prompted short covering as well.
+However, losses from trading coffee, cotton, and cocoa were more than
+offsetting. Livestock trading was marginally unprofitable.  
+
+2004   
+
+During 2004, the Partnership had a net realized and
+unrealized loss of $510,071 from its trading operations (including foreign
+exchange transactions and translations). Brokerage commissions of $5,497,025
+and administrative expenses of $528,584 were paid or accrued. The Partnership
+paid a profit share to the General Partner of $484,760. Interest income of
+$2,406,435 partially offset the Partnership s expenses resulting in a net loss
+of $4,614,005. An analysis of the trading gain (loss) by sector is as follows:  
+
+*     While the Partnership had a net dollar trading
+loss during 2004, there was a percentage trading gain in the aggregate sectors
+due to the timing of additional capital contributions and monthly volatility.  
+
+15  
+
+The year 2004 was distinguished by dramatic
+transitions in the underlying character of market trading dynamics. Profitable
+trends in January and February gave way to a six month period of trendless,
+turbulent action across a broad swath of markets that produced significant
+losses. Beginning in September, trends reappeared and the Partnership chalked
+up a sharp recovery in the year s final four months. Interest rate and energy
+trading were profitable and to a lesser extent so was trading of agricultural
+commodities. These gains were partially offset by losses from currency, stock
+index and metals trading. The Partnership generated a small trading gain for
+the year.  
+
+At the start of the year, long positions in note and
+bond futures, particularly for the U.S. and Europe, were quite profitable as
+sluggish European growth, concerns about a  jobless  U.S. recovery and central
+bank buying of treasuries drove interest rates down. Rising energy prices
+benefited long energy positions, and equity and metals trading were profitable.
+Currency trading was very unprofitable, however, as a dollar decline halted and
+reversed during the quarter.  
+
+From March through August, a number of uncertainties
+plagued market participants including: 
+the June Iraqi elections, the U.S. Presidential elections in November,
+the strength of the American economy and thrust of Federal Reserve policy, and
+China s foreign exchange, industrial and monetary policy directions. As a
+result, markets across the board displayed unprofitable, directionless price
+action. Trading of currencies, interest rates, stock indices, metals and agricultural
+commodities produced losses. Energy trading was the only profitable sector for
+this period.  
+
+As the aforementioned uncertainties began to clarify,
+market participants became more confident of their opinions and a number of
+profitable trend opportunities emerged. In particular, a sharp dollar decline
+led to profits from a series of short dollar positions, particularly versus the
+euro and Korean won. This dollar sell off was prompted by worries about
+persistent U. S. current account and budget deficits, as well as the rising
+probability that foreign central banks would begin to diversify their
+international reserve holdings away from the American currency. Trading of
+interest rate, stock index, and metal futures was also profitable over the last
+four months of the year.  
+
+2003   
+
+During 2003, the Partnership achieved net realized and
+unrealized gains of $6,747,761 from its trading operations (including foreign
+exchange transactions and translations). Brokerage commissions of $5,378,592
+and administrative expenses of $456,873 were paid or accrued. The Partnership
+paid a profit share to the General Partner of $668,526. Interest income of
+$2,061,312 partially offset the Partnership s expenses resulting in a net gain
+of $2,305,082. An analysis of the trading gain (loss) by sector is as follows:  
+
+16  
+
+The Partnership s performance was quite volatile
+throughout the year 2003. Substantial gains registered in January and February
+were largely erased in March, when major long term price trends in currencies,
+energy and interest rates reversed abruptly as the Iraq invasion moved from
+rhetoric to reality, and as traders and investors rushed to square positions,
+moving to the sidelines at least temporarily. Then, in May, as the initial
+phase of the Iraqi conflict was reaching a quicker then expected resolution,
+concern about large U.S. budget and trade deficits, unfavorable U.S. interest
+rate differentials, and Treasury Secretary Snow s apparent acquiescence to a
+weaker dollar, reignited a dollar selloff. At the same time, fears of
+deflation, and the Fed s continued easy monetary policy, produced a renewed
+fall in interest rates. These broad movements brought with them a sizable
+profit for the portfolio. However, after slightly favorable summer results,
+interest rate and energy markets succumbed to volatility without sustained
+trends, and the Partnership s trading in these markets resulted in losses
+outweighing gains from currency, stock index, and metals trading over the
+second half of 2003.  
+
+On a sector basis, currency trading was profitable for
+2003. Long positions in the euro and commodity currencies (South African rand,
+Australian and New Zealand dollars) were quite profitable as the U.S. currency
+fell. On the other hand, trading of Far Eastern currencies (yen, Korean won,
+and the Singapore dollar) produced losses, since heavy Central Bank
+intervention throughout the region counterbalanced much of the downward
+pressure on the U.S. unit and led to erratic rate fluctuations.  
+
+The Partnership s net long position in stock futures
+was profitable due to a general up move in equities worldwide. Long gold and
+copper positions were profitable, particularly later in the year, as flight to
+safety and a weak dollar boosted gold prices, and as a weak dollar and surging
+industrial demand pushed copper prices upward.  
+
+Energy prices were highly volatile during the year,
+particularly with the onset of hostilities in Iraq in March, and, hence energy
+trading generated losses in 2003.  
+
+Interest rate trading was very profitable during the
+first half of 2003 when rates worldwide were continuing to trend downward.
+However, when that trend reversed abruptly in mid-June and was followed by
+erratic non-directional range trading, offsetting losses were experienced,
+especially during the September   December period.  
+
+Lastly, trading of agricultural commodities produced
+losses throughout the year.  
+
+Item 7A.  Quantitative
+and Qualitative Disclosures About Market Risk   
+
+Introduction   
+
+Past
+Results Are Not Necessarily Indicative of Future Performance    
+
+The
+Partnership is a speculative commodity pool. Unlike an operating company, the
+risk of market sensitive instruments is integral, not incidental, to the
+Partnership s main line of business.  
+
+Market
+movements result in frequent changes in the fair market value of the
+Partnership s open positions and, consequently, in its earnings and cash flow. The
+Partnership s market risk is influenced by a wide variety of factors, including
+the level and volatility of interest rates, exchange rates, equity price
+levels, the market value of financial instruments and contracts, the
+diversification effects among the Partnership s open positions and the
+liquidity of the markets in which it trades.  
+
+The
+Partnership can rapidly acquire and/or liquidate both long and short positions
+in a wide range of different markets. Consequently, it is not possible to
+predict how a particular future market scenario will affect performance, and
+the Partnership s past performance is not necessarily indicative of its future
+results.  
+
+Value
+at Risk is a measure of the maximum amount which the Partnership could
+reasonably be expected to lose in a given market sector. However, the inherent
+uncertainty of the Partnership s speculative trading and the recurrence in the
+markets traded by the Partnership of market movements far exceeding expectations
+could result in actual trading or non-trading losses far beyond the indicated
+Value at Risk or the Partnership s experience to date (  i.e.,  
+ risk of ruin ). In light of the foregoing as well as the risks and
+uncertainties intrinsic to all future projections,  
+
+17  
+
+the inclusion of the
+quantification included in this section should not be considered to constitute
+any assurance or representation that the Partnership s losses in any market
+sector will be limited to Value at Risk or by the Partnership s attempts to
+manage its market risk.  
+
+Materiality,
+as used in this section  Quantitative and Qualitative Disclosures About Market
+Risk,  is based on an assessment of reasonably possible market movements and
+the potential losses caused by such movements, taking into account the
+leverage, optionality and multiplier features of the Partnership s market
+sensitive instruments.  
+
+Quantifying the Partnership s Trading Value at Risk   
+
+Quantitative Forward-Looking Statements    
+
+The
+following quantitative disclosures regarding the Partnership s market risk
+exposures contain  forward-looking statements  within the meaning of the safe
+harbor from civil liability provided for such statements by the Private
+Securities Litigation Reform Act of 1995 (set forth in Section 27A of the
+Securities Act and Section 21E of the Securities Exchange Act of 1934). All
+quantitative disclosures in this section are deemed to be forward-looking
+statements for purposes of the safe harbor, except for statements of historical
+fact.   
+
+The
+Partnership s risk exposure in the various market sectors traded by the General
+Partner is quantified below in terms of Value at Risk. Due to the Partnership s
+mark-to-market accounting, any loss in the fair value of the Partnership s open
+positions is directly reflected in the Partnership s earnings (realized or
+unrealized) and cash flow (at least in the case of exchange-traded contracts in
+which profits and losses on open positions are settled daily through variation
+margin).  
+
+In 2005, exchange
+maintenance margin requirements have been used by the Partnership as the
+measure of its Value at Risk. Maintenance margin requirements are set by
+exchanges to equal or exceed 95-99% of the maximum one day losses in the fair
+value of any given contract incurred during the time period over which
+historical price fluctuations are researched for purposes of establishing
+margin levels. The maintenance margin levels are established by exchanges using
+historical price studies as well as an assessment of current market volatility
+(including the implied volatility of the options on a given futures contract)
+and economic fundamentals to provide a probabilistic estimate of the maximum
+expected near-term one day price fluctuation.  
+
+In 2005, the Partnership
+changed its method of calculating Value at Risk for forward currency contracts
+that are not exchange traded and began
+to use exchange maintenance margin requirements for equivalent or similar
+futures positions as the measure of Value at Risk.  The Partnership
+previously used dealers  margin as the measure of Value at Risk for forward currency contracts.  Dealers 
+margin rates reflect factors other than volatility such as credit and
+administrative considerations which are not relevant to Value at Risk. 
+Accordingly, the Partnership believes that, for the Partnership s forward currency contracts, equivalent
+exchange maintenance margin requirements are a more appropriate indicator of Value at Risk.  
+
+In quantifying the
+Partnership s Value at Risk, 100% positive correlation in the different
+positions held in each market risk category has been assumed. Consequently, the
+margin requirements applicable to the open contracts have simply been
+aggregated to determine each trading category s aggregate Value at Risk. The
+diversification effects resulting from the fact that the Partnership s
+positions are rarely, if ever, 100% positively correlated have not been
+reflected.  
+
+The Partnership s Trading Value
+at Risk in Different Market Sectors   
+
+The following table
+indicates the average, highest and lowest amounts of trading Value at Risk
+associated with the Partnership s open positions by market category for the
+fiscal year ended December 31, 2005, calculated using the new method described
+above. During fiscal year 2005 and 2004, the Partnership s average total
+capitalization was approximately $170.2 million and $198.1 million,
+respectively.  
+
+The following tables indicates the average, highest and lowest amounts
+of trading Value at Risk associated with the Partnership s open positions by
+market category for the fiscal years ended December 31, 2005 and 2004. The
+calculations have been prepared under the method used by the Partnership in
+prior years which considered dealer s margin for forward currency contracts
+instead of exchange maintenance margin requirements.  
+
+18  
+
+Fiscal Year 2005   
+
+Fiscal Year 2004   
+
+Average,
+highest and lowest Value at Risk amounts relate to the quarter-end amounts
+during each fiscal year. Average Capitalization is the average of the
+Partnership s capitalization at the end of each month during the fiscal year 2005
+and 2004. Dollar amounts represent millions of dollars.  
+
+Material Limitations on Value at Risk as an Assessment of
+Market Risk    
+
+The
+face value of the market sector instruments held by the Partnership is
+typically many times the applicable maintenance margin requirement (maintenance
+margin requirements generally ranging between approximately 1% and 10% of
+contract face value) as well as many times the capitalization of the
+Partnership. The magnitude of the Partnership s open positions creates a  risk
+of ruin  not typically found in most other investment vehicles. Because of the
+size of its positions, certain market conditions   unusual, but historically
+recurring from time to time   could cause the Partnership to incur severe
+losses over a short period of time. The foregoing Value at Risk table   as well
+as the past performance of the Partnership   give no indication of this  risk
+of ruin.   
+
+19  
+
+Non-Trading Risk    
+
+The
+Partnership has non-trading market risk on its foreign cash balances not needed
+for margin. However, these balances (as well as any market risk they represent)
+are immaterial.  
+
+The
+Partnership also has non-trading cash flow risk as a result of holding a
+substantial portion (over 80%) of its assets in U.S. Treasury notes and other
+short-term debt instruments (as well as any market risk they represent) for
+margin and cash management purposes. Although the General Partner does not
+anticipate that, even in the case of major interest rate movements, the
+Partnership would sustain a material mark-to-market loss on its securities
+positions, if short-term interest rates decline so will the Partnership s cash
+management income. The Partnership also maintains a portion (approximately 10%)
+of its assets in cash in interest-bearing bank accounts. These cash balances
+are also subject (as well as any market risk they represent) to cash flow risk,
+which is not material.  
+
+Qualitative Disclosures Regarding Primary Trading Risk
+Exposures    
+
+The
+following qualitative disclosures regarding the Partnership s market risk
+exposures   except for (i) those disclosures that are statements of historical
+fact and (ii) the descriptions of how the General Partner manages the
+Partnership s primary market risk exposures   constitute forward-looking
+statements within the meaning of Section 27A of the Securities Act and Section
+21E of the Securities Exchange Act. The Partnership s primary market risk
+exposures as well as the strategies used and to be used by the General Partner   for   managing such exposures are subject to numerous uncertainties,
+contingencies and risks, any one of which could cause the actual results of the
+Partnership s risk controls to differ materially from the objectives of such
+strategies. Government interventions, defaults and expropriations, illiquid
+markets, the emergence of dominant fundamental factors, political upheavals,
+changes in historical price relationships, an influx of new market
+participants, increased regulation and many other factors could result in material
+losses as well as in material changes to the risk exposures and the risk
+management strategies of the Partnership. There can be no assurance that the
+Partnership s current market exposure and/or risk management strategies will
+not change materially or that any such strategies will be effective in either
+the short- or long-term. Investors must be prepared to lose all or
+substantially all of their investment in the Partnership.   
+
+The
+following were the primary trading risk exposures of the Partnership as of
+December 31, 2005, by market sector.  
+
+Financial
+Instruments  . Interest rate movements directly affect the
+price of the sovereign bond futures positions held by the Partnership and
+indirectly the value of its stock index and currency positions. Interest rate
+movements in one country as well as relative interest rate movements between
+countries may materially impact the Partnership s profitability. The
+Partnership s primary interest rate exposure is to interest rate fluctuations
+in the United States and other major industrialized, or Group of Seven (Canada,
+France, Germany, Italy, Japan, United Kingdom and United States, collectively  G-7 ),
+countries. However, the Partnership also may take positions in futures
+contracts on the government debt of smaller nations. The General Partner
+anticipates that G-7 interest rates, both long-term and short-term, will remain
+the primary market exposure of the Partnership for the foreseeable future. 
+
+Currencies  .
+Exchange rate risk is a principal market exposure of the Partnership. The
+Partnership s currency exposure is to exchange rate fluctuations, primarily
+fluctuations which disrupt the historical pricing relationships between
+different currencies and currency pairs. The fluctuations are influenced by
+interest rate changes as well as political and general economic conditions. The
+Partnership trades in a large number of currencies, including cross-rates e.g.,
+positions between two currencies other than the U.S. dollar. As of December 31,
+2005, the Partnership s currency exposures were in the U.S. dollar versus the
+Euro, Swiss Franc, Czech Krone, Polish Zloty, Norwegian Krone, Hungarian
+Forint, Swedish Krona, Canadian Dollar, South African Rand, New Zealand Dollar,
+Australian Dollar, Yen, Korean Won, Singapore Dollar, Mexican Peso and
+Brazilian Real. The exposure in currency crosses were in the Yen versus the
+Canadian Dollar, Australian Dollar, Swiss Franc and British Pound and in the
+Euro versus the Yen, British Pound, Swiss Franc, Polish Zloty, Norwegian Krone,
+and Canadian Dollar. 
+
+Stock
+Indices  . The Partnership s equity exposure, through stock
+index futures, is to equity price risk in the G-7 countries as well as other
+countries. As of December 31, 2005, the Partnership s exposures in the G-7
+countries were in the: E-Mini Nasdaq 100, E- Mini S P 500, E-Mini Russell
+2000 and E-Mini Dow (United States); FTSE 100 (United Kingdom); TOPIX and
+Nikkei (Japan); DAX (Germany); and CAC-40 (France) stock indices. The
+Partnership s exposure to stock index futures of other countries at December
+31, 2005 were in the: Simex Taiwan Index (Taiwan), Simex (Singapore) ALL Shares
+(South Africa), SPI 200 (Australia), IBEX 35 (Spain), Hang Seng (Hong Kong),
+and the DJ Euro Stoxx 50 (Euro Zone) stock indices. 
+
+20  
+
+Metals  .  The Diversified
+Portfolio used for the Partnership trades precious and base metals. The
+Partnership s metals market exposure is in gold, silver, platinum, aluminum,
+copper, lead, nickel, tin and zinc. 
+
+Agricultural  .
+The Partnership s primary commodities exposure is to agricultural price
+movements, which are often directly affected by severe or unexpected weather
+conditions. As of December 31, 2005, the Partnership had exposure to
+agricultural commodities including coffee, sugar, cocoa, cotton, wheat, corn,
+the soybean complex as well as live cattle and hogs. 
+
+Energy  .  The Partnership s
+primary energy market exposure is to gas and oil price movements, often
+resulting from political developments in the Middle East and economic conditions
+worldwide. Energy prices are volatile and substantial profits and losses have
+been and are expected to continue to be experienced in this market. 
+
+Qualitative Disclosures Regarding Non-Trading Risk Exposure    
+
+The
+following were the only non-trading risk exposures of the Partnership as of
+December 31, 2005.  
+
+Foreign
+Currency Balances  . The Partnership s primary foreign currency
+balances are in Japanese yen, euro, British pounds and Hong Kong dollars. The
+Partnership controls the non-trading risk of these balances by regularly
+converting these balances back into dollars (no less frequently than twice a
+month). 
+
+Securities
+Positions  . The Partnership s only market exposure in
+instruments held other than for trading is in its securities portfolio. The
+Partnership holds only cash or interest-bearing, credit risk-free, short-term
+paper   typically U.S. Treasury instruments with durations no longer than 1
+year. Violent fluctuations in prevailing interest rates could cause immaterial
+mark-to-market losses on the Partnership s securities, although substantially
+all of these short-term instruments are held to maturity. 
+
+Qualitative Disclosures Regarding Means of Managing Risk
+Exposure    
+
+The
+General Partner attempts to control risk through the systematic application of
+its trading method, which includes a multi-system approach to price trend
+recognition, an analysis of market volatility, the application of certain money
+management principles, which may be revised from time to time, and adjusting
+leverage or portfolio size. In addition, the General Partner limits its trading
+to markets which it believes are sufficiently liquid in respect of the amount
+of trading it contemplates conducting.  
+
+The
+goal of the General Partner s research has been to develop and select a mix of
+systems in each market and allocate risk across a wide array of markets, so as
+to contain overall portfolio risk in the targeted range, while allowing
+exposure to profitable trend opportunities. Over the last 30 years, the General
+Partner has developed hundreds of trading systems. These intermediate- to
+long-term trading systems generate buy or sell decisions in a particular market
+based on the direction of price movements in the market.  
+
+Systems
+can be materially different   better in some periods and worse in others. The
+main distinguishing features are time-frame over which systems work (intra-day
+to long-term), the type of data fed into them (granularity [ticks to
+weeks/months], type [market or economic statistics], source [cash, futures or
+options markets]), and the objective of the system (profiting from trends,
+trading-ranges or volatility). No single approach will work all the time. Therefore,
+the General Partner s objective is to have several approaches operating at all
+times. Since the early 1980 s, the General Partner has selected multiple
+systems for each market.  
+
+When
+arriving at the portfolio allocation, the General Partner seeks maximum
+diversification subject to liquidity constraints. The markets traded and
+allocations are reviewed monthly, although changes may occur less frequently. The
+following factors are considered in constructing a universe of markets to trade
+for each portfolio:  profitability,
+correlation of market performance, liquidity of markets, depth of markets,
+breadth of markets,  
+
+21  
+
+professional judgment,
+desired diversification and transaction costs. Once the universe of markets is
+established, the General Partner s simulation and optimization techniques help
+determine which markets to include in the portfolio. The current allocation to
+any market in the portfolio does not exceed 3%.  
+
+In
+attempting to assess market volatility as a means of monitoring and evaluating
+risk, the General Partner uses its volatility overlay as a part of individual
+market risk management. This system is designed to measure the risk in the
+portfolio s position in each market and signals a decrease in position size
+when risk increases and an increase in position size when risk decreases. The
+General Partner s volatility overlay maintains overall portfolio risk and
+distribution of risk across markets within designated ranges. It is applied to
+the systematic strategies described above. A secondary benefit of the
+volatility overlay can be timely profit taking. Because markets tend to become
+more volatile after a profitable trend has been long underway, the volatility
+overlay often signals position reductions before trend reversals.  
+
+In
+addition to the volatility overlay, the General Partner s risk management
+focuses on money management principles applicable to the portfolio as a whole
+rather than to individual markets. One such principle is portfolio
+diversification, which attempts to improve the quality of profits by reducing
+volatility.  
+
+Additional
+money management principles applicable to the portfolio as a whole
+include:  (1) limiting the assets
+committed as margin or collateral, generally within a range of 15% to 35% of an
+account s net assets, though the amount may at any time be substantially
+higher; (2) prohibiting pyramiding - that is, using unrealized profits in a
+particular market as margin for additional positions solely in the same market;
+and (3) changing the equity used for trading by an account solely on a
+controlled periodic basis, not automatically due to an increase in equity from
+trading profits.  
+
+Another
+important risk management function is the careful control of leverage or
+portfolio size. Leverage levels are determined by simulating the entire
+portfolio all markets, all systems, all risk control overlays, the exact
+weightings of the markets in the portfolio and the proposed level of
+leverage over the past five or ten years to determine the worst case
+experienced by the portfolio in the simulation period.  
+
+The
+worst case or peak-to-trough drawdown is measured from a daily high in
+portfolio assets to the subsequent daily low whether that occurs days, weeks or
+months after the daily high. If the General Partner considers the drawdown too
+severe, it reduces the leverage or portfolio size. There are, however, no
+restrictions on the amount of leverage the General Partner may use at any given
+time.  
+
+Item 8.    Financial Statements and Supplementary Data   
+
+Financial
+statements required by this item, including the report of Deloitte   Touche
+LLP for the fiscal years ended December 31, 2005 and 2004, are included as
+Exhibit 13.01 to this report. The report of Ernst   Young LLP for the
+fiscal year ended December 31, 2003 is filed as Exhibit 13.02 to this report.  
+
+The
+following summarized quarterly financial information presents the results of
+operations for the three month periods ended March 31, June 30, September 30
+and December 31, 2005 and 2004. This information has not been audited.  
+
+*  Expenses are exclusive of any realized and
+accrued profit share to the General Partner.  
+
+22  
+
+*  Expenses are exclusive of any realized and
+accrued profit share to the General Partner.  
+
+There were no
+extraordinary, unusual or infrequently occurring items recognized in any
+quarter within the two most recent fiscal years, and the Partnership has not
+disposed of any segments of its business. There have been no year-end
+adjustments that are material to the results of any fiscal quarter reported
+above.  
+
+Item 9.    Changes in and Disagreements with Accountants
+on Accounting and Financial Disclosure   
+
+None  
+
+Item
+9A.    Controls and Procedures   
+
+The
+General Partner, with the participation of the General Partner s principal
+executive officers and principal financial officer, has evaluated the
+effectiveness of the design and operation of its disclosure controls and
+procedures with respect to the Partnership within 90 days of the filing date of
+this Annual Report, and, based on their evaluation, have concluded that these
+disclosure controls and procedures are effective. There were no significant
+changes in the General Partner s internal controls with respect to the
+Partnership or in other factors applicable to the Partnership that could
+significantly affect these controls subsequent to the date of their evaluation.  
+
+Item
+9B.    Other Information .  
+
+None.  
+
+PART III  
+
+Item
+10.    Directors and Executive Officers of the Registrant   
+
+(a,b)   Identification of Directors and Executive
+Officers   
+
+The
+Partnership has no directors or executive officers. The Partnership is
+controlled and managed by the General Partner.  
+
+The
+General Partner, is a Delaware corporation organized in May 1982 to manage
+discretionary accounts in futures and forward markets. It is the corporate
+successor to a futures trading and advisory organization which has been
+continuously managing assets in the currency and futures markets using
+quantitative, systematic techniques since 1971.  
+
+The
+principals and senior officers of the General Partner as of December 31, 2005
+are as follows:  
+
+Harvey Beker, age 52.     Mr. Beker
+is Co-Chief Executive Officer and Co-Chairman of the General Partner and The
+Millburn Corporation, and a partner of their affiliate, ShareInVest Research
+L.P. He received a Bachelor of Arts degree in economics from New York University
+( NYU ) in 1974 and a Master of Business Administration 
+
+23  
+
+degree in finance from
+NYU in 1975. From June 1975 to July 1977, Mr. Beker was employed by Loeb
+Rhoades, Inc. where he developed and traded silver arbitrage strategies. From
+July 1977 to June 1978, Mr. Beker was a futures trader at Clayton Brokerage Co.
+of St. Louis. Mr. Beker has been employed by The Millburn Corporation since
+June 1978 and initially served as the Director of operations for its affiliate,
+Millburn Partners. During his tenure at Millburn (including its affiliates,
+Millburn Partners and CommInVest Research Limited Partnership ( CommInVest ))
+he has been instrumental in the development of the research, trading and
+operations areas. Mr. Beker became a principal of the firm in June 1982, and a
+partner in ShareInVest, the predecessor of ShareInVest Research L.P. ( ShareInVest ),
+in April 1982.  
+
+Gregg R. Buckbinder, age 47.     Mr.
+Buckbinder is Senior Vice-President and Chief Operating Officer of the General
+Partner and The Millburn Corporation and a partner, since January 2000, of
+ShareInVest. He graduated cum laude from Pace University ( Pace ) in 1980 with
+a B.B.A. in accounting and received an M.S. in taxation from Pace in 1988. He
+joined the General Partner and The Millburn Corporation in January 1998 from
+Odyssey Partners, L.P. where he was responsible for the operation,
+administration and accounting of the firm s merchant banking and managed
+account businesses from July 1990 through December 1997. Mr. Buckbinder was
+employed by Tucker Anthony, a securities broker and dealer, from June 1985 to
+July 1990 where he was First Vice President and Controller, and from August
+1983 to June 1984 where he designed and implemented various operations and
+accounting systems. He was with the public accounting firm of Ernst  
+Whinney from June 1984 to June 1985 as a manager in the tax department and from
+September 1980 to August 1983 as a senior auditor, with an emphasis on clients
+in the financial services business. He is a Certified Public Accountant and a
+member of the American Institute of Certified Public Accountants. 
+
+George E. Crapple, age 61.     Mr.
+Crapple is Co-Chief Executive Officer and Co-Chairman of the General Partner
+and The Millburn Corporation and a partner of ShareInVest. In 1966 he graduated
+with honors from the University of Wisconsin where his field of concentration
+was economics and he was elected to Phi Beta Kappa. In 1969 he graduated from
+Harvard Law School,   magna cum laude  ,
+where he was a member of the Harvard Law Review. He was a lawyer with Sidley
+  Austin, Chicago, Illinois, from 1969 until April 1, 1983, as a partner
+since 1975, specializing in commodities, securities, corporate and tax law. He
+was first associated with the General Partner in 1976 and joined General
+Partner and The Millburn Corporation (including its affiliates, Millburn
+Partners and CommInVest) on April 1, 1983 on a full-time basis. He became a
+partner in ShareInVest in April 1984. Mr. Crapple is a Director, Member of the
+Executive Committee, Chairman of the Appeals Committee and a former Chairman of
+the Eastern Regional Business Conduct Committee of the NFA, past Chairman of
+the Managed Funds Association, a member of the Global Markets Advisory
+Committee of the CFTC and a member of the board of directors of the Futures
+Industry Association ( FIA ). 
+
+Steven M. Felsenthal, age 36.     Mr.
+Felsenthal is General Counsel and Chief Compliance Officer of the General
+Partner, The Millburn Corporation and ShareInVest. Prior to joining Millburn in
+January 2004, Mr. Felsenthal was a senior associate in the investment
+management group at Schulte Roth   Zabel LLP (September 1999- January
+2004), where he represented and advised hedge funds, registered investment
+companies, investment advisers, broker-dealers and banks in connection with all
+facets of their asset management businesses, and a member of the tax department
+of Kramer, Levin, Naftalis   Frankel LLP (October 1996- September 1999). He
+graduated   cum laude   from
+Yeshiva University in 1991 with a bachelor of arts degree in political science,
+and   order of the coif   from
+Fordham University School of Law in 1996, where he also served as an editor of
+the Fordham Environmental Law Journal. Mr. Felsenthal received an LL.M degree in
+taxation from NYU School of Law in 2001 and has written and been quoted in
+numerous published articles on various topics related to investment management.
+Mr. Felsenthal is a member of the New York State Bar. 
+
+Mark B. Fitzsimmons, age 58.            Mr. Fitzsimmons is a
+Senior Vice-President of the General Partner and The Millburn Corporation and a
+partner, since January 2000, of ShareInVest. His responsibilities include both
+business development and investment strategy. He joined the General Partner and
+its affiliates in January 1990 from Morgan Stanley   Co. Incorporated where
+he was a Principal and Manager of institutional foreign exchange sales and was
+involved in strategic trading for the firm from October 1987 until January 1990.
+From September 1977 to October 1987 he was with Chemical Bank New York
+Corporation ( Chemical ), first as a Senior Economist in Chemical s Foreign
+Exchange Advisory Service and later as a Vice-President and Manager of Chemical s
+Corporate Trading Group. While at Chemical he also traded both foreign exchange
+and fixed income products. From September 1973 to September 1977 Mr.
+Fitzsimmons was employed by the Federal Reserve Bank of New York, dividing his
+time 
+
+24  
+
+between the International
+Research Department and the Foreign Exchange Department. He graduated summa cum
+laude from the University of Bridgeport, Connecticut in 1970 with a B.S. in
+economics. His graduate work was done at the University of Virginia, where he
+received a certificate of candidacy for a Ph.D. in economics in 1973.  
+
+Barry Goodman, age 48.     Mr.
+Goodman is Executive Vice-President, Director of Trading and Co-Director of
+Research of the General Partner and The Millburn Corporation and a partner of
+ShareInVest. His responsibilities include overseeing the firm s trading
+operation and managing its trading relationships, as well as the design and
+implementation of trading systems. He graduated   magna cum laude   from Harpur College of the State University of
+New York in 1979 with a B.A. in economics. From September 1980 through October
+1982 he was a commodity trader for E. F. Hutton   Co., Inc. ( E.F. Hutton ).
+At E.F. Hutton, he also designed and maintained various technical indicators
+and coordinated research projects pertaining to the futures markets. He joined
+the General Partner and The Millburn Corporation (including its affiliate,
+Millburn Partners) in November 1982 as Assistant Director of Trading. He became
+a partner in ShareInVest in January 1984. 
+
+Dennis B. Newton, age 54.     Mr.
+Newton is a Senior Vice-President of the General Partner and The Millburn
+Corporation. His primary responsibilities are in administration and business
+development. Prior to joining the General Partner and The Millburn Corporation
+in September 1991, Mr. Newton was President of Phoenix Asset Management, Inc. ( Phoenix ),
+a registered commodity pool operator from April 1990 to August 1991 and
+President of its affiliated introducing broker, Phoenix Futures Inc., from
+March 1990 to June 1991. Prior to his employment with Phoenix, Mr. Newton was a
+Director of Managed Futures with Prudential-Bache Securities Inc. ( Prudential-Bache )
+from October 1987 to March 1990 and was associated with its affiliated futures
+commission merchant entity, Prudential Securities Futures Management, Inc. Mr.
+Newton joined Prudential-Bache from Heinold Asset Management, Inc. ( Heinold ),
+and its affiliated futures commission merchant, Heinold Commodities Inc., where
+he was a member of the senior management team from October 1974 to October 1987.
+Heinold was a pioneer and one of the largest sponsors of funds utilizing
+futures and currency forward trading. 
+
+Grant N. Smith, age 54.     Mr.
+Smith is Executive Vice-President and Co-Director of Research of the General
+Partner and The Millburn Corporation and a partner of ShareInVest. He is
+responsible for the design, testing and implementation of quantitative trading
+strategies, as well as for planning and overseeing the computerized
+decision-support systems of the firm. He received a B.S. degree from the
+Massachusetts Institute of Technology ( M.I.T. ) in 1974 and an M.S. degree
+from M.I.T. in 1975. While at M.I.T. he held several teaching and research
+positions in the computer science field and participated in various projects
+relating to database management. He joined the predecessor entity to The
+Millburn Corporation in June 1975, and has been continuously associated with
+the General Partner, The Millburn Corporation and their affiliates since that
+time. 
+
+Tod A. Tanis, age 51.     Mr. Tanis
+is a Vice President, Principal Accounting Officer and Director of Operations of
+the General Partner and The Millburn Corporation. He is responsible for
+overseeing operations and accounting for the firm s commodity pools. He
+graduated from Grove City College in May 1976 with a B.A. in accounting and
+joined the General Partner and The Millburn Corporation in May of 1983. Prior
+to joining Millburn, he was with E.F. Hutton, where he was a Manager from
+December 1982 to April 1983; a Supervisor from August 1982 to December 1982; an
+International Accountant from April 1979 to August 1982; and a staff accountant
+from June 1978 to April 1979. As a Manager at E.F. Hutton, he was responsible
+for all internal and external commodity reporting. Mr. Tanis also served as a
+Junior Accountant and then International Staff Accountant with Merrill Lynch
+  Company from September 1976 to May 1978. 
+
+(c)    Identification of Certain Significant
+Employees   
+
+None.  
+
+(d)    Family
+Relationships   
+
+None.  
+
+(e)    Business
+Experience   
+
+25  
+
+See
+Item 10 (a,b) above.  
+
+(f)    Involvement
+in Certain Legal Proceedings   
+
+None.  
+
+(g)    Audit
+Committee Financial Expert   
+
+Because
+the Partnership has no employees, officers or directors, the Partnership has no
+audit committee. The Partnership is managed by the General Partner. Gregg
+Buckbinder serves as the General Partner s  audit committee financial expert.   Mr. Buckbinder is not independent of the
+management of the General Partner. The General Partner is a privately owned
+corporation managed by its shareholders. It has no independent directors.  
+
+(h)    Code
+of Ethics   
+
+The
+Partnership has no employees, officers or directors and is managed by the
+General Partner.  The General Partner has adopted an Executive Code of
+Ethics that applies to its principal executive officers, principal financial
+officer and principal accounting officer.  A copy of this Executive Code
+of Ethics may be obtained at no charge by written request to Millburn
+Ridgefield Corporation, 411 West Putnam Avenue, Greenwich, Connecticut 06830 or
+by calling 203-625-7554 (ask for Client Services).  
+
+Item 11.  Executive Compensation   
+
+The
+Partnership has no directors or officers. None of the directors or officers of
+the General Partner receive compensation from the Partnership. The General
+Partner makes all trading decisions on behalf of the Partnership. The General
+Partner receives monthly brokerage commissions of 0.458 of 1% of the
+Partnership s Net Assets (which is reduced to 0.167 of 1% of Net Assets for
+partners who acquire their Interests directly through the General Partner) and
+an annual profit share of 20% of any new trading profit as defined.  
+
+Item
+12.    Security Ownership of Certain Beneficial Owners
+and Management   
+
+(a)    Security Ownership of Certain Beneficial Owners   
+
+As of December 31, 2005, the General Partner knows of
+the following person who owns beneficially more than 5% of the Partnership s
+Interests as follows:   
+
+All of
+the Partnership s general partner interest is held by the General Partner.  
+
+(1)           Interests held
+indirectly include Interests with respect to which a person holds voting or
+disposition power:  (i) by virtue of
+serving as one of two or fewer trustees, custodian or officer of the beneficial
+owner which is a charitable entity, benefit plan or custody account for the
+benefit of a minor; (ii) with respect to certain Interests owned by members of
+a person s immediate family; or (iii) through a self directed benefit plan.  
+
+26  
+
+(b)    Security Ownership of Management   
+
+The Partnership has no officers or directors. Under
+the terms of the Limited Partnership Agreement, the Partnership s affairs are
+managed by the General Partner, which has discretionary authority over the
+Partnership s trading. As of December 31, 2005, the General Partner s interest
+was valued at $3,537,452, which constituted 2.07% of the Partnership s capital
+as of December 31, 2005.  
+
+As of December 31, 2005, the directors and executive
+officers of the General Partner own beneficially Limited Partnership Interests
+as follows:   
+
+(c)    Changes in Control   
+
+None.  
+
+(d)    Securities
+Authorized for Issuance Under Equity Compensation Plans   
+
+None.  
+
+Item
+13.    Certain Relationships and Related Transactions   
+
+See  Item
+11.  Executive Compensation   and  Item 12.  Security Ownership of
+Certain Beneficial Owners and Management .  
+The Partnership allocated to the General Partner $4,802,240 in brokerage
+fees and allocated  
+
+(2)           Interests held
+indirectly include Interests with respect to which a person holds voting or
+disposition power:  (i) by virtue of
+serving as one of two or fewer trustees, custodian or officer of the beneficial
+owner which is a charitable entity, benefit plan or custody account for the
+benefit of a minor; (ii) with respect to certain Interests owned by members of
+a person s immediate family; or (iii) through a self directed benefit plan.  
+
+27  
+
+$1,140,619 in profit share
+to the New Profits Memo Account for the year ended  December 31, 2005. The General Partner s
+general partner interest showed an allocation of income of $311,043 for the
+year ended December 31, 2005. The General Partner has paid certain
+administrative expenses to third-parties on behalf of the Partnership, related
+to legal, accounting, auditing, printing, postage and similar administrative
+expenses, and has been or will be reimbursed without interest by the
+Partnership. The Partnership pays administrative expenses for legal, audit and
+accounting services, up to 0.25 of 1% per annum of the Partnership s average
+month-end net assets. A portion of such expenses are paid to an affiliate of
+the General Partner, The Millburn Corporation, for the provision of accounting
+services to the Partnership. The Partnership incurred administrative expenses
+of $460,610 during the year ended 2005 of which $317,619 was paid or was
+payable to The Millburn Corporation. The General Partner pays all
+administrative expenses in excess of 0.25 of 1% per annum of the Partnership s
+average month-end net assets. The Partnership is prohibited from making any
+loans.  
+
+Item
+14.    Principal Accountant Fees and Services   
+
+(1)            Audit Fees   
+
+The
+aggregate fees for professional services rendered by Deloitte   Touche LLP
+in connection with their audit of the Partnership s financial statements in
+connection with the statutory and regulatory filings for the years ended
+December 31, 2005 and 2004 were approximately $39,600 and $30,000,
+respectively.  
+
+The
+aggregate fees for professional services rendered by Ernst   Young LLP in
+connection with their reviews of the financial statements included in the
+quarterly reports on Form 10-Q and in connection with the statutory and
+regulatory filings for the year ended December 31, 2004 was approximately
+$20,167.  
+
+(2)            Audit-Related Fees   
+
+There
+were no fees for assurance and related services rendered by Deloitte  
+Touche LLP or Ernst   Young LLP for the years ended December 31, 2005 and 2004.  
+
+(3)            Tax Fees   
+
+The
+aggregate fees for professional services rendered by Deloitte   Touche LLP
+for tax compliance, advice or planning services rendered by Deloitte  
+Touche LLP for the benefit of the Partnership for the years ended December 31, 2005
+and 2004 were approximately $10,000 and $7,353, respectively.  
+
+(4)            All Other Fees   
+
+None  
+
+(5)            Pre-Approval Policies   
+
+The
+board of directors of the General Partner pre-approves the engagement of the
+Partnership s auditor for all services to be provided by the auditor.  
+
+PART IV  
+
+Item
+15.    Exhibits
+and Financial Statement Schedules   
+
+(a)(1)    Financial Statements   
+
+The following are
+included with the 2005 Report of Independent Registered Public Accounting Firm,
+a copy of which is filed herewith as Exhibit 13.01.  
+
+28  
+
+Affirmation
+of Millburn Ridgefield Corporation  
+
+  Report
+of Independent Registered Public Accounting Firm  
+
+  Statements
+of Financial Condition  
+
+  Condensed
+Schedules of Investments  
+
+  Statements
+of Operations  
+
+  Statements
+of Changes in Partners  Capital  
+
+  Statements
+of Financial Highlights  
+
+  Notes
+to Financial Statements  
+
+(a)(2)    Financial Statement Schedules   
+
+All
+Schedules are omitted for the reason that they are not required or are not
+applicable because equivalent information has been included in the financial
+statements or the notes thereto.  
+
+(a)(3)    Exhibits as required by Item 601 of Regulation S-K   
+
+The
+following exhibits are included herewith.  
+
+The following exhibits were filed by the Partnership
+as a part of its Registration Statement on Form 10 (Reg. No. 000-50725) on
+April 29, 2004 and are incorporated herein by reference.  
+
+Exhibit Number   
+
+Description
+  of Document   
+
+3.01  
+
+Amended and Restated Certificate of Limited
+  Partnership of Nestor Partners  
+
+4.01  
+
+Amended and Restated Agreement of Limited
+  Partnership of Nestor Partners  
+
+10.01  
+
+Form of ISDA Master Agreement and Credit Support
+  Annex  
+
+10.02  
+
+ISDA Master Agreement, Schedule, and Credit Support
+  Annex between Nestor Partners and Merrill Lynch International Bank Limited  
+
+10.03  
+
+ISDA Master Agreement, Schedule, and Credit Support
+  Annex between Nestor Partners and Dresdner Bank A.G.  
+
+10.04(a)  
+
+Foreign Exchange Customer Agreement between Nestor
+  Partners and Morgan Stanley   Co. Incorporated  
+
+29  
+
+Exhibit Number   
+
+Description
+  of Document   
+
+10.04(b)  
+
+Customer Agreement Foreign Currency Option
+  Transactions between Nestor Partners and Morgan Stanley Capital Group Inc.  
+
+10.05  
+
+International Foreign Exchange and Options Master
+  Agreement between Deutsche Bank AG and Nestor Partners  
+
+10.06  
+
+Acknowledgement of Separate Risk Disclosure
+  Statements and Customer Agreement between Merrill Lynch Futures Inc. and
+  Nestor Partners  
+
+10.07  
+
+Customer Agreement between Warburg Dillon Reed LLC
+  and Nestor Partners  
+
+10.08  
+
+Futures and Options Agreement for Institutional
+  Customers between Deutsche Morgan Grenfell Inc. and Nestor Partners  
+
+30  
+
+SIGNATURES  
+
+Pursuant
+to the requirements of Section 13 or 15(d) of the Securities Exchange Act
+of 1934, the Registrant has duly caused this report to be signed on its behalf
+by the undersigned, thereunto duly authorized, on the 30 th  day of
+March, 2006.  
+
+NESTOR PARTNERS  
+
+By:  
+
+Millburn
+  Ridgefield Corporation,  
+
+General Partner  
+
+By:  
+
+/s/ Harvey Beker  
+
+Harvey Beker  
+
+Co-Chief
+  Executive Officer  
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, this report has
+been signed below by the following persons on behalf of the General Partner of
+the Registrant in the capacities and on the date indicated.  
+
+Signature   
+
+Title with 
+  General Partner   
+
+Date   
+
+/s/ Harvey Beker  
+
+Co-Chief  
+
+March 30,
+  2006  
+
+Harvey Beker  
+
+Executive
+  Officer and Director  
+
+(Principal
+  Executive Officer)  
+
+/s/ George E. Crapple  
+
+Co-Chief Executive  
+
+March 30, 2006  
+
+George E.
+  Crapple  
+
+Officer and
+  Director  
+
+(Principal
+  Executive Officer)  
+
+/s/ Gregg
+  Buckbinder  
+
+Chief Financial
+  and Operating Officer  
+
+March 30,
+  2006  
+
+Gregg Buckbinder  
+
+(Principal
+  Financial Officer)  
+
+/s/ Tod A. Tanis  
+
+Vice President  
+
+March 30, 2006  
+
+Tod A. Tanis  
+
+(Principal
+  Accounting Officer)  
+
+(Being
+the principal executive officers, the principal financial officer and principal
+accounting officer, and a majority of the directors of Millburn Ridgefield
+Corporation)  
+
+Millburn Ridgefield
+Corporation  
+
+  General Partner of
+Registrant  
+
+  March 30, 2006  
+
+By  
+
+/s/ Harvey Beker  
+
+Harvey Beker  
+
+Co-Chief
+  Executive Officer  
+
+31  
+
+EXHIBIT INDEX  
+
+The
+following exhibits are included herewith.  
+
+The following exhibits were filed by the Partnership
+as a part of its Registration Statement on Form 10 (Reg. No. 000-50725) on
+April 29, 2004 and are incorporated herein by reference.  
+
+Exhibit Number   
+
+Description
+  of Document   
+
+3.01  
+
+Amended and Restated Certificate of Limited
+  Partnership of Nestor Partners  
+
+4.01  
+
+Amended and Restated Agreement of Limited
+  Partnership of Nestor Partners  
+
+10.01  
+
+Form of ISDA Master Agreement and Credit Support
+  Annex  
+
+10.02  
+
+ISDA Master Agreement, Schedule, and Credit Support
+  Annex between Nestor Partners and Merrill Lynch International Bank Limited  
+
+10.03  
+
+ISDA Master Agreement, Schedule, and Credit Support
+  Annex between Nestor Partners and Dresdner Bank A.G.  
+
+10.04(a)  
+
+Foreign Exchange Customer Agreement between Nestor
+  Partners and Morgan Stanley   Co. Incorporated  
+
+10.04(b)  
+
+Customer Agreement Foreign Currency Option
+  Transactions between Nestor Partners and Morgan Stanley Capital Group Inc.  
+
+10.05  
+
+International Foreign Exchange and Options Master
+  Agreement between Deutsche Bank AG and Nestor Partners  
+
+10.06  
+
+Acknowledgement of Separate Risk Disclosure
+  Statements and Customer Agreement between Merrill Lynch Futures Inc. and
+  Nestor Partners  
+
+10.07  
+
+Customer Agreement between Warburg Dillon Reed LLC
+  and Nestor Partners  
+
+10.08  
+
+Futures and Options Agreement for Institutional
+  Customers between Deutsche Morgan Grenfell Inc. and Nestor Partners  
+
+32  
+
+<EX-13.01>
+ 2
+ a06-2168_1ex13d01.htm
+ REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+Exhibit 13.01   
+
+Nestor Partners    
+
+Financial
+Statements for the Years Ended December 31, 2005, 2004 and 2003 and Report
+of Independent Registered Public Accounting Firm   
+
+NESTOR PARTNERS   
+
+TABLE OF CONTENTS   
+
+AFFIRMATION OF MILLBURN
+RIDGEFIELD CORPORATION   
+
+In
+compliance with the Commodity Futures Trading Commission s regulations, I
+hereby affirm that to the best of my knowledge and belief, the information
+contained in the statements of financial condition of Nestor Partners at
+December 31, 2005 and 2004, including the condensed schedules of
+investments, and the related statements of operations, changes in partners 
+capital and financial highlights for the years ended December 31, 2005,
+2004 and 2003 are complete and accurate.  
+
+George
+E. Crapple, Co-Chief Executive Officer 
+Millburn Ridgefield Corporation 
+General Partner of Nestor Partners  
+
+REPORT
+OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM   
+
+To the
+Partners of  
+Nestor Partners:  
+
+We
+have audited the accompanying statements of financial condition of Nestor
+Partners (the  Partnership ) as of December 31, 2005 and 2004,
+including the condensed schedules of investments, and the related statements of
+operations, changes in partners  capital and financial highlights for the years
+then ended. These financial statements and financial highlights are the
+responsibility of the Partnership s management. Our responsibility is to
+express an opinion on these financial statements and financial highlights based
+on our audits. The financial statements and financial highlights for the year
+ended December 31, 2003 were audited by other auditors whose report dated
+February 17, 2004 expressed an unqualified opinion on those statements.  
+
+We
+conducted our audits in accordance with the standards of the Public Company
+Accounting Oversight Board (United States). Those standards require that we
+plan and perform the audit to obtain reasonable assurance about whether the
+financial statements and financial highlights are free of material
+misstatement. The Partnership is not required to have, nor were we engaged to
+perform, an audit of its internal control over financial reporting. Our audits
+included consideration of internal control over financial reporting as a basis
+for designing audit procedures that are appropriate in the circumstances, but
+not for the purpose of expressing an opinion on the effectiveness of the
+Partnership s internal control over financial reporting. Accordingly, we
+express no such opinion. An audit also includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the financial statements and
+financial highlights, assessing the accounting principles used and significant
+estimates made by management, as well as evaluating the overall financial
+statement presentation. We believe that our audits provide a reasonable basis
+for our opinion.  
+
+In our
+opinion, the financial statements and financial highlights referred to above
+present fairly, in all material respects, the financial position of Nestor
+Partners at December 31, 2005 and 2004, and the results of its operations,
+changes in partners  capital and financial highlights for the years then ended
+in conformity with accounting principles generally accepted in the United
+States of America.  
+
+Deloitte
+  Touche LLP  
+
+  New
+York, New York  
+
+  February
+27, 2006  
+
+NESTOR PARTNERS   
+
+STATEMENTS OF FINANCIAL CONDITION   
+
+   AT DECEMBER 31, 2005 AND 2004   
+
+See notes to
+financial statements.  
+
+2  
+
+NESTOR PARTNERS   
+
+CONDENSED SCHEDULE OF INVESTMENTS   
+
+   AT DECEMBER 31, 2005   
+
+(Continued)  
+
+3  
+
+NESTOR PARTNERS   
+
+CONDENSED SCHEDULE OF INVESTMENTS   
+
+   AT DECEMBER 31, 2005   
+
+U.S. TREASURY NOTES   
+
+(Concluded)  
+
+See notes to financial statements.  
+
+4  
+
+NESTOR PARTNERS   
+
+CONDENSED SCHEDULE OF INVESTMENTS   
+
+   AT DECEMBER 31, 2004   
+
+(Continued)  
+
+5  
+
+NESTOR PARTNERS   
+
+CONDENSED SCHEDULE OF INVESTMENTS   
+
+   AT DECEMBER 31, 2004   
+
+U.S. TREASURY NOTES   
+
+(Concluded)  
+
+See notes to financial statements.  
+
+6  
+
+NESTOR PARTNERS   
+
+STATEMENTS
+OF OPERATIONS   
+
+   FOR THE
+YEARS ENDED DECEMBER 31, 2005, 2004 AND 2003   
+
+See notes to
+financial statements.  
+
+7  
+
+NESTOR PARTNERS   
+
+STATEMENTS OF CHANGES IN PARTNERS  CAPITAL   
+
+   FOR THE YEARS ENDED DECEMBER 31, 2005, 2004 AND 2003   
+
+See notes to
+financial statements.  
+
+8  
+
+NESTOR PARTNERS   
+
+STATEMENTS OF FINANCIAL HIGHLIGHTS   
+
+   FOR THE YEARS ENDED DECEMBER 31, 2005, 2004 AND 2003   
+
+See notes to
+financial statements.  
+
+9  
+
+NESTOR PARTNERS   
+
+NOTES TO FINANCIAL STATEMENTS   
+
+   YEARS ENDED DECEMBER 31, 2005, 2004 AND 2003   
+
+1.                           ORGANIZATION OF THE PARTNERSHIP  
+
+Nestor Partners (the  Partnership )
+is a limited partnership, which was organized in 1976 under the New Jersey
+Uniform Limited Partnership Act. The Limited Partnership Agreement (the  Agreement )
+was amended and restated as of April 5, 2004. The Partnership engages in
+the speculative trading of futures and forward currency contracts. The
+instruments that are traded by the Partnership are volatile and involve a high
+degree of market risk.  
+
+The General Partner of
+the Partnership is Millburn Ridgefield Corporation (the  General Partner ).
+Principals, employees, former employees, and other affiliates of the General
+Partner have invested in the Partnership as special limited partners.  
+
+The Agreement provides
+that subject to certain limitations, the General Partner shall conduct and
+manage the business of the Partnership. The General Partner has the right to
+make all investment decisions regarding the Partnership, authorize the payments
+of distributions to partners, enter into customer agreements with brokers, and
+take such other actions, as it deems necessary or desirable, to manage the
+business of the Partnership.  
+
+The limited partners,
+special limited partners, New Profit Memo Account, and the General Partner
+share in the profits and losses of the Partnership, which are determined before
+brokerage fees (Note 2) and profit share allocations on the basis of their
+proportionate interests of Partnership capital (Note 3). No limited
+partner or special limited partner shall be liable for Partnership obligations
+in excess of their capital contribution plus profits allocated to their capital
+accounts, if any. Subject to certain conditions, a partner may withdraw/redeem
+part or all of his capital contribution and undistributed profits, if any, from
+the Partnership as of the end of any month.  
+
+The General Partner,
+subject to Commodity Futures Trading Commission requirements, may (at its
+discretion) sell additional Limited Partnership Interests to persons desiring
+to become limited partners.  
+
+The Partnership will
+terminate on October 31, 2017, or in the event of certain other
+circumstances, as defined in the Agreement.  
+
+At December 31,
+2003, the number of partners in the Partnership exceeded 500. As a result,
+pursuant to the requirements of Section 12(g) of the Securities Exchange Act of
+1934 (the  Act ), the Partnership filed a registration statement on
+Form 10 with the Securities and Exchange Commission on April 29,
+2004, and became subject to the periodic reporting requirements of the Act.  
+
+10  
+
+2.                           SUMMARY OF SIGNIFICANT ACCOUNTING
+POLICIES  
+
+Investments     The Partnership records its transactions in futures
+and forward currency contracts, including related income and expenses, on a
+trade-date basis.  
+
+Open futures contracts
+are valued at market value and open forward currency contracts are valued at
+fair value which is based on pricing models that consider the time value of
+money and the current market and contractual prices of the underlying financial
+instruments. Realized gains (losses) and changes in unrealized appreciation
+(depreciation) on futures and forward currency contracts are recognized in the
+periods in which the contracts are closed or the changes occur, and are
+included in net realized and unrealized gains (losses) in the statements of
+operations.  
+
+Investments in U.S.
+Treasury notes are valued at the market value based on bid quotations reported
+daily in The Wall Street Journal. The Partnership amortizes premiums and
+accretes discounts on U.S. Treasury notes using the effective interest method.
+Such securities are normally on deposit with financial institutions as
+collateral for performance of the Partnership s trading obligations with
+respect to derivative contracts and are held for safekeeping in a custody
+account.  
+
+Foreign Currency Translation     Assets and liabilities denominated in
+foreign currencies are translated at quoted prices of such currencies.
+Purchases and sales of investments are translated at the exchange rate
+prevailing when such transactions occurred.  
+
+Brokerage Fees     The Agreement provides that the Partnership shall
+charge the limited partners  capital accounts and pay the General Partner
+brokerage fees at a fixed rate of 0.542% per month of net asset value (6.5% per
+annum) of limited partnership interests. Effective July 1, 2003, the
+General Partner reduced the brokerage fee rate to 0.458% per month of net asset
+value (5.5% per annum). The General Partner retains the right to charge less
+than the annual brokerage rate except as specified in the Agreement. The
+General Partner bears all commission and clearing charges due to third-party
+brokers.  
+
+Administrative Expenses     The Partnership bears expenses, including periodic
+legal, accounting and filing fees, up to an amount equal to   of 1% per annum of
+the average net assets of the Partnership. The General Partner bears any excess
+over such amounts. The Partnership will pay any extraordinary expenses
+applicable to it.  
+
+The Partnership s
+administrative expenses included $317,619, $263,807 and $321,361 in 2005, 2004
+and 2003, respectively, which relates to legal and accounting services provided
+to the Partnership by an affiliate of the General Partner.  
+
+Income Taxes     Income taxes have not been provided, as partners are
+individually liable for the taxes, if any, on their share of the Partnership s
+income and expenses.  
+
+Fair Value of Financial Instruments     The fair value of the Partnership s
+assets and liabilities, which qualify as financial instruments under Statement
+of Financial Accounting Standards   ( SFAS )   No. 107,   Disclosures about Fair Value of Financial Instruments  ,
+approximates the carrying amounts presented in the statements of financial
+condition.  
+
+11  
+
+Estimates     The preparation of financial statements in conformity
+with accounting principles generally accepted in the United States requires
+management to make estimates and assumptions that affect the amounts and
+disclosures reported in the financial statements. Actual results could differ
+from these estimates.  
+
+Right of Offset     The customer agreements between the Partnership and
+its brokers give the Partnership the legal right to net unrealized gains and
+losses. Unrealized gains and losses related to offsetting transactions with
+these brokers are reflected on a net basis in the equity in trading accounts in
+the statements of financial condition.  
+
+3.                           PROFIT SHARE ALLOCATION  
+
+The Agreement provides
+that the General Partner s profit share equal to 20% of Trading Profits (as
+defined in the Agreement) at the end of each year is charged to the limited
+partners  capital accounts. However, for limited partners  withdrawals during
+the year, the profit share calculation shall be computed as though the
+withdrawal date was at year end.  
+
+Any profit share charged
+is added to the General Partner s capital account to the extent net taxable
+capital gains are allocated to the General Partner, and the remainder, if any,
+of such profit share is added to the New Profit Memo Account. The General
+Partner may not make any withdrawal from the balance in the New Profit Memo
+Account. If, at the end of a subsequent year, net taxable gains are allocated
+to the General Partner in excess of such year s profit share, a corresponding
+amount is transferred from the New Profit memo account to the General Partner s
+capital account.  
+
+4.                           DUE FROM/TO BROKERS  
+
+At December 31, 2005
+and 2004, the due from brokers balance in the statements of financial condition
+includes cash receivable from brokers.  
+
+5.                           TRADING ACTIVITIES  
+
+The Partnership conducts
+its trading activities with various brokers acting either as a broker or
+counterparty to various transactions. At December 31, 2005 and 2004, cash,
+due from brokers and Treasury notes aggregating $69,658,449, and $55,211,679,
+respectively, included in the Partnership s equity in trading accounts, were
+held by such brokers in segregated accounts as collateral as required by U.S.
+Commodity Futures Trading Commission s regulations or by the counterparty bank
+or broker. Such collateral can be sold or repledged by the counterparties, at
+their discretion.  
+
+The
+Partnership enters into contracts with various financial institutions that
+contain a variety of indemnifications. The Partnership s maximum exposure under
+these arrangements is unknown. However, the Partnership has not had prior
+claims or losses pursuant to these contracts and expects the risk of loss to be
+remote.  
+
+12  
+
+6.                           DERIVATIVE INSTRUMENTS  
+
+The Partnership is party
+to derivative financial instruments in the normal course of its business. These
+financial instruments include futures and forward currency contracts which may
+be traded on an exchange ( exchange-traded contracts ) or over-the-counter ( OTC
+contracts ).  
+
+The Partnership records
+its derivative activities on a mark-to-market basis as described in
+Note 2. For OTC contracts, the Partnership enters into master netting
+agreements with its counterparties. Therefore, assets represent the Partnership s
+unrealized gains, less unrealized losses for OTC contracts in which the
+Partnership has a master netting agreement. Similarly, liabilities represent
+net amounts owed to counterparties on OTC contracts.  
+
+Futures contracts are
+agreements to buy or sell an underlying asset or index for a set price in the
+future. Initial margin deposits are made upon entering into futures contracts
+and can be either in cash or treasury securities. Open futures contracts are
+revalued on a daily basis to reflect the market value of the contracts at the
+end of each trading day. Variation margin payments are received or made,
+depending upon whether unrealized gains or losses are incurred. When the
+contract is closed, the Partnership records a realized gain or loss equal to
+the difference between the value of the contract at the time it was opened and
+the time it was closed. The Partnership bears the market risk that arises from
+changes in the value of these financial instruments.  
+
+Forward currency
+contracts entered into by the Partnership represent a firm commitment to buy or
+sell an underlying currency at a specified value and point in time based upon
+an agreed or contracted quantity. The ultimate gain or loss is equal to the
+difference between the value of the contract at the onset and the value of the
+contract at settlement date.  
+
+Each of these financial
+instruments is subject to various risks similar to those related to the
+underlying financial instruments, including market risk, credit risk,
+concentration risk, and sovereign risk.  
+
+Market risk is the
+potential change in the value of the instruments traded by the Partnership due
+to market changes, including interest and foreign exchange rate movements and
+fluctuations in futures or security prices. Market risk is directly impacted by
+the volatility and liquidity in the markets in which the related underlying
+assets are traded. The financial instruments traded by the Partnership contain
+varying degrees of off-balance sheet risk whereby changes in the market values
+of the futures and forward currency contracts underlying the financial instruments
+or the Partnership s satisfaction of the obligations may exceed the amount
+recognized in the statements of financial condition.  
+
+Credit risk is the
+possibility that a loss may occur due to the failure of a counterparty to
+perform according to the terms of a contract. Credit risk is normally reduced
+to the extent that an exchange or clearing organization acts as a counterparty
+to futures transactions, since typically the collective credit of the members
+of the exchange is pledged to support the financial integrity of the exchange.
+In the case of OTC transactions, the Partnership  
+
+13  
+
+must rely solely on the
+credit of the individual counterparties. The contract amounts of the forward
+currency and futures contracts do not represent the Partnership s risk of loss
+due to counterparty nonperformance. The Partnership s exposure to credit risk
+associated with counterparty nonperformance of these contracts is limited to
+the unrealized gains inherent in such contracts, which are recognized in the
+statements of financial condition, plus the value of margin or collateral held
+by the counterparty. The amount of such credit risk was $43,906,779 and
+$35,013,195 at December 31, 2005 and 2004, respectively.  
+
+The General Partner has
+established procedures to actively monitor market risk and minimize credit
+risk, although there can be no assurance that it will, in fact succeed in doing
+so. The General Partner s market risk control procedures include
+diversification of the Partnership s portfolio and continuously monitoring the
+portfolio s open positions, historical volatility and maximum historical loss.
+The General Partner seeks to minimize credit risk primarily by depositing and
+maintaining the Partnership s assets at financial institutions and brokers
+which the General Partner believes to be creditworthy. The Partnership s
+trading activities are primarily with brokers and other financial institutions
+located in North America, Europe and Asia. All futures transactions of the Partnership
+are cleared by major securities firms pursuant to customer agreements. For all
+forward currency transactions, the Partnership utilizes a single clearing
+broker which is a major financial institution.  
+
+14  
+
+The Partnership is
+subject to sovereign risk such as the risk of restrictions being imposed by
+foreign governments on the repatriation of cash and the effects of political or
+economic uncertainties. Net unrealized appreciation (depreciation) on futures
+and forward currency contracts are denominated in the functional currency. Cash
+settlement of futures and forward currency contracts is made in the local
+currency (settlement currency) and then translated to the functional currency
+(U.S. Dollar).  
+
+Net unrealized
+appreciation (depreciation) on futures and forward currency contracts by
+settlement currency type, denominated in the functional currency, is detailed
+below:  
+
+7.                           FINANCIAL HIGHLIGHTS  
+
+The ratios are calculated
+based on limited partners  capital and special limited partners  capital taken
+as a whole. The computation of such ratios based on the amount of expenses and
+profit share allocation assessed to an individual partner s capital account may
+vary from these ratios based on the timing of capital transactions and
+differences in individual partner s brokerage fees and profit share allocation
+arrangements.  
+
+Returns are calculated
+for limited partners and special limited partners taken as a whole. An
+individual partner s returns may vary from these returns based on the timing of
+capital transactions and differences in individual partners  brokerage fees and
+profit share allocation arrangements.  
+
+* * * *
+* *  
+
+15  
+
+</EX-13.01>
+
+<EX-13.02>
+ 3
+ a06-2168_1ex13d02.htm
+ REPORT OF INDEPENDENT AUDITORS
+
+Exhibit
+13.02   
+
+Report of Independent
+Auditors  
+
+To the Partners of  
+
+  Nestor Partners  
+
+We have audited the
+accompanying statements of financial condition of Nestor Partners (the  Partnership ),
+as of December 31, 2003 and 2002, including the condensed schedules of
+investments, and the related statements of operations, changes in partners 
+capital and financial highlights for the years then ended. These financial
+statements and financial highlights are the responsibility of the Partnership s
+management. Our responsibility is to express an opinion on these financial
+statements and financial highlights based on our audits.  
+
+We conducted our audits
+in accordance with auditing standards generally accepted in the United States. Those
+standards require that we plan and perform the audit to obtain reasonable
+assurance about whether the financial statements and financial highlights are
+free of material misstatement. An audit includes examining, on a test basis,
+evidence supporting the amounts and disclosures in the financial statements and
+financial highlights. An audit also includes assessing the accounting
+principles used and significant estimates made by management, as well as
+evaluating the overall financial statement presentation. We believe that our
+audits provide a reasonable basis for our opinion.  
+
+In our opinion, the
+financial statements and financial highlights referred to above present fairly,
+in all material respects, the financial position of Nestor Partners at December
+31, 2003 and 2002, and the results of its operations, changes in partners 
+capital and financial highlights for the years then ended in conformity with
+accounting principles generally accepted in the United States.  
+
+</EX-13.02>
+
+<EX-31.1>
+ 4
+ a06-2168_1ex31d1.htm
+ 302 CERTIFICATION
+
+Exhibit
+31.1   
+
+CERTIFICATION OF
+PRINCIPAL EXECUTIVE OFFICER  
+
+I, George E. Crapple,
+Co-Chief Executive Officer of Millburn Ridgefield Corporation, the General
+Partner of Nestor Partners (the  Partnership ), do hereby certify that:  
+
+1. I have reviewed this
+annual report on Form 10-K of the Partnership;  
+
+2. Based on my knowledge,
+this annual report does not contain any untrue statement of a material fact or
+omit to state a material fact necessary to make the statements made, in light
+of the circumstances under which such statements were made, not misleading with
+respect to the period covered by this annual report;  
+
+3. Based on my knowledge,
+the financial statements, and other financial information included in this
+annual report, fairly present in all material respects the financial condition,
+results of operations and cash flows of the Partnership as of, and for, the
+periods presented in this annual report;  
+
+4. The Partnership s
+other certifying officers and I are responsible for establishing and
+maintaining disclosure controls and procedures (as defined in Exchange Act
+Rules 13a-15(e) and 15d-15(e)) for the Partnership and have:  
+
+(a) designed such
+disclosure controls and procedures, or caused such disclosure controls and
+procedures to be designed under our supervision, to ensure that material
+information relating to the Partnership, including its consolidated
+subsidiaries, is made known to us by others within those entities, particularly
+during the period in which this annual report is being prepared;  
+
+(b) evaluated the
+effectiveness of the Partnership s disclosure controls and procedures presented
+in this annual report our conclusions about the effectiveness of the disclosure
+controls and procedures, as of the end of the period covered by this report
+based on such evaluation;  
+
+(c) disclosed in this
+report any change in the Partnership s internal control over financial
+reporting that occurred during the Partnership s most recent fiscal quarter
+(the Partnership s fourth fiscal quarter in the case of this annual report)
+that has materially affected, or is reasonably likely to materially affect, the
+Partnership s internal control over financial reporting.  
+
+5. The Partnership s
+other certifying officers and I have disclosed, based on our most recent
+evaluation of internal control over financial reporting, to the Partnership s
+auditors and the audit committee of the Partnership s board of directors (or
+persons performing the equivalent functions):  
+
+(a) all significant
+deficiencies and material weaknesses in the design or operation of internal
+controls over financial reporting which are reasonably likely to adversely
+affect the Partnership s ability to record, process, summarize and report
+financial information; and  
+
+(b) any fraud, whether or
+not material, that involves management or other employees who have a
+significant role in the Partnership s internal controls over financial
+reporting.  
+
+By:  
+
+/s/ George E. Crapple  
+
+George E. Crapple  
+
+Co-Chief Executive
+  Officer  
+
+March 30, 2006  
+
+</EX-31.1>
+
+<EX-31.2>
+ 5
+ a06-2168_1ex31d2.htm
+ 302 CERTIFICATION
+
+Exhibit
+31.2   
+
+CERTIFICATION OF
+PRINCIPAL EXECUTIVE OFFICER  
+
+I, Harvey Beker, Co-Chief
+Executive Officer of Millburn Ridgefield Corporation, the General Partner of
+Nestor Partners (the  Partnership ), do hereby certify that:  
+
+1. I have reviewed this
+annual report on Form 10-K of the Partnership;  
+
+2. Based on my knowledge,
+this annual report does not contain any untrue statement of a material fact or
+omit to state a material fact necessary to make the statements made, in light
+of the circumstances under which such statements were made, not misleading with
+respect to the period covered by this annual report;  
+
+3. Based on my knowledge,
+the financial statements, and other financial information included in this
+annual report, fairly present in all material respects the financial condition,
+results of operations and cash flows of the Partnership as of, and for, the
+periods presented in this annual report;  
+
+4. The Partnership s
+other certifying officers and I are responsible for establishing and
+maintaining disclosure controls and procedures (as defined in Exchange Act
+Rules 13a-15(e) and 15d-15(e)) for the Partnership and have:  
+
+(a) designed such
+disclosure controls and procedures, or caused such disclosure controls and
+procedures to be designed under our supervision, to ensure that material
+information relating to the Partnership, including its consolidated
+subsidiaries, is made known to us by others within those entities, particularly
+during the period in which this annual report is being prepared;  
+
+(b) evaluated the
+effectiveness of the Partnership s disclosure controls and procedures presented
+in this annual report our conclusions about the effectiveness of the disclosure
+controls and procedures, as of the end of the period covered by this report
+based on such evaluation;  
+
+(c) disclosed in this
+report any change in the Partnership s internal control over financial
+reporting that occurred during the Partnership s most recent fiscal quarter
+(the Partnership s fourth fiscal quarter in the case of this annual report) that
+has materially affected, or is reasonably likely to materially affect, the
+Partnership s internal control over financial reporting.  
+
+5. The Partnership s
+other certifying officers and I have disclosed, based on our most recent
+evaluation of internal control over financial reporting, to the Partnership s
+auditors and the audit committee of the Partnership s board of directors (or
+persons performing the equivalent functions):  
+
+(a) all significant
+deficiencies and material weaknesses in the design or operation of internal
+controls over financial reporting which are reasonably likely to adversely
+affect the Partnership s ability to record, process, summarize and report
+financial information; and  
+
+(b) any fraud, whether or
+not material, that involves management or other employees who have a
+significant role in the Partnership s internal controls over financial
+reporting.  
+
+</EX-31.2>
+
+<EX-31.3>
+ 6
+ a06-2168_1ex31d3.htm
+ 302 CERTIFICATION
+
+Exhibit
+31.3   
+
+CERTIFICATION OF
+PRINCIPAL FINANCIAL OFFICER  
+
+I, Gregg Buckbinder,
+Chief Financial and Operating Officer and principal financial officer of
+Millburn Ridgefield Corporation, the  
+General Partner of Nestor Partners (the  Partnership ), do hereby certify that:  
+
+1. I have reviewed this
+annual report on Form 10-K of the Partnership;  
+
+2. Based on my knowledge,
+this annual report does not contain any untrue statement of a material fact or
+omit to state a material fact necessary to make the statements made, in light
+of the circumstances under which such statements were made, not misleading with
+respect to the period covered by this annual report;  
+
+3. Based on my knowledge,
+the financial statements, and other financial information included in this
+annual report, fairly present in all material respects the financial condition,
+results of operations and cash flows of the Partnership as of, and for, the
+periods presented in this annual report;  
+
+4. The Partnership s
+other certifying officers and I are responsible for establishing and
+maintaining disclosure controls and procedures (as defined in Exchange Act
+Rules 13a-15(e) and 15d-15(e)) for the Partnership and have:  
+
+(a) designed such
+disclosure controls and procedures, or caused such disclosure controls and
+procedures to be designed under our supervision, to ensure that material
+information relating to the Partnership, including its consolidated
+subsidiaries, is made known to us by others within those entities, particularly
+during the period in which this annual report is being prepared;  
+
+(b) evaluated the
+effectiveness of the Partnership s disclosure controls and procedures presented
+in this annual report our conclusions about the effectiveness of the disclosure
+controls and procedures, as of the end of the period covered by this report
+based on such evaluation;  
+
+(c) disclosed in this
+report any change in the Partnership s internal control over financial
+reporting that occurred during the Partnership s most recent fiscal quarter
+(the Partnership s fourth fiscal quarter in the case of this annual report)
+that has materially affected, or is reasonably likely to materially affect, the
+Partnership s internal control over financial reporting.  
+
+5. The Partnership s
+other certifying officers and I have disclosed, based on our most recent
+evaluation of internal control over financial reporting, to the Partnership s
+auditors and the audit committee of the Partnership s board of directors (or
+persons performing the equivalent functions):  
+
+(a) all significant
+deficiencies and material weaknesses in the design or operation of internal
+controls over financial reporting which are reasonably likely to adversely
+affect the Partnership s ability to record, process, summarize and report
+financial information; and  
+
+(b) any fraud, whether or
+not material, that involves management or other employees who have a
+significant role in the Partnership s internal controls over financial
+reporting.  
+
+By:  
+
+/s/ Gregg Buckbinder  
+
+Gregg Buckbinder  
+
+Chief Financial and
+  Operating Officer  
+
+March 30, 2006  
+
+</EX-31.3>
+
+<EX-32.1>
+ 7
+ a06-2168_1ex32d1.htm
+ 906 CERTIFICATION
+
+Exhibit
+32.1   
+
+CERTIFICATION PURSUANT TO SECTION 1350 OF
+CHAPTER 63 OF TITLE 18 OF THE UNITED STATES CODE  
+
+I,
+George E. Crapple, the Co-Chief Executive Officer of Millburn Ridgefield
+Corporation, the General Partner of Nestor Partners (the  Partnership ), certify
+that (i) the Annual Report of the Partnership on Form 10-K for the period
+ending December 31, 2005 fully complies with the requirements of Section 13(a)
+or 15(d) of the Securities Exchange Act of 1934 and (ii) the information
+contained in such Annual Report fairly presents, in all material respects, the
+financial condition and results of operations of the Partnership.  
+
+Date:
+
+March
+  30, 2006  
+
+/s/  
+
+George
+  E. Crapple  
+
+George
+  E. Crapple  
+
+Co-Chief
+  Executive Officer  
+
+</EX-32.1>
+
+<EX-32.2>
+ 8
+ a06-2168_1ex32d2.htm
+ 906 CERTIFICATION
+
+Exhibit 32.2   
+
+CERTIFICATION PURSUANT TO SECTION 1350 OF
+CHAPTER 63 OF TITLE 18 OF THE UNITED STATES CODE  
+
+I,
+Harvey Beker, the Co-Chief Executive Officer of Millburn Ridgefield
+Corporation, the General Partner of Nestor Partners (the  Partnership ), certify
+that (i) the Annual Report of the Partnership on Form 10-K for the period
+ending December 31, 2005 fully complies with the requirements of Section 13(a)
+or 15(d) of the Securities Exchange Act of 1934 and (ii) the information
+contained in such Annual Report fairly presents, in all material respects, the
+financial condition and results of operations of the Partnership.  
+
+Date:
+
+March
+  30, 2006  
+
+/s/
+  Harvey Beker  
+
+Harvey
+  Beker  
+
+Co-Chief
+  Executive Officer  
+
+</EX-32.2>
+
+<EX-32.3>
+ 9
+ a06-2168_1ex32d3.htm
+ 906 CERTIFICATION
+
+Exhibit 32.3   
+
+CERTIFICATION PURSUANT TO SECTION 1350 OF
+CHAPTER 63 OF TITLE 18 OF THE UNITED STATES CODE  
+
+I,
+Gregg Buckbinder, the Chief Financial and Operating Officer and principal
+financial officer of Millburn Ridgefield Corporation, the General Partner of
+Nestor Partners (the  Partnership ), certify that (i) the Annual Report of the
+Partnership on Form 10-K for the period ending December 31, 2005 fully complies
+with the requirements of Section 13(a) or 15(d) of the Securities Exchange Act
+of 1934 and (ii) the information contained in such Annual Report fairly
+presents, in all material respects, the financial condition and results of
+operations of the Partnership.  
+
+Date:
+
+March
+  30, 2006  
+
+/s/  
+
+Gregg
+  Buckbinder  
+
+Gregg
+  Buckbinder  
+
+Chief
+  Financial and Operating Officer  
+
+</EX-32.3>
+

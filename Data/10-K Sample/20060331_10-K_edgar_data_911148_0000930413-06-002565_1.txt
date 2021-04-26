@@ -1,0 +1,3299 @@
+<Header>
+<FileStats>
+    <FileName>20060331_10-K_edgar_data_911148_0000930413-06-002565_1.txt</FileName>
+    <GrossFileSize>207298</GrossFileSize>
+    <NetFileSize>177852</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>742</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>13</N_Tables>
+    <N_Exhibits>5</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000930413-06-002565.hdr.sgml : 20060331
+<ACCEPTANCE-DATETIME>20060331101659
+ACCESSION NUMBER:		0000930413-06-002565
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		6
+CONFORMED PERIOD OF REPORT:	20051231
+FILED AS OF DATE:		20060331
+DATE AS OF CHANGE:		20060331
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CADUS CORP
+		CENTRAL INDEX KEY:			0000911148
+		STANDARD INDUSTRIAL CLASSIFICATION:	BIOLOGICAL PRODUCTS (NO DIAGNOSTIC SUBSTANCES) [2836]
+		IRS NUMBER:				133660391
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-28674
+		FILM NUMBER:		06725749
+
+	BUSINESS ADDRESS:	
+		STREET 1:		767 FIFTH AVE
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10153
+		BUSINESS PHONE:		2127024367
+
+	MAIL ADDRESS:	
+		STREET 1:		777 OLD SAW MILL RIVER ROAD
+		CITY:			TARRYTOWN
+		STATE:			NY
+		ZIP:			10591-6705
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ CMqhPusm7mZhT8+lC9Kvdi0xnL1qv7vGkjg2x7uHcGWU/YrQ2laEuxChCMShI6DO
+ p5xHmB+C/hN9Xe6kLIRtsw==
+
+ 0000930413-06-002565.txt : 20060331
+
+10-K
+ 1
+ c41676_10k.txt
+
+FORM 10-K
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+|X|   ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+      ACT OF 1934
+
+                   For the fiscal year ended December 31,2005
+
+|_|   TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+      EXCHANGE ACT OF 1934
+
+For the transition period from _______________ to _______________
+
+Commission File Number 0-28674
+
+                                CADUS CORPORATION
+                                -----------------
+             (Exact name of registrant as specified in its charter)
+
+                DELAWARE                                  13-3660391
+    -------------------------------         ------------------------------------
+    (State or other jurisdiction of         (I.R.S. Employer Identification No.)
+     incorporation or organization)
+
+           767 Fifth Avenue
+          NEW YORK, NEW YORK                                 10153
+- ----------------------------------------                  ----------
+(Address of principal executive offices)                  (Zip Code)
+
+Company's telephone number, including area code: (212) 702-4351
+
+Securities registered pursuant to Section 12(b) of the Act: None
+
+Securities registered pursuant to Section 12(g) of the Act:
+
+                          COMMON STOCK, $0.01 PER SHARE
+                          -----------------------------
+                                (Title of Class)
+
+      Indicate by check mark if the registrant is a well-known seasoned issuer,
+as defined in Rule 405 of the Securities Act of 1933. Yes: |_| No: |X|
+
+      Indicate by check mark if the registrant is not required to file reports
+pursuant to Section 13 or Section 15(d) of the Securities Exchange Act of 1934.
+Yes: |_| No: |X|
+
+      Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes: |X| No: |_|
+
+      Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. |X|
+
+      Indicate by check mark whether the registrant is an accelerated filer (as
+defined in Rule 12b-2 of the Exchange Act). Yes: |_| No: |X|
+
+      Indicate by check mark whether the registrant is a shell company (as
+defined in Rule 12b-2 of the Exchange Act). Yes: |_| No: |X|
+
+      As of June 30, 2005, the aggregate market value of the registrant's voting
+common equity held by non-affiliates was $11,345,514.86.
+
+      Number of shares outstanding of each class of Common Stock, as of March
+15, 2006: 13,144,040 shares.
+
+SPECIAL NOTE REGARDING FORWARD LOOKING STATEMENTS
+
+Certain   statements   in  this   Annual   Report   on  Form   10-K   constitute
+"forward-looking statements" within the meaning of Section 27A of the Securities
+Act of 1933 and Section 21E of the Securities  Exchange Act of 1934, as amended.
+All statements  other than  statements of historical  fact are  "forward-looking
+statements" for purposes of federal and stated  securities  laws,  including any
+projections  or  expectations  of  earnings,   revenue,  financial  performance,
+liquidity and capital  resources or other financial  items; any statement of the
+Company's plans,  strategies and objectives for the Company's future operations;
+any  statements  regarding  future  economic  conditions  or  performance;   any
+statements of belief;  and any  statements of assumption  underlying  any of the
+foregoing.  Forward-looking  statements  may  include the words  "may,"  "will,"
+"should,"  "could," "would,"  "predicts,"  "potential,"  "continue,"  "expects,"
+"anticipates,"  "future," "intends," "plans," "believes,"  "estimates" and other
+similar words. Although the Company believes that the expectations  reflected in
+the Company's  forward-looking  statements are reasonable,  such forward-looking
+statements  involve known and unknown  risks,  uncertainties,  and other factors
+which may cause the actual results,  performance, or achievements of the Company
+to be materially different from any future results,  performance or achievements
+expressed  or implied by such  forward-looking  statements.  Factors  that could
+cause or contribute to such differences  include,  but are not limited to, risks
+and uncertainties  relating to the Company's ability to license its technologies
+to  third  parties,  the  Company's  inability  to  acquire  and  operate  other
+companies,  the Company's  capital needs and uncertainty of future funding,  the
+Company's  history  of  operating  losses,   the   unpredictability   of  patent
+protection, risk of obsolescence of the Company's technologies, as well as other
+risks and uncertainties discussed in the Risk Factors section in Item 1A of this
+Annual Report on Form 10-K. The  forward-looking  statements made in this Annual
+Report on Form 10-K are made only as of the date hereof and the Company does not
+have  or  undertake  any  obligation  to  publicly  update  any  forward-looking
+statements  to  reflect  subsequent  events or  circumstances  unless  otherwise
+required by law.
+
+                                     PART I
+
+ITEM 1. BUSINESS.
+
+GENERAL
+
+      Cadus Corporation  ("Cadus") was incorporated  under the laws of the State
+of Delaware in January 1992 and until July 30, 1999 devoted substantially all of
+its resources to the development and application of novel  yeast-based and other
+drug  discovery  technologies.  On July 30, 1999,  Cadus sold its drug discovery
+assets to OSI  Pharmaceuticals,  Inc.  ("OSI")  and  ceased  its  internal  drug
+discovery operations and research efforts for collaborative partners.
+
+2
+
+Cadus  has  a  wholly  owned   subsidiary,   Cadus   Technologies,   Inc.   (the
+"Subsidiary"),  which holds all patents, patent applications, know how, licenses
+and drug discovery technologies of the Company.
+
+      Cadus and the Subsidiary  (collectively,  the "Company") currently have no
+employees  and  limited  operations.  The  Company is  presently  seeking to (i)
+license  the  Subsidiary's  drug  discovery  technologies,  (ii) engage in joint
+ventures that will utilize the  Subsidiary's  drug  discovery  technologies  and
+(iii) use a portion of their available cash to acquire or invest in companies or
+income  producing  assets.  While  such  companies  or  assets  might  be in the
+biotechnology   or   pharmaceutical   industries,   the  Company  will  consider
+acquisitions or investments in other industries as well.
+
+      Prior to July 30, 1999, Cadus developed several  proprietary  technologies
+that exploit the  similarities  between yeast and human genes to elucidate  gene
+function  and cell  signaling  pathways.  On July 30,  1999,  Cadus sold to OSI,
+pursuant to an asset purchase agreement,  its drug discovery programs focused on
+G Protein-coupled receptors, its directed library of approximately 150,000 small
+molecule   compounds   specifically   designed  for  drug  discovery  in  the  G
+Protein-coupled  receptor arena, its collaboration  with Solvay  Pharmaceuticals
+B.V. ("Solvay Pharmaceuticals").  Pursuant to such sale transaction, Cadus would
+be entitled to royalties  and up to $3.0  million in  milestone  payments on the
+first product derived from compounds sold to OSI or from the collaboration  with
+Solvay  Pharmaceuticals.  To date no such  payments have been received and there
+can be no  assurance  that Cadus will be  entitled  to any such  payments in the
+future.  Cadus  retained  ownership of all its other assets,  including its core
+yeast  technology for developing drug discovery  assays,  its collection of over
+25,000  proprietary  yeast strains,  human and mammalian cell lines, and genetic
+engineering  tools  and its  genomics  databases  related  to G  Protein-coupled
+receptors.  Cadus ceased its drug discovery  operations and research efforts for
+collaborators  as a result of this  transaction.  The  Company's  current  Chief
+Executive Officer is a consultant. See Item 10. Directors and Executive Officers
+of the Company.
+
+      In  February  2000,   Cadus  licensed  its  yeast   technologies  and  its
+bioinformatics software to OSI on a non-exclusive basis. In December 2001, Cadus
+transferred all of its patents, patent applications, know how, licenses and drug
+discovery  technologies  to the  Subsidiary.  In December  2001,  the Subsidiary
+licensed  its  yeast  technologies  to  a  major  pharmaceutical  company  on  a
+non-exclusive  basis. The Subsidiary is seeking to license these technologies to
+other third parties on a non-exclusive  basis.  Three of these  technologies are
+used to identify  small  molecules  that act as agonists or  antagonists to cell
+surface  receptors:  (i)  a  hybrid  yeast  cell  technology  that  expresses  a
+functioning  human  receptor and a portion of its  signaling  pathway in a yeast
+cell, (ii) the Autocrine Peptide Expression  ("Apex(TM)")  system that expresses
+in a hybrid  yeast  cell both a known  human  ligand  and the  receptor  that is
+activated by that ligand and (iii) the Company's  Self  Selecting  Combinatorial
+Library  ("SSCL(TM)")  technologies,  which are used to  identify a ligand  that
+activates a targeted orphan receptor (a receptor whose function is not known).
+
+3
+
+THE COMPANY'S PROPRIETARY DRUG DISCOVERY TECHNOLOGIES
+
+The following relates to the Company's existing  proprietary  technology.  Since
+Cadus sold its drug  discovery  assets to OSI in 1999,  the  Company  has had no
+internal drug discovery  operations  nor has it engaged in research  efforts for
+collaborative partners.
+
+BACKGROUND
+
+      The human body is comprised  primarily of  specialized  cells that perform
+different  physiological  functions  and  that are  organized  into  organs  and
+tissues.  All human cells contain DNA, which is arranged in a series of subunits
+known as genes.  It is  estimated  that there are at least  25,000  genes in the
+human genome.  Genes are  responsible  for the production of proteins.  Proteins
+such as hormones, enzymes and receptors are responsible for managing most of the
+physiological  functions  of humans,  including  regulating  the  body's  immune
+system.
+
+      Cell  surface  receptors  are an important  class of proteins  involved in
+cellular  functioning  because  they are the primary  mediators  of cell to cell
+communication.  Their  location  on the cell  surface  also  makes them the most
+accessible targets for drug discovery.  Cellular  communication  occurs when one
+cell releases a chemical  messenger,  called a "ligand," which communicates with
+another  cell by binding to and  activating  the receptor on the exterior of the
+second  cell.  Typically,  a ligand  binds only with one  specific  receptor  or
+families  of related  receptors.  This  binding  event  activates  the  receptor
+triggering  the  transmission  of a  message  through  a  cascade  of  signaling
+molecules from the exterior to the interior of the cell.  This process is called
+signal  transduction.  When the signal is  transmitted  into the interior of the
+cell,  it may,  among other  things,  activate or suppress  specific  genes that
+switch  on or  switch  off  specific  biological  functions  of  the  cell.  The
+biological  response of the cell,  such as the  secretion of a protein,  depends
+primarily on the specific ligand and receptor involved in the communication.
+
+      Many diseases,  such as cancer,  stem from the  malfunctioning of cellular
+communication.  Efforts  to treat a  particular  disease  often  concentrate  on
+developing  drugs that interact with the receptor or signaling  pathway believed
+to be  associated  with the  malfunction.  These  drugs  work by  inhibiting  or
+enhancing  the  transmission  of a  signal  through  the  cascade  of  signaling
+molecules  triggered by the receptor.  Drugs that inhibit signal transduction by
+blocking a receptor or the intracellular  proteins that carry the signal sent by
+a receptor are called antagonists and those that enhance signal  transduction by
+stimulating a receptor or associated intracellular proteins are called agonists.
+
+      The  majority of cell  surface  receptors  encoded by the human genome are
+structurally  and  functionally   related  proteins  called  G   protein-coupled
+receptors (GPCRs). The importance of G Protein-coupled receptors is demonstrated
+by the fact that a large number of currently  available  prescription drugs work
+by interacting with known G Protein-coupled  receptors.  These drugs include the
+anti-ulcer agents Zantac and Tagamet, the anti-depressants Prozac and Zoloft,
+
+4
+
+and the anti-histamine  Claritin. Many of these drugs were developed through the
+application of time consuming and expensive  trial and error methods  without an
+understanding of the chemistry and structure of the G Protein-coupled  receptors
+with which they interact.  More  efficient drug discovery  methods are available
+once the gene sequence, biological function and role in disease processes of a G
+Protein-coupled receptor have been determined.
+
+TRADITIONAL DRUG DISCOVERY
+
+      Drug discovery consists of three key elements:  (i) the target,  such as a
+receptor, on which the drug will act, (ii) the potential drug candidates,  which
+include organic chemicals,  proteins or peptides,  and (iii) the assays or tests
+to screen these compounds to determine their effect on the target.
+
+      Historically,  drug  discovery  has  been  an  inefficient  and  expensive
+process.  However,  scientific  advances have created new and improved tools for
+drug discovery.  For example,  molecular biology is identifying a growing number
+of targets and their gene sequences. There have been significant developments in
+turning these gene  sequences into drug  discovery  candidates.  Cells have been
+genetically  engineered to produce  assays that more  effectively  replicate the
+physiological  environment  of a living  organism.  Robotics  have  enabled  the
+creation of  high-throughput  screening  systems.  Combinatorial  chemistry  has
+enhanced  the  ability  to  optimize   lead   compounds   by   improving   their
+pharmacological   characteristics.   However,   due  to  the   complexity  of  G
+Protein-coupled  receptors,  these advances do not offer a comprehensive,  rapid
+and cost effective approach to the  identification of drug discovery  candidates
+targeted at G Protein-coupled receptors.
+
+YEAST
+
+      The Company has developed  technologies  based on yeast that are useful in
+identifying drug discovery  candidates targeted at G Protein-coupled  receptors.
+Yeast is a single-celled microorganism that is commonly used to make bread, beer
+and  wine.  In the  1980's,  scientists  discovered  structural  and  functional
+similarities  between  yeast cells and human  cells.  Both yeast and human cells
+consist of a membrane,  an intracellular  region and a nucleus containing genes.
+Basic cellular  processes,  including  metabolism,  cell  division,  DNA and RNA
+synthesis and signal  transduction,  are the same in both human and yeast cells.
+Yeast also have signal  transduction  pathways that function  similarly to human
+cell  pathways.  More than 40 percent of all human gene classes have  functional
+equivalents  in  yeast.   The  genes  in  yeast  express   proteins,   including
+cell-surface  receptors  such  as  G  Protein-coupled  receptors  and  signaling
+molecules such as protein kinases, that are similar to human proteins.
+
+      The Company has developed several proprietary drug discovery  technologies
+that address many of the  limitations  of traditional  drug  discovery  methods,
+including tools used to screen for compounds that act as agonists or antagonists
+to cell surface receptors and tools used to identify
+
+5
+
+ligands to targeted  orphan  receptors.  The Subsidiary is currently  seeking to
+license these technologies on a non-exclusive basis to third parties.
+
+HYBRID YEAST CELLS
+
+      The Company developed a proprietary  technology to insert human genes into
+yeast cells to create  hybrid yeast cells.  The Company's  scientists  typically
+created hybrid yeast cells by replacing yeast G  Protein-coupled  receptor genes
+and certain signaling molecules with their human equivalents. As a result, these
+hybrid yeast cells express a human G  Protein-coupled  receptor and a portion of
+its signaling  pathway.  These hybrid yeast cells can be used to identify  those
+compounds  that act as agonists or  antagonists  to that  receptor or a molecule
+that is in its signaling  pathway.  The Company designed and developed more than
+twenty-five  thousand  genetically  different  yeast strains that can be used to
+build novel hybrid yeast cells (the "Yeast System").
+
+APPLICATIONS OF THE YEAST SYSTEM.
+
+HIGH THROUGHPUT SCREENING.
+
+      The Yeast System  provides a facile means of  identifying  molecules  that
+alter the  activity  of G protein  coupled  receptors  through  high  throughput
+screening.  Screens using the Yeast System have been run in the high  throughput
+screening  facilities  of  several  different  companies.   These  studies  have
+confirmed the various  attributes of the Yeast System as a means of  identifying
+modulators of receptor function.
+
+o     Functional  readout:  Since the Yeast  System  reports the activity of the
+      target GPCR, one can screen compounds directly for agonists or antagonists
+      of the target receptor.
+
+o     Low cost:  Receptor  bearing yeast grow in  inexpensive  microbial  media,
+      provide  a  limitless  source  of  material  and  require  no  biochemical
+      extraction or purification.  In addition, assays have been performed in as
+      small a volume as 80 nanoliters.
+
+o     Accurate response:  Extensive comparisons of the pharmacologic response of
+      several human GPCRs have demonstrated that the response of a human GPCR in
+      yeast accurately reflects the properties of the GPCR in human cells.
+
+o     Highly  reproducible:  High throughput assays using the Yeast System yield
+      extremely low  coefficient  of variation,  comparable to the most reliable
+      high throughput assays.
+
+IDENTIFICATION OF LIGANDS FOR ORPHAN GPCRS.
+
+      The Yeast System also  provides a procedure  for  identifying  natural and
+artificial  ligands  for  orphan G protein  coupled  receptors,  i.e.,  proteins
+predicted to be GPCRs but whose function
+
+6
+
+in the  organism is not known.  The most  valuable  reagent  for  characterizing
+orphan receptors is the natural ligand. Screening methods using the Yeast System
+in conjunction  with natural extracts  provide an avenue for  identification  of
+natural ligands.  However, even artificial ligands,  which can be recovered from
+high throughput  screens of orphan  receptors  expressed in yeast,  can open the
+door to functional  characterization  of an orphan receptor to determine whether
+the receptor  would be a reasonable  target for  therapeutic  intervention  in a
+disease.
+
+      Using an  agar-based  screening  platform in a multiplexed  format,  Cadus
+scientists were able to screen large numbers of discrete small molecules against
+many human orphan receptors. Other formats - high density microtiter plates, for
+example - also have been  successfully used with the Yeast System to interrogate
+orphan  receptors.  A number of natural and  surrogate  ligands to human  orphan
+receptors have been identified using the Yeast System.
+
+RESOURCES
+
+      The Company  maintains  all its strains as well as a  biological  database
+that catalogues the Company's collection of proprietary cells, cell lines, yeast
+strains and genetic engineering tools. This database currently has approximately
+30,000  entries,  which  include the  phenotype  and the genotype of the cell or
+yeast strain and its storage site.
+
+COLLABORATIVE ARRANGEMENTS
+
+      The  Company  no  longer  has  any  collaborations   with   pharmaceutical
+companies.  The Bristol-Myers Squibb Company collaboration expired in July 1999,
+the Solvay  Pharmaceuticals  collaboration  was assigned to OSI in July 1999 and
+the  Company  and   SmithKline   Beecham  p.l.c.   agreed  to  terminate   their
+collaboration  in  September  1999.  Each of  Bristol-Myers  Squibb  Company and
+SmithKline  Beecham p.l.c.  is required to make payments to the Company upon the
+achievement by it of certain pre-clinical and drug development milestones and to
+pay the Company  royalties on the sale of any drugs developed as a result of the
+research collaboration with the Company or through the use of the Company's drug
+discovery technologies.  There can be no assurance that any such milestones will
+be achieved or any such drugs developed.
+
+LICENSING ARRANGEMENTS
+
+      In February 2000,  Cadus licensed to OSI, on a  non-exclusive  basis,  its
+yeast  technologies,  including  various reagents and its library of over 25,000
+yeast strains, and its bioinformatics  software. OSI paid to Cadus a license fee
+of  $100,000  and an access fee of  $600,000.  OSI is also  obligated  to pay an
+annual  maintenance fee of $100,000 until the earlier of 2010 or the termination
+of the  license.  OSI may  terminate  the  license  at any time on 30 days prior
+written notice.  In December 2001, Cadus transferred its license with OSI to the
+Subsidiary.
+
+      In  December  2001,  the  Subsidiary  licensed  to a major  pharmaceutical
+company,  on a non-exclusive  basis, its yeast  technologies,  including various
+reagents and its library of over
+
+7
+
+25,000  yeast  strains.   The  licensee  paid  to  the  Subsidiary  an  up-front
+non-refundable  fee of  $500,000.  In October  2002,  the  licensee  paid to the
+Subsidiary  an  additional  $1,000,000  when the  licensee  achieved  a research
+milestone.  On September 12, 2003,  the parties  entered into an addendum to the
+agreement  pursuant to which the Company extended the license to an affiliate of
+the licensee in consideration  for the licensee  agreeing to pay $120,000 to the
+Company.  The license  terminates on December 31, 2006; however the licensee may
+extend the term for  additional  one-year  periods  by paying to the  Subsidiary
+$250,000 for each one-year  extension.  The Subsidiary is seeking to license its
+yeast technologies to other third parties on a non-exclusive basis.
+
+PATENTS, PROPRIETARY TECHNOLOGY AND TRADE SECRETS
+
+      The  Subsidiary  relies  upon  patents  and trade  secrets to protect  its
+proprietary  technologies.  As of March 15, 2006, the Subsidiary is the assignee
+of 11 issued  U.S.  patents  and 31 related  granted  foreign  patents  covering
+aspects of its yeast technology and is the exclusive  worldwide licensee of four
+issued  U.S.  patents  and 17 related  granted  foreign  patents for use in drug
+discovery.  In  addition,  as of such  date,  the  Subsidiary  has filed or held
+licenses to 17 other U.S.  patent  applications,  as well as 13 related  foreign
+patent applications.
+
+      The Company has  obtained  from Duke  University  an  exclusive  worldwide
+license to four issued U.S.  patents and 17 related  granted  foreign patents as
+well as U.S. and international  patent  applications  covering hybrid yeast cell
+technologies. These patents and patent applications are directed to hybrid yeast
+cells engineered to express human G Protein-coupled  receptors and to methods of
+their use. In  consideration  for such license,  the  Subsidiary  pays a minimum
+annual  royalty and is required to make  payments  upon the  achievement  by the
+Subsidiary of certain drug  development  milestones and to pay royalties (net of
+minimum  royalties) on the sale of drugs by the Subsidiary  which were initially
+identified by the Subsidiary through the use of the licensed technology. In lieu
+of milestones and royalty  payments on sales of drugs by sublicensees  initially
+identified  by  sublicensees  through the use of the  licensed  technology,  the
+Subsidiary  pays an annual  fee (net of the  minimum  annual  royalty)  for each
+sublicense granted by it to such technology.
+
+      The Company has also filed  patent  applications  based on  inventions  by
+Cadus's scientists  directed to hybrid yeast cells and yeast cells engineered to
+produce both peptide  libraries and human  proteins that can function in certain
+signal  transduction  pathways of the engineered yeast cell. These  applications
+seek to protect aspects of the Apex(TM) and SSCL(TM)  technologies.  The Company
+has also filed patent applications directed to methods, constructs and reagents,
+including  engineered  cells,  for  discovering  ligands  to  orphan  receptors.
+Peptides,  and mimetics  thereof,  which have been discovered using the SSCL(TM)
+technology are also covered in these patent  applications  both as  compositions
+and for their therapeutic use.
+
+8
+
+The  Company  has  granted a  non-exclusive  license to use several of its
+patents and patent applications relating to its yeast-based  technologies to OSI
+and, for certain limited purposes, to a major pharmaceutical  company and Solvay
+Pharmaceuticals.
+
+      In addition to patent  protection,  the Company  relies upon trade secrets
+and proprietary know-how to maintain its competitive  position.  To maintain the
+confidentiality  of its trade secrets and proprietary  information,  the Company
+has generally required its employees and consultants to execute  confidentiality
+agreements upon the commencement of their relationships with the Company.
+
+      Patent law as it relates to inventions in the biotechnology field is still
+evolving,  and  involves  complex  legal and factual  questions  for which legal
+principles are not firmly established.  Accordingly,  no predictions can be made
+regarding the breadth or  enforceability  of claims  allowed in the patents that
+have been  issued to the  Company or its  licensors  or in  patents  that may be
+issued to the Company or its licensors in the future.  Accordingly, no assurance
+can be given that the claims in such patents, either as initially allowed by the
+United States Patent and Trademark Office or any of its foreign  counterparts or
+as may be  subsequently  interpreted  by courts  inside or  outside  the  United
+States, will be sufficiently broad to protect the Company's  proprietary rights,
+will be  commercially  valuable or will provide  competitive  advantages  to the
+Company and its present or future collaborative partners or licensees.  Further,
+there can be no  assurance  that  patents will be granted with respect to any of
+the  Company's  pending  patent  applications  or  with  respect  to any  patent
+applications filed by the Company in the future.  There can be no assurance that
+any of the Company's  issued or licensed  patents would ultimately be held valid
+or that efforts to defend any of its patents,  trade secrets,  know-how or other
+intellectual property rights would be successful.
+
+      The field of gene discovery has become intensely competitive.  A number of
+pharmaceutical  companies,  biotechnology  companies,  universities and research
+institutions  have filed patent  applications or received patents covering their
+gene discoveries.  Some of these applications or patents may be competitive with
+the  Company's  applications  or conflict in certain  respects  with claims made
+under the Company's applications.  Moreover,  because patent applications in the
+United States and abroad are  published  not earlier than  eighteen  months from
+their earliest  effective  filing date and because  publication of technological
+developments in the scientific or patent  literature  often lags behind the date
+of such  developments,  the Company  cannot be certain  that it was the first to
+invent the subject matter covered by its patents or patent  applications or that
+it was the first to file patent  applications for such  inventions.  If an issue
+regarding  priority  of  inventions  were to arise  with  respect  to any of the
+patents or patent  applications  of the  Company or its  licensors,  the Company
+might have to participate in litigation or interference  proceedings declared by
+the United  States  Patent and  Trademark  Office or similar  agencies  in other
+countries to  determine  priority of  invention.  Any such  participation  could
+result in  substantial  cost to the Company,  even if the eventual  outcome were
+favorable to the Company.
+
+9
+
+In some cases,  litigation or other proceedings may be necessary to defend
+against  or assert  claims of  infringement,  to enforce  patents  issued to the
+Company  or  its  licensors,  to  protect  trade  secrets,   know-how  or  other
+intellectual property rights owned by the Company, or to determine the scope and
+validity of the  proprietary  rights of third  parties.  Such  litigation  could
+result in  substantial  cost to and  diversion of  resources by the Company.  An
+adverse outcome in any such  litigation or proceeding  could subject the Company
+to significant liabilities.
+
+COMPETITION
+
+      The biotechnology and pharmaceutical industries are intensely competitive.
+The Company's  technologies consist principally of genetically  engineered yeast
+cells. The Company is aware of companies,  such as Glaxo Smith Kline,  Plc, that
+may use yeast as a drug discovery  medium.  In addition,  many smaller companies
+are pursuing  these areas of research.  Many of the Company's  competitors  have
+greater  financial  and  human  resources  than  the  Company.  There  can be no
+assurance  that  competitors  of the  Company  will not develop  competing  drug
+discovery  technologies  that are more  effective  than those  developed  by the
+Company thereby rendering the Company's drug discovery  technologies obsolete or
+noncompetitive.   Moreover,  there  can  be  no  assurance  that  the  Company's
+competitors  will not obtain patent  protection or other  intellectual  property
+rights  that  would  limit the  Company's  ability  to use or  license  its drug
+discovery  technologies,  which  could  have a  material  adverse  effect on the
+Company's business, financial condition and results of operations.
+
+      In order to compete  successfully,  the Company's goal is to obtain patent
+protection for its drug discovery  technologies  and to make these  technologies
+available  to  pharmaceutical  and  biotechnology  companies  through  licensing
+arrangements for use in discovering drugs.  There can be no assurance,  however,
+that the Company will obtain patents covering its  technologies  that protect it
+against  competitors.  Moreover,  there can be no assurance  that the  Company's
+competitors  will not succeed in developing  technologies  that  circumvent  the
+Company's  technologies or that such  competitors will not succeed in developing
+technologies that are more effective than those developed by the Company or that
+would render technology of the Company less competitive or obsolete.
+
+EMPLOYEES
+
+      As of March 15,  2006,  the Company had no  employees.  David  Blitz,  the
+acting Chief Executive  Officer of Cadus and the Subsidiary,  is not an employee
+of Cadus or the Subsidiary, and is serving under a consulting arrangement as the
+acting  Chief  Executive  Officer  of Cadus  and the  Subsidiary  at the rate of
+$25,000 per annum.
+
+ITEM 1A. RISK FACTORS.
+
+      AN INVESTMENT IN THE SHARES OF CADUS' COMMON STOCK  INVOLVES A HIGH DEGREE
+OF RISK.  ACCORDINGLY,  INVESTORS  AND  PROSPECTIVE  INVESTORS  SHOULD  CONSIDER
+CAREFULLY THE FOLLOWING RISK
+
+10
+
+FACTORS,  AS WELL AS ALL OTHER  INFORMATION  CONTAINED IN THIS ANNUAL  REPORT ON
+FORM 10-K, IN CONNECTION WITH INVESTMENTS IN SHARES OF CADUS' COMMON STOCK.
+
+THE COMPANY MAY BE UNABLE TO DERIVE REVENUES FROM ITS TECHNOLOGIES
+
+      The  Company  has  licensed  its  yeast  technologies  to OSI  and a major
+pharmaceutical  company.  Under its  license,  OSI is obligated to pay an annual
+maintenance  fee of $100,000 until the earlier of 2010 or the termination of the
+license.  OSI may terminate the license at any time on 30 days prior notice. The
+major pharmaceutical company has fully paid for its license, which terminates on
+December 31, 2006,  but may extend the term for additional  one-year  periods by
+paying the Company $250,000 for each one-year extension.  The Company is seeking
+to  license  its yeast  technologies  to other  third  parties.  There can be no
+assurance that the existing  licensing  arrangements will be extended or renewed
+or will not be  terminated  or that the  Company  will enter into new  licensing
+arrangements with other third parties.
+
+      Certain of the  Company's  former  collaborative  partners are required to
+make  payments  to  the  Company  upon  the   achievement  by  them  of  certain
+pre-clinical and drug development milestones and to pay the Company royalties on
+the sale of any drugs developed as a result of past research  collaboration with
+the Company or through the use of the Company's drug discovery technologies. The
+Company's  receipt of revenues from drug development  milestones or royalties on
+sales under agreements with its former collaborative  partners is dependent upon
+the activities and the development, manufacturing and marketing resources of its
+former  collaborative  partners.  Development of new pharmaceutical  products is
+highly  uncertain,  and no  assurance  can be  given  that  the  Company's  drug
+discovery  technologies  will  result in any  commercially  successful  products
+developed  by the  Company's  former  collaborative  partners.  There  can be no
+assurance that such former  collaborative  partners will pursue the  development
+and   commercialization   of  such  products,   that  any  such  development  or
+commercialization  would be  successful  or that the  Company  will  derive  any
+additional  revenue  from such  arrangements.  While  the  Company  pursuant  to
+arrangements with its former  collaborative  partners may be entitled to receive
+milestone  payments and royalties with respect to drugs developed from compounds
+identified  or  confirmed  using  the  Company's  technologies,  there can be no
+assurance  that disputes  will not arise over whether or not specific  compounds
+were  identified  or  confirmed  using  the  Company's   technologies  and  are,
+therefore, covered by such royalty and milestone provisions.  Furthermore, there
+can be no assurance that the Company's  former  collaborative  partners will not
+pursue alternative  technologies in preference to those of the Company. To date,
+the Company has not received  revenues  from its former  collaborative  partners
+from drug development milestones or royalties.
+
+HISTORY OF OPERATING LOSSES
+
+      The Company has incurred operating losses in each year since its inception
+with the exception of 2002. At December 31, 2005, the Company had an accumulated
+deficit of  approximately  $33.6  million.  The  Company's  losses have resulted
+principally from costs incurred
+
+11
+
+in connection  with its previous  research and  development  activities and from
+general and administrative costs associated with the Company's operations. These
+costs have  exceeded the  Company's  revenues and interest  income.  The Company
+expects to incur additional operating losses over the next several years.
+
+UNCERTAINTY OF UTILIZATION OF OPERATING LOSS AND RESEARCH AND DEVELOPMENT CREDIT
+CARRYFORWARDS.
+
+      The Company had a net operating loss  carryforward  of  $29,260,000  and a
+research and development credit carryforward of $2,535,000 at December 31, 2005.
+These net operating loss  carryforwards and the research and development  credit
+carryforward expire in various years from 2007 to 2025. The Company's ability to
+utilize  such  net   operating   loss  and  research  and   development   credit
+carryforwards is subject to certain  limitations,  and there can be no assurance
+that the Company will be able to utilize such carryforwards.
+
+UNCERTAINTY OF FUTURE PROFITABILITY
+
+      The  Company's  ability to  generate  revenues  and become  profitable  is
+dependent  in large part on the ability of the Company to enter into  additional
+licensing arrangements.  There can be no assurance that the Company will be able
+to do so or that the Company will ever achieve profitability.
+
+UNCERTAINTY OF PROTECTION OF PATENTS AND PROPRIETARY RIGHTS
+
+      Patent law as it relates to inventions in the biotechnology field is still
+evolving,  and  involves  complex  legal and factual  questions  for which legal
+principles are not firmly established.  Accordingly,  no predictions can be made
+regarding the breadth or  enforceability  of claims  allowed in the patents that
+have been  issued to the  Company or its  licensors  or in  patents  that may be
+issued to the Company or its licensors in the future.  Accordingly, no assurance
+can be given that the claims in such patents, either as initially allowed by the
+United States Patent and Trademark Office or any of its foreign  counterparts or
+as may be  subsequently  interpreted  by courts  inside or  outside  the  United
+States, will be sufficiently broad to protect the Company's  proprietary rights,
+will be  commercially  valuable or will provide  competitive  advantages  to the
+Company and its present or future licensees.  Further, there can be no assurance
+that patents will be granted with respect to any of the Company's pending patent
+applications or with respect to any patent  applications filed by the Company in
+the  future.  There  can be no  assurance  that any of the  Company's  issued or
+licensed patents would ultimately be held valid or that efforts to defend any of
+its patents, trade secrets, know-how or other intellectual property rights would
+be successful.
+
+      The field of gene discovery has become intensely competitive.  A number of
+pharmaceutical  companies,  biotechnology  companies,  universities and research
+institutions  have filed patent  applications or received patents covering their
+gene discoveries. Some of these
+
+12
+
+applications  or patents may be competitive  with the Company's  applications or
+conflict in certain respects with claims made under the Company's  applications.
+Moreover,  because  patent  applications  in the United States are maintained in
+secrecy  until patents issue and because  patent  applications  in certain other
+countries generally are not published until more than eighteen months after they
+are  filed  and  because  publication  of  technological   developments  in  the
+scientific or patent literature often lags behind the date of such developments,
+the Company cannot be certain that it was the first to invent the subject matter
+covered by its patents or patent  applications  or that it was the first to file
+patent  applications  for such  inventions.  If an issue  regarding  priority of
+inventions  were  to  arise  with  respect  to  any  of the  patents  or  patent
+applications  of the  Company  or its  licensors,  the  Company  might  have  to
+participate  in litigation or  interference  proceedings  declared by the United
+States Patent and  Trademark  Office or similar  agencies in other  countries to
+determine  priority  of  invention.  Any  such  participation  could  result  in
+substantial cost to the Company,  even if the eventual outcome were favorable to
+the Company.
+
+      In some cases,  litigation or other proceedings may be necessary to defend
+against  or assert  claims of  infringement,  to enforce  patents  issued to the
+Company  or  its  licensors,  to  protect  trade  secrets,   know-how  or  other
+intellectual property rights owned by the Company, or to determine the scope and
+validity of the  proprietary  rights of third  parties.  Such  litigation  could
+result in  substantial  cost to and  diversion of  resources by the Company.  An
+adverse outcome in any such  litigation or proceeding  could subject the Company
+to significant liabilities.
+
+RISK OF OBSOLESCENCE OR LIMITATIONS ON THE COMPANY'S TECHNOLOGIES
+
+      The Company's  technologies consist principally of genetically  engineered
+yeast cells. The Company is aware of companies,  such as Glaxo Smith Kline, Plc,
+that  may use  yeast as a drug  discovery  medium.  In  addition,  many  smaller
+companies are pursuing  these areas of research.  There can be no assurance that
+competitors   of  the  Company  will  not  develop   competing   drug  discovery
+technologies that are more effective than those developed by the Company thereby
+rendering the Company's drug discovery  technologies obsolete or noncompetitive.
+Moreover,  there can be no assurance  that the  Company's  competitors  will not
+obtain patent protection or other intellectual  property rights that would limit
+the Company's ability to use or license its drug discovery  technologies,  which
+could  have a  material  adverse  effect on the  Company's  business,  financial
+condition and results of operations.
+
+      The Company's  goal is to obtain patent  protection for its drug discovery
+technologies  and to make these  technologies  available to  pharmaceutical  and
+biotechnology  companies through  licensing  arrangements for use in discovering
+drugs. There can be no assurance,  however, that the Company will obtain patents
+covering its technologies that protect it against competitors.  Moreover,  there
+can  be no  assurance  that  the  Company's  competitors  will  not  succeed  in
+developing  technologies that circumvent the Company's technologies or that such
+competitors will not succeed in developing  technologies that are more effective
+than those  developed  by the  Company or that would  render  technology  of the
+Company less competitive or obsolete.
+
+13
+
+INABILITY TO IDENTIFY ACQUISITIONS OR INVESTMENTS
+
+      At December 31,  2005,  the Company had cash and cash  equivalents  of $24
+million. The Company is presently seeking to use a portion of its available cash
+to  acquire  or invest in  companies  or income  producing  assets.  To date the
+Company has not been able to identify an  appropriate  acquisition or investment
+and there can be no assurance that it will do so. There also can be no assurance
+that acquisitions or investments by the Company will be profitable.
+
+UNCERTAINTY OF ACCESS TO CAPITAL
+
+      There can be no assurance that additional funding,  if necessary,  will be
+available on favorable terms, if at all.
+
+CONTROL BY EXISTING STOCKHOLDERS; CONCENTRATION OF STOCK OWNERSHIP
+
+      Carl C.  Icahn  beneficially  owns  approximately  38% of the  outstanding
+shares of Common Stock. As a result,  Mr. Icahn,  acting alone,  will be able to
+control  most matters  requiring  approval by the  stockholders  of the Company,
+including the election of directors, the adoption of charter amendments, and the
+approval  of mergers  and other  extraordinary  corporate  transactions.  Such a
+concentration  of  ownership  may have the effect of  delaying or  preventing  a
+change in control of the Company,  including  transactions in which stockholders
+might  otherwise  receive a premium for their  shares over then  current  market
+prices.
+
+POSSIBLE VOLATILITY OF STOCK PRICE
+
+      The market prices for  securities  of  biotechnology  companies  have been
+highly  volatile  and the market has  experienced  significant  price and volume
+fluctuations  that are  unrelated to the  operating  performance  of  particular
+companies. Announcements of technological innovations or new commercial products
+by  the  Company's  licensees  or  its  competitors,   developments   concerning
+proprietary  rights,   including  patents  and  litigation  matters,   publicity
+regarding  actual or  potential  results  with  respect to products or compounds
+under development by the Company's licensees or former  collaborative  partners,
+regulatory developments in both the United States and foreign countries, changes
+in  reimbursement  policies,  developments  in the Company's  relationship  with
+current  or future  licensees,  if any,  public  concern  as to the  safety  and
+efficacy of drugs developed by the Company's  licensees or former  collaborative
+partners using the Company's technologies,  public concern as to the efficacy of
+new technologies,  general market conditions,  as well as quarterly fluctuations
+in the Company's revenues,  if any, and financial results and other factors, may
+have  a  significant  effect  on  the  market  price  of the  Common  Stock.  In
+particular,  the  realization  of any of the  risks  described  in  these  "Risk
+Factors"  could have an  adverse  effect on the  market  price of the  Company's
+Common Stock.
+
+14
+
+ANTI-TAKEOVER EFFECT OF DELAWARE CORPORATE LAW
+
+      Certain  provisions  of the Delaware  corporate law may have the effect of
+deterring hostile takeovers or delaying or preventing  changes in the control or
+management of the Company,  including  transactions in which  stockholders might
+otherwise  receive  a premium  for their  shares  over the then  current  market
+prices.
+
+ABSENCE OF DIVIDENDS
+
+      The Company has not paid any  dividends  on its Common  Stock and does not
+anticipate paying dividends in the foreseeable future.
+
+ITEM 2. PROPERTIES.
+
+      Cadus leases  storage space on a  month-to-month  basis in Tarrytown,  New
+York.
+
+ITEM 3. LEGAL PROCEEDINGS.
+
+      The Company is not a party to any legal proceedings.
+
+ITEM 4. SUBMISSION TO A VOTE OF SECURITY HOLDERS.
+
+      No matter was  submitted  to a vote of  security  holders  of the  Company
+during the fourth quarter of the fiscal year covered by this report.
+
+                                     PART II
+
+ITEM 5. MARKET FOR REGISTRANT'S  COMMON EQUITY,  RELATED STOCKHOLDER MATTERS AND
+ISSUER PURCHASES OF EQUITY SECURITIES.
+
+      Cadus's common stock,  $.01 par value per share (the "Common Stock"),  was
+traded on the Nasdaq  National  Market under the symbol KDUS until September 27,
+1999 when it was delisted.  Since  September 27, 1999,  Cadus's Common Stock has
+traded on the  over-the-counter  bulletin  board under the symbol  KDUS.OB.  The
+table  below  sets  forth the high and low sales  price per share of the  Common
+Stock for the periods indicated,  as reported by the  over-the-counter  bulletin
+board.
+
+15
+
+FISCAL YEAR 2005                                         HIGH         LOW
+      First quarter ended March 31, 2005                      $1.58        $1.46
+      Second quarter ended June 30, 2005                      $1.59        $1.47
+      Third quarter ended September 30, 2005                  $1.67        $1.51
+      Fourth quarter ended December 31, 2005                  $1.65        $1.56
+
+      FISCAL YEAR 2004                                         HIGH         LOW
+      First quarter ended March 31, 2004                      $1.73        $1.44
+      Second quarter ended June 30, 2004                      $1.68        $1.56
+      Third quarter ended September 30, 2004                  $1.66        $1.53
+      Fourth quarter ended December 31, 2004                  $1.61        $1.54
+
+      As of March 15,  2006,  there were  approximately  76 holders of record of
+Cadus's Common Stock.
+
+      Cadus has not  declared  or paid any cash  dividends  on its Common  Stock
+during  the past two  fiscal  years  and does  not  anticipate  paying  any such
+dividends in the  foreseeable  future.  Cadus intends to retain any earnings for
+the growth of and for use in its business.
+
+RECENT SALES OF UNREGISTERED SECURITIES.
+
+      Within the past three years, Cadus has not issued and sold securities that
+were not registered under the Securities Act of 1933, as amended (the "Act").
+
+ITEM 6. SELECTED FINANCIAL DATA.
+
+      The selected  financial data presented below should be read in conjunction
+with "Management's Discussion and Analysis of Financial Condition and Results of
+Operations"  and the  Company's  consolidated  financial  statements  and  notes
+thereto included elsewhere in this report.
+
+16
+
+Cadus has not paid any dividends  since its  inception  and does not  anticipate
+paying any dividends on its common stock in the foreseeable future.
+
+      (1)   The net  loss of  $190,000  for the year  ended  December  31,  2003
+            includes a realized  gain of  $313,189  related to common  shares of
+            Sequenom  released from escrow which had been received in connection
+            with the  merger of Axiom (in  which  Cadus had an equity  interest)
+            with Sequenom.
+
+      (2)   The net income of  $1,316,000  for the year ended  December 31, 2002
+            includes a realized  gain of  $823,189  related to common  shares of
+            Sequenom  received in connection  with the merger of Axiom (in which
+            Cadus had an equity interest) with Sequenom.
+
+      (3)   The net  loss of  $317,000  for the year  ended  December  31,  2001
+            includes an arbitration  award cost of  approximately  $750,000 to a
+            former  employee and a $155,402  reimbursement  of SIBIA  litigation
+            costs offset by legal costs of $29,786.
+
+RECENTLY ISSUED ACCOUNTING STANDARDS
+
+      In December 2004, the Financial Accounting Standards Board ("FASB") issued
+Statement  of  Financial  Accounting  Standards  ("SFAS")  No. 123R "SHARE BASED
+PAYMENT." This
+
+17
+
+statement is a revision to SFAS No. 123, supersedes  Accounting Principles Board
+("APB") No. 25,  "ACCOUNTING FOR STOCK ISSUED TO EMPLOYEES," and amends SFAS No.
+95,  "STATEMENT  OF CASH  FLOWS."  This  statement  will  require the Company to
+expense the cost of  employee  services  received  in  exchange  for an award of
+equity  instruments.  This  statement  also  provides  guidance  on valuing  and
+expensing these awards, as well as disclosure requirements, and is effective for
+the first interim reporting period that begins after December 31, 2005.
+
+      SFAS No. 123R permits public companies to choose between the following two
+adoption methods:
+
+      1.  A  "modified   prospective"  method  in  which  compensation  cost  is
+recognized  beginning with the effective date (a) based on the  requirements  of
+SFAS No. 123R for all share-based  payments granted after the effective date and
+(b)  based  on the  requirements  of SFAS  No.  123 for all  awards  granted  to
+employees  prior to the effective date of SFAS No. 123R that remain  unvested on
+the effective date, or
+
+      2. A "modified  retrospective"  method which includes the  requirements of
+the modified  prospective  method  described above, but also permits entities to
+restate  based on the  amounts  previously  recognized  under  SFAS No.  123 for
+purposes of pro forma disclosures  either (a) all prior periods presented or (b)
+prior interim periods of the year of adoption.
+
+      As  permitted  by  SFAS  No.  123,  the  Company  currently  accounts  for
+share-based  payments to employees  using the APB No. 25 intrinsic  value method
+and recognizes no  compensation  cost for employee stock options.  The impact of
+the  adoption of SFAS No. 123R cannot be  predicted at this time because it will
+depend  on  levels of  share-based  payments  granted  in the  future.  However,
+valuation of employee  stock  options under SFAS No. 123R is similar to SFAS No.
+123, with some exceptions. The adoption of SFAS No. 123R's fair value method may
+have an impact on the Company's results of operations,  although it will have no
+impact on its overall financial position. The Company has not yet determined the
+method of adoption for this new standard.
+
+      In December 2004,  the FASB issued SFAS No. 153,  EXCHANGES OF NONMONETARY
+ASSETS,  AN AMENDMENT OF APB NO. 29,  ACCOUNTING FOR  NONMONETARY  TRANSACTIONS.
+SFAS No. 153 requires exchanges of productive assets to be accounted for at fair
+value, rather than at carryover basis, unless (1) neither the asset received nor
+the asset  surrendered has a fair value that is determinable  within  reasonable
+limits  or (2) the  transactions  lack  commercial  substance.  SFAS No.  153 is
+effective for nonmonetary asset exchanges  occurring in fiscal periods beginning
+after June 15, 2005.  The Company does not expect the adoption of this  standard
+to have a material  effect on its financial  position,  results of operations or
+cash flows.
+
+      In March 2004, the FASB Emerging  Issues Task Force (EITF)  released Issue
+No. 03-1, "THE MEANING OF OTHER-THAN-TEMPORARY IMPAIRMENT AND ITS APPLICATION TO
+CERTAIN  INVESTMENTS."  EITF 03-1  provides  guidance  for  determining  whether
+impairment for certain debt and equity investments is  other-than-temporary  and
+the   measurement  of  an  impaired  loss.  The   recognition   and  measurement
+requirements  of EITF  03-1  were  initially  effective  for  reporting  periods
+beginning  after June 15, 2004.  In September  2004,  the FASB Staff issued FASB
+Staff  Position  ("FSP") EITF 03-1-1 that delayed the effective date for certain
+measurement  and recognition  guidance  contained in EITF 03-1. The FSP requires
+that entities continue to apply
+
+18
+
+previously existing  "other-than-temporary"  guidance until a final consensus is
+reached.  Management does not anticipate that issuance of a final consensus will
+materially impact the Company's financial condition or results of operations.
+
+ITEM 7. MANAGEMENT'S  DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+        OF OPERATIONS.
+
+OVERVIEW
+
+      Cadus  was  incorporated  in  1992  and  until  July  30,  1999,   devoted
+substantially  all of its resources to the  development and application of novel
+yeast-based and other drug discovery technologies.  On July 30, 1999, Cadus sold
+its drug discovery  assets to OSI  Pharmaceuticals,  Inc. ("OSI") and ceased its
+internal  drug  discovery  operations  and  research  efforts for  collaborative
+partners. Cadus currently has limited operations, no employees and the Company's
+current  Chief  Executive  Officer is a consultant.  See Item 10.  Directors and
+Officers of the  Company.  The Company is  currently  seeking to (i) license the
+Subsidiary's  drug  discovery  technologies  and  (ii) to use a  portion  of its
+available  cash to acquire or invest in  companies or income  producing  assets.
+While such companies or assets might be in the  biotechnology or  pharmaceutical
+industries,  the Company will  consider  acquisitions  or  investments  in other
+industries as well.
+
+      The Company has incurred operating losses in each year since its inception
+except  for an  operating  gain of  approximately  $214,000  for the year  ended
+December 31, 2002. At December 31, 2005, the Company had an accumulated  deficit
+of approximately $33.6 million.  The Company's losses have resulted  principally
+from costs incurred in connection with its research and  development  activities
+and  from  general  and  administrative  costs  associated  with  the  Company's
+operations.  These costs have  exceeded  the  Company's  revenues  and  interest
+income.
+
+      As a  result  of the  sale of its  drug  discovery  assets  to OSI and the
+cessation of its internal drug  discovery  operations  and research  efforts for
+collaborative partners, the Company ceased to have research funding revenues and
+substantially reduced its operating expenses.  Despite the fact that the Company
+has no employees  and limited  operations,  it  continues  to incur  general and
+administrative  expenses.  These, for the most part, relate to legal, accounting
+and other costs associated with maintaining a public company and legal and other
+costs relating to the  maintenance  of patents.  For the year ended December 31,
+2005, such expenses  aggregated  $812,031 and included  patent costs  (including
+legal fees) and license fees of approximately  $362,000,  legal fees (other than
+in  connection  with  patents)  of  approximately  $114,000,   bookkeeping,  and
+accounting and tax preparation fees of approximately $126,000. Since the Company
+only had revenues of $100,000, it incurred an operating loss of $708,262 for the
+year ended December 31, 2005.
+
+      The  following  accounting  policies are  important to  understanding  the
+Company's financial condition and results of operations and should be read as an
+integral part of the  discussion  and analysis of the results of our  operations
+and financial position.  For additional  accounting policies,  see note 2 to our
+consolidated financial statements, "Significant Accounting Policies."
+
+19
+
+REVENUE  RECOGNITION.  The Company has entered into license  agreements with two
+companies  under  which  it has  licensed  to them  its  yeast  technology  on a
+non-exclusive  basis. The agreements  provide for the payment of  non-refundable
+license fees to the Company.  The Company  recognizes the license fees as income
+when received, as there are no continuing performance obligations of the Company
+to the licensees.
+
+ACCOUNTING  FOR INCOME TAXES.  As part of the process of preparing the Company's
+consolidated  financial  statements in  conformity  with  accounting  principles
+generally  accepted in the United States of America,  the Company is required to
+estimate  its income  taxes in each of the  jurisdictions  in which it operates.
+This process  involves the Company  estimating  its actual  current tax exposure
+together with assessing temporary differences resulting from differing treatment
+of items,  such as deferred  revenue,  for tax and  accounting  purposes.  These
+differences  result in deferred tax assets and  liabilities,  which are included
+within the Company's  consolidated  balance sheet.  The Company must then assess
+the  likelihood  that its  deferred  tax assets  will be  recovered  from future
+taxable  income and to the extent the  Company  believes  that  recovery  is not
+likely, it must establish a valuation allowance.  To the extent it establishes a
+valuation  allowance or increases this  allowance in a period,  the Company must
+include an expense  within the tax  provision in the  statement  of  operations.
+Significant  management  judgment  is  required  in  determining  the  Company's
+provision  for income  taxes,  its deferred tax assets and  liabilities  and any
+valuation allowance recorded against its net deferred tax assets.
+
+RESULTS OF OPERATIONS
+
+YEARS ENDED DECEMBER 31, 2005 AND 2004
+
+      REVENUES
+
+      Revenues for 2005 and 2004 were $100,000  which is the annual  maintenance
+fee from OSI.
+
+      OPERATING EXPENSES
+
+      General and  administrative  expenses  increased to $812,031 for 2005 from
+$772,388 in 2004. This increase was  attributable to an increase in patent costs
+of $41,934  and an increase in patent  licensing  costs of $52,000,  offset by a
+decrease in insurance costs of $49,378 and a decrease in sales tax of $12,960 in
+connection  with the sale of assets to OSI in 1999.  There  was an  increase  of
+$8,047 in sundry expenses.
+
+      EQUITY IN OTHER VENTURES
+
+      Equity  in other  ventures  in 2005  reflects  a gain of  $3,769  from the
+Company's investment in Laurel Partners Limited Partnership.  There was a $5,168
+loss in 2004 from such investment.
+
+      INTEREST INCOME
+
+      Interest income for 2005 increased to $751,430 from $255,913 in 2004. This
+increase was  attributable  primarily to investment in money market funds with a
+higher yield.  The average  interest earned on invested funds was  approximately
+3.1% in 2005.
+
+20
+
+NET (LOSS)
+
+      The net loss for 2005 was  $41,084  compared  to net loss of  $393,503  in
+2004. The decrease in net loss is  attributable  to increases in interest income
+of $495,517  and in income in other  ventures of $8,937,  offset by increases in
+operating expenses of $39,643 and in state taxes of $112,392.
+
+YEARS ENDED DECEMBER 31, 2004 AND 2003
+
+      REVENUES
+
+      Revenues  for 2004  decreased  to $100,000  from  $220,000  in 2003.  This
+decrease  is  attributable  to the  Company  having  received a one-time  fee of
+$120,000 in 2003 in consideration for the Company's extension of a license to an
+affiliate of the licensee and not having received such a fee in 2004.
+
+      OPERATING EXPENSES
+
+      General and  administrative  expenses  decreased to $772,388 for 2004 from
+$834,631 in 2003.  This  decrease was  attributable  to a decrease of $48,754 in
+insurance  costs, a decrease of $27,000 in patent licensing costs, a decrease of
+$4,899 in patent costs and professional fees, offset by an increase in sales tax
+of $12,960 in  connection  with the sale of assets to OSI in 1999.  There was an
+increase of $5,450 in sundry expenses.
+
+      EQUITY IN OTHER VENTURES
+
+      Equity  in other  ventures  in 2004  reflects  a loss of  $5,168  from the
+Company's investment in Laurel Partners Limited Partnership.  There was a $2,117
+loss in 2003 from such investment.
+
+      INTEREST INCOME
+
+      Interest income for 2004 increased to $255,913 from $171,218 in 2003. This
+increase  was  attributable  primarily  to a switch in money market funds with a
+higher yield.  The average  interest earned on invested funds was  approximately
+1.1% in 2004.
+
+      NET (LOSS)
+
+      The net loss for 2004 was  $393,503  compared to net loss of $189,696  for
+2003. The increase is primarily  attributable to a $120,000  decrease in license
+fees in 2004 and a  $313,189  realized  gain on  marketable  securities  in 2003
+compared to no such gain in 2004,  offset by an  increase in interest  income of
+$84,695 and a decrease in taxes and in total costs and expenses of $144,687.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+      At December 31, 2005 the Company held cash and cash  equivalents  of $24.0
+million. The Company's working capital at December 31, 2005 was $24.3 million.
+
+21
+
+In February 2000,  Cadus licensed to OSI, on a  non-exclusive  basis,  its
+yeast  technologies.  OSI is also obligated to pay an annual  maintenance fee of
+$100,000 until the earlier of 2010 or the  termination  of the license.  OSI may
+terminate the license at any time on 30 days prior written notice.
+
+      In December 2001, the Company licensed to a major pharmaceutical  company,
+on a  non-exclusive  basis,  its yeast  technologies.  The licensee  paid to the
+Subsidiary an up-front  non-refundable  fee of $500,000.  In October  2002,  the
+licensee  paid to the  Subsidiary  an  additional  $1,000,000  when the licensee
+achieved  a  research  milestone.  In  September  2003,  the  licensee  paid  an
+additional $120,000 pursuant to an addendum to the license agreement under which
+the Company  extended the license to an affiliate of the  licensee.  The license
+terminates on December 31, 2006;  however,  the licensee may extend the term for
+additional  one-year  periods  by paying  to the  Subsidiary  $250,000  for each
+one-year extension.
+
+      The Company believes that its existing  resources,  together with interest
+income,  will be  sufficient  to  support  its  current  and  projected  funding
+requirements  through  the end of 2007.  This  forecast  of the  period  of time
+through which the Company's  financial resources will be adequate to support its
+operation is a  forward-looking  statement  that may not prove  accurate and, as
+such, actual results may vary. The Company's capital  requirements may vary as a
+result of a number of factors, including the transactions,  if any, arising from
+the Company's  efforts to license its technologies  and otherwise  realize value
+from its assets, the transactions, if any, arising from the Company's efforts to
+acquire or invest in  companies or income  producing  assets and the expenses of
+pursuing such transactions.
+
+NET OPERATING LOSS CARRYFORWARDS
+
+      At December 31, 2005 the Company had tax net operating loss  carryforwards
+of approximately $29.3 million and research and development credit carryforwards
+of approximately  $2.5 million which expire in years 2007 through 2025. Such net
+operating  loss  carryforwards  may be utilized  under  certain  conditions as a
+deduction against future income and such development credit carryforwards may be
+utilized under certain  circumstances  as an offset  against  future taxes.  The
+Company's   ability  to  utilize  such  net  operating  loss  and  research  and
+development  credit  carryforwards  is  subject to  certain  limitations  due to
+ownership changes as defined by rules enacted with the Tax Reform Act of 1986.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+      The Company's  earnings and cash flows are subject to fluctuations  due to
+changes in interest  rates  primarily  from its  investment  of  available  cash
+balances in money market funds with portfolios of investment grade corporate and
+U.S.  government  securities.  The  Company  does not  believe it is  materially
+exposed to changes in interest  rates.  Under its current  policies  the Company
+does not use interest rate derivative instruments to manage exposure to interest
+rate changes.
+
+ITEM 8. FINANCIAL STATEMENTS
+
+      The financial  statements and notes thereto may be found following Item 15
+of this report. For an index to the financial statements, see Item 15.
+
+22
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+        FINANCIAL DISCLOSURE
+
+      On May 4,  2004,  the Board of  Directors  of the  Company  engaged  Grant
+Thornton LLP as the Company's new  independent  accountants to replace KPMG LLP.
+The Board of Directors decided to solicit proposals from independent  accounting
+firms during March 2004.  After  receiving  these  proposals  and  considering a
+variety of factors, the Board of Directors voted to engage Grant Thornton LLP as
+the Company's new independent accountants and to dismiss KPMG LLP effective upon
+the engagement of Grant Thornton LLP.
+
+      The report of KPMG LLP on the  consolidated  financial  statements  of the
+Company for the fiscal year ended December 31, 2003 contained no adverse opinion
+or disclaimer  of opinion and was not  qualified or modified as to  uncertainty,
+audit  scope or  accounting  principles.  In  connection  with the  audit of the
+consolidated  financial  statements  of the  Company  for the fiscal  year ended
+December  31,  2003,  and during the period from  January 1, 2004 through May 4,
+2004, the Company did not have any disagreements  with KPMG LLP on any matter of
+accounting principles or practices,  financial statement disclosure, or auditing
+scope or procedure,  which  disagreements if not resolved to the satisfaction of
+KPMG LLP would have caused it to make  reference  to the  subject  matter of the
+disagreements  in  connection  with its  report  on the  Company's  consolidated
+financial  statements  as of and for the fiscal year ended  December  31,  2003.
+During the period of time from January 1, 2002  through May 4, 2004,  there were
+no "reportable events" as defined in Item 304(a)(1)(v) of Regulation S-K adopted
+by the Securities and Exchange Commission.
+
+      During the fiscal years ended  December 31, 2003 and 2002,  and during the
+period from  January 1, 2004  through  May 4, 2004,  the Company did not consult
+with Grant Thornton LLP regarding any of the matters specified in Item 304(a)(2)
+of Regulation S-K.
+
+      On June 23,  2005,  the Board of Directors  of the Company  engaged  Holtz
+Rubenstein Reminick LLP as the Company's new independent  accountants to replace
+Grant  Thornton LLP. The Board of Directors  decided to solicit  proposals  from
+independent  accounting  firms during April and May 2005.  After receiving these
+proposals and considering a variety of factors,  the Board of Directors voted to
+engage  Holtz   Rubenstein   Reminick  LLP  as  the  Company's  new  independent
+accountants  and to dismiss Grant  Thornton LLP effective upon the engagement of
+Holtz Rubenstein Reminick LLP.
+
+      The report of Grant Thornton LLP on the consolidated  financial statements
+of the Company as of and for the fiscal year ended  December 31, 2004  contained
+no adverse opinion or disclaimer of opinion and was not qualified or modified as
+to  uncertainty,  audit scope or accounting  principles.  In connection with the
+audit of the consolidated  financial statements of the Company as of and for the
+fiscal year ended  December 31, 2004, and during the period from January 1, 2005
+through June 23,  2005,  the Company did not have any  disagreements  with Grant
+Thornton LLP on any matter of  accounting  principles  or  practices,  financial
+statement disclosure, or auditing scope or procedure, which disagreements if not
+resolved to the  satisfaction of Grant Thornton LLP would have caused it to make
+reference to the subject  matter of the  disagreements  in  connection  with its
+reports on the  Company's  consolidated  financial  statements as of and for the
+fiscal year ended December 31, 2004. During the period of time from May 4, 2004,
+when the Company engaged Grant Thornton LLP,  through June 23, 2005,  there were
+no "reportable
+
+23
+
+events"  as  defined  in Item  304(a)(1)(v)  of  Regulation  S-K  adopted by the
+Securities and Exchange Commission (the "Commission").
+
+      During the fiscal years ended December 31, 2004 and December 31, 2003, and
+during the period from January 1, 2005  through  June 23, 2005,  the Company did
+not consult  with Holtz  Rubenstein  Reminick LLP  regarding  any of the matters
+specified in Item 304(a)(2) of Regulation S-K.
+
+ITEM 9A. CONTROLS AND PROCEDURES
+
+      Based  on  the  evaluation  of  the  Company's   disclosure  controls  and
+procedures  as of the end of the period  covered by this  Annual  Report on Form
+10-K, the Company's  President and Chief  Executive  Officer,  who also performs
+functions similar to those of a principal financial officer,  concluded that the
+Company's  disclosure  controls  and  procedures  are  effective  in the  timely
+identification of material  information required to be included in the Company's
+periodic  filings with the Securities and Exchange  Commission.  During the year
+ended  December 31, 2005,  there have been no changes in the Company's  internal
+control over financial  reporting  identified in connection  with the evaluation
+thereof,  which have materially affected, or are reasonably likely to materially
+affect, the Company's internal control over financial reporting.
+
+ITEM 9B. OTHER INFORMATION
+
+      None.
+
+                                    PART III
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE COMPANY
+
+      Information with respect to the executive  officers and directors of Cadus
+as of March 15, 2006 is set forth below:
+
+NAME                               AGE     POSITION
+- ----                               ---     --------
+
+James R. Broach, Ph.D.             58      Director
+
+Russell D. Glass                   43      Director
+
+Carl C. Icahn                      70      Director
+
+Peter S. Liebert, M.D. (1)         70      Director
+
+Jack G. Wasserman (1)              69      Director
+
+David Blitz                        74      Chief Executive Officer and President
+
+- ----------
+(1)  Member of the Compensation Committee.
+
+      JAMES R.  BROACH,  PH.D.,  a  scientific  founder of Cadus and inventor of
+Cadus's yeast-based drug discovery technology,  has been Director of Research of
+Cadus since its inception. He has been a Professor at Princeton University since
+1984 in the Department of Molecular Biology,
+
+24
+
+where he is currently Associate Chair and Associate Director of the Lewis Sigler
+Institute for Integrative  Genomics.  In 1984, Dr. Broach and his  collaborators
+were the first  ones to  demonstrate  that  human  genes  could be  successfully
+implanted  into  yeast  cells.  He  received  his  Ph.D.  in  Biochemistry  from
+University of California at Berkeley and his B.S. from Yale University.
+
+      RUSSELL D. GLASS  became a  director  of Cadus in June 1998.  He served as
+President and Chief  Executive  Officer of Cadus from April 2000 until  February
+2003.  Mr. Glass is a private  investor and Managing  Member of RDG Capital LLC.
+From 2002 to 2003 Mr. Glass served as Co-Chairman and Chief  Investment  Officer
+of Ranger  Partners,  an investment  management  company.  From 1998 to 2002 Mr.
+Glass  served as  President  and Chief  Investment  Officer of Icahn  Associates
+Corp.,  a diversified  investment  firm,  and as  Vice-Chairman  and Director of
+Lowestfare.com,  Inc., a travel services company. Previously, Mr. Glass had been
+a  partner  in  Relational  Investors  LLC,  from 1996 to 1998,  and in  Premier
+Partners  Inc.,  from 1988 to 1996,  firms  engaged in  investment  research and
+management.  From 1984 to 1986 he served as an  investment  banker with  Kidder,
+Peabody & Co.  Previously,  Mr. Glass  served as a Director of Automated  Travel
+Systems,   Inc.,  a  software   development  firm;  Axiom   Biotechnologies,   a
+pharmacology profiling company;  National Energy Group, an oil & gas exploration
+and production company;  and Next Generation  Technology  Holdings, a healthcare
+information  technology  company.  He currently serves as a Director of the A.G.
+Spanos  Corporation,  a national real estate  developer and owner of the NFL San
+Diego  Chargers  Football  Club.  Mr.  Glass  earned a B.A.  in  economics  from
+Princeton  University and an M.B.A. from the Stanford University Graduate School
+of Business.
+
+      CARL C. ICAHN  became a  director  of Cadus in July  1993.  Mr.  Icahn has
+served as a director of CCI Onshore Corp. and CCI Offshore Corp.  since February
+2005,  and from  September  2004 to February  2005, Mr. Icahn served as the sole
+member  of  their   predecessors,   CCI  Onshore  LLC  and  CCI  Offshore   LLC,
+respectively. Mr. Icahn has served as a director of Starfire Holding Corporation
+(formerly Icahn Holding  Corporation),  a privately-held  holding  company,  and
+Chairman of the Board and a director of various subsidiaries of Starfire,  since
+1984.  Mr.  Icahn  served as Chairman of the Board and  President of Icahn & Co,
+Inc. a  registered  broker-dealer  and a member of the National  Association  of
+Securities  Dealers,  from 1968 until  December  2005.  Mr.  Icahn has served as
+Chairman of the Board of  American  Property  Investors,  Inc.  since 1990,  the
+general  partner of  American  Real  Estate  Holdings,  L.P.,  a public  limited
+partnership  that  invests in real  estate and holds  various  other  interests,
+including  the  interests  in its  subsidiaries  that are  engaged,  among other
+things, in the oil and gas business,  the casino entertainment  business and the
+textile business.  Mr Icahn is, and has been since 1994, a majority shareholder,
+the Chairman of the Board and a director of American Railcar  Industries,  Inc.,
+or  ARI,  a  Nasdaq  listed  company   primarily  engaged  in  the  business  of
+manufacturing,  managing and selling railroad freight and tank cars. From August
+1998 to August 2002,  Mr.  Icahn  served as Chairman of the Board of  Maupintour
+Holding LLC  (f/k/a/  Lowestfare.com,  LLC),  an  internet  travel  reservations
+company.  From October 1998 through May, 2004, Mr. Icahn was the President and a
+director of Stratosphere Corporation, which operates the Stratosphere Casino
+
+25
+
+Hotel & Tower. Since September 29, 2000, Mr. Icahn has served at the Chairman of
+the Board of GB Holdings Inc., which owns 41.7% of Atlantic Coast, which through
+its wholly-owned subsidiary owns and operates The Sands. From January 2003 until
+February  2006,  Mr.  Icahn served as Chairman of the Board and a director of XO
+Communications,  Inc., a telecommunications  company. Upon the consummation of a
+restructuring  merger in February 2006, Mr. Icahn became a director and Chairman
+of the Board of XO  Holdings,  Inc. In May 2005,  Mr. Icahn became a director of
+Blockbuster  Inc,  a NYSE  listed  provider  of  in-home  mover  rental and game
+entertainment. Mr. Icahn received his B.A. from Princeton University.
+
+      PETER S.  LIEBERT,  M.D.,  became a director of Cadus in April  1995.  Dr.
+Liebert  has been a  pediatric  surgeon  in private  practice  since 1968 and is
+affiliated with the Children's Hospital of Columbia Presbyterian. He is Clinical
+Associate  Professor of Surgery,  College of Physicians  and Surgeons,  Columbia
+University. He is a past president of the Westchester County Medical Society and
+is currently Chairman of its Finance Committee. He is also Chairman of the Board
+of Rx Vitamins,  Inc. Dr. Liebert holds an M.D. from Harvard  University Medical
+School and a B.A. from Princeton University.
+
+      JACK G.  WASSERMAN  has served as a director of Cadus since May 1996.  Mr.
+Wasserman is an attorney and a member of the Bars of New York, Florida,  and the
+District of Columbia. From 1966 until 2001 he was a senior partner of Wasserman,
+Schneider,  Babb & Reed, a New York-based law firm and its  predecessors.  Since
+September  2001 Mr.  Wasserman has been engaged in the practice of law as a sole
+practitioner.  Since 1993 he has been a director of American Property Investors,
+Inc.,  the general  partner of American Real Estate  Partners,  LP and, in 2003,
+became a director of its indirect subsidiaries,  American Casino & Entertainment
+Properties and American  Entertainment & Casino Finance Corp. Mr.  Wasserman has
+been licenced by the New Jersey State Casino  Control  Commission and the Nevada
+State Gaming Control Commission.  Since December 1, 1998, Mr. Wasserman has been
+a director of National Energy Group,  Inc.  which,  on December 4, 1998,  sought
+protection under the federal  bankruptcy laws; a Plan of  Reorganization  became
+effective  August 4, 2000,  and a final decree closing the case and settling all
+matters relating to the bankruptcy  proceeding  became effective on December 13,
+2001. In 2003,  National Energy Group,  Inc.,  became an indirect  subsidiary of
+American  Real  Estate  Partners,  LP.  On March 11,  2004,  Mr.  Wasserman  was
+appointed to the Board of Directors of Triarc Companies, Inc. and was elected by
+the  stockholders  to the Board of Directors in June 2004; he serves on Triarc's
+Audit and Compensation  Committees.  Mr. Wasserman  received a B.A. from Adelphi
+University, a J.D. from Georgetown University Law Center, and a Graduate Diploma
+from Johns Hopkins University School of Advanced International Studies.
+
+      DAVID BLITZ  became  acting  President,  acting Chief  Executive  Officer,
+Treasurer and Secretary of Cadus in May 2004.  Mr. Blitz,  a retired  partner of
+Deloitte & Touche,  has been employed as a certified  public  accountant by Joel
+Popkin & Co., P.C. since January 1990. Mr. Blitz,  as an employee of Joel Popkin
+& Co., P.C., has been performing Cadus Corporation's
+
+26
+
+internal  accounting  since March 2000.  He earned his B.A.  in  Economics  from
+Brooklyn College.
+
+      Directors are elected by the  stockholders of Cadus at each annual meeting
+of  stockholders  and serve until the next annual  meeting of  stockholders  and
+until their  successors are elected and qualified or until their earlier removal
+or resignation.
+
+      The Board of Directors of Cadus has a Compensation  Committee,  consisting
+of Messrs. Liebert and Wasserman, which makes recommendations regarding salaries
+and incentive  compensation  for employees of and consultants to Cadus and which
+administers the 1993 Stock Option Plan and the 1996 Incentive Plan.
+
+      Each non-employee director receives $3,000 in annual compensation, payable
+quarterly in arrears.
+
+      The Company does not have a separately-designated standing audit committee
+or a committee  performing similar  functions.  The entire Board of Directors of
+the Company acts as the audit  committee.  The Board of Directors of the Company
+has determined that it does not have an "audit  committee  financial  expert" as
+such term is  defined  in the  rules  adopted  by the  Securities  and  Exchange
+Commission requiring companies to disclose whether or not at least one member of
+the audit  committee  is an "audit  committee  financial  expert."  The Board of
+Directors  believes  that the  aggregate  technical,  commercial  and  financial
+experience  of its  members,  together  with  their  knowledge  of the  Company,
+provides  the Board  with the  ability  to  monitor  and direct the goals of the
+Company  and to protect  the best  interests  of its  shareholders  and that its
+members are fully qualified to monitor the performance of management, the public
+disclosures  by the Company of its  financial  condition  and  performance,  the
+Company's  internal  accounting  operations  and its  independent  auditors.  In
+addition,  the Board of Directors is authorized to engage independent  financial
+consultants,  auditors  and counsel  whenever it  believes it is  necessary  and
+appropriate to do so.
+
+SECTION 16(A) BENEFICIAL OWNERSHIP REPORTING COMPLIANCE
+
+      Section 16(a) of the Exchange Act requires Cadus's directors and executive
+officers,  and persons who own more than ten  percent of a  registered  class of
+Cadus's equity securities,  to file with the Securities and Exchange  Commission
+(the "SEC") initial  reports of ownership and reports of changes in ownership of
+Common  Stock of Cadus.  Reporting  persons are  required by SEC  regulation  to
+furnish the Company with copies of all such filed reports. To Cadus's knowledge,
+based solely on a review of copies of such filed reports furnished to Cadus, all
+of Cadus's  directors,  officers and greater than ten percent  beneficial owners
+made all required filings during fiscal year 2005 in a timely manner.
+
+27
+
+CODE OF ETHICS
+
+      Cadus  has not  adopted  a code of  ethics  for  its  principal  executive
+officer, principal financial officer, principal accounting officer or controller
+or persons  performing  similar  functions due to the fact that it does not have
+any  employees,  does not have any  operations  (other than those related to the
+licensing  of  its  technologies)  and  has  only  one  officer  (who  is not an
+employee).
+
+ITEM 11. EXECUTIVE COMPENSATION.
+
+      The  following  table  sets  forth  certain  information   concerning  the
+compensation  paid or accrued  by Cadus for  services  rendered  to Cadus in all
+capacities for the fiscal years ended  December 31, 2005,  2004 and 2003, by its
+Chief Executive  Officer and each of the Cadus's other executive  officers whose
+total salary and bonus exceeded $100,000 during 2005  (collectively,  the "Named
+Executive Officers"):
+
+28
+
+SUMMARY COMPENSATION TABLE
+
+- ----------
+(1)   Mr.  David  Blitz  has been  the  Company's  acting  President  and  Chief
+      Executive Officer from May 2004 and serves in such capacity at the rate of
+      $25,000 per annum.
+(2)   Ms.  Michele  A. Paige was the  Company's  President  and Chief  Executive
+      Officer from  February  2003 until April 2004 and served in such  capacity
+      without compensation.
+(3)   Mr.  Russell  D. Glass was the  Company's  President  and Chief  Executive
+      Officer from April 2000 until  February  2003 and served in such  capacity
+      without compensation.
+
+OPTION GRANTS
+
+      The  following  table sets forth  certain  information  regarding  options
+granted  during the fiscal  year ended  December  31, 2005 by Cadus to the Named
+Executive Officers:
+
+                      OPTION/SAR GRANTS IN LAST FISCAL YEAR
+
+                                                    INDIVIDUAL GRANTS
+
+Number of         Percent of                                       Potential Realizable
+                               Securities      Total Options/                                    Value At Assumed Annual
+                               Underlying       SARs Granted       Exercise                       Rates of Stock Price
+                                Options/        to Employees        Price         Expiration     Appreciation for Option
+          Name              Sars Granted (#)   in Fiscal Year     ($/share)          Date              Terms ($)
+          ----              ----------------   --------------     ---------          ----              ---------
+
+                                                                                                    5%           10%
+                                                                                                    --           ---
+                                                                                                       
+David Blitz..............          --                --               --              --            --            --
+
+Michele A. Paige.........          --                --               --              --            --            --
+
+Russell D. Glass.........          --                --               --              --            --            --
+
+29
+
+OPTION EXERCISES AND HOLDINGS
+
+      The  following  table  sets  forth  certain  information  concerning  each
+exercise of stock options, during the fiscal year ended December 31, 2005 by the
+Named  Executive  Officers  and  unexercised  stock  options  held by the  Named
+Executive Officers as of the end of such fiscal year.
+
+             AGGREGATED OPTION/SAR EXERCISES IN LAST FISCAL YEAR AND
+                          FISCAL YEAR-END OPTION VALUES
+
+Number of
+                                                                    Securities Underlying                  Value of Unexercised
+                                                                    Unexercised Options at             In-The-Money Options/SARs at
+                               Shares                                December 31, 2005(#)                  December 31, 2004($)
+                             Acquired on    Aggregate Value          --------------------                  --------------------
+          Name              Exercise (#)      Realized ($)      Exercisable       Unexercisable      Exercisable       Unexercisable
+          ----              ------------      ------------      -----------       -------------      -----------       -------------
+                                                                                                                 
+David Blitz..............        --               --                --                 --                --                 --
+
+Michele A. Paige.........        --               --                --                 --                --                 --
+
+Russell D. Glass.........        --               --                --                 --                --                 --
+
+INCENTIVE PLANS
+
+1993 STOCK OPTION PLAN
+
+      Cadus's 1993 Stock Option Plan (the "1993 Stock Option Plan") provides for
+the grant of options to purchase  shares of Common Stock to officers,  employees
+and  consultants  of the Company.  The maximum  number of shares of Common Stock
+that may be issued  pursuant to the 1993 Stock Option Plan is 666,667  (plus any
+shares that are the subject of canceled or  forfeited  awards).  Effective as of
+May 10, 1996, the 1993 Stock Option Plan was replaced by the 1996 Incentive Plan
+with respect to all
+
+30
+
+future awards to the Company's  employees and consultants.  See "Incentive Plans
+- -- 1996 Incentive Plan."
+
+      As of  March  15,  2006,  no  shares  of  Common  Stock  were  subject  to
+outstanding stock options granted under the 1993 Stock Option Plan.
+
+STOCK OPTION AGREEMENTS
+
+      Cadus has granted  non-qualified  stock  options to  directors,  officers,
+employees and consultants of Cadus by means of stock option agreements that were
+not issued pursuant to any written  incentive plan of the Company.  During 2005,
+there were no stock options granted pursuant to such stock option agreements. As
+of March 15, 2006, an aggregate of 48,000 shares of Common Stock were subject to
+outstanding  stock  options  granted  under such stock  option  agreements,  and
+options to purchase 48,000 shares under such option  agreements were exercisable
+at a price of $6.75 per share.
+
+      Cadus has  registered  the shares  issuable upon exercise of stock options
+granted under such stock option agreements pursuant to a registration  statement
+on Form S-8.
+
+1996 INCENTIVE PLAN
+
+      Cadus's 1996 Incentive Plan (the "1996 Incentive Plan") was adopted by the
+Board of Directors and approved by the  stockholders  of Cadus in May 1996.  The
+1996 Incentive Plan replaced the 1993 Stock Option Plan, effective as of May 10,
+1996, with respect to all future awards by Cadus to the Company's  employees and
+consultants.  However,  while  all  future  awards  will be made  under the 1996
+Incentive Plan, awards made under the 1993 Stock Option Plan will continue to be
+administered in accordance with the 1993 Stock Option Plan. See "Incentive Plans
+- -- 1993 Stock Option  Plan." In December  1996,  the Board of Directors of Cadus
+amended the 1996  Incentive Plan to (i) increase the maximum number of shares of
+Common  Stock that may be the subject of awards  under the 1996  Incentive  Plan
+from  333,334 to 833,334  (plus any shares  that are the  subject of canceled or
+forfeited  awards) and (ii) provide for the grant of stock  options to directors
+of the Company . The  stockholders of Cadus approved such amendments to the 1996
+Incentive Plan in June 1997. In December  1997,  the Board of Directors  amended
+the 1996 Incentive Plan to increase the maximum number of shares of Common Stock
+that may be the subject of awards under the 1996  Incentive Plan from 833,334 to
+1,833,334  (plus any  shares  that are the  subject  of  canceled  or  forfeited
+awards). The stockholders of Cadus approved this amendment to the 1996 Incentive
+Plan in June 1998.
+
+      The 1996 Incentive Plan is  administered  by the  Compensation  Committee,
+which has the power and  authority  under the 1996  Incentive  Plan to determine
+which of Cadus's  employees,  consultants and directors will receive awards, the
+time or times at which awards will be made, the nature and amount of the awards,
+the exercise or purchase price, if any, of such awards, and such other terms and
+conditions applicable to awards as it determines to be appropriate or advisable.
+
+31
+
+Options granted under the 1996 Incentive Plan may be either  non-qualified
+stock  options or options  intended to qualify as incentive  stock options under
+Section 422 of the Code. The term of incentive  stock options  granted under the
+1996  Incentive  Plan cannot  extend beyond ten years from the date of grant (or
+five years in the case of a holder of more than 10% of the total combined voting
+power of all classes of stock of Cadus on the date of grant).
+
+      Shares  of Common  Stock may  either  be  awarded  or sold  under the 1996
+Incentive  Plan and may be  issued  or sold with or  without  vesting  and other
+restrictions, as determined by the Compensation Committee.
+
+      Under the 1996 Incentive  Plan, the  Compensation  Committee may establish
+with respect to each option or share awarded or sold such vesting  provisions as
+it  determines  to  be   appropriate   or  advisable.   Unvested   options  will
+automatically  terminate  within  a  specified  period  of  time  following  the
+termination of the holder's  relationship  with Cadus and in no event beyond the
+expiration of the term.  Cadus may either  repurchase  unvested shares of Common
+Stock at their  original  purchase  price upon the  termination  of the holder's
+relationship  with the  Company  or cause  the  forfeiture  of such  shares,  as
+determined by the  Compensation  Committee.  All options granted and shares sold
+under the 1996 Incentive Plan to employees of the Company may, in the discretion
+of the  Compensation  Committee,  become  fully  vested upon the  occurrence  of
+certain  corporate  transactions  if  the  holders  thereof  are  terminated  in
+connection therewith.
+
+      The exercise  price of options  granted and the  purchase  price of shares
+sold under the 1996 Incentive Plan are determined by the Compensation Committee,
+but may not,  in the case of  incentive  stock  options,  be less  than the fair
+market  value of the  Common  Stock on the  date of  grant  (or,  in the case of
+incentive  stock  options  granted  to a holder  of more  than 10% of the  total
+combined  voting  power of all  classes  of stock of the  Company on the date of
+grant,  110% of such fair  market  value),  as  determined  by the  Compensation
+Committee.
+
+      The   Compensation   Committee  may  also  grant,   in  combination   with
+non-qualified  stock options and incentive  stock  options,  stock  appreciation
+rights ("Tandem  SARs"),  or may grant Tandem SARs as an addition to outstanding
+non-qualified  stock options.  A Tandem SAR permits the participant,  in lieu of
+exercising the corresponding option, to elect to receive any appreciation in the
+value of the shares  subject  to such  option  directly  from Cadus in shares of
+Common Stock.  The amount  payable by Cadus upon the exercise of a Tandem SAR is
+measured by the  difference  between the market value of such shares at the time
+of  exercise  and the  option  exercise  price.  Generally,  Tandem  SARs may be
+exercised at any time after the underlying  option vests. Upon the exercise of a
+Tandem SAR, the corresponding  portion of the related option must be surrendered
+and cannot  thereafter be exercised.  Conversely,  upon exercise of an option to
+which a Tandem SAR is attached, the Tandem SAR may no longer be exercised to the
+extent  that the  corresponding  option  has  been  exercised.  Nontandem  stock
+appreciation  rights  ("Nontandem SARs") may also be awarded by the Compensation
+Committee.  A Nontandem  SAR permits the  participant  to elect to receive  from
+Cadus that number of shares of Common  Stock  having an  aggregate  market value
+equal to the excess of the market value of the shares  covered by the  Nontandem
+SAR on the date of exercise over the aggregate base price of such shares as
+
+32
+
+determined  by the  Compensation  Committee.  With  respect  to both  Tandem and
+Nontandem  SARs,  the  Compensation  Committee  may  determine to cause Cadus to
+settle its  obligations  arising out of the exercise of such rights in cash or a
+combination of cash and shares, in lieu of issuing shares only.
+
+      Under the 1996 Incentive Plan, the  Compensation  Committee may also award
+tax offset  payments to assist  employees in paying  income taxes  incurred as a
+result of their  participation in the 1996 Incentive Plan. The amount of the tax
+offset  payments will be determined  by applying a percentage  established  from
+time to time by the  Compensation  Committee  to all or a portion of the taxable
+income  recognizable  by the employee upon: (i) the exercise of a  non-qualified
+stock option or an SAR; (ii) the disposition of shares received upon exercise of
+an incentive stock option; (iii) the lapse of restrictions on restricted shares;
+or (iv) the award of unrestricted shares.
+
+      The number and class of shares available under the 1996 Incentive Plan may
+be adjusted by the Compensation  Committee to prevent dilution or enlargement of
+rights in the event of various  changes in the  capitalization  of Cadus. At the
+time of grant of any award,  the  Compensation  Committee  may provide  that the
+number and class of shares issuable in connection with such award be adjusted in
+certain circumstances to prevent dilution or enlargement of rights.
+
+      The Board of Directors of Cadus may  suspend,  amend,  modify or terminate
+the  1996  Incentive  Plan.  However,  Cadus's  stockholders  must  approve  any
+amendment  that would (i)  materially  increase the  aggregate  number of shares
+issuable under the 1996 Incentive Plan,  (ii)  materially  increase the benefits
+accruing to employees under the 1996 Incentive Plan or (iii)  materially  modify
+the  requirements  for  eligibility to  participate in the 1996 Incentive  Plan.
+Awards made prior to the  termination  of the 1996 Incentive Plan shall continue
+in  accordance  with their  terms  following  such  termination.  No  amendment,
+suspension or termination of the 1996 Incentive Plan shall adversely  affect the
+rights of an employee or consultant in awards  previously  granted  without such
+employee's or consultant's consent.
+
+      As of March 15,  2006,  an  aggregate of 9,167 shares of Common Stock were
+subject to outstanding  stock options  granted under the 1996 Incentive Plan. As
+of March 15, 2006,  stock options to purchase  9,167 shares were  exercisable at
+prices ranging from $6.38 to $6.63 per share.
+
+      Cadus has  registered  the shares  issuable upon exercise of stock options
+granted or which may be granted  under the 1996  Incentive  Plan  pursuant  to a
+registration statement on Form S-8.
+
+COMPENSATION COMMITTEE INTERLOCKS AND INSIDER PARTICIPATION
+
+      Cadus's  Compensation  Committee is composed of Peter  Liebert and Jack G.
+Wasserman.  Neither  Mr.  Liebert  nor Mr.  Wasserman  is or was an  officer  or
+employee of the Company.
+
+BOARD COMPENSATION COMMITTEE REPORT ON EXECUTIVE COMPENSATION
+
+      INTRODUCTION
+
+33
+
+The  Compensation  Committee  of  the  Board  of  Directors  of  Cadus  is
+responsible  for  determining  and  administering  the  Company's   compensation
+policies for the remuneration of Cadus's  officers.  The Compensation  Committee
+annually evaluates  individual and corporate  performance from both a short-term
+and long-term perspective.  In 2005, Cadus had no officers other than its acting
+Chief  Executive  Officer who served in a  consultative  capacity at the rate of
+$25,000 per annum for the interim period during which the Company  continued its
+search for a new Chief Executive Officer.  Accordingly,  the following report of
+the Compensation  Committee is not entirely applicable to calendar year 2005 but
+is presented for an historical perspective.
+
+      PHILOSOPHY
+
+      Cadus's  executive   compensation   program  historically  has  sought  to
+encourage  the  achievement  of  business   objectives  and  superior  corporate
+performance by the Cadus's  executives.  The program enables Cadus to reward and
+retain  highly  qualified  executives  and  to  foster  a   performance-oriented
+environment wherein  management's  long-term focus is on maximizing  stockholder
+value through  equity-based  incentives.  The program calls for consideration of
+the   nature   of  each   executive's   work   and   responsibilities,   unusual
+accomplishments or achievements on the Company's behalf,  years of service,  the
+executive's total compensation and the Company's financial condition generally.
+
+      COMPONENTS OF EXECUTIVE COMPENSATION
+
+      Historically,  Cadus's  executive  employees have received  cash-based and
+equity-based compensation.
+
+      CASH-BASED COMPENSATION. Base salary represents the primary cash component
+of an executive  employee's  compensation,  and is determined by evaluating  the
+responsibilities  associated with an employee's  position at the Company and the
+employee's  overall level of  experience.  In addition,  the  Committee,  in its
+discretion,  may award bonuses. The Compensation Committee and the Board believe
+that the Company's  management  and employees are best  motivated  through stock
+option awards and cash incentives.
+
+      EQUITY-BASED COMPENSATION.  Equity-based compensation principally has been
+in the form of stock options.  The Compensation  Committee and the Board believe
+that  stock  options  represent  an  important   component  of  a  well-balanced
+compensation  program.  Because  stock option  awards  provide value only in the
+event of share price appreciation,  stock options enhance  management's focus on
+maximizing  long-term  stockholder value and thus provide a direct  relationship
+between an executive's compensation and the stockholders' interests. No specific
+formula  is used to  determine  stock  option  awards for an  employee.  Rather,
+individual  award  levels  are  based  upon the  subjective  evaluation  of each
+employee's overall past and expected future  contributions to the success of the
+Company.
+
+34
+
+COMPENSATION OF THE CHIEF EXECUTIVE OFFICER
+
+      The  philosophy,  factors  and  criteria  of  the  Compensation  Committee
+generally applicable to the Company's officers have historically been applicable
+to the Chief  Executive  Officer.  However,  the current acting Chief  Executive
+Officer,  David Blitz, is serving on a consultative basis at the rate of $25,000
+per annum for the interim  period during which the Company  continues its search
+for a new Chief Executive Officer.
+
+            Peter Liebert
+            Jack G. Wasserman
+
+35
+
+COMPARATIVE STOCK PERFORMANCE GRAPH
+
+      The following graph provides a comparison of the cumulative  total return*
+for Cadus, the Nasdaq Stock Market (US) Index and the Nasdaq Biotechnology Index
+since December 31, 2000.
+
+                              [PERFORMANCE CHART]
+
+              Corresponding index values and Cadus's Common Stock
+                         price values are given below:
+
+36
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT AND
+         RELATED STOCKHOLDER MATTERS.
+
+      The  following  table  sets  forth  certain   information   regarding  the
+beneficial  ownership  of the Common  Stock as of March 15, 2006 with respect to
+(i) each person known by the Company to be the beneficial  owner of more than 5%
+of the Common  Stock,  (ii) each of the Company's  directors,  (iii) each of the
+Named  Executive  Officers and (iv) all directors  and officers as a group.  All
+information  is based  upon  ownership  filings  made by such  persons  with the
+Securities and Exchange Commission or upon information  provided by such persons
+to the Company.
+
+37
+
+* Less than one percent
+
+(1)   Except as  otherwise  indicated  above,  the  address of each  stockholder
+      identified above is c/o the Company, 767 Fifth Avenue, New York, NY 10153.
+      Except as  indicated  in the other  footnotes  to this table,  the persons
+      named in this table have sole voting and investment  power with respect to
+      all shares of Common Stock.
+
+(2)   Share  ownership in the case of each person listed above  includes  shares
+      issuable  upon the exercise of options held by such person as of March 15,
+      2006, that may be exercised within 60 days after such date for purposes of
+      computing the percentage of Common Stock owned by such person, but not for
+      purposes of computing  the  percentage  of Common Stock owned by any other
+      person.
+
+(3)   Includes  2,258,790  shares of Common  Stock  held by High  River  Limited
+      Partnership  and 1,599,942  shares of Common Stock held by Barberry  Corp.
+      Mr. Icahn is the sole  shareholder of Barberry Corp. and Barberry Corp. is
+      the sole general partner of High River Limited Partnership.  Also includes
+      12,000  shares of Common Stock that Mr. Icahn  currently  has the right to
+      acquire upon the exercise of stock options.
+
+(4)   Includes 330,481 shares of Common Stock held by SmithKline Beecham p.l.c.,
+      an affiliate of GlaxoSmithKline plc.
+
+(5)   Includes 12,000 shares of Common Stock which Dr. Liebert currently has the
+      right to acquire upon the exercise of stock options.
+
+(6)   Consists of 14,500  shares of Common Stock which Mr.  Wasserman  currently
+      has the right to acquire upon the exercise of stock options.
+
+(7)   Includes  38,500 shares of Common Stock issuable upon exercise of options.
+      See footnotes (3), (5) and (6).
+
+EQUITY COMPENSATION PLAN INFORMATION.
+
+      The  following  table  sets  forth  certain  information  with  respect to
+compensation plans (including individual compensation  arrangements) under which
+equity securities of Cadus were authorized for issuance as of December 31, 2005:
+
+- --------------------------------------------------------------------------------------------------------------------------
+                                               (a)                         (b)                            (c)
+- --------------------------------------------------------------------------------------------------------------------------
+Plan Category                        Number of securities to    Weighted-average exercise        Number of securities
+                                     be issued upon exercise       price of outstanding         remaining available for
+                                     of outstanding options,   options, warrants and rights  future issuance under equity
+                                       warrants and rights                                        compensation plans
+                                                                                                 (excluding securities
+                                                                                               reflected in column (a))
+- --------------------------------------------------------------------------------------------------------------------------
+                                                                                                           
+Equity compensation plans                            9,167                          $6.56                       1,736,221
+approved by security holders
+- --------------------------------------------------------------------------------------------------------------------------
+Equity compensation plans not                        48,000                         $6.75                               0
+approved by security holders
+- --------------------------------------------------------------------------------------------------------------------------
+Total                                                57,167                         $6.72                       1,736,221
+- --------------------------------------------------------------------------------------------------------------------------
+
+38
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS.
+
+      James Broach  provides  consulting  services to the Company for patent and
+license  related  matters for which he was paid $17,000,  $13,000 and $13,000 in
+calendar years 2005, 2004 and 2003, respectively.
+
+      In May 2004, the Board of Directors appointed David Blitz the acting Chief
+Executive  Officer  of the  Company  at the rate of  $25,000  per  annum for the
+interim period during which the Company is continuing its search for a new Chief
+Executive  Officer.  In 2005,  the  Company  paid  $25,000 to Mr.  Blitz in such
+capacity.  Mr. Blitz  remains an employee of Joel Popkin & Co.,  P.C.,  in which
+capacity he will continue to perform the Company's internal accounting as he has
+done since March  2000.  The  Company  paid Joel  Popkin & Co.  $52,261 for such
+accounting  services and $8,000 for tax preparation  services  performed in 2005
+and anticipates that it will pay similar amounts for such services in 2006.
+
+ITEM 14. PRINCIPAL ACCOUNTANT FEES AND SERVICES
+
+      On May 4,  2004,  the Board of  Directors  of the  Company  engaged  Grant
+Thornton LLP as the Company's new  independent  accountants  to replace KPMG LLP
+and, on June 23,  2005,  the Board of  Directors  of the Company  engaged  Holtz
+Rubenstein Reminick LLP as the Company's new independent  accountants to replace
+Grant  Thornton LLP. The following  table sets forth the aggregate fees incurred
+by the Company for the services of its principal accountants in 2005 and 2004:
+
+                                                           2005          2004
+                                                           ----          ----
+      Audit Fees....................................     $55,045       $51,500
+      Audit-Related Fees............................     $    --       $    --
+      Tax Fees......................................     $    --       $    --
+      All Other Fees................................     $    --       $    --
+
+      Audit fees  consist of  services  rendered to the Company for the audit of
+the Company's annual consolidated financial statements, reviews of the Company's
+quarterly financial statements and related services.
+
+      The  Company's  policy is that,  before  accountants  are  engaged  by the
+Company to render audit or non-audit  services,  the  engagement  is approved by
+Cadus's Board of
+
+39
+
+Directors.  Cadus's Board of Directors approved Holtz Rubenstein  Reminick LLP's
+engagement  as the  Company's  independent  auditors  for the fiscal year ending
+December 31, 2005 before Holtz  Rubenstein  Reminick LLP was so engaged.  All of
+the 2005 services described above were approved by the Board of Directors.
+
+      Cadus Corporation has agreed to indemnify and hold KPMG LLP, the Company's
+former  accountants,  harmless  against  and from any and all  legal  costs  and
+expenses  incurred  by KPMG LLP in  successful  defense  of any legal  action or
+proceeding that arises as a result of KPMG LLP's consent to the incorporation by
+reference  of its  audit  report  on the  Company's  past  financial  statements
+included herein and incorporated by reference in registration statements on Form
+S-8 (Nos. 333-58151 and 333-21871).
+
+40
+
+PART IV
+
+ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES.
+
+(1)   Documents Filed as Part of this Annual Report on Form 10-K
+
+(a)   FINANCIAL STATEMENTS                                                  PAGE
+      --------------------                                                  ----
+
+      Index to Financial Statements                                          F-1
+
+      Report of Independent Registered Public Accounting
+      Firm: Holtz Rubenstein Reminick LLP                                    F-2
+
+      Report of Independent Registered Public Accounting
+      Firm: Grant Thornton LLP                                               F-3
+
+      Report of Independent Registered Public Accounting
+      Firm: KPMG LLP                                                         F-4
+
+      Consolidated Financial Statements:
+        Consolidated Balance Sheets                                          F-5
+        Consolidated Statements of Operations                                F-6
+        Consolidated Statements of Stockholders' Equity and Comprehensive
+        (Loss) Income                                                        F-7
+        Consolidated Statements of Cash Flows                                F-8
+        Notes to Consolidated Financial Statements                           F-9
+
+41
+
+(b)   FINANCIAL STATEMENT SCHEDULES
+
+There are no financial  statement  schedules filed as part of this annual report
+since  the  required  information  is  included  in the  consolidated  financial
+statements,   including  the  notes  thereto,  or  the  circumstances  requiring
+inclusion of such schedules are not present.
+
+(c)   EXHIBITS
+
+The Exhibits listed below are filed or incorporated by reference as part of this
+annual report.
+
+EXHIBIT NO.       DESCRIPTION OF DOCUMENT
+- -----------       -----------------------
+
+3.1               Certificate  of Amendment of Amended and Restated  Certificate
+                  of   Incorporation   of   Cadus   Pharmaceutical   Corporation
+                  ("Cadus"), as filed with the Secretary of State of Delaware on
+                  June  20,  2003,  and  Amended  and  Restated  Certificate  of
+                  Incorporation  of Cadus,  as filed with the Secretary of State
+                  of Delaware on July 22, 1996.(8)
+
+3.2               By-laws of Cadus. (2)
+
+4.1               Specimen of Common Stock Certificate of Cadus. (2)
+
+4.2               1993 Cadus Pharmaceutical Corporation Stock Option Plan. (2)
+
+4.3               Cadus Pharmaceutical Corporation 1996 Incentive Plan. (2)
+
+4.4               Amendment to Cadus  Pharmaceutical  Corporation 1996 Incentive
+                  Plan. (1)
+
+4.5               Form  of  Incentive   Stock  Option   Agreement   utilized  in
+                  connection  with  issuances of stock  options  under the Cadus
+                  Pharmaceutical Corporation 1996 Incentive Plan. (1)
+
+4.6               Form of Stock Option  Agreement  between Cadus and each of the
+                  following  employees  of  Cadus:   Philip  N.  Sussman,   John
+                  Manfredi, Andrew Murphy, Jeremy Paul, Lauren Silverman, Joshua
+                  Trueheart,  James  S.  Rielly,  Thomas  F.  Deuel,  Norman  R.
+                  Klinman,  Elliott M. Ross, Jeremy Thorner, Arnold Levine, John
+                  Ransom,  Christine  Klein,  Suzanne K.  Wakamoto,  Christopher
+                  Pleiman,  Algis  Anilionis,   Anupama  K.  Nadkarni,  Mitchell
+                  Silverstein, Michael A. Spruyt and David Fruhling. (1)
+
+4.7               Form of Stock Option  Agreement  between Cadus and each of the
+                  following  non-employee  directors of Cadus:  Theodore Altman,
+                  Harold First, Carl Icahn, Peter Liebert, Robert Mitchell, Mark
+                  Rachesky,  William Scott, Jack Wasserman and Samuel D. Waksal.
+                  (1)
+
+4.8               Stock Purchase  Agreement between Cadus and SmithKline Beecham
+                  Corporation, dated as of February 25, 1997. (3)
+
+42
+
+4.9               Registration  Rights  Agreement  between Cadus and  SmithKline
+                  Beecham Corporation, dated as of February 25, 1997. (3)
+
+10.1              Form of  Indemnification  Agreement entered into between Cadus
+                  and its directors and officers. (2)
+
+10.2              Form  of  Agreement   Regarding   Assignment  of   Inventions,
+                  Confidentiality and Non-Competition. (2)
+
+10.3              The 401(k) Plan of the Cadus Pharmaceutical Corporation. (2)
+
+10.4              Employment Agreement between Jeremy M. Levin and Cadus. (2)
+
+10.5              Preferred  Stock Purchase  Agreement dated as of July 30, 1993
+                  between Cadus and the purchasers of Series A Preferred  Stock,
+                  together with the First and Second Amendments thereto dated as
+                  of July 26, 1994 and October 31, 1995, respectively. (2)
+
+10.6              Preferred  Stock Purchase  Agreement dated as of July 26, 1994
+                  between    Cadus    and    Bristol-Myers     Squibb    Company
+                  ("Bristol-Myers")   concerning   Series  B  Preferred   Stock,
+                  together with the First Amendment  thereto dated as of October
+                  31, 1995. (2)
+
+10.7              Preferred  Stock  Purchase  Agreement  dated as of November 1,
+                  1995  between  Cadus  and  Physica  B.V.  concerning  Series B
+                  Preferred Stock. (2)
+
+10.8              Research Collaboration and License Agreement, dated as of July
+                  26, 1994, between Cadus and Bristol-Myers. (2)
+
+10.9              Screening  and Option  Agreement,  dated as of July 26,  1994,
+                  between Cadus and Bristol-Myers. (2)
+
+10.10             Research  Collaboration  and  License  Agreement,  dated as of
+                  November 1, 1995 between Cadus and Solvay Pharmaceuticals B.V.
+                  (2)
+
+10.11             Sublease  Agreement,  dated as of October  19,  1994,  between
+                  Cadus and Union Carbide Corporation. (2)
+
+10.12             Lease,  dated as of June 20,  1995  between  Cadus  and  Keren
+                  Limited Partnership. (2)
+
+10.13             Consulting  Agreement between Cadus and James R. Broach, dated
+                  February 1, 1994. (2)
+
+43
+
+10.14             Amended and Restated License  Agreement between Cadus and Duke
+                  University, dated May 10, 1994. (2)
+
+10.15             License Agreement between Cadus and National Jewish Center for
+                  Immunology  and  Respiratory  Medicine dated November 1, 1994.
+                  (2)
+
+10.16             Stock Option Agreement,  dated as of November 1, 1994, between
+                  Cadus and John C. Cambier. (2)
+
+10.17             Stock Option Agreement,  dated as of November 1, 1994, between
+                  Cadus and Gary L. Johnson. (2)
+
+10.18             Consulting  Agreement,  dated as of November 1, 1994,  between
+                  Cadus and John C. Cambier. (2)
+
+10.19             Consulting  Agreement,  dated as of November 1, 1994,  between
+                  Cadus and Gary L. Johnson. (2)
+
+10.20             Research Collaboration Agreement, dated as of January 9, 1995,
+                  between  Cadus and Houghten  Pharmaceuticals,  Inc.,  together
+                  with the Amendment thereto dated as of March 1996. (2)
+
+10.21             Stock Option Agreement, dated as of December 18, 1995, between
+                  Cadus and James R. Broach. (2)
+
+10.22             Waiver,  dated May 17, 1996,  of Section 1.05 of the Preferred
+                  Stock  Purchase  Agreement  dated as of July 26, 1994  between
+                  Cadus and  Bristol-Myers,  as amended  by the First  Amendment
+                  thereto dated as of October 31, 1995. (2)
+
+10.23             Waiver,  dated May 17, 1996,  of Section 1.04 of the Preferred
+                  Stock Purchase  Agreement dated as of November 1, 1995 between
+                  Cadus and Physica B.V. (2)
+
+10.24             Research  Collaboration  and License  Agreement  among  Cadus,
+                  SmithKline Beecham  Corporation and SmithKline Beecham p.l.c.,
+                  dated as of February 25, 1997. (3)
+
+10.25             Employment Agreement, dated as of June 30, 1998, between Cadus
+                  and Charles Woler. (4)
+
+10.26             Employment Agreement,  dated as of September 10, 1998, between
+                  Cadus and Philip N. Sussman. (4)
+
+44
+
+10.27             Agreement and Instructions to Stakeholder  among Cadus,  SIBIA
+                  and Security Trust Company entered into in March 1999. (5)
+
+10.28             Asset Purchase  Agreement,  dated as of July 30, 1999, between
+                  Cadus and OSI  Pharmaceuticals,  Inc.  (Schedules to the Asset
+                  Purchase  Agreement  have been  intentionally  omitted.  Cadus
+                  hereby undertakes to furnish  supplementally to the Securities
+                  and  Exchange  Commission  upon  request a copy of the omitted
+                  schedules.) (6)
+
+10.29             Yeast Technology License  Agreement,  dated as of February 15,
+                  2000, between Cadus and OSI Pharmaceuticals, Inc. (Exhibits to
+                  the  Yeast  Technology   Agreement  have  been   intentionally
+                  omitted.  Cadus hereby undertakes to furnish supplementally to
+                  the Securities and Exchange  Commission upon request a copy of
+                  the omitted exhibits.) (7)
+
+23.1              Consent of Holtz Rubenstein Reminick LLP
+
+23.2              Consent of Grant Thornton LLP
+
+23.3              Consent of KPMG LLP
+
+24                Power of Attorney (filed as part of the signature page to this
+                  Report).
+
+31                Certifications
+
+32                Certification  Pursuant to 18 U.S.C.  Section 1350, as Adopted
+                  Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+
+- ----------
+
+(1)   Filed with Cadus's  Registration  Statement on Form S-8  (Registration No.
+      333-21871), dated February 14, 1997, and incorporated by reference.
+
+(2)   Filed with Cadus's  Registration  Statement on Form S-1  (Registration No.
+      333-4441), declared effective by the Securities and Exchange Commission on
+      July 17, 1996, and incorporated by reference.
+
+(3)   Filed with Cadus's  Current  Report on Form 8-K,  dated March 7, 1997, and
+      incorporated by reference.
+
+(4)   Filed with Cadus's  Quarterly Report on Form 10-Q for the quarterly period
+      ended September 30, 1998, and incorporated by reference.
+
+45
+
+(5)   Filed with  Cadus's  Annual  Report on Form 10-K for the fiscal year ended
+      December 31, 1998, and incorporated by reference.
+
+(6)   Filed with Cadus's  Quarterly Report on Form 10-Q for the quarterly period
+      ended June 30, 1999, and incorporated by reference.
+
+(7)   Filed with Cadus's  Quarterly Report on Form 10-Q for the quarterly period
+      ended March 31, 2000, and incorporated by reference.
+
+(8)   Filed with Cadus's  Quarterly Report on Form 10-Q for the quarterly period
+      ended June 30, 2003, and incorporated by reference.
+
+46
+
+SIGNATURES
+
+      Pursuant to the requirements of Section 13 of the Securities  Exchange Act
+of 1934,  the  Company has duly caused this report to be signed on its behalf by
+the undersigned, thereunto duly authorized.
+
+                                                CADUS CORPORATION
+
+By: /s/ David Blitz
+                                                    ----------------------------
+                                                    David Blitz, Chief Executive
+                                                    Officer and President
+
+Date: March 30, 2006
+
+      Each person whose signature  appears below  constitutes and appoints David
+Blitz  and Jack G.  Wasserman,  or  either  of  them,  each  with  the  power of
+substitution,  his true and lawful  attorney-in-fact  to sign any  amendments to
+this report and to file the same,  with exhibits  thereto and other documents in
+connection  therewith,  with the  Securities  and  Exchange  Commission,  hereby
+ratifying and confirming all that each said attorney-in-fact, or his substitute,
+may do or choose to be done by virtue hereof.
+
+      Pursuant to the requirements of the Securities  Exchange Act of 1934, this
+report has been signed below by the  following  persons on behalf of the Company
+and in the capacities and on the dates indicated below.
+
+      NAME                               TITLE                        DATE
+      ----                               -----                        ----
+
+/s/ David Blitz          Chief Executive Officer and President   March 30, 2006
+- ----------------------   (Principal Executive Officer and
+David Blitz              Principal Accounting Officer)
+
+/s/ James R. Broach      Director                                March 30, 2006
+- ----------------------
+James R. Broach
+
+/s/ Russell D. Glass     Director                                March 30, 2006
+- ----------------------
+Russell D. Glass
+
+- ----------------------   Director                                March __, 2006
+Carl C. Icahn
+
+/s/ Peter S. Liebert
+- ----------------------   Director                                March 30, 2006
+Peter S. Liebert
+
+/s/ Jack G. Wasserman    Director                                March 30, 2006
+- ----------------------
+Jack G. Wasserman
+
+47
+
+CADUS CORPORATION AND SUBSIDIARY
+
+                                      INDEX
+
+                                                                        Page No.
+
+Report of Independent Registered Public Accounting Firm:
+Holtz Rubenstein Reminick LLP                                             F-2
+
+Report of Independent Registered Public Accounting Firm:
+Grant Thornton LLP                                                        F-3
+
+Report of Independent Registered Public Accounting Firm:
+KPMG LLP                                                                  F-4
+
+Consolidated Financial Statements:
+
+    Consolidated Balance Sheets - December 31, 2005 and 2004              F-5
+
+    Consolidated Statements of Operations - For the years ended
+      December 31, 2005, 2004 and 2003                                    F-6
+
+    Consolidated Statements of Stockholders' Equity and Comprehensive
+      Income - For the years ended December 31, 2005, 2004 and 2003       F-7
+
+    Consolidated Statements of Cash Flows - For the years ended
+      December 31, 2005, 2004 and 2003                                    F-8
+
+    Notes to Consolidated Financial Statements                            F-9
+
+F-1
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+To the Board of Directors and Shareholders of
+Cadus Corporation:
+
+We have audited the accompanying consolidated balance sheet of Cadus Corporation
+and  subsidiary  (the  "Company")  as of  December  31,  2005,  and the  related
+consolidated  statements of operations,  stockholders'  equity and comprehensive
+income (loss),  and cash flows for year then ended.  These financial  statements
+are the  responsibility of the Company's  management.  Our  responsibility is to
+express an opinion on these financial statements based on our audit.
+
+We  conducted  our audit in  accordance  with  auditing  standards of the Public
+Company Accounting Oversight Board (United States). Those standards require that
+we plan and perform the audit to obtain  reasonable  assurance about whether the
+financial  statements  are free of  material  misstatement.  An  audit  includes
+examining,  on a test basis,  evidence supporting the amounts and disclosures in
+the  financial   statements,   assessing  the  accounting  principles  used  and
+significant  estimates  made by  management,  as well as evaluating  the overall
+financial  statement  presentation.   We  believe  that  our  audit  provides  a
+reasonable basis for our opinion.
+
+In our opinion,  the consolidated  financial  statements  present fairly, in all
+material  respects,  the  financial  position of the Company as of December  31,
+2005,  and the results of its  operations  and its cash flows for the year ended
+December 31, 2005 in conformity with accounting principles generally accepted in
+the United States of America.
+
+/s/ HOLTZ RUBENSTEIN REMINICK LLP
+
+New York, New York
+March 7, 2006
+
+F-2
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+To the Board of Directors and Shareholders of
+Cadus Corporation:
+
+We have audited the accompanying consolidated balance sheet of Cadus Corporation
+and  subsidiary  (the  "Company")  as of  December  31,  2004,  and the  related
+consolidated  statements of operations,  stockholders'  equity and comprehensive
+income (loss) and cash flows for year then ended. These financial statements are
+the responsibility of the Company's management. Our responsibility is to express
+an opinion on these financial statements based on our audit.
+
+We  conducted  our audit in  accordance  with  auditing  standards of the Public
+Company Accounting Oversight Board (United States). Those standards require that
+we plan and perform the audit to obtain  reasonable  assurance about whether the
+financial  statements  are free of  material  misstatement.  The  Company is not
+required  to have,  nor were we  engaged  to  perform  an audit of its  internal
+control over financial reporting.  Our audit included  consideration of internal
+control over financial  reporting as a basis for designing audit procedures that
+are appropriate in the  circumstances,  but not for the purpose of expressing an
+opinion on the  effectiveness  of the Company's  internal control over financial
+reporting.  Accordingly,  we express  no such  opinion.  An audit also  includes
+examining,  on a test basis,  evidence supporting the amounts and disclosures in
+the  financial   statements,   assessing  the  accounting  principles  used  and
+significant  estimates  made by  management,  as well as evaluating  the overall
+financial  statement  presentation.   We  believe  that  our  audit  provides  a
+reasonable basis for our opinion.
+
+In our opinion,  the consolidated  financial  statements  present fairly, in all
+material  respects,  the  financial  position of the Company as of December  31,
+2004,  and the results of its  operations  and its cash flows for the year ended
+December 31, 2004 in conformity with accounting principles generally accepted in
+the United States of America.
+
+/s/ GRANT THORNTON LLP
+
+New York, New York
+February 18, 2005
+
+F-3
+
+REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+The Board of Directors and Stockholders
+Cadus Corporation:
+
+We  have  audited  the  accompanying   consolidated  statements  of  operations,
+stockholders'  equity and comprehensive  (loss) income,  and cash flows of Cadus
+Corporation  and  subsidiary  for  the  year  ended  December  31,  2003.  These
+consolidated  financial  statements  are  the  responsibility  of the  Company's
+management.  Our  responsibility is to express an opinion on these  consolidated
+financial statements based on our audit.
+
+We conducted  our audit in accordance  with the standards of the Public  Company
+Accounting Oversight Board (United States). Those standards require that we plan
+and perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement.  An audit includes examining, on a
+test basis,  evidence  supporting  the amounts and  disclosures in the financial
+statements.  An audit also includes assessing the accounting principles used and
+significant  estimates  made by  management,  as well as evaluating  the overall
+financial  statement  presentation.   We  believe  that  our  audit  provides  a
+reasonable basis for our opinion.
+
+In our opinion, the consolidated  financial statements referred to above present
+fairly,  in all material  respects,  the results of the  operations and the cash
+flows of Cadus  Corporation and subsidiary for the year ended December 31, 2003,
+in conformity with accounting principles generally accepted in the United States
+of America.
+
+Melville, New York
+March 19, 2004                                                /s/ KPMG LLP
+
+F-4
+
+CADUS CORPORATION AND SUBSIDIARY
+                           CONSOLIDATED BALANCE SHEETS
+
+The accompanying notes are an integral part of these
+                       consolidated financial statements.
+
+F-5
+
+CADUS CORPORATION AND SUBSIDIARY
+                      CONSOLIDATED STATEMENTS OF OPERATIONS
+
+The accompanying notes are an integral part of these
+                       consolidated financial statements.
+
+F-6
+
+CADUS CORPORATION AND SUBSIDIARY
+ CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY AND COMPREHENSIVE (LOSS) INCOME
+
+The accompanying notes are an integral part of these
+                       consolidated financial statements.
+
+F-7
+
+CADUS CORPORATION AND SUBSIDIARY
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+The accompanying notes are an integral part of these
+                       consolidated financial statements.
+
+F-8
+
+CADUS CORPORATION AND SUBSIDIARY
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                        DECEMBER 31, 2005, 2004 AND 2003
+
+                                 ---------------
+
+(1)   Organization and Basis of Preparation
+
+      Cadus  Corporation  ("Cadus") was  incorporated on January 23, 1992, under
+      the  laws of the  State  of  Delaware.  Cadus  changed  its  name to Cadus
+      Corporation  from Cadus  Pharmaceutical  Corporation on June 20, 2003. The
+      change in name was approved by the stockholders of Cadus at Cadus's annual
+      meeting of stockholders held on June 18, 2003.
+
+      Until July 30, 1999, Cadus devoted  substantially  all of its resources to
+      the  development  and  application  of novel  yeast-based  and other  drug
+      discovery technologies.  As further discussed in Note 3, on July 30, 1999,
+      Cadus sold its drug discovery assets to OSI Pharmaceuticals,  Inc. ("OSI")
+      and ceased its internal drug discovery operations and research efforts for
+      collaborative partners.  Cadus is seeking to license its technologies,  to
+      otherwise  realize  value  from its  assets  and to use a  portion  of its
+      available cash to acquire technologies or products or to acquire or invest
+      in companies.
+
+      In  December  2001,  Cadus  organized  a wholly  owned  subsidiary,  Cadus
+      Technologies,  Inc. (the  "Subsidiary"),  and  transferred its yeast-based
+      drug discovery technologies to the Subsidiary.
+
+(2)   Significant Accounting Policies
+
+      (a)   Principles of Consolidation
+
+            The consolidated  financial statements include the accounts of Cadus
+            and its  wholly  owned  subsidiary,  Cadus  Technologies,  Inc.  All
+            intercompany  balances  and  transactions  have been  eliminated  in
+            consolidation.  The Company  operates  in one  segment and  licenses
+            novel yeast-based and other drug discovery technologies.
+
+      (b)   Cash Equivalents
+
+            The  Company   includes  as  cash   equivalents  all  highly  liquid
+            investments  with  original  maturities of three months or less when
+            purchased  to  be  cash  equivalents.  Included  in  cash  and  cash
+            equivalents  at December 31, 2005 and 2004 were cash  equivalents of
+            $23,912,020 and $23,171,572, respectively.
+
+      (c)   Other Assets
+
+            Other  non-current  assets  represent  the costs of  developing  the
+            patents that are amortized on a straight-line basis principally over
+            seventeen   years.  At  December  31,  2005  and  2004   accumulated
+            amortization  is $716,120 and $631,990,
+
+F-9
+
+CADUS CORPORATION AND SUBSIDIARY
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                        DECEMBER 31, 2005, 2004 AND 2003
+
+                                 ---------------
+
+            respectively.   Amortization   expense   recorded   in  general  and
+            administrative  expenses amounted to approximately $84,000,  $81,000
+            and $81,000 for each of the years ended  December 31 2005,  2004 and
+            2003.  The  annual  amortization  for the next  five  years  will be
+            approximately  $84,000 per year.  The Company  reviews the  carrying
+            value of its  patents  whenever  events or changes in  circumstances
+            indicate that the historical  cost carrying value of the patents may
+            no longer be  appropriate.  The  amortizable  patents are tested for
+            impairment  based on  undiscounted  cash  flows  and,  if  impaired,
+            written down to fair value based on either  discounted cash flows or
+            appraised values.
+
+      (d)   Income Taxes
+
+            Income taxes are accounted for under the asset and liability method.
+            Deferred tax assets and  liabilities  are  recognized for the future
+            tax consequences  attributable to differences  between the financial
+            statements  carrying  amounts of existing assets and liabilities and
+            their  respective  tax  bases  and  operating  loss  and tax  credit
+            carryforwards.  Deferred  tax assets and  liabilities  are  measured
+            using enacted tax rates  expected to apply to taxable  income in the
+            years  in which  those  temporary  differences  are  expected  to be
+            recovered  or  settled.  The  effect  on  deferred  tax  assets  and
+            liabilities  of a change in tax rates is recognized in income in the
+            period that includes the enactment date.
+
+      (e)   Revenue Recognition
+
+            The Company has entered into license  agreements  with two companies
+            to use its yeast technology on a non-exclusive basis. The agreements
+            provide  for  the  payment  of  non-refundable  license  fees to the
+            Company.  The Company  recognizes  the  license  fees as income when
+            received, as there are no continuing performance  obligations of the
+            Company to the licensees.
+
+      (f)   Net (Loss) Per Share
+
+            Basic net (loss) per share is computed by dividing the net (loss) by
+            the weighted  average number of common shares  outstanding.  Diluted
+            earnings per share is  calculated  based on the weighted  average of
+            common shares  outstanding  plus the effect of dilutive common stock
+            equivalents  (stock  options).  The effect of stock options totaling
+            57,167,  79,236 and 434,307 for the years ended  December  31, 2005,
+            2004 and 2003, respectively, were not included in the net (loss) per
+            share   calculation   because   their   effect   would   have   been
+            anti-dilutive.
+
+      (g)   Use of Estimates
+
+F-10
+
+CADUS CORPORATION AND SUBSIDIARY
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                        DECEMBER 31, 2005, 2004 AND 2003
+
+                                 ---------------
+
+            The   preparation  of  financial   statements  in  conformity   with
+            accounting  principles  generally  accepted in the United  States of
+            America  requires  management to make estimates and assumptions that
+            affect the reported amounts of assets and liabilities and disclosure
+            of contingent assets and liabilities at the date of the consolidated
+            financial  statements  and the  reported  amounts  of  revenues  and
+            expenses  during the reporting  period.  Actual results could differ
+            from those estimates.
+
+      (h)   Fair Value of Financial Instruments
+
+            Management of the Company  believes  that the carrying  value of its
+            monetary assets and liabilities  approximates fair value as a result
+            of the short term nature of such assets and liabilities.
+
+            Financial  instruments  which  potentially  subject  the  Company to
+            concentrations of credit risk consist  principally of temporary cash
+            investments. From time to time, the cash balances exceed the Federal
+            Depository  Insurance Coverage Limit. At December 31, 2005, the cash
+            balance approximated  $23,911,000.  The Company places its temporary
+            cash investments with high credit quality financial institutions.
+
+      (i)   Stock-Based Compensation
+
+            As  permitted by the  provisions  of SFAS No. 123,  "ACCOUNTING  FOR
+            STOCK-BASED   COMPENSATION,"  the  Company  has  elected  to  follow
+            Accounting  Principles  Board,  APB, No. 25,  "ACCOUNTING  FOR STOCK
+            ISSUED TO  EMPLOYEES,"  which uses the  intrinsic  value  method and
+            generally  recognizes no compensation cost for employee stock option
+            grants. The Company does not recognize any compensation  expense for
+            options  granted to employees  because it grants all options at fair
+            market value on the date of grant.  The adoption of SFAS No. 123R in
+            2006 will require the Company to expense stock option grants.
+
+            Pro forma net (loss)  would be the same as the  reported  net (loss)
+            for each of the years in the  three-year  period ended  December 31,
+            2005 had the fair-value-based method been applied to all outstanding
+            awards, which were fully vested as of December 31, 1999.
+
+      (j)   Comprehensive (Loss) Income
+
+            Comprehensive  (loss)  income is comprised of net (loss)  income and
+            other  comprehensive  (losses) income (or OCI). OCI includes certain
+            changes in
+
+F-11
+
+CADUS CORPORATION AND SUBSIDIARY
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                        DECEMBER 31, 2005, 2004 AND 2003
+
+                                 ---------------
+
+            stockholders'  equity  that are  excluded  from net  (loss)  income.
+            Specifically,  the Company  includes  in OCI  changes in  unrealized
+            gains and losses on its available-for-sale securities. Comprehensive
+            (loss) income for the years ended  December 31, 2005,  2004 and 2003
+            has been reflected in the  consolidated  statements of stockholders'
+            equity.  The  Company's  operations in 2005 and 2004 gave rise to an
+            unrealized loss on marketable securities classified as available for
+            sale.  The  Company's  operations in 2003 gave rise to an unrealized
+            gain on marketable securities classified as available for sale.
+
+      (k)   Recently Issued Accounting Standards
+
+            In  December  2004,  the FASB  issued  SFAS No.  123R  "SHARE  BASED
+            PAYMENT." This  statement is a revision to SFAS No. 123,  supersedes
+            APB No. 25,  "ACCOUNTING  FOR STOCK ISSUED TO EMPLOYEES," and amends
+            SFAS No. 95,  "STATEMENT OF CASH FLOWS." This statement will require
+            the  Company to expense the cost of  employee  services  received in
+            exchange for an award of equity  instruments.  This  statement  also
+            provides  guidance on valuing and expensing these awards, as well as
+            disclosure  requirements,  and is  effective  for the first  interim
+            reporting period that begins after December 15, 2005.
+
+            SFAS No.  123R  permits  public  companies  to  choose  between  the
+            following two adoption methods:
+
+            1. A "modified  prospective"  method in which  compensation  cost is
+            recognized  beginning  with  the  effective  date  (a)  based on the
+            requirements of SFAS No. 123R for all share-based  payments  granted
+            after the effective date and (b) based on the  requirements  of SFAS
+            No. 123 for all awards  granted to employees  prior to the effective
+            date of SFAS No. 123R that remain unvested on the effective date, or
+
+            2. A "modified retrospective" method which includes the requirements
+            of the modified prospective method described above, but also permits
+            entities to restate based on the amounts previously recognized under
+            SFAS No. 123 for  purposes of pro forma  disclosures  either (a) all
+            prior periods  presented or (b) prior interim periods of the year of
+            adoption.
+
+            As  permitted by SFAS No. 123,  the Company  currently  accounts for
+            share-based  payments to  employees  using the APB No. 25  intrinsic
+            value method and recognizes no compensation  cost for employee stock
+            options.  The  impact of the  adoption  of SFAS No.  123R  cannot be
+            predicted  at  this  time  because  it  will  depend  on  levels  of
+            share-based payments granted in the future. However,
+
+F-12
+
+CADUS CORPORATION AND SUBSIDIARY
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                        DECEMBER 31, 2005, 2004 AND 2003
+
+                                 ---------------
+
+            valuation of employee  stock  options under SFAS No. 123R is similar
+            to SFAS No. 123, with some  exceptions.  For information  about what
+            the Company's  reported results of operations and earnings per share
+            would  have been had it adopted  SFAS No.  123,  see the  discussion
+            under the  heading  "Stock-Based  Compensation"  in this  note.  The
+            adoption of SFAS No.  123R's fair value method may have an impact on
+            the Company's results of operations, although it will have no impact
+            on its  overall  financial  position.  The  Company  will  apply the
+            modified  prospective  method when  adopted in the first  quarter of
+            2006.
+
+            In  December  2004,  the FASB  issued  SFAS No.  153,  EXCHANGES  OF
+            NONMONETARY  ASSETS,  AN  AMENDMENT  of APB No. 29,  ACCOUNTING  FOR
+            NONMONETARY  TRANSACTIONS.   SFAS  No.  153  requires  exchanges  of
+            productive assets to be accounted for at fair value,  rather than at
+            carryover basis, unless (1) neither the asset received nor the asset
+            surrendered has a fair value that is determinable  within reasonable
+            limits or (2) the transactions lack commercial  substance.  SFAS No.
+            153 is effective for nonmonetary asset exchanges occurring in fiscal
+            periods  beginning  after June 15, 2005. The Company does not expect
+            the  adoption  of this  standard  to have a  material  effect on its
+            financial position, results of operations or cash flows.
+
+            In May 2005, the FASB issued SFAS No. 154,  "ACCOUNTING  CHANGES AND
+            ERROR  CORRECTIONS"  ("SFAS No. 154"),  a replacement of APB Opinion
+            No. 20 and FASB Statement No. 3, which changes the  requirements for
+            the   accounting  for  and  reporting  of  a  change  in  accounting
+            principle.  SFAS  No.  154  applies  to  all  voluntary  changes  in
+            accounting  principle.  It also  applies to changes  required  by an
+            accounting   pronouncement   in  the  unusual   instance   that  the
+            pronouncement  does  not  include  specific  transition  provisions.
+            Opinion  20  previously  required  that most  voluntary  changes  in
+            accounting principle be recognized by including in net income of the
+            period of the change the  cumulative  effect of  changing to the new
+            accounting   principle.   SFAS  No.   154   requires   retrospective
+            application  to prior  periods'  financial  statements of changes in
+            accounting principle, unless it is impracticable to determine either
+            the period-specific  effects or the cumulative effect of the change.
+            SFAS  No.  154  also  requires   that  a  change  in   depreciation,
+            amortization,  or  depletion  method  for  long-lived,  nonfinancial
+            assets be accounted for as a change in accounting  estimate effected
+            by a change in accounting  principle.  SFAS No. 154 is effective for
+            accounting  changes and  corrections  of errors made in fiscal years
+            beginning after December 15, 2005.
+
+            In March 2004,  the EITF  released  Issue No. 03-1,  "THE MEANING OF
+            OTHER-THAN-TEMPORARY  IMPAIRMENT  AND  ITS  APPLICATION  TO  CERTAIN
+            INVESTMENTS."  EITF 03-1 provides  guidance for determining  whether
+            impairment   for   certain   debt   and   equity    investments   is
+            other-than-temporary and the measurement of an impaired loss.
+
+F-13
+
+CADUS CORPORATION AND SUBSIDIARY
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                        DECEMBER 31, 2005, 2004 AND 2003
+
+                                 ---------------
+
+            The  recognition  and  measurement  requirements  of EITF  03-1 were
+            initially  effective for reporting  periods beginning after June 15,
+            2004. In September  2004,  the FASB Staff issued FASB Staff Position
+            EITF 03-1-1 that delayed the effective date for certain  measurement
+            and  recognition  guidance  contained in EITF 03-1. The FSP requires
+            that    entities    continue    to   apply    previously    existing
+            "other-than-temporary"  guidance until a final consensus is reached.
+            Management  does not anticipate  that issuance of a final  consensus
+            will materially impact the Company's  financial condition or results
+            of operations.
+
+(3)   Asset Sale to OSI Pharmaceuticals, Inc.
+
+      On July  30,  1999,  Cadus  sold to OSI,  pursuant  to an  asset  purchase
+      agreement,  its  drug  discovery  programs  focused  on G  protein-coupled
+      receptors,  its directed library of  approximately  150,000 small molecule
+      compounds   specifically   designed   for   drug   discovery   in   the  G
+      protein-coupled    receptor   arena,   its   collaboration   with   Solvay
+      Pharmaceuticals B.V. ("Solvay Pharmaceuticals"), and certain other assets.
+      Cadus  is  entitled  to  royalties  and up to $3.0  million  in  milestone
+      payments on the first product  derived from  compounds sold to OSI or from
+      the collaboration with Solvay Pharmaceuticals.  Cadus licensed to OSI on a
+      non-exclusive basis certain technology solely to enable OSI to fulfill its
+      obligations under the  collaboration  with Solvay  Pharmaceuticals.  Cadus
+      also licensed to OSI on a non-exclusive basis certain proprietary software
+      and technology relating to chemical resins in order to enable OSI to fully
+      benefit  from  the  compounds  it  acquired  from  Cadus.  Cadus  retained
+      ownership of all its other assets, including its core yeast technology for
+      developing   drug  discovery   assays,   its  collection  of  over  25,000
+      proprietary  yeast  strains,  human  and  mammalian  cell  lines,  genetic
+      engineering tools, and its genomics databases related to G protein-coupled
+      receptors.
+
+(4)   Investments in Other Ventures
+
+      In December 1996, Cadus issued a $150,000 promissory note bearing interest
+      at 7% per annum in  exchange  for a 42%  limited  partnership  interest in
+      Laurel Partners Limited Partnership  ("Laurel"),  a limited partnership of
+      which a shareholder of Cadus is the general partner.  The principal amount
+      and  interest  thereon  was paid in  December  1998.  In  addition,  Cadus
+      purchased  for  $160,660 in cash,  a 47% limited  partnership  interest in
+      Laurel  from  Tortoise  Corporation,  a  corporation  wholly-owned  by the
+      shareholder.  Laurel's  purpose is to invest,  directly or indirectly,  in
+      securities of biotechnology  companies.  Cadus is not required to make any
+      additional investment in Laurel. As of and for the year ended December 31,
+      2005,  Laurel's  assets  and  net  income  totaled  $278,861  and  $4,225,
+      respectively. The investment is accounted for under the equity method with
+      the  recognition of losses limited to Cadus's capital  contributions.  For
+      the
+
+F-14
+
+CADUS CORPORATION AND SUBSIDIARY
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                        DECEMBER 31, 2005, 2004 AND 2003
+
+                                 ---------------
+
+      years ended  December  31,  2005,  2004 and 2003 Cadus  recognized  income
+      (losses) of $3,769,  ($5,168) and ($2,117),  respectively,  related to the
+      investment. The Company's investment in Laurel of $161,406 and $157,637 at
+      December 31, 2005 and 2004,  respectively,  is reflected as investments in
+      other ventures in the accompanying consolidated balance sheets.
+
+(5)   Investment In Marketable Securities
+
+      Cadus had an equity interest in Axiom Biotechnologies, Inc. ("Axiom"). Due
+      to Axiom's operating losses,  Cadus's  investment was written down to zero
+      as of December  31, 2000.  On August 30, 2002 Axiom  entered into a merger
+      agreement with a wholly owned  subsidiary of Sequenom,  Inc.  ("Sequenom")
+      whose shares of common stock are  publicly  traded on the Nasdaq  National
+      Market.  Pursuant to the merger,  Cadus received  441,446 common shares of
+      Sequenom with a fair market value of $2.43 per share,  in exchange for its
+      shares of Axiom. Pursuant to the merger, 102,685 of Cadus's 441,446 common
+      shares of  Sequenom  were  held in  escrow  (the  "Escrow  Shares")  for a
+      one-year  period.  The  Escrow  Shares  were  held  to  secure  rights  to
+      indemnification,  compensation  and  reimbursement  of Sequenom  and other
+      indemnitees as provided in the merger  agreement.  Upon the closing of the
+      transaction,  Cadus  recorded a realized  gain of $823,189  related to the
+      338,761 common shares received in the consolidated statement of operations
+      for the year ended  December 31,  2002.  The Company was  restricted  from
+      selling  the shares for a period of one year from  August  30,  2002.  The
+      value of the Escrow  Shares  received was  recorded as a deferred  gain on
+      marketable securities on the December 31, 2002 consolidated balance sheet.
+      On August 30, 2003, the Escrow Shares were released and  accordingly,  the
+      Company  recorded a realized gain on marketable  securities of $313,189 in
+      the  consolidated  statement of operations for the year ended December 31,
+      2003.
+
+      In May 2004,  the Company  became aware that 38,507  shares of the 102,685
+      Escrow Shares were forfeited pursuant to the indemnification provisions of
+      the  merger  agreement  and  therefore  were not  issued  to the  Company.
+      Accordingly,  to reflect this  reduction of the Escrow Shares  received by
+      the  Company,  the  investment  in  marketable  securities  was reduced by
+      $123,222.
+
+      Pursuant to the provisions of SFAS No. 115,  "ACCOUNTING  FOR CERTAIN DEBT
+      AND EQUITY SECURITIES,"  management deems its investment in Sequenom to be
+      available  for sale and  reports  its  investment  at fair  value with net
+      unrealized  gains or losses  reported  within  stockholders'  equity.  The
+      Company's  unrealized  (loss)  of  ($862,379)  and  ($556,146)  on  shares
+      received is reflected in accumulated other comprehensive  income (loss) at
+      December 31, 2005 and December 31, 2004, respectively.
+
+F-15
+
+CADUS CORPORATION AND SUBSIDIARY
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                        DECEMBER 31, 2005, 2004 AND 2003
+
+                                 ---------------
+
+(6)   Licensing Agreements
+
+      In  December  2001,  Cadus   Technologies,   Inc.,  Cadus's  wholly  owned
+      subsidiary,  licensed its  yeast-based  drug discovery  technologies  on a
+      non-exclusive  basis to a major  pharmaceutical  company. On September 12,
+      2003,  the parties  entered into an addendum to the agreement  pursuant to
+      which the Company  extended the license to an affiliate of the licensee in
+      consideration  for the  licensee  agreeing to pay $120,000 to the Company.
+      The  licensee  is  entitled  to use the  technologies  for five years from
+      December  2001.  Following  the initial  five year term,  the licensee may
+      renew the license  annually  upon  payment of an annual  licensing  fee of
+      $250,000.  For the years  ended  December  31,  2005,  2004 and 2003,  the
+      Company recognized $0, $0 and $120,000,  respectively,  in license revenue
+      from the licensee.
+
+      In February 2000,  Cadus licensed to OSI, on a  non-exclusive  basis,  its
+      yeast-based drug discovery  technologies,  including  various reagents and
+      its library of over 30,000 yeast strains, and its bioinformatics software.
+      OSI is obligated to pay an annual  maintenance  fee of $100,000  until the
+      earlier of 2010 or the  termination of the license.  OSI may terminate the
+      license at any time on 30 days prior written  notice.  For the years ended
+      December 31, 2005,  2004 and 2003,  the Company  recognized  $100,000 each
+      year in license and maintenance fees from OSI.
+
+(7)   Research Collaboration and License Agreements
+
+      Cadus no longer has any collaborations with pharmaceutical  companies. The
+      Bristol-Myers  Squibb  Company  collaboration  expired in July  1999,  the
+      Solvay  Pharmaceutical  collaboration was assigned to OSI in July 1999 and
+      Cadus  and   SmithKline   Beecham   p.l.c.   agreed  to  terminate   their
+      collaboration in September 1999. Each of Bristol-Myers  Squibb Company and
+      SmithKline  Beecham p.l.c.  is required to make payments to Cadus upon the
+      achievement by it of certain pre-clinical and drug development  milestones
+      and to pay Cadus  royalties on the sale of any drugs developed as a result
+      of the  research  collaboration  with Cadus or through  the use of Cadus's
+      drug  discovery  technologies.  There  can be no  assurance  that any such
+      milestones will be achieved or any such drugs developed.
+
+      The  Company  has entered  into  license  agreements  with  various  third
+      parties.  Generally,  the  agreements  provide  that the Company  will pay
+      license  fees  and/or  maintenance  payments,  in  return  for  the use of
+      technology  and  information  and the right to  manufacture,  use and sell
+      future  products.  These  agreements  provide  for  payments  based on the
+      completion of milestone  events,  as well as royalty payments based upon a
+      percentage  of  product  or assay  sales.  License  fees  and  maintenance
+      payments  for the  years  ended  December  31,  2005,  2004 and 2003  were
+      $52,000, $0 and $27,000, respectively.
+
+F-16
+
+CADUS CORPORATION AND SUBSIDIARY
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                        DECEMBER 31, 2005, 2004 AND 2003
+
+                                 ---------------
+
+(8)   Income Taxes
+
+      Deferred  tax  assets of  approximately  $15,610,000  and  $15,588,000  at
+      December  31,  2005 and  2004,  respectively,  relate  principally  to net
+      operating loss carryforwards of $29,260,000 and $29,204,000,  research and
+      development credit carryforwards of $2,535,000 and $2,535,000,  and equity
+      losses on  investments  of $2,864,000  and $2,864,000 at December 31, 2005
+      and  2004,  respectively.  An  offsetting  valuation  allowance  has  been
+      established  for the full amount of the deferred tax assets to reduce such
+      assets to zero, as a result of the significant uncertainty regarding their
+      ultimate realization.  The aggregate valuation allowance increased $22,000
+      and  $449,000   during  the  years  ended  December  31,  2005  and  2004,
+      respectively.
+
+      The  Company's  net  operating   loss   carryforwards   and  research  and
+      development credit  carryforwards noted above expire in various years from
+      2007 to 2025. The Company's ability to utilize such net operating loss and
+      research  and  development  credit  carryforwards  is  subject  to certain
+      limitations due to ownership changes, as defined by rules enacted with the
+      Tax Reform Act of 1986. The Company's tax  provision/benefit for each year
+      represents an amount for New York state tax on capital.  There has been no
+      provision for federal income taxes in 2005, 2004 and 2003, due to the loss
+      in each year.
+
+(9)   Stock Options
+
+      (a)   The 1993 Stock  Option Plan ("the 1993 Plan") was adopted in January
+            1993.  The 1993 Plan  provides  for the grant of  options  to reward
+            executives,  consultants  and  employees  in order to foster in such
+            personnel an increased  personal  interest in the future  growth and
+            prosperity of Cadus.  The options granted under the 1993 Plan may be
+            either incentive stock options or nonqualified options. An aggregate
+            of 666,667  common shares were reserved for issuance  under the 1993
+            Plan.
+
+            Options  granted  under the 1993 Plan expire no later than ten years
+            from the date of grant.  The option price is required to be at least
+            100%  and 85% of the  fair  market  value  on the  date of  grant as
+            determined by the Board of Directors for incentive stock options and
+            nonqualified  options,  respectively.  The options  generally become
+            exercisable  according to a schedule of vesting as determined by the
+            Compensation  Committee  of the  Board of  Directors.  The  schedule
+            prescribes   the  date  or  dates  on  which  the   options   become
+            exercisable, and may provide that the option rights accrue or become
+            exercisable in installments over a period of months or years.
+
+F-17
+
+CADUS CORPORATION AND SUBSIDIARY
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                        DECEMBER 31, 2005, 2004 AND 2003
+
+                                 ---------------
+
+            Activity under the 1993 Plan is as follows:
+
+                                                     Options Outstanding
+                                                                Weighted Average
+                                            Number of Shares     Exercise Price
+                                            ----------------    ----------------
+Balance at December 31, 2002                         276,739              $1.52
+
+2003 activity
+    Canceled                                        (175,002)                --
+                                                 -----------
+Balance at December 31, 2003                         101,737              $1.50
+2004 activity
+    Canceled                                        (101,737)                --
+                                                 -----------
+Balance at December 31, 2004 and 2005                  -0-                   --
+                                                 ===========
+
+      (b)   Cadus entered into stock option  agreements not pursuant to any plan
+            with certain directors,  employees, founders and consultants.  These
+            options  generally  become  exercisable  according  to a schedule of
+            vesting as determined by the Compensation  Committee of the Board of
+            Directors.  The options become  exercisable in  installments  over a
+            period of months or years.  As of December 31, 2005, an aggregate of
+            48,000  common  shares was reserved  for  issuance  pursuant to such
+            stock option agreements.
+
+            In November  1996,  the  Compensation  Committee  granted to certain
+            directors  then in office an option  to  purchase  12,000  shares of
+            common  stock at an  exercise  price of $6.75 per share.  Each stock
+            option grant is fully  exercisable  and expires in November 2006 and
+            is included in the table below.
+
+F-18
+
+CADUS CORPORATION AND SUBSIDIARY
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                        DECEMBER 31, 2005, 2004 AND 2003
+
+                                 ---------------
+
+            Activity for all the above grants not issued pursuant to any plan is
+            as follows:
+
+                                                   Options Outstanding
+                                                                Weighted Average
+                                           Number of Shares      Exercise Price
+                                           ----------------     ----------------
+
+Balance at December 31, 2002                        323,403                $2.42
+
+2003 activity                                            --                   --
+                                                -----------
+Balance at December 31, 2003                        323,403                $2.42
+
+2004 activity
+
+    Cancelled                                      (253,334)                  --
+                                                -----------
+Balance at December 31, 2004                         70,069                $5.76
+
+2005 activity
+
+    Cancelled                                       (22,069)                  --
+                                                -----------
+
+Balance at December 31, 2005                         48,000                $6.75
+                                                ===========
+
+            The following table summarizes  stock option  information for grants
+            not subject to any plan as of December 31, 2005:
+
+(c)   Effective  May 10,  1996,  the 1993  Plan was  replaced  by the 1996
+            Incentive  Plan ("the 1996 Plan") with respect to all future  awards
+            to Cadus's employees and consultants.  The options granted under the
+            1996 Plan may be either  incentive  stock  options  or  nonqualified
+            options.  In December  1996,  the maximum number of shares of common
+            stock  that may be the  subject of awards  under the 1996  Incentive
+            Plan was increased from 333,334 to 833,334 (plus any shares that are
+            the  subject  of  canceled  or  forfeited  awards)  by the  Board of
+            Directors  and such  increase  was approved by the  stockholders  of
+            Cadus in June 1997. In December  1997,  the maximum number of shares
+            of common  stock that may be the  subject  of awards  under the 1996
+            Incentive Plan was increased to 1,833,334  (plus any shares that are
+            the  subject  of  canceled  or  forfeited  awards)  by the  Board of
+            Directors and approved by the stockholders of Cadus in June 1998. On
+            December 31, 2005,  1,736,221 shares of stock remained available for
+            awards under the 1996 Plan.
+
+F-19
+
+CADUS CORPORATION AND SUBSIDIARY
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                        DECEMBER 31, 2005, 2004 AND 2003
+
+                                 ---------------
+
+            Options  granted  under the 1996 Plan expire no later than ten years
+            from the date of grant.  The option price is required to be at least
+            100% of the fair  value on the  date of grant as  determined  by the
+            Board of Directors for incentive and nonqualified stock options. The
+            options  generally  become  exercisable  according  to a schedule of
+            vesting as determined by the Compensation  Committee of the Board of
+            Directors.  The schedule  prescribes  the date or dates on which the
+            options become  exercisable in installments  over a period of months
+            or years.
+
+            Activity under the 1996 Plan is as follows:
+
+                                                     Options Outstanding
+                                                                Weighted Average
+                                            Number of Shares     Exercise Price
+                                            ----------------
+Balance at December 31, 2002                           9,167               $6.56
+2003 activity                                            --                  --
+                                                  ----------
+Balance at December 31, 2003                           9,167               $6.56
+2004 activity                                             --                  --
+                                                  ----------
+Balance at December 31, 2004                           9,167               $6.56
+2005 activity                                             --                  --
+                                                  ----------
+Balance at December 31, 2005                           9,167               $6.56
+                                                  ==========
+
+            The following table summarizes stock option information for the 1996
+            Plan as of December 31, 2005:
+
+F-20
+
+CADUS CORPORATION AND SUBSIDIARY
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                        DECEMBER 31, 2005, 2004 AND 2003
+
+                                 ---------------
+
+(10)  Accrued Expenses and Other Current Liabilities
+
+      Accrued  expenses  and other  current  liabilities  are  comprised  of the
+      following:
+
+                                                              2005          2004
+                                                              ----          ----
+
+Accrued professional fees                                 $ 27,290      $ 14,327
+Other accrued expenses                                          --            --
+                                                          --------      --------
+Total                                                     $ 27,290      $ 14,327
+                                                          ========      ========
+
+(11)  Related Party Transactions
+
+      James Broach, a member of Cadus' Board of Directors,  provides  consulting
+      services to the Company for patent and license related matters,  for which
+      he was paid $17,000,  $13,000 and $13,000 in calendar years 2005, 2004 and
+      2003, respectively. These consulting services were recorded as a component
+      of general  and  administrative  expenses  during  each of the  respective
+      periods.  No amounts were included in accrued  expenses as of December 31,
+      2005, 2004 and 2003.
+
+      In May 2004, the Board of Directors appointed David Blitz the acting Chief
+      Executive  Officer of the Company at the rate of $25,000 per annum for the
+      interim period during which the Company is continuing its search for a new
+      Chief  Executive  Officer.  In 2005 and 2004, the Company paid $25,000 and
+      $15,625, respectively, to Mr. Blitz in such capacity. Mr. Blitz remains an
+      employee of Joel Popkin & Co.,  P.C.,  in which  capacity he has performed
+      the Company's internal  accounting since March 2000. The Company paid Joel
+      Popkin & Co. $52,261 and $54,687 for such accounting  services in 2005 and
+      2004,  respectively,  and  $8,000  in  each  of  2005  and  2004  for  tax
+      preparation services performed in 2005 and 2004.
+
+(12)  Commitments and Contingencies
+
+      Lease Commitments
+
+      Cadus  currently  leases  storage space on a  month-to-month  basis.  Rent
+      expense,  excluding  utility  and  operating  costs,  for the years  ended
+      December  31,  2005,  2004 and 2003  amounted  to  approximately  $11,550,
+      $12,708 and $13,400, respectively.
+
+F-21
+
+CADUS CORPORATION AND SUBSIDIARY
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                        DECEMBER 31, 2005, 2004 AND 2003
+
+                                 ---------------
+
+(13)  Condensed Quarterly Financial Data (Unaudited)
+
+F-22
+
+<EX-23.1>
+ 2
+ c41676_ex23-1.txt
+
+EXHIBIT 23.1
+
+            CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+We have issued our report  dated March 7, 2006,  accompanying  the  consolidated
+financial  statements of Cadus Corporation and subsidiary included in the Annual
+Report of Cadus  Corporation  on Form 10-K for the year ended December 31, 2005.
+We hereby  consent  to the  incorporation  by  reference  of said  report in the
+Registration  Statements of Cadus  Corporation on Forms S-8 (File No. 333-21871,
+effective February 14, 1997, and File No. 333- 58151, effective June 30, 1998).
+
+/s/ HOLTZ RUBENSTEIN REMINICK LLP
+
+New York, New York
+March 30, 2006
+
+</EX-23.1>
+
+<EX-23.2>
+ 3
+ c41676_ex23-2.txt
+
+EXHIBIT 23.2
+
+            CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+We have issued our report dated February 18, 2005  accompanying the consolidated
+financial  statements of Cadus Corporation and subsidiary included in the Annual
+Report of Cadus  Corporation  of Form 10-K for the year ended December 31, 2005.
+We  hereby  consent  to  incorporation  by  reference  of  said  report  in  the
+Registration  Statements of Cadus  Corporation on Forms S-8 (File No. 333-21871,
+effective February 14, 1997 and File No. 333-58151, effective June 30, 1998).
+
+/s/ GRANT THORNTON LLP
+
+New York, New York
+March 29, 2006
+
+</EX-23.2>
+
+<EX-23.3>
+ 4
+ c41676_ex23-3.txt
+
+EXHIBIT 23.3
+
+            CONSENT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+The Board of Directors
+Cadus Corporation:
+
+We consent to the  incorporation  by  reference in the  Registration  Statements
+(Nos.  333-21871 and  333-58151) on Form S-8 of Cadus  Corporation of our report
+dated March 19, 2004, with respect to the consolidated statements of operations,
+stockholders'  equity and comprehensive  (loss) income,  and cash flows of Cadus
+Corporation  and subsidiary  for the year ended December 31, 2003,  which report
+appears  in  the  December  31,  2005  annual  report  on  Form  10-K  of  Cadus
+Corporation.
+
+/s/ KPMG LLP
+
+Melville, New York
+March 24, 2006
+
+</EX-23.3>
+
+<EX-31>
+ 5
+ c41676_ex31.txt
+
+EXHIBIT 31
+
+                                 CERTIFICATIONS
+
+I, David Blitz,  President  and Chief  Executive  Officer of Cadus  Corporation,
+certify that:
+
+1.    I have reviewed this annual report on Form 10-K of Cadus Corporation;
+
+2.    Based on my knowledge,  this report does not contain any untrue  statement
+      of a material fact or omit to state a material fact  necessary to make the
+      statements made, in light of the circumstances under which such statements
+      were made,  not  misleading  with  respect  to the period  covered by this
+      report;
+
+3.    Based on my  knowledge,  the  financial  statements,  and other  financial
+      information  included  in this  report,  fairly  present  in all  material
+      respects the financial condition,  results of operations and cash flows of
+      the registrant as of, and for, the periods presented in this report;
+
+4.    The  registrant's  other  certifying  officer(s) and I are responsible for
+      establishing  and  maintaining  disclosure  controls  and  procedures  (as
+      defined in Exchange Act Rules  13a-15(e) and 15d-15(e)) for the registrant
+      and have:
+
+      (a)   Designed such  disclosure  controls and  procedures,  or caused such
+            disclosure   controls  and  procedures  to  be  designed  under  our
+            supervision,  to ensure that  material  information  relating to the
+            registrant,  including its consolidated subsidiaries,  is made known
+            to us by others  within  those  entities,  particularly  during  the
+            period in which this report is being prepared;
+
+      (b)   Evaluated the effectiveness of the registrant's  disclosure controls
+            and  procedures and presented in this report our  conclusions  about
+            the effectiveness of the disclosure  controls and procedures,  as of
+            the  end  of the  period  covered  by  this  report  based  on  such
+            evaluation; and
+
+      (c)   Disclosed  in this  report any change in the  registrant's  internal
+            control  over   financial   reporting   that  occurred   during  the
+            registrant's  most recent fiscal  quarter (the  registrant's  fourth
+            fiscal  quarter in the case of an annual report) that has materially
+            affected,   or  is  reasonably  likely  to  materially  affect,  the
+            registrant's internal control over financial reporting; and
+
+5.    The registrant's other certifying  officer(s) and I have disclosed,  based
+      on  our  most  recent   evaluation  of  internal  control  over  financial
+      reporting,  to the  registrant's  auditors and the audit  committee of the
+      registrant's  board of directors  (or persons  performing  the  equivalent
+      function):
+
+      a)    All significant  deficiencies and material  weaknesses in the design
+            or operation of internal control over financial  reporting which are
+            reasonably  likely to adversely affect the  registrant's  ability to
+            record, process, summarize and report financial information; and
+
+b)    Any fraud,  whether or not  material,  that  involves  management or
+            other  employees  who have a  significant  role in the  registrant's
+            internal control over financial reporting.
+
+Date: March 30, 2006
+
+                                  /s/ David Blitz
+                                  ----------------------------------------------
+                                  David Blitz
+                                  President and Chief Executive Officer (Chief
+                                  Executive Officer and Chief Financial Officer)
+
+</EX-31>
+
+<EX-32>
+ 6
+ c41676_ex32.txt
+
+EXHIBIT 32
+
+                            CERTIFICATION PURSUANT TO
+                             18 U.S.C. SECTION 1350,
+                             AS ADOPTED PURSUANT TO
+                  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection  with the Annual Report of Cadus  Corporation  (the  "Company") on
+Form 10-K for the period ending  December 31, 2005 as filed with the  Securities
+and  Exchange  Commission  on the date hereof (the  "Report"),  I, David  Blitz,
+President and Chief Executive  Officer of the Company,  certify,  pursuant to 18
+U.S.C.  ss. 1350, as adopted  pursuant to ss. 906 of the  Sarbanes-Oxley  Act of
+2002, that:
+
+      (1)   The Report fully complies with the  requirements of section 13(a) or
+            15(d) of the Securities Exchange Act of 1934; and
+
+      (2)   The  information  contained in the Report  fairly  presents,  in all
+            material respects, the financial condition and results of operations
+            of the Company.
+
+A signed  original of this  written  statement  required by Section 906 has been
+provided to Cadus  Corporation  and will be retained  by Cadus  Corporation  and
+furnished to the Securities and Exchange Commission or its staff upon request.
+
+/s/ David Blitz
+- ----------------------------------------------
+David Blitz
+President and Chief Executive Officer (Chief
+Executive Officer and Chief Financial Officer)
+March 30, 2006
+
+The foregoing  certification is furnished  solely pursuant to 18 U.S.C.  Section
+1350 and is not being  filed as part of the Report or as a  separate  disclosure
+document.
+
+</EX-32>
+
