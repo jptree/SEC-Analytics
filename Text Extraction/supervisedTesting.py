@@ -177,9 +177,11 @@ def test():
     # print(df)
     df = df[df['open'] != 'None']
 
-    data = pd.DataFrame(columns=['position', 'near_management', 'trailing_period', 'trailing_7', 'y_open', 'y_close',
-                                 'trailing_newline', 'leading_newline', 'total_size', 'leading_tab', 'leading_spaces',
-                                 'regex_open', 'regex_close'])
+    data = pd.DataFrame(columns=['file', 'true_location_open', 'input_location', 'position', 'near_management',
+                                 'trailing_period', 'trailing_7', 'y_open', 'y_close', 'trailing_newline',
+                                 'leading_newline', 'total_size', 'leading_tab', 'leading_spaces', 'regex_open',
+                                 'regex_close', 'trailing_financial', 'trailing_7A', 'leading_words', 'leading_see',
+                                 'leading_text', 'leading_double_newline', 'is_uppercase'])
     # X_open = pd.DataFrame()
 
     # X_close = pd.DataFrame()
@@ -203,6 +205,7 @@ def test():
 
         for index, item in enumerate(items):
 
+            # Probably shitty? Make smaller window.
             if 'management' in file_text[item - 100: item + 100].lower():
                 near_management = 1
             else:
@@ -223,10 +226,25 @@ def test():
             else:
                 trailing_newline = 0
 
+            if '7a' in file_text[item: item + 15].lower():
+                trailing_7A = 1
+            else:
+                trailing_7A = 0
+
+            if file_text[item: item + 15].isupper():
+                is_uppercase = 1
+            else:
+                is_uppercase = 0
+
             if '\n' in file_text[item - 5: item]:
                 leading_newline = 1
             else:
                 leading_newline = 0
+
+            if '\n\n' in file_text[item - 5: item]:
+                leading_double_newline = 1
+            else:
+                leading_double_newline = 0
 
             if '\t' in file_text[item - 5: item]:
                 leading_tab = 1
@@ -237,6 +255,26 @@ def test():
                 leading_spaces = 1
             else:
                 leading_spaces = 0
+
+            if (len(file_text[item - 20: item].split(' ')) > 2) and ((sum([len(w) for w in file_text[item - 20: item].split(' ')]) / len(file_text[item - 20: item].split(' '))) > 2):
+                leading_words = 1
+            else:
+                leading_words = 0
+
+            if 'see' in file_text[item - 5: item].lower():
+                leading_see = 1
+            else:
+                leading_see = 0
+
+            if len(re.findall(r'\w+', file_text[item - 5: item])) > 0:
+                leading_text = 1
+            else:
+                leading_text = 0
+
+            if 'financial' in file_text[item: item + 30].lower():
+                trailing_financial = 1
+            else:
+                trailing_financial = 0
 
             regex_open = 0
             regex_close = 0
@@ -251,6 +289,7 @@ def test():
 
             data = data.append(
                 {
+                    'file': row.file,
                     'position': item / total_text_length,
                     'y_open': y_open[index],
                     'near_management': near_management,
@@ -263,7 +302,16 @@ def test():
                     'leading_tab': leading_tab,
                     'leading_spaces': leading_spaces,
                     'regex_open': regex_open,
-                    'regex_close': regex_close
+                    'regex_close': regex_close,
+                    'trailing_financial': trailing_financial,
+                    'true_location_open': row.open,
+                    'input_location': index,
+                    'trailing_7A': trailing_7A,
+                    'leading_words': leading_words,
+                    'leading_see': leading_see,
+                    'leading_text': leading_text,
+                    'leading_double_newline': leading_double_newline,
+                    'is_uppercase': is_uppercase
                 }, ignore_index=True)
 
     logistic = RandomForestClassifier(class_weight='balanced', max_depth=8, random_state=69)
@@ -271,10 +319,11 @@ def test():
     # # logistic = LogisticRegression(class_weight='balanced', random_state=69)
 
     X = data[['position', 'near_management', 'trailing_period', 'trailing_7', 'trailing_newline', 'leading_newline',
-              'total_size', 'leading_tab', 'leading_spaces', 'regex_open']]
+              'total_size', 'leading_tab', 'leading_spaces', 'regex_open', 'trailing_financial', 'trailing_7A',
+              'leading_words', 'leading_see', 'leading_text', 'leading_double_newline', 'is_uppercase']]
     # X = data[['regex_open']]
 
-    y = data['y_open']
+    y = data['y_open'].astype(int)
 
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.25, random_state=69, shuffle=True)
     # #
@@ -290,9 +339,9 @@ def test():
     plot_roc_curve(logistic, X_test, y_test)
     plt.show()
 
-    # explainer = shap.TreeExplainer(logistic)
-    # shap_values = explainer.shap_values(X)
-    # shap.summary_plot(shap_values, X)
+    explainer = shap.TreeExplainer(logistic)
+    shap_values = explainer.shap_values(X)
+    shap.summary_plot(shap_values, X)
 
     data['predicted'] = logistic.predict(X)
     data['prob'] = [probs[1] for probs in logistic.predict_proba(X)]
@@ -300,7 +349,7 @@ def test():
 
     for index, row in data[~(data['predicted'] == data['y_open'])].iterrows():
         os.startfile(f'{PATH}\\{row.file}')
-        print(row['predicted'], row['y_open'])
+        print(row)
         input('continue?')
 
     # shap.plots.beeswarm(shap_values)
