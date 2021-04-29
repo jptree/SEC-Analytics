@@ -2,13 +2,21 @@ import os
 import re
 import pandas as pd
 from sklearn.tree import DecisionTreeClassifier
-from sklearn.ensemble import RandomForestClassifier
+from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import plot_roc_curve, plot_confusion_matrix
 from sklearn.model_selection import train_test_split
 import numpy as np
 import matplotlib.pyplot as plt
 import shap
+from sklearn.model_selection import cross_validate
+
+from tensorflow.keras.models import Sequential
+from tensorflow.keras import layers
+import tensorflow.keras as keras
+from sklearn.utils import class_weight
+from sklearn.metrics import confusion_matrix
+import seaborn as sns
 
 PATH = "D:\\Python\\Projects\\FinTech\\SEC-Analytics\\Data\\10-K Sample"
 # PATH = "C:\\Users\\jpetr\\PycharmProjects\\SEC-Analytics\\Data\\10-K Sample"
@@ -173,15 +181,16 @@ def data_mine(X_train, X_test, y_train, y_test):
 
 
 def test():
-    df = pd.read_csv('supervised4.csv')
+    df = pd.read_csv('Text Extraction\\supervised4.csv')
     # print(df)
     df = df[df['open'] != 'None']
 
-    data = pd.DataFrame(columns=['file', 'true_location_open', 'input_location', 'position', 'near_management',
+    data = pd.DataFrame(columns=['file', 'true_location_open', 'true_location_close', 'input_location', 'position', 'trailing_management',
                                  'trailing_period', 'trailing_7', 'y_open', 'y_close', 'trailing_newline',
                                  'leading_newline', 'total_size', 'leading_tab', 'leading_spaces', 'regex_open',
                                  'regex_close', 'trailing_financial', 'trailing_7A', 'leading_words', 'leading_see',
-                                 'leading_text', 'leading_double_newline', 'is_uppercase'])
+                                 'leading_text', 'leading_double_newline', 'is_uppercase', 'trailing_omission', 'leading_with',
+                                 'leading_table_of_contents', 'leading_newline_count', 'trailing_analysis', 'trailing_8'])
     # X_open = pd.DataFrame()
 
     # X_close = pd.DataFrame()
@@ -206,22 +215,34 @@ def test():
         for index, item in enumerate(items):
 
             # Probably shitty? Make smaller window.
-            if 'management' in file_text[item - 100: item + 100].lower():
-                near_management = 1
+            if 'management' in file_text[item: item + 50].lower():
+            # if 'management' in file_text[item - 100: item + 100].lower():
+                trailing_management = 1
             else:
-                near_management = 0
+                trailing_management = 0
 
-            if '.' in file_text[item: item + 15]:
+            if 'analysis' in file_text[item: item + 80].lower():
+            # if 'management' in file_text[item - 100: item + 100].lower():
+                trailing_analysis = 1
+            else:
+                trailing_analysis = 0
+
+            if '.' in file_text[item: item + 20]:
                 trailing_period = 1
             else:
                 trailing_period = 0
 
-            if '7' in file_text[item: item + 15]:
+            if '7' in file_text[item: item + 20]:
                 trailing_7 = 1
             else:
                 trailing_7 = 0
 
-            if '\n' in file_text[item: item + 15]:
+            if '8' in file_text[item: item + 20]:
+                trailing_8 = 1
+            else:
+                trailing_8 = 0
+
+            if '\n' in file_text[item: item + 100]:
                 trailing_newline = 1
             else:
                 trailing_newline = 0
@@ -256,15 +277,20 @@ def test():
             else:
                 leading_spaces = 0
 
-            if (len(file_text[item - 20: item].split(' ')) > 2) and ((sum([len(w) for w in file_text[item - 20: item].split(' ')]) / len(file_text[item - 20: item].split(' '))) > 2):
+            if (len(file_text[item - 40: item].split(' ')) > 2) and ((sum([len(w) for w in file_text[item - 40: item].split(' ')]) / len(file_text[item - 40: item].split(' '))) > 2):
                 leading_words = 1
             else:
                 leading_words = 0
 
-            if 'see' in file_text[item - 5: item].lower():
+            if 'see' in file_text[item - 10: item].lower():
                 leading_see = 1
             else:
                 leading_see = 0
+
+            if 'with' in file_text[item - 10: item].lower():
+                leading_with = 1
+            else:
+                leading_with = 0
 
             if len(re.findall(r'\w+', file_text[item - 5: item])) > 0:
                 leading_text = 1
@@ -276,6 +302,18 @@ def test():
             else:
                 trailing_financial = 0
 
+            if ('applicable' in file_text[item: item + 300].lower()) or ('omitted' in file_text[item: item + 300].lower()):
+                trailing_omission = 1
+            else:
+                trailing_omission = 0
+
+            if 'table of contents' in file_text[item - 50: item].lower():
+                leading_table_of_contents = 1
+            else:
+                leading_table_of_contents = 0
+
+            leading_newline_count = len(file_text[item - 20: item].split('\n'))
+
             regex_open = 0
             regex_close = 0
 
@@ -283,6 +321,14 @@ def test():
                 mda = match[-1][0]
                 if file_text[item: item + len(mda)] == mda:
                     regex_open = 1
+                    # regex_close = 1
+            except IndexError:
+                e = 1
+
+            try:
+                mda = match[-1][0]
+                if file_text[item - len(mda): item] == mda:
+                    # regex_open = 1
                     regex_close = 1
             except IndexError:
                 e = 1
@@ -292,7 +338,7 @@ def test():
                     'file': row.file,
                     'position': item / total_text_length,
                     'y_open': y_open[index],
-                    'near_management': near_management,
+                    'trailing_management': trailing_management,
                     'y_close': y_close[index],
                     'trailing_period': trailing_period,
                     'trailing_7': trailing_7,
@@ -305,47 +351,89 @@ def test():
                     'regex_close': regex_close,
                     'trailing_financial': trailing_financial,
                     'true_location_open': row.open,
+                    'true_location_close': row.close,
                     'input_location': index,
                     'trailing_7A': trailing_7A,
                     'leading_words': leading_words,
                     'leading_see': leading_see,
                     'leading_text': leading_text,
                     'leading_double_newline': leading_double_newline,
-                    'is_uppercase': is_uppercase
+                    'is_uppercase': is_uppercase,
+                    'trailing_omission': trailing_omission,
+                    'leading_with': leading_with,
+                    'leading_table_of_contents': leading_table_of_contents,
+                    'leading_newline_count': leading_newline_count,
+                    'trailing_analysis': trailing_analysis,
+                    'trailing_8': trailing_8
                 }, ignore_index=True)
 
-    logistic = RandomForestClassifier(class_weight='balanced', max_depth=8, random_state=69)
+    data.to_csv('data2.csv')
+    logistic = GradientBoostingClassifier(max_depth=12, random_state=699)
+    # logistic = RandomForestClassifier(class_weight='balanced', max_depth=5, random_state=699)
     # # logistic = DecisionTreeClassifier(class_weight='balanced')
     # # logistic = LogisticRegression(class_weight='balanced', random_state=69)
 
-    X = data[['position', 'near_management', 'trailing_period', 'trailing_7', 'trailing_newline', 'leading_newline',
-              'total_size', 'leading_tab', 'leading_spaces', 'regex_open', 'trailing_financial', 'trailing_7A',
-              'leading_words', 'leading_see', 'leading_text', 'leading_double_newline', 'is_uppercase']]
+    # X = data[['position', 'trailing_management', 'trailing_period', 'trailing_7', 'trailing_newline', 'leading_newline',
+    #           'total_size', 'leading_tab', 'leading_spaces', 'regex_open', 'trailing_financial', 'trailing_7A',
+    #           'leading_words', 'leading_see', 'leading_text', 'leading_double_newline', 'is_uppercase',
+    #           'trailing_omission', 'leading_with']]
+
+
+    X = data[['position', 'trailing_management', 'trailing_period', 'trailing_7', 'trailing_newline', 'leading_newline',
+              'total_size', 'leading_tab', 'leading_spaces', 'trailing_financial', 'trailing_7A', 'regex_open',
+              'leading_see', 'leading_text', 'leading_double_newline', 'is_uppercase',
+              'trailing_omission', 'leading_table_of_contents', 'leading_newline_count', 'trailing_analysis']]
+
     # X = data[['regex_open']]
 
     y = data['y_open'].astype(int)
 
-    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.25, random_state=69, shuffle=True)
+
+    def correct(a, b):
+        l = []
+        for i in range(len(a)):
+
+            if a[i] == b[i]:
+                l.append(1)
+            else:
+                l.append(0)
+        return l
+
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.25, random_state=699, shuffle=True)
     # #
-    # # # X = np.array(d[['position', 'near_management', 'trailing_period', 'trailing_7']])
+    # # # X = np.array(d[['position', 'trailing_management', 'trailing_period', 'trailing_7']])
     logistic.fit(X_train, y_train)
-    #
+
+    cm = confusion_matrix(y_test, correct(list(X_test['regex_open']), list(y_test)))
+    print(cm)
+    cm = confusion_matrix(y_train, correct(list(X_train['regex_open']), list(y_train)))
+    print(cm)
+
     plot_confusion_matrix(logistic, X_train, y_train)
     plt.show()
     plot_confusion_matrix(logistic, X_test, y_test)
     plt.show()
-    plot_roc_curve(logistic, X_train, y_train)
-    plt.show()
-    plot_roc_curve(logistic, X_test, y_test)
-    plt.show()
+
+    f = sns.heatmap(cm, annot=True)
+    # plot_roc_curve(logistic, X_train, y_train)
+    # plt.show()
+    # plot_roc_curve(logistic, X_test, y_test)
+    # plt.show()
 
     explainer = shap.TreeExplainer(logistic)
     shap_values = explainer.shap_values(X)
     shap.summary_plot(shap_values, X)
 
-    data['predicted'] = logistic.predict(X)
-    data['prob'] = [probs[1] for probs in logistic.predict_proba(X)]
-    print(data)
+    # data['predicted'] = logistic.predict(X)
+    # data['prob'] = [probs[1] for probs in logistic.predict_proba(X)]
+    # print(
+    #     len(data[(data['y_open'] == data['regex_open']) & (data['y_open'] == 0)]),
+    #     len(data[(data['y_open'] != data['regex_open']) & (data['y_open'] == 1)]),
+    #     len(data[(data['y_open'] != data['regex_open']) & (data['y_open'] == 0)]),
+    #     len(data[(data['y_open'] == data['regex_open']) & (data['y_open'] == 1)])
+    # )
+
+
 
     for index, row in data[~(data['predicted'] == data['y_open'])].iterrows():
         os.startfile(f'{PATH}\\{row.file}')
@@ -356,7 +444,174 @@ def test():
 
     # data_mine(X_train, X_test, y_train, y_test)
 
-if __name__ == "__main__":
-    # get_supervised('supervised4.csv')
-    test()
+def selection(df):
+    independent = ['position', 'trailing_management', 'trailing_period', 'trailing_7', 'trailing_newline',
+                    'leading_newline', 'total_size', 'leading_tab', 'leading_spaces', 'regex_open',
+                    'regex_close', 'trailing_financial', 'trailing_7A', 'leading_words', 'leading_see',
+                    'leading_text', 'leading_double_newline', 'is_uppercase', 'trailing_omission', 'leading_with',
+                    'leading_table_of_contents', 'leading_newline_count', 'trailing_analysis']
+    dependent = 'y_open'
+    X = df[independent]
+    y = df[dependent]
 
+    model = RandomForestClassifier(class_weight='balanced', n_estimators=1000)
+    cv_results = cross_validate(model, X, y, cv=5, scoring=('precision', 'recall'), return_train_score=True)
+    print(cv_results['test_recall'])
+    print(cv_results['train_recall'])
+    print(cv_results['test_precision'])
+    print(cv_results['train_precision'])
+
+
+def neural(df):
+    from sklearn.preprocessing import StandardScaler
+    independent = ['position', 'trailing_management', 'trailing_period', 'trailing_7', 'trailing_newline',
+                   'leading_newline', 'total_size', 'leading_tab', 'leading_spaces', 'regex_open', 'trailing_financial', 'trailing_7A', 'leading_words', 'leading_see',
+                   'leading_text', 'leading_double_newline', 'is_uppercase', 'trailing_omission', 'leading_with',
+                   'leading_table_of_contents', 'leading_newline_count', 'trailing_analysis']
+    # independent = ['y_open']
+    dependent = 'y_open'
+    X = df[independent]
+    y = df[dependent]
+
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.25, random_state=699, shuffle=True)
+    scaler = StandardScaler()
+    scaler.fit(X_train)
+    X_train = scaler.transform(X_train)
+    X_test = scaler.transform(X_test)
+
+    model = keras.Sequential()
+    model.add(layers.Dense(len(independent), activation="linear", input_shape=(len(independent),)))
+    model.add(layers.Dense(100, activation='linear'))
+    model.add(layers.Dense(32, activation='linear'))
+    # model.add(layers.Dense(32, activation='sigmoid'))
+    model.add(layers.Dense(1, activation="sigmoid"))
+
+    model.compile(
+        loss=keras.losses.BinaryCrossentropy(),
+        optimizer=keras.optimizers.SGD(lr=0.001),
+        metrics=[keras.metrics.Precision(), keras.metrics.Recall()]
+    )
+
+    # weights = dict(enumerate(class_weight.compute_class_weight('balanced', np.unique(y_train), y_train)))
+
+    model.fit(X_train, y_train,
+                        epochs=400,
+                        verbose=True,
+                        validation_data=(X_test, y_test),
+                        batch_size=5)
+
+    # loss = model.evaluate(X_train, y_train, verbose=False)
+    # print("Training loss: {:.4f}".format(loss))
+    # loss = model.evaluate(X_test, y_test, verbose=False)
+    # print("Testing loss:  {:.4f}".format(loss))
+    print(confusion_matrix(y_test, np.where(model.predict(X_test) > 0.5, 1, 0)))
+    print(confusion_matrix(y_train, np.where(model.predict(X_train) > 0.5, 1, 0)))
+
+def open_training():
+    df = pd.read_csv('Text Extraction\\data.csv', index_col=0)
+    df = df[df['y_open'] != 'None']
+
+    df['true_class'] = np.where(df['input_location'] == df['true_location_open'], 1, 0)
+    # df['regex_class'] = np.where(df['regex_open'] == df['true_location_open'], 1, 0)
+
+    X = df[list(df.columns)]
+    y = df['y_open']
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.25, random_state=699, shuffle=True)
+
+    # cm = confusion_matrix(y_true=y, y_pred=X['regex_open'])
+    cm = confusion_matrix(y_true=y_train, y_pred=X_train['regex_open'], normalize='true')
+    f = sns.heatmap(cm, annot=True, cmap='Blues', fmt='g')
+    cm = confusion_matrix(y_true=y_test, y_pred=X_test['regex_open'], normalize='true')
+    f = sns.heatmap(cm, annot=True, cmap='Blues')
+
+    # logistic = GradientBoostingClassifier(max_depth=12, random_state=699)
+    # # logistic = DecisionTreeClassifier(class_weight='balanced')
+    # # logistic = LogisticRegression(class_weight='balanced', random_state=69)
+
+    X = df[['position', 'trailing_management', 'trailing_period', 'trailing_7', 'trailing_newline', 'leading_newline',
+            'total_size', 'leading_tab', 'leading_spaces', 'trailing_financial', 'trailing_7A', 'regex_open',
+            'leading_see', 'leading_text', 'leading_double_newline', 'is_uppercase',
+            'trailing_omission', 'leading_table_of_contents', 'leading_newline_count', 'trailing_analysis']]
+
+    # X = data[['regex_open']]
+
+    y = df['y_open'].astype(int)
+
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.25, random_state=699, shuffle=True)
+    logistic = RandomForestClassifier(class_weight='balanced', max_depth=6, random_state=699, n_estimators=1000)
+    # #
+    # # # X = np.array(d[['position', 'trailing_management', 'trailing_period', 'trailing_7']])
+    logistic.fit(X_train, y_train)
+
+    import pickle
+    with open('opening_random_forest.pkl', 'wb') as f:
+        pickle.dump(logistic, f)
+
+    plot_confusion_matrix(logistic, X_train, y_train, cmap='Blues')
+    # plt.show()
+    plot_confusion_matrix(logistic, X_test, y_test, cmap='Blues')
+    # plt.show()
+
+    explainer = shap.TreeExplainer(logistic)
+    shap_values = explainer.shap_values(X)
+    shap.summary_plot(shap_values, X)
+
+def close_training():
+    df = pd.read_csv('data2.csv', index_col=0)
+    df = df[df['y_close'] != 'None']
+
+    # df['true_class'] = np.where(df['input_location'] == df['true_location_close'], 1, 0)
+    # df['regex_class'] = np.where(df['regex_open'] == df['true_location_open'], 1, 0)
+
+    X = df[list(df.columns)]
+    y = df['y_close']
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.25, random_state=699, shuffle=True)
+
+    # cm = confusion_matrix(y_true=y, y_pred=X['regex_open'])
+    # cm = confusion_matrix(y_true=y_train, y_pred=X_train['regex_close'], normalize='true')
+    # f = sns.heatmap(cm, annot=True, cmap='Blues', fmt='g')
+    # cm = confusion_matrix(y_true=y_test, y_pred=X_test['regex_close'], normalize='true')
+    # f = sns.heatmap(cm, annot=True, cmap='Blues')
+
+    # logistic = GradientBoostingClassifier(max_depth=12, random_state=699)
+    # # logistic = DecisionTreeClassifier(class_weight='balanced')
+    # # logistic = LogisticRegression(class_weight='balanced', random_state=69)
+
+    X = df[['position', 'trailing_management', 'trailing_period', 'trailing_7', 'trailing_8', 'trailing_newline', 'leading_newline',
+            'total_size', 'leading_tab', 'leading_spaces', 'trailing_financial', 'trailing_7A', 'regex_close',
+            'leading_see', 'leading_text', 'leading_double_newline', 'is_uppercase',
+            'trailing_omission', 'leading_table_of_contents', 'leading_newline_count', 'trailing_analysis']]
+
+    # X = data[['regex_open']]
+
+    y = df['y_close'].astype(int)
+
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.25, random_state=699, shuffle=True)
+    logistic = RandomForestClassifier(class_weight='balanced', max_depth=5, random_state=699, n_estimators=1000)
+    # #
+    # # # X = np.array(d[['position', 'trailing_management', 'trailing_period', 'trailing_7']])
+    logistic.fit(X_train, y_train)
+
+    # plot_confusion_matrix(logistic, X_train, y_train, cmap='Blues', normalize='true')
+    # plt.show()
+    # plot_confusion_matrix(logistic, X_test, y_test, cmap='Blues', normalize='true')
+    # plt.show()
+
+    explainer = shap.TreeExplainer(logistic)
+    shap_values = explainer.shap_values(X)
+    shap.summary_plot(shap_values, X)
+
+
+
+
+
+if __name__ == "__main__":
+
+    # close_training()
+
+    # test()
+    import pickle
+    with open('opening_random_forest.pkl', 'rb') as f:
+        clf = pickle.load(f)
+
+    clf.predict(X_train)
