@@ -2,6 +2,9 @@ import pickle
 import pandas as pd
 import re
 import numpy as np
+from multiprocessing import Pool
+from multiprocessing import cpu_count
+import time
 
 OPEN_INDEPENDENT_VARIABLES = ['position', 'trailing_management', 'trailing_period', 'trailing_7', 'trailing_newline',
                               'leading_newline', 'total_size', 'leading_tab', 'leading_spaces', 'trailing_financial',
@@ -199,13 +202,116 @@ def get_mda(clf_open, clf_close, file_text):
         return file_text[items[open_index]: items[close_index]]
 
 
+def get_all_mda(clf_open, clf_close):
+
+
+    # https://docs.python.org/3/library/multiprocessing.html
+
+    def f(x, a, b):
+        time.sleep(3)
+        return x * x + a + b
+
+    # _, _, file_names = next(
+    #     os.walk(
+    #         f'C:\\Users\\jpetr\\PycharmProjects\\SEC-Analytics\\Data\\10-K Sample'))
+    #
+    # for file_name in file_names:
+    #     file_path = f'{PATH}\\{file_name}'
+    #     file_text = open(file_path).read()
+    #     match = re.findall(REGEX_10K, file_text, re.IGNORECASE)
+    #
+    #     try:
+    #         mda = match[-1][0]
+    #         os.startfile(file_path)
+    #         output_file = open('Text Extraction\\output.txt', 'w')
+    #         output_file.write(mda)
+    #         os.startfile('Text Extraction\\output.txt')
+    #         output_file.close()
+    #     except Exception as e:
+    #         print(e, file_name)
+
+    n_pool = 3
+    l_test = [1, 2, 3, 4, 5, 6, 7, 8] * 50
+
+    # Expected time to completion for multithreading:
+    # (len(l_test) // n_pool + len(l_test) % n_pool) * sleep_time
+
+    # Expected time to completion for single-thread:
+    # len(l_test) * sleep_time
+
+    start = time.time()
+    with Pool(50) as p:
+        print(p.map(f, l_test))
+    end = time.time()
+    print(f'Multiple Threads: {round(end - start, 2)} seconds')
+
+    start = time.time()
+    print(list(map(f, l_test)))
+    end = time.time()
+    print(f'Single Thread: {round(end - start, 2)} seconds')
+
+a = 12
+b = 41
+file = open('testing.csv', 'a')
+
+
+def f(x):
+    time.sleep(1)
+    file.write(f'{x},{x * x + a + b}\n')
+    return x * x + a + b
+
 if __name__ == "__main__":
-    with open('../opening_random_forest.pkl', 'rb') as f:
-        clf_open = pickle.load(f)
-
-    with open('../closing_random_forest.pkl', 'rb') as f:
-        clf_close = pickle.load(f)
-
-    file = open('../Data/10-K Sample/20060330_10-K_edgar_data_906780_0000921895-06-000823_1.txt').read()
+    # with open('../opening_random_forest.pkl', 'rb') as f:
+    #     clf_open = pickle.load(f)
+    #
+    # with open('../closing_random_forest.pkl', 'rb') as f:
+    #     clf_close = pickle.load(f)
+    #
+    # file = open('../Data/10-K Sample/20060330_10-K_edgar_data_906780_0000921895-06-000823_1.txt').read()
 
     # print(get_mda(clf_open, clf_close, file))
+
+
+
+    # _, _, file_names = next(
+    #     os.walk(
+    #         f'C:\\Users\\jpetr\\PycharmProjects\\SEC-Analytics\\Data\\10-K Sample'))
+    #
+    # for file_name in file_names:
+    #     file_path = f'{PATH}\\{file_name}'
+    #     file_text = open(file_path).read()
+    #     match = re.findall(REGEX_10K, file_text, re.IGNORECASE)
+    #
+    #     try:
+    #         mda = match[-1][0]
+    #         os.startfile(file_path)
+    #         output_file = open('Text Extraction\\output.txt', 'w')
+    #         output_file.write(mda)
+    #         os.startfile('Text Extraction\\output.txt')
+    #         output_file.close()
+    #     except Exception as e:
+    #         print(e, file_name)
+
+
+    n_pool = 3
+    l_test = [1, 2, 3, 4, 5, 6, 7, 8]
+
+    # Expected time to completion for multithreading:
+    # (len(l_test) // n_pool + len(l_test) % n_pool) * sleep_time
+
+    # Expected time to completion for single-thread:
+    # len(l_test) * sleep_time
+
+
+
+    start = time.time()
+    with Pool(5) as p:
+        print(p.map(f, l_test))
+    end = time.time()
+    print(f'Multiple Threads: {round(end - start, 2)} seconds')
+
+    # start = time.time()
+    # print(list(map(f, l_test)))
+    # end = time.time()
+    # print(f'Single Thread: {round(end - start, 2)} seconds')
+    file.close()
