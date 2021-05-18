@@ -3,11 +3,13 @@ import os
 import time
 import pickle
 import multiprocessing
+import pathlib
 # import sklearn
-from sklearn.ensemble import RandomForestClassifier
+# from sklearn.ensemble import RandomForestClassifier
 # from sklearn.ensemble.forest import RandomForestClassifier
 
-PATH = 'D:\Python\Projects\FinTech\SEC-Analytics'
+PATH = '\\'.join(str(pathlib.Path().absolute()).split('\\')[:-1])
+DATA_PATH= ''
 REGEX_10K = r"(Item[\s]+?7\.[\s\S]*?)(Item[\s]+?8\.)"
 OPEN_INDEPENDENT_VARIABLES = ['position', 'trailing_management', 'trailing_period', 'trailing_7', 'trailing_newline',
                               'leading_newline', 'total_size', 'leading_tab', 'leading_spaces', 'trailing_financial',
@@ -97,7 +99,7 @@ def get_mda(clf_open, clf_close, file_text):
 
         if (len(file_text[item - 40: item].split(' ')) > 2) and ((sum(
                 [len(w) for w in file_text[item - 40: item].split(' ')]) / len(
-                file_text[item - 40: item].split(' '))) > 2):
+            file_text[item - 40: item].split(' '))) > 2):
             leading_words = 1
         else:
             leading_words = 0
@@ -152,32 +154,32 @@ def get_mda(clf_open, clf_close, file_text):
             e = 1
 
         data = {
-                'position': item / total_text_length,
-                'trailing_management': trailing_management,
-                'trailing_period': trailing_period,
-                'trailing_7': trailing_7,
-                'trailing_newline': trailing_newline,
-                'leading_newline': leading_newline,
-                'total_size': total_text_length,
-                'leading_tab': leading_tab,
-                'leading_spaces': leading_spaces,
-                'regex_open': regex_open,
-                'regex_close': regex_close,
-                'trailing_financial': trailing_financial,
-                'input_location': index,
-                'trailing_7A': trailing_7A,
-                'leading_words': leading_words,
-                'leading_see': leading_see,
-                'leading_text': leading_text,
-                'leading_double_newline': leading_double_newline,
-                'is_uppercase': is_uppercase,
-                'trailing_omission': trailing_omission,
-                'leading_with': leading_with,
-                'leading_table_of_contents': leading_table_of_contents,
-                'leading_newline_count': leading_newline_count,
-                'trailing_analysis': trailing_analysis,
-                'trailing_8': trailing_8
-            }
+            'position': item / total_text_length,
+            'trailing_management': trailing_management,
+            'trailing_period': trailing_period,
+            'trailing_7': trailing_7,
+            'trailing_newline': trailing_newline,
+            'leading_newline': leading_newline,
+            'total_size': total_text_length,
+            'leading_tab': leading_tab,
+            'leading_spaces': leading_spaces,
+            'regex_open': regex_open,
+            'regex_close': regex_close,
+            'trailing_financial': trailing_financial,
+            'input_location': index,
+            'trailing_7A': trailing_7A,
+            'leading_words': leading_words,
+            'leading_see': leading_see,
+            'leading_text': leading_text,
+            'leading_double_newline': leading_double_newline,
+            'is_uppercase': is_uppercase,
+            'trailing_omission': trailing_omission,
+            'leading_with': leading_with,
+            'leading_table_of_contents': leading_table_of_contents,
+            'leading_newline_count': leading_newline_count,
+            'trailing_analysis': trailing_analysis,
+            'trailing_8': trailing_8
+        }
 
         open_features = []
         for f in OPEN_INDEPENDENT_VARIABLES:
@@ -194,8 +196,11 @@ def get_mda(clf_open, clf_close, file_text):
         open_probabilities.append(open_probability)
         close_probabilities.append(close_probability)
 
-    open_index = open_probabilities.index(max(open_probabilities))
-    close_index = close_probabilities.index(max(close_probabilities))
+    try:
+        open_index = open_probabilities.index(max(open_probabilities))
+        close_index = close_probabilities.index(max(close_probabilities))
+    except ValueError:
+        return ''
 
     if open_index > close_index:
         return ''
@@ -209,26 +214,21 @@ def mp_worker(args):
     clf_open = OPEN_CLASSIFIER
     clf_close = CLOSE_CLASSIFIER
 
-    file_text = open(f'{PATH}\\Data\\10-K Sample\\{file_name}').read()
+    file_text = open(file_name).read()
 
     mda = get_mda(clf_open, clf_close, file_text)
-    cik = file_name.split('_')[4]
-    date = file_name.split('_')[0]
+    cik = file_name.split('_')[6]
+    date = file_name.split('_')[2][-8:]
 
     return file_name, date, cik, mda
 
 
-def mp_handler(file_names, n_pools):
+def mp_handler(file_names, n_pools, output_dir):
     p = multiprocessing.Pool(n_pools)
 
-    # open_classifier_list = [open_classifier] * len(file_names)
-    # close_classifier_list = [close_classifier] * len(file_names)
-    # stuff = zip(file_names, open_classifier_list, close_classifier_list)
     start = time.time()
 
-
-
-    with open('results.csv', 'w') as f:
+    with open(output_dir, 'w') as f:
         for result in p.imap(mp_worker, file_names):
             f.write(f'{result[0]},{result[1]},{result[2]},{result[3]}\n')
     f.close()
@@ -236,23 +236,38 @@ def mp_handler(file_names, n_pools):
     end = time.time()
     print(f'Multiple Threads: {round(end - start, 2)} seconds')
 
-
 if __name__=='__main__':
-    # with open('../opening_random_forest.pkl', 'rb') as f:
-    #     clf_open = pickle.load(f)
+    path_data = 'D:\\SEC Filing Data\\10-X_C_2006-2010'
+    # # a, years, _ = next(os.walk(f'{path_data}\\2006\\QTR2'))
+    _, years, _ = next(os.walk(path_data))
+    # # print(a)
     #
-    # with open('../closing_random_forest.pkl', 'rb') as f:
-    #     clf_close = pickle.load(f)
 
-    _, _, file_names = next(
-        os.walk(
-            f'{PATH}\\Data\\10-K Sample'))
+    for year in years:
+        _, quarters, _ = next(os.walk(f'{path_data}\\{year}'))
+        if year == '2006':
+            continue
+        for quarter in quarters:
+            if quarter != 'QTR1':
+                continue
+            print(f'Working on {quarter} of {year}...')
+            output_directory = f'Extracted\\10-K_{year}_{quarter}.csv'
+            all_directories = []
+            _, _, directories = next(os.walk(f'{path_data}\\{year}\\{quarter}'))
+            for directory in directories:
+                if '_10-K_' in directory:
+                    all_directories += [f'{path_data}\\{year}\\{quarter}\\' + directory]
 
-    # OPEN_CLASSIFIER = clf_open
-    # CLOSE_CLASSIFIER = clf_close
+            # print(all_directories)
+            mp_handler(all_directories, 4, output_directory)
 
-    # mp_handler(file_names, 4)
 
-    # import pandas as pd
-    # df = pd.read_csv('results.csv')
-    # print(df)
+    # print(OPEN_CLASSIFIER.feature_importances_)
+
+
+
+
+
+
+
+
