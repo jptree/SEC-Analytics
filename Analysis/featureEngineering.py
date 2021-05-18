@@ -104,10 +104,25 @@ def lda_stuff(corpus):
     # plt.show()
 
 
-def surrounding_word_frequencies(word, corpus):
+def surrounding_word_corpus(word, corpus, n_words):
 
+    corpus_around_word = []
     for document in corpus:
         docs = document.split(' ')
+        for index, doc in enumerate(docs):
+            if doc == word:
+                context = []
+                for i in range(n_words * 2):
+                    try:
+                        context.append(docs[index - n_words + i])
+                    except IndexError:
+                        pass
+
+                corpus_around_word.append(' '.join(context))
+
+    return corpus_around_word
+
+
 
 
 
