@@ -273,13 +273,7 @@ if __name__ == "__main__":
 
 
 
-    # _, _, file_names = next(
-    #     os.walk(
-    #         f'C:\\Users\\jpetr\\PycharmProjects\\SEC-Analytics\\Data\\10-K Sample'))
-    #
-    # for file_name in file_names:
-    #     file_path = f'{PATH}\\{file_name}'
-    #     file_text = open(file_path).read()
+
     #     match = re.findall(REGEX_10K, file_text, re.IGNORECASE)
     #
     #     try:
