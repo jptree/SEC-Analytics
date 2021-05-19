@@ -20,7 +20,6 @@ CLOSE_INDEPENDENT_VARIABLES = ['position', 'trailing_period', 'trailing_3', 'lea
                                'leading_tab', 'leading_spaces', 'regex_close', 'trailing_quantitative']
 
 
-
 OPEN_CLASSIFIER = pickle.load(open('../open_quarterly_random_forest.pkl', 'rb'))
 CLOSE_CLASSIFIER = pickle.load(open('../close_quarterly_random_forest.pkl', 'rb'))
 
@@ -158,10 +157,6 @@ def mp_handler(file_names, n_pools, output_dir):
         print(f'\rPercentage Complete: {round((counter / len(file_names)) * 100, 2)}%', end="", flush=True)
         writer.writerow([result[0],result[1],result[2],result[3]])
     print('\n')
-    # with open(output_dir, 'w') as f:
-    #     for result in p.imap(mp_worker, file_names):
-    #         f.write(f'{result[0]},{result[1]},{result[2]},{result[3]}\n')
-    # f.close()
 
 
 
@@ -169,13 +164,17 @@ def mp_handler(file_names, n_pools, output_dir):
     print(f'Multiple Threads: {round(end - start, 2)} seconds')
 
 if __name__=='__main__':
-    path_data = 'D:\\SEC Filing Data\\10-X_C_2006-2010'
+    path_data = 'D:\\SEC Filing Data\\10-X_C_1993-2000'
     _, years, _ = next(os.walk(path_data))
 
 
     for year in years:
+        if int(year) < 1996:
+            continue
         _, quarters, _ = next(os.walk(f'{path_data}\\{year}'))
         for quarter in quarters:
+            if quarter == 'QTR1' and year == '1996':
+                continue
             print(f'Working on {quarter} of {year}...')
             output_directory = f'Extracted\\Quarterly\\10-Q_{year}_{quarter}.csv'
             all_directories = []
@@ -187,8 +186,3 @@ if __name__=='__main__':
             # print(all_directories)
             mp_handler(all_directories, 4, output_directory)
 
-
-    # print(OPEN_CLASSIFIER.feature_importances_)
-
-    # import pandas as pd
-    # print(pd.read_csv('Extracted/Quarterly/10-Q_2006_QTR1.csv'))

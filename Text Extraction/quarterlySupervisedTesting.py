@@ -404,6 +404,10 @@ def close_train_quarterly():
     # df['probability'].hist(bins=100)
     # plt.show()
 
+
+def test_file(file_directory, open_model, close_model):
+
+
 if __name__ == "__main__":
 
     # close_training()
