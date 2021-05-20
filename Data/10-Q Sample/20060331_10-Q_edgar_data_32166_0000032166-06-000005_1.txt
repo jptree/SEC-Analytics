@@ -1,0 +1,1583 @@
+<Header>
+<FileStats>
+    <FileName>20060331_10-Q_edgar_data_32166_0000032166-06-000005_1.txt</FileName>
+    <GrossFileSize>77579</GrossFileSize>
+    <NetFileSize>75369</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>364</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>0</N_Tables>
+    <N_Exhibits>4</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000032166-06-000005.hdr.sgml : 20060331
+<ACCEPTANCE-DATETIME>20060331151210
+ACCESSION NUMBER:		0000032166-06-000005
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20060228
+FILED AS OF DATE:		20060331
+DATE AS OF CHANGE:		20060331
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ELECTRO RENT CORP
+		CENTRAL INDEX KEY:			0000032166
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-EQUIPMENT RENTAL & LEASING, NEC [7359]
+		IRS NUMBER:				952412961
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-09061
+		FILM NUMBER:		06728320
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6060 SEPULVEDA BLVD
+		CITY:			VAN NUYS
+		STATE:			CA
+		ZIP:			91411-2512
+		BUSINESS PHONE:		8187872100
+
+	MAIL ADDRESS:	
+		STREET 1:		6060 SEPULVEDA BLVD
+		CITY:			VAN NUYS
+		STATE:			CA
+		ZIP:			91411
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ NMA1eSpEZjCTtAacl61jJOJKgfSa1iaPAyqL9tQTiEXZeDOA/2A3DYcgOZjrqsWd
+ HfHR3vl1O6PZJ9H47aVDJw==
+
+ 0000032166-06-000005.txt : 20060331
+
+10-Q
+ 1
+ tenq0602.htm
+ ELECTRO RENT CORPORATION FORM 10-Q 02/28/2006
+
+SECURITIES AND EXCHANGE COMMISSION
+                           WASHINGTON, D.C. 20549
+                                 FORM 10-Q
+
+       (Mark One)
+
+        [X] Quarterly Report pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+
+        For the quarterly period ended February 28, 2006 or
+
+        [ ] Transition report pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+
+        For the transition period from _____ to _____
+
+Commission File Number: 0-9061
+
+                        ELECTRO RENT CORPORATION
+      Exact name of registrant as specified in its charter
+
+            CALIFORNIA                             95-2412961
+   (State or Other Jurisdiction                 (I.R.S. Employer
+of Incorporation or Organization)              Identification No.)
+
+                          6060 SEPULVEDA BOULEVARD
+                       VAN NUYS, CALIFORNIA 91411-2501
+          (Address of Principal Executive Offices and Zip Code)
+
+                                818 786-2525
+          (Registrant's Telephone Number, Including Area Code)
+
+Indicate by check mark whether the registrant: (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to
+such filing requirements for the past 90 days.
+
+  Yes  X    No _
+
+Indicate by check mark whether the registrant is an accelerated filer (as
+defined in Rule 12b-2 of the Exchange Act).
+
+  Yes  X    No _
+
+Indicate by check mark whether the registrant is a shell company (as defined
+in Rule 12b-2 of the Exchange Act).
+
+  Yes  _   No X
+
+The number of shares outstanding of the registrant's common stock as of March
+17, 2006 was 25,530,518.
+
+                               Page 1
+
+                       ELECTRO RENT CORPORATION
+                                FORM 10-Q
+                           FEBRUARY 28, 2006
+
+TABLE OF CONTENTS                                                   Page
+
+Part I: FINANCIAL INFORMATION                                          3
+
+Item 1. Financial Statements                                           3
+
+Condensed Consolidated Statements of Income for the Three
+  and Nine Month Periods Ended February 28, 2006 and 2005
+  (Unaudited)                                                          3
+
+Condensed Consolidated Balance Sheets at February 28, 2006 and
+  May 31, 2005 (Unaudited)                                             4
+
+Condensed Consolidated Statements of Cash Flows for the
+  Nine Months Ended February 28, 2006 and 2005 (Unaudited)             5
+
+Notes to Condensed Consolidated Financial Statements
+  (Unaudited)                                                          6
+
+Item 2. Management's Discussion and Analysis of Financial
+  Condition and Results of Operations                                 12
+
+Item 3. Quantitative and Qualitative Disclosures About
+  Market Risk                                                         22
+
+Item 4. Controls and Procedures                                       22
+
+Part II: OTHER INFORMATION                                            23
+
+SIGNATURES                                                            25
+
+                               Page 2
+
+Part I.  FINANCIAL INFORMATION
+- --------------------------------
+Item 1. Financial Statements
+
+                              ELECTRO RENT CORPORATION
+
+                   CONDENSED CONSOLIDATED STATEMENTS OF INCOME
+                   (Unaudited) (000's omitted, except per share data)
+
+Three Months Ended    Nine Months Ended
+                                     February 28,          February 28,
+                                   2006       2005       2006       2005
+                                 ---------- ---------- ---------- ----------
+
+Revenues:
+  Rentals and leases             $  22,093  $  18,846  $  65,254  $  59,485
+  Sales of equipment
+    and other revenues               7,184      9,936     18,574     22,413
+                                 ---------- ---------- ---------- ----------
+    Total revenues                  29,277     28,782     83,828     81,898
+                                 ---------- ---------- ---------- ----------
+Operating expenses:
+  Depreciation of rental
+    and lease equipment              8,666      7,961     25,782     24,452
+  Costs of revenues other
+    than depreciation of
+    rental and lease equipment       4,668      3,732     10,399     10,127
+  Selling, general and
+    administrative expenses          8,260      7,466     24,207     22,022
+                                 ---------- ---------- ---------- ----------
+    Total operating expenses        21,594     19,159     60,388     56,601
+                                 ---------- ---------- ---------- ----------
+Operating profit                     7,683      9,623     23,440     25,297
+Interest and investment
+  income, net                          750        385      1,906        947
+Income from litigation
+  settlement                            -          -          -       1,758
+                                 ---------- ---------- ---------- ----------
+Income before income taxes           8,433     10,008     25,346     28,002
+
+Income taxes                         2,517      3,063      8,826      9,204
+                                 ---------- ---------- ---------- ----------
+Net income                       $   5,916  $   6,945  $  16,520  $  18,798
+                                 ========== ========== ========== ==========
+Earnings per share:
+  Basic                              $0.23      $0.28      $0.65      $0.75
+  Diluted                            $0.23      $0.27      $0.64      $0.74
+
+Shares used in per
+  share calculation:
+  Basic                             25,451     25,011     25,279     24,943
+  Diluted                           25,883     25,547     25,694     25,317
+
+See accompanying notes to
+                    condensed consolidated financial statements.
+
+                                    Page 3
+
+ELECTRO RENT CORPORATION
+
+                        CONDENSED CONSOLIDATED BALANCE SHEETS
+                    (Unaudited)(000's omitted, except share data)
+
+                                       ASSETS
+
+                                                      February 28   May 31,
+                                                          2006       2005
+                                                       ---------- ----------
+
+Cash and cash equivalents                              $  55,165  $  31,997
+Marketable securities                                     22,700     48,800
+Accounts receivable, net of allowance for
+   doubtful accounts of $760 and $839                     14,694     10,548
+Rental and lease equipment, net of accumulated
+   depreciation of $133,285 and $133,170                 131,435    122,798
+Other property, net of accumulated depreciation and
+   amortization of $12,556 and $12,131                    16,352     15,722
+Goodwill                                                   2,642        -
+Other                                                      4,589      3,357
+                                                       ---------- ----------
+                                                       $ 247,577  $ 233,222
+                                                       ========== ==========
+
+                        LIABILITIES AND SHAREHOLDERS' EQUITY
+
+Liabilities:
+  Accounts payable                                     $   6,526  $  13,983
+  Accrued expenses                                         8,315      8,700
+  Deferred revenue                                         3,121      2,768
+  Deferred tax liability                                  13,471     12,754
+                                                       ---------- ----------
+    Total liabilities                                     31,433     38,205
+                                                       ---------- ----------
+Shareholders' equity:
+  Preferred stock, $1 par - shares authorized 1,000,000;
+    none issued
+  Common stock, no par - shares authorized 40,000,000;
+    issued and outstanding February 28, 2006 - 25,525,797;
+    May 31, 2005 - 25,100,132                             26,318     21,638
+  Retained earnings                                      189,826    173,379
+                                                       ---------- ----------
+    Total shareholders' equity                           216,144    195,017
+                                                       ---------- ----------
+                                                       $ 247,577  $ 233,222
+                                                       ========== ==========
+
+See accompanying notes to
+                    condensed consolidated financial statements.
+
+                                    Page 4
+
+ELECTRO RENT CORPORATION
+
+                   CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+                              (Unaudited) (000's omitted)
+
+Nine Months Ended
+                                                          February 28,
+                                                         2006       2005
+                                                       ---------- ----------
+
+Cash flows from operating activities:
+  Net income                                           $  16,520  $  18,798
+  Adjustments to reconcile net income to net cash
+  provided by operating activities:
+    Depreciation and amortization                         26,520     25,135
+    Provision for (recapture of) losses
+      on accounts receivable                                  48       (193)
+    Gain on sale of rental and lease equipment            (6,929)    (9,131)
+    Income from litigation settlement                         -      (1,758)
+    Deferred tax liability                                   717      6,237
+    Tax benefit for stock options exercised                1,073        180
+    Change in operating assets and liabilities:
+      Accounts receivable                                 (2,497)    (2,136)
+      Other assets                                          (900)       164
+      Accounts payable                                      (558)      (889)
+      Accrued expenses                                    (1,464)    (1,431)
+      Deferred revenue                                       353        527
+                                                       ---------- ----------
+      Net cash provided by operating activities           32,883     35,503
+                                                       ---------- ----------
+Cash flows from investing activities:
+  Proceeds from sale of rental and lease equipment        15,600     17,307
+  Cash paid for acquisition, net of cash acquired         (9,608)       -
+  Payments for purchase of rental and lease equipment    (44,937)   (53,864)
+  Net sales (purchases) of marketable securities          26,100     (6,525)
+  Payments for purchase of other property                   (404)      (232)
+                                                       ---------- ----------
+      Net cash used in investing activities              (13,249)   (43,314)
+                                                       ---------- ----------
+Cash flows from financing activities:
+  Proceeds from issuance of common stock                   3,616      1,357
+  Payment for repurchase of common stock                     (82)        -
+                                                       ---------- ----------
+      Net cash provided by
+        financing activities                               3,534      1,357
+                                                       ---------- ----------
+Net increase (decrease) in cash and cash equivalents      23,168     (6,454)
+Cash and cash equivalents at beginning of period          31,997     29,692
+                                                       ---------- ----------
+Cash and cash equivalents at end of period             $  55,165  $  23,238
+                                                       ========== ==========
+
+See accompanying notes to
+                    condensed consolidated financial statements.
+
+                                    Page 5
+
+ELECTRO RENT CORPORATION
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (UNAUDITED)
+         (U.S. dollar amounts and shares in thousands,
+                   except per share amounts)
+
+Note 1: Basis of Presentation
+
+The condensed consolidated financial statements included herein have been
+prepared by Electro Rent Corporation without audit, pursuant to the rules and
+regulations of the Securities and Exchange Commission (the "SEC").  The
+condensed consolidated financial statements include the accounts of Electro
+Rent Corporation and its wholly owned subsidiaries, Genstar Rental
+Electronics, Inc., ER International, Inc., Electro Rent Europe NV, Electro
+Rent Asia, Inc., and Electro Rent (Tianjin) Rental Co., Ltd. (collectively
+"we", "us", or "our" hereafter) as consolidated with the elimination of all
+intercompany transactions.  Certain information and footnote disclosures
+normally included in financial statements prepared in accordance with
+accounting principles generally accepted in the United States of America have
+been condensed or omitted pursuant to such SEC rules and regulations.  These
+condensed consolidated financial statements reflect all adjustments and
+disclosures which are, in the opinion of management, necessary for a fair
+presentation of our financial position and results of operations for the
+interim periods presented.  These condensed consolidated financial statements
+should be read in conjunction with the audited financial statements and notes
+thereto included in our latest Annual Report on Form 10-K.
+
+The preparation of financial statements in conformity with accounting
+principles generally accepted in the United States of America requires
+management to make estimates and assumptions that affect the reported amounts
+of assets and liabilities as well as the disclosures of contingent assets and
+liabilities as of the date of these financial statements and the reported
+amounts of revenues and expenses during the reporting period.  Actual results
+could differ from those estimates, and results of operations for interim
+periods are not necessarily indicative of results for the full year.
+
+In May 2005, the FASB issued Statement No. 154, Accounting Changes and Error
+Corrections - a replacement of APB Opinion No. 20 and FASB Statement No. 3.
+This Statement replaces APB Opinion No. 20, Accounting Changes, and Statement
+No. 3, Reporting Accounting Changes in Interim Financial Statements, and
+changes the requirements for the accounting and reporting of a change in
+accounting principle.  This Statement requires changes in accounting
+principles to be retrospectively applied to the prior periods presented in
+the financial statements, unless it is impracticable to determine either the
+period-specific effects or the cumulative effect of the change.  This
+Statement applies to all voluntary changes in accounting principles and also
+applies to changes required by an accounting pronouncement in the unusual
+instance that the pronouncement does not include specific transition
+provisions.  This Statement also carries forward, without substantive change,
+the provisions for the correction of an error from APB Opinion No. 20.
+Statement No. 154 is effective for accounting changes and corrections of
+errors made after December 31, 2005.  We do not expect the application of
+this statement to have a significant effect on our consolidated financial
+statements.
+
+                               Page 6
+
+Note 2: Acquisition
+
+On January 31, 2006, we completed the acquisition, pursuant to a Stock
+Purchase Agreement, of Rush Computer Rentals, Inc. ("Rush"), in order to
+facilitate the growth of our data products business.  Headquartered in
+Wallingford, Connecticut, Rush is similar to our existing data products
+business, and is one of the leading providers of personal computers and
+related equipment for rent or sale in the Northeast United States.  Before
+taking into account Rush's cash balance, an aggregate purchase price of
+$9,708 was paid in cash and included the payoff of $2,835 of bank borrowings,
+subject to our final adjustments to the sellers' closing date balance sheet.
+In addition, up to $1,000 of contingent consideration may be paid to the
+shareholders of Rush based upon the achievement of certain revenue objectives
+through February 2008.
+
+The acquisition was accounted for using the purchase method of accounting.
+Under the purchase method of accounting, the total purchase price was
+allocated to assets purchased and liabilities assumed based upon their fair
+values as of the date of the transaction, with the excess recorded as
+goodwill.  The allocation of purchase price is not complete.  A final
+determination of fair values of identifiable tangible and intangible assets
+acquired and liabilities assumed may change the allocation of the purchase
+price.  The allocation of the preliminary purchase price, based on
+management's valuation estimate, is as follows:
+
+Cash                                          $   100
+Rental and lease equipment                      5,810
+Accounts receivable                             1,697
+Other property                                    340
+Other                                             369
+Goodwill                                        2,642
+                                              --------
+Total assets acquired                          10,958
+Accounts payable                                 (171)
+Accrued expenses and other                     (1,079)
+                                              --------
+Net assets acquired                           $ 9,708
+                                              ========
+
+Supplemental pro forma information reflecting the acquisition of Rush as if
+it occurred on June 1, 2004 has not been provided due to the fact that this
+is not a material transaction.
+
+The results of operations of Rush have been included in our statements of
+income from the date of the acquisition.
+
+Note 3: Stock-Based Compensation
+
+At February 28, 2006, we had five stock option plans, four of which are
+referenced in Note 12 in our 2005 Annual Report on Form 10-K and the fifth,
+the 2005 Equity Incentive Plan.  We apply the intrinsic-value-based method
+prescribed by Accounting Principles Board ("APB") Opinion No. 25, "Accounting
+for Stock Issued to Employees," in accounting for employee stock options and
+provide pro forma net income and pro forma earnings per share disclosures for
+employee stock option grants as if the fair-value-based method, defined in
+Statement of Financial Accounting Standards ("SFAS") No. 123 (as amended by
+SFAS No. 148), "Accounting for Stock-Based Compensation", had been applied.
+Had we determined compensation cost based on the fair value at the grant date
+for the company's stock options under SFAS No. 123, our net income would have
+been reduced to the pro forma amounts indicated below for the periods
+presented:
+
+                               Page 7
+
+Three Months        Nine Months
+                                      Ended               Ended
+                                  February 28,        February 28,
+                                ----------------------------------------
+                                   2006       2005      2006       2005
+                                 --------  --------   --------  --------
+Net income, as reported           $5,916    $6,945    $16,520   $18,798
+Deduct: Total stock-based
+  employee compensation
+  expense determined
+  under the fair value
+  based method for all
+  awards, net of
+  related tax effects               (190)     (284)      (571)     (848)
+                                 --------  --------   --------  --------
+Pro forma net income              $5,726    $6,661    $15,949   $17,950
+                                 ========  ========   ========  ========
+Earnings per share:
+  Basic, as reported              $0.23      $0.28     $0.65      $0.75
+  Basic, pro forma                $0.22      $0.27     $0.63      $0.72
+
+  Diluted, as reported            $0.23      $0.27     $0.64      $0.74
+  Diluted, pro forma              $0.22      $0.26     $0.62      $0.71
+
+On December 16, 2004, the Financial Accounting Standards Board (FASB) issued
+SFAS No. 123R, "Share-Based Payment," requiring all share-based payments to
+employees, including grants of employee stock options, to be recognized as
+compensation expense in the consolidated financial statements based on their
+fair values.  This standard is effective for the first annual period
+beginning after June 15, 2005 and includes two transition methods.  Upon
+adoption, we will be required to use either the modified prospective or the
+modified retrospective transition method.  Under the modified prospective
+method, awards that are granted, modified, or settled after the date of
+adoption should be measured and accounted for in accordance with SFAS 123R.
+Unvested equity-classified awards that were granted prior to the effective
+date should continue to be accounted for in accordance with SFAS 123, except
+that the Share-Based Payments must be recognized in the income statement.
+Under the modified retrospective approach, the previously reported amounts
+are restated (either to the beginning of the year of adoption or for all
+periods presented) to reflect the SFAS 123 amounts in the income statement.
+We are currently evaluating the impact of this FASB standard and the
+transitional reporting alternatives described.  We will adopt SFAS 123R in
+the first quarter of fiscal 2007 using the modified prospective application
+method.
+
+Note 4: Impairment of Assets
+
+We assess the carrying value of equipment on a quarterly basis or when
+factors indicating an impairment are present.  We recognize impairment losses
+on the carrying value of equipment held for rental and lease when the
+expected future undiscounted cash flows from rent or lease are less than the
+asset's carrying value, in which case the asset is written down to its
+estimated fair value.  There were no impairment losses recorded during the
+nine months ended February 28, 2006 and February 28, 2005.
+
+Note 5: Noncash Investing and Financing Activities
+
+We had accounts payable and other accruals related to acquired equipment
+totaling $5,248 and $12,318 as of February 28, 2006 and May 31, 2005,
+respectively, and $6,205 and $14,703 as of February 28, 2005 and May 31,
+2004, respectively, which amounts have previously been paid, or will be paid
+in the following periods.
+
+                               Page 8
+
+Note 6: Sales-type Leases
+
+We had certain customer leases providing bargain purchase options, which are
+accounted for as sales-type leases.  Interest income is recognized over the
+life of the lease using the effective interest method.  The minimum lease
+payments receivable and the net investment included in other assets for such
+leases are as follows at:
+
+                                                     Feb. 28,     May 31,
+                                                       2006        2005
+                                                      -------     -------
+Gross minimum lease payments receivable               $ 502       $ 586
+Less - unearned interest                                (33)        (29)
+                                                      -------     -------
+Net investment in sales-type lease receivables        $ 469       $ 557
+                                                      =======     =======
+
+Note 7: Segment Reporting and Related Disclosures
+
+SFAS No. 131, "Disclosure about Segments of an Enterprise and Related
+Information," establishes annual and interim reporting standards for an
+enterprise's operating segments and related disclosures about its products,
+services, geographic areas and major customers.  Under SFAS No. 131, our
+operations are treated as one operating segment.
+
+Although we have only one operating segment, we have two groups of similar
+products:  test and measurement (T&M) and data products (DP) equipment.  Our
+equipment pool, based on acquisition cost, comprised $221,813 of T&M
+equipment and $42,907 of DP equipment at February 28, 2006, and $217,725 of
+T&M equipment and $38,243 of DP equipment at May 31, 2005.
+
+Revenues for these product groups were as follows for the three months ended
+February 28:
+
+                                         T&M           DP          Total
+                                       --------     --------      --------
+2006
+- ----
+Rentals and leases                      $17,710       $4,383       $22,093
+Sales of equipment and other
+  Revenues                                6,516          668         7,184
+                                       --------     --------      --------
+                                        $24,226       $5,051       $29,277
+                                       ========     ========      ========
+2005
+- ----
+Rentals and leases                      $15,171       $3,675       $18,846
+Sales of equipment and other
+  Revenues                                6,999        2,937         9,936
+                                       --------     --------      --------
+                                        $22,170       $6,612       $28,782
+                                       ========     ========      ========
+
+                               Page 9
+
+Revenues for these product groups were as follows for the nine months ended
+February 28:
+
+                                         T&M           DP          Total
+                                       --------     --------      --------
+2006
+- ----
+Rentals and leases                      $52,522      $12,732       $65,254
+Sales of equipment and other
+  Revenues                               16,542        2,032        18,574
+                                       --------     --------      --------
+                                        $69,064      $14,764       $83,828
+                                       ========     ========      ========
+2005
+- ----
+Rentals and leases                      $45,907      $13,578       $59,485
+Sales of equipment and other
+  Revenues                               18,910        3,503        22,413
+                                       --------     --------      --------
+                                        $64,817      $17,081       $81,898
+                                       ========     ========      ========
+
+No single customer accounted for more than 10% of total revenues during the
+third quarter and first nine months of fiscal 2006 or fiscal 2005.
+
+Selected country information is presented below:
+
+                     Three Months Ended       Nine Months Ended
+                        February 28,            February 28,
+                      -------------------     -------------------
+Revenues: (1)         2006        2005        2006        2005
+- -------------        --------    --------    --------    --------
+U.S.                  $26,311     $24,364     $74,987     $71,755
+Other (2)               2,966       4,418       8,841      10,143
+                     --------    --------    --------    --------
+Total                 $29,277     $28,782     $83,828     $81,898
+                     ========    ========    ========    ========
+
+                                                    As of
+                                             --------------------
+                                              Feb. 28      May 31
+Net Long-Lived Assets: (3)                     2006        2005
+- --------------------------                   --------    --------
+U.S.                                         $138,739    $127,106
+Other (2)                                      11,690      11,414
+                                             --------    --------
+Total                                        $150,429    $138,520
+                                             ========    ========
+
+(1) Revenues by country are based on the location of shipping destination,
+    whether the order originates in the U.S. parent or a foreign subsidiary.
+
+(2) Other consists of other foreign countries that each individually account
+    for less that 10% of the total revenues or assets.
+
+(3) Net long-lived assets include rental and lease equipment, other
+    property, net of accumulated depreciation, and goodwill.
+
+                               Page 10
+
+Note 8: Computation of Earnings Per Share
+
+Following is a reconciliation of the denominator used in the computation of
+basic and diluted EPS for the periods ended February 28, 2006 and February
+28, 2005:
+
+                                    Three Months Ended      Nine Months Ended
+                                    ------------------     ------------------
+                                   Feb. 28,   Feb. 28,    Feb. 28,  Feb. 28,
+                                     2006       2005        2006      2005
+                                    --------  --------    --------   --------
+Denominator:
+  Denominator for basic
+    earnings per
+    share-weighted average
+    common shares outstanding         25,451    25,011      25,279     24,943
+  Effect of dilutive
+    Securities-options                   432       536         415        374
+                                    --------  --------    --------   --------
+                                      25,883    25,547      25,694     25,317
+                                    ========  ========    ========   ========
+Net income                            $5,916    $6,945     $16,520    $18,798
+Earnings per share:
+  Basic                                $0.23     $0.28       $0.65      $0.75
+  Diluted                              $0.23     $0.27       $0.64      $0.74
+
+Note 9: Income Taxes
+
+Electro Rent Corporation regularly evaluates its tax risks as required by
+Financial Accounting Standards Board Statement of Financial Accounting
+Standards No. 5.  The three and nine month periods ended February 28, 2006
+and 2005 include reductions in the accrued liability for income taxes as
+follows, reflecting the expiration of specific risks related to closed tax
+audit years:
+                                     Feb. 28,  Feb. 28,
+                                       2006      2005
+                                     --------   --------
+Three months ended                    $  797    $  699
+Nine months ended                      1,001     1,354
+
+                               Page 11
+
+Item 2.  Management's Discussion and Analysis of Financial Condition and
+Results of Operations
+
+The following discussion addresses our financial condition as of February 28,
+2006 and May 31, 2005 and the results of operations for the three and nine
+months ended February 28, 2006 and 2005, and cash flows for the nine-month
+period ended February 28, 2006 and 2005.  This discussion should be read in
+conjunction with the Management's Discussion and Analysis section included in
+our 2005 Annual Report on Form 10-K (pages 10-16) to which the reader is
+directed for additional information and the Risk Factors set forth in Exhibit
+99 to that Report.
+
+Overview
+
+We generate revenues through the rental, lease and sale of electronic
+equipment, primarily test and measurement (T&M) and personal computer-related
+(DP) equipment.
+
+For the first nine months of fiscal 2006, 80.5% of our rental and lease
+revenues were derived from T&M equipment.  This percentage has been
+increasing over the last three fiscal years due to the steady erosion of DP
+rental and lease revenues related to declines in product purchase prices and
+unit volume and increasing T&M activity in telecommunications, aerospace and
+defense markets.  However, it appears that DP revenues are beginning to
+stabilize.  In addition, on January 31, 2006, we acquired Rush Computer
+Rentals, Inc., which is being merged with Electro Rent Corporation effective
+on the acquisition date, and its revenues should add to our base of DP
+revenues.
+
+For the first nine months of fiscal 2006, rental revenues comprised 79.5% of
+our rental and lease revenue.  That percentage has also been increasing over
+the last three years due to a significant decline in personal computer
+leasing activity, and an increase in rental activity that began in fiscal
+2005.
+
+A significant part of our T&M equipment portfolio is rented or leased to
+large companies in the aerospace, defense, electronics and telecommunications
+industries.  We believe that a large part of our T&M equipment is used in
+research and development activities.  We also rent equipment to companies of
+various sizes representing a cross-section of American industry.  Our
+business is relatively non-seasonal except for the third quarter months of
+December, January and February, when rental activity declines due to extended
+holiday closings by a number of customers.  In addition, because February is
+a short month, rental billing is reduced.
+
+The profitability of our business depends in part on controlling the timing,
+pricing and mix of purchases and sales of equipment.  We seek to acquire new
+and used equipment at attractive prices for the purpose of deriving a profit
+from a combination of renting and/or selling such equipment.  The sale of
+equipment, either after acquisition or after it has been rented, can comprise
+a significant portion of our revenues and operating profit.  To maximize our
+overall profit from the rental, leasing, and sales of equipment, we manage
+our equipment pool on an on-going basis by analyzing our product strategy for
+each specific equipment class in light of that equipment's historical and
+projected life cycle.  In doing so, we must compare our estimate of potential
+profit from rental with the potential profit from the product's immediate
+sale and replacement with new or other equipment.  In our analysis, we assume
+depreciation and impairment of equipment based on projected performance and
+historical levels, although historical trends are not necessarily indicative
+of future trends.  Our overall equipment management is complex and our
+product strategy can change during a product's lifetime based upon numerous
+factors, including the U.S. and global economy, interest rates and new
+product launches.  Our strategic equipment decisions are generally based on
+the following fundamentals:
+
+                               Page 12
+
+- -   Our acquisition cost;
+
+- -   Our estimates of current and future market demand for rentals;
+
+- -   Our estimates of current and future supply of product;
+
+- -   The book value of the product after depreciation and other impairment;
+
+- -   Our estimates of the effect of interest rates on rental and leasing fees
+as well as capital financing; and
+
+- -   Our estimates of the potential current and future sale prices.
+
+If we do not accurately predict market trends, or if demand for the equipment
+we supply declines, we can be left with inventory that we are unable to rent
+or sell for a profit.  We assess the carrying value of the equipment pool on
+a quarterly basis or when factors indicating impairment are present.  When
+the U.S. and global economy began to rebound in fiscal 2004, we saw increased
+demand for our equipment, and were able to sell equipment that was older and
+more fully depreciated.  Due in part to these events, we experienced greater
+than normal gross margins on equipment sales of 53% in fiscal 2005.  We
+intend to maintain our equipment management strategy, and, accordingly, we
+believe that gross margins on sales have returned to normal historical levels
+of 40% to 45% as older and previously impaired equipment constitute a smaller
+percentage of sales.  Gross margins on sales were 44% for the first nine
+months of fiscal 2006.
+
+However, results for future quarters are subject to future events, as in the
+case of unusual opportunities for sales and early termination of equipment
+leases.  Such early terminations can (i) result in sales proceeds to the
+extent that the customer decides to purchase the equipment involved, (ii)
+accelerate lease payments to the extent of lease termination fees, and/or
+(iii) to the extent the customer does not purchase the equipment, increase
+the pool of equipment available for lease by us, which would adversely affect
+future utilization unless we can rent, lease or sell that equipment to
+another party.
+
+We generally measure our overall level of profitability with the following
+metrics:
+
+- -   Net income per diluted common share (EPS);
+
+- -   Net income as a percentage of average assets; and
+
+- -   Net income as a percentage of average equity.
+
+Strategic Growth Plans
+
+In recent periods, we have seen some recovery of our business from its
+significant contraction during the early part of this decade.  Although we
+reduced our expenses to maintain profitability during the contraction, we
+believe that our resources and financial infrastructure remains capable of
+handling a significantly greater volume of business activity without a
+proportionate increase in expenses.  Based on this belief and our assessment
+of the improving climate in recent periods, we have been seeking ways to
+increase revenues to leverage that infrastructure.  These strategies include:
+
+                               Page 13
+
+Internal Growth Strategies.  We intend to continue internal growth by
+building upon our vendor and customer relationships and expanding the types
+of services and equipment we provide.  Thus, for example,
+
+- -   We have been purchasing significantly more environmental test equipment
+to expand our presence in this market.
+
+- -   We were recently able to persuade a key vendor to increase its sales
+force compensation for test equipment lease transactions referred to us.
+
+- -   We recently began marketing a flexible leasing program that allows
+customers to build equity that can be applied against the future purchase of
+the test equipment.
+
+- -   We have implemented an expanded customer communication program to
+identify used equipment re-marketing opportunities.
+
+Geographic Expansion Strategies.  Until recently, our activity was largely
+limited to North America, except for some limited rentals to North American
+companies operating in other geographical areas.  We intend to exploit
+opportunities for expanding our rental and leasing services globally.  As
+part of that strategy, we have recently entered two of the largest world
+markets: Europe and China.
+
+- -   Our wholly owned subsidiary in Tianjin, China, commenced operations in
+June 2005 after we received what we believe to be one of the first licenses
+for a wholly foreign-owned equipment rental business in China.
+
+- -   On October 3, 2005, we announced that we acquired a T&M equipment rental
+company based in Belgium, from which we are beginning to service the European
+market.
+
+Acquisition Growth Strategies.  We are also seeking to grow through
+acquisitions.  Acquisitions can permit us to rapidly add revenues, as well as
+to expand into new geographical areas and/or markets.  In addition to the
+acquisition of the Belgium company mentioned above,
+
+- -   On January 31, 2006, we announced that we have completed the acquisition
+of Rush Computer Rentals, Inc., a private company headquartered in
+Wallingford, Connecticut, with annual revenue of approximately $10 million
+from the rental and sale of a wide range of personal computers and related
+equipment to customers located primarily in the Northeast United States.
+
+Of course, none of these growth strategies may be successful, and each
+entails risks that could impact our continuing business results.  In addition
+to the risks associated with our core operations, there are special risks
+associated with international operations and with acquisitions, as well as
+with growth in general.  For a more detailed summary of some of the risks
+associated with these and other factors, please see the Risk Factors set
+forth in Exhibit 99 to our 2005 Annual Report on Form 10-K.
+
+PROFITABILITY AND KEY BUSINESS TRENDS
+
+For the first nine months of fiscal 2006, revenues rose by 2.3% to $83,828
+from the prior year period, operating profit declined by 7.3% to $23,440, and
+net income declined by 12.1% to $16,520.  The prior year period benefited
+from several large non-recurring items, including fees of $1,741 related to
+an early lease termination, gains on two buyouts totaling $1,010, a
+litigation settlement of $1,758, and a tax accrual reduction of $1,354.
+Excluding these transactions from the prior year, revenue growth is
+consistent with the economic environment for the first nine months of fiscal
+2006, while operating profit reflects the cost of developing our operations
+in China and higher depreciation expense related to a larger and newer
+equipment pool.
+
+                               Page 14
+
+Our profitability measurements are presented in the table below for the nine
+months ended February 28, 2006 and 2005:
+
+                                                       2006        2005
+                                                     --------    --------
+Net income per diluted common share (EPS)              $0.64       $0.74
+Net income as a percentage of average assets            9.2%       11.7%
+Net income as a percentage of average equity           10.8%       14.0%
+
+T&M rental and lease activity increased from the first nine months of 2005 to
+the first nine months of fiscal 2006, reflecting the strengthening global
+economy and telecommunications segment.  DP rental and lease activity also
+increased for the same period, reflecting increasing demand and the
+acquisition of Rush Computer Rentals on January 31, 2006.
+
+The amount of equipment on rent, based on acquisition cost, increased from
+$105.1 million at February 28, 2005, to $118.2 million at February 28, 2006.
+Acquisition cost of equipment on lease increased from $35.6 million at
+February 28, 2005, to $41.2 million at February 28, 2006.  Utilization for
+our T&M equipment pool, again based on acquisition cost, increased from 61.5%
+at February 28, 2005, to 62.5% at February 28, 2006.  These increases in
+utilization generally reflect strengthening demand for rental and lease
+equipment.  Over the same period, utilization of our DP equipment pool
+increased from 50.6% to 52.8%.
+
+During the same nine-month periods, monthly rental rates compared to
+acquisition cost for T&M and DP equipment increased by 4.6%, while monthly
+T&M lease rates compared to acquisition cost declined 3.3% and monthly DP
+lease rates compared to acquisition cost increased by 5.7%.  We did not
+record any impairment losses during either of the nine months ended February
+28, 2006 or February 28, 2005.
+
+We believe that demand for rental electronic equipment should improve
+provided the U.S. economy continues to grow.  Also, any increased defense
+spending on advanced weapons and intelligence systems should benefit our
+business.  While those developments continue to unfold, however, we will
+strive to operate the business efficiently at the prevailing activity levels.
+
+The following table shows the revenue and operating profit trends over the
+last five quarters (in thousands):
+
+                                          Three Months Ended
+                                          -------------------
+                           Feb. 28,  Nov. 30,   Aug. 31,   May 31,   Feb. 28,
+                             2006       2005      2005       2005      2005
+                           --------  --------   --------  --------   --------
+Rentals and leases          $22,093   $22,005    $21,156   $20,772    $18,846
+Sales of equipment
+  and other revenues          7,184     5,996      5,394     4,946      9,936
+Operating profit              7,683     8,266      7,491     6,588      9,623
+
+Critical Accounting Policies and Estimates
+
+                               Page 15
+
+The preparation of condensed consolidated financial statements in conformity
+with accounting principles generally accepted in the United States of America
+("generally accepted accounting principles") requires management to make
+estimates and assumptions that affect the reported amounts of assets and
+liabilities and the disclosure of contingent assets and liabilities at the
+date of the financial statements and the reported amounts of revenues and
+expenses during the reporting period.  On a regular basis, management reviews
+these estimates including those related to asset lives and depreciation
+methods, impairment of long-lived assets including rental and lease
+equipment, allowance for doubtful accounts and income taxes.  These estimates
+are based on management's historical experience and on various other
+assumptions believed to be reasonable under the circumstances.  Actual
+results may differ from these estimates under different assumptions or
+conditions.  Management believes, however, that the estimates, including
+those for the above-listed items, are reasonable.
+
+Results of Operations
+
+Comparison of Three Months Ended February 28, 2006 and February 28, 2005
+
+Revenues
+
+Total revenues for the three months ended February 28, 2006 rose $0.5
+million, or 1.7%, to $29.3 million, compared to $28.8 million in the same
+period in the prior year.  The increase in total revenues was due to a 17.2%
+increase in rental and lease revenues which was offset by a 27.7% decrease in
+sales of equipment and other revenues.
+
+Rental and lease revenues in the third quarter of fiscal 2006 increased 17.2%
+to $22.1 million from $18.8 million in the same period of the prior year.
+This increase reflects higher demand and rental rates for T&M and DP
+equipment in our major market segments, which we believe stems from the
+general economic expansion.
+
+Sales of equipment and other revenues decreased 27.7% to $7.2 million in the
+third quarter of fiscal 2006, from $9.9 million in the third quarter of
+fiscal 2005.  The prior year period benefited from several large non-
+recurring items, including an early lease termination and two buyouts,
+totaling $3.7 million.
+
+We sell used equipment as a normal part of our rental business.  However,
+these sales can fluctuate from quarter to quarter and year to year depending
+on equipment availability and customer requirements and funding.  Gross
+margin on sales decreased to $2.2 million in the third quarter of fiscal 2006
+as compared to $4.1 million a year ago, and the gross margin percentage also
+decreased to 35.2% from 59.4% over the same periods.  The declines in gross
+margin and gross margin percentage primarily reflect two large non-recurring
+buyout transactions in last year's third quarter with high gross margins.
+The decline in the gross margin percentage in the current year quarter also
+reflects a return to historic levels, as older and previously impaired
+equipment now constitutes a smaller percentage of equipment sold than during
+the last two years.
+
+Operating Expenses
+
+Depreciation of rental and lease equipment increased to $8.7 million, or
+39.2% of rental and lease revenues, in the third quarter of fiscal 2006, from
+$8.0 million, or 42.2% of rental and lease revenues, in the third quarter of
+fiscal 2005.  The increased depreciation expense reflects higher expenditures
+for new rental and lease equipment during fiscal 2005 and fiscal 2006, while
+the lower ratio reflects higher equipment utilization and increased revenues
+in the current period.
+
+                               Page 16
+
+Costs of revenues other than depreciation increased 25.1% to $4.7 million in
+the third quarter of fiscal 2006, from $3.7 million in the third quarter of
+fiscal 2005.  Costs of revenues other than depreciation primarily includes
+the cost of equipment sales, which increased to 64.8% of equipment sales in
+the third quarter of fiscal 2006, from 40.6% of equipment sales in the third
+quarter of fiscal 2005.  The increase in this percentage reflects the
+customer buyout transactions described above and also reflects the expected
+return to historical levels from lower cost ratios in the previous year, as
+older and previously impaired equipment constitute a smaller percentage of
+equipment sold.
+
+Selling, general and administrative expenses increased 10.6% to $8.3 million
+in the third quarter of fiscal 2006, as compared to $7.5 million in the third
+quarter of fiscal 2005.  This increase primarily reflects the overall
+increase in business activity and certain expenses associated with the
+development of our new operations in China and Europe.  SG&A expenses as a
+percentage of total revenues increased to 28.2% in the third quarter of
+fiscal 2006 from 25.9% in the third quarter of fiscal 2005.
+
+Interest and Investment Income, Net
+
+Net interest and investment income of $0.8 million for the third quarter of
+fiscal 2006 was about twice the $0.4 million recorded in the third quarter of
+fiscal 2005.  This primarily reflects increases in prevailing money-market
+interest rates and to a lesser degree increased cash balances.
+
+Income Taxes
+
+Our effective tax rate was 29.8% in the third quarter of fiscal 2006,
+compared to 30.6% for the same period in fiscal 2005.  The current quarter
+and the corresponding period last year include reductions in the accrued
+liability for income taxes of $0.8 million and $0.7 million, respectively,
+reflecting the expiration of specific risks related to closed tax audit
+years.
+
+Comparison of Nine Months Ended February 28, 2006 and February 28, 2005
+
+Revenues
+
+Total revenues for the nine months ended February 28, 2006 rose $1.9 million,
+or 2.4%, to $83.8 million, compared to $81.9 million in the same period in
+the prior year.  The increase in total revenues was due to a 9.7% increase in
+rental and lease revenues which was partly offset by a 17.1% decrease in
+sales of equipment and other revenues.
+
+Rental and lease revenues in the first nine months of fiscal 2006 increased
+9.7% to $65.3 million from $59.5 million in the same period of the prior
+year.  This increase reflects higher demand and rental rates for T&M
+equipment in our major market segments, which we believe reflects the general
+economic expansion.
+
+                               Page 17
+
+Sales of equipment and other revenues decreased 17.1% to $18.6 million in the
+first nine months of fiscal 2006, from $22.4 million in the first nine months
+of fiscal 2005.  The prior year period benefited from several large non-
+recurring items, including an early lease termination and two buyouts,
+totaling $3.7 million.
+
+We sell used equipment as a normal part of our rental business.  However,
+these sales can fluctuate from quarter to quarter and year to year depending
+on equipment availability and customer requirements and funding.  Gross
+margin on sales decreased to $6.9 million in the first nine months of fiscal
+2006 from $9.1 million a year ago, while the gross margin percentage
+decreased to 44.4% from 52.8% over the same periods.  The declines in gross
+margin and gross margin percentage reflect two large non-recurring buyout
+transactions in last year's third quarter with high gross margins.
+
+The decline in gross margin percentage in the current year nine month period
+also reflects a return to historic levels, as older and previously impaired
+equipment constitute a smaller percentage of equipment sold than during the
+last two years.
+
+Operating Expenses
+
+Depreciation of rental and lease equipment increased to $25.8 million, or
+39.5% of rental and lease revenues, in the first nine months of fiscal 2006,
+from $24.5 million, or 41.1% of rental and lease revenues, in the first nine
+months of fiscal 2005.  The increased depreciation expense reflects higher
+expenditures for new rental and lease equipment during fiscal 2005 and fiscal
+2006, while the lower ratio reflects higher equipment utilization and
+increased revenues in the current period.
+
+Costs of revenues other than depreciation increased 2.7% to $10.4 million in
+the first nine months of fiscal 2006, from $10.1 million in the first nine
+months of fiscal 2005.  Costs of revenues other than depreciation primarily
+includes the cost of equipment sales, which increased to 55.6% of equipment
+sales in the first nine months of fiscal 2006, from 47.2% of equipment sales
+in the first nine months of fiscal 2005.  The increase in this percentage
+reflects the customer buyout transactions described above and also reflects
+the expected return to historical levels from lower cost ratios in the
+previous year, as older and previously impaired equipment constitute a
+smaller percentage of equipment sold.
+
+Selling, general and administrative expenses increased 9.9% to $24.2 million
+in the first nine months of fiscal 2006 million, as compared to $22.0 million
+in the first nine months of fiscal 2005.  This increase primarily reflects
+the overall increase in business activity and certain expenses associated
+with the development of our new operations in China and Europe.  SG&A
+expenses as a percentage of total revenues increased to 28.9% in the first
+nine months of fiscal 2006 from 26.9% in the first nine months of fiscal
+2005.
+
+Interest and Investment Income, Net
+
+Net interest and investment income of $1.9 million for the first nine months
+of fiscal 2006 was about twice the $0.9 million recorded in the first nine
+months of fiscal 2005.  This primarily reflects increases in prevailing
+money-market interest rates and to a lesser degree increased cash balances.
+
+                               Page 18
+
+Income from Litigation Settlement
+
+In the first nine months of fiscal 2005, the Company recognized as other
+income $1.8 million related to funds received from a class action lawsuit
+when all contingencies expired.  There was no comparable income in the
+current year period.
+
+Income Taxes
+
+Our effective tax rate was 34.8% in the first nine months of fiscal 2006,
+compared to 32.9% for the same period in fiscal 2005.  The current nine-month
+period and the corresponding period last year include reductions in the
+accrued liability for income taxes of $1.0 million and $1.4 million,
+respectively, reflecting the expiration of specific risks related to closed
+tax audit years.
+
+Liquidity and Capital Resources
+
+During the last three fiscal years, our primary capital requirements have
+been purchases of rental and lease equipment.  We generally purchase
+equipment throughout each year to replace equipment that has been sold, and
+to maintain adequate levels of rental equipment to meet existing and new
+customer demands.  To support areas of potential growth for both T&M and DP
+equipment, and to keep our equipment pool technologically up-to-date, we made
+payments for the purchase of $44.9 million of rental and lease equipment
+during the first nine months of fiscal 2006.  This amount was 16.6% lower
+than the $53.9 million in the prior year.  In the same period of the current
+fiscal year we paid $9.6 million for the acquisition of Rush, as described in
+Note 2 to the Condensed Consolidated Financial Statements.
+
+On January 14, 2004, we paid a special distribution of $4.00 per outstanding
+common share, which totaled $99.5 million.  Following this distribution
+through February 28, 2006, cash, cash equivalents and marketable securities
+remained relatively stable.  We expect that the level of these liquid assets
+will begin to increase, unless equipment purchases increase in response to
+demand, or we decide to buy back additional shares of our common stock, pay
+another special distribution, pay dividends, finance another acquisition, or
+pursue other opportunities.  We have invested our cash balance in money
+market funds and other instruments with maturities of less than 90 days.
+
+During fiscal year 2001, our Board of Directors authorized management to
+implement a limited stock repurchase program in the amount of 1,500,000
+shares. As of May 31, 2005, we had bought back and retired 318,000 common
+shares for $3.0 million, or $9.37 per share. The only shares repurchased
+since fiscal 2001 have been in connection with the stock-for-stock exercise
+of employee options. Shares acquired are retired.
+
+During the first nine months of fiscal 2006 and fiscal 2005 net cash provided
+by operating activities was $31.9 million and $35.5 million, respectively.
+This decrease is largely the result of a decline in net income in the current
+year and an increase in deferred tax liabilities in the prior year related to
+bonus depreciation.
+
+During the nine months ended February 28, 2006 net cash used in investing
+activities was $13.2 million, compared to $43.3 million in the same period of
+fiscal 2005.  This decrease is attributable to lower payments for the
+purchase of rental and lease equipment combined with net redemption of
+marketable securities in the current year compared to purchases in the prior
+year.
+
+                               Page 19
+
+Net cash flows from financing activities were higher in the first nine months
+of fiscal 2006 as compared the same period last year, due to a greater amount
+of stock options that were exercised in the current year.
+
+We have a $10.0 million revolving line of credit with an institutional
+lender, subject to certain restrictions, to meet equipment acquisition needs
+as well as working capital and general corporate requirements.  We had no
+bank borrowings outstanding at February 28, 2006.
+
+Page 20
+
+SPECIAL NOTE ABOUT FORWARD-LOOKING STATEMENTS
+
+Except for the historical statements and discussions, statements contained in
+this Form 10-Q constitute forward-looking statements within the meaning of
+section 21E of the Securities Exchange Act of 1934.  These forward-looking
+statements reflect the current views of our management with respect to future
+events and financial performance; however, you should not put undue reliance
+on these statements.  We undertake no obligation to update or revise any
+forward-looking statements that are or may be affected by developments, which
+our management does not deem material.  When used in this Form 10-Q, the
+words "anticipate," "believes," "expects," "intends," "future," and other
+similar expressions identify forward-looking statements.  These forward-
+looking statements are subject to certain risks and uncertainties, not all of
+which are disclosed in this Form 10-Q.  We believe our management's
+assumptions are reasonable; nonetheless, it is likely that at least some of
+these assumptions will not come true.  Accordingly, our actual results will
+likely differ from the outcomes contained in any forward-looking statement,
+and those differences could be material.  Factors that could cause or
+contribute to these differences include, among others, those risks and
+uncertainties discussed under the sections contained in this Form 10-Q
+entitled "Management's Discussion and Analysis of Financial Condition and
+Results of Operations," and in "Quantitative and Qualitative Disclosure About
+Market Risk Related to Interest Rates and Currency Rates," as well as in our
+Annual Report on Form 10-K for the year ended May 31, 2005 including the
+"Risk Factors" attached as Exhibit 99 to that document, our Proxy Statement
+for our 2005 Annual Meeting of Shareholders and our other filings with the
+Securities and Exchange Commission.  Should one or more of the risks
+discussed, or any other risks, materialize, or should one or more of our
+underlying assumptions prove incorrect, our actual results may vary
+materially from those anticipated, estimated, expected or projected.
+
+                               Page 21
+
+Item 3.  Quantitative and Qualitative Disclosures About Interest Rates and
+Currency Rates
+
+We are exposed to market risks related to changes in interest rates and
+foreign currency exchange rates, however, we do not believe those risks to be
+material in relation to our operations.  We do not have any derivative
+financial instruments.
+
+As of February 28, 2006 and May 31, 2005, cash and cash equivalents included
+money market securities, and we had investments in marketable securities.
+Due to the short-term duration of our investment portfolio, an immediate 10%
+change in interest rates would not have a material effect on the fair market
+value of our portfolio, therefore, we would not expect our operating results
+or cash flows to be affected to any significant degree by the effect of a
+sudden change in market interest rates on our securities portfolio.
+
+We are also subject to risks associated with foreign currency rate
+fluctuations to the extent of financing arrangements for rented and leased
+equipment denominated in Canadian dollars, euros and Chinese yuan.  We have
+determined that hedging of these assets is not cost effective and instead we
+attempt to minimize risks due to currency and exchange rate fluctuations
+through working capital management.  We do not believe that any foreseeable
+change in currency rates would materially or adversely affect our financial
+position or results of operations.
+
+Item 4. Controls and Procedures
+
+Our management, with the participation of our Chief Executive Officer and
+Chief Financial Officer, evaluated the effectiveness of our disclosure
+controls and procedures (as defined in Rule 13a-15(e) of the Exchange Act) as
+of the end of the period covered by this report.  Based on that evaluation,
+the Chief Executive Officer and Chief Financial Officer concluded that our
+disclosure controls and procedures as of the end of the period covered by
+this report were effective in ensuring that information required to be
+disclosed by us in reports that we file or submit under the Exchange Act is
+recorded, processed, summarized and reported within the time periods
+specified in the Securities and Exchange Commission's rules and forms.
+
+There was no change in our internal control over financial reporting (as
+defined in Rule 13a-15(f) of the Exchange Act) that occurred during our most
+recent fiscal quarter that has materially affected, or is reasonably likely
+to materially affect, our internal control over financial reporting.
+
+                               Page 22
+
+Part II.  OTHER INFORMATION
+
+Item 1.  Legal Proceedings
+
+None.
+
+Item 2.  Unregistered Sales of Equity Securities and Use of Proceeds.
+
+None.
+
+Item 3.  Defaults Upon Senior Securities.
+
+None.
+
+Item 4.  Submission of Matters to a Vote of Security Holders
+
+None.
+
+                               Page 23
+
+Item 6.  Exhibits
+
+(a) (* Indicates compensation plan, contract or arrangement)
+
+Exhibit#    Description
+- --------    -----------
+3	  Articles of Incorporation (Restated) and bylaws are incorporated
+by reference to Exhibits 1.2 and 6.1, respectively, of
+Registration Statement (Form S-14), File No. 2-63532.  A copy of
+the Restated Articles of Incorporation and the Certificate of
+Amendment of Restated Articles of Incorporation filed October 24,
+1988 are incorporated by reference to Exhibit (3) to the Annual
+Report (Form 10-K) for the fiscal year ended May 31, 1989.  A
+copy of the Certificate of Amendment of Restated Articles of
+Incorporation filed October 15, 1997 is filed as Exhibit (3) to
+the Annual Report (Form 10-K) for the fiscal year ended May 31,
+1999.  A copy of the amendment to the bylaws adopted October 6,
+1994 is incorporated by reference to the Annual Report (Form 10-
+K) for the fiscal year ended May 31, 1995.  A copy of the
+amendment to the bylaws adopted November 15, 1996 is incorporated
+by reference to Exhibit (3) of the Annual Report (Form 10-K) for
+the fiscal year ended May 31, 1997.
+
+10.1	Employment Agreement for Steven Markheim dated October 31, 2005,
+is incorporated by reference to Exhibit 10.1 of our Current
+Report (Form 8-K) dated October 31, 2005.*
+
+10.2	Employment Agreement for Gary B. Phillips dated October 31, 2005,
+is incorporated by reference to Exhibit 10.1 of our Current
+Report (Form 8-K) dated October 31, 2005.*
+
+10.3	Employment Agreement for Craig R. Jones dated October 31, 2005,
+is incorporated by reference to Exhibit 10.1 of our Current
+Report (Form 8-K) dated October 31, 2005.*
+
+10.4	The Executive Employment Agreement between the Company and Daniel
+Greenberg, Chairman of the Board of Directors and Chief Executive
+Officer, originally entered into December 15, 1986 and amended
+November 22, 1988 by Amendment No. One To Executive Employment
+Agreement, as further amended and restated as of July 15, 1992. A
+copy of the Executive Employment Agreement (Amended And Restated
+as of July 15, 1992), and as further amended as of October 2001)
+is incorporated by reference to Exhibit (10)(D)-(1) of
+Registrant's Annual Report (Form 10-K) for the fiscal year ended
+May 31, 1993. A copy of Amendment No. 1 to the Amended and
+Restated Executive Employment Agreement, dated October 12, 2001
+is incorporated by reference to Exhibit 10(D)-(1) of Registrant's
+Annual Report (Form 10-K) for the fiscal year ended May 31,
+2003.*
+
+31.1   Rule 13a-14(a)/15d-14(a) Certification of Chief Executive Officer
+
+31.2   Rule 13a-14(a)/15d-14(a) Certification of Chief Financial Officer
+
+32.1   Section 1350 Certification by Principal Executive Officer
+
+32.2   Section 1350 Certification by Chief Financial Officer
+
+                               Page 24
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+Registrant has duly caused this report to be signed on its behalf by the
+undersigned thereto duly authorized.
+
+ELECTRO RENT CORPORATION
+
+DATED:  March 30, 2006
+
+/s/ Craig R. Jones
+Craig R. Jones
+Vice President and Chief Financial Officer
+
+Page 25
+
+<EX-31>
+ 2
+ exhb311.htm
+ ELECTRO RENT CORPORATION FORM 10-Q 02/28/2006 EXH 31.1
+
+EXHIBIT 31.1
+
+             Rule 13a-14(a)/15d-14(a) Certification
+                 By Principal Executive Officer
+
+I, Daniel Greenberg, certify that:
+
+1.  I have reviewed this quarterly report on Form 10-Q of Electro
+Rent Corporation for the period ended February 28, 2006;
+
+2.  Based on my knowledge, this report does not contain any
+untrue statement of a material fact or omit to state a material
+fact necessary to make the statements made, in light of the
+circumstances under which such statements were made, not
+misleading with respect to the period covered by this report;
+
+3.  Based on my knowledge, the financial statements, and other
+financial information included in this report, fairly present in
+all material respects the financial condition, results of
+operations and cash flows of the registrant as of, and for, the
+periods presented in this report;
+
+4.  The registrant's other certifying officer and I are
+responsible for establishing and maintaining disclosure controls
+and procedures (as defined in Exchange Act Rules 13a-15(e) and
+15d-15(e)) and internal control over financial reporting (as
+defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the
+registrant and have:
+
+     a)  Designed such disclosure controls and procedures, or
+     caused such disclosure controls and procedures to be
+     designed under our supervision, to ensure that material
+     information relating to the registrant, including its
+     consolidated subsidiaries, is made known to us by others
+     within those entities, particularly during the period in
+     which this report is being prepared;
+
+     b)  Designed such internal control over financial reporting,
+     or caused such internal control over financial reporting to
+     be designed under our supervision, to provide reasonable
+     assurance regarding the reliability of financial reporting
+     and the preparation of financial statements for external
+     purposes in accordance with generally accepted accounting
+     principles;
+
+     c)  Evaluated the effectiveness of the registrant's
+     disclosure controls and procedures and presented in this
+     report our conclusions about the effectiveness of the
+     disclosure controls and procedures as of the end of the
+     period covered by this report based on such evaluation; and
+
+     d)  Disclosed in this report any change in the registrant's
+     internal control over financial reporting that occurred
+     during the registrant's most recent fiscal quarter that has
+     materially affected, or is reasonably likely to materially
+     affect the registrant's internal control over financial
+     reporting; and
+
+5.  The registrant's other certifying officer and I have
+disclosed, based on our most recent evaluation of internal
+control over financial reporting, to the registrant's auditors and
+the audit committee of registrant's board of directors (or
+persons performing the equivalent functions):
+
+     a)  All significant deficiencies and material weaknesses in
+     the design or operation of internal control over financial
+     reporting which are reasonably likely to adversely affect
+     the registrant's ability to record, process, summarize and
+     report financial information; and
+
+     b)  Any fraud, whether or not material, that involves
+     management or other employees who have a significant role in
+     the registrant's internal control over financial reporting.
+
+Date:  March 30, 2006
+
+                              /s/ Daniel Greenberg
+                              Daniel Greenberg
+                              Chief Executive Officer
+
+</EX-31>
+
+<EX-31>
+ 3
+ exhb312.htm
+ ELECTRO RENT CORPORATION FORM 10-Q 02/28/2006 EXH 31.2
+
+EXHIBIT 31.2
+
+             Rule 13a-14(a)/15d-14(a) Certification
+                 By Principal Financial Officer
+
+I, Craig R. Jones, certify that:
+
+1.  I have reviewed this quarterly report on Form 10-Q of Electro
+Rent Corporation for the period ended February 28, 2006;
+
+2.  Based on my knowledge, this report does not contain any
+untrue statement of a material fact or omit to state a material
+fact necessary to make the statements made, in light of the
+circumstances under which such statements were made, not
+misleading with respect to the period covered by this report;
+
+3.  Based on my knowledge, the financial statements, and other
+financial information included in this report, fairly present in
+all material respects the financial condition, results of
+operations and cash flows of the registrant as of, and for, the
+periods presented in this report;
+
+4.  The registrant's other certifying officer and I are
+responsible for establishing and maintaining disclosure controls
+and procedures (as defined in Exchange Act Rules 13a-15(e) and
+15d-15(e)) and internal control over financial reporting (as
+defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the
+registrant and have:
+
+     a)  Designed such disclosure controls and procedures, or
+     caused such disclosure controls and procedures to be
+     designed under our supervision, to ensure that material
+     information relating to the registrant, including its
+     consolidated subsidiaries, is made known to us by others
+     within those entities, particularly during the period in
+     which this report is being prepared;
+
+     b)  Designed such internal control over financial reporting,
+     or caused such internal control over financial reporting to
+     be designed under our supervision, to provide reasonable
+     assurance regarding the reliability of financial reporting
+     and the preparation of financial statements for external
+     purposes in accordance with generally accepted accounting
+     principles;
+
+     c)  Evaluated the effectiveness of the registrant's
+     disclosure controls and procedures and presented in this
+     report our conclusions about the effectiveness of the
+     disclosure controls and procedures as of the end of the
+     period covered by this report based on such evaluation; and
+
+     d)  Disclosed in this report any change in the registrant's
+     internal control over financial reporting that occurred
+     during the registrant's most recent fiscal quarter that has
+     materially affected, or is reasonably likely to materially
+     affect the registrant's internal control over financial
+     reporting; and
+
+5.  The registrant's other certifying officer and I have
+disclosed, based on our most recent evaluation of internal
+control over financial reporting, to the registrant's auditors and
+the audit committee of registrant's board of directors (or
+persons performing the equivalent functions):
+
+     a)  All significant deficiencies and material weaknesses in
+     the design or operation of internal control over financial
+     reporting which are reasonably likely to adversely affect
+     the registrant's ability to record, process, summarize and
+     report financial information; and
+
+     b)  Any fraud, whether or not material, that involves
+     management or other employees who have a significant role in
+     the registrant's internal control over financial reporting.
+
+Date:  March 30, 2006
+
+                              /s/ Craig R. Jones
+                              Craig R. Jones
+                              Chief Financial Officer
+
+</EX-31>
+
+<EX-32>
+ 4
+ exhb321.htm
+ ELECTRO RENT CORPORATION FORM 10-Q 02/28/2006 EXH 32.1
+
+EXHIBIT 32.1
+
+Section 1350 Certification
+                 By Principal Executive Officer
+
+I,  Daniel Greenberg, certify, pursuant to 18 U.S.C. Section
+1350,  as adpoted pursuant to  Section 906 of the  Sarbanes-Oxley
+Act of 2002, that the periodic report, to which this Statement is
+attached,  fully complies  with the requirements of Section 13(a)
+or 15(d)  of  the  Securities and Exchange Act of  1934,  and the
+information  contained  in  the  periodic report  to  which  this
+Statement is attached, fairly presents, in all material respects,
+the  financial   condition  and  results  of  operations  of  the
+registrant.
+
+     A  signed  original  of  this  written  statement  has  been
+provided  to the Company and will be retained by the Company  and
+furnished to the SEC upon request.
+
+Dated March 30, 2006
+
+/s/ Daniel Greenberg
+                              Daniel Greenberg
+                              Chief Executive Officer
+
+</EX-32>
+
+<EX-32>
+ 5
+ exhb322.htm
+ ELECTRO RENT CORPORATION FORM 10-Q 02/28/2006 EXH 32.2
+
+EXHIBIT 32.2
+
+Section 1350 Certification
+                 By Principal Financial Officer
+
+I,  Craig  R.  Jones, certify, pursuant to 18 U.S.C. Section
+1350,  as adpoted pursuant to  Section 906 of the  Sarbanes-Oxley
+Act of 2002, that the periodic report, to which this Statement is
+attached,  fully complies  with the requirements of Section 13(a)
+or 15(d)  of  the  Securities and Exchange Act of  1934,  and the
+information  contained  in  the  periodic report  to  which  this
+Statement is attached, fairly presents, in all material respects,
+the  financial   condition  and  results  of  operations  of  the
+registrant.
+
+     A  signed  original  of  this  written  statement  has  been
+provided  to the Company and will be retained by the Company  and
+furnished to the SEC upon request.
+
+Dated March 30, 2006
+
+/s/ Craig R. Jones
+                              Craig R. Jones
+                              Chief Financial Officer
+
+</EX-32>
+

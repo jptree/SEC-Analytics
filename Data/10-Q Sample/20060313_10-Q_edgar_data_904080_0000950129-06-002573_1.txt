@@ -1,0 +1,1529 @@
+<Header>
+<FileStats>
+    <FileName>20060313_10-Q_edgar_data_904080_0000950129-06-002573_1.txt</FileName>
+    <GrossFileSize>369484</GrossFileSize>
+    <NetFileSize>76926</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>172008</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>22</N_Tables>
+    <N_Exhibits>3</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000950129-06-002573.hdr.sgml : 20060313
+<ACCEPTANCE-DATETIME>20060313170204
+ACCESSION NUMBER:		0000950129-06-002573
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20050930
+FILED AS OF DATE:		20060313
+DATE AS OF CHANGE:		20060313
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			STONE ENERGY CORP
+		CENTRAL INDEX KEY:			0000904080
+		STANDARD INDUSTRIAL CLASSIFICATION:	CRUDE PETROLEUM & NATURAL GAS [1311]
+		IRS NUMBER:				721235413
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-12074
+		FILM NUMBER:		06682695
+
+	BUSINESS ADDRESS:	
+		STREET 1:		625 E KALISTE SALOOM RD
+		CITY:			LAFAYETTE
+		STATE:			LA
+		ZIP:			70508
+		BUSINESS PHONE:		3182370410
+
+	MAIL ADDRESS:	
+		STREET 1:		625 E KALISTLE SALOOM RD
+		CITY:			LAFAYETTE
+		STATE:			LA
+		ZIP:			70508
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ G975F9+nii0fxd6SHqZ86ShOacKm8UFgB9RVIxeHyi2VsoNerYGlg3HIzA8pDWYa
+ 4crjwYz18GF+CNLP9wPGWg==
+
+ 0000950129-06-002573.txt : 20060313
+
+10-Q
+ 1
+ h33864e10vq.htm
+ STONE ENERGY CORPORATION - SEPTEMBER 30, 2005
+
+e10vq 
+
+Table of Contents   
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION 
+
+WASHINGTON, DC 20549 
+
+FORM 10-Q 
+
+(Mark One)
+
+For the quarterly period ended September 30, 2005 
+
+or 
+
+For the transition period from            to 
+
+Commission file number 1-12074 
+
+STONE ENERGY CORPORATION 
+
+(Exact Name of Registrant as Specified in Its Charter)
+
+Delaware  
+(State or Other Jurisdiction of Incorporation or Organization)
+
+72-1235413  
+(I.R.S. Employer Identification No.) 
+
+625 E. Kaliste Saloom Road 
+Lafayette, Louisiana  
+(Address of Principal Executive Offices)
+
+70508  
+(Zip Code) 
+
+Registrant s Telephone Number, Including Area Code:  (337) 237-0410 
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed
+by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or
+for such shorter period that the registrant was required to file such reports), and (2) has been
+subject to such filing requirements for the past 90 days.
+
+Yes     No    
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated
+filer or a non-accelerated filer. See definition of  accelerated filer and large accelerated
+filer  in Rule 12b-2 of the Exchange Act.
+
+Large accelerated filer           Accelerated filer           Non-accelerated filer    
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the
+Exchange Act).
+
+Yes     No    
+
+As of March 1, 2006, there were 27,161,626 shares of the registrant s Common Stock, par value
+$.01 per share, outstanding.
+
+Table of Contents   
+
+EXPLANATORY NOTE 
+
+Reserves Restatement    On October 6, 2005, as a result of reservoir level reviews conducted during
+August 2005 through early October 2005, we announced a downward revision of 171 billion cubic feet
+of natural gas equivalent ( Bcfe ) of proved reserves. After additional analysis and consultation
+with outside engineering firms, the revision was increased to 237 Bcfe. Subsequently, after an
+internal review of the causes of this revision, we decided to restate the unaudited oil and gas
+reserve disclosures previously included in the footnotes accompanying our financial statements
+contained in the original Form 10-K filed for the years ended December 31, 2004, 2003, 2002 and
+2001 to give effect to the removal of 157 Bcfe of those volumes to the periods in which they did
+not represent proved reserves within the applicable rules of the Securities and Exchange Commission
+( SEC ).
+
+Please refer to pages 4 to 7 for additional information regarding the reserves restatement.
+
+Financial Restatement    In view of the overstatement of proved reserves, it was determined to
+restate the financial statements of the Company for the years ended December 31, 2004, 2003, 2002
+and 2001 and the quarters ended March 31, 2005 and June 30, 2005. We did not amend our Annual
+Report on Form 10-K for the years ended December 31, 2004, 2003 and 2002 or our Quarterly Reports
+on Form 10-Q for any periods prior to June 30, 2005, and the financial statements and related
+financial information contained in those reports should no longer be relied upon. A summary of the
+effects of the restatement on reported amounts for those periods is presented in the notes to the
+condensed consolidated financial statements in this quarterly report on Form 10-Q  (See Note 1  
+Restatement of Historical Financial Statements.)  The overstatement of proved reserves had the
+effect of understating the write-down of oil and gas properties for 2001 and depreciation,
+depletion and amortization expense ( DD A ) for all the periods to be restated which in turn caused
+the overstatement of various reported amounts.
+
+Additionally, in the process of the preparation of the Company s Form 10-Q for September 30, 2005,
+it was determined that approximately $9.8 million of unevaluated oil and gas property costs were
+inappropriately classified and should have been reclassified to proved oil and gas property costs
+in 2002. The Financial Restatement includes the effect of this revision for the years ended
+December 31, 2004, 2003 and 2002. The total cumulative impact of the restatements on stockholders 
+equity as of June 30, 2005 was a reduction of approximately $89.8 million, which includes a
+reduction in beginning stockholders  equity as of January 1, 2002 of approximately $45.3 million.
+
+Please refer to pages 4 to 7 for additional information regarding the financial restatement.
+
+The information herein reflects the restatements described above unless the context provides
+otherwise.
+
+Table of Contents   
+
+TABLE OF CONTENTS 
+
+Page  
+
+PART I   FINANCIAL INFORMATION  
+
+Item 1. Financial Statements: 
+
+Condensed Consolidated Balance Sheet as of September 30, 2005 and December 31, 2004 
+
+1 
+
+Condensed Consolidated Statement of Income for the Three and Nine Months Ended September 30, 2005 and 2004 
+
+2 
+
+Condensed Consolidated Statement of Cash Flows for the Nine Months Ended September 30, 2005 and 2004 
+
+3 
+
+Notes to Condensed Consolidated Financial Statements 
+
+4 
+
+Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+
+15 
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+
+19 
+
+Item 4. Controls and Procedures 
+
+20 
+
+PART II   OTHER INFORMATION  
+
+Item 1. Legal Proceedings 
+
+22 
+
+Item 6. Exhibits 
+
+22 
+
+Signature 
+
+23 
+
+Certification of PEO Pursuant to Rule 13a-14(a)    
+     Certification of PFO Pursuant to Rule 13a-14(a)    
+     Certification of CEO & CFO Pursuant to Section 1350    
+
+Table of Contents   
+
+PART I   FINANCIAL INFORMATION 
+
+Item 1. Financial Statements 
+
+STONE ENERGY CORPORATION 
+
+CONDENSED CONSOLIDATED BALANCE SHEET 
+
+(In thousands of dollars) 
+
+(Unaudited) 
+
+The accompanying notes are an integral part of this balance sheet.
+
+1
+
+Table of Contents   
+
+STONE ENERGY CORPORATION 
+
+CONDENSED CONSOLIDATED STATEMENT OF INCOME 
+
+(In thousands of dollars, except per share amounts) 
+
+(Unaudited) 
+
+The accompanying notes are an integral part of this statement.
+
+2
+
+Table of Contents   
+
+STONE ENERGY CORPORATION 
+
+CONDENSED CONSOLIDATED STATEMENT OF CASH FLOWS 
+
+(In thousands of dollars) 
+
+(Unaudited) 
+
+The accompanying notes are an integral part of this statement.
+
+3
+
+Table of Contents   
+
+STONE ENERGY CORPORATION 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+
+NOTE 1   Restatement of Historical Financial Statements: 
+
+On October 6, 2005, as a result of reservoir level reviews conducted during August 2005
+through early October 2005, we announced a downward revision of 171 billion cubic feet of natural
+gas equivalent ( Bcfe ) of estimated proved reserves. After additional analysis and additional
+consultation with outside engineering firms, the revision was increased to 237 Bcfe.
+
+Based on internal assessments and consultation with outside engineering firms, we concluded
+that 157 Bcfe of the negative reserve revisions should have been reflected in 2004 and prior
+periods and would require a revision of the historical reserve estimates included in our
+supplemental natural gas and oil operating data. Quantities of estimated proved reserves are used
+in determining financial statement amounts, including ceiling test charges and depletion,
+depreciation and amortization ( DD A ). The revision of our historical reserve estimates required
+the restatement of the financial statement information derived from these estimates for the periods
+from 2001 to 2004 and the first two quarters of 2005.
+
+Additionally, in the process of the preparation of our Form 10-Q for September 30, 2005, it
+was determined that approximately $9.8 million of unevaluated oil and gas property costs were
+inappropriately classified and should have been reclassified to proved oil and gas property costs
+in 2002. The Financial Restatement includes the effect of this revision for the years ended
+December 31, 2004, 2003 and 2002.
+
+Reserves Restatement 
+
+Our reserves restatement resulted in the following revisions to our estimated proved reserves
+as of:
+
+4
+
+Table of Contents   
+
+Financial Restatement 
+
+The total cumulative impact of the restatement on our stockholders  equity as of December 31,
+2004 was a reduction of approximately $81.4 million, which includes a reduction in beginning
+stockholders  equity as of January 1, 2002 of approximately $45.3 million.
+
+As to the individual consolidated statement of income line items, our historical financial
+statements for the years ended December 31, 2004, 2003 and 2002 and for each of the quarters in
+those years and the first two quarters of 2005 reflect the effects of the restatement on (1) the
+calculation of our historical depletion, depreciation and amortization expense, (2) the effects, if
+any, on interest expense resulting from changes in unevaluated oil and gas properties, (3) the
+impact on the cumulative effect of accounting changes and (4) the impact on income taxes. We did
+not amend our Annual Report on Form 10-K for the year ended December 31, 2004 or our Quarterly
+Reports on Form 10-Q for any periods prior to June 30, 2005, and the financial statements and
+related financial information contained in those reports should no longer be relied upon. A
+summary of the effects of the restatement on reported amounts for the years ended December 31,
+2004, 2003 and 2002 and quarters ended March 31, 2005 and June 30, 2005 is presented below. Also,
+the information in the data below represents only those income statement, balance sheet, cash flow
+statement and statement of comprehensive income line items affected by the restatement.
+
+5
+
+Table of Contents   
+
+6
+
+Table of Contents   
+
+7
+
+Table of Contents   
+
+8
+
+Table of Contents   
+
+Note 2   Interim Financial Statements 
+
+The condensed consolidated financial statements of Stone Energy Corporation and subsidiary as
+of September 30, 2005 and for the three and nine-month periods ended September 30, 2005 and 2004
+are unaudited and reflect all adjustments (consisting only of normal recurring adjustments, except
+for the Financial Restatement described in Note 1), which are, in the opinion of management,
+necessary for a fair presentation of the financial position and operating results for the interim
+period. The consolidated financial statements should be read in conjunction with the consolidated
+financial statements and notes thereto, together with management s discussion and analysis of
+financial condition and results of operations, contained in our Annual Report on Form 10-K. The
+results of operations for the three and nine-month periods ended September 30, 2005 are not
+necessarily indicative of future financial results.
+
+Note 3   Earnings Per Share 
+
+Basic net income per share of common stock was calculated by dividing net income applicable to
+common stock by the weighted-average number of common shares outstanding during the period.
+Diluted net income per share of common stock was calculated by dividing net income applicable to
+common stock by the weighted-average number of common shares outstanding during the period plus the
+weighted-average number of dilutive stock options and restricted stock granted to outside directors
+and employees. There were approximately 364,000 and 278,000 dilutive shares for the three months
+ended September 30, 2005 and 2004, respectively, and 312,000 and 329,000 dilutive shares for the
+nine months ended September 30, 2005 and 2004, respectively.
+
+Stock options that were considered antidilutive because the exercise price of the option
+exceeded the average price of our stock for the applicable period totaled approximately 369,000 and
+747,000 shares in the three months ended September 30, 2005 and 2004, respectively, and 588,000 and
+624,000 shares in the nine months ended September 30, 2005 and 2004, respectively.
+
+During the three months ended September 30, 2005 and 2004, approximately 215,000 and 12,000
+shares of common stock, respectively, were issued upon the exercise of stock options and vesting of
+restricted stock by employees and nonemployee directors. For the nine months ended September 30,
+2005 and 2004, approximately 466,000 and 242,000 shares of common stock, respectively, were issued
+upon the exercise of stock options and vesting of restricted stock by employees and nonemployee
+directors and the awarding of employee bonus stock pursuant to the 2004 Amended and Restated Stock
+Incentive Plan.
+
+Note 4   Hedging Activities 
+
+We enter into hedging transactions to secure a commodity price for a portion of future
+production that is acceptable at the time of the transaction. The primary objective of these
+activities is to reduce our exposure to the risk of declining oil and natural gas prices during the
+term of the hedge. We do not enter into hedging transactions for trading purposes. We currently
+utilize two forms of hedging contracts: fixed price swaps and zero-premium collars.
+
+The following table illustrates our hedging positions as September 30, 2005:
+
+(1) 
+       
+     Based upon Inside FERC published prices for natural gas deliveries at Kern River. 
+
+9
+
+Table of Contents   
+
+Under Statement of Financial Accounting Standards ( SFAS ) No. 133, the nature of a derivative
+instrument must be evaluated to determine if it qualifies for hedge accounting treatment. If the
+instrument qualifies for hedge accounting treatment, it is recorded as either an asset or liability
+measured at fair value and subsequent changes in the derivative s fair value are recognized in
+equity through other comprehensive income, to the extent the hedge is considered effective.
+Additionally, monthly settlements of effective hedges are reflected in revenue from oil and gas
+production. Instruments not qualifying for hedge accounting are recorded in the balance sheet at
+fair value and changes in fair value are recognized in earnings. Monthly settlements of
+ineffective hedges are recognized in earnings through derivative expense and are not reflected as
+revenue from oil and gas production.
+
+During the three months ended September 30, 2005 and 2004, we realized net decreases in gas
+revenue related to our effective swaps of $4.7 million and $2.3 million, respectively. During the
+nine months ended September 30, 2005 and 2004, we realized net decreases in gas revenue related to
+effective swaps of $11.2 million and $6.7 million, respectively. In addition, we realized a net
+decrease in oil revenue related to our effective zero-premium collars in the amount of $6.1 million
+during the three months ended September 30, 2005 and $7.5 million during the nine months ended
+September 30, 2005.
+
+As a result of extended shut-ins of production after Hurricane Katrina and Hurricane Rita, our
+September, October and November crude oil production levels were below the volumes which we had
+hedged. Consequently, one of our crude oil hedges for the months of September, October and
+November was deemed to be ineffective. During the third quarter of 2005, we recognized $4.8
+million of derivative expenses, $1.5 million of which represented a charge related to the cash
+settlement of the ineffective September crude oil collar and $3.3 million of which represented a
+non-cash charge related to the mark-to-market fair value change in the ineffective October and
+November crude oil collars. Derivative expenses for the three- and nine-month periods ended
+September 30, 2004 totaled $1.1 million and $3.0 million, respectively, representing the cost
+associated with oil and gas puts that settled during those periods.
+
+Note 5   Long-Term Debt 
+
+Long-term debt consisted of the following:
+
+Borrowings outstanding at September 30, 2005 under our bank credit facility totaled $113.0
+million, and letters of credit totaling $13.1 million have been issued under the facility. At
+September 30, 2005, we had $298.9 million of borrowings available under the credit facility and the
+weighted average interest rate was approximately 4.9%. During the third quarter of 2005, we repaid
+$45.0 million of debt under the facility. During the fourth quarter of 2005, we borrowed $50.0
+million of debt under the facility. As of March 1, 2006, we had a borrowing base under the credit
+facility of $300 million with availability of an additional $114.1 million of borrowings. Our
+borrowing base was reduced from $425 million to $300 million after we announced our reserve
+revision in October 2005.
+
+Under the financial covenants of our credit facility, we must (i) maintain a ratio of
+consolidated debt to consolidated EBITDA, as defined in the amended credit agreement, for the
+preceding four quarterly periods of not greater than 3.25 to 1 and (ii) maintain a Consolidated
+Tangible Net Worth (as defined). In addition, the credit facility places certain customary
+restrictions or requirements with respect to disposition of properties, incurrence of additional
+debt, change of ownership and reporting responsibilities. These covenants may limit or prohibit us
+from paying cash dividends. During 2005, the participating banks in our credit facility granted
+waivers from certain covenants regarding the filing of our financial statements until March 31,
+2006. Additionally, we agreed to secure borrowings under the facility with a security interest in
+certain oil and gas properties. As of the date of this filing we had not completed the transfer of
+the security interests to the banks participating in the facility. If we are unable to complete
+this transaction by March 31, 2006, it is possible that the balance of facility could become due at
+that time; however, we believe we could replace the facility if this were to occur.
+
+10
+
+Table of Contents   
+
+On December 15, 2004, we issued $200 million 6  3  / 4 % Senior Subordinated Notes due 2014. The
+notes were sold at par value and we received net proceeds of $195.5 million and are subordinated to
+our senior unsecured credit facility and rank  pari passu  with our 8  1  / 4 % Senior Subordinated Notes.
+There is no sinking fund requirement and the notes are redeemable at our option, in whole but not
+in part, at any time before December 15, 2009 at a Make-Whole Amount. Beginning December 15, 2009,
+the notes are redeemable at our option, in whole or in part, at 103.375% of their principal amount
+and thereafter at prices declining annually to 100% on and after December 15, 2012. In addition,
+before December 15, 2007, we may redeem up to 35% of the aggregate principal amount of the notes
+issued with net proceeds from an equity offering at 106.75%. The notes provide for certain
+covenants, which include, without limitation, restrictions on liens, indebtedness, asset sales,
+dividend payments and other restricted payments. We received notice of non-compliance from
+holders of over 25 percent of the outstanding principal amount of our $200 million 6  3  / 4 % Senior
+Subordinated Notes due 2014 relating to the non-issuance of financial statements. The receipt of
+notice of non-compliance started a 60 day period beginning February 15, 2006 in which to cure the
+default relating to the non-issuance of financial statements. As a consequence of these notices,
+we became unable to borrow additional funds under our bank credit facility until the default was
+cured. We believe the filing of this Form 10-Q and our Form 10-K for the year ended December 31,
+2005 has cured the default.
+
+Note 6   Comprehensive Income 
+
+The following table illustrates the components of comprehensive income for the three and nine
+months ended September 30, 2005 and 2004:
+
+Note 7   Asset Retirement Obligations 
+
+During the third quarter of 2005 and 2004, we recognized non-cash expenses of $1.8 million and
+$1.5 million, respectively, related to the accretion of our asset retirement obligation. For the
+nine-month periods ended September 30, 2005 and 2004, we recognized accretion expense of $5.4
+million and $4.4 million, respectively. For the three- and nine-month periods ended September 30,
+2005, we settled $0.8 million of asset retirement obligations and recorded a revision to the asset
+retirement obligation in the amount of $49.1 million related to higher estimated costs combined
+with a shortened time frame to plug and abandon our facilities.
+
+Note 8   Stock-Based Compensation 
+
+In October 1995, the Financial Accounting Standards Board ( FASB ) issued SFAS No. 123,
+Accounting for Stock-Based Compensation, which became effective with respect to us in 1996. Under
+SFAS No. 123, companies can either record expense based on the fair value of stock-based
+compensation upon issuance or elect to remain under the current method, Accounting Principles Board
+( APB ) Opinion No. 25, Accounting for Stock Issued to Employees, whereby no compensation cost is
+recognized upon grant if certain requirements are met. We have continued to account for our
+stock-based compensation under APB Opinion No. 25.
+
+11
+
+Table of Contents   
+
+In December 2002, the FASB issued SFAS No. 148,  Accounting for Stock-Based Compensation  
+Transition and Disclosure, an amendment of FASB Statement No. 123,  to amend the disclosure
+requirements of SFAS No. 123 to require prominent disclosure in both annual and interim financial
+statements about the method of accounting for stock-based employee compensation and the effects of
+the method used on reported results. If the compensation expense for stock-based compensation
+plans had been determined consistent with the expense recognition provisions under SFAS No. 123 and
+assuming the straight-line method for recognition of expenses in the applicable vesting periods,
+our net income and earnings per common share and earnings per common share assuming dilution for
+the periods presented would have approximated the pro forma amounts below:
+
+On December 16, 2004, the FASB issued SFAS No. 123(R), Share-Based Payment, which is a
+revision of SFAS No. 123. SFAS No. 123(R) supersedes APB Opinion No. 25 and amends SFAS No. 95,
+Statement of Cash Flows. Generally, the approach in SFAS No. 123(R) is similar to the approach
+described in SFAS No. 123; however, SFAS No. 123(R) requires all share-based payments to employees,
+including grants of employee stock options, be recognized in the income statement based on their
+fair values. Pro forma disclosure will no longer be an alternative.
+
+SFAS No. 123(R) permits public companies to adopt its requirements using one of two methods:
+
+1. 
+       
+     the  modified prospective  method in which compensation cost is
+recognized beginning with the effective date (a) based on the requirements of SFAS
+No. 123(R) for all share-based payments granted after the effective date and (b)
+based on the requirements of SFAS No. 123 for all awards granted to employees prior
+to the effective date of SFAS No. 123(R) that remain unvested on the effective date;
+or 
+
+2. 
+       
+     the  modified retrospective  method which includes the requirements of
+the modified prospective method described above, but also permits entities to
+restate based on the amounts previously recognized under SFAS No. 123 for purposes
+of pro forma disclosures either (a) all prior periods presented or (b) prior interim
+periods of the year of adoption. 
+
+In March 2005, the Securities and Exchange Commission ( SEC ) issued Staff Accounting Bulletin
+( SAB ) No. 107 which expressed the views of the SEC regarding the interaction between SFAS No.
+123(R) and certain SEC rules and regulations. SAB No. 107 provides guidance related to the
+valuation of share-based payment arrangements for public companies, including assumptions such as
+expected volatility and expected term. In April 2005, the SEC approved a rule that delayed the
+effective date of SFAS No. 123(R) for public companies. As a result, SFAS No. 123(R) will be
+effective for us on January 1, 2006.
+
+12
+
+Table of Contents   
+
+Stone has elected to adopt the requirements of SFAS No. 123(R) using the  modified
+prospective  method. We have historically used the Black-Scholes option-pricing model for
+estimating stock compensation expense for disclosure purposes and intend to continue using such
+method upon adoption of SFAS No. 123(R).
+
+We expect the implementation of SFAS No. 123(R) to impact our 2006 financial statements as
+follows:
+
+Expense amounts related to stock option issuances will be expensed in the
+income statement prospectively as opposed to the pro forma disclosures
+previously presented in prior periods. Expense amounts on stock options to
+be incurred in 2006 and future periods will be contingent upon several
+factors including the number of options issued and capitalization rates and
+therefore, prior pro forma amounts should not be assumed to be necessarily
+indicative of future expense amounts. 
+
+Unearned Compensation and Additional Paid-In Capital balances related to
+our restricted stock issuances will be reversed. 
+
+The tax benefits from the vesting of restricted stock and the exercise of
+stock options will no longer be recorded as an addition to Additional
+Paid-In Capital until we are in a current tax paying position. Presently,
+all of our income taxes are being deferred and we have substantial net
+operating losses available for carryover to future periods. 
+
+On August 16, 2005, Stone awarded restricted stock grants to all employees. Unearned
+compensation expense in the amount of $14.1 million was recorded in the third quarter of 2005 for
+the restricted stock grants and will be amortized over the vesting period of the restricted stock
+grants. Stock compensation totaled $1.1 million for the third quarter of 2005. Of this amount,
+$0.5 million was expensed and $0.6 million was capitalized as part of the cost of oil and gas
+properties.
+
+Note 9   Commitments and Contingencies 
+
+On December 30, 2004, Stone was served with two petitions (civil action numbers 2004-6227 and
+2004-6228) filed by the Louisiana Department of Revenue ( LDR ) in the 15th Judicial District Court
+(Parish of Lafayette, Louisiana) claiming additional franchise taxes due. In one case, the LDR is
+seeking additional franchise taxes from Stone in the amount of $640,000, plus accrued interest of
+$352,000 (calculated through December 15, 2004), for the franchise year 2001. In the other case,
+the LDR is seeking additional franchise taxes from Stone (as successor to Basin Exploration, Inc.)
+in the amount of $274,000, plus accrued interest of $159,000 (calculated through December 15,
+2004), for the franchise years 1999, 2000 and 2001. Further, on December 29, 2005, the LDR filed
+another petition in the 15 th  Judicial District Court claiming additional franchise taxes
+due for the taxable years ended December 31, 2002 and 2003 in the amount of $2.6 million plus
+accrued interest calculated through December 15, 2005 in the amount of $1.2 million. These
+assessments all relate to the LDR s assertion that sales of crude oil and natural gas from
+properties located on the Outer Continental Shelf, which are transported through the state of
+Louisiana, should be sourced to the state of Louisiana for purposes of computing the Louisiana
+franchise tax apportionment ratio. The Company disagrees with these contentions and intends to
+vigorously defend itself against these claims.
+
+Stone has received notice that the staff of the SEC is conducting an informal inquiry into the
+revision of Stone s proved reserves and the financial statement restatement. In addition, Stone
+has received an inquiry from the Philadelphia Stock Exchange investigating matters including
+trading prior to Stone s October 6, 2005 announcement. Stone intends to cooperate fully with both
+inquiries.
+
+13
+
+Table of Contents   
+
+On or around November 30, 2005, George Porch filed a putative class action in the United
+States District Court for the Western District of Louisiana against Stone, David H. Welch, Kenneth
+H. Beer, D. Peter Canty and James H. Prince purporting to allege violations of Sections 10(b) and
+20(a) of the Securities Exchange Act of 1934 (the  Exchange Act ). Three similar complaints were
+filed soon thereafter. All complaints assert a putative class period commencing on June 17, 2005
+and ending on October 6, 2005. All complaints contend that, during the putative class period,
+defendants, among other things, misstated or failed to disclose (i) that Stone had materially
+overstated Stone s financial results by overvaluing its oil reserves through improper and
+aggressive reserve methodologies; (ii) that the Company lacked adequate internal controls and was
+therefore unable to ascertain its true financial condition; and (iii) that as a result of the
+foregoing, the values of the Company s proved reserves, assets and future net cash flows were
+materially overstated at all relevant times. A motion to consolidate these actions and to appoint
+a lead plaintiff will be heard on March 22, 2006. In addition, on or about December 16, 2005,
+Robert Farer filed a complaint in the United States District Court for the Western District of
+Louisiana alleging claims derivatively on behalf of Stone, and three similar complaints were filed
+soon thereafter in federal and state court. Stone is named as a nominal defendant, and certain
+current and former officers and directors are named as defendants in these actions, which allege
+breaches of the fiduciary duties owed to Stone, gross mismanagement, abuse of control, waste of
+corporate assets, unjust enrichment, and violations of the Sarbanes-Oxley Act of 2002. Stone
+intends to vigorously defend these lawsuits.
+
+Stone s Certificate of Incorporation and/or its Restated Bylaws provide, to the extent
+permissible under the law of Delaware (Stone s state of incorporation), for indemnification of and
+advancement of defense costs to Stone s current and former directors and officers for potential
+liabilities related to their service to Stone. Stone has purchased directors and officers
+insurance policies that, under certain circumstances, may provide coverage to Stone and/or its
+officers and directors for certain losses resulting from securities-related civil liabilities
+and/or the satisfaction of indemnification and advancement obligations owed to directors and
+officers. These insurance policies may not cover all costs and liabilities incurred by Stone and
+its current and former officers and directors in these regulatory and civil proceedings.
+
+14
+
+Table of Contents   
+
+Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+
+This   Form 10-Q   and the information referenced herein contain statements that constitute
+ forward-looking statements  within the meaning of Section 27A of the Securities Act of 1933 and
+Section 21E of the Securities Exchange Act of 1934. The words  plan,   expect,   project, 
+ estimate,   assume,   believe,   anticipate,   intend,   budget,   forecast,   predict  and other
+similar expressions are intended to identify forward-looking statements. These statements appear
+in a number of places and include statements regarding our plans, beliefs or current expectations,
+including the plans, beliefs and expectations of our officers and directors. We use the terms
+ Stone,   Stone Energy,   Company,   we,   us  and  our  to refer to Stone Energy Corporation. 
+
+When considering any forward-looking statement, you should keep in mind the risk factors that
+could cause our actual results to differ materially from those contained in any forward-looking
+statement. Important factors that could cause actual results to differ materially from those in
+the forward-looking statements herein include the timing and extent of changes in commodity prices
+for oil and gas, operating risks and other risk factors as described in our Annual Report on Form
+10-K. Furthermore, the assumptions that support our forward-looking statements are based upon
+information that is currently available and is subject to change. We specifically disclaim all
+responsibility to publicly update any information contained in a forward-looking statement or any
+forward-looking statement in its entirety and therefore disclaim any resulting liability for
+potentially related damages. All forward-looking statements attributable to Stone Energy
+Corporation are expressly qualified in their entirety by this cautionary statement. 
+
+Overview 
+
+Stone Energy Corporation is an independent oil and gas company engaged in the acquisition and
+subsequent exploration, development, production and operation of oil and gas properties located in
+the conventional shelf of the Gulf of Mexico (the  GOM ), the deep shelf of the GOM, the deep water
+of the GOM, several basins of the Rocky Mountains and the Williston Basin. Throughout this
+document, reference to our  Gulf Coast Basin  properties includes our onshore, shelf and deep shelf
+properties. Reference to our  Rocky Mountain Region  includes our properties in several Rocky
+Mountain Basins and the Williston Basin. All period to period comparisons are based on restated
+amounts.
+
+Critical Accounting Policies 
+
+Our Annual Report on Form 10-K describes the accounting policies that we believe are critical
+to the reporting of our financial position and operating results and that require management s most
+difficult, subjective or complex judgments. Our most significant estimates are:
+
+remaining proved oil and gas reserves volumes and the timing of their production; 
+
+estimated costs to develop and produce proved oil and gas reserves; 
+
+accruals of exploration costs, development costs, operating costs and production revenue; 
+
+timing and future costs to abandon our oil and gas properties; 
+
+the effectiveness and estimated fair value of derivative positions; 
+
+classification of unevaluated property costs; 
+
+capitalized general and administrative costs and interest; and 
+
+contingencies. 
+
+This Quarterly Report on Form 10-Q should be read together with the discussion contained in
+our Annual Report on Form 10-K regarding these critical accounting policies.
+
+Other Factors Affecting Our Business and Financial Results 
+
+In addition to the matters discussed above, our business, financial condition and results of
+operations are affected by a number of other factors. This Quarterly Report on Form 10-Q should be
+read in conjunction with the discussion in our Annual Report on Form 10-K regarding these other
+risk factors.
+
+15
+
+Table of Contents   
+
+Results of Operations 
+
+The following tables set forth certain information with respect to our oil and gas operations.
+
+(a) 
+       
+     Includes the cash settlement of effective hedging contracts. 
+
+(b) 
+       
+     Exclusive of incentive compensation expense. 
+
+Net Income.   During the third quarter of 2005, net income totaled $33.0 million, or $1.20 per
+share, compared to $21.9 million, or $0.82 per share for the third quarter of 2004. The
+increase in third quarter net income was primarily due to an increase in realized oil and natural
+gas prices. For the nine months ended September 30, 2005, net income totaled $110.4 million, or
+$4.06 per share, compared to $85.1 million, or $3.17 per share, during the comparable 2004 period.
+The increase in year-to-date net income was primarily due to an increase in natural gas production
+volumes and an increase in realized oil and natural gas prices. All per share amounts are on a
+diluted basis.
+
+Prices  . Prices realized during the third quarter of 2005 averaged $53.89 per Bbl of oil and
+$7.81 per Mcf of natural gas, or 35% higher, on an Mcfe basis, than third quarter 2004 average
+realized prices of $41.79 per Bbl of oil and $5.54 per Mcf of natural gas. Average realized prices
+during the first nine months of 2005 were $49.99 per Bbl of oil and $6.70 per Mcf of natural gas
+compared to $37.62 per Bbl of oil and $5.63 per Mcf of natural gas realized during the first nine
+months of 2004. All unit pricing amounts include the cash settlement of effective hedging
+contracts.
+
+16
+
+Table of Contents   
+
+During the third quarters of 2005 and 2004, our effective hedging transactions reduced the
+average price we received for natural gas by $0.37 and $0.18 per Mcf, respectively. In addition,
+average realized oil prices were reduced by $5.47 per Bbl during the third quarter of 2005 as a
+result of effective hedges. Hedging transactions did not impact realized oil prices during the
+third quarter of 2004. Effective hedging transactions for natural gas during the first nine
+months of 2005 and 2004 decreased the average price we received for natural gas by $0.25 and $0.16
+per Mcf, respectively. Average realized oil prices for the first nine months of 2005 were reduced
+by $1.83 as a result of effective hedges. There was no hedging impact on realized oil prices for
+the first nine months of 2004.
+
+Production.   During the third quarter of 2005, total production volumes decreased 8%
+to 19.4 Bcfe compared to 21.1 Bcfe produced during the third quarter of 2004. Oil production
+during the third quarter of 2005 totaled approximately 1,111,000 barrels compared to 1,358,000
+barrels produced during the third quarter of 2004, while natural gas production totaled 12.7 Bcf
+during the third quarter of 2005 compared to12.9 Bcf produced during the third quarter of 2004.
+Stone s third quarter 2005 production rates were negatively impacted by Gulf Coast production
+shut-ins due to Hurricane Katrina and Hurricane Rita, amounting to volumes of approximately 6.4
+Bcfe, or 70 MMcfe per day. This compares to an approximate 1.7 Bcfe deferral, or 19 MMcfe per day,
+from Hurricane Ivan in the comparable quarter of 2004. Approximately 87% of our third quarter 2005
+production volumes were generated from our Gulf Coast Basin properties while the remaining 13% came
+from our Rocky Mountain Region properties. Year-to-date 2005 production totaled 4,080,000 barrels
+of oil and 44.3 Bcf of natural gas compared to 4,454,000 barrels of oil and 42.0 Bcf of natural gas
+produced during the comparable 2004 period, a zero change on a Mcfe basis. Approximately 91% of
+year-to-date 2005 production volumes were generated from our Gulf Coast Basin properties while the
+remaining 9% came from Rocky Mountain Region properties.
+
+Oil and Gas Revenue.   Third quarter 2005 oil and gas revenue totaled $159.3 million, compared
+to third quarter 2004 oil and gas revenue of $128.3 million. The increase in oil and gas revenue
+is attributable to a 35% increase in realized oil and natural gas prices in the third quarter of
+2005 over the comparable period in 2004. Year-to-date 2005 oil and gas revenue totaled $500.7
+million compared to $404.1 million during the comparable 2004 period, primarily due to a 24%
+increase in realized oil and natural gas prices.
+
+Expenses.   Lease operating expenses during the third quarter of 2005 totaled $30.9 million
+compared to $30.8 million for the third quarter of 2004. Primarily as a result of the production
+disruption from Hurricane Katrina and Hurricane Rita, however, unit costs increased to $1.59 per
+Mcfe during the third quarter of 2005 compared to $1.46 for the comparable period of 2004. For the
+first nine months of 2005, lease operating expenses were $88.5 million, a 20% increase in total and
+on a unit basis over the $73.5 million of lease operating expenses for the comparable period of
+2004. The increase in lease operating expenses for the first nine months of 2005 over the
+comparable 2004 period is the combined result of an increase in the number of active wells,
+increases in overall industry service costs, and increased costs associated with storm-related
+shut-ins and evacuations.
+
+Depreciation, depletion and amortization ( DD A ) on oil and gas properties for the third
+quarter of 2005 totaled $56.6 million compared to $50.9 million for the third quarter of 2004. For
+the nine months ended September 30, 2005 and 2004, DD A expense totaled $189.5 million and $159.0
+million, respectively. The increase in 2005 DD A on a unit basis is the result of increases in the
+full-cycle unit cost of finding and developing proved reserves.
+
+Salaries, general and administrative ( SG A ) expenses (exclusive of incentive compensation)
+for the third quarter of 2005 were $5.2 million compared to $3.4 million in the third quarter of
+2004. For the nine months ended September 30, 2005 and 2004, SG A totaled $14.7 million and $10.7
+million, respectively. The increase in SG A is due to an increase in employment of personnel
+during 2005, salary adjustments and stock compensation expense related to restricted stock grants
+issued to all employees in August 2005.
+
+As a result of extended shut-ins of production after Hurricane Katrina and Hurricane Rita, our
+September, October and November crude oil production levels were below the volumes which we had
+hedged. Consequently, one of our crude oil hedges for the months of September, October and
+November was deemed to be ineffective. During the third quarter of 2005, we recognized $4.8
+million of derivative expenses, $1.5 million of which represented a charge related to the cash
+settlement of the ineffective September crude oil collar and $3.3 million of which represented a
+non-cash charge related to the mark-to-market fair value change in the ineffective October and
+November crude oil collars. Derivative expenses for the three- and nine-month periods ended
+September 30, 2004 totaled $1.1 million and $3.0 million, respectively, representing the cost
+associated with oil and gas puts that settled during those periods.
+
+As of March 1, 2006, we have a borrowing base under the new bank credit facility of $300
+million, of which $114.1 million of borrowings are currently available. Interest expense increased
+to $5.8 million, net of $3.9 million of capitalized interest, in the third quarter of 2005 compared
+to $4.2 million, net of $1.6 million capitalized interest, in the third quarter of 2004. This
+increase in interest expense was the result of increased bank borrowings and the issuance of our
+$200 million 6  3  / 4 % Senior Subordinated Notes during December 2004. For the nine months ended
+September 30, 2005, interest expense totaled $17.6 million, net of $10.7 million of capitalized
+interest, compared to $12.5 million, net of capitalized interest of $4.5 for the comparable period
+of 2004.
+
+17
+
+Table of Contents   
+
+Recent Accounting Developments 
+
+Stock-Based Compensation  . On December 16, 2004, the FASB issued SFAS No. 123(R), Share-Based
+Payment, which is a revision of SFAS No. 123, Accounting for Stock-Based Compensation. SFAS No.
+123(R) supersedes APB Opinion No. 25, Accounting for Stock Issued to Employees, and amends SFAS No.
+95, Statement of Cash Flows. Generally, the approach in SFAS No. 123(R) is similar to the approach
+described in SFAS No. 123; however, SFAS No. 123(R) requires all share-based payments to employees,
+including grants of employee stock options, be recognized in the income statement based on their
+fair values. Pro forma disclosure will no longer be an alternative.
+
+SFAS No. 123(R) permits public companies to adopt its requirements using one of two methods:
+
+1. 
+       
+     A  modified prospective  method in which compensation cost is recognized
+beginning with the effective date (a) based on the requirements of SFAS No. 123(R)
+for all share-based payments granted after the effective date and (b) based on the
+requirements of SFAS No. 123 for all awards granted to employees prior to the
+effective date of SFAS No. 123(R) that remain unvested on the effective date. 
+
+2. 
+       
+     A  modified retrospective  method which includes the requirements of the
+modified prospective method described above, but also permits entities to restate
+based on the amounts previously recognized under SFAS No. 123 for purposes of pro
+forma disclosures either (a) all prior periods presented or (b) prior interim
+periods of the year of adoption. 
+
+In March 2005, the SEC issued SAB No. 107 which expressed the views of the SEC regarding the
+interaction between SFAS No. 123(R) and certain SEC rules and regulations. SAB No. 107 provides
+guidance related to the valuation of share-based payment arrangements for public companies,
+including assumptions such as expected volatility and expected term. In April 2005, the SEC
+approved a rule that delayed the effective date of SFAS No. 123(R) for public companies. As a
+result, SFAS No. 123(R) will be effective for us on January 1, 2006.
+
+Stone has elected to adopt the requirements of SFAS No. 123(R) using the  modified
+prospective  method. We have historically used the Black-Scholes option-pricing model for
+estimating stock compensation expense for disclosure purposes and intend to continue using such
+method upon adoption of SFAS No. 123(R).
+
+On August 16, 2005, Stone awarded restricted stock grants to all employees. Unearned
+compensation expense in the amount of $14.1 million was recorded in the third quarter of 2005 for
+the restricted stock grants and will be amortized over the vesting period of the restricted stock
+grants. Stock compensation totaled $1.1 million for the third quarter of 2005. Of this amount,
+$0.5 million was expensed and $0.6 million was capitalized as part of the cost of oil and gas
+properties.
+
+Liquidity and Capital Resources 
+
+Cash Flow.   Net cash flow provided by operating activities for the nine months ended September
+30, 2005 was $402.0 million compared to $299.4 million reported in the comparable period in 2004.
+Net cash flow used in investing activities totaled $407.8 million and $269.9 million during the
+first nine months of 2005 and 2004, respectively, which primarily represents our investment in oil
+and gas properties. Net cash flow provided by financing activities totaled $43.9 million for the
+nine months ended September 30, 2005 which primarily represents borrowings under our bank credit
+facility and proceeds from the exercise of stock options. For the nine months ended September 30,
+2004, net cash flow provided by financing activities totaled $4.3 million which primarily
+represents proceeds from the exercise of stock options. In total, cash and cash equivalents
+increased from $24.3 million as of December 31, 2004 to $62.4 million as of September 30, 2005.
+
+We had working capital at September 30, 2005 in the amount of $9.8 million. We believe that
+our working capital balance should be viewed in conjunction with availability of borrowings under
+our bank credit facility when measuring liquidity.  See    Bank Credit Facility and Senior
+Subordinated Notes.  
+
+Capital Expenditures.   Third quarter 2005 additions to oil and gas property costs (exclusive
+of asset retirement obligations) of $91.1 million included $4.8 million of acquisition costs,
+$5.2 million of capitalized salaries, general and administrative expenses (inclusive of incentive
+compensation) and $3.9 million of capitalized interest. Year-to-date 2005 additions to oil and gas
+property costs (exclusive of asset retirement obligations) of $395.8 million included $130.4
+million of acquisition costs, $15.1 million of capitalized salaries, general and administrative
+expenses (inclusive of incentive compensation) and $10.7 million of capitalized interest. These
+investments were financed by cash flow from operating activities, borrowings under our credit
+facility and working capital.
+
+Budgeted Capital Expenditures.   Our 2006 capital expenditures budget, excluding acquisitions
+and capitalized salaries, general and administrative expenses and interest, is approximately $360
+million. While the 2006 capital expenditures budget does not include any projected acquisitions, we
+continue to seek growth opportunities that fit our specific acquisition profile.
+
+18
+
+Table of Contents   
+
+Based upon our outlook of commodity prices and our estimated production, we expect to fund our
+2006 capital program with cash flow provided by operating activities. To the extent that 2006 cash
+flow from operating activities exceeds our estimated 2006 capital expenditures, we may pay down a
+portion of our existing debt. If cash flow from operating activities during 2006 is not sufficient
+to fund estimated 2006 capital expenditures, we believe that our bank credit facility will provide
+us with adequate liquidity.
+
+Bank Credit Facility and Senior Subordinated Notes.   At September 30, 2005, we had $113
+million of borrowings outstanding under our bank credit facility and letters of credit totaling
+$13.1 million have been issued under the facility. At September 30, 2005, we had a loan base
+under the credit facility of $425 million. At September 30, 2005, we had $298.9 million of
+borrowings available under the credit facility and the weighted average interest rate was
+approximately 4.9%. During the third quarter of 2005 we repaid $45 million of debt under the
+facility. As of March 1, 2006, we had a borrowing base under the credit facility of $300 million
+with availability of an additional $114.1 million of borrowings. Our borrowing base was reduced
+from $425 million to $300 million after we announced our reserve revision in October 2005.
+
+Under the financial covenants of our credit facility, we must (i) maintain a ratio of
+consolidated debt to consolidated EBITDA, as defined in the amended credit agreement, for the
+preceding four quarterly periods of not greater than 3.25 to 1 and (ii) maintain a Consolidated
+Tangible Net Worth (as defined). In addition, the credit facility places certain customary
+restrictions or requirements with respect to disposition of properties, incurrence of additional
+debt, change of ownership and reporting responsibilities. These covenants may limit or prohibit us
+from paying cash dividends. During 2005, the participating banks in our credit facility granted
+waivers from certain covenants regarding the filing of our financial statements until March 31,
+2006. Additionally, we agreed to secure borrowings under the facility with a security interest in
+certain oil and gas properties. As of the date of this filing we had not completed the transfer of
+the security interests to the banks participating in the facility. If we are unable to complete
+this transaction by March 31, 2006, it is possible that the balance of facility could become due at
+that time; however, we believe we could replace the facility if this were to occur.
+
+On December 15, 2004, we issued $200 million 6  3  / 4 % Senior Subordinated Notes due 2014. The
+notes were sold at par value and we received net proceeds of $195.5 million and are subordinated to
+our senior unsecured credit facility and rank  pari passu  with our 8  1  / 4 % Senior Subordinated Notes.
+There is no sinking fund requirement and the notes are redeemable at our option, in whole but not
+in part, at any time before December 15, 2009 at a Make-Whole Amount. Beginning December 15, 2009,
+the notes are redeemable at our option, in whole or in part, at 103.375% of their principal amount
+and thereafter at prices declining annually to 100% on and after December 15, 2012. In addition,
+before December 15, 2007, we may redeem up to 35% of the aggregate principal amount of the notes
+issued with net proceeds from an equity offering at 106.75%. The notes provide for certain
+covenants, which include, without limitation, restrictions on liens, indebtedness, asset sales,
+dividend payments and other restricted payments. We received notice of non-compliance from holders
+of over 25 percent of the outstanding principal amount of our $200 million 6  3  / 4 % Senior Subordinated
+Notes due 2014 relating to the non-issuance of financial statements. The receipt of notice of
+non-compliance started a 60 day period beginning February 15, 2006 in which to cure the default
+relating to the non-issuance of financial statements. As a consequence of these notices, we became
+unable to borrow additional funds under our bank credit facility until the default was cured. We
+believe the filing of this Form 10-Q and our Form 10-K for the year ended December 31, 2005 has
+cured the default.
+
+Defined Terms 
+
+Oil and condensate are stated in barrels ( Bbls ) or thousand barrels ( MBbls ). Natural gas
+is stated herein in billion cubic feet ( Bcf ), million cubic feet ( MMcf ) or thousand cubic feet
+( Mcf ). Oil and condensate are converted to natural gas at a ratio of one barrel of liquids per
+six Mcf of gas. Bcfe, MMcfe, and Mcfe represent one billion cubic feet, one million cubic feet and
+one thousand cubic feet of gas equivalent, respectively. MMBtu represents one million British
+Thermal Units and BBtu represents one billion British Thermal Units. An active property is an oil
+and gas property with existing production. A primary term lease is an oil and gas property with no
+existing production, in which we have a specific time frame to establish production without losing
+the rights to explore the property. Liquidity is defined as the ability to obtain cash quickly
+either through the conversion of assets or incurrence of liabilities.
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+
+Commodity Price Risk  
+
+Our major market risk exposure continues to be the pricing applicable to our oil and natural
+gas production. Our revenues, profitability and future rate of growth depend substantially upon
+the market prices of oil and natural gas, which fluctuate widely. Oil and gas price declines and
+volatility could adversely affect our revenues, cash flows and profitability. Price volatility is
+expected to continue. In order to manage our exposure to oil and gas price declines, we
+occasionally enter into oil and gas price hedging arrangements to secure a price for a portion of
+our expected future production. We do not enter into hedging transactions for trading purposes.
+
+Our hedging policy provides that not more than one-half of our estimated production quantities
+can be hedged without the consent of the Board of Directors. See  Item 1. Financial Statements  
+Note 4   Hedging Activities  for a detailed discussion of hedges in place to manage our exposure to
+oil and natural gas price declines.
+
+19
+
+Table of Contents   
+
+Interest Rate Risk  
+
+Stone had long-term debt outstanding of $513 million at September 30, 2005, of which $400
+million, or approximately 78%, bears interest at a fixed rate. The fixed rate debt as of September
+30, 2005 consisted of $200 million of 8  1  / 4 % Senior Subordinated Notes due 2011 and $200 million of
+6  3  / 4 % Senior Subordinated Notes due 2014. The remaining $113 million of debt outstanding at
+September 30, 2005 bears interest at a floating rate. At September 30, 2005, the weighted average
+interest rate under our floating-rate debt was approximately 4.9%. We currently have no interest
+rate hedge positions in place to reduce our exposure to changes in interest rates.
+
+Since the filing of our 2004 Annual Report on Form 10-K, there have been no material changes
+in reported market risk as it relates to interest rates and commodity prices.
+
+Item 4. Controls and Procedures 
+
+Deficiencies Relating to Reserve Reporting  
+
+We recently completed an internal review of our estimates of proved oil and natural gas
+reserves. As a result of this review, we reduced our estimate of total proved oil and natural gas
+reserves at December 31, 2004 by approximately 237 Bcfe. Management concluded that the impact of
+the reserve adjustment on previously issued financial statements was material and required a
+restatement. The audit committee of our board of directors engaged the law firm of Davis Polk  
+Wardwell ( Davis Polk ) to assist in its investigation of reserve revisions. Davis Polk presented
+its final report to the audit committee and board of directors on November 28, 2005. The final
+report found that a number of factors at Stone contributed to the write-down of reserves, including
+the following:
+
+Stone lacked adequate internal guidance or training on the SEC definition of proved
+reserves; 
+
+There is evidence that some members of Stone management failed to fully grasp the
+conservatism of the SEC s  reasonable certainty  standard of booking reserves; and 
+
+There is also evidence that there was an optimistic and aggressive  tone from the
+top  with respect to estimating proved reserves. 
+
+As part of its final report, Davis Polk proposed a number of recommendations, including the
+following:
+
+adopt and distribute written guidelines to its staff on the SEC reserve reporting requirements; 
+
+provide annual training for employees on the SEC requirements; 
+
+continue to emphasize the difference between SEC s standard of measuring proved
+reserves and the criteria that Stone might use in making business decisions; and 
+
+institute and cultivate a culture of compliance to ensure that the foregoing
+contributing factors do not recur. 
+
+The audit committee and board of directors have accepted the Davis Polk final report, and the
+board of directors implemented and resolved to continue to implement all of the recommendations.
+
+Consequently, we have revised our historical proved reserves for the period from December 31,
+2001 to June 30, 2005. This revision of reserves also resulted in a restatement of financial
+information for the years 2001 through 2004 and for the first six months of 2005. This restatement,
+as well as specific information regarding its impact, is discussed in Note 1 to the consolidated
+financial statements included in   Item 1. Financial Statements.   Restatement of previously issued
+financial statements to reflect the correction of a misstatement is an indicator of the existence
+of a material weakness in internal control over financial reporting as defined in the Public
+Company Accounting Oversight Board s Auditing Standard No. 2,  An Audit of Internal Control Over
+Financial Reporting Performed in Conjunction with an Audit of Financial Statements.  We have
+identified deficiencies in our internal controls that did not prevent the overstatement of our
+proved oil and natural gas reserves. These deficiencies, which we believe constituted a material
+weakness in our internal control over financial reporting, included an overly aggressive and
+optimistic tone by some members of management which created a weak control environment surrounding
+the booking of proved oil and natural gas reserves, and inadequate training and understanding of
+the SEC rules for booking oil and natural gas reserves. In light of the determination that
+previously issued financial statements should be restated, our management concluded that a material
+weakness in internal control over financial reporting existed as of December 31, 2004 and disclosed
+this matter to the Audit Committee and our independent registered public accounting firm.
+
+20
+
+Table of Contents   
+
+Remedial Actions  
+
+Our management, at the direction of our board of directors, is actively working to
+improve the control environment and to implement controls and procedures that will ensure the
+integrity of our proved reserve booking process.
+
+We have implemented the following actions to mitigate weaknesses identified:
+
+Those members of management that the Davis Polk report
+specifically suggested contributed to the aggressive and optimistic
+tone of management in booking estimated proved reserves are no
+longer employed by or affiliated with Stone as employees, officers
+or directors. 
+
+A new Vice President, Reserves, has been appointed to oversee the
+booking of estimated proved reserves and the training of all
+personnel involved in the reserve estimation process. 
+
+Formal training programs have been implemented and all personnel
+involved in the reserve estimation process have, since the
+announcement of the reserve revision, received formal training in
+SEC requirements for reporting estimated proved reserves. 
+
+A nationally recognized engineering firm with greater
+capabilities for geological reviews was contracted to audit our Gulf
+Coast Basin reserves. The Gulf Coast Basin is the area where the
+downward revisions occurred. Such audit was conducted as of
+December 31, 2005 and was completed early in 2006. 
+
+We have adopted and distributed a written policy and guidelines
+for booking estimated proved reserves to all personnel involved in
+the reserve estimation process. 
+
+We intend to implement the following actions in 2006:
+
+continue our formal training programs; 
+
+have 100% of our proved reserves fully engineered by outside engineering firms no later than
+December 31, 2006; and 
+
+during 2006 and thereafter, consult with our outside
+engineering firms on an interim basis on
+the original booking of significant acquisitions, extensions,
+discoveries and other additions. 
+
+Evaluation of Disclosure Control and Procedures  
+
+Our Chief Executive Officer and our Chief Financial Officer, with the participation of other
+members of our senior management, reviewed and evaluated the effectiveness of our disclosure
+controls and procedures as of the end of the period covered by this report. In making this
+evaluation, the Chief Executive Officer and the Chief Financial Officer considered the issues
+discussed above, together with the remedial steps we have taken. Based on such evaluation, our
+Chief Executive Officer and Chief Financial Officer have concluded that, because of the material
+weakness discussed above, as of September 30, 2005 and
+December 31, 2004, our disclosure controls and procedures were not
+effective in recording, processing, summarizing and reporting information required to be disclosed
+by us in the reports we file or submit under the Securities Exchange Act of 1934.
+
+Changes in Internal Control Over Financial Reporting  
+
+Except as discussed above, there has not been any change in our internal control over
+financial reporting that occurred during our quarter ended September 30, 2005 that has materially
+affected, or is reasonably likely to materially affect, our internal control over financial
+reporting.
+
+21
+
+Table of Contents   
+
+PART II   OTHER INFORMATION 
+
+Item 1. Legal Proceedings 
+
+On December 30, 2004, Stone was served with two petitions (civil action numbers
+2004-6227 and 2004-6228) filed by the Louisiana Department of Revenue ( LDR ) in the 15th Judicial
+District Court (Parish of Lafayette, Louisiana) claiming additional franchise taxes due. In one
+case, the LDR is seeking additional franchise taxes from Stone in the amount of $640,000, plus
+accrued interest of $352,000 (calculated through December 15, 2004), for the franchise year 2001.
+In the other case, the LDR is seeking additional franchise taxes from Stone (as successor to Basin
+Exploration, Inc.) in the amount of $274,000, plus accrued interest of $159,000 (calculated through
+December 15, 2004), for the franchise years 1999, 2000 and 2001. Further, on December 29, 2005,
+the LDR filed another petition in the 15 th  Judicial District Court claiming additional
+franchise taxes due for the taxable years ended December 31, 2002 and 2003 in the amount of $2.6
+million plus accrued interest calculated through December 15, 2005 in the amount of $1.2 million.
+These assessments all relate to the LDR s assertion that sales of crude oil and natural gas from
+properties located on the Outer Continental Shelf, which are transported through the state of
+Louisiana, should be sourced to the state of Louisiana for purposes of computing the Louisiana
+franchise tax apportionment ratio. The Company disagrees with these contentions and intends to
+vigorously defend itself against these claims.
+
+Stone has received notice that the staff of the SEC is conducting an informal inquiry into the
+revision of Stone s proved reserves and the financial statement restatement. In addition, Stone
+has received an inquiry from the Philadelphia Stock Exchange investigating matters including
+trading prior to Stone s October 6, 2005 announcement. Stone intends to cooperate fully with both
+inquiries.
+
+On or around November 30, 2005, George Porch filed a putative class action in the United
+States District Court for the Western District of Louisiana against Stone, David H. Welch, Kenneth
+H. Beer, D. Peter Canty and James H. Prince purporting to allege violations of Sections 10(b) and
+20(a) of the Securities Exchange Act of 1934. Three similar complaints were filed soon thereafter.
+All complaints assert a putative class period commencing on June 17, 2005 and ending on October 6,
+2005. All complaints contend that, during the putative class period, defendants, among other
+things, misstated or failed to disclose (i) that Stone had materially overstated Stone s financial
+results by overvaluing its oil reserves through improper and aggressive reserve methodologies; (ii)
+that the Company lacked adequate internal controls and was therefore unable to ascertain its true
+financial condition; and (iii) that as a result of the foregoing, the values of the Company s
+proved reserves, assets and future net cash flows were materially overstated at all relevant times.
+A motion to consolidate these actions and to appoint a lead plaintiff will be heard on March 22,
+2006. In addition, on or about December 16, 2005, Robert Farer filed a complaint in the United
+States District Court for the Western District of Louisiana alleging claims derivatively on behalf
+of Stone, and three similar complaints were filed soon thereafter in federal and state court.
+Stone is named as a nominal defendant, and certain current and former officers and directors are
+named as defendants in these actions, which allege breaches of the fiduciary duties owed to Stone,
+gross mismanagement, abuse of control, waste of corporate assets, unjust enrichment, and violations
+of the Sarbanes-Oxley Act of 2002. Stone intends to vigorously defend these lawsuits.
+
+Stone s Certificate of Incorporation and/or its Restated Bylaws provide, to the extent
+permissible under the law of Delaware (Stone s state of incorporation), for indemnification of and
+advancement of defense costs to Stone s current and former directors and officers for potential
+liabilities related to their service to Stone. Stone has purchased directors and officers
+insurance policies that, under certain circumstances, may provide coverage to Stone and/or its
+officers and directors for certain losses resulting from securities-related civil liabilities
+and/or the satisfaction of indemnification and advancement obligations owed to directors and
+officers. These insurance policies may not cover all costs and liabilities incurred by Stone and
+its current and former officers and directors in these regulatory and civil proceedings.
+
+Item 6. Exhibits 
+
+*31.1
+
+Certification of Principal Executive Officer of Stone Energy Corporation
+as required by Rule 13a-14(a) of the Securities Exchange Act of 1934. 
+
+*31.2
+
+Certification of Principal Financial Officer of Stone Energy
+Corporation as required by Rule 13a-14(a) of the Securities Exchange Act of 1934. 
+
+* 32.1
+
+Certification of Chief Executive Officer and Chief Financial Officer of Stone
+Energy Corporation pursuant to 18 U.S.C.   1350. 
+
+* 
+       
+     Filed herewith 
+
+Not considered to be  filed  for the purposes of Section 18 of the Securities
+Exchange Act of 1934 or otherwise subject to the liabilities of that section. 
+
+22
+
+Table of Contents   
+
+SIGNATURE 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly
+caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
+
+STONE ENERGY CORPORATION 
+
+Date: March 10, 2006  
+             By:   
+
+ /s/ J. Kent Pierret
+
+J. Kent Pierret  
+
+Senior Vice President, 
+Chief Accounting Officer and Treasurer 
+(On behalf of the Registrant and as 
+Chief Accounting Officer)  
+
+23
+
+Table of Contents   
+
+EXHIBIT INDEX 
+
+*31.1
+
+Certification of Principal Executive Officer of Stone Energy
+Corporation as required by Rule 13a-14(a) of the Securities Exchange Act of
+1934. 
+
+*31.2
+
+Certification of Principal Financial Officer of Stone Energy
+Corporation as required by Rule 13a-14(a) of the Securities Exchange Act of
+1934. 
+
+* 32.1
+
+Certification of Chief Executive Officer and Chief Financial Officer of Stone
+Energy Corporation pursuant to 18 U.S.C.   1350. 
+
+* 
+       
+     Filed herewith 
+
+Not considered to be  filed  for the purposes of Section 18 of the Securities
+Exchange Act of 1934 or otherwise subject to the liabilities of that section. 
+
+<EX-31.1>
+ 2
+ h33864exv31w1.htm
+ CERTIFICATION OF PEO PURSUANT TO RULE 13A-14(A)
+
+exv31w1 
+
+Exhibit 31.1 
+
+CERTIFICATION OF PRINCIPAL EXECUTIVE OFFICER  
+
+I, David H. Welch, President and Chief Executive Officer of Stone Energy Corporation, certify that:
+
+1. 
+       
+     I have reviewed this Quarterly Report on Form 10-Q of Stone Energy Corporation; 
+
+2. 
+       
+     Based on my knowledge, this report does not contain any untrue statement of a material
+fact or omit to state a material fact necessary to make the statements made, in light of
+the circumstances under which such statements were made, not misleading with respect to the
+period covered by this report; 
+
+3. 
+       
+     Based on my knowledge, the financial statements, and other financial information
+included in this report, fairly present in all material respects the financial condition,
+results of operations and cash flows of the registrant as of, and for, the periods
+presented in this report; 
+
+4. 
+       
+     The registrant s other certifying officer and I are responsible for establishing and
+maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e)
+and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act
+Rules 13a-15(f) and 15d-15(f)) for the registrant and we have: 
+
+a) 
+       
+     Designed such disclosure controls and procedures, or caused such
+disclosure controls and procedures to be designed under our supervision, to ensure
+that material information relating to the registrant, including its consolidated
+subsidiary, is made known to us by others within those entities, particularly
+during the period in which this report is being prepared; 
+
+b) 
+       
+     Designed such internal control over financial reporting, or caused such
+internal control over financial reporting to be designed under our supervision, to
+provide reasonable assurance regarding the reliability of financial reporting and
+the preparation of financial statements for external purposes in accordance with
+generally accepted accounting principles; 
+
+c) 
+       
+     Evaluated the effectiveness of the registrant s disclosure controls and
+procedures and presented in this report our conclusions about the effectiveness of
+the disclosure controls and procedures, as of the end of the period covered by this
+report based on such evaluation; and 
+
+d) 
+       
+     Disclosed in this report any change in the registrant s internal
+control over financial reporting that occurred during the registrant s most recent
+fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual
+report) that has materially affected, or is reasonably likely to materially affect,
+the registrant s internal control over financial reporting; and 
+
+5. 
+       
+     The registrant s other certifying officer and I have disclosed, based on our most
+recent evaluation of internal control over financial reporting, to the registrant s
+auditors and the audit committee of the registrant s board of directors (or persons
+performing the equivalent functions): 
+
+a) 
+       
+     All significant deficiencies and material weaknesses in the design or
+operation of internal control over financial reporting which are reasonably likely
+to adversely affect the registrant s ability to record, process, summarize and
+report financial information; and 
+
+b) 
+       
+     Any fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrant s internal control over
+financial reporting. 
+
+/s/ David H. Welch
+
+March 10, 2006  
+       David H. Welch  
+
+President and Chief Executive Officer  
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ h33864exv31w2.htm
+ CERTIFICATION OF PFO PURSUANT TO RULE 13A-14(A)
+
+exv31w2 
+
+Exhibit 31.2 
+
+CERTIFICATION OF PRINCIPAL FINANCIAL OFFICER  
+
+I, Kenneth H. Beer, Senior Vice President and Chief Financial Officer of Stone Energy Corporation,
+certify that:
+
+1. 
+       
+     I have reviewed this Quarterly Report on Form 10-Q of Stone Energy Corporation; 
+
+2. 
+       
+     Based on my knowledge, this report does not contain any untrue statement of a material
+fact or omit to state a material fact necessary to make the statements made, in light of
+the circumstances under which such statements were made, not misleading with respect to the
+period covered by this report; 
+
+3. 
+       
+     Based on my knowledge, the financial statements, and other financial information
+included in this report, fairly present in all material respects the financial condition,
+results of operations and cash flows of the registrant as of, and for, the periods
+presented in this report; 
+
+4. 
+       
+     The registrant s other certifying officer and I are responsible for establishing and
+maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e)
+and 15d-15(e)) and internal control over financial reporting (as defined in Exchange Act
+Rules 13a-15(f) and 15d-15(f)) for the registrant and we have: 
+
+a) 
+       
+     Designed such disclosure controls and procedures, or caused such
+disclosure controls and procedures to be designed under our supervision, to ensure
+that material information relating to the registrant, including its consolidated
+subsidiary, is made known to us by others within those entities, particularly
+during the period in which this report is being prepared; 
+
+b) 
+       
+     Designed such internal control over financial reporting, or caused such
+internal control over financial reporting to be designed under our supervision, to
+provide reasonable assurance regarding the reliability of financial reporting and
+the preparation of financial statements for external purposes in accordance with
+generally accepted accounting principles; 
+
+c) 
+       
+     Evaluated the effectiveness of the registrant s disclosure controls and
+procedures and presented in this report our conclusions about the effectiveness of
+the disclosure controls and procedures, as of the end of the period covered by this
+report based on such evaluation; and 
+
+d) 
+       
+     Disclosed in this report any change in the registrant s internal
+control over financial reporting that occurred during the registrant s most recent
+fiscal quarter (the registrant s fourth fiscal quarter in the case of an annual
+report) that has materially affected, or is reasonably likely to materially affect,
+the registrant s internal control over financial reporting; and 
+
+5. 
+       
+     The registrant s other certifying officer and I have disclosed, based on our most
+recent evaluation of internal control over financial reporting, to the registrant s
+auditors and the audit committee of the registrant s board of directors (or persons
+performing the equivalent functions): 
+
+a) 
+       
+     All significant deficiencies and material weaknesses in the design or
+operation of internal control over financial reporting which are reasonably likely
+to adversely affect the registrant s ability to record, process, summarize and
+report financial information; and 
+
+b) 
+       
+     Any fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrant s internal control over
+financial reporting. 
+
+/s/ Kenneth H. Beer
+
+March 10, 2006  
+       Kenneth H. Beer  
+
+Senior Vice President and Chief Financial Officer  
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ h33864exv32w1.htm
+ CERTIFICATION OF CEO & CFO PURSUANT TO SECTION 1350
+
+exv32w1 
+
+Exhibit 32.1 
+
+CERTIFICATION OF CHIEF EXECUTIVE OFFICER AND 
+CHIEF FINANCIAL OFFICER 
+
+Pursuant to 18 U.S.C.   1350 and in connection with the accompanying report on Form 10-Q for
+the quarterly period ended September 30, 2005 that is being filed concurrently with the Securities
+and Exchange Commission on the date hereof (the  Report ), each of the undersigned officers of
+Stone Energy Corporation (the  Company ) hereby certifies, to the best of his knowledge, that:
+
+(i.) 
+       
+     The Report fully complies with the requirements of Section 13(a) or 15(d) of the
+Securities Exchange Act of 1934; and 
+
+(ii.) 
+       
+     The information contained in the Report fairly presents, in all material respects, the
+financial condition and results of operations of the Company. 
+
+March 10, 2006
+
+/s/ David H. Welch
+
+David H. Welch  
+
+President and Chief Executive Officer  
+
+/s/ Kenneth H. Beer
+
+Kenneth H. Beer  
+
+Senior Vice President and Chief Financial Officer  
+
+</EX-32.1>
+

@@ -1,0 +1,1384 @@
+<Header>
+<FileStats>
+    <FileName>20060314_10-Q_edgar_data_14693_0000014693-06-000014_1.txt</FileName>
+    <GrossFileSize>80598</GrossFileSize>
+    <NetFileSize>73350</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>228</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>2</N_Tables>
+    <N_Exhibits>0</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000014693-06-000014.hdr.sgml : 20060314
+<ACCEPTANCE-DATETIME>20060313205531
+ACCESSION NUMBER:		0000014693-06-000014
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20060131
+FILED AS OF DATE:		20060314
+DATE AS OF CHANGE:		20060313
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BROWN FORMAN CORP
+		CENTRAL INDEX KEY:			0000014693
+		STANDARD INDUSTRIAL CLASSIFICATION:	BEVERAGES [2080]
+		IRS NUMBER:				610143150
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0430
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	002-26821
+		FILM NUMBER:		06683438
+
+	BUSINESS ADDRESS:	
+		STREET 1:		850 DIXIE HWY
+		CITY:			LOUISVILLE
+		STATE:			KY
+		ZIP:			40210
+		BUSINESS PHONE:		5025851100
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 1080
+		CITY:			LOUISVILLE
+		STATE:			KY
+		ZIP:			40201
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BROWN FORMAN INC
+		DATE OF NAME CHANGE:	19870816
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BROWN FORMAN DISTILLERS CORP
+		DATE OF NAME CHANGE:	19840807
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BROWN FORMAN DISTILLERY CO
+		DATE OF NAME CHANGE:	19670730
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ M3iQ4bbmACnubQrra7uwCmpoIhqVNFqGu51T2oI1vva26W1WuhW660sNMp7XAXC5
+ e9cs4hIoQX/9ZT6168krGw==
+
+ 0000014693-06-000014.txt : 20060314
+
+10-Q
+ 1
+ form10q0106.txt
+
+United States
+                       Securities and Exchange Commission
+                             Washington, D.C. 20549
+
+                                    FORM 10-Q
+ (Mark One)
+
+  |X|      QUARTERLY REPORT  PURSUANT TO SECTION 13 OR 15 (d)
+           OF THE SECURITIES EXCHANGE ACT OF 1934
+           For the quarterly period ended JANUARY 31, 2006
+
+                                       OR
+
+  |_|      TRANSITION  REPORT  PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+           EXCHANGE ACT OF 1934
+           For the transition  period from  _______________ to _______________
+
+                          Commission File No. 002-26821
+
+                            BROWN-FORMAN CORPORATION
+             (Exact name of Registrant as specified in its Charter)
+
+                     Delaware                                   61-0143150
+          (State or other jurisdiction of                     (IRS Employer
+          incorporation or organization)                    Identification No.)
+
+                 850 Dixie Highway
+               Louisville, Kentucky                               40210
+     (Address of principal executive offices)                   (Zip Code)
+
+                                 (502) 585-1100
+              (Registrant's telephone number, including area code)
+
+                                       N/A
+              (Former name, former address and former fiscal year,
+                         if changed since last report)
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the  preceding 12 months (or for such  shorter  period that the  registrant  was
+required  to file  such  reports),  and  (2) has  been  subject  to such  filing
+requirements for the past 90 days. Yes |X| No |_|
+
+Indicate by check mark whether the registrant is a large  accelerated  filer, an
+accelerated  filer, or a  non-accelerated  filer. See definition of "accelerated
+filer and large accelerated filer" in Rule 12b-2 of the Exchange Act.
+(Check one):
+
+Large accelerated filer |X|    Accelerated filer |_|   Non-accelerated filer |_|
+
+Indicate by check mark whether the registrant is a shell company (as defined in
+Rule 12b-2 of the Exchange Act). Yes  | | No |X|
+
+Indicate the number of shares outstanding of each of the issuer's classes of
+common stock, as of the latest practicable date:  February 28, 2006
+
+      Class A Common Stock ($.15 par value, voting)             56,829,123
+      Class B Common Stock ($.15 par value, nonvoting)          65,465,327
+
+BROWN-FORMAN CORPORATION
+                       Index to Quarterly Report Form 10-Q
+
+PART I - FINANCIAL INFORMATION
+
+Item 1.  Financial Statements (Unaudited)                                Page
+
+          Condensed Consolidated Statements of Operations
+             Three months ended January 31, 2005 and 2006                3
+             Nine months ended January 31, 2005 and 2006                 3
+
+          Condensed Consolidated Balance Sheets
+             April 30, 2005 and January 31, 2006                         4
+
+          Condensed Consolidated Statements of Cash Flows
+             Nine months ended January 31, 2005 and 2006                 5
+
+          Notes to the Condensed Consolidated Financial Statements       6 - 12
+
+Item 2.  Management's Discussion and Analysis of
+          Financial Condition and Results of Operations                 13 - 20
+
+Item 3.  Quantitative and Qualitative Disclosures about Market Risk     20
+
+Item 4.  Controls and Procedures                                        20
+
+PART II - OTHER INFORMATION
+
+Item 1.  Legal Proceedings                                              21 - 22
+
+Item 6.  Exhibits                                                       22
+
+Signatures                                                              23
+
+                                       2
+
+PART I - FINANCIAL INFORMATION
+
+Item 1.  Financial Statements (Unaudited)
+
+                            BROWN-FORMAN CORPORATION
+                 CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+                                   (Unaudited)
+                 (Dollars in millions, except per share amounts)
+
+                                   Three Months Ended       Nine Months Ended
+                                       January 31,             January 31,
+                                    2005        2006        2005         2006
+                                  -------     -------     --------     --------
+
+Net sales                         $ 607.1     $ 636.8     $1,715.6     $1,850.0
+Excise taxes                        127.8       132.8        319.4        345.9
+Cost of sales                       174.3       169.6        507.3        509.3
+                                  -------     -------     --------     --------
+  Gross profit                      305.0       334.4        888.9        994.8
+
+Advertising expenses                 76.8        85.0        219.9        244.7
+Selling, general, and
+ administrative expenses            109.3       116.1        311.2        336.6
+Other expense (income), net           1.5       (32.4)        (0.6)       (46.6)
+                                  -------     -------     --------     --------
+  Operating income                  117.4       165.7        358.4        460.1
+
+Gain on sale of investment
+ in affiliate                        73.5         --          72.3          --
+Interest income                       3.0         4.6          3.8          9.7
+Interest expense                      5.0         4.3         15.4         13.5
+                                  -------     -------     --------     --------
+
+  Income from continuing
+   operations before income taxes   188.9       166.0        419.1        456.3
+
+Income taxes                         64.5        45.6        141.5        136.7
+                                  -------     -------     --------     --------
+  Income from continuing operations 124.4       120.4        277.6        319.6
+
+Income (loss) from discontinued
+ operations, net of income taxes    (29.4)        0.1        (30.0)       (77.5)
+                                  -------     -------     --------     --------
+   Net income                     $  95.0     $ 120.5     $  247.6      $ 242.1
+                                  =======     =======     ========     ========
+
+Basic earnings (loss) per share:
+  Continuing operations           $  1.02     $  0.99     $   2.28     $   2.62
+  Discontinued operations           (0.24)        --         (0.25)       (0.64)
+                                  -------     -------     --------     --------
+    Total                         $  0.78     $  0.99     $   2.03     $   1.98
+                                  =======     =======     ========     ========
+
+Diluted earnings (loss) per share:
+  Continuing operations           $  1.02     $  0.98     $   2.27     $   2.59
+  Discontinued operations           (0.24)        --         (0.25)       (0.63)
+                                  -------     -------     --------     --------
+    Total                         $  0.78     $  0.98     $   2.02     $   1.96
+                                  =======     =======     ========     ========
+
+Shares (in thousands) used in
+ the calculation of earnings (loss)
+ per share:
+   Basic                          121,755     122,116      121,723      122,027
+   Diluted                        122,482     123,558      122,432      123,321
+
+Cash dividends per common share:
+   Declared                       $ 0.490     $ 0.560      $ 0.915     $  1.050
+   Paid                           $ 0.245     $ 0.280      $ 0.670     $  0.770
+
+See notes to the condensed consolidated financial statements.
+
+                                       3
+
+BROWN-FORMAN CORPORATION
+                      CONDENSED CONSOLIDATED BALANCE SHEETS
+                                   (Unaudited)
+                              (Dollars in millions)
+
+                                                  April 30,          January 31,
+                                                    2005                2006
+                                                  --------           ----------
+Assets
+- ------
+Cash and cash equivalents                         $  294.9             $  366.2
+Short-term investments                                 --                 229.7
+Accounts receivable, net                             295.9                312.6
+Inventories:
+   Barreled whiskey                                  248.7                269.4
+   Finished goods                                    102.3                100.8
+   Work in process                                    80.5                108.5
+   Raw materials and supplies                         38.4                 41.1
+                                                  --------             --------
+      Total inventories                              469.9                519.8
+
+Current portion of deferred income taxes              69.9                 69.9
+Current assets held for sale                         157.6                  9.3
+Other current assets                                  27.0                 22.3
+                                                  --------             --------
+   Total current assets                            1,315.2              1,529.8
+
+Property, plant and equipment, net                   417.9                418.1
+Prepaid pension cost                                 130.2                137.7
+Trademarks and brand names                           334.2                331.7
+Goodwill                                             192.7                188.6
+Noncurrent assets held for sale                      217.9                  7.0
+Other assets                                          41.0                 41.7
+                                                  --------             --------
+   Total assets                                   $2,649.1             $2,654.6
+                                                  ========             ========
+Liabilities
+- -----------
+Accounts payable and accrued expenses             $  264.2             $  261.2
+Dividends payable                                      --                  34.2
+Accrued income taxes                                  41.9                 42.3
+Current portion of long-term debt                    279.3                249.5
+Current liabilities held for sale                     52.7                  3.8
+                                                  --------             --------
+   Total current liabilities                         638.1                591.0
+
+Long-term debt                                       351.5                351.9
+Deferred income taxes                                157.8                146.1
+Accrued pension and other postretirement benefits     77.6                 77.5
+Noncurrent liabilities held for sale                  82.9                  --
+Other liabilities                                     31.2                 26.5
+                                                  --------             --------
+   Total liabilities                               1,339.1              1,193.0
+
+Commitments and contingencies
+
+Stockholders' Equity
+- --------------------
+Common stock:
+ Class A, voting
+ (57,000,000 shares authorized;
+  56,841,000 shares issued)                            8.5                  8.5
+ Class B, nonvoting
+ (100,000,000 shares authorized;
+  69,188,000 shares issued)                           10.4                 10.4
+Additional paid-in capital                            33.9                 40.6
+Retained earnings                                  1,415.5              1,530.4
+Accumulated other comprehensive income (loss)        (11.4)                 6.0
+Treasury stock
+ (4,141,000 and 3,749,000 shares
+  at April 30 and January 31, respectively)         (146.9)              (134.3)
+                                                  --------             --------
+   Total stockholders' equity                      1,310.0              1,461.6
+                                                  --------             --------
+   Total liabilities and stockholders' equity     $2,649.1             $2,654.6
+                                                  ========             ========
+
+See notes to the condensed consolidated financial statements.
+
+                                       4
+
+BROWN-FORMAN CORPORATION
+                 CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                   (Unaudited)
+                              (Dollars in millions)
+
+                                                         Nine Months Ended
+                                                            January 31,
+                                                     2005                 2006
+                                                   -------              -------
+Cash flows from operating activities:
+   Net income                                      $ 247.6              $ 242.1
+   Adjustments to reconcile net income to net
+    cash provided by (used for) operations:
+      Net loss from discontinued operations           30.0                 77.5
+      Gain on sale of investment in affiliate        (72.3)                 --
+      Gain on sale of property, plant, and equipment   --                  (2.3)
+      Depreciation and amortization                   32.8                 32.3
+      Stock-based compensation expense                 4.9                  5.6
+      Deferred income taxes                          (35.4)               (11.7)
+   Changes in assets and liabilities:
+      Accounts receivable                            (26.9)               (16.7)
+      Inventories                                    (21.9)               (49.0)
+      Other current assets                            20.2                  4.7
+      Accounts payable and accrued expenses           45.8                 (3.0)
+      Accrued income taxes                            60.0                  0.4
+      Noncurrent assets and liabilities                8.0                (18.4)
+   Net cash provided by (used for) operating
+    activities of discontinued operations             49.2                (18.1)
+                                                   -------              -------
+         Cash provided by operating activities       342.0                243.4
+
+Cash flows from investing activities:
+   Proceeds from sale of discontinued operations       --                 196.5
+   Proceeds from sale of investment in affiliate,
+    net of disposal costs                             92.7                  --
+   Investment in short-term securities                 --                (229.7)
+   Acquisition of minority interest in subsidiary    (63.6)                 --
+   Additions to property, plant, and equipment       (31.0)               (33.6)
+   Proceeds from sale of property, plant,
+    and equipment                                      --                   7.0
+   Computer software expenditures                     (0.7)                (0.2)
+   Trademark and patent expenditures                  (0.5)                 --
+   Net cash provided by (used for) investing
+    activities of discontinued operations              6.6                 (1.9)
+                                                   -------              -------
+         Cash provided by (used for)
+          investing activities                         3.5                (61.9)
+
+Cash flows from financing activities:
+   Net repayment of short-term borrowings            (47.0)               (30.0)
+   Proceeds from exercise of stock options             6.6                 12.7
+   Excess tax benefits from stock options              1.2                  4.3
+   Acquisition of treasury stock                      (2.9)                (3.2)
+   Dividends paid                                    (81.6)               (94.0)
+                                                   -------              -------
+         Cash used for financing activities         (123.7)              (110.2)
+                                                   -------              -------
+Net increase in cash and cash equivalents            221.8                 71.3
+
+Cash and cash equivalents, beginning of period        67.7                294.9
+                                                   -------              -------
+Cash and cash equivalents, end of period           $ 289.5              $ 366.2
+                                                   =======              =======
+
+See notes to the condensed consolidated financial statements.
+
+                                       5
+
+BROWN-FORMAN CORPORATION
+            NOTES TO THE CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+                                   (Unaudited)
+
+In these notes, "we," "us," and "our" refer to Brown-Forman Corporation.
+
+1.   Condensed Consolidated Financial Statements
+
+We  prepared  these  unaudited  condensed  consolidated   statements  using  our
+customary accounting practices as set out in our 2005 annual report on Form 10-K
+(the "2005 Annual Report").  We made all of the adjustments  (which include only
+normal, recurring adjustments) needed for a fair statement of this data.
+
+We condensed or omitted some of the  information  found in financial  statements
+prepared according to generally accepted  accounting  principles  ("GAAP").  You
+should read these  financial  statements  together with the 2005 Annual  Report,
+which does conform to GAAP.
+
+2.   Inventories
+
+We use the last-in,  first-out  ("LIFO") method to determine the cost of most of
+our  inventories.  If the LIFO method had not been used,  inventories at current
+cost would have been $141.6  million  higher than reported as of April 30, 2005,
+and $131.8 million  higher than reported as of January 31, 2006.  Changes in the
+LIFO  valuation  reserve  for  interim  periods  are  based  on a  proportionate
+allocation of the estimated change for the entire fiscal year.
+
+3.   Income Taxes
+
+Our consolidated  effective tax rate may differ from current statutory rates due
+to the  recognition of amounts for events or  transactions  that do not have tax
+consequences.  We use the estimated annual effective tax rate in determining our
+interim results.  The effective tax rate of 30.0% for continuing  operations for
+the nine months ended  January 31, 2006,  is based on an expected  effective tax
+rate of 32.9% on ordinary  income for the full fiscal year, less the tax benefit
+achieved by offsetting  various  capital gains from  continuing  operations (see
+Note 11) against the capital loss resulting from the sale of Lenox.
+
+4.   Discontinued Operations
+
+During  July  2005,  we  entered  into  a  definitive   agreement  to  sell  our
+wholly-owned  subsidiary Lenox,  Incorporated ("Lenox") for $190 million in cash
+(subject to a post-closing working capital  adjustment).  The agreement followed
+the February 2005 announcement that we were exploring strategic alternatives for
+Lenox,  including a possible sale. On September 1, 2005, we consummated the sale
+of substantially all of Lenox to Department 56, Inc.  ("Department 56") for $196
+million.  This total was $6 million  higher than  previously  announced due to a
+working capital adjustment provision included in the sale agreement.
+
+                                       6
+
+After  consummation  of the sale to Department 56, we retained  ownership of the
+Lenox  headquarters  building  and  property  in  Lawrenceville,  New Jersey and
+Lenox's Brooks & Bentley,  a former  subsidiary of Lenox,  located in the United
+Kingdom.  As of January 31, 2006,  it was our  intention  to sell those  assets,
+which are classified as held for sale in the accompanying  consolidated  balance
+sheets.  As discussed in Note 13, we  subsequently  sold the Lenox  headquarters
+building  and  property.  It  continues  to be our  intention  to sell  Brooks &
+Bentley.
+
+In connection  with the  definitive  sales  agreement,  we recognized a non-cash
+impairment charge during July 2005 of $59.5 million,  representing the excess of
+the  carrying  value  of the net  assets  being  sold  over the  expected  sales
+proceeds.  We have also recorded  transaction costs of $10.3 million,  including
+investment  banking  fees,  transaction  success  payments,  and legal,  tax and
+actuarial expenses.
+
+Due to the sale of Lenox,  its results of operations  through  August 2005,  the
+impairment   charge,  and  other  transaction  costs  have  been  classified  as
+discontinued operations,  net of income taxes, in the accompanying  consolidated
+statements of operations, and its assets and liabilities have been classified as
+held for sale in the accompanying consolidated balance sheets. In reports issued
+prior to July 2005,  Lenox's  operating results and assets were presented in the
+Consumer Durables segment,  of which it comprised the major part. As a result of
+the sale,  the  Consumer  Durables  segment  no longer  constitutes  a  separate
+reportable segment.
+
+A summary of discontinued operations follows:
+
+(Dollars in millions)               Three Months Ended       Nine Months Ended
+                                        January 31,             January 31,
+                                     2005        2006        2005        2006
+                                   -------     -------     -------     -------
+
+Net sales                          $ 151.1     $   8.7     $ 400.4     $ 127.7
+Operating expenses                  (138.6)       (7.7)     (388.9)     (141.9)
+Impairment charge                    (37.0)        --        (37.0)      (59.5)
+Transaction costs                      --         (0.7)        --        (10.3)
+                                   -------     -------     -------     -------
+
+  Income (loss) before income taxes  (24.5)        0.3       (25.5)      (84.0)
+
+Income tax (expense) benefit          (4.9)       (0.2)       (4.5)        6.5
+                                   -------     -------     -------     -------
+  Net income (loss) from
+   discontinued operations         $ (29.4)    $   0.1     $ (30.0)    $ (77.5)
+                                   =======     =======     =======     =======
+
+The net assets held for sale consist of the following:
+
+(Dollars in millions)                          April 30,      January 31,
+                                                 2005            2006
+                                                ------          ------
+Current assets:
+   Accounts receivable, net                     $ 48.4          $  5.9
+   Inventories                                   103.6             2.6
+   Other                                           5.6             0.8
+                                                ------          ------
+                                                 157.6             9.3
+                                                ------          ------
+Noncurrent assets:
+   Property, plant and equipment, net             82.8             6.5
+   Goodwill                                       89.7             --
+   Other                                          45.4             0.5
+                                                ------          ------
+                                                 217.9             7.0
+                                                ------          ------
+Current liabilities:
+   Accounts payable and accrued expenses          47.2             3.8
+   Accrued income taxes                            5.5             --
+                                                ------          ------
+                                                  52.7             3.8
+                                                ------          ------
+Noncurrent liabilities:
+   Accrued postretirement benefits                78.3             --
+   Other                                           4.6             --
+                                                ------          ------
+                                                  82.9             --
+                                                ------          ------
+Net assets held for sale                        $239.9          $ 12.5
+                                                ======          ======
+
+                                       7
+
+5.   Earnings Per Share
+
+Basic  earnings  per share is based upon the weighted  average  number of common
+shares  outstanding  during the period.  Diluted earnings per share includes the
+dilutive  effect of stock-based  compensation  awards,  including stock options,
+stock-settled  stock appreciation  rights ("SSARs"),  and non-vested  restricted
+stock.  Stock-based  awards for  approximately  1.1 million  common  shares were
+excluded  from the  calculation  of diluted  earnings  per share for the periods
+ended  January 31, 2005,  because the exercise  price of the options was greater
+than the average market price of the shares. No stock-based awards were excluded
+from the calculation of diluted earnings per share for the periods ended January
+31, 2006.
+
+The following table presents  information  concerning basic and diluted earnings
+per share:
+
+8
+
+6.   Goodwill and Other Intangible Assets
+
+The following table shows the changes in the amounts recorded as goodwill during
+the nine months ended January 31, 2006:
+
+(Dollars in millions)
+
+Balance as of April 30, 2005                    $192.7
+Foreign currency translation adjustment           (4.1)
+                                                ------
+Balance as of January 31, 2006                  $188.6
+                                                ======
+
+Our other intangible assets consist of trademarks and brand names. As of January
+31, 2006, we consider all of our trademarks  and brand names to have  indefinite
+useful lives.
+
+7.   Environmental Matters
+
+We are subject to environmental  regulations in connection with the operation of
+our production  facilities and in connection with the transportation of products
+we  manufacture.  Violation of these  environmental  regulations  can results in
+fines or penalties. As of January 31, 2006, we do not consider the exposure from
+the risks of such fines or penalties to be material.
+
+8.   Contingencies
+
+We operate in a litigious  environment,  and we get sued in the normal course of
+business. Sometimes plaintiffs seek substantial damages. Significant judgment is
+required in predicting the outcome of these suits and claims, many of which take
+years to adjudicate. We accrue estimated costs for a contingency when we believe
+that a loss is probable and a reasonable  estimate of the loss can be made,  and
+adjust the accrual as appropriate to reflect changes in facts and circumstances.
+
+A law firm has sued  Brown-Forman and many other  manufacturers and marketers of
+spirits,  wines, and beer in a series of nine very similar class action lawsuits
+seeking damages and injunctive relief from alleged marketing of beverage alcohol
+to underage consumers.  The suits allege that the defendants engage in deceptive
+and negligent marketing  practices  targeting underage  consumers.  They seek to
+recover  on behalf of parents  those  funds  that  their  children  spent on the
+illegal  purchase of alcohol as well as  disgorgement  of all  profits  from the
+alleged illegal sales.  Brown-Forman is vigorously  defending these cases. Three
+of the  suits  have  been  dismissed.  Plaintiffs  have  appealed,  or have time
+remaining to appeal, those dismissals.  Another was voluntarily dismissed.  Four
+others are  pending on motions to  dismiss.  It is not  possible at this time to
+predict  the  outcome  of these  claims  but an  unfavorable  result in these or
+similar  class  action  lawsuits  could  have a material  adverse  impact on our
+business.
+
+                                       9
+
+9.   Pension and Other Postretirement Benefits
+
+The following table shows the components of the pension and other postretirement
+benefit expense recognized during the periods covered by this report:
+
+(Dollars in millions)                     Three Months Ended   Nine Months Ended
+                                              January 31,          January 31,
+                                            2005      2006       2005      2006
+                                           ------    ------     ------    ------
+Pension Benefits:
+  Continuing operations:
+    Service cost                            $2.8      $3.2       $8.3      $9.5
+    Interest cost                            5.1       5.5       15.3      16.5
+    Expected return on plan assets          (8.0)     (7.8)     (24.0)    (23.5)
+    Amortization of:
+      Unrecognized prior service cost        0.2       0.1        0.5       0.4
+      Unrecognized net loss                  0.7       2.1        2.3       6.4
+                                           ------    ------     ------    ------
+    Net expense                              0.8       3.1        2.4       9.3
+                                           ------    ------     ------    ------
+  Discontinued operations:
+    Service cost                             1.4       --         4.2       1.8
+    Interest cost                            2.4       --         7.2       3.3
+    Expected return on plan assets          (2.8)      --        (8.4)     (3.5)
+    Amortization of:
+      Unrecognized prior service cost        0.1       --         0.2       0.1
+      Unrecognized net loss                  0.3       --         1.0       0.9
+                                           ------    ------     ------    ------
+    Net expense                              1.4       --         4.2       2.6
+                                           ------    ------     ------    ------
+  Total net benefit expense                 $2.2      $3.1       $6.6     $11.9
+                                           ======    ======     ======    ======
+Other Postretirement Benefits:
+  Continuing operations:
+    Service cost                            $0.3      $0.3       $0.7      $0.9
+    Interest cost                            0.6       0.6        1.8       2.0
+    Amortization of unrecognized net loss    --        0.1        0.1       0.2
+                                           ------    ------     ------    ------
+    Net expense                              0.9       1.0        2.6       3.1
+                                           ------    ------     ------    ------
+  Discontinued operations:
+    Service cost                             0.2       --         0.6       0.3
+    Interest cost                            0.4       --         1.2       0.6
+    Amortization of unrecognized
+     prior service cost                      --        --         0.1       --
+                                           ------    ------     ------    ------
+    Net expense                              0.6       --         1.9       0.9
+                                           ------    ------     ------    ------
+  Total net benefit expense                 $1.5      $1.0       $4.5      $4.0
+                                           ======    ======     ======    ======
+
+We have  contributed  approximately  $21.0  million  to our  pension  and  other
+postretirement  benefit  plans during the nine months ended January 31, 2006. We
+expect to contribute  approximately  $2.0 million more to those plans during the
+fourth quarter.
+
+                                       10
+
+10.   Comprehensive Income
+
+Comprehensive  income is a broad measure of the effects of all  transactions and
+events (other than investments by or  distributions  to  shareholders)  that are
+recognized in stockholders' equity, regardless of whether those transactions and
+events are included in net income. The following table adjusts the Company's net
+income for the other items included in comprehensive income:
+
+Accumulated other comprehensive income (loss) consisted of the following:
+
+(Dollars in millions)                                  April 30,     January 31,
+                                                         2005           2006
+                                                        ------         ------
+Pension liability adjustment                            $(38.1)        $(10.5)
+Cumulative translation adjustment                         27.2           15.8
+Unrealized gain (loss) on cash flow hedge contracts       (0.7)           0.4
+Unrealized gain on securities                              0.2            0.3
+                                                        ------         ------
+                                                        $(11.4)        $  6.0
+                                                        ======         ======
+                                       11
+
+11.   Other Income
+
+During July 2005, we entered into an agreement  with LVMH Moet  Hennessey  Louis
+Vuitton for the early  termination  of our  long-term  importing  and  marketing
+agreements for Glenmorangie  products in the United States,  Canada, and certain
+countries in Europe and Asia, effective July 29, 2005. We received approximately
+$13.5 million for the early termination, which is included in "other income" for
+the nine  months  ended  January  31,  2006,  in the  accompanying  consolidated
+statement of operations.
+
+During January 2006, we received  proceeds of $24.8 million as compensation  for
+Pernod Ricard  assuming the  distribution  of its brands from Swift & Moore,  an
+Australian  distribution  company  co-owned  by  Pernod  Ricard  (following  its
+purchase of Allied-Domecq)  and Brown-Forman.  This amount is recorded in "other
+income" for the periods ended January 31, 2006.  Pernod Ricard  surrendered  its
+ownership interest in Swift & Moore to Brown-Forman  effective February 1, 2006,
+resulting in Brown-Forman  becoming 100% owner of Swift & Moore as of that date.
+Swift & Moore will continue to distribute our brands in Australia.
+
+During  January 2006,  we sold winery land and buildings in California  for $7.0
+million,  resulting in a gain of $4.6 million that is included in "other income"
+for the periods ended January 31, 2006.
+
+12.   Stock Options
+
+Prior year amounts  have been  restated to reflect the  retroactive  adoption of
+FASB Statement No. 123(R),  "Share-Based  Payment," during the fourth quarter of
+fiscal 2005.
+
+13.   Subsequent Event
+
+On  February  10,  2006,  we sold the former  Lenox  headquarters  building  and
+property  (included  in  noncurrent  assets  held for  sale in the  accompanying
+consolidated  balance sheet as of January 31, 2006) for $9.6 million,  resulting
+in a gain of $3.2 million. The gain will be reflected in discontinued operations
+during the fourth quarter of fiscal 2006.
+
+                                       12
+
+Item 2.  Management's Discussion and Analysis of Financial Condition
+         and Results of Operations
+
+You should read the following discussion and analysis along with our 2005 Annual
+Report.  Note that  the results  of operations for the nine months ended January
+31, 2006, do not  necessarily  indicate what our operating  results for the full
+fiscal year will be. In this Item,  "we,"  "us," and "our" refer to Brown-Forman
+Corporation.
+
+Important Note on Forward-Looking Statements:
+This report  contains  statements,  estimates,  or projections  that  constitute
+"forward-looking  statements"  as defined under U.S.  federal  securities  laws.
+Generally,   the  words  "expect,"  "believe,"  "intend,"   "estimate,"  "will,"
+"anticipate," and "project," and similar expressions  identify a forward-looking
+statement,  which speaks only as of the date the  statement  is made.  Except as
+required  by law,  we do not  intend to update  or  revise  any  forward-looking
+statements, whether as a result of new information, future events, or otherwise.
+We  believe  that  the   expectations   and  assumptions  with  respect  to  our
+forward-looking statements are reasonable. But by their nature,  forward-looking
+statements involve known and unknown risks, uncertainties and other factors that
+in some  cases are out of our  control.  These  factors  could  cause our actual
+results to differ materially from  Brown-Forman's  historical  experience or our
+present expectations or projections.  Here is a non-exclusive list of such risks
+and uncertainties:
+
+ - changes in general economic conditions, particularly in the United States
+   where we earn the majority of our profits;
+ - lower consumer confidence or purchasing in the wake of catastrophic events;
+ - tax increases, whether at the federal or state level or in major
+   international markets and/or tariff barriers or other restrictions affecting
+   beverage alcohol;
+ - restrictions on alcohol marketing, including advertising and promotion, as a
+   result of stricter governmental policies adopted either in the United States
+   or globally;
+ - adverse developments in the class action lawsuits filed against Brown-Forman
+   and other spirits, beer and wine manufacturers alleging that our industry
+   conspired to promote the consumption of alcohol by those under the legal
+   drinking age;
+ - a strengthening U.S. dollar against foreign currencies, especially the
+   British Pound;
+ - reduced bar, restaurant, hotel and travel business in wake of  terrorist
+   attacks or threats, such as occurred in September, 2001 in the U.S. and in
+   July, 2005 in London;
+ - lower consumer confidence or purchasing associated with rising energy prices;
+ - a decline in U.S. spirits consumption as might be indicated by recently
+   published trends suggesting a slight reduction in the growth rate of
+   distilled spirits consumption;
+ - longer-term, a change in consumer preferences, social trends or cultural
+   trends that results in the reduced consumption of our premium spirits brands;
+ - changes in distribution arrangements in major markets that limit our ability
+   to market our products;
+ - increases in the price of energy or raw materials, including grapes, grain,
+   wood, glass, and plastic;
+ - excess wine inventories or a further world-wide oversupply of grapes;
+ - adverse developments as a result of state investigations of beverage alcohol
+   industry trade practices of suppliers, distributors and retailers.
+
+                                       13
+
+Results of Operations:
+Third Quarter Fiscal 2006 Compared to Third Quarter Fiscal 2005
+
+A summary of our operating performance (expressed in millions, except percentage
+and per share amounts) is presented below.  Continuing Operations consist of our
+beverage business and Hartmann luggage business. Discontinued Operations consist
+of Lenox and Brooks & Bentley.
+
+All per share  amounts  are  calculated  on a  diluted  basis  unless  otherwise
+indicated.
+
+                                             Three Months Ended
+                                                 January 31,
+CONTINUING OPERATIONS                       2005             2006         Change
+                                           ------           ------        ------
+Net sales                                  $607.1           $636.8           5%
+Gross profit                                305.0            334.4          10%
+Advertising expenses                         76.8             85.0          11%
+Selling, general, and
+ administrative expenses                    109.3            116.1           6%
+Other expense (income), net                   1.5            (32.4)
+   Operating income                         117.4            165.7          41%
+Gain on sale of investment in affiliate      73.5              --
+Interest expense (income), net                2.0             (0.3)
+   Income before income taxes               188.9            166.0         (12%)
+Income taxes                                 64.5             45.6
+   Net income                               124.4            120.4          (3%)
+
+Gross margin                                 50.2%            52.5%
+
+Effective tax rate                           34.1%            27.5%
+
+Earnings per share:
+   Basic                                     $1.02            $0.99         (4%)
+   Diluted                                    1.02             0.98         (4%)
+
+Diluted  earnings from  continuing  operations for the quarter ended January 31,
+2006,  declined 4%, to $0.98 per share,  from $1.02 per share in the prior year,
+reflecting  the  absence  of a $0.39 per share gain  recorded  in the prior year
+related  to the sale of our shares in  Glenmorangie  plc.  Additionally,  in the
+third  quarter of this  fiscal  year we  recorded a $0.14 per share net  benefit
+related to changes in our Australian  distribution joint venture and a $0.04 per
+share gain on the sale of winery  property.  Quarterly  earning per share growth
+was also affected by higher average global trade inventory  levels when compared
+to the prior year ($0.05 per share).  Adjusting  for these  factors (as shown in
+the following table),  underlying  earnings per share growth for the quarter was
+12%,  reflecting  continued  strong  growth in sales and profits for our premium
+global brands, most notably Jack Daniel's Tennessee Whiskey.
+
+Reported diluted EPS growth                                     (4%)
+   Glenmorangie                                                 39%
+   Australian distributor transition                           (14%)
+   Gain on sale of winery                                       (4%)
+   Net increase in trade inventories                            (5%)
+                                                               -----
+Adjusted diluted EPS growth                                     12%
+                                                               =====
+
+                                       14
+
+We have adjusted for items that are  considered to have a significant  effect on
+our underlying growth trends, such as acquisitions and dispositions,  changes in
+distribution arrangements, foreign exchange, and fluctuations in trade inventory
+levels.  We believe  that  disclosing  the  adjusted  growth in EPS enhances the
+ability to understand the underlying  growth trends for the company as the items
+adjusted have both a disproportionate positive and negative effect on results in
+the quarter, making comparisons difficult. In addition, we believe this adjusted
+growth rate is a more useful guide in forecasting and planning.
+
+Net  sales and  gross  profit  for the  quarter  grew 5% and 10%,  respectively,
+reflecting  continued volume and profit growth for Jack Daniel's,  Fetzer Wines'
+profit  growth in the United  States as a result of lower  costs,  and  positive
+trends for  Finlandia  (particularly  in central  Europe).  These  factors  were
+partially  offset by a stronger  U.S.  dollar  this year  compared  to last year
+(negatively  affecting  this year's net sales by $24 million and gross profit by
+$11 million) and the absence of sales and gross profit from Glenmorangie and its
+family  of  brands,  which  we  formerly  distributed  in the U.S.  and  several
+international  markets last year (negatively  affecting this year's net sales by
+$4 million and gross profit by $1 million).  Adjusting  for these  factors,  net
+sales and gross profit improved 10% and 13%,  respectively.  Management believes
+that  disclosing  these rates of growth is  important  because they are a better
+indication of the underlying net sales and gross profit growth of the company in
+the quarter.
+
+In addition to the 10% increase in reported  gross  profit,  other income was up
+significantly  compared to last year,  reflecting  the sale of the winery assets
+and  consideration  received  as a result of  changes  in our  Australian  joint
+venture  distribution.  These positive  factors were only partially offset by an
+11% increase in  advertising  investments  behind our premium  global brands and
+higher  investments  in SG&A expenses (6%), due in part to the effect of changes
+in our  distribution  network  in a number of markets  around  the  world.  As a
+result,  reported operating income grew 41%.  Adjusting  operating income growth
+for higher global trade inventory  levels (which boosted  earnings 8%), the sale
+of winery assets (which  increased  earnings 4%), the changes in our  Australian
+distribution  joint venture  (which added 12% to quarter over quarter  growth in
+operating  income),  and the net  effect  of a  couple  of  other  items  (which
+contributed  4% growth for the quarter),  operating  income grew at a much lower
+rate of 13%.  Management  believes  that  disclosing  this  rate  of  growth  is
+important because it is a better  indication of the underlying  operating income
+growth of the company in the quarter.
+
+Global  depletions  for our total  portfolio of brands were up in the mid-single
+digits in the  quarter  with  balanced  growth  across all  geographies,  led by
+strength in many international markets. (Depletions are shipments from wholesale
+distributors  to  retailers,  and are commonly  regarded in the wine and spirits
+industry as an  approximate  measure of  consumer  demand.)  Depletions  for our
+premium  global  brands,  consisting of Jack  Daniel's,  Southern  Comfort,  and
+Finlandia,  grew in the high  single  digits and  represent  nearly 60% of total
+volumes.  Depletions for our mid-priced regional brands,  which include Canadian
+Mist,   Early  Times,   Fetzer  and  Bolla,   were  flat,  while  depletions  of
+super-premium  developing brands continued to grow at a double-digit rate in the
+quarter.
+
+15
+
+The effective tax rate of 27.5% for continuing  operations for the quarter ended
+January  31,  2006,  is  based  on an  expected  effective  tax rate of 32.9% on
+ordinary  income for the full  fiscal  year,  less the tax  benefit  achieved by
+offsetting various capital gains from continuing  operations against the capital
+loss resulting from the sale of Lenox.
+
+DISCONTINUED OPERATIONS
+
+As discussed  earlier,  we consummated the sale of substantially all of Lenox on
+September 1, 2005, and we intend to sell Brooks & Bentley.  As a result, we have
+reported the operations of Lenox and Brooks & Bentley as discontinued operations
+in the  accompanying  financial  statements.  The  net  loss  from  discontinued
+operations  during the three  months  ended  January 31,  2006,  consists of the
+results  of  operations  for  Brooks & Bentley  as well as fees and other  costs
+associated with the Lenox transaction.
+
+                                             Three Months Ended
+                                                 January 31,
+                                            2005             2006
+                                           ------           ------
+Net income (loss)                          $(29.4)          $  0.1
+
+Loss per share:
+   Basic                                    (0.24)             --
+   Diluted                                  (0.24)             --
+
+16
+
+Results of Operations:
+Nine Months Fiscal 2006 Compared to Nine Months Fiscal 2005
+
+A summary of our operating performance (expressed in millions, except percentage
+and per share amounts) is presented below.  Continuing Operations consist of our
+beverage business and Hartmann luggage business. Discontinued Operations consist
+of Lenox and Brooks & Bentley.
+
+All per share  amounts  are  calculated  on a  diluted  basis  unless  otherwise
+indicated.
+
+                                              Nine Months Ended
+                                                 January 31,
+CONTINUING OPERATIONS                       2005             2006         Change
+                                           ------           ------        ------
+Net sales                                $1,715.6         $1,850.0           8%
+Gross profit                                888.9            994.8          12%
+Advertising expenses                        219.9            244.7          11%
+Selling, general, and
+ administrative expenses                    311.2            336.6           8%
+Other expense (income), net                  (0.6)           (46.6)
+   Operating income                         358.4            460.1          28%
+Gain on sale of investment in affiliate      72.3              --
+Interest expense, net                        11.6              3.8
+   Income before income taxes               419.1            456.3           9%
+Income taxes                                141.5            136.7
+   Net income                               277.6            319.6          15%
+
+Gross margin                                 51.8%            53.8%
+
+Effective tax rate                           33.8%            30.0%
+
+Earnings per share:
+   Basic                                     $2.28            $2.62         15%
+   Diluted                                    2.27             2.59         14%
+
+For the nine months ended January 31, 2006, earnings from continuing  operations
+were up 14% over the prior year. Growth was driven by positive volume trends and
+continued margin improvement for our premium global brands.  These improvements,
+combined with higher profits from some of our mid-priced  regional  brands (most
+notably Fetzer) and volume and profit growth from our  super-premium  developing
+brand portfolio,  more than offset increased advertising  investments (primarily
+behind premium global brands) and higher SG&A spending.  Adjusting for the items
+noted below, underlying earnings per share growth was also 14%.
+
+                                       17
+
+Reported diluted EPS growth                                     14%
+   Glenmorangie                                                 13%
+   Australian distributor transition                            (6%)
+   Gain on sale of winery                                       (2%)
+   Net increase in trade inventories                            (3%)
+   All other, net                                               (2%)
+                                                               -----
+Adjusted diluted EPS growth                                     14%
+                                                               =====
+   *Consists of various items, including lower net interest expense, foreign
+    exchange effects, higher incentive compensation in the prior year, and an
+    asset impairment associated with the company's minority interest in a small
+    Mexican tequila company.
+
+For the  first  nine  months of the  fiscal  year,  net  sales  grew 8%, or $134
+million, to approximately $1.9 billion.  Strong year-to-date results in the U.S.
+and Europe contributed 75% of the total growth, with the remaining growth coming
+from all other international markets.
+
+Gross profit of $1.0 billion was up 12%.  Approximately half of the increase was
+driven  by  price  increases,  favorable  mix and  cost  improvements,  with the
+remainder  driven by volume  gains,  most  notably for Jack  Daniel's,  Southern
+Comfort, and Finlandia.
+
+Healthy  advertising  investments  of $245  million  were up 11%  (and  13% on a
+constant dollar basis),  reflecting increased spending in the U.S. and overseas,
+while SG&A increased 8%.
+
+In the first nine months of fiscal 2006, Jack Daniel's worldwide depletions grew
+in the high single digits. While this growth rate was slightly below that of the
+prior year, the brand grew by more than 500,000 cases in the period. Substantial
+volume  gains were  registered  in the U.S.,  Asia,  South Africa and nearly all
+markets in Europe.  Year-to-date  depletions  for  Southern  Comfort grew in the
+mid-single  digits,  driven by the brand's continued progress in the U.S., while
+Finlandia  depletions grew at a double-digit rate, propelled by continued strong
+growth in Poland and Russia.
+
+The effective tax rate of 30.0% for  continuing  operations  for the nine months
+ended January 31, 2006,  is based on an expected  effective tax rate of 32.9% on
+ordinary  income for the full  fiscal  year,  less the tax  benefit  achieved by
+offsetting various capital gains from continuing  operations against the capital
+loss resulting from the sale of Lenox.
+
+                                       18
+
+DISCONTINUED OPERATIONS
+
+As discussed  earlier,  we consummated the sale of substantially all of Lenox on
+September  1,  2005,  and we are  pursuing  the sale of Brooks &  Bentley.  As a
+result,  we have  reported  the  operations  of Lenox and  Brooks &  Bentley  as
+discontinued operations in the accompanying financial statements.
+
+                                              Nine Months Ended
+                                                 January 31,
+                                            2005             2006
+                                           ------           ------
+Net loss                                   $(30.0)          $(77.5)
+
+Loss per share:
+   Basic                                    (0.25)           (0.64)
+   Diluted                                  (0.25)           (0.63)
+
+For the nine  months  ended  January  31,  2006,  we  reported  a net loss  from
+discontinued  operations of $77.5 million,  or $0.63 per diluted share, versus a
+net loss of $30.0  million  for the same prior year  period.  The loss  recorded
+during fiscal 2006 includes a non-cash impairment charge and fees related to the
+transaction of approximately $0.57 per share.
+
+EARNINGS OUTLOOK FOR CONTINUING OPERATIONS
+
+Based on strong third quarter  results,  we have  increased our fiscal 2006 full
+year outlook from continuing operations.  We now expect earnings in the range of
+$2.79 to $2.85 per share compared to the previously communicated projected range
+of $2.73 to $2.79 per share. Consistent with the previous guidance, this outlook
+excludes  (1) the net benefit  from the early  termination  of our  distribution
+rights to the  Glenmorangie  family of brands,  (2) the net effect of changes in
+our Australian  distribution  joint venture,  and (3) the gain on sale of winery
+property in California.  The revised  outlook  compares to prior year's adjusted
+earnings per share of $2.42,  which  reflects  prior year  reported  results for
+continuing  operations  adjusted  to  exclude  (1)  the  gain  on  the  sale  of
+Glenmorangie  shares and (2) trade inventory  reductions related to distribution
+changes in Europe.  Neither the current  year outlook nor the prior year results
+have been adjusted for any other items, such as foreign exchange, changes in net
+interest and effective tax rates, etc.
+
+This  revised full year  guidance  implies a range of earnings  from  continuing
+operations  for the  fourth  quarter of $0.48 to $0.54 per  share,  versus  last
+year's  adjusted  earnings of $0.54 per share,  reflecting  the  expectation  of
+reductions in global trade inventory levels,  incremental brand investments,  an
+unfavorable  effect of a stronger U.S.  dollar,  and continued  incremental SG&A
+investments in several countries in Europe, Australia, and Japan.
+
+                                       19
+
+LIQUIDITY AND FINANCIAL CONDITION
+
+Cash and cash  equivalents  increased  by $71.3  million  during the nine months
+ended  January 31, 2006,  compared to an increase of $221.8  million  during the
+same  period last year.  Cash  provided by  operations  declined  from $342.0 to
+$243.4  million,  primarily  reflecting a $67.3  million  reduction in cash from
+discontinued  operations in addition to higher working  capital  requirements in
+continuing  operations.  Cash used for investing  activities  increased by $65.4
+million,  as we  invested  a portion of our cash into  higher  interest-yielding
+short-term  investments.  Cash used for financing  activities  declined by $13.5
+million, largely reflecting lower debt repayments and higher proceeds from stock
+option exercises, partially offset by higher dividend payments.
+
+The American Jobs  Creation Act ("the Act"),  which was enacted in October 2004,
+would allow  Brown-Forman a special one-time  opportunity to repatriate  certain
+foreign  earnings  before April 30, 2006,  at a 5.25%  effective  tax rate.  The
+opportunity is subject to a number of limitations  and  requirements,  including
+adoption of a specific domestic  reinvestment plan for the repatriated funds. We
+have not yet repatriated any dividends  pursuant to the Act, but are considering
+the  opportunity  and will decide  whether to do so during the fourth quarter of
+this fiscal year.
+
+Item 3.   Quantitative and Qualitative Disclosures about Market Risk
+
+We hold debt  obligations,  foreign currency forward and option  contracts,  and
+commodity  futures  contracts  that are exposed to risk from changes in interest
+rates,  foreign  currency  exchange rates, and commodity  prices,  respectively.
+Established  procedures  and internal  processes  govern the management of these
+market  risks.  As of January 31, 2006, we do not consider the exposure to these
+market risks to be material.
+
+Item 4.   Controls and Procedures
+
+The Chief Executive  Officer ("CEO") and the Chief Financial  Officer ("CFO") of
+Brown-Forman  (its principal  executive and principal  financial  officers) have
+evaluated  the   effectiveness  of  the  company's   "disclosure   controls  and
+procedures" (as defined in Rule 13a-15(e)  under the Securities  Exchange Act of
+1934 (the  "Exchange  Act")) as of the end of the period covered by this report.
+Based  on  that  evaluation,  the  CEO  and CFO  concluded  that  the  company's
+disclosure  controls and  procedures:  are effective to ensure that  information
+required to be disclosed by the company in the reports  filed or submitted by it
+under the Exchange Act is recorded,  processed,  summarized, and reported within
+the time periods  specified in the SEC's rules and forms;  and include  controls
+and procedures  designed to ensure that information  required to be disclosed by
+the company in such reports is  accumulated  and  communicated  to the company's
+management,  including  the CEO and the CFO,  as  appropriate,  to allow  timely
+decisions  regarding  required  disclosure.  There  has  been no  change  in the
+company's  internal  control  over  financial  reporting  during the most recent
+fiscal  quarter  that  has  materially  affected,  or is  reasonably  likely  to
+materially affect, the company's internal control over financial reporting.
+
+                                       20
+
+PART II - OTHER INFORMATION
+
+Item 1.   Legal Proceedings
+
+Brown-Forman Corporation and many other manufacturers of spirits, wine, and beer
+are defendants in a series of essentially  similar class action lawsuits seeking
+damages and  injunctive  relief for  alleged  marketing  of beverage  alcohol to
+underage  consumers.  Nine  lawsuits  have been filed to date,  the first  three
+against  eight  defendants,  including  Brown-Forman:  "Hakki  v.  Adolph  Coors
+Company,  et.al.,"  District of Columbia Superior Court No. CD 03-9183 (November
+2003);  "Kreft v. Zima Beverage Co., et.al.," District Court,  Jefferson County,
+Colorado,  No. 04cv1827  (December 2003); and "Wilson v. Zima Company,  et.al.,"
+U.S.  District  Court for the  Western  District  of North  Carolina,  Charlotte
+Division,  No.  3:04cv141 ( January 2004).  Two virtually  identical  suits with
+allegations  similar  to  those  in the  first  three  lawsuits  were  filed  in
+Cleveland,  Ohio, in April and June,  2004,  respectively,  against the original
+eight  defendants as well as an  additional  nine  manufacturers  of spirits and
+beer, and are now consolidated as "Eisenberg v.  Anheuser-Busch,"  U.S. District
+Court for the District of Northern Ohio, No. 1:04cv1081. Five similar suits were
+filed in 2005: "Elizabeth H. Sciocchette v. Advanced Brands," Albany County, New
+York Supreme Court No. 102205 (February 16, 2005); "Roger and Kathy Bertovich v.
+Advanced  Brands,"  Hancock  County,  West Virginia,  Circuit Court No. 05-C-42M
+(February  17,  2005);  "Jacquelin  Tomberlin  v.  Adolph  Coors,"  Dane  County
+(Madison,  Wisconsin)  Circuit  Court,  (February  23,  2005);  "Viola Alston v.
+Advanced Brands," Wayne County, Michigan,  Circuit Court No. 05-509294,  (March,
+30, 2005), and "Craig Konhauzer v. Adolph Coors Company," Broward County Florida
+Circuit Court, No. 05004875 (March 30, 2005). In addition, Brown-Forman received
+in February, 2004, a pre-lawsuit notice under the California Consumer Protection
+Act indicating that the same lawyers intend to file a lawsuit there against many
+industry defendants,  including  Brown-Forman,  presumably on the same facts and
+legal theories.
+
+The suits  allege  that the  defendants  have  engaged  in  deceptive  marketing
+practices and schemes targeted at underage consumers, negligently marketed their
+products to the underage, and fraudulently concealed their alleged misconduct.
+
+Plaintiffs  seek class action  certification  on behalf of: (a) a guardian class
+consisting  of all persons who were or are parents of children  whose funds were
+used to purchase beverage alcohol marketed by the defendants which were consumed
+without their prior  knowledge by their  children under the age of 21 during the
+period 1982 to present;  and (b) an injunctive  class  consisting of the parents
+and guardians of all children currently under the age of 21.
+
+The lawsuits seek: (1) a finding that defendants  engaged in a deceptive  scheme
+to market alcoholic beverages to underage persons and an injunction against such
+alleged  practices;  (2)  disgorgement  and refund to the guardian  class of all
+proceeds  resulting  from sales to the underage  since 1982; and (3) judgment to
+each  guardian  class  member for a trebled  award of actual  damages,  punitive
+damages, and attorneys fees. The lawsuits,  either collectively or individually,
+if ultimately successful, represent significant financial exposure.
+
+                                       21
+
+Brown-Forman,  in coordination  with other defendants,  is vigorously  defending
+itself in these cases.  Brown-Forman and the other defendants have  successfully
+obtained  orders to dismiss three of the pending  cases:  "Kreft"  (Colorado) in
+December 2005;  "Eisenberg" (Ohio) in January 2006; and "Tomberlin"  (Wisconsin)
+in February 2006. In addition,  plaintiff  Konhauzer  (Florida) has  voluntarily
+dismissed that lawsuit.  Plaintiffs  Kreft  (Colorado) and Eisenberg (Ohio) have
+appealed the dismissal of their cases and plaintiff Tomberlin  (Wisconsin) still
+has time in which to file an appeal.
+
+Item 6.  Exhibits
+
+   31.1  CEO Certification pursuant to Section 302 of Sarbanes-Oxley Act
+         of 2002.
+
+   31.2  CFO Certification pursuant to Section 302 of Sarbanes-Oxley Act
+         of 2002.
+
+   32    CEO and CFO Certification pursuant to 18 U.S.C. Section 1350, as
+         adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+         (not considered to be filed).
+
+                                       22
+
+SIGNATURES
+
+Pursuant  to the  requirements  of the  Securities  Exchange  Act of  1934,  the
+Registrant  has duly  caused  this  report  to be  signed  on its  behalf by the
+undersigned thereunto duly authorized.
+
+BROWN-FORMAN CORPORATION
+                                                     (Registrant)
+
+Date:   March 13, 2006                     By:  /s/ Phoebe A. Wood
+                                                Phoebe A. Wood
+                                                Executive Vice President and
+                                                 Chief Financial Officer
+                                                (On behalf of the Registrant and
+                                                 as Principal Financial Officer)
+
+23
+ 
+                                                                   Exhibit 31.1
+
+       CERTIFICATION PURSUANT TO SECTION 302 OF SARBANES-OXLEY ACT OF 2002
+
+I, Paul C. Varga, certify that:
+
+1.  I have reviewed this Quarterly report on Form 10-Q of Brown-Forman
+    Corporation;
+
+2.  Based on my knowledge, this report does not contain any untrue statement of
+    a material fact or omit to state a material fact necessary to make the
+    statements made, in light of the circumstances under which such statements
+    were made, not misleading with respect to the period covered by this report;
+
+3.  Based on my knowledge, the financial statements, and other financial
+    information included in this report, fairly present in all material respects
+    the financial condition, results of operations and cash flows of the
+    registrant as of, and for, the periods presented in this report;
+
+4.  The registrant's other certifying officer and I are responsible for
+    establishing and maintaining disclosure controls and procedures (as defined
+    in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over
+    financial reporting (as defined in Exchange Act Rules 13a-15(f) and
+    15d-15(f)) for the registrant and have:
+
+    a)  Designed such disclosure controls and procedures, or caused such
+        disclosure controls and procedures to be designed under our supervision,
+        to ensure that material information relating to the registrant,
+        including its consolidated subsidiaries, is made known to us by others
+        within those entities, particularly during the period in which this
+        report is being prepared;
+
+    b)  Designed such internal control over financial reporting, or caused such
+        internal control over financial reporting to be designed under our
+        supervision, to provide reasonable assurance regarding the reliability
+        of financial reporting and the preparation of financial statements for
+        external purposes in accordance with generally accepted accounting
+        principles;
+
+    c)  Evaluated the effectiveness of the registrant's disclosure controls and
+        procedures and presented in this report our conclusions about the
+        effectiveness of the disclosure controls and procedures, as of the end
+        of the period covered by this report based on such evaluation; and
+
+    d)  Disclosed in this report any change in the registrant's internal control
+        over financial reporting that occurred during the registrant's most
+        recent fiscal quarter (the registrant's fourth fiscal quarter in the
+        case of an annual report) that has materially affected, or is reasonably
+        likely to materially affect, the registrant's internal control over
+        financial reporting; and
+
+5.  The registrant's other certifying officer and I have disclosed, based on our
+    most recent evaluation of internal control over financial reporting, to the
+    registrant's auditors and the audit committee of the registrant's board of
+    directors (or persons performing the equivalent function):
+
+    a)  All significant deficiencies and material weaknesses in the design or
+        operation of internal control over financial reporting which are
+        reasonably likely to adversely affect the registrant's ability to
+        record, process, summarize and report financial information; and
+
+    b)  Any fraud, whether or not material, that involves management or other
+        employees who have a significant role in the registrant's internal
+        control over financial reporting.
+
+Date:   March 13, 2006                     By:  /s/ Paul C. Varga
+                                                Paul C. Varga
+                                                Chief Executive Officer
+
+Exhibit 31.2
+
+       CERTIFICATION PURSUANT TO SECTION 302 OF SARBANES-OXLEY ACT OF 2002
+
+I, Phoebe A. Wood, certify that:
+
+1.  I have reviewed this Quarterly report on Form 10-Q of Brown-Forman
+    Corporation;
+
+2.  Based on my knowledge, this report does not contain any untrue statement of
+    a material fact or omit to state a material fact necessary to make the
+    statements made, in light of the circumstances under which such statements
+    were made, not misleading with respect to the period covered by this report;
+
+3.  Based on my knowledge, the financial statements, and other financial
+    information included in this report, fairly present in all material respects
+    the financial condition, results of operations and cash flows of the
+    registrant as of, and for, the periods presented in this report;
+
+4.  The registrant's other certifying officer and I are responsible for
+    establishing and maintaining disclosure controls and procedures (as defined
+    in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over
+    financial reporting (as defined in Exchange Act Rules 13a-15(f) and
+    15d-15(f)) for the registrant and have:
+
+    a)  Designed such disclosure controls and procedures, or caused such
+        disclosure controls and procedures to be designed under our supervision,
+        to ensure that material information relating to the registrant,
+        including its consolidated subsidiaries, is made known to us by others
+        within those entities, particularly during the period in which this
+        report is being prepared;
+
+    b)  Designed such internal control over financial reporting, or caused such
+        internal control over financial reporting to be designed under our
+        supervision, to provide reasonable assurance regarding the reliability
+        of financial reporting and the preparation of financial statements for
+        external purposes in accordance with generally accepted accounting
+        principles;
+
+    c)  Evaluated the effectiveness of the registrant's disclosure controls and
+        procedures and presented in this report our conclusions about the
+        effectiveness of the disclosure controls and procedures, as of the end
+        of the period covered by this report based on such evaluation; and
+
+    d)  Disclosed in this report any change in the registrant's internal control
+        over financial reporting that occurred during the registrant's most
+        recent fiscal quarter (the registrant's fourth fiscal quarter in the
+        case of an annual report) that has materially affected, or is reasonably
+        likely to materially affect, the registrant's internal control over
+        financial reporting; and
+
+5.  The registrant's other certifying officer and I have disclosed, based on our
+    most recent evaluation of internal control over financial reporting, to the
+    registrant's auditors and the audit committee of the registrant's board of
+    directors (or persons performing the equivalent function):
+
+    a)  All significant deficiencies and material weaknesses in the design or
+        operation of internal control over financial reporting which are
+        reasonably likely to adversely affect the registrant's ability to
+        record, process, summarize and report financial information; and
+
+    b)  Any fraud, whether or not material, that involves management or other
+        employees who have a significant role in the registrant's internal
+        control over financial reporting.
+
+Date:   March 13, 2006                     By:  /s/ Phoebe A. Wood
+                                                Phoebe A. Wood
+                                                Chief Financial Officer
+
+Exhibit 32
+
+    CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO
+                 SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In  connection  with the  Quarterly  Report of  Brown-Forman  Corporation  ("the
+Company") on Form 10-Q for the period ended  January 31, 2006, as filed with the
+Securities and Exchange  Commission on the date hereof (the  "Report"),  each of
+the undersigned hereby certifies, pursuant to 18 U.S.C. Section 1350, as adopted
+pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, in the capacity as an
+officer of the Company, that:
+
+(1)  The Report fully complies with the requirements of Section 13(a) of the
+     Securities Exchange Act of 1934; and
+
+(2)  The information contained in the Report fairly presents, in all material
+     respects, the financial condition and results of operations of the Company.
+
+Date:   March 13, 2006                          By:  /s/ Paul C. Varga
+                                                Paul C. Varga
+                                                Chief Executive Officer
+
+By:  /s/ Phoebe A. Wood
+                                                Phoebe A. Wood
+                                                Executive Vice President
+                                                 and Chief Financial Officer
+
+A signed  original of this  written  statement  required by Section 906 has been
+provided to the Company and will be retained by the Company and furnished to the
+Securities and Exchange Commission or its staff upon request.
+
+This certificate is being furnished solely for purposes of Section 906 and is
+not being filed as part of the Periodic Report.
+

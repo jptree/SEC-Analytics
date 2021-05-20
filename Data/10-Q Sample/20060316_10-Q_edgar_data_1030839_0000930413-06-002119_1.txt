@@ -1,0 +1,2240 @@
+<Header>
+<FileStats>
+    <FileName>20060316_10-Q_edgar_data_1030839_0000930413-06-002119_1.txt</FileName>
+    <GrossFileSize>123183</GrossFileSize>
+    <NetFileSize>119361</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>512</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>1</N_Tables>
+    <N_Exhibits>6</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000930413-06-002119.hdr.sgml : 20060316
+<ACCEPTANCE-DATETIME>20060316172320
+ACCESSION NUMBER:		0000930413-06-002119
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		7
+CONFORMED PERIOD OF REPORT:	20060131
+FILED AS OF DATE:		20060316
+DATE AS OF CHANGE:		20060316
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BIONUTRICS INC
+		CENTRAL INDEX KEY:			0001030839
+		STANDARD INDUSTRIAL CLASSIFICATION:	MEDICINAL CHEMICALS & BOTANICAL PRODUCTS [2833]
+		IRS NUMBER:				860760991
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1031
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-22011
+		FILM NUMBER:		06693172
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2425 E CAMELBACK RD
+		STREET 2:		STE 650
+		CITY:			PHOENIX
+		STATE:			AZ
+		ZIP:			85016
+		BUSINESS PHONE:		6025080112
+
+	MAIL ADDRESS:	
+		STREET 1:		2425 E CAMELBACK ROAD
+		STREET 2:		SUITE 650
+		CITY:			PHOENIX
+		STATE:			AZ
+		ZIP:			85016
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NUTRAGENICS INC /NV/
+		DATE OF NAME CHANGE:	19970212
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Io61+5lbMcC5B7N2zNOGZ7cO8dBvue7T0a04HHhWSxtCRjLfnUpqOZbLql2PAvMn
+ FCV9FloNvJbZtOLrHRhHlQ==
+
+ 0000930413-06-002119.txt : 20060316
+
+10-Q
+ 1
+ c41484_10q.txt
+ 
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+FORM 10-Q
+
+            QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                        SECURITIES EXCHANGE ACT OF 1934
+
+For the quarterly period ended:           JANUARY 31, 2006
+                                       or
+            TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+
+For the transition period from ____________________ to _________________________
+
+                         Commission File Number: 0-22011
+                                                 -------
+                                BIONUTRICS, INC.
+             (EXACT NAME OF REGISTRANT AS SPECIFIED IN ITS CHARTER)
+
+            NEVADA                                        86-0760991
+- -------------------------------                     ---------------------
+(STATE OR OTHER JURISDICTION OF                         I.R.S. EMPLOYER
+INCORPORATION OR ORGANIZATION)                      IDENTIFICATION NUMBER
+
+2575 E. CAMELBACK RD., SUITE 450  PHOENIX, ARIZONA         85016
+- --------------------------------------------------      ----------
+(ADDRESS OF PRINCIPAL EXECUTIVE OFFICES)                (ZIP CODE)
+
+                                  602-508-0112
+              ----------------------------------------------------
+              (REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE)
+
+Indicate by check mark whether the  registrant  (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the  Securities  Exchange  Act of
+1934  during  the  preceding  12 months  (or for such  shorter  period  that the
+registrant was required to file such reports),  and (2) has been subject to such
+filing requirements for the past 90 days.
+
+                                                                Yes [X]  No [ ].
+
+       Indicate by check mark  whether  the  registrant  is a large  accelerated
+filer,  an accelerated  filer,  or a  non-accelerated  filer.  See definition of
+"accelerated  filer and large  accelerated  filer" in Rule 12b-2 of the Exchange
+Act. (Check one):
+
+Large accelerated filer [ ]   Accelerated Filer [ ]   Non-accelerated filer [X]
+
+Indicate by check mark whether the  registrant is a shell company (as defined in
+Rule 12b-2 of the Exchange Act).                                Yes [ ]  No [X].
+
+Indicate the number of shares  outstanding  of each of the  issuer's  classes of
+common stock, as of the latest practicable date.
+
+As of March 6, 2006, there were 22,681,725 shares of common stock outstanding.
+
+BIONUTRICS, INC.
+                            INDEX TO QUARTERLY REPORT
+                                  ON FORM 10-Q
+
+PAGE
+PART I - FINANCIAL INFORMATION
+
+ITEM I.  Financial Statements
+
+                          (UNAUDITED)
+         Condensed Consolidated Balance Sheets                                 3
+         Condensed Consolidated Statements of Operations                       5
+         Condensed Consolidated Statements of Cash Flows                       6
+         Notes to Condensed Consolidated Financial Statements                  7
+
+ITEM 2.  Management's Discussion and Analysis of Financial Condition
+         and Results of Operations                                            12
+
+ITEM 3.  Quantitative and Qualitative Disclosures About Market Risk           17
+
+ITEM 4.  Controls and Procedures                                              17
+
+PART II - OTHER INFORMATION
+
+ITEM 1.  Legal Proceedings                                                    17
+
+ITEM 1A. Risk Factors                                                         17
+
+ITEM 2.  Unregistered Sales of Equity Securities and Use of Proceeds          18
+
+ITEM 3.  Defaults upon Senior Securities                                      19
+
+ITEM 4.  Submission of Matters to a Vote of Security Holders                  19
+
+ITEM 5.  Other Information                                                    19
+
+ITEM 6.  Exhibits                                                             20
+
+SIGNATURES                                                                    21
+
+                                       2
+
+ITEM 1.  FINANCIAL STATEMENTS.
+
+BIONUTRICS, INC.
+CONDENSED CONSOLIDATED BALANCE SHEETS (UNAUDITED)
+
+                                                    JANUARY 31,     OCTOBER 31,
+                                                       2006            2005
+                                                   ------------    ------------
+ASSETS
+
+CURRENT ASSETS:
+  Cash and cash equivalents                        $    222,314    $    128,819
+  Inventory                                               3,748           4,010
+  Prepaid expenses and other current assets             122,900         137,609
+                                                   ------------    ------------
+                   Total Current Assets                 348,962         270,438
+                                                   ------------    ------------
+
+PROPERTY - Net of accumulated depreciation
+  of $71,734 and $70,689, respectively                   16,538           4,513
+                                                   ------------    ------------
+
+OTHER ASSETS:
+  Deposits on equipment                                 234,494         234,494
+  Deposit on purchase agreement                         200,000         200,000
+  Deferred financing fees                               546,283         375,042
+  Capitalized acquisition costs                          85,218              --
+  Patents - net of accumulated amortization
+    of $320,391 and $312,816, respectively           14,592,575      14,600,149
+  Investment in InCon Processing, LLC                 1,148,485       1,226,919
+                                                   ------------    ------------
+                   Total Other Assets                16,807,055      16,636,604
+                                                   ------------    ------------
+
+TOTAL                                              $ 17,172,555    $ 16,911,555
+                                                   ============    ============
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+
+CURRENT LIABILITIES:
+  Accounts payable                                 $  1,135,524    $  1,007,570
+  Notes payable - shareholders and others             1,424,052       1,452,100
+  Accrued interest to shareholders and others           810,198         731,792
+  Other accrued liabilities                             870,731         992,362
+                                                   ------------    ------------
+                   Total current liabilities          4,240,505       4,183,824
+                                                   ------------    ------------
+
+LONG-TERM LIABILITIES:
+   Convertible bridge notes                           2,333,178       1,423,980
+                                                   ------------    ------------
+
+                   Total Liabilities                  6,573,683       5,607,804
+                                                   ------------    ------------
+
+                                       3
+
+STOCKHOLDERS' EQUITY
+  Preferred stock - $.001 par value -
+    authorized,  5,000,000 shares; 591,850 and
+    591,850 issued and outstanding, respectively
+    (liquidation preference of $798,998)                798,998         798,998
+  Common stock - $.001 par value - authorized,
+    45,000,000 shares; 22,681,725 and 22,681,725
+    issued and outstanding, respectively                 22,681          22,681
+  Additional paid-in capital                         54,955,735      54,802,634
+  Warrants                                              852,175         511,650
+  Accumulated deficit                               (46,030,717)    (44,832,212)
+                                                   ------------    ------------
+                   Total stockholders' equity        10,598,872      11,303,751
+                                                   ------------    ------------
+
+TOTAL                                              $ 17,172,555    $ 16,911,555
+                                                   ============    ============
+
+                                       4
+
+BIONUTRICS, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (UNAUDITED)
+
+                                                           THREE MONTHS
+                                                         ENDED JANUARY 31,
+                                                   ----------------------------
+                                                       2006            2005
+                                                   ------------    ------------
+REVENUES:
+     Revenue from product sales                    $      1,640    $      2,984
+                                                   ------------    ------------
+
+COST OF REVENUES                                            256             493
+                                                   ------------    ------------
+
+           Gross profit                                   1,384           2,491
+                                                   ------------    ------------
+
+OPERATING EXPENSES:
+     Research and development                           160,848           3,360
+     Selling, general and administrative                742,831         301,350
+                                                   ------------    ------------
+
+           Total operating expenses                     903,679         304,710
+                                                   ------------    ------------
+
+OPERATING LOSS                                         (902,295)       (302,219)
+                                                   ------------    ------------
+
+OTHER INCOME (EXPENSES):
+     Equity in the loss of InCon Processing, LLC        (78,433)       (212,662)
+     Recovery of previous write-down of accounts
+       receivable  and other income                     110,000             444
+     Interest expense, net                             (327,777)           (444)
+                                                   ------------    ------------
+           Total other (expenses) income               (296,210)       (212,662)
+                                                   ------------    ------------
+
+NET LOSS                                           $ (1,198,505)   $   (514,881)
+                                                   ============    ============
+
+BASIC AND DILUTED NET LOSS PER COMMON SHARE        $      (0.05)   $      (0.03)
+                                                   ============    ============
+
+WEIGHTED AVERAGE NUMBER OF COMMON SHARES
+OUTSTANDING                                          22,681,725      16,022,508
+                                                   ============    ============
+
+                                       5
+
+BIONUTRICS, INC.
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS (UNAUDITED)
+
+                                                           THREE MONTHS
+                                                         ENDED JANUARY 31,
+                                                   ----------------------------
+
+                                                       2006            2005
+                                                   ------------    ------------
+OPERATING ACTIVITIES:
+Net loss                                           $ (1,198,505)   $   (514,881)
+Adjustments to reconcile net loss to cash
+  used in operating activities:
+  Depreciation and amortization                           8,619           7,865
+  Equity in the loss of joint venture                    78,433         212,662
+  Amortization of bridge loan discount                  191,584              --
+  Changes in operating assets and liabilities:
+      Inventory                                             263             511
+      Prepaids and other current assets                  14,709        (106,148)
+      Accounts payable                                  127,954         132,685
+      Accrued liabilities                               (43,225)        (92,691)
+                                                   ------------    ------------
+Net cash used in operating activities                  (820,168)       (359,997)
+                                                   ------------    ------------
+
+INVESTING ACTIVITIES:
+  Capital expenditures                                  (13,070)             --
+  Deferred fees associated with
+    acquisition activities                              (85,218)             --
+                                                   ------------    ------------
+
+Net cash provided by investing activities               (98,288)             --
+                                                   ------------    ------------
+
+FINANCING ACTIVITIES:
+  Proceeds from debt                                  1,150,000              --
+  Fees from debt issuance                              (110,001)             --
+  Repayment of debt                                     (28,048)             --
+                                                   ------------    ------------
+
+Net cash provided by financing activities             1,011,951              --
+                                                   ------------    ------------
+
+NET INCREASE (DECREASE) IN CASH AND
+CASH EQUIVALENTS                                         93,495        (359,997)
+
+CASH AND CASH EQUIVALENTS, BEGINNING OF PERIOD          128,819         629,257
+                                                   ------------    ------------
+
+CASH AND CASH EQUIVALENTS, END OF PERIOD           $    222,314    $    269,260
+                                                   ============    ============
+
+SUPPLEMENTAL DISCLOSURES OF NONCASH FINANCING
+ACTIVITIES:
+  Settlement of debt through issuance
+    of common stock                                $          0    $     49,500
+                                                   ============    ============
+
+                                       6
+
+BIONUTRICS, INC.
+              NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+                                   (UNAUDITED)
+
+Note A -      BASIS OF PRESENTATION
+
+                     The accompanying unaudited Condensed Consolidated Financial
+              Statements of Bionutrics,  Inc. (the "Company") have been prepared
+              in accordance with accounting principles generally accepted in the
+              United States of America for interim financial information and the
+              instructions  to Form 10-Q.  Accordingly,  they do not include all
+              the  information and footnotes  required by accounting  principles
+              generally  accepted in the United  States of America for  complete
+              financial   statements.   In  the  opinion  of   management,   all
+              adjustments  (which  include  only normal  recurring  adjustments)
+              necessary to present  fairly the  financial  position,  results of
+              operations  and cash  flows for all  periods  presented  have been
+              made. The results of operations for the  three-month  period ended
+              January 31, 2006 are not  necessarily  indicative of the operating
+              results  that may be expected  for the entire year ending  October
+              31,  2006.  These  unaudited  condensed   consolidated   financial
+              statements  should  be  read in  conjunction  with  the  Company's
+              financial  statements and accompanying notes thereto as of and for
+              the year  ended  October  31,  2005.  The  accompanying  condensed
+              consolidated  financial  statements  have been prepared on a going
+              concern basis,  which  contemplates  the realization of assets and
+              the  satisfaction of liabilities in the normal course of business.
+              The  Company  has  incurred   accumulated   operating   losses  of
+              $46,030,717  through  January  31,  2006  which  have been  funded
+              through  the  issuance of stock and debt.  The losses  incurred to
+              date, the  uncertainty  regarding the ability to raise  additional
+              capital and the Company's  inability to generate gross profits and
+              positive cash flows from operations  indicate that the Company may
+              not be able to continue as a going concern for a reasonable period
+              of time.
+
+Note B -      NET LOSS PER COMMON SHARE
+
+                     Basic net loss per share is computed  by  dividing  the net
+              loss by the weighted  average number of common shares  outstanding
+              during the presented  periods.  Diluted net loss per share has not
+              been presented as it was  anti-dilutive.  Options and warrants are
+              excluded from the diluted net loss per share calculation,  as they
+              are anti-dilutive.
+
+Note C -      LICENSE AGREEMENT
+
+                     The Technology License Agreement (the "License  Agreement")
+              dated March 16, 2005 entered  into with  Nostrum  Pharmaceuticals,
+              Inc  ("Nostrum")  and the  Company,  replaced in its  entirety the
+              Product  Development  and License  Agreement  dated as of June 16,
+              2004. Under the revised License Agreement, the Company received an
+              exclusive  license  to develop  and  commercialize  ten  505(b)(2)
+              products  (brandable  pharmaceutical  products  that  qualify  for
+              filing with the United  States Food and Drug  Administration  (the
+              "FDA") under a "505(b)(2)"  application)  and ten generic products
+              (generic  bio-equivalents  of branded
+
+                                       7
+
+products  which  qualify  for filing  with the FDA  pursuant to an
+              Abbreviated  New Drug  Application)  under the Nostrum  Technology
+              within a three  year  period.  As  consideration  for the  License
+              Agreement,  the  Company  issued 12  million  shares of its common
+              stock, and agreed to pay Nostrum royalties on net sales of generic
+              products equal to 50% of gross profit. As of January 31, 2006, the
+              Company  has  paid  $1,615,090  to  Nostrum  as  remuneration  for
+              research  and  development  costs  associated  with  the  licensed
+              technology.
+
+Note D -      PURCHASE AGREEMENT
+
+                     In July 2005, the Company entered into a Purchase Agreement
+              (the "Purchase Agreement") to acquire Kirk  Pharmaceuticals,  LLC,
+              and its  affiliate,  ANDAPharm,  LLC  (collectively,  "Kirk")  for
+              $12,000,000 in cash and a promissory note. Kirk is a Florida based
+              pharmaceutical company that manufactures  over-the-counter ("OTC")
+              and  generic  prescription  drugs  in its  FDA  and  DEA  approved
+              facility.  Kirk currently manufactures and/or markets 30 OTC solid
+              dose and soft gel pharmaceuticals under current Good Manufacturing
+              Practices  ("cGMP")  guidelines.  Kirk was founded in 1999 and has
+              grown to more than 100 people and occupies  70,000  square feet of
+              manufacturing   space.   If  the  Company  is  successful  in  its
+              acquisition  of Kirk,  the  Company  intends  to fund  some of its
+              planned  clinical  trials and product  development  programs  with
+              potential   cash  flow  from   Kirk's   operations.   The  Company
+              anticipates  that  Kirk  will  be  the  designated   manufacturing
+              facility for its products,  subsequent to FDA approval.  As of the
+              date herein,  the Company is awaiting  approval of the acquisition
+              from the Drug Enforcement Agency ("DEA").
+
+Note E -      PLACEMENT AGENCY AGREEMENT
+
+                     On September 27, 2005, the Company entered into a Placement
+              Agency  Agreement with Indigo  Securities LLC, a Delaware  limited
+              liability company ("Indigo") whereby,  Indigo agreed to act as the
+              Registrant's  agent  in  connection  with  (i)  the  sale  by  the
+              Registrant of from $5,000,000 to $10,000,000 million,  face amount
+              of the  Company's 10% Senior  Notes,  to be offered  together with
+              warrants, (ii) the sale (the "Bridge Financing") by the Company of
+              up to  $2,500,000,  face amount of the  Company's  9%  Convertible
+              Bridge Notes (the "Bridge  Notes"),  to be offered  together  with
+              warrants (the "Bridge Warrants") and (iii) the sale by the Company
+              of up to $5  million  of  Series  A  Convertible  Preferred  Stock
+              ("Series  A  Preferred   Stock")  of  the  Company  together  with
+              warrants,  all of which will be  offered  on terms and  conditions
+              agreed upon by the Parties. As of the date herein, the Company has
+              issued $3,095,000 under the 9% Convertible Bridge Notes. No Series
+              A Convertible Preferred Stock has been issued.
+
+Note F -      PURCHASE AND SALE AGREEMENT
+
+                     InCon Technologies,  Inc., a wholly-owned subsidiary of the
+              Company,    and   Asia   Pacific   Investment   Holdings   Limited
+              (collectively,  the  "Sellers"),  entered into a Purchase and Sale
+              Agreement,   dated  as  of  October   31,   2005  (the   "Purchase
+              Agreement"),  pursuant to which the  Sellers  agreed to sell their
+
+                                       8
+
+respective  fifty  percent  (50%)  ownership  interests  in  InCon
+              Processing,  LLC  ("InCon"),  to  InCon  International,   Inc.  in
+              exchange for all of the  membership  units of Bali  Holdings,  LLC
+              ("Bali")  which are owned by N.P.  Shaikh  ("Shaikh")  and John R.
+              Palmer   ("Palmer").   The  sale  was  made  upon  the   Company's
+              determination that InCon's operations,  which includes high vacuum
+              distillation,  production toll work and process development, would
+              no longer  comprise a material  element in the Company's  business
+              strategy.
+
+                     Pursuant to the Purchase Agreement, the Sellers have agreed
+              to provide  consulting  services  to InCon for a term of three (3)
+              years in consideration  for an annual consulting fee in the amount
+              of the lesser of: (a) One Hundred Thousand  Dollars  ($100,000.00)
+              and (b)  twenty-five  percent  (25%) of  InCon's  annual  earnings
+              before interest,  taxes,  depreciation  and amortization  over the
+              five (5) years beginning on October 31, 2005  ("Consulting  Fee");
+              provided  however,  that the total payments to each of the Sellers
+              in respect of the  Consulting  Fee shall not exceed Three  Hundred
+              Thousand Dollars  ($300,000.00).  The Consulting Fee is subject to
+              certain  acceleration  provisions  as  provided  in  the  Purchase
+              Agreement.
+
+                     As a  condition  to  the  Closing  of  the  sale  of  InCon
+              membership   interests,   InCon  is   obligated  to  complete  the
+              development  of certain  tocotrienol  processing  technology  (the
+              "Technology") and to convey the sole right, ownership and interest
+              in the  Technology  to the Sellers who shall  thereafter  have the
+              exclusive  right to patent,  license or sell the Technology in its
+              sole discretion. While management believes that InCon will deliver
+              the technology, no assurance can be given that the technology will
+              be received or that the sale will be consummated.
+
+Note G -      FINANCING COMMITMENT
+
+                     In November,  2005, the Company  received a commitment from
+              BHC Interim Funding II L.P., a merchant  banking firm ("BHC"),  to
+              lend up to $10 million to a newly-formed subsidiary of the Company
+              for  the  purpose  of  acquiring  Kirk.  Funding  pursuant  to the
+              Commitment   is  subject   to   satisfactory   legal   review  and
+              documentation,  no material adverse changes, as well as additional
+              terms  and   conditions.   The  loan  from  BHC  (the  "Loan")  is
+              anticipated  to be structured as senior secured  indebtedness,  of
+              which  $8,000,000  will be drawn at closing (the "Initial  Loan"),
+              and an incremental  $2,000,000 credit facility (the "Facility") to
+              be available  on the six month  anniversary  of the  closing.  The
+              Facility  will  constitute  an  additional  draw  under  the  loan
+              documents.  The Loan will have an interest  rate of 12% per annum,
+              payable  monthly  in  arrears,  and will  mature on the date three
+              years  from the date of the  closing of the  acquisition  of Kirk.
+              There will also be a maintenance fee,  adjusted  periodically,  to
+              achieve an accrual  rate of 4.75%.  The Loan is not  subject to an
+              amortization schedule and may be prepaid at any time. In the event
+              the  Loan is not  paid in full at  maturity,  notwithstanding  any
+              other  penalties  that  may be  paid,  and  notwithstanding  BHC's
+              rights,  actions  and  efforts to pursue  repayment,  the  Company
+              shall,  among other things,  after a 15-day cure period pay a cash
+              fee of 5.0% of the amount then outstanding to BHC.
+
+                                       9
+
+The Company will be required to utilize the proceeds of any
+              new senior or  subordinated  debt or equity or other new financing
+              by or investment in the Company,  as well as the proceeds from the
+              sale of any assets outside the ordinary  course of business or the
+              sale or merger of the Company to repay the Investment.
+
+                     The Company shall be required to pay a 3.0% transaction fee
+              based  upon  the  amount  funded  and,   upon   repayment  of  the
+              Investment,  will be required to pay maintenance  fees prorated to
+              reflect the time and principal amount of the Investment.
+
+                     The Loan shall be secured by a first  priority  lien on all
+              existing and future tangible and intangible  assets owned by Kirk.
+              Notwithstanding  the  foregoing,  the  Loan  will  have  a  second
+              priority lien on specific  tangible assets that, after the closing
+              of the acquisition of Kirk, are financed with equipment loans. The
+              Loan  will be  further  secured  by:  (i) a pledge  of 100% of the
+              Company's interest in Kirk; (ii) a pledge of 100% of the Company's
+              interest in ANDAPharm,  LLC, (iii) the corporate guarantees of the
+              Company and ANDAPharm,  LLC, and (iv) a first priority lien on the
+              Company's  technology,  including  its  products  derived from its
+              license agreement with Nostrum Pharmaceuticals,  Inc. However, the
+              lien granted to BHC shall not  preclude the Company from  entering
+              into  agreements  related to its technology in the ordinary course
+              of business, so long as no event of default has occurred under the
+              loan documents.
+
+                     Further,  upon the  closing of the Loan,  BHC will have the
+              right to a 5-year warrant to purchase  shares of 125,000 shares of
+              common  stock of the  Company  for $4.00 per  share,  subject to a
+              number of conditions.
+
+                     While the Initial Loan is  outstanding,  BHC shall (a) have
+              observation  rights  to Board of  Directors  and  Audit  Committee
+              meetings  of  the  Company  and  Kirk,  (b)  be  given  reasonable
+              notification of such meeting dates, and (c) be entitled to receive
+              copies of all  written  information  and  notices  provided to the
+              Board of  Directors  and Audit  Committee  at the same time as the
+              members.  In the event of a payment default under the Initial Loan
+              and the  Facility  which is not  cured in 15  days,  BHC  would be
+              entitled  to appoint one person to the Board of  Directors  of the
+              Company.
+
+                     In the event that the Company determines not to utilize the
+              Loan there shall be a $75,000 break-up fee.
+
+Note H -      LEASED FACILITIES
+
+                     In November 2005,  the Company  entered in to a sub-leasing
+              agreement for approximately  1,208 square feet of office space for
+              its research and technology  development staff in Edison, NJ, with
+              monthly payments of $2,750.  The agreement expires on September 9,
+              2007.
+
+                                       10
+
+In  January  2006,  the  Company  entered  in  to  a  lease
+              agreement  for  its  principal  executive  offices  consisting  of
+              approximately 1,561 square feet, in Phoenix, Arizona under a three
+              year lease agreement that expires on January 1, 2009, with monthly
+              payments of $4,659.
+
+Note I -      SUBSEQUENT OR SIGNIFICANT EVENTS
+
+                     On  February  3,  2006,  the  Company  filed a  Preliminary
+              Information  Statement  with the SEC for a name change to Synovics
+              Pharmaceuticals, Inc. The Company waited the requisite 10 days for
+              comments from the SEC, of which it received none. The Company then
+              filed on March 2, 2006 a Definitive  Information  Statement filing
+              with  the  SEC  and  a  mailing   of  a  copy  of  the  filing  to
+              shareholders.
+
+                     In February 2006, the Company completed a private placement
+              of convertible notes and warrants (the "February Financing").  The
+              gross  proceeds  of  the  February   Financing  totaled  $100,000.
+              Pursuant to the February Financing, the Company issued $100,000 of
+              principal  amount  of  9%  convertible   notes  (the  "Convertible
+              Notes"),  which are convertible into an aggregate of 33,333 shares
+              of  Company  common  stock at a price of $3.00,  and  warrants  to
+              purchase an aggregate of 16,666 shares of Company  common stock at
+              $4.00 per share (the  "Private  Warrants").  These  Warrants  were
+              valued at $32,583 using the Black Scholes  Model,  assuming a life
+              of three years, volatility of 550%, and a risk free borrowing rate
+              of 3.25% and will be charged to interest  expense over the life of
+              the debt  commencing in 2006. In connection  with this  financing,
+              the Company paid a cash private placement fee of $9,000.
+
+                                       11
+
+BIONUTRICS, INC.
+
+ITEM 2.       MANAGEMENT'S  DISCUSSION  AND ANALYSIS OF FINANCIAL  CONDITION AND
+              RESULTS OF OPERATIONS
+
+THE FOLLOWING  DISCUSSION OF THE  COMPANY'S  FINANCIAL  CONDITION AND RESULTS OF
+OPERATIONS  INCLUDES  CERTAIN  FORWARD-LOOKING  STATEMENTS.  WHEN  USED  IN THIS
+REPORT,  THE WORDS "EXPECTS,"  "INTENDS,"  "PLANS" AND "ANTICIPATES" AND SIMILAR
+TERMS ARE  INTENDED TO IDENTIFY  FORWARD-LOOKING  STATEMENTS  THAT RELATE TO THE
+COMPANY'S FUTURE  PERFORMANCE.  SUCH STATEMENTS INVOLVE RISKS AND UNCERTAINTIES.
+THE COMPANY'S  ACTUAL RESULTS MAY DIFFER  MATERIALLY FROM THE RESULTS  DISCUSSED
+HERE.  FACTORS THAT MIGHT CAUSE SUCH A DIFFERENCE  INCLUDE,  BUT ARE NOT LIMITED
+TO, THOSE DISCUSSED UNDER "RISK FACTORS" IN THE COMPANY'S FORM 10-K.
+
+OUR BUSINESS
+
+       Bionutrics,  Inc. is a pharmaceutical company focusing on the development
+of  oral   controlled-release   drug  formulations  utilizing  proprietary  drug
+formulations  and delivery  technologies.  The Company has licensed  proprietary
+oral-control  release  technology  with the  rights to develop  exclusively  and
+worldwide,  ten  generic  and ten  505(b)(2)  drugs  (improved  formulations  of
+previously  approved  drugs).  The Company intends to invest the majority of its
+resources in the development and  commercialization of these products during the
+next few years.
+
+GENERAL
+
+       The  Company  is a  development  stage  company  and  is  anticipating  a
+prolonged  period of losses  and  negative  cash  flows  while it  develops  and
+commences  commercialization  of its  planned  products.  The  Company's  future
+operating results will depend largely on its ability to achieve the following:
+
+       -  Debt and equity  financing  to support the  research  and  development
+          activities
+
+       -  Successful completion of the Kirk acquisition
+
+       -  Successful development and testing of product candidates
+
+       -  Receipt of required regulatory approvals related to product candidates
+
+       -  Commercialization of the Company's products
+
+       -  Gaining a competitive position in the market
+
+DEVELOPMENTS DURING THREE MONTHS ENDED JANUARY 31, 2006
+
+       In January 2006, the Company  announced that it has initiated the process
+for  its  first  controlled-release  generic  drug  candidate,   SNG1001a,  with
+chemical,  manufacturing  and control  ("CMC")  development.  Concurrently,  the
+Company will conduct pivotal biostudies to demonstrate  "bioequivalency"  as the
+Company moves this first product  towards  commercialization.  These efforts are
+intended to provide  confirmation of the  formulation and biostudies  previously
+undertaken in India.  Successful  completion of these efforts is  anticipated to
+result in the Company's first  Abbreviated New Drug Application  ("ANDA") filing
+with the
+
+                                       12
+
+FDA.  SNG1001a is a formulated  generic version of a branded drug in a treatment
+category with annualized US sales in excess of $1.4 billion  (Source:  IMS). The
+Company can provide no assurance that its clinical trials will prove  successful
+or that it will demonstrate  sufficient evidence to file an ANDA filing with the
+FDA.
+
+FOCUS FOR REMAINDER OF 2006
+
+       The  Company's  primary  focus  for  the  remainder  of  2006  will be to
+consummate the acquisition of Kirk  Pharmaceuticals and its affiliate ANDAPharm.
+The Company will also  continue its efforts to secure debt and equity  financing
+to support operations,  further its "bioequivalency"  study of SNG1001a, as well
+as to further its research and  development  program on other drug candidates in
+order to be in a position to realize the potential of its licensed technology.
+
+RESULTS OF OPERATIONS
+
+THREE MONTHS ENDED JANUARY 31, 2006 COMPARED WITH THREE MONTHS ENDED JANUARY 31,
+2005.
+
+       Consolidated  gross  revenues for the quarter  ended January 31, 2006 was
+$1,600 compared to $3,000 for the same quarter in 2005.
+
+       The Company has been  unprofitable  since  inception,  and  continues  to
+generate  limited  revenue  as  the  Company's  subsidiary,   Bionutrics  Health
+Products, sells through its remaining evolvE(R) inventory, a product which is no
+longer  being  marketed  or  developed  due to the  Company's  shift in business
+strategy from the discovery and  development  of  pharmaceutical  and functional
+nutrition   products  to  the  development  of  oral   controlled-release   drug
+formulations  utilizing proprietary drug formulation and delivery  technologies.
+The Company does not anticipate sales from evolvE(R) beyond this fiscal year.
+
+       The Company expects to continue to incur  operating  losses as it invests
+in product  development  and clinical trials  research.  The Company is pursuing
+potential  development  and  marketing  arrangements  with other  pharmaceutical
+companies  regarding its licensed products.  However,  there can be no assurance
+that the Company will be  successful  in these  efforts or that any  arrangement
+would generate sufficient revenue to fund operations.
+
+       Cost of revenues  for the three  months  ended  January 31, 2006 was $250
+compared to $500 for the same three months in 2005.
+
+       Research and development  expenses for the three months ended January 31,
+2006 was  $161,000  compared to $3,000 for the same three  months in 2005.  This
+increase is due to the remuneration of research and development costs associated
+with the Nostrum  licensed  technology  of $107,000,  as well as $54,000 in fees
+associated with the development of SNG1001a.
+
+       Operating  expenses  for the three  months  ended  January  31,  2006 was
+$747,000  compared to $305,000.  This  increase is due  primarily to $261,000 in
+additional salary expense for
+
+                                       13
+
+increased staffing needs, $127,000 in recruiting fees, and $56,000 in additional
+consulting  expense,  all of which are  necessary to  accomplish  the  Company's
+business objectives and increased business activities.
+
+       The Company's  loss in the results of operations  for it's  investment in
+joint  venture,  which is accounted for using the equity  method,  for the three
+months ended January 31, 2006, was $78,000. The Company records its share of the
+joint venture's loss for the quarter as a decrease in its investment.
+
+       The net loss of  $1,199,000  or $.05 per share for the three months ended
+January  31,  2006 was due  primarily  to the  Company's  inability  to generate
+sufficient cash flow to support operations.  The Company also expects cumulative
+losses to increase due to its research and development activities related to the
+License Agreement with Nostrum.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+       To date, the Company's  operations have not generated sufficient revenues
+to satisfy the Company's  operating  capital needs. The Company has financed its
+operations primarily through the sale of its common stock,  warrants and debt by
+means of  private  placements.  The  Company  had a working  capital  deficit of
+approximately  $3,892,000  at January 31, 2006 as compared  with  $3,913,000  at
+October 31, 2005. Cash and cash  equivalents  were $222,000 at January 31, 2006,
+as compared with $129,000 at October 31, 2005, an increase of $93,000.
+
+       Net cash used in operating activities during the three-month period ended
+January 31, 2006 was  $820,000.  This  resulted  from the  Company's net loss of
+$1,199,000,  offset in part by certain  non-cash items  attributable to expenses
+including,  but not limited to a reduction of its investment in InCon Processing
+of $78,000,  amortization  of bridge note  discount  of  $192,000,  depreciation
+expense of $9,000, and an increase in accounts payable of $128,000.  The Company
+has generally  incurred  negative cash flows from  operations  since  inception,
+which will continue due to research and  development  activities  related to the
+License Agreement with Nostrum.
+
+       Net cash used in  investing  activities  during  the three  months  ended
+January 31,  2006 was  $98,000.  This  resulted  from  capital  expenditures  of
+equipment of $13,000 and deferred fees associated  with the Kirk  acquisition of
+$85,000.
+
+       Net cash provided by financing  activities  during the three months ended
+January 31, 2006 was  $1,012,000,  which  resulted  from the proceeds of debt of
+$1,150,000,  less fees  associated  with the debt  issuance of $110,000  and the
+repayment of $28,000 in debt.
+
+       The  Company  did  not  enter  into  any  material  capital   expenditure
+agreements,  nor did it engage in any off  balance  sheet  financing  during the
+reporting period.
+
+The following  table depicts our  obligations  and commitments as of January 31,
+2006 to make future payments under existing contracts or contingent commitments.
+
+                                       14
+
+In  November  2005,  the  Company   completed  a  private   placement  of
+convertible notes and warrants (the "November Financing"). The gross proceeds of
+the November Financing totaled $450,000. Pursuant to the November Financing, the
+Company issued $450,000 of principal amount of 9% convertible  notes,  which are
+convertible  into an  aggregate of 150,000  shares of Company  common stock at a
+price of $3.00 per share, and warrants to purchase an aggregate of 74,999 shares
+of  Company  common  stock at $4.00 per share.  These  warrants  were  valued at
+$132,351  using  the  Black  Scholes  Model,  assuming  a life of  three  years,
+volatility of 550%, and a risk free borrowing rate of 3.375% and will be charged
+to interest  expense over the life of the debt commencing in 2005. In connection
+with this  financing,  the Company paid a cash private  placement fee of $40,500
+and incurred approximately $1,300 in indirect fees consisting of primarily legal
+expenses.  This will also be amortized and charged to interest  expense over the
+life of the debt.
+
+       In  December  2005,  the  Company   completed  a  private   placement  of
+convertible notes and warrants (the "December Financing"). The gross proceeds of
+the December Financing totaled $200,000. Pursuant to the December Financing, the
+Company issued $200,000 of principal amount of 9% convertible  notes,  which are
+convertible  into an  aggregate  of 66,666  shares of Company  common stock at a
+price of $3.00 per share, and warrants to purchase an aggregate of 33,333 shares
+of  Company  common  stock at $4.00 per share.  These  warrants  were  valued at
+$68,852  using  the  Black  Scholes  Model,  assuming  a life  of  three  years,
+volatility of 550%, and a risk free borrowing rate of 3.375% and will be charged
+to interest  expense over the life of the debt commencing in 2005. In connection
+with this financing,  the Company paid a cash private  placement fee of $18,000,
+which will also be  amortized  and charged to interest  expense over the life of
+the debt.
+
+       In January 2006, the Company completed a private placement of convertible
+notes and warrants (the "January Financing").  The gross proceeds of the January
+Financing  totaled  $500,000.  Pursuant  to the January  Financing,  the Company
+issued  $500,000  of  principal  amount  of  9%  convertible  notes,  which  are
+convertible  into an  aggregate of 166,666  shares of Company  common stock at a
+price of $3.00 per share, and warrants to purchase an aggregate of 83,332 shares
+of  Company  common  stock at $4.00 per share.  These  warrants  were  valued at
+$139,322  using  the  Black  Scholes  Model,  assuming  a life of  three  years,
+volatility of 550%,  and a risk free borrowing rate of 3.25% and will be charged
+to interest  expense over the life of the debt commencing in 2005. In connection
+with this financing,  the Company paid a cash private  placement fee of $45,000,
+and incurred  approximately  $29,000 in indirect  fees  consisting  primarily of
+legal expenses.
+
+                                       15
+
+In  February  2006,  the  Company   completed  a  private   placement  of
+convertible notes and warrants (the "February Financing"). The gross proceeds of
+the February Financing totaled $100,000. Pursuant to the February Financing, the
+Company issued $100,000 of principal amount of 9% convertible  notes,  which are
+convertible  into an  aggregate  of 33,333  shares of Company  common stock at a
+price of $3.00 per share, and warrants to purchase an aggregate of 16,666 shares
+of  Company  common  stock at $4.00 per share.  These  warrants  were  valued at
+$32,583  using  the  Black  Scholes  Model,  assuming  a life  of  three  years,
+volatility of 550%,  and a risk free borrowing rate of 3.25% and will be charged
+to interest  expense over the life of the debt commencing in 2006. In connection
+with this financing, the Company paid a cash private placement fee of $9,000.
+
+FUTURE CAPITAL REQUIREMENTS
+
+       All of the  Company's  product  candidates  are in the  early  stages  of
+research and development,  and will require  additional  research,  development,
+clinical  testing,   regulatory  approval,   and  a  commitment  of  significant
+additional resources prior to commercialization.  Based on its current operating
+plan,  the Company has  sufficient  capital  resources  to meet its  obligations
+through the second quarter of 2006. The Company requires  additional  funding in
+order to move forward with our research and  development  plan.  The Company has
+reasonable assumptions that additional debt or equity financing may be available
+under its Placement Agency  Agreement with Indigo Ventures,  LLC, however it can
+provide no assurance  that such funding will be obtained.  The Company's  future
+capital requirements will depend on many factors, including the following:
+
+       -  Continued  scientific  progress in its  research,  drug  discovery and
+          development plans
+
+       -  Size of its program and progress with clinical trials
+
+       -  Time and costs associated with regulatory approvals
+
+       -  Recruitment of key management
+
+REGULATORY APPROVAL
+
+       The Company must conduct  time-consuming  and costly  clinical  trials to
+show  safety and  efficacy in each of its  product  candidates  before a product
+candidate  may be  approved  for  distribution.  The  clinical  trials  must  be
+conducted in accordance with the FDA  regulations.  If the FDA believes that the
+Company has not  sufficiently  demonstrated  safety and  efficacy in its product
+candidates,  it will not  approve  them,  or will  require  additional  clinical
+studies,  which will require additional time and resources.  The Company may not
+be able to obtain the necessary  regulatory  approval on a timely  basis,  if at
+all, for any of its product  candidates.  Failure to receive these  approvals or
+delays in the approvals may prevent or delay commercialization of a product, and
+as a result,  could negatively impact the Company's ability to generate revenue.
+The Company can give no assurances  that any of its product  candidates  will be
+safe and effective, will be approved for  commercialization,  or that it will be
+successful in the commercialization of these products.
+
+                                       16
+
+ITEM 3.  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK.
+
+       The  Company  does  not  invest  in or  own  any  market  risk  sensitive
+instruments entered into for trading purposes or for purposes other than trading
+purposes.  All loans to the Company  have been made with fixed  interest  rates,
+and, accordingly,  the market risk to the Company prior to the maturity of those
+instruments is minimal.
+
+ITEM 4.  CONTROLS AND PROCEDURES.
+
+       The Company's  management is responsible for establishing and maintaining
+a system of disclosure controls and procedures (as defined in Rule 13a-15(e) and
+15d-15(e)  under the Exchange  Act) that is designed to ensure that  information
+required to be disclosed by the Company in the reports that the Company files or
+submits under the Exchange Act is recorded, processed,  summarized and reported,
+within  the  time  periods  specified  in  the  Commission's  rules  and  forms.
+Disclosure  controls and procedures include,  without  limitation,  controls and
+procedures  designed to ensure that  information  required to be disclosed by an
+issuer  in the  reports  that it files or  submits  under  the  Exchange  Act is
+accumulated and communicated to the issuer's management, including its principal
+executive officer or officers and principal  financial  officer or officers,  or
+persons performing  similar functions,  as appropriate to allow timely decisions
+regarding required disclosure.
+
+       In accordance  with  Exchange Act Rules 13a-15 and 15d-15,  an evaluation
+was completed under the supervision and with the  participation of the Company's
+management,  including  the Company's  President,  Chief  Financial  Officer and
+Secretary,  of the  effectiveness  of the design and  operation of the Company's
+disclosure  controls and  procedures as of the end of the period covered by this
+Annual Report. Based on that evaluation,  the Company's management including the
+President,  Chief Financial Officer and Secretary,  concluded that the Company's
+disclosure controls and procedures are effective to provide reasonable assurance
+that  information  required to be disclosed in the  Company's  reports  filed or
+submitted  under  the  Exchange  Act is  recorded,  processed,  summarized,  and
+reported within the time periods specified in the Commission's  rules and forms.
+There have been no  significant  changes to the Company's  internal  controls or
+other factors that could  significantly  affect internal controls  subsequent to
+the period covered by this Annual Report.
+
+PART II - OTHER INFORMATION
+
+ITEM 1.  LEGAL PROCEEDINGS.
+
+       The  Company  is not  party  to any  legal  proceedings  that  management
+believes would have a material adverse effect on the business of the Company.
+
+ITEM 1A. RISK FACTORS.
+
+       The Company has had no material changes to its risk factors as previously
+disclosed in its Form 10-K filed with the Securities and Exchange  Commission on
+January 30, 2006.
+
+                                       17
+
+ITEM 2.  UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS.
+
+       In November 2005, the Company completed the November Financing. The gross
+proceeds of the November  Financing totaled  $450,000.  Pursuant to the November
+Financing,  the Company  issued  $450,000 of principal  amount of 9% convertible
+notes,  which are  convertible  into an aggregate  of 150,000  shares of Company
+common  stock at a price  of $3.00  per  share,  and  warrants  to  purchase  an
+aggregate of 74,999  shares of Company  common  stock at $4.00 per share.  These
+warrants were valued at $132,351 using the Black Scholes Model,  assuming a life
+of three years, volatility of 550%, and a risk free borrowing rate of 3.375% and
+will be charged to  interest  expense  over the life of the debt  commencing  in
+2005.  In  connection  with this  financing,  the  Company  paid a cash  private
+placement  fee of $40,500 and  incurred  approximately  $1,300 in indirect  fees
+consisting of primarily legal expenses.  This will also be amortized and charged
+to  interest  expense  over the life of the debt.  The  November  Financing  was
+conducted in  accordance  with Section 4(2) of the  Securities  Act of 1933,  as
+amended,  (the  "Securities  Act")  and  Rule  506 of  Regulation  D  under  the
+Securities Act.
+
+       In December 2005, the Company completed the December Financing. The gross
+proceeds of the December  Financing totaled  $200,000.  Pursuant to the December
+Financing,  the Company  issued  $200,000 of principal  amount of 9% convertible
+notes,  which are  convertible  into an  aggregate  of 66,666  shares of Company
+common  stock at a price  of $3.00  per  share,  and  warrants  to  purchase  an
+aggregate of 33,333  shares of Company  common  stock at $4.00 per share.  These
+warrants were valued at $68,852 using the Black Scholes  Model,  assuming a life
+of three years, volatility of 550%, and a risk free borrowing rate of 3.375% and
+will be charged to  interest  expense  over the life of the debt  commencing  in
+2005.  In  connection  with this  financing,  the  Company  paid a cash  private
+placement  fee of $18,000,  which will also be amortized and charged to interest
+expense  over the life of the debt.  The  December  Financing  was  conducted in
+accordance  with Section 4(2) of the Securities Act and Rule 506 of Regulation D
+under the Securities Act.
+
+       In January 2006, the Company completed the January  Financing.  The gross
+proceeds  of the January  Financing  totaled  $500,000.  Pursuant to the January
+Financing,  the Company  issued  $500,000 of principal  amount of 9% convertible
+notes,  which are  convertible  into an aggregate  of 166,666  shares of Company
+common  stock at a price  of $3.00  per  share,  and  warrants  to  purchase  an
+aggregate of 83,332  shares of Company  common  stock at $4.00 per share.  These
+warrants were valued at $139,322 using the Black Scholes Model,  assuming a life
+of three years,  volatility of 550%, and a risk free borrowing rate of 3.25% and
+will be charged to  interest  expense  over the life of the debt  commencing  in
+2005.  In  connection  with this  financing,  the  Company  paid a cash  private
+placement fee of $45,000,  and incurred  approximately  $29,000 in indirect fees
+consisting  primarily of legal expenses.  The January Financing was conducted in
+accordance  with Section 4(2) of the Securities Act and Rule 506 of Regulation D
+under the Securities Act.
+
+       In February 2006, the Company completed the February Financing. The gross
+proceeds of the February  Financing totaled  $100,000.  Pursuant to the February
+Financing,  the Company  issued  $100,000 of principal  amount of 9% convertible
+notes,  which are  convertible  into an  aggregate  of 33,333  shares of Company
+common stock at a price of $3.00 per share, and
+
+                                       18
+
+warrants to purchase an  aggregate of 16,666  shares of Company  common stock at
+$4.00 per share.  These  warrants were valued at $32,583 using the Black Scholes
+Model,  assuming  a life of three  years,  volatility  of 550%,  and a risk free
+borrowing rate of 3.25% and will be charged to interest expense over the life of
+the debt commencing in 2006. In connection with this financing, the Company paid
+a cash private placement fee of $9,000.  The February Financing was conducted in
+accordance  with Section 4(2) of the Securities Act and Rule 506 of Regulation D
+under the Securities Act.
+
+       The proceeds from the Placement Agency Agreement with Indigo were used to
+fund operations,  maintain  compliance with the periodic filing  requirements of
+the  Securities  and Exchange  Commission,  as well as to further the  Company's
+acquisition of Kirk Pharmaceuticals, LLC and its affiliate ANDAPharm, LLC.
+
+       All  purchasers  represented  that they acquired the securities for their
+own  accounts.  A legend was placed on the stock  certificates  stating that the
+securities have not been registered  under the Securities Act and cannot be sold
+or  otherwise  transferred  without an  effective  registration  or an exemption
+therefrom.  All  purchasers of the Company's  securities  are either  accredited
+investors or employees of the Company.
+
+ITEM 3.  DEFAULTS UPON SENIOR SECURITIES.
+
+       None.
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS.
+
+       None.
+
+ITEM 5.  OTHER INFORMATION.
+
+       InCon Technologies,  Inc., a wholly-owned  subsidiary of the Company, and
+Asia Pacific Investment Holdings Limited (collectively,  the "Sellers"), entered
+into a Purchase and Sale Agreement,  dated as of October 31, 2005 (the "Purchase
+Agreement"), pursuant to which the Sellers agreed to sell their respective fifty
+percent (50%) ownership interests in InCon Processing,  LLC ("InCon"),  to InCon
+International,  Inc.  in  exchange  for  all of the  membership  units  of  Bali
+Holdings,  LLC ("Bali")  which are owned by N.P.  Shaikh  ("Shaikh") and John R.
+Palmer  ("Palmer").  The sale was made  upon the  Company's  determination  that
+InCon's  operations,  which includes high vacuum  distillation,  production toll
+work and process development, would no longer comprise a material element in the
+Company's business strategy.
+
+       Pursuant to the  Purchase  Agreement,  the Sellers have agreed to provide
+consulting  services to InCon for a term of three (3) years in consideration for
+an  annual  consulting  fee in the  amount of the  lesser  of:  (a) One  Hundred
+Thousand  Dollars  ($100,000.00)  and (b)  twenty-five  percent (25%) of InCon's
+annual earnings before interest,  taxes,  depreciation and amortization over the
+five (5) years  beginning  on October  31,  2005  ("Consulting  Fee");  provided
+however,  that the total  payments  to each of the  Sellers  in  respect  of the
+Consulting Fee shall not exceed Three Hundred  Thousand  Dollars  ($300,000.00).
+The Consulting Fee is subject to certain acceleration  provisions as provided in
+the Purchase Agreement.
+
+                                       19
+
+As a condition to the Closing of the sale of InCon membership  interests,
+InCon is obligated to complete the development of certain tocotrienol processing
+technology  (the  "Technology")  and to convey  the sole  right,  ownership  and
+interest  in the  Technology  to the  Sellers  who  shall  thereafter  have  the
+exclusive  right  to  patent,  license  or  sell  the  Technology  in  its  sole
+discretion. While management believes that InCon will deliver the technology, no
+assurance  can be given that the  technology  will be  received or that the sale
+will be consummated.
+
+ITEM 6.  EXHIBITS.
+
+       (a)    Exhibits
+
+              10.1.  Form of  Purchase  and  Sale  Agreement  by and  among  the
+                     Company,  Asia Pacific Investment  Holdings Limited,  InCon
+                     Technologies,  Inc., Bali Holdings,  LLC, InCon Processing,
+                     LLC, InCon  International,  Inc.,  N.P.  Shaikh and John R.
+                     Palmer, dated as of October 31, 2005.
+
+              10.2   Form of Consent of Noteholders of Bionutrics, Inc.
+
+              31.1   Certification of Chief Executive  Officer pursuant to Rules
+                     13a-14(a) and 15d-14(a) of the Securities Exchange Act
+
+              31.2   Certification of Chief Financial  Officer pursuant to Rules
+                     13a-14(a) and 15d-14(a) of the Securities Exchange Act
+
+              32.1   Certification  of Chief  Executive  Officer  pursuant to 18
+                     U.S.C.  Section 1350, as adopted pursuant to Section 906 of
+                     the Sarbanes-Oxley Act of 2002
+
+              32.2   Certification  of Chief  Financial  Officer  pursuant to 18
+                     U.S.C.  Section 1350, as adopted pursuant to Section 906 of
+                     the Sarbanes-Oxley Act of 2002
+
+       (b)    Reports on Form 8-K
+
+              (1)    Form 8-K filed on March 7,  2006  regarding  the  Company's
+                     intent to change its name to Synovics Pharmaceuticals, Inc.
+
+              (2)    Form  8-K  filed  on  January   19,  2006   regarding   the
+                     commencement of Chemical, Manufacturing, and Control of the
+                     Company's first controlled-release generic drug candidate.
+
+              (3)    Form 8-K filed on  November 7, 2005  regarding  the Company
+                     receiving a commitment  from BHC Interim  Funding to invest
+                     $10.0   Million   to   fund   the   Acquisition   of   Kirk
+                     Pharmaceuticals.
+
+                                       20
+
+BIONUTRICS, INC.
+
+                                    SIGNATURE
+
+       Pursuant to the requirements of the Securities  Exchange Act of 1934, the
+registrant  has duly  caused  this  report  to be  signed  on its  behalf by the
+undersigned thereunto duly authorized.
+
+BIONUTRICS, INC.
+                                        (Registrant)
+
+Date:  March 16, 2006                   By: /s/ Ronald H. Lane
+                                            --------------------------------
+                                            Ronald H. Lane
+                                            (President, Chief Executive Officer,
+                                            Principal Accounting Officer and
+                                            Chairman of the Board)
+
+21
+
+<EX-10.1>
+ 2
+ c41484_ex10-1.txt
+
+EXHIBIT 10.1
+
+                           PURCHASE AND SALE AGREEMENT
+
+       THIS PURCHASE AND SALE AGREEMENT  ("Agreement")  is made and entered into
+effective the 31st day of October,  2005,  (the  "Effective  Date") by and among
+ASIA PACIFIC INVESTMENT HOLDINGS,  LTD., a British Virgin Islands company ("Asia
+Pacific"), INCON TECHNOLOGIES,  INC., a Delaware corporation ("InCon"), a wholly
+owned subsidiary of BIONUTRICS, INC., a Nevada corporation ("Bionutrics"),  BALI
+HOLDINGS, LLC, a Delaware limited liability company ("Bali"),  INCON PROCESSING,
+L.L.C., a Delaware limited liability company  ("Company"),  INCON INTERNATIONAL,
+INC. an Illinois corporation ("Purchaser"),  N. P. SHAIKH ("Shaikh") and JOHN R.
+PALMER ("Palmer"). InCon and Asia Pacific are collectively referred to herein as
+"Sellers".  Purchaser  and  Sellers are herein  collectively  referred to as the
+"Parties" and individually as a "Party".
+
+                                    RECITALS
+
+       A.     Sellers each own fifty  percent (50%) of the  membership  units in
+the Company (the "Membership Interests").
+
+       B.     Sellers  are  parties to the Members  Agreement  for the  Company,
+InCon  Technologies,  Inc., and AC Humko Corp.  ("AC Humko") dated June 25, 1999
+and the Master Formation  Agreement for the Company by and among AC Humko Corp.,
+InCon,  Bionutrics,  and certain  other parties dated May 1999, as may have been
+amended from time to time ("Master  Agreement").  AC Humko's Membership Interest
+was previously  purchased by Asia Pacific and InCon is a wholly owned subsidiary
+of Bionutrics.
+
+       C.     Shaikh and  Palmer  each own  membership  units in Bali (the "Bali
+Interest") and are both employees of the Company.
+
+       D.     Subject  to the terms and  conditions  set forth  herein,  Sellers
+desire to sell and Purchaser desires to purchase the Membership Interests.
+
+                                    AGREEMENT
+
+       In consideration of the promises and of the mutual agreements, provisions
+and covenants herein contained,  and the mutual benefits to be derived therefrom
+and other good and valuable consideration,  the receipt and sufficiency of which
+are hereby acknowledged, the Parties do hereby covenant and agree as follows:
+
+                                   ARTICLE I.
+                    PURCHASE AND SALE OF MEMBERSHIP INTERESTS
+
+       1.1.   PURCHASE OF  MEMBERSHIP  INTERESTS.  Based upon and subject to the
+terms, agreements, warranties, representations and conditions of this Agreement,
+Sellers hereby agree to sell,  convey,  transfer,  and assign to Purchaser,  and
+Purchaser agrees to purchase, accept the conveyance,  transfer and assignment of
+the  Membership  Interests,  free  and  clear of all  liabilities,
+
+obligations,  security interests,  liens and encumbrances in accordance with the
+terms of this Agreement.
+
+       1.2.   PURCHASE OF BALI INTEREST. Shaikh and Palmer,  respectively,  each
+hereby  agrees that he will  convey,  transfer  and assign to Sellers all of the
+Bali  Interest,  free  and  clear  of any  and all  claims,  causes  of  action,
+liabilities,  obligations,  interests, liens and encumbrances, and the Purchaser
+undertakes  to ensure that this  transaction  is  accomplished  as provided  for
+herein.
+
+                                  ARTICLE II.
+                              CONSULTING AGREEMENT
+
+       2.1.   CONSULTING AGREEMENT. Sellers agree to provide Consulting Services
+(as defined below) to the Company for a term of three (3) years from the date of
+this  Agreement..  "Consulting  Services"  shall mean and include  ongoing sales
+work,  identifying  customers  who could  utilize  the  Company's  products  and
+services,  and  assisting  in  securing  a  "facility  contract"  (as more fully
+described  in Section  3.3(b)  below).  In the event that the Sellers  procure a
+facility  contract,  then payment of the Consulting Fee shall be accelerated (as
+described in Section 2.3 below).
+
+       2.2.   CONSULTING  FEE.  As  consideration  for the  Consulting  Services
+agreed to be  rendered by Sellers to the Company  pursuant  hereto,  the Company
+shall pay a  consulting  fee to each of the Sellers as described in this Section
+2.2. The Company shall pay each of the Sellers annually commencing with the year
+ending  August 31,  2006,  the lesser  of: (a) the sum of One  Hundred  Thousand
+Dollars ($100,000.00);  or (b) twenty-five percent (25%) of the Company's annual
+EBITDA over the next five (5) years from the Effective Date ("Consulting  Fee");
+provided  however,  that the total amount of all payments to each of the Sellers
+not exceed Three  Hundred  Thousand  Dollars  ($300,000.00),  which total amount
+shall be referred to herein as the Consulting Cap  ("Consulting  Cap").  Each of
+the  Sellers  shall not be  entitled  to any other  payment  for the  Consulting
+Services.  For purposes of clarity,  the total of all Consulting Fee payments to
+each of the Sellers shall not exceed the Consulting  Cap, and the maximum amount
+that is to be  paid  to each of the  Sellers  shall  not  exceed  Three  Hundred
+Thousand  Dollars  ($300,000.00),  a total to  Sellers of Six  Hundred  Thousand
+Dollars  ($600,000.00).  The  Company  shall  provide  an  internally  generated
+financial  statement for each year end commencing August 31, 2006. Payment shall
+be due and payable on or before September 30 of each year.
+
+       2.3.   ACCELERATION OF PAYMENT. In the event that a Facility Contract (as
+defined in Section  3.3(b) below) is awarded to the Company prior to the payment
+to the Sellers of the  Consulting  Cap then the payments  required under Section
+2.2 above shall be accelerated.  The Company shall pay to each Seller the lesser
+of (i) twenty five percent  (25%) of the net profits  collected  from the client
+pursuant to the Facility Contract; or (ii) the balance of the Consulting Cap.
+
+       2.4.   AUDIT.  Upon advanced prior written notice,  Seller shall have the
+right to audit the financial  records of the Company  within ninety (90) days of
+being  provided an annual  statement  reflecting  the profit and/or loss for the
+preceding  year  which  was  used  for the  calculation  of the  payment  of the
+Consulting  Fee.  The audit shall take place at the offices of the Company or in
+the
+
+                                        2
+
+Sellers'  sole  discretion,  at the  offices  of the  Company's  outside  public
+accountant, in either case, during reasonable business hours.
+
+                                  ARTICLE III.
+                                     CLOSING
+
+       3.1.   LOCATION AND TIME.  The closing of the  transactions  contemplated
+hereby  ("Closing") shall take place on the ____ day of November,  2005, or such
+later date as is mutually agreed to by the Parties in writing  ("Closing  Date")
+at 10:00 a.m. The Closing shall be at the offices of  Purchaser's  counsel or at
+such other place as the Parties hereto shall agree in writing.  The Parties need
+not be present at the  Closing  location.  The Closing  may be  continued  for a
+period  of up to  thirty  (30)  days  to  allow  the  Company  to  complete  the
+development of the Technology, as described in Section 3.3 below.
+
+       3.2.   DELIVERIES.  At the  Closing  and as a  condition  to Closing  the
+Purchaser,  the Sellers, and the Company as the case may be, hereby agree to the
+following Deliveries.
+
+              (a)    SELLERS'  AND/OR  COMPANY'S  DELIVERIES.  Sellers  and  the
+       Company,  as  the  case  may  be,  shall  deliver  the  following  to the
+       Purchaser:
+
+                     (i)    the  Assignment  of Membership  Interests  (free and
+              clear of all pledges,  liens,  transfer and stamp tax obligations,
+              encumbrances, claims and other charges thereon of every kind);
+
+                     (ii)   the written  resignations  of any acting  manager or
+              officer of the Company as the Purchaser shall direct (the "Written
+              Resignations");
+
+                     (iii)  duly  executed  waiver and consent of the  transfers
+              from the Sellers waiving any  preferential  rights as provided for
+              in Section 11.3 of the Company's Member Agreement;
+
+                     (iv)   except  for the  obligations  set forth in  Schedule
+              3.2(iv),  evidence of cancellation of any liability payable by the
+              Company to the Sellers as Members or employees of the Company;
+
+                     (v)    copies of any and all  company  books,  records  and
+              other  property,  including  but not  limited  to the name  "InCon
+              Processing, L.L.C.";
+
+                     (vi)   certified copy of resolutions adopted by each Seller
+              prior  to the date of this  Agreement,  authorizing  the  transfer
+              contemplated  hereby and the  execution  of any and all  documents
+              required in connection herewith; and
+
+                     (vii)  such other documents, instruments,  certificates and
+              agreements  as may be  reasonably  required  by the  Purchaser  in
+              connection with the consummation of the transactions  contemplated
+              hereby.
+
+                                        3
+
+(b)    PURCHASER'S  AND/OR PALMER'S AND SHAIKH'S  DELIVERIES.  The
+       Purchaser  and/or  Palmer and Shaikh shall  deliver the  following to the
+       Sellers:
+
+                     (i)    the  Assignment  of Bali  Interest  from  Palmer and
+              Shaikh  to the  Sellers  in equal  shares  (free  and clear of all
+              pledges, liens, transfer and stamp tax obligations,  encumbrances,
+              claims and other charges thereon of every kind);
+
+                     (ii)   any and  all  documents,  instruments,  information,
+              applications,   methods,  technical  information  related  to  the
+              development of the Technology;
+
+                     (iii)  certified  copy  of   resolutions   adopted  by  the
+              Purchaser  prior to the  date of this  Agreement  authorizing  the
+              transactions  contemplated hereby and the execution of any and all
+              documents required in connection herewith; and
+
+                     (iv)   such other documents, instruments,  certificates and
+              agreements  as may be  reasonably  required  by the Company or the
+              Sellers in connection with the  consummation  of the  transactions
+              contemplated hereby.
+
+       3.3.   TECHNOLOGY.
+
+              (a)    DEVELOPMENT OF TECHNOLOGY.  As a condition to Closing,  the
+       Company  shall  complete  the  development  of a  tocotrienol  processing
+       technology for use with palm oil distillate and similar fatty acid stream
+       derived from rice bran oil  deodorization  or other biological fatty acid
+       source (collectively  "Feed"), that includes a pre-concentration  method,
+       and any and all intellectual  property  relating thereto  ("Technology").
+       The Company  shall develop the  Technology  in sufficient  detail for the
+       Sellers to file a patent  application and to allow the Sellers reasonably
+       to communicate cost,  operation,  and method of the Technology to a third
+       party.  Upon transfer of the  Technology to the Sellers,  the  Technology
+       shall be the  exclusive  property  of the  Sellers to use freely in their
+       respective sole discretion,  without further  compensation to the Company
+       or Purchaser. The Parties acknowledge that each has a desire to cooperate
+       after the Closing and the transfer of the Technology to design, fabricate
+       and  install  an  operating  system  based  on  the  Technology  for  the
+       processing of Feed.
+
+              (b)    DISTRIBUTION AND TRANSFER OF TECHNOLOGY. The development of
+       the Technology  shall be completed  before the transfer of the Membership
+       Interests  to the  Purchaser  at or prior to Closing,  the Company  shall
+       distribute  the  Technology  to the Sellers,  jointly.  Palmer and Shaikh
+       shall  take all  reasonable  steps to help  facilitate  the  preparation,
+       filing, and prosecution of a patent  application.  All costs and expenses
+       related to the  preparation of or  prosecution of the patent  application
+       shall be borne by the  Sellers.  The  Sellers  shall have the sole right,
+       ownership,  and interest in the  Technology  and its patent to license or
+       sell the  Technology in its sole  discretion.  As part of the  Consulting
+       Services,  the Sellers shall undertake to obtain a facility  contract for
+       the  Buyer  for  the  manufacturing  of the  Technology,  and if so,  the
+       Consulting  Fee shall be  accelerated  in the manner  described  above in
+       Section 2.3. "Facility Contract" shall mean the design and development of
+       a facility with adequate equipment to manufacture,  produce,  and utilize
+       the Technology. Each of the Sellers, respectively, shall, however,
+
+                                        4
+
+retain in its sole  discretion  the right to contract  with a third party
+       supplier for a Facility  Contract and in such an event neither  Purchaser
+       nor the Company  would  receive  any  consideration  from that  contract.
+
+                                   ARTICLE IV.
+              REPRESENTATIONS AND WARRANTIES OF SELLERS AND COMPANY
+
+       In order to induce the  Purchaser to purchase the  Membership  Interests,
+Sellers  jointly and  severally  represent,  warrant and agree that  Section 4.1
+through and including Section 4.5 are true and correct as of the date hereof and
+will remain  true and  correct  through and  including  the Closing  Date.
+
+       4.1.   ORGANIZATION, GOOD STANDING, AUTHORITY.
+
+              (a)    The Company is a limited  liability company duly organized,
+       validly  existing  and in good  standing  under  the laws of the State of
+       Delaware;
+
+              (b)    each Seller has the power and  authority to enter into,  to
+       perform the obligations by the Seller, and to consummate the transactions
+       and other acts contemplated by this Agreement.
+
+              (c)    This Agreement constitutes the valid and binding obligation
+       of the Sellers enforceable in accordance with its terms; and
+
+              (d)    the  execution  and the  delivery  of this  Agreement,  the
+       consummation of the transactions  contemplated by this Agreement, and the
+       compliance  with or  fulfillment  of the  terms  and  provisions  of this
+       Agreement  will not (i) violate or conflict with any of the provisions of
+       the  Company's  Articles  of  Organization  or  Members  Agreement;  (ii)
+       conflict with,  result in a breach of terms and conditions of, accelerate
+       any  provision  of, or  constitute  any  default  under  any rule,  trust
+       (constructive or otherwise), contract or agreement to which the Seller or
+       Company are now or may become a party, or is bound, or any order, rule or
+       regulation of any court or governmental authority or agency applicable to
+       any of them;  (iii)  violate,  conflict with or constitute a breach of or
+       default  under the  provisions of any  governmental  permit or license or
+       other such  instrument  to which either of the Seller or the Company is a
+       party or by which  Sellers or the Company is bound;  or (iv)  require any
+       affirmative approval, consent, authorization or other order, or action of
+       any court, governmental authority, regulatory body or third party, except
+       as specifically contemplated by this Agreement.
+
+       4.2.   TAX MATTERS.  Sellers and the Company agree not to file an amended
+federal,  foreign, state, county, local and other tax returns for any year prior
+to the Closing.  The Sellers and the Company  have filed all  federal,  foreign,
+state,  county,  local and other tax returns  and reports  required by law to be
+filed prior to the date of this Agreement and all taxes,  assessments,  fees and
+other  governmental  charges and any related  penalties  and interest  have been
+paid.
+
+       4.3.   TITLE,  PRIOR  COMMITMENTS,   LIENS,   SECURITY   INTERESTS.   The
+Membership Interests consist of all of the units of the Company which are issued
+and  outstanding.  There  are
+
+5
+
+no rights held by any person to acquire  any  Membership  Interests  or economic
+interest  from or in the Company,  whether in the form of  warrants,  options to
+purchase  convertible  securities  or any other rights to acquire an interest in
+the Company.  All of the  outstanding  Membership  Interests of the Company have
+been duly authorized and are validly issued, fully paid and nonassessable.  None
+of the  outstanding  Membership  Interests  of the  Company  have been issued in
+violation of any preemptive right. The Sellers own the Membership Interests free
+and clear of all liens,  claims or  encumbrances  of every nature and kind.  The
+Membership  Interests  are not  subject  to any voting  trust,  proxy or similar
+agreement with respect to the voting of the Company.  Each Seller represents and
+warrants that it does not  currently  have a security  interest,  lien, or other
+encumbrance on the Membership Interests to secure the payment of a loan to it.
+
+       4.4.   BROKER'S  FEE.  The  Sellers  are not  parties  to,  or in any way
+obligated under, any contract or other arrangement  providing for the payment of
+fees and expenses to any broker or finder in  connection  with the  origination,
+negotiation,  execution or  consummation  of  transactions  contemplated in this
+Agreement  and agree to hold  Purchasers,  Shaikh and Palmer  harmless  from and
+against any broker  claiming by or through  them who makes a claim in respect of
+these transactions.
+
+       4.5.   DISCLOSURE.  No  representation or warranty by the Sellers in this
+Agreement,  or in connection with the transactions  contemplated hereby, contain
+or will contain any untrue statement of a material fact or omits or will omit to
+state a material fact  necessary to make the  statements  contained  therein not
+misleading.
+
+                                   ARTICLE V.
+                        REPRESENTATIONS AND WARRANTIES OF
+                          PURCHASER, SHAIKH, AND PALMER
+
+       In order to induce the  Sellers  to sell the  Membership  Interests,  the
+Purchaser and/or Shaikh and Palmer represent, warrant and agree that Section 5.1
+through  and  including  Section 5.6 are true and correct on the date hereof and
+will remain true and correct through and including the Closing Date:
+
+       5.1.   ORGANIZATION  AND  STANDING  OF  PURCHASER.  The  Purchaser  is  a
+corporation,  duly  organized,  validly  existing and in good standing under the
+laws of the State of Illinois, and has corporate power and authority to carry on
+its business as it is now being conducted.
+
+       5.2.   AUTHORITY.   Purchaser,   Shaikh,  and  Palmer,  and  the  persons
+executing this Agreement on behalf of the Purchaser have the power and authority
+to execute this Agreement and consummate the transactions  contemplated  hereby,
+all necessary  action having been properly  taken to establish  such  authority.
+This Agreement  constitutes  the valid and binding  obligation of the Purchaser,
+Shaikh and Palmer, and is enforceable in accordance with its terms.
+
+       5.3.   NO  BREACH  OF  OTHER  AGREEMENTS.  The  execution,  delivery  and
+consummation of this Agreement will not (a) conflict with, result in a breach of
+terms and conditions of,  accelerate any provision of, or constitute any default
+under any rule,  trust  (constructive  or  otherwise),  contract or agreement to
+which the Purchaser,  Shaikh, or Palmer is now a party or is bound or any order,
+rule or regulation of any court or governmental  authority or agency  applicable
+to the
+
+                                       6
+
+Purchaser, Shaikh, or Palmer, respectively,  or (b) violate or conflict with any
+of the provisions of the Purchaser' s Articles of Incorporation or Bylaws.
+
+       5.4.   TITLE; PRIOR  COMMITMENTS;  LIENS;  SECURITY INTEREST.  Palmer and
+Shaikh own the Bali Interest free and clear of all liens, claims or encumbrances
+of every nature and kind.
+
+       5.5.   BROKER'S FEE. The  Purchaser,  Shaikh,  and Palmer are not parties
+to, or in any way  obligated  under,  any contract  providing for the payment of
+fees and  expenses  to any  broker  or  finder in  connection  with the  origin,
+negotiation,  execution  or  consummation  of this  Agreement  and agree to hold
+Sellers  harmless  from and against any broker  claiming by or through  them who
+makes a claim in respect of these transactions.
+
+       5.6.   DISCLOSURE.  No  representation  or  warranty  by  the  Purchaser,
+Shaikh,  and Palmer in this Agreement,  or in connection  with the  transactions
+contemplated hereby, contains or will contain any untrue statement of a material
+fact or  omits or will  omit to  state a  material  fact  necessary  to make the
+statements contained therein not misleading.
+
+                                  ARTICLE VI.
+                                 INDEMNIFICATION
+
+       6.1.   INDEMNITY BY SELLERS.  The Sellers make and agree to the following
+indemnifications to Purchaser:
+
+       the  Sellers  agree to pay,  and shall  protect,  indemnify  and hold the
+       Purchaser, its members, managers, officers, partners,  employees, agents,
+       representatives,  successors  and assigns,  harmless from and against any
+       and all causes of action, suits,  penalties,  losses, damages, claims and
+       expenses of any nature whatsoever  (including  reasonable attorneys' fees
+       and expenses and costs incurred in  settlement)  which may be imposed on,
+       incurred by, or asserted or  threatened  against the  Purchaser by reason
+       of,  in any way  relating  to or  arising  out of the  inaccuracy  of, or
+       omission from, any representation or warranty,  any  misrepresentation or
+       breach of any representation or warranty, or the breach or nonperformance
+       of any covenants made by the Sellers  (including any schedule or exhibit)
+       or in any agreement,  instrument or document of the Sellers  delivered on
+       the Closing Date in connection with the Agreement; and
+
+              (a)    Purchaser  shall notify Sellers  promptly in writing of any
+       claims for  indemnification,  but the failure so to notify  Sellers shall
+       not impair the Purchaser's right to indemnification hereunder,  except to
+       the extent the Sellers are prejudiced by such failure.
+
+       6.2.   INDEMNITY  BY  PURCHASER.  The  Purchaser  makes and agrees to the
+following indemnifications to Seller:
+
+              (a)    the Purchaser  agrees to pay, and shall protect,  indemnify
+       and hold the  Sellers  harmless  from and  against  any and all causes of
+       action, suits,  penalties,  losses,  damages,  claims and expenses of any
+       nature whatsoever  (including reasonable attorneys' fees and expenses and
+       costs  incurred in settlement)  which may be imposed on,  incurred
+
+                                       7
+
+by, or  asserted or  threatened  against the Sellers by reason of, in any
+       way relating to or arising out of the  inaccuracy  of, or omission  from,
+       any representation or warranty,  any  misrepresentation  or breach of any
+       representation  or  warranty,  or the  breach  or  nonperformance  of any
+       covenants  made  by the  Purchaser  herein  (including  any  schedule  or
+       exhibit) or in any  agreement,  instrument  or document of the  Purchaser
+       attached  as an  exhibit  hereto  or  delivered  at the  Closing  Date in
+       connection with the Agreement;
+
+              (b)    the Purchaser is acquiring the Company and its assets on an
+       "as is-where is" basis; and
+
+              (c)    Sellers shall promptly  notify  Purchaser in writing of any
+       claims for indemnification,  but the failure so to notify Purchaser shall
+       not  impair  Sellers'  right  to  indemnification  except  to the  extent
+       Purchaser is prejudiced by such failure.
+
+       6.3.   CONDITIONS  PRECEDENT TO CLOSING BY PURCHASER.  The obligations of
+the  Purchaser  under this  Agreement  are  subject to the  satisfaction  of the
+following  conditions  on or before the  Closing  Date,  any one of which may be
+waived by the Purchaser; provided, however, that such waiver may only be made by
+a writing signed by the Purchaser:
+
+              (a)    the  representations  and  warranties  of the Sellers shall
+       remain true,  correct and complete;
+
+              (b)    the  Sellers   shall  have   performed   and  observed  all
+       covenants,  agreements and conditions  hereof to be performed or observed
+       by them prior to the Closing Date;
+
+              (c)    the Sellers shall have delivered all documents  required by
+       Section 3.2(a); and
+
+              (d)    no court  order  shall have been  entered or applied for or
+       any action or  proceeding  instituted  by any third party who seeks to or
+       does enjoin,  restrain or prohibit this Agreement or the  consummation of
+       the  transactions  contemplated  by this Agreement or recover  damages in
+       connection therewith.
+
+       6.4.   CONDITIONS   PRECEDENT  TO  THE   OBLIGATIONS   OF  SELLERS.   The
+obligations of the Sellers under this Agreement are subject to the  satisfaction
+of the following  conditions on or before the Closing Date, any one of which may
+be waived by the Sellers;  provided,  however, that such waiver may only be made
+by a writing signed by the Sellers:
+
+              (a)    the representations and warranties of the Purchaser, Shaikh
+       and Palmer shall remain true, correct and complete;
+
+              (b)    the  Purchaser,  Shaikh and Palmer shall have performed and
+       observed all covenants,  agreements and conditions hereof to be performed
+       or observed by Purchaser, Shaikh and Palmer prior to the Closing Date;
+
+              (c)    the  Purchaser,  Shaikh and Palmer shall have delivered all
+       documents required by Section 3.2(b);
+
+                                       8
+
+(d)    the  Company  shall  have   developed  the  Technology  and
+       transferred, assigned and set over the Technology from the Company to the
+       Sellers in accordance with Section 3.3; and
+
+              (e)    no court  order  shall have been  entered or applied for or
+       any action or  proceeding  instituted  by any third party who seeks to or
+       does enjoin,  restrain or prohibit this Agreement or the  consummation of
+       the  transactions  contemplated  by this  Agreement  or  seeks to or does
+       recover damages in connection therewith.
+
+       6.5.   MAIL.  All mail  addressed  to the  Sellers  which is  received by
+Purchaser following the Closing Date shall be opened by Purchaser and, if in the
+Purchaser's  reasonable discretion the mail pertains to the Sellers' affairs and
+not to  Purchaser's  affairs,  that mail shall be forwarded  immediately  to the
+Sellers.
+
+                                  ARTICLE VII.
+                                    RELEASES
+
+       7.1.   RELEASES.
+
+              Except for claims  alleging  breach of this  Agreement the parties
+agree to the conditions set for in this Section 7.1 ("Release"):
+
+              (a)    Sellers,   on   behalf   of   themselves,   their   parent,
+       subsidiaries,  directors,  officers, employees, agents,  representatives,
+       successors  and  assigns,   hereby  release  and  forever  discharge  the
+       Purchaser, its officers, directors,  employees, agents,  representatives,
+       successors and assigns, and the Company, its members, managers, officers,
+       employees, agents, representatives (the Release Purchaser Parties"), from
+       and  against any and all claims,  demands,  actions,  causes of action or
+       suits, at law or in equity, of whatever kind or nature, known or unknown,
+       which Sellers had or may have, now or in the future, against the Released
+       Purchaser  Parties  relating to the Membership  Interests or the Company,
+       including  claims  for  fees,  loan  repayments,   trade  receivables  or
+       reimbursement of costs and expenses,  the Company's  business,  or any of
+       the Terminated Agreements (defined below);
+
+              (b)    Sellers, their respective directors,  officers,  employees,
+       agents,  representatives,  successors  and assigns,  and Ronald Lane, and
+       Nalin Rathod hereby release and forever  discharge Shaikh and Palmer from
+       and  against any and all claims,  demands,  actions,  causes of action or
+       suits, at law or in equity, of whatever kind or nature, known or unknown,
+       which   Sellers,   its   directors,    officers,    employees,    agents,
+       representatives,  successors  and  assigns,  and Ronald  Lane,  and Nalin
+       Rathod had or may have,  now or in the future,  against Palmer or Shaikh,
+       including, without limitation, claims under the Terminated Agreements.
+
+              (c)    Shaikh and Palmer  hereby  release  and  forever  discharge
+       Sellers,   and   Sellers'   directors,   officers,   employees,   agents,
+       representatives,  successors  and assigns,  (collectively,  the "Sellers'
+       Group"),  and Ronald  Lane and Nalin  Rathod from and against any and all
+       claims, demands, actions, causes of action or suits, at law or in equity,
+       of
+
+                                       9
+
+whatever kind or nature, known or unknown,  which Shaikh or Palmer had or
+       may have, now or in the future,  against the Sellers' Group,  Ronald Lane
+       and  Nalin  Rathod,  including,  without  limitation,  claims  under  the
+       Terminated Agreements;
+
+              (d)    Bali, its members, managers,  officers,  employees, agents,
+       and  representatives  (the  "Bali  Group")  hereby  release  and  forever
+       discharge Palmer and Shaikh from and against any and all claims, demands,
+       actions, causes of action or suits, at law or in equity, of whatever kind
+       or nature, known or unknown, which the Bali Group had or may have, now or
+       in the future, against Palmer and Shaikh relating to the Bali Interest or
+       any of the  Terminated  Agreements.  Palmer and Shaikh hereby release and
+       forever  discharge  the Bali Group from and  against  any and all claims,
+       demands,  actions,  causes of action or suits,  at law or in  equity,  of
+       whatever kind or nature, known or unknown,  which Palmer or Shaikh had or
+       may have,  now or in the future,  against the Bali Group  relating to the
+       Bali Interest or any of the Terminated Agreements.
+
+              (e)    For purposes of the above  releases,  the term  "Terminated
+       Agreements"  shall  mean the  Employment  Agreement  entered  into by and
+       between Shaikh and Bionutrics,  the Employment  Agreement entered into by
+       and between Palmer and Bionutrics,  the Master Agreement, as described in
+       the recitals, the Membership Interest Redemption Agreement by and between
+       Palmer and InCon Holdings, LLC dated October 27, 1997 (collectively,  the
+       "Terminated Agreements").
+
+       7.2.   ACKNOWLEDGEMENTS.  Each of the releasing  parties  further  states
+that they or their  duly  authorized  representatives  have read the  respective
+Release set forth in Section 7.1,  that they  understand  that these are general
+releases,  that each intends legally to be bound by the applicable Release,  and
+that each of them has the legal power and  authority to execute and agree to the
+applicable Release.
+
+       7.3.   NO TRANSFER. Each of the releasing parties represents and warrants
+that the respective releasing party has not assigned or transferred, in whole or
+in part, any claim,  right, demand or cause of action which that releasing party
+may now have or may have had or  claims to have,  of  whatever  kind or  nature,
+against any other party, to any person, firm,  corporation,  or other entity, in
+any manner,  including but not limited to assignment or transfer by  subrogation
+or by operation of law.
+
+       7.4.   FUTURE ACTIONS. Each party agrees never to institute,  directly or
+indirectly,  any action or  proceeding  of any kind  against  any other party to
+enforce a claim which is released under this Section 7. In the event of any such
+claim,  the instituting  party agrees to reimburse the other party for all costs
+incurred in defending  the claim,  including  reasonable  attorneys'  fees.  The
+prohibition  contained in this Section 7 shall not apply to claims for breach of
+this Agreement.
+
+       7.5.   TRANSFER OF  MEMBERSHIP  INTERESTS.  The  transfer  of  Membership
+Interests  provided for under Section 1.1 of this Agreement,  is, in addition to
+the  satisfaction  of all of the other clauses and provisions of this Agreement,
+subject to the  consent  to and  approval  of this  Agreement  by the  following
+parties:
+
+                                       10
+
+(a)    The Board of Directors of Bionutrics, and;
+
+              (b)    The  Holders  of  that  certain  Non-Revolving  Note by and
+       between Bionutrics and the following parties:
+
+                     (i)    William C. McCormick
+
+                     (ii)   William Ritger
+
+                     (iii)  Fredrick Rentschler
+
+                     (iv)   Ropart Investments
+
+                     (v)    HealthSTAR Communications
+
+                     (vi)   HealthSTAR Holdings
+
+(vii)  Ronald H. Lane
+
+                     (viii) Xiagen
+
+                                 ARTICLE VIII.
+                                  MISCELLANEOUS
+
+       8.1.   ASSIGNMENT. The rights, duties and privileges of Sellers hereunder
+shall not be  transferred  or  assigned  in whole or in part  without  the prior
+written consent of the Purchaser.
+
+       8.2.   ENTIRE AGREEMENT. This Agreement and the documents,  schedules and
+exhibits  referred to herein and to be delivered  pursuant to this Agreement set
+forth the entire agreement among the parties and merge all prior discussions and
+agreements  among  them.  None of the parties  shall be bound by any  condition,
+definition,  warranty or  representation  with  respect to any term or condition
+other than those provided for in this Agreement or the documents,  schedules and
+exhibits  referred  to herein or  delivered  pursuant  to this  Agreement  or as
+amended  by  subsequent  agreement  in writing  signed by the  parties or a duly
+authorized  officer or  representative  of the parties to this  Agreement.  This
+Agreement  may not be amended  except by a writing  signed by all of the parties
+hereto.
+
+       8.3.   BINDING EFFECT.  This Agreement shall be binding upon and inure to
+the benefit of the parties and their respective heirs, personal representatives,
+successors and permitted assigns.
+
+       8.4.   NOTICE.  All  notices, requests, demands  or  other communications
+given under or in connection  herewith shall be effective only if in writing and
+hand delivered,  mailed by certified or registered U.S. Mail,  postage  prepaid,
+return receipt requested,  or delivered by recognized overnight delivery service
+(E.G., FedEx or UPS), addressed as follows:
+
+       if to Sellers:             Asia Pacific Investment Holdings, Ltd.
+
+       Facsimile No.:
+
+            and
+
+                                  InCon Technologies, Inc.
+                                  2415 East Camelback Road, Suite 700
+                                  Phoenix, AZ 85016
+
+                                       11
+
+if to Company:             InCon Processing, L.L.C.
+                                  970 Douglas
+                                  Batavia, Illinois 60510
+
+       if to Purchaser:           Incon International, Inc.
+                                  970 Douglas
+                                  Batavia, Illinois 60510
+
+       with a copy to:            Edwin I. Josephson
+                                  Chuhak & Tecson, P.C.
+                                  30 S. Wacker Drive, Suite 2600
+                                  Chicago, Illinois 60606
+
+Any party may change its  address for notice  pursuant to this  Section 8.4 upon
+written notice to the other parties.
+
+       8.5.   INVALID  PROVISION.  In the  event  that  any  provision  of  this
+Agreement  is held to be invalid or illegal for any reason,  such  determination
+shall not effect the remaining  provisions which shall be construed and enforced
+as if the illegal or invalid provision had never been included.
+
+       8.6.   APPLICABLE LAW. This Agreement shall be subject to and governed by
+the laws of the State of Illinois.
+
+       8.7.   PRONOUNS.  The  singular  form shall be  considered  to denote the
+plural and the masculine form the feminine or neuter if required hereunder.
+
+       8.8.   DESCRIPTIVE HEADINGS.  All section headings,  titles and subtitles
+contained  herein are inserted for  convenience  of reference only and are to be
+ignored in any construction of the provisions hereof.
+
+       8.9.   LEGAL  ACTION.  In any action at law or in equity  arising  out of
+this Agreement and the transactions contemplated hereunder, the prevailing party
+shall be entitled to reasonable  attorneys'  fees and court costs in addition to
+any other relief to which it may be entitled.
+
+       8.10.  WAIVER.  Any party may waive any term,  condition  or  requirement
+under this  Agreement or the exhibits or schedules  hereto which is intended for
+its own benefit,  and any waiver of any term or  condition of this  Agreement or
+the  exhibits  or  schedules  hereto  shall not operate as a waiver of any other
+breach of such term or condition, nor shall any failure to enforce any provision
+hereof  or of the  exhibits  or  schedules  hereto  operate  as a waiver of such
+provision or of any other provision hereof or the exhibits or schedules  hereto.
+
+       8.11.  FURTHER ASSURANCES.  Each party agrees to perform any further acts
+and to  execute  and  deliver  any  further  documents  which may be  reasonably
+necessary to give effect to the provisions of this Agreement.
+
+                                       12
+
+8.12.  EXPENSES.  Each of the  parties  shall  pay its  own  expenses  in
+connection  with  this  Agreement  and  the  consummation  of  the  transactions
+contemplated hereunder.
+
+       8.13.  COUNTERPARTS.  This  Agreement  may be  executed  in  two or  more
+counterparts,  each of  which  shall be  deemed  an  original,  but all of which
+together shall constitute but one and the same instrument.
+
+       8.14.  RECITALS.  The  Recitals  contained in this  Agreement  are hereby
+incorporated  and made a part of the terms and mutual  covenants and  agreements
+contained in this Agreement.
+
+       8.15.  SURVIVAL.  The  representatives  and warranties  contained in this
+Agreement  or in the  instruments  or other  documents  required to be delivered
+hereunder shall survive the Closing.
+
+       8.16.  FACSIMILE.  A facsimile  signature shall be treated the same as an
+original  signature for the purposes of this  Agreement and all other  documents
+and agreements relating to this transaction.
+
+                                       13
+
+IN WITNESS  WHEREOF,  the parties have executed this  Agreement as of the
+date first above written.
+
+PURCHASER:                              SELLERS:
+
+INCON INTERNATIONAL, INC.,              INCON TECHNOLOGIES, INC.,
+an Illinois corporation                 a Delaware corporation
+
+By: ________________________________    By: ____________________________________
+Print Name:_________________________    Print Name: ____________________________
+Title: _____________________________    Title: _________________________________
+
+                                        ASIA PACIFIC INVESTMENT HOLDINGS, LTD.,
+                                        a British Virgin Islands Company
+
+                                        By: ____________________________________
+                                        Print Name: ____________________________
+                                        Title: _________________________________
+
+BALI:
+
+BALI HOLDINGS, LLC, a Delaware
+limited liability company
+
+By: ________________________________
+Print Name: ________________________    __________________________
+Title: _____________________________    N.P. Shaikh, individually
+
+BIONUTRICS:
+
+BIONUTRICS, INC., a Nevada corporation
+
+By:  _______________________________    ___________________________
+Print Name: ________________________    John R. Palmer, individually
+Title:  ____________________________
+
+14
+
+The undersigned  hereby execute this Agreement for release purposes only,
+as set forth in Article VII hereof.
+
+                                             -----------------------------------
+                                                Ronald H. Lane, individually
+
+-----------------------------------
+                                                 Nalin Rathod, individually
+
+15
+
+</EX-10.1>
+
+<EX-10.2>
+ 3
+ c41484_ex10-2.txt
+
+EXHIBIT 10.2
+
+                   CONSENT OF NOTEHOLDERS OF BIONUTRICS, INC.
+
+       WHEREAS, INCON INTERNATIONAL,  INC. an Illinois corporation ("Purchaser")
+has entered into a Purchase and Sale  Agreement  effective as of the 31st day of
+October,  2005 by and  among  Asia  Pacific  Investment  Holdings,  Ltd.  ("Asia
+Pacific"), INCON Technologies,  Inc.("INCON"),  Bionutrics, Inc., Bali Holdings,
+L.L.C.,  INCON  Processing,  L.L.C.,  N.P. Shaikh  ("Shaikh") and John R. Palmer
+("Palmer")  pursuant to which Asia Pacific and INCON  ("Sellers") have agreed to
+sell to Purchaser all of their collective,  equally shared,  membership units in
+INCON Processing, L.L.C. (the "Company");
+
+       WHEREAS,  Sellers  each  own 50%  membership  units in the  Company  (the
+"Membership Interests");
+
+       WHEREAS,  Shaikh and Palmer each own 20% of the membership units in Bali,
+(the "Bali  Interests")  and in  connection  with the  purchase  and sale of the
+Company,  Shaikh and Palmer  have  agreed to convey  the Bali  Interests  to the
+Sellers;
+
+       WHEREAS,  Palmer has agreed in  connection  with  these  transactions  to
+forgive  Bali from its  obligations  under that certain  Promissory  Note in the
+amount of $900,000.00;
+
+       WHEREAS,  Sellers have agreed to convey the  Membership  Interests in the
+Company to  Purchaser,  and Shaikh  and  Palmer  have  agreed to convey the Bali
+Interests equally to Sellers, and in connection therewith,  Sellers have entered
+into a consulting  agreement for a period of 5 years commencing November 1, 2005
+pursuant to which the Company shall pay the Consulting Fee provided for therein,
+in a possible  total amount of $300,000.00  for each of the respective  Sellers,
+subject to  acceleration  in the event of the  happening  of certain  events and
+otherwise as described  therein and to transfer certain  tocotrienol  processing
+technology to Sellers; and
+
+       WHEREAS,  the transfer of Membership  Interests in the Company is subject
+to approval of the Board of Directors of  Bionutrics,  Inc. and the Note Holders
+of that  certain  Non-Revolving  Note by and  between  Bionutrics  and the  Note
+Holders (as defined below);
+
+       Now therefore, the Note Holders agree and consent to this transaction and
+to the  waiver  of  their  respective  liens on the  assets  and  properties  of
+Bionutrics as they relate to the Company, as set forth below;
+
+       1.     Bionutrics,   Inc.   has   previously   entered   into  a  certain
+Non-Revolving  Note  with  William  C.  McCormick,   William  Ritger,   Fredrick
+Rentschler, Ropart Investments, HealthSTAR Communications,  HealthSTAR Holdings,
+Ronald H. Lane, and Xiagen Ltd. (the "Note  Holders"),  as a result of which the
+Note  Holders  are  entitled  to have their  respective  liens on the assets and
+properties of Bionutrics  and the further right to approve
+
+and consent  to, or to  disapprove  and not to consent  to, the  transfer of the
+Membership Interests in the Company.
+
+       2.     The Note  Holders  have  reviewed a copy of the  Purchase and Sale
+Agreement  and related  documents,  copies of which were provided to each of the
+Note Holders and a copy of which is attached hereto as Exhibit A.
+
+       3.     The Note Holders  hereby  approve the  transfer of the  Membership
+Interests on the terms of and pursuant to the  Purchase and Sale  Agreement  and
+consent to the transfer of the  membership  units of the Company as provided for
+in the Purchase and Sale  Agreement  and to all of the other terms,  conditions,
+and  consideration  set  forth  in  the  Purchase  and  Sale  Agreement,  and in
+accordance  therewith,  the Note  Holders  hereby  formally  waive each of their
+respective  liens on the assets and  properties  of Bionutrics as they relate to
+the Company;  provided,  however,  that Bionutrics shall enter into that certain
+Escrow  Agreement,  a copy of which is attached hereto as Exhibit B, pursuant to
+which  Bionutrics  shall  agree  that any  proceeds  received  in respect of the
+Purchase and Sale  Agreement  shall be substitute  collateral  for the interests
+sold  thereunder  and  that any  cash  proceeds  thereof  shall  immediately  be
+delivered to and held in escrow by Alley,  Maass,  Rogers & Lindsay,  P.A.,  340
+Royal  Poinciana  Way,  Suite 321,  P.O.  Box 431,  Palm  Beach,  FL 33480,  for
+distribution in accordance with the terms of the Non-Revolving Note.
+
+       IN WITNESS  WHEREOF,  the  undersigned  Note Holders have  executed  this
+approval and consent of the transfer of Membership Interests as required by that
+certain Non-Revolving Note, as of the 8th day of November, 2005.
+
+HealthSTAR Holdings, LLC                         HealthSTAR Communications
+
+By: ___________________________                  By: ___________________________
+Name: _________________________                  Name: _________________________
+Title: ________________________                  Title: ________________________
+
+Ropart Investments, LLC                          Xiagen, Ltd.
+
+By: ___________________________                  By: ___________________________
+Name: _________________________                  Name: _________________________
+Title: ________________________                  Title: ________________________
+
+_______________________________                  _______________________________
+         William C. McCormick                             William Rittger
+
+_______________________________                  _______________________________
+         Ronald H. Lane                                   Fred Rentschler
+
+</EX-10.2>
+
+<EX-31.1>
+ 4
+ c41484_ex31-1.txt
+
+Exhibit 31.1
+
+                                 CERTIFICATIONS
+            PURSUANT TO SECTION 302 OF THE SARBANES OXLEY ACT OF 2002
+
+I, Ronald Howard Lane, the principal executive officer of Bionutrics, Inc., a
+Nevada corporation, certify that:
+
+1.     I have reviewed this Quarterly Report on Form 10-Q for the quarterly
+       period ended January 31, 2006 of Bionutrics, Inc. (the "registrant");
+
+2.     Based on my knowledge, this report does not contain any untrue statement
+       of a material fact or omit to state a material fact necessary to make the
+       statements made, in light of the circumstances under which such
+       statements were made, not misleading with respect to the period covered
+       by this report;
+
+3.     Based on my knowledge, the financial statements, and other financial
+       information included in this report, fairly present in all material
+       respects the financial condition, results of operations and cash flows of
+       the registrant as of, and for, the periods presented in this report;
+
+4.     The registrant's other certifying officer(s) and I are responsible for
+       establishing and maintaining disclosure controls and procedures (as
+       defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal
+       control over financial reporting (as defined in Exchange Act Rules
+       13a-15(f) and 15d-15(f)) for the registrant and have:
+
+       (a)    Designed such disclosure controls and procedures, or caused such
+              disclosure controls and procedures to be designed under our
+              supervision, to ensure that material information relating to the
+              registrant, including its consolidated subsidiaries, is made known
+              to us by others within those entities, particularly during the
+              period in which this report is being prepared;
+
+       (b)    Designed such internal control over financial reporting, or caused
+              such internal control over financial reporting to be designed
+              under our supervision, to provide reasonable assurance regarding
+              the reliability of financial reporting and the preparation of
+              financial statements for external purposes in accordance with
+              generally accepted accounting principles;
+
+       (c)    Evaluated the effectiveness of the registrant's disclosure
+              controls and procedures and presented in this report our
+              conclusions about the effectiveness of the disclosure controls and
+              procedures, as of the end of the period covered by this report
+              based on such evaluation; and
+
+       (d)    Disclosed in this report any change in the registrant's internal
+              control over financial reporting that occurred during the
+              registrant's most recent fiscal quarter that has materially
+              affected, or is reasonably likely to materially affect, the
+              registrant's internal control over financial reporting; and
+
+5.     The registrant's other certifying officer(s) and I have disclosed, based
+       on our most recent evaluation of internal control over financial
+       reporting, to the registrant's auditors and the audit committee of the
+       registrant's board of directors (or persons performing the equivalent
+       functions):
+
+       (a)    All significant deficiencies and material weaknesses in the design
+              or operation of internal control over financial reporting which
+              are reasonably likely to adversely affect the registrant's ability
+              to record, process, summarize and report financial information;
+              and
+
+       (b)    Any fraud, whether or not material, that involves management or
+              other employees who have a significant role in the registrant's
+              internal control over financial reporting.
+
+Date: March 16, 2006                    /s/ Ronald Howard Lane
+                                            ----------------------
+                                            Ronald Howard Lane
+                                            Chief Executive Officer
+
+</EX-31.1>
+
+<EX-31.2>
+ 5
+ c41484_ex31-2.txt
+
+Exhibit 31.2
+
+                                 CERTIFICATIONS
+            PURSUANT TO SECTION 302 OF THE SARBANES OXLEY ACT OF 2002
+
+I, Ronald Howard Lane, the principal financial officer of Bionutrics, Inc., a
+Nevada corporation, certify that:
+
+1.     I have reviewed this Quarterly Report on Form 10-Q for the quarterly
+       period ended January 31, 2006 of Bionutrics, Inc. (the "registrant");
+
+2.     Based on my knowledge, this report does not contain any untrue statement
+       of a material fact or omit to state a material fact necessary to make the
+       statements made, in light of the circumstances under which such
+       statements were made, not misleading with respect to the period covered
+       by this report;
+
+3.     Based on my knowledge, the financial statements, and other financial
+       information included in this report, fairly present in all material
+       respects the financial condition, results of operations and cash flows of
+       the registrant as of, and for, the periods presented in this report;
+
+4.     The registrant's other certifying officer(s) and I are responsible for
+       establishing and maintaining disclosure controls and procedures (as
+       defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal
+       control over financial reporting (as defined in Exchange Act Rules
+       13a-15(f) and 15d-15(f)) for the registrant and have:
+
+       (a)    Designed such disclosure controls and procedures, or caused such
+              disclosure controls and procedures to be designed under our
+              supervision, to ensure that material information relating to the
+              registrant, including its consolidated subsidiaries, is made known
+              to us by others within those entities, particularly during the
+              period in which this report is being prepared;
+
+       (b)    Designed such internal control over financial reporting, or caused
+              such internal control over financial reporting to be designed
+              under our supervision, to provide reasonable assurance regarding
+              the reliability of financial reporting and the preparation of
+              financial statements for external purposes in accordance with
+              generally accepted accounting principles;
+
+       (c)    Evaluated the effectiveness of the registrant's disclosure
+              controls and procedures and presented in this report our
+              conclusions about the effectiveness of the disclosure controls and
+              procedures, as of the end of the period covered by this report
+              based on such evaluation; and
+
+       (d)    Disclosed in this report any change in the registrant's internal
+              control over financial reporting that occurred during the
+              registrant's most recent fiscal quarter that has materially
+              affected, or is reasonably likely to materially affect, the
+              registrant's internal control over financial reporting; and
+
+5.     The registrant's other certifying officer(s) and I have disclosed, based
+       on our most recent evaluation of internal control over financial
+       reporting, to the registrant's auditors and the audit committee of the
+       registrant's board of directors (or persons performing the equivalent
+       functions):
+
+       (a)    All significant deficiencies and material weaknesses in the design
+              or operation of internal control over financial reporting which
+              are reasonably likely to adversely affect the registrant's ability
+              to record, process, summarize and report financial information;
+              and
+
+       (b)    Any fraud, whether or not material, that involves management or
+              other employees who have a significant role in the registrant's
+              internal control over financial reporting.
+
+Date: March 16, 2006                    /s/ Ronald Howard Lane
+                                        ----------------------
+                                        Ronald Howard Lane
+                                        Principal Financial Officer
+
+</EX-31.2>
+
+<EX-32.1>
+ 6
+ c41484_ex32-1.txt
+
+Exhibit 32.1
+
+                            CERTIFICATION PURSUANT TO
+                             18 U.S.C. SECTION 1350,
+                             AS ADOPTED PURSUANT TO
+                  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+       In connection with the Quarterly Report on Form 10-Q of Bionutrics,  Inc.
+(the  "Company")  for the for the quarterly  period ended January 31, 2006 filed
+with the Securities and Exchange  Commission  (the  "Report"),  I, Ronald Howard
+Lane, Principal Executive Officer,  certify, pursuant to 18 U.S.C. Section 1350,
+as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that:
+
+(1)    The Report fully complies with the  requirements  of Section 13(a) of the
+       Securities Exchange Act of 1934; and
+
+(2)    The information  contained in the Report fairly presents, in all material
+       respects,  the consolidated  financial condition of the Company as of the
+       dates presented and consolidated results of operations of the Company for
+       the periods presented.
+
+Dated: March 16, 2006
+
+By: /s/ Ronald Howard Lane
+        -----------------------
+        Ronald Howard Lane
+        Chief Executive Officer
+
+This  certification  has been  furnished  solely  pursuant to Section 906 of the
+Sarbanes-Oxley Act of 2002.
+
+A signed  original of this  written  statement  required by Section 906 has been
+provided to Clean Water  Technologies,  Inc. and will be retained by Clean Water
+Technologies,  Inc. and furnished to the Securities  and Exchange  Commission or
+its staff upon request.
+
+</EX-32.1>
+
+<EX-32.2>
+ 7
+ c41484_ex32-2.txt
+
+Exhibit 32.2
+
+                            CERTIFICATION PURSUANT TO
+                             18 U.S.C. SECTION 1350,
+                             AS ADOPTED PURSUANT TO
+                  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+       In connection with the Quarterly Report on Form 10-Q of Bionutrics,  Inc.
+(the  "Company")  for the for the quarterly  period ended January 31, 2006 filed
+with the Securities and Exchange  Commission  (the  "Report"),  I, Ronald Howard
+Lane, Principal Financial Officer of the Company, certify, pursuant to 18 U.S.C.
+Section 1350, as adopted  pursuant to Section 906 of the  Sarbanes-Oxley  Act of
+2002, that:
+
+(1)    The Report fully complies with the  requirements  of Section 13(a) of the
+       Securities Exchange Act of 1934; and
+
+(2)    The information  contained in the Report fairly presents, in all material
+       respects,  the consolidated  financial condition of the Company as of the
+       dates presented and consolidated results of operations of the Company for
+       the periods presented.
+
+Dated: March 16, 2006
+
+By: /s/ Ronald Howard Lane
+        -----------------------
+        Ronald Howard Lane
+        Principal Financial Officer
+
+This  certification  has been  furnished  solely  pursuant to Section 906 of the
+Sarbanes-Oxley Act of 2002.
+
+A signed  original of this  written  statement  required by Section 906 has been
+provided to Clean Water  Technologies,  Inc. and will be retained by Clean Water
+Technologies,  Inc. and furnished to the Securities  and Exchange  Commission or
+its staff upon request.
+
+</EX-32.2>
+

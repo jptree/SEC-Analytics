@@ -1,0 +1,1096 @@
+<Header>
+<FileStats>
+    <FileName>20060317_10-Q_edgar_data_1007019_0001144204-06-010510_1.txt</FileName>
+    <GrossFileSize>66392</GrossFileSize>
+    <NetFileSize>52941</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>271</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>3</N_Tables>
+    <N_Exhibits>2</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001144204-06-010510.hdr.sgml : 20060317
+<ACCEPTANCE-DATETIME>20060317152812
+ACCESSION NUMBER:		0001144204-06-010510
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20060131
+FILED AS OF DATE:		20060317
+DATE AS OF CHANGE:		20060317
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COFFEE HOLDING CO INC
+		CENTRAL INDEX KEY:			0001007019
+		STANDARD INDUSTRIAL CLASSIFICATION:	BEVERAGES [2080]
+		IRS NUMBER:				113860760
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1031
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-32491
+		FILM NUMBER:		06695733
+
+	BUSINESS ADDRESS:	
+		STREET 1:		4401 FIRST AVENUE
+		STREET 2:		STE 1507
+		CITY:			BROOKLYN
+		STATE:			NY
+		ZIP:			11232
+		BUSINESS PHONE:		7188320800
+
+	MAIL ADDRESS:	
+		STREET 1:		4401 FIRST AVENUE
+		STREET 2:		STE 1507
+		CITY:			BROOKLYN
+		STATE:			NY
+		ZIP:			11232
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TRANSPACIFIC INTERNATIONAL GROUP CORP
+		DATE OF NAME CHANGE:	19960201
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ EHKuVi4G4zttK6HVc4+t9/ak0zWhNTFUC/bCMu4dYRbOYngI2QI2x3kQmGT0N92y
+ kbzSEIfZomR++T0qlQcO3g==
+
+ 0001144204-06-010510.txt : 20060317
+
+10-Q
+ 1
+ v037862_10q.txt
+
+U.S. SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                              ---------------------
+
+                                    FORM 10-Q
+
+|X|   QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+      EXCHANGE ACT OF 1934
+
+      For the quarterly period ended: January 31, 2006
+
+                                       OR
+
+|_|   TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+      EXCHANGE ACT OF 1934
+
+      For the transition period from ____________ to ____________
+
+Commission file number: 001-32491
+
+Coffee Holding Co., Inc.
+             (Exact name of registrant as specified in its charter)
+
+Nevada                               11-2238111
+          (State or other jurisdiction                (I.R.S. Employer
+        of incorporation or organization)            Identification No.)
+
+4401 First Avenue, Brooklyn, New York               11232-0005
+     (Address of principal executive offices)             (Zip Code)
+
+(718) 832-0800
+               (Registrant's telephone number including area code)
+
+N/A
+              ----------------------------------------------------
+              (Former name, former address and former fiscal year,
+                          if changed from last Report)
+
+      Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding twelve months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes |X| No |_|.
+
+      Indicate by check mark whether the registrant is a large accelerated
+filer, an accelerated filer, or a non-accelerated filer. See definition of
+"accelerated filer and large accelerated filer" in Rule 12b-2 of the Exchange
+Act). Check one:
+
+ Large accelerated filer |_|   Accelerated filer |_|   Non-accelerated filer |X|
+
+      Indicate by check mark whether the registrant is a shell company (as
+defined in Rule 12b-2 of the Exchange Act. Yes |_| No |X|.
+
+      Indicate the number of shares outstanding of each of the issuer's classes
+of common stock as of the latest practicable date.
+
+      5,529,830 shares of common stock, par value $0.001 per share outstanding
+at February 28, 2006
+
+PAGE
+
+                                     PART I
+
+Item 1.     Financial Statements ..............................................1
+
+            Condensed Balance Sheets
+                January 31, 2006 (unaudited) and October 31, 2005 .............1
+
+            Condensed Statements of Income
+                Three Months Ended January 31, 2006 and 2005 (unaudited) ......2
+
+            Condensed Statements of Cash Flows
+                Three Months Ended January 31, 2006 and 2005 (unaudited) ......3
+
+            Notes To Condensed Financial Statements (unaudited) ...............4
+
+Item 2.     Management's Discussion and Analysis of Financial Condition
+            and Results of Operations .........................................9
+
+Item 3.     Quantitative and Qualitative Disclosures About Market Risk .......14
+
+Item 4.     Controls and Procedures ..........................................15
+
+                                     PART II
+
+Item 1.     Legal Proceedings ................................................16
+
+Item 1A.    Risk Factors .....................................................16
+
+Item 2.     Unregistered Sales of Equity Securities and Use of Proceeds ......16
+
+Item 3.     Defaults Upon Senior Securities ..................................16
+
+Item 4.     Submission of Matters to a Vote of Security Holders ..............16
+
+Item 5.     Other Information ................................................16
+
+Item 6.     Exhibits .........................................................16
+
+Signatures ...................................................................17
+
+i
+
+PART I - FINANCIAL INFORMATION
+
+Item 1.     Financial Statements.
+
+                            COFFEE HOLDING CO., INC.
+                            CONDENSED BALANCE SHEETS
+                      JANUARY 31, 2006 AND OCTOBER 31, 2005
+
+See notes to Condensed Financial Statements.
+                                       1
+
+COFFEE HOLDING CO., INC.
+                         CONDENSED STATEMENTS OF INCOME
+                  THREE MONTHS ENDED JANUARY 31, 2006 AND 2005
+                                   (Unaudited)
+
+See notes to Condensed Financial Statements.
+                                       2
+
+COFFEE HOLDING CO., INC.
+                       CONDENSED STATEMENTS OF CASH FLOWS
+                  THREE MONTHS ENDED JANUARY 31, 2006 AND 2005
+                                   (Unaudited)
+
+See notes to Condensed Financial Statements.
+                                       3
+
+COFFEE HOLDING CO., INC.
+                     NOTES TO CONDENSED FINANCIAL STATEMENTS
+                            JANUARY 31, 2006 AND 2005
+                                   (Unaudited)
+
+NOTE 1 -    BUSINESS ACTIVITIES:
+
+            Coffee Holding Co., Inc. (the "Company") conducts wholesale coffee
+            operations, including manufacturing, roasting, packaging, marketing
+            and distributing roasted and blended coffees for private labeled
+            accounts and its own brands, and sells green coffee. The Company's
+            sales are primarily to customers that are located throughout the
+            United States.
+
+NOTE 2 -    BASIS OF PRESENTATION:
+
+            The interim financial information as of January 31, 2006 and for the
+            three-month periods ended January 31, 2006 and 2005 has been
+            prepared without audit, pursuant to the rules and regulations of the
+            Securities and Exchange Commission (the "SEC"). Certain information
+            and footnote disclosures normally included in financial statements
+            prepared in accordance with generally accepted accounting principles
+            have been condensed or omitted pursuant to such rules and
+            regulations, although we believe that the disclosures made are
+            adequate to provide for fair presentation. These Financial
+            Statements should be read in conjunction with the Financial
+            Statements and the notes thereto, included in the Company's Annual
+            Report on Form 10-KSB for the fiscal year ended October 31, 2005,
+            previously filed with the SEC.
+
+            In the opinion of management, all adjustments (which include normal
+            recurring adjustments) necessary to present a fair statement of
+            financial position as of January 31, 2006, and results of operations
+            and cash flows for the three months ended January 31, 2006 and 2005,
+            as applicable, have been made. The results of operations for the
+            three months ended January 31, 2006 are not necessarily indicative
+            of the operating results for the full fiscal year or any future
+            periods.
+
+NOTE 3 -    RECENTLY ISSUED ACCOUNTING PRONOUNCEMENTS:
+
+            In May 2005, the Financial Accounting Standards Board (FASB) issued
+            Statement of Financial Accounting Standards SFAS No. 154, Accounting
+            Changes and Error Corrections which replaces APB Opinion No. 20
+            Accounting Changes and SFAS No. 3, Reporting Accounting Changes in
+            Interim Financial Statements--An Amendment of APB Opinion No. 28.
+            SFAS No. 154 requires retrospective application to prior periods'
+            financial statements of a voluntary change in accounting principle
+            unless it is not practicable. SFAS No. 154 is effective for
+            accounting changes and corrections of errors made in fiscal years
+            beginning after December 15, 2005 and is required to be adopted by
+            the Company in the fiscal year beginning November 1, 2006. Although
+            the Company will continue to evaluate the application of SFAS No.
+            154, management does not currently believe adoption will have a
+            material impact on the Company's results of operations or financial
+            position.
+
+4
+
+COFFEE HOLDING CO., INC.
+                     NOTES TO CONDENSED FINANCIAL STATEMENTS
+                            JANUARY 31, 2006 AND 2005
+                                   (Unaudited)
+
+NOTE 3 -    RECENTLY ISSUED ACCOUNTING PRONOUNCEMENTS (Continued):
+
+            In December 2004, the Financial Accounting Standards Board ("FASB")
+            issued SFAS No.123 (revised 2004), "Share-Based Payment" ("SFAS No.
+            123 (R)"), which requires the measurement and recognition of
+            compensation expense based on estimated fair value for all
+            share-based payment awards including stock options, employee stock
+            purchases under employee stock purchase plans, non-vested share
+            awards (restricted stock) and stock appreciation rights. SFAS No.
+            123 (R) supersedes our previous accounting under Accounting
+            Principles Board Opinion No. 25, "Accounting for Stock Issued to
+            Employees" ("APB No. 25"). In March 2005, the SEC issued Staff
+            Accounting Bulletin ("SAB") No. 107, which provides the Staff's
+            views regarding implementation issues related to SFAS No. 123 (R).
+            The Company is required to adopt the provisions of SFAS No. 123 (R)
+            effective from the first interim period starting after December 15,
+            2005, which in the Company's case will be the quarter beginning
+            February 1, 2006. Management does not believe that the adoption of
+            SFAS No. 123 (R) will have any impact on the Company's results of
+            operations or financial position, as no employee options have been
+            issued to-date.
+
+NOTE 4 -    INVENTORIES:
+
+            Inventories at January 31, 2006 and October 31, 2005 consisted of
+            the following:
+
+                                                January 31,      October 31,
+                                                   2006             2005
+                                              --------------   --------------
+            Packed coffee                     $    1,111,146   $    1,276,050
+            Green coffee                           1,568,466        2,483,061
+            Packaging supplies                       777,279          737,467
+                                              --------------   --------------
+            Totals                            $    3,456,891   $    4,496,578
+                                              ==============   ==============
+
+NOTE 5 -    HEDGING:
+
+            The Company uses options and futures contracts to partially hedge
+            the effects of fluctuations in the price of green coffee beans.
+            Options and futures contracts are marked to market with current
+            recognition of gains and losses on such positions. The Company does
+            not defer such gains and losses since its positions are not
+            considered hedges for financial reporting purposes. The Company's
+            accounting for options and futures contracts may increase earnings
+            volatility in any particular period.
+
+            At January 31, 2006, the Company held 350 options (generally with
+            terms of two months or less) covering an aggregate of 13,125,000
+            pounds of green coffee beans at a price of $1.20 per pound. The fair
+            market value of these options, which was obtained from major
+            financial institutions, was $700,500 at January 31, 2006.
+
+5
+
+COFFEE HOLDING CO., INC.
+                     NOTES TO CONDENSED FINANCIAL STATEMENTS
+                            JANUARY 31, 2006 AND 2005
+                                   (Unaudited)
+
+NOTE 5 -    HEDGING (Continued):
+
+            At January 31, 2005, the Company held 330 options (generally with
+            terms of two months or less) covering an aggregate of 12,375,000
+            pounds of green coffee beans at prices aggregating $.98, $1.00 and
+            $1.05 per pound. The fair market value of these options, which was
+            obtained from a major financial institution, was $1,012,688 at
+            January 31, 2005.
+
+            The Company acquires futures contracts with longer terms (generally
+            three to four months) primarily for the purpose of guaranteeing an
+            adequate supply of green coffee. At January 31, 2005, the Company
+            did not hold any futures contracts.
+
+            At January 31, 2006, the Company held 10 futures contracts for the
+            purchase of 375,000 pounds of coffee at an average price of $1.1820
+            per pound for April 2006 contracts. The market price of coffee
+            applicable to such contracts was $1.1820 per pound at that date.
+
+            Included in cost of sales and due from broker for the three months
+            ended January 31, 2006 and 2005, the Company recorded realized and
+            unrealized gains and losses respectively, on these contracts as
+            follows:
+
+                                              Three Months Ended January 31,
+                                               2006                   2005
+                                          ---------------       ---------------
+                  Gross realized gains    $       616,213       $       809,263
+                  Gross realized losses   $      (554,449)      $      (296,443)
+                  Unrealized gains        $       383,700       $       207,934
+
+NOTE 6 -    LINE OF CREDIT:
+
+            The Company has a line of credit facility with Merrill Lynch
+            Business Financial Services, Inc. up to a maximum amount of $4.0
+            million with an interest rate at LIBOR plus 2.15%. The facility
+            expires on October 31, 2006. This loan is secured by a blanket lien
+            on all the assets of the Company and the personal guarantees of two
+            of the Company's officer/shareholders and also requires the Company
+            to comply with various financial covenants. The Company was in
+            compliance with all financial covenants as of January 31, 2006.
+
+NOTE 7 -    LEGAL PROCEEDINGS:
+
+            The Company is a party to various legal proceedings. In the opinion
+            of management, these actions are routine in nature and will not have
+            a material adverse effect on the Company's results of operations or
+            financial position in future period.
+
+6
+
+COFFEE HOLDING CO., INC.
+                     NOTES TO CONDENSED FINANCIAL STATEMENTS
+                            JANUARY 31, 2006 AND 2005
+                                   (Unaudited)
+
+NOTE 8 -    EARNINGS PER SHARE:
+
+            The Company presents "basic" and "diluted" earnings per common share
+            pursuant to the provisions of Statement of Financial Accounting
+            Standards No. 128, "Earnings per Share". Basic earnings per share is
+            based on the weighted-average number of common shares outstanding
+            and diluted earnings per share is based on the weighted-average
+            number of common shares outstanding plus all potential dilutive
+            common shares outstanding.
+
+                                                    Quarters Ended January 31,
+                                                       2006            2005
+                                                   ------------    ------------
+
+            Net Income                             $    519,638    $    402,281
+                                                   ============    ============
+
+            BASIC EARNINGS:
+            Weighted average number of common
+              shares outstanding                      5,529,830       3,999,650
+                                                   ============    ============
+
+            Basic earnings per common share        $       0.09    $       0.10
+                                                   ============    ============
+
+            DILUTED EARNINGS:
+
+            Weighted average number of common
+              shares outstanding                      5,529,830       3,999,650
+            Warrants - common stock equivalents          63,420               0
+                                                   ------------    ------------
+            Weighted average number of common
+              shares outstanding - as adjusted        5,593,250       3,999,650
+                                                   ============    ============
+
+            Diluted earnings per common share      $       0.09    $       0.10
+                                                   ============    ============
+
+NOTE 9 -    ECONOMIC DEPENDENCY:
+
+            For the three months ended January 31, 2006, sales to one customer
+            was in excess of 10% of the Company's total sales. Sales to this
+            customer were approximately $3,750,000 and the corresponding
+            accounts receivable at January 31, 2006 from this customer was
+            approximately $719,000.
+
+            For the three months ended January 31, 2005, sales to one customer
+            was in excess of 10% of the Company's total sales. Sales to this
+            customer were approximately $1,839,000 and the corresponding
+            accounts receivable at January 31, 2005 from this customer was
+            approximately $480,000.
+
+            For the three months ended January 31, 2006, purchases from two
+            suppliers, were in excess of 10% of the Company's total purchases.
+            Purchases from these suppliers were approximately $3,872,000 and
+            $1,154,000 and the corresponding accounts payable to these suppliers
+            at January 31, 2006 were approximately $1,315,000 and $91,000,
+            respectively.
+
+7
+
+COFFEE HOLDING CO., INC.
+                     NOTES TO CONDENSED FINANCIAL STATEMENTS
+                            JANUARY 31, 2006 AND 2005
+                                   (Unaudited)
+
+NOTE 9 -    ECONOMIC DEPENDENCY (Continued):
+
+            For the three months ended January 31, 2005, purchases from two
+            suppliers, were in excess of 10% of the Company's total purchases.
+            Purchases from these suppliers were approximately $2,657,000 and
+            $693,000 and the corresponding accounts payable to these suppliers
+            at January 31, 2005 were approximately $698,000 and $260,000,
+            respectively.
+
+NOTE 10 -   STOCK OPTION PLAN:
+
+            The Company has a stock option plan whereby options may be granted
+            to the Company's directors, officers, other key employees and
+            consultants. The Company has reserved 800,000 shares of common stock
+            for issuance under this plan. As of January 31, 2006 no options have
+            been granted.
+
+NOTE 11 -   NON-QUALIFIED DEFERRED COMPENSATION PLAN:
+
+            In January 2005, the Company established the "Coffee Holding Co.,
+            Inc. Non-Qualified Deferred Compensation Plan". Currently, there is
+            only one participant in the plan. Within the plan guidelines, this
+            employee is deferring a portion of his current salary and bonus. The
+            deferred amounts are invested in a qualified rabbi trust and are
+            classified on the Company's balance sheet as other assets.
+
+8
+
+Item 2.     Management's Discussion and Analysis of Financial Condition and
+            Results of Operations.
+
+Cautionary Note on Forward Looking Statements
+
+      This report contains forward-looking statements made pursuant to the safe
+harbor provisions of the Private Securities Litigation Reform Act of 1995. We
+have based these forward-looking statements on our current expectations and
+projections about future events, including, among other things:
+
+      o     the impact of rapid or persistent fluctuations in the price of
+            coffee beans;
+
+      o     fluctuations in the supply of coffee beans;
+
+      o     general economic conditions and conditions which affect the market
+            for coffee;
+
+      o     our success in implementing our business strategy or introducing new
+            products;
+
+      o     our ability to attract and retain customers;
+
+      o     our success in expanding our market presence in new geographic
+            regions;
+
+      o     the effects of competition from other coffee manufacturers and other
+            beverage alternatives;
+
+      o     changes in tastes and preferences for, or the consumption of,
+            coffee;
+
+      o     our ability to obtain additional financing; and
+
+      o     other risks which we identify in future filings with the Securities
+            and Exchange Commission.
+
+      In some cases, you can identify forward-looking statements by terminology
+such as "may," "will," "should," "could," "predict," "potential," "continue,"
+"expect," "anticipate," "future," "intend," "plan," "believe," "estimate" and
+similar expressions (or the negative of such expressions). Any or all of our
+forward looking statements in this annual report and in any other public
+statements we make may turn out to be wrong. They can be affected by inaccurate
+assumptions we might make or by known or unknown risks and uncertainties.
+Consequently, no forward looking statement can be guaranteed. In addition, we
+undertake no responsibility to update any forward-looking statement to reflect
+events or circumstances which occur after the date of this report.
+
+Overview
+
+      We are an integrated wholesale coffee roaster and dealer in the United
+States and one of the few coffee companies that offers a broad array of coffee
+products across the entire spectrum of consumer tastes, preferences and price
+points. As a result, we believe that we are well positioned to increase our
+profitability and endure potential coffee price volatility throughout varying
+cycles of the coffee market and economic conditions.
+
+      Our operations have primarily focused on the following areas of the coffee
+industry:
+
+      o     the sale of wholesale specialty green coffee;
+
+      o     the roasting, blending, packaging and sale of private label coffee;
+            and
+
+      o     the roasting, blending, packaging and sale of our seven brands of
+            coffee.
+
+9
+
+Our operating results are affected by a number of factors including:
+
+      o     the level of marketing and pricing competition from existing or new
+            competitors in the coffee industry;
+
+      o     our ability to retain existing customers and attract new customers;
+
+      o     fluctuations in purchase prices and supply of green coffee and in
+            the selling prices of our products; and
+
+      o     our ability to manage inventory and fulfillment operations and
+            maintain gross margins.
+
+      Our net sales are driven primarily by the success of our sales and
+marketing efforts and our ability to retain existing customers and attract new
+customers. For this reason, we have made the strategic decision to invest in
+measures that will increase net sales. In February 2004, we acquired certain
+assets of Premier Roasters. We also hired a West Coast Brand Manager to market
+our S&W brand and to increase sales of S&W coffee to new customers and increased
+attendance at trade shows to promote our food service and private label coffee
+business. As a result of these efforts, net sales increased in our specialty
+green coffee, private label and branded coffee business lines in both dollars
+and pounds sold since the date of the acquisition. In addition, we increased the
+number of our customers in all three areas.
+
+      Our net sales are also affected by the price of green coffee. We import
+green coffee from Colombia, Mexico, Kenya, Brazil and Uganda. The supply and
+price of coffee beans are subject to volatility and are influenced by numerous
+factors which are beyond our control. For example, coffee crops in Brazil, which
+produces one-third of the world's green coffee, are susceptible to frost in June
+and July and drought in September, October and November. However, because we
+purchase coffee from a number of countries and are able to freely substitute one
+country's coffee for another in our products, price fluctuations in one country
+generally have not had a material impact on the price we pay for coffee.
+Accordingly, price fluctuations in one country generally have not had a material
+effect on our results of operations, liquidity and capital resources. Because we
+generally have been able to pass green coffee price increases through to
+customers, increased prices of green coffee generally result in increased net
+sales. However, increased green coffee prices also generally result in increased
+cost of sales. Cost of sales consists primarily of the cost of green coffee and
+packaging materials and realized and unrealized gains or losses on hedging
+activity.
+
+      Historically, we have used short-term coffee futures and options contracts
+primarily for the purpose of partially hedging and minimizing the effects of
+changing green coffee prices and to reduce our cost of sales. In addition,
+during the latter half of fiscal 2000, we began to acquire futures contracts
+with longer terms, generally three to six months, primarily for the purpose of
+guaranteeing an adequate supply of green coffee at favorable prices. Although
+the use of these derivative financial instruments has enabled us to mitigate the
+effect of changing prices, no strategy can entirely eliminate pricing risks and
+we generally remain exposed to loss when prices decline significantly in a short
+period of time, and we generally remain exposed to supply risk in the event of
+non-performance by the counter-parties to any futures contracts. If the hedges
+that we enter do not adequately offset the risks of coffee bean price volatility
+or our hedges result in losses, our cost of sales may increase, resulting in a
+decrease in profitability.
+
+10
+
+Critical Accounting Policies and Estimates
+
+      The preparation of financial statements and related disclosures in
+conformity with accounting principles generally accepted in the United States
+requires management to make estimates and assumptions that affect the amounts
+reported in the financial statements and accompanying notes. Estimates are used
+for, but not limited to, the accounting for the allowance for doubtful accounts,
+inventories, income taxes and loss contingencies. Management bases its estimates
+on historical experience and on various other assumptions that are believed to
+be reasonable under the circumstances. Actual results could differ from these
+estimates under different assumptions or conditions.
+
+      The preparation of financial statements and related disclosures in
+conformity with accounting principles generally accepted in the United States
+requires management to make estimates and assumptions that affect the amounts
+reported in the financial statements and accompanying notes. Estimates are used
+for, but not limited to, the accounting for the allowance for doubtful accounts,
+inventories, income taxes and loss contingencies. Management bases its estimates
+on historical experience and on various other assumptions that are believed to
+be reasonable under the circumstances. Actual results could differ from these
+estimates under different assumptions or conditions.
+
+      We believe the following critical accounting policies, among others, may
+be impacted significantly by judgment, assumptions and estimates used in the
+preparation of the financial statements:
+
+      o     We recognize revenue in accordance with Securities and Exchange
+            Commission Staff Accounting Bulletin No. 104, "Revenue Recognition"
+            ("SAB 104"). Under SAB 104, revenue is recognized at the point of
+            passage to the customer of title and risk of loss, when there is
+            persuasive evidence of an arrangement, the sales price is
+            determinable, and collection of the resulting receivable is
+            reasonably assured. We generally recognize revenue at the time of
+            shipment. Sales are reflected net of discounts and returns.
+
+      o     Our allowance for doubtful accounts is maintained to provide for
+            losses arising from customers' inability to make required payments.
+            If there is deterioration of our customers' credit worthiness and/or
+            there is an increase in the length of time that the receivables are
+            past due greater than the historical assumptions used, additional
+            allowances may be required. For example, every additional one
+            percent of our accounts receivable that becomes uncollectible, would
+            reduce our operating income by approximately $48,000.
+
+      o     Inventories are stated at cost (determined on a first-in, first-out
+            basis). Based on our assumptions about future demand and market
+            conditions, inventories are subject to be written-down to market
+            value. If our assumptions about future demand change and/or actual
+            market conditions are less favorable than those projected,
+            additional write-downs of inventories may be required. Each
+            additional one percent of potential inventory writedown would have
+            reduced operating income by approximately $35,000 for the three
+            months ended January 31, 2006.
+
+      o     We account for income taxes in accordance with Statement of
+            Financial Accounting Standards No. 109, "Accounting for Income
+            Taxes" ("SFAS No. 109"). Under SFAS No. 109, deferred tax assets and
+            liabilities are determined based on the liabilities, using enacted
+            tax rates in effect for the year in which the differences are
+            expected to reverse. Deferred tax assets are reflected on the
+            balance sheet when it is determined that it is more likely than not
+            that the asset will be realized. Accordingly, our net deferred tax
+            asset of $235,600 could need to be written off if we do not remain
+            profitable.
+
+11
+
+Comparison of Results of Operations for the Three Months Ended January 31, 2005
+and 2006
+
+      Net Income and Earnings Per Share. Net income increased $117,357, or
+29.2%, to $519,638 or $.09 per share for the three months ended January 31, 2006
+compared to $402,281 or $.10 per share for the three months ended January 31,
+2005. The increase in net income primarily reflects increased net sales, offset
+in part by an increase in cost of sales. While net income increased, earnings
+per share decreased for the comparable periods because, as a result of our
+initial public offering in May 2005, we had approximately 40% more shares of
+common stock outstanding during the three months ended January 31, 2006 than we
+did during the three months ended January 31, 2005. If the number of outstanding
+shares of common stock had remained constant, our basic and diluted earnings per
+share, based on the 3,999,650 shares outstanding during the three months ended
+January 31, 2005, would have been $.13 per share for the three months ended
+January 31, 2006.
+
+      Net Sales. Net sales totaled $13,844,845 for the three months ended
+January 31, 2006, an increase of $5,784,565 or 71.8% from $8,060,280 for the
+three months ended January 31, 2006. The increase in net sales reflects an
+increase in pounds of coffee sold due to increased sales of our private label,
+branded and specialty green coffees. For the quarter, sales of our Cafe Caribe
+brand, as measured by Information Resources Incorporated data, increased
+approximately 21.0% over the same period in 2005 due to new distribution and
+increased promotional activity. The number of our customers in the specialty
+green coffee area grew approximately 5.7% from 262 customers at January 31, 2005
+to 277 customers at January 31, 2006. These customers are predominately
+independent gourmet/specialty roasters, some of whom own their own retail
+outlets. Sales to new customers in this area historically start slowly because
+many of these companies are start up ventures. Because the specialty green
+coffee area is the fastest growing segment of the coffee market, we believe that
+our customer base and sales will grow in this area. The increase in the price of
+the underlying commodity (coffee) also contributed to the increase in net sales.
+
+      Cost of Sales. Cost of sales for the three months ended January 31, 2006
+was $11,519,402 or 83.2% of net sales, as compared to $5,988,013 or 74.3% of net
+sales for the three months ended January 31, 2005. Cost of sales consists
+primarily of the cost of green coffee and packaging materials and realized and
+unrealized gains or losses on hedging activity. The increase in cost of sales
+reflects increased purchases of green coffee in the amount of approximately
+$5,022,000 due to increased pounds sold and high green coffee prices during the
+period, an increase in packaging costs associated with the increase in net sales
+of approximately $203,000, and a decrease in net gains on future contracts of
+$275,290. As the price of coffee is cyclical and volatile and subject to many
+factors, including weather, politics and economics, we are unable to predict the
+purchase price of green coffee for fiscal 2006. We acquire futures contracts
+with longer terms (generally three to six months) primarily for the purpose of
+guaranteeing an adequate supply of green coffee at favorable prices. We had net
+gains on futures contracts of $445,464 for the three months ended January 31,
+2006 compared to $720,754 for the three months ended January 31, 2005. The use
+of these derivative financial instruments has enabled us to mitigate the effect
+of changing prices, to increase our margins as coffee prices have increased and
+to be more competitive with our pricing.
+
+      Gross Profit. Gross profit for the three months ended January 31, 2006 was
+$2,325,443, an increase of $253,176 or 12.2%, from $2,072,267 for the three
+months ended January 31, 2005. Gross profit as a percentage of net sales
+decreased by 8.9% to 16.8% for the three months ended January 31, 2006 from
+25.7% for the three months ended January 31, 2005. The decrease in our margins
+is mainly attributable to decreased net gains on future contracts during the
+three months ended January 31, 2006 compared to the same period the previous
+year and a 61% increase in robusta coffee prices on the London Robusta Market
+from the same period last year.
+
+      Operating Expenses. Total operating expenses increased by $23,426 or 1.7%
+to $1,418,812 for the three months ended January 31, 2006 from $1,395,386 for
+the three months ended January 31, 2006. Increases in shipping costs, office
+salaries and professional fees were partially offset by decreases in travel
+expenses and packaging development costs. The increase in shipping costs was
+attributable to increased sales. The increase in office salaries reflected new
+personnel added to assist with the additional administrative duties associated
+with our increase in net sales. Increased professional costs reflected the fees
+associated with the failed acquisition of a west coast coffee company. The
+decrease in packaging development costs was due to the completion in 2005 of our
+label redesign initiative. The decrease in travel expenses was due to reduced
+travel by officers during the 2006 period. Officers' salaries remained
+relatively static at $135,975 for the three months ended January 31, 2006
+compared to $127,321 for the three months ended January 31, 2006.
+
+12
+
+Other Income. Other income increased $38,307 to $15,107 for the three
+months ended January 31, 2006 compared to other expense of $23,200 for the three
+months ended January 31, 2005. The increase was attributable to both an increase
+in interest income of $27,296 and a decrease in interest expense of $11,011
+resulting from the improved cash flow and decreased reliance on line of credit
+borrowings due to our initial public offering in May 2005.
+
+      Income Before Taxes. We had income of $921,738 before income taxes for the
+three months ended January 31, 2006 compared to income of $653,681 before income
+taxes for the three months ended January 31, 2005. The increase was attributable
+to increased income from operations and decreased other expense.
+
+      Income Taxes. Our provision for income taxes for the three months ended
+January 31, 2006 totaled $402,100 compared to $251,400 for the three months
+ended January 31, 2005 as a result of increased income before taxes.
+
+Liquidity and Capital Resources
+
+      As of January 31, 2006, we had working capital of $8,812,408 which
+represented a $538,559 increase from our working capital of $8,273,849 as of
+October 31, 2005, and total stockholders' equity of $11,161,260, which increased
+by $519,638 from our total stockholders' equity of $10,641,622 as of October 31,
+2005. Our working capital increased primarily due to an increase of $1,110,132
+in cash, a decrease in accounts receivable of $754,940 and a decrease in
+inventories of $1,039,687, offset in part by a decrease of $1,038,711 in
+accounts payable and accrued expenses. Obligations under our line of credit
+borrowings also decreased by $592,042. At January 31, 2006, the outstanding
+balance on our line of credit was $471,125 compared to $1,063,167 at October 31,
+2005. Total stockholders' equity primarily increased due to net income for the
+quarter.
+
+      As of January 31, 2006, we had a financing agreement with Merrill Lynch
+Business Financial Services Inc. This line of credit is for a maximum
+$4,000,000, expires on October 31, 2006 and requires monthly interest payments
+at a rate of LIBOR plus 2.15%. This loan is secured by a blanket lien on all of
+our assets.
+
+      The credit facility contains covenants that place restrictions on our
+operations. Among other things, these covenants: require us to maintain certain
+financial ratios; require us to maintain a minimum net worth; and prohibit us
+from merging with or into other companies, acquiring all or substantially all of
+the assets of other companies, or selling all or substantially all of our assets
+without the consent of the lender. These restrictions could adversely impact our
+ability to implement our business plan, or raise additional capital, if needed.
+In addition, if we default under our existing credit facility or if our lender
+demands payment of a portion or all of our indebtedness, we may not have
+sufficient funds to make such payments. As of January 31, 2006, we were in
+compliance with all covenants contained in the credit facility.
+
+      For the three months ended January 31, 2006, our operating activities
+provided net cash of $1,777,699 as compared to the three months ended January
+31, 2005 when net cash used by operating activities was $917,586. The increased
+cash flow from operations for the three months ended January 31, 2006 was
+primarily due to an increase of $1,768,408 in cash received from inventories and
+an increase of $537,367 in accounts payable, offset in part by an increase of
+$387,782 in the amount due from broker.
+
+      For the three months ended January 31, 2006, our investing activities used
+net cash of $74,196 as compared to the three months ended January 31, 2005 when
+net cash used by investing activities was $22,427. The increase in net cash used
+by investing activities for the 2006 quarter was due to increased purchases of
+property and equipment which reflected the purchase of equipment in a machinery
+auction at the Winn Dixie roasting facility and the establishment of a food
+service operation directly at our Brooklyn facility.
+
+13
+
+For the three months ended January 31, 2006, our financing activities used
+net cash of $593,371 as compared to the three months ended January 31, 2005 when
+net cash provided by financing activities was $504,343. The decreased cash flow
+from financing activities was primarily due to increased net cash payments under
+our line of credit. In addition, during the three months ended January 31, 2005,
+we used $252,000 to fully pay off a term loan we no longer utilize.
+
+      We expect to fund our operations, including paying our liabilities,
+funding capital expenditures and making required payments on our debts, through
+the next twelve months with cash provided by operating activities and the use of
+our credit facility. In addition, an increase in eligible accounts receivable
+and inventory would permit us to make additional borrowings under our line of
+credit. We also believe we could, if necessary, obtain additional loans by
+mortgaging our headquarters.
+
+Off-Balance Sheet Arrangements
+
+      We do not have any off-balance sheet arrangements that have or are
+reasonably likely to have a current or future effect on our financial condition,
+changes in financial condition, revenues or expenses, results of operations,
+liquidity, capital expenditures or capital resources, that is material to
+investors.
+
+Item 3.     Quantitative and Qualitative Disclosures About Market Risk.
+
+      Market risks relating to our operations result primarily from changes in
+interest rates and commodity prices as further described below.
+
+      Interest Rate Risks. We are subject to market risk from exposure to
+fluctuations in interest rates. At January 31, 2006, our debt consisted of
+$471,125 of variable rate debt under our revolving line of credit. At January
+31, 2006, interest on the variable rate debt was payable primarily at 6.71% (or
+2.15% above the one-month LIBOR rate) for the revolving line of credit.
+
+      Commodity Price Risks. The supply and price of coffee beans are subject to
+volatility and are influenced by numerous factors which are beyond our control.
+Historically, we have used short-term coffee futures and options contracts
+primarily for the purpose of partially hedging and minimizing the effects of
+changing green coffee prices, as further explained in Note 5 of the notes to
+financial statements in this report. At January 31, 2006 we held 350 options
+covering an aggregate of 13,125,000 pounds of green coffee beans at a price of
+$1.20 per pound. The fair market value of these options, which was obtained from
+major financial institutions, was $700,500 at January 31, 2006. In addition, we
+acquire futures contracts with longer terms (generally three to four months)
+primarily for the purpose of guaranteeing an adequate supply of green coffee. At
+January 31, 2006, we held 10 futures contracts for the purchase of 375,000
+pounds of coffee at an average price of $1.182 for April 2006 contracts. The
+market price of coffee applicable to such contracts was $1.182 per pound at that
+date. The use of these derivative financial instruments has enabled us to
+mitigate the effect of changing prices although we generally remain exposed to
+loss when prices decline significantly in a short period of time or remain at
+higher levels, preventing us from obtaining inventory at favorable prices. We
+generally have been able to pass green coffee price increases through to
+customers, thereby maintaining our gross profits. However, we cannot predict
+whether we will be able to pass inventory price increases through to our
+customers in the future.
+
+14
+
+Item 4.     Controls and Procedures.
+
+      Management, including our President, Chief Executive Officer and Chief
+Financial Officer, has evaluated the effectiveness of our disclosure controls
+and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) as of
+the end of the period covered by this report. Based upon that evaluation, the
+President, Chief Executive Officer and Chief Financial Officer concluded that
+the disclosure controls and procedures were effective to ensure that information
+required to be disclosed in the reports that we file and submit under the
+Exchange Act is (i) recorded, processed, summarized and reported as and when
+required and (ii) accumulated and communicated to the Company's management,
+including its principal executive officer and principal financial officer, as
+appropriate to allow timely discussions regarding disclosure.
+
+      There have been no changes in our internal control over financial
+reporting identified in connection with the evaluation that occurred during our
+last fiscal quarter that has materially affected, or that is reasonably likely
+to materially affect, our internal control over financial reporting.
+
+15
+
+PART II -- OTHER INFORMATION
+
+Item 1.     Legal Proceedings.
+
+      None.
+
+Item 1A.    Risk Factors.
+
+      Not applicable.
+
+Item 2.     Unregistered Sales of Equity in Securities and Use of Proceeds.
+
+      On May 6, 2005, we concluded the public offering of 1,400,000 shares of
+our common stock at a price of $5.00 per share and on June 16, 2005 the
+underwriters exercised their option to purchase an additional 210,000 shares of
+our common stock at a price of $5.00 per share. After underwriting discounts and
+commissions and offering expenses, we received net proceeds of $6,436,016 in the
+offering, after giving effect to the over-allotment option. While we have not
+yet used all of the offering proceeds, we used some of the proceeds to pay down
+bank debt, to build up our inventories for sales expansion and for general
+corporate purposes, including working capital and capital expenditures. We also
+intend to use certain proceeds to implement a branded sales and marketing
+campaign, to purchase equipment for our La Junta, Colorado facility and to grow
+our food service distribution. As strategic opportunities arise, we may use the
+proceeds of the offering to fund acquisitions, licensing and other strategic
+alliances.
+
+      During the three months ended January 31, 2006, we did not repurchase any
+of our common stock. We currently do not have a stock repurchase program in
+place.
+
+Item 3.     Defaults upon Senior Securities.
+
+      None.
+
+Item 4.     Submission of Matters to a Vote of Security Holders.
+
+      During the three months ended January 31, 2006, no matters were submitted
+to a vote of security holders.
+
+Item 5.     Other Information.
+
+      None.
+
+Item 6.     Exhibits.
+
+      31.1  Rule 13a - 14(a)/15d - 14a Certification.
+
+      32.1  Section 1350 Certification.
+
+16
+
+SIGNATURES
+
+      Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+                                  Coffee Holding Co., Inc.
+                                  ----------------------------------------------
+                                  (Registrant)
+
+By: /s/ Andrew Gordon
+                                      ------------------------------------------
+                                      Andrew Gordon
+                                      President, Chief Executive Officer and
+                                      Chief Financial Officer
+
+March 16, 2006
+
+17
+
+<EX-31.1>
+ 2
+ v037862_ex31-1.txt
+
+Exhibit 31.1
+
+                                  CERTIFICATION
+
+      I, Andrew Gordon, certify that:
+
+1.    I have reviewed this quarterly report on Form 10-Q of Coffee Holding Co.,
+      Inc.;
+
+2.    Based on my knowledge, this report does not contain any untrue statement
+      of a material fact or omit to state a material fact necessary to make the
+      statements made, in light of the circumstances under which such statements
+      were made, not misleading with respect to the period covered by this
+      report;
+
+3.    Based on my knowledge, the financial statements, and other financial
+      information included in this report, fairly present in all material
+      respects the financial condition, results of operations and cash flows of
+      the company as of, and for, the periods presented in this report;
+
+4.    I am responsible for establishing and maintaining disclosure controls and
+      procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for
+      the company and have:
+
+      (a)   Designed such disclosure controls and procedures, or caused such
+            disclosure controls and procedures to be designed under our
+            supervision, to ensure that material information relating to the
+            company, including its consolidated subsidiaries, is made known to
+            us by others within those entities, particularly during the period
+            in which this report is being prepared;
+
+      (b)   Evaluated the effectiveness of the company's disclosure controls and
+            procedures and presented in this report our conclusions about the
+            effectiveness of the disclosure controls and procedures, as of the
+            end of the period covered by this report based on such evaluation;
+            and
+
+      (c)   Disclosed in this report any change in the issuer's internal control
+            over financial reporting that occurred during the period covered by
+            the quarterly report that has materially affected, or is reasonably
+            likely to materially affect, the issuer's internal control over
+            financial reporting; and
+
+5.    I have disclosed, based on my most recent evaluation of internal control
+      over financial reporting, to the company's auditors and the audit
+      committee of the company's board of directors (or persons performing the
+      equivalent functions):
+
+      (a)   All significant deficiencies and material weaknesses in the design
+            or operation of internal control over financial reporting which are
+            reasonably likely to adversely affect the company's ability to
+            record, process, summarize and report financial information; and
+
+      (b)   Any fraud, whether or not material, that involves management or
+            other employees who have a significant role in the company's
+            internal control over financial reporting.
+
+Date: March 16, 2006                 /s/ Andrew Gordon
+                                     -------------------------------------------
+                                     Andrew Gordon
+                                     President, Chief Executive Officer and
+                                     Chief Financial Officer
+                                     (Principal Executive Officer and
+                                     Principal Financial and Accounting Officer)
+
+</EX-31.1>
+
+<EX-32.1>
+ 3
+ v037862_ex32-1.txt
+
+Exhibit 32.1
+
+               STATEMENT FURNISHED PURSUANT TO SECTION 906 OF THE
+               SARBANES-OXLEY ACT OF 2002, 18 U.S.C. SECTION 1350
+
+      The undersigned, Andrew Gordon, is the President, Chief Executive Officer
+and Chief Financial Officer of Coffee Holding Co., Inc. (the "Company").
+
+      This statement is being furnished in connection with the filing by the
+Company of the Company's Quarterly Report on Form 10-Q for the period ended
+January 31, 2006 (the "Report").
+
+      By execution of this statement, I certify that:
+
+      A)    the Report fully complies with the requirements of Section 13(a) or
+            15(d) of the Securities Exchange Act of 1934 (15 U.S.C. 78m(a) or
+            78o(d)) and
+
+      B)    the information contained in the Report fairly presents, in all
+            material respects, the financial condition and results of operations
+            of the Company as of the dates and for the periods covered by the
+            Report.
+
+This statement is authorized to be attached as an exhibit to the Report so that
+this statement will accompany the Report at such time as the Report is filed
+with the Securities and Exchange Commission, pursuant to Section 906 of the
+Sarbanes-Oxley Act of 2002, 18 U.S.C. Section 1350. It is not intended that this
+statement be deemed to be filed for purposes of the Securities Exchange Act of
+1934, as amended.
+
+A signed original of this written statement required by Section 906 has been
+provided to Coffee Holding Co., Inc. and will be retained by Coffee Holding Co.,
+Inc. and furnished to the Securities and Exchange Commission or its staff upon
+request.
+
+March 16, 2006                                    /s/ Andrew Gordon
+- ------------------------------                    ------------------------------
+Dated                                             Andrew Gordon
+
+</EX-32.1>
+

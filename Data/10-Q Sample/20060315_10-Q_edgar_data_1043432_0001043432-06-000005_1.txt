@@ -1,0 +1,2573 @@
+<Header>
+<FileStats>
+    <FileName>20060315_10-Q_edgar_data_1043432_0001043432-06-000005_1.txt</FileName>
+    <GrossFileSize>149932</GrossFileSize>
+    <NetFileSize>141989</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>530</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>3</N_Tables>
+    <N_Exhibits>5</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001043432-06-000005.hdr.sgml : 20060315
+<ACCEPTANCE-DATETIME>20060315163013
+ACCESSION NUMBER:		0001043432-06-000005
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		6
+CONFORMED PERIOD OF REPORT:	20060129
+FILED AS OF DATE:		20060315
+DATE AS OF CHANGE:		20060315
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AMERICAN SKIING CO /ME
+		CENTRAL INDEX KEY:			0001043432
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-MISCELLANEOUS AMUSEMENT & RECREATION [7990]
+		IRS NUMBER:				043373730
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0730
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-13507
+		FILM NUMBER:		06688618
+
+	BUSINESS ADDRESS:	
+		STREET 1:		P O BOX 450
+		STREET 2:		SUNDAY RIVER ACCESS RD
+		CITY:			BETHEL
+		STATE:			ME
+		ZIP:			04217
+		BUSINESS PHONE:		2078248100
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 450
+		STREET 2:		SUNDAY RIVER ACCESS RD
+		CITY:			BETHEL
+		STATE:			ME
+		ZIP:			04217
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ASC HOLDINGS INC
+		DATE OF NAME CHANGE:	19970805
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ VIZVKRsyg6y3znCIZdK+ejBhO8JuT1AvEjA5FGtbBLPDOTy79XcltdLXntepnV93
+ vNR4IPYCGFbOBkurs937kg==
+
+ 0001043432-06-000005.txt : 20060315
+
+10-Q
+ 1
+ form10q2q06.txt
+ SECOND QUARTER 2006
+
+UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 10-Q
+
+[X] QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+           ACT OF 1934 for the quarterly period ended January 29, 2006
+                                       or
+[ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+     ACT OF 1934 for the transition period from____________ to ____________.
+
+                        --------------------------------
+                         Commission File Number 1-13507
+                        --------------------------------
+
+                             American Skiing Company
+             (Exact name of registrant as specified in its charter)
+
+         Delaware                                       04-3373730
+(State or other jurisdiction of             (I.R.S. Employer Identification No.)
+incorporation or organization)
+
+                             136 Heber Avenue, #303
+                                  P.O. Box 4552
+                              Park City, Utah 84060
+                    (Address of principal executive offices)
+                                   (Zip Code)
+
+                                 (435) 615-0340
+              (Registrant's telephone number, including area code)
+
+                                 Not Applicable
+(Former name, former address and former fiscal year, if changed since last
+                                    report.)
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days. Yes |X| No |_|
+
+Indicate by check mark whether the registrant is a large accelerated filer, an
+accelerated filer, or a non-accelerated filer (see definition of "accelerated
+filer" and "large accelerated filer" in Rule 12b-2 of the Exchange Act):
+
+Large accelerated filer  |_|  Accelerated filer  |  | Non-accelerated filer  [X]
+
+Indicate by check mark whether the registrant is a shell company (as defined in
+Rule 12b-2 of the Exchange Act). Yes |_| No |X|
+
+As of February 27, 2006, 31,738,183 shares of common stock were issued and
+outstanding, of which 14,760,530 shares were Class A common stock.
+
+Table of Contents
+
+Part I - Financial Information
+
+Item 1.  Financial Statements
+
+         Condensed Consolidated Statements of Operations and Changes in
+              Accumulated Deficit for the 14 weeks ended January 30, 2005 and
+              the 13 weeks ended January 29, 2006
+              (unaudited)......................................................3
+
+         Condensed Consolidated Statements of Operations and Changes in
+              Accumulated Deficit for the 27 weeks ended January 30, 2005 and
+              the 26 weeks ended January 29, 2006
+              (unaudited)......................................................4
+
+         Condensed Consolidated Balance Sheets as of July 31, 2005 and January
+              29, 2006 (unaudited).............................................5
+
+         Condensed Consolidated Statements of Cash Flows for the 27 weeks ended
+              January 30, 2005 and the 26 weeks ended January 29, 2006
+              (unaudited)......................................................7
+
+         Notes to Condensed Consolidated Financial Statements (unaudited)......8
+
+Item 2.  Management's Discussion and Analysis of Financial Condition and Results
+         of Operations
+
+         General..............................................................20
+
+         Liquidity and Capital Resources......................................21
+
+         Results of Operations................................................25
+
+Item 3.  Quantitative and Qualitative Disclosures about Market Risk...........29
+
+Item 4.  Controls and Procedures..............................................29
+
+Part II - Other Information
+
+Item 4.  Submission of Matters to a Vote of Security Holders..................30
+
+Item 6.  Exhibits.............................................................31
+
+2
+
+Part I - Financial Information
+
+                                     Item 1
+                              Financial Statements
+
+   Condensed Consolidated Statements of Operations and Changes in Accumulated
+                                     Deficit
+                    (In thousands, except per share amounts)
+
+                                         14 weeks ended          13 weeks ended
+                                        January 30, 2005        January 29, 2006
+                                           (unaudited)             (unaudited)
+                                      ---------------------   ------------------
+
+Net revenues:
+        Resort                        $          103,411      $         109,887
+        Real estate                                2,663                  2,612
+                                      ---------------------   ------------------
+           Total net revenues                    106,074                112,499
+                                      ---------------------   ------------------
+
+Operating expenses:
+        Resort                                    67,786                 67,766
+        Real estate                                2,155                  3,443
+        Marketing, general and
+         administrative                           16,210                 17,885
+        Depreciation and amortization             14,400                 13,061
+                                      ---------------------   ------------------
+           Total operating expenses              100,551                102,155
+                                      ---------------------   ------------------
+
+Income from operations                             5,523                 10,344
+Interest expense, net                            (21,684)               (22,015)
+Write-off of deferred financing costs
+     and loss on extinguishment of
+     senior subordinated notes                    (5,983)                   -
+Increase in fair value of interest
+     rate swap agreement                             -                      350
+                                      ---------------------   ------------------
+Net loss                              $          (22,144)               (11,321)
+                                      =====================   ==================
+
+Accumulated deficit, beginning of
+     period                           $         (581,285)              (659,079)
+
+Net loss                                         (22,144)               (11,321)
+                                      ---------------------   ------------------
+
+Accumulated deficit, end of period    $         (603,429)              (670,400)
+                                      =====================   ==================
+
+Basic and diluted net loss per common
+     share                            $            (0.70)     $           (0.36)
+                                      =====================   ==================
+
+Basic and diluted weighted average
+     common shares outstanding                    31,738                 31,738
+                                      =====================   ==================
+
+See accompanying Notes to Condensed Consolidated Financial Statements.
+
+                                       3
+
+Condensed Consolidated Statements of Operations and Changes in Accumulated
+                                     Deficit
+                    (In thousands, except per share amounts)
+
+                                         27 weeks ended          26 weeks ended
+                                        January 30, 2005        January 29, 2006
+                                           (unaudited)             (unaudited)
+                                      ---------------------   ------------------
+Net revenues:
+        Resort                        $          121,231      $         127,034
+        Real estate                                4,389                  5,581
+                                      ---------------------   ------------------
+           Total net revenues                    125,620                132,615
+                                      ---------------------   ------------------
+
+Operating expenses:
+        Resort                                    91,395                 91,729
+        Real estate                                3,263                  5,385
+        Marketing, general and
+         administrative                           27,027                 29,453
+        Depreciation and amortization             16,679                 15,971
+        Gain on sale of property                     -                     (169)
+        Impairment loss on property
+         sold                                        -                    1,533
+                                      ---------------------   ------------------
+           Total operating expenses              138,364                143,902
+                                      ---------------------   ------------------
+
+Loss from operations                             (12,744)               (11,287)
+Interest expense, net                            (41,137)               (43,269)
+Write-off of deferred financing costs
+     and loss on extinguishment of
+     senior subordinated notes                    (5,983)                   -
+Increase in fair value of interest
+     rate swap agreement                             -                    1,036
+                                      ---------------------   ------------------
+Net loss                              $          (59,864)     $         (53,520)
+                                      =====================   ==================
+
+Accumulated deficit, beginning of
+     period                           $         (543,565)              (616,880)
+
+Net loss                                         (59,864)               (53,520)
+                                      ---------------------   ------------------
+
+Accumulated deficit, end of period    $         (603,429)              (670,400)
+                                      =====================   ==================
+
+Basic and diluted net loss per common
+     share                            $            (1.89)     $           (1.69)
+                                      =====================   ==================
+
+Basic and diluted weighted average
+     common shares outstanding                    31,738                 31,738
+                                      =====================   ==================
+
+See accompanying Notes to Condensed Consolidated Financial Statements.
+
+                                       4
+
+Condensed Consolidated Balance Sheets
+               (In thousands, except share and per share amounts)
+
+                                         July 31, 2005         January 29, 2006
+                                          (unaudited)             (unaudited)
+                                      --------------------    ------------------
+Assets
+Current assets
+      Cash and cash equivalents       $            6,216      $          18,756
+      Restricted cash                              2,557                  5,910
+      Accounts receivable, net                     5,627                  8,515
+      Inventory                                    3,576                  7,619
+      Prepaid expenses and other                   3,829                  4,900
+      Deferred income taxes                        7,536                  7,536
+                                      --------------------    ------------------
+           Total current assets                   29,341                 53,236
+
+Property and equipment, net                      348,619                340,651
+Real estate developed for sale                    22,304                 20,421
+Intangible assets, net                             6,307                  6,278
+Deferred financing costs, net                      6,472                  5,916
+Other assets                                       9,891                 11,029
+                                      --------------------    ------------------
+           Total assets               $          422,934      $         437,531
+                                      ====================    ==================
+
+(continued on next page)
+
+See accompanying Notes to Condensed Consolidated Financial Statements.
+
+5
+
+Condensed Consolidated Balance Sheets (continued)
+               (In thousands, except share and per share amounts)
+
+                                         July 31, 2005         January 29, 2006
+                                          (unaudited)             (unaudited)
+                                      --------------------    ------------------
+Liabilities and Shareholders' Deficit
+Current liabilities
+    Current portion of long-term debt $           31,223      $          18,341
+    Accounts payable and other current
+     liabilities                                  43,219                 67,597
+    Deposits and deferred revenue                 22,139                 49,643
+                                      --------------------    ------------------
+           Total current liabilities              96,581                135,581
+
+Long-term debt, net of current portion           209,519                209,594
+Subordinated notes and debentures                102,813                112,493
+Other long-term liabilities                       10,635                  6,868
+Deferred income taxes                              7,536                  7,536
+Mandatorily Redeemable 8 1/2% Series B
+ Convertible Participating Preferred
+ Stock, par value of $0.01 per share;
+ 150,000 shares authorized, issued, and
+ outstanding (redemption value of $0)                -                      -
+Mandatorily Redeemable Convertible
+ Participating 12% Series C-1 Preferred
+ Stock, par value of $0.01 per share;
+ 40,000 shares authorized, issued, and
+ outstanding, including cumulative
+ dividends (redemption value of $63,574
+ and $67,434, respectively)                       63,203                 67,139
+Mandatorily Redeemable 15% Nonvoting
+ Series C-2 Preferred Stock, par value of
+ $0.01 per share; 139,453 shares
+ authorized, issued, and outstanding,
+ including cumulative dividends
+ (redemption value of $248,339 and
+ $267,261, respectively)                         246,924                266,117
+Mandatorily Redeemable Nonvoting Series
+ D Participating Preferred Stock, par
+ value of $0.01 per share; 5,000 shares
+ authorized; no shares issued or
+ outstanding                                         -                      -
+                                      --------------------    ------------------
+           Total liabilities                     737,211                805,328
+                                      --------------------    ------------------
+
+Shareholders' deficit
+   Common stock, Class A, par value of
+    $0.01 per share; 15,000,000 shares
+    authorized; 14,760,530 shares issued
+    and outstanding                                  148                    148
+   Common stock, par value of $0.01 per
+    share; 100,000,000 shares
+    authorized; 16,977,653 shares issued
+    and outstanding                                  170                    170
+   Additional paid-in capital                    302,285                302,285
+   Accumulated deficit                          (616,880)              (670,400)
+                                      --------------------    ------------------
+           Total shareholders' deficit          (314,277)              (367,797)
+                                      --------------------    ------------------
+           Total liabilities and
+            shareholders' deficit     $          422,934      $         437,531
+                                      ====================    ==================
+
+See accompanying Notes to Condensed Consolidated Financial Statements.
+
+6
+ 
+                 Condensed Consolidated Statements of Cash Flows
+                                 (In thousands)
+
+                                         27 weeks ended         26 weeks ended
+                                        January 30, 2005       January 29, 2006
+                                           (unaudited)            (unaudited)
+                                      --------------------    ------------------
+Cash flows from operating activities
+Net loss                              $          (59,864)               (53,520)
+Adjustments to reconcile net loss to
+ net cash provided by operating
+ activities:
+     Depreciation and amortization                16,679                 15,971
+     Amortization of deferred financing
+      costs and accretion of discount
+      and dividends on mandatorily
+      redeemable preferred stock                  24,578                 23,685
+     Non-cash interest on junior
+      subordinated notes                           2,727                  5,793
+     Non-cash increase in fair value
+      of interest rate swap agreement                -                   (1,036)
+     Non-cash Phantom Equity Plan
+      compensation expense (recovery)               (103)                   149
+     Write-off of deferred financing
+      costs and extinguishment of
+      senior subordinated notes                    5,983                    -
+     Gain from sale of property                     (754)                  (486)
+     Impairment loss on property sold                -                    1,533
+     Decrease (increase) in assets:
+            Restricted cash                        1,729                 (3,353)
+            Accounts receivable, net              (3,324)                (2,888)
+            Inventory                             (4,393)                (4,043)
+            Prepaid expenses and other            (2,655)                (1,071)
+            Real estate developed for
+             sale                                    931                  1,883
+            Other assets                           1,028                    164
+     Increase (decrease) in liabilities:
+            Accounts payable and other
+             current liabilities                  16,630                 24,064
+            Deposits and deferred revenue         31,952                 27,504
+            Other long-term liabilities              424                    (29)
+                                      --------------------    ------------------
+              Net cash provided by
+               operating activities               31,568                 34,320
+                                      --------------------    ------------------
+Cash flows from investing activities
+     Capital expenditures                        (12,663)                (7,290)
+     Proceeds from sale of property                1,008                  2,942
+                                      --------------------    ------------------
+              Net cash used in
+               investing activities              (11,655)                (4,348)
+                                      --------------------    ------------------
+Cash flows from financing activities
+     Proceeds from resort senior credit
+      facilities                                 259,750                 46,558
+     Repayment of resort senior credit
+      facilities                                (137,178)               (58,996)
+     Repayment of senior subordinated
+      debt                                      (121,875)                   -
+     Proceeds from long-term debt                  2,550                    -
+     Repayment of long-term debt                  (5,443)                (2,244)
+     Repayment of real estate debt                (1,640)                (2,750)
+     Deferred financing costs                     (7,271)                   -
+                                      --------------------    ------------------
+              Net cash used in
+               financing activities              (11,107)               (17,432)
+                                      --------------------    ------------------
+Net increase in cash and cash
+ equivalents                                       8,806                 12,540
+Cash and cash equivalents,
+ beginning of period                               7,024                  6,216
+                                      --------------------    ------------------
+Cash and cash equivalents, end of
+ period                               $           15,830                 18,756
+                                      ====================    ==================
+Supplemental disclosures of cash flow
+ information:
+     Cash paid for interest           $           13,800      $          13,266
+     Acquisition of equipment held
+      under capital leases                        12,674                  4,625
+     Conversion of Series A Preferred
+      Stock to New Junior Subordinated
+      Notes                                       76,673                    -
+     Addition of interest to principal
+      outstanding for New Junior
+      Subordinated Notes                             910                  8,728
+
+                                       7
+     See accompanying Notes to Condensed Consolidated Financial Statements.
+
+Notes to Condensed Consolidated Financial Statements (unaudited)
+
+1.  General
+
+         American Skiing Company (ASC), a Delaware corporation, and its
+subsidiaries (collectively, the Company) own and operate resort facilities, real
+estate development companies, golf courses, ski and golf schools, retail shops,
+and other related companies. The Company conducts its resort operations through
+its wholly owned subsidiaries which operated the following ski resorts during
+the 26 weeks ended January 29, 2006 and the 27 weeks ended January 30, 2005:
+Sugarloaf/USA and Sunday River in Maine, Attitash in New Hampshire, Killington
+and Mount Snow in Vermont, The Canyons in Utah, and Steamboat in Colorado. The
+Company conducts its real estate development operations through its wholly owned
+subsidiary, American Skiing Company Resort Properties (Resort Properties), and
+Resort Properties' subsidiaries, including Grand Summit Resort Properties, Inc.
+and The Canyons Resort Properties, Inc.
+
+         The Company reports its results of operations in two business segments,
+resort operations and real estate operations. The Company's fiscal year is a
+fifty-two week or fifty-three week period ending on the last Sunday of July.
+Fiscal 2006 is a fifty-two week reporting period and fiscal 2005 was a
+fifty-three week reporting period. Each quarter consists of 13 weeks, with the
+exception of the second quarter of fiscal 2005, which consisted of 14 weeks. The
+accompanying unaudited condensed consolidated financial statements have been
+prepared in accordance with U.S. generally accepted accounting principles for
+interim financial information and with the instructions to Form 10-Q and Rule
+10-01 of Regulation S-X. Accordingly, they do not include all of the information
+and footnotes required by U.S. generally accepted accounting principles for
+complete financial statements. In the opinion of management, all adjustments
+(consisting only of normal recurring adjustments) considered necessary for a
+fair presentation have been included.
+
+         Results for interim periods are not indicative of the results expected
+for the year due to the seasonal nature of the Company's business. Due to the
+seasonality of the ski industry, the Company typically incurs significant
+operating losses in its resort operations segment during its first and fourth
+fiscal quarters. The unaudited condensed consolidated financial statements
+should be read in conjunction with the following notes and the Company's
+consolidated financial statements included in its Form 10-K for the fiscal year
+ended July 31, 2005 filed with the Securities and Exchange Commission on October
+31, 2005.
+
+2.  Significant Accounting Policies
+
+         The preparation of financial statements requires management to make
+estimates and assumptions that affect the reported amounts of assets and
+liabilities and the disclosure of contingent assets and liabilities at the date
+of the financial statements and the reported amounts of sales and expenses
+during the reporting periods. Areas where significant judgments are made
+include, but are not limited to: allowances for doubtful accounts, litigation
+accruals, insurance reserves, long-lived asset valuation, realizability and
+useful lives, and allowances for deferred income tax assets. Actual results
+could differ materially from these estimates. The following are the Company's
+significant accounting policies:
+
+Principles of Consolidation
+         The accompanying condensed consolidated financial statements include
+the accounts of ASC and its wholly owned subsidiaries. All significant
+intercompany accounts and transactions have been eliminated in consolidation.
+
+Cash and Cash Equivalents
+         The Company considers all highly liquid debt instruments with an
+original maturity to the Company of three months or less to be cash equivalents.
+Cash equivalents, which consisted of short-term certificates of deposit, totaled
+approximately $0.9 million as of each of July 31, 2005 and January 29, 2006.
+
+Restricted Cash
+         Restricted cash consists of deposits received and held in escrow
+related to pre-sales of real estate developed for sale, guest advance deposits
+for lodging reservations, and cash held in cash collateral accounts by lenders
+on behalf of the real estate companies. The cash becomes available to the
+Company when the real estate units are sold, the lodging services are provided,
+or upon approval of expenditures by lenders.
+
+                                       8
+
+Inventory
+         Inventory is stated at the lower of cost (first-in, first-out method)
+or market, and consists primarily of retail goods, food, and beverage products.
+
+Property and Equipment
+         Property and equipment are carried at cost, net of accumulated
+depreciation, amortization, and impairment charges. Depreciation and
+amortization are calculated using the straight-line method over the assets'
+estimated useful lives which range from 9 to 40 years for buildings, 3 to 12
+years for machinery and equipment, 10 to 50 years for land improvements, and 5
+to 30 years for lifts, lift lines, and trails. Assets held under capital lease
+obligations are amortized over the shorter of their useful lives or their
+respective lease lives, unless a bargain purchase option exists at the end of
+the lease in which case the assets are amortized over their estimated useful
+lives. Due to the seasonality of the Company's business, the Company records a
+full year of depreciation and amortization relating to its ski resort operating
+assets during the second and third quarters of the Company's fiscal year.
+
+Real Estate Developed for Sale
+         The Company capitalizes as real estate developed for sale the original
+acquisition cost of land, direct construction and development costs, property
+taxes, interest incurred on costs related to real estate under development, and
+other related costs (engineering, surveying, landscaping, etc.) until the
+property has been developed to the point it is ready for sale. The cost of sales
+for individual parcels of real estate or quarter and eighth share units within a
+project is determined using the relative sales value method. Selling costs are
+charged to expense in the period in which the related revenue is recognized.
+
+Goodwill and Other Intangible Assets
+         As prescribed in Statement of Financial Accounting Standards (SFAS) No.
+142, "Goodwill and Other Intangible Assets," certain indefinite-lived intangible
+assets, including trademarks, are no longer amortized but are subject to annual
+impairment assessments. An impairment loss is recognized to the extent that the
+carrying amount exceeds the asset's fair value. Definite-lived intangible assets
+continue to be amortized on a straight-line basis over their estimated useful
+lives of 31 years, and assessed for impairment utilizing guidance provided by
+SFAS No. 144, "Accounting for the Impairment or Disposal of Long-Lived Assets."
+
+         As of July 31, 2005 and January 29, 2006, other intangible assets
+consist of the following (in thousands):
+
+    ------------------------------------------------------------------------
+                                         July 31, 2005     January 29, 2006
+    ------------------------------------------------------------------------
+    Definite-lived Intangible Assets:
+      Lease agreements               $          1,853    $            1,853
+      Less accumulated amortization              (404)                 (433)
+                                     -----------------   -------------------
+                                                1,449                 1,420
+
+    Indefinite-lived Intangible Assets:
+      Trade names                                 170                   170
+      Water rights                              4,688                 4,688
+                                     -----------------   -------------------
+    Intangible Assets, net           $          6,307    $            6,278
+                                     =================   ===================
+
+    ------------------------------------------------------------------------
+
+         Amortization expense related to intangible assets was approximately
+$15,000 for both the 14 weeks ended January 30, 2005 and the 13 weeks ended
+January 29, 2006. Future amortization expense related to definite-lived
+intangible assets is estimated to be approximately $58,000 for each of the next
+five fiscal years.
+
+Long-Lived Assets
+         In accordance with SFAS No. 144, "Accounting for the Impairment or
+Disposal of Long-Lived Assets," long-lived assets, such as property, equipment,
+and definite-lived intangibles are reviewed for impairment whenever events or
+changes in circumstances indicate that the carrying amount of an asset may not
+be recoverable. Recoverability of assets to be held and used is measured by a
+comparison of the carrying amount of an asset to the estimated undiscounted
+future cash flows expected to be generated by the asset. If the carrying amount
+of an asset exceeds its estimated future cash flows, an impairment charge is
+recognized in the amount by which the carrying amount of the asset exceeds the
+fair value of the asset. Assets to be disposed of are reported at the lower of
+the carrying amount or fair value less costs to sell, and depreciation ceases.
+
+                                       9
+
+Revenue Recognition
+         Resort revenues include sales of lift tickets, skier development, golf
+course and other recreational activities fees, sales from restaurants, bars, and
+retail and rental shops, and lodging and property management fees (real estate
+rentals). Daily lift ticket revenue is recognized on the day of purchase. Lift
+ticket season pass revenue is recognized on a straight-line basis over the ski
+season, which is the Company's second and third quarters of its fiscal year. The
+Company's remaining resort revenues are generally recognized as the services are
+performed. Real estate revenues are recognized under the full accrual method
+when title has been transferred, initial and continuing investments are adequate
+to demonstrate a commitment to pay for the property, and no continuing
+involvement exists. Amounts received from pre-sales of real estate are recorded
+as restricted cash and deposits and deferred revenue in the accompanying
+consolidated balance sheets until the earnings process is complete.
+
+Stock Option Plan
+            Effective August 1, 1997, the Company established a fixed stock
+option plan, the American Skiing Company Stock Option Plan (the Plan), which is
+more fully described in Note 2 of the Company's fiscal 2005 Annual Report on
+Form 10-K, that provides for the grant of incentive and non-qualified stock
+options for the purchase of up to 8,688,699 shares of the Company's common stock
+by officers, management employees, members of the board of directors of the
+Company and its subsidiaries, and other key persons (eligible for nonqualified
+stock options only) as designated by the Compensation Committee. The Plan has no
+restricted stock option component. There have been no options granted since July
+2001.
+
+            Prior to July 31, 2005, as permitted under SFAS No. 123, the Company
+accounted for its stock option plans following the recognition and measurement
+principles of Accounting Principles Board (APB) Opinion No. 25, "Accounting for
+Stock Issued to Employees," and related interpretations. Accordingly, no
+stock-based compensation had been reflected in net loss for stock options, as
+all options granted had an exercise price equal to the market value of the
+underlying common stock on the date of grant and the related number of shares
+granted was fixed at that point in time.
+
+            In December 2004, the Financial Accounting Standards Board (FASB)
+issued SFAS No. 123(R), "Share Based Payment." This statement revised SFAS No.
+123 by eliminating the option to account for employee stock options under APB
+Opinion No. 25 and requires companies to recognize the cost of employee services
+received in exchange for awards of equity instruments based on the grant-date
+fair value of those awards (the "fair-value-based" method).
+
+            Effective August 1, 2005, the Company adopted the fair value
+recognition provisions of SFAS No. 123(R) using the modified prospective
+application method. Under this transition method, compensation cost recognized
+in the 13 and 26 week periods ended January 29, 2006, includes amounts of: (a)
+compensation cost of all stock-based payments granted prior to, but not yet
+vested as of, August 1, 2005 (based on grant-date fair value estimated in
+accordance with the original provisions of SFAS No. 123, and previously
+presented in the pro-forma footnote disclosures), and (b) compensation cost for
+all stock-based payments granted subsequent to August 1, 2005 (based on the
+grant-date fair value estimated in accordance with the provisions of SFAS No.
+123(R)). In accordance with the modified prospective application method, results
+for prior periods have not been restated.
+
+            The effect of adopting SFAS No. 123(R) as of August 1, 2005 for the
+26-week period ended January 29, 2006 was less than $1,000 of reported
+compensation expense. All outstanding options were fully vested as of January
+29, 2006.
+
+            Under the modified prospective application method, results for prior
+periods have not been restated to reflect the effects of implementing SFAS No.
+123(R). The following pro-forma information, as required by SFAS No. 148,
+"Accounting for Stock-Based Compensation-Transition and Disclosure, an amendment
+of FASB Statement No. 123," is presented for comparative purposes and
+illustrates the effect on net loss and net loss per common share for the period
+presented as if the Company had applied the fair value recognition provisions of
+SFAS No. 123 to stock-based employee compensation prior to August 1, 2005 (in
+thousands, except per share amounts):
+
+                                       10
+
+The following table summarizes stock option activity during the 26 weeks ended
+January 29, 2006:
+- --------------------------------------------------------------------------------
+                                                             Weighted Average
+                                         Weighted Average  Remaining Contractual
+                               Options    Exercise Price           Term
+- --------------------------------------------------------------------------------
+Outstanding at July 31, 2005  3,811,187      $ 4.26                4.25
+Granted                               -
+Exercised                             -
+Forfeited                             -
+                              --------------------------------------------------
+Outstanding at January 29,
+2006                          3,811,187      $ 4.26                3.73
+                              ==================================================
+
+Vested at January 29, 2006    3,811,187      $ 4.26                3.73
+
+Exercisable at January 29,
+2006                          3,811,187      $ 4.26                3.73
+- --------------------------------------------------------------------------------
+
+            As of January 29, 2006, all options have vested. Accordingly, there
+is no future compensation cost related to non-vested options or non-vested
+restricted options to be recognized.
+
+Derivative Financial Instruments
+         All derivatives are recognized in the condensed consolidated balance
+sheets at their fair values. On the date the derivative contract is entered
+into, the Company designates the derivative as either a hedge of the fair value
+of a recognized asset or liability ("fair value" hedge), or the variability of
+cash flows to be received or paid related to a recognized asset or liability
+("cash flow" hedge). During fiscal 2005, the Company entered into an interest
+rate swap agreement covering a notional amount of $95.0 million related to its
+Resort Senior Credit Facility. The agreement is adjusted to market value at each
+reporting period and the increase or decrease is reflected in the condensed
+consolidated statements of operations. For the 26-week period ended January 29,
+2006, the Company recognized approximately $1.0 million of other non-cash income
+from market value adjustments to this agreement.
+
+Accounting for Variable Interest Entities
+         In December 2003, the FASB issued a revision to FASB Interpretation
+(FIN) No. 46, "Consolidation of Variable Interest Entities" (FIN No. 46(R)). FIN
+No. 46(R) clarifies the application of ARB No. 51, "Consolidated Financial
+Statements," to certain entities in which equity investors do not have the
+characteristics of a controlling financial interest or do not have sufficient
+equity risk for the entity to finance its activities without additional
+subordinated financial support. FIN No. 46(R) requires the consolidation of
+these entities, known as variable interest entities, by the primary beneficiary
+of the entity. The primary beneficiary is the entity, if any, that will absorb a
+majority of the variable interest entity's expected losses, receive a majority
+of the variable interest entity's expected residual returns, or both. Under
+these guidelines, the Company adopted FIN No. 46(R) during fiscal 2004.
+
+                                       11
+
+On May 14, 2004, Resort Properties completed the restructuring of the
+Real Estate Term Facility from Fleet National Bank, Ski Partners, LLC, and Oak
+Hill Capital Partners. As a result of the restructuring, a new business venture
+called SP Land Company, LLC (SP Land) was created by Ski Partners, LLC, Resort
+Properties, and Killington, Ltd. (Killington) (an ASC subsidiary). As part of
+the restructuring, certain developmental land parcels at the Killington resort
+and cash with a combined carrying value of approximately $2.2 million were
+transferred by Resort Properties and Killington into SP Land Company, LLC,
+together with all indebtedness, including related interest and fees, under the
+Real Estate Term Facility held by Fleet National Bank and Ski Partners, LLC
+(Tranche A and B of the Real Estate Term Facility) totaling $55.4 million.
+Collectively, Killington and Resort Properties own 25% of the membership
+interests of SP Land. The remaining 75% of the membership interests in SP Land
+is owned by Ski Partners, LLC, together with a preferential interest in SP Land
+of approximately $37.2 million. In accordance with FIN No. 46(R), SP Land is a
+variable interest entity and is accounted for on the equity method because it
+does not meet the requirements for consolidation.
+
+         As part of the restructuring of the Real Estate Term Facility,
+Killington also contributed all of its interest in approximately 256 acres of
+developmental real estate into a joint venture entity called Cherry Knoll
+Associates, LLC (Cherry Knoll). Each of SP Land and Killington own 50% of the
+membership interests in Cherry Knoll. In addition, Killington maintains a
+preferential distribution interest in Cherry Knoll of $1.5 million. In
+accordance with FIN No. 46(R), Cherry Knoll is a variable interest entity and is
+accounted for on the equity method because it does not meet the requirements for
+consolidation.
+
+         In October 2004, the Company, through one of its subsidiaries, acquired
+a 49% interest in SS Associates, LLC (SS Associates) by contributing its rights
+to purchase a building to SS Associates and by making a refundable security
+deposit of $0.4 million. In accordance with FIN No. 46(R), the Company
+consolidates SS Associates because it meets the requirements of a variable
+interest entity for which the Company is the primary beneficiary.
+
+         SS Associates purchased a building in October 2004 for $3.5 million
+(including costs to close) with cash and the issuance of long-term debt of $2.5
+million. The loan is secured by the building, has 59 monthly payments of $29,000
+each, a final payment in October 2009 of $1.5 million, and bears interest at
+6.5% per year. SS Associates is obligated on the loan and none of the Company's
+remaining subsidiaries is obligated. SS Associates leases the building to the
+Company for $0.5 million per year. The non-ASC owned interest in SS Associates
+of $0.5 million (owned in part by certain members of mid-level management at the
+Company's Killington resort) is included in other long-term liabilities in the
+accompanying condensed consolidated balance sheet as of January 29, 2006.
+
+Reclassifications
+         Certain amounts in the prior periods' financial statements and related
+notes have been reclassified to conform to the current periods' presentation.
+
+Recently Issued Accounting Standards
+         In December 2004, the FASB issued SFAS No. 152, "Accounting for Real
+Estate Time-Sharing Transactions - an amendment of FASB Statements No. 66 and
+67." This statement amends SFAS No. 66, "Accounting for Sales of Real Estate,"
+(SFAS No. 66) and SFAS No. 67, "Accounting for Costs and Initial Rental
+Operations of Real Estate Projects," to state that the guidance for (a)
+incidental operations and (b) costs incurred to sell real estate projects also
+applies to real estate time-share transactions. The accounting for those
+operations and costs is also subject to the guidance of Statement of Position
+(SOP) 04-2, which provides guidance on the seller's accounting for real estate
+time-sharing transactions. SFAS No. 152, however, does not change the revenue
+guidance in SFAS No. 66. The provisions of SFAS No. 152 became effective for the
+quarter ended October 30, 2005 and were adopted by the Company. There was no
+material impact to the accompanying condensed consolidated financial statements
+due to the adoption of this provision.
+
+         In December 2004, the FASB issued SFAS No. 153, "Exchanges of
+Nonmonetary Assets - an Amendment of APB Opinion No. 29" (SFAS No. 153). This
+statement amends APB Opinion No. 29 to eliminate the exception for nonmonetary
+exchanges of similar productive assets and replaces it with a general exception
+for exchanges of nonmonetary assets that do not have commercial substance. A
+nonmonetary exchange has commercial substance if the future cash flows of the
+entity are expected to change significantly as a result of the exchange. The
+provisions of SFAS No. 153 became effective for the quarter ended October 30,
+2005 and were adopted by the Company. There was no impact to the accompanying
+condensed consolidated financial statements due to the adoption of this
+provision.
+
+                                       12
+
+In March 2005, the FASB issued FIN No. 47, "Accounting for Conditional
+Asset Retirement Obligations" (FIN No. 47). FIN No. 47 clarifies the term
+"conditional asset retirement obligation" as used in SFAS No. 143, "Accounting
+for Asset Retirement Obligations." SFAS No. 143 refers to a legal obligation to
+perform an asset retirement activity in which the timing and (or) method of
+settlement are conditional on a future event that may or may not be within the
+control of the entity. SFAS No. 143 requires an entity to recognize the fair
+value of a legal obligation to perform asset retirement activities when the
+obligation is incurred. FIN No. 47 further clarifies when an entity has
+sufficient information to reasonably estimate the fair value of a conditional
+asset retirement obligation. The provisions of FIN No. 47 became effective for
+the quarter ended October 30, 2005 and were adopted by the Company. Management
+has determined under SFAS No. 143 that it cannot reasonably estimate the fair
+value of its asset retirement obligations relating to certain provisions in its
+lease agreements at Attitash, Mount Snow, and Steamboat requiring it to reforest
+certain ski terrain leased from the U.S. Forest Service, as the option to renew
+these leases is in the control of the Company and management currently has no
+intention to terminate the lease. Management has not recorded a liability in its
+condensed consolidated financial statements for these obligations. Management
+has determined that these obligations are not conditional on a future event and
+as such, the adoption of FIN No. 47 has no impact on the accompanying condensed
+consolidated financial statements.
+
+3.  Net Loss per Common Share
+
+         Net loss per common share for the periods ended January 30, 2005 and
+January 29, 2006, was determined based on the following data (in thousands):
+
+As of January 30, 2005 and January 29, 2006, the Company had 14,760,530
+shares of its Class A common stock outstanding, which are convertible into
+shares of the Company's common stock. The shares of the Company's common stock
+issuable upon conversion of the shares of the Company's Class A common stock
+have been included in the calculation of the weighted average common shares
+outstanding. As of January 30, 2005 and January 29, 2006, the Company had 40,000
+shares of its mandatorily redeemable convertible participating 12% Series C-1
+preferred stock (Series C-1 Preferred Stock) outstanding, which are convertible
+into shares of the Company's common stock. If converted at their liquidation
+preferences as of January 30, 2005 and January 29, 2006, these convertible
+preferred shares would convert into approximately 47,947,000 and 53,947,000
+shares of common stock, respectively. For the periods ended January 30, 2005 and
+January 29, 2006, the common shares into which these preferred securities are
+convertible have not been included in the dilutive share calculation as the
+impact of their inclusion would be anti-dilutive. The Company also had 3,811,187
+options outstanding to purchase shares of its common stock under the Plan as of
+each of January 30, 2005 and January 29, 2006. These stock options are excluded
+from the dilutive share calculation, as the impact of their inclusion would be
+anti-dilutive.
+
+4.  Segment Information
+
+         In accordance with SFAS No. 131, "Disclosures about Segments of an
+Enterprise and Related Information" (SFAS No. 131), the Company has classified
+its operations into two business segments, resort operations and real estate
+operations. Revenues at each of the resorts are derived from the same lines of
+business which include lift ticket sales, food and beverage, retail sales
+including rental and repair, skier development, lodging and property management,
+golf, other summer activities and miscellaneous revenue sources. The performance
+of the resorts is evaluated on the same basis of profit or loss from operations.
+Additionally, each of the resorts has historically produced similar operating
+margins and attracts the same class of customer. Based on the similarities of
+the operations at each of the resorts, the Company has concluded that the
+resorts satisfy the aggregation criteria set forth in SFAS No. 131. The
+Company's real estate revenues are derived from the sale, resale, and leasing of
+interests in real estate development projects undertaken by the Company at its
+resorts and the sale of other real property interests. Revenues and operating
+losses for the two business segments are as follows (in thousands):
+
+                                       13
+
+Identifiable assets for the two business segments and a reconciliation
+of the totals reported for the operating segments to the totals reported in the
+condensed consolidated balance sheets is as follows (in thousands):
+
+        ------------------------------------------------------------------------
+                                             July 31, 2005      January 29, 2006
+        ------------------------------------------------------------------------
+        Identifiable Assets:
+         Resort                              $     355,483      $       375,553
+         Real Estate                                58,296               52,852
+                                             --------------     ----------------
+                                             $     413,779      $       428,405
+                                             ==============     ================
+        Assets:
+         Identifiable assets for segments    $     413,779      $       428,405
+         Intangible and deferred income tax
+           assets not allocated to segments          9,155                9,126
+                                             --------------     ----------------
+                 Total consolidated assets   $     422,934      $       437,531
+                                             ==============     ================
+
+        ------------------------------------------------------------------------
+
+5.  Long-Term Debt
+
+Resort Senior Credit Facility
+
+         The Company entered into agreements dated November 24, 2004 with Credit
+Suisse, GE Capital, and other lenders whereby the lenders provided the Company
+with a $230.0 million senior secured loan facility (Resort Senior Credit
+Facility) consisting of a revolving credit facility and two term loan
+facilities. The proceeds of the Resort Senior Credit Facility were used to repay
+in full the previously existing resort senior credit facility and redeem the
+Company's $120.0 million senior subordinated notes (Senior Subordinated Notes),
+as well as to pay fees and expenses related to the transaction. The Resort
+Senior Credit Facility consists of the following:
+
+         o     Revolving Facility - $40.0 million, including letter of credit
+               (L/C) availability of up to $6.0 million. The amount of
+               availability under this facility is correspondingly reduced by
+               the amount of each L/C issued.
+
+         o     First Lien Term Loan - $85.0 million borrowed on the funding date
+               of November 24, 2004.
+
+         o     Second Lien Term Loan - $105.0 million borrowed on the funding
+               date of November 24, 2004.
+
+                                       14
+
+The Revolving Facility and First Lien Term Loan are provided under a
+single credit agreement (collectively, the First Lien Credit Agreement), mature
+in November 2010 and bear interest, at the option of the Company, either at a
+rate equal to the prime rate, as publicly quoted in The Wall Street Journal,
+plus 3.5%, or at a rate equal to LIBOR (as defined) plus 4.5%, payable quarterly
+(10.75% based on the prime rate for the Revolving Facility and 9.06% based on
+the LIBOR rate for the First Lien Term Loan as of January 29, 2006). The First
+Lien Term Loan requires 23 quarterly principal payments of $212,500 beginning on
+January 15, 2005 and a final payment of $80.1 million in November 2010. The
+Revolving Facility is comprised of two sub-facilities, each in the amount of
+$20.0 million and each with separate fees for the unused portion of the
+facilities in the amounts of 1.0% and 4.5% per annum, respectively. The Second
+Lien Term Loan is provided under a separate credit agreement (Second Lien Credit
+Agreement), matures in November 2011, bears interest at a rate equal to the
+prime rate, as publicly quoted in The Wall Street Journal, plus 7.0%, or at a
+rate equal to LIBOR (as defined) plus 8.0%, payable quarterly (12.56% as of
+January 29, 2006 based on the LIBOR rate), and principal is due upon maturity.
+
+         The Revolving Facility and the First Lien Term Loan obligations under
+the First Lien Credit Agreement are secured by a first-priority security
+interest in substantially all of the Company's assets, other than assets held by
+Grand Summit, and the Company's obligations under the Second Lien Credit
+Agreement are secured by a second-priority security interest in the same assets.
+Collateral matters between the lenders under the First Lien Credit Agreement and
+the lenders under the Second Lien Credit Agreement are governed by an
+intercreditor agreement.
+
+         The Resort Senior Credit Facility contains affirmative, negative, and
+financial covenants customary for this type of credit facility, which includes
+maintaining a minimum level of EBITDA (as defined), limiting the Company's
+capital expenditures, maintaining a minimum ratio of appraised asset value to
+debt, and having a zero balance on the Revolving Credit Facility (excluding
+L/Cs) on April 1 of each year. The Resort Senior Credit Facility also contains
+events of default customary for such financings, including but not limited to
+nonpayment of amounts when due; violation of covenants; cross default and cross
+acceleration with respect to other material debt; change of control;
+dissolution; insolvency; bankruptcy events; and material judgments. Some of
+these events of default allow for grace periods or are qualified by materiality
+concepts. The Resort Senior Credit Facility requires the Company to offer to
+prepay the loans with proceeds of certain material asset sales and recovery
+events, certain proceeds of debt, 50% of excess cash flow, and proceeds from the
+issuance of capital stock. The Resort Senior Credit Facility also restricts the
+Company's ability to pay cash dividends on or redeem its common and preferred
+stock. Pursuant to the requirements of the Resort Senior Credit Facility, on May
+23, 2005, the Company entered into an interest rate swap agreement for 50% of
+the First Lien Term Loan and the Second Lien Term Loan for a notional amount of
+$95.0 million. Under the swap agreement, during the period from May 16, 2005 to
+November 15, 2005, the Company paid 4.16% and received the 6-month LIBOR rate.
+During the period from November 16, 2005 to May 15, 2008, the Company pays 4.16%
+and receives the 3-month LIBOR rate. As a result of entering into this interest
+rate swap agreement, the Company has fixed the cash-pay rate on the notional
+amount until the maturity of the swap agreement in May 2008. Changes in the fair
+value of the interest rate swap agreement are recorded as increase in fair value
+of this interest rate swap agreement at each reporting period-end. During the
+26-week period ended January 29, 2006, the Company recognized approximately $1.0
+million of increase in fair value of this agreement due to market value
+adjustments. The total balance sheet effect as of January 29, 2006 is a net
+asset of $1.3 million.
+
+         As of January 29, 2006, the Company had $1.9 million, $82.9 million,
+and $105.0 million of principal outstanding under the Revolving Facility, First
+Lien Term Loan, and Second Lien Term Loan portions of the Resort Senior Credit
+Facility, respectively. Furthermore, as of January 29, 2006, the Company had
+$1.6 million in outstanding L/Cs with $36.5 million available for additional
+borrowings under the Revolving Facility. The Company was in compliance with all
+financial covenants of the Resort Senior Credit Facility through January 29,
+2006.
+
+Construction Loan Facility
+
+         The Company conducts substantially all of its real estate development
+through subsidiaries, each of which is a wholly owned subsidiary of Resort
+Properties. Grand Summit owns the existing Grand Summit Hotel project at
+Steamboat, which is primarily financed through the $110.0 million Senior
+Construction Loan (Senior Construction Loan). Due to construction delays and
+cost increases at the Steamboat Grand Hotel project, on July 25, 2000, Grand
+Summit entered into the $10.0 million Subordinated Construction Loan, which was
+subsequently increased to $10.6 million in December 2003 (Subordinated
+Construction Loan). Together, the Senior Construction Loan and the Subordinated
+Construction Loan comprise the Construction Loan Facility. The Company used the
+Construction Loan Facility solely for the purpose of funding the completion of
+the Steamboat Grand Hotel. The Construction Loan Facility is without recourse to
+ASC and its resort operating subsidiaries and is collateralized by significant
+real estate assets of Resort Properties and its subsidiaries, including the
+assets and stock of Grand Summit, ASC's primary hotel development subsidiary.
+
+                                       15
+
+The outstanding principal amount under the Construction Loan Facility
+is payable incrementally as quarter and eighth share unit sales are closed based
+on a predetermined per unit amount, which approximates between 70% and 80% of
+the net proceeds of each closing. Mortgages against the commercial core units
+and unsold unit inventory at the Grand Summit Hotel at Steamboat and a
+promissory note from the Steamboat Homeowners Association secured by the
+Steamboat Grand Hotel parking garage collateralize the Senior Construction Loan,
+which is subject to covenants, representations, and warranties customary for
+this type of construction facility. The Senior Construction Loan is non-recourse
+to ASC and its resort operating subsidiaries other than Grand Summit. Grand
+Summit has assets with a total carrying value of $39.9 million as of January 29,
+2006, which collateralize the Senior Construction Loan. The maturity date for
+funds advanced under the Senior Construction Loan is June 30, 2006. The
+principal balance outstanding under the Senior Construction Loan was $9.1
+million as of January 29, 2006 and had an interest rate on funds advanced of
+prime plus 3.5% (10.75% as of January 29, 2006), with a floor of 9.0%.
+
+         On December 6, 2005, Grand Summit received a letter from the lenders
+waiving the December 31, 2005 maximum outstanding principal balance requirement.
+On December 31, 2005, the principal balance was $9.3 million, or $1.3 million in
+excess of the maximum outstanding principal balance under the Senior
+Construction Loan. The Senior Construction Loan, as amended, prior to giving
+effect to the further amendment described below, requires that Grand Summit's
+outstanding borrowings not exceed the following maximum outstanding principal
+balances as of the following dates:
+                March 31, 2006                   $5,000,000
+                June 30, 2006                       -
+
+         On December 8, 2005, the Company announced that it would be conducting
+an auction on March 18, 2006 for the remaining unsold developer inventory at the
+Grand Summit Hotel at Steamboat. In connection with the auction announcement, on
+February 14, 2006, Grand Summit entered into a letter agreement with the lenders
+under the Senior Construction Loan waiving the March 31, 2006 maximum
+outstanding principal balance requirement and resetting the predetermined per
+unit principal paydown amount noted above to 85% of all gross proceeds received
+from this auction.
+
+         The Subordinated Construction Loan bears interest at a fixed rate of
+20% per annum, payable monthly in arrears. Only 50% of the amount of this
+interest is due and payable in cash and the other 50%, if no events of default
+exist under the Subordinated Construction Loan or the Senior Construction Loan,
+is automatically deferred until the final payment date. The Subordinated
+Construction Loan, as amended, matures on November 30, 2007. All $10.6 million
+had been borrowed and remained outstanding under the Subordinated Construction
+Loan as of January 29, 2006. The Subordinated Construction Loan is secured by
+the same collateral which secures the Senior Construction Loan.
+
+         The Subordinated Construction Loan, as amended, requires that Grand
+Summit's outstanding borrowings not exceed the following maximum outstanding
+principal balances as of the following dates:
+
+                June 30, 2006                    $10,000,000
+                December 31, 2006                  8,000,000
+                March 31, 2007                     5,000,000
+                June 30, 2007                      2,500,000
+                November 30, 2007                      -
+
+         The Construction Loan facility is non-recourse to ASC and its
+subsidiaries other than Grand Summit.
+
+Other Long-Term Debt
+
+       The Company has $18.4 million of other long-term debt as of January 29,
+2006. This is comprised of $10.3 million of capital lease obligations and $8.1
+million of notes payable with various lenders.
+
+16
+
+6.  Subordinated Notes and Debentures
+
+    11.3025% Junior Subordinated Notes
+         On July 15, 2001, the Company entered into a securities purchase
+agreement with Oak Hill Capital Partners to assist the Company in meeting its
+financing needs. Pursuant to the terms of the securities purchase agreement,
+which closed on August 31, 2001, the Company issued, and Oak Hill Capital
+Partners purchased, $12.5 million aggregate principal amount of Junior
+Subordinated Notes (Junior Subordinated Notes), which are convertible into
+shares of the Company's Non-voting Series D Participating Preferred Stock
+(Series D Preferred Stock). The Junior Subordinated Notes are unsecured and bear
+interest at a rate of 11.3025%, which compounds annually and is due and payable
+at the maturity of the Junior Subordinated Notes. The Junior Subordinated Notes
+were amended in connection with the Company's entry into the Resort Senior
+Credit Facility on November 24, 2004 to extend their maturity to May 2012. The
+proceeds of the Junior Subordinated Notes were used to fund short-term liquidity
+needs of Resort Properties by way of the purchase of certain real estate assets
+by ASC from Resort Properties. As of January 29, 2006, the outstanding balance
+on the Junior Subordinated Notes was approximately $20.1 million including
+compounded interest.
+
+     New Junior Subordinated Notes
+         In connection with the Company's entry into the Resort Senior Credit
+Facility on November 24, 2004, the Company entered into an exchange agreement
+with the holder of the Company's Series A Preferred Stock and issued $76.7
+million of junior subordinated notes due May 2012 (New Junior Subordinated
+Notes) to the holder of the Series A Preferred Stock in exchange for all
+outstanding shares of Series A Preferred Stock. The New Junior Subordinated
+Notes accrue interest at a rate of 11.25% upon issuance, gradually increasing to
+a rate of 13.0% in 2012. No principal or interest payments are required to be
+made on the New Junior Subordinated Notes until maturity. However, interest is
+added to the principal outstanding on January 1 of each year. On January 1,
+2005, $0.9 million of interest was added to the principal outstanding and on
+January 1, 2006, $8.6 million was added to the principal outstanding. The New
+Junior Subordinated Notes are subordinated to all of the Company's other debt
+obligations and all trade payables incurred in the ordinary course of business.
+None of the Company's subsidiaries are obligated on the New Junior Subordinated
+Notes, and none of the Company's assets serve as collateral for repayment of the
+New Junior Subordinated Notes. The indenture governing the New Junior
+Subordinated Notes also restricts the Company from paying cash dividends or
+making other distributions to its shareholders subject to certain limited
+exceptions. As of January 29, 2006, the outstanding balance on the New Junior
+Subordinated Notes was $86.2 million. Accrued interest as of January 29, 2006 on
+the New Junior Subordinated Notes was $1.7 million.
+
+     Other Subordinated Debentures
+         Other subordinated debentures owed by the Company to institutions and
+individuals as of January 29, 2006 are unsecured and are due as follows (dollars
+in thousands):
+
+                         ------------------------------
+                                   Interest  Principal
+                           Year      Rate     Amount
+                         ------------------------------
+                           2010       8%     $   1,292
+                           2012       6%         1,155
+                           2013       6%         1,065
+                           2015       6%         1,500
+                           2016       6%         1,196
+                                             ----------
+                                             $   6,208
+                                             ==========
+
+                         ------------------------------
+
+                                       17
+
+7.  Mandatorily Redeemable Securities
+
+    Series A Preferred Stock
+         As of July 25, 2004, the Company had 36,626 shares of Series A
+Preferred Stock outstanding. In connection with the Company's entry into the
+Resort Senior Credit Facility on November 24, 2004 all outstanding shares of the
+Series A Preferred Stock were exchanged for New Junior Subordinated Notes in the
+principal amount of $76.7 million.
+
+    Series B Preferred Stock
+         Pursuant to a Preferred Stock Subscription Agreement (the Series B
+Agreement) dated July 9, 1999, the Company sold 150,000 shares of its 8.5%
+Series B Convertible Participating Preferred Stock (Series B Preferred Stock) on
+August 9, 1999 to Oak Hill for $150.0 million.
+
+         On August 31, 2001, in connection with a recapitalization transaction,
+the Series B Preferred Stock was stripped of all of its economic and governance
+rights and preferences, with the exception of its right to elect up to six
+directors of ASC. The Company issued mandatorily redeemable Series C-1 Preferred
+Stock and Series C-2 Preferred Stock with an aggregate initial face value of
+$179.5 million which was equal to the accrued liquidation preference of the
+Series B Preferred Stock immediately before being stripped of its right to such
+accrued liquidation preference. The Series B Preferred Stock currently remains
+outstanding but will lose its remaining rights, including voting rights, upon
+redemption of the Series C-1 Preferred Stock and Series C-2 Preferred Stock in
+July 2007.
+
+    Series C-1 Preferred Stock and Series C-2 Preferred Stock
+         On July 15, 2001, the Company entered into a securities purchase
+agreement with Oak Hill to assist the Company in meeting its current financing
+needs. Pursuant to the terms of the securities purchase agreement, which closed
+on August 31, 2001, the Company issued to Oak Hill two new series of Preferred
+Stock: (i) $40.0 million face value of Series C-1 Preferred Stock; and (ii)
+$139.5 million face value of Series C-2 Preferred Stock. The initial face values
+of the Series C-1 Preferred Stock and Series C-2 Preferred Stock correspond to
+the accrued liquidation preference of the Series B Preferred Stock immediately
+before being stripped of its right to such accrued liquidation preference. The
+Series C-1 Preferred Stock and Series C-2 Preferred Stock are entitled to annual
+preferred dividends of 12% and 15%, respectively. At the Company's option,
+dividends can either be paid in cash or in additional shares of preferred stock.
+The Series C-1 Preferred Stock is convertible into common stock at a price of
+$1.25 per share, subject to adjustments. The Series C-2 Preferred Stock is not
+convertible. Both the Series C-1 Preferred Stock and Series C-2 Preferred Stock
+are mandatorily redeemable and mature in July 2007. As of January 29, 2006,
+cumulative dividends in arrears totaled approximately $27.4 million and $127.8
+million for the Series C-1 Preferred Stock and Series C-2 Preferred Stock,
+respectively. The Series C-1 Preferred Stock and Series C-2 Preferred Stock have
+certain voting rights as defined in the securities certificates of designation
+relating thereto and rank senior in liquidation preference to all common stock
+and Class A common stock outstanding as of January 29, 2006, common stock, Class
+A common stock and Series D Preferred Stock issued in the future, and rank pari
+passu with each other and the Series B Preferred Stock. The Series C-1 Preferred
+Stock is also participating preferred stock and consequently has the right to
+participate in any dividends paid or payable to the common stock of the Company
+on an as-if-converted basis.
+
+    Series D Preferred Stock
+         The Company has authorized the issuance of 5,000 shares of Series D
+Preferred Stock. As of January 29, 2006, no shares of Series D Preferred Stock
+have been issued. The Series D Preferred Stock is junior in right of preference
+to the Series C-1 Preferred Stock and Series C-2 Preferred Stock, is not
+entitled to preferred dividends, and is redeemable at the option of the
+shareholders.
+
+8.  Dividend Restrictions and Stockholders Agreement
+
+    Dividend Restrictions
+         Borrowers under the Resort Senior Credit Facility, which include ASC,
+are restricted from paying cash dividends on any of their preferred or common
+stock.
+
+         Grand Summit, the borrower under the Construction Loan Facility, is
+restricted from declaring dividends or advancing funds to ASC by any other
+method, unless specifically approved by the Construction Loan Facility lenders.
+
+                                       18
+
+Stockholders Agreement
+         The Company, Oak Hill, and Mr. Leslie B. Otten (Mr. Otten) entered into
+a Stockholders Agreement, dated as of August 6, 1999, amended on July 31, 2000
+(as amended, the Stockholders Agreement), pursuant to which each of Mr. Otten
+and Oak Hill agreed to vote its capital stock of the Company so as to cause
+there to be:
+
+    o     Six directors of the Company nominated by Oak Hill, so long as Oak
+          Hill owns 80% of the shares of common stock it owned as of July 30,
+          2000 on a fully diluted basis, such number of directors decreasing
+          ratably with the percentage of Oak Hill's ownership of the common
+          stock on a fully diluted basis compared to such ownership as of July
+          30, 2000; and
+
+    o     Two directors of the Company nominated by Mr. Otten, so long as Mr.
+          Otten owns 15% of the shares of common stock outstanding on a fully
+          diluted basis, and one director so nominated, so long as Mr. Otten
+          owns at least 5% of the shares of common stock outstanding on a fully
+          diluted basis.
+
+         As of January 29, 2006, Oak Hill owned not less than 80% of the shares
+of common stock it owned as of July 30, 2000, on a fully diluted basis, and Mr.
+Otten owned not less than 15% of the shares of common stock outstanding on a
+fully diluted basis.
+
+         The Stockholders Agreement provides that, so long as Oak Hill owns at
+least 20% of the outstanding shares of common stock on a fully diluted basis,
+the affirmative vote of at least one Oak Hill director is required prior to the
+approval of (i) the Company's annual budget, (ii) significant executive
+personnel decisions, (iii) material actions likely to have an impact of 5% or
+more on the Company's consolidated revenues or earnings, amendments to the
+Company's articles of incorporation or by-laws, (iv) any liquidation,
+reorganization, or business combination of the Company, (v) the initiation of
+certain material litigation, and (vi) any material financing of the Company.
+
+         Under the Stockholders Agreement, Oak Hill and Mr. Otten have agreed
+not to dispose of their securities of the Company if, (i) as a result of such
+transfer, the transferee would own more than 10% of the outstanding shares of
+common stock of the Company (on a fully diluted basis), unless such transfer is
+approved by the Board of Directors (x) including a majority of the Common
+Directors (as defined in the Stockholders Agreement), or (y) the public
+stockholders of the Company are given the opportunity to participate in such
+transfer on equivalent terms, (ii) the transferee is a competitor of the Company
+or any of its subsidiaries, unless such transfer is approved by the Board of
+Directors, or (iii) such transfer would materially disadvantage the business of
+the Company. The Stockholders Agreement provides for additional customary
+transfer restrictions applicable to each of Mr. Otten and Oak Hill as well as
+standstill provisions applicable to Oak Hill.
+
+         The Stockholders Agreement provides that, upon the Company's issuance
+of shares of common stock or securities convertible into common stock, Mr. Otten
+and Oak Hill will have the right to purchase at the same price and on the same
+terms, the number of shares of common stock or securities convertible into
+common stock necessary for each of them to maintain individually the same level
+of beneficial ownership of common stock of the Company on a fully diluted basis
+as it owned immediately prior to the issuance. This anti-dilution provision is
+subject to customary exceptions.
+
+9.  Phantom Equity Plan
+
+         ASC has established the American Skiing Company Phantom Equity Plan
+(LTIP). Certain of ASC's executive officers participate in the LTIP.
+Participants are entitled to a payment on awards granted under the LTIP, to the
+extent vested upon a Valuation Event (as defined below) or in certain cases upon
+termination of employment. The amount of any award is based ultimately on the
+Equity Value, as defined by the LTIP, obtained through a Valuation Event. A
+Valuation Event is defined in the LTIP as any of the following: (i) a sale or
+disposition of a significant Company operation or property as determined by the
+Board of Directors; (ii) a merger, consolidation, or similar event of the
+Company other than one (A) in which the Company is the surviving entity or (B)
+where no Change in Control (as defined in the LTIP) has occurred; (iii) a public
+offering of equity securities by the Company that yields net proceeds to the
+Company in excess of $50 million; or (iv) a Change in Control. Compensation
+expense relating to the LTIP is estimated and recorded based on the probability
+of the Company achieving a Valuation Event and its estimated Equity Value.
+During the 14 weeks ended January 30, 2005, the Company recorded a recovery of
+$0.2 million and during the 13 weeks ended January 29, 2006, the Company
+recorded expenses relating to the LTIP of approximately $0.1 million. During the
+27 weeks ended January 30, 2005, the Company recorded a net recovery of $0.1
+million and during the 26 weeks ended January 29, 2006, the Company recorded
+expenses relating to the LTIP of approximately $0.1 million. These are included
+in marketing, general, and administrative expenses in the accompanying
+consolidated statements of operations. As of January 29, 2006, the total
+liability for the LTIP was $1.4 million, which is included in other long-term
+liabilities in the condensed consolidated balance sheet.
+
+                                       19
+
+10.  Commitments and Contingencies
+
+         Certain claims, suits and complaints in the ordinary course of business
+are pending or may arise against the Company, including all of its direct and
+indirect subsidiaries. In the opinion of management, all matters are adequately
+covered by insurance or, if not covered, are without merit or are of such kind,
+or involve such amounts, as are not likely to have a material effect on the
+financial position, results of operations or liquidity of the Company if
+disposed of unfavorably.
+
+Item 2
+                Management's Discussion and Analysis of Financial
+                       Condition and Results of Operations
+
+                           Forward-Looking Statements
+
+         Certain statements contained in this report constitute forward-looking
+statements within the meaning of Section 27A of the Securities Act of 1933, as
+amended (the Securities Act), and Section 21E of the Securities Exchange Act of
+1934, as amended (the Exchange Act). These forward-looking statements are not
+based on historical facts, but rather reflect our current expectations
+concerning future results and events. Similarly, statements that describe our
+objectives, plans or goals are or may be forward-looking statements. We have
+tried, wherever possible, to identify such statements by using words such as
+"anticipate", "assume", "believe", "expect", "intend", "plan", and words and
+terms of similar substance in connection with any discussion of operating or
+financial performance. Such forward-looking statements involve a number of risks
+and uncertainties. In addition to factors discussed above, other factors that
+could cause actual results, performances or achievements to differ materially
+from those projected include, but are not limited to, the following: changes in
+regional and national business and economic conditions affecting both our resort
+operating and real estate segments; competition and pricing pressures; negative
+impact on demand for our products resulting from terrorism and availability of
+air travel (including the effect of airline bankruptcies); failure to maintain
+improvements to resort operating performance at the covenant levels required by
+our Resort Senior Credit Facility; adverse weather conditions regionally and
+nationally; changes in weather patterns resulting from global warming; seasonal
+business activity; increased gas and energy prices; changes to federal, state
+and local regulations affecting both our resort operating and real estate
+segments; failure to renew land leases and forest service permits; disruptions
+in water supply that would impact snowmaking operations; the loss of any of our
+executive officers or key operating personnel; and other factors listed from
+time to time in our documents we have filed with the Securities and Exchange
+Commission. We caution the reader that this list is not exhaustive. We operate
+in a changing business environment and new risks arise from time to time. The
+forward-looking statements included in this document are made only as of the
+date of this document and under Section 27A of the Securities Act and Section
+21E of the Exchange Act, we do not have or undertake any obligation to publicly
+update any forward-looking statements to reflect subsequent events or
+circumstances.
+
+General
+
+         We are organized as a holding company and operate through various
+subsidiaries. We are one of the largest operators of alpine ski and snowboard
+resorts in the United States. We develop, own and operate a range of
+hospitality-related businesses, including skier development programs, hotels,
+golf courses, restaurants and retail locations. We also develop, market and
+operate ski-in/ski-out alpine villages, townhouses, condominiums, and quarter
+and eighth share ownership hotels. We report our results of operations in two
+business segments, resort operations and real estate operations.
+
+         Our operating strategies include taking advantage of our multi-resort
+network, increasing our revenue per skier, continuing to build brand awareness
+and customer loyalty, expanding our sales and marketing efforts, continuing to
+focus on cost management, expanding our golf and convention business, improving
+our hotel occupancy and operating margins, and capitalizing on real estate
+growth opportunities through joint ventures.
+
+20
+
+Our revenues are highly seasonal in nature. In fiscal 2005, we realized
+approximately 89% of resort operations segment revenues and over 100% of resort
+operations segment operating income during the period from mid-November through
+April. In addition, a significant portion of resort operations segment revenue
+and approximately 20% of annual skier visits were generated during the Christmas
+and Presidents' Day vacation weeks in fiscal 2005. Our resorts typically
+experience operating losses and negative cash flows for the period from May
+through mid-November.
+
+         A high degree of seasonality in our revenues increases the impact of
+certain events on our operating results. Adverse weather conditions, access
+route closures, equipment failures, and other developments of even moderate or
+limited duration occurring during peak business periods could reduce revenues.
+Adverse weather conditions can also increase power and other operating costs
+associated with snowmaking or could render snowmaking wholly or partially
+ineffective in maintaining quality skiing conditions. Furthermore, unfavorable
+weather conditions, regardless of actual skiing conditions, can result in
+decreased skier visits.
+
+         The following is our discussion and analysis of financial condition and
+results of operations as of January 29, 2006 and for the 13 weeks and 26 weeks
+then ended. As you read the information below, we urge you to carefully consider
+our fiscal 2005 Annual Report on Form 10-K filed on October 31, 2005 and our
+unaudited condensed consolidated financial statements and related notes
+contained elsewhere in this report.
+
+Liquidity and Capital Resources
+
+Short-Term Liquidity Needs
+
+         Our primary short-term liquidity needs involve funding seasonal working
+capital requirements, marketing and selling real estate development projects,
+funding our fiscal 2006 capital improvement program, and servicing our debt. Our
+cash requirements for ski-related and real estate sales activities are provided
+from separate sources.
+
+         Our primary source of liquidity for ski-related working capital and
+ski-related capital improvements are cash flows from operating activities of our
+resort operating subsidiaries and borrowings under our Resort Senior Credit
+Facility. The total debt outstanding under our Resort Senior Credit Facility as
+of January 29, 2006 was $189.9 million.
+
+         Real estate working capital is funded primarily through unit inventory
+sales and short-term rental of remaining unit inventory. Historically, the
+Construction Loan Facility funded such working capital. The Construction Loan
+Facility is without recourse to ASC and its subsidiaries other than Grand Summit
+and is collateralized by significant real estate assets of Grand Summit. As of
+January 29, 2006, the carrying value of the total assets that collateralized the
+Construction Loan Facility was $39.9 million. The total debt outstanding on the
+Construction Loan Facility as of January 29, 2006 was $19.7 million. See "Real
+Estate Liquidity" below.
+
+Resort Liquidity
+
+         We entered into agreements dated November 24, 2004 with Credit Suisse,
+GE Capital, and other lenders whereby the lenders provided us with a $230.0
+million Resort Senior Credit Facility consisting of a revolving credit facility
+and two term loan facilities. The proceeds of the Resort Senior Credit Facility
+were used to refinance our prior resort senior credit facility and redeem our
+Senior Subordinated Notes as well as to pay fees and expenses related to the
+transaction. The Resort Senior Credit Facility consists of the following:
+
+         o     Revolving Facility - $40.0 million, including letter of credit
+               (L/C) availability of up to $6.0 million. The amount of
+               availability under this facility is correspondingly reduced by
+               the amount of each L/C issued.
+
+         o     First Lien Term Loan - $85.0 million borrowed on the funding date
+               of November 24, 2004.
+
+         o     Second Lien Term Loan - $105.0 million borrowed on the funding
+               date of November 24, 2004.
+
+                                       21
+
+The Revolving Facility and First Lien Term Loan are provided under the
+First Lien Credit Agreement, mature in November 2010 and bear interest, at our
+option, either at a rate equal to the prime rate as publicly quoted in the Wall
+Street Journal plus 3.5% or at a rate equal to LIBOR (as defined) plus 4.5%,
+payable quarterly (10.75% based on the prime rate for the Revolving Facility and
+9.06% based on the LIBOR rate for the First Lien Term Loan as of January 29,
+2006). The First Lien Term Loan requires 23 quarterly principal payments of
+$212,500 each, beginning on January 15, 2005 and a final payment of $80.1
+million in November 2010. The Revolving Facility is comprised of two
+sub-facilities, each in the amount of $20.0 million and each with separate fees
+for the unused portion of the facilities (in the amounts of 1.0% and 4.5% per
+annum, respectively). The Second Lien Term Loan is provided under the Second
+Lien Credit Agreement, matures in November 2011, bears interest at a rate equal
+to the prime rate as publicly quoted in the Wall Street Journal plus 7.0% or at
+a rate equal to LIBOR (as defined) plus 8.0%, payable quarterly (12.56% as of
+January 29, 2006 based on the LIBOR rate), and principal is due upon maturity.
+
+        The Revolving Facility and the First Lien Term Loan obligations under
+the First Lien Credit Agreement are secured by a first-priority security
+interest in substantially all of our assets, other than assets held by Grand
+Summit, and our obligations under the Second Lien Credit Agreement are secured
+by a second-priority security interest in the same assets. Collateral matters
+between the lenders under the First Lien Credit Agreement and the lenders under
+the Second Lien Credit Agreement are governed by an intercreditor agreement.
+
+         The Resort Senior Credit Facility contains affirmative, negative, and
+financial covenants customary for this type of credit facility, which includes
+maintaining a minimum level of EBITDA (as defined), limiting our capital
+expenditures, maintaining a minimum ratio of appraised asset value to debt, and
+having a zero balance on the Revolving Credit Facility (excluding L/Cs) on April
+1 of each year. The Resort Senior Credit Facility also contains events of
+default customary for such financings, including but not limited to nonpayment
+of amounts when due; violation of covenants; cross default and cross
+acceleration with respect to other material debt; change of control;
+dissolution; insolvency; bankruptcy events; and material judgments. Some of
+these events of default allow for grace periods or are qualified by materiality
+concepts. The Resort Senior Credit Facility requires us to prepay the loans with
+proceeds of certain material asset sales and recovery events, certain proceeds
+of debt, 50% of excess cash flow, and proceeds from the issuance of capital
+stock. The Resort Senior Credit Facility also restricts our ability to pay cash
+dividends on or redeem our common or preferred stock. Pursuant to the
+requirements of the Resort Senior Credit Facility, on May 23, 2005, we entered
+into an interest rate swap agreement for 50% of the First Lien Term Loan and the
+Second Lien Term Loan for a notional amount of $95.0 million. Under the swap
+agreement, during the period of May 16, 2005 to November 15, 2005, we paid 4.16%
+and received the 6-month LIBOR rate. During the period from November 16, 2005 to
+May 15, 2008, we pay 4.16% and receive the 3-month LIBOR rate. As a result of
+entering into this interest rate swap agreement, we have fixed the cash-pay rate
+on the notional amount until the maturity of the swap agreement in May 2008.
+
+         As of January 29, 2006, we had $1.9 million, $82.9 million, and $105.0
+million of principal outstanding under the Revolving Facility, First Lien Term
+Loan, and Second Lien Term Loan portions of the Resort Senior Credit Facility,
+respectively. Furthermore, as of January 29, 2006, we had $1.6 million in
+outstanding L/Cs with $36.5 million available for additional borrowings under
+the Revolving Facility. We currently anticipate that the remaining borrowing
+capacity under the Resort Senior Credit Facility will be sufficient to meet our
+working capital needs through the end of our second quarter of fiscal 2007.
+
+         We have $18.4 million of other long-term debt as of January 29, 2006.
+This is comprised of $10.3 million of capital lease obligations and $8.1 million
+of other notes payable with various lenders.
+
+         We closely monitor our operating results that impact our ability to
+meet the financial covenants under our Resort Senior Credit Facility. We take
+various actions to maintain compliance with our financial covenants, including
+selling non-core assets to increase revenues, and reducing our cost structure
+during the off-season and seasonal low-visitation at our resorts. In the event
+of a violation of the financial covenants under our Resort Senior Credit
+Facility, we would engage in discussions with our lenders for a waiver of those
+covenants for the period in question. Due to the restrictions under our Resort
+Senior Credit Facility, we have limited access to alternate sources of funding.
+
+22
+
+Our significant debt levels affect our liquidity. As a result of our
+highly leveraged position, we have significant cash requirements to service
+interest and principal payments on our debt. Consequently, cash availability for
+working capital needs, capital expenditures, and acquisitions is significantly
+limited, outside of any availability under the Resort Senior Credit Facility.
+Furthermore, our Resort Senior Credit Facility contains significant restrictions
+on our ability to obtain additional sources of capital and may affect our
+liquidity. These restrictions include restrictions on the sale of assets,
+restrictions on the incurrence of additional indebtedness, and restrictions on
+the issuance of preferred stock.
+
+Real Estate Liquidity
+
+         To fund working capital and fund its real estate sales plan, Grand
+Summit relies primarily on unit inventory sales, short-term rental of remaining
+unit inventory, as well as lease payments from long-term commercial tenants.
+
+         The Company conducts substantially all of its real estate development
+through subsidiaries, each of which is a wholly owned subsidiary of Resort
+Properties. Grand Summit owns the existing Grand Summit Hotel project at
+Steamboat, which is primarily financed through the $110.0 million Senior
+Construction Loan. Due to construction delays and cost increases at the
+Steamboat Grand Hotel project, on July 25, 2000, Grand Summit entered into the
+$10.0 million Subordinated Construction Loan, which was subsequently increased
+to $10.6 million in December 2003. Together, the Senior Construction Loan and
+the Subordinated Construction Loan comprise the Construction Loan Facility. The
+Company used the Construction Loan Facility solely for the purpose of funding
+the completion of the Steamboat Grand Hotel. The Construction Loan Facility is
+without recourse to ASC and its resort operating subsidiaries and is
+collateralized by significant real estate assets of Resort Properties and its
+subsidiaries, including the assets and stock of Grand Summit, ASC's primary
+hotel development subsidiary.
+
+         The outstanding principal amount under the Construction Loan Facility
+is payable incrementally as quarter and eighth share unit sales are closed based
+on a predetermined per unit amount, which approximates between 70% and 80% of
+the net proceeds of each closing. Mortgages against the commercial core units
+and unsold unit inventory at the Grand Summit Hotel at Steamboat and a
+promissory note from the Steamboat Homeowners Association secured by the
+Steamboat Grand Hotel parking garage collateralize the Senior Construction Loan,
+which is subject to covenants, representations, and warranties customary for
+this type of construction facility. The Senior Construction Loan is non-recourse
+to ASC and its resort operating subsidiaries other than Grand Summit. Grand
+Summit has assets with a total carrying value of $39.9 million as of January 29,
+2006, which collateralize the Senior Construction Loan. The maturity date for
+funds advanced under the Senior Construction Loan is June 30, 2006. The
+principal balance outstanding under the Senior Construction Loan was $9.1
+million as of January 29, 2006 and had an interest rate on funds advanced of
+prime plus 3.5% (10.75% as of January 29, 2006), with a floor of 9.0%.
+
+         On December 6, 2005, Grand Summit received a letter from the lenders
+waiving the December 31, 2005 maximum outstanding principal balance requirement.
+On December 31, 2005, the principal balance was $9.3 million, or $1.3 million in
+excess of the maximum outstanding principal balance under the Senior
+Construction Loan. The Senior Construction Loan, as amended, prior to giving
+effect to the further amendment described below, requires that Grand Summit's
+outstanding borrowings not exceed the following maximum outstanding principal
+balances as of the following dates:
+
+                 March 31, 2006                 $5,000,000
+                 June 30, 2006                     -
+
+         On December 8, 2005, the Company announced that it would be conducting
+an auction on March 18, 2006 for the remaining unsold developer inventory at the
+Grand Summit Hotel at Steamboat. In connection with the auction announcement, on
+February 14, 2006, Grand Summit entered into a letter agreement with the lenders
+under the Senior Construction Loan waiving the March 31, 2006 maximum
+outstanding principal balance requirement and resetting the predetermined per
+unit principal paydown amount noted above to 85% of all gross proceeds received
+from this auction.
+
+         The Subordinated Construction Loan bears interest at a fixed rate of
+20% per annum, payable monthly in arrears. Only 50% of the amount of this
+interest is due and payable in cash and the other 50%, if no events of default
+exist under the Subordinated Construction Loan or the Senior Construction Loan,
+is automatically deferred until the final payment date. The Subordinated
+Construction Loan, as amended, matures on November 30, 2007. All $10.6 million
+had been borrowed and remained outstanding under the Subordinated Construction
+Loan as of January 29, 2006. The Subordinated Construction Loan is secured by
+the same collateral which secures the Senior Construction Loan.
+
+                                       23
+
+The Subordinated Construction Loan, as amended, requires that Grand
+Summit's outstanding borrowings not exceed the following maximum outstanding
+principal balances as of the following dates:
+
+                 June 30, 2006                  $10,000,000
+                 December 31, 2006                8,000,000
+                 March 31, 2007                   5,000,000
+                 June 30, 2007                    2,500,000
+                 November 30, 2007                    -
+
+         There can be no assurance that Grand Summit will meet the future
+mandatory amortization requirements of the Senior Construction Loan or the
+Subordinated Construction Loan. If Grand Summit fails to meet those future
+mandatory amortization requirements, there can be no assurance that the lenders
+under those facilities will be willing to enter into a waiver or amendment in
+the future on terms acceptable to Grand Summit or at all. Grand Summit is also
+engaged in efforts to refinance the Senior Construction Loan and Subordinated
+Construction Loan with different lenders in a restructured facility, but
+similarly there can be no assurance that a refinancing will be completed prior
+to the existing mandatory amortization dates. If Grand Summit is unable to
+obtain a waiver from the existing lenders or refinance the Construction Loan
+Facility, and Grand Summit does not meet the amortization requirements of the
+Senior Construction Loan or Subordinated Construction Loan, Grand Summit will be
+in payment default under the Construction Loan Facility and the lenders could
+commence enforcement actions against Grand Summit and the assets of Grand Summit
+which secure the Construction Loan Facility. The Construction Loan facility is
+non-recourse to ASC and its subsidiaries other than Grand Summit.
+
+Long-Term Liquidity Needs
+
+         Our primary long-term liquidity needs are to fund skiing-related
+capital improvements at certain of our resorts. For each of fiscal 2006 and
+2007, we anticipate our annual maintenance capital needs to be approximately
+$10.0 million. There is a considerable degree of flexibility in the timing and,
+to a lesser degree, scope of our growth capital program. Although we can defer
+specific capital expenditures for extended periods, continued growth of skier
+visits, revenues and profitability will require continued capital investment in
+on-mountain improvements.
+
+         We finance on-mountain capital improvements through resort cash flows,
+capital leases, and our Resort Senior Credit Facility. The size and scope of the
+capital improvement program will generally be determined annually depending upon
+the strategic importance and expected financial return of certain projects,
+future availability of cash flows from each season's resort operations, and
+future borrowing availability and covenant restrictions under the Resort Senior
+Credit Facility. The Resort Senior Credit Facility places a maximum level of
+non-real estate capital expenditures for each of fiscal 2006 and 2007 at $15.5
+million, including assets purchased under capital leases, with the ability to
+increase this amount if certain conditions are met. Additionally, the Resort
+Senior Credit Facility allows the maximum expenditure level to increase for
+certain specified capital expenditure obligations. We believe that these capital
+expenditure amounts will be sufficient to meet our non-real estate capital
+improvement needs for fiscal 2006 and 2007.
+
+         As described above, the Revolving Facility and First Lien Term Loan of
+the Resort Credit Facility mature in November 2010. The First Lien Term Loan
+requires quarterly principal payments of $212,500 each, and a final payment of
+approximately $80.1 million in November 2010. The Second Lien Term Loan matures
+in November 2011. The Senior Construction Loan has required principal payments
+as described above and matures in June 2006. The Subordinated Construction Loan
+matures in November 2007.
+
+         We also have mandatorily redeemable Series C-1 Preferred Stock with an
+accreted value of $67.4 million as of January 29, 2006 and mandatorily
+redeemable Series C-2 Preferred Stock with an accreted value of $267.3 million
+as of January 29, 2006, both of which mature in July 2007 and will be required
+to be redeemed to the extent that the Company has legally available funds to
+effect such redemption. We do not expect to redeem the Series C-1 Preferred
+Stock or the Series C-2 Preferred Stock prior to their final maturity. We can
+give no assurance that the necessary liquidity will be available to effect the
+redemption on a timely basis.
+
+                                       24
+
+Contractual Obligations
+
+         There have been no material changes outside the Company's ordinary
+course of business during the quarterly period ended January 29, 2006.
+
+Off-Balance Sheet Arrangements
+
+         Other than as set forth under "Contractual Obligations" above and our
+interest rate swap agreement described above under "Resort Liquidity", we do not
+have any off-balance sheet transactions, arrangements, or obligations (including
+contingent obligations) that have, or are reasonably likely to have, a material
+current or future effect on our financial position, results of operations,
+business prospects, liquidity, capital expenditures, or capital resources.
+
+Results of Operations
+         For the 14 weeks ended January 30, 2005 compared to the 13 weeks ended
+January 29, 2006
+
+Resort Operations:
+
+The components of resort operations for the 14 weeks ended January 30, 2005 and
+the 13 weeks ended January 29, 2006 are as follows (unaudited, in thousands):
+
+- --------------------------------------------------------------------------------
+                                 ---------------------------------  ------------
+                                  14 weeks ended    13 weeks ended     Variance
+                                 January 30, 2005  January 29, 2006
+                                 ----------------  ---------------- ------------
+
+Total resort revenues            $        103,411  $        109,887 $     6,476
+                                 ----------------  ---------------- ------------
+
+Cost of resort operations                  67,786            67,766         (20)
+Marketing, general and
+  administrative                           16,210            17,885       1,675
+Depreciation and amortization              13,991            12,822      (1,169)
+Write-off of deferred financing
+  costs and loss on
+  extinguishment of senior
+  subordinated notes                        5,983              -         (5,983)
+                                 ----------------  -----------------------------
+Total resort expenses                     103,970            98,473      (5,497)
+                                 ----------------  ---------------- ------------
+
+Income (loss) from resort
+  operations                                 (559)           11,414      11,973
+
+Interest expense, net                     (20,867)          (21,365)       (498)
+Increase in fair value of
+  interest rate swap agreement                -                 350         350
+                                 ----------------  ---------------- ------------
+Loss from resort operations      $        (21,426) $         (9,601)     11,825
+                                 ================  ================ ============
+
+- --------------------------------------------------------------------------------
+
+Resort revenues were approximately $109.9 million as compared to $103.4 million,
+an increase of $6.5 million, or 6.3%, for the 13 weeks ended January 29, 2006
+when compared to the 14 weeks ended January 30, 2005. Estimated total skier
+visits increased 2.4% for this period over the comparable period of the previous
+year. Estimated skier visits at the Company's eastern resorts were 3% lower than
+last year, primarily as a result of significant rain events during key weekends.
+However estimated skier visits increased 18% and 9%, respectively, at The
+Canyons and Steamboat resorts due , in part, to favorable weather and abundant
+natural snowfall. Beginning in fiscal 2006, the Company revised the methodology
+used to estimate skier visitation at its eastern resorts. The Company now uses
+scanning of certain lift ticket products to estimate skier visitation and
+believes this methodology to be a more accurate reflection of skier visitation
+levels. While this methodology has changed, the Company believes that any
+discrepancies in such methods in comparison with prior years are immaterial to
+total skier visitation levels reported.
+
+         Our resort segment incurred a $9.6 million operating loss for the 13
+weeks ended January 29, 2006, compared to a $21.4 million operating loss for the
+14 weeks ended January 30, 2005. This $11.8 million, or 55% , decrease in the
+operating loss resulted primarily from the net effect of the following:
+
+                                       25
+
+Increases in revenues and decreases in costs:
+              (i)      $6.5 million increase in revenues;
+              (ii)     $1.2 million decrease in depreciation expense;
+              (iii)    $6.0 million decrease due to the non-recurring write-off
+                       of deferred financing costs and loss on extinguishment of
+                       senior subordinated notes experienced in 2005;
+              (iv)     $0.3 million increase in the fair value of the interest
+                       rate swap arrangement;
+
+         Partially offset by increases in costs:
+              (v)      $1.7 million increase in marketing, general and
+                       administrative expenses; and
+              (vi)     $0.5 million increase in net interest expense.
+
+         Cost of resort operations did not increase over the prior year, due to
+the fact that the Fiscal 2006 quarter contained one less weekly operating
+period. Operating costs for this corresponding period (week ended October 31,
+2004) in the previous year were approximately $2.1 million. Resort revenues for
+the same period were only $0.4 million.
+
+         Recent Trends: For the four weeks ended February 26, 2006, our revenues
+are approximately $0.4 million behind revenues for the same period in Fiscal
+2005. Our eastern resorts revenues fell $2.0 million with total skier visitation
+down by 9.0% from the same period in the prior year. Our western resorts
+revenues increased by $1.7 million with total skier visitation up by 3.3% from
+the same period in Fiscal 2005. Our eastern resorts have experienced unfavorable
+weather conditions for most of January and February, with the notable exception
+of the Presidents' Day holiday week during which total skier visitation at our
+eastern resorts was up 2.4% year-over-year. The Company's western resorts
+enjoyed 10.6% growth in total skier visits during the same holiday period
+relative to the comparable week in the prior year. As of March 5, 2006, our
+hotel booking pace for the remainder of the ski season is approximately $2.5
+million or 6.8% ahead of the pace of our bookings at the same time last year.
+Due to strong sales earlier in the year, our season pass revenue for the
+remainder of the season will continue to pace significantly ahead of the
+comparable period of Fiscal 2005.
+
+Real Estate Operations:
+
+                  The components of real estate operations for the 14 weeks
+ended January 30, 2005 and the 13 weeks ended January 29, 2006 are as follows
+(unaudited, in thousands):
+
+- --------------------------------------------------------------------------------
+
+                                  --------------------------------  ------------
+                                   14 weeks ended   13 weeks ended    Variance
+                                  January 30, 2005 January 29, 2006
+                                  ---------------- ---------------- ------------
+
+Total real estate revenues        $         2,663  $         2,612  $       (51)
+                                  ---------------  ---------------- ------------
+
+Cost of real estate operations              2,155            3,443        1,288
+Depreciation and amortization                 409              239         (170)
+                                  ---------------  ---------------- ------------
+Total real estate expenses                  2,564            3,682        1,018
+                                  ---------------  ---------------- ------------
+
+Income (loss) from real estate
+  operations                                   99           (1,070)      (1,169)
+
+Interest expense, net                        (817)            (650)         167
+                                  ---------------  ---------------- ------------
+
+Loss from real estate operations  $          (718) $        (1,720)      (1,002)
+                                  ===============  ================ ============
+
+- --------------------------------------------------------------------------------
+
+Real estate revenues were approximately $2.6 million as compared to
+$2.7 million, a decrease of $0.1 million, or 1.9%, for the 13 weeks ended
+January 29, 2006 when compared to the 14 weeks ended January 30, 2005.
+
+26
+
+Our real estate segment incurred a loss from operations of $1.7 million
+for the 13 weeks ended January 29, 2006, compared to a loss from operations of
+$0.7 million for the 14 weeks ended January 30, 2005. This $1.0 million increase
+in loss from operations results primarily from the net effect of the following:
+
+        Decreases in revenues and increases in costs:
+        (i)    $0.1 million decrease in revenues;
+        (ii)   $1.3 million increase in cost of operations, due primarily to a
+               $0.8 million provision for a probable settlement related to real
+               estate development obligations at The Canyons;
+
+        Offset by decreases in costs:
+        (iii)  $0.2 million decrease in depreciation and amortization costs; and
+        (iv)   $0.2 million decrease in interest costs due to the reduction of
+               the outstanding construction loans.
+
+         Recent Trends: On December 8, 2005 the Company announced that it would
+be conducting an auction on March 18, 2006 for the remaining unsold developer
+inventory at the Grand Summit Hotel at Steamboat. As expected, as a result of
+the announcement, sales volumes at our Grand Summit property at Steamboat have
+decreased as compared to the same period in the prior year.
+
+Benefit from income taxes:
+
+         We recorded no benefit from income taxes for either the 14 weeks ended
+January 30, 2005 or the 13 weeks ended January 29, 2006. We believe it is more
+likely than not that we will not realize income tax benefits from operating
+losses in the foreseeable future, and therefore, have recorded a full valuation
+allowance against our existing deferred income tax assets.
+
+Results of Operations
+         For the 27 weeks ended January 30, 2005 compared to the 26 weeks ended
+January 29, 2006
+
+Resort Operations:
+
+         The components of resort operations for the 27 weeks ended January 30,
+2005 and the 26 weeks ended January 29, 2006 are as follows (unaudited, in
+thousands):
+
+- --------------------------------------------------------------------------------
+
+                                 ---------------------------------  ------------
+                                  27 weeks ended   26 weeks ended     Variance
+                                 January 30, 2005 January 29, 2006
+                                 ---------------- ----------------  ------------
+
+Total resort revenues            $       121,231  $       127,034   $     5,803
+                                 ---------------- ----------------  ------------
+
+Cost of resort operations                 91,395          91,729            334
+Marketing, general and
+  administrative                          27,027          29,453          2,426
+Depreciation and amortization             15,863          15,502           (361)
+Gain on sale of property                    -               (169)          (169)
+Write-off of deferred financing
+  costs and loss on extinguishment
+  of senior subordinated notes             5,983              -          (5,983)
+                                 ---------------- ----------------  ------------
+Total resort expenses                    140,268         136,515         (3,753)
+                                 ---------------- ----------------  ------------
+
+Loss from resort operations              (19,037)         (9,481)         9,556
+
+Interest expense, net                    (39,511)        (41,952)        (2,441)
+Increase in fair value of
+  interest rate swap agreement              -              1,036          1,036
+                                 ---------------- ----------------  ------------
+Loss from resort operations      $       (58,548)        (50,397)   $     8,151
+                                 ================ ================  ============
+
+- --------------------------------------------------------------------------------
+
+                                       27
+
+Resort revenues were approximately $127.0 million as compared to $121.2
+million, an increase of $5.8 million, or 4.8%, for the 26 weeks ended January
+29, 2006 when compared to the 27 weeks ended January 30, 2005. Estimated total
+skier visits for the period increased 2.4% over the comparable period of the
+previous year. Estimated skier visits at the Company's eastern resorts were 3%
+lower than last year, primarily as a result of significant rain events during
+key weekends. However estimated skier visits increased 18% and 9%, respectively,
+at The Canyons and Steamboat resorts due , in part, to favorable weather and
+abundant natural snowfall. Beginning in fiscal 2006, the Company revised the
+methodology used to estimate skier visitation at its eastern resorts. The
+Company now uses scanning of certain lift ticket products to estimate skier
+visitation and believes this methodology to be a more accurate reflection of
+skier visitation levels. While this methodology has changed, the Company
+believes that any discrepancies in such methods in comparison with prior years
+are immaterial to total skier visitation levels reported.
+
+         Our resort segment incurred a $50.4 million operating loss for the 26
+weeks ended January 29, 2006, compared to a $58.5 million operating loss for the
+27 weeks ended January 30, 2005. This $8.1 million, or 13.9%, decrease in the
+operating loss resulted primarily from the net effect of the following:
+
+         Increases in revenues and decreases in costs:
+              (i)      $5.8 million increase in revenues;
+              (ii)     $0.3  million decrease in depreciation expense;
+              (iii)    $0.1 million increase in net gain on sale of property;
+              (iv)     $6.0 million decrease due to the nonrecurring write-off
+                       of deferred financing costs and loss on extinguishment of
+                       senior subordinated notes experienced in 2005;
+              (v)      $1.0 million increase in fair value of the interest rate
+                       swap arrangement;
+
+         Partially offset by increases in costs:
+              (vi)     $0.3 million increase in cost of resort operations;
+              (vii)    $2.4 million increase in marketing, general and
+                       administrative expense, and;
+              (viii)   $2.4 million increase in net interest expense.
+
+         Cost of resort operations increased only $0.3 million over the prior
+year, due to the fact that the Fiscal 2006 period contained one less weekly
+operating period. Operating costs for this corresponding period (week ended
+August 1, 2004) in the previous year were approximately $1.7 million. Revenues
+for the same period were approximately $1.6 million.
+
+Real Estate Operations:
+
+         The components of real estate operations for the 27 weeks ended January
+30, 2005 and the 26 weeks ended January 29, 2006 are as follows (unaudited, in
+thousands):
+
+- --------------------------------------------------------------------------------
+
+                                  ---------------------------------- -----------
+                                   27 weeks ended   26 weeks ended     Variance
+                                  January 30, 2005 January 29, 2006
+                                  ---------------- ----------------  -----------
+
+Total real estate revenues        $         4,389  $         5,581   $    1,192
+                                  ---------------- ----------------  -----------
+
+Cost of real estate operations              3,263            5,385        2,122
+Depreciation and amortization                 816              469         (347)
+Impairment loss on sale of
+  property                                    -              1,533        1,533
+                                  ---------------- ----------------  -----------
+Total real estate expenses                  4,079            7,387        3,308
+                                  ---------------- ----------------  -----------
+
+Income (loss) from real estate
+  operations                                  310           (1,806)      (2,116)
+
+Interest expense, net                      (1,626)          (1,317)         309
+                                  ---------------- ----------------  -----------
+Loss from real estate operations  $        (1,316) $        (3,123)  $   (1,807)
+                                  ================ ================  ===========
+
+- --------------------------------------------------------------------------------
+
+                                       28
+
+Real estate revenues were approximately $5.6 million as compared to
+$4.4 million, an increase of $1.2 million, or 27.2%, for the 26 weeks ended
+January 29, 2006 when compared to the 27 weeks ended January 30, 2005.
+
+         Our real estate segment incurred a loss from operations of $3.1 million
+for the 26 weeks ended January 29, 2006, compared to a loss from operations of
+$1.3 million for the 27 weeks ended January 30, 2005. This $1.8 million increase
+in loss from operations results primarily from the net effect of the following:
+
+         Increases in costs and loss on sale of property:
+         (i)   $2.1 million increase in cost of operations, due in part to a
+               $0.8 million provision for a probable settlement related to real
+               estate development obligations at The Canyons;
+         (ii)  $1.5 million impairment loss on the sale of retail commercial
+               property at the Steamboat Grand Hotel;
+
+         Offset partially by increases in revenues and decreases in costs:
+         (iii) $1.2 million increase in revenues;
+         (iv)  $0.3 million decrease in depreciation and amortization costs; and
+         (v)   $0.3 million decrease in interest costs due to the reduction of
+               the outstanding construction loans.
+
+Benefit from income taxes:
+
+         We recorded no benefit from income taxes for either the 27 weeks ended
+January 30, 2005 or the 26 weeks ended January 29, 2006. We believe it is more
+likely than not that we will not realize income tax benefits from operating
+losses in the foreseeable future, and therefore, have recorded a full valuation
+allowance against our existing deferred income tax assets.
+
+Item 3
+           Quantitative and Qualitative Disclosures about Market Risk
+
+         There have been no material changes in information relating to market
+risk since our disclosures included in Item 7A of Form 10-K for the fiscal year
+ended July 31, 2005, as filed with the Securities and Exchange Commission on
+October 31, 2005.
+
+Item 4
+                             Controls and Procedures
+
+(a)      Evaluation of disclosure controls and procedures. Our Chief Executive
+         Officer and our Chief Financial Officer carried out an evaluation of
+         the effectiveness of our "disclosure controls and procedures" (as
+         defined in the Securities Exchange Act of 1934 Rules 13a-15(e) and
+         15d-15(e)). Based on that evaluation, these officers have concluded
+         that as of the end of the period covered by this report, our disclosure
+         controls and procedures were effective
+
+(b)      Changes in internal control over financial reporting. No change
+         occurred in the Company's internal control over financial reporting (as
+         defined in the Securities Exchange Act of 1934 Rules 13a-15(f) and
+         15d-15(f)) during the quarterly period ended January 29, 2006 that has
+         materially affected, or is reasonably likely to materially affect, the
+         Company's internal control over financial reporting.
+
+         It should be noted that any system of controls, however well designed
+and operated, can provide only reasonable, and not absolute, assurance that the
+objectives of the system will be met. In addition, the design of any control
+system is based in part upon certain assumptions about the likelihood of future
+events. Because of these and other inherent limitations of control systems,
+there is only reasonable assurance that our controls will succeed in achieving
+their stated goals under all potential future conditions.
+
+29
+
+Part II - Other Information
+
+                                     Item 4
+
+               Submission of Matters to a Vote of Security Holders
+
+         On January 17, 2006, the Company held its Annual Meeting of its
+shareholders to approve:
+
+            o        The election of the Company's Board of Directors; and
+            o        The ratification of KPMG LLP as the Company's independent
+                     auditors for the 2006 fiscal year.
+
+         The Company did solicit proxies with respect to the Annual Meeting, and
+the Board of Directors listed in the Company's proxy statement with respect to
+the Annual Meeting was re-elected in its entirety.
+
+         The results of the Annual Meeting were as follows:
+
+                                 Board Election:
+
+                      Voting For  Voting Against or  Abstaining Broker Non-Votes
+                                       Withheld
+William J. Fair     13,484,589(1)      374,170           0            0
+David Hawkes        13,513,743(1)      345,106           0            0
+Paul Wachter        13,468,489(1)      390,270           0            0
+Leslie B. Otten     14,760,530(2)         0              0            0
+Gordon Gillies      14,760,530(2)         0              0            0
+William Janes       14,760,530(2)         0              0            0
+Robert Branson      14,760,530(2)         0              0            0
+Edward Dardani         150,000(3)         0              0            0
+Steven Gruber          150,000(3)         0              0            0
+Jay Crandall           150,000(3)         0              0            0
+
+(1) Messrs. Fair, Hawkes and Wachter were elected by the holders of the
+    Company's common stock.
+(2) Messrs. Otten, Gillies, Janes and Branson were elected by the holders of the
+    Company's Class A common stock.
+(3) Messrs. Dardani, Gruber and Crandall were elected by the holders of the
+    Company's Series B preferred stock.
+
+Ratification of KPMG LLP:
+
+                        Voting For  Voting Against  Abstaining  Broker Non-Votes
+Common Stock            13,524,606      296,664       37,499           0
+Class A Common Stock    14,760,530         0            0              0
+Series C-1 Preferred
+                        52,397,200(1)      0            0              0
+                        --------------------------------------------------------
+Total All Classes       80,682,336(1)   296,654       37,499           0
+
+(1) The Series C-1 preferred stock votes together with common stock on an
+"as-if-converted" basis. The 40,000 shares of Series C-1 preferred stock, which
+were voted at the meeting, together with accrued and unpaid dividends, had a
+voting right equal to 52,397,200 shares of common stock as of the date of the
+Annual Meeting. The results set forth in the "Total All Classes" row is
+calculated using this as-if-converted number.
+
+                                       30
+
+Item 6
+                                    Exhibits
+
+         Included herewith are the following exhibits:
+
+Exhibit No.       Description
+
+10.1              Waiver Agreement dated as of February 14, 2006 to Loan and
+                  Security Agreement dated as of September 1, 1998, among Grand
+                  Summit Resort Properties, Inc., the lenders named therein, and
+                  Textron Financial Corporation as administrative agent.
+
+31.1              Certification of Chief Executive Officer pursuant to Section
+                  302 of the Sarbanes-Oxley Act of 2002.
+
+31.2              Certification of Chief Financial Officer pursuant to Section
+                  302 of the Sarbanes-Oxley Act of 2002.
+
+32.1              Certification  of Chief Executive  Officer  pursuant to 18
+                  U.S.C.  Section 1350 as adopted pursuant to Section 906 of
+                  the Sarbanes-Oxley Act of 2002.
+
+32.2              Certification  of Chief Financial  Officer  pursuant to
+                  18 U.S.C.  Section 1350 as adopted pursuant to Section 906 of
+                  the Sarbanes-Oxley Act of 2002.
+
+31
+
+SIGNATURES
+
+         Pursuant to the requirements of the Securities Exchange Act of 1934, as
+amended, the registrant has duly caused this report to be signed on its behalf
+by the undersigned, thereunto duly authorized.
+
+                                   American Skiing Company
+Date:  March 15, 2006
+
+                                   By: /s/ William J. Fair
+                                   --------------------------------
+                                   William J. Fair
+                                   President and Chief Executive Officer
+                                   (Principal Executive Officer)
+
+By:  /s/ Helen E. Wallace
+                                   --------------------------------
+                                   Helen E. Wallace
+                                   Senior Vice President, Chief
+                                   Financial Officer
+                                   (Principal Financial Officer)
+
+32
+
+<EX-10>
+ 2
+ form101exhibit2q06.txt
+ STEAMBOAT AUCTION
+ 
+                                                                    Exhibit 10.1
+
+As of February 14, 2006
+
+VIA OVERNIGHT COURIER AND FAX - 435-615-4780
+
+Grand Summit Resort Properties, Inc.
+136 Heber Avenue, Suite 303
+Park City, Utah 84098
+Attention:  Helen Wallace
+
+VIA OVERNIGHT COURIER AND FAX - 207-791-2607
+
+Grand Summit Resort Properties, Inc.
+One Monument Way
+Portland, Maine 04104
+Attn:  General Counsel
+
+Re:  Modification to the existing terms and conditions for the Steamboat auction
+
+Dear Ladies and Gentlemen:
+
+Pursuant to the Steamboat auction scheduled for Saturday, March 18, 2006 (the
+"March 2006 Auction"), Textron Financial Corporation ("TFC" or "Textron
+Financial") requested and received approval for the following terms and
+conditions:
+
+Waiver of the 3/31/06 paydown requirement: GSRP's Senior Loan Facility is
+required to be paid down to $5.0 million as of March 31, 2006. However, with the
+announcement of the March 2006 Auction and assuming that said auction is so
+held, no further significant sales volume is expected and TFC hereby waives the
+$5.0 million requirement for March 31, 2006. The Senior Loan Facility is
+required to be paid down to $0 at June 30, 2006, which is also the maturity date
+of such facility, and that requirement is not being changed and will remain in
+effect.
+
+Reset the Minimum Release Prices: In connection with and solely for the March
+2006 Auction, TFC has redetermined the Release Prices for the unsold Steamboat
+residential inventory to 85% of gross auction day sale price per interest sold,
+provided that, if the March 2006 Auction should result in a cumulative
+(on-the-run) discount of more than 50% from list prices, in TFC's sole
+discretion, then TFC reserves the right to rescind such redetermination and
+re-impose the existing Release Price requirements, except with respect to the
+interests sold on an absolute basis. To the extent that any auction sales are to
+be financed and the resulting notes purchased under the Note Purchase Agreement,
+it should be highlighted that the reserve under the Note Purchase Agreement will
+not be funded with Release Price proceeds but instead through Borrower's excess
+cash flow.
+
+Modify the terms of the Purchase Facility: Effective 30 days from the date
+hereof, RFD will make available to you the following terms under the Note
+Purchase Agreement (the Note Purchase Agreement continues to be a fully
+discretionary facility):
+
+- --------------------------------------------------------------------------------
+                                     Fractional                Whole Units
+- --------------------------------------------------------------------------------
+Maximum Loan Balance                 $100,000                  $400,000
+- --------------------------------------------------------------------------------
+Interest Rate                        6.99% year one            6.49% year one
+                                     8.99% thereafter          8.49% thereafter
+- --------------------------------------------------------------------------------
+Reserve Amount                       5%                        3%
+- --------------------------------------------------------------------------------
+Down Payment                         20%                       20%
+- --------------------------------------------------------------------------------
+Maximum Term                         10 year                   15 year
+- --------------------------------------------------------------------------------
+Amortization                         10 or 15 year             15 or 20 year
+- --------------------------------------------------------------------------------
+Minimum FICO Score                   680                       700
+- --------------------------------------------------------------------------------
+Maximum Debt to Income Ratio         40%                       38%
+- --------------------------------------------------------------------------------
+
+Allow the first 100 interests to be sold on an absolute basis: In connection
+with the March 2006 Auction, TFC confirms its consent to the sale of no more
+than 100 eighth share fractional interests on an absolute auction basis,
+provided that TFC is satisfied with the mix of fractional interests to be so
+offered. While TFC is willing to consider additional lots of eighth share
+fractional interests to be offered on an absolute auction basis, it reserves its
+right to approve each such lot on a case-by-case basis at the March 2006
+Auction.
+
+The effectiveness of the terms in this letter is subject to documentation in
+form and substance satisfactory to TFC.
+
+Please execute and return to us a copy of this letter attached hereto to reflect
+your confirmation of, and agreement with respect to, the foregoing, whereupon
+this letter shall then become effective, provided that you shall be deemed to
+have been validly informed of the terms of the purchase facility referred to
+above and the same shall become effective 30 days from the date hereof (subject
+to satisfactory documentation). If we shall have not received an executed copy
+of this letter from you by February 16, 2006, this letter and its contents
+contained herein shall be deemed null and void.
+
+TEXTRON FINANCIAL
+                                      CORPORATION, as Administrative Agent on
+                                      behalf of the Lenders, and on its own
+                                      behalf as the Special Subordinated Lender
+                                      and Textron Business Services, Inc., as
+                                      Buyer under the Note Purchase Agreement
+
+                                      By /s/ Robert V. Bellacosa
+                                      --------------------------
+                                      Name:  Robert V. Bellacosa
+                                      Title: Vice President
+
+CONFIRMED AND AGREED TO:
+
+GRAND SUMMIT RESORT PROPERTIES, INC.
+
+By: /s/ Foster A. Stewart
+- -------------------------
+Name:   Foster A. Stewart
+Title:  Senior Vice President
+
+</EX-10>
+
+<EX-31>
+ 3
+ form311exhibit2q06.txt
+ CERTIFICATION CEO
+ 
+                                                                    Exhibit 31.1
+
+CERTIFICATION
+
+         I, William J. Fair, certify that:
+
+1.       I have reviewed this quarterly report on Form 10-Q of American Skiing
+         Company;
+
+2.       Based on my knowledge, this report does not contain any untrue
+         statement of a material fact or omit to state a material fact necessary
+         to make the statements made, in light of the circumstances under which
+         such statements were made, not misleading with respect to the period
+         covered by this report;
+
+3.       Based on my knowledge, the financial statements, and other financial
+         information included in this report, fairly present in all material
+         respects the financial condition, results of operations and cash flows
+         of the registrant as of, and for, the periods presented in this report;
+
+4.       The registrant's other certifying officer(s) and I are responsible for
+         establishing and maintaining disclosure controls and procedures (as
+         defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the
+         registrant and have:
+
+         a)       Designed such disclosure controls and procedures, or caused
+                  such disclosure controls and procedures to be designed under
+                  our supervision, to ensure that material information relating
+                  to the registrant, including its consolidated subsidiaries, is
+                  made known to us by others within those entities, particularly
+                  during the period in which this report is being prepared;
+
+         b)       Evaluated the effectiveness of the registrant's disclosure
+                  controls and procedures and presented in this report our
+                  conclusions about the effectiveness of the disclosure controls
+                  and procedures, as of the end of the period covered by this
+                  report based on such evaluation; and
+
+         c)       Disclosed in this report any change in the registrant's
+                  internal control over financial reporting that occurred during
+                  the registrant's second fiscal quarter that has materially
+                  affected, or is reasonably likely to materially affect, the
+                  registrant's internal control over financial reporting; and
+
+5.       The registrant's other certifying officer(s) and I have disclosed,
+         based on our most recent evaluation of internal control over financial
+         reporting, to the registrant's auditors and the audit committee of the
+         registrant's board of directors (or persons performing the equivalent
+         functions):
+
+         a)   all significant deficiencies and material weaknesses in the design
+              or operation of internal control over financial reporting which
+              are reasonably likely to adversely affect the registrant's ability
+              to record, process, summarize, and report financial information;
+              and
+
+         b)   any fraud, whether or not material, that involves management or
+              other employees who have a significant role in the registrant's
+              internal control over financial reporting.
+
+Date: March 15, 2006
+
+                                      By: /s/ William J. Fair
+                                      -----------------------------
+                                      William J. Fair
+                                      President and Chief Executive Officer
+                                      (Principal Executive Officer)
+
+</EX-31>
+
+<EX-31>
+ 4
+ form312exhibit2q06.txt
+ CERTIFICATION CFO
+ 
+                                                                    Exhibit 31.2
+
+CERTIFICATION
+
+         I, Helen E. Wallace, certify that:
+
+1.       I have reviewed this quarterly report on Form 10-Q of American Skiing
+         Company;
+
+2.       Based on my knowledge, this report does not contain any untrue
+         statement of a material fact or omit to state a material fact necessary
+         to make the statements made, in light of the circumstances under which
+         such statements were made, not misleading with respect to the period
+         covered by this report;
+
+3.       Based on my knowledge, the financial statements, and other financial
+         information included in this report, fairly present in all material
+         respects the financial condition, results of operations and cash flows
+         of the registrant as of, and for, the periods presented in this report;
+
+4.       The registrant's other certifying officer(s) and I are responsible for
+         establishing and maintaining disclosure controls and procedures (as
+         defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the
+         registrant and have:
+
+         a)       Designed such disclosure controls and procedures, or caused
+                  such disclosure controls and procedures to be designed under
+                  our supervision, to ensure that material information relating
+                  to the registrant, including its consolidated subsidiaries, is
+                  made known to us by others within those entities, particularly
+                  during the period in which this report is being prepared;
+
+         b)       Evaluated the effectiveness of the registrant's disclosure
+                  controls and procedures and presented in this report our
+                  conclusions about the effectiveness of the disclosure controls
+                  and procedures, as of the end of the period covered by this
+                  report based on such evaluation; and
+
+         c)       Disclosed in this report any change in the registrant's
+                  internal control over financial reporting that occurred during
+                  the registrant's second fiscal quarter that has materially
+                  affected, or is reasonably likely to materially affect, the
+                  registrant's internal control over financial reporting; and
+
+5.       The registrant's other certifying officer(s) and I have disclosed,
+         based on our most recent evaluation of internal control over financial
+         reporting, to the registrant's auditors and the audit committee of the
+         registrant's board of directors (or persons performing the equivalent
+         functions):
+
+         a)   all significant deficiencies and material weaknesses in the design
+              or operation of internal control over financial reporting which
+              are reasonably likely to adversely affect the registrant's ability
+              to record, process, summarize, and report financial information;
+              and
+
+         b)   any fraud, whether or not material, that involves management or
+              other employees who have a significant role in the registrant's
+              internal control over financial reporting.
+
+Date: March 15, 2006
+
+                                         By: /s/ Helen E. Wallace
+                                         ------------------------------
+                                         Helen E. Wallace
+                                         Senior Vice President, Chief Financial
+                                         Officer
+                                         (Principal Financial Officer)
+
+</EX-31>
+
+<EX-32>
+ 5
+ form321exhibit2q06.txt
+ SARBANES-OXLEY CEO
+ 
+                                                                    Exhibit 32.1
+
+AMERICAN SKIING COMPANY
+
+                  SARBANES-OXLEY ACT SECTION 906 CERTIFICATIONS
+
+In connection with the Quarterly Report of American Skiing Company (the
+"Company") on Form 10-Q for the period ended January 29, 2006 as filed with the
+Securities and Exchange Commission on the date hereof (the "Report"), I, William
+J. Fair, President and Chief Executive Officer of the Company, certify, pursuant
+to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the
+Sarbanes-Oxley Act of 2002, that to the best of my knowledge:
+
+         (1)      The Report fully complies with the requirements of Section
+                  13(a) or 15(d) of the Securities Exchange Act of 1934; and
+
+         (2)      The information contained in the Report fairly presents, in
+                  all material respects, the financial condition and results of
+                  operations of the Company.
+
+Date: March 15, 2006
+
+                                          By:  /s/ William J. Fair
+                                          ----------------------------
+                                          William J. Fair
+                                          President and Chief Executive Officer
+                                          (Principal Executive Officer)
+
+</EX-32>
+
+<EX-32>
+ 6
+ form322exhibit2q06.txt
+ SARBANES-OXLEY CFO
+ 
+                                                                    Exhibit 32.2
+
+AMERICAN SKIING COMPANY
+                  SARBANES-OXLEY ACT SECTION 906 CERTIFICATIONS
+
+In connection with the Quarterly Report of American Skiing Company (the
+"Company") on Form 10-Q for the period ended January 29, 2006 as filed with the
+Securities and Exchange Commission on the date hereof (the "Report"), I, Helen
+E. Wallace, Senior Vice President and Chief Financial Officer of the Company,
+certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906
+of the Sarbanes-Oxley Act of 2002, that to the best of my knowledge:
+
+         (1)      The Report fully complies with the requirements of Section
+                  13(a) or 15(d) of the Securities Exchange Act of 1934; and
+
+         (2)      The information contained in the Report fairly presents, in
+                  all material respects, the financial condition and results of
+                  operations of the Company.
+
+Date:  March 15, 2006
+
+                                       By:/s/ Helen E. Wallace
+                                       ----------------------------------
+                                       Helen E. Wallace
+                                       Senior Vice President, Chief
+                                       Financial Officer
+                                       (Principal Financial Officer)
+
+</EX-32>
+

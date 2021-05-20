@@ -1,0 +1,1483 @@
+<Header>
+<FileStats>
+    <FileName>20060314_10-Q_edgar_data_1006868_0000891092-06-000623_2.txt</FileName>
+    <GrossFileSize>83975</GrossFileSize>
+    <NetFileSize>77463</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>409</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>1</N_Tables>
+    <N_Exhibits>4</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000891092-06-000623.hdr.sgml : 20060314
+<ACCEPTANCE-DATETIME>20060314105044
+ACCESSION NUMBER:		0000891092-06-000623
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20050630
+FILED AS OF DATE:		20060314
+DATE AS OF CHANGE:		20060314
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			LONG ISLAND PHYSICIAN HOLDINGS CORP
+		CENTRAL INDEX KEY:			0001006868
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-HEALTH SERVICES [8000]
+		IRS NUMBER:				113232989
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-27654
+		FILM NUMBER:		06683866
+
+	BUSINESS ADDRESS:	
+		STREET 1:		ONE HUNTINGTON QUADRANGLE
+		STREET 2:		SUITE 4C 01
+		CITY:			MELVILLE
+		STATE:			NY
+		ZIP:			11747
+		BUSINESS PHONE:		5164541900
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE HUNTINGTON QUADRANGLE
+		STREET 2:		SUITE 4C 01
+		CITY:			MELVILLE
+		STATE:			NY
+		ZIP:			11747
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ DGMOCMx118qOAsk2GeCdvPvwAkH2YxX38f+DhXnIYri+U44El8B+9O01tbCfiSXz
+ c2BBQztqdDMgo3nFtepvNg==
+
+ 0000891092-06-000623.txt : 20060314
+
+10-Q
+ 1
+ e23597_10q.txt
+ FORM 10-Q
+
+UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+- --------------------------------------------------------------------------------
+
+                                    FORM 10-Q
+
+- --------------------------------------------------------------------------------
+
+|X|   QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+      EXCHANGE ACT OF 1934
+
+                   For the quarter period ended June 30, 2005
+
+                                       OR
+
+|_|   TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+      EXCHANGE ACT OF 1934
+
+                    For the transition period from ___ to ___
+
+                           Commission File No. 0-27654
+- --------------------------------------------------------------------------------
+                   LONG ISLAND PHYSICIAN HOLDINGS CORPORATION
+             (Exact name of registrant as specified in its charter)
+
+            New York                                            11-3232989
+  (State or other jurisdiction                               (I.R.S. Employer
+of incorporation or organization)                         Identification Number)
+
+  One Huntington Quadrangle Suite 4C-01
+           Melville, New York                                            11747
+(Address of principal executive offices)                              (Zip Code)
+
+       Registrant's telephone number, including area code: (631) 454-1900
+
+        Securities registered pursuant to Section 12(b) of the Act: None
+
+           Securities registered pursuant to Section 12(g) of the Act:
+
+                      Class A Common Stock, par value $.001
+                      Class B Common Stock, par value $.001
+
+Indicate by check mark whether the Registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the past 12 months (or for such shorter period that the issuer was required to
+file such reports), and (2) has been subject to such filing requirements for the
+past 90 days. Yes |_| No |X|
+
+Indicate by check mark whether the registrant is an accelerated filer (as
+defined under Rule 12b-2 of the Act). Yes __ No [X]
+
+Indicate the number of shares outstanding of each of the Registrant's classes of
+Common Stock, as of the latest practicable date: As of August 15, 2005 there
+were 1,798 shares of Class A common stock and 4,044 shares of Class B common
+stock outstanding.
+
+TABLE OF CONTENTS
+
+                                                                        Page No.
+                                                                        --------
+
+PART I  FINANCIAL INFORMATION
+
+Item 1. Financial Statements
+
+        Consolidated Balance Sheets at June 30, 2005
+        (unaudited) and December 31, 2004                                      3
+        Consolidated Statements of Operations (unaudited)                      4
+        Consolidated Statements of Cash Flows (unaudited)                      5
+        Notes to Consolidated Financial Statements (unaudited)               6-9
+
+Item 2. Management's Discussion and Analysis of Financial Condition
+        and Results of Operations                                           9-16
+
+Item 3. Quantitative and Qualitative Disclosures about Market Risk            16
+
+Item 4. Controls and Procedures                                               17
+
+PART II OTHER INFORMATION
+
+Item 6. Exhibits                                                              18
+
+SIGNATURES, and CERTIFICATIONS                                             19-24
+
+2
+
+PART I - FINANCIAL INFORMATION
+
+Item 1. Financial Statements
+
+                   Long Island Physician Holdings Corporation
+                           Consolidated Balance Sheets
+                       June 30, 2005 and December 31, 2004
+
+                                                     June 30,      December 31,
+                                                       2005            2004
+                                                   ------------    ------------
+Assets                                              (unaudited)
+
+Cash                                               $  1,278,346    $  1,334,326
+
+Premium receivables
+(net of allowances of approximately
+$1,400,000 in 2005 and $1,495,000 in 2004)            8,084,709       6,705,130
+
+  Reinsurance recoverables                               81,516         146,547
+  Payments in excess of capitation                    1,400,000       1,750,000
+  Prepaid expenses and other current assets           2,635,063       2,463,596
+
+                                                   ------------    ------------
+    Total current assets                             13,829,634      12,399,599
+  Property plant and equipment, net                     289,771         303,061
+  Restricted cash and cash investments                5,856,370       5,817,203
+  Payments in excess of capitation, net of
+    current portion                                  16,257,451      16,710,928
+
+                                                   ------------    ------------
+    Total assets                                   $ 35,883,226    $ 35,230,791
+                                                   ============    ============
+Liabilities and Stockholders' Equity:
+  Medical claims payable                           $ 21,417,380    $ 20,476,052
+  Public goods payable                                4,406,877       4,725,026
+  Unearned premium revenue                            2,245,715       1,885,423
+  Accounts payable and accrued expenses               2,272,871       2,546,476
+                                                   ------------    ------------
+
+    Total current liabilities                        30,342,843      29,632,977
+Note payable and accrued interest                     3,518,251       3,450,673
+
+                                                   ------------    ------------
+    Total liabilities                                33,861,094      33,083,650
+
+Minority interest in MDNY Healthcare, Inc.            1,168,771       1,209,364
+Stockholders' equity
+  Class A common stock, $.001 par value;
+    10,000 shares authorized, 1,798 issued
+    and outstanding                                           2               2
+  Class B common stock, $.001 par value;
+    25,000 shares authorized, 4,044 issued
+    and outstanding                                           4               4
+Additional paid-in capital                           11,478,536      11,478,536
+Accumulated deficit                                 (10,540,765)    (10,625,181)
+                                                   ------------    ------------
+
+  Total stockholders' equity                            853,361         937,777
+                                                   ------------    ------------
+
+  Total liabilities and stockholders' equity       $ 35,883,226    $ 35,230,791
+                                                   ============    ============
+
+The accompanying notes are an integral part of these consolidated financial
+statements.
+
+3
+
+Long Island Physician Holdings Corporation
+                      Consolidated Statements of Operations
+            Three months and Six months Ended June 30, 2005 and 2004
+
+The accompanying notes are an integral part of these consolidated financial
+statements.
+
+4
+
+Long Island Physician Holdings Corporation
+                      Consolidated Statements of Cash Flows
+                     Six months Ended June 30, 2005 and 2004
+
+                                                         Six months ended
+                                                             June 30,
+                                                       2005            2004
+                                                   ------------    ------------
+                                                   (unaudited)     (unaudited)
+Cash flows from operating activities:
+
+Net income (loss)                                  $    (84,416)   $    111,832
+Adjustment to reconcile net income
+to net cash provided by
+operating activities:
+  Depreciation                                           53,381          51,174
+  Minority interest in income (loss)
+  of subsidiary                                         (40,593)         34,431
+Changes in operating assets and liabilities:
+  Due from Catholic Health Services of Long Island                    2,382,027
+  Payments in excess of capitation                      803,477         795,563
+  Reinsurance recoverable                                65,031         337,525
+  Premium receivables                                (1,379,579)      2,362,885
+  Prepaid expenses and other current assets            (171,467)        745,402
+  Medical claims payable                                941,328      (5,409,191)
+  Public goods payable                                 (318,149)        220,004
+  Unearned premium revenue                              360,292          65,335
+  Accounts payable and accrued expenses
+  and accrued interest                                 (206,026)       (456,859)
+                                                   ------------    ------------
+Net cash provided by operating activities                23,279       1,240,128
+                                                   ------------    ------------
+Cash flows from investing activities:
+Increase in restricted cash and investments             (39,167)       (161,483)
+Purchase of property and equipment                      (40,092)        (96,974)
+                                                   ------------    ------------
+Net cash used in investing activities                   (79,259)       (258,457)
+                                                   ------------    ------------
+Cash flows from financing activities:
+Payments on capital lease obligations                        --          (1,479)
+                                                   ------------    ------------
+Net cash used in financing activities                        --          (1,479)
+                                                   ------------    ------------
+Net change in cash and cash equivalents                 (55,980)        980,192
+                                                   ------------    ------------
+Cash beginning of period                              1,334,326       1,575,080
+                                                   ------------    ------------
+Cash end of period                                 $  1,278,346    $  2,555,272
+                                                   ------------    ------------
+
+The accompanying notes are an integral part of these consolidated financial
+statements
+
+5
+
+Long Island Physician Holdings Corporation
+                   Notes to Consolidated Financial Statements
+
+1. BASIS OF PRESENTATION
+
+      Background
+
+      Long Island Physician Holdings Corporation (the "Company" or "LIPH") was
+formed in December 1994 in the State of New York as a holding company for
+purposes aimed at advancing the delivery of healthcare on Long Island, New York
+(Nassau and Suffolk counties). The Company is owned by individual physicians
+residing in New York State. The accompanying consolidated financial statements
+include the activity of the Company and its majority owned subsidiary, MDNY
+HealthCare, Inc. ("MDNY"), a health maintenance organization. The Company owns
+67% of the stock of MDNY. The Company is exclusively a holding company whose
+principal asset is its investment in MDNY and conducts no operating activities
+of its own. Catholic Healthcare Network of Long Island, Inc. ("CHNLI") owns the
+remaining 33% of the stock in MDNY. MDNY commenced operations in 1996. LIPH,
+MDNY and CHNLI have entered into a Stock Purchase Agreement dated as of December
+31, 2004 (the "Stock Purchase Agreement") pursuant to which LIPH has agreed,
+among other things, to purchase CHNLI's stock in MDNY. The Stock Purchase
+Agreement remains subject to approval from the Attorney General's office. At
+June 30, 2005, MDNY had 33,792 members, comprised of individuals and families,
+enrolled in its health maintenance plans and point-of-service plans.
+
+      The interim consolidated financial statements reflect all adjustments,
+which, in the opinion of management, are necessary for a fair statement of
+financial condition and results of operations for the periods presented. Except
+as otherwise disclosed, all such adjustments are of a normal recurring nature.
+The interim consolidated financial statements have been compiled without audit.
+Operating results for the interim periods are not necessarily indicative of the
+results that may be expected for the full year. These interim consolidated
+financial statements should be read in conjunction with the audited consolidated
+financial statements included in the Company's 2004 Annual Report on Form 10-K.
+The Company's legal and other professional costs are funded by MDNY. Year to
+date costs as of June 30, 2005 were $101,322. Total costs incurred by MDNY on
+behalf of LIPH were $664,030. These amounts are fully reserved for on MDNY's
+financials as of June 30, 2005.
+
+      Earnings Per Share
+
+      Basic and diluted income (loss) per share is based on the number of shares
+of Class A common stock and Class B common stock outstanding during the period.
+At June 30, 2005 and December 31, 2004, the Company had outstanding stock
+options to purchase 1,041 shares of Class B common stock that were not included
+in the computation of diluted EPS because the exercise price was greater than
+the average market price of common shares.
+
+      New Accounting Standards
+
+In December 2004, the FASB issued SFAS No. 153, "Exchange of Non-monetary
+Assets" ("SFAS No. 153"), an amendment of Accounting Principles Board ("APB")
+Opinion No. 29, which differed from the International Accounting Standards
+Board's ("IASB") method of accounting for exchanges of similar productive
+assets. SFAS No. 153 replaces the exception from fair value measurement in APB
+No. 29, with a general exception from fair value measurement for exchanges of
+non-monetary assets that do not have commercial substance. The statement is to
+be applied prospectively and is effective for non-monetary asset exchanges
+occurring in fiscal periods beginning after June 15, 2005. The Company does not
+believe that SFAS No. 153 will have a material impact on its results of
+operations or cash flows.
+
+      In March 2005, the FASB issued Interpretation No. 47, "Accounting for
+Conditional Asset Retirement Obligations" ("FIN 47"). FIN 47 clarifies that
+conditional obligations meet the definition of an asset retirement obligation in
+SFAS 143, "Accounting for Asset Retirement Obligations", and therefore should be
+recognized if their fair value is reasonably estimable. FIN 47 is effective for
+fiscal years ending after December 15, 2005. We do not expect the provisions of
+FIN 47 to have a material impact on our consolidated financial statements.
+
+      In May 2005, the FASB issued SFAS No. 154, " Accounting Changes and Error
+Corrections" ("SFAS No. 154"), a replacement of APB Opinion No. 20 and FASB
+Statement No. 3, which changes the requirements for the accounting for and
+reporting of a change in accounting principle. SFAS No. 154 applies to all
+voluntary changes in accounting principle. It also applies to changes required
+by an accounting pronouncement in the unusual instance that the pronouncement
+does not include specific transition provisions. Opinion 20 previously required
+that most voluntary changes in accounting principle be recognized by including
+in net income of the period of the change the cumulative effect of changing to
+the new accounting principle. SFAS No. 154 requires retrospective application to
+prior periods' financial statements of changes in accounting
+
+6
+
+principle, unless it is impracticable to determine either the period-specific
+effects or the cumulative effect of the change. SFAS No. 154 also requires that
+a change in depreciation, amortization, or depletion method for long-lived,
+nonfinancial assets be accounted for as a change in accounting estimate effected
+by a change in accounting principle. SFAS No. 154 is effective for accounting
+changes and corrections of errors made in fiscal years beginning after December
+15, 2005.
+
+      In December 2004, the FASB issued Statement of Financial Accounting
+Standards No. 123 (revised 2004), Share-Based Payment (FAS No. 123 (R)), which
+amends FASB Statement Nos. 13 and 95. FAS No. 123 (R) requires all companies
+to measure compensation expense for all share-based payments (including employee
+stock options) at fair value and recognize the expense over the related service
+period. Additionally, excess tax benefits, as defined in FAS No. 123 (R), will
+be recognized as an addition to paid-in capital and will be reclassified from
+operating cash flows to financing cash flows in the Consolidated Statements of
+Cash Flows. FAS No. 123 (R) will be effective for the first quarter of 2006.
+All options outstanding at December 31, 2004 expired July 1, 2005 and no
+additional options were issued.
+
+Going Concern
+
+      The Company's financial statements have been presented on the basis that
+it will continue as a going concern, which contemplates the realization of
+assets and the satisfaction of liabilities in the normal course of business. The
+Company has a substantial working capital deficit, and has incurred cumulative
+losses since inception and continues to decline in enrollment. Furthermore as a
+result of the New York Women's Health and Wellness Act, MDNY is obligated to
+provide contraceptive drugs and devices to its members which is in conflict with
+the ethical policies of the Diocese of Rockville Centre (the "Diocese"), to
+which CHNLI and CHSLI are subject. Therefore the Company, MDNY and CHNLI
+executed the Stock Purchase Agreement so as to allow CHNLI to exit as an MDNY
+shareholder. The Diocese allowed its subscriber contract with MDNY to expire on
+December 31, 2004 resulting in the loss of approximately 3,800 members. Catholic
+Health Services of Long Island,Inc. ("CHSLI"), an affiliate of CHNLI, on behalf
+of five catholic hospitals that act as providers to MDNY (the "Hospitals"), will
+not renew the respective Hospital subscriber contracts with MDNY upon expiration
+thereof on January 1, 2006. MDNY will continue to provide health care insurance
+to the employees of the Hospitals through 2005. At June 30, 2005 and December
+31, 2004 CHSLI had 6,477 and 7,450 members enrolled in MDNY. Premiums from the
+Hospitals account for 20% of total premiums earned by MDNY during 2005. The
+expiration of these contracts with the Hospitals on January 1, 2006 and the
+resulting loss of business will have a material adverse affect on MDNY's
+financial condition.
+
+Potential Obligations with Respect to New York Market Stabilization Pools
+
+      MDNY is subject to certain state-regulated risk allocation pools
+("Stabilization Pools") created by NYSID. The Stabilization Pools are designed
+to encourage insurers to remain in or enter the small group and individual
+health insurance markets and protect all insurers and health maintenance
+organizations ("HMO") in those markets from extreme losses due to open
+enrollment of persons for coverage who are very ill or have a history of poor
+health. Under NYSID Regulation 146, as amended ("Regulation 146"), certain
+insurers and HMOs participating in those markets in New York State are required
+either to make payments to or receive payments from the Stabilization Pools
+based upon criteria stated in Regulation 146.
+
+      For years up to and including 1999, two separate pools are in operation.
+The first pool (Demographic) used an age/sex relative morbidity table to measure
+the relative risk for each insurer and HMO with respect to the demographic
+characteristics of the persons covered by that insurer or HMO. The third pool
+(Specified Medical Condition) used a list of specified, high-cost medical
+conditions ("SMC"), which was intended to protect insurers and HMOs from part of
+the adverse financial effects of covering a disproportionate number of people
+with such conditions. For the years 1999 and after, a single pool operates based
+on the experience of each insurer with respect to specified medical conditions
+using new methodology under Regulation 146. The impact of the SMC pools for
+years 1999-2004 could not be estimated as certain information (regional factors)
+critical to determining the impact was not released to MDNY until January 2005.
+
+      In January 2005, at the direction of NYSID, a limited scope audit was
+performed by Alicare, Inc., an outside consultant engaged by NYSID ("Alicare"),
+on MDNY's data submissions for years 1999 to 2003 with respect to the
+Stabilization Pools. During this audit, Alicare released to MDNY preliminary
+regional factors for years 1999-2004, which, when compared to MDNY's average
+risk factors, would determine whether MDNY would receive payments from or make
+payments to the Stabilization Pools. Based upon these regional factors, MDNY had
+an estimated obligation of up to $30 million to the Stabilization Pools with
+respect to such years. In February 2005, MDNY disputed the assessment in
+writing, stating, among other things, that certain aspects of NYSID's
+methodology were flawed, that not all insurers and HMOs had consistently applied
+the criteria used to determine the eligibility of SMC claims and that NYSID had
+failed to ensure such consistent application. MDNY requested that NYSID review
+such methodology, and in light of MDNY's objections, allow MDNY to resubmit its
+data for such years reflecting higher average risk scores proposed by MDNY.
+
+7
+
+On April 5, 2005, Alicare advised MDNY that MDNY would receive $314,863
+from the Stabilization Pools with respect to 1998, and that Alicare's
+preliminary calculations showed that MDNY would receive approximately $1.1
+million with respect to 1999 and 2000. On April 7, 2005, Alicare orally advised
+MDNY that, because MDNY previously contributed to the Stabilization Pools in
+1999, 77% of such $1.1 million would be paid to MDNY under the original SMC pool
+for 1999 and 22% would be used to offset amounts due to the new SMC pool under
+Regulation 146.
+
+      On April 8, 2005, NYSID notified MDNY ("Contribution Notice") that Alicare
+had calculated the results of the SMC pool data submissions for the period 1999
+through 2004. The Contribution Notice and related invoices summarized MDNY's
+estimated net calculated contribution for each such year as follows, based on 5%
+of MDNY's incurred claims for such year pursuant to Regulation 146, and provided
+that net payments were due by May 15, 2005:
+
+         1999     $2,593,889
+
+         2000     $4,511,036
+
+         2001     $4,913,465
+
+         2002     $5,073,270
+
+         2003     $5,612,751
+
+         2004     $4,807,861
+
+      On April 12, 2005, NYSID telephonically advised MDNY that NYSID did not
+view the Contribution Notice as a final and definitive determination as to
+whether MDNY had net payment obligations with respect to the Stabilization Pools
+or as to the amount of such obligations, if any; that NYSID might retract the
+Contribution Notice in whole or part; and that NYSID would reevaluate the
+determinations made in the Contribution Notice in light of MDNY's comments and
+concerns regarding the Alicare audit.
+
+      On April 14, 2005, NYSID notified MDNY that the payment due dates for the
+invoices was extended to May 16, 2005 and further advised that the payment due
+for calendar year 2004 was postponed until further notice.
+
+      On June 16, 2005, NYSID notified MDNY that, as a result of discussions
+between NYSID and representatives of various regulated health plans concerning
+the collection and distribution of funds from the Stabilization Pools under
+Regulation 146, NYSID "anticipates that at this time, liabilities to the pools
+cannot be determined in regards to the amount or timeframe for payment. We will
+provide you with additional information as it becomes available."
+
+      In mid-June, NYSID orally indicated to MDNY that a proposed agreement was
+being finalized whereby NYSID would provide for contributions from all payors of
+12.5% for 1999-2003 and 50% for 2004, and eliminate any liability for distressed
+plans on condition that such plans forego amounts payable to them under the old
+pool methodology. NYSID also indicated that a new regulation would be drafted
+for 2005 and subsequent years.
+
+      On July 13, 2005, NYSID notified MDNY as follows:
+
+            "Due to the financially impaired status of MDNY at this time, the
+            Insurance Department is not imposing any liability on MDNY for
+            payments to the SMC Pools under the Fourth Amendment to Regulation
+            146 [citation omitted] for years 1999 through 2004 other than the
+            deposits for estimated SMC contributions previously remitted by MDNY
+            for 1999 and 2000. However, please be advised that the Insurance
+            Department will continue to evaluate MDNY's financial condition and
+            its impact on any liabilities under the pools for 2005, and for
+            future years."
+
+      The effect of the July 13 notice is to relieve MDNY from liability under
+Regulation 146 with respect to 1999 through 2004, to forfeit deposits of
+$318,625 and $300,000 made by MDNY with respect to 1999 and 1998, and to leave
+open the possibility of liability under Regulation 146 with respect to 2005 and
+subsequent years. The amount of liability, if any, with respect to 2005 and
+subsequent years cannot be estimated.
+
+      There can be no assurance that NYSID will determine that MDNY does not
+have significant payment obligations to the Stabilization Pools with respect to
+2005 and subsequent years. Any definitive determination by NYSID that MDNY has
+
+8
+
+significant payment obligations with respect to the Stabilization Pools for such
+years would have a material adverse effect on the business and financial
+condition and operations of MDNY and the Company.
+
+      NYSID has not issued a new or revised Regulation 146 with respect to years
+subsequent to 2004. Therefore as of June 30, 2005, the Company has not recorded
+any impact related to the stabilization pools.
+
+      In January 2005, MDNY entered into a new agreement with a financial
+advisor to pursue potential partnerships, investments in and/or acquisitions of
+MDNY. MDNY is considering proposals from potential equity investors. There is no
+assurance that any equity investment will be completed on terms acceptable to
+MDNY and its shareholders, if at all.
+
+Management continues to work on efforts to reduce operating and medical expenses
+primarily relating to staffing reductions and renegotiation of provider
+contracts. However, without the investment of sufficient additional capital to
+enable MDNY to compete effectively, it is uncertain whether MDNY's business and
+financial condition will improve.
+
+Item 2.  Management's Discussion and Analysis of Financial Condition and Results
+         of Operations
+
+Results of Operations
+
+Company Overview
+
+      Long Island Physician Holdings Corporation (the "Company" or "LIPH") is a
+New York corporation formed in December 1994 and owned by physicians residing
+and practicing in New York State. The Company conducts no operating activities
+of its own. The Company's principal asset is 67% of the stock in MDNY
+HealthCare, Inc. ("MDNY"), an independent practice association-model health
+maintenance organization ("HMO") that operates in Nassau and Suffolk counties,
+New York. The financial statements of MDNY are consolidated into the audited
+financial statements of the Company. Catholic Healthcare Network of Long Island,
+Inc. ("CHNLI") owns the remaining 33% of the stock in MDNY. MDNY commenced
+operations in 1996. As of December 31, 2004 membership was approximately 40,447.
+At June 30, 2005, MDNY had approximately 33,792 members ("Members"), comprised
+of individuals and families, enrolled in its health maintenance plans and
+point-of-service plans.
+
+      The Company is affiliated with LIPH, LLC (the "LLC"), a New York limited
+liability company formed in December 1996. Upon the formation of the LLC, the
+shareholders of the Company owned all of the membership interests in the LLC.
+The assets of the LLC consist of the stock in three independent practice
+associations, Island Practice Association, I.P.A., Inc. ("Island IPA"), Island
+Behavioral Health Association IPA, Inc. (currently inactive) and Island Dental
+Professional Association IPA, Inc. (the "IPAs"). MDNY has entered into various
+contractual arrangements (the "Professional Services Agreements") with the IPAs
+to arrange for the provision of applicable health care and administrative
+services to the Members of MDNY.
+
+      MDNY's ability to achieve profitability depends principally on reducing
+its medical expenses as a percentage of its premium revenue (the "medical loss
+ratio" or "MLR"), growing enrollment and effectively managing its administrative
+costs. During 2005, enrollment continued to decline. This was primarily the
+result of the loss of the Diocese membership, totaling 3,800 effective December
+31, 2004. As a result of the continued enrollment decline, MDNY continued to
+implement programs to reduce administrative costs. For the six months ended June
+30, 2005, the Company reported a loss of $84,416. This loss was primarily
+attributable to the Company's inability to reduce administrative costs
+sufficient enough to meet the decline in enrollment. The administrative loss
+ratio (ALR) as of June 30, 2005 was 15.1% compared to 13.9% as of June 30, 2004.
+As of June 30, 2005 and 2004 enrollment was 33,792 and 41,788 respectively.
+
+MDNY's negative working capital deficit decreased from approximately $17.2 at
+December 31, 2004 to approximately $16.5 and June 30, 2005. This decrease is
+primarily the result of the increase in premiums receivables due from the five
+Catholic hospitals(CHSLI).
+
+Recent Developments
+
+      As a condition to continued licensure by the New York State Insurance
+Department ("NYSID"), MDNY must maintain certain required reserves described
+below to protect its subscribers in the event MDNY is unable to meet its
+obligations.
+
+9
+
+Escrow Deposit Reserve Requirement
+
+      In accordance with the NYSID regulations, the Company is required to
+maintain certain amounts on deposit in an escrow account for the protection of
+enrollees, equal to 5% of projected medical expenditures of the following year
+or $100,000, whichever is greater. The Company had approximately $5,856,000 and
+$5,817,000 of money market funds on deposit in escrow as of June 30, 2005 and
+December 31, 2004, respectively. These funds are included in the consolidated
+balance sheets as restricted cash and cash equivalents. The Company met the
+escrow deposit requirement of $5.1 million at December 31, 2004, calculated as
+5% of an approximate $102 million in projected medical expenditures for 2005.
+
+Contingent Reserve Requirement
+
+      In June 2005, the Department of Health adopted revised regulations
+regarding the amount HMO's and certain other health care organizations must
+maintain as the contingent reserve fund. That amount has increased from 5%
+annually to gradually increasing 1% over the next eight years to twelve and one
+half percent of the HMO's annual premium income. The new revision is effective
+for the calendar year 2006. The contingent reserve requirement shall be deemed
+to have been met if the statutory net worth of the Company equals or exceeds the
+contingent reserve requirement. The Company for calendar year 2004 reported its
+contingent reserve at 5% of net premiums which totaled $6.7 million. As
+statutory net assets of MDNY were $4.9 million and $5.4 million at June 30, 2005
+and December 31, 2004 respectively, MDNY is deficient in maintaining the
+required contingent reserve fund by $1.8 million and $1.3 million as of June 30,
+2005 and December 31, 2004 respectively.
+
+      The failure of MDNY to meet reserve requirements, the failure of MDNY or
+the IPAs to comply with other existing laws and regulations or a significant
+change in such laws or regulations could materially and adversely affect the
+operations, financial condition and prospects of the Company and MDNY.
+
+      MDNY is subject to the New York Women's Health and Wellness Act, which, as
+of January 1, 2003, obligates MDNY to provide contraceptive drugs and devices to
+its members, in conflict with the Ethical and Religious Directives for Catholic
+Health Care Services of the United State Conference of Catholic Bishops, to
+which CHNLI, Catholic Health Services of Long Island ("CHSLI"), on behalf of
+five Catholic hospitals that act as providers to MDNY (the "Hospitals"), and the
+Diocese of Rockville Center (the "Diocese") are subject.
+
+      In light of this conflict, CHNLI has executed the Stock Purchase agreement
+so as to allow CHNLI to withdraw as an MDNY shareholder. The Company, MDNY and
+CHNLI entered into a Stock Purchase Agreement dated as of December 31,
+2004.Pursuant to the Stock Purchase Agreement, LIPH will purchase from CHNLI all
+shares of Class B common stock of MDNY owned by CHNLI, and CHNLI will contribute
+to the capital of MDNY, and for cancellation, a Subordinated Note dated December
+18, 1997 made by MDNY in favor of CHNLI in the original principal amount of $1.4
+million, together with all interest accrued thereon (the "Section 1307
+Contribution"). Upon the closing of such purchase, LIPH will be the sole
+stockholder of MDNY.
+
+      In consideration of the sale, assignment and transfer of the Class B
+Shares and of the Section 1307 Contribution, LIPH will pay CHNLI a closing
+payment of $10.00. As additional consideration, LIPH will pay to CHNLI the
+percentage specified below of the net amount of cash and the fair market value
+of all securities and other property paid by an acquiror and received by LIPH in
+respect of its equity interest in MDNY upon any sale to a third party by LIPH of
+its stock in MDNY or of all or substantially all of MDNY's business (through a
+sale of stock or assets, or a merger, consolidation or similar transaction) that
+is consummated prior to December 31 of the year specified below (or with respect
+to calendar year 2008, certain transactions consummated after December 31,
+2008), but not to exceed $4.5 million in the aggregate (the amount of CHNLI's
+equity investment in MDNY):
+
+               Percentage of Sale Proceeds                 Year
+               ---------------------------                 ----
+
+               33.3%                                       2005
+
+               25.0%                                       2006
+
+               20.0%                                       2007
+
+               15.0%                                       2008
+
+10
+
+Conditions to closing under the Stock Purchase Agreement include: (i) the
+termination of the Shareholders Agreement and the Stock Subscription and
+Purchase Agreement, each dated as of October 11, 1995, between LIPH, MDNY and
+CHNLI, as amended, (ii) execution and delivery of mutual releases by CHNLI, the
+Diocese and CHSLI, on the one hand, and MDNY and LIPH, on the other hand, from
+all claims arising through the closing date, except for claims arising under the
+Agreement and certain other agreements in effect among the releasing parties as
+of the closing date, (iii) resignation of the four MDNY directors designated by
+CHNLI, as directors and officers of MDNY, (iv) payment in full of all premiums
+then payable under the MDNY Group Applications effective as of December 31, 2002
+between MDNY and each of the Diocese and CHSLI, as agent for the Hospitals; (v)
+no premiums under such Group Applications being more than 30 days past due; (vi)
+execution and delivery of an agreement whereby the Hospitals and certain related
+Catholic nursing homes agree to pay the same penalties and interest on past due
+premiums and other amounts payable by them to MDNY as those applicable under
+current regulations to late payments due from MDNY to the Hospitals; (viii)
+consent by each of NYSID (which granted consent in June 2005), the New York
+Department of Health (which was granted in August 2005), the Attorney General of
+the State of New York and the Supreme Court of the State of New York to the
+Agreement and the transactions contemplated thereby; and (ix) payment in full of
+all payments due and owing by MDNY to the Hospitals for services rendered to the
+extent required by the provider agreements between MDNY and the Hospitals, and
+no such payments, with respect to clean claims, being more than 45 days past
+due.
+
+      Upon closing of the purchase of the Class B shares, the Certificate of
+Incorporation and By-laws of MDNY and the composition of MDNY's Board of
+Directors will be modified to reflect, among other things, that CHNLI is no
+longer a shareholder in MDNY and the composition and number of MDNY's Directors
+will be changed to include the requisite number of enrollee representatives.
+Approval from the Attorney General of the State of New York and the Supreme
+Court of the State of New York is still pending to satisfy the conditions for
+closing the agreement.
+
+      On October 6, 2004, the Diocese notified MDNY that the Diocese will not
+renew its subscriber contract with MDNY upon expiration thereof effective
+January 1, 2005 and that the Diocese had chosen another entity to act as its
+third party administrator to administer the Diocesan lives on a self insured
+basis after January 1, 2005. The Diocese had approximately 3800 members as of
+December 31, 2004 and represented approximately 10% of MDNY's premiums for 2004.
+..In addition, MDNY also provides health care insurance to the employees of the
+Hospitals affiliated with CHSLI. t CHSLI, on behalf of the Hospitals, will not
+renew their current subscriber contract with MDNY upon expiration thereof
+effective January 1, 2006. CHSLI and the Hospitals have 6477 members as of June
+30, 2005 and represent approximately 20% of MDNY's premiums for 2005. The loss
+of the CHSLI business will have a material adverse effect on MDNY's business and
+financial condition.
+
+      The Company has incurred a loss through June 30, 2005 totaling $84,416.
+This loss was primarily attributable to the Company's inability to reduce
+administrative costs sufficient enough to meet the decline in enrollment. The
+administrative loss ratio (ALR) as of June 30, 2005 was 15.1% compared to 13.9%
+as of June 30, 2004. The Company continues to lose enrollment. Enrollment as of
+June 30, 2005 was 33,792 down 20% from 40,447 at December 31, 2004. The Company
+believes that the decline in enrollment is largely attributable to the fact that
+MDNY lacks the resources and capacity to compete with larger, better capitalized
+competitors and that MDNY's Article 44 HMO license restricts MDNY from offering
+innovative, competitive products. In order to offer competitive products, the
+Company believes that MDNY would need to obtain an Article 42 license, which
+would require additional capital to meet Article 42 reserve requirements.
+Financial advisors and potential investors have informed MDNY that any
+investment by a third party in MDNY might require a significant restructuring of
+MDNY including CHNLI's prior withdrawal as an MDNY shareholder and might entail
+the reduction of LIPH's equity interest in MDNY to a minority position. Without
+the investment of sufficient additional capital to enable MDNY to compete
+effectively, the Company believes that MDNY's business and financial condition
+is unlikely to improve. MDNY has engaged a financial advisor to assist in
+effecting an investment in or acquisition of MDNY that would result in the
+adequate capitalization of MDNY and the possible reduction of LIPH's equity
+interest in MDNY to a minority position. Certain transactions are currently
+under consideration but there can be no assurance that the Company and MDNY will
+be able to effect any such transaction on terms satisfactory to the Company, if
+at all.
+
+      MDNY continues to analyze potential reductions in administrative costs
+and, other ways to control medical expenses through arrangements with its
+affiliated IPAs and with non-IPA primary care physicians, with certain specialty
+providers, and through its quality improvement programs, utilization management
+and review of hospital inpatient and outpatient services, and educational
+programs on effective managed care for its providers. There is no assurance that
+such actions will achieve positive results from operations or adequate working
+capital and equity.
+
+Recovery and Subordination Agreement
+
+      With respect to years prior to 2001, MDNY was contractually obligated to
+pay a capitated amount to Island IPA for covered services provided by
+participating providers. Through 2001, however, MDNY continued to pay medical
+claims to
+
+11
+
+Island IPA relating to claims with dates of service prior to January 1, 2001 in
+excess of capitated amounts for years prior to 2001. These payments resulted
+from medical claim obligations due by Island IPA to providers of approximately
+$23.2 million at December 31, 2001, reflected in MDNY's financial statements as
+payments in excess of capitation as of December 31, 2001 (the "Island Debt").
+NYSID's position was that the Island Debt should be carried on the financial
+statements of MDNY as a liability of MDNY and not of Island IPA, causing MDNY to
+be deficient in its reserves.
+
+      In order to meet NYSID's concerns, MDNY converted the capitation-based
+contract with Island IPA to a fee for service based IPA Participation Agreement
+effective January 1, 2001.
+
+      With NYSID's approval, MDNY, Island IPA and CHSLI, entered into a Recovery
+and Subordination Agreement (the "Recovery and Subordination Agreement"), dated
+July 12, 2001 and effective January 1, 2002. The Recovery and Subordination
+Agreement provides, among other things, as follows: (i) Island IPA is required
+to pay the Island Debt pursuant to a Repayment Plan whereby Island IPA is
+obligated to withhold, and remit to MDNY, 5% of all payments due to Island IPA
+participating providers (the "IPA Withhold"), MDNY will make claims payments to
+Island IPA or its participating providers on a fee-for-service basis, MDNY is
+required to pay Island IPA a $1.50 per member per month network access fee, and
+Island IPA is required to pay to MDNY the net revenue it receives from sources
+other than MDNY; (ii) until the Island Debt is repaid, Island IPA, Island IPA's
+participating providers and the Hospitals agreed (a), in the event that MDNY
+becomes insolvent (pursuant to a court approved order or admits its inability to
+pay its debts), to subordinate their rights to payment by MDNY of outstanding
+claims (including IBNR) to all other outstanding claims in an amount equal to
+the amount of the then outstanding Island Debt, and (b) that, after payment of
+third party claims, the claims of Island IPA and its providers will be
+subordinated to the claims of the Hospitals; and (iii) the amount of the Island
+Debt outstanding from time to time will be carried on the financial statements
+of MDNY as an admitted asset. The aggregate amount owed by MDNY to the
+subordinating parties in the form of medical claims payable was approximately
+$14.8 million and $18.5 million as of June 30, 2005 and December 2004,
+respectively.
+
+      MDNY recognized an initial receivable of approximately $23.2 million,
+which represented actual claims paid in 2001 to Island IPA participating
+providers with dates of service prior to January 1, 2001. As of June 30, 2005
+and December 31, 2004, the Island Debt was $17.6 million and $18.4 million
+respectively. The $800,000 reduction of the Island Debt since December 31, 2004
+is the result of the IPA Withhold paid for the six months ended June 30, 2005.
+As of June 30, 2005 and December 31, 2004, no payment by MDNY to Island IPA for
+network access fees has been made or will be required to be made to Island IPA.
+In addition, Island IPA has not received any income from other sources as of
+June 30, 2005 and December 31, 2004 respectively.
+
+      On July 30, 2002, NYSID issued its Report on Examination of The MDNY
+Healthcare, Inc. as of June 30, 2000 dated April 2, 2001 and revised July 30,
+2002 (the "NYSID Final Report"). The Final Report states, among other things,
+that based on the execution of the Recovery and Subordination Agreement, "the
+IPA receivable will be allowed as an admitted asset and the examination
+insolvency will be eliminated. NYSID will monitor the impact of the Recovery and
+Subordination Agreement."
+
+      According to the NYSID Final Report, the composition of MDNY's Board of
+Directors does not comply with Part 98-1.11(f) of the Administrative Rules and
+Regulations of the New York State Department of Health ("NYSDOH"), which
+requires that at least 20% of MDNY's directors must be enrollees of MDNY. The
+NYSID Final Report recommends that the requisite number of "enrollee
+representatives" be elected to MDNY's Board of Directors. LIPH and CHNLI have
+approved amendments to MDNY's certificate of incorporation and bylaws that
+reduce the number of MDNY's board of directors from MDNY from 18 to 12. It is
+anticipated that in the event LIPH purchases CHNLI's stock in MDNY, the
+composition of MDNY's board of directors would be changed to comply with the 20%
+enrollee representation requirement.
+
+12
+
+The following table provides certain statement of operations data
+expressed as a percentage of total revenue and other statistical data for the
+six month period ended June 30, 2005 and 2004:
+
+                                                         2005            2004
+                                                        -------         -------
+Revenues:
+Premiums earned                                           100.0%          100.0%
+
+Expenses:
+                                                        -------         -------
+IPA Medical claims expense                                 85.2            85.9
+Commissions expense                                         4.2             4.0
+General and administrative expenses                        10.8             9.8
+Depreciation                                                 .1              .1
+                                                        -------         -------
+  Total expenses                                          100.3            99.8
+  Operating  income                                         (.3)             .2
+Investment and other income                                  .1              .1
+Net income before income taxes minority interest            (.2)             .3
+                                                        -------         -------
+Provision for income tax expense                             --              .1
+Minority interest in income of subsidiary                    .1            (0.1)
+                                                        -------         -------
+Net  income                                                 (.1)%            .1%
+                                                        -------         -------
+Statistical data:
+  Enrollment (HMO and POS)                               33,792          41,788
+  HMO enrollment                                         31,494          38,217
+  POS enrollment                                          2,298           3,571
+  Member months                                         204,829         254,607
+  *Medical loss ratio                                      85.2            85.9
+  **Administrative loss ratio                              15.1            13.9
+
+ *    Medical loss ratio- Medical expense and net reinsurance divided by total
+      premium
+
+**    Administrative loss ratio-Commission expense, depreciation, and general
+      administrative expense divided by total premium
+
+Comparison of three months ended June 30, 2005 and 2004
+
+      Revenues for the three months ended June 30, 2005 were $29,464,966 down
+12% from $33,612,580 during the same period in the prior year. Enrollment
+totaled 33,792 at June 30, 2005 down 19% from 41,788 at June 30, 2004. Premium
+revenues decreased $4,147,614 as a result of the decline in enrollment offset by
+premium rate increases in 2005. Premium yields for the second quarter increased
+8% to $290.37 on a pmpm (per member per month) basis from $269.03 compared to
+the second quarter 2004.
+
+      Total expenses for the quarter ended June 30, 2005 were $29,789,338 down
+12% from $33,912,140 for the same period in the prior year. This decrease in
+expenses is the result of declines in medical costs associated with the decline
+in enrollment. Medical claim expense as a percent of premium revenues was 86.3%
+for the second quarter 2005 compared to 87% for the second quarter 2004. Medical
+costs stated on a pmpm basis increased to $250.50 for the second quarter 2005
+from $233.95 during the same period in the prior year, a 7% increase. This
+increase in pmpm medical costs is the result of higher medical costs.
+
+      Commissions as a percent of premium was approximately 4.2% for the second
+quarter 2005 compared to 4% for the quarter ended June 30, 2004. The loss of the
+Diocese membership effective January 1, 2005 resulted in, a higher proportion of
+the premium remaining in the plan to be generated through general agents,
+brokers, and associations. The percentage of
+
+13
+
+premium generated through brokers and general agents was approximately 80% as of
+June 30, 2005 compared to 72% at June 30, 2004.
+
+      Total general administrative costs decreased 6% to $3,119,366 for the
+quarter ended June 30, 2005 compared to $3,312,692 for the second quarter of
+2004. Although total general and administrative costs decreased, general and
+administrative costs stated as a percent of premium increased to 10.6% for the
+second quarter 2005 compared to 9.9% for the second quarter 2004. This increase
+is primarily the result of a continued decline in enrollment.
+
+      Net loss for the second quarter of 2005 totaled $183,089 compared with a
+net loss of $278,196 for the second quarter 2004. This loss is the result of
+increasing administrative and commission costs as a percent of premium (ALR). As
+enrollment continues to decline the ability to reduce administrative and
+commission costs has becomes increasingly difficult for the Company.
+
+Comparison of six months ended June 30, 2005 and 2004
+
+      Revenues for the six months ended June 30, 2005 were $59,352,947, down 14%
+from $68,691,443 during the same period in the prior year. Enrollment totaled
+33,792 at June 30, 2005 down 19% from 41,788 at June 30, 2004. Premium revenues
+decreased $9,338,496 as a result of the decline in enrollment offset by premium
+rate increases. Premium yields as of June 30, 2005 increased 7.4% to $289.77 on
+a pmpm (per member per month) basis from $269.79 compared to the same time
+period in 2004.
+
+      Total expenses for the six months ended June 30, 2005 were $59,550,969
+down 13% from $68,569,605 for the same period in the prior year. This decrease
+in expenses is the result of enrollment declines realized during the first six
+months of 2005. The ALR (including commissions) for the six months ended June
+30, 2005 and 2004 was 15.08% and 13.9% respectively.
+
+      Medical claim expense as a percent of premium revenues was 85.2% for the
+six months ended 2005 compared to 85.9% for the same time period in 2004.
+Medical costs stated on a pmpm basis increased to $247.04 as of June 30, 2005
+from $231.72 during the same period in the prior year; a 6.6% increase.
+
+      Commissions as a percent of premium remained at approximately 4.2% as of
+June 30, 2005 and 4.0% at June 30, 2004 respectively. The loss of the Diocese
+membership effective January 1, 2005 resulted in, a higher proportion of the
+premium remaining in the plan to be generated through general agents, brokers,
+and associations. The percentage of premium generated through brokers and
+general agents was approximately 80% as of June 30, 2005 compared to 72% at June
+30, 2004.
+
+      Total general and administrative costs for the six months ended decreased
+5% to $6,427,324 compared to $6,784,391 for the same time period in 2004.
+Although total general and administrative costs decreased, general and
+administrative costs stated as a percent of premium increased to 10.8% for the
+second quarter 2005 compared to 9.8% for the second quarter 2004. This increase
+is primarily the result of a continued decline in enrollment through the second
+quarter 2005.
+
+      Net loss for the six months ended 2005 totaled $84,416 compared with a net
+income of $111,832 for the six months ended 2004. This loss is the result of
+increasing administrative and commission costs as a percent of premium (ALR). As
+enrollment continues to decline the ability to reduce administrative and
+commission costs has becomes increasingly difficult for the Company.
+
+      Liquidity and Capital Resources
+
+      Cash and cash equivalents as of June 30, 2005 decreased to $1,278,346 from
+$1,334,326 at December 31, 2004. The decrease is directly related to the timing
+of the receipt of premium payments and the processing of claim payments.
+
+      MDNY had a negative working capital of $16.5 million at June 30, 2005
+compared to a negative working capital of $17.2 million at December 31, 2004.
+This decrease in negative working capital is related to the increase in premium
+for CHSLI.
+
+      There can be no assurance that the 2005 rate increases together with the
+other operating initiatives will produce sufficient cash flows to meet MDNY's
+obligations.
+
+14
+
+Capital Reserves and Liquidity
+
+      Certain matters relating to MDNY's regulatory status, its compliance with
+applicable reserve and statutory net worth requirements and liquidity are
+discussed above under the caption - "Recent Developments."
+
+      The continued failure of MDNY to meet reserve requirements, the failure of
+MDNY or the IPAs to comply with other existing laws and regulations or a
+significant change in such laws or regulations could materially and adversely
+affect the operations, financial condition and prospects of the Company, MDNY
+and the IPAs.
+
+      Meeting the reserve requirements is a condition for continued licensure
+and that MDNY's failure to meet the contingent reserve fund requirement could
+cause the NYSID or DOH to require more frequent reporting and, if necessary,
+require MDNY to develop for approval a corrective action plan to cure the
+impairment. However, should NYSID and DOH determine that MDNY is insolvent; they
+could issue a Notice of Termination and direct MDNY to perform an orderly
+shutdown. The NYSID has not issued any such notice to MDNY.
+
+      MDNY obtained a Section 1307 loan from LIPH, LLC for $1 million in 1997
+and another from CHNLI for $1.4 million in 1998. Interest on these loans accrues
+at the prime rate and is payable quarterly. These loans together with the
+accrued interest brought MDNY's June 30, 2005 statutory net worth to $4.9
+million compared to the NYSID required net worth of $6.7 million. (Under Section
+1307, the principal and interest are treated as equity capital for regulatory
+purposes and are repayable out of free and divisible surplus, subject to the
+prior approval of NYSID).
+
+Critical Accounting Policies and Estimates
+
+      The preparation of financial statements in conformity with accounting
+principles generally accepted in the United States requires the Company to make
+estimates and assumptions and select accounting policies that affect the
+reported amounts of assets and liabilities and disclosure of contingent assets
+and liabilities at the date of the financial statements, as well as the reported
+amounts of revenues and expenses during the reporting period. Actual results
+could differ from those estimates.
+
+      The Company's revenues primarily recognized during the period in which
+MDNY is obligated to provide services to subscribers. Premiums collected are in
+advance are deferred and recorded as unearned premium revenue in the balance
+sheet. Due to the nature of MDNY's business, several of the Company's accounting
+policies, primarily relating to costs of claims incurred but not reported and
+allowance for doubtful accounts associated with premium and reinsurance
+receivables, involve significant estimates and judgments. These accounting
+policies have been described in our 2004 Annual Report on Form 10-K.
+
+Factors Affecting Future Results
+
+      Health Insurance Portability and Accountability Act of 1996
+
+      The Secretary of the Department of Health and Human Services, or HHS, has
+issued final regulations under the Health Insurance Portability and
+Accountability Act of 1996 ("HIPAA"), designed to improve the efficiency and
+effectiveness of the health care system by facilitating the electronic exchange
+of information in certain financial and administrative transactions while
+protecting the privacy and security of the information exchanged. Three
+principal groups of regulations have been issued: privacy regulations, security
+regulations, and standards for electronic transactions.
+
+      MDNY implemented the HIPAA privacy regulations by April 2003, as required,
+and is evaluating the costs of upgrading its systems and procedures to fully
+comply with the security regulations by the compliance deadline of April 20,
+2005.
+
+      The HIPAA regulations on electronic transactions, which the Company refers
+to as the transaction standards, establish uniform standards for electronic
+transactions and code sets, including the electronic transactions and code sets
+used for claims, remittance advices, enrollment and eligibility. The transaction
+standards became effective in October 2002, although covered entities were
+eligible to obtain a one-year extension if approved through an application to
+the Secretary of HHS. MDNY received this one-year extension through October 16,
+2003 from HHS.
+
+      HHS issued Guidance on July 24, 2003 that it will not penalize a covered
+entity for post-implementation date transactions that are not fully compliant
+with the transactions standards, if the covered entity can demonstrate its good
+faith efforts to comply with the standards. HHS' stated purpose for this
+flexible enforcement position was to "permit health plans to mitigate unintended
+adverse effects on covered entities' cash flow and business operations during
+the transition to the standards, as well as on the availability and quality of
+patient care."
+
+      There is a divergence of interpretation as to how the new transaction
+standards are to be implemented and as a result, MDNY could face increased costs
+and complexity, and a temporary disruption in MDNY's business processes. MDNY is
+
+15
+
+continuing to make good faith efforts to comply with the standards. At this
+time, the Company cannot estimate the potential impact of implementing (or
+failing to implement) the HIPAA transaction standards on cash flows and results
+of operations.
+
+      Impact of New Accounting Standards
+
+      In December 2004, the FASB issued SFAS No. 153, "Exchange of Non-monetary
+Assets" ("SFAS No. 153"), an amendment of Accounting Principles Board ("APB")
+Opinion No. 29. In March 2005, the FASB issued Interpretation No. 47,
+"Accounting for Conditional Asset Retirement Obligations" ("FIN 47"). In May
+2005, the FASB issued SFAS No. 154, " Accounting Changes and Error Corrections"
+("SFAS No. 154"), a replacement of APB Opinion No. 20 and FASB Statement No. 3.
+The impact of the above referenced accounting standards is discussed in Note 1
+to the interim consolidated financial statements.
+
+      Inflation
+
+      Medical costs have been rising at a higher rate than that for consumer
+goods as a whole. The Company believes that MDNY's premium increases, provider
+reimbursement arrangements and other cost control measures mitigate, but do not
+wholly offset, the effects of medical cost inflation on MDNY's operations.
+MDNY's inability to increase premiums could negatively affect MDNY's future
+earnings.
+
+      Certain Factors Affecting Future Operating Results
+
+      Certain statements in this Report on Form 10-Q are forward-looking
+statements and are not based on historical facts but are management's
+projections or best estimates. Such forward-looking statements include but are
+not limited to, statements concerning future or prospective results of
+operations or financial position, liquidity, health care and administrative
+costs, premium rates and yields for commercial business, growth and retention of
+membership and development of new lines of business, health care benefits,
+provider networks, provider utilization rates, medical loss ratio levels, claims
+payment, service performance and other operations matters, administrative loss
+ratio levels, proposed efforts to control health care and administrative costs,
+impact of agreements with health care providers and related organizations of
+providers, reinsurance coverage for risk-transfer arrangements, enrollment
+levels, government regulation such as HIPAA, PBOR, the impact of new laws and
+regulation, the future of the health care industry, and the impact on MDNY of
+regulatory investigations and examinations. Actual results may differ materially
+from those expressed or implied by such forward-looking statements due to risks
+and uncertainties, including but not limited to the following: the continued
+inability of MDNY to meet applicable reserve and statutory net worth
+requirements; that the Hospitals affiliated with CHSLI will not renew their
+subscriber contract with MDNY effective January 1, 2006, in light of MDNY's
+obligation to comply with the New York Women's Health and Wellness Act, in light
+of such conflict; increased regulation or modification of existing regulations
+which will increase health care expenses or require additional or increased
+levels of statutory reserve requirements; increased competition in MDNY's
+markets or a change in product mix will reduce premium revenue; MDNY will
+continue to lose members; the Company and MDNY will not be successful in
+obtaining additional capital necessary for MDNY to compete effectively; health
+care costs in any given period may be greater than expected due to general
+unanticipated increases in health care costs, unexpected incidence of major
+cases, national emergencies, natural disasters, epidemics, changes in physician
+practices, and new technologies.
+
+      See also the matters referred to throughout Item 1 of the Company's Annual
+Report on Form 10K for the fiscal year ended December 31, 2004.
+
+Item 3. Quantitative and Qualitative Disclosures about Market Risk
+
+      In the normal course of operations, MDNY is exposed to market risks
+arising from adverse changes in interest rates primarily through its borrowing
+activities and minimally through its short-term investments. Market risk is
+defined for these purposes as the potential change in the fair value of debt
+instruments resulting from an adverse movement in interest rates. As of June 30,
+2005, MDNY's only borrowings were under two promissory notes from LIPH, LLC and
+CHNLI, in the original aggregate principal amount of $2.4 million, which accrue
+interest at the prime rate. At June 30, 2005, total principal and interest due
+LIPH, LLC and CHNLI was approximately $1.4 million and $2.1 million,
+respectively. A 100 basis point increase in interest rates, applied to MDNY's
+borrowings at June 30, 2005, would result in an increase in annual interest
+expense and a corresponding reduction in cash flow (were such interest to be
+paid) of approximately $24,000. The Company believes that MDNY's exposure to
+market risk relating to interest rate risk is not material.
+
+      MDNY has no derivative financial instruments or derivative commodity
+instruments, nor does MDNY generally have any financial instruments entered into
+for trading or hedging purposes. The Company believes that MDNY's business
+operations are not exposed in any material respect to market risk relating to
+foreign currency exchange risk or commodity price risk.
+
+16
+
+Item 4. Controls and Procedures
+
+      Based upon an evaluation under the supervision and with the participation
+of the Company's President and Chairman of the Board and its Chief Financial
+Officer of the effectiveness of the design and operation of the Company's
+disclosure controls and procedures, as of the end of the period covered by this
+report, they have concluded that the Company's disclosure controls and
+procedures, as defined under rules 13a-15(e) and 15d-15(e) of the Securities
+Exchange Act of 1934, as amended, are effective for gathering, analyzing and
+disclosing information in the Company is required to disclose in its periodic
+reports filed under such Act.
+
+      In light of the continued uncertainty between January 2005 and July 13,
+2005 regarding MDNY's potential obligations to the Stabilization Pools and the
+related regulatory and financial statement disclosure implications, LIPH was
+unable to complete its Annual Report on Form 10-K for the year ended December
+31, 2004 prior to the scheduled filing date. This uncertainty together with the
+termination of the Company's auditor in November 2005 resulted in the Company
+being unable to complete its Reports on From 10-Q for the quarters ended, March
+31, June 30 and September 30 prior to the scheduled filing dates. There has been
+no significant change in the Company's internal controls over financial
+reporting that has materially affected, or is reasonably likely to materially
+affect, the Company's internal controls over financial reporting.
+
+17
+
+PART II - OTHER INFORMATION
+
+Item 6.   (a) Exhibits. The following exhibits to this report are being filed
+          with this report.
+
+          31.1    Chief Executive Officer Rule 13a-14(a)/15d-14(a) Certification
+
+          31.2    Chief Financial Officer Rule 13a-14(a)/15d-14(a) Certification
+
+          32.1    Chief Executive Officer Section 1350 Certification
+
+          32.2    Chief Financial Officer Section 1350 Certification
+
+18
+
+SIGNATURES
+
+Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange
+Act of 1934, the Registrant has duly caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized.
+
+      LONG ISLAND PHYSICIAN HOLDINGS CORPORATION
+
+  By: /s/ PAUL KOLKER, M.D.
+      --------------------------------------------
+      Name:  Paul Kolker, M.D.
+      Title: President and Chief Executive Officer
+
+     Date: _______________________
+
+19
+
+<EX-31.1>
+ 2
+ e23597ex31_1.txt
+ CERTIFICATION
+
+Exhibit 31.1
+
+                                  Certification
+
+      I, Paul Kolker, Chief Executive Officer of Long Island Physician Holdings
+Corporation, certify that:
+
+      1.    I have reviewed this Quarterly Report on Form 10-Q of Long Island
+            Physician Holdings Corporation;
+
+      2.    Based on my knowledge, this report does not contain any untrue
+            statement of a material fact or omit to state a material fact
+            necessary to make the statements made, in light of the circumstances
+            under which such statements were made, not misleading with respect
+            to the period covered by this report;
+
+      3.    Based on my knowledge, the financial statements, and other financial
+            information included in this report, fairly present in all material
+            respects the financial condition, results of operations and cash
+            flows of the registrant as of, and for, the periods presented in
+            this report;
+
+      4.    The registrant's other certifying officer(s) and I, are responsible
+            for establishing and maintaining disclosure controls and procedures
+            (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e) for the
+            registrant and have:
+
+            a)    Designed such disclosure controls and procedures, or caused
+                  such disclosure controls and procedures to be designed under
+                  our supervision, to ensure that material information relating
+                  to the registrant, including its consolidated subsidiaries, is
+                  made known to us by others within those entities, particularly
+                  during the period in which this report is being prepared;
+
+            b)    Evaluated the effectiveness of the registrant's disclosure
+                  controls and procedures and presented in this report our
+                  conclusions about the effectiveness of the disclosure controls
+                  and procedures, as of the end of the period covered by this
+                  report based on such evaluation; and
+
+            c)    Disclosed in this report any change in the registrant's
+                  internal control over financial reporting that occurred during
+                  the registrant's most recent fiscal quarter (the registrant's
+                  fourth fiscal quarter in the case of an annual report) that
+                  has materially affected, or is reasonably likely to materially
+                  affect, the registrant's internal control over financial
+                  reporting; and
+
+      5.    The registrant's other certifying officer(s) and I have disclosed,
+            based on our most recent evaluation of internal control over
+            financial reporting, to the registrant's auditors and the audit
+            committee of the registrant's board of directors (or persons
+            performing the equivalent functions):
+
+            a)    All significant deficiencies and material weaknesses in the
+                  design or operation of internal control over financial
+                  reporting which are reasonably likely to adversely affect the
+                  registrant's ability to record, process, summarize and report
+                  financial information; and
+
+            b)    Any fraud, whether or not material, that involves management
+                  or other employees who have a significant role in the
+                  registrant's internal control over financial reporting.
+
+Date: ________________________
+
+/s/ Paul Kolker
+- -----------------------------------
+Paul Kolker,
+President and Chairman of the Board
+(Principal Executive Officer)
+
+21
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ e23597ex31_2.txt
+ CERTIFICATION
+
+Exhibit 31.2
+
+                                  Certification
+
+      I, Concetta Pryor, Chief Financial Officer of Long Island Physician
+Holdings Corporation, certify that:
+
+      1.    I have reviewed this Quarterly Report on Form 10-Q of Long Island
+            Physician Holdings Corporation;
+
+      2.    Based on my knowledge, this Quarterly Report does not contain any
+            untrue statement of a material fact or omit to state a material fact
+            necessary to make the statements made, in light of the circumstances
+            under which such statements were made, not misleading with respect
+            to the period covered by this Quarterly Report;
+
+      3.    Based on my knowledge, the financial statements, and other financial
+            information included in this Quarterly Report, fairly present in all
+            material respects the financial condition, results of operations and
+            cash flows of the registrant as of, and for, the periods presented
+            in this Quarterly Report;
+
+      4.    The registrant's other certifying officer(s) and I, are responsible
+            for establishing and maintaining disclosure controls and procedures
+            (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e) for the
+            registrant and have:
+
+            a)    Designed such disclosure controls and procedures, or caused
+                  such disclosure controls and procedures to be designed under
+                  our supervision, to ensure that material information relating
+                  to the registrant, including its consolidated subsidiaries, is
+                  made known to us by others within those entities, particularly
+                  during the period in which this report is being prepared;
+
+            b)    Evaluated the effectiveness of the registrant's disclosure
+                  controls and procedures and presented in this report our
+                  conclusions about the effectiveness of the disclosure controls
+                  and procedures, as of the end of the period covered by this
+                  report based on such evaluation; and
+
+            c)    Disclosed in this report any change in the registrant's
+                  internal control over financial reporting that occurred during
+                  the registrant's most recent fiscal quarter (the registrant's
+                  fourth fiscal quarter in the case of an annual report) that
+                  has materially affected, or is reasonably likely to materially
+                  affect, the registrant's internal control over financial
+                  reporting; and
+
+      5.    The registrant's other certifying officer(s) and I have disclosed,
+            based on our most recent evaluation of internal control over
+            financial reporting, to the registrant's auditors and the audit
+            committee of the registrant's board of directors (or persons
+            performing the equivalent functions):
+
+            a)    All significant deficiencies and material weaknesses in the
+                  design or operation of internal control over financial
+                  reporting which are reasonably likely to adversely affect the
+                  registrant's ability to record, process, summarize and report
+                  financial information; and
+
+            b)    Any fraud, whether or not material, that involves management
+                  or other employees who have a significant role in the
+                  registrant's internal control over financial reporting.
+
+Date: _________________________________
+
+/s/ Concetta Pryor
+- ---------------------------------------
+Concetta Pryor, Chief Financial Officer
+(Principal Financial Officer)
+
+22
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ e23597ex32_1.txt
+ CERTIFICATION
+
+Exhibit 32.1
+
+                CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350,
+
+      AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+      In connection with the Quarterly Report of Long Island Physician Holdings
+Corporation (the "Company") on Form 10-Q for the period ended June 30, 2005 as
+filed with the Securities and Exchange Commission on the date hereof (the
+"Report"), I, Paul Kolker, Chief Executive Officer of the Company, certify,
+pursuant to 18 U.S.C. section 1350, as adopted pursuant to section 906 of the
+Sarbanes-Oxley Act of 2002, that to my knowledge: (1) The Report fully complies
+with the requirements of section 13(a) or 15(d) of the Securities Exchange Act
+of 1934; and (2) The information contained in the Report fairly presents, in all
+material respects, the financial condition and result of operations of the
+Company.
+
+/s/ Paul Kolker
+- --------------------------------
+Paul Kolker,
+President, Chairman of the Board
+(Principal Executive Officer)
+
+Date: _______________________
+
+      This certification accompanies the above-described Report on Form 10-Q
+pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 and shall not, except
+to the extent required by such Act, be deemed filed by the Company for purposes
+of Section 18 of the Securities Exchange Act of 1934, as amended.
+
+23
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ e23597ex32_2.txt
+ CERTIFICATION
+
+Exhibit 32.2
+
+                                  Certification
+
+                CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350,
+
+      AS ADOPTED PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+      In connection with the Quarterly Report of Long Island Physician Holdings
+Corporation (the "Company") on Form 10-Q for the period ended June 30, 2005 as
+filed with the Securities and Exchange Commission on the date hereof (the
+"Report"), I, Concetta Pryor, Chief Financial Officer of the Company, certify,
+pursuant to 18 U.S.C. section 1350, as adopted pursuant to section 906 of the
+Sarbanes-Oxley Act of 2002, that to my knowledge: (1) The Report fully complies
+with the requirements of section 13(a) or 15(d) of the Securities Exchange Act
+of 1934; and (2) The information contained in the Report fairly presents, in all
+material respects, the financial condition and result of operations of the
+Company.
+
+/s/ Concetta Pryor
+- -----------------------
+Concetta Pryor
+Chief Financial Officer
+
+Date: __________________________
+
+      This certification accompanies the above-described Report on Form 10-Q
+pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 and shall not, except
+to the extent required by such Act, be deemed filed by the Company for purposes
+of Section 18 of the Securities Exchange Act of 1934, as amended.
+
+24
+
+</EX-32.2>
+

@@ -1,0 +1,2718 @@
+<Header>
+<FileStats>
+    <FileName>20060313_10-Q_edgar_data_886128_0001144204-06-009648_1.txt</FileName>
+    <GrossFileSize>808060</GrossFileSize>
+    <NetFileSize>98042</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>573340</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>26</N_Tables>
+    <N_Exhibits>4</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001144204-06-009648.hdr.sgml : 20060313
+<ACCEPTANCE-DATETIME>20060313161627
+ACCESSION NUMBER:		0001144204-06-009648
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20060131
+FILED AS OF DATE:		20060313
+DATE AS OF CHANGE:		20060313
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FUELCELL ENERGY INC
+		CENTRAL INDEX KEY:			0000886128
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISCELLANEOUS ELECTRICAL MACHINERY, EQUIPMENT & SUPPLIES [3690]
+		IRS NUMBER:				060853042
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1031
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-14204
+		FILM NUMBER:		06682314
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3 GREAT PASTURE RD
+		CITY:			DANBURY
+		STATE:			CT
+		ZIP:			06813
+		BUSINESS PHONE:		2038256000
+
+	MAIL ADDRESS:	
+		STREET 1:		3 GREAT PASTURE ROAD
+		CITY:			DANBURY
+		STATE:			CT
+		ZIP:			06813
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ENERGY RESEARCH CORP /NY/
+		DATE OF NAME CHANGE:	19930328
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ MqtJB9YxZTyuX72w54zMM00WS4q5tetAbdOj72J8J9BRW9ZpZWD2ex7QHV8chyZG
+ rBXN8GxEwRF4N0RmeWFwWg==
+
+ 0001144204-06-009648.txt : 20060313
+
+10-Q
+ 1
+ v037527_10q.htm
+
+UNITED
+      STATES  
+
+       SECURITIES
+      AND EXCHANGE COMMISSION   
+
+       Washington,
+      D.C. 20549   
+
+Form
+      10-Q   
+
+for
+      the quarterly period ended January 31, 2006   
+
+      or
+
+for
+      the transition period from                       
+      to                          
+
+Commission
+      File Number 1-14204   
+
+FUELCELL
+      ENERGY, INC.  
+
+      (Exact
+      name of Registrant as Specified in its Charter)  
+
+3
+      Great Pasture Road   
+
+       Danbury,
+      Connecticut 06813   
+
+      (Address
+      of Principal Executive Offices)  
+
+Telephone
+      (203) 825-6000  
+
+Indicate
+      by check mark whether the registrant (1) has filed all reports required to
+      be
+      filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+      the
+      preceding 12 months (or for such shorter period that the registrant was required
+      to file such reports), and (2) has been subject to such filing requirements
+      for
+      the past 90 days. Yes  x    No
+ o         
+
+Indicate
+      by check mark whether the Registrant is an accelerated filer (as defined in
+      Rule
+      12b-2 of the Act). Yes  x      
+      No   o  
+
+Indicate
+        by check mark whether the Registrant is a shell company (as defined in Rule
+        12b-2 of the Exchange Act). Yes  o
+  No  x   
+
+Securities
+      registered pursuant to Section 12(b) of the Act: None   
+
+Securities
+      registered pursuant to Section 12(g) of the Act:  
+
+Common
+      Stock, par value $.0001 per share, outstanding at March 8, 2006:   48,858,396. 
+
+1 
+
+FUELCELL
+      ENERGY, INC.  
+
+FORM
+      10-Q   
+
+As
+      of and
+      For the Three Month Period Ended January 31, 2006  
+
+Table
+      of Contents   
+
+Page  
+
+PART
+                  I.    FINANCIAL INFORMATION  
+
+Item
+                  1. 
+
+Consolidated
+                  Financial Statements (unaudited) 
+
+Consolidated
+                  Balance Sheets as of January 31, 2006 and October 31, 2005
+
+3 
+
+Consolidated
+                  Statements of Operations for the three months ended January 31,
+                  2006 and
+                  2005 
+
+4 
+
+Consolidated
+                  Statements of Cash Flows for the three months ended January 31,
+                  2006 and
+                  2005 
+
+5 
+
+Notes
+                  to Consolidated Financial Statements  
+
+6 
+
+Item
+                  2. 
+
+Management s
+                  Discussion and Analysis of Financial Condition and Results of Operations
+
+17 
+
+Item
+                  3. 
+
+Quantitative
+                  and Qualitative Disclosures about Market Risk  
+
+29 
+
+Item
+                  4. 
+
+Controls
+                  and Procedures  
+
+29 
+
+PART
+                  II.    OTHER INFORMATION  
+
+Item 6. 
+
+Exhibits
+                  and Reports on Form 8-K  
+
+30 
+
+Signature 
+
+31 
+
+2 
+
+FUELCELL
+      ENERGY, INC.  
+
+       Consolidated
+      Balance Sheets  
+
+       (Dollars
+      in thousands, except share and per share amounts)  
+
+See
+      accompanying notes to consolidated financial statements. 
+
+3 
+
+FUELCELL
+      ENERGY, INC.  
+
+       Consolidated
+      Statements of Operations  
+
+       (Unaudited)  
+
+       (Dollars
+      in thousands, except share and per share amounts)  
+
+See
+      accompanying notes to consolidated financial statements. 
+
+4 
+
+FUELCELL
+      ENERGY, INC.  
+
+       Consolidated
+      Statements of Cash Flows  
+
+       (Unaudited)  
+
+       (Dollars
+      in thousands)  
+
+See
+      accompanying notes to consolidated financial statements. 
+
+5 
+
+FUELCELL
+      ENERGY, INC.  
+
+      Notes
+      to
+      Consolidated Financial Statements 
+
+       As
+      of and for the three months ended January 31, 2006 and
+      2005  
+
+       (Unaudited)  
+
+      (Tabular
+      amounts in thousands, except share and per share amounts) 
+ 
+       Note
+      1. Summary of Significant Accounting Policies  
+
+Nature
+      of Business  
+
+FuelCell
+      Energy, Inc. is engaged in the development and manufacture of high temperature
+      fuel cells for clean electric power generation. Our Direct FuelCell        
+      ( DFC
+        )
+      power
+      plants produce reliable, secure and environmentally friendly base load
+      electricity for commercial and industrial, government and other customers.
+      We
+      are currently in the process of commercializing our DFC carbonate products
+      and
+      are beginning the development of planar solid oxide fuel cell technology. We
+      expect to incur losses as we continue to participate in government cost share
+      programs, sell products at prices lower than our current production costs,
+      and
+      invest in our cost-out initiatives. 
+
+Basis
+      of Presentation - Interim Consolidated financial statements  
+
+The
+      accompanying unaudited consolidated financial statements have been prepared
+      in
+      accordance with accounting principles generally accepted in the United States
+      of
+      America ( GAAP ), for interim financial information, and with the instructions
+      to Form 10-Q and Rule 10-01 of Regulation S-X. Accordingly, they do not contain
+      all of the information and footnotes required by GAAP for complete financial
+      statements. In the opinion of management, all adjustments (consisting of normal
+      recurring adjustments) necessary to present fairly our financial position as
+      of
+      January 31, 2006 have been included. The balance sheet as of October 31, 2005
+      has been derived from the audited financial statements at that
+      date. 
+
+The
+      preparation of financial statements and related disclosures in conformity with
+      GAAP requires management to make estimates and assumptions that affect the
+      reported amounts of assets and liabilities and disclosure of contingent assets
+      and liabilities at the date of the consolidated financial statements and
+      revenues and expenses during the period reported. Actual results could differ
+      from those estimates. 
+
+The
+      results of operations and cash flows for the three months ended January 31,
+      2006
+      are not necessarily indicative of the results to be expected for the full year.
+      The reader should supplement the information in this document with prior
+      disclosures in our 2005 Annual Report on Form 10-K.  
+
+Consolidation  
+
+The
+      consolidated financial statements include our accounts and those of our
+      subsidiaries, including our Canadian subsidiary, FuelCell Energy, Ltd.
+      Intercompany accounts and transactions have been eliminated. Alliance Monterrey,
+      LLC; Alliance Chico, LLC; Alliance Star Energy, LLC; and Alliance TST Energy,
+      LLC are joint ventures with Alliance Power, Inc. to construct fuel cell power
+      plants and sell power under power purchase agreements to the following
+      customers: the City of Santa Barbara, the Sierra Nevada Brewering Co., the
+      Sheraton San Diego Hotel   Marina, the Westin San Francisco Airport Hotel
+      and TST Inc., respectively. The financial results of the joint ventures are
+      consolidated with those of FuelCell Energy, Inc., which owns 80 percent of
+      each
+      entity. Cumulative minority interest in these Alliance entities is not material
+      to the consolidated financial statements.  
+
+Certain
+      reclassifications have been made to our prior year amounts to conform to the
+      2006 presentation. 
+
+Foreign
+      Currency Translation  
+
+Our
+      Canadian subsidiary, FuelCell Energy, Ltd., is financially and operationally
+      integrated and therefore the temporal method of translation of foreign
+      currencies is followed. The functional currency is U.S. dollars. We recognized
+      a
+      foreign currency gain of approximately $.05 million and a foreign currency
+      loss
+      of approximately $.03 million during the three months ended January 31, 2006
+      and
+      2005, respectively. These amounts have been classified in interest and other
+      income on our consolidated statement of operations. 
+
+6 
+
+FUELCELL
+        ENERGY, INC.  
+
+        Notes
+        to
+        Consolidated Financial Statements, continued 
+
+         As
+        of and for the three months ended January 31, 2006 and
+        2005  
+
+         (Unaudited)  
+
+        (Tabular
+        amounts in thousands, except share and per share amounts) 
+
+Comprehensive
+      Loss  
+
+Comprehensive
+      loss was $15.1 million and $18.3 million for the three months ended January
+      31,
+      2006 and 2005, respectively. Comprehensive loss for the three months ended
+      January 31, 2005 included an adjustment to retained earnings totaling
+      approximately $0.2 million as a result from switching from the cost to equity
+      method of accounting for our investment in Versa. Refer also to Note 3  
+Equity Investments.  
+
+Recent
+      Accounting Pronouncements  
+
+In
+      December 2004, the Financial Accounting Standards Board ( FASB ) issued SFAS No.
+      123 (revised 2004) ( SFAS No. 123R ),  Share-Based Payment  which revised SFAS
+      No. 123,  Accounting for Stock-Based Compensation . This statement supercedes
+      APB Opinion No. 25,  Accounting for Stock Issued to Employees.  The revised
+      statement addresses the accounting for share-based payment transactions with
+      employees and other third parties, eliminates the ability to account for
+      share-based compensation transactions using APB 25 and requires that the
+      compensation costs relating to such transactions be recognized in the
+      consolidated statement of operations. The Company adopted this statement as
+      of
+      November 1, 2005, as required, utilizing the modified prospective method.
+      Share-based compensation of $1.1 million was recognized in the consolidated
+      statement of operations for the three months ended January 31, 2006. Refer
+      to
+      Note 7 for additional information. 
+
+In
+      November 2004, the FASB issued SFAS No. 151,  Inventory Costs,  which
+      amends the guidance in Accounting Research Bulletin No. 43, Chapter 4,
+ Inventory Pricing,  to clarify the accounting for abnormal amounts of idle
+      facility expense, freight, handling costs, and wasted material. This statement
+      requires that those items be recognized as current-period charges regardless
+      of
+      whether they meet the criterion of  so abnormal . In addition, this statement
+      requires that allocation of fixed production overheads to the costs of
+      conversion be based on the normal capacity of the production facilities. The
+      Company adopted the provisions of this accounting standard on November 1, 2005,
+      as required, and there was not a material impact to the Company s financial
+      statements.  
+
+In
+      March 2005, the FASB issued Interpretation No. 47,  Accounting for
+      Conditional Asset Retirement Obligations, an interpretation of FASB Statement
+      No. 143  ( FIN 47 ). FIN 47 requires the recognition of a liability for the
+      fair value of a legally-required conditional asset retirement obligation when
+      incurred, if the liability s fair value can be reasonably estimated. FIN 47 also
+      clarifies when an entity would have sufficient information to reasonably
+      estimate the fair value of an asset retirement obligation. FIN 47 is effective
+      for fiscal years ending after December 15, 2005, or no later than our
+      fiscal fourth quarter of 2006. We have not yet determined the impact of adopting
+      this statement on our consolidated financial statements.  
+
+Note
+      2.    Discontinued Operations  
+
+During
+      fiscal 2004, we acquired, Global Thermoelectric Inc. (Global) and subsequently
+      divested its generator product line through the sale of Global on May 28, 2004.
+      As a result, historical results were reclassified as discontinued operations.
+      During the three months ended January 31, 2005, we exited certain facilities
+      related to this business and as a result recorded fixed asset impairment charges
+      totaling approximately $0.9 million. In addition, we incurred approximately
+      $0.4
+      million of exit costs related to these facilities, which resulted in total
+      loss
+      from discontinued operations of approximately $1.3 million. There were no
+      discontinued operations during the three months ended January 31,
+      2006. 
+
+7 
+
+FUELCELL
+        ENERGY, INC.  
+
+        Notes
+        to
+        Consolidated Financial Statements, continued 
+
+         As
+        of and for the three months ended January 31, 2006 and
+        2005  
+
+         (Unaudited)  
+
+        (Tabular
+        amounts in thousands, except share and per share amounts) 
+
+Note
+      3. Equity investments  
+
+On
+      November 1, 2004, we transferred substantially all of our Canadian solid oxide
+      fuel cell ( SOFC ) assets and operations (including manufacturing and test
+      equipment, intellectual property and personnel) to Versa. In exchange, we
+      received 5,714 shares of Versa common stock, increasing our ownership position
+      in Versa to 7,714 shares. No cash was exchanged in the transaction. The
+      consideration received by us in the transaction was determined based upon
+      arms-length negotiations of the parties. 
+
+Our
+      investment in Versa totaled approximately $12.1 million and $12.3 million as
+      of
+      January 31, 2006 and October 31, 2005, respectively. Our current ownership
+      interest is 40 percent and we account for Versa under the equity method of
+      accounting.  
+
+Note
+      4. Investments  
+
+Our
+      short
+      and long-term investments are in U.S. treasury securities, which are held to
+      maturity. The following table summarizes the amortized cost basis and fair
+      value
+      at January 31, 2006 and October 31, 2005:  
+
+Reported
+      as:   
+
+As
+      of
+      January 31, 2006, short-term investment securities have maturity dates ranging
+      from February 15, 2006 to January 31, 2007, and estimated yields ranging from
+      2.71 percent to 4.40 percent. Long-term investment securities have maturity
+      dates ranging from April 30, 2007 to December 31, 2007, and estimated yields
+      ranging from 3.72 percent to 4.36 percent. Our weighted average yield on our
+      short and long-term investments was 3.71 percent as of January 31,
+      2006. 
+
+8 
+
+FUELCELL
+      ENERGY, INC.  
+
+      Notes
+      to
+      Consolidated Financial Statements, continued 
+
+       As
+      of and for the three months ended January 31, 2006 and
+      2005  
+
+       (Unaudited)  
+
+      (Tabular
+      amounts in thousands, except share and per share amounts) 
+ 
+       Note
+      5. Inventories  
+
+The
+      components of inventory at January 31, 2006 and October 31, 2005 consisted
+      of
+      the following: 
+
+Our
+      inventories are stated at the lower of recoverable cost or market price. We
+      provide for a lower of cost or market adjustment against gross inventory values.
+      Our lower of cost or market adjustment, reducing gross inventory values to
+      the
+      reported amounts, was approximately $8.3 million and $7.8 million at January
+      31,
+      2006 and October 31, 2005, respectively. 
+
+Note
+      6. Property, Plant and Equipment  
+
+Property,
+      plant and equipment at January 31, 2006 and October 31, 2005 consisted of the
+      following: 
+
+____ 
+
+(1)    
+             
+                Included
+                in construction in progress are costs of approximately $3.7 million
+                and
+                $1.5 million at January 31, 2006 and October 31, 2005, respectively,
+                to
+                build power plants, which will service power purchase agreement contracts.
+                These plants are being constructed by joint ventures, which the Company
+                is
+                an 80 percent owner and, as a result, consolidated on our financial
+                statements.  
+
+Depreciation
+      expense was approximately $2.2 million and $1.8 million for the three months
+      ended January 31, 2006 and 2005, respectively. 
+
+There
+      were no asset impairment charges during the three months ended January 31,
+      2006.
+  During
+      the three months ended January 31, 2005, we recorded a fixed asset impairment
+      charge related to an obsolete catalyst extruding system totaling $1.0 million,
+      against cost of product sales. This was related to a planned change in
+      manufacturing processes that is expected to improve product performance and
+      reduce costs in future periods. In addition, during the three months ended
+      January 31, 2005, we recorded a fixed asset impairment charge to discontinued
+      operations totaling $0.9 million related to excess facilities in Calgary,
+      Alberta, Canada.  
+
+9 
+
+FUELCELL
+        ENERGY, INC.  
+
+        Notes
+        to
+        Consolidated Financial Statements, continued 
+
+         As
+        of and for the three months ended January 31, 2006 and
+        2005  
+
+         (Unaudited)  
+
+        (Tabular
+        amounts in thousands, except share and per share amounts) 
+
+Note
+      7. Share-Based Compensation   
+
+The
+      Company has shareholder approved equity incentive plans and a shareholder
+      approved Section 423 Stock Purchase Plan (the  ESPP ), which are described in
+      more detail below.  
+
+On
+      November 1, 2005, we adopted SFAS No. 123R,  Share-Based Payment  utilizing the
+      modified prospective approach. This statement supercedes APB Opinion No. 25,
+       Accounting for Stock Issued to Employees , which we used to account for
+      share-based compensation transactions prior to November 1, 2005. The
+      compensation cost that has been charged against income for Share-Based Plans
+      was
+      $1.1 million for the three months ended January 31, 2006 and included $0.1
+      million in cost of product sales and revenues, $0.1 million in cost of research
+      and development contracts, $0.7 million in general and administrative expense
+      and $0.2 million in research and development expenses. There was no share-based
+      compensation expense recognized in the consolidated statement of operations
+      for
+      the three months ended January 31, 2005.  
+
+The
+      following table illustrates the effect on net loss and net loss per basic and
+      diluted share for the three months ended January 31, 2005 as if we had applied
+      the fair value method to our stock-based compensation:    
+
+Three
+                Months Ended January 31,  
+
+2005  
+
+Net
+                loss to common shareholders, as reported 
+
+$ 
+
+(19,366 
+
+) 
+
+Add:
+                Stock-based employee compensation expense included in reported net
+                loss 
+
+-- 
+
+Less:
+                Total stock-based employee compensation expense determined under
+                the fair
+                value method for all awards 
+
+(1,625 
+
+) 
+
+Pro
+                forma net loss to common shareholders 
+
+$ 
+
+(20,991 
+
+) 
+
+Loss
+                per basic and diluted common share to common shareholders, as
+                reported 
+
+$ 
+
+(0.40 
+
+) 
+
+Pro
+                forma loss per basic and diluted common share to common
+                shareholders 
+
+$ 
+
+(0.44 
+
+) 
+
+Equity
+      Incentive Plans   
+
+The
+      Board
+      adopted the 1988 and 1998 Equity Incentive Plans (collectively,  the Plans ).
+      Under the terms of the Plans, 10,206,000 shares of common stock may be granted
+      as options or stock to our officers, key employees and directors. Pursuant
+      to
+      the Plans, the Board is authorized to grant incentive stock options or
+      nonqualified options and stock appreciation rights to our officers and key
+      employees and may grant nonqualified options and stock appreciation rights
+      to
+      our directors. Stock options and stock appreciation rights have restrictions
+      as
+      to transferability. The option exercise price shall be fixed by the Board but
+      in
+      the case of incentive stock options, shall not be less than 100 percent of
+      the
+      fair market value of the shares subject to the option on the date the option
+      is
+      granted. Stock appreciation rights may be granted in conjunction with options
+      granted under the Plans. Stock options that have been granted are generally
+      exercisable commencing one year after grant at the rate of 25 percent of such
+      shares in each succeeding year and have a ten-year maximum term. There were
+      no
+      stock appreciation rights outstanding at January 31, 2006 and 2005. Refer also
+      to Note 12   Subsequent Events regarding the 2006 Equity Incentive Plan.
+
+10 
+
+FUELCELL
+        ENERGY, INC.  
+
+        Notes
+        to
+        Consolidated Financial Statements, continued 
+
+         As
+        of and for the three months ended January 31, 2006 and
+        2005  
+
+         (Unaudited)  
+
+        (Tabular
+        amounts in thousands, except share and per share amounts) 
+
+The
+      fair
+      value of each option award is estimated on the date of grant using the
+      Black-Scholes option valuation model that uses the assumptions noted in the
+      following table. Expected volatility for the three months ended January 31,
+      2006
+      is based on a combination of the historical volatility of the Company s stock
+      and the implied volatility from traded options. Expected volatility for the
+      three months ended January 31, 2005 is based on the historical volatility of
+      the
+      Company s stock. We use historical data to estimate the expected term of options
+      granted. 
+
+The
+      following table summarizes the Plans  stock option activity for the three months
+      ended January 31, 2006: 
+
+The
+      weighted average grant-date fair value of options granted during the three
+      months ended January 31, 2006 and 2005 was $5.07 and $6.60, respectively. The
+      total intrinsic value of options outstanding and options exercisable at January
+      31, 2006 was $20.8 million and $18.4 million, respectively. The total intrinsic
+      value of options exercised during the three months ended January 31, 2006 and
+      2005, was $0.3 million and $0.1 million, respectively.    
+
+11 
+
+FUELCELL
+        ENERGY, INC.   
+
+Notes
+        to
+        Consolidated Financial Statements, continued 
+
+         As
+        of and for the three months ended January 31, 2006 and
+        2005  
+
+         (Unaudited)  
+
+        (Tabular
+        amounts in thousands, except share and per share amounts) 
+
+The
+      following table summarizes information about stock options outstanding and
+      exercisable at January 31, 2006: 
+
+As
+      of
+      January 31, 2006, total compensation cost related to nonvested stock options
+      not
+      yet recognized was $8.1 million, which is expected to be recognized over the
+      next 1.5 years on a weighted-average basis.  
+
+In
+      the
+      first quarter of fiscal 2006, we issued 6,965 shares of common stock with a
+      value of $0.06 million to directors as compensation (in lieu of cash) under
+      the
+      1998 equity incentive plan. These shares were fully vested at the date of grant.
+      No shares of common stock were issued to directors under this plan for the
+      three
+      months ended January 31, 2005.  
+
+Employee
+      Stock Purchase Plan   
+
+Our
+      shareholders adopted a Section 423 Stock Purchase Plan (the  ESPP ) on April
+      30, 1993, which has been amended from time to time by the Board. The total
+      shares allocated to the ESPP are 900,000. Under the ESPP, eligible employees
+      have the right to subscribe to purchase shares of common stock at the lesser
+      of
+      85 percent of the high and low market prices on the first day of the purchase
+      period or the last day of the purchase period and such purchased shares have
+      a
+      six month vesting period. As of January 31, 2006, there were 375,525 shares
+      of
+      Common Stock reserved for issuance under the ESPP. These shares may be adjusted
+      for any future stock splits. As of January 31, 2006, we had 102 employees
+      enrolled and participating in the ESPP.  
+
+Activity
+      in the ESPP for the three months ended January 31, 2006 was as
+      follows: 
+
+The
+      weighted-average grant date fair value of shares under the ESPP during the
+      three
+      months ended January 31, 2006 was $2.54.  
+
+12 
+
+FUELCELL
+      ENERGY, INC.  
+       
+          Notes
+          to
+          Consolidated Financial Statements, continued 
+
+           As
+          of and for the three months ended January 31, 2006 and
+          2005  
+
+           (Unaudited)  
+
+          (Tabular
+          amounts in thousands, except share and per share
+          amounts) 
+
+The
+      fair
+      value of shares under the ESPP are determined at the grant date using the
+      Black-Scholes option-pricing model with the following weighted average
+      assumptions: 
+
+Incentive
+      Compensation   
+
+Stock
+      may
+      be issued to employees as part of FuelCell s annual incentive bonus. During the
+      first quarter of fiscal 2006, we issued 75,585 shares of common stock with
+      a
+      value of $0.7 million as incentive bonus (in lieu of cash). No such shares
+      were
+      issued for the three months ended January 31, 2005, however 67,456 shares of
+      common stock as incentive bonus (in lieu of cash) were issued in the third
+      quarter of fiscal 2005.  
+
+Note
+      8. Shareholders' Equity   
+
+Changes
+      in shareholders  equity were as follows for the three months ended January 31,
+      2006: 
+
+Series
+      B Preferred Shares   
+
+On
+      November 11, 2004, we entered into a purchase agreement with Citigroup Global
+      Markets Inc.; RBC Capital Markets Corporation; Adams Harkness, Inc.; and Lazard
+      Freres   Co., LLC (the  Initial Purchasers ) for the private placement under
+      Rule 144A of up to 135,000 shares of our 5% Series B Cumulative Convertible
+      Perpetual Preferred Stock (Liquidation Preference $1,000). On November 17,
+      2004
+      and January 25, 2005, we closed on the sale of 100,000 shares and 5,875 shares,
+      respectively, of Series B preferred stock to the Initial Purchasers. Net
+      proceeds to us were approximately $99.0 million. Upon a fundamental change
+      in
+      control of the Company, we may at our option, elect to pay the change of control
+      price in cash or, in shares of common stock valued at a discount of 5% from
+      the
+      market price of the shares of common stock, or any combination thereof.
+
+13 
+
+FUELCELL
+      ENERGY, INC.  
+       
+          Notes
+          to
+          Consolidated Financial Statements, continued 
+
+           As
+          of and for the three months ended January 31, 2006 and
+          2005  
+
+           (Unaudited)  
+
+          (Tabular
+          amounts in thousands, except share and per share amounts) 
+
+Preferred
+      shares of subsidiary   
+
+In
+      conjunction with our acquisition of Global, we assumed the preferred share
+      obligation comprised of 1,000,000 Series 2 non-voting Preferred Shares. With
+      the
+      sale of the Global entity in May of 2004, the Global Series 2 Preferred Shares
+      were cancelled, and replaced with equivalent Series 1 Preferred Shares
+      (Preferred Shares) issued by FuelCell Energy, Ltd. The Preferred Shares are
+      convertible at the option of the holder into a certain number of our common
+      shares based on the date of conversion. 
+
+Warrants   
+
+We
+      issued
+      warrants to purchase shares of our common stock to Marubeni Corp. and Enbridge
+      Inc. as part of their distribution agreements. The warrants for each distributor
+      vest in separate tranches if certain order levels are received by specified
+      dates. As of January 31, 2006, Marubeni held 600,000 warrants and Enbridge
+      held
+      1,000,000 warrants that were unvested.  
+
+Note
+      9. Segment Information and Major Customers  
+
+Under
+      SFAS No. 131,  Disclosures about Segments of an Enterprise and Related
+      Information,  we use the  management  approach to reporting segments. The
+      management approach designates the internal organization that is used by
+      management for making operating decisions and assessing performance as the
+      source of reportable segments. SFAS No. 131 also requires disclosures about
+      products and services, geographic areas, and major customers. Under SFAS No.
+      131, we have identified one business segment: fuel cell power plant production
+      and research. 
+
+Enterprise-wide
+      Information  
+
+Enterprise-wide
+      information provided on geographic revenues is based on the customer s ordering
+      location. The following table presents revenues (greater than ten percent of
+      our
+      total revenues) for geographic areas: 
+
+14 
+
+FUELCELL
+      ENERGY, INC.  
+       
+          Notes
+          to
+          Consolidated Financial Statements, continued 
+
+           As
+          of and for the three months ended January 31, 2006 and
+          2005  
+
+           (Unaudited)  
+
+          (Tabular
+          amounts in thousands, except share and per share
+          amounts)  
+
+Information
+      about Major Customers  
+
+We
+      contract with a small number of customers for the sales of our products or
+      research and development contracts. Those customers that accounted for greater
+      than ten percent of our total revenues during the three months ended January
+      31,
+      2006 and 2005 are as follows: 
+
+____ 
+
+      *
+      Less
+      than 10 percent of total revenues in period.  
+
+      (1)
+      -
+      Includes government agencies such as the U.S. Department of Energy and the
+      U.S.
+      Navy either directly or through prime contractors. 
+
+Note
+      10. Earnings Per Share   
+
+Basic
+      and
+      diluted earnings per share are calculated using the following data: 
+
+____ 
+
+(1)    
+             
+                We
+                computed earnings per share without consideration to potentially
+                dilutive
+                instruments due to the fact that losses incurred would make them
+                antidilutive. Future potentially dilutive stock options that were
+                in-the-money at January 31, 2006 and 2005 totaled 3,537,225 and
+                2,469,610  ,
+                respectively. Future potentially dilutive stock options that were
+                not
+                in-the-money at January 31, 2006 and 2005 totaled 2,537,543 and
+                2,763,043  ,
+                respectively. We also have issued warrants, which vest and expire
+                over
+                time  .
+                These warrants, if dilutive, would be excluded from the calculation
+                of EPS
+                since their vesting is contingent upon certain future performance
+                requirements that are not yet probable.
+
+15 
+
+FUELCELL
+      ENERGY, INC.  
+       
+          Notes
+          to
+          Consolidated Financial Statements, continued 
+
+           As
+          of and for the three months ended January 31, 2006 and
+          2005  
+
+           (Unaudited)  
+
+          (Tabular
+          amounts in thousands, except share and per share
+          amounts)  
+
+Note
+      11. Supplemental Cash Flow Information  
+
+The
+      following represents supplemental cash flow information:  
+
+Note
+      12. Subsequent Events  
+
+In
+      February 2006, the Board adopted, subject to shareholder approval, the Company's
+      2006 Equity Incentive Plan (the "2006 Plan"). The purpose of the 2006 Plan
+      is to
+      attract and retain key employees, directors, advisors and consultants, to
+      provide an incentive for them to assist the Company to achieve long-range
+      performance goals and to enable them to participate in the long-term growth
+      of
+      the Company. Under the 2006 Plan, the Company may grant (i) incentive stock
+      options intended to qualify under Section 422 of the Internal Revenue Code
+      of
+      1986, as amended, (ii) options that are not qualified as incentive stock
+      options, (iii) stock appreciation rights either in tandem with an option or
+      alone and unrelated to an option, and (iv) restricted shares of Common Stock.
+      There are a total of 2,500,000 shares of Common Stock available for issuance
+      under the 2006 Plan, subject to adjustment for any stock dividend,
+      recapitalization, stock split, stock combination or certain other corporate
+      reorganizations. Shares issued may consist in whole or in part of authorized
+      but
+      unissued shares or treasury shares. Shares subject to an award that expires
+      or
+      is terminated or is forfeited for any reason or settled in a manner that results
+      in fewer shares outstanding than were initially awarded will again be available
+      for award under the 2006 Plan. 
+
+A
+      complete description of this plan was included in our 2006 Proxy Statement
+      and
+      will be voted on by shareholders at the Annual Meeting of Shareholders of
+      FuelCell Energy, Inc on March 28, 2006. 
+
+16 
+
+ITEM
+      2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+      OF
+      OPERATIONS   
+
+Management s
+      Discussion and Analysis of Financial Condition and Results of Operations
+      (MD A) is provided as a supplement to the accompanying consolidated
+      financial statements and footnotes to help provide an understanding of our
+      financial condition, changes in our financial condition and results of
+      operations. The MD A is organized as follows:  
+
+Caution
+      concerning forward-looking statements.    
+      This
+      section discusses how certain forward-looking statements made by us throughout
+      the MD A are based on management s present expectations about future events
+      and are inherently susceptible to uncertainty and changes in circumstances.
+
+Overview.    
+      This
+      section provides a general description of our business and where investors
+      can
+      find additional information. 
+
+Recent
+      developments.     This
+      section provides a brief overview of any significant events occurring subsequent
+      to the close of the reporting period. 
+
+Critical
+      accounting policies and estimates.    
+      This
+      section discusses those accounting policies that are considered important to
+      our
+      financial condition and operating results and require significant judgment
+      and
+      estimates on the part of management in their application.  
+
+Results
+      of operations.    
+      This
+      section provides an analysis of our results of operations for the three months
+      ended January 31, 2006 and 2005, respectively. In addition, a brief description
+      is provided for transactions and events that impact the comparability of the
+      results being analyzed.  
+
+Liquidity
+      and capital resources.    
+      This
+      section provides an analysis of our cash position and cash flows. 
+
+CAUTION
+      CONCERNING FORWARD-LOOKING STATEMENTS  
+
+The
+      following discussion should be read in conjunction with the accompanying
+      Unaudited Consolidated Financial Statements and Notes thereto included within
+      this report, and our audited consolidated financial statements and notes thereto
+      included in our Annual Report on Form 10-K for the fiscal year ended October
+      31,
+      2005. In addition to historical information, this Form 10-Q and the following
+      discussion contain forward-looking statements. All forward-looking statements
+      are subject to risks and uncertainties that could cause actual results to differ
+      materially from those projected. Factors that could cause such a difference
+      include, without limitation, general risks associated with product development,
+      manufacturing, changes in the utility regulatory environment, potential
+      volatility of energy prices, rapid technological change, ability to reach
+      product cost objectives, and competition, as well as other risks set forth
+      in
+      our filings with the Securities and Exchange Commission including those set
+      forth under the caption  Risk Factors  in our Annual Report on Form 10-K filed
+      for the fiscal year ended October 31, 2005. 
+
+OVERVIEW  
+
+FuelCell
+      Energy is a world leader in the development and manufacture of fuel cell power
+      plants for clean, efficient and reliable electric power generation.  We
+      have been developing fuel cell technology since our founding in 1969. We are
+      currently commercializing our core carbonate fuel cell products ( Direct
+      FuelCell        
+      or
+ DFC       
+      Power
+      Plants ), offering stationary applications for commercial and industrial
+      customers and continuing to develop our next generation of carbonate fuel cell
+      products. In addition, we are developing another high temperature fuel cell
+      system, planar solid oxide fuel cell ( SOFC ) technology, as a prime contractor
+      in the U.S. Department of Energy s ( DOE ) Solid State Energy Conversion
+      Alliance ( SECA ) Program and through our 40 percent ownership interest in Versa
+      Power Systems, Inc. ( Versa ). 
+
+17 
+
+Our
+      proprietary carbonate DFC power plants electrochemically produce electricity
+      directly from readily available hydrocarbon fuels, such as natural gas and
+      biomass fuels. We believe our products offer significant advantages compared
+      to
+      other power generation technologies. The primary benefits to our customers
+      include: 
+
+High
+                fuel efficiency; 
+
+Ultra-clean
+                emissions; 
+
+High
+                reliability;  
+
+The
+                ability to site units locally and provide heat for cogeneration
+                applications. 
+
+Other
+      customer benefits of our DFC power plants include: 
+
+Quiet
+                operation; 
+
+Flexible
+                siting and permitting capabilities;
+
+Potentially
+                lower operating, maintenance and generation costs than alternative
+                distributed power generation technologies and the grid;
+                and, 
+
+The
+                ability to provide end users with greater control of their energy
+                source
+                costs and reliability. 
+
+The
+      demand for reliable, clean and economical power is increasing worldwide.
+      Volatile fuel and energy prices, the ratification of the Kyoto Protocol by
+      over
+      140 countries in 2005 and other strict emissions guidelines mandating clean
+      electric power generation are placing greater emphasis on high efficiency
+      distributed generation products that are ultra-clean. Electric generation
+      without combustion (ultra-clean) significantly reduces harmful pollutants such
+      as NOX, SOX and particulates. Higher efficiency results in lower emissions
+      of
+      carbon dioxide, a major contributor of harmful greenhouse gases. Higher
+      efficiency also results in less fuel per kWh of electricity and Btu of heat
+      produced, thereby reducing operating costs.  
+
+Our
+      core
+      products, the DFC300MA, DFC1500MA and DFC3000, are currently rated in capacity
+      at 250 kW, 1 MW and 2 MW, respectively, and these capacities are expected to
+      increase to 300 kW, 1.2 MW and 2.4 MW, respectively, in late-2006. Our products
+      are designed to meet the base load power requirements of a wide range of
+      commercial and industrial customers including wastewater treatment plants
+      (municipal, such as sewage treatment facilities, and industrial, such as
+      breweries and food processors), hotels, manufacturing facilities, universities,
+      hospitals, telecommunications/data centers, government facilities, as well
+      as
+      grid support applications for utility customers.  Ideally, our DFC power
+      plants are part of a total onsite power generation solution for commercial
+      and
+      industrial customers, with our high efficiency products providing the base
+      load
+      power. Grid-delivered electricity or less efficient combustion-based equipment
+      can provide peaking and load following energy needs. Through January 31, 2006,
+      over 94 million kWhs of electricity have been generated from power plants
+      incorporating our DFC technology at over 40 customer sites
+      worldwide. 
+
+While
+      our
+      products compete essentially on price with gas engines, turbines and the grid,
+      we believe that the attributes of our DFC products enhance our value
+      proposition. For example, in some regions with strict air emissions controls,
+      the  ultra-clean  designation of our DFC power plants enables our products to be
+      sited where combustion-based technologies cannot. As an ultra-clean technology,
+      our products benefit from: (1) preferential rate treatment, such as the
+      elimination of exit fees and standby charges for onsite electric generation;
+      (2)
+      a streamlined installation process with exemptions from air pollution control
+      or
+      air quality district permitting requirements; and (3) qualification for
+      government-sponsored incentive programs for clean, high efficiency and firm
+      24/7
+      power generation. 
+
+While
+      we
+      believe that we are making significant progress, we continue to face obstacles
+      that can lengthen the sales cycle.  Recently, sales have been impacted by
+      volatile fuel prices and lagging electric rates. We can face regulatory
+      uncertainty for distributed generation, long capital appropriation cycles,
+      interconnect issues, disparate recognition of the locational value and
+      environmental benefits of distributed generation, standby power costs and
+      stranded asset exit fees.  In addition, due to the early commercialization
+      stage of our DFC power plants and our low volume of sales, our product pricing
+      is generally higher than competing products that are more mature. These
+      factors can slow and constrict our sales cycle and delay our growth. Our sales
+      for the last two years have been approximately 6 MW of power plants per
+      year. 
+
+18 
+
+We
+      are
+      currently selling our products to customers in high cost electricity markets.
+      We
+      believe that market clearing prices in California and the Northeast are between
+      $2,000 and $3,000 per kW and up to $4,000/kW in Asia and for mission-critical
+      applications that demand higher reliability. The manufactured cost of
+      o  ur
+      standard sub-MW product design at the end of 2005 was approximately $4,600
+      per
+      kW (reduced from approximately $6,200/kW at the end of 2004) and our 1 MW
+      product was approximately $4,300/kW. Our cost reduction plans and increased
+      volume will bring us closer to market clearing prices through process
+      improvements, value engineering, supplier/purchasing opportunities, and product
+      output and efficiency improvements. Our primary focus in 2006 is to attempt
+      to
+      reduce the cost of our 2 MW DFC3000 power plant to a range between $3,200/kW
+      and
+      $3,500/kW, and below $3,000/kW with increased volume.  
+
+Recent
+      Developments   
+
+Change
+      in Executive Management   
+
+On
+      January 12, 2006, FuelCell Energy, Inc. announced that R. Daniel Brdar was
+      promoted to President and Chief Executive Officer. Jerry D. Leitman retained
+      the
+      position of Chairman of the Board   in
+      the
+      Company's planned management succession.  
+
+On
+      February 15, 2006, Dr. Hans Maru retired as Chief Technology Officer, but will
+      remain as a consultant to the Company. The Chief Technology Officer
+      responsibilities, formerly held by Dr. Maru, will be assumed by executives
+      within commercial products and research and development. 
+
+Common
+      Stock Offering  
+
+During
+      January and February 2006, we sold 100,000 shares of our common stock on the
+      open market pursuant to a S-3 registration statement filed in June 2005. Total
+      net proceeds to us from the sale of these securities was approximately $1.1
+      million and is intended to be used for general corporate purposes and dividend
+      payments on our convertible preferred stock. 
+
+2006
+      Equity Incentive Plan  
+
+In
+      February 2006, the Board adopted, subject to shareholder approval, the Company's
+      2006 Equity Incentive Plan (the "2006 Plan"). The purpose of the 2006 Plan
+      is to
+      attract and retain key employees, directors, advisors and consultants, to
+      provide an incentive for them to assist the Company to achieve long-range
+      performance goals and to enable them to participate in the long-term growth
+      of
+      the Company. There are a total of 2,500,000 shares of Common Stock available
+      for
+      issuance under the 2006 Plan, subject to adjustment for any stock dividend,
+      recapitalization, stock split, stock combination or certain other corporate
+      reorganizations. A complete description of this plan was included in our 2006
+      Proxy Statement and will be voted on by shareholders at the Annual Meeting
+      of
+      Shareholders of FuelCell Energy, Inc on March 28, 2006. 
+
+Adoption
+      of Statement of Financial Accounting Standard No. 123R,  Share-Based
+      Payments   
+
+On
+      November 1, 2005, we adopted Statement of Financial Accounting Standard No.
+      123R,  Share-Based Payments  (SFAS 123R), which revised SFAS No. 123,
+ Accounting for Stock-Based Compensation . This statement supercedes APB Opinion
+      No. 25,  Accounting for Stock Issued to Employees.  The revised statement
+      addresses the accounting for share-based payment transactions with employees
+      and
+      other third parties, eliminates the ability to account for share-based
+      compensation transactions using APB 25 and requires that the compensation costs
+      relating to such transactions be recognized in the consolidated statement of
+      operations. Share-based compensation of $1.1 million was recognized in the
+      consolidated statement of operations for the three months ended January 31,
+      2006. Refer to Note 7 of the consolidated financial statements for additional
+      information. 
+
+19 
+
+Available
+      Information   
+
+Our
+      annual report on Form 10-K, quarterly reports on Form 10-Q, current reports
+      on
+      Form 8-K, and all amendments to those reports will be made available free of
+      charge through the Investor Relations section of our Internet website
+      (http://www.fuelcellenergy.com) as soon as practicable after such material
+      is
+      electronically filed with, or furnished to, the Securities and Exchange
+      Commission. Material contained on our website is not incorporated by reference
+      in this report. Our executive offices are located at 3 Great Pasture Road,
+      Danbury, CT 06813. 
+
+CRITICAL
+      ACCOUNTING POLICIES AND ESTIMATES  
+
+Revenue
+      Recognition  
+
+      We
+      contract with our customers to perform research and development, manufacture
+      and
+      install fuel cell components and power plants under long-term contracts, and
+      provide services under contract. We recognize revenue on a method similar to
+      the
+      percentage-of-completion method. 
+
+Revenues
+      on fuel cell research and development contracts are recognized proportionally
+      as
+      costs are incurred and compared to the estimated total research and development
+      costs for each contract. In many cases, we are reimbursed only a portion of
+      the
+      costs incurred or to be incurred on the contract. Revenues from government
+      funded research, development and demonstration programs are generally
+      multi-year, cost reimbursement and/or cost shared type contracts or cooperative
+      agreements. We are reimbursed for reasonable and allocable costs up to the
+      reimbursement limits set by the contract or cooperative agreement.  
+
+While
+      government research and development contracts may extend for many years, funding
+      is often provided incrementally on a year-by-year basis if contract terms are
+      met and Congress has authorized the funds. As of January 31, 2006, research
+      and
+      development sales backlog totaled $12.9 million, of which 70 percent is funded.
+      Should funding be temporarily delayed or if business initiatives change, we
+      may
+      choose to devote resources to other activities, including internally funded
+      research and development. 
+
+Product
+      sales and revenues include revenues from power plant sales, service contracts,
+      electricity sales under power purchase agreements and incentive funding.
+      Revenues from power plant sales are recognized proportionally as costs are
+      incurred and assigned to a customer contract by comparing the estimated total
+      manufacture and installation costs for each contract to the total contract
+      value. Revenues from service contracts are recognized ratably over the contract
+      term. Revenue from electricity sales under power purchase agreements are
+      recognized as power is produced. Revenue from incentive funding are recognized
+      ratably over the term of the incentive funding agreement. 
+
+As
+      our
+      fuel cell products are in their initial stages of development and market
+      acceptance, actual costs incurred could differ materially from those previously
+      estimated. Once we have established that our fuel cell products have achieved
+      commercial market acceptance and future costs can be reasonably estimated,
+      then
+      estimated costs to complete an individual contract, in excess of revenue, will
+      be accrued immediately upon identification.  
+
+Warrant
+      Value Recognition  
+
+Warrants
+      have been issued as sales incentives to certain of our business partners. These
+      warrants vest as orders from our business partners exceed stipulated levels.
+      Should warrants vest, or when management estimates that it is probable that
+      warrants will vest, we will record a proportional amount of the fair value
+      of
+      the warrants against related revenue as a sales discount. Fair value is
+      determined through market sources, option pricing models and management
+      estimates. 
+
+20 
+
+Inventories  
+
+During
+      the procurement and manufacturing process of a fuel cell power plant, costs
+      for
+      material, labor and overhead are accumulated in raw materials and
+      work-in-process inventory until they are transferred to a customer contract,
+      at
+      which time they are recorded in cost of sales.  
+
+Our
+      inventories and advance payments to vendors are stated at the lower of cost
+      or
+      market price. As we sell products at or below cost, we provide for a lower
+      of
+      cost or market ( LCM ) adjustment to the cost basis of inventory and advances to
+      vendors. This adjustment is computed by comparing the current sales prices
+      of
+      our power plants to estimated costs of completed power plants. In certain
+      circumstances, for long-lead time items, we will make advance payments to
+      vendors for future inventory deliveries, which are recorded as a component
+      of
+      other current assets on the consolidated balance sheet.  
+
+As
+      of
+      January 31, 2006 and October 31, 2005, the LCM adjustment to the cost basis
+      of
+      inventory and advance payments to vendors was approximately $8.6 million and
+      $8.0 million, respectively, which equates to a reduction of approximately 35
+      and
+      39 percent, respectively, of the gross inventory value. As inventory levels
+      increase or decrease, appropriate adjustments to the cost basis are
+      made. 
+
+Internal
+      Research and Development Expenses  
+
+We
+      conduct internally funded research and development activities to improve current
+      or anticipated product performance and reduce product life-cycle costs. These
+      costs are classified as research and development expenses on our consolidated
+      statements of operations.  
+
+RESULTS
+      OF OPERATIONS  
+
+Management
+      evaluates the results of operations and cash flows using a variety of key
+      performance indicators. Indicators that management uses include revenues
+      compared to prior periods and internal forecasts, costs of our products and
+      results of our  cost-out  initiatives, and operating cash use. These are
+      discussed throughout the  Results of Operations  and  Liquidity and Capital
+      Resources  sections.  
+
+Comparison
+      of Three Months ended January 31, 2006 and January 31,
+      2005    
+
+Revenues
+      and costs of revenues  
+
+The
+      following tables summarize the components of our revenues and cost of revenues
+      for the three months ended January 31, 2006 and 2005 (dollar amounts in
+      thousands), respectively:  
+
+21 
+
+Total
+      revenues for the three months ended January 31, 2006 decreased by $1.6 million,
+      or 21 percent, to $5.9 million from $7.6 million during the same period last
+      year. 
+
+Product
+      sales and revenues  
+
+Product
+      sales and revenue  
+      de  creased
+      $2.0 million to $3.0 million for the three months ended January 31, 2006,
+      compared to $5.0 million for the same period in 2005.   Revenue
+      during the quarter included approximately $2.0 million of product and stack
+      components and approximately $1.0 million of revenue on power purchase and
+      service agreements.   The
+      decrease in product sales and revenues was primarily due to the timing of
+      customer delivery requirements, a production switch to lower cost DFC product
+      models and production during the quarter related to power plants being built
+      for
+      power purchase agreements.  
+
+At
+      January 31, 2006, product sales backlog totaled approximately $24.5 million,
+      compared to $22.8 million as of January 31, 2005. Included in these figures
+      are
+      $5.9 million and $1.5 million, respectively, related to long-term service
+      agreements. Product backlog does not include power purchase or incentive funding
+      agreements. 
+
+Cost
+      of
+      product sales and revenues increased to $9.4 million during the three months
+      ended January 31, 2006, compared to $13.7 million during the same period of
+      the
+      prior year.  
+      Included
+      in cost of sales during the first quarter of 2005, was a non-cash fixed asset
+      impairment charge totaling approximately $1.0 million. The ratio of product
+      cost
+      to sales was 3.1-to-1 during the three months ended January 31, 2006, compared
+      to 2.7-to-1 during the   three
+      months ended January 31, 2005  .
+      This
+      ratio is inclusive of any lower of cost or market adjustments in cost of sales
+      related to power plants for power purchase agreements. Costs related to power
+      purchase agreements were $1.9 million and $2.4 million for the three months
+      ended January 31, 2006 and 2005, respectively. Excluding the non-cash fixed
+      asset impairment charge and power purchase agreement costs, our cost ratios
+      would have been approximately 2.5-to-1 and approximately 2.0-to-1 for the three
+      months ended January 31, 2006 and 2005, respectively. The ratio of costs to
+      product sales was higher, compared to the same period of a year ago, due to
+      increasing spare module components for the growing fleet and higher inventory
+      for the transition to cost reduced designs as well as higher insurance costs.
+
+The
+      cost
+      ratios above that exclude certain items are not considered generally accepted
+      accounting principles ( GAAP ) financial measures and should not be considered
+      as a substitute for, or superior to, measures of financial performance prepared
+      in accordance with GAAP. We have used non-GAAP pro forma financial measures
+      in
+      analyzing financial results because they provide meaningful information
+      regarding our operational performance and facilitate management s internal
+      comparisons to our historical operating results and comparisons to competitors 
+operating results.  
+
+Our
+      products do not ship on an even production schedule. The shipment date to
+      customers depends on a number of factors that are outside of our control,
+      including siting requirements, timing of construction and permits. We do not
+      have the sales or order history to quantify trends as of yet. 
+
+22 
+
+Research
+      and development contracts  
+
+Research
+      and development revenue in  creased
+      $0.4 million to $2.9 million for the three months ended January 31, 2006,
+      compared to $2.5 million for the same period in 2005  .
+      Research and development contract revenue for the three months ended January
+      31,
+      2006 was primarily related to solid oxide fuel cell (SOFC) development, combined
+      cycle Direct FuelCell/Turbine  development under U.S. Department of Energy
+      programs and the Navy s Ship Service Fuel Cell program.  
+
+Cost
+      of
+      research and development contracts increased $0.1 million to $2.9 million during
+      the three months ended January 31, 2006, compared to $2.8 million for the same
+      period in 2005. The ratio of research and development cost to revenue improved
+      to .99-to-1 from 1.1-to-1 over the same quarter a year ago due to the current
+      mix of cost share contracts. 
+
+As
+      of
+      January 31, 2006, research and development sales backlog totaled approximately
+      $12.9 million of which Congress has authorized funding of $9.1 million, compared
+      to $24.7 million ($14.4 million funded) as of January 31, 2005. In February
+      2006, the Company announced that it was selected by the DOE for awards for
+      development of a coal-based multi-megawatt SOFC system ($10.6 million) and
+      development of a high temperature membrane for low humidity operation of Polymer
+      Electrolyte Membrane fuel cells ($2.1 million), both of which will be added
+      to
+      the backlog once these contracts are finalized. 
+
+Administrative
+      and selling expenses  
+
+Administrative
+      and selling expenses increased $1.1 million to $4.2 million during the three
+      months ended January 31, 2006, compared to $3.1 million in the same period
+      of
+      the prior year. This increase is primarily due to stock-based compensation
+      of
+      approximately $0.7 million resulting from the adoption of SFAS 123R and higher
+      marketing and professional costs of approximately $0.3 million resulting from
+      commercial market development and increased proposal activity for R D and
+      commercial contracts. 
+
+Research
+      and development expenses  
+
+Research
+      and development expenses increased to $5.9 million during the three months
+      ended
+      January 31, 2006, compared to $5.2 million recorded in the same period of the
+      prior year.   The
+      increase in the quarter   is
+      due to
+      development costs for sub and megawatt cost reduction and stack life
+      improvements.      
+
+Loss
+      from operations  
+
+Loss
+      from
+      operations for the three months ended January 31, 2006 totaling $16.4 million
+      is
+      approximately 5 percent lower than the $17.3 million loss recorded in the
+      comparable period last year. The decrease in the loss from operations is due
+      primarily to lower revenue and costs due to the timing of customer delivery
+      requirements and the production switch to lower cost DFC product models,
+      partially offset by the recognition of $1.1 million in stock-based compensation
+      resulting from the adoption of SFAS 123R, higher marketing and professional
+      costs within administrative and selling expenses and higher research and
+      development expenses.  
+
+Loss
+        from equity investments  
+
+Our
+        investment in Versa totaled approximately $12.1 million and $12.3 million
+        as of
+        January 31, 2006 and as of October 31, 2005, respectively. Our current ownership
+        interest is 40% and we account for Versa under the equity method of accounting.
+        Our share of equity losses for the three months ended January 31, 2006 and
+        2005
+        were $0.2 million and $0.3 million, respectively.   
+
+23 
+
+Interest
+        and other income, net  
+
+Interest
+      and other income, net, was $1.5 million for the three months ended January
+      31,
+      2006,   compared
+      to $0.9 million for the same period in 2005.  
+      Interest
+      income increased due to higher average invested balances and higher
+      yields. 
+
+Provision
+      for income taxes  
+
+We
+      believe that due to our efforts to commercialize our DFC products, we will
+      continue to incur losses. Based on projections for future taxable income over
+      the period in which the deferred tax assets are realizable, management believes
+      that significant uncertainty exists surrounding the recoverability of the
+      deferred tax assets. Therefore, no tax benefit has been recognized related
+      to
+      current or prior year losses and other deferred tax assets.  
+
+LIQUIDITY
+      AND CAPITAL RESOURCES  
+
+We
+      had
+      approximately $162.8 million of cash, cash equivalents and investments as of
+      January 31, 2006, compared to $180.0 million as of October 31, 2005.
+  Net
+      cash
+      and investments used during the three months ended January 31, 2006 was $17.1
+      million. Cash and investments used during the first quarter of 2006 reflect
+      dividend payments made on our Series B preferred stock of $1.3 million and
+      proceeds from the receipt of incentive funding related to our power purchase
+      agreements of $0.5 million.  
+
+Cash
+      Inflows and Outflows    
+
+Cash
+      and
+      cash equivalents as of January 31, 2006 totaled $21.8 million, reflecting a
+      decrease of $0.9 million from the balance reported as of October 31, 2005.
+      The
+      key components of our cash inflows and outflows from continuing operations
+      were
+      as follows: 
+
+Operating
+      Activities   :
+      During
+      the three months ended January 31, 2006, we used $12.0 million in cash in our
+      operating activities, compared to an operating cash usage of $16.7 million
+      during the comparable period of the prior year. First quarter 2006 cash used
+      in
+      operating activities consists of a net loss for the period of approximately
+      $15.1 million, offset by non-cash adjustments totaling $3.9, including $1.1
+      million of stock-based compensation, depreciation expense of $2.2 million and
+      other amortization of $0.1 million.  
+
+In
+      addition, cash used in working capital totaled approximately $0.8 million
+      including an increase in inventories of approximately $2.0 million and increases
+      in advances to vendors of approximately $1.0 million due to increased production
+      activity as well as higher prepaid insurance of approximately $0.7 million,
+      partially offset by higher accounts payable of $2.3 million due to timing of
+      inventory payments and increased production activity and higher deferred revenue
+      of approximately $1.0 million. 
+
+Investing
+      Activities   :  During
+      the three months ended January 31, 2006, net cash provided by investing
+      activities totaled $12.3 million, compared with approximately $40.6 million
+      generated in the comparable period of the prior year. Capital expenditures
+      totaled $3.6 million for the three months ended January 31, 2006. This included
+      approximately $2.8 million for equipment being built for power purchase
+      agreements in our Alliance entities. During the first quarter of 2006,
+      approximately $52.0 million of investments in U.S. Treasury Securities matured
+      and new treasury purchases were made totaling $36.1 million.  
+
+Financing
+      Activities   :  During
+      the three months ended January 31, 2006, net cash used by financing activities
+      was approximately $1.2 million, compared to net cash provided by financing
+      activities of $99.1 million in the comparable period of the prior year. For
+      the
+      first quarter of 2006, net cash use related primarily to dividend payments
+      of
+      $1.3 million on our Series B preferred stock and long-term debt payments of
+      $0.2
+      million, partially offset by proceeds from employee stock option exercises.
+      Cash
+      provided by financing activities during the three months ended January 31,
+      2005
+      was due to the Series B preferred stock offering, which resulted in net proceeds
+      to us totaling $99.0 million.  
+
+24 
+
+Sources
+      and Uses of Cash and Investments   
+
+We
+      continue to invest in new product development and bringing our products to
+      market and, as such, we are not currently generating positive cash flow from
+      our
+      operations.  Our operations are funded primarily through sales of equity
+      securities and cash generated from customer contracts, including cash from
+      government research and development contracts, product sales, power purchase
+      agreements and incentive funding. Our future cash requirements depend on
+      numerous factors including future involvement in research and development
+      contracts, implementing our cost reduction efforts and increasing annual order
+      volume. 
+
+Future
+      involvement in research and development contracts  
+
+Our
+      research and development contracts are generally multi-year, cost reimbursement
+      type contracts.  The majority of these are U.S. Government contracts that
+      are dependent upon the government s continued allocation of funds and may be
+      terminated in whole or in part at the convenience of the government. We will
+      continue to seek research and development contracts. To obtain these contracts,
+      we must continue to prove the benefits of our technologies and be successful
+      in
+      our competitive bidding. 
+
+Implementing
+      cost reduction efforts on our fuel cell products     
+
+Cost
+      reduction of our products is key to improving our operating results in future
+      periods. We have reduced our product cost from over $20,000/kW for our 2 MW
+      Santa Clara  proof-of-concept  project in 1996-1997 to our current manufactured
+      design cost of approximately $4,300/kW on our MW class product and $4,600/kW
+      for
+      the sub-MW product. Reducing product cost is essential for us to penetrate
+      the
+      market for our fuel cell products. Cost reductions will reduce and/or eliminate
+      the need for incentive funding programs that are currently available to allow
+      our product pricing to compete with grid-delivered power and other distributed
+      generation technologies, and are critical to us attaining profitability. Our
+      multi-disciplined cost reduction program focuses on value engineering,
+      manufacturing process improvements, and technology improvements to increase
+      power plant output and efficiency. 
+
+We
+      continue to target annual cost reductions of 20 to 25 percent per year across
+      all product lines. With the market demand shifting toward multi-MW projects
+      as a
+      result of emerging renewable portfolio standards programs, our focus in 2006
+      will be predominantly on cost reduction for the 2 MW DFC3000 power plant. With
+      additional value engineering initiatives, we anticipate that we can reduce
+      the
+      cost of DFC3000 power plant to a range between $3,200/kw to $3,500/kW by the
+      end
+      of 2006 based on our current production levels. 
+
+Increasing
+      annual order volume   
+
+In
+      addition to the cost reduction initiatives discussed above we will need to
+      increase annual order volume. We believe that increased production volumes
+      are
+      necessary to lower costs by leveraging supplier/purchasing opportunities,
+      incorporate manufacturing process improvements and spread fixed costs over
+      more
+      units of production. Our manufacturing, testing and conditioning facilities
+      have
+      equipment in place to accommodate 50 MW of annual production volume. Higher
+      production volume will require increasing the manufacturing workforce.
+
+With
+      our
+      currently achieved and projected annual cost reduction targets, we believe
+      we
+      can reach gross margin break-even on product sales at a sustained annual order
+      and production volume of approximately 35 MW to 50 MW, depending on product
+      mix,
+      geographic location and other variables such as fuel prices. We believe that
+      Company net income break-even can be achieved at a sustained annual order and
+      volume production of approximately 75-100 MW assuming a mix of sub-MW and MW
+      sales. If this mix trends more toward MW and multi-MW orders, then we believe
+      that the gross margin and net income break-even volumes can be lower. Our fiscal
+      2005 production volume was approximately 6 MW, which we have recently increased
+      to a 9 MW run rate. 
+
+25 
+
+We
+      anticipate that our existing capital resources, together with anticipated
+      revenues will be adequate to satisfy our planned financial requirements and
+      agreements through at least the next twelve months. 
+
+Commitments
+      and Significant Contractual Obligations   
+
+A
+      summary
+      of our significant future commitments and contractual obligations as of January
+      31, 2006 and the related payments by fiscal year is summarized as follows (in
+      thousands): 
+
+(1)    
+             
+                Future
+                minimum lease payments on capital and operating
+                leases. 
+
+(2)    
+             
+                Short-term
+                purchase commitments with suppliers for materials supplies, and services
+                incurred in the normal course of business.
+
+(3)    
+             
+                Quarterly
+                dividends of Cdn.$312,500 accrue on the Series 1 preferred shares
+                (subject
+                to possible reduction pursuant to the terms of the Series 1 preferred
+                shares on account of increases in the price of our common stock).
+                We have
+                agreed to pay a minimum of Cdn.$500,000 in cash or common stock annually
+                to Enbridge, Inc., the holder of the Series 1 preferred shares, so
+                long as
+                Enbridge holds the shares. Interest accrues on cumulative unpaid
+                dividends
+                at a 2.45 percent quarterly rate, compounded quarterly, until payment
+                thereof. Cumulative unpaid dividends and interest at October 31,
+                2005 were
+                approximately $3.5 million. For the purposes of this disclosure,
+                we have
+                assumed that the minimum dividend payments would be made through
+                2010. In
+                2010, we would be required to pay any unpaid and accrued dividends.
+                From
+                2010 through 2020, we would be required to pay annual dividend amounts
+                totaling Cdn.$1.25 million. We have the option of paying these dividends
+                in stock or cash.  
+
+(4)    
+             
+                Dividends
+                on Series B preferred stock accrue at an annual rate of 5% paid quarterly.
+                The obligations schedule assumes we will pay preferred dividends
+                on these
+                shares through November 20, 2009, at which time the preferred shares
+                may
+                be subject to mandatory conversion. We have the option of paying
+                the
+                dividends in stock or cash. 
+
+On
+      June
+      29, 2000, we entered into a loan agreement, secured by machinery and equipment,
+      and have borrowed an aggregate of $2.2 million under the agreement. The loan
+      is
+      payable over seven years, with payments of interest only for the first six
+      months and then repaid in monthly installments over the remaining six and
+      one-half years with interest computed annually based on the ten-year U.S.
+      Treasury note plus 2.5 percent. Our current interest rate at January 31, 2006
+      is
+      6.5 percent and the outstanding principal balance on this loan is approximately
+      $0.9 million. 
+
+Approximately
+      $0.7 million of our cash and cash equivalents have been pledged as collateral
+      for certain banking relationships in which we participate. 
+
+Research
+      and Development Cost-Share Contracts  
+
+We
+      have
+      contracted with various government agencies as either a prime contractor or
+      sub-contractor on cost-share contracts and agreements. Cost-share terms require
+      that participating contractors share the total cost of the project based on
+      an
+      agreed upon ratio with the government agency. As of January 31, 2006, our
+      research and development sales backlog totaled $12.9 million. As this backlog
+      is
+      funded in future periods, we will incur additional research and development
+      cost-share totaling approximately $7.0 million for which we would not be
+      reimbursed by the government. 
+
+26 
+
+Product
+      Sales Contracts  
+
+Our
+      fuel
+      cell power plant products are in the initial stages of development and market
+      acceptance. As such, costs to manufacture and install our products exceed
+      current market prices. As of January 31, 2006, we had product sales backlog
+      of
+      approximately $18.6 million. We do not expect sales from this backlog to be
+      profitable. 
+
+Long-term
+      Service Agreements  
+
+We
+      have
+      contracted with certain customers to provide service for fuel cell power plants
+      ranging from one to thirteen years. Under the provisions of these contracts,
+      we
+      provide services to maintain, monitor and repair customer power plants. In
+      some
+      contracts we will provide for replacement of fuel cell stacks. Pricing for
+      service contracts is based upon estimates of future costs, which given the
+      early
+      stage of development could be materially different from actual expenses. As
+      of
+      January 31, 2006, we had a service agreement sales backlog of approximately
+      $5.9
+      million. 
+
+Power
+      Purchase Agreements  
+
+Power
+      purchase agreements (PPAs) are a common arrangement in the energy industry,
+      whereby a customer purchases energy per unit delivered from an owner and
+      operator of the power generation equipment. A number of our partners do this
+      with end use customers, such as Marubeni in Japan and PPL in the U.S., where
+      they purchase DFC power plants from us, own and operate the units, and recognize
+      revenue as energy is sold to the end user.  
+
+We
+      currently have seeded the market with a number of Company funded PPAs to
+      penetrate key target markets and develop operational and transactional
+      experience. With the added benefit of the investment tax credit and accelerated
+      depreciation in the Energy Policy Act of 2005, we believe this experience may
+      enable us to attract third party financing for existing and future projects,
+      including multi-MW projects. To date, we have funded the development and
+      construction of certain fuel cell power plants sited near customers in
+      California, and own and operate assets through PPA entities that we control
+      along with Alliance Power, Inc.  
+
+We
+      have
+      qualified for incentive funding for these projects in California under the
+      states  Self Generation Incentive Funding Program and from other government
+      programs. Funds are payable upon commercial installation and demonstration
+      of
+      the plant and may require return of the funds for failure of certain performance
+      requirements. Revenue related to these incentive funds is recognized ratably
+      over the performance period. As of January 31, 2006 we had deferred revenue
+      totaling $5.1 million on the consolidated balance sheet related to incentive
+      funding received on PPAs. 
+
+Under
+      the
+      terms of our power purchase agreements, customers agree to purchase power from
+      our fuel cell power plants at negotiated rates, generally for periods of five
+      to
+      ten years. Electricity rates are generally a function of the customer s current
+      and future electricity pricing available from the grid. Revenues are earned
+      and
+      collected under these PPA s as power is produced. As owner of the power plants
+      in these PPA entities, we are responsible for all operating costs necessary
+      to
+      maintain, monitor and repair the power plants. Under certain agreements, we
+      are
+      also responsible for procuring fuel, generally natural gas, to run the power
+      plants. We believe that the assets, including fuel cell power plants in these
+      PPA entities, are carried at fair value on the consolidated balance sheets
+      based
+      on our estimates of future revenues and expenses. Should actual results differ
+      from our estimates, our results of operations could be negatively impacted.
+      We
+      are not required to produce minimum amounts of power under our PPA agreements
+      and we have the right to terminate PPA agreements by giving written notice
+      to
+      the customer, subject to certain exit costs. 
+
+As
+      of
+      January 31, 2006, we had contracts in place to build and operate 4 MW of power
+      plants under power purchase agreements ranging from 5   10 years.
+
+27 
+
+RECENT
+      ACCOUNTING PRONOUNCEMENTS  
+
+In
+      December 2004, the Financial Accounting Standards Board ( FASB ) issued SFAS No.
+      123R (revised 2004),  Share-Based Payment , which revised SFAS No. 123,
+ Accounting for Stock-Based Compensation . This statement supercedes APB Opinion
+      No. 25,  Accounting for Stock Issued to Employees.  The revised statement
+      addresses the accounting for share-based payment transactions with employees
+      and
+      other third parties, eliminates the ability to account for share-based
+      compensation transactions using APB 25 and requires that the compensation costs
+      relating to such transactions be recognized in the consolidated statement of
+      operations. The Company adopted this statement as of November 1, 2005 as
+      required. Refer to Note 7 of Notes to Consolidated Financial Statements for
+      additional information. 
+
+In
+      November 2004, the FASB issued SFAS No. 151,  Inventory Costs,  which
+      amends the guidance in Accounting Research Bulletin No. 43, Chapter 4,
+ Inventory Pricing,  to clarify the accounting for abnormal amounts of idle
+      facility expense, freight, handling costs, and wasted material. This Statement
+      requires that those items be recognized as current-period charges regardless
+      of
+      whether they meet the criterion of  so abnormal . In addition, this Statement
+      requires that allocation of fixed production overheads to the costs of
+      conversion be based on the normal capacity of the production facilities. The
+      Company adopted the provisions of this accounting standard on November 1, 2005,
+      as required, and there was not a material impact to the Company s financial
+      statements.  
+
+In
+      March 2005, the FASB issued Interpretation No. 47,  Accounting for
+      Conditional Asset Retirement Obligations, an interpretation of FASB Statement
+      No. 143  ( FIN 47 ). FIN 47 requires the recognition of a liability for the
+      fair value of a legally-required conditional asset retirement obligation when
+      incurred, if the liability s fair value can be reasonably estimated. FIN 47 also
+      clarifies when an entity would have sufficient information to reasonably
+      estimate the fair value of an asset retirement obligation. FIN 47 is effective
+      for fiscal years ending after December 15, 2005, or no later than our
+      fiscal fourth quarter of 2006. We have not yet determined the impact of adopting
+      this statement on our consolidated financial statements.  
+
+28 
+
+Item
+      3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET
+      RISK   
+
+Interest
+      Rate Exposure   
+
+Our
+      exposures to market risk for changes in interest rates relate primarily to
+      our
+      investment portfolio and long term debt obligations. Our investment portfolio
+      includes both short-term United States Treasury instruments with maturities
+      averaging three months or less, as well as U.S. Treasury notes with fixed
+      interest rates with maturities of up to twenty months. Cash is invested
+      overnight with high credit quality financial institutions. Based on our overall
+      interest exposure at January 31, 2006, including all interest rate sensitive
+      instruments, a near-term change in interest rate movements of 1 percent would
+      affect our results of operations by approximately $0.2 million
+      annually. 
+
+Foreign
+      Currency Exchange Risk   
+
+With
+      our
+      Canadian business entity, FuelCell Energy, Ltd., we are subject to foreign
+      exchange risk, although we have taken steps to mitigate those risks where
+      possible. As of January 31, 2006, approximately $1.2 million (less than one
+      percent) of our total cash, cash equivalents and investments was in currencies
+      other than U.S. dollars. The functional currency of FuelCell Energy, Ltd. is
+      the
+      U.S. dollar. 
+
+We
+      recognized approximately $0.05 million in foreign currency gains and $0.03
+      million in foreign currency losses during the three months ended January 31,
+      2006 and 2005, respectively. This has been recorded as a component of  Interest
+      and other income  on our consolidated statement of operations. Although we have
+      not experienced significant foreign exchange rate losses to date, we may in
+      the
+      future, especially to the extent that we do not engage in hedging activities.
+      We
+      do not enter into derivative financial instruments. The economic impact of
+      currency exchange rate movements on our operating results is complex because
+      such changes are often linked to variability in real growth, inflation, interest
+      rates, governmental actions and other factors. These changes, if material,
+      may
+      cause us to adjust our financing and operating strategies. Consequently,
+      isolating the effect of changes in currency does not incorporate these other
+      important economic factors. 
+
+Item
+      4. CONTROLS AND PROCEDURES    
+
+The
+      Company maintains disclosure controls and procedures, which are designed to
+      provide reasonable assurance that information required to be disclosed in the
+      Company s periodic SEC reports is recorded, processed, summarized and reported
+      within the time periods specified in the SEC s rules and forms, and that such
+      information is accumulated and communicated to its principal executive officer
+      and principal financial officer, as appropriate, to allow timely decisions
+      regarding required disclosure.  
+
+We
+      carried out an evaluation, under the supervision and with the participation
+      of
+      our principal executive officer and principal financial officer, of the
+      effectiveness of the design and operation of our disclosure controls and
+      procedures as of the end of the period covered by this report. Based on that
+      evaluation, the Company s principal executive officer and principal financial
+      officer have concluded that the Company s disclosure controls and procedures
+      were effective to provide a reasonable level of assurance in timely alerting
+      them to material information required to be included in our periodic SEC
+      reports.  
+
+There
+      has
+      been no change in our internal control over financial reporting that occurred
+      during the last fiscal quarter that has materially affected, or is reasonably
+      likely to materially affect, our internal control over financial
+      reporting. 
+
+29 
+
+PART
+      II - OTHER INFORMATION  
+
+Item
+      6. Exhibits and Reports on Form 8-K   
+
+(a)
+           Exhibits        
+
+(b)        Reports
+      on Form 8-K      
+
+We
+      filed
+      a Form 8-K dated December 15, 2005 under Items 2.02 and 9.01, in connection
+      with
+      a press release announcing our financial results and accomplishments for the
+      three months ended October 31, 2005. 
+
+We
+      filed
+      a Form 8-K dated January 12, 2006 under Items 1.01, 5.02(b), 5.02(c) and 9.01,
+      in connection with the press release announcing that R. Daniel Brdar was
+      promoted to President and Chief Executive Officer. Jerry D. Leitman retained
+      the
+      position of Chairman of the Board   in
+      the
+      Company's planned management succession. 
+
+30 
+
+SIGNATURES
+
+Pursuant
+      to the requirements of the Securities Exchange Act of 1934, the Registrant
+      has
+      duly caused this report to be signed on its behalf by the undersigned thereunto
+      duly authorized. 
+
+March
+                13, 2006 
+
+FUELCELL
+                ENERGY, INC.  
+
+                  (Registrant)   
+
+/s/
+                Joseph G. Mahler
+
+Date  
+
+Joseph
+                G. Mahler  
+
+                Senior
+                Vice President, Chief Financial 
+
+                Officer,
+                Treasurer and Corporate Secretary 
+
+                (Principal
+                Financial Officer and Principal Accounting Officer) 
+
+31 
+
+INDEX
+      OF EXHIBITS   
+
+32 
+
+<EX-31.1>
+ 2
+ v037527_ex31-1.htm
+
+Exhibit
+      31.1   
+
+CERTIFICATIONS
+
+I,
+      R.
+      Daniel Brdar, certify that:  
+
+1. 
+
+I
+                have reviewed this quarterly report on Form 10-Q of Fuel Cell Energy,
+                Inc.;  
+
+2. 
+
+Based
+                on my knowledge, this report does not contain any untrue statement
+                of a
+                material fact or omit to state a material fact necessary to make
+                the
+                statements made, in light of the circumstances under which such statements
+                were made, not misleading with respect to the period covered by this
+                report;  
+
+3. 
+
+Based
+                on my knowledge, the financial statements, and other financial information
+                included in this report, fairly present in all material respects
+                the
+                financial condition, results of operations and cash flows of the
+                registrant as of, and for, the periods presented in this report;
+
+4. 
+
+The
+                registrant s other certifying officer(s) and I are responsible for
+                establishing and maintaining disclosure controls and procedures (as
+                defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal
+                control over financial reporting (as defined in Exchange Act Rules
+                13a-15(f) and 15d-15(f) for the registrant and have:  
+
+(a) 
+
+Designed
+                such disclosure controls and procedures, or caused such disclosure
+                controls and procedures to be designed under our supervision, to
+                ensure
+                that material information relating to the registrant, including its
+                consolidated subsidiaries, is made known to us by others within those
+                entities, particularly during the period in which this report is
+                being
+                prepared; 
+
+(b) 
+
+Designed
+                such internal control over financial reporting, or caused such internal
+                control over financial reporting to be designed under our supervision,
+                to
+                provide reasonable assurance regarding the reliability of financial
+                reporting and the preparation of financial statements for external
+                purposes in accordance with generally accepted accounting
+                principles; 
+
+(c) 
+
+Evaluated
+                the effectiveness of the registrant s disclosure controls and procedures
+                and presented in this report our conclusions about the effectiveness
+                of
+                the disclosure controls and procedures, as of the end of the period
+                covered by this report based on such evaluation, and 
+
+(d) 
+
+Disclosed
+                in this report any change in the registrant s internal control over
+                financial reporting that occurred during the registrant s most recent
+                fiscal quarter that has materially affected, or is reasonably likely
+                to
+                materially affect, the registrant s internal control over financial
+                reporting; and 
+
+5. 
+
+The
+                registrant s other certifying officer(s) and I have disclosed, based on
+                our most recent evaluation of internal control over financial reporting,
+                to the registrant s auditors and the audit committee of registrant s board
+                of directors (or persons performing the equivalent function):
+
+(a) 
+
+All
+                significant deficiencies and material weaknesses in the design or
+                operation of internal control over financial reporting which are
+                reasonably likely to adversely affect the registrant s ability to record,
+                process, summarize and report financial information; and  
+
+(b) 
+
+Any
+                fraud, whether or not material, that involves management or other
+                employees who have a significant role in the registrant s internal control
+                over financial reporting. 
+
+Dated:
+                March 8, 2006 
+
+/s/
+                R. Daniel Brdar 
+
+By:     
+
+R.
+                Daniel Brdar 
+
+                President
+                and Chief Executive Officer 
+
+                (Principal
+                Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ v037527_ex31-2.htm
+
+Exhibit
+      31.2   
+
+CERTIFICATIONS  
+
+I,
+      Joseph
+      G. Mahler, certify that:  
+
+1. 
+
+I
+                have reviewed this quarterly report on Form 10-Q of Fuel Cell Energy,
+                Inc.;  
+
+2. 
+
+Based
+                on my knowledge, this report does not contain any untrue statement
+                of a
+                material fact or omit to state a material fact necessary to make
+                the
+                statements made, in light of the circumstances under which such statements
+                were made, not misleading with respect to the period covered by this
+                report;  
+
+3. 
+
+Based
+                on my knowledge, the financial statements, and other financial information
+                included in this report, fairly present in all material respects
+                the
+                financial condition, results of operations and cash flows of the
+                registrant as of, and for, the periods presented in this report;
+
+4. 
+
+The
+                registrant s other certifying officer(s) and I are responsible for
+                establishing and maintaining disclosure controls and procedures (as
+                defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal
+                control over financial reporting (as defined in Exchange Act Rules
+                13a-15(f) and 15d-15(f) for the registrant and have:  
+
+(a) 
+
+Designed
+                such disclosure controls and procedures, or caused such disclosure
+                controls and procedures to be designed under our supervision, to
+                ensure
+                that material information relating to the registrant, including its
+                consolidated subsidiaries, is made known to us by others within those
+                entities, particularly during the period in which this report is
+                being
+                prepared; 
+
+(b) 
+
+Designed
+                such internal control over financial reporting, or caused such internal
+                control over financial reporting to be designed under our supervision,
+                to
+                provide reasonable assurance regarding the reliability of financial
+                reporting and the preparation of financial statements for external
+                purposes in accordance with generally accepted accounting
+                principles; 
+
+(c) 
+
+Evaluated
+                the effectiveness of the registrant s disclosure controls and procedures
+                and presented in this report our conclusions about the effectiveness
+                of
+                the disclosure controls and procedures, as of the end of the period
+                covered by this report based on such evaluation, and 
+
+(d) 
+
+Disclosed
+                in this report any change in the registrant s internal control over
+                financial reporting that occurred during the registrant s most recent
+                fiscal quarter that has materially affected, or is reasonably likely
+                to
+                materially affect, the registrant s internal control over financial
+                reporting; and 
+
+5. 
+
+The
+                registrant s other certifying officer(s) and I have disclosed, based on
+                our most recent evaluation of internal control over financial reporting,
+                to the registrant s auditors and the audit committee of registrant s board
+                of directors (or persons performing the equivalent function):
+
+(a) 
+
+All
+                significant deficiencies and material weaknesses in the design or
+                operation of internal control over financial reporting which are
+                reasonably likely to adversely affect the registrant s ability to record,
+                process, summarize and report financial information; and  
+
+(b) 
+
+Any
+                fraud, whether or not material, that involves management or other
+                employees who have a significant role in the registrant s internal control
+                over financial reporting. 
+
+Dated:
+                March 8, 2006 
+
+/s/
+                Joseph G. Mahler 
+
+By:  
+
+Joseph
+                G. Mahler 
+
+                Senior
+                Vice President, Chief Financial 
+
+                Officer,
+                Treasurer and Corporate Secretary 
+
+                (Principal
+                Financial Officer and Principal Accounting Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ v037527_ex32-1.htm
+
+Exhibit
+      32.1        
+
+CERTIFICATION
+      PURSUANT TO   
+
+       18
+      U.S.C. SECTION 1350,   
+
+       AS
+      ADOPTED PURSUANT TO  
+
+       SECTION
+      906 OF THE SARBANES-OXLEY ACT OF 2002   
+
+In
+      connection with the quarterly report of Fuel Cell Energy, Inc. (the  Company )
+      on Form 10-Q for the period ended January 31, 2006 as filed with the Securities
+      and Exchange Commission on the date hereof (the  Report ), I, R. Daniel Brdar,
+      President and Chief Executive Officer of the Company, certify, pursuant to
+      18
+      U.S.C.   1350, as adopted pursuant to   906 of the Sarbanes-Oxley Act of 2002,
+      that:  
+
+(1) 
+
+The
+                Report fully complies with the requirements of Section 13(a) or 15(d)
+                of
+                the Securities Exchange Act of 1934; and  
+
+(2) 
+
+The
+                information contained in the Report fairly presents, in all material
+                respects, the financial condition and results of operations of the
+                Company.  
+
+By:
+      /s/ R. Daniel Brdar   
+
+      R.
+      Daniel
+      Brdar  
+
+      President
+      and Chief Executive Officer  
+
+      (Principal
+      Executive Officer)  
+
+      March
+      8,
+      2006  
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ v037527_ex32-2.htm
+
+Exhibit
+      32.2        
+
+CERTIFICATION
+      PURSUANT TO   
+
+       18
+      U.S.C. SECTION 1350,   
+
+       AS
+      ADOPTED PURSUANT TO   
+
+       SECTION
+      906 OF THE SARBANES-OXLEY ACT OF 2002   
+
+In
+      connection with the quarterly report of Fuel Cell Energy, Inc. (the  Company )
+      on Form 10-Q for the period ended January 31, 2006 as filed with the Securities
+      and Exchange Commission on the date hereof (the  Report ), I, Joseph G. Mahler,
+      Chief Financial Officer of the Company, certify, pursuant to 18 U.S.C.   1350,
+      as adopted pursuant to   906 of the Sarbanes-Oxley Act of 2002, that:
+
+(1) 
+
+The
+                Report fully complies with the requirements of Section 13(a) or 15(d)
+                of
+                the Securities Exchange Act of 1934; and  
+
+(2) 
+
+The
+                information contained in the Report fairly presents, in all material
+                respects, the financial condition and results of operations of the
+                Company.  
+
+By:
+      /s/ Joseph G. Mahler   
+
+      Joseph
+      G.
+      Mahler 
+
+      Senior
+      Vice President, Chief Financial Officer,  
+
+      Treasurer
+      and Corporate Secretary  
+
+      (Principal
+      Financial Officer and Principal Accounting Officer)  
+
+      March
+      8,
+      2006 
+
+</EX-32.2>
+

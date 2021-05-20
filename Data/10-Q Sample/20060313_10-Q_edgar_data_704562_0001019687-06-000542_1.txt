@@ -1,0 +1,2540 @@
+<Header>
+<FileStats>
+    <FileName>20060313_10-Q_edgar_data_704562_0001019687-06-000542_1.txt</FileName>
+    <GrossFileSize>865784</GrossFileSize>
+    <NetFileSize>98526</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>613605</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>32</N_Tables>
+    <N_Exhibits>3</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001019687-06-000542.hdr.sgml : 20060313
+<ACCEPTANCE-DATETIME>20060313160628
+ACCESSION NUMBER:		0001019687-06-000542
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20060131
+FILED AS OF DATE:		20060313
+DATE AS OF CHANGE:		20060313
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PEREGRINE PHARMACEUTICALS INC
+		CENTRAL INDEX KEY:			0000704562
+		STANDARD INDUSTRIAL CLASSIFICATION:	IN VITRO & IN VIVO DIAGNOSTIC SUBSTANCES [2835]
+		IRS NUMBER:				953698422
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0430
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-17085
+		FILM NUMBER:		06682234
+
+	BUSINESS ADDRESS:	
+		STREET 1:		14282 FRANKLIN AVE
+		CITY:			TUSTIN
+		STATE:			CA
+		ZIP:			92780
+		BUSINESS PHONE:		7145086000
+
+	MAIL ADDRESS:	
+		STREET 1:		14282 FRANKLIN AVE
+		CITY:			TUSTIN
+		STATE:			CA
+		ZIP:			92780
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TECHNICLONE CORP/DE/
+		DATE OF NAME CHANGE:	19970924
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	TECHNICLONE INTERNATIONAL CORP
+		DATE OF NAME CHANGE:	19920703
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ THz5fDULXtzYFPpV7OltZNVnRYq9q/y5SaxAQIyOPupdzCSC7rTGlw2MENKEYiZa
+ WNcuSV02pMqPgDQQh/4aIA==
+
+ 0001019687-06-000542.txt : 20060313
+
+10-Q
+ 1
+ peregrine_10q-013106.htm
+ QUARTERLY REPORT
+
+Quarterly Report
+
+UNITED
+      STATES  
+
+       SECURITIES
+      AND EXCHANGE COMMISSION  
+
+       Washington,
+      D.C. 20549  
+
+FORM
+      10-Q  
+
+For
+      the
+      quarterly period ended January 31, 2006 
+
+OR 
+
+For
+      the
+      transition period from _______________ to _______________ 
+
+Commission
+      file number: 0-17085 
+
+PEREGRINE
+      PHARMACEUTICALS, INC.  
+
+       (Exact
+      name of Registrant as specified in its charter)  
+
+(714)
+      508-6000  
+
+      (Registrant's
+      telephone number, including area code)    
+
+Indicate
+      by check mark whether the registrant (1) has filed all reports required to
+      be
+      filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+      the
+      preceding 12 months (or for such shorter period that the registrant was required
+      to file such reports); and (2) has been subject to such filing requirements
+      for
+      the past 90 days.  
+
+Yes              No     o  . 
+
+Indicate
+      by check mark whether the Registrant is a large accelerated filer, an
+      accelerated filer, or a non-accelerated filer (as defined in Rule 12b-2 of
+      the
+      Exchange Act). 
+
+      Large
+      Accelerated Filer    o        Accelerated
+      Filer             Non-
+      Accelerated Filer    o
+
+Indicate
+      by checkmark whether the registrant is a shell company (as defined in Rule
+      12b-2
+      of the Exchange Act).     
+
+      Yes
+        o      
+      No      
+
+Indicate
+      the number of shares outstanding of each of the issuer's classes of common
+      stock, as of the latest practicable date. 
+
+PEREGRINE
+      PHARMACEUTICALS, INC.  
+
+TABLE
+      OF CONTENTS  
+
+PART
+                I - FINANCIAL INFORMATION  
+
+Page
+                No.  
+
+Item
+                1. 
+
+Consolidated
+                Financial Statements (unaudited):  
+
+Condensed
+                Consolidated Balance Sheets 
+
+1 
+
+Condensed
+                Consolidated Statements of Operations  
+
+3 
+
+Condensed
+                Consolidated Statements of Cash Flows 
+
+4 
+
+Notes
+                to Condensed Consolidated Financial Statements 
+
+5 
+
+Item
+                2. 
+
+Management's
+                Discussion and Analysis of Financial Condition and Results of Operations
+
+16 
+
+Company
+                Overview  
+
+16 
+
+Risk
+                Factors of Our Company  
+
+26 
+
+Item
+                3. 
+
+Quantitative
+                and Qualitative Disclosures About Market Risk  
+
+27 
+
+Item
+                4. 
+
+Controls
+                and Procedures  
+
+27 
+
+PART
+                II - OTHER INFORMATION  
+
+Item
+                1. 
+
+Legal
+                Proceedings 
+
+27 
+
+Item
+                2. 
+
+Unregistered
+                Sales of Equity Securities and Use of Proceeds    
+
+28 
+
+Item
+                3. 
+
+Defaults
+                upon Senior Securities  
+
+28 
+
+Item
+                4. 
+
+Submission
+                of Matters to a Vote of Security Holders  
+
+28 
+
+Item
+                5. 
+
+Other
+                Information  
+
+28 
+
+Item
+                6. 
+
+Exhibits 
+
+28 
+
+SIGNATURES
+
+29 
+
+The
+      terms  we,   us,   our,   the Company,  and        Peregrine, 
+      as used in this Report on Form 10-Q refers to Peregrine Pharmaceuticals, Inc.
+      and its wholly-owned subsidiary, Avid Bioservices, Inc.  
+
+i 
+
+PART
+      I - FINANCIAL INFORMATION   
+
+ITEM
+      1.              CONSOLIDATED
+      FINANCIAL STATEMENTS    
+
+PEREGRINE
+      PHARMACEUTICALS, INC.  
+
+CONDENSED
+      CONSOLIDATED BALANCE SHEETS  
+
+1 
+
+PEREGRINE
+      PHARMACEUTICALS, INC.  
+
+CONDENSED
+      CONSOLIDATED BALANCE SHEETS (continued)  
+
+See
+        accompanying notes to condensed consolidated financial
+        statements 
+
+2 
+
+PEREGRINE
+      PHARMACEUTICALS, INC.  
+
+CONDENSED
+      CONSOLIDATED STATEMENTS OF OPERATIONS   
+
+See
+        accompanying notes to condensed consolidated financial
+        statements 
+
+3 
+
+PEREGRINE
+      PHARMACEUTICALS, INC.  
+
+CONDENSED
+      CONSOLIDATED STATEMENTS OF CASH FLOWS  
+
+See
+        accompanying notes to condensed consolidated financial
+        statements 
+
+4 
+
+PEREGRINE
+      PHARMACEUTICALS, INC.   
+
+       NOTES
+      TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   
+
+       FOR
+      THE THREE AND NINE MONTHS ENDED JANUARY 31, 2006 (unaudited)
+
+1.  
+             
+                BASIS
+                OF PRESENTATION  
+
+The
+      accompanying interim condensed consolidated financial statements include the
+      accounts of Peregrine Pharmaceuticals, Inc. ( Peregrine ), a biopharmaceutical
+      company with a broad portfolio of products under development, and its
+      wholly-owned subsidiary, Avid Bioservices, Inc. ( Avid ), which performs
+      contract manufacturing of biologics and related services (collectively, the
+       Company ). All intercompany balances and transactions have been eliminated.
+
+In
+      addition, the accompanying interim condensed consolidated financial statements
+      are unaudited; however they contain all adjustments (consisting only of normal
+      recurring adjustments) which, in the opinion of management, are necessary to
+      present fairly the condensed consolidated financial position of the Company
+      at
+      January 31, 2006, and the condensed consolidated results of our operations
+      and
+      our condensed consolidated cash flows for the three and nine month periods
+      ended
+      January 31, 2006 and 2005. We prepared the condensed consolidated financial
+      statements following the requirements of the Securities and Exchange Commission
+      (or SEC) for interim reporting. As permitted under those rules, certain
+      footnotes or other financial information that are normally required by U.S.
+      generally accepted accounting principles (or GAAP) can be condensed or omitted.
+      Although we believe that the disclosures in the financial statements are
+      adequate to make the information presented herein not misleading, the
+      information included in this quarterly report on Form 10-Q should be read in
+      conjunction with the consolidated financial statements and accompanying notes
+      included in our Annual Report on Form 10-K for the year ended April 30, 2005.
+      Results of operations for interim periods covered by this quarterly report
+      on
+      Form 10-Q may not necessarily be indicative of results of operations for the
+      full fiscal year. 
+
+As
+      of
+      January 31, 2006, we had $15,664,000 in cash and cash equivalents on hand.
+      We
+      have expended substantial funds on the development of our product candidates
+      and
+      we have incurred negative cash flows from operations for the majority of our
+      years since inception. Since inception, we have generally financed our
+      operations primarily through the sale of our common stock and issuance of
+      convertible debt, which has been supplemented with payments received from
+      various licensing collaborations and through the revenues generated by Avid.
+      We
+      expect negative cash flows from operations to continue until we are able to
+      generate sufficient revenue from the contract manufacturing services provided
+      by
+      Avid and/or from the sale and/or licensing of our products under development.
+
+Revenues
+      earned by Avid during the nine months ended January 31, 2006 and 2005 amounted
+      to $2,227,000 and $3,983,000, respectively. We expect that Avid will continue
+      to
+      generate revenues which should lower consolidated cash flows used in operations,
+      although we expect those near term revenues will be insufficient to fully cover
+      anticipated cash flows used in operations. In addition, revenues from the sale
+      and/or licensing of our products under development are always uncertain.
+      Therefore, we expect we will continue to need to raise additional capital to
+      continue the development of our product candidates, including the anticipated
+      development and clinical costs of Tarvacin  and Cotara , the anticipated
+      research and development costs associated with our other technology platforms
+      and the potential expansion of our manufacturing capabilities. 
+
+We
+      plan
+      to raise additional capital primarily through the registered offer and sale
+      of
+      shares of our common stock from our shelf registration statements on Form S-3,
+      which, as of March 3, 2006, we had an aggregate of approximately 4,179,000
+      shares available for possible future registered transactions. However, given
+      uncertain market conditions and the volatility of our stock price and trading
+      volume, we may not be able to sell our securities at prices or on terms that
+      are
+      favorable to us, if at all.  
+
+5 
+
+PEREGRINE
+        PHARMACEUTICALS, INC.   
+
+         NOTES
+        TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   
+
+         FOR
+        THE THREE AND NINE MONTHS ENDED JANUARY 31, 2006 (unaudited) (continued)
+
+There
+      can
+      be no assurances that we will be successful in raising sufficient capital on
+      terms acceptable to us, or at all, or that sufficient additional revenues will
+      be generated from Avid or under potential licensing agreements to complete
+      the
+      research, development, and clinical testing of our product candidates. We
+      currently have sufficient cash on hand, including anticipated amounts to be
+      received from the exercise of outstanding warrants, to pay our anticipated
+      obligations in the ordinary course of business, as estimated, through at least
+      December 31, 2006.  
+
+2.  
+             
+                SUMMARY
+                OF SIGNIFICANT ACCOUNTING POLICIES 
+
+Prepaid
+      Expenses    -
+      Our
+      prepaid expenses primarily represent pre-payments made to secure the receipt
+      of
+      services at a future date. During fiscal years 2006 and 2005, we prepaid various
+      research and development related services through the issuance of shares of
+      our
+      common stock to unrelated entities, which are expensed once the services have
+      been provided under the terms of the arrangement. As of January 31, 2006 and
+      April 30, 2005, prepaid expenses and other current assets include $483,000
+      and
+      $1,028,000, respectively, in research and development services prepaid in shares
+      of our common stock. 
+
+Inventories
+      -   
+      Inventories are stated at the lower of cost or market and primarily include
+      raw
+      materials, direct labor and overhead costs associated with our wholly-owned
+      subsidiary, Avid. Inventories consist of the following at January 31, 2006
+      and
+      April 30, 2005: 
+
+Comprehensive
+      Loss   
+      -
+      Comprehensive loss is equal to net loss for all periods presented. 
+
+Reclassification
+      -   
+      Certain
+      amounts in fiscal year 2005 condensed consolidated financial statements have
+      been reclassified to conform to the current year presentation. 
+
+Basic
+      and Dilutive Net Loss Per Common Share   
+      - Basic
+      and dilutive net loss per common share are calculated in accordance with
+      Statement of Financial Accounting Standards No. 128,    Earnings
+      per Share   .
+      Basic
+      net loss per common share is computed by dividing our net loss by the weighted
+      average number of common shares outstanding during the period excluding the
+      dilutive effects of options and warrants. Diluted net loss per common share
+      is
+      computed by dividing the net loss by the sum of the weighted average number
+      of
+      common shares outstanding during the period plus the potential dilutive effects
+      of options and warrants outstanding during the period calculated in accordance
+      with the treasury stock method, but are excluded if their effect is
+      anti-dilutive.  
+
+The
+      calculation of weighted average diluted shares outstanding excludes the dilutive
+      effect of options and warrants to purchase up to   2,524,463
+      and 2,997,181   shares
+      of
+      common stock for the three and nine months ended January 31, 2006,
+      respectively, and   5,466,924
+      and 7,074,278   shares
+      of
+      common stock for the three and nine months ended January 31, 2005,
+      respectively, as the   impact
+      of
+      such options and warrants are anti-dilutive during periods of net
+      loss  .    
+
+6 
+
+PEREGRINE
+        PHARMACEUTICALS, INC.   
+
+         NOTES
+        TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   
+
+         FOR
+        THE THREE AND NINE MONTHS ENDED JANUARY 31, 2006 (unaudited) (continued)
+
+The
+      calculation of weighted average diluted shares outstanding also excludes options
+      and warrants to purchase up to 11,176,382 and 9,592,777 shares of common stock
+      for the three and nine months ended January 31, 2006, respectively, and
+      13,788,339 and 11,869,284 shares of common stock for the three and nine months
+      ended January 31, 2005, respectively, as the exercise prices of those
+      options was greater than the average market price of our common stock during
+      the
+      respective periods, resulting in an anti-dilutive effect.    
+
+Stock-Based
+      Compensation   
+      - In
+      December 2002, the Financial Accounting Standards Board ( FASB ) issued
+      Statement of Financial Accounting Standards No. 148 ( SFAS No. 148 ),
+   Accounting
+      for Stock-Based Compensation-Transition and Disclosure   . 
+      SFAS No. 148 amends SFAS No. 123 ( SFAS No. 123 ),    Accounting
+      for Stock-Based Compensation   ,
+      and
+      provides alternative methods of transition for a voluntary change to the fair
+      value based method of accounting for stock-based employee compensation.  In
+      addition, SFAS No. 148 amends the disclosure requirements of SFAS No. 123 to
+      require prominent disclosures in both annual and interim financial statements
+      about the method of accounting for stock-based employee compensation, and the
+      effect of the method used on reported results.  
+
+We
+      have
+      not adopted a method under SFAS No. 148 to expense stock options, but rather
+      we
+      continue to apply the provisions of SFAS No. 123; however, we have adopted
+      the
+      additional disclosure provisions of the statement. As SFAS No. 123 permits,
+      we
+      elected to continue accounting for our employee stock options in accordance
+      with
+      Accounting Principles Board Opinion No. 25 ( APB No. 25 ),    Accounting
+      for Stock Issued to Employees and Related Interpretations   .
+      APB No.
+      25 requires compensation expense to be recognized for stock options when the
+      market price of the underlying stock exceeds the exercise price of the stock
+      option on the date of the grant. 
+
+We
+      utilize the guidelines in APB No. 25 for measurement of stock-based transactions
+      for employees and, accordingly, no compensation expense has been recognized
+      for
+      the options in the accompanying condensed consolidated financial statements
+      for
+      the three and nine months ended January 31, 2006 and January 31, 2005.
+
+Had
+      we
+      used a fair value model for measurement of stock-based transactions for
+      employees under SFAS No. 123 and amortized the expense over the vesting period,
+      pro forma information would be as follows: 
+
+7 
+
+PEREGRINE
+        PHARMACEUTICALS, INC.   
+
+         NOTES
+        TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   
+
+         FOR
+        THE THREE AND NINE MONTHS ENDED JANUARY 31, 2006 (unaudited) (continued)
+
+Stock-based
+      compensation expense recorded during the three and nine months ended January
+      31,
+      2006 and January 31, 2005 relate to stock option grants issued to non-employee
+      consultants. The fair value of these options are measured utilizing the
+      Black-Scholes option valuation model and are being amortized over the estimated
+      period of service or related vesting period in accordance with the provisions
+      of
+      SFAS No. 123 and EITF 96-18,    Accounting
+      for Equity Instruments That Are Issued to Other Than Employees for Acquiring,
+      or
+      in Conjunction with Selling, Goods or Services   .
+      Stock-based compensation expense recorded during the three and nine months
+      ended
+      January 31, 2006 amounted to $200,000 and $361,000, respectively. Stock-based
+      compensation expense recorded during the three and nine months ended January
+      31,
+      2005 amounted to $20,000 and $134,000, respectively.  
+
+In
+      December 2004, the FASB issued Statement of Financial Accounting Standards
+      No.
+      123R ( SFAS No. 123R ),    Share-Based
+      Payment (Revised 2004)   ,
+      which
+      requires companies to recognize in the income statement the fair value of all
+      employee share-based payments, including grants of employee stock options as
+      well as compensatory employee stock purchase plans, for interim periods
+      beginning after June 15, 2005. In April 2005, the Securities and Exchange
+      Commission adopted a rule amendment that delayed the compliance dates of SFAS
+      No. 123R such that we are now allowed to adopt the new standard no later than
+      May 1, 2006. SFAS No. 123R eliminates the ability to account for share-based
+      compensation using APB No. 25, and the pro forma disclosures previously
+      permitted under SFAS No. 123 no longer will be an alternative to financial
+      statement recognition. We are evaluating the requirements under SFAS No. 123R
+      including the valuation methods and support for the assumptions that underlie
+      the valuation of the awards, as well as the transition methods (modified
+      prospective transition method or the modified retrospective transition method)
+      and expect the adoption to have a significant impact on our consolidated
+      statements of operations and net loss per share and minimal impact on our
+      consolidated statement of financial position. 
+
+In
+      addition, during August 2003, a member of our Board of Directors voluntarily
+      cancelled an option to purchase shares of our common stock due to an
+      insufficient number of stock options available in our stock option plans for
+      new
+      employee grants. During October 2003, we received stockholder approval for
+      our
+      2003 Stock Incentive Plan ( 2003 Plan ) and the director was re-granted options
+      to purchase shares under the 2003 Plan. In accordance with FASB Interpretation
+      No. 44 ( FIN No. 44 ),    Accounting
+      for Certain Transactions Involving Stock Compensation   ,
+      the
+      option granted to the director under the 2003 Plan is subject to variable
+      accounting, which could result in an increase in compensation expense in
+      subsequent periods if the market price of our common stock exceeds the original
+      exercise price of the option until the date the option is exercised, forfeited,
+      or expires unexercised. If the market price of our common stock decreases,
+      then
+      decreases in compensation expense would be recognized, limited to the net
+      expense previously reported. During the three and nine months ended January
+      31,
+      2006 and January 31, 2005, we did not record compensation expense with respect
+      to such option in accordance with FIN No. 44 since the market price of our
+      stock
+      was less than the exercise price of the option at the end of the respective
+      periods.  
+
+Recent
+      Accounting Pronouncement   
+      - In
+      December 2004, the FASB issued Statement of Financial Accounting Standards
+      No.
+      153 ( SFAS No. 153 ),    Exchanges
+      of Nonmonetary Assets - An Amendment of APB Opinion No. 29, Accounting for
+      Nonmonetary Transactions   .
+      SFAS
+      No. 153 eliminates the exception from fair value measurement for nonmonetary
+      exchanges of similar productive assets in paragraph 21(b) of APB Opinion No.
+      29,
+   Accounting
+      for Nonmonetary Transactions   ,
+      and
+      replaces it with an exception for exchanges that do not have commercial
+      substance. SFAS No. 153 specifies that a nonmonetary exchange has commercial
+      substance if the future cash flows of the entity are expected to change
+      significantly as a result of the exchange. SFAS No. 153 is effective for
+      the fiscal periods beginning after June 15, 2005 and we would be required
+      to adopt this standard no later than May 1, 2006. The adoption of SFAS No.
+      153
+      is not expected to have a material impact on our consolidated financial position
+      and results of operations. 
+
+8 
+
+PEREGRINE
+          PHARMACEUTICALS, INC.   
+
+           NOTES
+          TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   
+
+           FOR
+          THE THREE AND NINE MONTHS ENDED JANUARY 31, 2006 (unaudited) (continued)
+
+3.
+
+NOTE
+                RECEIVABLE 
+
+During
+      December 1998, we completed the sale and subsequent leaseback of our two
+      facilities in Tustin, California, and recorded an initial note receivable from
+      the buyer of $1,925,000 as part of the consideration. During the quarter ended
+      October 31, 1999, we established a 100% reserve for the note receivable in
+      the
+      amount of $1,887,000 based on the terms of the note agreement. We subsequently
+      received all payments under the note agreement and reduced the reserve as
+      payments were received and we recorded these payments as interest and other
+      income in the accompanying condensed consolidated statements of operations.
+      On
+      December 22, 2005, we entered into a First Amendment to Lease and Agreement
+      of
+      Lease ( First Amendment ) with the landlord to our original lease dated December
+      24, 1998 and extended the original lease term for seven additional years, which
+      extends our contractual commitment under the operating lease through December
+      2017. In addition, the monthly lease payment terms under the original lease,
+      which increase at a rate of 3.35% every two years, were not modified under
+      the
+      First Amendment. In connection with this First Amendment, we entered into a
+      separate agreement with the landlord on December 22, 2005 regarding the
+      immediate payoff of our note receivable at a 20% discount in the amount of
+      $1,229,000, which amount was recorded as interest and other income in the
+      accompanying condensed consolidated statements of operations. 
+
+4.  
+                 
+                    NOTES
+                    PAYABLE 
+
+During
+      fiscal years 2006 and 2005, we entered into the following note payable
+      agreements with General Electric Capital Corporation ( GE ) to finance certain
+      laboratory equipment. Notes payable consist of the following at January 31,
+      2006
+      and April 30, 2005: 
+
+Under
+      the
+      terms of the GE note payable agreements, we paid security deposits equal to
+      25%
+      of the amount financed, which are due and payable to us at the end of the term
+      of each note agreement. As of January 31, 2006 and April 30, 2005, security
+      deposits totaling $276,000 and $183,000, respectively, are included in other
+      long-term assets in the accompanying consolidated financial
+      statements. 
+
+9 
+
+PEREGRINE
+        PHARMACEUTICALS, INC.   
+
+         NOTES
+        TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   
+
+         FOR
+        THE THREE AND NINE MONTHS ENDED JANUARY 31, 2006 (unaudited) (continued)
+
+As
+      of
+      January 31, 2006, minimum future principal payments on notes payable as of
+      January 31, 2006 are as follows: 
+
+5.  
+             
+                CAPITAL
+                LEASE OBLIGATION  
+
+During
+      December 2005, we financed certain equipment under a capital lease agreement
+      in
+      the amount of $65,000. The agreement bears interest at a rate of 6.30% per
+      annum
+      with payments due monthly in the amount of approximately $1,600 through December
+      2009.  
+
+The
+      equipment purchased under the capital lease is included in property in the
+      accompanying consolidated financial statements as follows at January 31, 2006:
+
+Minimum
+      future lease payments under the capital lease as of January 31, 2006 are as
+      follows: 
+
+6.  
+             
+                LITIGATION 
+
+In
+      the
+      ordinary course of business, we are at times subject to various legal
+      proceedings, including licensing and contract disputes and other matters, which
+      are further discussed below: 
+
+On
+      December 16, 2004, we filed a lawsuit against the University of Southern
+      California ( USC ) and Alan Epstein, M.D. The lawsuit was filed in the Superior
+      Court of the State of California for the County of Los Angeles, Central
+      District. The lawsuit alleges that USC has breached various agreements with
+      the
+      Company by (i) failing to protect the Company s patent rights in Japan with
+      respect to certain technology exclusively licensed from USC due to non-payment
+      of annuities, (ii) failing to provide accounting documentation for research
+      expenditures, and (iii) misusing certain antibodies the Company provided to
+      USC
+      and Dr. Epstein for research. The claims against Dr. Epstein, who was a
+      scientific advisor and former consultant to the Company, involve breach of
+      contract for misusing certain antibodies and breach of fiduciary duties. The
+      Company is seeking unspecified damages, declaratory relief with respect to
+      its
+      rights under the option and license agreement pursuant to which it acquired
+      the
+      rights to the technology, and an accounting of research expenditures.
+
+10 
+
+PEREGRINE
+        PHARMACEUTICALS, INC.   
+
+         NOTES
+        TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   
+
+         FOR
+        THE THREE AND NINE MONTHS ENDED JANUARY 31, 2006 (unaudited) (continued)
+
+On
+      August
+      3, 2005, USC filed a cross-complaint against the Company relating to the
+      above-mentioned lawsuit. The cross-complaint alleged that the Company has
+      breached various agreements with USC by (i) breaching reporting and diligence
+      provisions of the option and license agreements, (ii) failing to make payments
+      under a sponsored research agreement, and (iii) failing to exercise its rights
+      under the product and option license agreement for hybridoma clones. USC sought
+      unspecified punitive damages with respect to its rights under the option and
+      license agreements and the sponsored research agreement. 
+
+On
+      September 30, 2004, we filed a lawsuit against Knobbe, Martens, Olson  
+Bear, LLP and Joseph Reisman, of the law firm Knobbe, Martens, Olson   Bear,
+      LLP ( Knobbe ), in San Diego Superior Court. This suit is related to USC s
+      above-mentioned failure to protect patent rights in Japan. Accordingly, the
+      case
+      against Knobbe was dismissed in connection with receiving a tolling agreement
+      extending the statute of limitations on our claims against the firm while USC
+      pursued those claims. 
+
+On
+      March
+      7, 2006, we reached a global settlement with USC, Dr. Epstein and Knobbe with
+      respect to the matters set forth above. The settlement entails (i) relief from
+      future minimum annual royalties due to USC under our Vasopermeation Enhancement
+      Agent ( VEA ) licensing agreement, (ii) reduction in royalties due on net sales
+      to USC with respect to our VEA license agreement, (iii) a release from USC
+      of
+      any claimed obligation for past sponsored research fees in the amount of
+      $187,500, and (iv) consideration from Knobbe comprised of cash and a credit
+      for
+      future legal services. 
+
+7.  
+             
+                STOCKHOLDERS 
+                EQUITY  
+
+During
+      the nine months ended January 31, 2006, we entered into various financing
+      transactions as summarized below: 
+
+11 
+
+PEREGRINE
+        PHARMACEUTICALS, INC.   
+
+         NOTES
+        TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   
+
+         FOR
+        THE THREE AND NINE MONTHS ENDED JANUARY 31, 2006 (unaudited) (continued)
+
+In
+      addition, on February 3, 2006, we issued and sold 396,398 shares of our common
+      stock to an unrelated entity for the pre-payment of fees due under two sponsored
+      research agreements. The value of the shares issued of $586,000 was recorded
+      as
+      prepaid expenses, which we will expense once the services have been provided
+      under the terms of the agreements.  
+
+As
+      of
+      March 3, 2006, we had an aggregate of 4,179,180 shares of common stock available
+      for future issuance under two shelf registration statements on Form S-3, as
+      filed with the Securities and Exchange Commission.  
+
+Shares
+      of Common Stock Authorized and Reserved For Future
+      Issuance   
+
+In
+      accordance with our shares reserved for issuance under our shelf registration
+      statements, stock option plans and warrant agreements, we have reserved
+      28,673,974 shares of our common stock at January 31, 2006 for possible future
+      issuance, calculated as follows: 
+
+8.  
+             
+                STOCK
+                OPTIONS  
+
+As
+      of
+      January 31, 2006, options to purchase up to 11,116,778 shares of our common
+      stock were issued and outstanding and exercisable under all of our stock option
+      plans at prices ranging between $0.34 and $5.28 per share with an average
+      exercise price of $1.56 per share and various expiration dates through January
+      23, 2016. 
+
+During
+      October 2005, our stockholders approved the 2005 Stock Incentive Plan ( 2005
+      Plan ) for the granting of options to purchase up to 5,000,000 shares of our
+      common stock. The 2005 Plan provides for the granting of options to purchase
+      shares of our common stock at prices not less than its fair market value at
+      the
+      date of grant and which generally expire ten years after the date of grant.
+      As
+      of January 31, 2006, options to purchase up to 5,600,851 shares of common stock
+      were available for future grant under all stock option plans.    
+
+As
+      of
+      January 31, 2006, warrants to purchase up to 7,777,165 shares of our common
+      stock were issued and outstanding and exercisable at prices ranging between
+      $0.71 and $2.50 per share with an average exercise price of $0.85 per share
+      and
+      various expiration dates through March 31, 2008. Subsequent to our quarter
+      ended
+      January 31, 2006 and through March 3, 2006, we received gross proceeds of
+      $611,000 upon the exercise of warrants to purchase an aggregate of 812,512
+      shares of common stock at an average exercise price of $0.75 per
+      share. 
+
+12 
+
+PEREGRINE
+          PHARMACEUTICALS, INC.   
+
+           NOTES
+          TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   
+
+           FOR
+          THE THREE AND NINE MONTHS ENDED JANUARY 31, 2006 (unaudited) (continued)
+
+Our
+      business is organized into two reportable operating segments. Peregrine is
+      engaged in the research and development of targeted therapeutics for the
+      treatment of viruses and cancer. Avid is engaged in providing contract
+      manufacturing of biologics and related services for Peregrine and outside
+      customers. 
+
+The
+      accounting policies of the operating segments are the same as those described
+      in
+      Note 2. We primarily evaluate the performance of our segments based on net
+      revenues, gross profit or loss (exclusive of research and development expenses,
+      selling, general and administrative expenses, and interest and other
+      income/expense) and long-lived assets. Our segment net revenues shown below
+      are
+      derived from transactions with external customers. Our segment gross profit
+      or
+      loss represents net revenues less the cost of sales. Our long-lived assets
+      consist of leasehold improvements, laboratory equipment, and furniture, fixtures
+      and office equipment and are net of accumulated depreciation. 
+
+Segment
+      information the three-month periods is summarized as follows: 
+
+13 
+
+PEREGRINE
+        PHARMACEUTICALS, INC.   
+
+         NOTES
+        TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   
+
+         FOR
+        THE THREE AND NINE MONTHS ENDED JANUARY 31, 2006 (unaudited) (continued)
+
+Segment
+      information for the nine-month periods is summarized as follows: 
+
+Net
+      revenues generated from Peregrine during the three and nine months ended January
+      31, 2006 and January 31, 2005 were primarily from the amortized portion of
+      the
+      up-front license fees under the December 2002 license agreement with Schering
+      A.G.  
+
+Long-lived
+      assets by segment consist of the following: 
+
+14 
+
+PEREGRINE
+          PHARMACEUTICALS, INC.   
+
+           NOTES
+          TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS   
+
+           FOR
+          THE THREE AND NINE MONTHS ENDED JANUARY 31, 2006 (unaudited) (continued)
+
+On
+      February 13, 2006, our Compensation Committee of the Board of Directors approved
+      the Company s Stock Bonus Plan to promote the interests of the Company and its
+      stockholders by providing a total of nineteen key employees and consultants
+      with
+      financial rewards upon achievement of various research and clinical goals
+      ( Performance Goals ). The Plan will remain effective through fiscal year ending
+      April 30, 2007. A series of company Performance Goals have been established,
+      with each Performance Goal having a specific targeted attainment date (the
+       Target Date ). Up to 1,737,166 shares of our common stock could be issued under
+      the Stock Bonus Plan upon the achievement of all Performance Goals by the
+      respective Target Dates. Shares earned under the Stock Bonus Plan will be issued
+      from our 2005 Stock Incentive Plan, which was approved by our stockholders
+      at
+      the 2005 Annual Meeting of Stockholders. 
+
+15 
+
+ITEM
+              2.    
+             
+                  MANAGEMENT'S
+                DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+                AND         RESULTS
+                OF OPERATIONS   
+
+This
+      Quarterly Report on Form 10-Q contains  forward-looking statements  within
+      the meaning of Section 27A of the Securities Act of 1933, as amended, and
+      Section 21E of the Securities Exchange Act of 1934, as amended, which
+      represent our projections, estimates, expectations or beliefs concerning among
+      other things, financial items that relate to management s future plans or
+      objectives or to our future economic and financial performance.  In
+      some cases, you can identify these statements by terminology such as  may ,
+ should ,  plans ,  believe ,  will ,  anticipate ,  estimate ,  expect , or
+ intend , including their opposites or similar phrases or expressions. You
+      should be aware that these statements are projections or estimates as to future
+      events and are subject to a number of factors that may tend to influence the
+      accuracy of the statements. These forward-looking statements should not be
+      regarded as a representation by the Company or any other person that the events
+      or plans of the Company will be achieved. You should not unduly rely on these
+      forward-looking statements, which speak only as of the date of this Quarterly
+      Report. We undertake no obligation to publicly revise any forward-looking
+      statement to reflect circumstances or events after the date of this Quarterly
+      Report or to reflect the occurrence of unanticipated events. You should,
+      however, review the factors and risks we describe in the reports we file from
+      time to time with the Securities and Exchange Commission ( SEC ) after the date
+      of this Quarterly Report. Actual results may differ materially from any forward
+      looking statement.   
+
+To
+      gain a better understanding of the risk factors that may tend to influence
+      the
+      accuracy of our forward looking statements, we recommend that you read the
+      risk
+      factors identified in the Company's Annual Report on Form 10-K for the year
+      ended April 30, 2005 and all other reports we file from time to time with the
+      SEC after the date of this Quarterly Report. Although we believe that the risks
+      described in the 10-K and other reports filed with the SEC represent all
+      material risks currently applicable to us, additional risks and uncertainties
+      not presently known to us or that are currently not believed to be important
+      to
+      us may also affect our actual future results and could harm our business,
+      financial condition, and results of operations.   
+
+Company
+      Overview  
+
+We
+      are a
+      biopharmaceutical company primarily developing targeted therapeutics directed
+      towards the treatment of viruses and cancer using monoclonal antibodies. We
+      are
+      organized into two reportable operating segments: (i) Peregrine Pharmaceuticals,
+      Inc. ( Peregrine ), the parent company, is engaged in the research and
+      development of targeted therapeutics and (ii) Avid Bioservices, Inc. ( Avid ),
+      our wholly owned subsidiary, is engaged in providing manufacturing expertise
+      of
+      biologics for Peregrine and outside customers. 
+
+16 
+
+Recent
+      Developments  
+
+The
+      following table provides you with an overview of our products in clinical trials
+      and the current clinical status of each trial: 
+
+Products
+                in Clinical Trials  
+
+Technology
+
+Platform  
+
+Product
+
+Name
+
+Disease  
+
+Stage
+                of   
+
+                 Development  
+
+Development
+
+Status
+                Overview  
+
+Tumor
+                Necrosis Therapy ( TNT ) 
+
+Cotara  
+
+Brain
+                Cancer 
+
+Phase
+                II/III registration trial 
+
+Peregrine,
+                in collaboration with New Approaches to Brain Tumor Therapy ( NABTT ), a
+                brain tumor consortium, have initiated the first part of the Phase
+                II/III
+                product registration study to evaluate Cotara  for the treatment of brain
+                cancer. This study is partially funded by the National Cancer Institute
+                ("NCI ) and will treat up to 28 patients. The study is being conducted
+                at
+                the following four NABTT institutions: Wake Forest University, Emory
+                University, University of Alabama at Birmingham and University of
+                Pennsylvania.  
+
+Anti-Phospholipid
+                Therapy 
+
+Tarvacin  
+
+Advanced
+                Solid Cancers 
+
+Phase
+                I 
+
+This
+                phase I clinical study is a single and repeat dose escalation study
+                designed to enroll up to 28 patients with advanced solid tumors that
+                no
+                longer respond to standard cancer treatments. Patient enrollment
+                is open
+                at the following clinical sites: MD Anderson Cancer Center
+                in Houston, Texas; Arizona Cancer Center in Tucson,
+                Arizona; Premiere Oncology in Scottsdale, Arizona; Premiere
+                Oncology in Santa Monica, California and; Scott   White
+                Hospital   Clinic in Temple, Texas. 
+
+Anti-Phospholipid
+                Therapy  
+
+Tarvacin  
+
+Hepatitis
+                C Virus  
+
+Phase
+                I  
+
+This
+                phase I clinical study is a single dose-escalation study in up to
+                32 adult
+                patients with chronic hepatitis C virus (HCV) infection who either
+                no
+                longer respond to or failed standard therapy with pegylated interferon
+                and
+                ribavirin combination therapy. Planned enrollment and treatment of
+                24
+                patients was completed in February 2006 at Bach and Godofsky Infectious
+                Diseases located in Bradenton, FL. Based on the safety profile seen
+                to
+                date in the first 24 patients, an additional dose level may be added
+                to
+                the study. Meanwhile, a repeat dose study and a combination therapy
+                dose
+                study are currently being planned. 
+
+17 
+
+Results
+      of Operations  
+
+The
+      following table compares the unaudited condensed consolidated statements of
+      operations for the three and nine-month periods ended January 31, 2006 and
+      January 31, 2005. This table provides you with an overview of the changes in
+      the
+      condensed consolidated statements of operations for the comparative periods,
+      which changes are further discussed below.  
+
+Results
+      of operations for interim periods covered by this quarterly report on Form
+      10-Q
+      may not necessarily be indicative of results of operations for the full fiscal
+      year. 
+
+Total
+      Revenues.      
+
+Three
+      Months: The increase in total revenues of $175,000 during the three months
+      ended
+      January 31, 2006 compared to the same period in the prior year was primarily
+      due
+      to an increase in contract manufacturing revenue of $171,000. The increase
+      in
+      contract manufacturing revenue was primarily due to an increase in the number
+      of
+      active projects associated with unrelated entities compared to the same
+      three-month period in the prior year.  
+
+Nine
+      Months: The decrease in total revenues of $1,748,000 during the nine months
+      ended January 31, 2006 compared to the same period in the prior year was
+      primarily due to a decrease in contract manufacturing revenue of $1,756,000.
+      The
+      decrease in contract manufacturing revenue was primarily due to a decrease
+      in
+      the number of completed manufacturing runs associated with unrelated entities
+      compared to the same nine-month period in the prior year. In addition, during
+      the nine months ended January 31, 2006, we significantly increased our
+      utilization of our manufacturing facility to manufacture clinical grade
+      materials to support Peregrine s three active clinical trials and other products
+      under development.  
+
+18 
+
+We
+      expect
+      to continue to generate contract manufacturing revenue during the remainder
+      of
+      the current fiscal year based on the anticipated completion of in-process
+      customer related projects and the anticipated demand for Avid s services under
+      outstanding proposals. Although Avid is presently working on several active
+      projects for unrelated entities and has submitted project proposals with various
+      potential customers, we cannot estimate nor can we determine the likelihood
+      that
+      we will be successful in completing these ongoing projects or converting any
+      of
+      these outstanding project proposals into definitive agreements during the
+      remainder of fiscal year 2006. 
+
+Cost
+      of Contract Manufacturing     .
+
+Three
+      Months: The decrease in cost of contract manufacturing of $185,000 during the
+      three months ended January 31, 2006 compared to the same period in the prior
+      year was primarily related to a loss provision of $243,000 recorded in the
+      prior
+      year three-month period associated with a previous contract that did not recur
+      in the current year period offset by an increase in cost of contract
+      manufacturing primarily associated with the current year three-month period
+      increase in contract manufacturing revenue.  
+
+Nine
+      Months: The decrease in cost of contract manufacturing of $1,445,000 during
+      the
+      nine months ended January 31, 2006 compared to the same period in the prior
+      year
+      was primarily related to the current nine-month period decrease in contract
+      manufacturing revenue. We expect contract manufacturing costs to continue during
+      the remainder of the current fiscal year based on the anticipated completion
+      of
+      customer projects under our current contract manufacturing
+      agreements. 
+
+Research
+      and Development Expenses.      
+
+Three
+      Months: The increase in research and development expenses of $746,000 during
+      the
+      three months ended January 31, 2006 compared to the same period in the prior
+      year was primarily due to a net increase in expenses associated with our
+      following platform technologies under development:  
+
+o  
+             
+                 Anti-Phospholipid
+                Therapy (Tarvacin )    -       During
+                the three months ended January 31, 2006, Anti-Phospholipid Therapy
+                (Tarvacin ) program expenses increased $1,489,000 from $685,000 in fiscal
+                year 2005 to $2,174,000 in fiscal year 2006. The increase in
+                Anti-Phospholipid Therapy       (Tarvacin )
+                program expenses is primarily due to an increase in manufacturing
+                  and
+                in-house antibody development expenses combined with an increase
+                in
+                various clinical trial expenses  
+                to
+                support two separate Phase I clinical studies using Tarvacin  for the
+                treatment of advanced solid cancers and chronic hepatitis C virus
+                infection. These increases were supplemented with an increase in
+                sponsored
+                research fees and payroll and related expenses associated with the
+                Anti-Phospholipid Therapy development program. These increases were
+                offset
+                by a decrease in pre-clinical toxicology study expenses incurred
+                in the
+                prior year quarter to support the Investigational New Drug ( IND )
+                applications, which was offset by a similar increase in outside animal
+                research studies to support the possible expansion of Tarvacin  clinical
+                trials in other anti-viral
+                indications. 
+
+o  
+             
+                 Vasopermeation
+                Enhancements Agents ( VEAs )    -       During
+                the three months ended January 31, 2006, VEA program expenses increased
+                $32,000 from $78,000 in fiscal year 2005 to $110,000 in fiscal year
+                2006.
+                The increase in VEA program expenses is primarily due to an increase
+                in
+                resources focused on the VEA program compared to the prior year period.
+                In
+                January 2005, we entered into an agreement with Merck KGaA of Darmstadt,
+                Germany, that will give us access to Merck's technology and expertise
+                in
+                protein expression to advance the development of our VEA technology
+                and
+                other platform technologies. Merck KGaA is presently working on a
+                clinical
+                candidate under the VEA technology
+                platform. 
+
+19 
+
+o  
+             
+                 Tumor
+                Necrosis Therapy ( TNT ) (Cotara )     -        During
+                the three months ended January 31, 2006, TNT (Cotara ) program expenses
+                decreased $571,000 from $1,212,000 in fiscal year 2005 to $641,000
+                in
+                fiscal year 2006. The decrease in TNT (Cotara ) program expenses is
+                primarily due to a decrease in manufacturing, antibody development,
+                and
+                radiolabeling expenses incurred in the current quarter as the majority
+                of
+                in-house resources have recently been focused on the development
+                of the
+                Tarvacin  program.  
+
+o  
+             
+                 Vascular
+                Targeting Agents ( VTAs ) and Anti-Angiogenesis    -       During
+                the three months ended January 31, 2006, VTA and Anti-Angiogenesis
+                program
+                expenses decreased $204,000 from $573,000 in fiscal year 2005 to
+                $369,000
+                in fiscal year 2006. The decrease in VTA and Anti-Angiogenesis program
+                expenses is primarily due to a decrease in intellectual property
+                access
+                fees and sponsored research fees as our outside researchers are primarily
+                focused on the development of
+                Tarvacin . 
+
+Nine
+      Months: The increase in research and development expenses of $1,208,000 during
+      the nine months ended January 31, 2006 compared to the same period in the prior
+      year was primarily due to a net increase in expenses associated with our
+      following platform technologies under development:  
+
+o  
+             
+                 Anti-Phospholipid
+                Therapy (Tarvacin )    -       During
+                the nine months ended January 31, 2006, Anti-Phospholipid Therapy
+                (Tarvacin ) program expenses increased $2,849,000 from $3,442,000 in
+                fiscal year 2005 to $6,291,000 in fiscal year 2006. The increase
+                in
+                Anti-Phospholipid Therapy       (Tarvacin )
+                program expenses is primarily due to an increase in manufacturing
+                and
+                in-house antibody development expenses combined with an increase
+                in
+                various clinical trial expenses to support two separate Phase I clinical
+                studies using Tarvacin  for the treatment of advanced solid cancers and
+                chronic hepatitis C virus infection. In addition, the increase in
+                program
+                expenses was supplemented with an increase in technology access fees
+                associated with Tarvacin  Phase I clinical trial milestones achieved
+                during the current nine month period in accordance with third party
+                licensing agreements, an increase in sponsored research fees, and
+                an
+                increase in outside animal research studies to support the possible
+                expansion of Tarvacin  clinical trials in other anti-viral indications.
+                These increases were primarily offset by a decrease in pre-clinical
+                toxicology study expenses incurred in the prior year to support the
+                Tarvacin  Investigational New Drug ( IND ) applications that were filed in
+                the prior fiscal year combined with a decrease in outside antibody
+                development fees related to our humanized antibody in development
+                and a
+                decrease in intellectual property access
+                fees. 
+
+o  
+             
+                 Tumor
+                Necrosis Therapy ( TNT ) (Cotara )   
+                -
+                During the nine months ended January 31, 2006, TNT (Cotara ) program
+                expenses decreased $626,000 from $2,336,000 in fiscal year 2005 to
+                $1,710,000 in fiscal year 2006. The decrease in TNT (Cotara ) program
+                expenses is primarily due to a decrease in payroll and related expenses
+                and radiolabeling process development expenses incurred in the same
+                prior
+                year period to support the initiation of the first part of the Cotara 
+                Phase II/III registration trial for the treatment of brain cancer
+                in
+                collaboration with the New Approaches to Brain Tumor Therapy consortium,
+                and to support other development programs associated with our TNT
+                technology platform. These decreases were further supplemented by
+                a
+                decrease in technology access fees incurred in the same prior year
+                period
+                supporting the production of monoclonal antibodies for Cotara .
+
+o  
+             
+                 Vascular
+                Targeting Agents ( VTAs ) and Anti-Angiogenesis    -
+                During the nine months ended January 31, 2006, VTA and Anti-Angiogenesis
+                program expenses decreased $811,000 from $1,844,000 in fiscal year
+                2005 to
+                $1,033,000 in fiscal year 2006. The decrease in VTA and Anti-Angiogenesis
+                program expenses is primarily due to a decrease in intellectual property
+                access fees and sponsored research fees as our outside researchers
+                are
+                currently focused on the development of
+                Tarvacin . 
+
+20 
+
+o  
+             
+                 Vasopermeation
+                Enhancements Agents ( VEAs )    -       During
+                the nine months ended January 31, 2006, VEA program expenses decreased
+                $191,000 from $487,000 in fiscal year 2005 to $296,000 in fiscal
+                year
+                2006. The decrease in VEA program expenses is primarily due to a
+                decrease
+                in sponsored research fees, combined with a decrease in antibody
+                development fees regarding expenses incurred in the prior year associated
+                with a research study that was completed in the prior year. In January
+                2005, we entered into an agreement with Merck KGaA of Darmstadt,
+                Germany,
+                that will give us access to Merck's technology and expertise in protein
+                expression to advance the development of our VEA technology and other
+                platform technologies. Merck KGaA is presently working on a clinical
+                candidate under the VEA technology
+                platform. 
+
+We
+      expect
+      research and development expenses to increase over the near term primarily
+      under
+      the following ongoing research and development programs: 
+
+1. 
+
+Tarvacin 
+                clinical studies for the treatment of solid tumors and chronic hepatitis
+                C
+                virus infection; 
+
+2. 
+
+Cotara 
+                clinical study for the treatment of brain cancer in collaboration
+                with New
+                Approaches to Brain Tumor Therapy ( NABTT ), a brain tumor treatment
+                consortium;  
+
+3. 
+
+Anti-Phospholipid
+                Therapy research and development
+                program; 
+
+4. 
+
+2C3
+                (anti-angiogenesis antibody) research and development
+                program; 
+
+5. 
+
+Vascular
+                Targeting Agent research and development program;
+                and 
+
+6. 
+
+Vasopermeation
+                Enhancement Agent research and development
+                program. 
+
+The
+      following represents the research and development expenses ( R D Expenses )
+      we have incurred by each major technology platform under
+      development: 
+
+From
+      inception to April 30, 1998, we expensed $20,898,000 on research and development
+      of our product candidates, with the costs primarily being closely split between
+      the TNT and prior developed technologies. In addition to the above costs, we
+      expensed an aggregate of $32,004,000 for the acquisition of our TNT and VTA
+      technologies, which were acquired during fiscal years 1995 and 1997,
+      respectively.  
+
+Looking
+      beyond the current fiscal year, it is extremely difficult for us to reasonably
+      estimate all future research and development costs associated with each of
+      our
+      technologies due to the number of unknowns and uncertainties associated with
+      pre-clinical and clinical trial development. These unknown variables and
+      uncertainties include, but are not limited to: 
+
+The
+                uncertainty of our capital resources to fund research, development
+                and
+                clinical studies beyond December 31, 2006;
+
+The
+                uncertainty of future costs associated with our pre-clinical candidates,
+                including Vascular Targeting Agents, Anti-Angiogenesis Agents, and
+                Vasopermeation Enhancement Agents, which costs are dependent on the
+                success of pre-clinical development. We are uncertain whether or
+                not these
+                product candidates will be successful and we are uncertain whether
+                or not
+                we will incur any additional costs beyond pre-clinical development;
+
+21 
+
+The
+                uncertainty of future clinical trial results;
+
+The
+                uncertainty of the ultimate number of patients to be treated in any
+                clinical trial; 
+
+The
+                uncertainty of the Food and Drug Administration allowing our studies
+                to
+                move into and forward from Phase I clinical studies to Phase II and
+                Phase
+                III clinical studies;  
+
+The
+                uncertainty of the rate at which patients are enrolled into any current
+                or
+                future study. Any delays in clinical trials could significantly increase
+                the cost of the study and would extend the estimated completion
+                dates; 
+
+The
+                uncertainty of terms related to potential future partnering or licensing
+                arrangements; and 
+
+The
+                uncertainty of protocol changes and modifications in the design of
+                our
+                clinical trial studies, which may increase or decrease our future
+                costs. 
+
+We
+      or our
+      potential partners will need to do additional development and clinical testing
+      prior to seeking any regulatory approval for commercialization of our product
+      candidates as all of our products are in discovery, pre-clinical or clinical
+      development. Testing, manufacturing, commercialization, advertising, promotion,
+      exporting, and marketing, among other things, of our proposed products are
+      subject to extensive regulation by governmental authorities in the United States
+      and other countries. The testing and approval process requires substantial
+      time,
+      effort, and financial resources, and we cannot guarantee that any approval
+      will
+      be granted on a timely basis, if at all. Companies in the pharmaceutical and
+      biotechnology industries have suffered significant setbacks in conducting
+      advanced human clinical trials, even after obtaining promising results in
+      earlier trials. Furthermore, the United States Food and Drug Administration
+      may
+      suspend clinical trials at any time on various grounds, including a finding
+      that
+      the subjects or patients are being exposed to an unacceptable health risk.
+      Even
+      if regulatory approval of a product is granted, such approval may entail
+      limitations on the indicated uses for which it may be marketed. Accordingly,
+      we
+      or our potential partners may experience difficulties and delays in obtaining
+      necessary governmental clearances and approvals to market our products, and
+      we
+      or our potential partners may not be able to obtain all necessary governmental
+      clearances and approvals to market our products. 
+
+Selling,
+      General and Administrative Expenses.    
+
+Selling,
+      general and administrative expenses consist primarily of payroll and related
+      expenses, director fees, legal and accounting fees, investor and public relation
+      fees, insurance, and other expenses relating to our general management,
+      administration, and business development activities of the Company.
+
+Three
+      Months: The increase in selling, general and administrative expenses of $290,000
+      during the three months ended January 31, 2006 compared to the same period
+      in
+      the prior year is primarily due to an increase in (i) payroll and related
+      expenses of $236,000 from $537,000 in the prior three-month period to $773,000
+      in the current three-month period primarily due to an increase in headcount
+      across most corporate functions to support our increased operations, (ii) stock
+      based compensation expense of $118,000 from nil in the comparative period in
+      fiscal year 2005 primarily associated with the amortization of the fair value
+      of
+      warrants provided for business development services related to Avid s
+      operations, (iii) travel and related expenses of $54,000 from $27,000 in fiscal
+      year 2005 to $81,000 in fiscal year 2006 primarily associated with our
+      participation in several investor conferences and non-deal marketing road shows
+      over the past quarter and an increase in travel associated with business
+      development. These increases in expenses were supplemented with incremental
+      increases in public relation expenses, board fees, and other general corporate
+      expenses. These increases in expenses were offset by a current quarter decrease
+      in audit and accounting fees of $108,000 from $200,000 in fiscal year 2005
+      to
+      $92,000 in fiscal year 2006 primarily related to the implementation of Section
+      404 of the Sarbanes-Oxley Act of 2002 in the prior year quarter combined with
+      a
+      decrease in legal fees of $107,000 from $205,000 in fiscal year 2005 to $98,000
+      in fiscal year 2006 primarily pertaining to a decrease in general corporate
+      matters and lawsuits described in the Quarterly Report on Form 10-Q under Part
+      II, Item 1, Legal Proceedings.  
+
+22 
+
+Nine
+      Months: The increase in selling, general and administrative expenses of
+      $1,073,000 during the nine months ended January 31, 2006 compared to the same
+      period in the prior year is primarily due to an increase in (i) payroll and
+      related expenses of $412,000 from $1,671,000 in the prior nine-month period
+      to
+      $2,083,000 in the current nine-month period primarily due to an increase in
+      headcount across most corporate functions to support our increased operations,
+      (ii) stock based compensation expense of $161,000 from $82,000 in fiscal year
+      2005 to $243,000 in fiscal year 2006 associated with the amortization of the
+      fair value of options and warrants provided for business development and general
+      corporate services, (iii) investor and public relation fees of $160,000 from
+      $170,000 in fiscal year 2005 to $330,000 in fiscal year 2006 primarily due
+      to
+      services provided by public relation firms assisting the Company with its
+      investor and public relations activities, whose services were not utilized
+      in
+      the same prior year period, (iv) travel and related expenses of $154,000 from
+      $130,000 in fiscal year 2005 to $284,000 in fiscal year 2006 primarily
+      associated with our participation in several investor conferences and non-deal
+      marketing road shows over the past nine months combined with an increase in
+      travel associated with business development and other corporate activities,
+      (v)
+      board fees of $114,000 from $200,000 in the prior nine-month period to $314,000
+      in the current nine month period primarily due to an increase in the number
+      of
+      non-employee directors combined with an increase in the number of Company Board
+      meetings, (vi) legal fees of $104,000 from $364,000 in fiscal year 2005 to
+      $468,000 in fiscal year 2006 primarily pertaining to the general corporate
+      matters and litigation matters described in the Quarterly Report on Form 10-Q
+      under Part II, Item 1, Legal Proceedings. The current period increases in
+      general and administrative expense were supplemented with incremental increases
+      in other general corporate expenses. 
+
+Interest
+      and Other Income.      
+
+Three
+      and
+      Nine Months: The increase in interest and other income of $1,316,000 and
+      $1,388,000 during the three and nine months ended January 31, 2006,
+      respectively, compared to the same periods in the prior year was primarily
+      due
+      to the recovery of a previously fully reserved note receivable in the amount
+      of
+      $1,229,000 during the current quarter combined with an increase in interest
+      income as a result of a higher average cash balance on hand and higher
+      prevailing interest rates during the current year compared to the same prior
+      year periods. 
+
+Critical
+      Accounting Policies  
+
+The
+      methods, estimates, and judgments we use in applying our most critical
+      accounting policies have a significant impact on the results we report in our
+      condensed consolidated financial statements. We evaluate our estimates and
+      judgments on an ongoing basis. We base our estimates on historical experience
+      and on assumptions that we believe to be reasonable under the circumstances.
+      Our
+      experience and assumptions form the basis for our judgments about the carrying
+      value of assets and liabilities that are not readily apparent from other
+      sources. Actual results may vary from what we anticipate and different
+      assumptions or estimates about the future could change our reported results.
+      We
+      believe the following accounting policies are the most critical to us, in that
+      they are important to the portrayal of our financial statements and they require
+      our most difficult, subjective, or complex judgments in the preparation of
+      our
+      condensed consolidated financial statements:  
+
+Revenue
+      Recognition   .
+      We
+      currently derive revenues primarily from licensing agreements associated with
+      Peregrine s technologies under development and from contract manufacturing
+      services provided by Avid. We recognize revenues pursuant to Staff Accounting
+      Bulletin No. 101,    Revenue
+      Recognition in Financial Statements   ,
+      as well
+      as the recently issued Staff Accounting Bulletin No. 104,    Revenue
+      Recognition   .
+      These
+      bulletins draw on existing accounting rules and provide specific guidance on
+      how
+      those accounting rules should be applied. Revenue is generally realized or
+      realizable and earned when (i) persuasive evidence of an arrangement exists,
+      (ii) delivery has occurred or services have been rendered, (iii) the seller's
+      price to the buyer is fixed or determinable, and (iv) collectibility is
+      reasonably assured.  
+
+In
+      addition, we comply with Financial Accounting Standards Board s Emerging Issues
+      Task Force No. 00-21 ( EITF 00-21 ),    Revenue
+      Arrangements with Multiple Deliverables   .
+      In
+      accordance with EITF 00-21, we recognize revenue for delivered elements only
+      when the delivered element has stand-alone value and we have objective and
+      reliable evidence of the fair value for each undelivered element. If the fair
+      value of any undelivered element included in a multiple element arrangement
+      cannot be objectively determined, revenue is deferred until all elements are
+      delivered and services have been performed, or until fair value can objectively
+      be determined for any remaining undelivered elements. 
+
+23 
+
+Revenues
+      associated with licensing agreements primarily consist of nonrefundable up-front
+      license fees and milestone payments. Revenues under licensing agreements are
+      recognized based on the performance requirements of the agreement. Nonrefundable
+      up-front license fees received under license agreements, whereby continued
+      performance or future obligations are considered inconsequential to the relevant
+      licensed technology, are generally recognized as revenue upon delivery of the
+      technology. Milestone payments are generally recognized as revenue upon
+      completion of the milestone assuming there are no other continuing obligations.
+      Nonrefundable up-front license fees, whereby we have an ongoing involvement
+      or
+      performance obligation, are generally recorded as deferred revenue and generally
+      recognized as revenue over the term of the performance obligation or relevant
+      agreement. Under some license agreements, the obligation period may not be
+      contractually defined. Under these circumstances, we must exercise judgment
+      in
+      estimating the period of time over which certain deliverables will be provided
+      to enable the licensee to practice the license.  
+
+Contract
+      manufacturing revenues are generally recognized once the service has been
+      provided and/or upon shipment of the product to the customer. We also record
+      a
+      provision for estimated contract losses, if any, in the period in which they
+      are
+      determined. 
+
+In
+      July
+      2000, the Emerging Issues Task Force ( EITF ) released Issue 99-19 ( EITF
+      99-19 ),    Reporting
+      Revenue Gross as a Principal versus Net as an Agent   .
+      EITF
+      99-19 summarized the EITF s views on when revenue should be recorded at the
+      gross amount billed to a customer because it has earned revenue from the sale
+      of
+      goods or services, or the net amount retained (the amount billed to the customer
+      less the amount paid to a supplier) because it has earned a fee or commission.
+      In addition, the EITF released Issue 00-10 ( EITF 00-10 ),    Accounting
+      for Shipping and Handling Fees and Costs   ,
+      and
+      Issue 01-14 ( EITF 01-14 ),    Income
+      Statement Characterization of Reimbursements Received for  Out-of-Pocket 
+Expenses Incurred   .
+      EITF
+      00-10 summarized the EITF s views on how the seller of goods should classify in
+      the income statement amounts billed to a customer for shipping and handling
+      and
+      the costs associated with shipping and handling. EITF 01-14 summarized the
+      EITF s views on when the reimbursement of out-of-pocket expenses should be
+      characterized as revenue or as a reduction of expenses incurred. Our revenue
+      recognition policies are in compliance with EITF 99-19, EITF 00-10 and EITF
+      01-14 whereby we record revenue for the gross amount billed to customers (the
+      cost of raw materials, supplies, and shipping, plus the related handling mark-up
+      fee) and record the cost of the amounts billed as cost of sales as we act as
+      a
+      principal in these transactions.  
+
+Allowance
+      for Doubtful Receivables   .     We
+      continually monitor our allowance for all receivables. A considerable amount
+      of
+      judgment is required in assessing the ultimate realization of these receivables
+      and we estimate an allowance for doubtful accounts based on factors that appear
+      reasonable under the circumstances. 
+
+Liquidity
+      and Capital Resources   
+
+As
+      of
+      January 31, 2006, we had $15,664,000 in cash and cash equivalents on hand.
+      Although we have sufficient cash on hand to meet our current planned obligations
+      through at least December 31, 2006, our development efforts are dependent on
+      our
+      ability to raise additional capital to support our future
+      operations. 
+
+We
+      have
+      expended substantial funds on the development of our product candidates and
+      we
+      have incurred negative cash flows from operations for the majority of our years
+      since inception. Since inception, we have generally financed our operations
+      primarily through the sale of our common stock and issuance of convertible
+      debt,
+      which has been supplemented with payments received from various licensing
+      collaborations and through the revenues generated by Avid. We expect negative
+      cash flows from operations to continue until we are able to generate sufficient
+      revenue from the contract manufacturing services provided by Avid and/or from
+      the sale and/or licensing of our products under development.  
+
+24 
+
+Revenues
+      earned by Avid during the nine months ended January 31, 2006 and 2005 amounted
+      to $2,227,000 and $3,983,000, respectively. We expect that Avid will continue
+      to
+      generate revenues which should lower consolidated cash flows used in operations,
+      although we expect those near term revenues will be insufficient to cover
+      anticipated cash flows used in operations. In addition, revenues from the sale
+      and/or licensing of our products under development are always uncertain.
+      Therefore, we expect we will continue to need to raise additional capital to
+      continue the development of our product candidates, including the anticipated
+      development and clinical trial costs of Tarvacin  and Cotara , the anticipated
+      research and development costs associated with our other technology platforms
+      and the potential expansion of our manufacturing capabilities. 
+
+We
+      plan
+      to raise additional capital primarily through the registered offer and sale
+      of
+      shares of our common stock from our shelf registration statements on Form S-3,
+      which, as of March 3, 2006, we had an aggregate of approximately 4,179,000
+      shares available for possible future registered transactions. However, given
+      uncertain market conditions and the volatility of our stock price and trading
+      volume, we may not be able to sell our securities at prices or on terms that
+      are
+      favorable to us, if at all.  
+
+In
+      addition to equity financing, we actively explore various other sources of
+      funding, including possible debt financing and leveraging our many assets,
+      including our intellectual property portfolio. Our broad intellectual property
+      portfolio allows us to develop products internally while at the same time we
+      are
+      able to out-license certain areas of the technology which would not interfere
+      with our internal product development efforts.  
+
+There
+      can
+      be no assurances that we will be successful in raising sufficient capital on
+      terms acceptable to us, or at all (from either debt, equity or the licensing,
+      partnering or sale of technology assets and/or the sale of all or a portion
+      of
+      Avid), or that sufficient additional revenues will be generated from Avid or
+      under potential licensing agreements to complete the research, development,
+      and
+      clinical testing of our product candidates beyond December 31, 2006.
+
+Significant
+      components of the changes in cash flows from operating, investing, and financing
+      activities for the nine months ended January 31, 2006 compared to the same
+      prior
+      year period are as follows: 
+
+Cash
+      Used In Operating Activities   .
+      Cash
+      used in operating activities is primarily driven by changes in our net loss.
+      However, cash used in operating activities generally differs from our reported
+      net loss as a result of non-cash operating expenses or differences in the timing
+      of cash flows as reflected by the changes in operating assets and liabilities.
+      During the nine months ended January 31, 2006, cash used in operating activities
+      increased $3,482,000 to $12,982,000 compared to $9,500,000 for the nine months
+      ended January 31, 2005. The increase in cash used in operating activities was
+      primarily related to the timing of cash flows as reflected in the changes in
+      operating assets and payment or reduction of liabilities in the aggregate amount
+      of $1,821,000, the amount of which was further supplemented by an increase
+      of
+      $1,661,000 in net cash used in operating activities after deducting non-cash
+      expenses and adjustments to net loss and before considering the changes in
+      operating assets and liabilities. This increase was primarily due to a decrease
+      in contract manufacturing revenue combined with an increase in research and
+      development expenses and selling, general and administrative
+      expenses. 
+
+The
+      changes in operating activities as a result of non-cash operating expenses
+      or
+      differences in the timing of cash flows as reflected by the changes in operating
+      assets and liabilities are as follows: 
+
+25 
+
+Cash
+      Used In Investing Activities.   
+      During
+      the nine months ended January 31, 2006, net cash provided by investing
+      activities amounted to $613,000 primarily due to the recovery of a note
+      receivable in the amount of $1,229,000 offset by the purchase of property in
+      the
+      amount of $423,000 to support the expanded research efforts of Peregrine and
+      the
+      expanded services of Avid combined with an increase in other assets of $199,000.
+      Net cash used in investing activities for the nine months ended January 31,
+      2005
+      was primarily due to the purchase of laboratory equipment to support our
+      research efforts and the expanded services of Avid, combined with an increase
+      in
+      other assets related to security deposits paid to GE Capital Corporation on
+      notes payable and installment payments made on a 1,000-liter bioreactor.
+
+Cash
+      Provided By Financing Activities.          
+      Net cash
+      provided by financing activities increased $12,128,000 to $18,217,000 for the
+      nine months ended January 31, 2006 compared to net cash provided of $6,089,000
+      for the nine months ended January 31, 2005. Cash provided by financing
+      activities during the nine months ended January 31, 2006 was primarily due
+      to
+      proceeds received under four separate security purchase agreements whereby
+      we
+      sold and issued a total of 20,707,217 shares of our common stock in exchange
+      for
+      aggregate net proceeds of $17,975,000. Cash provided by financing activities
+      during the nine months ended January 31, 2005 was primarily due to proceeds
+      received from the sale of stock supplemented with proceeds received from the
+      financing of property with GE Capital Corporation. 
+
+Commitments
+
+At
+      January 31, 2006, we had no material capital commitments.  
+
+Risk
+      Factors of Our Company  
+
+The
+      biotechnology industry includes many risks and challenges. Our challenges may
+      include, but are not limited to: uncertainties associated with completing
+      pre-clinical and clinical trials for our technologies; the significant costs
+      to
+      develop our products as all of our products are currently in development,
+      pre-clinical studies or clinical trials and no revenue has been generated from
+      commercial product sales; obtaining additional financing to support our
+      operations and the development of our products; obtaining regulatory approval
+      for our technologies; complying with governmental regulations applicable to
+      our
+      business; obtaining the raw materials necessary in the development of such
+      compounds; consummating collaborative arrangements with corporate partners
+      for
+      product development; achieving milestones under collaborative arrangements
+      with
+      corporate partners; developing the capacity to manufacture, market, and sell
+      our
+      products, either directly or indirectly with collaborative partners; developing
+      market demand for and acceptance of such products; competing effectively with
+      other pharmaceutical and biotechnological products; attracting and retaining
+      key
+      personnel; protecting intellectual property rights; and accurately forecasting
+      operating and capital expenditures, other capital commitments, or clinical
+      trial
+      costs, and general economic conditions. A more detailed discussion regarding
+      our
+      industry and business risk factors can be found in our Annual Report on Form
+      10-K for the year ended April 30, 2005, as filed with the Securities and
+      Exchange Commission on July 14, 2005.  
+
+26 
+
+ITEM
+              3.    
+             
+                  QUANTITATIVE
+                AND QUALITATIVE DISCLOSURES ABOUT MARKET
+                RISK   
+
+Changes
+      in United States interest rates would affect the interest earned on our cash
+      and
+      cash equivalents. Based on our overall interest rate exposure at January 31,
+      2006, a near-term change in interest rates, based on historical movements,
+      would
+      not materially affect the fair value of interest rate sensitive instruments.
+      Our
+      debt instruments have fixed interest rates and terms and, therefore, a
+      significant change in interest rates would not have a material adverse effect
+      on
+      our financial position or results of operations  .
+
+ITEM
+                  4.    
+                 
+                      CONTROLS
+                    AND
+                    PROCEDURES   
+
+The
+      Company maintains disclosure controls and procedures (as defined in
+      Rules 13a-15(e) and 15d-15(e)) under the Securities Exchange Act of 1934,
+      as amended (the  Exchange Act ), that are designed to ensure that information
+      required to be disclosed in its reports filed under the Exchange Act is
+      recorded, processed, summarized and reported within the time periods specified
+      in the SEC s rules and forms, and that such information is accumulated and
+      communicated to our management, including its Chief Executive Officer and Chief
+      Financial Officer, as appropriate, to allow timely decisions regarding required
+      disclosure. In designing and evaluating the disclosure controls and procedures,
+      management recognized that any controls and procedures, no matter how well
+      designed and operated, can provide only reasonable assurance of achieving the
+      desired control objectives, and management necessarily was required to apply
+      its
+      judgment in evaluating the cost-benefit relationship of possible controls and
+      procedures.  
+
+The
+      Company carried out an evaluation, under the supervision and with the
+      participation of management, including its Chief Executive Officer and Chief
+      Financial Officer, of the effectiveness of the design and operation of its
+      disclosure controls and procedures as of January 31, 2006, the end of the period
+      covered by this Quarterly Report. Based on that evaluation, the Company s Chief
+      Executive Officer and Chief Financial Officer concluded that its disclosure
+      controls and procedures were effective at the reasonable assurance level as
+      of
+      January 31, 2006. 
+
+There
+      were no significant changes in the Company s internal controls over financial
+      reporting, during the quarter ended January 31, 2006, that have materially
+      affected, or are reasonably likely to materially affect, the Company s internal
+      controls over financial reporting.   
+
+PART
+      II OTHER INFORMATION    
+
+ITEM
+              1.    
+             
+                  LEGAL
+                PROCEEDINGS.   
+
+In
+      the
+      ordinary course of business, we are at times subject to various legal
+      proceedings, including licensing and contract disputes and other matters, which
+      are further discussed below: 
+
+On
+      December 16, 2004, we filed a lawsuit against the University of Southern
+      California ( USC ) and Alan Epstein, M.D. The lawsuit was filed in the Superior
+      Court of the State of California for the County of Los Angeles, Central
+      District. The lawsuit alleges that USC has breached various agreements with
+      the
+      Company by (i) failing to protect the Company s patent rights in Japan with
+      respect to certain technology exclusively licensed from USC due to non-payment
+      of annuities, (ii) failing to provide accounting documentation for research
+      expenditures, and (iii) misusing certain antibodies the Company provided to
+      USC
+      and Dr. Epstein for research. The claims against Dr. Epstein, who was a
+      scientific advisor and former consultant to the Company, involve breach of
+      contract for misusing certain antibodies and breach of fiduciary duties. The
+      Company is seeking unspecified damages, declaratory relief with respect to
+      its
+      rights under the option and license agreement pursuant to which it acquired
+      the
+      rights to the technology, and an accounting of research expenditures.
+
+27 
+
+On
+      August
+      3, 2005, USC filed a cross-complaint against the Company relating to the
+      above-mentioned lawsuit. The cross-complaint alleged that the Company has
+      breached various agreements with USC by (i) breaching reporting and diligence
+      provisions of the option and license agreements, (ii) failing to make payments
+      under a sponsored research agreement, and (iii) failing to exercise its rights
+      under the product and option license agreement for hybridoma clones. USC sought
+      unspecified punitive damages with respect to its rights under the option and
+      license agreements and the sponsored research agreement. 
+
+On
+      September 30, 2004, we filed a lawsuit against Knobbe, Martens, Olson  
+Bear, LLP and Joseph Reisman, of the law firm Knobbe, Martens, Olson   Bear,
+      LLP ( Knobbe ), in San Diego Superior Court. This suit is related to USC s
+      above-mentioned failure to protect patent rights in Japan. Accordingly, the
+      case
+      against Knobbe was dismissed in connection with receiving a tolling agreement
+      extending the statute of limitations on our claims against the firm while USC
+      pursued those claims. 
+
+On
+      March
+      7, 2006, we reached a global settlement with USC, Dr. Epstein and Knobbe with
+      respect to the matters set forth above. The settlement entails (i) relief from
+      future minimum annual royalties due to USC under our Vasopermeation Enhancement
+      Agent ( VEA ) licensing agreement, (ii) reduction in royalties due on net sales
+      to USC with respect to our VEA license agreement, (iii) a release from USC
+      of
+      any claimed obligation for past sponsored research fees in the amount of
+      $187,500, and (iv) consideration from Knobbe comprised of cash and a credit
+      for
+      future legal services. 
+
+ITEM
+              2.    
+             
+                  UNREGISTERED
+                SALES OF EQUITY SECURITIES AND USE OF PROCEEDS.    
+                None. 
+
+ITEM
+              3.    
+             
+                  DEFAULTS
+                UPON SENIOR SECURITIES.     
+                None. 
+
+ITEM
+              4.    
+             
+                  SUBMISSION
+                OF MATTERS TO A VOTE OF SECURITY HOLDERS.     
+                None. 
+
+ITEM
+              5.    
+             
+                  OTHER
+                INFORMATION.     
+                None. 
+
+ITEM
+              6.    
+             
+                  EXHIBITS.   
+
+(a) 
+
+Exhibits:
+
+28 
+
+SIGNATURES   
+
+Pursuant
+      to the requirements of the Securities Exchange Act of 1934, the Registrant
+      has
+      duly caused this report to be signed on its behalf by the undersigned thereunto
+      duly authorized.  
+
+PEREGRINE
+                PHARMACEUTICALS, INC. 
+
+Date:
+              March 10, 2006  
+              By:    
+              /s/ STEVEN
+              W.
+              KING     
+
+Steven
+                W. King 
+
+                 President
+                and Chief Executive Officer,  
+
+                 Director  
+
+Date: March 10, 2006  
+              By:    
+              /s/ PAUL
+              J.
+              LYTLE     
+
+Paul
+                J. Lytle 
+
+                Chief
+                Financial Officer 
+
+                (signed
+                both as an   officer
+                duly authorized to sign on  
+
+                behalf
+                of the Registrant and principal   financial
+                officer  
+
+                and
+                chief accounting   officer) 
+
+29 
+
+<EX-31.1>
+ 2
+ peregrine_10q-ex3101.htm
+ CERTIFICATION
+
+Certification
+
+Exhibit
+      31.1   
+
+Certification
+      of Chief Executive Officer  
+
+       Pursuant
+      to Section 302 of the Sarbanes-Oxley Act of 2002  
+
+I,
+      Steven
+      W. King, certify that: 
+
+1. 
+      I have reviewed this quarterly report on Form 10-Q of Peregrine Pharmaceuticals,
+      Inc.; 
+
+2. 
+      Based on my knowledge, this report does not contain any untrue statement of
+      a
+      material fact or omit to state a material fact necessary to make the statements
+      made, in light of the circumstances under which such statements were made,
+      not
+      misleading with respect to the period covered by this report; 
+
+3. 
+      Based on my knowledge, the financial statements, and other financial information
+      included in this report, fairly present in all material respects the financial
+      condition, results of operations and cash flows of the registrant as of, and
+      for, the periods presented in this report; 
+
+4. 
+      The registrant s other certifying officer and I are responsible for establishing
+      and maintaining disclosure controls and procedures (as defined in Exchange
+      Act
+      Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting
+      (as
+      defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the
+      registrant and have: 
+
+a)
+      designed such disclosure controls and procedures, or caused such disclosure
+      controls and procedures to be designed under our supervision, to ensure that
+      material information relating to the registrant, including its consolidated
+      subsidiaries, is made known to us by others within those entities, particularly
+      during the period in which this report is being prepared; 
+
+b)    designed
+      such internal control over financial reporting, or caused such internal control
+      over financial reporting to be designed under our supervision, to provide
+      reasonable assurance regarding the reliability of financial reporting and the
+      preparation of financial statements for external purposes in accordance with
+      generally accepted accounting principles; 
+
+c) 
+      evaluated the effectiveness of the registrant s disclosure controls and
+      procedures and presented in this report our conclusions about the effectiveness
+      of the disclosure controls and procedures, as of the end of the periods covered
+      by this report based on such evaluation; and 
+
+d) 
+      disclosed in this report any change in the registrant s internal control over
+      financial reporting that occurred during the registrant s most recent fiscal
+      quarter (the registrant s fourth fiscal quarter in the case of an annual report)
+      that has materially affected, or is reasonably likely to materially affect,
+      the
+      registrant s internal control over financial reporting; and  
+
+5. 
+      The registrant s other certifying officer and I have disclosed, based on our
+      most recent evaluation of internal control over financial reporting, to the
+      registrant s auditors and the audit committee of the registrant s board of
+      directors (or persons performing the equivalent functions): 
+
+a) 
+      all significant deficiencies and material weaknesses in the design or operation
+      of internal control over financial reporting which are reasonably likely to
+      adversely affect the registrant s ability to record, process, summarize and
+      report financial information; and  
+
+b)  any
+      fraud, whether or not material, that involves management or other employees
+      who
+      have a significant role in the registrant s internal control over financial
+      reporting. 
+
+Steven W. King 
+
+President and Chief Executive Officer, 
+
+Director  
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ peregrine_10q-ex3102.htm
+ CERTIFICATION
+
+Certification
+
+Exhibit
+      31.2  
+
+Certification
+      of Chief Financial Officer  
+
+       Pursuant
+      to Section 302 of the Sarbanes-Oxley Act of 2002  
+
+I,
+      Paul
+      J. Lytle, certify that: 
+
+1. 
+      I have reviewed this quarterly report on Form 10-Q of Peregrine Pharmaceuticals,
+      Inc.; 
+
+2. 
+      Based on my knowledge, this report does not contain any untrue statement of
+      a
+      material fact or omit to state a material fact necessary to make the statements
+      made, in light of the circumstances under which such statements were made,
+      not
+      misleading with respect to the period covered by this report; 
+
+3. 
+      Based on my knowledge, the financial statements, and other financial information
+      included in this report, fairly present in all material respects the financial
+      condition, results of operations and cash flows of the registrant as of, and
+      for, the periods presented in this report; 
+
+4. 
+      The registrant s other certifying officer and I are responsible for establishing
+      and maintaining disclosure controls and procedures (as defined in Exchange
+      Act
+      Rules 13a-15(e) and 15d-15(e)) and internal control over financial reporting
+      (as
+      defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the
+      registrant and have: 
+
+a)   designed
+      such disclosure controls and procedures, or caused such disclosure controls
+      and
+      procedures to be designed under our supervision, to ensure that material
+      information relating to the registrant, including its consolidated subsidiaries,
+      is made known to us by others within those entities, particularly during the
+      period in which this report is being prepared; 
+
+b)    designed
+      such internal control over financial reporting, or caused such internal control
+      over financial reporting to be designed under our supervision, to provide
+      reasonable assurance regarding the reliability of financial reporting and the
+      preparation of financial statements for external purposes in accordance with
+      generally accepted accounting principles; 
+
+c)   evaluated
+      the effectiveness of the registrant s disclosure controls and procedures and
+      presented in this report our conclusions about the effectiveness of the
+      disclosure controls and procedures, as of the end of the periods covered by
+      this
+      report based on such evaluation; and 
+
+d)   disclosed
+      in this report any change in the registrant s internal control over financial
+      reporting that occurred during the registrant s most recent fiscal quarter (the
+      registrant s fourth fiscal quarter in the case of an annual report) that has
+      materially affected, or is reasonably likely to materially affect, the
+      registrant s internal control over financial reporting; and  
+
+5. 
+      The registrant s other certifying officer and I have disclosed, based on our
+      most recent evaluation of internal control over financial reporting, to the
+      registrant s auditors and the audit committee of the registrant s board of
+      directors (or persons performing the equivalent functions): 
+
+a)    all
+      significant deficiencies and material weaknesses in the design or operation
+      of
+      internal control over financial reporting which are reasonably likely to
+      adversely affect the registrant s ability to record, process, summarize and
+      report financial information; and  
+
+b)    any
+      fraud, whether or not material, that involves management or other employees
+      who
+      have a significant role in the registrant s internal control over financial
+      reporting. 
+
+Paul J. Lytle 
+
+Chief Financial Officer  
+
+</EX-31.2>
+
+<EX-32>
+ 4
+ peregrine_10q-ex32.htm
+ CERTIFICATION
+
+Certification
+
+Exhibit
+      32  
+
+CERTIFICATION
+      PURSUANT TO  
+
+       18
+      U.S.C. SECTION 1350,  
+
+       AS
+      ADOPTED PURSUANT TO  
+
+       SECTION
+      906 OF THE SARBANES-OXLEY ACT OF 2002      
+
+Each
+      of
+      the undersigned hereby certifies, in his capacity as an officer of Peregrine
+      Pharmaceuticals, Inc. (the  Company ), for purposes of 18 U.S.C.
+      Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley
+      Act of 2002, that to his knowledge: 
+
+(1)
+      the
+      Quarterly Report of the Company on Form 10-Q for the period ended January 31,
+      2006 fully complies with the requirements of Section 13(a) or Section 15(d),
+      as
+      applicable, of the Securities Exchange Act of 1934, as amended; and
+
+(2)
+      the
+      information contained in the Quarterly Report fairly presents, in all material
+      respects, the financial condition and results of operations of the
+      Company. 
+
+Date:      March
+      10, 2006   
+
+/s/
+      STEVEN W. KING        
+
+      Steven
+      W.
+      King 
+
+      President
+      and Chief Executive Officer, 
+
+      Director  
+
+/s/
+      PAUL J. LYTLE        
+
+      Paul
+      J.
+      Lytle 
+
+      Chief
+      Financial Officer  
+
+A
+      signed original of this written statement required by Section 906 has been
+      provided to Peregrine Pharmaceuticals, Inc. and will be retained by Peregrine
+      Pharmaceuticals, Inc. and furnished to the Securities and Exchange Commission
+      or
+      its staff upon request.  
+
+This
+      Certification is being furnished pursuant to Rule 15(d) and shall not
+      be deemed  filed  for purposes of Section 18 of the Exchange Act (15 U.S.C.
+      78r), or otherwise subject to the liability of that section. This Certification
+      shall not be deemed to be incorporated by reference into any filing under the
+      Securities Act or the Exchange Act, except to the extent that the Company
+      specifically incorporates it by reference.  
+
+</EX-32>
+

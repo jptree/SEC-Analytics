@@ -1,0 +1,1244 @@
+<Header>
+<FileStats>
+    <FileName>20060330_10-Q_edgar_data_808219_0000892251-06-000283_1.txt</FileName>
+    <GrossFileSize>306883</GrossFileSize>
+    <NetFileSize>53298</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>191569</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>16</N_Tables>
+    <N_Exhibits>4</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000892251-06-000283.hdr.sgml : 20060330
+<ACCEPTANCE-DATETIME>20060330154703
+ACCESSION NUMBER:		0000892251-06-000283
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20060226
+FILED AS OF DATE:		20060330
+DATE AS OF CHANGE:		20060330
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MERITAGE HOSPITALITY GROUP INC
+		CENTRAL INDEX KEY:			0000808219
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-EATING PLACES [5812]
+		IRS NUMBER:				382730460
+		STATE OF INCORPORATION:			MI
+		FISCAL YEAR END:			1130
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-12319
+		FILM NUMBER:		06723132
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1971 E BELTLINE NE - SUITE 200
+		CITY:			GRAND RAPIDS
+		STATE:			MI
+		ZIP:			49525
+		BUSINESS PHONE:		6167762600
+
+	MAIL ADDRESS:	
+		STREET 1:		1971 E BELTLINE NE - SUITE 200
+		CITY:			GRAND RAPIDS
+		STATE:			MI
+		ZIP:			49525
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	EDISON THOMAS INNS INC
+		DATE OF NAME CHANGE:	19920703
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ NXaSgTPThfdxZKeTFBFQzfwyoH1kA6XANuIdbmgJbISdiDUjlMywGnVKtK2cpE7D
+ F0uaeXtYT2QzLYD9Kib9GA==
+
+ 0000892251-06-000283.txt : 20060330
+
+10-Q
+ 1
+ form10q022606.htm
+ FORM 10-Q - 2/26/06
+
+Form 10-Q 
+
+SECURITIES AND
+EXCHANGE COMMISSION    
+Washington, D.C.    20549   
+
+FORM 10-Q   
+
+(Mark One)   
+
+or   
+
+[   ]   
+  Transition
+report pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934  For the
+transition period from ___________________ to ____________________   
+
+Commission File Number:
+001-12319  
+
+MERITAGE HOSPITALITY
+GROUP INC.    
+(Exact Name of Registrant as Specified in Its Charter)    
+
+(616) 776-2600   (Registrant s
+Telephone Number, Including Area Code)   
+
+Indicate by check mark whether the
+registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the
+Securities and Exchange Act of 1934 during the preceding 12 months (or for such shorter
+period that the registrant was required to file such reports), and (2) has been subject to
+such filing requirements for the past 90 days.   Yes  [X]
+   No [  ]   
+
+Indicate by check mark whether the
+registrant is a large accelerated filer, an accelerated filer, or a non-accelerated filer
+(as defined in Rule 12b-2 of the Exchange Act).   
+
+Large Accelerated Filer
+   [  ]          
+Accelerated Filer   [  ]        
+  Non-Accelerated Filer   [X]  
+
+Indicate by check mark whether the
+ registrant  is a  shell company (as defined in Rule 12b-2 of the Exchange Act).
+ Yes [  ]     No  [X]   
+
+As of March 29, 2006 there were
+5,439,781 outstanding Common Shares, $.01 par value.   
+
+SAFE HARBOR STATEMENT   
+
+Certain
+statements contained in this report that are not historical facts constitute
+forward-looking statements, within the meaning of the Private Securities Litigation Reform
+Act of 1995, and are intended to be covered by the safe harbors created by that Act.
+Forward-looking statements may be identified by words such as  estimates, 
+ anticipates,   projects,   plans,   expects, 
+ believes,   should,  and similar expressions, and by the context in
+which they are used. Such statements are based only upon current expectations of the
+Company. Any forward-looking statement speaks only as of the date made. Reliance should
+not be placed on forward-looking statements because they involve known and unknown risks,
+uncertainties and other factors which may cause actual results, performance or
+achievements to differ materially from those expressed or implied. Meritage undertakes no
+obligation to update any forward-looking statements to reflect events or circumstances
+after the date on which they are made.    
+
+Statements
+concerning expected financial performance, business strategies and action which Meritage
+intends to pursue to achieve its strategic objectives, constitute forward-looking
+information. Implementation of these strategies and achievement of such financial
+performance are subject to numerous conditions, uncertainties and risk factors, which
+could cause actual performance to differ materially from the forward-looking statements.
+These include, without limitation: competition; changes in the national or local economy;
+changes in consumer tastes and eating habits; concerns about the nutritional quality of
+our restaurant menu items; concerns about consumption of beef or other menu items due to
+diseases including E. coli, hepatitis, and mad cow; promotions and price discounting by
+competitors; severe weather; changes in travel patterns; road construction; demographic
+trends; the cost of food, labor and energy; the availability and cost of suitable
+restaurant sites; the ability to finance expansion; interest rates; insurance costs; the
+availability of adequate managers and hourly-paid employees; directives issued by the
+franchisor regarding operations and menu pricing; the general reputation of
+Meritage s and its franchisors  restaurants; the relationship between Meritage
+and its franchisors; legal claims; and the recurring need for renovation and capital
+improvements. In addition, Meritage s expansion into the casual dining restaurant
+segment as a franchisee of O Charley s will subject Meritage to additional risks
+including, without limitation, unanticipated expenses or difficulties in securing market
+acceptance of the O Charley s restaurant brand, the ability of our management
+and infrastructure to successfully implement the O Charley s development plan in
+Michigan, and our limited experience in the casual dining segment. Also, Meritage is
+subject to extensive government regulations relating to, among other things, zoning,
+public health, sanitation, alcoholic beverage control, environment, food preparation,
+minimum and overtime wages and tips, employment of minors, citizenship requirements,
+working conditions, and the operation of its restaurants. Because Meritage s
+operations are concentrated in certain areas of Michigan, a marked decline in
+Michigan s economy, or in the local economies where our restaurants are located,
+could adversely affect our operations.    
+
+PART I 
+FINANCIAL INFORMATION   
+
+Item 1.    Financial
+Statements.   
+
+The
+following unaudited consolidated financial statements have been prepared in accordance
+with generally accepted accounting principles for interim financial information and with
+the instructions to Form 10-Q and Rule 10-01 of Regulation S-X. Accordingly, they do not
+contain all the information and footnotes required by generally accepted accounting
+principles for complete financial statements. In the opinion of management, all
+adjustments (consisting solely of normal recurring adjustments) considered necessary for a
+fair presentation of the financial position, results of operations, stockholders 
+equity and cash flows of Meritage have been included. For further information, please
+refer to the consolidated financial statements and footnotes thereto included in
+Meritage s Annual Report on Form 10-K for the fiscal year ended November 27, 2005.
+The results of operations for the first quarter ended February 26, 2006 are not
+necessarily indicative of the results to be expected for the full year.   
+
+2   
+
+Meritage Hospitality
+Group Inc. and Subsidiaries Consolidated Balance Sheets February 26, 2006 and
+November 27, 2005   
+
+ASSETS   
+
+See notes to unaudited
+financial statements.   
+
+3   
+
+Meritage Hospitality
+Group Inc. and Subsidiaries Consolidated Balance Sheets   continued 
+February 26, 2006 and November 27, 2005   
+
+LIABILITIES AND
+STOCKHOLDERS  EQUITY   
+
+See notes to unaudited
+financial statements.   
+
+4   
+
+Meritage Hospitality
+Group Inc. and Subsidiaries Consolidated
+Statements of Operations For the Three Months Ended February 26, 2006 and February 27, 2005 
+(Unaudited)   
+
+See notes to unaudited
+financial statements.   
+
+5   
+
+Meritage Hospitality
+Group Inc. and Subsidiaries Consolidated Statements of Stockholders  Equity 
+For the Year Ended November 27, 2005 and the Three Months
+Ended February 26, 2006 (Unaudited)   
+
+See notes to unaudited financial
+statements.   
+
+6   
+
+Meritage Hospitality
+Group Inc. and Subsidiaries Consolidated
+Statements of Cash Flows For the Three Months Ended February 26, 2006 and February 27, 2005 
+(Unaudited)   
+
+See notes to unaudited
+financial statements.   
+
+7   
+
+Meritage Hospitality
+Group Inc. and Subsidiaries Consolidated Statements of Cash Flows   continued 
+For the Three Months Ended February 26, 2006 and February 27, 2005 (Unaudited)   
+
+See notes to unaudited
+financial statements.   
+
+8   
+
+Meritage Hospitality
+Group Inc. and Subsidiaries Notes to Unaudited
+Financial Statements For
+the Three Months Ended February 26, 2006 and February 27, 2005  
+
+Note A   Earnings
+(Loss) Per Share   
+
+Basic earnings per share is computed
+by dividing earnings on common shares by the weighted average number of common shares
+outstanding during each period. Diluted earnings per share reflect per share amounts that
+would have resulted if dilutive potential common stock had been converted to common stock.
+For the three months ended February 26, 2006 and February 27, 2005, convertible preferred
+stock and exercisable stock options were not included in the computation of diluted
+earnings per share because the effect of converting preferred stock and exercising stock
+options would be antidilutive due to the net loss reported.   
+
+Note B  
+Stock-Based Compensation   
+
+In December 2004, the FASB issued a
+revision of SFAS No. 123,  Share   Based Payment , (SFAS 123(R)), which
+supersedes APB Opinion No. 25, Accounting for Stock Issued to Employees. Under SFAS
+123(R), an entity is required to measure the cost of employee services received in
+exchange for an award of equity instruments based on the grant-date fair value of the
+award, with such cost recognized over the applicable vesting period. In addition, SFAS
+123(R) requires an entity to provide certain disclosures in order to assist in
+understanding the nature of share-based payment transactions and the effects of those
+transactions on the financial statements. The provisions of SFAS 123(R) were required to
+be applied as of the beginning of the first annual reporting period that begins after June
+15, 2005. Accordingly, the Company adopted the provisions of SFAS 123(R) at the beginning
+of the first quarter ended February 26, 2006.   
+
+Stock based employee compensation
+expense is calculated using the fair value method in accordance with SFAS No. 123. The
+fair value of each grant is estimated on the date of grant using the Black Scholes option
+pricing model. On December 12, 2005, 68,000 options were granted to the Company s
+officers with the exercise price equaling the closing price of the common shares on that
+date. The options were valued using the following assumptions: dividend yield of 0.0%,
+expected volatility of 33.1%, risk free interest rate of 4.56%, and expected life of 5.8
+years. The expense recorded for these options in the first quarter ended February 26, 2006
+was $8,797.   
+
+On October 25, 2005, the Compensation
+Committee of the Board of Directors accelerated the vesting of the then outstanding and
+unvested employee stock options. Had these vesting periods not been accelerated, in
+accordance with SFAS 123(R), the Company would have recognized approximately $1,135,000 in
+cumulative expense spread over the subsequent four years beginning in fiscal 2006.   
+
+9   
+
+Meritage Hospitality
+Group Inc. and Subsidiaries Notes to Unaudited
+Financial Statements For the Three Months Ended February 26, 2006 and February 27, 2005  
+
+Note C  
+Guarantees, Commitments and Contingencies   
+
+In July 2004, the Company made a
+payment of $272,035 to the Michigan Department of Treasury ( Treasury ) related
+to a tax claim for years 1997 through 2001. This payment, which included interest and
+penalties, resulted in a charge to earnings of $168,000, representing the difference
+between what the Company accrued as an estimated settlement of this tax claim, and the
+actual amount of the final assessment from Treasury. Shortly after making this payment,
+the Company filed a claim against Treasury to recover the entire amount of the payment.
+The Company s position is that the tax payment, which is related to fees that were
+paid to its franchisor Wendy s International, should be refunded because the fees at
+issue were incorrectly characterized as a  royalty  by Treasury, and therefore
+no tax is due from the Company related to these fees. At February 26, 2006, the claim
+status was pending the outcome of a similar case under appeal.   
+
+Under its development agreement with
+O Charley s Inc., the Company is required to open a minimum of ten additional
+restaurants by July 2010; one in 2006, two in 2007, three each in 2008 and 2009 and one in
+2010. The Company estimates that the total cost to open the additional
+O Charley s restaurants will be approximately $28 to $32 million, or
+approximately $2.8 to $3.2 million per restaurant, with land and site development being
+the significant variables.   
+
+The Company is party to several
+agreements executed in the ordinary course of business that provide for indemnification of
+third parties under specified circumstances. Generally, these agreements obligate the
+Company to indemnify the third parties only if certain events occur or claims are made, as
+these contingent events or claims are defined in each of these agreements. The Company is
+not currently aware of circumstances that would require it to perform its indemnification
+obligations under any of these agreements and, therefore, has not recorded a liability.   
+
+The Company is involved in certain
+routine legal proceedings which are incidental to its business. All of these proceedings
+arose in the ordinary course of the Company s business and, in the opinion of the
+Company, any potential liability of the Company with respect to these legal actions will
+not, in the aggregate, be material to the Company s consolidated financial
+statements. The Company maintains various types of insurance standard to the industry
+which would cover most actions brought against the Company.   
+
+10   
+
+Meritage Hospitality
+Group Inc. and Subsidiaries Notes to Unaudited
+Financial Statements For the Three Months Ended February 26, 2006 and February 27, 2005  
+
+Note D   Segment
+Reporting   
+
+The Company operates exclusively in
+the food service industry and has determined that its reportable segments are those based
+on the Company s methods of internal reporting and management structure. The Company
+currently operates 48 Wendy s restaurants in Western and Southern Michigan in the
+quick service restaurant industry. The operation of the Wendy s restaurants comprises
+the Company s Wendy s of Michigan Business Segment. The Company also operates
+five casual dining O Charley s restaurants throughout the State of Michigan. The
+operation of the O Charley s restaurants comprises the Company s
+O Charley s of Michigan Business Segment. There were no material amounts of
+revenues or transfers among reportable segments. The following table presents information
+on reportable segments for the three months ended February 26, 2006 and February 27, 2005:   
+
+(1)   
+                 
+               Corporate level general and administrative expenses have been allocated between
+               the two segments based on an allocation method determined by the Company.   
+
+11   
+
+Item 2.     Management's
+Discussion and Analysis of Financial Condition and Results of Operations.   
+
+Overview    
+
+Meritage
+is the nation s only publicly traded Wendy s franchisee, operating 48
+quick-service Wendy s restaurants in Western and Southern Michigan. Since 1999,
+Meritage has doubled the number of its Wendy s restaurants through new development.
+These Wendy s restaurants operate in a highly competitive industry in which its
+primary competitors (e.g., McDonald s, Burger King, Subway, etc.) aggressively market
+their brands to create strong brand awareness and price and value perception. In recent
+years, these competitors have also been discounting the prices on some of their primary
+food products to increase customer traffic. Wendy s attempts to compete by using many
+of the same strategies as its competitors, and also offers unique qualities such as the
+use of fresh ground beef and freshly cut salads.   
+
+Meritage
+is also the first and only publicly traded O Charley s franchisee, operating
+five O Charley s casual dining restaurants in Michigan. With the exception of
+one county in Southeast Michigan, the Company holds the exclusive right to develop
+O Charley s restaurants in Michigan. Pursuant to its development agreement with
+O Charley s Inc., the Company is required to open ten additional restaurants by
+2010. O Charley s is best known for the freshness and homemade quality of its
+food, and a diverse menu featuring items such as hand-cut and aged steaks, freshly baked
+yeast rolls, fresh cut salads with special recipe salad dressings and signature desserts.   
+
+Since
+September 2004, the Company completed seventeen sale and leaseback transactions of its
+Wendy s restaurants, with approximately 55% of the cash being used to pay down debt.
+The remaining cash primarily was used to expand its O Charley s business
+segment. Due to recent losses, the Company also utilized a portion of the proceeds to
+support its ongoing operations. The Company may enter into additional sale and leaseback
+transactions as it expands its existing segments, if it identifies other franchising
+opportunities or if additional funds are required for operational support.   
+
+Prior
+to preferred stock dividends of $213,000, the Company incurred a net loss of $1,273,000
+during the first quarter of fiscal 2006. Results were unfavorably impacted by (i) weak
+performances by both the Wendy s and O Charley s brands, (ii) a sluggish
+Michigan economy which ranks among the worst in the United States, (iii) intense price
+discounting by competitors, (iv) high fuel and energy costs that have diminished the
+disposable income of its customer base, and (v) early operating investments in the
+O Charley s concept. Where it maintains control, the Company has been successful
+in minimizing costs and maintaining quality store operations. In addition, Michigan
+recently passed legislation increasing the state s minimum wage by 44% over the next
+two years. While labor costs are likely to increase, the Company is not able to fully
+assess the overall impact as additional factors, which are not yet determinable, will need
+to be considered.   
+
+In
+response to these challenges, the Company has reduced its overhead costs through labor
+reductions and investments in technology. Between November 2005 and March 2006, the
+Company eliminated and realigned management and administrative positions throughout its
+organization. These efforts are expected to result in annual savings of approximately
+$600,000 on a consolidated basis.   
+
+In
+addition, Wendy s announced new menu items in the first quarter of 2006 that are
+expected to strengthen customer traffic and sales. These new items include the Frescata
+Sandwich and three additions to the Garden Sensations salad line in 2006, and the
+introduction of breakfast in 2007.   
+
+12   
+
+Results of Operations    
+
+Wendy s of
+Michigan Business Segment   
+
+The
+Company s 48 Wendy s restaurants constitute its Wendy s of Michigan
+Business Segment. Corporate level general and administrative expenses have been allocated
+to the Wendy s of Michigan Business Segment based on an allocation method determined
+by the Company. The allocation is consistent with the prior year amount. Results of
+operations are summarized below:   
+
+Revenue   
+
+Average
+ same store sales  (i.e., food and beverage revenue for stores in full operation
+during the first quarters of both 2005 and 2006) decreased by $21,413 or 8.5%. In the
+first quarter of 2006, the Company continued to encounter several challenges consistent
+with those experienced in 2005. Some of the negative factors impacting sales results
+include (i) increased competition and aggressive price discounting by Meritage s
+primary competitors, (ii) a weak Michigan economy that has diminished the disposable
+income of our customer base, and (iii) ineffective national advertising and the lack of
+new product development. In an effort to improve customer traffic and sales, Wendy s
+International announced new menu items in the first quarter of 2006, including the
+Frescata Sandwich and three additions to its Garden Sensations salad line. In addition,
+Wendy s International announced that they will introduce breakfast in 2007. The   
+
+13   
+
+Company is optimistic that customer
+traffic and sales will strengthen in response to the roll-out and promotion of these new
+products. However, management cautions that the negative sales trend could continue into
+the second quarter as it remains difficult to accurately predict the variables affecting
+sales.   
+
+Cost of Food and
+Beverages   
+
+The
+cost of food and beverages decreased a full percentage point as a percent of sales. One
+factor in the decrease was an approximate 3% drop in average beef prices during the first
+quarter of 2006 as compared to 2005. Beef purchases represented approximately 23% of total
+food purchases in the first quarters of 2006 and 2005. Meritage also experienced a drop in
+bacon purchases stemming from recipe changes and a shift in product mix. These
+improvements were partially offset by the reintroduction of the  99 Cent Super Value
+Menu  which includes lower margin menu items. Meritage has little control over
+certain areas of its food costs as the majority of its products are purchased under
+contracts negotiated by Wendy s International. Where it maintains control, however,
+the Company has kept food costs in line with guidelines established by Wendy s
+International.   
+
+Labor and Related
+Expenses   
+
+The
+Company attempts to adjust staffing at its restaurants to correlate with changes in sales
+volumes, while at the same time maintaining a high level of service. Labor and related
+expenses decreased in the first quarter of 2006 as the Company was able to reduce its
+hourly labor in conjunction with the sales decreases. However, certain staffing costs are
+fixed in nature and cannot be reduced, regardless of sales volumes. Accordingly, as a
+percent of sales, labor costs increased by a nominal amount.   
+
+Other Operating Expenses   
+
+Operating
+expenses increased primarily due to increased rent expense from sale and leaseback
+transactions (up by $163,000) and an increase in utility costs (up by $92,000). These
+increases were partially offset by decreases to franchise fees, advertising, supplies and
+other costs that are tied to sales fluctuations.   
+
+General and
+Administrative   
+
+The
+decrease in general and administrative expense is primarily attributable to a reduction in
+professional service fees during the first quarter of fiscal 2006.   
+
+Depreciation and
+Amortization   
+
+The
+decrease in depreciation and amortization expense was mainly due to sale and leaseback
+transactions as depreciation was replaced by rent.   
+
+Interest Expense   
+
+The
+decrease in interest expense was attributable to the debt reduction from sale and
+leaseback proceeds.   
+
+14   
+
+Debt Extinguishment
+Charges   
+
+In
+the first quarter of 2005, the Company retired $5,857,000 of long-term indebtedness in
+connection with the sale and leaseback transactions. The Company incurred $418,000 in
+prepayment penalties and the related write-off of the remaining unamortized financing
+costs associated with these loans. While there was one sale and leaseback transaction in
+the first quarter of 2006, there was no retirement of debt as the debt associated with
+that store was extinguished in fiscal 2005.   
+
+Other Income   
+
+In
+the first quarter of 2006, the Company assisted the landlord of a Wendy s site to
+locate a buyer for the real property and improvements comprising that site. In exchange
+for its services, the Company received a nonrefundable finder s fee of $218,000. The
+Company also recognized a $43,000 gain upon the sale of investment securities.   
+
+O Charley s
+of Michigan Business Segment   
+
+The
+Company s five O Charley s restaurants constitute its O Charley s
+of Michigan Business Segment. Corporate level general and administrative expenses have
+been allocated to the O Charley s of Michigan Business Segment based on an
+allocation method determined by the Company. The allocation is consistent with the prior
+year amount. Results of operations are summarized below:   
+
+15   
+
+Revenue   
+
+The
+above results reflect five stores that were in operation as of February 26, 2006, and two
+stores as of February 27, 2005. Weekly sales per store in fiscal 2006 were significantly
+below original projections. As a comparison, sales on Meritage s
+O Charley s restaurants in operation during the full quarter were 32% lower than
+the franchisor s weekly sales per restaurant during its 2005 fiscal year. Some of the
+factors impacting these sales results include (i) the lack of brand awareness in our
+market due primarily to the franchisor s failure to communicate the scope of media
+and marketing required to successfully launch a new market, (ii) increased competition,
+and (iii) a weak Michigan economy that has diminished the disposable income of our
+customer base. To improve sales, the Company is planning to implement additional local
+marketing strategies.   
+
+Cost of Food and
+Beverages   
+
+As
+a percent of sales, the cost of food and beverages increased approximately 0.9 percentage
+points as compared to last year. With the exception of fresh produce and dairy products,
+the Company buys nearly all of its food products from a commissary operated by
+O Charley s Inc. The Company purchases much of its product on a  cost
+plus  basis. Accordingly, Meritage relies upon its franchisor to forward buy some of
+the commodities for which there are predictable, seasonal price fluctuations.   
+
+Pre-opening Costs   
+
+Start-up
+and pre-opening costs are estimated at $200,000 per store and include, but are not limited
+to, (i) payroll and payroll related expenses of training store management, (ii) travel and
+related costs of new store opening teams, (iii) food giveaways during pre-opening
+activities and (iv) recruiting. The pre-opening costs between the first quarters of 2005
+and 2006 were comparable as one store was opened in each respective quarter.   
+
+Labor and Related
+Expenses   
+
+As
+a percent of sales, labor and related expenses decreased due to (i) the efficient
+management of hourly labor as our stores mature, and (ii) a decrease in accrued store
+bonuses.   
+
+Other Operating Expenses   
+
+Other
+operating expense increased by $404,000 due to the addition of new stores but decreased as
+a percent of sales from 30.1% to 29.6%. The decrease as a percent of sales is attributable
+to many factors primarily relating to efficiencies realized with additional stores.   
+
+General and
+Administrative   
+
+In
+advance of opening its first O Charley s store, the Company hired a management
+staff to support the required store growth. This led to a high general and administrative
+expense in comparison to sales. Because the infrastructure was already in place to support
+growth, additional general and administrative expenses have been minimal as more stores
+have been added. However, because sales have been lower than projected, the Company has
+taken steps to reduce general and administrative costs (see Liquidity and Capital
+Resources below).   
+
+16   
+
+Depreciation and
+Amortization   
+
+The
+increase in depreciation and amortization expense was mainly due to the increased number
+of stores in operation.   
+
+Interest Expense   
+
+The
+Company s long-term indebtedness increased as more stores were opened, thus resulting
+in an increase in interest expense. Additionally, this indebtedness is at variable
+interest rates which have been steadily rising during this period.   
+
+Consolidated Operations   
+
+Income Tax Expense   
+
+In
+accordance with SFAS No. 109,  Accounting for Income Taxes , the
+Company regularly assesses the realizability of its deferred tax assets. Based on this
+assessment and the recent cumulative pre-tax losses, the Company has fully reserved its
+deferred tax asset.  
+
+Liquidity and Capital
+Resources     
+
+Cash Flows   
+
+Cash
+and cash equivalents ( cash ) decreased $620,000, to $1,184,000, during the
+three months ended February 26, 2006.   
+
+Net
+cash used in operating activities was $993,000, compared to $1,683,000 during the same
+period in 2005, an improvement of $690,000. The improvement was due to (i) a $422,000
+reduction of the net loss, after adjustments to reconcile net earnings to net cash
+provided by operating activities but exclusive of changes in current assets and
+liabilities, and (ii) a $788,000 decrease in current assets in the first quarter 2006
+compared to a $98,000 increase during the first quarter of 2005. The cash increase from
+these two items was offset by a 2006 first quarter net decrease in the current liabilities
+of $994,000 as compared to a net decrease of $375,000 in the first quarter of 2005.   
+
+Net
+cash used in investing activities decreased $634,000, primarily due to the $546,000
+reduction in purchases of property and equipment.   
+
+Compared
+to the first quarter of 2005, net cash provided by financing activities decreased
+$3,399,000. This decrease was due to (i) an $8,672,000 reduction in proceeds from sale and
+leaseback transactions, and (ii) a decrease of $962,000 in proceeds from long-term
+obligations. At the same time, the principal payment of debt was $6,187,000 less when
+compared to the same period last year (primarily the result of sale and leaseback
+transactions).   
+
+Financial Condition   
+
+Prior
+to preferred stock dividends of $213,000, the Company incurred a net loss of $1,273,000
+during the first quarter of fiscal 2006. Results continue to be unfavorably impacted by
+(i) weak performances by both the Wendy s and O Charley s brands, (ii) a
+sluggish Michigan economy which ranks among the worst in the United States, (iii) intense
+price discounting by competitors, (iv) high fuel and energy costs that have diminished the
+disposable income of the Company s customer base, and (v) early   
+
+17   
+
+operating investments in the
+O Charley s concept. Where it maintains control, the Company has been successful
+in minimizing costs and maintaining quality store operations.   
+
+Since
+September 2004, the Company completed seventeen sale and leaseback transactions (three in
+fiscal 2004, thirteen in fiscal 2005 and one in fiscal 2006). The Company collected
+$26,435,000 in net proceeds, used $14,667,000 to pay down long-term indebtedness and
+deposited $10,978,000 into the Company s treasury. The sales resulted in deferred
+gains of $11,085,000 which are being amortized over the 20-year lease terms and recorded
+as a reduction of base rent expense. The related early pay down of long-term indebtedness
+resulted in finance charges of $1,055,000.   
+
+Subject
+to market conditions, the Company may enter into as many as seventeen additional sale and
+leaseback transactions containing similar terms, and with related charges and deferred
+gains. The Company anticipates that it would use approximately 60% of the pre-tax proceeds
+to pay off long-term debt, with remaining net proceeds being deposited into the
+Company s treasury and available for general corporate purposes, including new
+restaurant development.   
+
+Prior
+to 2005, the Company relied upon its Wendy s operations to support its corporate
+level overhead and meet its cash requirements and other commitments. However, due to
+losses in fiscal 2005 and the first quarter of 2006, the Company s operational cash
+flow has not been sufficient to cover its operating expenses. As a result, the Company has
+utilized a portion of the proceeds from the sale and leaseback transactions to support its
+ongoing operations.   
+
+The
+Company has several possible financing sources available in the event that operations do
+not improve. These include (i) potential proceeds from sale and leaseback transactions,
+(ii) $927,000 in notes receivable coming due in fiscal 2006, and (iii) a $5,000,000
+forward financing commitment. Other options include deferring new store openings and
+capital expenditures, and financing or leasing new restaurants or equipment packages.   
+
+New
+menu offerings and advertising campaigns undertaken by Wendy s International should
+strengthen fiscal 2006 sales. Meritage is hopeful that O Charley s Inc. will
+also undertake measures to enhance its brand reputation and increase sales. In the
+meantime, the Company has reduced its overhead costs through labor reductions and
+investments in technology. Between November 2005 and March 2006, the Company eliminated
+and realigned management and administrative positions throughout its organization.
+Additionally, the Company s Board of Directors consolidated the Chief Operating
+Officer position into its existing officer base. These efforts are expected to result in
+annual savings of approximately $600,000 on a consolidated basis.   
+
+The
+Company anticipates that it will have sufficient cash to meet its obligations for at least
+the next twelve months. However, there can be no assurances that the Company will have
+sufficient capital to meet its short-term and long-term cash requirements if operational
+results do not improve or the possible cash sources detailed above do not yield the
+expected results.   
+
+At
+February 26, 2006, the Company s working capital ratio (current assets to current
+liabilities) was 0.41:1, versus 0.60:1 at November 27, 2005. Working capital is typically
+negative as trade receivables and inventories are insignificant due to the transactional
+nature of the business and the perishable nature of the inventory. However, the
+Company s cash reserves are lower than historical averages and the Company has taken
+the steps outlined above to reduce costs where it is able.   
+
+18   
+
+Some
+of Meritage s loans and franchise agreements contain covenants requiring the
+maintenance of certain financial ratios. The Company regularly reviews and analyzes its
+covenants to ensure compliance. At February 26, 2006, the Company was in compliance with
+all covenants. However, due to operational issues outlined above, the margin of compliance
+related to certain financial ratios has become increasingly narrow in recent months. If
+these operational trends continue, the Company could fall out of compliance with such
+ratios. Through its sale and leaseback transactions, the Company has continued to reduce
+its long-term obligations which also minimizes debt compliance concerns.   
+
+The
+Company currently has plans to open one additional Wendy s restaurant and one
+additional O Charley s restaurant in fiscal 2006. Under its development
+agreement with O Charley s Inc., the Company is required to open a minimum of
+ten additional restaurants by July 2010; one in 2006, two in 2007, three each in 2008 and
+2009 and one in 2010. The Company estimates that the total cost to open the additional
+O Charley s restaurants will be approximately $28 to $32 million, or
+approximately $2.8 to $3.2 million per restaurant, with land and site development being
+the significant variables. Once constructed, these sites may provide the opportunity to
+enter into additional sale and leaseback transactions. The Company already owns the land
+for the additional O Charley s restaurant planned for 2006.   
+
+Meritage s
+expansion into the casual dining restaurant segment as a franchisee of
+O Charley s Inc. subjects Meritage to various business and financial risks
+including, without limitation, (i) unanticipated expenses or difficulties in securing
+acceptance of the O Charley s brand (there currently is no national advertising
+program in Michigan), (ii) the ability to successfully implement the O Charley s
+development plan in Michigan, (iii) Meritage s limited experience in the casual
+dining segment, and (iv) O Charley s Inc. s limited experience as a
+franchisor. Failure or delay in completing the 15-store restaurant development agreement
+could have an adverse effect on the Company s financial condition.   
+
+The
+Company has a forward financing commitment totaling $5,000,000 that it may, but is not
+required to, utilize to finance the land and building for future O Charley s
+restaurants. The commitment requires a minimum 15% equity investment by the Company of
+appraised site and construction value. The commitment is for 10-year real estate mortgages
+(20-year amortization) at interest rates defined in the loan commitment and allows the
+Company to select either a fixed or variable interest rate. The commitments do not
+contractually obligate the Company to borrow on any of the commitments as such loans are
+made on a restaurant-by-restaurant basis.   
+
+The
+Company maintains a $2,600,000 credit facility comprised of two lines of credit, one for
+general working capital purposes in the amount of $600,000 secured by inventory and
+equipment of seven Wendy s restaurants and certain other receivables, and one for
+restaurant development purposes in the amount of $2,000,000 secured by real estate
+purchased with this facility. Commitments under the working capital and restaurant
+development lines expire in April 2006 and April 2007, respectively, and require monthly
+payments of interest only at a rate equal to the prime rate plus 0.25%. There were no
+outstanding balances under the credit facility at February 26, 2006. In December 2005, the
+Company borrowed $769,000 against the $2,000,000 line to purchase a land parcel for the
+development of an O Charley s restaurant. That amount is still outstanding.   
+
+In
+March 2006, Michigan passed legislation increasing the state s minimum wage from
+$5.15 per hour to $6.95 per hour in October 2006, $7.15 per hour in July 2007 and $7.40
+per hour in July 2008. While labor costs are likely to increase, the Company is not able
+to fully assess the overall impact as several additional factors, which are not yet
+determinable, will need to be considered (e.g., the impact on employees earning higher
+wages that are likely to increase as result of the minimum wage increase, potential labor
+force reductions, competitor responses, potential menu pricing increases, etc.).   
+
+19   
+
+Critical Accounting
+Policies    
+
+The
+Company s discussion and analysis of its financial condition and results of
+operations are based upon the Company s consolidated financial statements, which have
+been prepared in accordance with accounting principles generally accepted in the United
+States. The preparation of these consolidated financial statements requires management to
+make estimates and assumptions that affect the reported amounts of assets, liabilities,
+revenues and expenses. The significant accounting policies are discussed in Note A of the
+Company s consolidated financial statements and footnotes thereto and
+management s discussion and analysis of financial condition and results of operations
+included in Meritage s Annual Report on Form 10-K for the fiscal year ended November
+27, 2005. Certain of these accounting policies are subject to judgments and uncertainties,
+which affect the application of these policies. The Company bases its estimates on
+historical experience and other assumptions believed to be reasonable under the
+circumstances. The Company evaluates its estimates on an on-going basis. In the event
+estimates or assumptions prove to be different from actual results, adjustments are made
+in subsequent periods to reflect more current information. Management believes that any
+subsequent revisions to estimates used would not have a material effect on the financial
+condition or results of operations of the Company.   
+
+The
+Company adopted the provisions of SFAS 123(R) at the beginning of the first quarter ended
+February 26, 2006. Under SFAS 123(R), an entity is required to measure the cost of
+employee services received in exchange for an award of equity instruments based on the
+grant-date fair value of the award, with such cost recognized over the applicable vesting
+period. On October 25, 2005, the Company s Compensation Committee accelerated the
+vesting of all outstanding and unvested employee stock options. Had these vesting periods
+not been accelerated, in accordance with SFAS 123(R), the Company would have recognized
+approximately $1,135,000 in cumulative expense spread over the subsequent four years
+beginning in fiscal 2006. The Company recorded an expense of $8,797 related to options
+issued in the first quarter of 2006.   
+
+Item 3.    Quantitative and
+Qualitative Disclosures About Market Risk.   
+
+Because
+all of Meritage s operations are in the United States, currency exposure is
+eliminated. All of Meritage s debt is in U.S. dollars and approximately 64% of its
+debt is at fixed interest rates which limits exposure to interest rate fluctuation.
+Accordingly, Meritage does not utilize any derivatives to alter interest rate risk. In the
+normal course of business, Meritage purchases certain products (primarily food items) that
+can be affected by fluctuating commodity prices. Most of these products are purchased
+under agreements negotiated by the Company s franchisors that are outside of
+Meritage s control. It is the Company s understanding that its franchisors
+utilize various purchasing and pricing techniques in an effort to minimize volatility.   
+
+Item 4.    Controls and
+Procedures.   
+
+As
+of February 26, 2006, an evaluation was completed under the supervision and with the
+participation of the Company s management as to the effectiveness of the design and
+operation of the Company s disclosure controls and procedures. Based on that
+evaluation, the Company s management concluded that the Company s disclosure
+controls and procedures were effective as of February 26, 2006. There have been no changes
+to the Company s internal control over financial reporting identified in connection
+with the evaluation required by Regulation 13a-15(d) that occurred during the first fiscal
+quarter that has materially affected, or is reasonably likely to materially affect,
+Meritage s internal control over financial reporting.   
+
+20   
+
+PART II OTHER INFORMATION   
+
+Item 2.     Unregistered
+Sales of Equity Securities and Use of Proceeds.   
+
+(c)       
+          The following table summarizes Meritage s purchases of its common shares,
+          par value $0.01 per share, for the quarter ending February 26, 2006:   
+
+Issuer Purchases of
+Equity Securities   
+
+(1)  
+            
+          In August 1999, the Board of Directors authorized the Company to repurchase from
+          time to time, subject to capital availability, up to 200,000 shares of
+          Meritage s common stock through open market transactions or otherwise. This
+          program was announced in November 1999. In February 2002, the Board authorized
+          the repurchase of up to an additional 200,000 common shares under this program.
+          The additional authorization of share purchases was announced in February 2002.
+          There is no expiration date relating to this program, but the Board is permitted
+          to rescind the program at any time.   
+
+Item 5.    Other
+Information.   
+
+The
+Company opened its fifth O Charley s restaurant during the first fiscal quarter.
+The new restaurant is located in Belleville, Michigan. The opening brings to 53 the total
+number of Meritage s restaurants in operation.   
+
+During
+the first fiscal quarter of 2006, the Company declared and paid a $0.06 per common share
+dividend to all shareholders of record as of January 27, 2006. This dividend marks a 20%
+increase over the cash dividend paid in January 2005.   
+
+21   
+
+Item 6.    Exhibits.   
+
+(a)       
+           Exhibit List .   
+
+Exhibits filed herewith.   
+
+SIGNATURES   
+
+Pursuant
+to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused
+this report to be signed on its behalf by the undersigned thereunto duly authorized.   
+
+Dated:    March 29, 2006
+
+MERITAGE HOSPITALITY GROUP INC.
+
+By  /s/ Robert E. Schermer, Jr.           
+     Robert E. Schermer, Jr. 
+     Chief Executive Officer   
+
+By  /s/ Gary A. Rose                     
+      
+     Gary A. Rose 
+     Chief Financial Officer
+
+22   
+
+EXHIBIT INDEX   
+
+Exhibits filed herewith.   
+
+23   
+
+<EX-31>
+ 2
+ ex311022606.htm
+ EXHIBIT 31.1
+
+Exhibit 31.1 
+
+Exhibit 31.1   
+
+Certification of
+Principal Executive Officer Pursuant to Securities
+and Exchange Act Rule
+13a-14(a)/15d-14(a)   
+
+I, Robert E. Schermer, Jr., the principal executive officer of Meritage
+Hospitality Group Inc., certify that:   
+
+1.   
+  I
+have reviewed this quarterly report on Form 10-Q of Meritage Hospitality Group
+          Inc.;    
+
+2.   
+  Based
+on my knowledge, this report does not contain any untrue statement of a
+          material fact or omit to state a material fact necessary to make the statements
+          made, in light of the circumstances under which such statements were made, not
+          misleading with respect to the period covered by this report;    
+
+3.   
+  Based
+on my knowledge, the financial statements, and other financial information
+          included in this report, fairly present in all material respects the financial
+          condition, results of operations and cash flows of the registrant as of, and
+          for, the periods presented in this report;    
+
+4.   
+  The
+registrant s other certifying officers and I are responsible for
+          establishing and maintaining disclosure controls and procedures (as defined in
+          Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have:    
+
+(a)    
+  Designed
+such disclosure controls and procedures, or caused such disclosure           controls and
+procedures to be designed under our supervision, to ensure that           material
+information relating to the registrant, including its consolidated
+          subsidiaries, is made known to us by others within those entities, particularly
+          during the period in which this report is being prepared;    
+
+(c)    
+  Evaluated
+the effectiveness of the registrant s disclosure controls and           procedures
+and presented in this report our conclusions about the effectiveness           of the
+disclosure controls and procedures, as of the end of the period covered           by this
+report based on such evaluation; and    
+
+(d)    
+  Disclosed
+in this report any change in the registrant s internal control           over
+financial reporting that occurred during the registrant s most recent
+          fiscal quarter (the registrant s fourth fiscal quarter in the case of an
+          annual report) that has materially affected, or is reasonably likely to
+          materially affect, the registrant s internal control over financial
+          reporting; and    
+
+5.   
+  The
+registrant s other certifying officer(s) and I have disclosed, based on
+          our most recent evaluation of internal control over financial reporting, to the
+          registrant s auditors and the audit committee of registrant s board
+of           directors (or persons performing the equivalent functions):    
+
+(a)    
+  All
+significant deficiencies and material weaknesses in the design or operation           of
+internal control over financial reporting which are reasonably likely to
+          adversely affect the registrant s ability to record, process, summarize
+and           report financial information; and    
+
+(b)    
+  Any
+fraud, whether or not material, that involves management or other employees           who
+have a significant role in the registrant s internal control over
+          financial reporting.    
+
+Dated:   March 29, 2006  
+
+/s/Robert E. Schermer, Jr.                
+Robert E. Schermer, Jr. Principal Executive Officer  
+
+</EX-31>
+
+<EX-31>
+ 3
+ ex312022606.htm
+ EXHIBIT 31.2
+
+Exhibit 31.2 
+
+Exhibit 31.2   
+
+Certification of
+Principal Financial Officer Pursuant to Securities
+and Exchange Act Rule
+13a-14(a)/15d-14(a)   
+
+I, Gary A. Rose, the principal
+financial officer of Meritage Hospitality Group Inc., certify that:   
+
+1.   
+  I
+have reviewed this quarterly report on Form 10-Q of Meritage Hospitality Group
+          Inc.;    
+
+2.   
+  Based
+on my knowledge, this report does not contain any untrue statement of a
+          material fact or omit to state a material fact necessary to make the statements
+          made, in light of the circumstances under which such statements were made, not
+          misleading with respect to the period covered by this report;    
+
+3.   
+  Based
+on my knowledge, the financial statements, and other financial information
+          included in this report, fairly present in all material respects the financial
+          condition, results of operations and cash flows of the registrant as of, and
+          for, the periods presented in this report;    
+
+4.   
+  The
+registrant s other certifying officer(s) and I are responsible for
+          establishing and maintaining disclosure controls and procedures (as defined in
+          Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have:    
+
+(a)    
+  Designed
+such disclosure controls and procedures, or caused such disclosure           controls and
+procedures to be designed under our supervision, to ensure that           material
+information relating to the registrant, including its consolidated
+          subsidiaries, is made known to us by others within those entities, particularly
+          during the period in which this report is being prepared;    
+
+(c)    
+  Evaluated
+the effectiveness of the registrant s disclosure controls and           procedures
+and presented in this report our conclusions about the effectiveness           of the
+disclosure controls and procedures, as of the end of the period covered           by this
+report based on such evaluation; and    
+
+(d)    
+  Disclosed
+in this report any change in the registrant s internal control           over
+financial reporting that occurred during the registrant s most recent
+          fiscal quarter (the registrant s fourth fiscal quarter in the case of an
+          annual report) that has materially affected, or is reasonably likely to
+          materially affect, the registrant s internal control over financial
+          reporting; and    
+
+5.   
+  The
+registrant s other certifying officer(s) and I have disclosed, based on
+          our most recent evaluation of internal control over financial reporting, to the
+          registrant s auditors and the audit committee of registrant s board
+of           directors (or persons performing the equivalent functions):    
+
+(a)    
+  All
+significant deficiencies and material weaknesses in the design or operation           of
+internal control over financial reporting which are reasonably likely to
+          adversely affect the registrant s ability to record, process, summarize
+and           report financial information; and    
+
+(b)    
+  Any
+fraud, whether or not material, that involves management or other employees           who
+have a significant role in the registrant s internal control over
+          financial reporting.    
+
+Dated:   March 29, 2006  
+
+/s/Gary A. Rose                
+Gary A. Rose Principal Financial Officer  
+
+</EX-31>
+
+<EX-32>
+ 4
+ ex321022606.htm
+ EXHIBIT 32.1
+
+Exhibit 32.1 
+
+Exhibit 32.1   
+
+Certification of Chief
+Executive Officer Pursuant to 18 U.S.C.
+  1350, as adopted pursuant to   906 of the
+Sarbanes-Oxley Act of 2002   
+
+In
+connection with the filing with the Securities and Exchange Commission of the Quarterly
+Report of Meritage Hospitality Group Inc. (the  Company ) on Form 10-Q for the
+period ending February 26, 2006 (the  Report ), I, Robert E Schermer, Jr., Chief
+Executive Officer of the Company, certify, pursuant to 18 U.S.C.   1350, as adopted
+pursuant to   906 of the Sarbanes-Oxley Act of 2002, that to the best of my
+knowledge:   
+
+(1)   
+            
+          The Report fully complies with the requirements of section 13(a) or 15(d) of the
+          Securities Exchange Act of 1934; and   
+
+(2)   
+            
+          The information contained in the Report fairly presents, in all material
+          respects, the financial condition and results of operations of the Company.   
+
+Dated:  March 29, 2006  
+    
+  MERITAGE HOSPITALITY GROUP INC.  
+ BY: /s/Robert E. Schermer, Jr. 
+                     
+      Robert E. Schermer, Jr. 
+      Chief Executive Officer  
+
+A
+signed original of this written statement required by  906 has been provided to the
+Company and will be retained by the Company and furnished to the Securities   Exchange
+Commission or its staff upon request.   
+
+</EX-32>
+
+<EX-32>
+ 5
+ ex322022606.htm
+ EXHIBIT 32.2
+
+Exhibit 32.2 
+
+Exhibit 32.2   
+
+Certification of Chief
+Financial Officer Pursuant to 18 U.S.C.
+  1350, as adopted pursuant to   906 of the
+Sarbanes-Oxley Act of 2002   
+
+In
+connection with the filing with the Securities and Exchange Commission of the Quarterly
+Report of Meritage Hospitality Group Inc. (the  Company ) on Form 10-Q for the
+period ending February 26, 2006 (the  Report ), I, Gary A. Rose, Chief Financial
+Officer of the Company, certify, pursuant to 18 U.S.C.   1350, as adopted pursuant to
+  906 of the Sarbanes-Oxley Act of 2002, that to the best of my knowledge:   
+
+(1)   
+            
+          The Report fully complies with the requirements of section 13(a) or 15(d) of the
+          Securities Exchange Act of 1934; and   
+
+(2)   
+            
+          The information contained in the Report fairly presents, in all material
+          respects, the financial condition and results of operations of the Company.   
+
+Dated:  March 29, 2006  
+    
+  MERITAGE HOSPITALITY GROUP INC.  
+ By: /s/Gary A. Rose 
+                     
+      Gary A. Rose 
+      Chief Financial Officer  
+
+A
+signed original of this written statement required by  906 has been provided to the
+Company and will be retained by the Company and furnished to the Securities   Exchange
+Commission or its staff upon request.   
+
+</EX-32>
+

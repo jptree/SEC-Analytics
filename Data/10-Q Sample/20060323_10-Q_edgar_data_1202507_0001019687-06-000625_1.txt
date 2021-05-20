@@ -1,0 +1,1819 @@
+<Header>
+<FileStats>
+    <FileName>20060323_10-Q_edgar_data_1202507_0001019687-06-000625_1.txt</FileName>
+    <GrossFileSize>128774</GrossFileSize>
+    <NetFileSize>97396</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>350</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>6</N_Tables>
+    <N_Exhibits>3</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001019687-06-000625.hdr.sgml : 20060323
+<ACCEPTANCE-DATETIME>20060323165007
+ACCESSION NUMBER:		0001019687-06-000625
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20051231
+FILED AS OF DATE:		20060323
+DATE AS OF CHANGE:		20060323
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PPOL INC
+		CENTRAL INDEX KEY:			0001202507
+		STANDARD INDUSTRIAL CLASSIFICATION:	TELEPHONE & TELEGRAPH APPARATUS [3661]
+		IRS NUMBER:				954436774
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-50065
+		FILM NUMBER:		06706577
+
+	BUSINESS ADDRESS:	
+		STREET 1:		11661 SAN VICENTE BOULEVARD, #901
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90049
+		BUSINESS PHONE:		310-979-8513
+
+	MAIL ADDRESS:	
+		STREET 1:		11661 SAN VICENTE BOULEVARD, #901
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90049
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ ITkPDIA7ZvSXocpQIcOTfLxQPXErscEufNJupeiTGlstxsBhnM5szeMcIEUfwgR5
+ r2XKaq8Pd/gX6Z+22RkZuQ==
+
+ 0001019687-06-000625.txt : 20060323
+
+10-Q
+ 1
+ ppol_10q-123105.txt
+
+UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 10-Q
+
+Mark one:
+
+[X]      QUARTERLY REPORT UNDER SECTION 13 OR 15 (d) OF THE SECURITIES EXCHANGE
+         ACT OF 1934
+
+                       For Quarter Ended December 31, 2005
+
+                                       OR
+
+[ ]      TRANSITION REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES
+         EXCHANGE ACT OF 1934.
+
+                    For the transition period from to _______
+
+                        Commission File Number 000-50065
+
+                                   PPOL, Inc.
+- --------------------------------------------------------------------------------
+             (Exact name of registrant as specified in its charter.)
+
+         California                                         95-4436774
+         ----------                                         ----------
+(State of Incorporation)                       (IRS Employer Identification No.)
+
+1 City Boulevard West, Suite 820, Orange, California              92868
+- ----------------------------------------------------              -----
+         (Address of principal executive offices)               (Zip Code)
+
+Registrant's telephone number, including area code   (714) 937-3211
+                                                     --------------
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15 (d) of the Securities Exchange Act of 1934
+during the preceding 12 months (or for such shorter period that the registrant
+was required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.
+
+         Yes [X]           No [ ]
+             ---              ---
+
+Indicate the number of shares outstanding of each of the issuer's classes of
+common stock, as of the latest practicable date.
+
+Common Stock $0.001 par value                            20,542,881
+- -----------------------------                -----------------------------------
+         (Class)                              (Outstanding at February 14, 2006)
+
+6
+
+PPOL, INC.
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+                                   (UNAUDITED)
+
+(1)  ORGANIZATION AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES:
+
+     ORGANIZATION:
+
+          PPOL, Inc. ("PPOL" or "the Company") incorporated on May 19, 1993 in
+          California. On August 15, 2002, the Company amended its articles of
+          incorporation to increase its authorized shares of common stock from
+          10,000,000 to 100,000,000, to change its name to PPOL, Inc. and to
+          effect a 1 for 7 reverse stock split. All share data presented in
+          these consolidated financial statements reflect the reverse stock
+          split.
+
+          Effective April 1, 2002, AJOL Co., Ltd. ("AJOL") was acquired by PPOL
+          in a transaction accounted for as a reverse merger. The Company, upon
+          closing of the transaction on August 15, 2002, issued 899,746 shares
+          (post split) of its common stock for all of the issued and outstanding
+          common stock of AJOL. For legal purposes, PPOL is the acquirer. For
+          accounting purposes, AJOL has been treated as the acquirer and
+          accordingly, AJOL is presented as the continuing entity, and the
+          historical financial statements are those of AJOL. Prior to the
+          reverse merger PPOL had no business activity, thus pro-forma
+          information as though PPOL and AJOL had been combined for all periods
+          has not been provided.
+
+          AJOL is primarily engaged in sales of multi-functional
+          telecommunications equipment called MOJICO. AJOL distributes MOJICO
+          throughout Japan through a network marketing system of registered
+          distributors located throughout Japan that introduces purchasers to
+          AJOL. Using MOJICO, AJOL provides original telecommunication services
+          called "Pan Pacific Online," including MOJICO bulletin board and mail
+          services. AJOL also provides various other on-line services through
+          Pan Pacific Online such as ticket and mail-order services. These sales
+          and services are provided in Japan.  It is also expected to be
+          involved in the business of planning, development, sales and
+          marketing, and import/export of telephones, fax machines, copiers,
+          computer and peripheral equipment.
+
+          On May 30, 2005, the Company completed the acquisition of K.K. U
+          Service, a Japanese corporation ("USC") based in Tokyo, Japan.
+          Pursuant to the Purchase Agreement dated May 30, 2005, by and between
+          the Company, USC and K.K. Green Capital, a Japan corporation (the
+          "Seller"), the Company purchased from the Seller all of the issued and
+          outstanding shares of USC in exchange for an amount equal to
+          $3,522,422 (JPY380,000,000). At the end of the third quarter, USC
+          was merged into AJOL.
+
+     BASIS OF PRESENTATION:
+
+          The unaudited consolidated financial statements have been prepared by
+          PPOL, Inc. (the "Company"), pursuant to the rules and regulations of
+          the Securities and Exchange Commission ("SEC"). Certain information
+          and footnote disclosures normally present in annual consolidated
+          financial statements prepared in accordance with accounting principles
+          generally accepted in the United States of America have been omitted
+          pursuant to such rules and regulations. The information furnished
+          herein reflects all adjustments (consisting of normal recurring
+          accruals and adjustments), which are, in the opinion of management,
+          necessary to fairly present the operating results for the prospective
+          periods. These consolidated financial statements should be read in
+          conjunction with the audited consolidated financial statements and
+          footnotes for the years ended March 31, 2005 and 2004 included in the
+          Company's Form 10-K. The results of the nine months ended December 31,
+          2005 are not necessarily indicative of the results to be expected for
+          the full year ending March 31, 2006.
+
+7
+
+PRINCIPLES OF CONSOLIDATION:
+
+          The consolidated financial statements include accounts of PPOL, Inc.
+          and its wholly owned subsidiary, AJOL. All significant intercompany
+          balances and transactions have been eliminated upon consolidation.
+
+     RESTATEMENT:
+
+          We have determined that Goodwill was understated by $205,991 at
+          acquisition of USC (Note 2) on May 30, 2005. The impact of the
+          understatement of Goodwill on the financial statements for the
+          quarters ended June 30, 2005 and September 30, 2005 were as follows:
+
+NET (LOSS) INCOME PER SHARE:
+
+          The Company reports both basic net income per share, which is based on
+          the weighted average number of common shares outstanding, and diluted
+          net income per share, which is based on weighted average number of
+          common shares outstanding and dilutive potential common shares.
+          Diluted earnings (loss) per share is computed similar to basic
+          earnings (loss) per share except that the numerator is increased by
+          the amount of interest expense attributable to any convertible notes
+          payable and the denominator is increased to include the number of
+          additional common shares that would have been outstanding if the
+          potential common shares had been issued and if the additional common
+          shares were dilutive. For the three months ended December 31, 2005,
+          all of the 1,300,000 issued and outstanding common stock options have
+          also been excluded as they would have an antidilutive effect.
+
+     STOCK BASED COMPENSATION:
+
+          The Company grants stock options with an exercise price equal to at
+          least the fair value of the stock at the date of grant. The Company
+          has elected to continue to account for its employee stock-based
+          compensation plans using an intrinsic value-based method of accounting
+          prescribed by Accounting Principles Board Opinion No. 25, "Accounting
+          for Stock Issued to Employees" ("APB 25") and related Interpretations.
+          Under APB 25, because the exercise price of the Company's employee
+          stock options equals or exceeds the market price of the underlying
+          stock on the date of grant, no compensation expense is recognized.
+
+          The Company has adopted only the disclosure provisions of Statement of
+          Financial Accounting Standards ("SFAS") No. 123, "Accounting for
+          Stock-Based Compensation." It applies APB 25 and related
+          interpretations in accounting for its Stock Option Plan and does not
+          recognize compensation expense for its Stock Option Plan other than
+          for restricted stock and options issued to outside third parties.
+
+          The Company uses the Black-Scholes option valuation model. The
+          Black-Scholes option valuation model was developed for use in
+          estimating the fair value of traded options which have no vesting
+          restrictions and are fully transferable. In addition, option valuation
+          models require the input of highly subjective assumptions including
+          the expected stock price volatility. Because the Company's employee
+          stock options have characteristics significantly different from those
+          of traded options, and because changes in the subjective input
+          assumptions can materially affect the fair value estimate, in
+          management's opinion, the existing models do not necessarily provide a
+          reliable single measure of the fair value of employee stock options.
+
+          Pro forma information using the Black-Scholes method at the date of
+          grant was based on the following assumptions: average risk free
+          interest rate of 4.34% for 2005 and 2004; dividend yield of 0.0% for
+          each of the years 2005 and 2004; average volatility factor of the
+          expected market price of the Company's common stock of 251% for 2005
+          and 216% 2004; and an expected life of the options of 9 years for 2005
+          and 10 years for 2004.
+
+8
+
+Had compensation cost for the Company's stock-based compensation
+          plans been determined based on the fair value at the grant dates for
+          awards under those plans consistent with the method of FASB Statement
+          123R, the Company's net income and earnings per share would have been
+          reduced to the pro forma amounts indicated below:
+
+Nine months ended
+                                                                 December 31:
+                                                                2005       2004
+                                                              --------    ------
+Net income (loss) as reported (in thousands $)                  (3,877)    (935)
+Stock compensation calculated under APB25 (in thousands $)          --       --
+Stock compensation calculated under SFAS 123 (in thousands $)     (815)    (751)
+                                                              --------   ------
+Pro forma (in thousands $)                                      (4,692)  (1,686)
+                                                              ========   ======
+
+Basic earnings per share as reported                           (0.19)   (0.05)
+Pro forma                                                      (0.23)   (0.09)
+Diluted earnings per share as reported                         (0.19)   (0.05)
+Pro forma                                                      (0.23)   (0.09)
+
+          On December 16, 2004, the Financial Accounting Standards Board
+          ("FASB") issued Statement No. 123 (revised 2004), "Share-Based
+          Payment," which is a revision of Statement 123. Statement 123(R)
+          supersedes Opinion 25, and amends FASB Statement No. 95, Statement of
+          Cash Flows. Generally, the approach in Statement 123(R) is similar to
+          the approach described in SFAS No. 123. However, SFAS No. 123(R)
+          generally requires share-based payments to employees, including grants
+          of employee stock options and purchases under employee stock purchase
+          plans, to be recognized in the statement of operations based on their
+          fair values. Pro forma disclosure of fair value recognition will no
+          longer be an alternative.
+
+          SFAS No. 123(R) permits public companies to adopt its requirements
+          using one of two methods:
+
+          o         Modified prospective method: Compensation cost is recognized
+                    beginning with the effective date of adoption (a) based on
+                    the requirements of SFAS No. 123(R) for all share-based
+                    payments granted after the effective date of adoption and
+                    (b) based on the requirements of SFAS No. 123 for all awards
+                    granted to employees prior to the effective date of adoption
+                    that remain unvested on the date of adoption.
+
+          o         Modified retrospective method: Includes the requirements of
+                    the modified prospective method described above, but also
+                    permits restatement using amounts previously disclosed under
+                    the pro forma provisions of SFAS No. 123 either for (a) all
+                    prior periods presented or (b) prior interim periods of the
+                    year of adoption.
+
+          In April 2005, the SEC announced that the effective transition date
+          for SFAS No. 123(R) would be extended to annual periods beginning
+          after June 15, 2005. We are required to adopt this new standard on
+          April 1, 2006, with early-adoption permitted.
+
+     SOFTWARE:
+
+          Research and development costs are charged to expense as incurred.
+          However, the costs incurred for the development of computer software
+          that will be sold, leased or otherwise marketed are capitalized when
+          technological feasibility has been established. These capitalized
+          costs are subject to an ongoing assessment of recoverability.
+
+          Amortization of capitalized software development costs begins when the
+          product is available for general release. Amortization is provided on
+          a product-by-product basis on either the straight-line method or the
+          sales ratio method. Unamortized capitalized software development costs
+          determined to be in excess of net realizable value of the product are
+          expensed immediately.
+
+                                       9
+
+During the nine months ended December 31, 2005, it was decided that
+          the best course of action was to integrate the operations of USC and
+          AJOL rather than have two separately run organizations. Within this
+          framework, it was determined that we should abandon certain software
+          projects that were being undertaken by USC. Accordingly, approximately
+          $0.7 million in software was expensed during the nine months ended
+          December 31, 2005.
+
+     RECLASSIFICATIONS
+
+          Reclassifications have been made to the financial statements for the
+          nine months ended December 31, 2004 to conform to presentation for the
+          nine months ended December 31, 2005.
+
+     RECENT ACCOUNTING PRONOUNCEMENTS:
+
+          On May 2005, FASB issued SFAS No. 154, "Accounting Changes and Error
+          Corrections-A Replacement of APB Opinion No. 20 and FASB Statement No.
+          3." SFAS No. 154 applies to all voluntary changes in accounting
+          principle and requires retrospective application to prior periods'
+          financial statements of changes in accounting principle, unless it is
+          impracticable. SFAS No. 154 requires that a change in depreciation,
+          amortization or depletion method for long-lived, non-financial assets
+          be accounted for as a change of estimate affected by a change in
+          accounting principle. SFAS No. 154 also carries forward without change
+          the guidance in APB Opinion No. 20 with respect to accounting for
+          changes in accounting estimates, changes in the reporting unit and
+          correction of an error in previously issued financial statements. The
+          Company is required to adopt SFAS No. 154 for accounting changes and
+          corrections of errors made in fiscal years beginning after December
+          15, 2005. The adoption of SFAS No. 154 is not expected to have a
+          material effect on the Company's consolidated financial position or
+          results of operations.
+
+          On June 29, 2005, the FASB ratified the Emerging Issues Task Force's
+          ("EITF's") Issue No. 05-06, "Determining the Amortization Period for
+          Leasehold Improvements." Issue No. 05-06 provides that the
+          amortization period used for leasehold improvements acquired in a
+          business combination or purchased after the inception of a lease be
+          the shorter of (a) the useful life of the assets or (b) a term that
+          includes required lease periods and renewals that are reasonably
+          assured upon the acquisition or the purchase. The provisions of Issue
+          No. 05-06 are effective on a prospective basis for leasehold
+          improvements purchased or acquired in reporting periods beginning
+          after June 29, 2005. Early application of the consensus is permitted
+          in periods for which financial statements have not been issued. We do
+          not believe the adoption of Issue No. 05-06 will have a material
+          effect on our consolidated financial position, results of operations
+          or cash flows.
+
+(2)  RELATED PARTY TRANSACTIONS:
+
+          On May 30, 2005, the Company completed the acquisition of USC.
+          Pursuant to the Purchase Agreement dated May 30, 2005, by and between
+          the Company, USC and K.K. Green Capital, a Japan corporation (the
+          "Seller"), the Company purchased from the Seller all of the issued and
+          outstanding shares of USC in exchange for an amount equal to
+          $3,522,422 (JPY380,000,000). Seller is the majority owner in Foster
+          Strategic Management Partnership, a Singapore partnership, which in
+          turn owns approximately 10,547,594 shares of the Company's common
+          stock, representing approximately 51.34% of the Company's issued and
+          outstanding stock.
+
+          The following summarizes the unaudited assets acquired and liabilities
+          assumed in connection with the acquisition described in the preceding
+          paragraph:
+
+                  Current assets                             $  899,446
+                  Deposits                                    1,455,014
+                  Intangibles, including goodwill             2,051,438
+                                                             ----------
+                  Total assets acquired                       4,405,898
+                  Current liabilities assumed                  (883,476)
+                                                             ----------
+                  Net assets acquired                        $3,522,422
+                                                             ==========
+
+                                       10
+
+The purchase price represented a significant premium over the recorded
+          net worth of USC's assets. In determining to pay this premium, we
+          considered various factors, including the opportunities that USC
+          offers to enhance our future growth opportunities, synergies with our
+          present operations, cost and time advantages of establishing a
+          comparable company on our own, contacts with prospective vendors and
+          elimination of a potential competitor.
+
+          The Company has considered whether the acquisition included various
+          identifiable intangible assets. As USC was in the development stage
+          with no revenues, we believe no value can be ascribed to
+          the trade names, trademarks, customers, and workforce. Accordingly,
+          the Company has estimated that the entire premium of $1,967,092 over
+          the recorded net worth to be attributable to Goodwill.
+
+          In conjunction with the acquisition of USC, we have retained a
+          valuation firm to assist us in the determination of what portion of
+          the purchase price should be allocated to identifiable intangible
+          assets. We believe the valuation of any identifiable intangible assets
+          will be concluded by March 31, 2006 and may result in a portion of
+          Goodwill to be reclassified to identifiable intangible assets.
+          Nevertheless, the Company does not believe changes, if any, will be
+          material to its financial position or results of operations.
+
+          These consolidated financial statements include the results of
+          operations of USC from May 31, 2005 through December 31, 2005. The
+          following (unaudited) pro forma consolidated results of operations
+          have been prepared as if the acquisition of USC had occurred at April
+          1, 2005:
+
+                                                 3 months ended   9 months ended
+                                                        December 31, 2005
+                                                 -------------------------------
+           Sales                                   $ 26,224,601    $ 86,861,887
+           Net income (loss)                             65,911      (4,082,496)
+           Net income (loss) per share - Basic             0.00           (0.20)
+           Net income (loss) per share - Diluted           0.00           (0.20)
+
+          The pro forma information is presented for informational purposes only
+          and is not necessarily indicative of the results of operations that
+          would have been achieved had the acquisition been consummated at that
+          time, nor is it intended to be a projection of future results. Pro
+          forma results are not provided for the three months and nine months
+          ended December 31, 2004 as USC was not in existence at that time.
+
+          AJOL entered into a consulting contract with K.K. Seagull, a Japanese
+          corporation and shareholder of 926,956 shares the Company's common
+          stock. Under the consulting contract, K.K. Seagull is to provide
+          information technology services to AJOL for a term of 12 months
+          beginning on April 1, 2005 through March, 31, 2006 at approximately
+          $20,000 per month.
+
+(3)  COMMON STOCK OFFERING:
+
+          On May 30, 2005, the Company sold to four purchasers a total of
+          2,549,129 shares of its common stock, $0.001 par value per share
+          ("Common Stock") for an aggregate consideration of JPY1,100,000,000
+          (US $10,196,516) at $4 per share.
+
+          The Company entered into separate Stock Purchase Agreements ("Stock
+          Purchase Agreements"), each dated as of May 30, 2005, with (i) K.K.
+          Contents Provider Tokyo, a Japan corporation, which paid
+          JPY400,0000,000 (US$3,707,824); (ii) K.K. Seagull, a Japan
+          corporation, which paid JPY400,000,000 (US$3,707,824); (iii) K.K. H.I.
+          Consultants, a Japan corporation, which paid JPY200,000,000
+          (US$1,853,912); and (iv) K.K. System Partners, a Japan corporation,
+          which paid JPY100,000,000 (US$926,956) (collectively, the
+          "Investors"). The Company issued the Common Stock in a private
+          placement without registration under the Securities Act of 1933, as
+          amended (the "Act"), in reliance on one or more exemptions from the
+          registration requirements under the Act, including Regulation D.
+
+                                       11
+
+Pursuant to the Stock Purchase Agreements, the Company entered into a
+          Registration Rights Agreement ("Registration Rights Agreement"), dated
+          May 30, 2005, with each of the four Investors, which granted
+          "piggy-back" registration rights to the Investors. Pursuant to the
+          Registration Rights Agreement, if the Company at any time files a
+          registration statement (other than a Form S-4 or Form S-8 registration
+          statement) with the Securities and Exchange Commission under the Act,
+          Registrant agrees to use its best efforts to include in such
+          registration statement such shares of the Investors' Common Stock as
+          the Investors may request, subject to the terms and conditions of the
+          Registration Rights Agreement.
+
+          The Company used the proceeds from the above noted sale of equity
+          securities to purchase 100% of the issued and outstanding common stock
+          of K.K. U Service, a Japanese corporation.
+
+          The CEO of PPOL is also the Representative Director of K.K. H.I.
+          Consultants.
+
+(4)  STOCK OPTIONS:
+
+          The Company established a stock option plan in March 2004 (the "2004
+          Plan"). In accordance with the 2004 Plan, the Company is authorized to
+          issue incentive stock options and non-qualified stock options for up
+          to 2,000,000 shares of the Company's common stock to employees,
+          directors and consultants.
+
+          A total of 1,220,000 options were granted to employees on March 25,
+          2004 which will vest 100% on March 25, 2006 (options will cliff vest
+          two years after the grant date) and expire on March 25, 2014 (ten
+          years after the grant date). An additional 80,000 options were granted
+          to two directors on July 1, 2004 which did vest 100% on July 1, 2005.
+          A summary of the Company's stock option plan activity is presented
+          below:
+
+                                                      Weighted Average
+                                           Options     Exercise Price
+
+      Outstanding at March 31, 2005       1,300,000       $   4.00
+      Granted                                    --             --
+      Exercised                                  --             --
+      Forfeited                                  --             --
+      Expired                                    --             --
+                                          ---------       --------
+
+      Outstanding at December 31, 2005    1,300,000       $   4.00
+                                          =========       ========
+
+          The following table summarizes information about the stock options
+          outstanding and exercisable at December 31, 2005:
+
+(6)  INCOME TAXES
+
+     Income taxes are provided based on the asset and liability method of
+     accounting pursuant to SFAS No. 109, "Accounting for Income Taxes".
+     Deferred income taxes are recorded to reflect the tax consequences on
+     future years of differences between the tax basis of assets and liabilities
+     and their financial reporting amounts at year-end. These deferred taxes are
+     measured by applying currently enacted tax laws. Deferred tax assets are
+     reduced by a valuation allowance when, in the opinion of management, it is
+     more likely than not that some portion or all of the deferred tax assets
+     will not be realized.
+
+     PPOL files stand-alone tax returns in the US as it is not permitted to file
+     consolidated tax returns with its Japanese subsidiaries, AJOL and USC. In
+     Japan, AJOL and USC file their own separate tax returns. Income taxes
+     imposed by the national, prefecture and municipal governments of Japan. The
+     deferred tax assets result primarily from the recognition of revenues and
+     costs for Japanese tax reporting purposes that are deferred for US
+     financial reporting purposes.
+
+     PPOL, on a stand-alone basis, does not conduct revenue generating
+     activities. Its primary source of income has been and will continue to be
+     dividends from AJOL for the foreseeable future. Thus, PPOL on a stand-alone
+     basis is not expected to have any taxable income unless it receives
+     dividends from its operating subsidiaries. At March 31, 2005, PPOL had net
+     operating loss carry forwards of approximately $1.2 million and $2.5
+     million for federal and California reporting purposes, respectively,
+     expiring through March 31, 2025. For the nine months ended December 31,
+     2005, PPOL's stand-alone loss of $1.3 million resulted in an increase of
+     the NOL by that amount and approximately a $0.5 million addition to the
+     deferred tax asset. A 100% valuation allowance on such loss carryforwards
+     continues to be provided at December 31, 2005 as it is not likely that the
+     Company will utilize such losses to offset income in the future.
+
+(7)  COMMITMENTS & CONTINGENCIES:
+
+     As of December 31, 2005 the Company had various professional consulting
+     service contracts and operating leases in effect which collectively will
+     require payments of $0.6 million in the 12 months ending December 31, 2006.
+
+13
+
+ITEM 2: MANAGEMENT'S  DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS
+
+Special Note Regarding Forward-Looking Statements:
+- --------------------------------------------------
+
+Certain matters discussed in this Quarterly Report on Form 10-Q are
+"forward-looking statements" intended to qualify for the safe harbor from
+liability provided by the Private Securities Litigation Reform Act of 1995.
+These forward-looking statements can generally be identified as such because the
+context of the statement will include words such as PPOL "believes",
+"anticipates", "expects", or words of similar import. Similarly, statements
+which describe PPOL's future plans, objectives or goals are also forward-looking
+statements. Such forward-looking statements are subject to certain risks and
+uncertainties which are described in close proximity to such statements and
+which could cause actual results to differ materially from those anticipated as
+of the date of this Report. Shareholders, potential investors and other readers
+are urged to consider these factors in evaluating the forward-looking statements
+and are cautioned not to place undue reliance on such forward-looking
+statements. The forward-looking statements included herein are only made as of
+the date of this Report and PPOL undertakes no obligation to publicly update
+such forward-looking statements to reflect subsequent events or circumstances,
+except as required under applicable laws.
+
+Overview
+- --------
+
+PPOL, Inc., a California corporation, conducts its business primarily through
+its wholly owned Japanese subsidiaries, AJOL, Ltd. ("AJOL"), a Japanese
+corporation. At the present time, the Company has administrative functions
+occurring in California, but does not otherwise have any major business in the
+United States.
+
+Commencing in January 2006, the Company's revenues will be derived from direct
+marketing by AJOL of (1) its "MOJICO" hardware, a multifunctional facsimile
+based machine with networking capabilities, (2) subscriptions to PPOL's
+proprietary "Pan Pacific Online" interactive database that can only be accessed
+through its MOJICO hardware and (3) various consumer products that utilize the
+Company's "Kamome" brand.
+
+Acquisition of USC and its impact on direct marketing
+- -----------------------------------------------------
+
+In response to the slowing of activity and declining membership in Acube, the
+MOJICO users' organization, changing attitudes toward network marketing, and
+recent changes in laws and regulations that network marketing is subject to in
+Japan, we have begun a transition in sales focus from network marketing to
+direct marketing. One of the primary reasons for the declining membership in
+Acube is attributable to the high initial cost.  We needed to reduce the
+initial cost to a fraction of what we were able to offer our flagship product
+under network marketing.
+
+We have determined that the direct marketing method is the best suited to reduce
+the initial cost and also not the subject of the recent changes in laws and
+regulations affecting network marketing in Japan. In addition consumer surveys
+have indicated more receptivity to direct marketing.
+
+As discussed in Note 2 to the financial statements, we acquired USC in May 2005.
+The acquisition of USC played a crucial role in our ability to transition from
+network marketing to direct marketing much more quickly than would otherwise
+have been possible. USC had the critical leadership personnel with experience in
+setting up and running direct marketing operations.
+
+For us to establish a direct marketing operation, we would have had to recruit
+personnel with relevant experience. In the current environment, speed is a
+critical element. We estimated it would have taken six to nine months longer to
+start a direct marketing organization. By combining USC's experience and our
+assembled workforce, we believe we will enhance our future growth opportunities.
+
+                                       14
+
+With a delayed transition to direct marketing, there was also a high likelihood
+that USC would become a formidable competitor. Moreover, prior to the
+acquisition, we had learned that USC had been approaching our existing
+manufacturer of the SF-70 to manufacture their products. If they successfully
+consummated an arrangement with our existing manufacturer, this would have
+reduced their ability to supply our products due to capacity constraints.
+
+Two defining characteristics of direct marketing contribute to its appeal as a
+sales system: the location of sales and the cost of sales. First, although the
+actual sale may occur inside a retail location, the initiation of the sale
+occurs outside of the place of business. We hope that this style of sales will
+facilitate the widening of contacts for our members. Secondly, in contrast to
+network marketing, direct marketing does not require the seller to assume the
+responsibility for any specific costs related to the sale. While network
+marketing has certain conditions for the receipt of income from the sale, direct
+marketing does not have complicated eligibility procedures. The reduction of
+sales costs and the overall simplification of income generation makes the direct
+marketing process more attractive to prospective participants and current
+members of Acube. Our decision to redefine our sales focus reflects our
+continuing dedication to the constant development of our business and our
+sensitivity to the concerns of our members. As part of our redirection of sales
+focus we stopped accepting new distributor applications for network marketing
+activities as of October, 2005. The anticipated effects of our new strategy on
+profits and cost of sales are as follows:
+
+Under the direct marketing structure, the sales price per unit is 22.5% and
+25.0% for the SF-70 and U-Phone, respectively in comparison to the sales price
+of the SF-70 under the former networking structure used through this quarter.
+However, the projected revenues per unit utilizing the average customer
+relationship period for the SF-70 under the network marketing structure
+indicates such revenues to be 48.7% and 51.2% for the SF-70 and U-Phone,
+respectively, of total revenues for the SF-70 over the average customer
+relationship period under the network structure. In addition, while the gross
+profit is lower per unit, we believe we can make up the difference through
+increased unit sales as a result of the significantly lower sales price per
+unit.
+
+Since the direct marketing program is still in its formative phases, the gross
+profit is significantly less than that for network marketing. We believe that
+this allowance for a decline in gross profit is necessary and a temporary
+condition for the future success of PPOL. In addition, similar sales strategies
+such as mail order services targeting current Acube members are being explored
+to augment our new direct marketing approach.
+
+                                       15
+
+UNDERSTATEMENT OF GOODWILL AT JUNE 30, 2005 AND SPETEMBER 30, 2005
+
+As disclosed in Note 1 to the financial statements, we have determined that
+Goodwill was understated by $205,991 at acquisition of USC, discussed in the
+preceding section, on May 30, 2005. This understatement did not effect income
+from continuing operations, net income or related per share amounts. The impact
+of the understatement of Goodwill on the financial statements for the quarters
+ended June 30, 2005 and September 30, 2005 follows:
+
+RESULTS OF OPERATIONS - THREE MONTHS ENDED DECEMBER 31, 2005 AS COMPARED TO THE
+THREE MONTHS ENDED DECEMBER 31, 2004
+
+PRODUCT SALES AND NETWORK SERVICES.
+The three month period ended December 31, 2005 saw a decrease in product sales
+and network services of 21.7% as a result of a change in sales focus. Starting
+in October of the current year, the Company discontinued its solicitation of
+agent applications for its network marketing activities. Instead, the Company
+decided to concentrate its efforts on the development of direct marketing sales
+and services. We believe this shift in focus to be in the best long term
+interests of PPOL given the current economic environment and consumer attitudes
+towards network marketing.
+
+COST OF SALES. The cost of sales for the 3 month period ended December 31, 2005
+declined 9.2% compared to the corresponding period of 2004, a smaller decline
+than our sales decline. This is attributable to our fixed overhead remaining
+comparable to the prior year while net sales declined in 2005. Thus the cost
+(fixed overhead plus variable cost) per sale was greater in 2005.
+
+DISTRIBUTOR INCENTIVES. The overall decrease in distributor incentives of 25.9%,
+which is 4.2% more than the decline in sales, is primarily due to change in the
+product mix to lower incentive rate goods and services.
+
+SELLING, GENERAL AND ADMINISTRATIVE EXPENSE. In the three month period ended
+December 31, 2005, selling, general and administrative expense decreased by
+30.9% relative to the same period of 2004. The three month period ended
+December 31, 2004 included start-up costs for the Gatefor subsidiary which did
+not recur in 2005. Additionally, the costs for training and events were reduced
+in 2005.
+
+OTHER INCOME (EXPENSE), NET. This category represents non-recurring items. There
+was a swing of $260,000 from other expenses, net of $246,000 in the comparable
+period of the prior year to net other income of $14,000 in the current year's
+three months ended December 31, 2005. The change was a primary result of
+recognizing into income approximately $40,000 in expired gift certificates and
+the absence of one time non-recurring expenses incurred in the prior year in the
+current year.
+
+INCOME TAXES. In the prior year's comparable quarter, we had an income tax
+benefit of approximately $429,000 vs. an expense of close to $1,250,000 in the
+quarter ended December 31, 2005. This is primarily a result of a pretax income
+at AJOL, our Japanese operating subsidiary of approximately $1.65 million. As
+consolidated returns cannot be filed in Japan, losses at PPOL, a California
+entity, and USC, a Japanese entity that was merged into AJOL in December 2005,
+could not be offset against AJOL income. The current year's tax provision also
+includes a $490,000 addition resulting from an unfavorable exchange rate
+conversion of our yen denominated tax accounts.
+
+RESULTS OF  OPERATIONS - NINE MONTHS ENDED  DECEMBER 31, 2005 AS COMPARED TO THE
+NINE MONTHS ENDED DECEMBER 31, 2004
+
+PRODUCT SALES AND NETWORK SERVICES. The nine month period ended December 31,
+2005 declined by 14.0% ($11.1 million)from the prior year's comparable period.
+This was primarily due to the current economic environment and consumer attitude
+toward network marketing, which resulted in a $5.5 million reduction in revenues
+for the six months ended September 30, 2005. As discussed above in the Overview
+and three month results, we are evolving into a direct marketing organization.
+This resulted in an additional $5.6 million reduction in revenues from the prior
+year's comparable nine months.
+
+OTHER ON-LINE SERVICES For the nine months ended December 31, 2005, increased by
+10.1% over the comparable period of the prior year. This was especially
+attributable to increases in the area of mail order sales of Kamome branded
+goods and services provided by the Company.
+
+COST OF SALES. The increase in cost of sales was 1.5% over the comparable nine
+month period of the prior year even though total revenues declined by 9.75%.
+This was a result of fixed overhead costs which could not be reduced in line
+with the decline in sales. In addition, we had a monthly accrual for a
+promotional program to increase the number of members who join a mutual heath
+insurance plan administered by AJOL. Under this program, new members will
+receive a refund of $94 (Japanese Yen (JPY)10,000) of their insurance premiums
+if they do not make any claims in their first year. This promotional program is
+an investment in the future aimed at increasing the number of renewing members.
+
+DISTRIBUTOR INCENTIVES. The increase in mail order sales for the nine month
+period ended December 31, 2005 compared to equivalent period of the previous
+year was comprised of the sale of lower-cost products which did not qualify
+distributors for significant commissions. As a result, in the nine month period
+ended December 31, 2005, the cost of distributor incentives decreased by 21.0%
+relative to the corresponding period of the previous year.
+
+                                       16
+
+SELLING, GENERAL AND ADMINISTRATIVE EXPENSE. For the nine months ended December
+31, 2005, selling, general, and administrative expenses increased by 15.6%
+relative to the corresponding period of the prior year. Three factors
+contributed to this increase. First, the move to a new office resulted in two
+rent expenses. Also associated with the change in office locations was the cost
+of restoring the old office space to its original condition. Second, the cost of
+system maintenance increased. Third, we incurred research and inspection costs
+to develop a voice recognition engine, an on-line shopping cart function and a
+gateway function. Finally, there were approximately $2.2 million in new general
+and administrative items incurred by USC.
+
+OTHER INCOME (EXPENSE), NET. This category represents non-recurring items. There
+was a swing of $270,000 from other expenses, net of $242,000 in the comparable
+period of the prior year to net other income of $27,000. The in the current
+year's three months ended December 31, 2005. The change was a result of
+recognizing into income approximately $40,000 in expired gift certificates and
+the absence of one time non-recurring expenses incurred in the prior year in the
+current year.
+
+INCOME TAXES. Our income tax expense was comparable to the same period of the
+prior year even though we had a pretax loss of $1,930,000 in comparison to a
+pretax income of $1,090,000 in the prior year.  Both years are impacted from
+the income of our subsidiary AJOL, a Japanese corporation, being unable to be
+consolidated with the losses incurred by PPOL, a California entity, and USC,
+a Japanese corporation that was merged into AJOL in December 2005, this year
+and the losses at PPOL and Gatefor, a Japanese corporation, which was disposed
+of in March 2005 in the prior year.  The pretax income of AJOL was $1,580,000
+and $4,100,000 for the nine months ended December 31, 2005 and 2004,
+respectively.  The unfavorable exchange rate conversion of our yen denominated
+tax accounts contributed to an additional expense of $1,160,000 this period..
+
+Liquidity and Capital Resources
+- -------------------------------
+
+Since inception, we have funded our operations primarily through equity
+investments and short-term borrowings. On May 30, 2005, we sold 2,549,129 shares
+of our Common Stock for an aggregate consideration of $10.2 million at $4 per
+share to four investors. The Company issued the Common Stock in a private
+placement without registration under the Securities Act of 1933, as amended (the
+"Act"), in reliance on one or more exemptions from the registration requirements
+under the Act, including Regulation D.
+
+Pursuant to the Stock Purchase Agreements, the Company entered into a
+Registration Rights Agreement ("Registration Rights Agreement"), dated May 30,
+2005, with each of the four Investors, which granted "piggy-back" registration
+rights to the Investors. Pursuant to the Registration Rights Agreement, if the
+Company at any time files a registration statement (other than a Form S-4 or
+Form S-8 registration statement) with the Securities and Exchange Commission
+under the Act, we agreed to use its best efforts to include in such registration
+statement such shares of the Investors' Common Stock as the Investors may
+request, subject to the terms and conditions of the Registration Rights
+Agreement.
+
+The Company used the proceeds from the above noted sale of equity securities to
+purchase 100% of the issued and outstanding common stock of USC. The former CEO
+of PPOL, who had resigned in December 2005, is also the Representative Director
+of one of the investors, which purchased 463,478 shares for $1.9 million.
+
+Our operating activities consumed $10.6 million and $1.6 million of cash during
+the nine months ended December 31, 2005 and 2004, respectively. Cash consumed in
+2005 consisted of primarily of $3.9 million in net loss, adjusted by
+depreciation ($2.8 million), loss on sales/disposal of property, equipment and
+software ($1.1 million), deferred income taxes ($1.9 million), and a net change
+in assets and liabilities of ($12.6 million). Cash provided in 2004 consisted
+primarily of $0.9 million in net loss, adjusted by depreciation ($3.0 million),
+deferred income taxes ($1.5 million), and a net change in assets and liabilities
+($5.2 million). The change in cash used by operating activities is attributable
+to the shift in our business focus to the development of direct marketing from
+the previous use of network marketing. This was a major factor in the net change
+in assets and liabilities of ($12.6 million).
+
+                                       17
+
+Investing activities consumed $1.8 million and $5.4 million of cash during the
+nine months ended December 31, 2005 and 2004, respectively. Cash consumed in
+2005 consisted primarily of the purchase of USC, noted above, of $3.5 million,
+offset by $0.8 million cash held by USC at acquisition date and $0.7 million
+reduction in other assets. Cash used in 2004 was primarily related to the
+purchase of software of $5.7 million and $300,000 reduction in other assets.
+
+Financing activities provided $9.1 million and $3.3 million of cash during the
+nine months ended December 31, 2005 and 2004, respectively. Cash provided in
+2005 consisted of $10.2 million equity financing, noted above, and repayment of
+$1.1 million in loans from our majority shareholder. Cash provided in 2004 was
+entirely from majority shareholder.
+
+As of December 31, 2005, our cash of $7.6 million was $4.4 million less than our
+cash balance at March 31 2005 of $12.0 million. This was primarily a result of
+the net loss for nine months ended December 31, 2005 of $3.9 million, adjusted
+by cash used for operating activities $6.8 million, cash used for investing
+activities of $1.8, negative impact of exchange rate changes on cash and cash
+equivalents of $1.1 million, offset by $9.1 million provided by financing
+activities.
+
+While we believe that our current cash on hand, together with cash we expect to
+generate from future operations, will be sufficient to satisfy our anticipated
+cash requirements and capital expenditures for the next 12 months, we will
+consider additional sources of financing if is deemed to be in the best
+interests of the Company.
+
+Contractual Obligations
+
+The Company's operating lease & purchase obligations as of December 31, 2005 are
+as follows:
+
+                                        Payments due by period
+- -----------------------------------------------------------------------
+                                               Less than   More than
+Contractual obligations            Total        1 year      1 year
+- ----------------------------     ----------   ----------   ----------
+
+   Operating Lease Obligations   $  203,340   $  203,340           --
+
+   Service Provider Contracts       377,651      377,651           --
+                                 ----------   ----------   ----------
+
+   Total                         $  580,991   $  580,991   $       --
+                                 ==========   ==========   ==========
+
+Critical Accounting Policies and Estimates
+- ------------------------------------------
+
+PPOL's significant accounting policies are discussed in Note 1, Organization and
+Summary of Significant Accounting Policies, in our notes to the consolidated
+financial statements for the (1) years ended March 31, 2005 and 2004 included in
+our Form 10-K, and (2) nine months ended December 31, 2005 included in this
+document. The application of certain of those policies requires management to
+make estimates and assumptions that affect the reported amounts of assets and
+liabilities, the disclosure of contingent assets and liabilities at the date of
+the financial statements and revenues and expenses during the period reported.
+
+The following accounting policies involve a "critical accounting estimate"
+because they are particularly dependent on estimates and assumptions made by
+management about matters that are highly uncertain at the time the accounting
+estimates are made. In addition, while we have used our best estimates based on
+facts and circumstances available to us at the time, different estimates
+reasonably could have been used in the current period, and changes in the
+accounting estimates we used are reasonably likely to occur from period to
+period which may have a material impact on the presentation of our financial
+condition and results of operations. We review these estimates and assumptions
+periodically and reflect the effects of revisions in the period that they are
+determined to be necessary.
+
+                                       18
+
+Revenue Recognition:
+
+The Company commenced sales of its MOJICO product utilizing the Direct Marketing
+method ("Direct Method") in January 2006. Revenues derived from the Direct
+Method are recognized when (a) products are shipped or services are provided,
+(b) customer payment is fixed, (c) free of contingencies and significant
+uncertainties, and (d) collection is probable. Under the Direct Method, our
+customers may purchase only the deliverables they choose to purchase and are not
+required to purchase multiple deliverables for one price. Accordingly, our
+revenues and related profits will decline if our customers do not choose to
+purchase the multiple deliverables they were previously required to purchase.
+
+Revenue from MOJICO product sales sold under the Network Marketing method
+("Network Method") is accounted for in accordance with guidelines established by
+the Emerging Issues Task Force Issue of the Financial Accounting Standards Board
+Issue No. 00-21, "Accounting for Revenue Arrangements with Multiple
+Deliverables," or EITF 00-21. Under the Network Method, customers were required
+to purchase multiple deliverables for one price.
+
+Revenue from the Network Method is recognized over the weighted average customer
+relationship period of three years. Revenue from sales of annual online
+subscription services to Pan Pacific Online is recognized over one year. The
+revenue and associated costs deferred for revenue recognition purposes are
+recorded as deferred revenue and deferred costs, respectively. Deferred costs
+are comprised of costs of the MOJICO hardware and distributors incentive
+commissions. Deferred costs are directly related to deferred revenues. Deferred
+costs are amortized into income over the weighted average customer relationship
+period of three years or the online subscription period of one year, as
+applicable.
+
+The weighted average customer relationship period will increase if we are
+successful in increasing the length of time a customer maintains their
+relationship with us. This translates into a longer period over which we would
+recognize revenues from the sales of the MOJICO resulting in lower quarterly
+revenues unless we are able to make up for the reduction by an increase in our
+current MOJICO shipments and other revenues where deferred revenue recognition
+is not required. Our other revenues where deferred revenue recognition is not
+required is dependent, in part, on the length of our average customer
+relationship period as this implies a broader base of customers from whom we can
+derive revenues from. Conversely, if our average customer relationship period
+declined, this would have the direct opposite effect of what was heretofore
+discussed in this paragraph.
+
+While we have terminated sales under the Network Method, in October 2005, we
+continue to recognize revenues derived from the Network Method as required by
+EITF 00-21.
+
+The impact of termination of the Network Method is a systematic reduction of our
+existing largest asset and liability on our balance sheet, deferred costs and
+deferred revenues, respectively, over the course of the next three years.
+Deferred revenues and costs will be recognized as revenues and cost of sales,
+respectively. It is expected that the difference by which our existing deferred
+revenues exceed deferred costs will be recognized as gross profit to the Company
+over the next three years. Any changes in the average customer relationship
+period will result in the recognition of such gross profit over a period shorter
+or longer than three years. While the Company, at this time has no plans to
+dispose of its AJOL subsidiary, such gross profit will only be partially
+recognized if the Company were to dispose AJOL.
+
+Software
+
+The Company follows the guidance in Statement of Position ("SOP") 98-1
+"Accounting for the Costs of Computer Software Developed or Obtained for
+Internal Use". SOP 98-1 requires that entities capitalize certain internal-use
+software costs once certain criteria are met. Under SOP 98-1, overhead, general
+and administrative and training costs are not capitalized. Capitalized software
+costs are being amortized on a straight-line basis principally over 5 years.
+
+Our computer software is also subject to review for impairment as events or
+changes in circumstances occur indicating that the amount of the asset reflected
+in the Company's balance sheet may not be recoverable.
+
+Goodwill
+
+The acquisition of USC was at a premium over the net recorded net worth of $1.8
+million. In determining to pay this premium, we considered various factors,
+including the opportunities that USC offers to enhance our future growth
+opportunities, synergies with our present operations, cost and time advantages
+of establishing a comparable company on our own, contacts with prospective
+vendors and elimination of a potential competitor.
+
+                                       19
+
+In its determination of the amount to be ascribed to Goodwill, the Company has
+considered whether the acquisition included various identifiable intangible
+assets. As USC is in the development stage with no revenues, at this time, we
+believe no value can be ascribed to the trade names, trademarks, customers, and
+workforce. Accordingly, the Company has estimated that the entire premium to be
+attributable to Goodwill.
+
+In conjunction with the acquisition of USC, we have retained a valuation firms
+to assist us in the determination of what portion of the purchase price should
+be allocated to identifiable intangible assets. We believe the valuation of any
+identifiable intangible assets will be concluded by March 31, 2006 and may
+result in a portion of Goodwill to be reclassified to identifiable intangible
+assets. Nevertheless, the Company does not believe changes, if any, will be
+material to its financial position or results of operations.
+
+On a go forward basis, we will evaluate Goodwill for possible impairment using
+the guidance in SFAS No. 142, "Goodwill and Other Intangible Assets" on at least
+an annual basis. The review for impairment requires the use of significant
+judgments about the future performance of the PPOL's operating subsidiaries.
+
+Income Taxes:
+
+Income taxes are provided based on the asset and liability method of accounting
+pursuant to SFAS No. 109, "Accounting for Income Taxes". Deferred income taxes
+are recorded to reflect the tax consequences on future years of differences
+between the tax basis of assets and liabilities and their financial reporting
+amounts at year-end. These deferred taxes are measured by applying currently
+enacted tax laws. Deferred tax assets are reduced by a valuation allowance when,
+in the opinion of management, it is more likely than not that some portion or
+all of the deferred tax assets will not be realized.
+
+ITEM 3: QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+Limited Operating History
+- -------------------------
+
+We have a limited operating history in Japan upon which we can be evaluated. Any
+investment in us must be considered in light of the risks, expenses and
+difficulties encountered by companies in the early stage of development in new
+and rapidly evolving markets, including the risks described herein. There can be
+no assurances that we will be successful in addressing these risks.
+
+Unproven Business Model
+- -----------------------
+
+We cannot predict whether or not we will be successful because our business
+model is unproven and its market is developing. It is too early to reliably
+ascertain market penetration for our products and services. If future demand for
+AJOL's products and services, including, but not limited to demand for the
+MOJICO hardware and Kamome brand products is lower than anticipated, or the
+costs of attracting subscribers is higher than anticipated, then our financial
+condition and results from operations will be materially and adversely affected.
+
+Fluctuations In Operating Results
+- ---------------------------------
+
+Our operating results may fluctuate significantly in the future as a result of a
+variety of factors, many of which are outside of our control. These factors
+include the demand for the telecommunications products and services offered by
+us, introduction of new products or services by us or our competitors, delays in
+the introduction or enhancement of products and services by us or our
+competitors, changes in our pricing policies or those of our competitors, our
+ability to anticipate and effectively adapt to developing markets and rapidly
+changing technologies, changes in the mix or Japanese vs. non-Japanese revenue,
+changes in foreign currency exchange rates, the mix of products and services
+sold by us and the channels through which those products and services are sold,
+general economic conditions, and specific economic conditions in Internet and
+related industries. Additionally, in response to evolving competitive
+conditions, we may elect from time to time to make certain pricing, service,
+marketing or acquisition decisions that could have a material adverse affect on
+its financial performance.
+
+                                       20
+
+Foreign Currency (Yen) Fluctuations
+- -----------------------------------
+
+Substantially all of our revenue and expenses are received and incurred in
+Japanese Yen. Variation in foreign exchange rates may substantially affect our
+revenue, expenses, and net income in U.S. dollar terms. In preparing our
+financial statements, we translate revenue and expenses from Japanese Yen into
+U.S. dollars using weighted average exchange rates. If the U.S. dollar
+strengthens relative to the Yen, our reported revenue, gross profits and net
+income will likely be reduced. For example, in 2001, the Japanese Yen
+significantly weakened, which reduced our operating results on a U.S. dollar
+reported basis. The Company's fiscal 2006 operating results could be similarly
+harmed if the Japanese Yen weakens from current levels. Given the
+unpredictability of exchange rate fluctuations, we cannot estimate the effect
+these fluctuations may have upon future reported results, product pricing or our
+overall financial condition.
+
+Poor Japanese Economic Conditions
+- ---------------------------------
+
+Economic conditions in Japan have been poor in recent years and may worsen or
+not improve. Continued or worsening economic and political conditions in Japan
+could further reduce our revenue and net income.
+
+Reliance On Handwritten Moji Characters As Preferred Method Of Written
+- ----------------------------------------------------------------------
+Communications
+- --------------
+
+We rely on the desire of subscribers and potential subscribers to use
+handwritten Moji (characters) as their preferred method of written communication
+as an underlying material assumption for the continuing success of its business.
+A subscriber's or potential subscriber's desire to use handwritten Moji
+(characters) is a matter of personal preference, which is unpredictable. Any
+negative changes in perception by subscribers and potential subscribers as to
+their desire to use handwritten Moji characters as their preferred method of
+written communication, for any reason, including the emergence of new,
+different, or alternative forms of written communications, could have a
+materially adverse affect on us and our business.
+
+Dependence On New Subscribers
+- -----------------------------
+
+Our operating results generally depend on revenues received from sales of the
+MOJICO product. In previous years, MOJICO sales have accounted for up to 78% of
+our annual revenue. MOJICO sales are primarily made to our new customers. As a
+result, future revenues are primarily dependent on our ability to generate new
+customers for our MOJICO hardware and Pan Pacific Online services. There can be
+no assurances that we will be able to continue to generate new subscribers at
+the rate that we have been able to in the past, nor that we will be able to
+generate sufficient new subscribers to remain profitable. We do not have any
+substantial historical basis for predicting the rate of increase in our
+subscriber base.
+
+Dependence On Subscribers For Content Of Network
+- ------------------------------------------------
+
+The information transmitted to our subscribers via our information network Pan
+Pacific Online is primarily generated by other subscribers. There can be no
+assurances that our subscribers will continue to generate information that other
+subscribers will find sufficiently entertaining, useful, or desirable so as to
+allow us to profitably market the products and services that provide access to
+our network.
+
+Liability For Content Of Network
+- --------------------------------
+
+As a provider of messaging and communications services, we may incur liability
+for defamation, negligence, copyright, patent or trademark infringement and
+other claims based on the nature and content of the materials transmitted via
+our information network. To minimize our liability, we use a centralized hub to
+manually process and screen hard copies for adult themes, slander,
+patent/copyright infringement and objectionable material. However, there can be
+no assurances that we will be able to effectively screen all of the content. We
+have no insurance to cover claims of these types. Any imposition of liability
+could have a material adverse affect on our reputation, financial condition, and
+operating results.
+
+                                       21
+
+Reliance On Existing Distributors And Need To Recruit Additional Distributors
+- -----------------------------------------------------------------------------
+
+We depend on subscriber distributors to generate substantially all of our
+revenues. To increase our revenue, we must increase the number of and/or the
+productivity of our distributors. Our distributors may terminate their status as
+a distributor at any time. The number of distributors may not increase and could
+decline in the future. We cannot accurately predict how the number and
+productivity of distributors may fluctuate because we rely upon our existing
+distributors to recruit, train and motivate new distributors. Our operating
+results could be harmed if our existing and new business opportunities and
+products do not generate sufficient interest to retain existing distributors and
+attract new distributors. In addition, our operations in Japan face significant
+competition from existing and new competitors. Our operations would also be
+harmed if our planned growth initiatives fail to generate continued interest and
+enthusiasm among our distributors in this market and fail to attract new
+distributors.
+
+Dependence on Mr. Aota
+- ----------------------
+
+We are also highly dependent upon AJOL's Honorary Chairman, Yoshihiro Aota, to
+recruit and retain subscribers. Mr. Aota represents the personification of AJOL.
+Mr. Aota's talents, efforts, personality and leadership have been, and continue
+to be, critical to us and our success. The diminution or loss of the services of
+Mr. Aota, and any negative market or industry perception arising from that
+diminution or loss, would have a material adverse affect on our business. We are
+investigating, but have not obtained "Key Executive Insurance" with respect to
+Mr. Aota.
+
+Also, if Mr. Aota's services become unavailable, our business and prospects
+could be materially adversely affected. We do not have an employment agreement
+with Mr. Aota. If we lose Mr. Aota's services, for any reason, including as a
+result of Mr. Aota's voluntary resignation or retirement, our business could be
+materially and adversely affected.
+
+Failure Of New Products And Services To Gain Market Acceptance
+- --------------------------------------------------------------
+
+A critical component of our business is our ability to develop new products and
+services that create enthusiasm among our distributor force. If any new product
+or service fails to gain market acceptance, for any reason including quality
+problems, this could harm our results of operations.
+
+Losing Sources Of Kamome Products
+- ---------------------------------
+
+The loss of any of our sources of Kamome products, or the failure of sources to
+meet our needs, could restrict our ability to distribute Kamome products and
+harm our revenue as a result. Further, our inability to obtain new sources of
+Kamome products at prices and on terms acceptable to us could harm our results
+of operations.
+
+Competition With Technically Superior Products And Services
+- -----------------------------------------------------------
+
+Our products and services utilize the facsimile-like MOJICO hardware and rely on
+human personnel to screen and process information for our database. Our products
+and services are much less technically sophisticated than those offered by other
+companies offering interactive telecommunications products and services. This
+may put us at a substantial competitive disadvantage with present and/or future
+competitors.
+
+Internet Usage Rates And Long Distance Telephone Rates
+- ------------------------------------------------------
+
+Our subscribers obtain access to AJOL's network via either the Internet or
+telephone service. The costs that subscribers incur in obtaining access to our
+network via these channels are beyond the control of AJOL. Any increase in long
+distance telephone rates or rates for accessing the Internet could materially
+and adversely affect demand for our products and services.
+
+                                       22
+
+Reliance On Internet As Transmission Medium
+- -------------------------------------------
+
+Our future success will depend upon our ability to route our customers' traffic
+through the Internet and through other data transmission media. Our success is
+largely dependent upon the viability of the Internet as a medium for the
+transmission of subscriber related data. There can be no assurance that the
+Internet will prove to be a viable communications media, that document
+transmission will be reliable, or that capacity constraints which inhibit
+efficient document transmission will not develop. The Internet may not prove to
+be a viable avenue to transmit communications for a number of reasons, including
+lack of acceptable security technologies, lack of access and ease of use,
+traffic congestion, inconsistent quality or speed of service, potentially
+inadequate development of the necessary infrastructure, excessive governmental
+regulation, uncertainty regarding intellectual property ownership or lack of
+timely development and commercialization of performance improvements.
+
+Technological Changes Of The Messaging And Communications Industry
+- ------------------------------------------------------------------
+
+The messaging and communications industry is characterized by rapid
+technological changes, changes in user and customer requirements and
+preferences, and the emergence of new industry standards and practices that
+could render our existing services, proprietary technology and systems obsolete.
+
+Our success depends, in part, on our ability to develop new services,
+functionality and technology that address the needs of existing and prospective
+subscribers. If we do not properly identify the feature preferences of
+subscribers and prospective subscribers, or if we fail to deliver features that
+meet their standards, our ability to market our products and services
+successfully and to increase revenues could be impaired. The development of
+proprietary technology and necessary service enhancements entail significant
+technical and business risks and require substantial expenditures and lead-time.
+We may not be able to keep pace with the latest technological developments. We
+may also be unable to use new technologies effectively or adapt services to
+customer requirements or emerging industry standards.
+
+We must accurately forecast the features and functionality required by
+subscribers and prospective subscribers. In addition, we must design and
+implement service enhancements that meet subscriber requirements in a timely and
+efficient manner. We may not successfully determine subscriber and prospective
+subscriber requirements and may be unable to satisfy their demands. Furthermore,
+we may not be able to design and implement a service incorporating desired
+features in a timely and efficient manner. In addition, if subscribers do not
+favorably receive any new service offered by us, our reputation could be
+damaged. If we fail to accurately determine desired feature requirements or
+service enhancements or to market services containing such features or
+enhancements in a timely and efficient manner, our business and operating
+results could suffer materially.
+
+Possible Inadequate Intellectual Property Protections
+- -----------------------------------------------------
+
+Our success depends to a significant degree upon our proprietary technology. We
+rely on a combination of patent, trademark, trade secret and copyright law and
+contractual restrictions to protect our proprietary technology. However, these
+measures provide only limited protection, and the Company may not be able to
+detect unauthorized use or take appropriate steps to enforce our intellectual
+property rights. In addition, we may face challenges to the validity and
+enforceability of our proprietary rights and may not prevail in any litigation
+regarding those rights. Any litigation to enforce our intellectual property
+rights would be expensive and time-consuming, would divert management resources
+and may not be adequate to protect our business.
+
+Possible Infringement Claims
+- ----------------------------
+
+We could be subject to claims that we have infringed the intellectual property
+rights of others. In addition, we may be required to indemnify our distributors
+and users for similar claims made against them. Any claims against us could
+require us to spend significant time and money in litigation, pay damages,
+develop new intellectual property or acquire licenses to intellectual property
+that is the subject of the infringement claims. These licenses, if required, may
+not be available at all or on acceptable terms. As a result, intellectual
+property claims against us could have a material adverse effect on our business,
+prospects, financial conditions and results of operations.
+
+                                       23
+
+Possible System Failure Or Breach Of Network Security
+- -----------------------------------------------------
+
+Our operations are dependent on our ability to protect our network from
+interruption by damage from fire, earthquake, power loss, telecommunications
+failure, unauthorized entry, computer viruses or other events beyond our
+control. As precautions, we utilize distributed processing systems, back-up
+systems, Internet firewalls, nonstop, 24 hour, continuous installation
+environment surveillance, and private power generators as backup. There can be
+no assurance that our existing and planned precautions of backup systems,
+regular data backups and other procedures will be adequate to prevent
+significant damage, system failure or data loss.
+
+Despite the implementation of security measures, our infrastructure may also be
+vulnerable to computer viruses, hackers or similar disruptive problems.
+Persistent problems continue to affect public and private data networks,
+including computer break-ins and the misappropriation of confidential
+information. Computer break-ins and other disruptions may jeopardize the
+security of information stored in and transmitted through the computer systems
+of the individuals and businesses utilizing our services, which may result in
+significant liability to us and also may deter current and potential subscribers
+from using our services. Any damage, failure or security breach that causes
+interruptions or data loss in our operations or in the computer systems of our
+customers could have a material adverse effect on our business, prospects,
+financial condition and results of operations.
+
+Reliance On Third Party Access For Telecommunications
+- -----------------------------------------------------
+
+We rely on third parties to provide our subscribers with access to the Internet.
+There can be no assurance that a third party's current pricing structure for
+access to and use of the Internet will not change unfavorably and, if the
+pricing structure changes unfavorably, our business, prospects, financial
+condition and results of operations could be materially and adversely affected.
+
+Effect Of Government Regulations
+- --------------------------------
+
+We provide access to our database and services through data transmissions over
+public telephone lines and other facilities provided by telecommunications
+companies. These transmissions are subject to regulatory government agencies.
+These regulations affect the prices that subscribers must pay for transmission
+services, the competition we face from telecommunications services and other
+aspects of our market. There can be no assurance that existing or future laws,
+governmental action or rulings will not materially and adversely affect our
+operations. Additionally, we operate through various government regulation
+concerning consumer protection. Changes in these regulations could affect
+compliance with these regulations and jurisdictions where we carry on our
+business.
+
+Dependence On Vendor
+- --------------------
+
+The MOJICO machine is produced by an unrelated third party. Should this third
+party become incapable or unwilling to produce the MOJICO for any reason, we
+could face a temporary decline in MOJICO sales until another electronics
+manufacturer is sourced and ready to produce the machines.
+
+Minority Shareholder Status
+- ---------------------------
+
+Foster Strategic Investment Partnership ("Foster") holds 51.3% of PPOL's common
+stock. Acting alone, Foster, as a majority shareholder, has significant
+influence on PPOL's policies. As a result, Foster will have the ability to
+control the outcome of all matters requiring stockholder approval, including the
+election and removal of PPOL's entire Board of Directors, any merger,
+consolidation or sale of all or substantially all of PPOL's assets, and the
+ability to control PPOL's and our management and affairs.
+
+No Lock-up Agreement Between Foster Strategic Investment Partnership
+- --------------------------------------------------------------------
+
+To date, PPOL has not entered into a separate lock-up arrangement with Foster
+Strategic Investment Partnership pursuant to which these shareholders would
+agree to be subject to volume and sale restrictions that will limit their
+ability to sell shares in addition to the restrictions set forth under Rule 144.
+If a suitable lock-up agreement is not in effect, then Foster Strategic
+Investment Partnership may be eligible to sell a large volume of shares, which
+could cause the price of PPOL's shares to decline.
+
+                                       24
+
+No History As Reporting Company
+- -------------------------------
+
+Prior to the effective date of the PPOL's filing of Form 10, PPOL has never been
+a public company, subject to the reporting requirements of the Securities and
+Exchange Act of 1934, as amended, and PPOL expects that the obligations of being
+a public company, including substantial public reporting and investor relations
+obligations, will require significant continuing additional expenditures, place
+additional demands on our management and may require the hiring of additional
+personnel. We may need to implement additional systems in order to adequately
+function as a reporting public company. Such expenditures could adversely affect
+our financial condition and results of operations.
+
+ITEM 4:  CONTROLS AND PROCEDURES
+
+Evaluation of Disclosure Controls and Procedures. Under the supervision and with
+the participation of our management, including our Chief Executive Officer and
+Chief Financial Officer, we evaluated the effectiveness of the design and
+operation of our disclosure controls and procedures (as defined in Rules
+13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934) as of the end
+of the period covered by this report. Disclosure controls and procedures are the
+controls and other procedures that we designed to ensure that we record,
+process, summarize and report in a timely manner the information we must
+disclose in reports that we file with or submit to the Securities and Exchange
+Commission.
+
+Based on this evaluation, our Chief Executive Officer and our Chief Financial
+Officer concluded that the aforementioned disclosure controls and procedures
+were not effective as of December 31, 2005 and must be revised, as described in
+the following paragraphs. There were no other significant changes made in our
+internal controls or in other factors that could significantly affect internal
+controls subsequent to the date of their evaluation.
+
+Our independent registered public accounting firm, Windes & McClaughry, has
+advised our audit committee and management that it considers the two matters to
+be "material weaknesses" as that term is defined under standards established by
+the Public Company Accounting Oversight Board (United States).
+
+The first matter related to the fact that our independent registered public
+accounting firm identified a material adjustment which was required to be made
+to the financial statements for the nine months ended December 31, 2005. The
+adjustment was to our provision for income taxes whereby we did not provide for
+the tax benefit of an operating loss carryforward that was needed by AJOL, our
+Japanese operating subsidiary. The adjustment has been reflected in the
+financial statements included in this Form 10-Q. Had such adjustment not been
+recorded, non-current deferred tax assets would have been understated by
+$532,540 at December 31, 2005 and the net loss for the nine months ended
+December 31, 2005, would have been overstated by $532,540.
+
+The second matter was that during the course of our procedures, we determined
+that Goodwill was understated by $205,991 for the acquisition of USC on May 30,
+2005. The impact of the understatement of goodwill on the financial statements
+is as follows:
+
+The Board of Directors has concluded that the understatement of Goodwill, the
+material adjustment to deferred taxes discovered by our independent registered
+public accounting firm and the related delay in submitting this Form 10-Q were
+the result of insufficient staffing and the lack of internal expertise in
+international tax accounting. To ensure such adjustments and filing delays will
+be avoided in the future, we have hired a full time assistant to the CFO and
+retained the services of a consultant who was formerly a Director of
+International Tax at a Big Four accounting firm with over 20 years of
+experience. With the retention of the aforementioned staff and consultant, we
+believe that the controls and procedures designed to ensure that we record,
+process, summarize and report in a timely manner the information we must
+disclose in reports that we file with or submit to the Securities and Exchange
+Commission as adequate.
+
+We have initiated our planning for the implementation of Section 404 of the
+Sarbanes-Oxley Act (Section 404). We have hired two full time individuals who
+will be responsible for the implementation of Section 404 under the guidance of
+the CFO. While they will report directly to the CFO on a day to day basis, they
+have direct access to the Board of Directors. The implementation of Section 404
+will involve significant costs and commitments in terms of our financial and
+personnel resources, and there is a possibility that we may not complete our
+Section 404 compliance responsibilities by the established deadline.
+
+                                       25
+
+PART 2:
+
+ITEM 1:  LEGAL PROCEEDINGS
+
+         None.
+
+ITEM 2:  CHANGES IN SECURITIES AND USE OF PROCEEDS
+
+         None.
+
+ITEM 3:  DEFAULTS UPON SENIOR SECURITIES
+
+         None.
+
+ITEM 4:  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+         None.
+
+ITEM 5:  OTHER INFORMATION
+
+         None.
+
+ITEM 6:  EXHIBITS AND REPORTS ON FORM 8-K:
+
+A - Exhibits:
+
+         Exhibit 31.1 - Chief Executive Officer Certification Pursuant to
+                        Section 906 of the Sarbanes-Oxley Act of 2002
+
+         Exhibit 31.2 - Chief Financial Officer Certification Pursuant to
+                        Section 906 of the Sarbanes-Oxley Act of 2002
+
+         Exhibit 32.1 - Certification of Chief Executive Officer and
+                        Chief Financial Officer Pursuant to Rule 13a-14(b) of
+                        the Exchange Act and 18 U.S.C. Section 1350, as Adopted
+                        Pursuant to Section 906 of the Sarbanes-Oxley Act of
+                        2002.
+
+26
+
+B - Reports on Form 8-K
+
+1)   On July 13, 2005 the Company filed a Current Report on Form 8-K under item
+     8.01, "Other Events," which reported the anticipated delay in filing the
+     Company's Form 10-K beyond the extended due date of July 14, 2005.
+
+2)   On July 26, 2005 the Company filed a Current Report on Form 8-K under item
+     8.01, "Other Events," which reported the sale of the Company's stock sold
+     by a shareholder and affiliate of the Company to Japanese purchasers.
+
+3)   On August 23, 2005 the Company filed a Current Report on Form 8-K under
+     item 3.01, "Notice of Delisting or Failure to Satisfy a Continued Listing
+     Rule or Standard; Transfer Listing," which reported that the Company had
+     initiated a hearing with the OTC Bulletin Board Filing Department of the
+     National Association of Securities Dealers to discuss the Company's SEC
+     reporting status.
+
+4)   On September 9, 2005 the Company filed a Current Report on Form 8-K under
+     item 4.01, "Changes in Registrant's Certifying Accountant," which reported
+     that the Company's auditors, Stonefield Josephson, Inc., had declined to
+     stand for reelection as the Company's auditors. Additionally, concerns
+     raised by Stonefield Josephson, Inc. were noted in this filing.
+
+5)   On September 22, 2005 the Company filed a Current Report on Form 8-K under
+     item 4.01 "Changes in Registrant's Certifying Accountant," which reported
+     that the Company's relationship with its auditor, Stonefield Josephson,
+     Inc., would cease and that the Company's Board of Directors had engaged
+     Windes and McClaughry Accountancy Corporation for the quarter ended June
+     30, 2005. The Company also reported under item 3.01, "Notice of Delisting
+     or Failure to Satisfy a Continued Listing Rule or Standard; Transfer
+     Listing," which noted that it was delinquent in filing its first quarter
+     Form 10-Q and that it had scheduled a hearing with the OTCBB Filings
+     Department regarding its SEC reporting status.
+
+6)   On September 22, 2005 the Company filed a Current Report on Form 8-K/A
+     under item 4.01, "Changes in Registrant's Certifying Accountant," which
+     reported that the Company's auditors, Stonefield Josephson, Inc., had
+     declined to stand for reelection as the Company's auditors. Additionally,
+     concerns raised by Stonefield Josephson, Inc. were noted in this filing. As
+     an exhibit to this filing was Stonefield Josephson's letter addressed to
+     the SEC regarding the Company's filing on September 9, 2005.
+
+7)   On September 26, 2005 the Company filed a Current Report on Form 8-K/A
+     under item 4.01, "Changes in Registrant's Certifying Accountant," which
+     reported that the Company's auditors would be changing from Stonefield
+     Josephson, Inc. to Windes and McClaughry Accountancy Corporation.
+     Additionally, concerns raised by Stonefield Josephson, Inc. were noted in
+     this filing.
+
+8)   On December 15, 2005 the Company filed a Current Report on Form 8-K under
+     item 5.02, "Departure of Directors or Principle Officers; Election of
+     Directors; Appointment of Principle Officers" reporting the resignation of
+     Mr. Hisao Inoue as Chief Executive Officer and Member of the Board of
+     Directors of PPOL, Inc., effective December 15, 2005. It was also reported
+     that in addition to fulfilling the responsibilities of his previous
+     position as the Chief Operating Officer of the Company, Mr. Masao Yamamoto
+     is scheduled to assume the position of Chief Executive Officer upon Mr.
+     Hisao Inoue's resignation.
+
+9)   On January 24, 2006 the Company filed a Current Report on Form 8-K/A under
+     item 4.01, "Changes in Registrants' Certifying Accountant" and item 9.01,
+     "Financial Statements and Exhibits" reporting the engagement of Windes and
+     McClaughry Accountancy Corporation as the Company's auditors. This report
+     also discussed the concerns of the Company's previous auditors, Stonefield
+     Josephson, Inc., and their resignation. A signed letter to the SEC from
+     Stonefield Josephson regarding item 4.01 of the Company's Form 8-K/A of
+     September 26, 2005 was included as an exhibit.
+
+27
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+                                    PPOL, Inc.
+                                    --------------------------------------
+                                    (Registrant)
+
+   March 23, 2006                           /s/ Masao Yamamoto
+   -----------------                --------------------------------------
+   Date                             Masao Yamamoto, Chief Executive Officer
+
+March 23, 2006                           /s/ Richard Izumi
+   -----------------                --------------------------------------
+   Date                             Richard Izumi, Chief Financial Officer
+
+28
+
+<EX-31.1>
+ 2
+ ppol_ex3101.txt
+
+Exhibit 31.1 - CERTIFICATION
+
+I, Masao Yamamoto, certify that:
+
+1. I have reviewed this quarterly report on Form 10-Q of PPOL, Inc.;
+
+2. Based on my knowledge, this quarterly report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to make
+the statements made, in light of the circumstances under which such statements
+were made, not misleading with respect to the period covered by this quarterly
+report;
+
+3. Based on my knowledge, the consolidated financial statements, and other
+financial information included in this quarterly report, fairly present in all
+material respects the financial condition, results of operations and cash flows
+of the registrant as of, and for, the periods presented in this quarterly
+report;
+
+4. The registrant's other certifying officer and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial
+reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the
+registrant and have:
+
+         a) designed such disclosure controls and procedures to ensure that
+material information relating to the registrant, including its consolidated
+subsidiaries, is made known to us by others within those entities, particularly
+during the period in which this quarterly report is being prepared;
+
+         b) designed such internal control over financial reporting, or caused
+such internal control over financial reporting to be designed under our
+supervision, to provide reasonable assurance regarding the reliability of
+financial reporting and preparation of financial statements for external
+purposes in accordance with accounting principles generally accepted in the
+United States of America;
+
+         c) evaluated the effectiveness of the registrant's disclosure controls
+and procedures and presented in this report our conclusions about the
+effectiveness of the disclosure controls and procedures, as of the end of the
+period covered by this report based on such evaluation; and
+
+         d) presented in this quarterly report our conclusions about the
+effectiveness of the disclosure controls and procedures based on our evaluation
+as of the Evaluation Date;
+
+5. The registrant's other certifying officer and I have disclosed, based on our
+most recent evaluation, to the registrant's auditors and the audit committee of
+registrant's board of directors (or persons performing the equivalent function):
+
+         a) all significant deficiencies in the design or operation of internal
+controls which could adversely affect the registrant's ability to record,
+process, summarize and report financial data and have identified for the
+registrant's auditors any material weaknesses in internal controls; and
+
+         b) any fraud, whether or not material, that involves management or
+other employees who have a significant role in the registrant's internal
+controls; and
+
+6. The registrant's other certifying officer and I have indicated in this
+quarterly report whether or not there were significant changes in internal
+controls or other factors that could significantly affect internal controls
+subsequent to the date of our most recent evaluation, including any corrective
+actions with regard to significant deficiencies and material weaknesses.
+
+Date: March 23, 2006
+      -----------------
+
+                                                         /s/ Masao Yamamoto
+                                                         -----------------------
+                                                         Masao Yamamoto
+                                                         Chief Executive Officer
+
+29
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ ppol_ex3102.txt
+
+Exhibit 31.2 - CERTIFICATION
+
+I, Richard Izumi, certify that:
+
+1. I have reviewed this quarterly report on Form 10-Q of PPOL, Inc.;
+
+2. Based on my knowledge, this quarterly report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to make
+the statements made, in light of the circumstances under which such statements
+were made, not misleading with respect to the period covered by this quarterly
+report;
+
+3. Based on my knowledge, the consolidated financial statements, and other
+financial information included in this quarterly report, fairly present in all
+material respects the financial condition, results of operations and cash flows
+of the registrant as of, and for, the periods presented in this quarterly
+report;
+
+4. The registrant's other certifying officer and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial
+reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the
+registrant and have:
+
+         a) designed such disclosure controls and procedures to ensure that
+material information relating to the registrant, including its consolidated
+subsidiaries, is made known to us by others within those entities, particularly
+during the period in which this quarterly report is being prepared;
+
+         b) designed such internal control over financial reporting, or caused
+such internal control over financial reporting to be designed under our
+supervision, to provide reasonable assurance regarding the reliability of
+financial reporting and preparation of financial statements for external
+purposes in accordance with accounting principles generally accepted in the
+United States of America;
+
+         c) evaluated the effectiveness of the registrant's disclosure controls
+and procedures and presented in this report our conclusions about the
+effectiveness of the disclosure controls and procedures, as of the end of the
+period covered by this report based on such evaluation; and
+
+         d) presented in this quarterly report our conclusions about the
+effectiveness of the disclosure controls and procedures based on our evaluation
+as of the Evaluation Date;
+
+5. The registrant's other certifying officers and I have disclosed, based on our
+most recent evaluation, to the registrant's auditors and the audit committee of
+registrant's board of directors (or persons performing the equivalent function):
+
+         a) all significant deficiencies in the design or operation of internal
+controls which could adversely affect the registrant's ability to record,
+process, summarize and report financial data and have identified for the
+registrant's auditors any material weaknesses in internal controls; and
+
+         b) any fraud, whether or not material, that involves management or
+other employees who have a significant role in the registrant's internal
+controls; and
+
+6. The registrant's other certifying officer and I have indicated in this
+quarterly report whether or not there were significant changes in internal
+controls or other factors that could significantly affect internal controls
+subsequent to the date of our most recent evaluation, including any corrective
+actions with regard to significant deficiencies and material weaknesses.
+
+Date: March 23, 2006
+      --------------
+
+                                                         /s/ Richard Izumi
+                                                         -----------------------
+                                                         Richard Izumi
+                                                         Chief Financial Officer
+
+30
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ ppol_ex3201.txt
+
+EXHIBIT 32.1
+
+CERTIFICATION PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Quarterly Report of PPOL, Inc. (the "Company") on Form
+10-Q for the period ended December 31, 2005 as filed with the Securities and
+Exchange Commission and to which this Certification is an exhibit (the
+"Report"), the undersigned hereby certify, pursuant to Section 906 of the
+Sarbanes-Oxley Act of 2002, that:
+
+The Report fully complies with the requirements of section 13(a) or 15(d) of the
+Securities Exchange Act of 1934; and
+
+The information contained in the Report fairly presents, in all material
+respects, the financial condition and results of operations of the Company for
+the periods reflected therein.
+
+Date: March 23, 2006
+
+/s/ Masao Yamamoto
+- ------------------------------------
+Masao Yamamoto, Chief Executive Officer
+
+/s/ Richard Izumi
+- --------------------------------------
+Richard Izumi, Chief Financial Officer
+
+31
+
+</EX-32.1>
+

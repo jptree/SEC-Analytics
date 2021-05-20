@@ -1,0 +1,2262 @@
+<Header>
+<FileStats>
+    <FileName>20060317_10-Q_edgar_data_790526_0001019687-06-000601_1.txt</FileName>
+    <GrossFileSize>140047</GrossFileSize>
+    <NetFileSize>124980</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>434</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>4</N_Tables>
+    <N_Exhibits>4</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001019687-06-000601.hdr.sgml : 20060317
+<ACCEPTANCE-DATETIME>20060317122707
+ACCESSION NUMBER:		0001019687-06-000601
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20060131
+FILED AS OF DATE:		20060317
+DATE AS OF CHANGE:		20060317
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PRIMEDEX HEALTH SYSTEMS INC
+		CENTRAL INDEX KEY:			0000790526
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-MEDICAL LABORATORIES [8071]
+		IRS NUMBER:				133326724
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1031
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-19019
+		FILM NUMBER:		06694758
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1516 COTNER AVE
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90025
+		BUSINESS PHONE:		3104787808
+
+	MAIL ADDRESS:	
+		STREET 1:		1516 COTNER AVE
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90025
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	CCC FRANCHISING CORP
+		DATE OF NAME CHANGE:	19920703
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Sbr3btxl5/npyau3vyySurUOdMRkFRt3git71YlyGYvhktAX/8rHOE6hHmWLW4bR
+ cHR7EIesvgBNuC4S8ZnCXA==
+
+ 0001019687-06-000601.txt : 20060317
+
+10-Q
+ 1
+ primedex_10q-013106.txt
+
+================================================================================
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                              WASHINGTON D.C. 20549
+
+                                    FORM 10-Q
+
+[X]  QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES EXCHANGE
+     ACT OF 1934
+
+                 FOR THE QUARTERLY PERIOD ENDED JANUARY 31, 2006
+
+                                       OR
+
+[ ]  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE SECURITIES
+     EXCHANGE ACT OF 1934
+
+             FOR THE TRANSITION PERIOD FROM __________ TO __________
+
+                         COMMISSION FILE NUMBER 0-19019
+
+                          PRIMEDEX HEALTH SYSTEMS, INC.
+               (EXACT NAME OF REGISTRANT AS SPECIFIED IN CHARTER)
+
+                NEW YORK                               13-3326724
+     (STATE OR OTHER JURISDICTION                  (I.R.S. EMPLOYER
+   OF INCORPORATION OR ORGANIZATION)              IDENTIFICATION NO.)
+
+           1510 COTNER AVENUE
+        LOS ANGELES, CALIFORNIA                         90025
+ (ADDRESS OF PRINCIPAL EXECUTIVE OFFICES)             (ZIP CODE)
+
+                                 (310) 478-7808
+              (REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE)
+
+                                       N/A
+              (FORMER NAME, FORMER ADDRESS AND FORMER FISCAL YEAR,
+                          IF CHANGED SINCE LAST REPORT)
+
+     Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 of 15(d) of the Securities and Exchange Act
+of 1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes [X] No [ ]
+
+     Indicate by check mark whether the registrant is a shell company (as
+defined in Exchange Act Rule 12b-2). Yes [ ] No [X]
+
+                APPLICABLE ONLY TO ISSUERS INVOLVED IN BANKRUPTCY
+                  PROCEEDINGS DURING THE PRECEDING FIVE YEARS:
+
+     Indicate by check mark whether the registrant has filed all documents and
+reports required to be filed by Sections 12, 13 or 15(d) of the Securities
+Exchange Act of 1934 subsequent to the distribution of securities under a plan
+confirmed by a court. Yes [X] No [ ]
+
+                      APPLICABLE ONLY TO CORPORATE ISSUERS:
+
+     The number of shares outstanding of the registrant's common stock as of
+February 27, 2006 was 41,406,813 (excluding treasury shares).
+
+================================================================================
+
+                                       1
+
+PRIMEDEX HEALTH SYSTEMS, INC. AND AFFILIATES
+NOTES TO UNAUDITED CONSOLIDATED FINANCIAL STATEMENTS
+
+NOTE 1--BASIS OF PRESENTATION
+
+NATURE OF BUSINESS
+
+     Primedex Health Systems, Inc., or Primedex, incorporated on October 21,
+1985, provides diagnostic imaging services in the state of California. Imaging
+services include magnetic resonance imaging, or MRI, computer tomography, or CT,
+positron emission tomography, or PET, nuclear medicine, mammography, ultrasound,
+diagnostic radiology, or X-ray, and fluoroscopy. Our operations comprise a
+single segment for financial reporting purposes.
+
+     The consolidated financial statements of Primedex include the accounts of
+Primedex, its wholly owned direct subsidiary, Radnet Management, Inc., or
+Radnet, and Beverly Radiology Medical Group III, or BRMG, which is a
+professional corporation, all collectively referred to as "us" or "we". The
+consolidated financial statements also include Radnet Sub, Inc., Radnet
+Management I, Inc., Radnet Management II, Inc., or Modesto, SoCal MR Site
+Management, Inc., and Diagnostic Imaging Services, Inc., or DIS, all wholly
+owned subsidiaries of Radnet.
+
+     The operations of BRMG are consolidated with us as a result of the
+contractual and operational relationship among BRMG, Dr. Berger and us. We are
+considered to have a controlling financial interest in BRMG pursuant to the
+guidance in EITF 97-2. Medical services and supervision at most of our imaging
+centers are provided through BRMG and through other independent physicians and
+physician groups. BRMG is consolidated with Pronet Imaging Medical Group, Inc.
+and Beverly Radiology Medical Group, both of which are 99%-owned by Dr. Berger.
+Radnet provides non-medical, technical and administrative services to BRMG for
+which they receive a management fee.
+
+     Operating activities of subsidiary entities are included in the
+accompanying financial statements from the date of acquisition. All intercompany
+transactions and balances have been eliminated in consolidation.
+
+     The accompanying unaudited consolidated financial statements have been
+prepared in accordance with the instructions to Form 10-Q and Rule 10-01 of
+Regulation S-X and, therefore, do not include all information and footnotes
+necessary for a fair presentation of financial position, results of operations
+and cash flows in conformity with accounting principles generally accepted in
+the United States for complete financial statements; however, in the opinion of
+our management, all adjustments consisting of normal recurring adjustments
+necessary for a fair presentation of financial position, results of operations
+and cash flows for the interim periods ended January 31, 2006 and 2005 have been
+made. The results of operations for any interim period are not necessarily
+indicative of the results for a full year. These interim consolidated financial
+statements should be read in conjunction with the consolidated financial
+statements and related notes thereto contained in our Annual Report on Form 10-K
+for the year ended October 31, 2005.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+     We had a working capital deficit of $5.5 million at January 31, 2006
+compared to a $143.4 million deficit at October 31, 2005, and had losses from
+operations of $0.5 million and $2.2 million during the three months ended
+January 31, 2006 and 2005, respectively. We also had a stockholders' deficit of
+$71.0 million at January 31, 2006 compared to a $70.6 million deficit at October
+31, 2005.
+
+     The working capital deficit increased in fiscal 2005 due to the
+reclassification of approximately $109 million in notes and capital lease
+obligations as current liabilities expected to be refinanced. We were subject to
+financial covenants under our debt agreements and believed we may have been
+unable to continue to be in compliance with our existing financial covenants
+during fiscal 2006. As such, the associated debt was reclassified as a current
+liability.
+
+                                       6
+
+Effective March 9, 2006, we completed the issuance of a $161 million senior
+secured credit facility that we used to refinance substantially all of our
+existing indebtedness (except for $16.1 million of outstanding subordinated
+debentures and approximately $5 million of capital lease obligations). Included
+in the $161 million senior secured credit facility were fees and expenses for
+the transaction of approximately $5.2 million. The facility provides for a $15
+million five-year revolving credit facility, an $86 million term loan due in
+five years and a $60 million second lien term loan due in six years. The loans
+are subject to acceleration on December 27, 2007, unless we have made
+arrangements to discharge or extend our outstanding subordinated debentures by
+that date. We intend to retire the subordinated debentures prior to their due
+date of June 30, 2008. Under the terms and conditions of the new Second Lien
+Term Loan, subject to achieving certain leverage ratios, we have the right to
+raise up to $16.1 million in additional funds as part of the Second Lien Term
+Loan for the purposes of redeeming the subordinated debentures. Additionally,
+under the current facilities, we have the ability to pursue other funding
+sources to refinance the subordinated debentures. The loans are payable interest
+only monthly except for the $86 million term loan that requires amortization
+payments of 1.0% per annum.
+
+     The revolving credit facility and the $86 million term loan bear interest
+at a base rate ("base rate" means corporate loans posted by at least 75% of the
+nation's 30 largest banks as quoted by the Wall Street Journal) plus 2.5%, or at
+our election, the LIBOR rate plus 4.0% per annum, payable monthly. The $60
+million second lien term loan bears interest at the base rate plus 7.0%, or at
+our election, the LIBOR rate plus 8.5% per annum, payable monthly. The $86
+million term loan includes amortization payments of 1.0% per annum, payable in
+quarterly installments of $215,000. Upon the close of the refinancing on March
+9, 2006, we utilized approximately $1.5 million of the new $15 million revolving
+credit facility.
+
+     As part of the refinancing, we are required to swap at least 50% of the
+aggregate principal amount of the facilities to a floating rate within 90 days
+of the close of the agreement on March 9, 2006. We have not yet entered into the
+swap arrangement or decided on how much of the loans will be swapped. In
+addition, as a requirement of the deal, 75% of our excess cash flow is to be
+used to repay principal on the $86 million term loan once per year within 105
+days after our fiscal year end. Excess cash flow is defined as earnings before
+interest, taxes, depreciation and amortization plus decreases in working capital
+and extraordinary gains minus: (i) capital expenditures; (ii) interest expense;
+(iii) scheduled principal payments on existing debt; (iv) income taxes; (v)
+increases in working capital; (vi) extraordinary losses; (vii) voluntary
+prepayments of the $86 million term loan; (vii) and amounts paid for
+acquisitions.
+
+     Under the new facility, we are subject to various financial covenants
+including a limitation on capital expenditures, maximum days sales outstanding,
+minimum fixed charge coverage ratio, maximum leverage ratio and maximum senior
+leverage ratio. Availability under our $15 million revolving credit facility is
+governed by the margins calculated under the maximum senior leverage ratio and
+maximum total leverage ratio covenants. Borrowings under the historical Bridge
+credit facility were calculated from a formula based upon our net eligible
+accounts receivable. As of March 9, 2006, after giving effect to the
+approximately $1.5 million balance on our revolving credit facility, we had
+approximately $13.5 million of availability. As a result of the completed
+financing, we were able to reclassify the majority of our notes and capital
+lease obligations as noncurrent as of January 31, 2006 and improve our working
+capital significantly.
+
+     We operate in a capital intensive, high fixed-cost industry that requires
+significant amounts of capital to fund operations. In addition to operations, we
+require significant amounts of capital for the initial start-up and development
+expense of new diagnostic imaging facilities, the acquisition of additional
+facilities and new diagnostic imaging equipment, and to service our existing
+debt and contractual obligations. Because our cash flows from operations have
+been insufficient to fund all of these capital requirements, we have depended on
+the availability of financing under credit arrangements with third parties.
+Historically, our principal sources of liquidity have been funds available for
+borrowing under our existing lines of credit, now with General Electric Capital
+Corporation. We finance the acquisition of equipment mainly through capital and
+operating leases. As of January 31, 2006 and October 31, 2005, our line of
+credit liabilities were $14.0 million and $13.3 million, respectively. As of
+January 31, 2006, $468,000 of line of credit liabilities were classified as
+current liabilities for the unpaid balance at the closing of the refinancing
+transaction.
+
+                                       7
+
+As of January 31, 2006, Howard G. Berger, M.D., our president, director and
+largest shareholder had outstanding advances to us of $1,370,000. Our obligation
+to Dr. Berger was repaid as part of our March 9, 2006 refinancing.
+
+     The interim disclosures regarding liquidity and capital resources should be
+read in conjunction with the consolidated financial statements and related notes
+thereto contained in our Annual Report of Form 10-K for the year ended October
+31, 2005. There were no material changes in our financing agreements from
+October 31, 2005 to January 31, 2006.
+
+     Our business strategy with regard to operations will focus on the
+following:
+
+          o    Maximizing performance at our existing facilities;
+
+          o    Focusing on profitable contracting;
+
+          o    Expanding MRI and CT applications
+
+          o    Optimizing operating efficiencies; and
+
+          o    Expanding our networks.
+
+     Due to the March 9, 2006 refinancing, we will be able to use the cash
+savings generated from the deferral of required principal payments on notes
+payable and capital lease obligations of approximately $1.2 million per month to
+invest in the infrastructure and to pursue future growth opportunities.
+
+     Our ability to generate sufficient cash flow from operations to make
+payments on our debt and other contractual obligations will depend on our future
+financial performance. A range of economic, competitive, regulatory, legislative
+and business factors, many of which are outside of our control, will affect our
+financial performance. Taking these factors into account, including our
+historical experience and our discussions with our lenders to date, although no
+assurance can be given, we believe that through implementing our strategic plans
+and continuing to restructure our financial obligations, we will obtain
+sufficient cash to satisfy our obligations as they become due in the next twelve
+months.
+
+NOTE 2 - SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+     REVENUE RECOGNITION--Revenue consists of net patient fee for service
+revenue and revenue from capitation arrangements, or capitation revenue.
+
+     Net patient service revenue is recognized at the time services are provided
+net of contractual adjustments based on our evaluation of expected collections
+resulting from their analysis of current and past due accounts, past collection
+experience in relation to amounts billed and other relevant information.
+Contractual adjustments result from the differences between the rates charged
+for services performed and reimbursements by government-sponsored healthcare
+programs and insurance companies for such services.
+
+     Capitation revenue is recognized as revenue during the period in which we
+were obligated to provide services to plan enrollees under contracts with
+various health plans. Under these contracts, we receive a per enrollee amount
+each month covering all contracted services needed by the plan enrollees.
+
+     The following table summarizes net revenue for the three months ended
+January 31, 2005 and 2006:
+
+                                                 2005          2006
+                                             -----------   -----------
+          Net patient service                $24,860,000   $27,739,000
+          Capitation                           9,250,000    10,799,000
+                                             -----------   -----------
+          Net revenue                        $34,110,000   $38,538,000
+                                             ===========   ===========
+
+     Accounts receivable are primarily amounts due under fee-for-service
+contracts from third party payors, such as insurance companies and patients and
+government-sponsored healthcare programs geographically dispersed throughout
+California.
+
+                                       8
+
+Accounts receivable as of October 31, 2005 are presented net of allowances
+of approximately $59,491,000, of which $56,296,000 is included in current and
+$3,195,000 is included in noncurrent. Accounts receivable as of January 31,
+2006, are presented net of allowances of approximately $61,871,000, of which
+$58,549,000 is included in current and $3,322,000 is included in noncurrent.
+
+     CREDIT RISKS - Financial instruments that potentially subject us to credit
+risk are primarily cash equivalents and accounts receivable. We have placed our
+cash and cash equivalents with one major financial institution. At times, the
+cash in the financial institution is temporarily in excess of the amount insured
+by the Federal Deposit Insurance Corporation, or FDIC.
+
+     With respect to accounts receivable, we routinely assess the financial
+strength of our customers and third-party payors and, based upon factors
+surrounding their credit risk, establish a provision for bad debt. Net revenue
+by payor for the three months ended January 31, 2005 and 2006 were:
+
+                                                     Net Revenue
+                                                 --------------------
+                                                   2005        2006
+                                                 --------    --------
+          Capitation contracts                      27%         28%
+          HMO/PPO/Managed care                      21%         24%
+          Medicare                                  14%         15%
+          Blue Cross/Shield/Champus                 14%         15%
+          Special group contract                    10%          8%
+          Commercial insurance                       5%          3%
+          Medi-Cal                                   3%          3%
+          Workers compensation                       3%          2%
+          Other                                      3%          2%
+
+     Management believes that its accounts receivable credit risk exposure,
+beyond allowances that have been provided, is limited.
+
+     STOCK-BASED COMPENSATION EXPENSE - On November 1, 2005, we adopted
+Statement of Financial Accounting Standards No. 123 (revised 2004), "
+Share-Based Payment," ("SFAS 123(R)") which requires the measurement and
+recognition of compensation expense for all share-based payment awards made to
+employees and directors. SFAS 123(R) supersedes our previous accounting under
+Accounting Principles Board Opinion No. 25, "Accounting for Stock Issued to
+Employees" ("APB 25") for period beginning in fiscal 2006. In March 2005, the
+Securities and Exchange Commission issued Staff Accounting Bulletin No. 107
+("SAB 107") relating to SFAS 123(R). We have applied the provisions of SAB 107
+in our adoption of SFAS 123(R).
+
+     We adopted SFAS 123(R) using the modified prospective transition method,
+which requires that application of the accounting standard as of November 1,
+2005, the first day of our fiscal year 2006. Our consolidated financial
+statements as of and for the three months ended January 31, 2006 reflect the
+impact of SFAS 123(R). In accordance with the modified prospective transition
+method, our consolidated financial statements for prior periods have not been
+restated to reflect, and do not include, the impact of SFAS 123(R). Stock-based
+compensation expense recognized under SFAS 123(R) for the three months ended
+January 31, 2006 was $40,000. There was no stock-based compensation expense
+related to employee stock options recognized during the three months ended
+January 31, 2005.
+
+     The following table illustrates the effect on net income and earnings per
+share if we had applied the fair value recognition principles of SFAS No. 123 to
+stock-based employee compensation during fiscal 2005.
+
+Three Months Ended January 31,                                       2005
+                                                                -----------
+Net loss as reported                                            $(2,198,000)
+Deduct: Total stock-based employee compensation expense
+     determined under fair value-based method                       (46,000)
+                                                                -----------
+Pro forma net loss                                              $(2,244,000)
+                                                                ===========
+Loss per share:
+
+     Basic and diluted loss per share - as reported             $     (0.05)
+                                                                ===========
+     Basic and diluted loss per share - pro forma               $     (0.05)
+                                                                ===========
+
+                                       9
+
+SFAS 123(R) requires companies to estimate the fair value of share-based
+payment awards on the date of grant using an option-pricing model. The value of
+the portion of the award that is ultimately expected to vest is recognized as
+expense over the requisite service periods in our statement of operations. Prior
+to the adoption of SFAS 123(R), we accounted for stock-based awards to employees
+and directors using the intrinsic value method in accordance with APB 25 as
+allowed under Statement of Accounting Standards No. 123, "Accounting for
+Stock-Based Compensation" ("SFAS 123"). Under the intrinsic value method, no
+stock-based compensation had been recognized in our statement of operations,
+because the exercise price of our stock options granted to employees and
+directors equaled the fair market value of the underlying stock at the date of
+grant.
+
+     Stock-based compensation expense recognized during the period is based on
+the value of the portion of share-based payment awards that is ultimately
+expected to vest during the period. Stock-based compensation expense recognized
+in our statement of operations for the three months ended January 31, 2006
+included compensation expense for share-based payment awards granted prior to,
+but not yet vested as of October 31, 2005 based on the grant date fair value
+estimated in accordance with the pro forma provisions of SFAS 123. We use the
+straight-line method of attributing the value of stock-based compensation to
+expense. SFAS 123(R) requires forfeitures to be estimated at the time of grant
+and revised, if necessary, in subsequent periods if actual forfeitures differ
+from those estimates. In our pro forma information required under SFAS 123 for
+the periods prior to November 1, 2005, we accounted for forfeitures as they
+occurred.
+
+     The fair value of each option granted is estimated on the grant date using
+the Black-Scholes option pricing model which takes into account as of the grant
+date the exercise price and expected life of the option, the current price of
+the underlying stock and its expected volatility, expected dividends on the
+stock and the risk-free interest rate for the term of the option. The following
+is the average of the data used to calculate the fair value:
+
+                Risk-free                        Expected       Expected
+January 31,   interest rate   Expected life     Volatility      dividends
+- -----------   -------------   -------------     ----------      ---------
+
+    2005          3.00%          5 years          216.32%          ---
+    2006          4.55%          4 years           87.50%          ---
+
+     RECLASSIFICATIONS - Certain prior year amounts have been reclassified to
+conform with the current period presentation. These changes have no effect on
+net income.
+
+NOTE 3 - ACQUISITIONS AND DIVESTITURES
+
+ACQUISITIONS AND OPENINGS OF IMAGING CENTERS
+
+     In December 2005, we entered into a new building lease in Encino,
+California for approximately 10,425 square feet to begin the development of a
+new center, San Fernando Interventional Radiology and Imaging Center, which is
+expected to open by the end of this fiscal year. The center will offer MRI, CT,
+ultrasound and x-ray services as well as biopsy, angiography, shunt, and pain
+management procedures. The monthly rent is approximately $19,600 and the first
+month's rent will be due no later than September 2006.
+
+     At various times, we may open or close small x-ray facilities acquired
+primarily to service larger capitation arrangements over a specific geographic
+region. Over time, patient volume from these contracts may vary, or we may end
+the arrangement, resulting in the subsequent closures of these smaller satellite
+facilities.
+
+NOTE 4 - CAPITAL TRANSACTIONS
+
+     On December 19, 2003, we issued a $1.0 million convertible subordinate note
+payable to Galt Financial, Ltd., at a stated rate of 11% per annum with interest
+payable quarterly. The note payable was convertible at the holder's option
+anytime after January 1, 2006 at $0.50 per share. As additional consideration
+for the financing, we issued a warrant for the purchase of 500,000 shares at an
+exercise price of $.50 per share. We allocated $0.1 million to the value of the
+warrants. In November 2005, the right to convert the $1.0 million obligation
+into 2,000,000 shares of common stock was waived in exchange for the issuance of
+a five-year warrant to purchase 300,000 shares of our common stock at a price of
+$0.50 per share, the public market price on the date of the warrant, as
+consideration for the note being extended to July 1, 2006. We recorded $0.1
+million for the estimated fair value of these warrants as a deferred cost which
+will be amortized as interest expense to the extended date of maturity. The note
+was repaid as part of our March 9, 2006 refinancing.
+
+                                       10
+
+During the three months ended January 31, 2006, we issued to one employee a
+five-year option exercisable at $0.50 per share, which was the public market
+closing price for our common stock on the transaction date, to purchase 15,000
+shares of our common stock. We allocated approximately $2,000 to the value of
+these options. In addition, during the same period, we retired options to
+purchase 32,000 shares at a weighted average price of $0.40 per share upon one
+employee's termination.
+
+NOTE 5 - SUBSEQUENT EVENTS
+
+     Effective February 1, 2006, upon the inception of a new capitation
+arrangement, we opened an additional satellite office in Yucaipa, California
+that provides x-ray services for our Riverside location.
+
+     Effective February 1, 2006, we entered into a facility use agreement for an
+open MRI center in Vallejo, California. The agreement provides for the use of
+the equipment and facility for a monthly fee.
+
+     Effective February 1, 2006, we invested $237,000 for a 47.5% membership
+interest in an entity that operates a PET center in Palm Springs, California.
+The center will provide PET services for our existing facilities in the area
+replacing a prior arrangement where PET services were provided by a mobile unit
+for a "per use" fee.
+
+     The Deficit Reduction Act of 2005 (DRA) was approved by Congress and signed
+into law on February 9, 2006. The DRA provides that reimbursement for the
+technical component for imaging services (excluding diagnostic and screening
+mammography) in non-hospital based freestanding facilities will be capped at the
+lesser of reimbursement under the Medicare Part B physician fee schedule or the
+Hospital Outpatient Prospective Payment System (HOPPS) schedule. Currently, the
+technical component of our imaging services is reimbursed under the Part B
+physician fee schedule, which for certain modalities like MRI and CT, allows for
+higher reimbursement on average than under the HOPPS. For other imaging exams,
+such as x-ray and ultrasound, reimbursement under the HOPPS is greater on
+average. Under the DRA, we will be reimbursed at the lower of the two schedules,
+beginning January 1, 2007.
+
+     The DRA also codifies the reduction in reimbursement for multiple images on
+contiguous body parts previously announced by the Centers for Medicare and
+Medicaid Services (CMS). In November 2005, CMS announced that it will pay 100%
+of the technical component of the higher priced imaging procedure and 50% for
+the technical component of each additional imaging procedure involving
+contiguous body parts when performed in the same session. Under current
+methodology, Medicare pays 100% of the technical component of each procedure.
+This rate reduction will occur in two steps, so that the reduction will be 25%
+for each additional imaging procedure in 2006 and another 25% in 2007. For the
+fiscal year ended October 31, 2005, Medicare revenue from our imaging centers
+represented approximately 15% of our total revenue. Of this amount,
+approximately 54% was from MRI and CT, the modalities affected more
+significantly by the reimbursement reductions. If both the HOPPS and contiguous
+body part reimbursement reductions contained in the DRA had been in effect
+during fiscal year 2005, we estimate that our revenue would have been reduced by
+approximately $2.5-$3.0 million.
+
+     On February 28, 2006, we issued a five-year warrant for the purchase of
+200,000 shares of our common stock at a price of $0.40 per share to one
+physician.
+
+     Effective March 9, 2006, we completed the issuance of a $161 million senior
+secured credit facility that we used to refinance substantially all of our
+existing indebtedness (except for $16.1 million of outstanding subordinated
+debentures and approximately $5 million of capital lease obligations). Included
+in the $161 million senior secured credit facility were fees and expenses for
+the transaction of approximately $5.2 million. The facility provides for a $15
+million five-year revolving credit facility, an $86 million term loan due in
+five years and a $60 million second lien term loan due in six years. The loans
+are subject to acceleration on December 27, 2007, unless we have made
+arrangements to discharge or extend our outstanding subordinated debentures by
+that date. We intend to retire the subordinated debentures prior to their due
+date of June 30, 2008. Under the terms and conditions of the new Second Lien
+Term Loan, subject to achieving certain leverage ratios, we have the right to
+raise up to $16.1 million in additional funds as part of the Second Lien Term
+Loan for the purposes of redeeming the subordinated debentures. Additionally,
+under the current facilities, we have the ability to pursue other funding
+sources to refinance the subordinated debentures. The loans are payable interest
+only monthly except for the $86 million term loan that requires amortization
+payments of 1% per annum.
+
+                                       11
+
+The revolving credit facility and the $86 million term loan bear interest
+at a base rate ("base rate" means corporate loans posted by at least 75% of the
+nation's 30 largest banks as quoted by the Wall Street Journal) plus 2.5%, or at
+our election, the LIBOR rate plus 4.0% per annum, payable monthly. The $60
+million second lien term loan bears interest at the base rate plus 7.0%, or at
+our election, the LIBOR rate plus 8.5% per annum, payable monthly. The $86
+million term loan includes amortization payments of 1.0% per annum, payable in
+quarterly installments of $215,000. Upon the close of the refinancing on March
+9, 2006, we utilized approximately $1.5 million of the new $15 million revolving
+credit facility.
+
+     As part of the refinancing, we are required to swap at least 50% of the
+aggregate principal amount of the facilities to a floating rate within 90 days
+of the close of the agreement on March 9, 2006. We have not yet entered into the
+swap arrangement or decided on how much of the loans will be swapped. In
+addition, as a requirement of the deal, 75% of our excess cash flow is to be
+used to repay principal on the $86 million term loan once per year within 105
+days after our fiscal year end. Excess cash flow is defined as earnings before
+interest, taxes, depreciation and amortization plus decreases in working capital
+and extraordinary gains minus: (i) capital expenditures; (ii) interest expense;
+(iii) scheduled principal payments on existing debt; (iv) income taxes; (v)
+increases in working capital; (vi) extraordinary losses; (vii) voluntary
+prepayments of the $86 million term loan; (vii) and amounts paid for
+acquisitions.
+
+     Under the new facility, we are subject to various financial covenants
+including a limitation on capital expenditures, maximum days sales outstanding,
+minimum fixed charge coverage ratio, maximum leverage ratio and maximum senior
+leverage ratio. Availability under our $15 million revolving credit facility is
+governed by the margins calculated under the maximum senior leverage ratio and
+maximum total leverage ratio covenants. Borrowings under the historical Bridge
+credit facility were calculated from a formula based upon our net eligible
+accounts receivable. As of March 9, 2006, after giving effect to the
+approximately $1.5 million balance on our revolving credit facility, we had
+approximately $13.5 million of availability. As a result of the completed
+financing, we were able to reclassify the majority of our notes and capital
+lease obligations as noncurrent as of January 31, 2006 and improve our working
+capital significantly.
+
+12
+
+ITEM 2: MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS
+
+OVERVIEW
+
+     We operate a group of regional networks comprised of 60 fixed-site
+freestanding outpatient diagnostic imaging facilities in California. We believe
+our group of regional networks is the largest of its kind in California. We have
+strategically organized our facilities into regional networks in markets, which
+have both high-density and expanding populations, as well as attractive payor
+diversity.
+
+     All of our facilities employ state-of-the-art equipment and technology in
+modern, patient-friendly settings. Many of our facilities within a particular
+region are interconnected and integrated through our advanced information
+technology system. Thirty four of our facilities are multi-modality sites,
+offering various combinations of MRI, CT, PET, nuclear medicine, ultrasound,
+X-ray and fluoroscopy services. Twenty six of our facilities are single-modality
+sites, offering either X-ray, MRI or PET services. Consistent with our regional
+network strategy, we locate our single-modality sites near multi-modality sites
+to help accommodate overflow in targeted demographic areas.
+
+     We derive substantially all of our revenue, directly or indirectly, from
+fees charged for the diagnostic imaging services performed at our facilities.
+During the three months ended January 31, 2005 and 2006, we derived 58% of our
+net revenue from MRI and CT scans. Over the past years, we have increased net
+revenue primarily through improvements in net reimbursement, expansions of
+existing facilities, upgrades in equipment and development of new facilities.
+
+     The fees charged for diagnostic imaging services performed at our
+facilities are paid by a diverse mix of payors, as illustrated for the three
+months ended January 31, 2006 by the following table:
+
+                                                         PERCENTAGE
+                                                          OF NET
+         PAYOR TYPE                                       REVENUE
+         ----------                                      ----------
+         Insurance(1)                                        42%
+         Managed Care Capitated Payors                       28
+         Medicare/Medi-Cal                                   18
+         Other(2)                                             9
+         Workers Compensation/Personal Injury                 3
+
+- ----------
+(1)  Includes Blue Cross/Blue Shield, which represented 15% of our net revenue
+     for the three months ended January 31, 2006.
+(2)  Includes co-payments, direct patient payments and payments through
+     contracts with physician groups and other non-insurance company payors.
+
+     Our eligibility to provide service in response to a referral often depends
+on the existence of a contractual arrangement between the radiologists providing
+the professional medical services or us and the referred patient's insurance
+carrier or managed care organization. These contracts typically describe the
+negotiated fees to be paid by each payor for the diagnostic imaging services we
+provide. With the exception of Blue Cross/Blue Shield and government payors, no
+single payor accounted for more than 5% of our net revenue for the three months
+ended January 31, 2006. Under our capitation agreements, we receive from the
+payor a pre-determined amount per member, per month. If we do not successfully
+manage the utilization of our services under these agreements, we could incur
+unanticipated costs not offset by additional revenue, which would reduce our
+operating margins.
+
+     The principal components of our fixed operating expenses, excluding
+depreciation, include professional fees paid to radiologists, except for those
+radiologists who are paid based on a percentage of revenue, compensation paid to
+technologists and other employees, and expenses related to equipment rental and
+purchases, real estate leases and insurance, including errors and omissions,
+malpractice, general liability, workers' compensation and employee medical. The
+principal components of our variable operating expenses include expenses related
+to equipment maintenance, medical supplies, marketing, business development and
+corporate overhead. Because a majority of our expenses are fixed, increased
+revenue as a result of higher scan volumes per system can significantly improve
+our margins, while lower scan volumes can result in significantly lower margins.
+
+                                       13
+
+BRMG strives to maintain qualified radiologists and technologists while
+minimizing turnover and salary increases and avoiding the use of outside
+staffing agencies, which are considerably more expensive and less efficient. In
+recent years, there has been a shortage of qualified radiologists and
+technologists in some of the regional markets we serve. As turnover occurs,
+competition in recruiting radiologists and technologists may make it difficult
+for our contracted radiology practices to maintain adequate levels of
+radiologists and technologists without the use of outside staffing agencies. At
+times, this has resulted in increased costs for us.
+
+OUR RELATIONSHIP WITH BRMG
+
+     Howard G. Berger, M.D. is our President and Chief Executive, a member of
+our Board of Directors, and owns approximately 30% of Primedex's outstanding
+common stock. Dr. Berger also owns, indirectly, 99% of the equity interests in
+BRMG. BRMG provides all of the professional medical services at 42 of our
+facilities under a management agreement with us, and contracts with various
+other independent physicians and physician groups to provide all of the
+professional medical services at most of our other facilities. We obtain
+professional medical services from BRMG, rather than providing such services
+directly or through subsidiaries, in order to comply with California's
+prohibition against the corporate practice of medicine. However, as a result of
+our close relationship with Dr. Berger and BRMG, we believe that we are able to
+better ensure that professional medical services are provided at our facilities
+in a manner consistent with our needs and expectations and those of our
+referring physicians, patients and payors than if we obtained these services
+from unaffiliated practice groups.
+
+     Under our management agreement with BRMG, which expires on January 1, 2014,
+BRMG pays us, as compensation for the use of our facilities and equipment and
+for our services, a percentage of the gross amounts collected for the
+professional services it renders. The percentage, which was 79% at January 31,
+2006, is adjusted annually, if necessary, to ensure that the parties receive
+fair value for the services they render. In operation and historically, the
+annual revenue of BRMG from all sources closely approximates its expenses,
+including Dr. Berger's compensation, fees payable to us and amounts payable to
+third parties. For administrative convenience and in order to avoid
+inconveniencing and confusing our payors, a single bill is prepared for both the
+professional medical services provided by the radiologists and our non-medical,
+or technical, services, generating a receivable for BRMG. BRMG financed these
+receivables under a working capital facility with Bridge Healthcare Finance LLC,
+or Bridge, and regularly advanced to us the funds that it drew under this
+working capital facility, which we used for our own working capital purposes. We
+repaid or offset these advances with periodic payments from BRMG to us under the
+management agreement. We guaranteed BRMG's obligations under this working
+capital facility. Subsequent to year-end, effective March 9, 2006, the existing
+line of credit with Bridge was paid and closed with the issuance of a new $161
+million senior secured credit facility.
+
+     As a result of our contractual and operational relationship with BRMG and
+Dr. Berger, we are required to include BRMG as a consolidated entity in our
+consolidated financial statements.
+
+RESULTS OF OPERATIONS
+
+     The following table sets forth, for the periods indicated, the percentage
+that certain items in the statement of operations bears to net revenue.
+
+                                        THREE MONTHS ENDED JANUARY 31,
+                                        ------------------------------
+                                              2005         2006
+                                            --------     --------
+Net revenue                                   100.0%       100.0%
+
+Operating expenses:
+     Operating expenses                        78.7         75.7
+     Depreciation and amortization             12.7         10.6
+     Provision for bad debts                    2.7          3.5
+                                            --------     --------
+
+     Total operating expense                   94.1         89.8
+
+Income from operations                          5.9         10.2
+
+Other expense (income):
+     Interest expense                          12.4         11.5
+     Other income                              (0.3)        (0.1)
+     Other expense                              0.2           --
+                                            --------     --------
+
+     Total other expense                       12.3         11.4
+                                            --------     --------
+
+Net loss                                       (6.4)        (1.2)
+                                            ========     ========
+
+14
+
+THREE MONTHS ENDED JANUARY 31, 2006 COMPARED TO THE THREE MONTHS ENDED JANUARY
+31, 2005
+
+     During the last twelve months, we continued our efforts to enhance our
+operations and expand our network, while improving our financial position and
+cash flows. Our results for the three months ended January 31, 2006 were
+affected by the opening and integration of new facilities, the improvement in
+reimbursement from our managed care capitated payors, our increased marketing
+efforts, and our continuing focus on controlling operating expenses. As a result
+of these factors and the other matters discussed below, we experienced an
+increase in income from operations of $1.9 million and a net loss decrease of
+$1.7 million when comparing the results for the three months ended January 31,
+2005 to the same period this year.
+
+     Effective March 9, 2006, we completed the issuance of a $161 million senior
+secured credit facility that we used to refinance substantially all of our
+existing indebtedness (except for $16.1 million of outstanding subordinated
+debentures and approximately $5 million of capital lease obligations). The
+facility provides for a $15 million five-year revolving credit facility, an $86
+million term loan due in five years and a $60 million second lien term loan due
+in six years. The loans are subject to acceleration on December 27, 2007, unless
+we have made arrangements to discharge or extend our outstanding subordinated
+debentures by that date. We intend to retire the subordinated debentures prior
+to their due date of June 30, 2008. Under the terms and conditions of the new
+Second Lien Term Loan, subject to achieving certain leverage ratios, we have the
+right to raise up to $16.1 million in additional funds as part of the Second
+Lien Term Loan for the purposes of redeeming the subordinated debentures.
+Additionally, under the current facilities, we have the ability to pursue other
+funding sources to refinance the subordinated debentures. The loans are payable
+interest only monthly except for the $86 million term loan that requires
+amortization payments of 1.0% per annum. As a result of the completed financing,
+we were able to reclassify the majority of our notes and capital lease
+obligations as noncurrent as of January 31, 2006 and improve our working capital
+significantly. We had a working capital deficit of $5.5 million at January 31,
+2006 compared to a $143.4 million deficit at October 31, 2005.
+
+NET REVENUE
+
+     Net revenue for the three months ended January 31, 2006 was $38.5 million
+compared to $34.1 million for the same period in fiscal 2005, an increase of
+approximately $4.4 million, or 13%.
+
+     The largest increases were at the facilities in Temecula, Tarzana, Thousand
+Oaks, Modesto, Los Coyotes, Desert and Orange with combined net revenue
+increases of approximately $4.4 million when comparing results for the three
+months ended January 31, 2006 with the same period last year. The improvement at
+Temecula and Thousand Oaks was due to the expansion and opening of additional
+facilities in Murrieta and Westlake, California that opened in December 2004 and
+March 2005, respectively. The increase at the Tarzana facilities is due to the
+upgrade of the MRI equipment and the increased focus on the expansion of its PET
+business. The improvements at Modesto were due to a new capitation arrangement
+entered into in May 2005. The increase at the Desert, Los Coyotes and Orange
+facilities is due to a variety of factors including their physical locations,
+improvements in contracted reimbursement and increases in patient volume and
+throughput.
+
+OPERATING EXPENSES
+
+     Operating expenses for the three months ended January 31, 2006 increased
+approximately $2.5 million, or 8%, from $32.1 million in the first quarter of
+fiscal 2005 to $34.6 million in the same quarter this year.
+
+     The following table sets forth our operating expenses for the three months
+ended January 31, 2005 and 2006 (dollars in thousands):
+
+                                              Three Months Ended January 31,
+                                              ------------------------------
+                                                    2005         2006
+                                                 ----------   ----------
+Salaries and professional reading fees           $   16,705   $   18,275
+Building and equipment rental                         1,973        2,082
+General administrative expenses                       8,187        8,812
+                                                 ----------   ----------
+
+Total operating expenses                             26,865       29,169
+
+Depreciation and amortization                         4,323        4,087
+Provision for bad debt                                  909        1,349
+
+15
+
+o    SALARIES AND PROFESSIONAL READING FEES
+
+     Salaries and professional reading fees increased $1.6 million for the three
+     months ended January 31, 2006 when compared to the same period last year.
+     The increase in salaries is primarily due to the higher costs associated
+     with recruiting and retaining key personnel, staffing the centers to manage
+     their respective increase in volume, the hiring of key physicians and
+     specialists in certain regions, the hiring of physician assistants, and the
+     costs of additional personnel necessary to open additional satellite
+     locations and operate the new centers in Murrieta and Westlake. Salaries
+     and professional reading fees increased $1.4 million at the centers with
+     the largest increases in net revenue that included Temecula, Tarzana,
+     Thousand Oaks, Modesto, Los Coyotes, Desert and Orange.
+
+     o    BUILDING AND EQUIPMENT RENTAL
+
+     Building and equipment rental expenses increased $109,000 for the three
+     months ended January 31, 2006 when compared to the same period last year.
+     The increase is primarily due to the addition of building rental expense
+     for the new centers in Murrieta and Westlake coupled with annual increases
+     in base rentals from existing leased facilities.
+
+     o    GENERAL AND ADMINISTRATIVE EXPENSES
+
+     General and administrative expenses include billing fees, medical supplies,
+     office supplies, repairs and maintenance, insurance, business tax and
+     license, outside services, utilities, marketing, travel and other expenses.
+     Many of these expenses are variable in nature. These expenses increased
+     $625,000, or 8%, for the three months ended January 31, 2006 when compared
+     to the same period last year. The majority of the increase is attributable
+     to those variable expenses that increased with net revenue, including
+     medical supplies, repairs and maintenance (per the percentage of revenue
+     agreement), billing fees, and transcription and other outside services.
+
+     o    DEPRECIATION AND AMORTIZATION
+
+     Depreciation and amortization decreased by $236,000 for the three months
+     ended January 31, 2006 when compared to the same period last year. Certain
+     medical equipment and other intangible assets, including patient lists,
+     were fully amortized during the period.
+
+     o    PROVISION FOR BAD DEBT
+
+     The $440,000 increase in provision for bad debt for the three months ended
+     January 31, 2006 when compared to the same period last year was primarily a
+     result of increased net revenue and changes in payor mix during the period.
+
+OTHER EXPENSE (INCOME)
+
+     Other expense increased $199,000 for the three months ended January 31,
+2006 when compared to the same period last year.
+
+     o    INTEREST EXPENSE
+
+     Interest expense for the three months ended January 31, 2006 increased
+     $226,000 when compared to the same period last year. The increase was
+     primarily due to increased borrowings on lines of credit coupled with
+     increases in the prime rate of interest during the period. The outstanding
+     line of credit liability was $14.0 million and $9.9 million as of January
+     31, 2006 and 2005, respectively.
+
+     o    OTHER INCOME
+
+     In the three months ended January 31, 2005 and 2006, we earned other income
+     of $110,000 and $51,000, respectively, principally comprised of sublease
+     income, record copy income, the extinguishments of certain liabilities and
+     deferred rent income. In addition, during the three months ended January
+     31, 2005, we recognized gains from write-offs of liabilities previously
+     expensed in fiscal 2004 for approximately $62,000.
+
+     o    OTHER EXPENSE
+
+     In the three months ended January 31, 2005, we incurred other expense of
+     $86,000 principally comprised of write-offs of other assets.
+
+16
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+     We had a working capital deficit of $5.5 million at January 31, 2006
+compared to a $143.4 million deficit at October 31, 2005, and had losses from
+operations of $0.5 million and $2.2 million during the three months ended
+January 31, 2006 and 2005, respectively. We also had a stockholders' deficit of
+$71.0 million at January 31, 2006 compared to a $70.6 million deficit at October
+31, 2005.
+
+     The working capital deficit increased in fiscal 2005 due to the
+reclassification of approximately $109 million in notes and capital lease
+obligations as current liabilities expected to be refinanced. We were subject to
+financial covenants under our debt agreements and believed we may have been
+unable to continue to be in compliance with our existing financial covenants
+during fiscal 2006. As such, the associated debt was reclassified as a current
+liability.
+
+     Effective March 9, 2006, we completed the issuance of a $161 million senior
+secured credit facility that we used to refinance substantially all of our
+existing indebtedness (except for $16.1 million of outstanding subordinated
+debentures and approximately $5 million of capital lease obligations). Included
+in the $161 million senior secured credit facility were fees and expenses for
+the transaction of approximately $5.2 million. The facility provides for a $15
+million five-year revolving credit facility, an $86 million term loan due in
+five years and a $60 million second lien term loan due in six years. The loans
+are subject to acceleration on December 27, 2007, unless we have made
+arrangements to discharge or extend our outstanding subordinated debentures by
+that date. We intend to retire the subordinated debentures prior to their due
+date of June 30, 2008. Under the terms and conditions of the new Second Lien
+Term Loan, subject to achieving certain leverage ratios, we have the right to
+raise up to $16.1 million in additional funds as part of the Second Lien Term
+Loan for the purposes of redeeming the subordinated debentures. Additionally,
+under the current facilities, we have the ability to pursue other funding
+sources to refinance the subordinated debentures. The loans are payable interest
+only monthly except for the $86 million term loan that requires amortization
+payments of 1.0% per annum.
+
+     The revolving credit facility and the $86 million term loan bear interest
+at a base rate ("base rate" means corporate loans posted by at least 75% of the
+nation's 30 largest banks as quoted by the Wall Street Journal) plus 2.5%, or at
+our election, the LIBOR rate plus 4.0% per annum, payable monthly. The $60
+million second lien term loan bears interest at the base rate plus 7.0%, or at
+our election, the LIBOR rate plus 8.5% per annum, payable monthly. The $86
+million term loan includes amortization payments of 1.0% per annum, payable in
+quarterly installments of $215,000. Upon the close of the refinancing on March
+9, 2006, we utilized approximately $1.5 million of the new $15 million revolving
+credit facility.
+
+     Under the new facility, we are subject to various financial covenants
+including a limitation on capital expenditures, maximum days sales outstanding,
+minimum fixed charge coverage ratio, maximum leverage ratio and maximum senior
+leverage ratio. Availability under our $15 million revolving credit facility is
+governed by the margins calculated under the maximum senior leverage ratio and
+maximum total leverage ratio covenants. Borrowings under the historical Bridge
+credit facility were calculated from a formula based upon our net eligible
+accounts receivable. As of March 9, 2006, after giving effect to the
+approximately $1.5 million balance on our revolving credit facility, we had
+approximately $13.5 million of availability. As a result of the completed
+financing, we were able to reclassify the majority of our notes and capital
+lease obligations as noncurrent as of January 31, 2006 and improve our working
+capital significantly.
+
+     We operate in a capital intensive, high fixed-cost industry that requires
+significant amounts of capital to fund operations. In addition to operations, we
+require significant amounts of capital for the initial start-up and development
+expense of new diagnostic imaging facilities, the acquisition of additional
+facilities and new diagnostic imaging equipment, and to service our existing
+debt and contractual obligations. Because our cash flows from operations have
+been insufficient to fund all of these capital requirements, we have depended on
+the availability of financing under credit arrangements with third parties.
+Historically, our principal sources of liquidity have been funds available for
+borrowing under our existing lines of credit, now with General Electric Capital
+Corporation. We finance the acquisition of equipment mainly through capital and
+operating leases. As of January 31, 2006 and October 31, 2005, our line of
+credit liabilities were $14.0 million and $13.3 million, respectively. As of
+January 31, 2006, $468,000 of line of credit liabilities were classified as
+current liabilities for the unpaid balance at the closing of the refinancing
+transaction.
+
+17
+
+As of January 31, 2006, Howard G. Berger, M.D., our president, director and
+largest shareholder had outstanding advances to us of $1,370,000. Our obligation
+to Dr. Berger was repaid as part of our March 9, 2006 refinancing.
+
+     The interim disclosures regarding liquidity and capital resources should be
+read in conjunction with the consolidated financial statements and related notes
+thereto contained in our Annual Report of Form 10-K for the year ended October
+31, 2005. There were no material changes in our financing agreements from
+October 31, 2005 to January 31, 2006.
+
+     Our business strategy with regard to operations will focus on the
+following:
+
+          o    Maximizing performance at our existing facilities;
+
+          o    Focusing on profitable contracting;
+
+          o    Expanding MRI and CT applications
+
+          o    Optimizing operating efficiencies; and
+
+          o    Expanding our networks.
+
+     Due to the March 9, 2006 refinancing, we will be able to use the cash
+savings generated from the deferral of required principal payments on notes
+payable and capital lease obligations of approximately $1.2 million per month to
+invest in the infrastructure and to pursue future growth opportunities.
+
+     Our ability to generate sufficient cash flow from operations to make
+payments on our debt and other contractual obligations will depend on our future
+financial performance. A range of economic, competitive, regulatory, legislative
+and business factors, many of which are outside of our control, will affect our
+financial performance. Taking these factors into account, including our
+historical experience and our discussions with our lenders to date, although no
+assurance can be given, we believe that through implementing our strategic plans
+and continuing to restructure our financial obligations, we will obtain
+sufficient cash to satisfy our obligations as they become due in the next twelve
+months.
+
+SOURCES AND USES OF CASH
+
+     Cash provided by operating activities for the three months ended January
+31, 2006 was $2.5 million compared to $1.7 million for the same period in 2005.
+The primary reason for the increase in cash was due to the improvement in net
+income from operations
+
+     Cash used by investing activities for the three months ended January 31,
+2006 was $834,000 compared to $820,000 for the same period in 2005. For the
+three months ended January 31, 2006 and 2005, we purchased property and
+equipment for approximately $834,000 and $885,000, respectively, and during the
+three months ended January 31, 2005, we received proceeds from the sale of
+equipment of $65,000.
+
+     Cash used for financing activities for fiscal 2006 was $1,670,000 compared
+to $855,000 for the same period in 2005. For fiscal 2006 and 2005, we made
+principal payments on capital leases, notes payable and lines of credit of
+approximately $4,663,000 and $1,292,000, respectively, and received proceeds
+from borrowings under existing lines of credit and refinancing arrangements of
+approximately $701,000 and $987,000, respectively. During the three months ended
+January 31, 2006, we increased cash disbursements in transit by $2,292,000
+compared to a decrease in cash disbursements in transit of $550,000 during the
+same period in 2005. During the third quarter of fiscal 2004, we renegotiated
+our existing notes and capital lease obligations with our three primary lenders,
+General Electric, or GE, DVI Financial Services and U.S. Bank. As part of the
+restructure, interest only payments were required for the majority of the first
+quarter of fiscal 2005.
+
+18
+
+CONTRACTUAL COMMITMENTS
+
+     Effective March 9, 2006, we completed the issuance of a $161 million senior
+secured credit facility that we used to refinance substantially all of our
+existing indebtedness (except for $16.1 million of outstanding subordinated
+debentures and approximately $5 million of capital lease obligations). The
+facility provides for a $15 million five-year revolving credit facility, an $86
+million term loan due in five years and a $60 million second lien term loan due
+in six years. The loans are subject to acceleration on December 27, 2007, unless
+we have made arrangements to discharge or extend our outstanding subordinated
+debentures by that date. We intend to retire the subordinated debentures prior
+to their due date of June 30, 2008. Under the terms and conditions of the new
+Second Lien Term Loan, subject to achieving certain leverage ratios, we have the
+right to raise up to $16.1 million in additional funds as part of the Second
+Lien Term Loan for the purposes of redeeming the subordinated debentures.
+Additionally, under the current facilities, we have the ability to pursue other
+funding sources to refinance the subordinated debentures. The loans are payable
+interest only monthly except for the $86 million term loan that requires
+amortization payments of 1.0% per annum.
+
+     The revolving credit facility and the $86 million term loan bear interest
+at a base rate ("base rate" means corporate loans posted by at least 75% of the
+nation's 30 largest banks as quoted by the Wall Street Journal) plus 2.5%, or at
+our election, the LIBOR rate plus 4.0% per annum, payable monthly. The $60
+million second lien term loan bears interest at the base rate plus 7.0%, or at
+our election, the LIBOR rate plus 8.5% per annum, payable monthly. The $86
+million term loan includes amortization payments of 1.0% per annum, payable in
+quarterly installments of $215,000. Upon the close of the refinancing on March
+9, 2006, we utilized approximately $1.5 million of the new $15 million revolving
+credit facility.
+
+     As part of the refinancing, we are required to swap at least 50% of the
+aggregate principal amount of the facilities to a floating rate within 90 days
+of the close of the agreement on March 9, 2006. We have not yet entered into the
+swap arrangement or decided on how much of the loans will be swapped. In
+addition, as a requirement of the deal, 75% of our excess cash flow is to be
+used to repay principal on the $86 million term loan once per year within 105
+days after our fiscal year end. Excess cash flow is defined as earnings before
+interest, taxes, depreciation and amortization plus decreases in working capital
+and extraordinary gains minus: (i) capital expenditures; (ii) interest expense;
+(iii) scheduled principal payments on existing debt; (iv) income taxes; (v)
+increases in working capital; (vi) extraordinary losses; (vii) voluntary
+prepayments of the $86 million term loan; (vii) and amounts paid for
+acquisitions.
+
+     Under the new facility, we are subject to various financial covenants
+including a limitation on capital expenditures, maximum days sales outstanding,
+minimum fixed charge coverage ratio, maximum leverage ratio and maximum senior
+leverage ratio. Availability under our $15 million revolving credit facility is
+governed by the margins calculated under the maximum senior leverage ratio and
+maximum total leverage ratio covenants. Borrowings under the historical Bridge
+credit facility were calculated from a formula based upon our net eligible
+accounts receivable. As of March 9, 2006, after giving effect to the
+approximately $1.5 million balance on our revolving credit facility, we had
+approximately $13.5 million of availability. As a result of the completed
+financing, we were able to reclassify the majority of our notes and capital
+lease obligations as noncurrent as of January 31, 2006 and improve our working
+capital significantly.
+
+     In addition, we have an arrangement with GE Medical Systems under which it
+has agreed to be responsible for the maintenance and repair of the majority of
+our equipment for a fee that is based upon a percentage of our revenue, subject
+to a minimum payment. Net revenue is reduced by the provision for bad debt,
+mobile PET revenue and other professional reading service revenue to obtain
+adjusted net revenue. The fiscal 2005 annual service fee was the higher of 3.50%
+of our adjusted net revenue, or $4,970,000. The fiscal 2006 annual service rate
+is the higher of 3.62% of our adjusted net revenue, or $5,393,800. For the
+fiscal years 2007, 2008 and 2009, the annual service fee will be the higher of
+3.62% of our adjusted net revenue, or $5,430,000. We believe this framework of
+basing service costs on usage is an effective and unique method for controlling
+our overall costs on a facility-by-facility basis.
+
+19
+
+FORWARD-LOOKING STATEMENTS
+
+     This Quarterly Report on Form 10-Q contains "forward-looking statements"
+within the meaning of Section 27A of the Securities Act of 1933, as amended, and
+Section 21E of the Securities Exchange Act of 1934, as amended. These
+forward-looking statements reflect, among other things, management's current
+expectations and anticipated results of operations, all of which are subject to
+known and unknown risks, uncertainties and other factors that may cause our
+actual results, performance or achievements, or industry results, to differ
+materially from those expressed or implied by such forward-looking statements.
+Therefore, any statements contained herein that are not statements of historical
+fact may be forward-looking statements and should be evaluated as such. Without
+limiting the foregoing, the words "believes," "anticipates," "plans," "intends,"
+"will," "expects," "should" and similar words and expressions are intended to
+identify forward-looking statements. Except as required under the federal
+securities laws or by the rules and regulations of the SEC, we assume no
+obligation to update any such forward-looking information to reflect actual
+results or changes in the factors affecting such forward-looking information.
+The factors included in "Risks Relating to Our Business," among others, could
+cause our actual results to differ materially from those expressed in, or
+implied by, the forward-looking statements.
+
+     Specific factors that might cause actual results to differ from our
+expectations, include, but are not limited to:
+
+     o    economic, competitive, demographic, business and other conditions in
+          our markets;
+     o    a decline in patient referrals;
+     o    changes in the rates or methods of third-party reimbursement for
+          diagnostic imaging services;
+     o    the enforceability or termination of our contracts with radiology
+          practices;
+     o    the availability of additional capital to fund capital expenditure
+          requirements;
+     o    burdensome lawsuits against our contracted radiology practices and us;
+     o    reduced operating margins due to our managed care contracts and
+          capitated fee arrangements;
+     o    any failure on our part to comply with state and federal anti-kickback
+          and anti-self-referral laws or any other applicable healthcare
+          regulations;
+     o    our substantial indebtedness, debt service requirements and liquidity
+          constraints;
+     o    the interruption of our operations in certain regions due to
+          earthquake or other extraordinary events;
+     o    the recruitment and retention of technologists by us or by
+          radiologists of our contracted radiology groups; and
+     o    other factors discussed in the "Risk Factors" section or elsewhere in
+          this report.
+
+     All future written and verbal forward-looking statements attributable to us
+or any person acting on our behalf are expressly qualified in their entirety by
+the cautionary statements contained or referred to in this section. In light of
+these risks, uncertainties and assumptions, the forward-looking events discussed
+in this report might not occur.
+
+RISKS RELATING TO OUR BUSINESS
+
+WE MAY NOT BE ABLE TO GENERATE SUFFICIENT CASH FLOW TO MEET OUR DEBT SERVICE
+OBLIGATIONS.
+
+     Our ability to generate sufficient cash flow from operations to make
+payments on our debt and other contractual obligations will depend on our future
+financial performance. A range of economic, competitive, regulatory, legislative
+and business factors, many of which are outside of our control, will affect our
+financial performance. Our inability to generate sufficient cash flow to satisfy
+our debt and other contractual obligations would adversely impact our business,
+financial condition and results of operations. Effective March 9, 2006, we
+completed the issuance of a $161 million senior secured credit facility that we
+used to refinance substantially all of our existing indebtedness (except for
+$16.1 million of outstanding subordinated debentures and approximately $5
+million of capital lease obligations). The facility provides for a $15 million
+five-year revolving credit facility, an $86 million term loan due in five years
+and a $60 million second lien term loan due in six years. The loans are subject
+to acceleration on December 27, 2007, unless we have made arrangements to
+discharge or extend our outstanding subordinated debentures by that date. As a
+result of the completed financing, we were able to reclassify the majority of
+our notes and capital lease obligations as noncurrent as of January 31, 2006 and
+improve our working capital significantly.
+
+                                       20
+
+OUR ABILITY TO GENERATE REVENUE DEPENDS IN LARGE PART ON REFERRALS FROM
+PHYSICIANS.
+
+     A significant reduction in referrals would have a negative impact on our
+business. We derive substantially all of our net revenue, directly or
+indirectly, from fees charged for the diagnostic imaging services performed at
+our facilities. We depend on referrals of patients from unaffiliated physicians
+and other third parties who have no contractual obligations to refer patients to
+us for a substantial portion of the services we perform. If a sufficiently large
+number of these physicians and other third parties were to discontinue referring
+patients to us, our scan volume could decrease, which would reduce our net
+revenue and operating margins. Further, commercial third-party payors have
+implemented programs that could limit the ability of physicians to refer
+patients to us. For example, prepaid healthcare plans, such as health
+maintenance organizations, sometimes contract directly with providers and
+require their enrollees to obtain these services exclusively from those
+providers. Some insurance companies and self-insured employers also limit these
+services to contracted providers. These "closed panel" systems are now common in
+the managed care environment, including California. Other systems create an
+economic disincentive for referrals to providers outside the system's designated
+panel of providers. If we are unable to compete successfully for these managed
+care contracts, our results and prospects for growth could be adversely
+affected.
+
+CHANGES IN THIRD-PARTY REIMBURSEMENT RATES OR METHODS FOR DIAGNOSTIC IMAGING
+SERVICES COULD RESULT IN A DECLINE IN OUR NET REVENUE AND NEGATIVELY IMPACT OUR
+BUSINESS.
+
+     The fees charged for the diagnostic imaging services performed at our
+facilities are paid by insurance companies, Medicare and Medi-Cal, workers
+compensation, private and other payors. Any change in the rates of or conditions
+for reimbursement from these sources of payment could substantially reduce the
+amounts reimbursed to us or to our contracted radiology practices for services
+provided, which could have an adverse effect on our net revenue. For example,
+recent legislative changes in California's workers compensation rules had a
+negative impact on reimbursement rates for diagnostic imaging services, although
+because we derive only a small portion of our net revenue from workers
+compensation, we did not experience a significant impact.
+
+     The Deficit Reduction Act of 2005 (DRA) was approved by Congress and signed
+into law on February 9, 2006. The DRA provides that reimbursement for the
+technical component for imaging services (excluding diagnostic and screening
+mammography) in non-hospital based freestanding facilities will be capped at the
+lesser of reimbursement under the Medicare Part B physician fee schedule or the
+Hospital Outpatient Prospective Payment System (HOPPS) schedule. Currently, the
+technical component of our imaging services is reimbursed under the Part B
+physician fee schedule, which for certain modalities like MRI and CT, allows for
+higher reimbursement on average than under the HOPPS. For other imaging exams,
+such as x-ray and ultrasound, reimbursement under the HOPPS is greater on
+average. Under the DRA, we will be reimbursed at the lower of the two schedules,
+beginning January 1, 2007.
+
+     The DRA also codifies the reduction in reimbursement for multiple images on
+contiguous body parts previously announced by the Centers for Medicare and
+Medicaid Services (CMS). In November 2005, CMS announced that it will pay 100%
+of the technical component of the higher priced imaging procedure and 50% for
+the technical component of each additional imaging procedure involving
+contiguous body parts when performed in the same session. Under current
+methodology, Medicare pays 100% of the technical component of each procedure.
+This rate reduction will occur in two steps, so that the reduction will be 25%
+for each additional imaging procedure in 2006 and another 25% in 2007. For the
+fiscal year ended October 31, 2005, Medicare revenue from our imaging centers
+represented approximately 15% of our total revenue. Of this amount,
+approximately 54% was from MRI and CT, the modalities affected more
+significantly by the reimbursement reductions. If both the HOPPS and contiguous
+body part reimbursement reductions contained in the DRA had been in effect
+during fiscal year 2005, we estimate that our revenue would have been reduced by
+approximately $2.5-$3.0 million.
+
+                                       21
+
+PRESSURE TO CONTROL HEALTHCARE COSTS COULD HAVE A NEGATIVE IMPACT ON OUR
+RESULTS.
+
+     One of the principal objectives of health maintenance organizations and
+preferred provider organizations is to control the cost of healthcare services.
+Managed care contracting has become very competitive, and reimbursement
+schedules are at or below Medicare reimbursement levels. The development and
+expansion of health maintenance organizations, preferred provider organizations
+and other managed care organizations within the geographic areas covered by our
+network could have a negative impact on the utilization and pricing of our
+services, because these organizations will exert greater control over patients'
+access to diagnostic imaging services, the selections of the provider of such
+services and reimbursement rates for those services.
+
+IF BRMG OR ANY OF OUR OTHER CONTRACTED RADIOLOGY PRACTICES TERMINATE THEIR
+AGREEMENTS WITH US, OUR BUSINESS COULD SUBSTANTIALLY DIMINISH.
+
+     Our relationship with BRMG is an integral part of our business. Through our
+management agreement, BRMG provides all of the professional medical services at
+42 of our 60 facilities, contracts with various other independent physicians and
+physician groups to provide all of the professional medical services at most of
+our other facilities, and must use its best efforts to provide the professional
+medical services at any new facilities that we open or acquire. In addition,
+BRMG's strong relationships with referring physicians are largely responsible
+for the revenue generated at the facilities it services. Although our management
+agreement with BRMG runs until 2014, BRMG has the right to terminate the
+agreement if we default on our obligations and fail to cure the default. Also,
+BRMG's ability to continue performing under the management agreement may be
+curtailed or eliminated due to BRMG's financial difficulties, loss of physicians
+or other circumstances. If BRMG cannot perform its obligation to us, we would
+need to contract with one or more other radiology groups to provide the
+professional medical services at the facilities serviced by BRMG. We may not be
+able to locate radiology groups willing to provide those services on terms
+acceptable to us, if at all. Even if we were able to do so, any replacement
+radiology group's relationships with referring physicians may not be as
+extensive as those of BRMG. In any such event, our business could be seriously
+harmed. In addition, BRMG is party to substantially all of the managed care
+contracts from which we derive revenue. If we were unable to readily replace
+these contracts, our revenue would be negatively affected.
+
+Except for our management agreement with BRMG, most of the agreements we, or
+BRMG, have with contracted radiology practices typically have terms of one year,
+which automatically renew unless either party delivers a non-renewal notice to
+the other within a prescribed period. Most of these agreements may be terminated
+by either party under some conditions, including, with respect to some of those
+agreements, the right of either party to terminate the agreement without cause
+upon 30 to 120 days notice. For example, in October 2003, our management
+agreement with Tower Imaging Medical Group, Inc. was terminated as the result of
+the settlement of litigation between Tower and us. The termination or material
+modification of any of the agreements we, or BRMG, have with the radiologists
+that provide professional medical services at our facilities could reduce our
+revenue, at least in the short term.
+
+IF OUR CONTRACTED RADIOLOGY PRACTICES, INCLUDING BRMG, LOSE A SIGNIFICANT NUMBER
+OF THEIR RADIOLOGISTS, OUR FINANCIAL RESULTS COULD BE ADVERSELY AFFECTED.
+
+     Recently, there has been a shortage of qualified radiologists in some of
+the regional markets we serve. In addition, competition in recruiting
+radiologists may make it difficult for our contracted radiology practices to
+maintain adequate levels of radiologists. If a significant number of
+radiologists terminate their relationships with our contracted radiology
+practices and those radiology practices cannot recruit sufficient qualified
+radiologists to fulfill their obligations under our agreements with them, our
+ability to maximize the use of our diagnostic imaging facilities and our
+financial results could be adversely affected. For example, in fiscal 2002, due
+to a shortage of qualified radiologists in the marketplace, BRMG experienced
+difficulty in hiring and retaining physicians and thus engaged independent
+contractors and part-time fill-in physicians. Their cost was double the salary
+of a regular BRMG full-time physician. Increased expenses to BRMG will impact
+our financial results because the management fee we receive from BRMG, which is
+based on a percentage of BRMG's collections, is adjusted annually to take into
+account the expenses of BRMG. Neither we, nor our contracted radiology
+practices, maintain insurance on the lives of any affiliated physicians.
+
+                                       22
+
+WE MAY NOT BE ABLE TO SUCCESSFULLY GROW OUR BUSINESS.
+
+     As part of our business strategy, we intend to increase our presence in
+California through selectively acquiring facilities, developing new facilities,
+adding equipment at existing facilities, and directly or indirectly through BRMG
+entering into contractual relationships with high-quality radiology practices.
+
+     However, our ability to successfully expand depends upon many factors,
+including our ability to:
+
+          o    Identify attractive and willing candidates for acquisitions;
+
+          o    Identify locations in existing or new markets for development of
+               new facilities;
+
+          o    Comply with legal requirements affecting our arrangements with
+               contracted radiology practices, including California prohibitions
+               on fee-splitting, corporate practice of medicine and
+               self-referrals;
+
+          o    Obtain regulatory approvals where necessary and comply with
+               licensing and certification requirements applicable to our
+               diagnostic imaging facilities, the contracted radiology practices
+               and the physicians associated with the contracted radiology
+               practices;
+
+          o    Recruit a sufficient number of qualified radiology technologists
+               and other non-medical personnel;
+
+          o    Expand our infrastructure and management; and
+
+          o    Compete for opportunities. We may not be able to compete
+               effectively for the acquisition of diagnostic imaging facilities.
+               Our competitors may have more established operating histories and
+               greater resources than we do. Competition also may make any
+               acquisitions more expensive.
+
+     Acquisitions involve a number of special risks, including the following:
+
+          o    Obtain adequate financing.
+
+          o    Possible adverse effects on our operating results;
+
+          o    Diversion of management's attention and resources;
+
+          o    Failure to retain key personnel;
+
+          o    Difficulties in integrating new operations into our existing
+               infrastructure; and
+
+          o    Amortization or write-offs of acquired intangible assets.
+
+WE MAY BECOME SUBJECT TO PROFESSIONAL MALPRACTICE LIABILITY.
+
+     Providing medical services subjects us to the risk of professional
+malpractice and other similar claims. The physicians that our contracted
+radiology practices employ are from time to time subject to malpractice claims.
+We structure our relationships with the practices under our management
+agreements with them in a manner that we believe does not constitute the
+practice of medicine by us or subject us to professional malpractice claims for
+acts or omissions of physicians employed by the contracted radiology practices.
+Nevertheless, claims, suits or complaints relating to services provided by the
+contracted radiology practices have been asserted against us in the past and may
+be asserted against us in the future. In addition, we may be subject to
+professional liability claims, including, without limitation, for improper use
+or malfunction of our diagnostic imaging equipment. We may not be able to
+maintain adequate liability insurance to protect us against those claims at
+acceptable costs or at all.
+
+     Any claim made against us that is not fully covered by insurance could be
+costly to defend, result in a substantial damage award against us and divert the
+attention of our management from our operations, all of which could have an
+adverse effect on our financial performance. In addition, successful claims
+against us may adversely affect our business or reputation. Although California
+places a $250,000 limit on non-economic damages for medical malpractice cases,
+no limit applies to economic damages.
+
+                                       23
+
+SOME OF OUR IMAGING MODALITIES USE RADIOACTIVE MATERIALS, WHICH GENERATE
+REGULATED WASTE AND COULD SUBJECT US TO LIABILITIES FOR INJURIES OR VIOLATIONS
+OF ENVIRONMENTAL AND HEALTH AND SAFETY LAWS.
+
+     Some of our imaging procedures use radioactive materials, which generate
+medical and other regulated wastes. For example, patients are injected with a
+radioactive substance before undergoing a PET scan. Storage, use and disposal of
+these materials and waste products present the risk of accidental environmental
+contamination and physical injury. We are subject to federal, California and
+local regulations governing storage, handling and disposal of these materials.
+We could incur significant costs and the diversion of our management's attention
+in order to comply with current or future environmental and health and safety
+laws and regulations. Also, we cannot completely eliminate the risk of
+accidental contamination or injury from these hazardous materials. In the event
+of an accident, we could be held liable for any resulting damages, and any
+liability could exceed the limits of or fall outside the coverage of our
+insurance.
+
+WE EXPERIENCE COMPETITION FROM OTHER DIAGNOSTIC IMAGING COMPANIES AND HOSPITALS.
+THIS COMPETITION COULD ADVERSELY AFFECT OUR REVENUE AND BUSINESS.
+
+     The market for diagnostic imaging services in California is highly
+competitive. We compete principally on the basis of our reputation, our ability
+to provide multiple modalities at many of our facilities, the location of our
+facilities and the quality of our diagnostic imaging services. We compete
+locally with groups of radiologists, established hospitals, clinics and other
+independent organizations that own and operate imaging equipment. Our major
+national competitors include Radiologix, Inc., Alliance Imaging, Inc.,
+Healthsouth Corporation and Insight Health Services. Some of our competitors may
+now or in the future have access to greater financial resources than we do and
+may have access to newer, more advanced equipment.
+
+     In addition, in the past some non-radiologist physician practices have
+refrained from establishing their own diagnostic imaging facilities because of
+the federal physician self-referral legislation. Final regulations issued in
+January 2001 clarify exceptions to the physician self-referral legislation,
+which created opportunities for some physician practices to establish their own
+diagnostic imaging facilities within their group practices and to compete with
+us. In the future, we could experience significant competition as a result of
+those final regulations.
+
+TECHNOLOGICAL CHANGE IN OUR INDUSTRY COULD REDUCE THE DEMAND FOR OUR SERVICES
+AND REQUIRE US TO INCUR SIGNIFICANT COSTS TO UPGRADE OUR EQUIPMENT.
+
+     The development of new technologies or refinements of existing modalities
+may require us to upgrade and enhance our existing equipment before we may
+otherwise intend. Many companies currently manufacture diagnostic imaging
+equipment. Competition among manufacturers for a greater share of the diagnostic
+imaging equipment market may result in technological advances in the speed and
+imaging capacity of new equipment. This may accelerate the obsolescence of our
+equipment, and we may not have the financial ability to acquire the new or
+improved equipment. In that event, we may be unable to deliver our services in
+the efficient and effective manner that payors, physicians and patients expect
+and thus our revenue could substantially decrease. During fiscal 2005, we
+traded-in and upgraded our existing MRI at Tarzana Advanced to increase
+throughput and patient volume and compete in the marketplace. We incurred a loss
+on disposal of equipment of approximately $696,000 for the upgrade.
+
+WE HAVE EXPERIENCED OPERATING LOSSES AND WE HAVE A SUBSTANTIAL ACCUMULATED
+DEFICIT. IF WE ARE UNABLE TO IMPROVE OUR FINANCIAL PERFORMANCE, WE MAY BE UNABLE
+TO PAY OUR OBLIGATIONS.
+
+     We have incurred net losses of $2.2 million and $0.5 million during the
+three months ended January 31, 2005 and 2006, respectively, and at January 31,
+2006 we had an accumulated stockholders' deficit of $71.0 million. Also, in
+recent periods, we have suffered liquidity shortfalls which have led us to,
+among other things, undertake and complete a "pre-packaged" Chapter 11 plan of
+reorganization and modify the terms of various of our financial obligations.
+While we believe that by taking these and other actions in the future we be able
+to address these issues and solidify our financial condition, we cannot give
+assurances that we will be able to generate sufficient cash flow from operations
+to satisfy our debt obligations.
+
+                                       24
+
+A FAILURE TO MEET OUR CAPITAL EXPENDITURE REQUIREMENTS COULD ADVERSELY AFFECT
+OUR BUSINESS.
+
+     We operate in a capital intensive, high fixed-cost industry that requires
+significant amounts of capital to fund operations, particularly the initial
+start-up and development expenses of new diagnostic imaging facilities and the
+acquisition of additional facilities and new diagnostic imaging equipment. We
+incur capital expenditures to, among other things, upgrade and replace existing
+equipment for existing facilities and expand within our existing markets and
+enter new markets. To the extent we are unable to generate sufficient cash from
+our operations, funds are not available from our lenders or we are unable to
+structure or obtain financing through operating leases, long-term installment
+notes or capital leases, we may be unable to meet our capital expenditure
+requirements.
+
+BECAUSE WE HAVE HIGH FIXED COSTS, LOWER SCAN VOLUMES PER SYSTEM COULD ADVERSELY
+AFFECT OUR BUSINESS.
+
+     The principal components of our expenses, excluding depreciation, consist
+of compensation paid to technologists, salaries, real estate lease expenses and
+equipment maintenance costs. Because a majority of these expenses are fixed, a
+relatively small change in our revenue could have a disproportionate effect on
+our operating and financial results depending on the source of our revenue.
+Thus, decreased revenue as a result of lower scan volumes per system could
+result in lower margins, which would adversely affect our business.
+
+OUR SUCCESS DEPENDS IN PART ON OUR KEY PERSONNEL AND WE MAY NOT BE ABLE TO
+RETAIN SUFFICIENT QUALIFIED PERSONNEL. IN ADDITION, FORMER EMPLOYEES COULD USE
+THE EXPERIENCE AND RELATIONSHIPS DEVELOPED WHILE EMPLOYED WITH US TO COMPETE
+WITH US.
+
+     Our success depends in part on our ability to attract and retain qualified
+senior and executive management, managerial and technical personnel. Competition
+in recruiting these personnel may make it difficult for us to continue our
+growth and success. The loss of their services or our inability in the future to
+attract and retain management and other key personnel could hinder the
+implementation of our business strategy. The loss of the services of Dr. Howard
+G. Berger, our President and Chief Executive Officer, or Norman R. Hames, our
+Chief Operating Officer, could have a significant negative impact on our
+operations. We believe that they could not easily be replaced with executives of
+equal experience and capabilities. We do not maintain key person insurance on
+the life of any of our executive officers with the exception of a $5.0 million
+policy on the life of Dr. Berger. Also, if we lose the services of Dr. Berger,
+our relationship with BRMG could deteriorate, which would adversely affect our
+business.
+
+     Unlike many other states, California does not enforce agreements that
+prohibit a former employee from competing with the former employer. As a result,
+any of our employees whose employment is terminated is free to compete with us,
+subject to prohibitions on the use of confidential information and, depending on
+the terms of the employee's employment agreement, on solicitation of existing
+employees and customers. A former executive, manager or other key employee who
+joins one of our competitors could use the relationships he or she established
+with third party payors, radiologists or referring physicians while our employee
+and the industry knowledge he or she acquired during that tenure to enhance the
+new employer's ability to compete with us.
+
+CAPITATION FEE ARRANGEMENTS COULD REDUCE OUR OPERATING MARGINS.
+
+     For the three months ended January 31, 2006, we derived approximately 28%
+of our net revenue from capitation arrangements, and we intend to increase the
+revenue we derive from capitation arrangements in the future. Under capitation
+arrangements, the payor pays a pre-determined amount per-patient per-month in
+exchange for us providing all necessary covered services to the patients covered
+under the arrangement. These contracts pass much of the financial risk of
+providing diagnostic imaging services, including the risk of over-use, from the
+payor to the provider. Our success depends in part on our ability to negotiate
+effectively, on behalf of the contracted radiology practices and our diagnostic
+imaging facilities, contracts with health maintenance organizations, employer
+groups and other third-party payors for services to be provided on a capitated
+basis and to efficiently manage the utilization of those services. If we are not
+successful in managing the utilization of services under these capitation
+arrangements or if patients or enrollees covered by these contracts require more
+frequent or extensive care than anticipated, we would incur unanticipated costs
+not offset by additional revenue, which would reduce operating margins.
+
+                                       25
+
+WE MAY BE UNABLE TO EFFECTIVELY MAINTAIN OUR EQUIPMENT OR GENERATE REVENUE WHEN
+OUR EQUIPMENT IS NOT OPERATIONAL.
+
+     Timely, effective service is essential to maintaining our reputation and
+high use rates on our imaging equipment. Although we have an agreement with GE
+Medical Systems pursuant to which it maintains and repairs the majority of our
+imaging equipment, this agreement does not compensate us for loss of revenue
+when our systems are not fully operational and our business interruption
+insurance may not provide sufficient coverage for the loss of revenue. Also, GE
+Medical Systems may not be able to perform repairs or supply needed parts in a
+timely manner. Therefore, if we experience more equipment malfunctions than
+anticipated or if we are unable to promptly obtain the service necessary to keep
+our equipment functioning effectively, our ability to provide services would be
+adversely affected and our revenue could decline.
+
+DISRUPTION OR MALFUNCTION IN OUR INFORMATION SYSTEMS COULD ADVERSELY AFFECT OUR
+BUSINESS.
+
+     Our information technology system is vulnerable to damage or interruption
+from:
+
+          o    Earthquakes, fires, floods and other natural disasters;
+
+          o    Power losses, computer systems failures, internet and
+               telecommunications or data network failures, operator negligence,
+               improper operation by or supervision of employees, physical and
+               electronic losses of data and similar events; and
+
+          o    Computer viruses, penetration by hackers seeking to disrupt
+               operations or misappropriate information and other breaches of
+               security.
+
+     We, and BRMG, rely on this system to perform functions critical to our and
+its ability to operate, including patient scheduling, billing, collections,
+image storage and image transmission. Accordingly, an extended interruption in
+the system's function could significantly curtail, directly and indirectly, our
+ability to conduct our business and generate revenue.
+
+OUR ACTUAL FINANCIAL RESULTS MAY VARY SIGNIFICANTLY FROM THE PROJECTIONS WE
+FILED WITH THE BANKRUPTCY COURT.
+
+     In connection with our "pre-packaged" Chapter 11 plan of reorganization
+that was confirmed by the Bankruptcy Court on October 20, 2003, we were required
+to prepare projected financial information to demonstrate to the Bankruptcy
+Court the feasibility of the plan of reorganization and our ability to continue
+operations upon our emergence from bankruptcy. As indicated in the disclosure
+statement with respect to the plan of reorganization and the exhibits thereto,
+the projected financial information and various estimates of value discussed
+therein should not be regarded as representations or warranties by us or any
+other person as to the accuracy of that information or that those projections or
+valuations will be realized. We, and our advisors, prepared the information in
+the disclosure statement, including the projected financial information and
+estimates of value. This information was not audited or reviewed by our
+independent accountants. The significant assumptions used in preparation of the
+information and estimates of value were included as an exhibit to the disclosure
+statement.
+
+     Those projections are not included in this report and you should not rely
+upon them in any way or manner. We have not updated, nor will we update, those
+projections. At the time we prepared the projections, they reflected numerous
+assumptions concerning our anticipated future performance with respect to
+prevailing and anticipated market and economic conditions which were and remain
+beyond our control and which may not materialize. Projections are inherently
+subject to significant and numerous uncertainties and to a wide variety of
+significant business, economic and competitive risks and the assumptions
+underlying the projections may be wrong in many material respects. Our actual
+results may vary significantly from those contemplated by the projections. As a
+result, we caution you not to rely upon those projections.
+
+WE ARE VULNERABLE TO EARTHQUAKES AND OTHER NATURAL DISASTERS.
+
+     Our headquarters and all of our facilities are located in California, an
+area prone to earthquakes and other natural disasters. An earthquake or other
+natural disaster could seriously impair our operations, and our insurance may
+not be sufficient to cover us for the resulting losses.
+
+                                       26
+
+COMPLYING WITH FEDERAL AND STATE REGULATIONS IS AN EXPENSIVE AND TIME-CONSUMING
+PROCESS, AND ANY FAILURE TO COMPLY COULD RESULT IN SUBSTANTIAL PENALTIES.
+
+     We are directly or indirectly through the radiology practices with which we
+contract subject to extensive regulation by both the federal government and the
+State of California, including:
+
+          o    The federal False Claims Act;
+
+          o    The federal Medicare and Medicaid anti-kickback laws, and
+               California anti-kickback prohibitions;
+
+          o    Federal and California billing and claims submission laws and
+               regulations;
+
+          o    The federal Health Insurance Portability and Accountability Act
+               of 1996;
+
+          o    The federal physician self-referral prohibition commonly known as
+               the Stark Law and the California equivalent of the Stark Law;
+
+          o    California laws that prohibit the practice of medicine by
+               non-physicians and prohibit fee-splitting arrangements involving
+               physicians;
+
+          o    Federal and California laws governing the diagnostic imaging and
+               therapeutic equipment we use in our business concerning patient
+               safety, equipment operating specifications and radiation exposure
+               levels; and
+
+          o    California laws governing reimbursement for diagnostic services
+               related to services compensable under workers compensation rules.
+
+     If our operations are found to be in violation of any of the laws and
+regulations to which we or the radiology practices with which we contract are
+subject, we may be subject to the applicable penalty associated with the
+violation, including civil and criminal penalties, damages, fines and the
+curtailment of our operations. Any penalties, damages, fines or curtailment of
+our operations, individually or in the aggregate, could adversely affect our
+ability to operate our business and our financial results. The risks of our
+being found in violation of these laws and regulations is increased by the fact
+that many of them have not been fully interpreted by the regulatory authorities
+or the courts, and their provisions are open to a variety of interpretations.
+Any action brought against us for violation of these laws or regulations, even
+if we successfully defend against it, could cause us to incur significant legal
+expenses and divert our management's attention from the operation of our
+business. For a more detailed discussion of the various federal and California
+laws and regulations to which we are subject, see "Business - Government
+Regulation."
+
+IF WE FAIL TO COMPLY WITH VARIOUS LICENSURE, CERTIFICATION AND ACCREDITATION
+STANDARDS, WE MAY BE SUBJECT TO LOSS OF LICENSURE, CERTIFICATION OR
+ACCREDITATION, WHICH WOULD ADVERSELY AFFECT OUR OPERATIONS.
+
+     Ownership, construction, operation, expansion and acquisition of our
+diagnostic imaging facilities are subject to various federal and California
+laws, regulations and approvals concerning licensing of personnel, other
+required certificates for certain types of healthcare facilities and certain
+medical equipment. In addition, freestanding diagnostic imaging facilities that
+provide services independent of a physician's office must be enrolled by
+Medicare as an independent diagnostic testing facility to bill the Medicare
+program. Medicare carriers have discretion in applying the independent
+diagnostic testing facility requirements and therefore the application of these
+requirements may vary from jurisdiction to jurisdiction. We may not be able to
+receive the required regulatory approvals for any future acquisitions,
+expansions or replacements, and the failure to obtain these approvals could
+limit the opportunity to expand our services.
+
+     Our facilities are subject to periodic inspection by governmental and other
+authorities to assure continued compliance with the various standards necessary
+for licensure and certification. If any facility loses its certification under
+the Medicare program, then the facility will be ineligible to receive
+reimbursement from the Medicare and Medi-Cal programs. For the year ended
+October 31, 2005, approximately 18% of our net revenue came from the Medicare
+and Medi-Cal programs. A change in the applicable certification status of one of
+our facilities could adversely affect our other facilities and in turn us as a
+whole.
+
+                                       27
+
+OUR AGREEMENTS WITH THE CONTRACTED RADIOLOGY PRACTICES MUST BE STRUCTURED TO
+AVOID THE CORPORATE PRACTICE OF MEDICINE AND FEE-SPLITTING.
+
+     California law prohibits us from exercising control over the medical
+judgments or decisions of physicians and from engaging in certain financial
+arrangements, such as splitting professional fees with physicians. These laws
+are enforced by state courts and regulatory authorities, each with broad
+discretion. A component of our business has been to enter into management
+agreements with radiology practices. We provide management, administrative,
+technical and other non-medical services to the radiology practices in exchange
+for a service fee typically based on a percentage of the practice's revenue. We
+structure our relationships with the radiology practices, including the purchase
+of diagnostic imaging facilities, in a manner that we believe keeps us from
+engaging in the practice of medicine or exercising control over the medical
+judgments or decisions of the radiology practices or their physicians or
+violating the prohibitions against fee-splitting. However, because challenges to
+these types of arrangements are not required to be reported, we cannot
+substantiate our belief. There can be no assurance that our present arrangements
+with BRMG or the physicians providing medical services and medical supervision
+at our imaging facilities will not be challenged, and, if challenged, that they
+will not be found to violate the corporate practice prohibition, thus subjecting
+us to potential damages, injunction and/or civil and criminal penalties or
+require us to restructure our arrangements in a way that would affect the
+control or quality of our services and/or change the amounts we receive under
+our management agreements. Any of these results could jeopardize our business.
+
+FUTURE FEDERAL LEGISLATION COULD LIMIT THE PRICES WE CAN CHARGE FOR OUR
+SERVICES, WHICH WOULD REDUCE OUR REVENUE AND ADVERSELY AFFECT OUR OPERATING
+RESULTS.
+
+     In addition to extensive existing government healthcare regulation, there
+are numerous initiatives affecting the coverage of and payment for healthcare
+services, including proposals that would significantly limit reimbursement under
+the Medicare and Medi-Cal programs. Limitations on reimbursement amounts and
+other cost containment pressures have in the past resulted in a decrease in the
+revenue we receive for each scan we perform.
+
+THE REGULATORY FRAMEWORK IN WHICH WE OPERATE IS UNCERTAIN AND EVOLVING.
+
+     Healthcare laws and regulations may change significantly in the future. We
+continuously monitor these developments and modify our operations from time to
+time as the regulatory environment changes. We cannot assure you, however, that
+we will be able to adapt our operations to address new regulations or that new
+regulations will not adversely affect our business. In addition, although we
+believe that we are operating in compliance with applicable federal and
+California laws, neither our current or anticipated business operations nor the
+operations of the contracted radiology practices have been the subject of
+judicial or regulatory interpretation. We cannot assure you that a review of our
+business by courts or regulatory authorities will not result in a determination
+that could adversely affect our operations or that the healthcare regulatory
+environment will not change in a way that restricts our operations.
+
+     Certain states have enacted statutes or adopted regulations affecting risk
+assumption in the healthcare industry, including statutes and regulations that
+subject any physician or physician network engaged in risk-based managed care
+contracting to applicable insurance laws and regulations. These laws and
+regulations, if adopted in California, may require physicians and physician
+networks to meet minimum capital requirements and other safety and soundness
+requirements. Implementing additional regulations or compliance requirements
+could result in substantial costs to us and the contracted radiology practices
+and limit our ability to enter into capitation or other risk sharing managed
+care arrangements.
+
+OUR SUBSTANTIAL DEBT COULD ADVERSELY AFFECT OUR FINANCIAL CONDITION AND PREVENT
+US FROM FULFILLING OUR OBLIGATIONS.
+
+     Our current substantial indebtedness and any future indebtedness we incur
+could have important consequences by adversely affecting our financial
+condition, which could make it more difficult for us to satisfy our obligations
+to our creditors. Our substantial indebtedness could also:
+
+          o    Require us to dedicate a substantial portion of our cash flow
+               from operations to payments on our debt, reducing the
+               availability of our cash flow to fund working capital, capital
+               expenditures and other general corporate purposes;
+
+                                       28
+
+o    Increase our vulnerability to adverse general economic and
+               industry conditions;
+
+          o    Limit our flexibility in planning for, or reacting to, changes in
+               our business and the industry in which we operate;
+
+          o    Place us at a competitive disadvantage compared to our
+               competitors that have less debt; and
+
+          o    Limit our ability to borrow additional funds on terms that are
+               satisfactory to us or at all.
+
+ITEM 3   QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+- ------   ----------------------------------------------------------
+
+     We sell our services exclusively in the United States and receive payment
+for our services exclusively in United States dollars. As a result, our
+financial results are unlikely to be affected by factors such as changes in
+foreign currency exchange rates or weak economic conditions in foreign markets.
+
+     The majority of our interest expense is not sensitive to changes in the
+general level of interest in the United States because the majority of our
+indebtedness has interest rates that were fixed when we entered into the note
+payable or capital lease obligation. None of our long-term liabilities have
+variable interest rates. Our credit facility, classified as a current liability
+on our financial statements, is interest expense sensitive to changes in the
+general level of interest because it is based upon the current prime rate plus a
+factor.
+
+ITEM 4   CONTROLS AND PROCEDURES
+- ------   -----------------------
+
+     As of the end of the period covered by this report, we performed an
+evaluation, under the supervision and with the participation of our management,
+including our Chief Executive Officer and our Chief Financial Officer, of the
+effectiveness of the design and operation of our disclosure controls and
+procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)). Based
+upon that evaluation, our Chief Executive Officer and our Chief Financial
+Officer concluded that our disclosure controls and procedures are not effective
+in alerting them prior to the end of a reporting period to all material
+information required to be included in our periodic filings with the SEC because
+we identified the following material weakness in the design of internal controls
+over financial reporting: We concluded that we had insufficient personnel
+resources and technical accounting expertise within the accounting function to
+resolve non-routine accounting matters, such as the recording of cost based
+investments and debt transactions and the appropriate analysis of the
+amortization lives of leasehold improvements in accordance with generally
+accepted accounting principles. The incorrect accounting for the foregoing was
+sufficient to lead management to conclude that a material weakness in the design
+of internal controls over the accounting for non-routine transactions existed at
+October 31, 2005.
+
+     We are in the process of remediating this weakness. Subsequent to October
+31, 2005, we determined to change the design of our internal controls over
+non-routine accounting matters by the identification of an outside resource at a
+recognized professional services company that we can consult with on non-routine
+transactions or the employment of qualified accounting personnel to deal with
+this issue together with the utilization of other senior corporate accounting
+staff, who are responsible for reviewing all non-routine matters and preparing
+formal reports on their conclusions, and conducting quarterly reviews and
+discussions of all non-routine accounting matters with our independent public
+accountants. We believe we will substantially address the identified weakness
+through the change in the design of our internal controls, and subject to
+confirmation of the effectiveness of our implementation of these remediation
+measures, anticipate that the material weakness should be remediated prior to
+the end of fiscal 2006. We are continuing to evaluate additional controls and
+procedures that we can implement and may add additional accounting personnel
+during fiscal 2006 to enhance our technical accounting resources. We do not
+anticipate that the cost of this remediation effort will be material to our
+financial statements.
+
+     The above identified material weakness in internal control was determined
+by management during our year-end audit to be a material change in our internal
+control over financial reporting during the quarter ended October 31, 2005.
+
+     It should be noted that any system of controls, however well designed and
+operated, can provide only reasonable, and not absolute, assurance that the
+objectives of the system will be met. In addition, the design of any control
+system is based in part upon certain assumptions about the likelihood of future
+events.
+
+29
+
+PART II
+
+                                OTHER INFORMATION
+
+ITEM 1.  LEGAL PROCEEDINGS
+
+     We are engaged from time to time in the defense of lawsuits arising out of
+the ordinary course and conduct of our business. We believe that the outcome of
+our current litigation will not have a material adverse impact on our business,
+financial condition and results of operations. However, we could be subsequently
+named as a defendant in other lawsuits that could adversely affect us.
+
+ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+
+     In November 2005, we issued to a lender in consideration of its agreement
+to waive its right to convert our $1,000,000 obligation into 2,000,000 shares of
+our common stock a five-year warrant exercisable at a price of $0.50 per share,
+which was the public market closing price for our common stock on the
+transaction date, to purchase 300,000 shares of our common stock.
+
+ITEM 3. DEFAULTS UPON SENIOR SECURITIES
+
+     There are no matters to be reported under this heading.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+     There are no matters to be reported under this heading.
+
+ITEM 5. OTHER INFORMATION
+
+     There are no matters to be reported under this heading.
+
+ITEM 6. EXHIBITS
+
+     a)   Exhibit 31.1 -- Certification Pursuant to Section 302 of the
+          Sarbanes-Oxley Act of 2002
+     b)   Exhibit 31.2 -- Certification Pursuant to Section 302 of the
+          Sarbanes-Oxley Act of 2002
+     c)   Exhibit 32.1 -- Certification Pursuant to 18 U.S.C. Section 1350 as
+          Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+     d)   Exhibit 32.2 -- Certification Pursuant to 18 U.S.C. Section 1350 as
+          Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+
+30
+
+SIGNATURES
+
+     Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+PRIMEDEX HEALTH SYSTEMS, INC.
+                                  ---------------------------------------------
+                                  (Registrant)
+
+Date: March 17, 2006              By  /s/ HOWARD G. BERGER, M.D.
+                                  ---------------------------------------------
+                                  Howard G. Berger, M.D., President andDirector
+
+Date: March 17, 2006              By  /s/ MARK D. STOLPER
+                                  ---------------------------------------------
+                                  Mark D. Stolper, Chief Financial Officer
+                                  (Principal Accounting Officer)
+
+31
+
+<EX-31.1>
+ 2
+ primedex_10q-ex3101.txt
+
+EXHIBIT 31.1
+
+                            CERTIFICATION PURSUANT TO
+                             18 U.S.C. SECTION 1350
+                             AS ADOPTED PURSUANT TO
+                  SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002
+
+I, Howard G. Berger, M.D., certify that:
+
+1. I have reviewed this quarterly report on Form 10-Q of Primedex Health
+Systems, Inc.
+
+2. Based on my knowledge, this report does not contain any untrue statement of a
+material fact or omit to state a material fact necessary to make the statements
+made, in light of the circumstances under which such statements were made, not
+misleading with respect to the period covered by this report.
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects the
+financial condition, results of operations and cash flows of the registrant as
+of, and for, the periods presented in this report;
+
+4. The registrant's other certifying officer and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have:
+
+     a.   designed such disclosure controls and procedures, or caused such
+          disclosure controls and procedures to be designed under our
+          supervision, to ensure that material information relating to the
+          registrant, including its consolidated subsidiaries, is made known to
+          us by others within those entities, particularly during the period in
+          which this report is being prepared;
+
+     b.   designed such internal control over financial reporting to be designed
+          under our supervision, to provide reasonable assurance regarding the
+          reliability of financial reporting and the preparation of financial
+          statements for external purposes in accordance with generally accepted
+          accounting principles; and
+
+     c.   disclosed in this report any change in the registrant's internal
+          control over financial reporting that occurred during the registrant's
+          most recent fiscal quarter (the registrant's fourth fiscal quarter in
+          the case of an annual report) that has materially affected, or is
+          reasonably likely to materially affect, the registrant's internal
+          control over financial reporting.
+
+5. The registrant's other certifying officer and I have disclosed, based on our
+most recent evaluation of internal control over financial reporting, to the
+registrant's auditors and the audit committee of the registrant's board of
+directors (or persons performing the equivalent functions):
+
+     a.   all significant deficiencies and material weaknesses in the design or
+          operation of internal control over financial reporting which are
+          reasonably likely to adversely affect the registrant's ability to
+          record, process, summarize and report financial information; and
+
+     b.   any fraud, whether or not material, that involves management or other
+          employees who have a significant role in the registrant's internal
+          control over financial reporting.
+
+Dated:  March 17, 2006
+
+                                        /s/ Howard G. Berger, M.D.
+                                        --------------------------
+                                        HOWARD G. BERGER, M.D.
+                                        PRESIDENT
+
+29
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ primedex_10q-ex3102.txt
+
+EXHIBIT 31.2
+
+                            CERTIFICATION PURSUANT TO
+                             18 U.S.C. SECTION 1350
+                             AS ADOPTED PURSUANT TO
+                  SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002
+
+I, Mark D. Stolper, certify that:
+
+     1. I have reviewed this quarterly report on Form 10-Q of Primedex Health
+Systems, Inc.
+
+     2. Based on my knowledge, this report does not contain any untrue statement
+of a material fact or omit to state a material fact necessary to make the
+statements made, in light of the circumstances under which such statements were
+made, not misleading with respect to the period covered by this report.
+
+     3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects the
+financial condition, results of operations and cash flows of the registrant as
+of, and for, the periods presented in this report;
+
+     4. The registrant's other certifying officer and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have:
+
+          a. designed such disclosure controls and procedures, or caused such
+     disclosure controls and procedures to be designed under our supervision, to
+     ensure that material information relating to the registrant, including its
+     consolidated subsidiaries, is made known to us by others within those
+     entities, particularly during the period in which this report is being
+     prepared;
+
+          b. designed such internal control over financial reporting to be
+     designed under our supervision, to provide reasonable assurance regarding
+     the reliability of financial reporting and the preparation of financial
+     statements for external purposes in accordance with generally accepted
+     accounting principles; and
+
+          c. disclosed in this report any change in the registrant's internal
+     control over financial reporting that occurred during the registrant's most
+     recent fiscal quarter (the registrant's fourth fiscal quarter in the case
+     of an annual report) that has materially affected, or is reasonably likely
+     to materially affect, the registrant's internal control over financial
+     reporting.
+
+     5. The registrant's other certifying officer and I have disclosed, based on
+our most recent evaluation of internal control over financial reporting, to the
+registrant's auditors and the audit committee of the registrant's board of
+directors (or persons performing the equivalent functions):
+
+          a. all significant deficiencies and material weaknesses in the design
+     or operation of internal control over financial reporting which are
+     reasonably likely to adversely affect the registrant's ability to record,
+     process, summarize and report financial information; and
+
+          b. any fraud, whether or not material, that involves management or
+     other employees who have a significant role in the registrant's internal
+     control over financial reporting.
+
+Dated: March 17, 2006
+
+/s/ Mark D. Stolper
+                                                  -----------------------------
+                                                  MARK D. STOLPER
+                                                  CHIEF FINANCIAL OFFICER
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ primedex_10q-ex3201.txt
+
+EXHIBIT 32.1
+
+                            CERTIFICATION PURSUANT TO
+                             18 U.S.C. SECTION 1350
+                             AS ADOPTED PURSUANT TO
+                  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Quarterly Report of Primedex Health Systems, Inc. (the
+"Company") on Form 10-Q for the quarterly period ended January 31, 2006, as
+filed with the Securities and Exchange Commission on March 17, 2006 (the
+"Report"), I, Howard G. Berger, M.D., Chairman and Chief Executive Officer of
+the Company, certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to
+Section 906 of the Sarbanes-Oxley Act of 2002, that:
+
+          1. The Report fully complies with the requirements of Section 13(a) or
+     15(d) of the Securities Exchange Act of 1934, as amended; and
+
+          2. The information contained in the Report fairly presents, in all
+     material respects, the financial condition and results of operations of the
+     Company as of, and for the periods presented in the Report.
+
+/s/ Howard G. Berger, M.D.
+                                            ------------------------------------
+                                            Howard G. Berger, M.D.
+                                            Chairman and Chief Executive Officer
+                                            (Principle Executive Officer)
+                                            March 17, 2006
+
+         A signed original of this written statement required by Section 906 has
+been provided to the Company and will be furnished to the Securities and
+Exchange Commission or its staff upon request.
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ primedex_10q-ex3202.txt
+
+EXHIBIT 32.2
+
+                            CERTIFICATION PURSUANT TO
+                             18 U.S.C. SECTION 1350
+                             AS ADOPTED PURSUANT TO
+                  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Quarterly Report of Primedex Health Systems, Inc. (the
+"Company") on Form 10-Q for the quarterly period ended January 31, 2006, as
+filed with the Securities and Exchange Commission on March 17, 2006 (the
+"Report"), I, Mark D. Stolper, Chief Financial Officer of the Company, certify,
+pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the
+Sarbanes-Oxley Act of 2002, that:
+
+     1. The Report fully complies with the requirements of Section 13(a) or
+15(d) of the Securities Exchange Act of 1934, as amended; and
+
+     2. The information contained in the Report fairly presents, in all material
+respects, the financial condition and results of operations of the Company as
+of, and for the periods presented in the Report.
+
+                                              /s/ Mark D. Stolper
+                                              -----------------------------
+                                              Mark D. Stolper
+                                              Chief Financial Officer
+                                              (Principal Financial Officer)
+                                              March 17, 2006
+
+A signed original of this written statement required by Section 906 has been
+provided to the Company and will be furnished to the Securities and Exchange
+Commission or its staff upon request.
+
+32
+
+</EX-32.2>
+

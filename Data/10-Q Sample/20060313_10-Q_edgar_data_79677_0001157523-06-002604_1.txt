@@ -1,0 +1,1328 @@
+<Header>
+<FileStats>
+    <FileName>20060313_10-Q_edgar_data_79677_0001157523-06-002604_1.txt</FileName>
+    <GrossFileSize>102186</GrossFileSize>
+    <NetFileSize>66583</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>429</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>13</N_Tables>
+    <N_Exhibits>4</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001157523-06-002604.hdr.sgml : 20060313
+<ACCEPTANCE-DATETIME>20060313151110
+ACCESSION NUMBER:		0001157523-06-002604
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20060131
+FILED AS OF DATE:		20060313
+DATE AS OF CHANGE:		20060313
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			POSSIS MEDICAL INC
+		CENTRAL INDEX KEY:			0000079677
+		STANDARD INDUSTRIAL CLASSIFICATION:	ORTHOPEDIC, PROSTHETIC & SURGICAL APPLIANCES & SUPPLIES [3842]
+		IRS NUMBER:				410783184
+		STATE OF INCORPORATION:			MN
+		FISCAL YEAR END:			0731
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-00944
+		FILM NUMBER:		06681935
+
+	BUSINESS ADDRESS:	
+		STREET 1:		9055 EVERGREEN BLVD N W
+		CITY:			MINNEAPOLIS
+		STATE:			MN
+		ZIP:			55433-8003
+		BUSINESS PHONE:		6127804555
+
+	MAIL ADDRESS:	
+		STREET 1:		9055 EVERGREEN BLVD N W
+		CITY:			MINNAPOLIS
+		STATE:			MN
+		ZIP:			55433-8003
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	POSSIS MACHINE CORP
+		DATE OF NAME CHANGE:	19721106
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ MPlzIRIQfK9HFdGJHVUO/GAfrZu20cg2MnbULLrc8V9/YOzeFOBYjEnyhgfXJUgo
+ KZZKMCXqLs37fORQ+2S7Rw==
+
+ 0001157523-06-002604.txt : 20060313
+
+10-Q
+ 1
+ a5099827.txt
+ POSSIS MEDICAL 10-Q
+
+UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D. C. 20549
+
+                                    FORM 10-Q
+
+[ X ]    QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF
+         THE SECURITIES EXCHANGE ACT OF 1934.
+
+   For the quarterly period ended January 31, 2006
+
+                                       or
+
+[   ]    TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+         SECURITIES EXCHANGE ACT OF 1934
+
+   For the transition period from ____________________ to ___________________
+
+                          Commission File Number 0-944
+
+                              POSSIS MEDICAL, INC.
+                              --------------------
+             (exact name of registrant as specified in its charter)
+
+              Minnesota                                  41-0783184
+- ----------------------------------------   -------------------------------------
+   (State or other jurisdiction of                    (I.R.S. Employer
+     incorporation or organization)                  Identification No.)
+
+9055 Evergreen Blvd NW Minnesota MN                   55433-8003
+- ----------------------------------------   -------------------------------------
+(Address of principal executive offices)                 (Zip Code)
+
+783-780-4555
+- --------------------------------------------------------------------------------
+              (Registrant's telephone number, including area code)
+
+Indicate by check mark whether the registrant is a large accelerated filer, an
+accelerated filer, or a non-accelerated filer.
+
+     Large accelerated filer  _____     Accelerated filer  __X__
+                           Non-accelerated filer _____
+
+Indicate by check mark whether the registrant is a shell company (as defined in
+Rule 12b-2 of the Exchange Act). Yes _____  No __X__
+
+The number of shares outstanding of the Registrant's Common Stock, $.40 par
+value, as of February 28, 2006 was 17,163,689.
+
+POSSIS MEDICAL, INC.
+
+                                      INDEX
+
+PAGE
+                                                                           ----
+
+PART I.          FINANCIAL INFORMATION
+
+     ITEM 1.     Financial Statements..................................       3
+
+                 Consolidated Balance Sheets, January 31, 2006 and
+                 July 31, 2005.........................................       3
+
+                 Consolidated Statements of Income and Comprehensive
+                 Income for the three and six months ended January 31,
+                 2006 and 2005.........................................       4
+
+                 Consolidated Statements of Cash Flows for the six
+                 months ended January 31, 2006 and 2005................       5
+
+                 Notes to Consolidated Financial Statements............       6
+
+     ITEM 2.     Management's Discussion and Analysis of Financial
+                 Condition and Results of Operations...................      12
+
+     ITEM 3.     Quantitative and Qualitative Disclosures about Market
+                 Risk..................................................      20
+
+     ITEM 4.     Controls and Procedures...............................      20
+
+PART II.         OTHER INFORMATION
+
+     ITEM 1.     Legal Proceedings.....................................      20
+
+     ITEM 2.     Unregistered Sales of Equity Securities and Use of
+                 Proceeds..............................................      21
+
+     ITEM 6.     Exhibits..............................................      21
+
+                 SIGNATURES............................................      22
+
+PART 1     FINANCIAL INFORMATION
+
+ITEM 1.    FINANCIAL STATEMENTS
+
+See notes to consolidated financial statements.
+
+3
+
+4
+
+See notes to consolidated financial statements.
+
+5
+
+POSSIS MEDICAL, INC. AND SUBSIDIARIES
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                   (UNAUDITED)
+
+1.   BASIS OF PRESENTATION
+
+     The accompanying unaudited consolidated financial statements have been
+     prepared in accordance with accounting principles generally accepted in the
+     United States of America for interim financial information and with the
+     instructions to Form 10-Q and Article 10 of Regulation S-X. Accordingly,
+     they do not include all of the information and footnotes required by
+     accounting principles generally accepted in the United States of America
+     for complete financial statements. In the opinion of management, all
+     adjustments (consisting of normal recurring accruals) considered necessary
+     for a fair presentation have been included. The accompanying consolidated
+     financial statements and notes should be read in conjunction with the
+     audited financial statements and accompanying notes thereto included in the
+     Company's 2005 Annual Report.
+
+     INTERIM FINANCIAL STATEMENTS
+
+     Operating results for the three and six months ended January 31, 2006 are
+     not necessarily indicative of the results that may be expected for the year
+     ending July 31, 2006.
+
+2.   EARNINGS PER SHARE
+
+     The following table presents a reconciliation of the numerators and
+     denominators of basic and diluted earnings per share:
+
+Potentially dilutive securities include stock options, non-vested share
+     awards and shares issuable under our employee stock purchase plan (ESPP).
+
+     The computation of dilutive shares outstanding excluded options to purchase
+     1,907,000 and 1,678,000 shares of common stock for the three months ended
+     January 31, 2006 and 2005 and 1,898,000 and 1,087,000 shares of common
+     stock for the six months ended January 31, 2006 and 2005, respectively.
+     These amounts were excluded because the options exercise prices were
+     greater than the weighted average closing market price of our common stock
+     for the periods presented and therefore, the effect would be antidilutive
+     (i.e., including such options would result in higher earnings per share.)
+
+6
+
+3.   STOCK BASED-COMPENSATION
+
+     We have stock-based compensation plans under which we issue stock options,
+     non-vested share awards and discounted purchase rights under an employee
+     stock purchase (Section 423) plan (ESPP). Employee stock options issued
+     prior to July 31, 2005 have a ten-year term. Employee stock options issued
+     subsequent to July 31, 2005 have a five-year term. Outstanding stock
+     options issued to employees generally vest over a four-year period,
+     however, on occasion the Company has issued options that vest based upon
+     achieving corporate objectives or stock price performance. Outstanding
+     stock options issued to directors vest over the following periods, based on
+     the basis for issuance: a) six months - stock options in lieu of
+     compensation for services rendered as directors, b) four years - annual
+     grants of stock options and c) stock price performance with a seven-year
+     cliff period - service award options. Directors receive an annual
+     non-vested share award that vests upon continued employment (time based) of
+     one year. Our ESPP permits employees to purchase stock at 85% of the market
+     price of our common stock at the end of the quarterly purchase period.
+
+     Prior to August 1, 2005, we applied Accounting Principles Board Opinion No.
+     25, Accounting for Stock Issued to Employees, and related Interpretations
+     in accounting for these plans. No stock-based compensation expense was
+     recognized in our statements of income prior to fiscal 2006 for stock
+     option awards, as the exercise price was equal to the market price of our
+     stock on the date of grant. In addition, we did not recognize any
+     stock-based compensation expense for our ESPP as it is intended to be a
+     plan that qualifies under Section 423 of the Internal Revenue Code of 1986,
+     as amended. Finally, we recognized stock-based compensation expense for
+     non-vested share awards as discussed in Note 4, Common Stock, of the Notes
+     to Consolidated Financial Statements of our Annual Report on Form 10-K, for
+     the fiscal year ended July 31, 2005.
+
+     On August 1, 2005, we adopted the fair value recognition provisions of
+     Statement of Financial Accounting Standards (SFAS) No. 123 (revised 2004),
+     Share-Based Payment (123(R)), requiring us to recognize expense related to
+     the fair value of our stock-based compensation awards. We elected the
+     modified prospective transition method as permitted by SFAS No. 123(R).
+     Under this transition method, stock-based compensation expense for the
+     three and six months ended January 31, 2006, includes: (a) compensation
+     expense for all stock-based compensation awards granted prior to, but not
+     yet vested as of July 31, 2005, based on the grant date fair value
+     estimated in accordance with the original provisions of SFAS No. 123,
+     Accounting for Stock-Based Compensation; and (b) compensation expense for
+     all stock-based awards granted subsequent to July 31, 2005, based on the
+     grant-date fair value estimated in accordance with the provisions of SFAS
+     No. 123(R). We recognized compensation expense for stock options and
+     non-vested share awards, that are either market-based or time-based, on a
+     straight-line basis over the requisite service period of the award. Total
+     stock-based compensation expense included in our statement of income for
+     the three and six months ended January 31, 2006, was $804,000 ($730,000,
+     net of tax) and $1,626,000 ($1,432,000, net of tax), respectively. In
+     accordance with the modified prospective transition method of SFAS No.
+     123(R), financial results for prior periods have not been restated.
+
+     Prior to the adoption of SFAS No. 123(R), we reported all tax benefits
+     resulting from the exercise of stock options as operating cash flows in our
+     consolidated statements of cash flows. In accordance with SFAS No. 123(R),
+     for the six months ended January 31, 2006, we revised our statement of cash
+     flows presentation to report the excess tax benefits from the exercise of
+     stock options as financing cash flows. For the six months ended January 31,
+     2006, $13,000 of excess tax benefits were reported as financing cash flows
+     rather than operating cash flows.
+
+     The following table illustrates the effect on net income and earnings per
+     share if we had applied the fair value recognition provisions of SFAS No.
+     123 to stock-based employee compensation during the three and six months
+     ended January 31, 2005.
+
+7
+
+For purposes of this pro forma disclosure, the value of the stock-based
+     compensation was amortized to expense on a straight-line basis over the
+     period it is vested or earned. Forfeitures were estimated based on
+     historical experiences.
+
+     The following table summarizes the stock option transactions for the six
+     months ended January 31, 2006:
+
+Note: At January 31, 2006, shares associated with our ESPP were not
+     significant and are excluded from the table above.
+
+8
+
+The aggregate intrinsic value of options (the amount by which the market
+     price of the stock on date of exercise exceeded the market price of the
+     stock on the date of grant) exercised during the three months ended January
+     31, 2006 and 2005, was $44,000 and $97,000, respectively; and during the
+     six months ended January 31, 2006 and 2005, was $69,000 and $763,000,
+     respectively.
+
+     We estimated the fair values using the Black-Scholes option-pricing model
+     prior to August 1, 2005 and using the Actuarial Binomial option-pricing
+     model subsequent to July 31, 2005, modified for dividends and using the
+     following assumptions:
+
+Net cash proceeds from the exercise of stock options were $251,000 and
+     $347,000 for the six months ended January 31, 2006 and 2005, respectively.
+
+     The actual income tax benefit realized from stock option exercises totaled
+     $13,000 and $274,000 for the six months ended January 31, 2006 and 2005,
+     respectively.
+
+     Non-Vested Share Awards
+
+     The fair value of non-vested market-based and time-based share awards is
+     determined based on generally accepted valuation techniques and the closing
+     market price of our stock on the date of grant. A summary of the status of
+     our non-vested market-based and time-based share awards as of January 31,
+     2006 and changes during the six-month period ended January 31, 2006, is as
+     follows:
+
+           Market-Based and Time-Based Share Awards        Shares    Fair Value
+           ----------------------------------------        ------    ----------
+           Outstanding at July 31, 2005                     2,754      $11.70
+           Granted                                         21,947       12.15
+           Vested                                         (14,818)      12.47
+           Forfeited/Canceled                              (6,289)      13.03
+           Outstanding at January 31, 2006                  3,594       $9.80
+
+     There were 36,000 time-based share awards vested during the six months
+     ended January 31, 2006. As of January 31, 2006, there was $33,000 of
+     unrecognized compensation expense related to non-vested time-based share
+     awards that is expected to be recognized over the next eleven months.
+
+4.   ACCOUNTING PRONOUNCEMENTS
+
+     In November 2003 and March 2004, the Emerging Issues Task Force (EITF)
+     reached a consensus on EITF Issue No. 03-1, "The Meaning of
+     Other-Than-Temporary Impairment and Its Application to Certain
+     Investments." The consensus reached requires companies to apply new
+     guidance for evaluating whether an investment is other-than-temporarily
+     impaired and also requires quantitative and qualitative disclosure of debt
+     and equity securities, classified as available-for-sale or
+     held-to-maturity, that are determined to be only temporarily impaired at
+     the balance sheet date. The Company incorporated the required disclosures
+
+9
+
+for investments accounted for under SFAS No. 115, "Accounting for Certain
+     Investments in Debt and Equity Securities," as required in the fourth
+     quarter of fiscal year 2004. In September 2004, the consensus was
+     indefinitely delayed as it relates to the measurement and recognition of
+     impairment losses for all securities in the scope of paragraphs 10-20 of
+     EITF 03-1. The disclosures prescribed by EITF No. 03-1 and guidance related
+     to impairment measurement prior to the issuance of this consensus continue
+     to remain in effect. Adoption is not expected to have a material impact on
+     the Company's consolidated earnings, financial position or cash flows.
+
+     In April 2005, the FASB issued FIN No. 47 to clarify the scope and timing
+     of liability recognition for conditional asset retirement obligations
+     pursuant to SFAS No. 143 - "Accounting for Asset Retirement Obligations".
+     The interpretation requires that a liability be recorded for the fair value
+     of an asset retirement obligation, if the fair value is estimable, even
+     when the obligation is dependent on a future event. FIN No. 47 further
+     clarified that uncertainty surrounding the timing and method of settlement
+     of the obligation should be factored into the measurement of the
+     conditional asset retirement obligation rather than affect whether a
+     liability should be recognized. Implementation is required to be effective
+     no later than the end of fiscal years ending after Dec. 15, 2005.
+     Additionally, FIN No. 47 will permit but not require restatement of interim
+     financial information during any period of adoption. Both recognition of a
+     cumulative change in accounting and disclosure of the liability on a pro
+     forma basis are required for transition purposes. The Company is evaluating
+     the impact of FIN No. 47, however, it is not expected to have a material
+     impact on results of operations or financial position.
+
+5.   MARKETABLE SECURITIES
+
+     During the quarter ended January 31, 2006, we invested excess cash and cash
+     equivalents in a professionally managed portfolio of marketable securities.
+     All securities in this portfolio are classified as available-for-sale and
+     consist primarily of U.S. government securities and corporate bonds. These
+     investments are reported at fair value. The unrealized gain, net of taxes,
+     on these investments, of approximately $19,000 for the three months ended
+     January 31, 2006 is included within other comprehensive gain. The
+     unrealized loss, net of taxes, on these investments of approximately
+     $80,000 for the six months ended January 31, 2006 is included within other
+     comprehensive loss. The unrealized loss, net of taxes, on these investments
+     of approximately $130,000 and $5,000, respectively, for the three and six
+     months ended January 31, 2005 is included within other comprehensive loss.
+     The net unrealized loss included in shareholders' equity as of January 31,
+     2006 and 2005 was $320,000 and $141,000, net of tax.
+
+6.   INVENTORIES
+
+     Inventories are stated at the lower of cost (on the first-in, first-out
+     basis) or market. Inventory balances were as follows:
+
+                                             Jan. 31, 2006       July 31, 2005
+                                           -----------------   -----------------
+
+           Finished goods.................        $2,239,753          $2,149,599
+           Work-in-process................         1,307,700           1,206,364
+           Raw materials..................         2,790,656           2,474,241
+                                           -----------------   -----------------
+                                                  $6,338,109          $5,830,204
+                                           =================   =================
+
+7.   PROPERTY AND EQUIPMENT
+
+     Property is carried at cost and depreciated using the straight-line method
+     over the estimated useful lives of the various assets. Property and
+     equipment balances and corresponding lives were as follows:
+
+10
+
+8.   SEGMENT AND GEOGRAPHIC INFORMATION AND CONCENTRATION OF CREDIT RISK
+
+     Our operations are in one business segment: the design, manufacture and
+     distribution of endovascular medical devices. We evaluate revenue
+     performance based on the worldwide revenues of each major product line and
+     profitability based on an enterprise-wide basis due to shared
+     infrastructures to make operating and strategic decisions.
+
+     Total revenues from sales in the United States and outside the United
+     States are as follows:
+
+9.   NET INCOME PER COMMON SHARE
+
+     Basic income per common share is computed by dividing net income for the
+     period by the weighted average number of common shares outstanding during
+     the period. Diluted income per share is computed using the treasury stock
+     method by dividing net income by the weighted average number of common
+     shares plus the dilutive effect of outstanding stock options, and shares
+     issuable under the employee stock purchase plan.
+
+10.  COMMON STOCK
+
+     During the six months ended January 31, 2006, stock options for the
+     purchase of 27,945 shares of the Company's common stock were exercised at
+     prices between $3.94 and $12.44 per share resulting in proceeds of
+     $251,000. During the six months ended January 31, 2005, stock options for
+     the purchase of 70,089 shares of the Company's common stock were exercised
+     at prices between $3.88 and $16.66 per share resulting in proceeds of
+     $347,000.
+
+     During the six months ended January 31, 2006 and 2005, we issued 43,199 and
+     37,580 shares in connection with our employee stock purchase plan.
+
+     On August 29, 2005, we issued 18,353 shares of restricted stock to
+     executives of the Company as part of the fiscal 2005 management incentive
+     program. The restricted stock vested when our stock price closed at $13.00
+     or greater, which occurred, on August 31, 2005. The $230,600 fair market
+     value of the restricted stock was expensed in fiscal 2005 as compensation
+     expense. We cancelled 6,289 shares of restricted stock due to executives
+     electing to receive fewer shares in lieu of paying withholding taxes.
+
+     During the six months ended January 31, 2006, we repurchased 249,600 shares
+     in the public market at prices between $9.89 and $11.06 per share for
+     $2,613,000. During the six months ended January 31, 2005, we repurchased
+     940,400 shares in the public market at stock prices between $10.66 and
+     $18.34 per share for $13,121,000.
+
+11.  ACCRUED WARRANTY COSTS
+
+     We estimate the amount of warranty claims on sold product that may be
+     incurred based on current and historical data. The actual warranty expense
+     could differ from the estimates made by the Company based on product
+     performance. The following table presents the changes in our product
+     warranty liability:
+
+11
+
+Accrued warranty costs at July 31, 2005.......        $146,500
+             Payments made for warranty costs..............        (213,200)
+             Provision for product costs...................         213,200
+                                                             --------------
+             Accrued warranty costs at January 31, 2006....        $146,500
+                                                             ==============
+
+ITEM 2.      MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+             FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+
+Our Business
+
+Possis Medical Inc. develops, manufactures, and markets pioneering medical
+devices for mechanical thrombectomy in native coronary arteries and coronary
+bypass grafts, leg arteries and in kidney dialysis access grafts. Our primary
+product, the AngioJet(R) RheolyticTM Thrombectomy System (AngioJet System) uses
+miniaturized waterjet technology, which enables interventional cardiologists,
+interventional radiologists, vascular surgeons, and other specialists to
+rapidly, safely and effectively remove blood clots throughout the body.
+
+The proprietary AngioJet System consists of a drive unit (capital equipment), a
+disposable pump set that delivers pressurized saline to a catheter, and a
+variety of disposable catheters that are specifically designed for particular
+clinical indications. The AngioJet coronary catheter is a Class III medical
+device and is marketed in the U.S. under an approved PMA. The AngioJet AV-Access
+and peripheral arterial catheters are Class II devices that are marketed in the
+U.S. under cleared 510(k) submissions.
+
+We expect U.S. AngioJet System sales to grow primarily through obtaining
+additional FDA approved product uses, introduction of new catheter models for
+existing indications, introduction of AngioJet System-related products, more
+face-time selling to existing accounts, peer-to-peer selling, and the
+publication of clinical performance and cost-effectiveness data.
+
+Critical Accounting Policies
+
+The preparation of financial statements in conformity with accounting principles
+generally accepted in the United States of America requires us to make estimates
+and assumptions in certain circumstances that affect amounts reported in the
+accompanying consolidated financial statements and related footnotes. In
+preparing these financial statements, we have made our best estimates and
+applied our best judgment of certain amounts included in the financial
+statements, giving due consideration to materiality. Our most critical
+accounting policies are those described below. Application of these accounting
+policies involves the exercise of judgment and use of assumptions as to future
+uncertainties and, as a result, actual results could differ from these
+estimates.
+
+Revenue Recognition
+
+Revenues associated with AngioJet drive units that are maintained at customer
+locations are recognized, and title and risk of loss on those drive units is
+transferred to the customer when we receive a valid purchase order from the
+customer. Revenue is not recognized for AngioJet drive units that are maintained
+at customer locations as evaluation drive units. We do not lease AngioJet drive
+units. Revenues associated with products that are shipped to customers from our
+facilities are recognized, and title and risk of loss are transferred to the
+customer, when a valid purchase order is received and the products are received
+at the customer's location. Provisions for returns are recorded in the same
+period the related revenues are recognized. Revenue recognition for drive unit
+extended warranties is amortized on a straight-line basis over the life of the
+warranty period that is generally twelve months.
+
+Allowance for Returns
+
+Trade receivable, are reduced by an allowance for items that may be returned in
+the future. The allowance requires us to make estimates at the time the account
+receivable is recorded concerning the likelihood of returns. The estimate is
+based upon our historical product return experience, customer complaint rates,
+
+12
+
+information received from our customers and other assumptions that we believe
+are reasonable under the circumstances. We review, on a quarterly basis, the
+actual returns for the previous quarter and evaluate the adequacy of the
+allowance for future returns. Although we believe the amount of the allowance
+for returns is appropriate, actual returns incurred could differ from our
+original estimate, requiring adjustments to the allowance.
+
+Allowance for Doubtful Accounts
+
+Substantially all of our trade receivables are due from health care facilities
+located in the United States. The estimated allowance for doubtful accounts is
+based upon the age of the outstanding receivables and the payment history and
+creditworthiness of each customer. We evaluate the adequacy of the allowance for
+doubtful accounts on a quarterly basis. Although we believe the amount of the
+allowance for doubtful accounts is appropriate, nonpayment of accounts could
+differ from our original estimate, requiring adjustments to the allowance.
+
+Inventories
+
+We value inventories at the lower of cost or market. In order to determine the
+market value of inventory, on a quarterly basis, we assess the inventory
+quantities on hand to estimate future usage and sales and, if necessary, set up
+an obsolescence reserve for inventory deemed excess or obsolete to estimate
+market value. Although we believe the amount of the reserve for inventory
+obsolescence is appropriate, the amount of our inventory that becomes obsolete
+may differ from our original estimate, requiring adjustments to the reserve.
+
+Warranty Reserve
+
+We provide a one-year limited warranty on our AngioJet System drive unit and a
+limited warranty on AngioJet System disposable products. We establish a warranty
+reserve at the time products are sold that is based upon historical frequency of
+claims relating to our products and the cost to replace disposable products and
+to repair drive units under warranty. We evaluate the adequacy of the warranty
+reserve on a quarterly basis. Although we believe the amount of the warranty
+reserve is appropriate, given our historical experience, if actual claims
+incurred differ from the original estimate, we would be required to adjust the
+reserve.
+
+Non-GAAP (General Accepted Accounting Principles) Disclosures
+
+In our Management's Discussion and Analysis, and Notes to Consolidated Financial
+Statements, the Company makes reference to non-GAAP financial measures - the
+effect on net income, net income after tax and net income per share resulting
+from compensation charges under SFAS 123 (R), and other non-GAAP line items from
+the Consolidated Statements of Income and Comprehensive Income, including cost
+of medical products, operating expenses (including selling, general and
+administrative, and research and development), and provision for income taxes.
+These measures are not in accordance with, or an alternative for, generally
+accepted accounting principles and may be different from non-GAAP measures used
+by other companies. Possis believes that the presentation of non-GAAP net
+income, non-GAAP net income per share data, and other non-GAAP line items from
+the Consolidated Statements of Income and Comprehensive Income, when shown in
+conjunction with the corresponding GAAP measures, provides useful information to
+management and investors regarding financial and business trends relating to its
+financial condition and results of operations. Possis further believes that
+where the adjustments used in calculating non-GAAP net income and non-GAAP net
+income per share are based on specific identified charges that impact different
+line items in the statements of income (including cost of medical products,
+selling, general and administrative and research and development expense), that
+it is useful to investors to know how these specific line items in the
+statements of income are affected by these adjustments. In particular, as Possis
+begins to apply SFAS 123(R), it believes that it is useful to investors to
+understand how the expenses associated with the application of SFAS 123(R) are
+reflected in its Consolidated Statements of Income and Comprehensive Income.
+
+13
+
+Financial Reporting Changes
+
+Stock-Based Compensation
+
+On December 16, 2004, the Financial Accounting Standards Board (FASB) issued
+Statement of Financial Accounting Standards (SFAS) No. 123 (revised 2004),
+Share-Based Payment (123(R)), effective for a company's first fiscal year
+beginning after June 15, 2005, SFAS No. 123(R) supersedes Accounting Principles
+Board Opinion No. 25, Accounting for Stock Issued to Employees. SFAS No. 123(R)
+requires all share-based compensation, including grants of stock options, to be
+recognized in the consolidated statements of earnings.
+
+During the first quarter of fiscal 2006, we adopted SFAS No. 123(R), and elected
+the modified prospective transition method. This method permits us to apply the
+new requirements on a prospective basis. Our net income for the three and six
+months ended January 31, 2006 included stock-based compensation expense of
+$804,000 ($730,000 after tax, or $0.04 per diluted share) and $1,626,000
+($1,432,000 after tax, or $0.08 per diluted share). Our cost of medical products
+for the three and six months ended January 31, 2006 included stock-based
+compensation of $105,000 and $207,000, respectively. Our selling, general and
+administrative expense for the three and six months ended January 31, 2006
+included stock-based compensation of $503,000 and $1,034,000, respectively. Our
+research and development expense for the three and six months ended January 31,
+2006 included stock-based compensation of $196,000 and $385,000, respectively.
+For additional information on our adoption of SFAS No. 123(R), see Note 3,
+Stock-Based Compensation of the Notes to Consolidate Financial Statements in
+this Quarterly Report on Form 10-Q.
+
+Results of Operations
+
+Three and Six Month Periods Ended January 31, 2006 and 2005
+
+Summary
+
+Total product sales for the three months ended January 31, 2006 decreased
+$1,040,000, or 6%, to $15,129,000 compared to $16,169,000 for the comparable
+period in fiscal 2005. Total product sales for the six months ended January 31,
+2006 decreased $3,066,000, or 9%, to $30,605,000 compared to $33,671,000 for the
+comparable period in fiscal 2005.
+
+We recorded net income for the three and six months ended January 31, 2006 of
+$341,000, or $0.02 per diluted share, and $607,000, or $0.03 per diluted share
+compared to net income of $1,669,000, or $0.09 per diluted share, and
+$3,862,000, or $0.21 per diluted share in the comparable three and six months in
+fiscal 2005. Net income for the three and six months ended January 31, 2006,
+reflects the impact of adopting SFAS No.123(R), which resulted in stock-based
+compensation expense of $804,000, ($730,000 after tax, or $0.04 per diluted
+share) and $1,626,000, ($1,432,000 after tax, or $0.08 per diluted share),
+respectively.
+
+14
+
+The following table compares the Statement of Income as reported with the
+pro-forma non-GAAP Statement of Income for the three months ended January 31,
+2006, eliminating the impact of SFAS 123(R) on the Statement of Income. In
+addition, the three months ended January 31, 2005, is included for comparison
+purposes.
+
+The following table compares the Statement of Income as reported with the
+pro-forma non-GAAP Statement of Income for the six months ended January 31,
+2006, eliminating the impact of SFAS 123(R) on the Statement of Income. In
+addition, the six months ended January 31, 2005 is included for comparison
+purposes.
+
+15
+
+The following tables compares the Statement of Income as a percentage of product
+sales for the three and six months ended January 31, 2006 and 2005.
+
+Note: The above table includes Proforma Non-GAAP percentages for fiscal 2006.
+These percentages did not include stock-based compensation under SFAS 123(R).
+
+Revenue
+
+U.S. product sales for the three months ended January 31, 2006 decreased 6% to
+$14,582,000 from $15,585,000 for the same period in 2005. U.S. product sales for
+the six months ended January 31, 2006 decreased 10% to $29,611,000 from
+$32,783,000 for the same period in 2005. The main factors in the revenue
+decrease during fiscal 2005 were higher than expected sales force turnover,
+increased competition, and continuing controversy concerning the role of
+thrombectomy and embolic protection in treating coronary STEMI (ST segment
+elevation myocardial infarction) patients.
+
+As of January 31, 2006, we had a total of 1,600 domestic drive units in the
+field, compared to 1,422 drive units at January 31, 2005, and 1,560 units as of
+October 31, 2005. During the three month period ended January 31, 2006, our
+catheter sales decreased approximately 3% to approximately 11,700 catheters
+versus approximately 12,100 catheters in the same period last year. During the
+six month period ended January 31, 2006, our catheter sales decreased
+approximately 6% to approximately 23,600 catheters versus approximately 25,000
+catheters in the same period last year. The average catheter utilization rate
+per installed domestic drive unit was 7.0 in the second quarter of fiscal 2006
+compared to 8.3 in the same prior year period, and compared to a rate of 7.5 in
+the first quarter of fiscal 2006. We sold 28 and 70 domestic drive units during
+the three and six months ended January 31, 2006, respectively, compared to 49
+and 98 domestic drive units in the same periods in the prior year.
+
+Foreign product sales were $507,000 for the three months ended January 31, 2006
+and $552,000 for the three months ended January 31, 2005. Foreign product sales
+of $931,000 for the six months ended January 31, 2006 and $855,000 for the six
+months ended January 31, 2005.
+
+16
+
+Cost of Medical Products
+
+Cost of medical products decreased $381,000 to $3,903,000 in the three month
+period ended January 31, 2006 over the same period in the previous year and
+decreased $455,000 to $8,133,000 for the six month period ending January 31,
+2006 over the same period in the previous year. The decreases were primarily due
+to the reduction in AngioJet System product unit sales offset by higher
+production overhead on lower units produced combined with an increase in
+overhead costs. The adoption of SFAS No. 123(R) increased cost of medical
+products by $105,000 during the three months ended January 31, 2006, and
+$207,000 during the six months ended January 31, 2006. Gross profit decreased by
+$659,000 to $11,226,000, or 74.2% of product sales, for the three months ended
+January 31, 2006, from $11,885,000 or 73.5% of product sales in the same period
+last year. Gross profit decreased by $2,611,000 to $22,472,000, or 73.4% of
+product sales, for the six months ended January 31, 2006, from $25,083,000 or
+74.5% of product sales in the same period last year. The decrease in the gross
+profit during the six months was primarily due to lower revenue.
+
+Selling, General and Administrative Expense
+
+Selling, general and administrative expense increased $799,000 to $7,511,000 for
+the three months ended January 31, 2006, compared to the same period in the
+previous year. Of such increase, $503,000 was stock-based compensation expense
+resulting primarily from the implementation of SFAS No. 123(R). Marketing
+clinical studies and patent expenses also contributed to the increase. These
+expense increases were partially offset by a reduction in commissions and other
+sales related expenses. Selling, general and administrative expense increased
+$1,637,000 to $15,905,000 for the six months ended January 31, 2006, compared to
+the same period in the previous year; $1,034,000 of which was attributable to
+the implementation of SFAS 123(R). Other factors contributing to the expense
+increase were medical insurance costs, increase in depreciation, sales meetings
+and incentives. These expense increases were partially offset by a reduction in
+expenses associated with sales materials.
+
+Research and Development Expense
+
+Research and development expense increased $594,000 to $3,198,000, in the three
+months ended January 31, 2006, when compared to the same period in the prior
+year. Research and development expense increased $665,000 to $5,707,000, in the
+six months ended January 31, 2006, when compared to the same period in the prior
+year. The increase in both periods was partially due to the impact of adopting
+SFAS No. 123(R) which resulted in increased stock-based compensation of $196,000
+in the three month and $385,000 in the six month periods. Other factors
+contributing to the expense increase were due to the timing of expenses incurred
+for various research and development projects including the temporary occlusion
+guidewires (i.e., Guard Dog), the new drive unit, and an associated project to
+combine the pump and catheter.
+
+Interest Income
+
+Interest income increased $121,000 in the three months ended January 31, 2006 to
+$428,000 and increased $238,000 in the six months ended January 31, 2006 to
+$831,000. The increases were due to recent interest rate increases and an
+increase in the amount of cash available for investments. Excess cash is
+invested in a professionally managed portfolio of marketable securities. We
+expect interest income to increase in fiscal 2006 as compared to fiscal 2005 due
+to positive operating cash flows and current interest rates.
+
+(Loss) Gain On Sale of Securities
+
+Loss on sales of securities was $19,000 for the three months ended January 31,
+2006 and $25,000 for the six months ended January 31, 2006. Gain on sales of
+securities was $2,000 for the three months ended January 31, 2005 and $20,000
+for the six months ended January 31, 2005. The losses in fiscal 2005 were due to
+interest rate increases that reduced the fair market value of the investments in
+marketable securities. Future gain (loss) on sale of securities is dependent on
+interest rate fluctuations.
+
+17
+
+Provision For Income Taxes
+
+Our effective tax rate in the three and six month periods ending January 31,
+2006, was 63 percent and 64 percent, respectively. On a non-GAAP basis
+(excluding the impact of SFAS 123 (R)) the effective tax rate was 38 percent in
+the three and six month periods ending January 31, 2006. The increase in the
+GAAP effective tax rate in the current year is attributable to how Incentive
+Stock Options (or ISO's) are treated under SFAS 123 (R). There is no tax benefit
+recognized for ISO expense under SFAS 123(R) until there is an exercise and
+associated disqualifying disposition resulting in an actual tax benefit for the
+Company. Non-Qualified stock options are fully tax effected under SFAS 123 (R)
+as the value is expensed over the vesting period. Approximately 70 percent of
+our outstanding options at this time are ISO's so the impact on Possis Medical
+is significant. This new ISO tax treatment under 123 (R) reduced earnings by
+$0.01 per share in the current quarter.
+
+We became profitable in the third quarter of fiscal 2001 and have maintained
+profitability since. We increased our deferred tax asset by an additional
+$466,000 in fiscal 2005 and $2,578,000 in fiscal 2004. These increases were
+related to tax benefits from disqualified stock options that are recorded
+directly in the Consolidated Statement of Changes in Shareholders' Equity.
+Management believes the remaining valuation allowance of $690,000 is necessary
+as it is more likely than not that $690,000 of the deferred tax asset will not
+be realizable due to the expiration of research and development tax credits.
+
+Liquidity and Capital Resources
+
+Our cash, cash equivalents and marketable securities totaled approximately
+$45,705,000 at January 31, 2006 versus $44,427,000 at July 31, 2005.
+
+During the six months ended January 31, 2006, we generated $4,475,000 of cash
+from operating activities, which resulted primarily from $607,000 net income,
+depreciation of $1,299,000, stock-based compensation expense of $1,700,000, a
+decrease in deferred tax assets of $921,000, a decrease in accounts receivable
+of $608,000 and a decrease in prepaid expenses and other assets of $257,000.
+These sources of cash from operations were partially offset by cash used to fund
+an increase in inventories of $851,000 and a decrease in accounts payable and
+accrued liabilities of $116,000. We depreciate company-owned drive units at
+customer locations, as well as property and equipment. The stock-based
+compensation expense is primarily attributable to the implementation of SFAS
+123(R), the expensing of stock options. The decrease in the deferred tax asset
+was due to the utilization of the net operating loss carry-forwards to offset
+current taxes payable. Inventory increased as new catheter models were released
+during the first quarter of fiscal 2006. The decreases in prepaid expenses and
+other assets were due to the timing of insurance premiums. The decreases in
+accounts payable and accrued liabilities were due to the timing of payments.
+This decrease included the payment of fiscal 2005 corporate incentives in
+September 2005 (fiscal 2006).
+
+Cash used in investing activities was $2,781,000 including the net purchase of
+marketable securities of $1,772,000 and the purchase of $1,009,000 of property
+and equipment.
+
+Net cash used in financing activities was $2,010,000, which resulted from the
+repurchase of 249,600 shares of our stock in open market transactions for
+$2,613,000, partially offset by the cash received in connection with the
+exercise of stock options of $616,000.
+
+We expect our cash on hand and funds from operations to be sufficient to cover
+both short-term and long-term operating requirements of its current AngioJet
+business and the repurchase of its common stock as authorized by the Board of
+Directors.
+
+18
+
+Off-Balance Sheet Obligations
+
+The Company does not have any material off-balance-sheet arrangements.
+
+Outlook
+
+We expect overall revenue from the AngioJet System, primarily in the United
+States, will be in the range of $63 million to $66 million in fiscal 2006. Gross
+margin as a percent of sales for fiscal 2006 is expected to be in the low to
+mid-seventies. We expect selling, general and administrative expenses to
+increase from fiscal 2005 levels. Research and development expense levels are
+dependent upon the continuing development of our current products and investment
+in the development of new AngioJet System thrombectomy applications and related
+products, including clinical trials. Including the impact of stock-based
+compensation expense, we anticipate net income per diluted share of $0.10 to
+$0.16 for fiscal 2006. We anticipate third-quarter revenue to be approximately
+$15.5 to $16.0 million and net income in the range of $0.02 to $0.04 per diluted
+share. The impact of expensing stock-based compensation per SFAS 123(R) is
+anticipated to be approximately $0.05 per diluted share for the third quarter
+and approximately $0.18 per diluted share for fiscal year 2006.
+
+Forward-Looking Statements
+
+Certain statements made in Management's Discussion and Analysis of Financial
+Condition and Results of Operations and elsewhere in this Form 10-Q, and
+particularly the statements made in the section captioned "Outlook," are
+"forward-looking statements" as defined in the Private Securities Litigation
+Reform Act of 1995. These forward-looking statements relate to among other
+things, financial projections such as anticipated gross margins, overall
+revenue, expected expense levels, anticipated revenue increases and investment
+levels.
+
+Forward-looking statements in this 10-Q are based on the Company's current
+expectations and assumptions and entail various risks and uncertainties that
+could cause actual results to differ materially from those expressed in such
+forward-looking statements. Factors that could affect the realization of
+forward-looking statements include:
+
+     o    changes in clinical and market acceptance of our products;
+     o    changes in the health care industry generally, such as restrictions
+          imposed on sales time at interventional labs; consolidation of
+          industry participants, cost containment and trends toward managed
+          care;
+     o    changes in supplier requirements by group purchasing organizations;
+     o    unanticipated costs or other difficulties and uncertainties associated
+          with lengthy and costly new product development and regulatory
+          clearance processes;
+     o    changes in governmental laws and regulations;
+     o    changes in reimbursement;
+     o    the development of new competitive products such as inexpensive
+          aspiration devices, combined aspiration/occlusion products and
+          compounds that may make our products obsolete;
+     o    sudden restrictions in supply of key materials;
+     o    the effectiveness of our sales and marketing efforts in
+          re-establishing coronary product usage,
+     o    our ability to effectively manage new product development timelines,
+     o    our ability to effectively manage marketing and investigational device
+          exempt clinical trials
+     o    our ability to generate suitable clinical registry data to support
+          growing use of the AngioJet in coronary applications,
+     o    our the ability to obtain additional regulatory approvals on a timely
+          basis;
+     o    our ability to obtain regulatory clearance in new foreign markets; and
+     o    our ability to retain and motivate skilled employees, especially for
+          sales positions.
+
+Undue reliance should not be placed on forward-looking statements, which speak
+only as of the date made. Any or all forward-looking statements in this report
+and in any other public statements we make may turn out to be inaccurate or
+false. They can be affected by inaccurate assumptions we might make or by known
+or unknown risks and uncertainties. Except as required by federal securities
+laws, we undertake no obligation to update any forward-looking statement. A more
+
+19
+
+complete discussion of these and other factors that could impact our future
+results are set forth under the caption "Forward Looking Statements" immediately
+following the cover page of our Annual Report form on Form 10-K for the year
+ended July 31, 2005 as filed with the Securities and Exchange Commission on
+October 14, 2005.
+
+ITEM 3.      QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+We invest our excess cash in a professionally managed, institutional fixed
+income portfolio of short duration. The market risk on a diversified portfolio
+of relatively short duration is minimal, while enhancing returns above money
+market levels.
+
+Our foreign product sales are in U.S. Dollars ("USD") except for product sales
+in Germany, which are in euro's. The German product sales were minimal during
+the first six months of fiscal 2006. We have a foreign bank account in which the
+German product sales receipts are deposited and immediately transferred to the
+operating bank account in the United States. The balance in the German bank
+account was zero as of January 31, 2006.
+
+ITEM 4.      CONTROLS AND PROCEDURES
+
+Evaluation of disclosure controls and procedures
+- ------------------------------------------------
+
+Under the supervision and with the participation of our management, including
+our Chief Executive Officer and Chief Financial Officer, we evaluated the
+effectiveness of the design and operation of our disclosure controls and
+procedures (as defined in Rule 13a-15(e) under the Exchange Act. Based upon that
+evaluation, the Chief Executive Officer and Chief Financial Officer concluded
+that, as of the end of the period covered by this report, our disclosure
+controls and procedures were effective in ensuring that information required to
+be disclosed by us in the reports we file or submit under the Exchange Act is
+recorded, processed, summarized and reported, within the time periods specified
+in applicable rules and forms and that such information is accumulated and
+communicated to our management, including our Chief Executive Officer and Chief
+Financial Officer, in a manner that allows timely decisions regarding required
+disclosure.
+
+Changes in internal control over financial reporting
+- ----------------------------------------------------
+
+During the fiscal quarter ended January 31, 2006, there has been no change in
+our internal control over financial reporting (as defined in Rule 13a-15(f)
+under the Exchange Act) that has materially affected, or is likely to materially
+affect, our internal control over financial reporting.
+
+PART II. OTHER INFORMATION
+
+ITEM 1       LEGAL PROCEEDINGS
+
+We were served with a shareholder lawsuit that was filed with the Minnesota
+Federal District Court on June 3, 2005, alleging that Possis Medical, Inc. and
+named individual officers violated federal securities laws during a period
+beginning in 2002. The Complaint seeks class action status and unspecified
+damages. We believe that the allegations of the lawsuit are without merit and
+are contesting the lawsuit vigorously. We do not believe that the amount of any
+potential liability associated with these matters can be estimated at this time,
+but an unfavorable resolution of these matters could have a material adverse
+effect on our results of operations, financial condition and cash flows.
+
+ITEM 1A      Risk Factors
+
+We disclose risks that effect our operations, and that should be read to
+understand the likelihood of achievement of any forward looking statements we
+make in this Form 10-Q, under the caption "Forward Looking Statements"
+immediately following the cover page of our Annual Report on Form 10-K filed
+October 14, 2005. Although we provide a short summary of those risk factors
+under the caption "Forward Looking Statements" in Part I, Item 2 of this Form
+10-Q, there have been no material changes in the risks effecting our business
+since the date of filing our Form 10-K.
+
+20
+
+ITEM 2       UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+
+During the six months ended January 31, 2006, we repurchased an aggregate
+     of 150,000 shares of its common stock pursuant to the repurchase program
+     that we publicly announced on February 23, 2005. This program allows us to
+     repurchase shares having a value of up to $15,000,000 in open-market
+     transactions through December 2006.
+
+ITEM 6.      EXHIBITS
+
+Exhibits
+
+Certain of the following exhibits are incorporated by reference from prior
+filings. The form with which each exhibit was filed and the date of filing are
+indicated below.
+
+       Exhibit                           Description
+   -----------------------------------------------------------------------------
+
+        31.1        Certification of the Chief Executive Officer pursuant to
+                     Section 302 of the Sarbanes-Oxley Act of 2002.
+        31.2        Certification of the Chief Financial Officer pursuant to
+                     Section 302 of the Sarbanes-Oxley Act of 2002.
+        32.1        Certification of the Chief Executive Officer pursuant to
+                     Section 906 of the Sarbanes-Oxley Act of 2002.
+        32.2        Certification of the Chief Financial Officer pursuant to
+                     Section 906 of the Sarbanes-Oxley Act of 2002.
+
+21
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+POSSIS MEDICAL, INC.
+
+DATE: March 12, 2006                   By: /s/ Robert G. Dutcher
+                                           -------------------------------------
+                                             ROBERT G. DUTCHER
+                                             Chairman, President and
+                                             Chief Executive Officer
+
+DATE: March 12, 2006                   By: /s/ Jules L. Fisher
+                                           -------------------------------------
+                                             JULES L. FISHER
+                                             Vice President of Finance and
+                                             Chief Financial Officer
+
+22
+
+EXHIBIT INDEX
+
+Certain of the following exhibits are incorporated by reference from prior
+filings. The form with which each exhibit was filed and the date of filing are
+indicated below.
+
+Exhibit                           Description
+   -----------------------------------------------------------------------------
+
+        31.1        Certification of the Chief Executive Officer pursuant to
+                     Section 302 of the Sarbanes-Oxley Act of 2002.
+        31.2        Certification of the Chief Financial Officer pursuant to
+                     Section 302 of the Sarbanes-Oxley Act of 2002.
+        32.1        Certification of the Chief Executive Officer pursuant to
+                     Section 906 of the Sarbanes-Oxley Act of 2002.
+        32.2        Certification of the Chief Financial Officer pursuant to
+                     Section 906 of the Sarbanes-Oxley Act of 2002.
+
+23
+
+<EX-31.1>
+ 2
+ a5099827ex31_1.txt
+ EXHIBIT 31.1
+ 
+                                                                    EXHIBIT 31.1
+
+                    Certification of Chief Executive Officer
+            Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+
+I, Robert G. Dutcher, certify that:
+
+     1.   I have reviewed this quarterly report on Form 10-Q of Possis Medical,
+          Inc. (Possis Medical);
+
+     2.   Based on my knowledge, this quarterly report does not contain any
+          untrue statement of a material fact or omit to state a material fact
+          necessary to make the statements made, in light of the circumstances
+          under which such statements were made, not misleading with respect to
+          the period covered by this quarterly report;
+
+     3.   Based on my knowledge, the financial statements, and other financial
+          information included in this quarterly report, fairly present in all
+          material respects the financial condition, results of operations and
+          cash flows of Possis Medical as of, and for, the periods presented in
+          this quarterly report;
+
+     4.   Possis Medical's other certifying officer and I are responsible for
+          establishing and maintaining disclosure controls and procedures (as
+          defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal
+          control over financial reporting (as defined in Exchange Act Rules
+          13a-15(f) and 15d-15(f)) for Possis Medical and we have:
+
+          a.   Designed such disclosure controls and procedures, or caused such
+               disclosure controls and procedures to be designed under our
+               supervision, to ensure that material information relating to
+               Possis Medical, including its consolidated subsidiaries, is made
+               known to us by others within those entities, particularly during
+               the period in which this quarterly report is being prepared;
+
+          b.   Designed such internal control over financial reporting, or
+               caused such internal control over financial reporting to be
+               designed under our supervision, to provide reasonable assurance
+               regarding the reliability of financial reporting and the
+               preparation of financial statements for external purposes in
+               accordance with generally accepted accounting principles;
+
+          c.   Evaluated the effectiveness of Possis Medical's disclosure
+               controls and procedures and presented in this report our
+               conclusions about the effectiveness of the disclosure controls
+               and procedures, as of the end of the period covered by this
+               report based on such evaluation; and
+
+          d.   Disclosed in this report any change in Possis Medical's internal
+               control over financial reporting that occurred during Possis
+               Medical's most recent fiscal quarter (Possis Medical's fourth
+               fiscal quarter in the case of an annual report) that has
+               materially affected, or is reasonably likely to materially
+               affect, Possis Medical's internal control over financial
+               reporting; and
+
+     5.   Possis Medical's other certifying officer and I have disclosed, based
+          on our most recent evaluation of internal control over financial
+          reporting, to Possis Medical's auditors and the audit committee of
+          Possis Medical's board of directors (or persons performing the
+          equivalent function):
+
+          a.   All significant deficiencies and material weaknesses in the
+               design or operation of internal control over financial reporting
+               which are reasonably likely to adversely affect Possis Medical's
+               ability to record, process, summarize and report financial
+               information; and
+
+          b.   Any fraud, whether or not material, that involves management or
+               other employees who have a significant role in Possis Medical's
+               internal control over financial reporting.
+
+Date: March 12, 2006                       By: /s/ Robert G. Dutcher
+                                               ---------------------------------
+                                                 ROBERT G. DUTCHER
+                                                 Chairman, President and
+                                                 Chief Executive Officer
+
+24
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ a5099827ex31_2.txt
+ EXHIBIT 31.2
+ 
+                                                                    EXHIBIT 31.2
+
+                    Certification of Chief Financial Officer
+            Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+
+I, Jules L. Fisher, certify that:
+
+     1.   I have reviewed this quarterly report on Form 10-Q of Possis Medical,
+          Inc. (Possis Medical);
+
+     2.   Based on my knowledge, this quarterly report does not contain any
+          untrue statement of a material fact or omit to state a material fact
+          necessary to make the statements made, in light of the circumstances
+          under which such statements were made, not misleading with respect to
+          the period covered by this quarterly report;
+
+     3.   Based on my knowledge, the financial statements, and other financial
+          information included in this quarterly report, fairly present in all
+          material respects the financial condition, results of operations and
+          cash flows of Possis Medical as of, and for, the periods presented in
+          this quarterly report;
+
+     4.   Possis Medical's other certifying officer and I are responsible for
+          establishing and maintaining disclosure controls and procedures (as
+          defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal
+          control over financial reporting (as defined in Exchange Act Rules
+          13a-15(f) and 15d-15(f))for Possis Medical and we have:
+
+          a.   Designed such disclosure controls and procedures, or caused such
+               disclosure controls and procedures to be designed under our
+               supervision, to ensure that material information relating to
+               Possis Medical, including its consolidated subsidiaries, is made
+               known to us by others within those entities, particularly during
+               the period in which this quarterly report is being prepared;
+
+          b.   Designed such internal control over financial reporting, or
+               caused such internal control over financial reporting to be
+               designed under our supervision, to provide reasonable assurance
+               regarding the reliability of financial reporting and the
+               preparation of financial statements for external purposes in
+               accordance with generally accepted accounting principles;
+
+          c.   Evaluated the effectiveness of Possis Medical's disclosure
+               controls and procedures and presented in this report our
+               conclusions about the effectiveness of the disclosure controls
+               and procedures, as of the end of the period covered by this
+               report based on such evaluation; and
+
+          d.   Disclosed in this report any change in Possis Medical's internal
+               control over financial reporting that occurred during Possis
+               Medical's most recent fiscal quarter (Possis Medical's fourth
+               fiscal quarter in the case of an annual report) that has
+               materially affected, or is reasonably likely to materially
+               affect, Possis Medical's internal control over financial
+               reporting; and
+
+     5.   Possis Medical's other certifying officer and I have disclosed, based
+          on our most recent evaluation of internal control over financial
+          reporting, to Possis Medical's auditors and the audit committee of
+          Possis Medical's board of directors (or persons performing the
+          equivalent function):
+
+          a.   All significant deficiencies and material weaknesses in the
+               design or operation of internal control over financial reporting
+               which are reasonably likely to adversely affect Possis Medical's
+               ability to record, process, summarize and report financial
+               information; and
+
+          b.   Any fraud, whether or not material, that involves management or
+               other employees who have a significant role in Possis Medical's
+               internal control over financial reporting.
+
+Date: March 12, 2006                       By: /s/ Jules L. Fisher
+                                               ---------------------------------
+                                                 JULES L. FISHER
+                                                 Vice President of Finance and
+                                                 Chief Financial Officer
+
+25
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ a5099827ex32_1.txt
+ EXHIBIT 32.1
+ 
+                                                                    EXHIBIT 32.1
+
+CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO
+                  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with this quarterly report of Possis Medical, Inc. on Form 10-Q
+for the period ended January 31, 2006 as filed with the Securities and Exchange
+Commission on the date hereof ("the Report"), I, Robert G. Dutcher, Chief
+Executive Officer of Possis Medical, Inc., certify, pursuant to 18 U.S.C.
+Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of
+2002, that:
+
+     1.   The Report fully complies with the requirements of Section 13(a) or
+          15(d) of the Securities Exchange Act of 1934; and
+
+     2.   The information contained in this Report fairly presents, in all
+          material respects, the financial condition and results of operations
+          of Possis Medical, Inc.
+
+Date: March 12, 2006                       By: /s/ Robert G. Dutcher
+                                               ---------------------------------
+                                                 ROBERT G. DUTCHER
+                                                 Chairman, President and
+                                                 Chief Executive Officer
+
+26
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ a5099827ex32_2.txt
+ EXHIBIT 32.2
+ 
+                                                                    EXHIBIT 32.2
+
+CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO
+                  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with this quarterly report of Possis Medical, Inc. on Form 10Q for
+the period ended January 31, 2006 as filed with the Securities and Exchange
+Commission on the date hereof ("the Report"), I, Jules L. Fisher, Chief
+Financial Officer of the Company, certify, pursuant to 18 U.S.C. Section 1350,
+as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that:
+
+     1.   The Report fully complies with the requirements of Section 13(a) or
+          15(d) of the Securities Exchange Act of 1934; and
+
+     2.   The information contained in this Report fairly presents, in all
+          material respects, the financial condition and results of operations
+          of Possis Medical, Inc.
+
+Date: March 12, 2006                       By: /s/ Jules L. Fisher
+                                               ---------------------------------
+                                                 JULES L. FISHER
+                                                 Vice President of Finance and
+                                                 Chief Financial Officer
+
+27
+
+</EX-32.2>
+

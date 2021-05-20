@@ -1,0 +1,996 @@
+<Header>
+<FileStats>
+    <FileName>20060316_10-Q_edgar_data_911649_0000950116-06-000811_1.txt</FileName>
+    <GrossFileSize>358574</GrossFileSize>
+    <NetFileSize>91753</NetFileSize>
+    <NonText_DocumentType_Chars>2696</NonText_DocumentType_Chars>
+    <HTML_Chars>176448</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>15</N_Tables>
+    <N_Exhibits>5</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000950116-06-000811.hdr.sgml : 20060316
+<ACCEPTANCE-DATETIME>20060316172318
+ACCESSION NUMBER:		0000950116-06-000811
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		8
+CONFORMED PERIOD OF REPORT:	20050930
+FILED AS OF DATE:		20060316
+DATE AS OF CHANGE:		20060316
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			STRATEGIC DIAGNOSTICS INC/DE/
+		CENTRAL INDEX KEY:			0000911649
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISCELLANEOUS CHEMICAL PRODUCTS [2890]
+		IRS NUMBER:				561581761
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-22400
+		FILM NUMBER:		06693171
+
+	BUSINESS ADDRESS:	
+		STREET 1:		111 PENCADER DR
+		CITY:			NEWARK
+		STATE:			DE
+		ZIP:			19702
+		BUSINESS PHONE:		3024566789
+
+	MAIL ADDRESS:	
+		STREET 1:		111 PENCADER DR
+		CITY:			NEWARK
+		STATE:			DE
+		ZIP:			19702
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	ENSYS ENVIRONMENTAL PRODUCTS INC /DE/
+		DATE OF NAME CHANGE:	19930907
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ WwOX0Q8P1TpsQnB2VAPSF2VNIs9Z8Prk0JAHB5uwylDlYiQ/hfS6wFzZfSMs7Ht8
+ zo91VkbI8ozRtYKo9RNrng==
+
+ 0000950116-06-000811.txt : 20060316
+
+10-Q
+ 1
+ ten-q.htm
+ FORM 10-Q
+
+Prepared and filed by St Ives Burrups
+
+UNITED STATES 
+  SECURITIES AND EXCHANGE COMMISSION 
+ Washington, DC 20549  
+
+(Mark One)  
+ 
+   Commission File Number 000-22400   
+    STRATEGIC DIAGNOSTICS INC.   (Exact name of Registrant as specified in its charter)  
+  ____________________________  
+
+Delaware   
+   
+   56-1581761   
+
+(State or other jurisdiction of  
+   
+  (I.R.S. employer  
+
+incorporation or organization)  
+   
+  identification no.)  
+
+111 Pencader Drive   
+
+Newark, Delaware   
+   
+   19702   
+
+(Address of principal executive offices)  
+   
+  (Zip Code)  
+
+Registrant s telephone number, including area code:   (302) 456-6789   
+  _________________________________  
+       Indicate by check mark whether the Registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the Reg istrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days. Yes     No       
+       Indicate by check mark whether the Registrant is an accelerated filer (as defined in Rule 12b-2 of the Exchange Act).  
+  Yes     No     
+       Indicate by check mark whether the Registrant is a shell company (as defined in Rule 12b-2 of the Exchange Act)  
+  Yes     No     
+       As of September 30, 2005, there were 19,913,453 outstanding shares of the Registrant s common stock, par value $.01 per share.  
+
+Back to Contents   
+   STRATEGIC DIAGNOSTICS INC.   
+   EXPLANATORY NOTE   
+  Following a series of discussions with the U.S. Securities and Exchange Commission (the  SEC ), the Company determined on December 15, 2005 that it would change its method of accounting for revenue on certain custom antibody arrangements. The Company changed its revenue recognition policy for custom antibody projects to utilize a methodology whereby revenue is recognized when a project s specifications have been met and the related antibodies have been shipped, rather than on the percentage-of-completion methodology the Company had used since 1996.  
+  Accordingly, the accompanying consolidated interim financial statements for the three and nine month periods ended September 30, 2005 reflect this change in our accounting methodology.  The accompanying interim financial statements for the three and nine month periods ended September 30, 2004 have been restated to reflect this change in accounting methodology.  
+  Also, we have amended our annual report on Form 10-K for the year ended December 31, 2004 to restate our consolidated financial statements for the years ended December 31, 2002, 2003 and 2004 and the related disclosures, and have amended  our  interim reports on Form 10-Q for the three month periods ended March 31, 2005 and 2004, and the three and six month periods ended June 30, 2005 and 2004 and the related disclosures.   
+  Please refer to Note 2 to the consolidated interim financial statements for additional information on the restatement.   
+  This Form 10-Q should be read in conjunction with our filings made with the Securities and Exchange Commission subsequent to the filing of the original Form 10-K, including any amendments to those filings.   
+  1  
+
+Back to Contents   
+   STRATEGIC DIAGNOSTICS INC.   
+   INDEX   
+
+Item   
+
+Page  
+
+PART I   
+
+FINANCIAL INFORMATION   
+
+ITEM 1.   
+    
+   Financial Statements (Unaudited)    
+
+Consolidated Balance
+    Sheets   September 30, 2005 and December 31, 2004 (as restated)   
+   3   
+
+Consolidated Statements
+      of Operations   Three months and nine months ended September 30, 2005
+    and 2004 (as restated)   
+   4   
+
+Consolidated Statements
+    of Cash Flows   Nine months ended September 30, 2005 and 2004 (as restated)   
+   5   
+
+Notes to Consolidated Interim Financial Statements   
+   6   
+
+ITEM 2.   
+    
+   Management s
+    Discussion and Analysis of Financial Condition and Results of Operations   
+   12   
+
+ITEM 3.   
+    
+   Quantitative and Qualitative Disclosures About Market Risk   
+   18   
+
+ITEM 4.   
+    
+   Controls and Procedures   
+   19   
+
+PART II   
+
+OTHER INFORMATION   
+
+ITEM 6.   
+    
+   Exhibits   
+   20   
+
+SIGNATURES   
+
+21   
+
+2  
+
+Back to Contents   
+     PART I.   
+     Item 1. Financial Statements   
+  STRATEGIC DIAGNOSTICS INC. AND SUBSIDIARIES  
+    CONSOLIDATED BALANCE SHEETS (in thousands, except share and per share data) (unaudited)  
+ 
+  The accompanying notes are an integral part of these statements  
+  3  
+
+Back to Contents   
+  STRATEGIC DIAGNOSTICS INC. AND SUBSIDIARIES  
+    CONSOLIDATED STATEMENTS OF OPERATIONS (in thousands, except share and per share data) (unaudited)  
+ 
+  The accompanying notes are an integral
+part of these statements  
+  4  
+
+Back to Contents   
+  STRATEGIC DIAGNOSTICS INC. AND SUBSIDIARIES  
+    CONSOLIDATED STATEMENTS OF CASH FLOWS (in thousands) (unaudited)  
+ 
+   The accompanying notes are an integral part of these statements  
+  5  
+
+Back to Contents   
+  STRATEGIC DIAGNOSTICS INC. AND SUBSIDIARIES  
+    NOTES TO CONSOLIDATED INTERIM FINANCIAL STATEMENTS  (in thousands, except share and per share data) (unaudited)  
+
+1.  
+ 
+ DESCRIPTION OF BUSINESS AND SUMMARY OF SIGNIFICANT   
+
+ACCOUNTING POLICIES:  
+
+Business   
+
+Strategic Diagnostics Inc. and its subsidiaries (the  Company ) develops, manufactures and markets biotechnology-based detection solutions to a diverse customer base, across multiple industrial and human health markets for applications in food safety, water quality, diagnostics and therapeutics. By applying its core competency of creating custom antibodies to assay development, the Company produces unique, sophisticated diagnostic testing and reagent systems that are responsive to customer diagnostic and information needs. Customers benefit with quantifiable  return on investment  by reducing time, labor, and/or material costs. All this is accomplished while increasing accuracy, reliability and actionability of essential
+test results.  The Company is focused on sustaining this competitive advantage by leveraging its expertise in immunology, proteomics, bio-luminescence and other bio-reactive technologies to continue its successful customer-focused research and development efforts.       
+
+Basis of Presentation and Interim Financial Statements   
+
+The accompanying unaudited consolidated interim financial statements of the Company have been prepared by the Company pursuant to the rules and regulations of the Securities and Exchange Commission regarding interim financial reporting.  Accordingly, they do not include all the information and footnotes required by generally accepted accounting principles for complete financial statements and should be read in conjunction with the Company s Annual Report on Form 10-K/A for the fiscal year ended December 31, 2004.  In the opinion of management, the accompanying consolidated financial statements include all adjustments (all of which are of a normal recurring nature) necessary for a fair presentation of the
+results of operations.  
+  Certain prior period amounts have been reclassified to conform to the current period s presentation.  
+   Revenue Recognition   
+  Revenues composed of sales of immunoassay-based test kits and certain antibodies and immunochemical reagents are recognized upon the shipment of the product and transfer of title or when related services are provided. Revenues associated with such products or services are recognized when persuasive evidence of an order exists, shipment of product has occurred or services have been provided, the price is fixed and determinable and, collectibility is probable. Management is required to make judgments based on actual experience about whether or not collectibility is reasonably assured.   
+  6  
+
+Back to Contents   
+  The Company enters into contracts related to the production of custom antibodies, which provide for the performance of defined tasks for a fixed price, with delivery of the product upon completion of production. The standard time to complete a project is typically longer than 30 days but less than 12 months and effort is expended over the life of the project.  Revenues related to sales of custom antibody projects are recognized when a project s specifications have been met and the related materials have been shipped.   
+  Fees associated with products and services added on to a custom antibody project subsequent to delivery of the initial project are billed monthly and recognized as revenue as the services and other deliverables are provided.  
+   Use of Estimates   
+  The preparation of the consolidated financial statements requires management of the Company to make a number of estimates and assumptions relating to the reported amount of assets and liabilities and disclosure of contingent assets and liabilities at the date of the consolidated financial statements and the reported amounts of revenues and expenses during the period.  These estimates include those made in connection with assessing the valuation of accounts receivable, inventories, deferred tax assets and percentage of completion on projects for revenue recognition.  Actual results could differ from these estimates.  
+   Comprehensive Income   
+  Comprehensive income consists of the following for each period:  
+
+2.    
+         RESTATEMENT
+            OF
+CONSOLIDATED FINANCIAL STATEMENTS     
+
+Following
+      a series of discussions with the U.S. Securities and Exchange Commission
+      (the  SEC ), the Company determined on December 15, 2005 that
+      it would change its method of accounting for revenue on certain  custom
+      antibody arrangements. Accordingly, the Company s financial statements
+      for the three and nine month periods ended September 30, 2004
+      have been restated. The Company changed its revenue recognition policy
+      for custom
+      antibody projects  to utilize a methodology whereby revenue is recognized
+      when a project s
+        specifications have been met and the related antibodies have been shipped,
+        rather than on the percentage-of-completion methodology the Company had
+        used since 1996. The adjustments required to effect this change in accounting
+        primarily impact certain line items as reported in the Consolidated Balance
+        Sheet and
+        Statement of Operations as follows: accounts receivable because of the
+        elimination
+        of unbilled
+        receivables; revenues because they are now recognized when a project
+        is complete; inventories, accrued expenses and manufacturing costs because
+        of the deferral
+        of costs until the completion of a project; and, taxes because of the
+        changes
+in net income.   
+
+The following schedules reconcile the amounts originally reported in the
+Company s consolidated balance sheet as of December 31, 2004, and the consolidated statements of operations for the
+three and nine month period ended September 30, 2004 to the corresponding amounts in each of these statements (in thousands).   
+
+7  
+
+Back to Contents   
+
+8  
+
+Back to Contents   
+
+3.  
+       BASIC AND DILUTED INCOME (LOSS) PER SHARE:  
+
+Basic earnings per share (EPS) is
+    computed by dividing net income available for common shareholders by the
+    weighted-average number of common shares outstanding during the period. Diluted
+    EPS is similar to basic EPS, except that the dilutive effect of converting
+    or exercising all potentially dilutive securities is also included in the
+    denominator. The Company s calculation of diluted EPS includes the
+    dilutive effect of exercising stock options into common shares. Excluded
+    from the calculation of diluted shares is the effect of the exercise of options
+    or warrants where such effect would be anti-dilutive.   
+	  As of September 30, 2005, options to purchase 1,641,000 shares of the Company s common stock were outstanding, with options to purchase approximately 1,134,000 shares exercisable.  Listed below are the basic and diluted share calculations.    
+
+9  
+
+Back to Contents   
+
+4.  
+       STOCK-BASED COMPENSATION  
+
+The Company applies the intrinsic-value-based method to account for its fixed-plan stock options.  Compensation expense is recorded on the date of grant only if the current market price of the underlying stock, at that date, exceeded the exercise price.  The Company has elected to continue to apply the intrinsic-value-based method of accounting described above, and has adopted only the disclosure requirements of SFAS No. 123,  Accounting for Stock-Based Compensation.   Under the Company s employee share option plans, the Company grants employee and outside director stock options at an exercise price equal to the fair market value at the date of grant.  No compensation expense is recorded with respect to such stock option
+grants.  Compensation expense with respect to stock awards granted is measured based upon the fair value of such awards and is charged to expense over the vesting period.    
+  The following table illustrates the effect on net income and earnings per share if the fair value based method had been applied to all outstanding and unvested awards in each period.  
+
+5.  
+ 
+ INVENTORIES:  
+
+The Company's inventories are valued at the lower of cost or market. For inventories that consist primarily of test kit components, bulk serum and antibody products, cost is determined using the first in, first out method. For inventories that consist of costs associated with the production of custom antibodies, cost is determined using the specific identification method.  At September 30, 2005 and December 31, 2004, inventories consisted of the following:  
+
+6.  
+ 
+ INTANGIBLE ASSETS:  
+
+10  
+
+Back to Contents   
+ 
+  On May 5, 2000, the Company entered into a financing agreement with a commercial bank.  This agreement provided for a $4,000 term loan, all of which had been paid on or before December 31, 2002, and for up to a $5,000 revolving line of credit, none of which was outstanding and approximately $2,515 of which was available at September 30, 2005, based on eligible assets.  The revolving line of credit bears a variable interest rate of between 1.75% and 2.75% over LIBOR depending upon the ratio of the Company s funded debt to EBITDA, and is subject to a borrowing base determined by the Company s eligible accounts receivable.  The Company s annual effective rate of interest on this line of credit, taking into account the variable
+interest rate and LIBOR, was approximately 5.42% at September 30, 2005.      
+  On December 13, 2001, the Company entered into an agreement with a
+commercial bank to finance the construction of new facilities at its Windham, Maine location.  This agreement
+provided for up to $1,500 in financing, $826 of which was outstanding at September 30, 2005, and is repayable over
+seven years, with principal payments that began on October 1, 2002.  The loan bears a variable interest rate of
+between 2% and 3% over LIBOR depending upon the ratio of the Company s funded debt to EBITDA, as defined.
+Payments are due monthly, with equal amortization of principal payments plus interest.  The Company s annual
+effective rate of interest on this loan at September 30, 2005 was approximately 5.67%.  
+  Under the terms of the above financing, as amended, the Company is
+required to meet certain quarterly financial covenants that include a ratio of EBITDA to current maturities of debt
+plus interest and cash paid for taxes greater than 1.50 and a ratio of funded debt to EBITDA not to exceed 3.25.
+Under the amended covenants, the Company met all of its financial covenants with respect to this indebtedness at
+September 30, 2005 and expects that it will be able to meet all of its financial covenants with respect to this
+indebtedness for the remainder of 2005.    
+  As a result of the delay in filing Form 10-Q for the three and nine month
+period ended September 30, 2005, the Company was not in compliance with the timely filing covenants of the above
+financing. On February 15, 2006, the Company obtained a waiver from the bank for this covenant as of September 30,
+2005.  
+  As of September 30, 2005, the outstanding balance on all of the
+Company s commercial bank debt was $826. This indebtedness is secured by substantially all of the
+Company s assets.      
+  11  
+
+Back to Contents   
+      Item
+        2. Management s Discussion and Analysis of Financial Condition
+and Results of Operations    
+   Forward-Looking Statements   
+  This Form 10-Q contains certain forward-looking statements reflecting the current expectations of Strategic Diagnostics Inc. and its subsidiaries ( we,  the  Company  or  SDI ).  These statements include, among others, statements regarding: the Company s intentions with respect to future spending on research and development; the development, market acceptance and sales of tests for food-borne pathogens and related growth media; the size and nature of demand in the markets for the Company s products and related effects on operating results; the need for water quality and toxicity tests; approval and validation by third parties of the Company s food pathogen tests; the performance of the
+Company s testing products; sales of the Company s antibodies; timing of new product introductions and other information that may be predictive of future operating results; the Company s ability to reduce operating expenses; and the Company s ability to improve operating results thus enabling it to meet future loan covenants.  In addition, when used in this Form 10-Q, the words  anticipate,   enable,   estimate,   intend,   expect,   believe,   potential,   may,   will,   should,   project  and similar expressions as they relate to the Company are intended to identify said forward-looking statements.  Investors are cautioned that all
+forward-looking statements involve risks and uncertainties, which may cause actual results to differ from those anticipated at this time. Such risks and uncertainties include, without limitation, changes in demand for products, delays in product development, delays in market acceptance of new products, retention of customers, attraction and retention of management and key employees, adequate supply of raw materials, inability to obtain or delays in obtaining third party approvals, or required government approvals, the ability to meet increased market demand, competition, protection of intellectual property, non-infringement of intellectual property, seasonality, the ability to obtain financing and other factors more fully described in the Company s public filings with the U.S.
+Securities and Exchange Commission.  
+   Restatement of 2004 Consolidated Financial Statements   
+  Following a series of discussions with the SEC, the Company determined on December 15, 2005 that it would change its method of
+accounting for revenue on certain custom antibody arrangements. Accordingly, the Company s financial statements for the three and nine month
+periods ended September 30, 2004 have been restated. The Company changed its revenue recognition policy for custom antibody projects
+to utilize a methodology whereby revenue is recognized when a project s specifications  have been met and the related antibodies have been
+shipped, rather than on the percentage-of-completion methodology the Company had used since 1996. Please refer to Note 2 to our consolidated
+interim financial statements for a further discussion of the restatement.  
+   Background   
+  We provide bio-services and industrial bio-detection services. Bio-services include providing custom antibody production services and antibody reagents to the diagnostic, pharmaceutical, bio-medical and academic research and development markets. Industrial bio-detection services include providing test kits for assessing the health, safety and quality of food, water and the environment.   
+  Our primary core competency is the development and manufacture of antibodies. Such antibodies are used by medical diagnostic and pharmaceutical companies, research institutions and incorporated into test kits manufactured by us for the detection of a wide variety of substances related to food safety and water quality.  
+  Our food safety product group includes tests to detect specific traits in genetically engineered plants, tests to detect Genetically Modified (GM) traits in food ingredients and food fractions, tests to detect naturally occurring fungi in grains (mycotoxins) and tests for food pathogens.  
+  12  
+
+Back to Contents   
+  Our water quality product group includes tests to detect toxicity in drinking water, industrial process water and wastewater, and tests to detect specific traits in soil and other waste matter for use at environmental remediation projects, hazardous waste operations and other applications.   
+  Our antibody product group provides a wide array of antibodies and antibody services, including hybridoma development, calibrators, antigens and reagents and the production of monoclonal and polyclonal antibodies. Such antibodies are incorporated into test kits we manufacture as described above and diagnostic and therapeutic products, and used in clinical research.   
+  We sell products and services in the food safety, water quality and antibody market categories through our U.S. direct sales force, a network of over 50 distributors in Canada, Mexico, Latin America, Europe and Asia and our corporate partners. These products and services are sold to a wide range of customers including water utilities, food processors, pharmaceutical, biotechnology and diagnostic companies and major biomedical research centers.  
+   Results of Operations   
+    Three Months Ended September 30, 2005 versus September 30, 2004    
+  Revenues for the third quarter of 2005 increased 9.2% to $6.09 million, compared to $5.58 million for the third quarter of 2004. Included in revenues in the third quarter of 2004 was $37,000 of sales associated with certain  catalog  antibody inventories that were written off in the fourth quarter of 2003 and were therefore recorded with no associated cost of goods sold. Revenue growth in 2005 continued to be offset by previously anticipated reductions in StarLink TM  test kit sales, which decreased by $52,000 to $310,000 in the third quarter of 2005, compared to the same quarter in 2004.   
+  For the third quarter of 2005, gross profit (defined as total revenues less manufacturing costs) increased 11.1% to $3.33 million, compared to $3.00 million in the third quarter of 2004, and gross margins increased from 53.7% in the third quarter of 2004 to 54.7% in the third quarter of 2005. The increase is a result of the benefits the Company is beginning to see from its supply chain improvement initiatives and continuing efforts to minimize low margin business.   
+  Operating expenses for the third quarter of 2005 increased 10.9% to $5.77 million, compared to $5.21 million for the third quarter of 2004. Part of the increase was due to research expenses of $151,000 related to the Company s investment in the commercialization of new technologies and high throughput production of antibodies and the investment in a software upgrade for the Microtox  test system totaling $79,000.   
+  Research and development spending was $664,000, or 10.9% of net revenues, in the third quarter of 2005, compared to $508,000, or 9.1% of net revenues, in the third quarter of 2004. This level of investment reflects the Company s continued commitment to customer-centric product development.   
+  Selling, general and administrative expenses were $2.35 million in the 2005 quarter, compared to $2.11 million for the same quarter in 2004. In the third quarter of 2005, the Company recorded $86,000 of costs primarily related to the previously announced closing of its equipment manufacturing facility in July 2005.   
+  13  
+
+Back to Contents   
+  We recorded interest income, net of interest expense, of $59,000 in the third quarter of 2005 compared to interest income of $17,000 in the prior year third quarter primarily due to higher levels of invested cash during the 2005 period.  
+  Pre-tax income totaled $379,000 for the third quarter of 2005, compared to pre-tax income of $395,000 for the same period in 2004.   
+  Our effective tax rate of 16% for the third quarter of 2005 is below the federal and state statutory rates primarily due to research and development credits and the utilization of foreign net operating losses not previously benefited.  
+  Net income in the third quarter of 2005 was $319,000, compared to $297,000 for the same period in 2004, or $0.02 per diluted share for each quarter.   
+    Nine Months Ended September 30, 2005 vs. September 30, 2004    
+  Revenues for the nine months ended
+    September 30, 2005 increased 9.2% to $18.95 million, compared to $17.35 million
+    for the same period in 2004. Included in revenues in the nine month period
+    ended September 30, 2004 was $249,000 of sales associated with certain  catalog  antibody
+    inventories that were written off in the fourth quarter of 2003 with substantially
+    no associated cost of goods sold. StarLink  sales, as described above,
+    decreased to $715,000 for the nine month period ended September 30, 2005,
+    compared to $874,000 for the same period in 2004. Sales of the Company s
+    test kits used in agriculture applications continue to be impacted by the
+    competitive pressures of a market where new product introduction has slowed,
+and existing applications have seen a decrease in testing demand.   
+  Gross profit for the nine months
+    ended September 30, 2005 totaled $10.47 million, as compared to $9.46 million
+    in the first nine months of 2005, an increase of $1.01 million. Gross margins
+increased to 55.3% in 2005 from 54.5% in 2004.   
+  For the nine months ended September
+    30, 2005, operating expenses increased 10.1% to $17.91 million, compared to
+    $16.27 million in the same period in 2004, partially due to research expenses
+of $448,000 related to the Company s investment in the commercialization of new technologies and high throughput production of antibodies and the investment in a software upgrade for the Microtox  test system totaling $358,000.   
+  For the nine months ended September 30, 2005, research and development spending was $2.32 million, or 12.3%, of net revenues, compared to $1.60 million, or 9.2%, for the same period in 2004.   
+  Selling, general and administrative
+    expenses were $7.11 million for the nine months ended September 30, 2005,
+    compared to $6.79 million for the same period in 2004.   
+  We recorded interest income, net of interest expense, of $130,000 for the nine months ended September 30, 2005 compared to $31,000 for the nine months ended September 30, 2004, due to higher levels of invested cash during the 2005 period.  
+  14  
+
+Back to Contents   
+  Pre-tax income totaled $1.17 million
+    for the nine months ended September 30, 2005, compared to $1.10 million for
+the same period in 2004.   
+  Our effective tax rate of 25% for
+    the nine months ended September 30, 2005 is below the federal and state statutory
+    rates primarily due to research and development credits and the utilization
+of foreign net operating losses not previously benefited.  
+  Net income in the nine months ended
+    September 30, 2005 was $876,000, or $0.04 per diluted share, compared
+    to $796,000 for the same period in 2004, or $0.04 per diluted share.Diluted
+    shares totaling 19,793,000 and 19,605,000 were used in the computation for
+the first nine months of 2005 and 2004, respectively.  
+    Product Groups    
+   Food Safety Products - Food safety revenues were $2.32 million in the third quarter of 2005, compared to $1.74 million in the third quarter of 2004, an increase of 33.2%. For the nine months ended September 30, 2005, food safety revenues were $6.68 million, compared to $5.39 million for the same period in 2004, an increase of 23.9%. These increases were driven by food pathogen test sales in the third quarter of 2005 and the nine months ended September 30, 2005, which were up 111.8% and 119.7%, respectively, compared to the same periods of 2004.   
+   Water and Environmental Products   Revenue decreased 15.3% to $1.09 million for the third quarter of 2005, compared to $1.29 million for the same quarter in 2004, and decreased 9.0% to $3.95 million for the nine month period ended September 30, 2005, compared to $4.34 million for the same period in 2004. The previously announced US Biosystems (now Genapure) initiative was commercially launched to the Florida market in July 2005 and the Company is aggressively working with our partner to gain traction in other markets. Although the Company s efforts to develop new channels to market, add new products and add sales professionals began to have a positive impact on revenues in the 2 nd  quarter of 2005, they were not yet
+enough to offset this product group s historically high customer attrition rate.   
+   Antibody Products - Antibody
+    revenues increased 5.1% to $2.68 million for the third quarter of 2005 compared
+    to $2.55 million for the same quarter in 2004, and increased 9.2% to $8.32
+    million in the nine months ended September 30, 2005, compared to $7.62 million
+    for the same period in the prior year. The increase in the first nine months
+    of 2005 over the same period in 2004 is reflective of the improvement in
+    the business from the steep decline in revenues in 2004 associated with the
+    completion of several large, one-time customer projects in 2003, and the
+discontinuation of low margin business early in 2004.  
+   Liquidity and Capital Resources   
+  The net cash provided by operating activities of $960,000 for the nine months ended September 30, 2005 was primarily the result of the earnings before interest, taxes, depreciation and amortization (EBITDA) reduced by decreases in accounts payable and accrued expenses.    
+  15  
+
+Back to Contents   
+  Net cash used in investing activities of $322,000 for the nine months ended September 30, 2005 was driven by capital expenditures primarily for laboratory and manufacturing equipment, partially related to the Company s investment in the commercialization of new technologies and high throughput production of antibodies, and facility improvements. This compares to net cash used in investing activities of $182,000 for the same period in 2004, which was driven by capital expenditures for the period primarily related to purchases of office and manufacturing equipment.  
+  Net cash provided by financing activities of $1.19 million for the nine months ended September 30, 2005 was driven by proceeds from the exercise of stock options, which was partially offset by net repayments of outstanding debt.  The $36,000 provided by financing activities for the same period in 2004 was primarily the result of acquiring a $551,000 loan to finance our 2004 business insurance program, net of debt repayments.  
+  Our working capital, current assets
+    less current liabilities, increased $2.60 million to $16.13 million at September
+30, 2005 from $13.53 million at December 31, 2004, primarily due to the Company s
+positive cash flow from operations and proceeds from the exercise of stock options
+for the 2005 period. Outstanding debt decreased $158,000 from $984,000 at December
+31, 2004 to $826,000 on September 30, 2005, due to scheduled repayments.  
+  On May 5, 2000, we entered into a financing agreement with a commercial bank.  This agreement provided for a $4.00 million term loan, all of which had been paid on or before December 31, 2002, and for up to a $5.00 million revolving line of credit, none of which was outstanding and approximately $2.52 million of which was available at September 30, 2005, based on eligible assets.    
+  The revolving line of credit bears a variable interest rate of between 1.75% and 2.75% over LIBOR depending upon the ratio of our funded debt to EBITDA, and is subject to a borrowing base determined by our eligible accounts receivable.  Our annual effective rate of interest on this line of credit, taking into account the variable interest rate and LIBOR, was approximately 5.42% at September 30, 2005.      
+  On December 13, 2001, we entered into an agreement with a commercial bank to finance the construction of new facilities at our Windham, Maine location.  This agreement provided for up to $1.5 million in financing, $826,000 of which was outstanding at September 30, 2005, and is repayable over seven years, with principal payments that began on October 1, 2002.  The loan bears a variable interest rate of between 2% and 3% over LIBOR depending upon the ratio of our funded debt to EBITDA.  Payments are due monthly, with equal amortization of principal payments plus interest.  Our annual effective rate of interest on this loan at September 30, 2005 was approximately 5.67%.  
+  Under the terms of the above financing,
+    as amended, we are required to meet certain quarterly financial covenants
+    that include a ratio of EBITDA to current maturities of debt plus interest
+    and cash paid for taxes greater than 1.50 and a ratio of funded debt to EBITDA
+    not to exceed 3.25. We met all of our financial covenants with respect to
+    this indebtedness at September 30, 2005 and expect that we will be able to
+    meet all of our financial covenants with respect to this indebtedness for
+    the remainder of 2005. As a result of the delay in filing Form 10-Q as of
+    and for the quarter ended September 30, 2005, the Company was not in compliance
+    with its timely filing covenant. On February 15, 2006, the Comapny obtained
+    a waiver from the bank for the covenant as of September 30, 2005.  
+  16  
+
+Back to Contents   
+  For the nine months ended September
+    30, 2005, we satisfied all of our cash requirements from cash provided by
+    operating activities and cash available and on-hand. At September 30, 2005,
+    we had $615,000 in long-term debt and stockholders  equity
+    of $33.92 million. We have no material commitments for capital expenditures
+    at September 30, 2005.  
+  Based upon our cash on hand, credit facilities, current product sales and the anticipated sales of new products, we believe we have, or have access to, sufficient resources to meet our operating requirements at least through October 2006. Our ability to meet our long-term capital needs will depend on a number of factors, including compliance with existing and new loan covenants, the success of our current and future products, the focus and direction of our research and development programs, competitive and technological advances, future relationships with corporate partners, government regulation, our marketing and distribution strategy, our successful sale of additional common stock and/or our successfully locating and obtaining other financing,
+and the success of our plan to make future acquisitions.  Accordingly, no assurance can be given that we will be able to meet the future liquidity requirements that may arise from these inherent and similar uncertainties.  
+   Non-GAAP Financial Measures   
+  EBITDA measures are presented as we believe this provides investors and our management with additional information to assess our liquidity.  EBITDA measures are not a measure of performance under GAAP, and therefore should not be considered in isolation or as a substitute for net income or cash flows from operations.  Additionally, our EBITDA calculations may differ from the EBITDA calculations of other companies.   
+  The calculation of our EBITDA measure (as discussed above), and the reconciliation of our EBITDA measure to net cash provided by operating activities for the nine months ended September 30, 2005 and 2004, respectively, is as follows:   
+  17  
+
+Back to Contents   
+ 
+      Item 3.   Quantitative and Qualitative Disclosures About Market Risk    
+  We have exposure to changing interest rates, and are currently not engaged in hedging activities.  Interest on approximately $826,000 of outstanding indebtedness is at a variable rate of between 2% to 3% over the published London Interbank Offered Rate (LIBOR), based upon our ratio of funded debt to EBITDA, and was 3% over LIBOR on average for the year.  At our current level of indebtedness, each 1% change in the variable interest rate will have an effect of $8,300 on our annual interest expense charges.    
+  We conduct operations in the United Kingdom.  The consolidated financial statements are presented in U.S. dollars and changes in exchange rates between foreign countries and the U.S. dollar will affect the translation of financial results of foreign subsidiaries into U.S. dollars for purposes of recording our consolidated financial results.  Historically, the effects of translation have not been material to the consolidated financial results.  
+  18  
+
+Back to Contents   
+       Item 4.   Controls and Procedures     
+  (a)      Evaluation of Disclosure Controls and Procedures    
+  Following a series of discussions with the U.S. Securities and Exchange Commission, the Company determined on December 15, 2005 that it would change its method of accounting for revenue on certain custom antibody arrangements. The Company changed its revenue recognition policy for custom antibody projects to utilize a methodology whereby revenue is recognized when a project s specifications have been met and the related antibodies have been shipped, rather than on the percentage-of-completion methodology the Company had used since 1996.    
+  As a result of the ongoing consideration of the appropriate accounting methodology leading up to the December 15, 2005 determination, the Company did not file this Form 10-Q for the third quarter of 2005 by the required filing date.   
+  The Company has amended its annual report on Form 10-K for the year ended December 31, 2004 to restate its consolidated financial statements for the years ended December 31, 2002, 2003 and 2004 and the related disclosures, and has amended its interim reports on Form 10-Q for the three month periods ended March 31, 2005 and 2004, and the three and six month periods ended June 30, 2005 and 2004, and the related disclosures. The consolidated interim financial statements for the three and nine month periods ended September 30, 2004 have also been
+restated.  
+  Our management, with the participation
+    of our Chief Executive Officer and Chief Financial Officer, evaluated the
+    effectiveness of our disclosure controls and procedures, as defined in Rule
+    13a-15(e) under the Securities Act of 1934, as amended, as of the end of
+    the period covered by this report. Based on that evaluation, the Chief Executive
+    Officer and Chief Financial Officer concluded that our disclosure controls
+    and procedures as of the end of the period covered by this report were not
+    functioning effectively to provide reasonable assurance that the information
+    required
+    to be disclosed by us in reports filed under the Securities Exchange Act
+    of 1934, as amended, is recorded, processed, summarized and reported within
+    the time periods specified in
+the SEC s rules and forms, and that information required to be disclosed
+by us in the reports we file or submit under the Securities Exchange Act of 1934,
+as amended, is accumulated and communicated to our management, including our
+principal executive and financial officers, or persons performing similar functions,
+as appropriate to allow timely decisions regarding required disclosure.   
+  (b)      Change in Internal Control over Financial Reporting   
+  No change in the Company s internal control over financial reporting occurred during the most recent fiscal quarter that has materially affected, or is reasonably likely to materially affect, the internal control over financial reporting.  
+  Subsequent to September 30, 2005,
+    management has instituted additional annual review procedures for revenue
+    recognition and software capitalization accounting policies to ensure that
+    we continually evaluate such policies and their compliance with generally
+    accepted
+    accounting
+    principles.   
+  19  
+
+Back to Contents   
+     PART II   OTHER INFORMATION   
+      Item 6.Exhibits     
+
+10.1  
+
+Strategic Diagnostics Inc. Change of Control Severance Agreement (Management Contract or Compensatory Plan)  
+
+31.1  
+
+Certifications of the Chief Executive Officer of Strategic Diagnostics Inc. required by Rule 13a-14(a) under the Securities Exchange Act of 1934  
+
+31.2  
+
+Certifications of the Chief Financial Officer of Strategic Diagnostics Inc. required by Rule 13a-14(a) under the Securities Exchange Act of 1934  
+
+32.1  
+
+Certification of the Chief Executive Officer of Strategic Diagnostics Inc. pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of Sarbanes-Oxley Act of 2002  
+
+32.2  
+
+Certification of the Chief Financial Officer of Strategic Diagnostics Inc. pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of Sarbanes-Oxley Act of 2002  
+
+20  
+
+Back to Contents   
+     SIGNATURES   
+  Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.     
+       
+  STRATEGIC DIAGNOSTICS INC.    
+
+Date:  March 16, 2006   
+  /s/ Matthew H. Knight  
+
+Matthew H. Knight  
+
+President, Chief Executive Officer (Principal Executive Officer)   
+
+Date:  March 16, 2006   
+  /s/ Anthony J. Simonetta   
+
+Anthony J. Simonetta  
+
+Vice President   Finance and Chief Financial Officer (Principal Financial and Accounting Officer)  
+
+21  
+
+<EX-10>
+ 4
+ ex10-1.htm
+ EXHIBIT 10.1
+
+Prepared and filed by St Ives Burrups
+
+Exhibit 10.1  
+   CHANGE OF CONTROL SEVERANCE AGREEMENT    
+       This Change of Control Severance Agreement (the  Agreement ) is made and entered into by and between _________ (the  Employee ) and Strategic Diagnostics Inc., a Delaware corporation (the  Company ) effective as of ___________ (the  Effective Date ).   
+   RECITALS    
+       A.    The Company from time to time may consider the possibility of an acquisition by another company or other event leading to a change of control. The Board of Directors of the Company (the  Board ) recognizes that such consideration can be a distraction to the Employee and can cause the Employee to consider alternative employment opportunities. The Board has determined that it is in the best interests of the Company and its shareholders to assure that the Company will have the continued dedication and objectivity of the Employee, notwithstanding the possibility, threat or occurrence of a Change of Control (as defined below) of the Company.   
+        B.    The Board believes that it is imperative to provide the Employee with certain benefits upon the Employee s termination of employment following a Change of Control that provide the Employee with enhanced financial security and incentive and encouragement to the Employee to remain with the Company notwithstanding the possibility of a Change of Control.   
+       C.    Certain capitalized terms used in the Agreement are defined in Section 5 below.   
+       The parties hereto agree as follows:   
+       1.     Effectiveness .    This Agreement became effective on the Effective Date and shall terminate only upon the date that all obligations of the parties hereto with respect to this Agreement have been satisfied.   
+       2.     At-Will Employment.     The Company and the Employee acknowledge that the Employee s employment is and shall continue to be at-will, as defined under applicable law. If the Employee s employment terminates for any reason other than during the Designated Period (as defined below), the Employee shall not be entitled to any benefits, damages, awards or compensation under Section 3(a) of this Agreement but may be entitled to payments or benefits in accordance with the Company s other established employee plans and practices or pursuant to other agreements with the Company.   
+  1  
+
+3.     Severance and Other Benefits.   
+       (a)   Termination in Connection with a Change of Control.     If the Employee s employment terminates as a result of Involuntary Termination at any time during the period (the  Designated Period ) commencing two (2) months prior to a Change of Control and ending eighteen (18) months following a Change of Control, then after the later of (i) five (5) business days after the Employee s last date of employment with the Company and (ii) seven (7) calendar days after execution and delivery of (A) an effective release of claims in substantially the form of  Exhibit A  hereto against the Company and related parties that releases the Company and such parties from any claims
+whatsoever arising from or related to the Employee s employment relationship with the Company and (B) a non-compete agreement in substantially the form of  Exhibit B  hereto, the Employee shall receive the following payments and benefits: (1) a lump sum cash payment or salary continuation equal to the Employee s then current annual base salary prorated for the period of six (6) months (without taking into account any reduction in base salary that could trigger an Involuntary Termination), less applicable withholding taxes or other withholding obligations of the Company, (2) extension of medical and dental benefits (if applicable) for the duration of the applicable severance period (or, if not permissible under the terms of the relevant plan or under applicable law, a cash
+payment equal to the applicable COBRA premium grossed up for taxes, if applicable), (3) a prorated Annual Incentive Plan bonus for the year in which the Employee s termination occurs, payment of which shall be made at the same time and under the same terms and conditions as bonuses are paid to employees of the Company (provided that such bonus shall equal no less than the average of the bonuses awarded to the Employee for the three (3) years (or lesser number of years for which Employee was employed by the Company) preceding the year in which the Employee s termination occurs), (4) if the time period following termination of employment available to the employee for exercise of all or any portion of the outstanding stock options granted to such employee is less than one year,
+then an extension of that exercise time period to the date that is one year following the Employee s Termination Date, and (5) executive outplacement services, from a provider appointed by the Company in its reasonable discretion, having a value not to exceed $20,000,  with a provider of the Company s choosing.   In the event that the Employee s employment terminates two (2) months or less prior to a Change of Control, for purposes of this Section 3(a) and elsewhere in this Agreement, the benefits described in this Section 3(a) shall become payable upon the date the Change of Control occurs (and the extended exercise period shall commence on that same date).   
+       (b)   Voluntary Resignation; Termination for Cause.     If, during the Designated Period, the Employee s employment terminates by reason of the Employee s voluntary resignation (which voluntary resignation is not an Involuntary Termination), or if the Employee is terminated for Cause, then the Employee shall not be entitled to receive any benefits under Section 3(a) of this Agreement.   
+       (c)   Disability; Death.     If, during the Designated Period, the Company terminates the Employee s employment as a result of the Employee s Disability, or such Employee s employment is terminated due to the death of the Employee, then the Employee shall not be entitled to receive any benefits under Section 3(a) of this Agreement.   
+  2  
+
+(d)   Termination Not in Connection With a Change of Control.     In the event the Employee s employment terminates for any reason or no reason, whether on account of Disability, Death, or otherwise, at a time not during the Designated Period, then the Employee shall not be entitled to receive severance and any other benefits under Section 3(a) of this Agreement.   
+       (e)   Coordination with Other Change of Control Benefits or Severance Benefits.     If the Employee is entitled under any agreement or arrangement other than this Agreement to cash payments or any other benefits from the Company in connection with the occurrence of a Change of Control or the termination of the Employee s employment, then the benefits received by the Employee under this Agreement shall be reduced by the benefits received by the Employee from the Company under such other plans, programs, arrangements or agreements.     
+       (f)   No Set-Off.     The Company s obligation to make the payments provided for in this Agreement and otherwise to perform its obligations hereunder shall not be affected by any circumstances, including, without limitation, any set-off, counterclaim, recoupment, defense or other right which the Company may have against the Employee or others.  
+       (g)   Mitigation.     The Employee shall not be required to mitigate damages or the amount of any payment provided under this Agreement by seeking other employment or otherwise, nor shall the amount of any payment provided for under this Agreement be reduced by any compensation earned by the Employee as a result of employment by another employer or by any retirement benefits received by the Employee after the date of the termination of employment, or otherwise.   
+        4.     Tax Matters.     In the event that the severance and other benefits provided for in this Agreement or otherwise payable to the Employee (i) constitute  parachute payments  within the meaning of Section 280G of the Internal Revenue Code of 1986, as amended (the  Code ), and (ii) become subject to the excise tax imposed by Section 4999 of the Code (or any corresponding provisions of state tax law), then the Employee s benefits under Section 3 shall still be delivered in full, and in addition the Employee shall receive an additional lump sum cash payment, taking into account all applicable federal, state, local and other income, employment and other taxes
+and the excise tax imposed by Section 4999 (assuming for purposes of this calculation that the Employee is liable for such taxes at the highest marginal tax rate) that results in no reduction to the Employee in the amount or the value of the benefits under Section 3 of this Agreement as a result of the application of Sections 280G and 4999 of the Code (and any corresponding provisions of state tax law). Unless the Company and the Employee otherwise agree in writing, any determination required under this Section 4 shall be made in writing by the Company s independent accounting firm (the  Accountants ). For purposes of making the calculations required by this Section 4, the Accountants may make reasonable assumptions and approximations concerning applicable taxes and may
+rely on reasonable, good faith interpretations concerning the application of Sections 280G and 4999 of the Code. The Company and the Employee shall furnish to the Accountants such information and documents as the Accountants may reasonably request in order to make a determination under this Section 4. The Company shall bear all costs the Accountants may reasonably incur in connection with any calculations contemplated by this Section 4.   
+  3  
+
+5.     Definition of Terms.     The following terms used in this Agreement shall have the following meanings:   
+       (a)   Cause.      Cause  shall mean (i) gross negligence or willful misconduct in the performance of the Employee s duties to the Company; (ii) a material and willful violation of any federal or state law which if made public would injure the business or reputation of the Company as reasonably determined by the Board of Directors of the Company; (iii) refusal or willful failure to act in accordance with any specific lawful direction or order of the Company or stated written policy of the Company; (iv) the finding by a court that the Employee has committed an act of fraud with respect to the Company; or (v) conviction of a felony or a crime involving moral turpitude
+causing material harm to the standing and reputation of the Company, in each case as reasonably determined by the Board of Directors of the Company.  
+       (b)   Change of Control.      Change of Control  shall have the definition given to such term under the Company s 2000 Stock Incentive Plan.  
+       (c)   Disability.      Disability  shall mean the Employee is disabled within the meaning of the Company s long-term disability plan or, if the Company does not maintain such a plan that covers the Employee, the Employee has been unable to perform the material duties of his or her employment within the Company for a period of six (6) consecutive months in any 12-month period because of physical or mental injury or illness. Termination resulting from Disability may only be effected after at least thirty (30) days  written notice by the Company of its intention to terminate the Employee s employment. In the event that the Employee resumes the performance
+of substantially all of his or her duties hereunder before the termination of his or her employment becomes effective, the notice of intent to terminate shall automatically be deemed to have been revoked.   
+       (d)   Involuntary Termination.      Involuntary Termination  shall mean (A) any termination of the Employee by the Company which is not affected for Disability or for Cause, or any actual or purported termination effected by the Company for Disability or for Cause for which the grounds relied upon are not valid or (B) the Employee s resignation from the Company, in any such case within 3 months after the Employee obtains knowledge of the occurrence of any of the following events: (i) the significant reduction, without the Employee s express written consent, of the Employee s duties, authority or responsibilities relative to the Employee s duties,
+authority or responsibilities as in effect immediately prior to such reduction, or the assignment to the Employee, without the Employee s express written consent, of such reduced duties, authority or responsibilities; (ii) a substantial reduction, without both the Employee s express written consent and good business reasons, of the facilities and perquisites (including office space, secretarial support, other support staff, and location) available to the Employee immediately prior to such reduction; (iii) a reduction by the Company in the base salary of the Employee as in effect immediately prior to such reduction; (iv) a material reduction by the Company in the kind or level of employee benefits, including the types and amounts of bonuses for which the Employee is eligible, to
+which the Employee was entitled immediately prior to such reduction with the result that the Employee s overall benefits package is significantly reduced; (v) the relocation of the Employee to a facility or a location more than twenty five (25) miles from the Employee s then present location, without the Employee s express written consent; (vi) any material breach by the Company of this Agreement or any employment agreement to which the Employee is a party; (vii) the failure of the Company to obtain the assumption of this Agreement by any successors contemplated in Section 6(a) below; or (viii) any act or set of facts or circumstances which would, under Delaware case law or statute, constitute a constructive termination of the Employee.   
+  4  
+
+(e)   Termination Date.      Termination Date  shall mean (i) if the Employee s employment is terminated by the Company for Disability, thirty (30) days after notice of termination is given to the Employee (provided that the Employee shall not have returned to the substantial performance of the Employee s duties on a full-time basis during such thirty (30)-day period), (ii) if the Employee s employment is terminated by the Company for any other reason, the date on which a notice of termination is given, provided that if within thirty (30) days after the Company gives the Employee notice of termination, the Employee notifies the Company that a dispute
+exists concerning the termination or the benefits due pursuant to this Agreement, then the Termination Date shall be the date on which such dispute is finally resolved, either by mutual written agreement of the parties, or by a final judgment, order or decree of a court of competent jurisdiction (the time for appeal there from having expired and no appeal having been perfected), or (iii) if the Employee s employment is terminated by the Employee, the date on which the Employee delivers the notice of termination to the Company; however, if the Employee terminates his or her employment on account of Involuntary Termination and the Employee subsequently notifies the Company that a dispute exists concerning the benefits due pursuant to this Agreement, then the Termination Date shall be
+the date on which such dispute is finally resolved, either by mutual written agreement of the parties, or by a final judgment, order or decree of a court of competent jurisdiction (the time for appeal there from having expired and no appeal having been perfected).   
+       6.     Successors.   
+       (a)   Company s Successors.     Any successor to the Company (whether direct or indirect and whether by purchase, merger, consolidation, liquidation or otherwise) to all or substantially all of the Company s business and/or assets shall assume the obligations under this Agreement and agree expressly to perform the obligations under this Agreement in the same manner and to the same extent as the Company would be required to perform such obligations in the absence of a succession. For all purposes under this Agreement, the term  Company  shall include any successor to the Company s business and/or assets which executes and delivers the assumption
+agreement described in this Section 6(a) or which becomes bound by the terms of this Agreement by operation of law or otherwise.   
+  5  
+
+(b)   Employee s Successors.     The terms of this Agreement and all rights of the Employee hereunder shall inure to the benefit of, and be enforceable by, and any unpaid amounts payable hereunder shall be payable to, the Employee s personal or legal representatives, executors, administrators, successors, heirs, distributees, devisees and legatees.   
+       7.     Notice.   
+       (a)   General.     Notices and all other communications contemplated by this Agreement shall be in writing and shall be deemed to have been duly given either (i) when personally delivered or sent by facsimile or (ii) five (5) days after being mailed by U.S. registered or certified mail, return receipt requested and postage prepaid. In the case of the Employee, mailed notices shall be addressed to him or her at the home address or facsimile number which he or she most recently communicated to the Company in writing. In the case of the Company, mailed notices or notices sent by facsimile shall be addressed to its corporate headquarters, and all notices shall be directed to the
+attention of its General Counsel or Chief Financial Officer.   
+       (b)   Term of Agreement.  This Agreement shall continue in full force and effect for the duration of Employee s employment with the Company; provided, however, that after the termination of Employee s employment during the term of this Agreement, this Agreement shall remain in effect until all of the obligations of the parties hereunder are satisfied or have expired.  
+       (c)   Enforcement.    
+            (i)      In the event that the Company shall fail or refuse to make payment of any amounts due Employee under Section 3 or 4 hereof within the respective time periods provided therein, the Company shall pay to Employee, in addition to the payment of any other sums provided in this Agreement, interest, compounded daily, on any amount remaining unpaid from the date payment is required under Section 3 or 4, as appropriate, until paid to Employee, at an annualized rate of interest equal to the so-called composite  prime rate,  as quoted from time to time during the relevant period in the Eastern Edition of The Wall Street Journal.  Such interest will be
+payable as it accrues on demand.  Any change in such prime rate will be effective on and as of the date of such change.  
+            (ii)      It is the intent of the parties that Employee not be required to incur any expenses associated with the enforcement of Employee s rights under Sections 3 and 4 of this Agreement by arbitration, litigation or other legal action because the cost and expense thereof would substantially detract from the benefits intended to be extended to Employee hereunder.  Accordingly, in the event any such claim by the Employee there under is successful in whole or in part, including any such claims settled by the Company, the Company shall pay Employee, within thirty (30) days after the resolution of such claim, the amount necessary to reimburse Employee in full
+for all expenses (including without limitation all reasonable accountants  fees, attorneys  fees and legal expenses) incurred by Employee in enforcing any of the obligations of the Company under this Agreement.  
+  6  
+
+(d)   Governing Law.     This Agreement shall be governed by the internal laws of the State of Delaware.   
+       (e)   Counterparts; Facsimile.     This Agreement may be executed in separate counterparts, any one of which need not contain signatures of more than one party, but all of which taken together will constitute one and the same Agreement. The executed copy of this Agreement may be delivered by facsimile or in original form.   
+       (f)   Waiver.     If either party should waive any breach of any provisions of this Agreement, they shall not thereby be deemed to have waived any preceding or succeeding breach of the same or any other provision of this Agreement.   
+       (g)   Headings.     The headings of the sections hereof are inserted for convenience only and shall not be deemed to constitute a part hereof or to affect the meaning thereof.   
+       IN WITNESS WHEREOF, each of the parties has executed this Agreement, in the case of the Company by its duly authorized officer, as of the date set forth above.      
+ 
+  COMPANY  
+
+STRATEGIC DIAGNOSTICS INC.   
+
+Signature:                                        
+
+Title:                                            
+
+EMPLOYEE  
+
+Signature:                                        
+
+Title:                                            
+
+7  
+
+EXHIBIT A   
+   SEPARATION AGREEMENT AND GENERAL RELEASE   
+  THIS AGREEMENT, made and entered into as of this ________day of _______, 20XX by and between  __________ ( Employee ) on the one hand, and Strategic Diagnostics Inc. (SDI), a Delaware corporation, together with each and every one of SDI s predecessors, successors (by merger or otherwise), parents, subsidiaries, affiliates, assigns, directors, officers, employees and agents, whether named herein or otherwise, on the other hand (hereinafter collectively referred to as  SDI  or  the Company ).  
+   WITNESETH:   
+  WHEREAS, Employee is employed by SDI and will be released from employment effective     DATE                                               
+  WHEREAS, Employee and SDI desires to settle fully and finally all differences between them, including, but not limited to, all claims which might arise out of Employee s employment with the Company and the separation there from;  
+  NOW, THEREFORE, in consideration of the mutual covenants, agreements and promises herein set forth and intending to be legally bound, the parties hereto agree as follows:  
+
+1.  
+ 
+ This Separation Agreement and General Release (hereinafter  Agreement and Release ) is not to be construed as admission by the Company of any violation of any federal, state, or local statute, ordinance or regulation or of any duty owed by the Company to Employee.  SDI specifically denies any such violations.  
+
+2.  
+ 
+ In consideration for the promises and benefits set forth herein, Employee (for Employee and all dependents, heirs, executors, administrators, legal representatives, assigns and/or any others who have or may have a claim by or through Employee) hereby irrevocably releases and discharges the Company from any and all suits, causes of action, claims, demands, charges, complaints, obligations and/or actions of any sort whatsoever, whether in law or equity, direct or indirect, which Employee ever had, now has, or hereinafter can or may have against SDI, from the beginning of time to the date of this Agreement and Release, including but not limited to any and all claims relating to or in any way arising out of any aspect of Employee s employment relationship
+and/or Employee s separation from employment with SDI.  This Agreement and Release specifically includes, but is not limited to, any and all claims for wrongful discharge, constructive discharge, breach of contract (whether express or implied), claims for wages and employee benefits and any and all forms of employment discrimination in violation of any federal, state or local statute, ordinance, executive order, or common law doctrine (including but not limited to claims for discrimination on the basis of race, color, religion, sex, national origin, age and/or mental or physical disability, whether asserted under the Civil Rights Act of 1991, Title VII of the Civil Rights Act of 1964, as amended, 42 U.S.C. section 2000e  et   seq , the Civil Rights Act of 1870, 42 U.S.C.
+section 1981, The Age Discrimination in Employment Act of 1967, as amended, 29 U.S.C. section 621  et   seq , The Rehabilitation Act of 1972, as amended, 29 U.S.C. section 701,  et   seq , and/or under any other applicable federal, state or local antidiscrimination law), any and all suits in tort (including but not limited to, any claims for misrepresentation, defamation, wrongful termination, interference with contract or with prospective economic advantage, tortious infliction of emotional distress and/or negligence) as well as any and all claims for additional compensation or damages of whatsoever kind arising in connection with Employee s employment relationship and/or separation from employment with the Company.  In addition, this Agreement and Release
+specifically includes all claims for costs and/or attorney s fees, if any, incurred by Employee in connection with any aspect of Employee s employment relationship and/or Employee s separation from employment with the Company.  Notwithstanding anything stated above, Employee shall be free to make a claim for unemployment benefits from any state agency Employee deems to have jurisdiction to award them, and SDI will not oppose any such claim on the basis that Employee ceased employment with SDI voluntarily, or on any other basis, and it is agreed between the parties to this agreement that Employee shall be deemed to have been involuntarily terminated.  
+
+1  
+
+3.  
+ 
+ Employee understands that this Agreement and Release extends to all of the aforementioned actions, whether now known or unknown, suspected or unsuspected, and that this constitutes an essential material term of this agreement.  
+
+4.  
+ 
+ Employee agrees that during Employee s employment with SDI Employee gained access to certain confidential information. Employee agrees that, without prior written consent of an officer of the Company, Employee will not disclose or use for Employee s own direct or indirect benefit or the direct or indirect benefit of a third party, and will use Employee s best efforts to maintain the confidentiality of all confidential information that Employee acquired because of Employee s employment.  In general,  confidential information  means any information that the Company treats as confidential, including but not limited to information relating to research, processes, inventions, products, methods, computer codes or instructions,
+software documentation, equipment, costs, customer lists, training methods and techniques, business studies, business procedures and finances, and any other materials that have not been made available to the general public.  (Failure of the Company to have marked any of the confidential information as confidential or proprietary will not affect its status as confidential information under the terms of this Agreement and Release). Employee further warrants that Employee has returned to the Company offices any documents, records, manuals, guides, notebooks, files, correspondences, reports, memoranda, computer tapes, computer disc, or similar materials of or containing information of the type identified above. Employee further warrants that Employee has returned, and has not retained, any
+copies of the foregoing.  
+
+5.  
+ 
+ In consideration of, and as a condition precedent to the effectiveness of, Employee generally releasing the Company and the other promises of the Company set forth herein, SDI will provide Employee with the benefits and rights (the  Severance Benefits ) set forth in the Change of Control Severance Agreement between Employee and SDI.  
+
+6.  
+ 
+ Employee shall return to SDI all property belonging to the Company which is in Employee s possession or control, including but not limited to, computer, printer, cellular telephone, keys, credit cards, reference materials, forms, reports, customer lists, price lists and documents of whatsoever kind, and all copies of any such documents.  
+
+2  
+
+7.  
+ 
+ Employee hereby acknowledges that, in return for executing this Agreement and Release, Employee is receiving consideration that Employee would not otherwise be entitled. Employee is acting in Employee s own free will and Employee fully understands all of the provisions and effects of this Agreement and Release.  In addition, Employee hereby acknowledges that neither SDI not any of its agents, representatives or attorneys have made any representations concerning the terms of this Agreement and Release other than those contained herein.  
+
+8.  
+  (a)  
+ 
+ Neither this Agreement and Release nor any term hereof may be orally changed, waived, discharged or terminated, except by a written agreement between the parties hereto.  
+
+(b)  
+ 
+ All terms and provision of the Agreement and Release shall be binding upon, inure to the benefit of and be enforceable by the legal representatives, successors and assigns of the parties.  
+
+(c)  
+ 
+ This Agreement and Release shall be governed by the laws of the State of Delaware and the terms of the Agreement and Release are contractual and not a mere recital.  
+
+9.  
+ 
+  Employee hereby certifies that:  
+
+(a)  
+ 
+  Employee has read the terms of this Separation Agreement and General Release;  
+
+(b)  
+ 
+  Employee has been informed by this document that Employee should discuss this Agreement and Release with an attorney of Employee s own choice;  
+
+(c)  
+    Employee understands this Agreement and Release s
+    terms and effects;  
+
+(d)  
+ 
+ Employee has the intention of releasing all claims recited herein in exchange for the consideration described herein, which Employee acknowledges as adequate and satisfactory to Employee; and   
+
+(e)  
+ 
+  neither SDI nor any of its agents, representatives or attorneys have made any representations to Employee concerning the terms or effects of this Separation Agreement and General Release other than those contained herein.  
+
+3  
+
+10.  
+      Employee acknowledges that Employee
+        has been informed that Employee has the right to consider this Agreement
+        and Release for a period of at least 21 days prior to entering into this
+        Agreement and Release. The end of the consideration period is _________
+        . If Employee wishes to accept the terms of this Agreement and Release,
+    it must be received by SDI by close of business on _________.  
+
+IN WITNESS WHEREOF, the parties hereto have duly executed this Agreement and Release the day and year first above written.  
+  By:  _______________________________________________________ 
+       NAME OF EMPLOYEE  
+  Date:_______________________________________________________  
+  Witness:____________________________________________________  
+  By:    _______________________________________________________ 
+       NAME, Strategic Diagnostics Inc.  
+  4  
+
+EXHIBIT B NON-COMPETITION AGREEMENT   
+       This Non-Competition Agreement ( Agreement ) is made this ________________(date) between  ____________  and Strategic Diagnostics Inc.  
+       WHEREAS  _____________  ( Employee ) is party to a Change of Control Severance Agreement (the  Severance Agreement ) with Strategic Diagnostics Inc. ( SDI  or  Company  and  
+       WHEREAS, both SDI and Employee acknowledge that they are each protecting their collective good by bonding together under the formal terms of this Agreement as now outlined below:  
+            A.     Consideration Given By SDI  
+                     1.     In consideration for the covenants and promises set forth below, SDI hereby agrees to provide Employee with the benefits and rights set forth in the Severance Agreement (the  Severance Benefits )  
+            B.     Agreements, Representations and Commitments of Employee  
+
+In consideration for SDI s provision of the Severance Benefits, Employee:  
+                     1.      Upon the termination of Employee s employment, Employee will deliver to an authorized representative of SDI (a) any credit cards, identification cards, badges, keys and other items which have been provided by SDI, (b) all tools and equipment provided to Employee by SDI, and (c) all written, printed and computerized materials including reports, project memoranda, drawings, records, files and other documents and software which relate to the business of SDI; (d) all corporate, practices, industrial or client databases which relate to the business of SDI; and (e) all other SDI property in the custody, control or possession of Employee.  Employee further
+represents that Employee will not retain any copies or duplicates of the items described above, except that Employee may retain copies of Employee s own records relating to Employee s compensation from SDI and a copy of this Agreement.  Furthermore, Employee agrees not to remove any corporate, departmental, industrial or client databases, whether in hard copy, disk or any other form from the premises of SDI.    
+  1  
+
+2.      Employee covenants and agrees that Employee shall not for a period of two (2) years subsequent to Employee s separation from employment by SDI for any and all voluntary reasons and for select involuntary reasons including dismissal for cause:  
+                     a.      Become interested as owner, proprietor, promoter, stockholder, lender, partner, co-venturer, director, officer, employee, agent, consultant or otherwise in any person, firm, corporation, association, or other entity engaged in any Business anywhere in the world that is competitive with the business or of the business of SDI, or become interested in as owner, stockholder, lender, partner, co-venturer, director, officer, employee, agent, consultant or otherwise in any portion of the Business of any person, firm, corporation, association or other entity or such portion of such Business that is competitive with SDI.  For purposes
+of this section, the term  Business  shall be defined to include, but not be limited to, accepting employment with any entities engaged in any business activities conducted by the Company, its subsidiaries or affiliates or any business activities in which the Company, its subsidiaries or affiliates is planning or preparing to engage in as of the date of the Employee s termination of employment hereunder. Should Employee accept subsequent employment with any other company, Employee shall immediately notify Employee s new employer about the existence of this Agreement, and shall actually provide a copy of same to Employee s new employer;  
+                     b.      Influence or attempt to influence any person to terminate or modify the employment, consulting, agency, distributorship or other arrangement with SDI;  
+            3.      Employee recognizes that the provisions of Sections B 1 and 2 are of the essence of this Agreement and understands and agrees that SDI would suffer irreparable harm if Employee should breach any of these provisions and that monetary damages would be extremely difficult to ascertain and would not adequately compensate SDI for the harm which would result from such a breach.  Accordingly, Employee agrees that in the event of any such breach or threatened breach by Employee of any of the provisions of Sections B 1 and 2, SDI shall immediately be entitled to the following remedies listed below which shall be in addition to and not in limitation to any
+additional rights, remedies or damages to which SDI is or may be entitled at law or in equity:  
+                     a.      SDI shall be entitled to a temporary restraining order, preliminary injunction, and permanent injunction in order to prevent and/or restrain any breach by Employee or by any or all of Employee s partners, co-venturers, agents, representatives, servants, employers, employees and any and all persons directly or indirectly acting for, or on behalf of, or with Employee.  
+                     b.      SDI shall be entitled to an accounting and repayment of all profits, compensation, royalties, commissions, remuneration or profits which Employee directly or indirectly may realize as a result of, growing out of, or in connection with any such violations by Employee or by Employee s partners, co-venturers, agents, representatives, servants, employers, Employees and any and all persons directly or indirectly acting for, or on behalf of, or with Employee.  
+  2  
+
+4.      Employee has carefully read and considered the provisions of Sections B 1 and 2 hereof and having done so, agrees to the restrictions and remedies set forth in these sections including, but not limited to, the time period of the restriction and the geographical areas of the restrictions set forth in Section B 2 hereof which are fair and reasonably required for the protection of the interest of SDI, its shareholders, directors, and other Employees and business relations.  Employee further agrees that the restrictions set forth in Sections B 1 and 2 shall not impair Employee s ability to secure employment within the field or fields of Employee s
+choice, including, without limitation, the sale, development and/or manufacture of agricultural, food safety, environmental, water quality diagnostic products and antibody products.  Notwithstanding anything in the foregoing to the contrary, it is the intention of the parties that if the provisions of Sections B 1 and 2 are determined to be overly broad in any respect, then they shall be enforceable to the maximum extent permissible under the law as set forth below.  
+            5.      The provisions of this entire Agreement shall be deemed severable, and the invalidity or unenforceability of any one or more of the provisions hereof shall not affect the validity and the enforcement of the other provisions hereof.  Accordingly, any provision, or distinguishable portion of any provision of this Agreement which is determined in any judicial or administrative proceeding to be prohibited or unenforceable in any jurisdiction shall, as to such jurisdiction, be ineffective to the extent of such prohibition or unenforceability without invalidating the remaining provisions hereof, and such prohibition or unenforceability in any jurisdiction shall
+invalidate or render unenforceable such provisions in any other jurisdiction.  Moreover, in the event that any provision of Section B 2 relating to time periods and/or geographical areas or restrictions shall be determined in any judicial or administrative proceeding to exceed the maximum time period or geographical scope that such court or administrative proceeding deems reasonable and enforceable, then such time periods and/or geographical restrictions shall be deemed to become and thereafter be the maximum time period and/or areas which such court or administrative agency deems reasonable and enforceable.  
+            6.      Employee hereby acknowledges that this Agreement does not constitute a right to continued employment.  Employee remains an employee at will.  SDI may terminate Employee s employment with SDI at any time, with or without cause.  Moreover, subject to the restrictions of this Agreement, Employee likewise has the right to terminate Employee s employment with SDI at any time, with or without cause.  
+            7.      This Agreement contains the entire Agreement of the parties and supersedes all prior agreements, oral or written and any other communication relating to the subject matter hereof.  This Agreement may be modified only in writing signed by both parties hereto.  The provisions of this Agreement relating to confidentiality and non-competition shall survive the termination of employment, regardless of however caused.  
+  3  
+
+8.      The Company reserves the right to assign its rights and entitlements hereunder to any parent, subsidiary, affiliated or successor Company, or to any company which purchases all or a portion of the stock or assets of the Company, and as a result of such purchase, maintains an interest in the portion of the Company s business in which Employee is or was employed.  
+            9.      This Agreement shall be governed by and interpreted under the laws of the State of Delaware without giving effect to any conflict of laws principles.  
+            IN WITNESS WHEREOF, the undersigned have hereunder set their hands as of the date first above written.  
+  By:  Strategic Diagnostics Inc.  
+  Print: Company Representative s Name: ___________________________________  
+  Title:__________________________________  
+  Signature: _________________________________________       
+    
+  Print: Employee s Name:________________________________________________  
+  Title:_________________________________________________  
+  Signature: _________________________________________       
+  4  
+
+</EX-10>
+
+<EX-31>
+ 5
+ ex31-1.htm
+ EXHIBIT 31.1
+
+Prepared and filed by St Ives Burrups
+
+Exhibit 31.1  
+   Rule 13a-14(a)/15d-14(a) Certification   
+
+I, Matthew H. Knight, certify that:  
+
+1.   
+
+I have reviewed this Quarterly Report as of and for the period ended September 30, 2005 on Form 10-Q of Strategic Diagnostics Inc. (the  registrant   
+
+2.  
+
+Based on my knowledge, this report does not contain any untrue statement of  a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;  
+
+3.  
+
+Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;  
+
+4.  
+
+The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have:  
+
+a)  
+
+Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;  
+
+b)  
+
+Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and  
+
+c)  
+
+Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and  
+
+5.  
+
+The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions):  
+
+a)  
+
+All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and  
+
+b)  
+
+Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal controlover financial reporting.  
+
+Date:  March 16, 2006   
+  /s/ Matthew H. Knight  
+
+Matthew H. Knight  
+
+Chief Executive Officer  
+
+</EX-31>
+
+<EX-31>
+ 6
+ ex31-2.htm
+ EXHIBIT 31.2
+
+Prepared and filed by St Ives Burrups
+
+Exhibit 31.2  
+   Rule 13a-14(a)/15d-14(a) Certification   
+  I, Anthony J. Simonetta, certify that:  
+
+1.  
+ 
+ I have reviewed this Quarterly Report as of and for the period ended September 30, 2005 on Form 10-Q of Strategic Diagnostics Inc. (the  registrant    
+
+2.  
+ 
+  Based on my knowledge, this report does not contain any untrue statement of  a material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under which such statements were made, not misleading with respect to the period covered by this report;  
+
+3.  
+ 
+  Based on my knowledge, the financial statements, and other financial information included in this report, fairly present in all material respects the financial condition, results of operations and cash flows of the registrant as of, and for, the periods presented in this report;  
+
+4.  
+ 
+  The registrant s other certifying officer and I are responsible for establishing and maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have:  
+
+a)  
+ 
+  Designed such disclosure controls and procedures, or caused such disclosure controls and procedures to be designed under our supervision, to ensure that material information relating to the registrant, including its consolidated subsidiaries, is made known to us by others within those entities, particularly during the period in which this report is being prepared;  
+
+b)  
+ 
+  Evaluated the effectiveness of the registrant s disclosure controls and procedures and presented in this report our conclusions about the effectiveness of the disclosure controls and procedures, as of the end of the period covered by this report based on such evaluation; and  
+
+c)  
+ 
+  Disclosed in this report any change in the registrant's internal control over financial reporting that occurred during the registrant's most recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an annual report) that has materially affected, or is reasonably likely to materially affect, the registrant's internal control over financial reporting; and  
+
+5.  
+ 
+  The registrant s other certifying officer and I have disclosed, based on our most recent evaluation of internal control over financial reporting, to the registrant s auditors and the audit committee of the registrant s board of directors (or persons performing the equivalent functions):  
+
+a)  
+ 
+  All significant deficiencies and material weaknesses in the design or operation of internal control over financial reporting which are reasonably likely to adversely affect the registrant s ability to record, process, summarize and report financial information; and  
+
+b)  
+ 
+  Any fraud, whether or not material, that involves management or other employees who have a significant role in the registrant s internal control over financial reporting.  
+
+Date:  March 16, 2006   
+  /s/ Anthony J. Simonetta     
+
+Anthony J. Simonetta     
+
+Chief Financial Officer     
+
+</EX-31>
+
+<EX-32>
+ 7
+ ex32-1.htm
+ EXHIBIT 32.1
+
+Prepared and filed by St Ives Burrups
+
+Exhibit 32.1  
+   Section 1350 Certifications    
+       Pursuant to 18 U.S.C.   1350, as created by Section 906 of the Sarbanes-Oxley Act of 2002, the undersigned officer of Strategic Diagnostics Inc. (the  Company ) hereby certifies, based on such officer s knowledge, that:   
+
+(i)  
+ 
+ the accompanying Quarterly Report on Form 10-Q of the Company for the period ended September 30, 2005 (the  Report ) fully complies with the requirements of Section 13(a) or Section 15(d), as applicable, of the Securities Exchange Act of 1934, as amended; and   
+
+(ii)  
+ 
+ the information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company.   
+
+The foregoing certification is being furnished solely to accompany the Report pursuant to 18 U.S.C.   1350, and is not being filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, and is not to be incorporated by reference into any filing of the Company, whether made before or after the date hereof, regardless of any general incorporation language in such filing.   
+
+Date:  March 16, 2006   
+  /s/ Matthew H. Knight  
+
+Matthew H. Knight  
+
+Chief Executive Officer     
+
+</EX-32>
+
+<EX-32>
+ 8
+ ex32-2.htm
+ EXHIBIT 32.2
+
+Prepared and filed by St Ives Burrups
+
+Exhibit 32.2  
+   Section 1350 Certifications    
+       Pursuant to 18 U.S.C.   1350, as created by Section 906 of the Sarbanes-Oxley Act of 2002, the undersigned officer of Strategic Diagnostics Inc. (the  Company ) hereby certifies, based on such officer s knowledge, that:   
+
+(i)  
+ 
+ the accompanying Quarterly Report on Form 10-Q of the Company for the period ended September 30, 2005 (the  Report ) fully complies with the requirements of Section 13(a) or Section 15(d), as applicable, of the Securities Exchange Act of 1934, as amended; and   
+
+(ii)  
+ 
+ the information contained in the Report fairly presents, in all material respects, the financial condition and results of operations of the Company.   
+
+The foregoing certification is being furnished solely to accompany the Report pursuant to 18 U.S.C.   1350, and is not being filed for purposes of Section 18 of the Securities Exchange Act of 1934, as amended, and is not to be incorporated by reference into any filing of the Company, whether made before or after the date hereof, regardless of any general incorporation language in such filing.   
+
+Date:  March 16, 2006   
+  /s/ Anthony J. Simonetta     
+
+Anthony J. Simonetta     
+
+Chief Financial Officer     
+
+</EX-32>
+

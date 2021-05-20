@@ -1,0 +1,3963 @@
+<Header>
+<FileStats>
+    <FileName>20060317_10-Q_edgar_data_1089773_0000943440-06-000098_1.txt</FileName>
+    <GrossFileSize>213971</GrossFileSize>
+    <NetFileSize>187596</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>581</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>6</N_Tables>
+    <N_Exhibits>4</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000943440-06-000098.hdr.sgml : 20060317
+<ACCEPTANCE-DATETIME>20060317143950
+ACCESSION NUMBER:		0000943440-06-000098
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20060131
+FILED AS OF DATE:		20060317
+DATE AS OF CHANGE:		20060317
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NORTIA CAPITAL PARTNERS, INC.
+		CENTRAL INDEX KEY:			0001089773
+		IRS NUMBER:				650913582
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0430
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	814-00694
+		FILM NUMBER:		06695397
+
+	BUSINESS ADDRESS:	
+		STREET 1:		400 HAMPTON VIEW COURT
+		CITY:			ALPHARETTA
+		STATE:			GA
+		ZIP:			30004
+		BUSINESS PHONE:		770-777-6795
+
+	MAIL ADDRESS:	
+		STREET 1:		400 HAMPTON VIEW COURT
+		CITY:			ALPHARETTA
+		STATE:			GA
+		ZIP:			30004
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	BF ACQUISITION GROUP I INC
+		DATE OF NAME CHANGE:	19990722
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ BF9mkMezFvQ81o7bdwTehRXZmTGZF3Gh4CEgWPxHYjKGYiN2AfKcGgW+T4n4ZbIe
+ ZNLZkv4CJZPToNm98LPZyA==
+
+ 0000943440-06-000098.txt : 20060317
+
+10-Q
+ 1
+ jan06-10q.txt
+ 
+                          UNITED STATES
+               SECURITIES AND EXCHANGE COMMISSION
+                     WASHINGTON, D.C. 20549
+
+                            FORM 10-Q
+
+ [X]   QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE
+                           SECURITIES
+                      EXCHANGE ACT OF 1934
+
+         For the quarterly period ended January 31, 2006
+
+ [ ]   TRANSITION REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE
+                 SECURITIES EXCHANGE ACT OF 1934
+
+      For the transition period from ________ to _________
+
+                Commission File number:  0-26843
+
+                  Nortia Capital Partners, Inc.
+      ----------------------------------------------------
+     (Exact name of registrant as specified in its charter)
+
+NEVADA                         33-0967353
+     ------------------------               ------------
+    (STATE OR JURISDICTION OF              (IRS EMPLOYER
+  INCORPORATION OR ORGANIZATION)         IDENTIFICATION NO.)
+
+400 Hampton View Court, Alpharetta, Georgia       30004
+- -------------------------------------------     ----------
+(ADDRESS OF PRINCIPAL EXECUTIVE OFFICE)         (ZIP CODE)
+
+REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE: (770) 777-6795
+                                                     --------------
+
+Indicate by check mark whether the registrant (1) has filed all
+reports required to be filed by Section 13 or 15(d) of the Securities
+Exchange Act of 1934 during the preceding 12 months (or for such shorter
+period that the registrant was required to file such reports), and (2)
+has been subject to such filing requirements for the past 90 days.
+
+           Yes [X]                              No [ ]
+
+     Indicate by check mark whether the registrant is a large accelerated
+filer, an accelerated filer, or a non-accelerated filer (as defined in Rule
+12b-2 of the Exchange Act).
+
+ Large accelerated filer[ ]  Accelerated filer[ ]  Non-Accelerated filer[X]
+
+     Indicate by check mark whether the registrant is a shell company
+            (as defined in Rule 12b-2 of the Exchange Act).
+
+           Yes [ ]                              No [X]
+
+     As of March 14, 2006, there were approximately 22,813,254 shares
+of common stock, $0.001 par value, issued and outstanding.
+
+Nortia Capital Partners, Inc.
+                         Form 10-Q Index
+                        January 31, 2006
+
+                                                                     Page
+                                                                     ----
+Part I-Financial Information
+
+Item 1. Financial Statements                                            2
+
+        Balance Sheet at January 31, 2006 (Unaudited)                   3
+          Statement of Operations for the Three and Nine Months
+          Ended January 31, 2006 and the One Month Ended January
+          31, 2005 and the Two and Eight Months Ended December
+          31, 2004 and the period from May 1, 2003 (inception of
+          development stage) to January 31, 2006 (Unaudited)            4
+
+        Statement of Cash Flows for the Nine Months Ended
+          January 31, 2006 and the One Month Ended January 31,
+          2005 and the Eight Month period Ended December 31,
+          2004 and for the period from May 1, 2003 (inception
+          of development stage) to January 31, 2006 (Unaudited)         5
+
+        Schedule of Changes in Net Assets for the Nine
+          Months ended January 31, 2006 (Unaudited)                     6
+
+        Schedule of Investments at January 31, 2006 (Unaudited)         7
+
+        Notes to Financial Statements (Unaudited)                       8
+
+Item 2. Management's Discussion and Analysis of Financial
+          Condition and Results of Operations                           26
+
+Item 3. Quantitative and Qualitative Disclosures About
+          Market Risk                                                   37
+
+Item 4. Controls and Procedures                                         37
+
+Part II-Other Information
+
+Item 1. Legal Proceedings                                               38
+
+Item 1A. Risk Factors                                                   38
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds     47
+
+Item 3. Defaults upon Senior Securities                                 47
+
+Item 4. Submission of Matters to a Vote of Security Holders             47
+
+Item 5. Other Information                                               48
+
+Item 6. Exhibits                                                        48
+
+Signatures                                                              49
+
+1
+
+PART I
+                      FINANCIAL INFORMATION
+
+Item 1-Financial Statements
+
+2
+
+Nortia Capital Partners, Inc.
+                  (A Development Stage Company)
+                       At January 31, 2006
+                          Balance Sheet
+                           (Unaudited)
+
+ASSETS
+                       ------
+
+Current Assets
+Cash                                             $    17,491
+                                                 -----------
+
+Total Current Assets                                  17,491
+
+Other Assets
+Note receivable                                       52,500
+                                                 -----------
+
+Total Other Assets                                    52,500
+
+Total Assets                                          69,991
+                                                 ===========
+
+                        LIABILITIES
+                        -----------
+Current Liabilities
+Accounts payable                                     111,717
+Accrued expenses                                       4,397
+Stock subscription deposit                            39,600
+                                                 -----------
+
+Total Current Liabilities                            155,714
+                                                 ===========
+
+Net Assets                                       $   (85,723)
+                                                 ===========
+STOCKHOLDERS' DEFICIT
+Common stock, $0.001 par value, 50,000,000
+shares authorized 22,813,254 shares issued
+and outstanding                                       22,813
+Common stock issuable, 4,375,355 shares                4,375
+Additional paid in capital                         5,946,277
+Accumulated deficit                                  (12,398)
+Deficit accumulated during development stage      (6,046,790)
+                                                 -----------
+
+Total Stockholders' Deficit                          (85,723)
+                                                 ===========
+
+Total Liabilities and Stockholders' Deficit      $    69,991
+                                                 ===========
+
+Net Asset Value Per Share                        $     (0.01)
+                                                 ===========
+
+See accompanying notes to financial statements.
+
+                             3
+
+Nortia Capital Partners, Inc.
+                  (A Development Stage Company)
+                     Statement of Operations
+                           (Unaudited)
+
+See accompanying notes to financial statements
+
+4
+
+Nortia Capital Partners, Inc.
+                  (A Development Stage Company)
+                     Statement of Cash Flows
+                           (Unaudited)
+ 
+         See accompanying notes to financial statements
+
+5
+
+Nortia Capital Partners, Inc.
+                  (A Development Stage Company)
+               Statement of Changes in Net Assets
+
+Nine
+                                                             Months Ended
+                                                            Jan. 31, 2006
+                                                            -------------
+
+  Decrease in net assets from operations:
+  Net operating losses                                  $       (1,276,613)
+                                                        ------------------
+
+  Net decrease in net assets from operations                    (1,276,613)
+
+  Common Stock transactions                                      1,229,420
+  Common stock expense for officer not being paid                    4,400
+  Amortization of deferred consulting                               86,700
+                                                        ------------------
+  Total increase in Net Assets                                      43,907
+
+  Net Assets:
+  Beginning of Period                                             (129,629)
+                                                        ------------------
+  End of period                                         $          (85,723)
+                                                        ==================
+
+See accompanying notes to financial statements
+
+6
+
+Nortia Capital Partners, Inc.
+                  (A Development Stage Company)
+                     Schedule of Investments
+                       At January 31, 2006
+                           (Unaudited)
+
+(1)   Minority owned investments are generally defined under the
+Investment Company Act of 1940 as companies in which we own less
+than 50% of the voting securities of the company.  If we own
+between 25% and 50% of the issuer, it is presented as minority-
+owned controlled companies, if between 5% and 25%, it is
+presented as minority-owned other non-controlled affiliates.
+
+(2)   All common stock is in inactive or non-income producing and
+restricted at the period end.
+
+(3)   Public company.
+
+See accompanying notes to financial statements
+
+                             7
+
+Nortia Capital Partners, Inc.
+                (A Development Stage Company)
+                Notes to Financial Statements
+                      January 31, 2006
+                         (Unaudited)
+
+Note 1.   Basis of Presentation
+- -------------------------------
+
+The accompanying unaudited financial statements have been
+prepared in accordance with accounting principles generally
+accepted in the United States of America and the rules and
+regulations of the United States of America Securities and
+Exchange Commission ("SEC") for interim financial information.
+Accordingly, they do not include all the information and
+footnotes necessary for a comprehensive presentation of financial
+position and results of operations.
+
+It is management's opinion, however, that all material
+adjustments (consisting of normal recurring adjustments and
+certain non-recurring adjustments) have been made which are
+necessary for a fair financial statement presentation.  The
+results for the interim period are not necessarily indicative of
+the results to be expected for the year.
+
+These unaudited financial statements should be read in
+conjunction with Nortia Capital Partners, Inc.'s ("Nortia", "we",
+"us", "our",  or the "Company") audited financial statements and
+notes thereto for the year ending April 30, 2005 included in the
+Company's Form 10-K filed with the SEC on November 23, 2005.
+
+The accompanying financial statements are prepared in accordance
+with the guidance in the AICPA's Audit and Accounting Guide,
+"Audits of Investment Companies" because the Company elected to
+be regulated as a business development company (a "BDC") under
+the Investment Company Act of 1940 (the "1940 Act"), effective
+January 4, 2005 (see Note 2 - Nature of Operations and Summary of
+Significant Accounting Policies and Note 12 - Subsequent Events).
+
+In accordance with Article 6 of Regulation S-X under the
+Securities Act of 1933, as amended (the "Securities Act") and the
+Securities Exchange Act of 1934, as amended (the "Exchange Act"),
+the Company does not consolidate portfolio company investments,
+including those in which it has a controlling interest.
+Portfolio investments are held for purposes of deriving
+investment income and/or future capital gains.
+
+The results of operations for the nine months ended January 31,
+2006 and the one month ended January 31, 2005 reflect the
+Company's results subsequent to our election to be treated as a
+BDC.  The results of operations for the eight months ended
+December 31, 2004 reflect our results prior to operating as a
+BDC.  Accounting principles used in the preparation of the
+financial statements for nine months ended January 31, 2006 and
+the one month ended January 31, 2005 are different from the eight
+months ended December 31, 2004 and, therefore, the financial
+position and results of operations of this period is not directly
+comparable.  The Company utilizes the cumulative effect method to
+reflect the effects of conversion to a BDC.  There was no
+cumulative effect adjustment from the conversion to a BDC in
+January 2005.  The primary differences in accounting principles
+relate to the carrying value of investments and accounting for
+income taxes.  See Notes to the financial statements included
+elsewhere in this Form 10-Q.
+
+On February 17, 2005, the Company announced that its Board of
+Directors had approved a two-for-one stock split of its common
+shares.  The record date for the split was February 28, 2005 and
+the pay date was March 3, 2005.  In accordance with Statement of
+Financial Accounting Standards No. 128 ("SFAS 128"), the Company
+has retroactively presented the effect of the stock split for all
+periods presented in the accompanying financial statements for
+all share and per share data.
+
+8
+
+Nortia Capital Partners, Inc.
+                (A Development Stage Company)
+                Notes to Financial Statements
+                      January 31, 2006
+                         (Unaudited)
+
+Note 2.   Nature of Operations and Summary of Significant
+          Accounting Policies
+- ---------------------------------------------------------
+
+Nature of Operations
+
+The Company is an Atlanta-based business development company
+("BDC") that provides debt and equity investment capital to
+companies in a variety of industries which it believes present
+opportunities for superior performance through liquidity events,
+internal growth, product or geographic expansion, the completion
+of complimentary add-on acquisitions, or industry consolidations.
+(See Note 12 - Subsequent Events).
+
+On January 4, 2005, we filed a Form N-54A with the SEC and
+elected to be treated as a BDC under the Investment Company Act
+of 1940 (the "1940 Act").  Prior to our BDC election, we were in
+the start-up phase of operations and generally had a dormant
+operating history.
+
+We have generally operated as a development stage company during
+the period covered by this report since we have not generated
+significant revenue from our business plan.
+
+We currently intend, as soon as practicable after qualification,
+to elect to be treated for federal income tax purposes as a
+regulated investment company ("RIC"), under Subchapter M of the
+Internal Revenue Code of 1986 (the "Code"), although in order to
+make an effective election, we must, among other things,
+distribute most of our net income and meet certain income and
+diversification of investment assets requirements. No assurance
+can be provided that the Company will meet the requirements for
+election as a RIC in the near future or ever.  If we were to
+qualify for, and elect to be treated as a RIC, we would lose the
+tax benefit of our net operating loss carry-forwards for our RIC
+taxable years, except as offsets to certain recognized built-in
+gains.
+
+Pre-BDC Organizational History
+
+We were formerly organized as BF Acquisition Group I, Inc. under
+the laws of the State of Florida on April 15, 1999, as a "shell"
+company with plans to seek opportunistic business partners or
+acquisition candidates.  Due to capital constraints, however, we
+were unable to continue with our business plan.  In March 2001,
+we ultimately ceased our business activities and became dormant
+through May 2003, whereby we incurred only minimal administrative
+expenses.
+
+During June 2003, we engaged present management, began to raise
+additional capital, and initiated activities to re-establish our
+business.  During our fiscal quarterly period ending July 31,
+2003, we re-entered the development stage, raised additional
+capital and recommenced preparations to implement our business
+plan.
+
+9
+
+Nortia Capital Partners, Inc.
+                (A Development Stage Company)
+                Notes to Financial Statements
+                      January 31, 2006
+                         (Unaudited)
+
+Effective August 2, 2004, we changed our name to Nortia Capital
+Partners, Inc.
+
+On October 15, 2004, we entered into a Definitive Share Exchange
+Agreement (the "Exchange Agreement") with Global Life Sciences,
+Inc., a publicly traded Nevada corporation ("Global"), whereby it
+was contemplated that we would become a wholly owned subsidiary
+of Global. On December 2, 2004, the Exchange Agreement was
+consummated and, pursuant to its terms, we became a wholly owned
+subsidiary of Global in a transaction accounted for as a
+recapitalization of the Company (See Note 6 - Recapitalization).
+On December 3, 2004, we were merged with and into Global.
+Subsequent to the recapitalization, Global changed its name to
+"Nortia Capital Partners, Inc."
+
+Post-BDC Operations
+
+On January 4, 2005, the Board of Directors of the Company
+determined that it was in the best interest of the Company and
+its shareholders to file an election to be treated as BDC under
+the 1940 Act.  As a result of its new status as a BDC, the
+Company plans to provide capital and advisory services for
+liquidity events, management buyouts, recapitalizations, and the
+growth and capital needs of emerging and growth companies. (See
+Note 12 - Subsequent Events).
+
+The Company currently expects to invest in emerging and
+development-stage micro-cap companies that intend to be listed on
+U.S. equity markets, including the OTC Bulletin Board, but which
+lack the necessary capital and depth of management to expand
+their businesses.
+
+The Company's investment objective is to generate both capital
+appreciation and, to a lesser extent, current income from its
+investments.  In order to achieve this objective, we currently
+intend to invest in public and private companies in a wide array
+of industries, including manufacturing, distribution, and service
+industries, throughout the United States.  We may also invest to
+a limited extent in selected foreign companies, to the extent
+that such investments are consistent with the limitations on such
+investing by BDCs under the 1940 Act. Furthermore, we plan to
+target emerging growth companies that have an executable business
+plan for growth and a well-managed infrastructure. Portfolio
+investments are held for purposes of deriving investment income
+and future capital gains.
+
+We also expect to provide diligence and structuring services on
+private finance transactions, as well as provide structuring,
+transaction, management, consulting and other services to
+portfolio companies in which we invest.
+
+Significant Accounting Policies
+
+Cash and Cash Equivalents
+
+Cash and cash equivalents include all highly liquid investments with
+a maturity date of three months or less when purchased.
+
+Beneficial Conversion Feature in Debentures
+
+In accordance with EITF Issue 98-5, as amended by EITF 00-27, we
+must evaluate the potential effect of any beneficial conversion
+terms related to convertible instruments such as convertible debt
+or convertible preferred stock.  If the Company issues
+convertible instruments, a beneficial conversion may exist if the
+holder, upon conversion, may receive instruments that exceed the
+value of the convertible instrument.  Valuation of the benefit is
+
+10
+
+Nortia Capital Partners, Inc.
+                (A Development Stage Company)
+                Notes to Financial Statements
+                      January 31, 2006
+                         (Unaudited)
+
+determined based upon various factors including the valuation of
+equity instruments, such as warrants, that may have been issued
+with the convertible instruments, conversion terms, value of the
+instruments to which the convertible instrument is convertible,
+etc.  Accordingly, the ultimate value of the beneficial feature
+is considered an estimate due to the partially subjective nature
+of valuation techniques.
+
+Fair Value of Financial Instruments
+
+We define the fair value of a financial instrument as the amount
+at which the instrument could be exchanged in a current
+transaction between willing parties. The carrying value of
+accounts payable and accrued liabilities approximates fair value
+because of the short maturity of those instruments. The estimated
+fair value of our other obligations is estimated based on the
+current rates offered to us for similar maturities.  Based on
+prevailing interest rates and the short-term maturity of all of
+our indebtedness, management believes that the fair value of our
+obligations approximates book value at January 31, 2006.
+
+Stock-Based Compensation
+
+Prior to its election as a BDC, the Company accounts for stock
+options issued to employees in accordance with the provisions of
+Accounting Principles Board ("APB") Opinion No. 25, "Accounting
+for Stock Issued to Employees," ("ABP 25") and related
+interpretations.  As such, compensation cost is measured on the
+date of grant as the excess of the current market price of the
+underlying stock over the exercise price.  Such compensation
+amounts are amortized over the respective vesting periods of the
+option grant.  The Company adopted the disclosure provisions of
+Statement of Financial Accounting Standards No. 123, "Accounting
+for Stock-Based Compensation" ("SFAS 123"), and Statement of
+Financial Accounting Standards No. 148 "Accounting for Stock
+Based Compensation - Transition and Disclosure" ("SFAS 148"),
+which permits entities to provide pro forma earnings (loss) per
+share disclosures for employee stock option grants as if the fair
+value based method defined in SFAS 123 had been applied.
+
+The Company accounts for stock options or warrants issued to non-
+employees in exchange for goods or services in accordance with
+the fair value method of SFAS 123.  Under this method, the
+Company records an expense equal to the fair value of the options
+or warrants issued.  The fair value is computed using an options
+pricing model.
+
+Investments
+
+Investments in securities of unaffiliated issuers represent
+holdings of less than 5% of the issuer's voting common stock.
+Investments in and advances to affiliates are presented as (i)
+majority-owned, if holdings, directly or indirectly, represent
+over 50% of the issuer's voting common stock, (ii) minority owned
+other controlled affiliates if the holdings, directly or indirectly,
+represent over 25% and up to 50% of the issuer's voting common
+stock and (iii) minority owned other non-controlled affiliates if
+the holdings, directly or indirectly, represent 5% to 25% of the
+issuer's voting common stock.  Investments - other than securities
+represent all investments other than in securities of the issuer.
+
+Investments in securities or other than securities of privately
+held entities are initially recorded at their original cost as of
+the date the Company obtained an enforceable right to demand the
+securities or other investment purchased and incurred an enforceable
+obligation to pay the investment price.
+
+As a BDC, for financial statement purposes, investments are
+recorded at their value in our financial statements. Value, as
+defined in Section 2(a)(41) of the 1940 Act, is (i) the market
+price for those securities for which a market quotation is
+readily available and (ii) for all other securities and assets,
+fair value as determined in good faith by the board of directors.
+Because there is typically no readily available market value for
+the investments in our portfolio, we value substantially all of
+our investments at fair value as determined in good faith by our
+board of directors pursuant to a valuation policy and consistent
+valuation process. Due to the inherent uncertainty of these
+valuations, the estimates may differ significantly from the
+values that would have been used had a ready market for the
+investments existed and the differences may be material. Our
+valuation methodology includes the examination of, among other
+things, the underlying portfolio company performance, financial
+condition and market changing events that impact valuation.
+Realized gains (losses) from the sale of investments and
+unrealized gains (losses) from the valuation of investments are
+reflected in our statement of operations during the period
+
+11
+
+Nortia Capital Partners, Inc.
+                (A Development Stage Company)
+                Notes to Financial Statements
+                      January 31, 2006
+                         (Unaudited)
+
+incurred.
+
+Revenue Recognition
+
+Prior to its election as a BDC, the Company recognized revenues
+in accordance with the guidance in the SEC Staff Accounting
+Bulletin 104.  Revenue is recognized when persuasive evidence of
+an arrangement exists, as services are provided over the term of
+a service contract, and when collection of the fixed or
+determinable selling price is reasonably assured.  The Company
+followed EITF 00-8 "Accounting by a Grantee for an Equity
+Instrument to be Received in Conjunction with Providing Goods or
+Services" when determining the measurement date to value
+securities received for services.
+
+Revenues from current and future activities as a BDC which may
+include investment income such as interest income and dividends,
+and realized or unrealized gains and losses on investments will
+be recognized in accordance with the AICPA's Audit and Accounting
+Guide, "Audits of Investment Companies".
+
+Fee income includes fees for services rendered by the Company to
+portfolio companies and other third parties such as diligence,
+structuring, transaction services, management and consulting
+services, and other services. Diligence, structuring and
+transaction services fees are generally recognized as income when
+services are rendered or when the related transactions are
+completed. Management, consulting and other services fees are
+generally recognized as income as the services are rendered.
+
+Income Taxes
+
+Income taxes are accounted for under the asset and liability
+method of Statement of Financial Accounting Standards No. 109,
+"Accounting for Income Taxes ("SFAS 109")."  Under SFAS 109,
+deferred tax assets and liabilities are recognized for the future
+tax consequences attributable to differences between the
+financial statement carrying amounts of existing assets and
+liabilities and their respective tax bases.  Deferred tax assets
+and liabilities are measured using enacted tax rates expected to
+apply to taxable income in the years in which those temporary
+differences are expected to be recovered or settled.  Under SFAS
+109, the effect on deferred tax assets and liabilities of a
+change in tax rates is recognized in income in the period that
+includes the enactment date.
+
+As of January 31, 2006, the Company is currently treated as a
+corporation for federal income tax purposes, and hence is subject
+to corporate level taxation.  However, we currently intend, as
+soon as practicable after qualification, to elect to be treated
+for federal income tax purposes as a regulated investment company
+("RIC"), under Subchapter M of the Internal Revenue Code of 1986
+(the "Code"), although in order to make an effective election, we
+must, among other things, distribute most of our net income and
+meet certain income and diversification of investment assets
+requirements. No assurance can be provided that the Company will
+meet the requirements for election as a RIC in the near future or
+ever.  If we were to qualify for, and elect to be treated as a
+RIC, we would lose the tax benefit of our net operating loss
+carry-forwards for our RIC taxable years, except as offsets to
+certain recognized built-in gains.   (See Note 12 - Subsequent
+Events).
+
+12
+
+Nortia Capital Partners, Inc.
+                (A Development Stage Company)
+                Notes to Financial Statements
+                      January 31, 2006
+                         (Unaudited)
+
+Income (Loss) per Share of Common Stock
+
+Basic earnings per share ("EPS") are computed only on the
+weighted average number of common shares outstanding during the
+respective periods.  There were no additional common stock
+equivalents or other items to adjust the numerator or denominator
+in the EPS computations.
+
+The Company previously announced that its Board of Directors had
+approved a two-for-one stock split of its common shares. The
+record date for the split was February 28, 2005 and the pay date
+was March 3, 2005.  In accordance with SFAS 128, the Company has
+retroactively presented the effect of the stock split for all
+periods presented in the accompanying financial statements for
+all share and per share data.
+
+At January 31, 2006, there were warrants to purchase 1,196,155
+shares of common stock outstanding which may dilute future
+earnings per share.
+
+Comprehensive Income (Loss)
+
+Comprehensive income (loss) includes net income (loss) as
+currently reported by the Company adjusted for other
+comprehensive gains (losses). Other comprehensive gains (losses)
+for the Company consists of unrealized gains (losses) related to
+the Company's equity securities accounted for as available-for-
+sale with changes in fair value recorded through stockholders'
+equity.
+
+Note 3.   Going Concern
+- -----------------------
+
+As reflected in the accompanying financial statements, the
+Company had a net loss of $1,276,613 and net cash used in
+operations of $1,210,732 for the nine months ended January 31,
+2006.  Additionally, the Company has an accumulated deficit of
+$12,398 and a deficit accumulated during the development stage of
+$6,046,790 and stockholders' deficit of $85,723 at January 31,
+2006.
+
+The ability of the Company to continue as a going concern is
+dependent on the Company's ability to further implement its
+business plan as a BDC, raise capital, and generate revenues.
+(See Note 12 - Subsequent Events).  The financial statements do
+not include any adjustments that might be necessary if the
+Company is unable to continue as a going concern.
+
+We plan on generating future revenues as a BDC primarily through
+direct investments in private companies and other start-up
+companies, as well as through opportunities provided by
+turnaround companies and companies seeking liquidity events.
+Additionally, we will provide fee based business expertise
+through both in-house and contract consultants.
+
+The time required for us to become profitable from operations is
+highly uncertain, and we cannot assure you that we will achieve
+or sustain operating profitability or generate sufficient cash
+flow to meet our planned capital expenditures, working capital
+and debt service requirements.  If required, our ability to
+obtain additional financing from other sources also depends on
+many factors beyond our control, including the state of the
+capital markets and the prospects for our business.  The
+necessary additional financing may not be available to us or may
+be available only on terms that would result in further dilution
+to the current owners of our common stock.
+
+13
+
+Nortia Capital Partners, Inc.
+                (A Development Stage Company)
+                Notes to Financial Statements
+                      January 31, 2006
+                         (Unaudited)
+
+We cannot assure you that we will generate sufficient cash flow
+from operations or obtain additional financing to meet scheduled
+debt payments and financial covenants.  If we fail to make any
+required payment under the agreements and related documents
+governing our indebtedness or fail to comply with the financial
+and operating covenants contained in them, we would be in
+default.  The financial statements do not include any adjustments
+to reflect the possible effects on recoverability and
+classification of assets or the amounts and classification of
+liabilities, which may result from the inability of the Company
+to continue as a going concern.
+
+We are planning on obtaining additional cash proceeds in the next
+twelve months from the issuance of additional securities to be
+determined.
+
+Note 4.   Note Receivable and Investments
+- -----------------------------------------
+
+In November 2003, we issued $75,000 of debentures in exchange for
+100,000 shares of freely trading common stock in Global.  In
+accordance with FAS 115 "Accounting for Certain Investments in
+Debt and Equity Securities", we recorded the 100,000 shares of
+common stock as "available-for-sale" securities, a current asset
+and the resulting $5,000 unrealized gain at April 30, 2004 was
+classified as a separate component of stockholders' equity -
+accumulated other comprehensive income.
+
+In April 2004, we purchased 5,000 shares of freely trading common
+stock for $6,243 in Global. In accordance with FAS 115, we
+recorded the 5,000 shares of common stock as "available-for-sale"
+securities, a current asset and the resulting $2,243 unrealized
+loss at April 30, 2004 was classified as a separate component of
+stockholders' equity - accumulated other comprehensive income.
+
+In May 2004, we transferred 7,500 of these shares to a third
+party for payment of public relations services rendered to
+Global.  The fair market value of the stock on the transfer date
+was $0.28 per share or $2,100 and the Company recorded this
+amount as a consulting expense and recorded a $3,525 loss on the
+disposal of the securities.
+
+In June and July of 2004, we sold the remaining 97,500 shares and
+received $14,405 of proceeds and recognized a $64,738 loss on the
+sale of the securities.  As a result of the transfer and sale of
+the above securities, we have reversed the previously discussed
+$5,000 unrealized gain and $2,243 unrealized loss that were
+recorded at April 30, 2004.
+
+In April and May 2004, we paid $6,500 for professional services
+for four companies and recorded a $1,625 receivable from each
+company.  In July 2004, we agreed to receive 75,000 shares of
+common stock from one of these companies instead of the cash due
+of $1,625.  In September 2004, we agreed to receive 100,000
+shares of common stock from a second of these companies instead
+of the cash due of $1,625.  In November 2004, we agreed to
+receive 100,000 shares of common stock from a third of these
+companies instead of the cash due of $1,625.  The remaining
+$1,625 from the final company is not collectible.  All of these
+companies have a limited operating history and have a
+stockholders' deficiency.  Consequently, there is no practical
+way to value the common stock and we recorded an impairment loss
+for the entire $4,875 in our statement of operations for the year
+ended April 30, 2005.  Previously, the remaining $1,625 for the
+fourth and final company was recorded as other receivable.
+However, we have determined that the receivable is not
+collectible and recorded $1,625 of bad debt expense in our
+statement of operations for the year ended April 30, 2005.
+
+In September 2003, we entered into a consulting contract with
+Global (See Note 5 - Indebtedness).  We provided consulting
+
+14
+
+Nortia Capital Partners, Inc.
+                (A Development Stage Company)
+                Notes to Financial Statements
+                      January 31, 2006
+                         (Unaudited)
+
+services to Global under this contract in exchange for $240,000
+to be paid to us in the form of 1,200,000 restricted shares.  In
+addition, we received an additional 300,000 free trading shares
+of its common stock, valued at $0.20 per share, based on the
+original agreement date.  The term of the consulting agreement
+was for twelve (12) months and the common stock was payable on a
+quarterly basis.  In January 2004, we received 300,000 shares and
+in July 2004, we received the remaining 1,200,000 shares as
+compensation for services. For the twelve months ended April 30,
+2004, we recorded $146,301 of the consulting fees as revenue and
+recorded $153,699 of consulting fees as revenue during the six
+months ended October 31, 2004 and had earned a total of $300,000
+or 100% of the consulting fees from the inception of the contract
+as of October 31, 2004.  We recorded the fees as revenue, pro-
+rata over the contract term in accordance with EITF 00-8
+"Accounting by a Grantee for an Equity Instrument to be received
+in conjunction with Providing Goods or Services" based on the
+$0.20 fair value on the contract date.  In accordance with FAS
+115, we recorded the restricted shares as "available-for-sale"
+securities, a non-current asset and the resulting unrealized gain
+of $180,000 at April 30, 2004 was classified in a separate
+component of stockholders' equity - accumulated other
+comprehensive income.
+
+In accordance with EITF 03-01 "The Meaning of Other Than
+Temporary Impairment and its Application to Certain Investments",
+we evaluated the underlying securities that had an original cost
+of $0.20 and a fair market value of $2.15 in January 2004, but
+the fair market value had been reduced to $0.07 per share as of
+October 31, 2004, or less than the $.20 cost.  We also evaluated
+Global, which was at that time a development stage company, had a
+stockholders' deficiency and an accumulated deficit.  As a result
+of our analysis, the fair market value at October 31, 2004 was
+$105,000 and we believed that the impairment is other than
+temporary and reversed the $180,000 previously recorded
+unrealized gain discussed above and recorded a $195,000 other
+than temporary impairment loss at October 31, 2004.
+
+Additionally, in July 2004, our Chief Executive Officer and
+President were elected officers and directors of Global.  As a
+result, we classified the securities as an Investment in
+Affiliate at October 31, 2004.
+
+On October 15, 2004, the Company entered into an Exchange
+Agreement with Global.  On December 2, 2004, the Exchange
+Agreement was consummated and pursuant to the terms of the
+Exchange Agreement, the Company became a wholly owned subsidiary
+of Global in a transaction accounted for as a recapitalization of
+the Company (See Note 6 - Recapitalization).  As a result of the
+transaction, the Board has retired the shares and the investment
+held by the Company in Global has been eliminated.
+
+In April 2004, we acquired 2,587,983 shares for a purchase price
+of $43,706 representing approximately 11% of Avix Technologies,
+Inc., a publicly held company that emerged from bankruptcy under
+Chapter 11 of the federal bankruptcy code. There is a minimal
+active trading market for the shares and the company is in the
+process of developing its primary product to offer to the market
+but has not achieved this progress as of the date of the
+accompanying financial statements.  Accordingly, we have recorded
+an impairment loss in fiscal year 2004 for the entire $43,706,
+which is classified as impairment of investments in the
+accompanying financial statements.
+
+In July 2005, the Company announced the execution of a definitive
+Share Exchange Agreement by and among Holley Communications,
+Inc., a Delaware corporation and wholly-owned subsidiary of the
+Company (the "Investment Sub"), Holley Communications Canada,
+Inc., a Canadian Corporation ("Holley Canada"), and us.  Pursuant
+to the Share Exchange Agreement and subject to certain closing
+conditions, the Investment Sub will issue 28,500,000 shares of
+its common stock, equivalent to 95% of its then-issued and
+outstanding common stock, to Holley Canada.  In exchange, Holley
+Canada will transfer and assign all of Holley Canada's equity
+
+15
+
+Nortia Capital Partners, Inc.
+                (A Development Stage Company)
+                Notes to Financial Statements
+                      January 31, 2006
+                         (Unaudited)
+
+interest in Holley Communications Investment, Inc., a British
+Virgin Islands company ("Holley Communications"), to the
+Investment Sub.  As of the date of these financial statements,
+this transaction had not yet been consummated.  Management
+anticipates that following the completion of transactions
+contemplated by the Share Exchange Agreement, the Company will
+register (or cause to be registered) and distribute as a special
+dividend to the stockholders of the Company, substantially all of
+the Company's shares in the Investment Sub.  Holley
+Communications is a provider of wireless communication technology
+application and integrated solutions in China.  Specifically, it
+is engaged in two segments of the mobile communications business:
+a handset segment and a system integration segment.  Its handset
+segment focuses on research and development, operation,
+distribution and retail and provides customers with handset
+solutions, reference design, module and handset.  Its system
+segment focuses on voice quality enhancement system application,
+integration, sales and engineering services.
+
+In December 2005, the Company signed a letter of intent to
+provide funding to All American Pet, Inc., ("AAPC"), a New York
+corporation, with its principal office in Encino, California.
+AAPC produces; markets and sells super premium dog food primarily
+through supermarkets and grocery stores and has secured
+commitments to distribute its products through approximately
+6,000 supermarkets and grocery stores.   The commitment made by
+the Company is for a total funding of $100,000 and at January 31,
+2006, the Company has funded $52,500 of the $100,000 commitment
+and has been recorded as a Note Receivable in the accompanying
+Financial Statements.
+
+The following represents information about securities held with
+loss positions as of January 31, 2006:
+
+Securities in
+ loss positions         Aggregate
+  less than 12          Unrealized      Aggregate
+     months:            Losses          Fair Value
+- -----------------       ----------      ----------
+                                  
+Equity securities       $  48,581         $  -
+                        =========         ======
+
+Note 5.  Indebtedness
+- ---------------------
+
+From May 2003 through January of 2005, we received $417,000 of
+cash proceeds from the issuance of debentures to several parties.
+The debenture terms were interest at ten percent (10%) per annum,
+payable in twelve (12) months from the date of the debenture and
+include a five percent (5%) penalty for any event of default.
+Additionally, at the option of the Company, the debenture holders
+were granted the option of exchanging the debenture into common
+stock of the Company at an exchange rate of twenty-five cents
+($0.25) per share.
+
+We have evaluated the debenture to determine if a beneficial
+conversion feature exists in accordance with EITF 98-5, as
+amended by EITF 00-27.  We have determined that the debentures
+are not a convertible instrument in that the potential conversion
+feature outlined in the debentures was not binding and solely at
+the option of the Company.
+
+In November 2003, we issued $75,000 of debentures in exchange for
+100,000 shares of freely trading common stock in Global (see Note
+4 - Investments).
+
+16
+
+Nortia Capital Partners, Inc.
+                (A Development Stage Company)
+                Notes to Financial Statements
+                      January 31, 2006
+                         (Unaudited)
+
+In January 2004, we issued a $5,000 debenture to a third party
+for legal services and accounted for the issuance as legal
+expense.
+
+In September 2004, we issued a $7,000 debenture to a third party
+for consulting services and accounted for the issuance as
+consulting expense.  The amount represents a five percent (5%)
+fee for debenture proceeds obtained by the Company in accordance
+with the consulting agreement.
+
+At January 31, 2005, we had $504,000 of ten percent (10%)
+debentures outstanding.   Utilizing an effective date of April
+15, 2005, the entire $504,000 was exchanged for the Company's
+$0.001 par value common stock at an exchange rate of $0.25 per
+share.  Additionally, a amount equal to twenty percent (20%) of
+the debenture principal exchange shares was granted in lieu of
+accrued interest and penalties.  As of January 31, 2005, $228,000
+of the Debentures were in default as the term was for one (1)
+year and the debenture provisions included a penalty of five
+percent (5%) for any default that occurs.   As a result of the
+debenture exchange, we recorded 2,419,200 shares of our common
+stock as issuable at April 30, 2005 and recorded a loss on
+exchange of debt during fiscal 2005 in the amount of $2,104,285
+in the accompanying statement of operations. The loss on exchange
+of debt was calculated utilizing a $1.10 per share fair market
+value for our common stock, obtained from a recent private
+placement offering (See Note 7 - Stockholders Deficiency).
+
+From November 2004 through February of 2005, we received $188,000
+of proceeds from the issuance of promissory notes to several
+parties.  The promissory note terms are interest at ten percent
+(10%) per annum, payable in ninety (90) days from the date of the
+promissory notes.  Utilizing an effective date of April 15, 2005,
+the entire $188,000 was exchanged for the Company's $0.001 par
+value common stock at an exchange rate of $0.25 per share.  No
+exchange of accrued interest was offered in the exchange
+documents.  As a result of the promissory note exchange, we
+recorded 752,000 shares of our common stock as issuable at April
+30, 2005 and recorded a loss on exchange of debt during fiscal
+2005 in the amount of $634,273 in the accompanying statement of
+operations.  The loss on exchange of debt was calculated
+utilizing a $1.10 per share fair market value for our common
+stock, obtained from a recent private placement offering (See
+Note 7 - Stockholders Deficiency).
+
+Note 6.   Recapitalization
+- --------------------------
+
+On October 15, 2004, we entered into an Exchange Agreement with
+Global, whereby it was contemplated that we would become a wholly
+owned subsidiary of Global. On December 2, 2004, the Exchange
+Agreement was consummated and, pursuant to its terms, we became a
+wholly owned subsidiary of Global in a transaction accounted for
+as a recapitalization of the Company.  On December 3, 2004, we
+were merged with and into Global.  Subsequent to the
+recapitalization, Global changed its name to "Nortia Capital
+Partners, Inc."  Pursuant to the terms of the Exchange Agreement,
+the shareholders of the Company received an aggregate of
+17,350,000 newly issued shares of Global common stock, which
+represented a one-for-one share exchange of the Company's stock
+for Global stock (the "Transaction"). Immediately after giving
+effect to the Transaction, there were 20,777,344 shares of common
+stock outstanding, approximately 84% of which are held by the
+Company's current shareholders.  Accordingly, since the Company's
+shareholders obtained voting and management control, this
+transaction was treated as a recapitalization of the Company.
+The Company also assumed net liabilities of Global, which was a
+legal obligation in the amount of $63,330, which was recorded as
+accounts payable and subsequently paid.
+
+As a result of the recapitalization, the Company is deemed to
+have issued 3,427,254 shares of common stock to the original
+
+17
+
+Nortia Capital Partners, Inc.
+                (A Development Stage Company)
+                Notes to Financial Statements
+                      January 31, 2006
+                         (Unaudited)
+
+shareholders of Global (See Note 7 - Stockholders' Deficiency).
+The net effect of the transaction is a credit to common stock of
+$3,427, credit to preferred stock of $300 and a debit to
+additional paid in capital for $172,057, which in total consists
+of the $63,330 assumed liability discussed previously and
+$105,000 for the cancellation of common stock held by the Company
+in Global.  The financial statements after the closing of the
+Agreement include the Balance Sheet of both companies at
+historical cost and the historical operations of the Company and
+the operations of Global from the Transaction Date.
+
+Previously in September 2004, a prior asset purchase and sale
+agreement between Global and another unrelated entity was
+rescinded making Global an inactive public shell.  All
+liabilities and obligations of Global except the $63,330 of
+accounts payable discussed above were assigned to a prior officer
+of Global, pursuant to a mutual rescission agreement.
+
+At April 30, 2005, there were 5,104,406 common shares previously
+issued by the Company's transfer agent that were returnable to
+the Company under the mutual rescission agreement.  These shares
+have been restricted as to transfer by the transfer agent and are
+not included in outstanding shares at July 31, 2005.  As of
+January 31, 2006, 3,300,021 of these shares had been returned and
+cancelled by the Company's transfer agent.
+
+Note 7.   Stockholders' Deficiency
+- ----------------------------------
+
+Capital Structure
+
+We are authorized to issue up to 50,000,000 shares of our common
+stock, $0.001 par value per share, of which 22,813,254 were
+issued and outstanding at January 31, 2006.  The holders of the
+common stock do not have any preemptive right to subscribe for,
+or purchase, any shares of any class of stock.  Additionally, we
+have 4,375,355 shares that are issuable at January 31, 2006.
+Including issuable shares, we have 27,188,609 shares outstanding
+and issuable as of January 31, 2006.
+
+We were previously authorized to issue up to 5,000,000 shares of
+preferred stock, $0.001 par value per share, of which 300,000,
+designated as Series A, were authorized, issued and outstanding
+at July 31, 2005.  In September 2005, such shares were converted
+into an aggregate of 600,000 post-split Common Shares and the
+authorization for Series A Preferred Stock has been cancelled.
+Accordingly, at January 31, 2006, the Company had no preferred
+stock outstanding.
+
+Common Stock
+- ------------
+
+In March 2004, we granted 4,300,000 shares of our common stock
+for compensation and board fees to two individuals.  At the time
+of grant, there was no active trading market for the Company's
+common stock and we analyzed several methodologies to determine
+the value per share for the stock issuance.  As a result of our
+research, we determined that the appropriate methodology was to
+utilize the net asset value of the Company immediately preceding
+the issuance of the shares and determined that the valuation was
+$0.04 per share, valued on the grant date and expensed
+immediately as $160,000 of compensation expense and $12,000 of
+directors fees as there was no formal employment agreement or
+stated term.  At July 31, 2004, the shares were not issued and
+were recorded as Common Stock Issuable.  In September 2004, the
+shares were issued and have been reclassed from Common Stock
+Issuable to Common Stock.
+
+18
+
+Nortia Capital Partners, Inc.
+                (A Development Stage Company)
+                Notes to Financial Statements
+                      January 31, 2006
+                         (Unaudited)
+
+In May 2004, we entered into a consulting agreement with a third
+party whereby the consultant will provide corporate business
+development and consulting services for us.  The term of the
+agreement is twelve (12) months and the consultant will receive a
+total of 480,000 shares of the Common Stock of the Company.  Two
+hundred forty thousand (240,000) shares were granted and vested
+upon the execution of the agreement and the remaining shares will
+be earned at the rate of 20,000 shares monthly and issued on a
+quarterly basis.  As of July 31, 2004, 270,000 shares were vested
+and were issued by the Company.  From August 1, 2004 through
+January 31, 2005, an additional 60,000 shares were granted and
+vested, thus making the total shares granted and vested 330,000
+at January 31, 2005.  Of the 270,000 shares that were issued as
+of July 31, 2004 as discussed above, at the time of the issuance,
+there was no active trading market for the Company's common stock
+and we analyzed several methodologies to determine the value per
+share for the stock issuance.  As a result of our research, we
+determined that the appropriate methodology was to utilize the
+net asset value of the Company immediately preceding the issuance
+of the shares and determined that the valuation was $0.015 per
+share, thus the 270,000 shares issued as of July 31, 2004 were
+valued on the issuance date at $4,050.  Due to the immaterial
+amount of the valuation, the Company elected to expense the
+entire $4,050 in the accompanying statement of operations rather
+than recognize the amount evenly over the agreement term.  Of the
+additional 60,000 shares issued between August 1, 2004 and
+January 31, 2005 as discussed above, 30,000 shares were issued
+during the three months ended October 31, 2004 and valued at a
+nominal value of $0.0005 per share because the net asset value of
+the Company immediately preceding the issuance of the shares was
+negative and could not be used.  The other 30,000 shares vested
+during the three months ended January 31, 2005 were valued based
+upon the measurement date of December 31, 2004 at a value of
+$0.505 per share and the Company has recorded $30,000 of
+consulting expense in the statement of operations for the three
+months ended January 31, 2005.  These 30,000 shares were issuable
+as of January 31, 2005 and were issued by the Company's transfer
+agent in March 2005.  In February, the remaining 150,000 shares
+were issued and valued at $0.73 per share, the fair market value
+on the grant date of February 11, 2005 and the Company has
+recorded $109,500 of consulting expense in the accompanying
+Statement of Operations.   These 150,000 shares were not issued
+as of January 31, 2006 and have been recorded as Common Stock
+Issuable.
+
+In June 2004, we granted 2,300,000 shares of our common stock for
+compensation and board fees to our new President.  At the time of
+grant, there was no active trading market for the Company's
+common stock and we analyzed several methodologies to determine
+the value per share for the stock issuance.  As a result of our
+research, we determined that the appropriate methodology was to
+utilize the net asset value of the Company immediately preceding
+the issuance of the shares.  However, based upon this analysis,
+the net asset value was a negative number and could not be
+utilized.  The Company determined that a nominal value should be
+utilized and the valuation is $0.0005 per share, valued on the
+grant date and expensed immediately as $1,000 of compensation
+expense and $150 of directors fees as there was no formal
+employment agreement or stated term.
+
+In October 2004, we granted 3,900,000 shares to our executive
+officers as compensation, comprised of 1,500,000 to our Chief
+Executive Officer, 1,200,000 to our President and 1,200,000 to
+our Chief Financial Officer.  At the time of grant, there was no
+active trading market for the Company's common stock and we
+analyzed several methodologies to determine the value per share
+for the stock issuance.  As a result of our research, we
+determined that the appropriate methodology was to utilize $0.05
+per share, the valuation utilized for preferred shares issued for
+director services on the same date (see Issuances of Preferred
+Stock below).  As a result, the Company has expensed immediately
+$195,000 of compensation.
+
+In October 2004, we granted 1,000,000 shares to our Board of
+Directors as fees for their services, comprised of 200,000 share
+issuances to five individuals.  At the time of grant, there was
+no active trading market for the Company's common stock and we
+analyzed several methodologies to determine the value per share
+for the stock issuance.  As a result of our research, we
+determined that the appropriate methodology was to utilize $0.05
+
+19
+
+Nortia Capital Partners, Inc.
+                (A Development Stage Company)
+                Notes to Financial Statements
+                      January 31, 2006
+                         (Unaudited)
+
+per share, the valuation utilized for preferred shares issued for
+director services on the same date (see Issuances of Preferred
+Stock below).  As a result, the Company has expensed immediately
+$50,000 of director fees.
+
+In October 2004, we granted 800,000 shares to our Advisory Board
+members as fees for their services, comprised of 200,000 share
+issuances to four individuals.  At the time of grant, there was
+no active trading market for the Company's common stock and we
+analyzed several methodologies to determine the value per share
+for the stock issuance.  As a result of our research, we
+determined that the appropriate methodology was to utilize $0.05
+per share, the valuation utilized for preferred shares issued for
+director services on the same date (see Issuances of Preferred
+Stock below).  As a result, the Company has expensed immediately
+$40,000 of director fees.
+
+In November 2004, we granted 250,000 shares of our common stock
+to a group for consulting services.  The shares were valued at
+$0.505 per share, the closing stock price on the grant date of
+November 1, 2004, and we recorded $126,250 of deferred
+consulting, as the term of the consulting agreement was one (1)
+year.  Subsequently, the agreement was terminated and we have
+recorded the entire $126,250 of deferred consulting as consulting
+expense in the accompanying Statement of Operations.  As a result
+of the termination, in January 2006, the consulting group
+returned 84,000 of the shares previously issued and these have
+been cancelled by the transfer agent as of January 31, 2006.
+
+In November 2004, we granted 450,000 shares of our common stock
+to a group for consulting services.  The shares were valued at
+$0.505 per share, the closing stock price on the grant date of
+November 1, 2004, and we recorded $227,025 of deferred
+consulting, as the term of the consulting agreement was one year.
+Subsequently, the agreement was terminated and we have recorded
+the entire $227,025 of deferred consulting as consulting expense
+in the accompanying Statement of Operations.  The 450,000 shares
+had been recorded common stock issuable at January 31, 2005 were
+subsequently issued by the Company's transfer agent in March
+2005.
+
+In December 2004, we granted 250,000 vested shares of our common
+stock to a new member of our Board of Directors as a fee for
+their service.  The shares were valued at $0.54 per share, the
+closing price on the grant date of December 6, 2004, and we
+expensed immediately $135,000 of director fees.
+As a result of the recapitalization discussed previously, the
+Company recorded 3,427,254 shares of common stock as a deemed
+issuance to the original shareholders of Global (See Note 6 -
+Recapitalization).
+
+In January 2005, we granted 240,000 shares of our common stock to
+an individual for consulting services.  The shares were valued at
+$0.51 per share, the closing stock price on the grant date of
+January 19, 2005, and we recorded $122,400 of deferred
+consulting, as the term of the consulting agreement was one year.
+As of January 31, 2006, the entire $122,400 of deferred
+consulting has been expensed and recorded as consulting expense
+in the accompanying Statement of Operations.  The shares have not
+been issued as of January 31, 2006 and have been recorded as
+Common Stock Issuable in the accompanying financial statements.
+
+In February 2005, we granted 150,000 shares of our common stock
+to a group for consulting services.  The shares were valued at
+$0.73 per share, the closing stock price on the grant date of
+February 11, 2005, and we recorded $109,500 of deferred
+consulting, as the term of the consulting agreement was one year.
+The consulting agreement specified that up to 450,000 shares
+would be issued for services provided, based upon the fair market
+value of $0.73 per share on February 11, 2005.  Subsequently, the
+Company and the consultant agreed to terminate the contract and
+no additional shares will be issued to the consultant.  As a
+result of the agreement termination, the entire $109,500 of
+deferred consulting has been recorded as amortization expense in
+
+20
+
+Nortia Capital Partners, Inc.
+                (A Development Stage Company)
+                Notes to Financial Statements
+                      January 31, 2006
+                         (Unaudited)
+
+the fiscal 2005 financial statements.  Additionally, the 150,000
+shares had not been issued as of January 31, 2006 and have been
+recorded as Common Stock Issuable in the accompanying financial
+statements.
+
+In April 2005, the Company initiated a private placement offering
+for the issuance of up to 1,000,000 units at an offering price of
+$1.10 per share ("Unit").  Each Unit consisted of one share of
+the Company's $0.001 par value common stock and one two-year
+warrant to purchase the Company's common stock at an exercise
+price of $2.00 per share.  The offering included an option for an
+over-allotment of up to 200,000 units or a maximum issuance of
+1,200,000 units.  Effective January 16, 2005, the offering was
+terminated and in total, the Company received $1,315,770 of
+proceeds from the issuance of the Units, representing 1,196,155
+shares of common stock and 1,196,155 two-year warrants to
+purchase common stock at $2.00 per share.
+
+In January 2006, the Company was in the process of initiating a
+new private placement offering for the issuance of up to
+1,000,000 units at an offering price of $1.10 per share ("Unit").
+Although the offering was not finalized, the Company received
+$39,600 of proceeds without signed subscription agreements as of
+January 31, 2006.  The Company anticipates that the formal
+offering will be finalized and signed subscription agreements
+received before March 31, 2006.  As a result of there being no
+signed subscription agreements, the $39,600 of proceeds discussed
+above have been recorded as a liability in the accompanying
+Financial Statements under the caption Stock Subscription
+Deposit.  (See Note 12 - Subsequent Events).
+
+The Company had 30,000 common shares held as treasury stock at
+April 30, 2005 which had an original cost basis of zero.  These
+shares were retired in May 2005.
+
+In June 2005, the Company filed a registration statement on Form
+S-8 with the SEC for the registration of 250,000 shares of the
+Company's $0.001 par value common stock at an issuance price of
+$1.00 per share.  In July 2005, 125,000 of these shares were
+issued as compensation for services to our Chief Executive
+Officer and 125,000 shares were issued for services to our
+President.  In August 2005, it was determined that these shares
+may not have been validly granted per the requirements of the
+1940 Act.  Accordingly, the Company is in the process of
+rescinding these shares.
+
+In September 2005, the Company issued 600,000 post-split shares
+of common stock from the conversion of 300,000 shares of Series A
+Preferred Stock.
+
+Preferred Stock
+- ---------------
+
+In relation to the recapitalization discussed previously, each
+newly appointed officer of the Company received 100,000 shares of
+convertible Preferred A stock upon their appointment, which
+occurred approximately 10 days prior to the December 2, 2004
+effective date.  Each share of this preferred stock is
+convertible into two (2) shares of common stock at the option of
+its holder at any time, except that such shares shall convert
+automatically on the date that is two years from the preferred
+stock's date of issuance (the "Mandatory Conversion Date"). Each
+Preferred A Share has voting rights equivalent to ten (10) times
+the number of shares of common stock into which each such
+Preferred A Share shall convert, and are entitled to a dividend
+on a pari passu basis with the holders of Common Shares and other
+classes of preferred shares of the Company.  Each Preferred A
+Share has a liquidation preference equal to $.10.
+
+21
+
+Nortia Capital Partners, Inc.
+                (A Development Stage Company)
+                Notes to Financial Statements
+                      January 31, 2006
+                         (Unaudited)
+
+As a result of the recapitalization, the Company issued 300,000
+shares of Series A Preferred Stock.  In September 2005, the
+Company issued 600,000 post-split shares of common stock from the
+conversion of the 300,000 shares of Series A Preferred Stock
+discussed above.  Additionally, the authorization for Series A
+Preferred Stock has been cancelled.  Accordingly, at January 31,
+2006, the Company had no preferred stock outstanding.
+
+Warrants
+- --------
+
+As discussed previously, in April 2005, the Company initiated a
+Private Placement Offering for the issuance of up to 1,000,000
+units at an offering price of $1.10 per share.  Each unit
+consists of one share of the Company's $0.001 par value common
+stock and one two-year warrant to purchase the Company's common
+stock at an exercise price of $2.00 per share.  The offering
+included an option for an over-allotment of up to 200,000 units
+or a maximum issuance of 1,200,000 units.  Effective January 16,
+2005, the offering was terminated and in total, the Company
+received $1,315,770 of proceeds from the issuance of the Units,
+representing 1,196,155 shares of common stock and 1,196,155 two-
+year warrants to purchase common stock at $2.00 per share.
+
+In January 2006, the Company was in the process of initiating a
+new private placement offering for the issuance of up to
+1,000,000 units at an offering price of $1.10 per share ("Unit").
+Although the offering was not finalized, the Company received
+$39,600 of proceeds without signed subscription agreements as of
+January 31, 2006.  The Company anticipates that the formal
+offering will be finalized and signed subscription agreements
+received before March 31, 2006.  As a result of there being no
+signed subscription agreements, the $39,600 of proceeds discussed
+above have been recorded as a liability in the accompanying
+Financial Statements under the caption Stock Subscription
+Deposit.  (See Note 12 - Subsequent Events).
+
+For the private placement offering discussed above, the warrants
+become exercisable at the closing date of the private placement
+offering.
+
+The following table summarizes activity related to warrants
+during the nine months ended January 31, 2006:
+
+All warrants to purchase our common stock were issued with
+exercise prices equal to or greater than fair market value on the
+date of issuance.
+
+22
+
+Nortia Capital Partners, Inc.
+                (A Development Stage Company)
+                Notes to Financial Statements
+                      January 31, 2006
+                         (Unaudited)
+
+The terms of warrants to purchase our common stock are summarized
+below:
+
+Note 8.   Commitments and Contingencies
+- ---------------------------------------
+
+From time to time we may become subject to proceedings, lawsuits
+and other claims in the ordinary course of business including
+proceedings related to environmental and other matters.  Such
+matters are subject to many uncertainties, and outcomes are not
+predictable with assurance.
+
+The matters below may result in certain contingent liabilities to
+the Company as a result of potential actions by the SEC or others
+against the Company.  Such contingent liabilities could not be
+estimated by management as of the date of this Quarterly Report.
+The outcome of the matters below could have a significant impact
+on our ability to continue as a going concern.
+
+We currently do not have a lease and we are not paying rent for
+our office space. It is being provided to the Company by an
+officer/director free of charge (See Note 9 - Related Party
+Transactions).  Usage of this office space and the related value
+is de minimis.  Therefore, no expense has been recorded in the
+accompanying financial statements.  We expect we will have to
+lease more substantial office space in the near future and that
+the cost of the space may be material to our operations.
+
+We currently intend, as soon as practicable after qualification,
+to elect to be treated for federal income tax purposes as a
+regulated investment company, or RIC, under Subchapter M of the
+Code, although in order to make an effective election, we must,
+among other things, distribute most of our net income and meet
+certain income and diversification of investment assets
+requirements.  If we qualify and do elect RIC treatment, in order
+to maintain status as an RIC and obtain the federal income tax
+benefits of such status, we must distribute at least 90% of our
+ordinary income and realized net short-term capital gains in
+excess of realized net long-term capital losses, if any, out of
+the assets legally available for distribution.
+
+In order to avoid certain excise taxes imposed on RICs, we
+currently intend to distribute during each calendar year an
+amount at least equal to the sum of (1) 98% of our ordinary
+income for the calendar year, (2) 98% of our capital gains in
+excess of capital losses for the one-year period ending on
+October 31st and (3) any ordinary income and net capital gains
+for preceding years that were not distributed during such years.
+
+In addition, although we currently intend to distribute realized
+net capital gains (i.e., net long-term capital gains in excess of
+short-term capital losses), if any, at least annually, out of the
+assets legally available for such distributions, we may in the
+future decide to retain such capital gains for investment.
+
+We may not be able to achieve operating results that will allow
+us to make distributions at a specific level or to increase the
+amount of these distributions from time to time.  In addition, we
+may be limited in our ability to make distributions due to the
+asset coverage test for borrowings applicable to us as a business
+
+23
+
+Nortia Capital Partners, Inc.
+                (A Development Stage Company)
+                Notes to Financial Statements
+                      January 31, 2006
+                         (Unaudited)
+
+development company under the Investment Company Act of 1940.
+Accordingly, our ability to elect RIC treatment may be delayed
+indefinitely. No assurance can be provided that the Company will
+meet the requirements for election of RIC treatment in the near
+future or ever. Additionally, if we were to elect and meet such
+requirements for RIC treatment, we would lose the tax benefit of
+our net operating loss carry-forwards for our RIC taxable years,
+except as offsets to certain recognized built-in gains.
+
+In June 2005, we determined to commence an offering of shares of
+our common stock as a BDC in accordance with the exemption from
+the registration requirements of the Securities Act of 1933 as
+provided by Regulation E.  In connection with that prospective
+offer, we filed a Form 1-E with the SEC, which was reviewed in
+the ordinary course and a comment letter was issued.  As a
+result, we currently understand that we may be out of compliance
+with certain of the rules and regulations governing the business
+and affairs, financial status, and financial reporting items
+required of BDCs.  We are making every effort to comply as soon
+as is practicable with the relevant sections of the 1940 Act and
+are working with our counsel to accomplish that compliance.  We
+have not yet sold or issued any shares under our proposed
+offering and, until the completion of this process; we have
+voluntarily suspended the proposed offering.  While we are
+seeking to comply with the 1940 Act, we cannot provide any
+specific time frame for full compliance.  We cannot predict with
+certainty what, if any, regulatory or financial consequences may
+result from the foregoing.
+
+The Company granted and issued common stock for consulting
+services to third parties both before and after its election as a
+BDC on January 4, 2005. Certain of these consulting arrangements
+may not be in compliance with provisions of the 1940 Act
+applicable to BDCs.  Management is taking action to remedy any
+such potential violations which may exist including termination
+of certain consulting agreements and the attempt to reacquire and
+cancel shares issued pursuant to such agreements.  As the result
+of such action, the Company may incur liabilities to the
+consultants which management could not estimate as of the date of
+this Form 10-Q.  The outcome of the above matters could have a
+significant impact on our ability to continue as a going concern.
+
+Prior to October 8, 2004, we had not filed in a timely manner our
+required reports with the SEC for the quarterly periods ended
+July 31, 2003, October 31, 2003, January 31, 2004, July 31, 2004
+and the annual report on Form 10-KSB for the period ended April
+30, 2004.  On October 8, 2004, all of these reports were filed.
+No provision has been recorded in the accompanying financial
+statements for the cost of actions, if any, that may be taken by
+the SEC against us for our non-compliance during this period.
+
+Prior to November, 2005, we had not filed with the SEC in a
+timely manner our required annual report with the SEC for the on
+Form 10-K for the year ended April 30, 2005.  In November, 2005,
+this report was filed.  No provision has been recorded in the
+accompanying financial statements for the cost of actions, if
+any, that may be taken by the SEC against us for our non-
+compliance during this period.
+
+On September 1, 2005, we filed a Complaint against Mirador in the
+Circuit Court of the Fifteenth Judicial Circuit in and for Palm
+Beach County, Florida.  The case is styled Nortia Capital
+Partners, Inc., a Nevada corporation v. Mirador Consulting, Inc.,
+a Florida corporation, Case No. 50 2005 CA 008373 XXXX MB AN.
+The case seeks a Declaratory Judgment from the Court declaring
+that Mirador is not entitled to retain any of its shares in us,
+and that those shares should be cancelled of record.
+
+24
+
+Nortia Capital Partners, Inc.
+                (A Development Stage Company)
+                Notes to Financial Statements
+                      January 31, 2006
+                         (Unaudited)
+
+On November 1, 2005, Mirador filed its Answer and Affirmative
+Defenses to the Complaint, as well as a Counterclaim and Third
+Party Complaint.  The essence of these pleadings is Mirador's
+allegation that it performed the required services under the
+Consulting Agreement, and that it is, therefore, entitled to
+retain its shares in us and to receive $10,000.00 due to it under
+the Consulting Agreement.  Mirador also claims other unspecified
+damages due to our refusal to issue Mirador an original stock
+certificate for additional shares resulting from our stock split
+on or about February 28, 2005.  In its Third Party Complaint,
+Mirador also named our President, among others, and alleged
+causes of action for tortuous interference with contractual
+rights and conspiracy with the Company in respect of such shares.
+Our charter and bylaws provide indemnification rights to our
+executive officers and directors.
+
+We believe that all named third-party defendants have meritorious
+defenses to Mirador's Counterclaims, for the reasons set forth in
+our Complaint.
+
+Note 9.   Related Party Transactions
+- ------------------------------------
+
+At April 30, 2003, we had an accounts payable in the amount of
+$3,113 to a shareholder/director who directly paid certain
+expenses of the Company and these were non-interest bearing and
+do not have any repayment terms. During the twelve months ended
+April 30, 2004, we repaid $2,000 of these advances resulting in a
+balance due of $1,113 at April 30, 2004.  During the three months
+ended July 31, 2004, we repaid $500 of these advances and during
+the three months ended January 31, 2004, we repaid the remaining
+$613.  At January 31, 2006, the balance outstanding is zero.
+
+In June and August 2004, we received advances totaling  $3,000
+from a company controlled by the wife of our Chief Executive
+Officer and was classified in Due to Related Party.  During the
+three months ended January 31, 2005, the $3,000 was repaid and at
+October 31, 2005, the balance is zero.
+
+At January 31, 2005, we had a $26,932 receivable classified as
+due from related party recorded in the financial statements.
+This amount represented employee payroll taxes paid by the
+Company but not withheld from two employees, the Chief Executive
+Officer and the President.  Subsequently, these amounts were
+resolved and the due from related party is zero.
+
+We currently do not have a lease and we are not paying rent on
+our space.  It is being provided to the Company by an
+officer/director free of charge (See Note 8 - Commitments and
+Contingencies).
+
+25
+
+Nortia Capital Partners, Inc.
+                (A Development Stage Company)
+                Notes to Financial Statements
+                      January 31, 2006
+                         (Unaudited)
+
+Note 10.   Financial Information
+- --------------------------------
+
+Following is a schedule of financial highlights for the nine
+months ended January 31, 2006, during which period the Company
+operated as a BDC:
+                                                          Nine
+                                                      Months Ended
+                                                    January 31, 2006
+                                                    ----------------
+Per Share Data:
+- --------------
+
+Net Asset Value at Beginning of Period (1)             $      (0.01)
+
+Net Loss (2)                                                  (0.05)
+Common Stock Transactions (2)                                  0.05
+Compensation expense for officer not being paid                0.00
+Amortization of Deferred Consulting (2)                        0.00
+                                                    ---------------
+Net increase in Stockholders Deficiency                        0.00
+
+Net Asset Value at End of Period                       $      (0.01)
+                                                    ===============
+
+Per Share Market Value at End of Period                $       1.99
+Total Return (2) (3)                                            37%
+Common Stock Outstanding and Issuable
+  at End of Period                                       27,188,609
+
+Ratio/Supplemental Data:
+- -----------------------
+Net Assets at End of Period                            $    (85,723)
+Ratio of Operating Expenses to Net Assets                     1,490%
+Ratio of Net Operating Loss to Net Assets                     1,490%
+
+- ----------------------------------------------------------------------
+
+(1) Based on Total Shares Outstanding and Issuable at beginning
+    of period.
+(2) Based on Total Shares Outstanding and Issuable at end of
+    period
+(3) Total return equals the increase of the ending market value
+    over the April 30, 2005 price of $1.45 per share, divided by the
+    beginning price.
+
+Note 11.   Concentration of Risk
+- --------------------------------
+
+Our financial instruments that are potentially exposed to credit
+risk consist primarily of cash. At certain times during the year
+our demand deposits held in banks exceeded the federally insured
+limit of $100,000.
+
+During fiscal year 2005 and 2004, all revenues received by the
+Company prior to its election as a BDC were derived from one
+customer. As a result, the Company was subject to significant
+risks resulting from its reliance on revenues from a single
+source. To the extent that the Company relies on a single
+customer, or only a few customers in the future, its operations
+and financial results of the Company could be materially impacted
+by the loss of one, or more of such customers.
+
+26
+
+Nortia Capital Partners, Inc.
+                (A Development Stage Company)
+                Notes to Financial Statements
+                      January 31, 2006
+                         (Unaudited)
+
+Note 12.   Subsequent Events
+- ----------------------------
+
+As discussed previously, the Company was in the process of
+initiating a new private placement offering for the issuance of
+up to 1,000,000 units at an offering price of $1.10 per share
+("Unit").  Although the offering was not finalized, the Company
+received $39,600 of proceeds without signed subscription
+agreements as of January 31, 2006.  As a result of there being no
+signed subscription agreements, the $39,600 of proceeds is
+recorded as a liability in the accompanying Financial Statements
+under the caption Stock Subscription Deposit.
+
+Subsequent to January 31, 2006 and through March 1, 2006, the
+Company received an additional $109,900 of proceeds without
+signed subscription agreements.  The Company anticipates that the
+formal offering will be finalized and signed subscription
+agreements received before March 31, 2006 and the proceeds will
+be recorded as common stock.
+
+In January 2006, Bruce A. Hall was appointed the Chief Financial
+Officer of the Company.  As a result of the appointment, Rob
+Hunziker resigned as the Chief Financial Officer of the Company.
+
+On February 10, 2006, the Board of Directors unanimously approved
+a proposal to authorize the Board to withdraw the Company's
+election to be treated as a BDC as soon as  practicable so that
+it may begin  conducting  business as an operating company rather
+than an investment company subject to the 1940 Act.  When the
+Company elected to become a BDC, it was its intention to provide
+debt and equity capital to companies that it believed presented
+opportunities for superior performance through liquidity events,
+recapitalizations, internal growth, product or geographic
+expansion, the completion of complementary add-on acquisitions,
+or industry consolidations. The Company generally expected to
+invest in emerging and development-stage micro-cap companies that
+intended to be listed on U.S. equity markets, including the OTC
+Bulletin Board, but which otherwise lacked the necessary capital
+and depth of management to expand their businesses.
+
+During 2005, the Company conducted a review of its compliance
+with the 1940 Act, and determined that it was not in compliance
+with several important provisions of the 1940 Act, including the
+capital structure requirements.  There is a risk that the SEC
+could take enforcement action against the Company if the SEC
+determines that the Company has not been operating in compliance
+with the 1940 Act.
+
+The Company's significant compliance and remediation costs, in
+terms of both time and dollars, have operated as a drag on the
+Company's resources and in many respects have diverted the
+effective utilization of capital previously raised by the Company
+to effectuate its overall investment business plan.  Further,
+since the Company commenced operating as a BDC, the business,
+regulatory and financial climates have changed, making operations
+as a BDC more challenging and difficult.
+
+Accordingly, based on the foregoing, and after careful
+consideration of the 1940 Act requirements applicable to BDCs, an
+evaluation of the Company's ability to operate as a going concern
+in an "investment company" regulatory environment, the cost of
+1940 Act compliance needs, and other business considerations, the
+Board determined that continuation as a BDC is not in the best
+interests of the Company or its shareholders at the present time.
+Thus, the Company is in the process of withdrawing its election
+to be treated as a BDC by filing a Form N-54C with the SEC as
+soon as practicable.  In doing so, the Company will ensure that
+it does not meet the definition of an investment company under
+the 1940 Act and intends to file an information statement on
+Schedule 14C in lieu of soliciting proxies, and will file that
+
+27
+
+Nortia Capital Partners, Inc.
+                (A Development Stage Company)
+                Notes to Financial Statements
+                      January 31, 2006
+                         (Unaudited)
+
+information statement in preliminary form as soon as practicable
+hereafter.  Subsequent to the filing of our Form N-54C, we intend
+to pursue a business model in which we would provide merchant
+banking-type services for private companies seeking to, among
+other things, become publicly traded.  We would work with issuers
+to position them for the registration of their securities, and
+the practical implications and obligations of public-company
+status.  In pursuing this business model, we will seek to ensure
+that we do not become an "investment company" within the meaning
+of the 1940 Act.
+
+28
+
+Item 2.  Management's Discussion and Analysis of Financial
+Condition and Results of Operations.
+
+The following analysis of our financial condition and results of
+operations contained in this section should be read in
+conjunction with our financial statements and related notes and
+schedules thereto appearing elsewhere in this Quarterly Report,
+as well as the sections entitled "Selected Financial Data" and
+"Management's Discussion and Analysis of Financial Condition and
+Results of Operations" and the financial statements and related
+notes and schedules thereto included in our annual report on Form
+10-K for the year ended April 30, 2005.
+
+This Quarterly Report, including the Management's Discussion and
+Analysis of Financial Condition and Results of Operations,
+contains forward-looking statements that involve substantial
+risks and uncertainties. These forward-looking statements are not
+historical facts, but rather are based on current expectations,
+estimates and projections about our industry, our beliefs, and
+our assumptions. Words such as "anticipates", "expects",
+"intends", "plans", "believes", "seeks", and "estimates" and
+variations of these words and similar expressions are intended to
+identify forward-looking statements. These statements are not
+guarantees of future performance and are subject to risks,
+uncertainties, and other factors, some of which are beyond our
+control and difficult to predict and could cause actual results
+to differ materially from those expressed or forecasted in the
+forward-looking statements, including without limitation:
+
+  *   economic downturns or recessions may impair our
+      portfolio companies' performance;
+
+*   a contraction of available credit and/or an inability
+      to access the equity markets could impair our lending
+      and investment activities;
+
+*   the risks associated with the possible disruption in
+      the Company's operations due to terrorism;
+
+*   future changes in laws or regulations and conditions
+      in our operating areas; and
+
+  *   the risks, uncertainties and other factors we identify
+      from time to time in our filings with the Securities
+      and Exchange Commission, including our Form 10-Ks,
+      Form 10-Qs and Form 8-Ks.
+
+Although we believe that the assumptions on which these forward-
+looking statements are based are reasonable, any of those
+assumptions could prove to be inaccurate, and as a result, the
+forward-looking statements based on those assumptions also could
+be inaccurate. In light of these and other uncertainties, the
+inclusion of a projection or forward-looking statement in this
+Quarterly Report should not be regarded as a representation by us
+that our plans and objectives will be achieved. You should not
+place undue reliance on these forward-looking statements, which
+apply only as of the date of this Quarterly Report. We undertake
+no obligation to update such statements to reflect subsequent
+events.
+
+Overview
+
+Nortia Capital Partners, Inc. ("Nortia", "we", "us", "our",  or
+the "Company") is an Atlanta-based finance company that provides
+debt and equity investment capital to companies in a variety of
+industries which it believes present opportunities for superior
+
+29
+
+performance through liquidity events, internal growth, product,
+or geographic expansion, the completion of complementary add-on
+acquisitions, or industry consolidations.  On January 4, 2005, we
+filed our election to be treated as business development company
+("BDC") under the Investment Company Act of 1940 (the "1940
+Act").
+
+Prior to our election as a BDC, we were formerly organized as BF
+Acquisition Group I, Inc. under the laws of the State of Florida
+on April 15, 1999, as a "shell" company with plans to seek
+opportunistic business partners or acquisition candidates.  Due
+to capital constraints, however, we were unable to continue with
+our business plan.  In March 2001, we ultimately ceased our
+business activities and became dormant through May 2003, whereby
+we incurred only minimal administrative expenses.
+
+During June 2003, we engaged present management, began to raise
+additional capital, and initiated activities to re-establish our
+business.  During our fiscal quarterly period ending July 31,
+2003, we re-entered the development stage, raised additional
+capital and recommenced preparations to implement our business
+plan.
+
+On October 15, 2004, we entered into a Definitive Share Exchange
+Agreement (the "Exchange Agreement") with Global Life Sciences,
+Inc. ("Global"), a publicly traded Nevada corporation whereby it
+was contemplated that we would become a wholly owned subsidiary
+of Global. On December 2, 2004, the Exchange Agreement was
+consummated and, pursuant to its terms, we became a wholly owned
+subsidiary of Global in a transaction accounted for as a
+recapitalization of the Company.  On December 3, 2004, we were
+merged with and into Global.  Subsequent to the recapitalization,
+Global changed its name to "Nortia Capital Partners, Inc."
+
+Operations as a BDC
+
+As a result of its current status as a BDC, the Company planned
+to provide capital and advisory services for liquidity events,
+management buyouts, recapitalizations, and the growth and capital
+needs of emerging and other growth companies.
+
+The Company would invest in emerging and development-stage micro-
+cap companies that intend to be listed on U.S. equity markets,
+including the OTC Bulletin Board, but which lack the necessary
+capital and depth of management to expand their businesses.
+
+As a BDC, the Company's investment objective is to generate both
+capital appreciation, and to a lesser extent, and current income
+from its investments.  In order to achieve this objective, we
+currently intend to invest in public and private companies in a
+wide array of industries, including manufacturing, distribution,
+and service industries, throughout the United States.  We may
+also invest to a limited extent in selected foreign companies, to
+the extent that such investments are consistent with the
+limitations on such investing by BDCs under the 1940 Act.
+Furthermore, we plan to target emerging growth companies that
+have an executable business plan for growth and a well-managed
+infrastructure.
+
+As a BDC, we would make opportunistic investments in companies
+across a variety of industries generally having annual revenues
+of less than $50 million and/or a market capitalization of less
+than $100 million, though we may make other investments from time
+to time outside of these parameters.  While the structure of our
+investments will vary, we intend to invest primarily in equity
+and other convertible securities of portfolio companies. We seek
+to invest in entities that, as a general matter, have been
+operating for at least one year prior to the date of our
+investment and that will, at the time of our investment, have
+employees and revenues. Generally, these companies will be
+undercapitalized and in need of short term bridge financing and
+other financial backing provided by private equity or venture
+capital funds or other similar financial sponsors like Nortia in
+
+30
+
+order to unlock growth in their businesses. We expect that our
+investment capital will generally be used by our portfolio
+companies to finance initial public offerings, recapitalizations,
+management buyouts and sales, organic growth and working capital.
+
+Our investments would generally range between $25,000 and $1
+million, although the investment size may vary depending on the
+nature of the investment, market factors, the capital needs of
+the company, the capital base available to the Company at the
+time, and other factors.
+
+Prior to making an investment, we typically enter into a non-
+binding term sheet with the potential portfolio company. These
+term sheets are generally subject to a number of conditions,
+including but not limited to the satisfactory completion of our
+due diligence investigations of the company's business and legal
+documentation for the investment.
+
+In addition, as a BDC under the 1940 Act, we are required to make
+available significant managerial assistance, for which we may
+receive fees, from our portfolio companies. These fees would be
+generally non-recurring, however in some instances they may have
+a recurring component. We have received no fee income for
+managerial assistance to date.
+
+In July 2005, the Company announced the execution of a definitive
+Share Exchange Agreement by and among Holley Communications,
+Inc., a Delaware corporation and wholly-owned subsidiary of the
+Company (the "Investment Sub"), Holley Communications Canada,
+Inc., a Canadian Corporation ("Holley Canada"), and us.  Pursuant
+to the Share Exchange Agreement and subject to certain closing
+conditions, the Investment Sub will issue 28,500,000 shares of
+its common stock, equivalent to 95% of its then-issued and
+outstanding common stock, to Holley Canada.  In exchange, Holley
+Canada will transfer and assign all of Holley Canada's equity
+interest in Holley Communications Investment, Inc., a British
+Virgin Islands company ("Holley Communications"), to the
+Investment Sub.  As of the date of the accompanying financial
+statements, this transaction had not yet been consummated.
+Management anticipates that following the completion of
+transactions contemplated by the Share Exchange Agreement, the
+Company will register (or cause to be registered) and distribute
+as a special dividend to the stockholders of the Company,
+substantially all of the Company's shares in the Investment Sub.
+Holley Communications is a provider of wireless communication
+technology application and integrated solutions in China.
+Specifically, it is engaged in two segments of the mobile
+communications business:  a handset segment and a system
+integration segment.  Its handset segment focuses on research and
+development, operation, distribution and retail and provides
+customers with handset solutions, reference design, module and
+handset.  Its system segment focuses on voice quality enhancement
+system application, integration, sales and engineering services.
+
+Recent Developments
+
+On February 10, 2006, the Board of Directors determined that it
+is in the best interest of the Company and its shareholders to
+withdraw its election to be regulated as a BDC under the 1940
+Act. When the Company elected to become a BDC, it was its
+intention to provide debt and equity capital to companies that it
+believed presented opportunities for superior performance through
+liquidity events, recapitalizations, internal growth, product, or
+geographic expansion, the completion of complementary add-on
+acquisitions, or industry consolidations. The Company generally
+expected to invest in emerging and development-stage micro-cap
+companies that intended to be listed on U.S. equity markets,
+including the OTC Bulletin Board, but which otherwise lacked the
+necessary capital and depth of management to expand their
+businesses.
+
+During 2005, the Company determined that it was not in compliance
+with several important provisions of the 1940 Act, including, the
+capital structure requirements. The Company's significant
+compliance and remediation costs, in terms of both time and
+dollars, have operated as a drag on the Company's resources and
+
+31
+
+in many respects have diverted the effective utilization of
+capital previously raised by the Company to effectuate its
+overall investment business plan.
+
+Accordingly, based on the foregoing, and after careful
+consideration of the 1940 Act requirements applicable to BDCs, an
+evaluation of the Company's ability to operate as a going concern
+in an investment company regulatory environment, the cost of 1940
+Act compliance needs, and other business considerations, the
+Board determined that continuation as a BDC is not in the best
+interests of the Company or its shareholders at the present time.
+Thus, the Company is in the process of withdrawing its election
+to be regulated as a BDC under the 1940 Act as soon as
+practicable.  In doing so, the Company will ensure that it does
+not meet the definition of an investment company under the 1940
+Act and intends to file an information statement on Schedule 14C
+in lieu of soliciting proxies, and will file that information
+statement in preliminary form as soon as practicable hereafter.
+Subsequent to the filing of our Form N-54C, we intend to pursue a
+business model in which we would provide merchant banking-type
+services for private companies seeking to, among other things,
+become publicly traded.  We would work with issuers to position
+them for the registration of their securities, and the practical
+implications and obligations of public-company status.  In
+pursuing this business model, we will seek to ensure that we do
+not become an "investment company" within the meaning of the 1940
+Act.
+
+Going Concern
+
+Our long-term viability as a going concern is dependent on
+certain key factors, as follows:
+
+  *  The ability to continue to obtain sources of outside
+     financing to support near term operations and to allow us to
+     continue to make investments.
+
+  *  The ability to increase profitability and sustain a cash
+     flow level that will ensure support for continuing operations.
+
+As discussed in Note 3 to our financial statements contained
+herein, the Company's recurring losses from operations - a net
+loss of $1,276,613 and net cash used in operations of $1,210,732
+for the nine months ended January 31, 2006, and accumulated
+deficit of $12,398, a deficit accumulated during the development
+stage of $6,046,790 and stockholders' deficit of $85,723 at
+January 31, 2006 - raise substantial doubt about our ability to
+continue as a going concern.
+
+Our financial statements do not include any adjustments to
+reflect the possible effects on recoverability and classification
+of assets or the amounts and classification of liabilities that
+may result from our inability to continue as a going concern.
+
+Our ability to continue as a going concern is dependent on the
+ability further to implement our business plan, raise capital,
+and generate revenues.  We presently do not have sufficient
+revenues to cover our incurred expenses.  Our management
+recognizes that we must generate additional resources to enable
+us to pay our obligations as they come due and that we must
+ultimately successfully implement our BDC business plan and
+achieve profitable operations.  We cannot assure you that we will
+be successful in any of these activities.  Should any of these
+events not occur, our financial condition will be materially
+adversely affected.
+
+Critical Accounting Estimates and Policies
+
+The methods, estimates and judgment we use in applying our most
+critical accounting policies have a significant impact on the
+results we report in our financial statements.  The SEC has
+defined the most critical accounting policies as the ones that
+are most important to the portrayal of our financial condition
+
+32
+
+and results, and require us to make our most difficult and
+subjective judgments, often as a result of the need to make
+estimates of matters that are inherently uncertain.  Based upon
+this definition, our most critical estimates include the
+evaluation of any beneficial conversion feature for our
+debentures, valuation of our financial instruments, valuation of
+common stock for services, valuation of our investments and the
+valuation allowance for deferred tax assets.  We also have other
+key accounting estimates and policies, but we believe that these
+other policies either do not generally require us to make
+estimates and judgments that are as difficult or as subjective,
+or it is less likely that they would have a material impact on
+our reported results of operations for a given period.  For
+additional information, see Note 2 "Summary of Significant
+Accounting Policies" in the notes to our financial statements
+contained in this Quarterly Report.  Although we believe that our
+estimates and assumptions are reasonable, they are based upon
+information presently available.  Actual results may differ
+significantly from these estimates.
+
+Evaluation of Beneficial Conversion Feature in Debentures
+
+In accordance with EITF Issue 98-5, as amended by EITF 00-27, we
+must evaluate the potential effect of any beneficial conversion
+terms related to convertible instruments such as convertible debt
+or convertible preferred stock.  The Company has issued several
+debentures and a beneficial conversion may exist if the holder,
+upon conversion, may receive instruments that exceed the value of
+the convertible instrument.  Valuation of the benefit is
+determined based upon various factors including the valuation of
+equity instruments, such as warrants, that may have been issued
+with the convertible instruments, conversion terms, value of the
+instruments to which the convertible instrument is convertible,
+etc.  Accordingly, the ultimate value of the beneficial feature
+is considered an estimate due to the partially subjective nature
+of valuation techniques.
+
+Fair Value of Financial Instruments
+
+We define the fair value of a financial instrument as the
+amount at which the instrument could be exchanged in a current
+transaction between willing parties. The carrying value of
+accounts receivable, accounts payable and accrued liabilities
+approximates fair value because of the short maturity of those
+instruments. The estimated fair value of our other obligations
+is estimated based on the current rates offered to us for similar
+maturities.  Based on prevailing interest rates and the short-
+term maturity of all of our indebtedness, management believes
+that the fair value of our obligations approximates book value
+at January 31, 2006.
+
+Investments
+
+Investments in securities of unaffiliated issuers represent
+holdings of less than 5% of the issuer's voting common stock.
+Investments in and advances to affiliates are presented as (i)
+majority-owned, if holdings, directly or indirectly, represent
+over 50% of the issuer's voting common stock, (ii) minority
+owned other controlled affiliates if the holdings, directly or
+indirectly, represent over 25% and up to 50% of the issuer's
+voting common stock and (iii) minority owned other non-controlled
+affiliates if the holdings, directly or indirectly, represent 5%
+to 25% of the issuer's voting common stock.  Investments - other
+than securities represent all investments other than in securities
+of the issuer.
+
+Investments in securities or other than securities of privately
+held entities are initially recorded at their original cost as
+of the date the Company obtained an enforceable right to demand
+the securities or other investment purchased and incurred an
+enforceable obligation to pay the investment price.
+
+As a BDC, for financial statement purposes, investments are
+recorded at their value in our financial statements. Value, as
+defined in Section 2(a)(41) of the 1940 Act, is (i) the market
+price for those securities for which a market quotation is
+readily available and (ii) for all other securities and assets,
+fair value as determined in good faith by the board of directors.
+Because there is typically no readily available market value for
+the investments in our portfolio, we value substantially all of
+our investments at fair value as determined in good faith by our
+board of directors pursuant to a valuation policy and consistent
+valuation process. Due to the inherent uncertainty of these
+valuations, the fair value of our investments may differ
+significantly from the values that would have been used had a
+ready market for the investments existed and the differences may
+be material. Our valuation methodology includes the examination
+of, among other things, the underlying portfolio company
+performance, financial condition and market changing events that
+impact valuation.  Realized gains (losses) from the sale of
+investments and unrealized gains (losses) from the valuation of
+investments are reflected in operations during the period
+incurred.
+
+Valuation Allowance For Deferred Tax Assets And Liabilities
+
+33
+
+In assessing the recoverability of deferred tax assets and
+liabilities, management considers whether it is more likely than
+not that some portion or all of the deferred tax assets and
+liabilities will be realized.
+
+34
+
+Results of Operations
+
+Financial Analysis of the Three and Nine Months Ended January 31,
+2006 and 2005
+- -----------------------------------------------------------------
+
+[Note:  To help the reader better understand our 2006 results,
+- --------------------------------------------------------------
+all references below of 2006 represent the three and six months
+- ---------------------------------------------------------------
+ended January 31, 2006 as a BDC and all references to 2005
+- ----------------------------------------------------------
+represent the three and nine months ended January 31, 2005.  The
+- ----------------------------------------------------------------
+three months ended January 31, 2005 is as a combination of the
+- --------------------------------------------------------------
+one month ended January 31, 2005 (operations as a BDC) and the
+- --------------------------------------------------------------
+two months ended December 31, 2004 (operations prior to becoming
+- ----------------------------------------------------------------
+a BDC).  The nine months ended January 31, 2005 is as a
+- -------------------------------------------------------
+combination of the one month ended January 31, 2005 (operations
+- ---------------------------------------------------------------
+as a BDC) and the eight months ended December 31, 2004
+- ------------------------------------------------------
+(operations prior to becoming a BDC)]
+
+35
+
+Three Months Ended January 31, 2006 Compared with Three Months
+- --------------------------------------------------------------
+Ended January 31, 2005
+- ----------------------
+
+Revenues:
+- ---------
+
+There was no revenue for either 2006 or 2005.
+
+Operating Expenses:
+- -------------------
+
+Operating expenses decreased $349,859, or 48%, to $372,711 for
+2006 from $722,570 for 2005.  The decrease was primarily the
+result of a $224,100 decrease in director's fees, a $112,175
+decrease in compensation, a $45,331 decrease in impairment of
+investments and a $40,799 decrease in consulting.  These were
+offset by a $126,316 increase in professional expenses.  The
+decrease in director's fees, compensation and consulting was
+primarily from the issuance of stock for services in 2005 with no
+corresponding amount in 2006.  The decrease in impairment of
+investments was because there was no corresponding amount in
+2006.  The increase in professional expenses was primarily from
+an increase in accounting and legal as a result of the Company
+becoming a BDC and the resulting increased requirements for
+professional services.
+
+Other Income (Expense):
+- -----------------------
+
+Other income increased $47 or 946% to $52 of income for 2006 from
+$5 of income in 2005.  The increase was due to an increase in
+interest income.
+
+Nine Months Ended January 31, 2006 Compared with Nine Months
+- ------------------------------------------------------------
+Ended January 31, 2005
+- ----------------------
+
+Revenues:
+- ---------
+
+Revenue decreased $153,699, or 100%, to zero for 2006 from
+$153,699 for 2005.  In September 2003, we entered into a
+consulting contract with Global Life Sciences, Inc. ("Global"), a
+publicly traded company.  We provided consulting services to
+Global under this contract in exchange for $240,000 to be paid to
+us in the form of 1,200,000 restricted shares.  In addition, we
+received an additional 300,000 free trading shares of their
+common stock, valued at $0.20 per share, based on the original
+agreement date.  The term of the consulting agreement was for
+twelve (12) months and the common stock was payable on a
+quarterly basis.  In January 2004, we received 300,000 shares and
+in July 2004, we received the remaining 1,200,000 shares as
+compensation for services.  For the nine months ended January 31,
+2005, we recorded $153,699 of the consulting fees as revenue.  We
+recorded the fees as revenue, pro-rata over the contract term in
+accordance with EITF 00-8 "Accounting by a Grantee for an Equity
+Instrument to be received in conjunction with Providing Goods or
+Services" based on the $0.20 fair value on the contract date.
+
+Operating Expenses:
+- -------------------
+
+Operating expenses increased $316,169, or 33%, to $1,277,003 for
+2006 from $960,833 for 2005.  The increase was primarily the
+result of a $173,755 increase in compensation, a $287,982
+increase in professional expenses and a $127,256 increase in
+general and administrative expenses.  The increase in
+compensation was primarily from salaries paid to two officers in
+2006 with no corresponding payment in 2005.  The increase in
+professional expenses was primarily from an increase in
+accounting and legal as a result of the Company becoming a BDC
+and the resulting increased requirements for professional
+services.  The increase in general and administrative expenses
+was primarily from increased costs associated with operating as a
+BDC under the 1940 Act.
+
+36
+
+Other Income (Expense):
+- -----------------------
+
+Other expense decreased $255,580 or 99% to $390 of income for
+2006 from $255,190 of expense in 2005.  The decrease in expense
+was primarily due to the fact that in 2005, we had a $64,738 loss
+on available for sale securities and $195,000 other than
+temporary loss on available for sale securities.
+
+Liquidity and Capital Resources
+
+To continue with our business plan, we will require additional
+short-term working capital and we have not generated sufficient
+cash to fund our operating activities for the next twelve months.
+Presently, our only source of cash is from external financing in
+the form of debt or the issuance of our common stock.  We cannot
+assure you that that we will obtain sufficient proceeds, if any,
+or that borrowings under any interim financing we are able to
+secure will be sufficient to meet our projected cash flow needs.
+
+Cash was $17,491 at January 31, 2006 as compared to $11,703 at
+April 30, 2005.  The increase in cash was the result of
+$1,229,420 of net proceeds from the sale of common stock, $39,600
+of net proceeds from a stock subscription deposit, offset by
+$1,210,732 of cash used in operations and $52,500 for the
+issuance of a note receivable.  The cash used in operations was
+primarily the result of $1,276,613 of net loss for the nine
+months ended January 31, 2006.
+
+Net assets increased $43,906 from a net liability position of
+$129,629 at April 30, 2005 to a net liability position of $85,723
+at January 31, 2006.
+
+Operating Activities:  Cash used in operating activities was
+- ---------------------
+$1,210,732 for 2006 as compared to $339,687.  The increase in
+cash used resulted primarily from the increase in the net loss.
+
+Investing Activities:  Cash used in investing activities was
+- ---------------------
+$52,500 in 2006 as compared to cash provided by investing
+activities of $14,405 in 2005.  In 2006, $52,500 of cash was used
+from the issuance of a note receivable.  In 2004, $14,405 of cash
+provided was proceeds from the sale of available for sale
+securities.
+
+Financing Activities:  Cash flows provided by financing
+- ---------------------
+activities was $1,269,020 for 2006 as compared to $408,000 for
+2005.  The increase in cash provided by financing activities was
+due to $1,229,420 of cash proceeds received by the Company from
+the sale of common stock and $39,600 from the issuance of a stock
+subscription deposit in 2006.  In 2005, $247,000 of cash proceeds
+were received from the issuance of debentures and $188,000 of
+cash proceeds were received from the issuance of promissory
+notes.
+
+Our principal uses of cash to date have been for operating
+activities and we have funded our operations since entering a new
+development stage on May 1, 2003 by incurring indebtedness from
+the issuance of debentures, promissory notes and the sale of our
+common stock.
+
+The ability to implement our business plan successfully will be
+heavily dependent on securing additional capital from the
+issuance of our common stock or through debt.  There is no
+assurance that additional equity or debt financing will be
+available on terms acceptable to our management.  Our ability to
+obtain additional financing depends on many factors beyond our
+control, including the state of the capital markets, the implied
+market value of our common stock, and the prospects for our
+business.  The necessary additional financing may not be
+available to us or may be available only on terms that would
+result in further dilution to the current owners of our common
+stock. Failure to obtain commitments for financing would have a
+material adverse effect on our business, results of operations
+and financial condition. If the financing we require to sustain
+our working capital needs is unavailable or insufficient or we do
+not receive the necessary financing, we may be unable to continue
+as a going concern.
+
+37
+
+We obtained $1,229,420 of proceeds from the sale of common stock
+and $39,600 from a stock subscription deposit in 2006 and we have
+utilized these funds to meet our current obligations.  We are
+planning on obtaining additional cash proceeds in the next twelve
+months from the issuance of common stock.
+
+Debt
+
+We had no debt outstanding at January 31, 2006.
+
+Equity Financing
+
+In April 2005, the Company initiated a private placement offering
+for the issuance of up to 1,000,000 units at an offering price of
+$1.10 per share ("Unit").  Each Unit consisted of one share of
+the Company's $0.001 par value common stock and one two-year
+warrant to purchase the Company's common stock at an exercise
+price of $2.00 per share.  The offering included an option for an
+over-allotment of up to 200,000 units or a maximum issuance of
+1,200,000 units.  Effective January 16, 2005, the offering was
+terminated and in total, the Company received $1,315,770 of
+proceeds from the issuance of the Units, representing 1,196,155
+shares of common stock and 1,196,155 two-year warrants to
+purchase common stock at $2.00 per share.
+
+In January 2006, the Company was in the process of initiating a
+new private placement offering for the issuance of up to
+1,000,000 units at an offering price of $1.10 per share ("Unit").
+Although the offering was not finalized, the Company received
+$39,600 of proceeds without signed subscription agreements as of
+January 31, 2006.  The Company anticipates that the formal
+offering will be finalized and signed subscription agreements
+received before March 31, 2006.  As a result of there being no
+signed subscription agreements, the $39,600 of proceeds discussed
+above have been recorded as a liability in the accompanying
+Financial Statements under the caption Stock Subscription
+Deposit.
+
+In June 2005, the Company filed Form 1-E with the SEC of the
+Company's intent to offer up to 600,000 shares of common stock at
+$0.25 per share to holders of the Company's promissory notes in
+exchange therefore.  As of the date of this filing, no shares
+have been issued under the 1-E in exchange for the promissory
+notes.
+
+Contractual Obligations and Commitments
+
+We have no contractual obligations and commitments at January 31,
+2006.
+
+Off-Balance Sheet Arrangements
+
+We have no off-balance sheet arrangements at January 31, 2006.
+
+Contingent Liabilities
+
+From time to time we may become subject to proceedings, lawsuits
+and other claims in the ordinary course of business including
+proceedings related to environmental and other matters.  Such
+matters are subject to many uncertainties, and outcomes are not
+predictable with assurance. The matters below may result in
+certain contingent liabilities to the Company as a result of
+potential actions by the SEC or others against the Company.  Such
+contingent liabilities could not be estimated by management as of
+the date of this Quarterly Report.  The outcome of the matters
+below could have a significant impact on our ability to continue
+as a going concern.
+
+38
+
+We currently do not have a lease and we are not paying rent for
+our office space. It is being provided to the Company by an
+officer/director free of charge.  Usage of this office space and
+the related value is de minimis.  Therefore, no expense has been
+recorded in the accompanying financial statements.  We expect we
+will have to lease more substantial office space in the near
+future and that the cost of the space may be material to our
+operations.
+
+In June 2005, we determined to commence an offering of shares of
+our common stock as a BDC in accordance with the exemption from
+the registration requirements of the Securities Act of 1933 as
+provided by Regulation E.  In connection with that prospective
+offer, we filed a Form 1-E with the SEC, which was reviewed in
+the ordinary course and a comment letter was issued.  As a
+result, we currently understand that we may be out of compliance
+with certain of the rules and regulations governing the business
+and affairs, financial status, and financial reporting items
+required of BDCs.  We have made every reasonable effort to comply
+as soon as is practicable with the relevant sections of the 1940
+Act and worked with our counsel to accomplish that compliance.
+We have not yet sold or issued any shares under our proposed
+offering and have voluntarily suspended the proposed offering.
+We cannot predict with certainty what, if any, regulatory or
+financial consequences may result from the foregoing.
+
+The Company granted and issued common stock for consulting
+services to third parties both before and after its election as a
+BDC on January 4, 2005. Certain of these consulting arrangements
+may not be in compliance with provisions of the 1940 Act
+applicable to BDCs.  Management is taking action to remedy any
+such potential violations which may exist including termination
+of certain consulting agreements and the attempt to reacquire and
+cancel shares issued pursuant to such agreements.  As the result
+of such action, the Company may incur liabilities to the
+consultants which management could not estimate as of the date of
+this Form 10-Q.  The outcome of the above matters could have a
+significant impact on our ability to continue as a going concern.
+
+Prior to October 8, 2004, we had not filed in a timely manner our
+required reports with the SEC for the quarterly periods ended
+July 31, 2003, October 31, 2003, January 31, 2004, July 31, 2004
+and the annual report on Form 10-KSB for the period ended April
+30, 2004.  On October 8, 2004, all of these reports were filed.
+No provision has been recorded in the accompanying financial
+statements for the cost of actions, if any, that may be taken by
+the SEC against us for our non-compliance during this period.
+
+Prior to November, 2005, we had not filed with the SEC in a
+timely manner our required annual report with the SEC on Form 10-
+K for the year ended April 30, 2005.  In November, 2005, this
+report was filed.  No provision has been recorded in the
+accompanying financial statements for the cost of actions, if
+any, that may be taken by the SEC against us for our non-
+compliance during this period.
+
+On September 1, 2005, we filed a Complaint against Mirador in the
+Circuit Court of the Fifteenth Judicial Circuit in and for Palm
+Beach County, Florida.  The case is styled Nortia Capital
+Partners, Inc., a Nevada corporation, v. Mirador Consulting,
+Inc., a Florida corporation, Case No. 50 2005 CA 008373 XXXX MB
+AN.  The case seeks a Declaratory Judgment from the Court
+declaring that Mirador is not entitled to retain any of its
+shares in us, and that those shares should be cancelled of
+record.
+
+On November 1, 2005, Mirador filed its Answer and Affirmative
+Defenses to the Complaint, as well as a Counterclaim and Third
+Party Complaint.  The essence of these pleadings is Mirador's
+allegation that it performed the required services under the
+Consulting Agreement, and that it is, therefore, entitled to
+retain its shares in us and to receive $10,000.00 due to it under
+the Consulting Agreement.  Mirador also claims other unspecified
+damages due to our refusal to issue Mirador an original stock
+certificate for additional shares resulting from our stock split
+on or about February 28, 2005.  In its Third Party Complaint,
+
+39
+
+Mirador also named our President, among others, and alleged
+causes of action for tortuous interference with contractual
+rights and conspiracy with the Company in respect of such shares.
+Our charter and bylaws provide indemnification rights to our
+executive officers and directors.
+
+We believe that all named third-party defendants have meritorious
+defenses to Mirador's Counterclaims, for the reasons set forth in
+our Complaint.
+
+On February 10, 2006, the Board of Directors determined that it
+is in the best interest of the Company and its shareholders to
+withdraw its election to be reflected as a BDC. When the Company
+elected to become a BDC, it was its intention to provide debt and
+equity capital to companies that it believed presented
+opportunities for superior performance through liquidity events,
+recapitalizations, internal growth, product, or geographic
+expansion, the completion of complementary add-on acquisitions,
+or industry consolidations. The Company generally expected to
+invest in emerging and development-stage micro-cap companies that
+intended to be listed on U.S. equity markets, including the OTC
+Bulletin Board, but which otherwise lacked the necessary capital
+and depth of management to expand their businesses.
+
+During 2005, the Company determined that it was not in compliance
+with several important provisions of the 1940 Act, including, the
+capital structure requirements. The Company's significant
+compliance and remediation costs, in terms of both time and
+dollars, have operated as a drag on the Company's resources and
+in many respects have diverted the effective utilization of
+capital previously raised by the Company to effectuate its
+overall investment business plan.
+
+Accordingly, based on the foregoing, and after careful
+consideration of the 1940 Act requirements applicable to BDCs, an
+evaluation of the Company's ability to operate as a going concern
+in an "investment company" regulatory environment, the cost of
+1940 Act compliance needs, and other business considerations, the
+Board determined that continuation as a BDC is not in the best
+interests of the Company or its shareholders at the present time.
+Thus, the Company is in the process of withdrawing its election
+to be treated as a BDC as soon as practicable.  In doing so, the
+Company will ensure that it does not meet the definition of an
+investment company under the 1940 Act and intends to file an
+information statement on Schedule 14C in lieu of soliciting
+proxies, and will file that information statement in preliminary
+form as soon as practicable hereafter.  Subsequent to the filing
+of our Form N-54C, we intend to pursue a business model in which
+we would provide merchant banking-type services for private
+companies seeking to, among other things, become publicly traded.
+We would work with issuers to position them for the registration
+of their securities, and the practical implications and
+obligations of public-company status.  In pursuing this business
+model, we will seek to ensure that we do not become an
+"investment company" within the meaning of the 1940 Act.
+
+Recent Accounting Developments
+
+The Financial Accounting Standards Board ("FASB") has recently
+issued several new accounting pronouncements, which may apply to
+the Company.
+
+In December 2004, the FASB issued SFAS No. 153, entitled
+Exchanges of Non-monetary Assets - An Amendment of APB Opinion
+No.29.  SFAS No. 153 amends Opinion 29 to eliminate the exception
+for non-monetary exchanges of non-monetary assets that do not
+have commercial substance.  A non-monetary exchange has
+commercial substance if the future cash flows of the entity are
+expected to change significantly as a result of the exchange. The
+adoption of SFAS 153 did not impact the financial statements.
+
+In December 2004, the FASB issued SFAS No. 123 (Revised),
+entitled Share-Based Payment.  This revised Statement eliminates
+the alternative to use APB Opinion No. 25's intrinsic value
+
+40
+
+method of accounting that was provided in SFAS No. 123 as
+originally issued.  Under Opinion 25, issuing stock options to
+employees generally resulted in recognition of no compensation
+cost.  This Statement requires entities to recognize the cost of
+employee services received in exchange for awards of equity
+instruments based on the grant-date fair value of those awards.
+For public companies that file as a small business issuer, this
+Statement is effective as of the beginning of the first interim
+or annual reporting period that begins after December 15, 2005.
+The adoption of SFAS 123 (Revised) will have an impact the
+financial statements if the Company issues stock options to the
+employees in the future.
+
+Item 3.  Quantitative and Qualitative Disclosures About Market
+Risk
+
+There has been no material change in our quantitative or
+qualitative disclosures about market risk since April 30, 2005.
+
+Item 4.  Controls and Procedures
+
+As of January 31, 2006, we, including our Chief Executive Officer
+and Chief Financial Officer, evaluated the effectiveness of the
+design and operation of our disclosure controls and procedures
+(as defined in Rule 13a-15(e) under the Securities Exchange Act
+of 1934). Based on that evaluation, our management, including the
+Chief Executive Officer and Chief Financial Officer, concluded
+that our disclosure controls and procedures were effective in
+timely alerting management, including the Chief Executive Officer
+and Chief Financial Officer, of material information about us
+required to be included in periodic SEC filings. However, in
+evaluating the disclosure controls and procedures, management
+recognized that any controls and procedures, no matter how well
+designed and operated, can provide only reasonable assurance of
+achieving the desired control objectives, and management
+necessarily was required to apply its judgment in evaluating the
+cost-benefit relationship of possible controls and procedures.
+
+There have been no changes in our internal control over financial
+reporting (as defined in Rule 13a-15(f) under the Securities
+Exchange Act of 1934) that occurred during the quarter ended
+January 31, 2006 that have materially affected, or are reasonably
+likely to materially affect, our internal control over financial
+reporting.
+
+                             PART II
+
+                        OTHER INFORMATION
+
+Item 1.  Legal Proceedings
+
+On April 21, 2005, Mirador Consulting, Inc., filed a Complaint
+against Nortia Capital Partners, a Florida corporation, in the
+County Court in and for Palm Beach County, Florida, styled as
+Mirador Consulting, Inc., a Florida corporation, Plaintiff, vs.
+Nortia Capital Partners, Inc., a Florida corporation, Defendant,
+Case No. 502005CC004932XXXXSB DIV RD.  Mirador alleged causes of
+action for Breach of Contract and Unjust Enrichment/Quantum
+Meruit and sought $10,000.00 in damages for payments allegedly
+due to Mirador pursuant to a Consulting Agreement between Mirador
+and us dated December 22, 2004.  Pursuant to the terms of that
+Agreement, Mirador received shares in our Company.
+
+On December 6, 2004, 16 days prior to the execution of the
+Consulting Agreement, the defendant (the Florida corporation) was
+merged with and into us and, as a result, ceased to exist.
+
+In June 2005, the court entered a judgment of default against the
+Florida defendant.  A motion to set aside the judgment against
+the defendant was granted on August 30, 2005.  A Motion to
+
+41
+
+Dismiss the Complaint With Prejudice was filed on September 16,
+2005, and remains pending. We believe that both the Florida
+defendant and we have meritorious defenses to the Complaint.
+
+On September 1, 2005, we filed a Complaint against Mirador in the
+Circuit Court of the Fifteenth Judicial Circuit in and for Palm
+Beach County, Florida.  The case is styled Nortia Capital
+Partners, Inc., a Nevada corporation v. Mirador Consulting, Inc.,
+a Florida corporation, Case No. 50 2005 CA 008373 XXXX MB AN.
+The case seeks a Declaratory Judgment from the Court declaring
+that Mirador is not entitled to retain any of its shares in our
+Company, and that those shares should be cancelled of record.
+
+On November 1, 2005, Mirador filed its Answer and Affirmative
+Defenses to the Complaint, as well as a Counterclaim and Third
+Party Complaint.  The essence of these pleadings is Mirador's
+allegation that it performed the required services under the
+Consulting Agreement, and that it is, therefore, entitled to
+retain its shares in our Company and to receive $10,000.00 due to
+it under the Consulting Agreement.  Mirador also claims other
+unspecified damages due to our Company's refusal to issue Mirador
+an original stock certificate for additional shares resulting
+from our Company's stock split on or about February 28, 2005.  In
+its Third Party Complaint, Mirador also named our President,
+among others, and alleged causes of action for tortuous
+interference with contractual rights and conspiracy with the
+Company in respect of such shares.  Our charter and bylaws
+provide indemnification rights to our executive officers and
+directors.
+
+We believe that all named third-party defendants have meritorious
+defenses to Mirador's Counterclaims, for the reasons set forth in
+our Complaint.
+
+Item 1A.   Risk Factors
+
+Risk Factors
+
+An investment in our common stock is highly speculative, involves
+a high degree of risk, and should be considered only by those
+persons who are able to bear the economic risk of their
+investment for an indefinite period.  The risks set forth below
+are not the only risks we face, and we face other risks which we
+have not yet identified, which we do not currently deem material
+or which are not yet predictable. If any of the following risks
+occur, our business, financial condition and results of
+operations could be materially adversely affected. In such case,
+our net asset value and the trading price of our common stock
+could decline, and you may lose all or part of your investment.
+The following specific risks, not listed in any particular order
+of priority, should be considered carefully in evaluating the
+Company, its business, and its common stock.
+
+   We are highly dependent upon management, none of whom has
+- ------------------------------------------------------------
+significant experience in managing a BDC.  The Company's future
+- -----------------------------------------
+success depends on the continued contribution of key management,
+some of whom would be difficult to replace.  The Company's growth
+and profitability depend on its ability to attract and retain
+skilled employees and on the ability of its officers and key
+personnel to manage the assets successfully and to provide
+management assistance to the Company's investee companies.  If
+the services of these individuals would be unavailable to the
+Company for any reason, the Company would be required to obtain
+other executive personnel to manage and operate the Company and
+to provide management assistance to the Company's investee
+companies.  In such event, there can be no assurance that the
+Company would be able to employ qualified persons on terms
+favorable to the Company.  Further, although certain of our
+directors or executive officers have experience in corporate
+finance and mergers and acquisitions transactions, none of them
+has any significant operational BDC experience.
+
+  Our financial condition and results of operations will depend
+  -------------------------------------------------------------
+on our ability to manage our future growth effectively.   Nortia
+- -------------------------------------------------------
+
+42
+
+only recently recommenced its business operations as a
+development stage company and elected to be treated as a BDC. As
+such, with a limited operating history, the Company is subject to
+the business risks and uncertainties associated with any new
+business enterprise, including the lack of experience in managing
+or operating a business development company. Our ability to
+achieve our investment objective will depend on our ability to
+grow, which will depend, in turn, on our management's ability to
+identify, analyze, invest in and finance companies that meet our
+investment criteria.  Accomplishing this result on a cost-
+effective basis is largely a function of our business plan,
+management's ability to effectively structure investments, its
+ability to provide competent, attentive and efficient services
+and our access to financing on acceptable terms. Failure to
+manage our future growth effectively could have a material
+adverse effect on our business, financial condition and results
+of operations.
+
+  Any failure on our part to maintain our status as a business
+  ------------------------------------------------------------
+development company would reduce our operating flexibility.   If
+- -----------------------------------------------------------
+we do not remain a BDC, we might be regulated as a closed-end
+investment company under the 1940 Act, which would subject us to
+substantially more regulatory restrictions under the 1940 Act and
+correspondingly decrease our operating flexibility.
+
+       This is a highly speculative investment.  Ownership of our
+       ----------------------------------------
+common stock is extremely speculative and involves a high degree
+of economic risk, which may result in a complete loss of
+investment.  Only persons who have no need for liquidity and who
+are able to withstand a loss of all or substantially all of their
+investment should purchase our common stock.
+
+       We suffered a significant operating loss in our 2005
+       ----------------------------------------------------
+fiscal year and during the nine months ended January 31, 2006 of
+- ----------------------------------------------------------------
+our 2006 fiscal year.  During the year ended April 30, 2005, our
+- ---------------------
+net loss for the four month period ending April 30, 2005 in which
+we operated as a BDC was $3,704,595, including a loss of
+$2,738,559 for the exchange of debt securities to shares of our
+common stock.  During the first nine months of our current fiscal
+year, our net loss was $1,276,613.  There can be no assurance
+that we have sufficient economic resources or that such resources
+will be available to us on terms and at times that are necessary
+or acceptable, if at all.  There is no assurance that future
+revenues of the Company will ever be significant or that the
+Company's operations will ever be profitable.
+
+       Risk involved in new, developing businesses in which the
+       --------------------------------------------------------
+Company will invest.  The Company's initial investment portfolio
+- --------------------
+is expected to consist primarily of high-risk investments in new
+and developing companies.  Successful achievement of the
+investment objectives of the Company is dependent upon the growth
+in value of the securities of these unseasoned companies.
+Whether this appreciation in value will occur depends upon
+numerous factors outside the control of the Company.  The Company
+anticipates that it may take significant investment positions in
+companies that are listed or to be listed on U.S. Equity Markets,
+and the OTC Bulletin Board.  Moreover, the Company's task of
+identifying and helping to build successful new and emerging
+enterprises is difficult.  In light of the Company's lack of
+operating history as a BDC, the likelihood of the future success
+of the Company must be evaluated in light of the problems,
+expenses, difficulties, risks, and complications frequently
+encountered in connection with similarly situated companies.
+There can be no assurance that the Company will be successful in
+identifying and developing these ventures.
+
+       Current management controls our outstanding Common Stock.
+       ---------------------------------------------------------
+Our officers and directors own in excess of approximately 48% of
+the issued and outstanding Common Stock.  It can be expected that
+the officers and directors, by virtue of their percentage share
+ownership, will be able to continue to control the Company's
+Board of Directors and its policies.
+
+       You may be diluted if we issue additional Common Stock.
+       -------------------------------------------------------
+From time to time, the Company may issue additional equity
+securities.  There can be no assurance that the pricing of any
+such additional securities will not be lower than the price at
+which you purchased your securities in the open market.
+
+43
+
+If we qualify for and elect to be treated as an RIC, we
+       -------------------------------------------------------
+will lose substantially all of the benefits of our net operating
+- ----------------------------------------------------------------
+loss carry-forwards.  We currently intend to qualify for and
+- --------------------
+elect to be treated as an RIC under Subchapter M of the Code.  To
+qualify, we must meet certain source of income, distribution, and
+asset diversification requirements.  In any year in which we so
+qualify, we generally will not be subject to federal income tax
+on income and capital gains distributed (or deemed distributed to
+our stockholders).  Upon such election and qualification,
+however, we will lose the tax benefit of our net operating loss
+carry-forwards (except for use against recognition of built-in
+gains, as described below).  Such loss of NOL's could have an
+adverse effect on our financial condition.
+
+       If we qualify for and elect to be treated as an RIC, but
+       --------------------------------------------------------
+do not distribute substantially all of our capital gain net
+- -----------------------------------------------------------
+income or ordinary income, we will be subject to additional
+- -----------------------------------------------------------
+taxes.  In addition, if we did not distribute in a timely manner
+- ------
+(or treat as deemed distributed) 98% of our capital gain net
+income for each one-year period ending on October 31, or
+distribute 98% of our ordinary income for each calendar year (as
+well as any income not distributed in prior years), we will be
+subject to the 4% nondeductible federal excise tax on certain
+undistributed income of RICs.  Even if we qualify as an RIC, we
+generally will be subject to a corporate-level income tax on the
+income we do not distribute.  In addition, we will be subject to
+corporate-level tax on the amount of any net built-in gains in
+our assets (determined as of the first day of our first taxable
+year as a RIC) we recognize within ten years of the effective
+date of our RIC election (offset by any available net operating
+loss carry-forwards).
+
+       We may have difficulty satisfying the RIC income
+       ------------------------------------------------
+requirements.  Among the RIC requirements is the requirement that
+- -------------
+an RIC derive at least 90% of its gross income from dividends,
+interest, gains from the sale of securities and other specified
+types of income.  In order to comply with this requirement, we
+will need to ensure each year that we do not receive an excessive
+amount of income that falls outside of these permissible
+categories (e.g., fee or service income).  That restriction may
+adversely affect our business plan or limit our ability to
+undertake certain transactions or business arrangements.
+
+       Management has discretionary use of Company assets.  We
+       ---------------------------------------------------
+are not currently engaged in any substantive business activities
+other than activities that relate to our first project (the July
+2005 agreement to acquire a minority equity interest in Holley
+Communications Investment, Inc.).  We continue to look for and
+investigate other business opportunities that are consistent with
+our business plan.  Accordingly, management has broad discretion
+with respect to the investments.  Although management intends to
+apply any proceeds it may receive through the future issuance of
+stock or debt to a suitable acquired business, it will have broad
+discretion in allocating these funds.  There can be no assurance
+that the management's use or allocation of such proceeds will
+allow it to achieve its business objectives.
+
+       We expect that each of our investments initially will be
+       --------------------------------------------------------
+illiquid.  We expect that we will generally acquire our
+- ---------
+investments directly from the issuer in privately negotiated
+transactions.  We expect that the majority of the investments in
+our portfolio will typically have no established trading market.
+We expect that we will exit much of each of our investments when
+the portfolio company has a liquidity event, such as a public
+offering of the portfolio company.  The illiquidity of our
+investments may adversely affect our ability, to dispose of
+equity securities of our portfolio companies at times when it may
+be otherwise advantageous for us to liquidate such securities.
+In addition, if we were forced to liquidate some or all of the
+investments immediately, the proceeds of such liquidations could
+be significantly less than otherwise.
+
+   We may not realize gains from our equity investments.  When
+   -----------------------------------------------------
+we invest in debt securities, we generally expect to acquire
+warrants or other equity securities as well. However, the equity
+interests we receive may not appreciate in value and, in fact,
+may decline in value. Similarly, to the extent that we receive
+shares of common stock in companies which are subject to a
+registration right, any delays in the registration, or subsequent
+declines in the market value of such stock after registration,
+may result in a decline in the overall value of the investment.
+Accordingly, we may not be able to realize gains from our equity
+interests, and any gains that we do realize on the disposition of
+
+44
+
+any equity interests may not be sufficient to offset any other
+losses we experience.
+
+   Economic recessions or downturns could impair our portfolio
+   -----------------------------------------------------------
+companies and harm our operating results.  Many of the companies
+- -----------------------------------------
+in which we might make investments may be susceptible to economic
+slowdowns or recessions.  An economic slowdown may affect the
+ability of a company to engage in a meaningful liquidity event,
+such as a public offering.  The value of our portfolio is likely
+to decrease during these periods.  These conditions could lead to
+financial losses in our portfolio and a decrease in our revenues,
+net income, and assets.
+
+       We may not borrow money unless we maintain asset coverage
+       ---------------------------------------------------------
+for indebtedness of at least 200%, which may affect returns to
+- --------------------------------------------------------------
+stockholders.  We must maintain asset coverage for total
+- -------------
+borrowings of at least 200%.  Our ability to achieve our
+investment objective may depend in part on our continued ability
+to maintain a leveraged capital structure by borrowing funds from
+various sources on favorable terms.  Although we have no
+borrowings as of January 31, 2006, there can be no assurance that
+we will not borrow funds in an amount, which, when compared to
+the aggregate value of our assets, will permit us to maintain
+such leverage.  The Company may not be in compliance with the
+1940 Act asset coverage requirements for a BDC. If we do not
+maintain such minimum 200% asset coverage ratio and our asset
+coverage declines to less than 200%, we may be required to sell a
+portion of our investments when it is disadvantageous to do so.
+
+       We operate in a competitive market for investment
+       -------------------------------------------------
+opportunities.  We compete for investments with a large number of
+- --------------
+private equity funds and mezzanine funds, other business
+development companies, investment banks, other equity and non-
+equity based investment funds, and other sources of financing,
+including specialty finance companies and traditional financial
+services companies such as commercial banks.  Some of our
+competitors may have greater resources than we do.  Increased
+competition would make it more difficult for us to purchase or
+originate investments at attractive prices.  As a result of this
+competition, sometimes we may be precluded from making otherwise
+attractive investments.
+
+       Changes in the law or regulations that govern us could
+       ------------------------------------------------------
+have a material impact on us or our operations.  We are regulated
+- -----------------------------------------------
+by the SEC and other federal and state regulatory agencies.  In
+addition, changes in the laws or regulations that govern business
+development companies and regulated investment companies may
+significantly affect our business.  Any change in the law or
+regulations that govern our business could have a material impact
+on us or our operations.  Laws and regulations may be changed
+from time to time, and the interpretations of the relevant laws
+and regulations also are subject to change, which may have a
+material effect on our operations.
+
+       Our ability to invest in private companies may be limited
+       ---------------------------------------------------------
+in certain circumstances.  If we are to maintain our status as a
+- -------------------------
+business development company, we must not acquire any assets
+other than "qualifying assets" unless, at the time of and after
+giving effect to such acquisition, at least 70% of our total
+assets are qualifying assets.  If we acquire debt or equity
+securities from an issuer that has outstanding marginable
+securities at the time we make an investment, these acquired
+assets cannot be treated as qualifying assets.  This result is
+dictated by the definition of "eligible portfolio company" under
+the 1940 Act, which in part looks to whether a company has
+outstanding marginable securities.
+
+       Amendments promulgated in 1998 by the Federal Reserve
+expanded the definition of a marginable security under the
+Federal Reserve's margin rules to include any non-equity
+security.  Thus, any debt securities issued by any entity are
+marginable securities under the Federal Reserve's current margin
+rules.  As a result, the staff of the SEC has raised the question
+as to whether a private company that has outstanding debt
+securities would qualify as an "eligible portfolio company" under
+the 1940 Act.
+
+45
+
+Until the question raised by the staff of the SEC
+pertaining to the Federal Reserve's 1998 change to its margin
+rules has been addressed by legislative, administrative or
+judicial action, we intend to treat as qualifying assets only
+those debt and equity securities that are issued by a private
+company that has no marginable securities outstanding at the time
+we purchase such securities or those that otherwise qualify as an
+"eligible portfolio company" under the 1940 Act.
+
+       The SEC in November 2004 issued proposed rules to correct
+the unintended consequence of the Federal Reserve's 1998 margin
+rule amendments of apparently limiting the investment
+opportunities of business development companies.  In general, the
+SEC's proposed rules would define an eligible portfolio company
+as any company that does not have securities listed on a national
+securities exchange or association. We do not believe that these
+proposed rules, to the extent such rules are subsequently
+approved by the SEC, will have a material adverse effect on our
+operations.
+
+       Results may fluctuate and may not be indicative of future
+       ---------------------------------------------------------
+performance.  Our operating results may fluctuate and, therefore,
+- ------------
+you should not rely on current or historical period results to be
+indicative of our performance in future reporting periods.
+Factors that could cause operating results to fluctuate include,
+but are not limited to, variations in the investment origination
+volume and fee income earned, variation in timing of prepayments,
+variations in and the timing of the recognition of net realized
+gains or losses and changes in unrealized appreciation or
+depreciation, the degree to which we encounter competition in our
+markets, and general economic conditions.
+
+       Our common stock price may be volatile.  The trading price
+of our common stock may fluctuate substantially.  The price of
+the common stock may be higher or lower than the price you pay
+for your shares, depending on many factors, some of which are
+beyond our control and may not be directly related to our
+operating performance.  These factors include, but are not
+limited to, the following:
+
+  *  price and volume fluctuations in the overall stock market
+     from time to time;
+
+  *  significant volatility in the market price and trading
+     volume of securities of business development companies or other
+     financial services companies;
+
+  *  volatility resulting from trading in derivative securities
+     related to our common stock including puts, calls, long-term
+     equity anticipation securities, or LEAPs, or short trading
+     positions;
+
+  *  changes in regulatory policies or tax guidelines with
+     respect to business development companies or regulated investment
+     companies;
+
+  *  actual or anticipated changes in our earnings or
+     fluctuations in our operating results or changes in the
+     expectations of securities analysts;
+
+  *  general economic conditions and trends;
+
+  *  loss of a major funding source; or
+
+  *  departures of key personnel.
+
+       We have a limited operating history as a BDC, which may
+- --------------------------------------------------------------
+affect our ability to manage our business and may impair your
+- -------------------------------------------------------------
+ability to assess our prospects.  We were incorporated in April
+- --------------------------------
+1999 but only commenced business and investment operations as a
+BDC in mid-January 2005.  We are subject to all of the business
+risks and uncertainties associated with any new business
+enterprise, including the risk that we will not achieve our
+investment objective and that the value of our common stock or
+other securities could decline substantially.  We have limited
+
+46
+
+operating history as a BDC.  As a result, we have few operating
+results under these regulatory frameworks that can demonstrate
+either their effect on the business or our ability to manage the
+business within these frameworks.  If we fail to maintain our
+status as a BDC, our operating flexibility would be significantly
+reduced.
+
+       If our investments do not meet our performance
+       ----------------------------------------------
+expectations, you may not receive distributions.  We intend to
+- ------------------------------------------------
+make distributions to our stockholders following our election to
+be treated as a RIC under the Code.  We may not be able to
+achieve operating results that will allow us to make
+distributions at a specific level or to increase the amount of
+these distributions from time to time.  In addition, due to the
+asset coverage test applicable to us as a BDC, we may be limited
+in our ability to make distributions.  In addition, restrictions
+and provisions in any future credit facilities may limit our
+ability to make distributions.  If we do not distribute a certain
+percentage of our income annually, we will suffer adverse tax
+consequences, including failure to obtain, or possible loss of,
+the federal income tax benefits allowable to RICs.  We cannot
+assure you that you will receive distributions at a particular
+level or at all.
+
+       Because we intend to distribute substantially all of our
+       --------------------------------------------------------
+income to our stockholders upon our election to be treated as a
+- ---------------------------------------------------------------
+RIC, we will continue to need additional capital to finance our
+- ---------------------------------------------------------------
+growth.  If additional funds are unavailable or not available on
+- -------
+favorable terms, our ability to grow will be impaired.  In order
+to satisfy the requirements applicable to a RIC, to avoid payment
+of excise taxes, and to minimize or avoid payment of income
+taxes, we intend to distribute to our stockholders substantially
+all of our ordinary income and realized net capital gains except
+for certain net long-term capital gains recognized after we
+become a RIC, which we intend to retain, pay applicable income
+taxes with respect thereto, and elect to treat as deemed
+distributions to our stockholders.  As a BDC, we generally are
+required to meet a coverage ratio of total assets to total senior
+securities, which includes all of our borrowings and any
+preferred stock that we may issue in the future, of at least
+200%.  This requirement limits the amount that we may borrow.
+Because we will continue to need capital to grow our investment
+portfolio, this limitation may prevent us from incurring debt and
+require us to raise additional equity at a time when it may be
+disadvantageous to do so.  While we expect to be able to borrow
+and to issue additional debt and equity securities, we cannot
+assure you that debt and equity financing will be available to us
+on favorable terms, or at all, and debt financings may be
+restricted by the terms of any of our outstanding borrowings.  In
+addition, as a BDC, we generally are not permitted to issue
+equity securities priced below net asset value without
+stockholder approval.  If additional funds are not available to
+us, we could be forced to curtail or cease new lending and
+investment activities, and our net asset value could decline.
+
+   Regulations governing our operation as a business development
+   -------------------------------------------------------------
+company affect our ability to, and the way in which we raise
+- ------------------------------------------------------------
+additional capital, which may expose us to risks, including the
+- ---------------------------------------------------------------
+typical risks associated with leverage.   Our business will
+- ---------------------------------------
+require a substantial amount of capital, which we may acquire
+from the following sources:
+
+Senior Securities and Other Indebtedness
+
+   We may issue debt securities or preferred stock and/or borrow
+money from banks or other financial institutions, which we refer
+to collectively as "senior securities," up to the maximum amount
+permitted by the 1940 Act. Under the provisions of the 1940 Act,
+we are permitted, as a business development company, to issue
+senior securities in amounts such that our asset coverage ratio,
+as defined in the 1940 Act, equals at least 200% of gross assets
+less all liabilities and indebtedness not represented by senior
+securities, after each issuance of senior securities. If we issue
+senior securities, including preferred stock and debt securities,
+we will be exposed to typical risks associated with leverage,
+including an increased risk of loss. If we incur leverage to make
+investments, a decrease in the value of our investments would
+have a greater negative impact on the value of our common stock.
+
+47
+
+If we issue debt securities or preferred stock, it is likely that
+such securities will be governed by an indenture or other
+instrument containing covenants restricting our operating
+flexibility. In addition, such securities may be rated by rating
+agencies, and in obtaining a rating for such securities, we may
+be required to abide by operating and investment guidelines that
+could further restrict our operating flexibility.
+
+   Our ability to pay dividends or issue additional senior
+securities would be restricted if our asset coverage ratio was
+not at least 200%. If the value of our assets declines, we may be
+unable to satisfy this test. If that happens, we may be required
+to sell a portion of our investments and, depending on the nature
+of our leverage, repay a portion of our indebtedness at a time
+when such sales may be disadvantageous. Furthermore, any amounts
+that we use to service our indebtedness would not be available
+for distributions to our common stockholders.
+
+Common Stock
+
+   We are not generally able to issue and sell our common stock
+at a price below net asset value per share. We may, however, sell
+our common stock, or warrants, options or rights to acquire our
+common stock, at a price below the then-current net asset value
+of our common stock if our Board of Directors determines that
+such sale is in the best interests of Nortia and its
+stockholders, and our stockholders approve such sale. In certain
+limited circumstances, pursuant to an SEC staff interpretation,
+we may also issue shares at a price below net asset value in
+connection with a transferable rights offering so long as: (1)
+the offer does not discriminate among shareholders; (2) we use
+our best efforts to ensure an adequate trading market exists for
+the rights; and (3) the ratio of the offering does not exceed one
+new share for each three rights held. If we raise additional
+funds by issuing more common stock or senior securities
+convertible into, or exchangeable for, our common stock, the
+percentage ownership of our stockholders at that time would
+decrease and they may experience dilution. Moreover, we can offer
+no assurance that we will be able to issue and sell additional
+equity securities in the future, on favorable terms or at all.
+
+   If we fail to qualify for and elect to be treated as a RIC,
+then we will be subject to corporate-level income tax, which
+would adversely affect our results of operations and financial
+condition.  If we fail to qualify for the federal income tax
+benefits allowable to RICs for any reason and remain or become
+subject to a corporate-level income tax, the resulting taxes
+could substantially reduce our net assets, the amount of income
+available for distribution to our stockholders, and the actual
+amount of our distributions.  Such a failure would have a
+material adverse effect on us, the net asset value of our common
+stock, and the total return, if any, obtainable from your
+investment in our common stock.
+
+  There is a risk that you may not receive dividends or that our
+  --------------------------------------------------------------
+dividends may not grow over time.   We cannot assure you that we
+- ---------------------------------
+will achieve investment results or maintain a tax status that
+will allow or require any specified level of cash distributions
+or year-to-year increases in cash distributions.
+
+       Our business model depends to a significant extent upon
+       -------------------------------------------------------
+strong referral relationships with venture capital, private
+- -----------------------------------------------------------
+equity fund sponsors and other investment banking and financial
+- ---------------------------------------------------------------
+institutions, and our inability to develop or maintain these
+- ------------------------------------------------------------
+relationships, or the failure of these relationships to generate
+- ----------------------------------------------------------------
+investment opportunities, could adversely affect our business.
+- --------------------------------------------------------------
+We expect that members of our management team will maintain their
+relationships with venture capital, private equity firms, and
+investment banking and financial institutions, and we will rely
+to a significant extent upon these relationships to provide us
+with our deal flow.  If we fail to maintain our existing
+relationships or to develop new relationships with other firms or
+sources of investment opportunities, then we will not be able to
+grow our investment portfolio.  In addition, persons with whom
+members of our management team have relationships are not
+obligated to provide us with investment opportunities, and,
+therefore, there is no assurance that such relationships will
+lead to the origination of equity or debt investments.
+
+48
+
+Regulations governing our operations as a BDC affect our
+       --------------------------------------------------------
+ability to and the manner in which we raise additional capital,
+- ---------------------------------------------------------------
+which may expose us to risks.  Our business will require a
+- -----------------------------
+substantial amount of capital.  We may acquire additional capital
+from the issuance of senior securities, including borrowings or
+other indebtedness, or the issuance of additional shares of our
+common stock.  However, we may not be able to raise additional
+capital in the future on favorable terms or at all.  We may issue
+debt securities, other evidences of indebtedness, or preferred
+stock, and we may borrow money from banks or other financial
+institutions (collectively "senior securities") up to the maximum
+amount permitted by the 1940 Act.  The 1940 Act permits us to
+issue senior securities in amounts such that our asset coverage,
+as defined in the 1940 Act, equals at least 200% after each
+issuance of senior securities.  Our ability to pay dividends or
+issue additional senior securities would be restricted if our
+asset coverage ratio were not at least 200%.  If the value of our
+assets declines, we may be unable to satisfy this test.  If that
+happens, we may be required to liquidate a portion of our
+investments and repay a portion of our indebtedness at a time
+when such sales may be disadvantageous.
+
+   As a result of issuing senior securities, we would also be
+exposed to typical risks associated with leverage, including an
+increased risk of loss.  If we issue preferred stock, the stock
+would rank "senior" to common stock in our capital structure,
+preferred stockholders would have separate voting rights and
+might have rights, preferences, or privileges more favorable than
+those of our common stockholders, and the issuance of preferred
+stock could have the effect of delaying, deferring, or preventing
+a transaction or a change of control that might involve a premium
+price for holders of our common stock or otherwise be in your
+best interest.
+
+       To the extent that we are constrained in our ability to
+issue debt or other senior securities, we will depend on
+issuances of common stock to finance operations.  As a BDC, we
+are generally not able to issue our common stock at a price below
+net asset value without first obtaining required approvals from
+stockholders and independent directors.  If we raise additional
+funds by issuing more common stock or senior securities
+convertible into, or exchangeable for, our common stock, then the
+percentage ownership of our stockholders at that time would
+decrease and you might experience dilution.
+
+  Our investments in the companies that we are targeting may be
+extremely risky and we could lose all or part of our investments.
+Although a prospective portfolio company's assets are one
+component of our analysis when determining whether to provide
+debt or equity investment capital, we generally do not base an
+investment decision primarily on the liquidation value of a
+company's balance sheet assets. Instead, given the nature of the
+companies that we invest in, we also review the company's
+historical and projected cash flows, equity capital and "soft"
+assets, including intellectual property (patented and non-
+patented), databases, business relationships (both contractual
+and non-contractual) and the like. Accordingly, considerably
+higher levels of overall risk will likely be associated with
+Nortia's portfolio compared with that of a traditional asset-
+based lender whose security consists primarily of receivables,
+inventories, equipment and other tangible assets. Interest rates
+payable by our portfolio companies may not compensate for these
+additional risks.
+
+  Specifically, investments in the companies that we are
+targeting involves a number of significant risks, including:
+
+     * these companies may have limited financial resources and may
+       be unable to meet their obligations under their debt securities
+       that we hold, which may be accompanied by a deterioration in the
+       value of any collateral and a reduction in the likelihood of us
+       realizing any value from the liquidation of such collateral;
+
+49
+
+* they typically have limited operating histories, narrower
+       product lines and smaller market shares than larger businesses,
+       which tend to render them more vulnerable to competitors' actions
+       and market conditions, as well as general economic downturns;
+
+     * because they tend to be privately owned, there is generally
+       little publicly available information about these businesses;
+       therefore, although Nortia's agents will perform "due diligence"
+       investigations on these portfolio companies, their operations and
+       their prospects, we may not learn all of the material information
+       we need to know regarding these businesses;
+
+     * they are more likely to depend on the management talents and
+       efforts of a small group of persons; therefore, the death,
+       disability, resignation or termination of one or more of these
+       persons could have a material adverse impact on our portfolio
+       company and, in turn, on us; and
+
+     * they generally have less predictable operating results, may
+       from time to time be parties to litigation, may be engaged in
+       rapidly changing businesses with products subject to a
+       substantial risk of obsolescence, and may require substantial
+       additional capital to support their operations, finance expansion
+       or maintain their competitive position.
+
+A portfolio company's failure to satisfy financial or
+operating covenants imposed by us or other lenders could lead to
+defaults and, potentially, termination of its loans and
+foreclosure on its assets, which could trigger cross-defaults
+under other agreements and jeopardize our portfolio company's
+ability to meet its obligations under the debt securities that we
+hold. We may incur expenses to the extent necessary to seek
+recovery upon default or to negotiate new terms with a defaulting
+portfolio company. In addition, if a portfolio company goes
+bankrupt, even though we may have structured our interest as
+senior debt, depending on the facts and circumstances, including
+the extent to which we actually provided significant "managerial
+assistance" to that portfolio company, a bankruptcy court might
+re-characterize our debt holding and subordinate all or a portion
+of our claim to that of other creditors.
+
+  Our failure to make follow-on investments in our portfolio
+  ----------------------------------------------------------
+companies could impair the value of our portfolio. Following an
+- --------------------------------------------------
+initial investment in a portfolio company, we may make additional
+investments in that portfolio company as "follow-on" investments,
+in order to: (1) increase or maintain in whole or in part our
+equity ownership percentage; (2) exercise warrants, options or
+convertible securities that were acquired in the original or
+subsequent financing; or (3) attempt to preserve or enhance the
+value of our investment.
+
+  We may elect not to make follow-on investments or otherwise
+  -----------------------------------------------------------
+lack sufficient funds to make those investments. We have the
+- ------------------------------------------------
+discretion to make any follow-on investments, subject to the
+availability of capital resources. The failure to make follow-on
+investments may, in some circumstances, jeopardize the continued
+viability of a portfolio company and our initial investment, or
+may result in a missed opportunity for us to increase our
+participation in a successful operation. Even if we have
+sufficient capital to make a desired follow-on investment, we may
+elect not to make a follow-on investment because we may not want
+to increase our concentration of risk, because we prefer other
+opportunities, or because we are inhibited by compliance with
+business development company requirements or the desire to
+maintain our tax status.
+
+     Because we generally do not hold controlling equity
+     ---------------------------------------------------
+interests in our portfolio companies, we may not be in a position
+- -----------------------------------------------------------------
+to exercise control over our portfolio companies or to prevent
+- --------------------------------------------------------------
+decisions by management of our portfolio companies that could
+- --------------------------------------------------------------
+decrease the value of our investments.  Although we may do so in
+- --------------------------------------
+the future, to date we have not taken controlling equity
+positions in our portfolio companies. As a result, we are subject
+to the risk that a portfolio company may make business decisions
+
+50
+
+with which we disagree, and the stockholders and management of a
+portfolio company may take risks or otherwise act in ways that
+are adverse to our interests. Due to the lack of liquidity for
+the debt and equity investments that we typically hold in our
+portfolio companies, we may not be able to dispose of our
+investments in the event we disagree with the actions of a
+portfolio company, and may therefore suffer a decrease in the
+value of our investments.
+
+       Future offerings of debt securities, which would be senior
+to our common stock upon liquidation, or equity securities, which
+could dilute our existing stockholders and be senior to our
+common stock for he purposes of distributions, may have an
+adverse effect on the value of our common stock.  In the future,
+we may attempt to increase our capital resources by making
+additional offerings of equity or debt securities, including
+medium-term notes, senior or subordinated notes and classes of
+preferred stock or common stock.  Upon our liquidation, holders
+of our debt securities, if any, and shares of preferred stock, if
+any, and lenders with respect to other borrowings, if any, will
+receive a distribution of our available assets prior to the
+holders of our common stock.  Additional equity offerings by us
+may dilute the holdings of our existing stockholders or reduce
+the value of our common stock, or both.  Any preferred stock we
+may issue would have a preference on distributions that could
+limit our ability to make distributions to the holders of our
+common stock.  Because our decision to issue securities in any
+future offering will depend on market conditions and other
+factors beyond our control, we cannot predict or estimate the
+amount, timing or nature of our future offerings.  Thus, our
+stockholders bear the risk of our future offerings reducing the
+market price of our common stock and diluting their stock
+holdings in us.
+
+Withdrawal  of the  Company's  election to be treated as a BDC
+- --------------------------------------------------------------
+may  increase the risks to our shareholders,  since the Company
+- ---------------------------------------------------------------
+would not be subject to many of the regulatory restrictions
+- -----------------------------------------------------------
+imposed by, or receive the financial reporting benefits, of the
+- --------------------------------------------------------------
+1940 Act.
+- ---------
+
+     If the Company  withdraws  its  election to be treated as a
+BDC, the Company  would no longer be subject to regulation  under
+the 1940 Act,  which is designed to protect the  interests of
+investors in  investment  companies.  As a non-BDC,  the Company
+will not be subject to many of the  regulatory,  financial
+reporting  and  other  requirements  and  restrictions  imposed
+by the 1940 Act including, but not necessarily limited to,
+limitations on the amounts, types and prices at which securities
+which may be issued,  participation in related party
+transactions,  the  payment  of  compensation  to  executives,
+and the scope of eligible investments.  The Company also would no
+longer be bound by the 1940 Act requirement that a majority of
+its Board of Directors be independent, nor would it be required
+to maintain a minimum asset coverage ratio of 200% for its
+borrowings.
+
+     In the event that the Company  withdraws  its election to be
+treated as a BDC and  becomes  an  operating  company,  the
+fundamental  nature  of the Company's  business  will  change.
+Subsequent to the filing of our Form N-54C, we intend to pursue a
+business model in which we would provide merchant banking-type
+services for private companies seeking to, among other things,
+become publicly traded.  We would work with issuers to position
+them for the registration of their securities, and the practical
+implications and obligations of public-company status.  In
+pursuing this business model, we will seek to ensure that we do
+not become an "investment company" within the meaning of the 1940
+Act.  No assurance can be given that our business strategy or
+investment  objectives will be achieved by withdrawing our
+election to be treated as a BDC.
+
+            Further,  the  election to  withdraw  the Company as
+a BDC under the 1940  Act will  result  in a  significant  change
+in the  Company's  method  of accounting.  BDC financial
+statement  presentation and accounting  utilizes the value method
+of accounting  used by investment  companies,  which allows BDCs
+to recognize  income  and value  their  investments  at market
+value as opposed to historical  cost.  As an operating  company,
+the required  financial  statement presentation  and accounting
+for  securities  held will be either fair value or historical
+cost methods of accounting,  depending on the  classification  of
+
+51
+
+the investment  and the  Company's  intent  with  respect  to the
+period of time it intends to hold the investment.  A change in
+the Company's  method of accounting could reduce the market value
+of its investments in privately held companies by eliminating the
+Company's ability to report an increase in the value of its
+holdings as they occur.  Also,  as an operating  company,   the
+Company  would  have  to  consolidate  its  financial statements
+with  subsidiaries,  thus eliminating the portfolio company
+reporting benefits available to BDCs.
+
+Item 2.  Unregistered Sales of Equity Securities and Use of Proceeds
+
+         None
+
+Item 3.  Defaults upon Senior Securities
+
+         None.
+
+Item 4.  Submission of Matters to a Vote of Security Holders
+
+         Not Applicable
+
+Item 5.  Other Information
+
+On February 10, 2006, the Board of Directors determined that it
+is in the best interest of the Company and its shareholders to
+withdraw its election to be reflected as a BDC. When the Company
+elected to become a BDC, it was its intention to provide debt and
+equity capital to companies that it believed presented
+opportunities for superior performance through liquidity events,
+recapitalizations, internal growth, product, or geographic
+expansion, the completion of complementary add-on acquisitions,
+or industry consolidations. The Company generally expected to
+invest in emerging and development-stage micro-cap companies that
+intended to be listed on U.S. equity markets, including the OTC
+Bulletin Board, but which otherwise lacked the necessary capital
+and depth of management to expand their businesses.
+
+During 2005, the Company determined that it was not in compliance
+with several important provisions of the 1940 Act, including, the
+capital structure requirements. The Company's significant
+compliance and remediation costs, in terms of both time and
+dollars, have operated as a drag on the Company's resources and
+in many respects have diverted the effective utilization of
+capital previously raised by the Company to effectuate its
+overall investment business plan.
+
+Accordingly, based on the foregoing, and after careful
+consideration of the 1940 Act requirements applicable to BDCs, an
+evaluation of the Company's ability to operate as a going concern
+in an "investment company" regulatory environment, the cost of
+1940 Act compliance needs, and other business considerations, the
+Board determined that continuation as a BDC is not in the best
+interests of the Company or its shareholders at the present time.
+Thus, the Company is in the process of withdrawing its election
+to be treated as a BDC as soon as practicable.  In doing so, the
+Company will ensure that it does not meet the definition of an
+investment company under the 1940 Act and intends to file an
+information statement on Schedule 14C in lieu of soliciting
+proxies, and will file that information statement in preliminary
+form as soon as practicable hereafter.
+
+Item 6.  Exhibits
+
+The following exhibits are filed with this report or are
+incorporated herein by reference to a prior filing, in accordance
+with Rule 12b-32 under the Securities Exchange Act of 1934.
+
+52
+
+Exhibit  Description of Exhibit
+No.
+
+31.1*  Certification of Chief Executive Officer pursuant to
+       Rule 13a-14 of the Securities Exchange Act of 1934, as
+       amended.*
+31.2*  Certification of Chief Financial Officer pursuant to
+       Rule 13a-14 of the Securities Exchange Act of 1934, as
+       amended.*
+32.1*  Certification of Chief Executive Officer pursuant to
+       section 906 of The Sarbanes-Oxley Act of 2002.*
+32.2*  Certification of Chief Financial Officer pursuant to
+       section 906 of The Sarbanes-Oxley Act of 2002.*
+
+* Filed herewith
+
+53
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of
+1934, the registrant caused this report to be signed on its
+behalf by the undersigned, thereunto duly authorized.
+
+NORTIA CAPITAL PARTNERS, INC.
+                                   (Registrant)
+
+Date:  March 17, 2006              /s/  William Bosso
+                                   ----------------------------
+                                        William Bosso
+                                        Chief Executive Officer
+
+Date:  March 17, 2006              /s/  Bruce A. Hall
+                                   ----------------------------
+                                        Bruce A. Hall
+                                        Chief Financial Officer
+
+54
+
+<EX-31.1>
+ 2
+ jan06q-ex311.txt
+
+Exhibit 31.1
+
+CERTIFICATION OF CHIEF EXECUTIVE OFFICER
+
+I, William Bosso, Chief Executive Officer of Nortia Capital
+Partners, Inc., certify that:
+
+1.   I have reviewed this quarterly report on Form 10-Q of Nortia
+Capital Partners, Inc.;
+
+2.   Based on my knowledge, this report does not contain any
+untrue statement of a material fact or omit to state a material
+fact necessary to make the statements made, in light of the
+circumstances under which such statements were made, not
+misleading with respect to the period covered by this report;
+
+3.   Based on my knowledge, the financial statements, and other
+financial information included in this report, fairly present in
+all material respects the financial condition, results of
+operations and cash flows of the registrant as of, and for, the
+periods presented in this report;
+
+4.   The registrant's other certifying officer(s) and I are
+responsible for establishing and maintaining disclosure controls
+and procedures (as defined in Exchange Act Rules 13a-15(e) and
+15d-15(e)) for the registrant and have:
+
+               (a) Designed such disclosure controls and
+procedures, or caused such disclosure controls and procedures to
+be designed under our supervision, to ensure that material
+information relating to the registrant, including its
+consolidated subsidiaries, is made known to us by others within
+those entities, particularly during the period in which this
+report is being prepared;
+
+               (b) Evaluated the effectiveness of the
+registrant's disclosure controls and procedures and presented in
+this report our conclusions about the effectiveness of the
+disclosure controls and procedures, as of the end of the period
+covered by this report based on such evaluation; and
+
+               (c) Disclosed in this report any change in the
+registrant's internal control over financial reporting that
+occurred during the registrant's most recent fiscal quarter (the
+registrant's fourth fiscal quarter in the case of an annual
+report) that has materially affected, or is reasonably likely to
+materially affect, the registrant's internal control over
+financial reporting; and
+
+5.   The registrant's other certifying officer(s) and I have
+disclosed, based on our most recent evaluation of internal
+control over financial reporting, to the registrant's auditors
+and the audit committee of the registrant's Board of Directors
+(or persons performing the equivalent functions):
+
+               (a) All significant deficiencies and material
+weaknesses in the design or operation of internal control over
+financial reporting which are reasonably likely to adversely
+affect the registrant's ability to record, process, summarize and
+report financial information; and
+
+               (b) Any fraud, whether or not material, that
+involves management or other employees who have a significant
+role in the registrant's internal control over financial
+reporting.
+
+Dated this 17th day of March, 2006.
+
+                                      By: /s/  William Bosso
+                                         -----------------------
+                                         William Bosso
+                                         Chief Executive Officer
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ jan06q-ex312.txt
+
+Exhibit 31.2
+
+            CERTIFICATION OF CHIEF FINANCIAL OFFICER
+
+I, Bruce A. Hall, Chief Financial Officer of Nortia Capital
+Partners, Inc., certify that:
+
+1.   I have reviewed this quarterly report on Form 10-Q of Nortia
+Capital Partners, Inc.;
+
+2.   Based on my knowledge, this report does not contain any
+untrue statement of a material fact or omit to state a material
+fact necessary to make the statements made, in light of the
+circumstances under which such statements were made, not
+misleading with respect to the period covered by this report;
+
+3.   Based on my knowledge, the financial statements, and other
+financial information included in this report, fairly present in
+all material respects the financial condition, results of
+operations and cash flows of the registrant as of, and for, the
+periods presented in this report;
+
+4.   The registrant's other certifying officer(s) and I are
+responsible for establishing and maintaining disclosure controls
+and procedures (as defined in Exchange Act Rules 13a-15(e) and
+15d-15(e)) for the registrant and have:
+
+               (a) Designed such disclosure controls and
+procedures, or caused such disclosure controls and procedures to
+be designed under our supervision, to ensure that material
+information relating to the registrant, including its
+consolidated subsidiaries, is made known to us by others within
+those entities, particularly during the period in which this
+report is being prepared;
+
+               (b) Evaluated the effectiveness of the
+registrant's disclosure controls and procedures and presented in
+this report our conclusions about the effectiveness of the
+disclosure controls and procedures, as of the end of the period
+covered by this report based on such evaluation; and
+
+               (c) Disclosed in this report any change in the
+registrant's internal control over financial reporting that
+occurred during the registrant's most recent fiscal quarter (the
+registrant's fourth fiscal quarter in the case of an annual
+report) that has materially affected, or is reasonably likely to
+materially affect, the registrant's internal control over
+financial reporting; and
+
+5.   The registrant's other certifying officer(s) and I have
+disclosed, based on our most recent evaluation of internal
+control over financial reporting, to the registrant's auditors
+and the audit committee of the registrant's Board of Directors
+(or persons performing the equivalent functions):
+
+               (a) All significant deficiencies and material
+weaknesses in the design or operation of internal control over
+financial reporting which are reasonably likely to adversely
+affect the registrant's ability to record, process, summarize and
+report financial information; and
+
+               (b) Any fraud, whether or not material, that
+involves management or other employees who have a significant
+role in the registrant's internal control over financial
+reporting.
+
+Dated this 17th day of March, 2006.
+
+                                      By: /s/  Bruce A. Hall
+                                         -----------------------
+                                         Bruce A. Hall
+                                         Chief Financial Officer
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ jan06q-ex321.txt
+
+Exhibit 32.1
+
+Certification of Chief Executive Officer
+  Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (18
+                          U.S.C. 1350)
+
+In connection with the Quarterly Report on Form 10-Q for the
+quarter ended January 31, 2006 (the "Report") of Nortia Capital
+Partners, Inc. (the "Registrant"), as filed with the Securities
+and Exchange Commission on the date hereof, I, William Bosso, the
+Chief Executive Officer of the Registrant, hereby certify, to the
+best of my knowledge, that:
+
+(1)  The Report fully complies with the requirements of Section
+13(a) or 15(d) of the Securities Exchange Act of 1934, as
+amended; and
+
+(2)  The information contained in the Report fairly presents, in
+all material respects, the financial condition and results of
+operations of the Registrant.
+
+/s/ William Bosso
+- ---------------------
+Name:  William Bosso
+Date:  March 17, 2006
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ jan06q-ex322.txt
+
+Exhibit 32.2
+
+Certification of Chief Financial Officer
+  Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002 (18
+                          U.S.C. 1350)
+
+In connection with the Quarterly Report on Form 10-Q for the
+quarter ended January 31, 2006 (the "Report") of Nortia Capital
+Partners, Inc. (the "Registrant"), as filed with the Securities
+and Exchange Commission on the date hereof, I, Bruce A. Hall, the
+Chief Financial Officer of the Registrant, hereby certify, to the
+best of my knowledge, that:
+
+(1)  The Report fully complies with the requirements of Section
+13(a) or 15(d) of the Securities Exchange Act of 1934, as
+amended; and
+
+(2)  The information contained in the Report fairly presents, in
+all material respects, the financial condition and results of
+operations of the Registrant.
+
+/s/ Bruce A. Hall
+- --------------------
+Name:  Bruce A. Hall
+Date:  March 17, 2006
+
+</EX-32.2>
+

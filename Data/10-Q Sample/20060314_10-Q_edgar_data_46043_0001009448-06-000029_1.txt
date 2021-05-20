@@ -1,0 +1,1516 @@
+<Header>
+<FileStats>
+    <FileName>20060314_10-Q_edgar_data_46043_0001009448-06-000029_1.txt</FileName>
+    <GrossFileSize>94500</GrossFileSize>
+    <NetFileSize>76655</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>485</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>4</N_Tables>
+    <N_Exhibits>5</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001009448-06-000029.hdr.sgml : 20060314
+<ACCEPTANCE-DATETIME>20060314160146
+ACCESSION NUMBER:		0001009448-06-000029
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		6
+CONFORMED PERIOD OF REPORT:	20060128
+FILED AS OF DATE:		20060314
+DATE AS OF CHANGE:		20060314
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HARVEY ELECTRONICS INC
+		CENTRAL INDEX KEY:			0000046043
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-RADIO TV & CONSUMER ELECTRONICS STORES [5731]
+		IRS NUMBER:				131534671
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			1101
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-04626
+		FILM NUMBER:		06685168
+
+	BUSINESS ADDRESS:	
+		STREET 1:		205 CHUBB AVENUE
+		CITY:			LYNDHURST
+		STATE:			NJ
+		ZIP:			07071
+		BUSINESS PHONE:		2018420078
+
+	MAIL ADDRESS:	
+		STREET 1:		205 CHUBB AVENUE
+		CITY:			LYNDHURST
+		STATE:			NJ
+		ZIP:			07071
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HARVEY GROUP INC
+		DATE OF NAME CHANGE:	19920703
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HARVEY RADIO CO
+		DATE OF NAME CHANGE:	19700731
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HARVEY RADIO CO INC
+		DATE OF NAME CHANGE:	19690918
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ TxtLK1D2Q8UW/c4PZ4dt8NxRWJFKnoP2B/fCVJN4a1pR27Aq9b2x++nCt4kILKSQ
+ V09HoX6GRMUaRSB024XKsw==
+
+ 0001009448-06-000029.txt : 20060314
+
+10-Q
+ 1
+ harveyform10q31406.txt
+ HARVEY10Q31406
+ 
+                UNITED STATES SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    Form 10-Q
+
+(Mark One)
+[X]     QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+        SECURITIES EXCHANGE ACT OF 1934
+                 For the quarterly period ended January 28, 2006
+
+[ ]     TRANSITION REPORT PURSUANT TO  SECTION 13 OR 15(d) OF THE
+        SECURITIES EXCHANGE ACT OF 1934
+        For the transition period from                      to
+                                       --------------------    ----------------
+
+                          Commission File Number 1-4626
+
+                            Harvey Electronics, Inc.
+      (Exact name of small business registrant as specified in its charter)
+
+               New York                                13-1534671
+   (State of other jurisdiction of         (I.R.S. Employer Identification No.)
+   incorporation or organization)
+
+                 205 Chubb Avenue, Lyndhurst, New Jersey, 07071_
+              (Address of principal executive offices and zip code)
+
+                                  201-842-0078
+                         (Registrant's telephone number)
+
+Indicate by check mark whether the registrant (1) filed all reports  required to
+be filed by Section 13 or 15(d) of the  Exchange  Act of 1934 during the past 12
+months (or for such shorter period that the registrant was required to file such
+reports),  and (2) has been subject to such filing  requirements for the past 90
+days. Yes [X] No [ ]
+
+Indicate by check mark whether the Registrant is a large  accelerated  filer, an
+accelerated  filer or a  non-accelerated  filer.  See definition of "accelerated
+filer and large accelerated filer" in Rule 12b-2 of the Exchange Act).
+
+Large accelerated filer [  ]  Accelerated filer [  ]  Non-accelerated filer [X]
+
+Indicate by check mark whether the  registrant is a shell company (as defined in
+Rule 12b-2 of the Exchange Act).    [   ]  Yes           [X]  No
+
+As of March 14, 2006,  3,508,584  shares of the  registrant's  common stock, par
+value $.01 per share, were outstanding.
+
+Harvey Electronics, Inc.
+
+                                    FORM 10-Q
+
+                                      INDEX
+
+PART I.  Financial Information
+
+Item 1.  Financial Statements:                                        Page No.
+
+         Statements of Operations (Unaudited) -Thirteen Weeks Ended
+          January 28, 2006 and January 29, 2005...........................3
+
+         Balance Sheets - January 28, 2006 (Unaudited) and
+          October 29, 2005................................................4
+
+         Statement of Shareholders' Equity (Unaudited) - Thirteen
+          Weeks Ended January 28, 2006....................................5
+
+         Statements of Cash Flows (Unaudited) - Thirteen Weeks
+          Ended January 28, 2006 and January 29, 2005 ....................6
+
+         Notes to Financial Statements (Unaudited) .......................7
+
+Item 2.  Management's Discussion and Analysis of Financial Condition
+         and Results of Operations.......................................12
+
+Item 4.  Disclosure Controls and Procedures .............................20
+
+PART II. Other Information
+
+Item 1.  Legal Matters ..................................................21
+
+Item 6.  Exhibits .......................................................23
+
+Signatures ..............................................................24
+
+Exhibit Number 31.1 .....................................................25
+Exhibit Number 31.2 .....................................................27
+Exhibit Number 32.1 .....................................................29
+Exhibit Number 32.2 .....................................................30
+
+Harvey Electronics, Inc.
+                            Statements Of Operations
+                                   (Unaudited)
+
+Harvey Electronics, Inc.
+                                 Balance Sheets
+
+Harvey Electronics, Inc.
+                        Statement of Shareholders' Equity
+                                   (Unaudited)
+
+See accompanying notes to financial statements.
+
+Harvey Electronics, Inc
+                            Statements of Cash Flows
+
+Harvey Electronics, Inc.
+                          Notes to Financial Statements
+                                January 28, 2006
+                                   (Unaudited)
+
+1. Basis of Presentation and Description of Business
+
+Basis of Presentation
+
+The accompanying  unaudited interim financial  statements of Harvey Electronics,
+Inc. (the "Company") have been prepared in accordance with accounting principles
+generally  accepted  in the  United  States of  America  for  interim  financial
+reporting  and with the  instructions  to Form  10-Q.  Accordingly,  they do not
+include all of the  information  and  footnotes  required by generally  accepted
+accounting  principles  for  complete  financial  statements.  In the opinion of
+Management, all adjustments (consisting of normal recurring accruals) considered
+necessary for a fair presentation have been included.
+
+Operating  results for the thirteen  week period ended  January 28, 2006 are not
+necessarily  indicative  of the results that may be expected  for the  fifty-two
+weeks ending October 28, 2006. Net sales and operating results for the Company's
+first quarter of its fiscal year are positively affected by the holiday shopping
+season. For further information, refer to the financial statements and footnotes
+thereto  included in the Company's Annual Report on Form 10-K for the year ended
+October 29, 2005.
+
+The preparation of the unaudited interim financial statements in conformity with
+accounting  principles  generally  accepted  in the  United  States  of  America
+requires  management to make estimates and assumptions  that affect the reported
+amounts of assets and  liabilities  and  disclosures  at the date of the interim
+financial  statements and the reported  amounts of revenues and expenses  during
+the reporting  period.  Management  bases its estimates on certain  assumptions,
+which they believe are  reasonable  in the  circumstances,  and does not believe
+that any  change in those  assumptions  would have a  significant  effect on the
+financial  position or results of  operations.  Actual results could differ from
+those estimates and assumptions.
+
+Additionally,  certain  items in the Unaudited  Statement of Operations  for the
+thirteen weeks ended January 29, 2005 have been  reclassified  to conform to the
+2006 presentation.
+
+Description of Business
+
+The  Company is a  specialty  retailer  and  custom  installer  of high  quality
+audio/video  consumer  electronics and home theater products in the Metropolitan
+New York area.  Operations of the Company consist solely of this single segment.
+The Company's fiscal year ends the Saturday closest to October 31.
+
+Net  sales  include  the sale of  goods to  customers  and  custom  installation
+revenue.  Retail  sales are  recorded  at the time of the sale to the  customer.
+Custom installation revenue, which is comprised of both the sale of products and
+the labor in connection with the  installation of the products,  are recorded in
+accordance  with  the  provisions  of EITF  00-21,  "Revenue  Arrangements  with
+Multiple  Deliverables".  The  revenue  related to the sale of the  products  is
+recognized  when the product is delivered to the customers.  The revenue related
+to the labor in connection with the  installation  of the products,  is recorded
+when the service has been substantially  completed.  If the custom  installation
+project requires a pre-wire phase,  this phase will be considered a separate and
+distinct  stage of  work.  The  customer  agrees  to take  title of wire and any
+in-wall speakers when delivered to the site as they have fair value.
+
+Harvey Electronics, Inc.
+                          Notes to Financial Statements
+                                January 28, 2006
+                                   (Unaudited)
+
+The  customer  agrees  that these  amounts  paid in advance  for wire or in-wall
+speakers delivered to the site are non-refundable and as a result, these amounts
+are  recognized  as  revenue  when  delivered.  Labor on the  pre-wire  phase is
+recognized as revenue when the pre-wire installation is substantially completed.
+Revenues  relating to these  elements are recorded based on their fair values in
+the market.
+
+In addition,  the Company sells  extended  warranty  contracts for a third party
+provider.  The profit on extended warranty sales is considered commission at the
+time of sale. The net amount earned on these sales is recorded in net sales,  in
+accordance with EITF 99-19,  "Reporting  Revenue Gross as a Principal Versus Net
+as an Agent."
+
+Major components of selling general and administrative  expenses include payroll
+related expenses, net advertising expense,  occupancy costs,  professional fees,
+truck  expenses,   warehouse  costs,   distribution  costs,  insurance  expense,
+depreciation expense and credit card fees. Cost of goods sold includes inventory
+shrink,  purchase  discounts from its vendors and freight  costs.  The Company's
+computation  of cost of goods  sold and gross  profit may not be  comparable  to
+other  reporting  electronics  retailers as other entities may include the costs
+relating to warehousing and distribution networks.
+
+2. Revolving Line of Credit Facility
+
+In November 2003,  the Company  entered into a new five-year $7.5 million credit
+facility with Webster Business Credit Corporation  ("Webster"),  a subsidiary of
+Connecticut  based Webster Bank. This new credit  facility  replaced the line of
+credit facility with Wells Fargo Retail Finance ("Wells  Fargo").  Under the new
+credit  facility,  the Company can borrow up to $7.5 million  based upon lending
+formulas  calculated on eligible  credit card  receivables  and inventory,  less
+certain reserves,  as defined.  The Webster credit facility expires November 21,
+2008.
+
+The interest rate on all  borrowings  under the credit  facility is either 0.25%
+over Webster  Bank's prime rate (7.25% at January 28, 2006) or LIBOR plus 2.75%,
+at the Company's  option.  The Company paid Webster a $25,000  commitment fee in
+two equal  installments of $12,500,  on November 21, 2003 and November 21, 2004,
+respectively.  Under the credit  facility,  the Company  pays  Webster a reduced
+maintenance fee of $1,000 per month and a monthly unused line fee, as defined in
+the credit  facility.  Simultaneously,  with the closing of the  Webster  credit
+facility,  the  Company  paid  all  outstanding  amounts  due  to  Wells  Fargo,
+aggregating  $2,504,000,  and Wells  Fargo's  senior  security  interest  in the
+Company's assets was terminated.
+
+In connection  with the credit  facility,  the Company  granted Webster a senior
+security interest in all of the Company's  assets.  The credit facility provides
+Webster with rights of  acceleration  upon the  occurrence of certain  customary
+events of default. The Company is restricted from paying dividends on its Common
+Stock,  retiring or  repurchasing  its Common Stock and entering into additional
+indebtedness (as defined).
+
+Harvey Electronics, Inc.
+                          Notes to Financial Statements
+                                January 28, 2006
+                                   (Unaudited)
+
+2. Revolving Line of Credit Facility (Continued)
+
+Pursuant to the new credit  facility,  the Company cannot exceed certain advance
+rates on eligible  inventory  and must  maintain  certain  monthly and quarterly
+levels  of  earnings  before  interest,  taxes,  depreciation  and  amortization
+("EBITDA").  Additionally,  the Company's  annual  capital  expenditures  cannot
+exceed a  predetermined  amount.  In September  2005, the Company entered into a
+First Amendment and Waiver Agreement ("First Amendment") with Webster. The First
+Amendment waived any covenant  defaults existing at the end of the third quarter
+of fiscal 2005 and modified the EBITDA and capital  expenditures  covenants  for
+the fourth quarter of fiscal 2005. On January 20, 2006, the Company entered into
+a Second  Amendment  ("Second  Amendment")  with Webster.  The Second  Amendment
+modified the EBITDA and capital expenditures  covenants for the first quarter of
+fiscal 2006. In February 2006, the Company  entered into a Third  Amendment with
+Webster, which further modified the EBITDA covenant,  effective at the beginning
+of the  Company's  second  quarter.  As of January 28, 2006,  the Company was in
+compliance with all covenants.
+
+As the  credit  facility  expires  in three  years and does not  include  both a
+subjective  acceleration  clause and a lock box arrangement,  in accordance with
+EITF 95-22, the Company classified the balance outstanding,  at January 28, 2006
+($2,327,000) and October 29, 2005  ($3,486,000),  under the credit facility as a
+long-term liability.
+
+3. Net Advertising Expense
+
+In  accordance   with  EITF  02-16,   "Accounting  by  a  Customer  for  Certain
+Consideration  Received from a Vendor"  ("EITF  02-16") which  addresses how and
+when  to  reflect  consideration   received  from  suppliers  in  the  financial
+statements,  the Company's  advertising expense, net of cooperative  advertising
+allowances,  is charged to  operations  when the  advertising  takes place.  Net
+advertising expense is included in Selling,  general and administrative expenses
+in the Company's Statements of Operations.
+
+Manufacturer rebates received by the Company are recorded based on the quarterly
+estimated progress in earning such rebates. The Company's  estimates,  to record
+these rebates are based on historical information and current programs with such
+vendors.
+
+The  following  represents  the  gross  amounts  of  advertising   expenditures,
+cooperative  advertising  reimbursements  and net  advertising  expense  for the
+periods reported:
+
+                                                 Thirteen Weeks Ended
+                                          January 28, 2006     January 29, 2005
+                                          ----------------     ----------------
+      Gross advertising expenditures         $730,000               $965,000
+
+      Cooperative advertising
+        reimbursements                        570,000                640,000
+                                           ----------             ----------
+
+      Net advertising expense              $  160,000             $  325,000
+                                           ==========             ==========
+
+Harvey Electronics, Inc.
+                          Notes to Financial Statements
+                                January 28, 2006
+                                   (Unaudited)
+
+4. Income Per Share
+
+Basic and diluted  earnings per share are calculated in accordance with SFAS No.
+128,  "Earnings Per Share" ("SFAS No. 128").  Basic  earnings per share excludes
+the  dilutive  effects of  options  and  convertible  preferred  stock.  Diluted
+earnings  per  share  includes  only  the  dilutive   effects  of  common  stock
+equivalents such as stock options and convertible preferred stock.
+
+The following table sets forth the computation of basic and diluted earnings per
+share for the periods presented pursuant to SFAS No. 128.
+
+                                                    Thirteen Weeks Ended
+                                           January 28, 2006    January 29, 2005
+                                           ----------------    ----------------
+Numerator:
+Net  income                                    $45,288             $273,944
+Dividends on convertible preferred
+   stock                                      (12,331)             (12,750)
+                                              --------             --------
+Numerator for basic earnings per share
+   - income attributable to common
+   stockholders                                 32,957              261,194
+Effect of dilutive securities:
+   Dividends on convertible preferred
+   stock                                             -               12,750
+                                              --------             --------
+Numerator for diluted earnings per
+   share - income available to common
+   stockholders after
+   assumed conversion                          $32,957             $261,194
+Denominator:
+Denominator for basic earnings per
+   share - weighted average shares
+   outstanding during the period             3,508,584            3,455,987
+Effect of dilutive securities:
+   Stock options                                   320              270,491
+   Convertible preferred stock                       -              486,500
+                                              --------             --------
+Denominator for diluted earnings per
+   share - adjusted weighted average
+   shares and assumed conversions            3,508,904            4,212,978
+                                             =========            =========
+
+Basic net  income per share                          $.01                 $.08
+                                                     ====                 ====
+Diluted net  income  per share                       $.01                 $.06
+                                                     ====                 ====
+
+The conversion  price of the Company's  preferred stock is $1.2333.  Convertible
+preferred stock was not included in the diluted  earnings per share  calculation
+for the thirteen weeks ended January 28, 2006, as they were anti-dilutive.
+
+Harvey Electronics, Inc.
+                          Notes to Financial Statements
+                                January 28, 2006
+                                   (Unaudited)
+
+5. Income Taxes
+
+In connection with the Company's  emergence from its  reorganization  proceeding
+under Chapter 11 of the United States  Bankruptcy Code on December 26, 1996, the
+Company  adopted Fresh Start  Accounting in accordance  with AICPA  Statement of
+Position  90-7,  "Financial  Reporting by Entities in  Reorganization  under the
+Bankruptcy  Code." Fresh Start  Accounting  requires that the Company  report an
+income   tax   equivalent   provision   when   there  is  book   income   and  a
+pre-reorganization  net operating loss  carryforward.  This requirement  applies
+despite  the fact  that the  Company's  pre-reorganization  net  operating  loss
+carryforward  will be  utilized to reduce the related  income tax  payable.  The
+current  and  any  future  year  benefit   arising  from   utilization   of  the
+pre-reorganization  carryforward  is not  reflected  as a  reduction  of the tax
+equivalent provision in determining net income, but instead is recorded first as
+a  reduction  of  reorganization   value  in  excess  of  amounts  allocable  to
+identifiable  assets until  exhausted  and  thereafter  as a direct  addition to
+paid-in-capital.
+
+For the  thirteen  weeks  ended  January 28,  2006 and  January  29,  2005,  the
+Company's income tax provision  represents  deferred tax expense of $25,000 (36%
+effective tax rate) and $180,000 (40%  effective tax rate),  respectively.  As a
+result, the Company's long-term deferred tax asset was reduced by these amounts.
+The income tax provisions will not require the use of the Company's cash.
+
+6. Inventories
+
+Inventories   have  been  valued  at  average  cost,  based  upon  gross  profit
+percentages applied to sales.
+
+Harvey Electronics, Inc.
+                          Notes to Financial Statements
+                                January 28, 2006
+                                   (Unaudited)
+
+Item 2. Management's  Discussion and Analysis of Financial Condition and Results
+of Operatons
+
+The following  management's  discussion  and analysis and this Form 10-Q contain
+forward-looking  statements,  which involve risks and  uncertainties.  When used
+herein, the words "anticipate,"  "believe," "estimate," and "expect" and similar
+expressions  as they relate to the  Company or its  management  are  intended to
+identify  such  forward-looking  statements  within the  meaning of the  Private
+Securities  Litigation  Reform  Act  of  1995.  The  Company's  actual  results,
+performance or achievements  could differ  materially from the results expressed
+in or implied by these  forward-looking  statements.  Historical results are not
+necessarily  indicative  of trends in operating  results for any future  period.
+Readers  are  cautioned  not to place undue  reliance  on these  forward-looking
+statements, which speak only as of the date the statement was made.
+
+Results of Operations
+
+General
+
+The  following  discussion  should  be read in  conjunction  with the  Company's
+audited  financial  statements  for the fiscal years ended  October 29, 2005 and
+October 30, 2004, included in the Company's Annual Report on Form 10K.
+
+Thirteen  Weeks Ended  January  28,  2006 as  Compared  to Thirteen  Weeks Ended
+January 29, 2005
+
+Net Income.  The Company's  pre-tax  income for the thirteen weeks ended January
+28, 2006  aggregated  $70,000 as compared to $454,000  for the same period ended
+January 29, 2005. Net income for the first quarter of fiscal 2006 was $45,000 as
+compared to $274,000 for the same period last year.
+
+The Company  believes  the non-GAAP  measurement  of earnings  before  interest,
+taxes,  depreciation  and  amortization  ("EBITDA") is an important  operational
+measure.  Depreciation and amortization  have  historically  been significant in
+relation to net income. The Company's  depreciation and amortization expense, as
+does  interest  expense  from  its  line of  credit,  primarily  relates  to the
+Company's retail stores and expansion of its retail stores. The Company's income
+tax  equivalent  provisions  or deferred tax expense have also had a significant
+impact on earnings,  but have  primarily  not required the use of the  Company's
+cash, due to the reporting requirements of Fresh Start Accounting.
+
+The  Company's  Management,  Board of Directors  and Webster  comparably  review
+EBITDA  monthly,  quarterly  and  annually to gauge the  Company's  performance.
+EBITDA may also be used in simple  valuation  measures  of the  Company,  by its
+shareholders  and potential  investors.  Management  understands  that there are
+limitations  associated  with the use of this  non-GAAP  measure  of  EBITDA  as
+compared to net income.  Specifically, a portion of interest expense does relate
+to the Company's operations and a portion of the income tax equivalent provision
+does relate to the payment of certain  state taxes,  although  these amounts are
+not material.  Additionally,  the Company will not eliminate any other recurring
+or non-recurring  expenses in its  reconciliation of the Company's net income to
+EBITDA.
+
+Harvey Electronics, Inc.
+                          Notes to Financial Statements
+                                January 28, 2006
+                                   (Unaudited)
+
+Net Income (continued)
+The  following is a  reconciliation  of the Company's net income to the non-GAAP
+measure of EBITDA:
+
+                                                Thirteen Weeks Ended
+                                       January 28, 2006      January 29, 2005
+                                       ----------------      ----------------
+Net income                                 $45,288              $273,944
+
+Add back:
+Interest expense                            77,483                45,243
+Income taxes                                25,000               180,000
+Depreciation and amortization              180,060               158,493
+                                           -------               -------
+EBITDA                                    $327,831              $657,680
+                                          ========              ========
+
+The Company's net income for the first quarter of fiscal 2006 was reduced by net
+advertising  expense of $160,000 as  compared to $325,000  for the same  quarter
+last year. The Company's  advertising presence decreased in the first quarter of
+fiscal 2006, as advertising expenditures decreased to $730,000 from $965,000 for
+the same period last year.
+
+Additionally,  as the Company's  overall sales declined for the first quarter of
+fiscal  2006,  from the  same  period  last  year,  the  Company  realized  less
+cooperative advertising support from its vendors.
+
+The Company's pre-tax income for the first quarter of fiscal 2006 was negatively
+impacted by reduced  comparable  store sales as  discussed  below,  as well as a
+reduction in the gross profit margin from  competitive  pressure and promotional
+advertising in this quarter.
+
+The Company  recorded income tax provisions for the thirteen weeks ended January
+28, 2006 and January 29, 2005 of $25,000 (36%  effective  tax rate) and $180,000
+(40%  effective  tax rate),  respectively.  The income tax  provisions  will not
+materially affect the Company's tax liability or its use of cash.
+
+Revenues.  Net sales for the first  quarter  ended  January 28, 2006 declined to
+$11,385,000 or a 5.8% decrease from the same quarter last year. Comparable store
+sales for the first quarter of fiscal 2006  decreased  approximately  10.9% from
+the same period last year. The decrease in sales was due to a continued slowdown
+in retail store  traffic,  a reduction of audio sales and flat panel  television
+shortages from key vendors, making it difficult to fulfill customer orders.
+
+Despite  these  flat panel  shortages  and  continued  video  price  compression
+experienced in the industry,  the Company's video business  remained  relatively
+flat with the same quarter  last year.  Demand for flat panel  televisions  have
+continued to be strong and unit sales have  increased  approximately  37% in the
+first  quarter of fiscal 2006 as  compared  to the same  period  last year.  The
+Company  has  experienced  flat  panel  growth in  larger  size  plasma  and LCD
+televisions while reporting declines in smaller units. Sales of larger size flat
+panel televisions have provided installation  opportunities for the Company. The
+Company's  labor  revenue  ($1  million)   remained  strong  and  accounted  for
+approximately 9% of gross sales for the first quarter of fiscal 2006 as compared
+to labor revenue ($1.1 million) accounting for 9.3% of gross sales from the same
+quarter last year.
+
+Harvey Electronics, Inc.
+                          Notes to Financial Statements
+                                January 28, 2006
+                                   (Unaudited)
+
+Net Income (continued)
+The Company's  overall video sales ($5.2 million) have been negatively  impacted
+by price  compression  in the industry as well as  competitive  pressures in the
+market.  Management  believes  this trend will continue but not at the same rate
+which was  experienced  in fiscal  2005 and  earlier  in fiscal  2006.  As video
+products  are  affected  by  price  compression,  Management  believes  it is an
+opportunity for the Company to attach additional higher margin audio components,
+accessories  and labor.  Video sales  represented  approximately  44.7% of gross
+sales for the first  quarter of fiscal  2006,  from 42.3% of gross sales for the
+same quarter last year.
+
+The Company's  higher margin audio sales ($5.3  million) have decreased to 46.2%
+of gross  sales for the first  quarter of fiscal  2006 from 48.4% of gross sales
+for the same quarter last year. Audio sales were negatively  impacted by reduced
+audio  components,  systems and audio  accessories.  The Company's higher margin
+furniture,  cable, wire and surge protector sales continued to increase, despite
+the overall reduction in sales.
+
+The Company  believes it  continues  to benefit  from the strong  demand for its
+custom installation services. Additionally,  despite increased competition and a
+decline in retail  store  traffic,  customer  demand  continues to be strong for
+digital video  products  including  larger  plasma flat screen,  LCD flat panel,
+high-definition televisions,  integrated remote controls and related custom home
+installations.   Custom  installation   projects  continue  to  increase,  as  a
+percentage  of gross sales and  accounted for 61.1% of gross sales for the first
+quarter of fiscal 2006,  as compared to  approximately  58.4% of gross sales for
+the same quarter last year. Overall custom  installation  sales,  including both
+equipment sales and labor income remained strong and aggregated $7.1 million for
+the first  quarter of fiscal  2006,  as  compared  to $7.2  million for the same
+period last year. The Company's custom installation  services yield higher gross
+profit  margins and stronger  net  profitability,  as compared to normal  retail
+store sales.
+
+The Company believes it differentiates  itself by offering  sophisticated custom
+installation services,  including programming  capabilities that address complex
+technological  integration  issues  giving its  customers  easy  remote  control
+operations  for a variety of functions.  Management  believes  installations  of
+dedicated  theater rooms,  hard drive video and audio storage and  distribution,
+lighting  systems  in the home,  as well as network  cabling  will  continue  to
+attract  affluent  customers to the  Company.  The home theater room will be the
+forefront of the smart home,  for the desired  integration  of all  electronics,
+lighting,  security  and  networking  within the home.  These  offerings  should
+continue to benefit  sales,  enhance  gross  margins and improve  overall  store
+profitability.
+
+The Company  believes it can expand its service  niche in offering  custom labor
+and  other  accessories  for both  Harvey  customers  and  customers  that  have
+purchased  products  elsewhere,  specifically  on  the  internet  or  from  mass
+merchants.  The Company is offering a forty-eight  hour response time to address
+the needs of a qualified customer at an additional labor cost. Additionally, the
+Company has  recently  announced a  partnership  with  Cablevision  offering and
+installing  their high speed cable modems and digital cable boxes in conjunction
+with our installation services to Cablevision's iO digital cable customers.  The
+Company is also working with Time Warner in offering these services.
+
+Net sales for the new Harvey  retail store  located in  Bridgewater,  New Jersey
+have been encouraging.  The Company believes that this store will take some time
+to mature as its sales have  significantly  come from new home  construction and
+custom  installations  which  take  time  to  cultivate  and  complete.  The new
+Bridgewater store is expected to contribute to net store profitability in fiscal
+2006.
+
+Harvey Electronics, Inc.
+                          Notes to Financial Statements
+                                January 28, 2006
+                                   (Unaudited)
+
+Net Income (continued)
+In fiscal 2005, the Company  relocated and consolidated its Bang & Olufsen store
+in Greenwich,  Connecticut with its Harvey Greenwich store, one block away. This
+store-within-a-store  concept  presents Bang & Olufsen  products in a unique and
+separate  showcase within a Harvey store.  The Company is excited about this new
+store-within-a-store  concept and has been able to  increase  its Bang & Olufsen
+sales without the overhead of a separate store.
+
+Net sales for all of the Company's  retail stores  experienced  declines for the
+first quarter of fiscal 2006, as compared to the same quarter last year,  except
+the Company's Mt. Kisco, New York and Paramus,  New Jersey stores.  These stores
+benefited  from strong  custom  installation  business  during the quarter.  The
+Company's  first quarter net sales for its Bang & Olufsen store in New York City
+remained relatively flat with the first quarter of fiscal 2005.
+
+In September 2005, the Company  engaged a new advertising  agency to promote its
+brand and increase awareness in the Company's service initiatives. The Company's
+marketing  efforts  were in a  transition  stage in the first  quarter of fiscal
+2006.  The new campaign is expected to be  introduced  in the  Company's  second
+quarter.  In fiscal 2006, the Company's planned marketing  disbursements will be
+redistributed  and its overall  expenditures  are  expected to decline  from the
+total  expenditures  incurred in fiscal 2005.  These  efforts  will  continue to
+include  radio,  newspaper,  direct mail and e-mail  broadcasts,  as well as the
+continued promotion of the Company's website, www.harveyonline.com.  The Company
+does expect to improve or replace its website in fiscal 2006.
+
+For fiscal 2006,  the Company also will endeavor to put  additional  efforts and
+resources into its important customer relations management initiatives and plans
+to be more  aggressive  with  specific  e-mail  promotions  to  prospective  and
+existing customers.
+
+Cost and Expenses. Total cost of goods sold for the first quarter decreased 2.2%
+to $6,834,000, as compared to the same quarter last year. The decline in cost of
+goods sold was primarily due to the overall 5.8% decrease in net sales as noted
+above, and was increased by the decline in the Company's gross profit margin for
+the first quarter of fiscal 2006.
+
+The gross  profit  margin for the first  quarter of fiscal 2006  declined to 40%
+from 42.3% for the same  quarter  last  year.  The  decline in the gross  profit
+margin was due to continued video price compression, reduced higher margin audio
+sales,  and  additionally  from price  promotions  offered in December  2005 and
+January  2006.  Additionally,  the  Company  experienced  an 8% decline in labor
+revenue  during its first quarter of fiscal 2006 as well as a reduction of gross
+margin on its labor  revenue from  additional  costs  associated  with its labor
+force.  In the second  quarter of fiscal  2006,  the  Company has  modified  and
+increased  its labor rates which should  improve labor margins for the remainder
+of the year.
+
+Additional higher margin furniture, cable, wire and surge protector sales helped
+to mitigate the decline in the Company's overall gross profit margin.
+
+The  Company's  total  cost of  goods  sold  includes  freight  costs,  purchase
+discounts  from its vendors and inventory  shrink.  The  Company's  gross profit
+margin may not be comparable to other reporting  electronics  retailers as other
+entities may include the costs relating to their  warehousing  and  distribution
+networks.  Warehouse  and  distribution  network  costs for the first quarter of
+fiscal 2006 and 2005 approximated $170,000 and $200,000,  respectively,  and are
+included in SG&A expenses.
+
+Harvey Electronics, Inc.
+                          Notes to Financial Statements
+                                January 28, 2006
+                                   (Unaudited)
+
+Net Income (continued)
+Selling,  general and administrative  expenses ("SG&A") for the first quarter of
+fiscal 2006 decreased by approximately $194,000 or 4.2%, as compared to the same
+quarter  last  year.  This  decrease  was  offset by  additional  SG&A  expenses
+aggregating  $229,000,  relating to the  Company's new  Bridgewater,  New Jersey
+store.
+
+Net  advertising  expense,  which is included in SG&A  expenses in the Company's
+Statements of  Operations,  declined to $160,000 for the first quarter of fiscal
+2006 from  $325,000 for the same quarter last year.  This decrease was primarily
+related to a reduction in advertising expenditures.  The Company also realized a
+decline in  cooperative  advertising  support from its vendors  during the first
+quarter of fiscal 2006, as compared to the first quarter in fiscal 2005.
+
+SG&A expenses also declined from reduced payroll and payroll  related  expenses,
+management bonuses and communications.  These decreases were offset by increased
+depreciation  expense,  occupancy  costs,  supplies  and  credit  card fees from
+promotions offering extended financing options.
+
+As part of its ongoing  cost  reduction  program,  Management  will  continue to
+examine  ways to reduce  expenses  further in fiscal  2006.  This  includes  the
+negotiation  with its landlords for rent reductions or deferrals.  Additionally,
+Management  will endeavor to improve its purchasing  and inventory  efficiencies
+while implementing positive merchandising changes and cultivating its profitable
+service offerings.
+
+However,  the Company  plans to continue to hire and train  custom  installation
+personnel,  as needed, and incur the necessary  associated  expenses relating to
+the expansion of its custom  installation  services.  Management  believes these
+services  differentiate  Harvey and are vital to the  Company's  business  plan.
+Management  will also  intensify  its sales  training  efforts in fiscal 2006 to
+ensure  that its  customers  are given an  exceptional  and  unsurpassed  retail
+experience.
+
+Interest  expense  increased  by  approximately  $32,000  or 71.3% in the  first
+quarter of fiscal 2006 from the same period last year. This was primarily due to
+increased   borrowings  and  higher  interest  rates.   The  Company's   balance
+outstanding on its credit  facility had increased as the Company used the credit
+facility to finance the construction of its new retail store in Bridgewater, New
+Jersey,  in fiscal  2005.  Additionally,  the credit  facility  was used to fund
+expenditures  for computer  equipment,  software  deposits and development  work
+relating  to the  replacement  of its  legacy  computer  system  expected  to be
+completed in fiscal 2006.
+
+For the first quarter ended January 28, 2006 and January 29, 2005, the Company's
+income tax provision  represents  deferred tax expense of $25,000 (36% effective
+tax rate) and $180,000 (40%  effective tax rate),  respectively.  The income tax
+provisions did not require the use of the Company's cash.
+
+Harvey Electronics, Inc.
+                          Notes to Financial Statements
+                                January 28, 2006
+                                   (Unaudited)
+
+Liquidity and Capital Resources
+At January 28, 2006 and October 29, 2005, the Company's  ratio of current assets
+to current liabilities was 1.26 and 1.52, respectively.
+
+The current ratio at January 28, 2006 was  positively  impacted by the Company's
+pre-tax income and was negatively  impacted by an increase in customer  deposits
+where  orders  could  not be  fulfilled  due to flat  panel  television  product
+shortages.
+
+Net cash provided by operating  activities  for the first quarter of fiscal 2006
+increased  to  $1,396,000  from  $286,000  for the same period  last year.  This
+increase was due to an increase in customer deposits as discussed above, coupled
+with an increase in trade accounts payable and accrued  expenses.  Additionally,
+the Company was  successful in reducing its  inventories in the first quarter of
+fiscal  2006,  where in the first  quarter  of  fiscal  2005,  inventories  were
+increased.
+
+Net cash used in investing  activities for this first quarter of fiscal 2006 was
+$197,000 as compared to $209,000 for the same period last year. Net cash used in
+investing activities included the purchase of equipment and software aggregating
+$86,000 and deposits on development  work  aggregating  $110,000  related to the
+planned  replacement  of the Company's  legacy  computer  system.  For the first
+quarter  of  fiscal  2005,  $209,000  was used  for the  purchase  of  leasehold
+improvements and equipment.
+
+Net cash used in financing  activities  for the first quarter of fiscal 2006 was
+$1,198,000,  as compared to $76,000 for the same  quarter  last year.  Financing
+activities for the first quarter  included net payments of $1,159,000,  reducing
+the credit facility, preferred stock dividends of $25,000 and principal payments
+on note  payables  of $14,000.  Financing  activities  for the first  quarter of
+fiscal 2005  included  net payments of $36,000,  reducing  the credit  facility,
+preferred  stock  dividends  paid of  $33,000  and  principal  payments  on note
+payables of $7,000.
+
+In November  2003,  the Company  entered into a five-year  $7.5  million  credit
+facility with Webster Business Credit Corporation  ("Webster"),  a subsidiary of
+Connecticut  based  Webster  Bank.  This  credit  facility  replaced  the credit
+facility with Wells Fargo. Under the credit facility,  the Company can borrow up
+to $7.5 million based upon lending  formulas  calculated on eligible credit card
+receivables  and  inventory,  less  certain  reserves,  as  defined.  The credit
+facility expires November 21, 2008.
+
+The  interest  rate on all  borrowings  under the credit  facility is 0.25% over
+Webster  Bank's prime rate (7.25% at January 28,  2006) or LIBOR plus 2.75%,  at
+the Company's option.
+
+In connection  with the credit  facility,  the Company  granted Webster a senior
+security interest in all of the Company's  assets.  The credit facility provides
+Webster with rights of  acceleration  upon the  occurrence of certain  customary
+events of default. The Company is restricted from paying dividends on its Common
+Stock,  retiring or  repurchasing  its Common Stock and entering into additional
+indebtedness (as defined).
+
+Harvey Electronics, Inc.
+                          Notes to Financial Statements
+                                January 28, 2006
+                                   (Unaudited)
+
+Liquidity and Capital Resources (Continued)
+Pursuant to the credit facility, the Company cannot exceed certain advance rates
+on eligible  inventory  and must  maintain  certain  levels of  earnings  before
+interest,  taxes,  depreciation and amortization ("EBITDA").  Additionally,  the
+Company's  capital  expenditures  cannot  exceed  a  predetermined   amount.  In
+September 2005, the Company entered into a First Amendment and Waiver  Agreement
+("First  Amendment")  with  Webster.  The First  Amendment  waived any  covenant
+defaults  existing at the end of the third  quarter of fiscal 2005 and  modified
+the EBITDA and capital  expenditures  covenants for the fourth quarter of fiscal
+2005. On January 20, 2006, the Company entered into a Second Amendment  ("Second
+Amendment") with Webster.  The Second Amendment  modified the EBITDA and capital
+expenditures  covenants  for the first  quarter of fiscal 2006.  On February 17,
+2006, the Company  entered into a Third  Amendment  with Webster,  which further
+modified the EBITDA covenant, effective at the beginning of the Company's second
+quarter.  As of  January  28,  2006,  the  company  was in  compliance  with all
+covenants.
+
+At March 13, 2006, there was approximately  $2,880,000 in outstanding borrowings
+under the credit facility,  with  approximately  $1,723,000  available to borrow
+under this credit facility.
+
+The  Company  has  authorized  10,000  shares  of  8.5%  Cumulative  Convertible
+Preferred Stock  ("Preferred  Stock") with a par value of $1,000 per share.  The
+conversion  price of the Company's  preferred  stock is $1.2333.  At January 28,
+2006,  600 shares of Preferred  Stock,  held by one  shareholder,  are currently
+outstanding and convertible into 486,500 shares of Common Stock.
+
+The Company's  newest 4,500 square foot Harvey retail  showroom in  Bridgewater,
+New Jersey  opened in late June 2005. In fiscal 2005,  the Company  financed all
+necessary leaseholds,  equipment, furniture, fixtures and inventory, aggregating
+$1,560,000,  with its credit  facility.  In fiscal 2006, the Company  expects to
+complete the  installation  of a full movie theater within its Long Island store
+and make  miscellaneous  purchases  of  computer  equipment,  and other  assets,
+approximating $150,000 to be financed using the Company's credit facility.
+
+The  Company  plans to replace its  existing  computer  system in May 2006.  The
+project  cost is  estimated  at $600,000 - $650,000.  At January 28,  2006,  the
+remaining  costs to complete  the project are  estimated at $300,000 - $350,000.
+These costs will be financed using the Company's credit facility in fiscal 2006.
+
+The Company  intends to  introduce  its new  advertising  campaign in the second
+quarter of fiscal  2006,  primarily  with print,  radio,  direct mail and e-mail
+broadcasts. Advertising expenditures are expected to be reduced in fiscal 2006.
+
+The  Company's  website gives its  customers  access to one of Harvey's  upscale
+retail showrooms or offers its customers a private, in-home consultation through
+the  convenience of the Internet.  The Company is expected to improve or replace
+its website in fiscal 2006 at an estimated cost of between $75,000 - $100,000.
+
+Harvey Electronics, Inc.
+                          Notes to Financial Statements
+                                January 28, 2006
+                                   (Unaudited)
+
+Liquidity and Capital Resources (continued)
+In fiscal  2004,  the Company  amended and  extended  the lease for its flagship
+store in  Midtown  Manhattan.  This  lease  amendment  increased  the  Company's
+occupancy costs in fiscal 2005 but will increase these costs to a greater extent
+beginning  in  fiscal  2006.  The  increase  in rent  expense  for  this  store,
+calculated  on a  straight-line  basis,  beginning in fiscal 2006 is expected to
+approximate $200,000 per year.
+
+In July 2003,  the Company  received a notice and  information  request from the
+Pennsylvania Department of Environmental Protection ("PADEP"). See Part I, Legal
+Proceedings and the notes to the Company's financial statements,  for details on
+this matter.
+
+The  Securities and Exchange  Commission  has extended the compliance  dates for
+non-accelerated  filers,  pursuant to 404 of the Sarbanes-Oxley Act of 2002. The
+Company will further evaluate its implementation plan in fiscal 2006 to meet its
+compliance  requirements  for the  fiscal  year  ending  October  27,  2007.  In
+connection with this  significant  effort,  Management  believes that normal and
+customary  expenses related to implementation of the required current provisions
+of the Act may be in the range of $250,000 - $350,000 for fiscal 2007.
+
+The Company has no off-balance sheet arrangements as of January 28, 2006.
+
+Management  believes that cash on hand, cash flow from operations and funds made
+available under the credit facility with Webster, will be sufficient to meet the
+Company's  anticipated  working capital needs for at least the next twelve-month
+period.
+
+Seasonality
+
+The  Company's  business is subject to seasonal  variations.  Historically,  the
+Company has  realized a slight  increase in its total  revenue and a majority of
+its net  income  for the  year  during  the  first  fiscal  quarter.  Due to the
+importance of the holiday shopping season, any factors negatively  impacting the
+holiday  selling season could have an adverse  effect on the Company's  revenues
+and its  ability  to  generate  a profit.  The  Company's  quarterly  results of
+operations  may  also  fluctuate  significantly  due  to a  number  of  factors,
+including  the timing of new store  openings  and  acquisitions  and  unexpected
+changes in volume-related rebates or changes in cooperative advertising policies
+from manufacturers. In addition, operating results may be negatively affected by
+increases in merchandise costs, price changes in response to competitive factors
+and unfavorable local, regional or national economic developments that result in
+reduced consumer spending.
+
+Impact of Inflation
+
+Management does not believe that inflation has had a material  adverse effect on
+the  Company's  results of  operations.  However,  the  Company  cannot  predict
+accurately the effect of inflation on future operating results.
+
+Harvey Electronics, Inc.
+                          Notes to Financial Statements
+                                January 28, 2006
+                                   (Unaudited)
+
+Item 4. Disclosure Controls and Procedures
+Under the supervision and with the  participation  of the Company's  Management,
+including the Chief Executive Officer/President and the Chief Financial Officer,
+the Company  carried out an  evaluation of the  effectiveness  of the design and
+operation  of the  disclosure  controls  and  procedures,  as  defined  in Rules
+13a-15(e) and 15d-15(e) of the Securities  Exchange Act of 1934, as amended (the
+"Exchange  Act").  Based upon that  evaluation,  the Company's  Chief  Executive
+Officer/President  and Chief  Financial  Officer  concluded  that the  Company's
+disclosure  controls and procedures  are effective,  as of the end of the period
+covered by this Report (January 28, 2006), in ensuring that material information
+relating to the Company  required to be disclosed by the Company in reports that
+it files or submits  under the Exchange Act is recorded,  processed,  summarized
+and reported  within the time periods  specified in the  Securities and Exchange
+Commission's rules and forms,  including ensuring that such material information
+is  accumulated  and  communicated  to the Company's  Management,  including the
+Company's Chief Executive  Officer/President  and Chief  Financial  Officer,  as
+appropriate to allow timely decisions  regarding required  disclosure.
+
+As noted  above,  the  Securities  and  Exchange  Commission  has  extended  the
+compliance   dates  for   non-accelerated   filers,   pursuant  to  404  of  the
+Sarbanes-Oxley Act of 2002. The Company will further evaluate its implementation
+plan in fiscal 2006 to meet its  compliance  requirements  of fiscal year ending
+October 27, 2007.
+
+There were no changes in the Company's internal control over financial reporting
+(as required by the Exchange Act) that occurred during the Company's last fiscal
+quarter that have materially  affected,  or are reasonably  likely to materially
+affect, the Company's internal controls over financial reporting.
+
+Harvey Electronics, Inc.
+                          Notes to Financial Statements
+                                January 28, 2006
+                                   (Unaudited)
+
+                           PART II. OTHER INFORMATION:
+
+Items 2, 3, 4 and 5 were not applicable in the quarter ended January 28, 2006.
+
+Item 1. Legal Matters
+
+In July 2003,  the Company  received a notice and  information  request from the
+Pennsylvania Department of Environmental Protection ("PADEP"). The notice stated
+that  PADEP   considers  the  Company  a  potentially   responsible   party  for
+contamination  related to a septic  drain  field  located  at a former  Chem Fab
+Corporation ("Chem Fab") in Doylestown, Pennsylvania.
+
+PADEP's  notice  stated that if Chem Fab was  previously  owned by Harvey Radio,
+Inc.  ("Harvey Radio") and if the Company was a successor to Harvey Radio,  then
+the Company could be, in part,  responsible for any environmental  investigation
+or clean up actions necessary at this site.
+
+Harvey Radio was the  predecessor of The Harvey Group,  Inc.  ("Harvey  Group"),
+which filed for relief under Chapter 11 of the United States  Bankruptcy Code in
+August 1995. The Company is the surviving  retail  business of the Harvey Group,
+which emerged from  bankruptcy  in December  1996.  Chem Fab was a  wholly-owned
+subsidiary of Harvey Radio as of September  1967.  The capital stock of Chem Fab
+(a then wholly-owned  subsidiary of Harvey Group) was sold by the Company to the
+Boarhead  Corporation in January 1978. The  disposition of Chem Fab was prior in
+time to the Company's bankruptcy petition date of August 3, 1995.
+
+On August 29, 2003, the Company sent its response letter to PADEP. The Company's
+response  stated  that any action by PADEP to recover any money from the Company
+relating to any environmental investigation or cleanup related to Chem Fab is in
+violation of the injunctions  imposed by virtue of the Company's 1995 Bankruptcy
+proceeding.  The response  letter to PADEP  specifically  referred to two cases,
+with respect to entities  subject to a discharge in  bankruptcy  by the Southern
+District of New York and the Second  Circuit  Court of Appeals.  These cases may
+support the Company's position enjoining any further action against the Company.
+
+The Company believes PADEP's claim, even absent the bankruptcy injunction, would
+be improper  against the Company,  as Harvey Group was a shareholder of Chem Fab
+and Chem Fab's capital stock was sold in 1978, as previously stated.
+
+The Company  advised PADEP that any further action to pursue a claim against the
+Company would result in the Company  bringing a motion to reopen its  bankruptcy
+case, solely to address the PADEP claim and further,  the Company would commence
+contempt  proceedings  against  PADEP.  To date,  the Company has not received a
+response from PADEP.
+
+The  Company has also  retained  special  environmental  counsel for advice with
+respect to PADEP's request for information and other matters with respect to the
+claim.
+
+Furthermore, the number of other parties that may be responsible,  their ability
+to share in the cost of a clean up and whether the  Company's  existing or prior
+insurance  policies provide coverage for this matter is not known. At this time,
+it is impossible for the Company to determine the outcome or cost to the Company
+on this matter.
+
+Harvey Electronics, Inc.
+                          Notes to Financial Statements
+                                January 28, 2005
+                                   (Unaudited)
+
+Item 6. Exhibits
+
+(a) Exhibits
+     Exhibit Number          Description
+     --------------          -----------
+
+     Exhibit 10.3            Third Amendment Agreement with Webster
+                             Business Credit Dated February 17, 2006
+
+Exhibit 31.1            Certification - Chief Executive Officer/President
+
+Exhibit 31.2            Certification - Chief Financial Officer
+
+Exhibit 32.1            Certification - Chief Executive Officer/President
+
+Exhibit 32.2            Certification - Chief Financial Officer
+
+Harvey Electronics, Inc.
+                          Notes to Financial Statements
+                                January 28, 2006
+                                   (Unaudited)
+
+Signatures
+
+In accordance with the  requirements of the Exchange Act, the Registrant  caused
+this  report to be  signed on its  behalf  by the  undersigned,  thereunto  duly
+authorized on March 14, 2006.
+
+                          Harvey Electronics, Inc.
+
+                          By:/s/Franklin C. Karp
+                             ------------------------------------------
+                             Franklin C. Karp
+                             Chief Executive Officer/President
+
+                          By:/s/Joseph J. Calabrese
+                             ------------------------------------------
+                             Joseph J. Calabrese
+                             Executive Vice President, Chief Financial Officer,
+                             Treasurer & Secretary
+
+<EX-10.3>
+ 2
+ thirdamendmentagreement.txt
+ THIRD AMENDMENT
+ 
+Exhibit 10.3
+
+                            THIRD AMENDMENT AGREEMENT
+
+THIS THIRD AMENDMENT  AGREEMENT (this "Third Amendment") is entered into as
+of  February  17,  2006  by and  among  Harvey  Electronics,  Inc.,  a New  York
+corporation ("Borrower"), and Webster Business Credit Corporation ("Lender").
+
+                                  Introduction
+
+     Borrower and Lender are parties to a Loan and Security  Agreement  dated as
+of November 21, 2003 (as amended through the date hereof and as further amended,
+restated,  supplemented  or  otherwise  modified  from  time to time,  the "Loan
+Agreement")  pursuant to which Lender has agreed to make revolving  credit loans
+and to provide certain other financial accommodations to Borrower.
+
+     Borrower has requested certain amendments to the Loan Agreement.  Lender is
+willing to effect the amendments of the Loan Agreement  requested by Borrower on
+the terms and conditions hereinafter set forth.
+
+     NOW, THEREFORE,  in consideration of the foregoing and the mutual covenants
+herein contained, and for other good and valuable consideration, the receipt and
+sufficiency  of which are hereby  acknowledged,  Borrower  and  Lender  agree as
+follows:
+
+     1.  Amendments  to the  Loan  Agreement.  Upon  the date  that  this  Third
+Amendment  shall  have  been  executed  by each of the  parties  hereto  and all
+conditions set forth in Section 3 of this Third  Amendment have been  satisfied,
+Borrower and Lender agree that the Loan Agreement shall be amended as follows:
+
+     (a) Section 7.21 of the Loan  Agreement is hereby  amended by deleting such
+Section  7.21 in its entirety and  inserting in lieu thereof the  following  new
+Section 7.21:
+
+     7.21 Financial Covenants.
+
+     (a) Minimum  EBITDA.  Measured on the last day of each fiscal month,  allow
+EBITDA for such fiscal month to vary negatively by more than the following:
+
+                  Month Ending:                      Amount:
+                  ------------                       ------
+
+                  November, 2005                     $188,000
+                  December, 2005                     $188,000
+                  January, 2006                      $188,000
+                  February, 2006                     $165,000
+                  March, 2006                        $165,000
+                  April, 2006                        $165,000
+                  May, 2006                          $165,000
+                  June, 2006                         $165,000
+                  July, 2006                         $165,000
+                  August, 2006                       $165,000
+                  September, 2006                    $165,000
+                  October, 2006                      $165,000
+
+     (b) EBITDA for the rolling  three fiscal month period ended on the last day
+of each fiscal month to vary negatively by more than the following:
+
+                  Month Ending:                      Amount:
+                  ------------                       ------
+
+                  November, 2005                     $375,000
+                  December, 2005                     $375,000
+                  January, 2006                      $375,000
+                  February, 2006                     $330,000
+                  March, 2006                        $330,000
+                  April, 2006                        $330,000
+                  May, 2006                          $330,000
+                  June, 2006                         $330,000
+                  July, 2006                         $330,000
+                  August, 2006                       $330,000
+                  September, 2006                    $330,000
+                  October, 2006                      $330,000
+
+     (b)  Subsection  7.21 of the Loan  Agreement is hereby  further  amended by
+adding the following clause (d) thereto:
+
+          (d)(i) Minimum EBITDA (Section 7.2 1(a)): Excess Availability.  Lender
+               agrees that the one month  Minimum  EBITDA  covenant set forth at
+               Section  7.21(a)  above  will not be tested as of the last day of
+               any fiscal month during which the Borrower's average daily Excess
+               Availability was equal to or greater than $1,500,000.
+
+          (ii) Additional   Capital.  If  at  any  time  the  Borrower  receives
+               additional capital in the form of equity or subordinated debt, in
+               either  instance  on terms  and  conditions  satisfactory  to the
+               Lender in its Permitted  Discretion,  in the minimum gross amount
+               of  $3,500,000,   then  the   $1,500,000   average  daily  Excess
+               Availability  referred to in the foregoing clause (d)(i) shall be
+               deemed reduced to $1,000,000.
+
+     2. Lender's Rights. Lender expressly reserves the full extent of its rights
+under the Loan  Agreement,  the other Loan  Documents  and  applicable  law with
+respect to any Default or Event of Default existing on the date hereof
+
+     3. Conditions Precedent to Third Amendment. The satisfaction of each of the
+following,  unless  waived or  deferred  by Lender in its  Permitted  Discretion
+constitute conditions precedent to the effectiveness of this Third Amendment:
+
+     (a) Lender  shall have  received  this Third  Amendment,  duly  executed by
+Borrower;
+
+     (b) the  representations  and warranties in this Third Amendment,  the Loan
+Agreement,  as amended  hereby,  and the other Loan Documents  shall be true and
+correct in all  respects  on and as of the date  hereof,  as though made on such
+date  (except to the extent  that such  representations  and  warranties  relate
+solely to an earlier date);
+
+     (c) no Default or Event of Default shall have occurred and be continuing on
+the date  hereof,  and no  Default  or Event of Default  shall  result  from the
+consummation of the transactions contemplated herein;
+
+     (d) no injunction,  writ,  restraining  order, or other order of any nature
+prohibiting,  directly  or  indirectly,  the  consummation  of the  transactions
+contemplated  herein  shall have been issued and remain in force by any court or
+other governmental authority against Borrower or Lender; and
+
+     (e)  Lender  shall  have  received  payment  in full  of its  out-of-pocket
+expenses  (including  reasonable  attorneys'  fees  and  expenses)  incurred  in
+connection with the Loan Agreement and this Third Amendment.
+
+     4. Representations and Warranties.  Borrower hereby represents and warrants
+to the Lender that
+
+     (a) the execution,  delivery, and performance of this Third Amendment,  the
+Loan Agreement and the other Loan Documents (i) are within Borrower's  corporate
+powers, (ii) have been duly authorized by all necessary corporate action,  (iii)
+do not  require  any  approval  or consent of any Person  under any  contractual
+obligation  of the Borrower and (iv) do not  contravene  (A) any law,  rule,  or
+regulation, or any order, judgment,  decree, writ or injunction, or award of any
+arbitrator,  court,  or  Governmental  Authority,  (B) the terms of its charter,
+bylaws  or  other  operative  or  formative  documents  or (C) any  contract  or
+undertaking  to which it is a party or by  which  any of its  properties  may be
+bound or affected;
+
+     (b) this Third Amendment has been duly executed and delivered by Borrower;
+
+     (c)  this  Third  Amendment  and the  Loan  Agreement  and the  other  Loan
+Documents,  each  as  previously  amended  and  as  amended  hereby,  constitute
+Borrower's legal, valid, and binding  obligations,  enforceable against Borrower
+in accordance with their respective terms;
+
+     (d)  Borrower is in  compliance  with all of the terms and  provisions  set
+forth in the  Loan  Agreement  and each of the  other  Loan  Documents,  each as
+previously  amended  and as  amended  hereby,  on its  part  to be  observed  or
+performed on or prior to the date hereof; and
+
+     (e) no Default or Event of Default has occurred and is continuing under the
+Loan Agreement or any other Loan Document.
+
+     5.  Reaffirmation.  Borrower further reaffirms all of its obligations under
+the Loan Agreement and the other Loan Documents,  each as previously amended and
+as amended hereby.
+
+     6. Effect on Loan  Agreement.  Except as  expressly  provided  herein,  the
+execution,  delivery,  and performance of this Third Amendment shall not operate
+as a waiver or an amendment of any right,  power,  or remedy of the Lender under
+the Loan  Agreement or any other Loan Document.  Except to the extent  expressly
+amended  hereby,  the Loan  Agreement  and all  other  Loan  Documents  shall be
+unaffected  hereby,  shall continue in full force and effect,  are hereby in all
+respects ratified and confirmed,  and shall constitute the legal, valid, binding
+and enforceable obligations of Borrower to the Lender.
+
+     7. No Novation; Entire Agreement. This Third Amendment evidences solely the
+amendment of certain terms and  provisions of Borrower's  obligations  under the
+Loan  Agreement  expressly  set forth  herein and is not a novation or discharge
+thereof. There are no other understandings,  express or implied,  between Lender
+and Borrower regarding the subject matter hereof.
+
+     8. Choice of Law. The validity of this Third Amendment,  its  construction,
+interpretation and enforcement,  and the rights of the parties hereunder,  shall
+be determined  under,  governed by, and construed in accordance with the laws of
+The  Commonwealth  of   Massachusetts   without  regard  to  conflicts  of  laws
+principles.
+
+     9. Definitions and Construction.
+
+     (a) Capitalized  terms used but not otherwise defined herein shall have the
+respective  meanings  given  to such  terms in the Loan  Agreement,  as  amended
+hereby.
+
+     (b)  Upon  and  after  the  effectiveness  of this  Third  Amendment,  each
+reference in the Loan  Agreement  to "this  Agreement",  "hereunder",  "herein",
+"hereof'  or words of like  import  referring  to the Loan  Agreement,  and each
+reference  in the other Loan  Documents to "the Loan  Agreement",  "thereunder",
+"therein",  "thereof',  or words of like import referring to the Loan Agreement,
+shall mean and be a reference to the Loan Agreement as amended hereby.
+
+     10.  Counterparts;  Telefacsimile  Execution.  This Third  Amendment may be
+executed  in any number of  counterparts  and by  different  parties in separate
+counterparts,  each of which when so executed and delivered,  shall be deemed an
+original,  and all of which,  when taken together,  shall constitute one and the
+same instrument. Delivery of an executed counterpart of a signature page to this
+Third  Amendment  by  facsimile  shall be as effective as delivery of a manually
+executed  counterpart of this Third Amendment.  Any party delivering an executed
+counterpart  of this Third  Amendment by facsimile also shall deliver a manually
+executed  counterpart  of this  Third  Amendment  but the  failure  to deliver a
+manually executed counterpart shall not affect the validity, enforceability, and
+binding effect of this Third Amendment.
+
+                   [Signatures appear on the following page.]
+
+IN WITNESS  WHEREOF,  Borrower and Lender caused this Third Amendment to be
+executed as of the date first above written.
+
+                            BORROWER:
+
+                            HARVEY ELECTRONICS, INC.
+
+By: /s/ Joseph J. Calabrese
+                                -------------------------------------------
+                                Name:  Joseph J. Calabrese
+                                Title: Executive Vice President and Chief
+                                       Financial Officer
+
+LENDER:
+
+                            WEBSTER BUSINESS CREDIT CORPORATION
+
+                            By: /s/ Patrick Wallace
+                                ------------------------------------------
+                                Name: Patrick Wallace
+                                Title:    Senior Vice President
+
+</EX-10.3>
+
+<EX-31>
+ 3
+ exhibit311.txt
+ EXHIBIT 31.1
+ 
+Exhibit 31.1
+
+                  CERTIFICATION PURSUANT TO RULE 13a-14 OF THE
+                   SECURITIES EXCHANGE ACT OF 1934 AS ADOPTED
+          PURUSANT TO SECTION 302 OF THE SARBANES - OXLEY ACT OF 2002
+
+I,  Franklin  C.  Karp,   Chief  Executive   Officer  and  President  of  Harvey
+Electronics, Inc, (the "Registrant") certify that:
+
+1.   I have  reviewed this  quarterly  report on Form 10-Q for the first quarter
+     ended January 28, 2006;
+
+2.   Based on my knowledge, this report does not contain any untrue statement of
+     a material  fact or omit to state a  material  fact  necessary  to make the
+     statements made, in light of the circumstances  under which such statements
+     were made,  not  misleading  with  respect  to the  period  covered by this
+     report;
+
+3.   Based on my  knowledge,  the  financial  statements,  and  other  financial
+     information  included  in  this  report,  fairly  present  in all  material
+     respects the financial  condition,  results of operations and cash flows of
+     the Registrant as of, and for, the periods presented in this report.
+
+4.   The  Registrant's  other  certifying  officer  and  I are  responsible  for
+     establishing and maintaining disclosure controls and procedures (as defined
+     in Exchange Act Rules  13a-15(e) and  15d-15(e))  for the Registrant and we
+     have:
+
+     (a)  Designed  such  disclosure  controls  and  procedures,  or caused such
+          disclosure   controls  and   procedures  to  be  designed   under  our
+          supervision,  to ensure  that  material  information  relating  to the
+          Registrant  is made  known to us by  others,  particularly  during the
+          period in which this report is being prepared;
+
+     (b)  Evaluated the  effectiveness of the Registrant's  disclosure  controls
+          and procedures and presented in this report our conclusions  about the
+          effectiveness of the disclosure controls and procedures, as of the end
+          of the period covered by this report based on such evaluation; and
+
+     (c)  Disclosed  in this  report  any  change in the  Registrant's  internal
+          control over financial reporting that occurred during the Registrant's
+          third fiscal  quarter that has materially  affected,  or is reasonably
+          likely to materially  affect,  the Registrant's  internal control over
+          financial reporting; and
+
+5.   The Registrant's  other certifying  officer and I have disclosed,  based on
+     our most recent valuation of internal control over financial reporting,  to
+     the Registrant's  auditors and the audit committee of Registrant's board of
+     directors:
+
+     a)   All significant deficiencies and any material weaknesses in the design
+          or operation of internal  control over financial  reporting  which are
+          reasonably  likely to  adversely  affect the  Registrant's  ability to
+          record, process, summarize and report financial information; and
+
+     b)   Any fraud, whether or not material,  that involves management or other
+          employees who have a  significant  role in the  Registrant's  internal
+          control over financial reporting.
+
+Date: March 14, 2006
+
+/s/ Franklin C. Karp
+- -----------------------
+Chief Executive Officer
+and President
+
+</EX-31>
+
+<EX-31>
+ 4
+ exhibit312.txt
+ EXHIBIT 31.2
+ 
+Exhibit 31.2
+
+                  CERTIFICATION PURSUANT TO RULE 13a-14 OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+     AS ADOPTED PURUSANT TO SECTION 302 OF THE SARBANES - OXLEY ACT OF 2002
+
+I, Joseph J.  Calabrese,  Executive Vice  President,  Chief  Financial  Officer,
+Treasurer & Secretary of Harvey Electronics,  Inc., (the "Registrant"),  certify
+that:
+
+1.   I have  reviewed this  quarterly  report on Form 10-Q for the first quarter
+     ended January 28, 2006
+
+2.   Based on my knowledge, this report does not contain any untrue statement of
+     a material  fact or omit to state a  material  fact  necessary  to make the
+     statements made, in light of the circumstances  under which such statements
+     were made,  not  misleading  with  respect  to the  period  covered by this
+     report;
+
+3.   Based on my  knowledge,  the  financial  statements,  and  other  financial
+     information  included  in  this  report,  fairly  present  in all  material
+     respects the financial  condition,  results of operations and cash flows of
+     the Registrant as of, and for, the periods presented in this report.
+
+4.   The  Registrant's  other  certifying  officer  and  I are  responsible  for
+     establishing and maintaining disclosure controls and procedures (as defined
+     in Exchange Act Rules  13a-15(e) and  15d-15(e))  for the Registrant and we
+     have:
+
+     a)   Designed  such  disclosure  controls  and  procedures,  or caused such
+          disclosure   controls  and   procedures  to  be  designed   under  our
+          supervision,  to ensure  that  material  information  relating  to the
+          Registrant  is made  known to us by  others,  particularly  during the
+          period  in which  this  report is being  prepared;
+
+     b)   Evaluated the  effectiveness of the Registrant's  disclosure  controls
+          and procedures and presented in this report our conclusions  about the
+          effectiveness of the disclosure controls and procedures, as of the end
+          of the period covered by this report based on such evaluation; and
+
+     c)   Disclosed  in this  report  any  change in the  Registrant's  internal
+          control over financial reporting that occurred during the Registrant's
+          third fiscal  quarter that has materially  affected,  or is reasonably
+          likely to materially  affect,  the Registrant's  internal control over
+          financial reporting; and
+
+5.   The Registrant's  other certifying  officer and I have disclosed,  based on
+     our most recent evaluation of internal  controls over financial  reporting,
+     to the Registrant's  auditors and the audit committee of Registrant's board
+     of directors:
+
+     a)   All significant deficiencies and any material weaknesses in the design
+          or operation of internal  control over financial  reporting  which are
+          reasonably  likely to  adversely  affect the  Registrant's  ability to
+          record, process, summarize and report financial information; and
+
+     b)   Any fraud, whether or not material,  that involves management or other
+          employees who have a  significant  role in the  Registrant's  internal
+          control over financial reporting.
+
+Date: March 14, 2006
+
+/s/ Joseph J. Calabrese
+- -------------------------------
+Executive Vice President, Chief
+Financial Officer, Treasurer &
+Secretary
+
+</EX-31>
+
+<EX-32>
+ 5
+ exhibit321.txt
+ EXHIBIT 32.1
+ 
+Exhibit 32.1
+
+CERTIFICATION PURSUANT TO
+                             18 U.S.C. SECTION 1350,
+                             AS ADOPTED PURSUANT TO
+                  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In  connection  with the  Quarterly  Report of  Harvey  Electronics,  Inc.  (the
+"Company")  on Form 10-Q for the first  quarter ended January 28, 2006, as filed
+with the Securities and Exchange  Commission on the date hereof (the  "Report"),
+Franklin C. Karp, Chief Executive Officer and President,  certifies, pursuant to
+18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley
+Act of 2002, that to the best of my knowledge:
+
+1.   The Report fully complies with the requirements of Section 13 (a) or 15 (d)
+     of the Securities and Exchange Act of 1934, as amended; and
+
+2.   The information  contained in the Report fairly  presents,  in all material
+     respects, the financial condition and results of operations of the Company.
+
+/s/ Franklin C. Karp
+- --------------------
+Franklin C. Karp
+Chief Executive Officer and President
+March 14, 2006
+
+</EX-32>
+
+<EX-32>
+ 6
+ exhibit322.txt
+ EXHIBIT 32.2
+ 
+Exhibit 32.2
+
+CERTIFICATION PURSUANT TO
+                             18 U.S.C. SECTION 1350,
+                             AS ADOPTED PURSUANT TO
+                  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In  connection  with the  Quarterly  Report of  Harvey  Electronics,  Inc.  (the
+"Company")  on Form 10-Q for the first  quarter ended January 28, 2006, as filed
+with the Securities and Exchange  Commission on the date hereof (the  "Report"),
+Joseph J. Calabrese,  Chief Financial Officer  certifies,  pursuant to 18 U.S.C.
+Section 1350, as adopted  pursuant to Section 906 of the  Sarbanes-Oxley  Act of
+2002, that to the best of my knowledge:
+
+1.   The Report fully complies with the requirements of Section 13 (a) or 15 (d)
+     of the Securities and Exchange Act of 1934, as amended; and
+
+2.   The information  contained in the Report fairly  presents,  in all material
+     respects, the financial condition and results of operations of the Company.
+
+/s/ Joseph J. Calabrese
+- -----------------------
+Joseph J. Calabrese
+Executive Vice President,
+Chief Financial Officer,
+Treasurer & Secretary
+March 14, 2006
+
+</EX-32>
+

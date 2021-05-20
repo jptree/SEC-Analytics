@@ -1,0 +1,2683 @@
+<Header>
+<FileStats>
+    <FileName>20060315_10-Q_edgar_data_1084750_0000950135-06-001611_1.txt</FileName>
+    <GrossFileSize>408791</GrossFileSize>
+    <NetFileSize>159190</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>154181</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>22</N_Tables>
+    <N_Exhibits>4</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000950135-06-001611.hdr.sgml : 20060315
+<ACCEPTANCE-DATETIME>20060315160731
+ACCESSION NUMBER:		0000950135-06-001611
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20060131
+FILED AS OF DATE:		20060315
+DATE AS OF CHANGE:		20060315
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NAVISITE INC
+		CENTRAL INDEX KEY:			0001084750
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-BUSINESS SERVICES, NEC [7389]
+		IRS NUMBER:				522137343
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0731
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-27597
+		FILM NUMBER:		06688402
+
+	BUSINESS ADDRESS:	
+		STREET 1:		400 MINUTEMAN RD
+		CITY:			ANDOVER
+		STATE:			MA
+		ZIP:			01810
+		BUSINESS PHONE:		9786828300
+
+	MAIL ADDRESS:	
+		STREET 1:		100 BRICKHOUSE SQUARE 5TH FLOOR
+		CITY:			ANDOVER
+		STATE:			MA
+		ZIP:			01810
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ THvDEI+wXIh2AQXl2gfJz6UrqQk6RK+UpodJePF4b9+vVuhy409jh8d3Y5ppjxwM
+ L6/e14nuDuWsHUnWOSdcsw==
+
+ 0000950135-06-001611.txt : 20060315
+
+10-Q
+ 1
+ b59738nie10vq.htm
+ NAVISITE, INC.
+
+e10vq 
+
+Table of Contents   
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION 
+
+WASHINGTON, D.C. 20549 
+
+FORM 10-Q 
+
+For the quarterly period ended January 31, 2006  
+
+OR 
+
+For
+the transition period from                       to                       
+
+Commission file number: 000-27597 
+
+NAVISITE, INC. 
+
+(Exact name of registrant as specified in its charter)
+
+Delaware 
+
+52-2137343  
+
+(State or other jurisdiction of
+
+(I.R.S. Employer 
+
+incorporation or organization)
+
+Identification No.) 
+
+400 Minuteman Road 
+Andover, Massachusetts 
+
+01810  
+
+(Address of principal executive offices)
+
+(Zip Code) 
+
+(978) 682-8300  
+(Registrant s telephone number, including area code)
+
+None  
+(Former name, former address and former fiscal year, if changed since last report)
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be
+filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12
+months (or for such shorter period that the registrant was required to file such reports), and
+(2) has been subject to such filing requirements for the past 90 days.
+
+Yes    
+
+No     
+
+Indicate by check mark whether the registrant is a large accelerated filer, an
+accelerated filer, or a non-accelerated filer. See definition of  accelerated filer and large
+accelerated filer  in Rule 12b-2 of the Exchange Act. 
+
+ Large accelerated filer    
+    Accelerated filer         Non-accelerated filer    
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule
+12b-2 of the Exchange Act).
+
+Yes    
+
+No     
+
+As of March 9, 2006, there were 28,489,482 shares outstanding of the registrant s common
+stock, par value $.01 per share.
+
+NAVISITE, INC. 
+
+TABLE OF CONTENTS 
+
+REPORT ON FORM 10-Q 
+FOR THE QUARTER ENDED JANUARY 31, 2006 
+
+2
+
+Table of Contents   
+
+PART I: FINANCIAL INFORMATION 
+
+Item 1. Financial Statements 
+
+NAVISITE, INC. 
+
+CONDENSED CONSOLIDATED BALANCE SHEETS 
+
+(Unaudited) 
+
+(In thousands, except par value) 
+
+See accompanying notes to condensed consolidated financial statements.
+
+3
+
+Table of Contents   
+
+NAVISITE, INC. 
+
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS 
+
+(Unaudited) 
+
+(In thousands, except per share amounts) 
+
+See accompanying notes to condensed consolidated financial statements.
+
+4
+
+Table of Contents   
+
+NAVISITE, INC. 
+
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS 
+
+(Unaudited) 
+
+(In thousands) 
+
+See accompanying notes to condensed consolidated financial statements.
+
+5
+
+Table of Contents   
+
+NAVISITE, INC.  
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS   
+  (Unaudited)  
+
+(1) Description of Business 
+
+NaviSite, Inc. ( NaviSite ,  the Company ,  we ,  us  or  our ) provides information
+technology (IT) hosting, outsourcing and professional services for mid- to large-sized
+organizations. Leveraging our set of technologies and subject matter expertise, we deliver
+cost-effective, flexible solutions that provide responsive and predictable levels of service for
+our clients  business. Over 900 companies across a variety of industries rely on NaviSite to build,
+implement and manage their mission-critical systems and applications. NaviSite is a trusted advisor
+committed to ensuring the long-term success of our customers  business applications and technology
+strategy. NaviSite has 14 state-of-the-art data centers and 8 major office locations across the
+U.S., U.K. and India. Substantially all revenue is generated from customers in the United States.
+
+(2) Summary of Significant Accounting Policies 
+
+(a) Basis of Presentation and Principles of Consolidation 
+
+The accompanying unaudited condensed consolidated financial statements include the accounts
+and operations of NaviSite, Inc. and its wholly-owned subsidiaries and have been prepared pursuant
+to the rules and regulations of the Securities and Exchange Commission regarding interim financial
+reporting. Accordingly, they do not include all of the information and notes required by U.S.
+generally accepted accounting principles for complete financial statements and thus should be read
+in conjunction with the audited consolidated financial statements included in our Annual Report on
+Form 10-K filed on October 31, 2005. In the opinion of management, the accompanying unaudited
+condensed consolidated financial statements contain all adjustments, consisting only of those of a
+normal recurring nature, necessary for a fair presentation of the Company s financial position,
+results of operations and cash flows at the dates and for the periods indicated. The results of
+operations for the three and six months ended January 31, 2006 are not necessarily indicative of
+the results expected for the remainder of the fiscal year ending July 31, 2006.
+
+All significant intercompany accounts and transactions have been eliminated in consolidation.
+
+The preparation of financial statements in conformity with U.S. generally accepted accounting
+principles requires management to make estimates and assumptions that affect the reported amounts
+of assets and liabilities and disclosure of contingent assets and liabilities at the date of the
+financial statements and the reported amounts of revenue and expenses during the reported period.
+Actual results could differ from those estimates. Significant estimates made by management include
+the useful lives of fixed assets and intangible assets, recoverability of long-lived assets, the
+collectability of receivables and other assumptions for sublease and lease abandonment reserves.
+
+(b) Revenue Recognition 
+
+Revenue consists of monthly fees for Web site and Internet custom and packaged application
+management, hosting, colocation and professional services. The
+Company also derives a nonmaterial amount of revenue from
+the sale of software and related maintenance contracts. Reimbursable expenses charged to clients
+are included in revenue and cost of revenue. Application management, hosting and colocation revenue
+(other than installation fees) is billed and recognized over the term of the contract, generally
+one to three years, based on actual usage. Payments received in advance of providing services are
+deferred until the period such services are provided. Revenue from professional services,
+application management, hosting and colocation revenue is recognized on either a time and material
+basis as the services are performed or under the percentage of completion method for fixed-price
+contracts. We generally sell our professional services under contracts with terms ranging from one
+to five years. When current contract estimates indicate that a loss is probable, a provision is
+made for the total anticipated loss in the current period. Contract losses are determined to be the
+amount by which the estimated service costs of the contract exceed the estimated revenue that will
+be generated by the contract. Unbilled accounts receivable represents revenue for services
+performed that have not been billed. Billings in excess of revenue recognized are recorded as
+deferred revenue until the applicable revenue recognition criteria are met. Revenue from the sale
+of software is recognized when persuasive evidence of an arrangement exists, the product has been
+delivered, the fees are fixed and determinable and collection of the resulting receivable is
+reasonably assured. In instances where the Company also provides application management
+
+6
+
+Table of Contents   
+
+NAVISITE, INC.  
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS   
+  (Unaudited)  
+
+and hosting services in conjunction with the sale of software, software revenue is deferred and
+recognized ratably over the expected customer relationship period. If we determine that collection of a fee is not
+reasonably assured, we defer the fee and recognize revenue at the time collection becomes
+reasonably assured, which is generally upon receipt of cash.
+
+(c) Cash and Cash Equivalents and Restricted Cash 
+
+The Company considers all highly liquid securities with original maturities of three months or
+less to be cash equivalents. The Company had restricted cash of $1.2 million, including $0.2
+million and $0.1 million which is classified as short-term and is included in  Prepaid expenses and
+other current assets  on the Consolidated Balance Sheet as of January 31, 2006 and July 31, 2005,
+respectively, which primarily represents cash collateral requirements for standby letters of credit
+associated with several of the Company s facility and equipment leases.
+
+(d) Property and Equipment 
+
+Property and equipment are stated at cost. Depreciation is computed using the straight-line
+method over the estimated useful lives of the assets, which range from three to five years.
+Leasehold improvements and assets acquired under capital leases are amortized using the
+straight-line method over the shorter of the lease term or estimated useful life of the asset.
+Assets acquired under capital leases in which title transfers to us at the end of the agreement are
+amortized over the useful life of the asset. Expenditures for maintenance and repairs are charged
+to expense as incurred.
+
+(e) Long-lived Assets, Goodwill and Other Intangibles 
+
+The Company follows the provisions of Statement of Financial Accounting Standards ( SFAS ) No.
+144,  Accounting for the Impairment or Disposal of Long-Lived Assets.  This statement requires that
+long-lived assets and certain identifiable intangibles be reviewed for impairment whenever events
+or changes in circumstances indicate that the carrying amount of an asset may not be recoverable.
+Recoverability of assets to be held and used is measured by a comparison of the carrying amount of
+an asset to undiscounted future net cash flows expected to be generated by the asset. If such
+assets are considered to be impaired, the impairment to be recognized is measured by the amount by
+which the carrying amount of the assets exceeds the fair value of the assets. Assets to be disposed
+of are reported at the lower of the carrying amount or fair value less cost to sell.
+
+The Company reviews the valuation of goodwill in accordance with SFAS No. 142  Goodwill and
+Other Intangible Assets.  Under the provisions of SFAS No. 142, goodwill is required to be tested
+for impairment annually in lieu of being amortized. This testing is done on the last day of the
+fourth quarter of each year. Furthermore, goodwill is required to be tested for impairment on an
+interim basis if an event or circumstance indicates that it is more likely than not an impairment
+loss has been incurred. An impairment loss shall be recognized to the extent that the carrying
+amount of goodwill exceeds its implied fair value. Impairment losses shall be recognized in
+operations. The Company s valuation methodology for assessing impairment requires management to
+make judgments and assumptions based on historical experience and projections of future operating
+performance. If these assumptions differ materially from future results, the Company may record
+impairment charges in the future.
+
+(f) Financial Instruments and Concentration of Credit Risk 
+
+Our financial instruments include cash, accounts receivable, obligations under capital leases
+and notes payable. As of January 31, 2006,
+the carrying cost of these instruments approximated their fair value. The financial instruments
+that potentially subject us to concentration of credit risk consist primarily of accounts
+receivable. Concentration of credit risk with respect to trade receivables is limited due to the
+large number of customers across many industries that comprise our customer base. One third-party
+customer accounted for 10% and 8% of our total revenue for the six months ended January 31, 2006
+and 2005, respectively. Accounts receivable included approximately $2.4 million due from this
+third-party customer at January 31, 2006.
+
+7
+
+Table of Contents   
+
+NAVISITE, INC.  
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS   
+  (Unaudited)  
+
+(g) Comprehensive Income (Loss) 
+
+Comprehensive income (loss) is defined as the change in equity of a business enterprise during
+a period of time from transactions and other events and circumstances from non-owner sources. The
+Company reports accumulated other comprehensive income (loss), resulting from foreign currency
+translation adjustment, on the Condensed Consolidated Balance Sheet.
+
+(h) Income Taxes 
+
+We account for income taxes under the asset and liability method in accordance with SFAS No.
+109,  Accounting for Income Taxes . Deferred tax assets and liabilities are recognized for the
+future tax consequences attributable to differences between the financial statement carrying
+amounts of existing assets and liabilities and their respective tax bases and operating loss and
+tax credit carryforwards. Deferred tax assets and liabilities are measured using enacted tax rates
+expected to apply to taxable income in the years in which those temporary differences are expected
+to be recovered or settled. The effect on deferred tax assets and liabilities of a change in tax
+rates is recognized in income in the period that includes the enactment date.
+
+(i) Stock Based Compensation 
+
+In December 2004, the Financial Accounting Standards Board (FASB) issued a
+Statement,  Share-Based Payment, an amendment of FASB Statements Nos. 123 and 95  (SFAS 123R), that
+addresses the accounting for share-based payment transactions in which a company receives employee
+services in exchange for either equity instruments of the company or liabilities that are based on
+the fair value of the company s equity instruments or that may be settled by the issuance of such
+equity instruments. The statement eliminates the ability to account for share-based compensation
+transactions using the intrinsic value method and generally requires that such transactions be
+accounted for using a fair value based method and recognized as expense in the Consolidated
+Statement of Operations. In March 2005, the SEC issued Staff Accounting Bulletin (SAB) No. 107
+regarding the Staff s interpretation of SFAS 123R. This interpretation provides the Staff s views
+regarding interpretations between SFAS 123R and certain SEC rules and regulations and provides
+interpretations of the valuation of share-based payments for public companies. The interpretive
+guidance is intended to assist companies in applying the provisions of SFAS 123R and investors and
+users of financial statements in analyzing the information provided.
+
+Following the guidance prescribed in SAB 107, on August 1, 2005, NaviSite adopted SFAS 123R
+using the modified prospective method, and accordingly, we have not restated the consolidated
+results of income from prior interim periods and fiscal years. Under SFAS 123R, we are required to
+measure compensation cost for all stock based awards at fair value on date of grant and recognize
+compensation expense over the service period that the awards are expected to vest. The Company
+generally grants options under its equity plan that vest as to 25% of the original number of shares
+on the six month anniversary of the option holder and thereafter in equal monthly amounts over the
+three year period commencing on the six month anniversary of the option holder.
+
+Prior to the adoption of SFAS 123R, we recognized compensation cost for stock options issued
+with exercise prices set below market prices on the date of grant. During the three and six months
+ended January 31, 2005, we recognized compensation expense of approximately $196,000 and $380,000,
+respectively, for stock options in our Consolidated Statement of Operations. The following table
+illustrates the effect on net loss and net loss per common share if we had applied the fair value
+recognition provisions of SFAS 123 to stock based compensation.
+
+8
+
+Table of Contents   
+
+NAVISITE, INC.  
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS   
+  (Unaudited)  
+
+Upon adoption of SFAS 123R, we recognized the compensation expense associated with
+awards granted after August 1, 2005 and the unvested portion of previously granted awards that
+remain outstanding as of August 1, 2005, in our Consolidated Statement of Operations for the first
+quarter of fiscal year 2006. During the quarter ended January 31, 2006, we recognized $244,000 in
+cost of sales compensation expense, $86,000 in sales and marketing compensation expense and
+$703,000 in general and administrative compensation expense for stock options. For the six months
+ended January 31, 2006, we recognized $494,000 in cost of sales compensation expense, $165,000 in
+sales and marketing compensation expense and $1,461,000 in general and administrative compensation
+expense for stock options.
+
+The total remaining unrecognized compensation cost related to nonvested awards is $5.0
+million. The weighted average period over which the cost is expected to be recognized is 1.88
+years.
+
+Consistent with our valuation method for the disclosure-only provisions of SFAS 123, we are
+using the Black-Scholes option pricing model to value the compensation expense associated with our
+stock-based awards under SFAS 123R. In addition, we estimate forfeitures when recognizing
+compensation expense, and we will adjust our estimate of forfeitures when they are expected to
+differ. For the three and six months ended January 31, 2006, we estimated that 15% of options
+granted will be forfeited before the first vesting tranche. Forfeitures after the first vesting
+tranche are estimated to not be material.
+
+The fair value of each stock option grant was estimated on the date of grant using the
+Black-Scholes option pricing model, assuming no expected dividends and the following weighted
+average assumptions. The expected volatility is based upon the historical volatility of the
+Company s stock price.
+
+The following table reflects stock option activity under the Company s equity plans for the
+six months ending January 31, 2006.
+
+9
+
+Table of Contents   
+
+NAVISITE, INC.  
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS   
+  (Unaudited)  
+
+(j) Net Loss Per Share 
+
+Basic net loss per share is computed by dividing net loss by the weighted average number of
+common shares outstanding for the period. Diluted net loss per share is computed using the weighted
+average number of common and diluted common equivalent shares outstanding during the period, using
+either the  if-converted  method for convertible preferred stock and notes or the treasury stock
+method for warrants and options, unless amounts are anti-dilutive.
+
+For the three and six months ended January 31, 2006 and 2005, net loss per basic and diluted
+share is based on weighted average common shares and excludes any common stock equivalents, as they
+would be anti-dilutive due to the reported losses. For the three and six months ended January 31,
+2006, there were 6,250 dilutive shares, related to warrants and employee stock options that were
+excluded as they have an anti-dilutive effect due to the net loss during these periods. For the
+three and six months ended January 31, 2005, there were 521,966 and 521,904 dilutive shares,
+respectively, related to warrants, employee stock options and unissued shares related to the Avasta
+settlement that were excluded as they have an anti-dilutive effect due to the net loss during these
+periods.
+
+(k) Segment Reporting 
+
+We currently operate in one segment, managed IT services. The Company s chief operating
+decision maker reviews financial information at a consolidated level. The Company has determined
+that reporting revenue at a service offering level is impracticable.
+
+(l) Foreign Currency 
+
+The functional currencies of our wholly-owned subsidiaries are the local currencies. The
+financial statements of the subsidiaries are translated into U.S. dollars using period end exchange
+rates for assets and liabilities and weighted average exchange rates during corresponding periods
+for revenue, cost of revenue and expenses. Translation gains and losses are deferred and
+accumulated as a separate component of stockholders  equity ( Accumulated other comprehensive
+income ).
+
+(m) Reclassifications 
+
+Certain fiscal quarter 2005 balances have been reclassified to conform to the fiscal quarter
+2006 financial statement presentation.
+
+10
+
+Table of Contents   
+
+NAVISITE, INC.  
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS  
+
+(Unaudited)  
+
+(3) Liquidity 
+
+As of January 31, 2006, our principal sources of liquidity included cash and cash equivalents
+and our financing agreement with Silicon Valley Bank (SVB). We had a working capital deficit of
+$80.6 million, including cash and cash equivalents of $1.9 million at January 31, 2006, as compared
+to a working capital deficit of $77.6 million, including cash and cash equivalents of $6.8 million,
+at July 31, 2005.
+
+The total net change in cash and cash equivalents for the six months ended January 31, 2006
+was a decrease of $4.9 million. The primary uses of cash during the six months ended January 31,
+2006 included $0.5 million of cash used for operating activities, $2.3 million for purchases of
+property and equipment and approximately $2.5 million in repayments on notes payable and capital
+lease obligations. Our primary sources of cash during the six months ended January 31, 2006 were
+$0.4 million in proceeds from notes payable. Net cash used for operating activities of $0.5 million
+during the six months ended January 31, 2006, resulted primarily from funding our $7.4 million net
+loss and $2.8 million of net changes in operating assets and liabilities, which was partially
+offset by non-cash charges of approximately $9.7 million. At January 31, 2006, we had an
+accumulated deficit of $463.4 million, and have reported losses from operations since
+incorporation. At July 31, 2005, we had an accumulated deficit of $455.9 million.
+
+Our accounts receivable financing line with SVB allows for maximum borrowing of $20.4 million
+and expires on April 29, 2006. On January 31, 2006, we had an outstanding balance under the amended
+agreement of $20.4 million. Borrowings are based on monthly recurring revenue. We are required to
+prepare and deliver a written request for an advance of up to three times the value of total
+recurring monthly revenue, calculated to be monthly revenue (including revenue from The New York
+State Department of Labor) less professional services revenue. SVB may then provide an advance of
+85% of such value (or such other percentage as the bank may determine). The interest rate under the
+amended agreement is variable and is currently calculated at the bank s published  prime rate  plus
+4.0%. The financing agreement also contains certain affirmative and negative covenants and is
+secured by substantially all of our assets, tangible and intangible. Following the completion of
+certain equity or debt financings, and provided we continue to meet certain ratios, the interest
+rate shall be reduced to the bank s prime rate plus 1.0%. In no event, however, will the bank s
+prime rate be less than 4.25%. The accounts receivable financing line at July 31, 2005 is reported
+net of the remaining value ascribed to the related warrants of $53,000.
+
+At January 31, 2006, the Company had $1.2 million in outstanding standby letters of credit,
+issued in connection with facility and equipment lease agreements, which are 100% cash
+collateralized. Cash subject to collateral requirements has been recorded as restricted cash of
+which $1.0 million and $1.1 million is classified as non-current on our balance sheet at January
+31, 2006 and July 31, 2005, respectively.
+
+We anticipate that we will continue to incur net losses in the future. We have taken several
+actions we believe will allow us to continue as a going concern, including closing and integrating
+strategic acquisitions, making changes to our senior management and bringing costs more in line
+with projected revenue. We will need to find sources of additional financing, or refinance or
+restructure our existing indebtedness, in order to remain a going concern. In
+September 2005, we engaged financial advisors to assist us in refinancing our debt and, while there
+can be no assurances that we will be successful in our refinancing efforts, we believe we will
+conclude this process prior to our indebtedness coming due. We are obligated to use a significant
+portion of any proceeds raised in an equity or debt financing or by sales of assets to make
+payments on the notes payable to Waythere, Inc. (formerly known as Surebridge, Inc.), depending on
+the total net proceeds received by us in the financing (see Note 10(e)).
+
+11
+
+Table of Contents   
+
+NAVISITE, INC.  
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS  
+ (Unaudited)  
+
+Our operating forecast incorporates growth projections from industry analysts for the markets
+in which we participate. Our forecast also incorporates the future cash flow benefits expected from
+our continued efforts to increase efficiencies and reduce redundancies. Nonetheless, our forecast
+includes the need to raise additional funds. Our cash flow estimates are based upon attaining
+certain levels of sales, maintaining budgeted levels of operating expenses, collections of accounts
+receivable and maintaining our current borrowing line with SVB among other assumptions, including
+the improvement in the overall macroeconomic environment. However, there can be no
+assurance that we will be able to meet such assumptions. Our operating forecast does not depend
+upon our ability to make additional acquisitions which could be impacted by our current stock
+price. Our sales estimate includes revenue from new and existing customers, which may not be
+realized, and we may be required to further reduce expenses if budgeted sales are not attained. We
+may be unsuccessful in reducing expenses in proportion to any shortfall in projected sales and our
+estimate of collections of accounts receivable may be hindered by our customers  ability to pay. In
+addition, we are currently involved in various pending and potential legal proceedings. While we
+believe that the allegations against us in each of these matters are without merit, and/or that we
+have a meritorious defense in each, we are not able to predict the final outcomes of these matters
+and the effect, if any, on our business, financial condition, results of operations or cash flows.
+If we are ultimately unsuccessful in any of these matters, we could be required to pay substantial
+amounts of cash to the other parties. The amount and timing of any such payments could adversely
+affect our business, financial condition, results of operations or cash flows.
+
+(4) Impairment of Long-Lived Assets 
+
+During the six months ended January 31, 2005, the Company recorded a $0.3 million impairment
+charge for property and equipment, consisting primarily of unamortized leasehold improvements
+related to our 10 Maguire Road facility in Lexington, MA. The impairment charge is included in
+ Impairment, restructuring and other  in the accompanying Condensed Consolidated Statements of
+Operations (see Note 11). No impairment charges related to long-lived assets were recorded during
+the six months ended January 31, 2006.
+
+(5) Property and Equipment 
+
+Property and equipment at January 31, 2006 and July 31, 2005 are summarized as follows:
+
+The estimated useful lives of our fixed assets are as follows: office furniture and equipment,
+5 years; computer equipment, 3 years; software licenses, 3 years or life of the license; and
+leasehold improvements, life of the lease.
+
+Equipment valued at approximately $0.1 million and $1.2 million was purchased under capital
+leases during the three and six months ended January 31, 2006.
+
+(6) Intangible Assets 
+
+The gross carrying amount and accumulated amortization as of January 31, 2006 and July 31,
+2005 for customer lists related to prior acquisitions are as follows:
+
+12
+
+Table of Contents   
+
+NAVISITE, INC.  
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS  
+ (Unaudited)  
+
+Intangible asset amortization expense for the three and six months ended January 31, 2006 and
+2005 aggregated $1.2 million and $2.5 million, and $1.4 million and $2.9 million, respectively.
+Customer lists are being amortized over estimated useful lives ranging from five to eight years.
+The amount reflected in the table below for fiscal year 2006 includes year to date amortization.
+Amortization expense related to intangible assets for the next five years is as follows:
+
+(7) Goodwill 
+
+We perform our annual impairment analysis of goodwill on the last day of our fiscal fourth
+quarter.
+
+(8) Investment in Debt Securities 
+
+In a privately negotiated transaction with Fir Tree Recovery Master Fund, LP and Fir Tree
+Value Partners, LDC, pursuant to an Assignment Agreement dated October 11, 2002 and in a series of
+open market transactions from certain other third-party holders, we acquired an aggregate principal
+amount of approximately $36.3 million face value, 10% convertible senior notes (Interliant Notes)
+due in 2006 of Interliant, Inc. (Interliant) for a total consideration of approximately $2.0
+million. Interliant was a provider of managed services, which filed a petition under Chapter 11 of
+Title 11 of the United States Bankruptcy Code in the Southern District of New York (White Plains)
+on August 5, 2002, and we made this investment with the intention of participating in the
+reorganization/sale of Interliant.
+
+On May 16, 2003, the Bankruptcy Court confirmed us as the successful bidder for the purchase
+of the Interliant Assets. We used $624,000 of the first projected distributions to be made on our
+Interliant Notes as partial payment for the assets acquired. As such, we have reduced the carrying
+value of the Interliant Notes by this amount. On September 30, 2004, the Third Amended Plan of
+Liquidation of Interliant and its affiliated debtors became effective. As a result of unfavorable
+facts and circumstances occurring in the fourth quarter of fiscal year 2005, as learned from
+bankruptcy counsel, which negatively impacted the recoverability of our investment, the Company
+recorded an impairment charge in the amount of $1.1 million, in the fourth quarter of fiscal year
+2005, reducing the carrying value of the Interliant Notes to approximately $0.2 million. The final
+amount and timing of any distributions we will receive on our Interliant Notes has not been
+determined. It may be greater or less than the remaining $0.2 million carrying value which is
+included in  Other assets  on our Consolidated Balance Sheets.
+
+(9) Accrued Expenses and Other Current Liabilities 
+
+Accrued expenses and other current liabilities consist of the following:
+
+13
+
+Table of Contents   
+
+NAVISITE, INC.  
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS  
+ (Unaudited)  
+
+(10) Debt 
+
+Debt consists of the following:
+
+(a) Silicon Valley Bank Financing Arrangements 
+
+Our accounts receivable financing line with Silicon Valley Bank allows for maximum borrowing
+of $20.4 million and expires on April 29, 2006. On January 31, 2006, we had an outstanding balance
+under the amended agreement of $20.4 million. Borrowings are based on monthly recurring revenue. We
+are required to prepare and deliver a written request for an advance of up to three times the value
+of total recurring monthly revenue, calculated to be monthly revenue (including revenue from The
+New York State Department of Labor) less professional services revenue. SVB may then provide an
+advance of 85% of such value (or such other percentage as the bank may determine). The interest
+rate under the amended agreement is variable and is currently calculated at the bank s published
+ prime rate  plus 4.0%. The financing agreement also contains certain affirmative and negative
+covenants and is secured by substantially all of our assets, tangible and intangible. Following the
+completion of certain equity or debt financings, and provided we continue to meet certain ratios,
+the interest rate shall be reduced to the bank s prime rate plus 1.0%. In no event, however, will
+the bank s prime rate be less than 4.25%. The accounts receivable financing line at July 31, 2005
+is reported net of the remaining value ascribed to the related warrants of $53,000.
+
+(b) Note Payable to Atlantic Investors, LLC 
+
+On January 29, 2003, we entered into a $10.0 million Loan and Security Agreement (Atlantic
+Loan) with Atlantic Investors, LLC (Atlantic), a related party. The Atlantic Loan bears an interest
+rate of 8% per annum. Interest is payable upon demand or, at Atlantic s option, interest may be
+added to the outstanding balance under the Atlantic Loan. Atlantic may make demand for payment of
+amounts in excess of the minimum Atlantic Loan amount of $2.0 million (Minimum Loan Amount), with
+60 days notice. Atlantic can demand payment of the Minimum Loan Amount with 90 days notice. Under
+the Atlantic Loan agreement, we can require Atlantic to loan us (1) up to $2.0 million to repay an
+amount due from CBTM to Unicorn, a party related to NaviSite and Atlantic; (2) $1.0 million for
+costs associated with our acquisition of Avasta; and (3) up to $500,000 for the post-acquisition
+working capital needs of Avasta. Atlantic, at its sole and absolute discretion, may advance other
+amounts to us such that the aggregate amount borrowed by us does not exceed the maximum loan
+amount, defined as the lesser of $10.0 million or 65% of our consolidated accounts receivables. On
+May 30, 2003, we repaid $2.0 million of the approximate $3.0 million outstanding under the Atlantic
+Loan and on June 11, 2003, we borrowed $2.0 million under the Atlantic Loan. At January 31, 2006,
+we had $3.0 million outstanding under the Atlantic Loan. This amount is shown as Current Note
+Payable to Related Party on our Consolidated Balance Sheet. The Atlantic Loan is secured by all of
+our receivables and is subordinated to the borrowings from Silicon Valley Bank. At January 31,
+2006, we had approximately $0.7 million in accrued interest related to this note.
+
+On January 16, 2004, the Atlantic Loan was amended to extend any and all Credit Advances under
+the Atlantic
+Loan made prior to, or following, January 16, 2004, to be due on or before the earlier of (i)
+August 1, 2004 or (ii)
+five (5) business days following the closing of a financing transaction or disposition pursuant to
+which the Borrower receives gross proceeds of $13.0 million. Since January 16, 2004, the parties
+have agreed on several occasions to extend the maturity date of the Atlantic Loan, most recently on
+January 31, 2006, when the Atlantic Loan was amended to extend
+any and all Credit Advances under the Atlantic Loan made prior to, or
+following, January 31,
+
+14
+
+Table of Contents   
+
+NAVISITE, INC.  
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS   
+  (Unaudited)  
+
+2006, to become due on the earlier of (i) April 3, 2006 or (ii) five (5) business days following
+the closing of a financing transaction or disposition pursuant to which the Borrower receives net
+proceeds of $13.0 million after first satisfying the mandatory prepayment obligation under those
+certain Notes due to Waythere, Inc. (formerly known as Surebridge, Inc.).
+
+(c) Notes Payable to the AppliedTheory Estate 
+
+As part of CBTM s acquisition of certain AppliedTheory assets, CBTM entered into two unsecured
+promissory notes totaling $6.0 million (Estate Liability) due to the AppliedTheory Estate on June
+13, 2006. The Estate Liability bears interest at 8% per annum, which is due and payable annually.
+At January 31, 2006, we had approximately $0.3 million in accrued interest related to these notes.
+
+(d) Notes Payable to Landlord 
+
+As part of an amendment to our 400 Minuteman Road lease, $2.2 million of our future payments
+to the landlord of our 400 Minuteman Road facility were transferred into a note payable (Landlord
+Note). The Landlord Note bears interest at an annual rate of 11% and calls for 36 equal monthly
+payments of principal and interest, with the final payment due on November 1, 2006. The $2.2
+million represents leasehold improvements made by the landlord, on our behalf, to the 400 Minuteman
+location in order to facilitate the leasing of a portion of the facility (First Lease Amendment),
+as well as common area maintenance and property taxes associated with the space.
+
+In addition, during fiscal year 2004, we paid $120,000 and we entered into a separate $150,000
+note (Second Landlord Note) with the landlord for additional leasehold improvements to facilitate a
+subleasing transaction involving a specific section of the 400 Minuteman location. The Second
+Landlord Note bears interest at an annual rate of 11% and calls for 36 equal monthly payments of
+principal and interest, with the final payment due on March 1, 2007.
+
+(e) Convertible Notes Payable to Waythere, Inc. (formerly Surebridge) 
+
+On June 10, 2004, in connection with our acquisition of the Surebridge business, we issued two
+convertible promissory notes in the aggregate principal amount of approximately $39.3 million. Upon
+final resolution of the net worth calculation, we entered into an agreement, on October 19, 2005,
+with Waythere, Inc. reducing the outstanding principal balance on the outstanding notes by
+approximately $3.1 million. Interest shall accrue on the unpaid balance of the notes at the annual
+rate of 10%, provided that if an event of default shall occur and be continuing, the interest rate
+shall be 15%. Notwithstanding the foregoing, no interest shall accrue or be payable on any
+principal amounts repaid on or prior to the nine-month anniversary of the issuance date of the
+notes. We must repay the outstanding principal of the notes with all interest accrued thereon, no
+later than June 10, 2006. Pursuant to the terms of the acquisition agreement, $0.8 million of the
+primary note was callable at anytime for a period of one year from June 10, 2004, the date of
+closing. During the first quarter of fiscal year 2005, the noteholder requested payment of $0.8
+million and we paid this amount during the second quarter of fiscal year 2005.
+
+In addition, if we realize net proceeds in excess of $1.0 million from certain equity or debt
+financings or sales of assets, we are obligated to make payments on the notes equal to 75% of the
+net proceeds.
+
+It shall be deemed an event of default under the notes if, among other things, we fail to pay
+when due any amounts under the notes, if we fail to pay when due or experience an event of default
+with respect to any debts having an outstanding principal amount of $500,000 or more, if we are
+delisted from the Nasdaq Capital Market, or if we are acquired and the acquiring party does not
+expressly agree to assume the notes. In addition, certain bankruptcy, reorganization, insolvency,
+dissolution and receivership actions would be deemed an event of default
+under the notes. If an event of default under the notes occurs, the holder shall be entitled to
+declare the notes immediately due and payable in full.
+
+The notes provide that we shall not incur any indebtedness in excess of $20.5 million in the
+aggregate, unless such indebtedness is unsecured and expressly subordinated to the notes, is
+otherwise permitted under the notes, or the proceeds are used to make payments on the notes.
+
+On July 29, 2005, the Company entered into a Consent and Waiver Agreement with Waythere, Inc.,
+whereby the parties agreed that the Company would pay $750,000 of the proceeds from the MBS
+transaction to Waythere, Inc., reducing the principal amounts outstanding under the notes. On
+August 1, 2005, the Company paid $750,000 pursuant to the terms of the Consent and Waiver Agreement
+in connection with the MBS transaction.
+
+15
+
+Table of Contents   
+
+NAVISITE, INC.  
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS   
+  (Unaudited)  
+
+Finally, the outstanding principal of, and accrued interest on, the notes are convertible into
+shares of NaviSite common stock at a conversion price of $4.642 at the election of the holder at
+any time following:
+
+the 18-month anniversary of the closing if the aggregate principal outstanding under
+the notes at such time is greater than or equal to $10.0 million; 
+
+the second anniversary of the closing; and 
+
+an event of default thereunder. 
+
+As of January 31, 2006, the balance of interest accrued under the promissory notes we issued
+to Waythere, Inc. was approximately $5.9 million.
+
+(11) Commitments and Contingencies 
+
+(a) Leases 
+
+Abandoned Leased Facilities : During the second quarter of fiscal year 2006, we recorded lease
+impairment charges of approximately $0.4 million due to revisions in sublease assumptions for
+previously abandoned facilities. During the first half of fiscal year 2005, we recorded $1.2
+million of lease impairment charges, resulting from costs associated with the abandonment of
+administrative space at 10 Maguire Road, in Lexington, MA, an adjustment relating to a lease
+modification for one of our Syracuse facilities and revisions in assumptions associated with other
+impaired facilities.
+
+All lease impairment expense amounts recorded are included in the captions  Impairment,
+restructuring and other  in the accompanying Condensed Consolidated Statements of Operations.
+
+Details of activity in the lease exit accrual by facility for the six months ended January 31,
+2006 are as follows (in thousands):
+
+We are obligated under various capital and operating leases for facilities and equipment.
+Future minimum annual rental commitments under capital and operating leases and other commitments
+are as follows as of January 31, 2006:
+
+16
+
+Table of Contents   
+
+NAVISITE, INC.  
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS   
+  (Unaudited)  
+
+(a) 
+       
+     Amount includes the outstanding balance on the accounts receivable financing line as of January
+31, 2006. 
+
+(b) 
+       
+     Amounts do not include future interest accruing on the accounts receivable financing line, as interest rate is
+variable. 
+
+(c) 
+       
+     Amounts exclude certain common area maintenance and other property charges that are not included
+within the lease payment. 
+
+(d) 
+       
+     On February 9, 2005, the Company entered into an Assignment and Assumption Agreement with a Las
+Vegas-based company, whereby this company purchased from us the right to use 29,000 square feet in
+our Las Vegas data center, along with the infrastructure and equipment associated with this space.
+In exchange, we received an initial payment of $600,000 and will receive $55,682 per month over two
+years. This agreement shifts the responsibility for management of the data center and its
+employees, along with the maintenance of the facility s infrastructure, to this Las Vegas-based
+company. Pursuant to this Agreement, we have subleased back 2,000 square feet of space, allowing
+us to continue servicing our existing customer base in this market. Commitments related to property
+leases include an amount related to the 2,000 square feet sublease. 
+
+With respect to the property lease commitments listed above, certain cash is restricted
+pursuant to terms of lease agreements with landlords. At January 31, 2006, this restricted cash of
+approximately $1.2 million on the accompanying Condensed Consolidated Balance Sheet consisted of
+certificates of deposit and a treasury note and are recorded at cost, which approximates fair
+value.
+
+(b) Legal Matters 
+
+IPO Securities Litigation 
+
+On or about June 13, 2001, Stuart Werman and Lynn McFarlane filed a lawsuit against us,
+BancBoston Robertson Stephens, an underwriter of our initial public offering in October 1999, Joel
+B. Rosen, our then chief executive officer, and Kenneth W. Hale, our then chief financial officer.
+The suit was filed in the United States District Court for the Southern District of New York. The
+suit generally alleges that the defendants violated federal securities laws by not disclosing
+certain actions allegedly taken by Robertson Stephens in connection with our initial public
+offering. The suit alleges specifically that Robertson Stephens, in exchange for the allocation to
+its customers of shares of our common stock sold in our initial public offering, solicited and
+received from its customers  agreements to purchase additional shares of our common stock in the
+aftermarket at pre-determined prices. The suit seeks unspecified monetary damages and certification
+of a plaintiff class consisting of all persons who acquired shares of our common stock between
+October 22, 1999 and December 6, 2000. Three other substantially similar lawsuits were filed
+between June 15, 2001 and July 10, 2001 by Moses Mayer (filed June 15, 2001), Barry Feldman (filed
+June 19, 2001), and Binh Nguyen (filed July 10, 2001). Robert E. Eisenberg, our president at the
+time of the initial public offering in 1999, also was named as a defendant in the Nguyen lawsuit.
+
+On or about June 21, 2001, David Federico filed in the United States District Court for the
+Southern District of New York a lawsuit against us, Mr. Rosen, Mr. Hale, Robertson Stephens and
+other underwriter defendants including J.P. Morgan Chase, First Albany Companies, Inc., Bank of
+America Securities, LLC, Bear Stearns   Co., Inc., B.T. Alex. Brown, Inc., Chase Securities, Inc.,
+CIBC World Markets, Credit Suisse First Boston Corp., Dain Rauscher, Inc., Deutsche Bank
+Securities, Inc., The Goldman Sachs Group, Inc., J.P. Morgan   Co., J.P. Morgan Securities, Lehman
+Brothers, Inc., Merrill Lynch, Pierce, Fenner   Smith, Inc., Morgan Stanley Dean Witter   Co.,
+
+Robert Fleming, Inc. and Salomon Smith Barney, Inc. The suit generally alleges that the defendants
+violated the anti-trust laws and the federal securities laws by conspiring and agreeing to raise
+and increase
+the compensation received by the underwriter defendants by requiring those who received allocation
+of initial public offering stock to agree to purchase shares of manipulated securities in the
+after-market of the initial public offering at escalating price levels designed to inflate the
+price of the manipulated stock, thus artificially creating an appearance of demand and high prices
+for that stock, and initial public offering stock in general, leading to further stock offerings.
+The suit also alleges that the defendants arranged for the underwriter defendants to receive
+undisclosed and excessive brokerage commissions and that, as a consequence, the underwriter
+defendants successfully increased investor interest in the manipulated initial public offering of
+securities and increased the underwriter defendants  individual and collective
+
+17
+
+Table of Contents   
+
+NAVISITE, INC.  
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS   
+  (Unaudited)  
+
+underwritings, compensation, and revenue. The suit further alleges that the defendants violated the
+federal securities laws by issuing and selling securities pursuant to the initial public offering
+without disclosing to investors that the underwriter defendants in the offering, including the lead
+underwriters, had solicited and received excessive and undisclosed commissions from certain
+investors. The suit seeks unspecified monetary damages and certification of a plaintiff class
+consisting of all persons who acquired shares of our common stock between October 22, 1999 and June
+12, 2001.
+
+Those five cases, along with lawsuits naming more than 300 other issuers and over 50
+investment banks which have been sued in substantially similar lawsuits, have been assigned to the
+Honorable Shira A. Scheindlin (the  Court ) for all pretrial purposes (the  IPO Securities
+Litigation ). On September 6, 2001, the Court entered an order consolidating the five individual
+cases involving us and designating Werman v. NaviSite, Inc., et al., Civil Action No. 01-CV-5374 as
+the lead case. A consolidated, amended complaint was filed thereafter on April 19, 2002 (the  Class
+Action Litigation ) on behalf of plaintiffs Arvid Brandstrom and Tony Tse against underwriter
+defendants Robertson Stephens (as successor-in-interest to BancBoston), BancBoston, J.P. Morgan (as
+successor-in-interest to Hambrecht   Quist), Hambrecht   Quist and First Albany and against us and
+Messrs. Rosen, Hale and Eisenberg (collectively, the  NaviSite Defendants ). Plaintiffs uniformly
+allege that all defendants, including the NaviSite Defendants, violated the federal securities laws
+(i.e., Sections 11 and 15 of the Securities Act, Sections 10(b) and 20(a) of the Exchange Act and
+Rule 10b-5) by issuing and selling our common stock pursuant to the October 22, 1999 initial public
+offering, without disclosing to investors that some of the underwriters of the offering, including
+the lead underwriters, had solicited and received extensive and undisclosed agreements from certain
+investors to purchase aftermarket shares at pre-arranged, escalating prices and also to receive
+additional commissions and/or other compensation from those investors. At this time, plaintiffs
+have not specified the amount of damages they are seeking in the Class Action Litigation.
+
+Between July and September 2002, the parties to the IPO Securities Litigation briefed motions
+to dismiss filed by the underwriter defendants and the issuer defendants, including NaviSite. On
+November 1, 2002, the Court held oral argument on the motions to dismiss. The plaintiffs have since
+agreed to dismiss the claims against Messrs. Rosen, Hale and Eisenberg without prejudice, in return
+for their agreement to toll any statute of limitations applicable to those claims. By stipulation
+entered by the Court on November 18, 2002, Messrs. Rosen, Hale and Eisenberg were dismissed without
+prejudice from the Class Action Litigation. On February 19, 2003, an opinion and order was issued
+on defendants  motion to dismiss the IPO Securities Litigation, essentially denying the motions to
+dismiss of all 55 underwriter defendants and of 185 of the 301 issuer defendants, including
+NaviSite.
+
+On June 30, 2003, our Board of Directors considered and authorized us to negotiate a
+settlement of the pending Class Action Litigation substantially consistent with a memorandum of
+understanding negotiated among proposed class plaintiffs, the issuer defendants and the insurers
+for such issuer defendants. Among other contingencies, any such settlement would be subject to
+approval by the Court. Plaintiffs filed on June 14, 2004, a motion for preliminary approval of the
+Stipulation And Agreement Of Settlement With Defendant Issuers And Individuals (the  Preliminary
+Approval Motion ). On February 15, 2005, the Court approved the Preliminary Approval Motion in a
+written opinion which detailed the terms of the settlement stipulation, its accompanying documents
+and schedules, the proposed class notice and, with a modification to the bar order to be entered,
+the proposed settlement order and judgment. A further conference was held on April 13, 2005, at
+which time the Court considered additional submissions but did not make final determinations
+regarding the exact form, substance and program for notifying the proposed settlement class. On
+August 31, 2005, the Court entered a further Preliminary Order In Connection with Settlement
+Proceedings (the  Preliminary Approval Order ), which granted preliminary approval to the issuer s
+settlement with the Plaintiffs in the IPO Securities Litigation. In connection with the Preliminary
+Approval Order, the Court scheduled a Fed. R. Civ. P. 23 fairness hearing for April 24, 2006 in
+order to consider whether to enter final approval of the settlement. Any requests for exclusion or
+objections to the settlement are to be filed by March 24, 2006. If the proposed issuers  settlement
+is completed and then approved by the Court without further modifications to its material terms, we
+and the participating insurers acting on our behalf may be responsible for providing funding of
+approximately $3.4 million towards the total amount plaintiffs are guaranteed by the settlement to
+recover in the IPO Securities Litigation. The amount of the guarantee allocable to us could be
+reduced or eliminated in its entirety in the event that plaintiffs are able to recover more than
+the total amount of such overall guarantee from settlements with or judgments obtained against the
+non-settling defendants. Even if no additional recovery is obtained from any of the non-settling
+defendants, the settlement amount allocable to us is expected to be fully covered by our existing
+insurance policies and is not expected to have a material effect on our business, financial
+condition, results of operations or cash flows.
+
+We believe that the allegations against us are without merit and, if the settlement is not finalized, we intend to
+
+18
+
+Table of Contents   
+
+NAVISITE, INC.  
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS   
+  (Unaudited)  
+
+vigorously defend against the plaintiffs  claims. Due to the inherent
+uncertainty of litigation, we are not able to predict the possible outcome of the suits and their
+ultimate effect, if any, on our business, financial condition, results of operations or cash flows.
+
+Wrongful Termination Claim 
+
+This lawsuit for wrongful termination was filed in the Superior Court of the State of
+California, Santa Clara County (Case No. 104CV031471) against NaviSite, Inc. and one of its former
+employees. Plaintiffs were two female former employees of NaviSite who were terminated from their
+employment in 2004 as part of a reduction in force. One plaintiff alleged unlawful discrimination
+based on age and gender, and the other plaintiff alleged unlawful discrimination based on gender
+and retaliation for taking maternity leave. NaviSite s management and the co-named former employee
+denied all claims and vigorously defended the lawsuit. On November 1, 2005, NaviSite entered into a
+settlement agreement with both of the plaintiffs, pursuant to which NaviSite is required to make an
+aggregate payment of $500,000, payable over time. As of July 31, 2005, we had accrued $500,000 for
+this settlement, of which we have paid $300,000 in the second quarter and $100,000 in the third
+quarter of fiscal year 2006. The balance, as of January 31,
+2006, is included in  Accrued expenses and other current
+liabilities 
+on our Consolidated Balance Sheet.
+
+(12) Income Tax Expense 
+
+The Company recorded $0.3 million and $0.6 million of deferred income tax expense during the
+three and six months ended January 31, 2006, respectively, as compared to $0.8 million and $0.8
+million of deferred income tax expense during the comparable periods of fiscal year 2005. No income
+tax benefit was recorded for the losses incurred due to a valuation allowance recognized against
+deferred tax assets. The deferred tax expense resulted from tax goodwill amortization related to
+the Surebridge acquisition and the acquisition of Applied Theory Corporation by ClearBlue
+Technologies Management, Inc. The acquired goodwill and intangible assets for both acquisitions are
+amortizable for tax purposes over fifteen years. For financial statement purposes, goodwill is not
+amortized for either acquisition but is tested for impairment at
+least annually. Tax amortization of
+goodwill results in a taxable temporary difference, which will not reverse until the goodwill is
+impaired or at least written off. The resulting taxable temporary difference may not be offset by deductible
+temporary differences currently available, such as net operating loss carryforwards which expire
+within a definite period.
+
+19
+
+Table of Contents   
+
+Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+
+This Form 10-Q contains forward-looking statements within the meaning of Section 21E of the
+Securities Exchange Act of 1934, as amended, and Section 27A of the Securities Act of 1933, as
+amended, that involve risks and uncertainties. All statements other than statements of historical
+information provided herein are forward-looking statements and may contain information about
+financial results, economic conditions, trends and known uncertainties. Our actual results could
+differ materially from those discussed in the forward-looking statements as a result of a number of
+factors, which include those discussed in this section and elsewhere in this report under the
+heading  Certain Risk Factors that May Affect Future Results  and the risks discussed in our other
+filings with the Securities and Exchange Commission. Readers are cautioned not to place undue
+reliance on these forward-looking statements, which reflect management s analysis, judgment, belief
+or expectation only as of the date hereof. We undertake no obligation to publicly revise these
+forward-looking statements to reflect events or circumstances that arise after the date hereof.
+
+Overview 
+
+NaviSite provides IT hosting, outsourcing and professional services for mid- to
+large-sized organizations. Leveraging our set of technologies and subject matter expertise, we
+deliver cost-effective, flexible solutions that provide responsive and predictable levels of
+service for our clients  business. NaviSite provides services throughout the information technology
+lifecycle. The Company is dedicated to delivering quality services and meets rigorous standards,
+including SAS 70, Microsoft Gold, and Oracle Certified Partner certifications.
+
+We believe that by leveraging economies of scale utilizing our global delivery approach,
+industry best practices and process automation, our services enable our customers to achieve
+significant savings. In addition, we are able to leverage our application services platform,
+NaviView TM , to enable software to be delivered on-demand over the Internet, providing an
+alternative delivery model to the traditional licensed software model. As the platform provider for
+an increasing number of independent software vendors, we enable solutions and services to a wider
+and growing customer base.
+
+Our services include: 
+
+Hosting Services 
+
+Managed services    Support provided for hardware and software located in a data center.
+Services include business continuity and disaster recovery, connectivity, content
+distribution, database administration and performance tuning, desktop support, hardware
+management, monitoring, network management, security management, server and operating
+system management and storage management. 
+
+Application management services    Defined services provided for specific packaged
+applications that are incremental to managed services. Services can include monitoring,
+diagnostics and problem resolution. Frequently sold as a follow-on to a professional
+services project. 
+
+Colocation    Physical space offered in a data center. In addition to providing the
+physical space, NaviSite offers environmental support, specified power with back-up power
+generation and network connectivity options. 
+
+Software as a Service    Enablement of Software as a Service to the ISV community. 
+
+Outsourcing Services 
+
+Planning Services    Services include IT assessment, enterprise architecture planning,
+Web strategy, performance assessment and tuning. 
+
+Development Services    Services include eBusiness/Web solutions, enterprise
+integration, business intelligence, content management and user interface design 
+
+20
+
+Table of Contents   
+
+Management Services    Services include custom application management and remote
+infrastructure management. 
+
+Professional Services 
+
+For leading enterprise software applications such as Oracle, PeopleSoft, JD Edwards and
+Siebel Systems, NaviSite Professional Services helps organizations plan, implement,
+maintain, and 
+
+Optimize scalable, business-driven software solutions. Specific services include
+planning, implementation, maintenance, optimization and compliance services. 
+
+We provide these services to a range of vertical industries, including financial services,
+healthcare and pharmaceutical, manufacturing and distribution, publishing, media and
+communications, business services, public sector and software, through our direct sales force and
+sales channel relationships.
+
+Our managed application services are facilitated by our proprietary NaviView TM 
+collaborative application management platform. Our NaviView TM  platform enables us to
+provide highly efficient, effective and customized management of enterprise applications and
+information technology. Comprised of a suite of third-party and proprietary products,
+NaviView TM  provides tools designed specifically to meet the needs of customers who
+outsource their IT needs. We also use this platform for electronic software distribution for
+software vendors and to enable software to be delivered on-demand over the Internet, providing an
+alternative delivery model to the traditional licensed software model.
+
+We believe that the combination of NaviView TM  with our physical infrastructure and
+technical staff gives us a unique ability to provision on-demand application services for software
+providers for use by their customers. NaviView TM  is application and operating platform
+neutral as its on-demand provisioning capability is not dependent on the individual software
+application. Designed to enable enterprise software applications to be provisioned and used as an
+on-demand solution, the NaviView TM  technology allows us to offer new solutions to our
+software vendors and new products to our current customers.
+
+We currently operate in 14 data centers in the United States and one data center in the United
+Kingdom. We believe that our data centers and infrastructure have the capacity necessary to expand
+our business for the foreseeable future. Our services combine our developed infrastructure with
+established processes and procedures for delivering hosting and application management services.
+Our high availability infrastructure, high performance monitoring systems, and proactive and
+collaborative problem resolution and change management processes are designed to identify and
+address potentially crippling problems before they are able to disrupt our customers  operations.
+
+We
+currently service approximately 930 hosted customers. Our hosted customers typically enter
+into service agreements for a term of one to three years, which provide for monthly payment
+installments, providing us with a base of recurring revenue. Our revenue increases by adding new
+customers or additional services to existing customers. Our overall base of recurring revenue is
+affected by new customers, renewals and terminations of agreements with existing customers.
+
+In recent years, we have grown through business acquisitions and have restructured our
+operations. Specifically, in December 2002, we completed a common control merger with CBTM; in
+February 2003, we acquired Avasta; in April 2003, we acquired Conxion; in May 2003, we acquired
+assets of Interliant; in August 2003 and April 2004, we completed a common control merger with
+certain subsidiaries of CBT; and in June 2004, we acquired substantially all of the assets and
+liabilities of Surebridge, Inc. (now known as Waythere, Inc.). In January 2005, we formed NaviSite
+India Private Limited, a New Delhi-based operation which is intended to expand our international
+capability. NaviSite India will provide a range of software services, including design and
+development of custom and e-commerce solutions, application management, problem resolution
+management and the deployment and management of IT networks, customer specific infrastructure and
+data center infrastructure. We expect to make additional acquisitions to take advantage of our
+available capacity, which will have significant effects on our financial results in the future.
+
+The audit report on our fiscal year 2005 consolidated financial statements from KPMG LLP, our
+independent registered public accounting firm, contains KPMG s opinion that our recurring losses
+from operations since inception and accumulated deficit, as well as other factors, raise
+substantial doubt about our ability to continue as a
+
+21
+
+Table of Contents   
+
+going concern. While we cannot give any assurance that we will continue as a going concern, we
+believe that we have developed and are implementing an operational plan that aligns our cost
+structure with our projected revenue growth.
+
+Results of Operations for the Three and Six Months Ended January 31, 2006 and 2005 
+
+The following table sets forth the percentage relationships of certain items from our
+Condensed Consolidated Statements of Operations as a percentage of total revenue.
+
+Comparison of the Three and Six Months Ended January 31, 2006 and 2005 
+
+Revenue 
+
+We derive our revenue from managed IT services, including hosting, colocation and application
+services comprised of a variety of service offerings and professional services, to mid-market
+companies and organizations, including mid-sized companies, divisions of large multi-national
+companies and government agencies.
+
+Total revenue for the three months ended January 31, 2006 decreased 7.3% to approximately
+$26.3 million from approximately $28.4 million for the three months ended January 31, 2005.
+Approximately $1.1 million of the $2.1 million decrease in revenue was attributable to the sale in
+July 2005 of our Microsoft Business Solutions Software Resell and Professional Services Practice
+with the remaining decrease the result of net lost customer revenue. Revenue from related parties
+during the three months ended January 31, 2006 and 2005 totaled $41,000 and
+
+22
+
+Table of Contents   
+
+$35,000, respectively.
+
+Total revenue for the six months ended January 31, 2006 decreased 9.7% to approximately $51.7
+million from approximately $57.3 million for the six months ended January 31, 2005. The sale of the
+Microsoft Business Solutions Software Resell and Professional Services Practice accounted
+for $2.4 million of the overall reduction in revenue of $5.5 million, with the remaining decrease
+in revenue attributable to net lost customer revenue. Revenue from related parties during the six
+months ended January 31, 2006 and 2005 totaled $71,000 and $68,000, respectively.
+
+One unrelated customer accounted for 10% and 8% of our total revenue during the first half of
+fiscal year 2006 and 2005, respectively.
+
+Cost of Revenue 
+
+Cost of revenue consists primarily of salaries and benefits for operations personnel,
+bandwidth fees and related Internet connectivity charges, equipment costs and related depreciation
+and costs to run our data centers, such as rent and utilities.
+
+Total cost of revenue for the three months ended January 31, 2006, decreased approximately
+9.6% to $18.7 million from approximately $20.7 million for the three months ended January 31, 2005.
+As a percentage of revenue, total cost of revenue decreased from 72.8% of revenue for the three
+months ended January 31, 2005 to 71.1% of revenue for the three months ended January 31, 2006. The
+decrease in cost of revenue of $2.0 million resulted primarily from decreased salary expense
+resulting from a reduction in headcount, a decrease in hardware and software maintenance costs,
+costs related to the sale of our MBS practice, depreciation and amortization and facilities related
+charges, partially offset by the effect of implementing SFAS 123R. During the three months ended
+January 31, 2005, we recorded a $34,000 lease abandonment charge related to our data center space
+located at Westwood Center, Vienna, VA as a component of total cost of revenue. No such charge was
+recorded during the same period of fiscal year 2006.
+
+Total cost of revenue for the six months ended January 31, 2006, decreased approximately 16.4%
+to $36.4 million from approximately $43.5 million for the six months ended January 31, 2005. As a
+percentage of revenue, total cost of revenue decreased from 75.9% of revenue for the six months
+ended January 31, 2005 to 70.3% of revenue for the six months ended January 31, 2006. The decrease
+in cost of revenue of $7.1 million resulted primarily from decreased salary expense resulting from
+a reduction in headcount, a decrease in hardware and software maintenance costs, costs related to
+the sale of our MBS practice, depreciation and amortization and facilities related charges,
+partially offset by the effect of implementing SFAS 123R. During the first half of fiscal year
+2005, we recorded a $34,000 lease abandonment charge related to our data center space located at
+Westwood Center, Vienna, VA as a component of total cost of revenue. No such charge was recorded
+during the same period of fiscal year 2006.
+
+Gross Profit 
+
+Gross profit of $7.6 million for the three months ended January 31, 2006 decreased
+approximately $0.1 million, or 1.3%, from a gross profit of approximately $7.7 million for the
+three months ended January 31, 2005. Gross profit for the second fiscal quarter of 2006 represented
+28.9% of total revenue, as compared to 27.2% of total revenue for the second fiscal quarter of
+2005.
+
+Gross profit of $15.4 million for the six months ended January 31, 2006 increased
+approximately $1.6 million, or 11.5%, from a gross profit of approximately $13.8 million for the
+six months ended January 31, 2005. Gross profit for the first half of fiscal year 2006 represented
+29.7% of total revenue, as compared to 24.1% of total revenue for the first half of fiscal year
+2005. The gross profit increase was due to the decline in cost of revenue.
+
+Operating Expenses 
+
+Selling and Marketing.  Selling and marketing expense consists primarily of salaries and
+related benefits, commissions and marketing expenses such as advertising, traveling, product
+literature, trade show, and marketing and direct mail programs.
+
+Selling and marketing expense increased 22.3% to approximately $4.0 million, or 15.0% of total
+revenue, during
+
+23
+
+Table of Contents   
+
+the three months ended January 31, 2006 from approximately $3.2 million, or 11.4% of total revenue,
+during the three months ended January 31, 2005. The increase of approximately $0.7 million resulted
+primarily from increased sales
+commissions, the increase of marketing program
+spending and the effect of implementing SFAS 123R, partially offset by a decrease in headcount related expenses.
+
+Selling and marketing expense increased 9.3% to approximately $7.2 million, or 13.9% of total
+revenue, during the six months ended January 31, 2006 from approximately $6.6 million, or 11.5% of
+total revenue, during the six months ended January 31, 2005. The increase of approximately $0.6
+million resulted primarily from increased sales commissions, the increase of marketing
+program spending and the effect of implementing SFAS 123R, partially offset by a decrease in headcount related expenses.
+
+General and Administrative.  General and administrative expense includes the costs of
+financial, human resources, IT and administrative personnel, professional services, bad debt and
+corporate overhead.
+
+General and administrative expense decreased 14.5% to approximately $5.1 million, or 19.4% of
+total revenue, during the three months ended January 31, 2006 from approximately $6.0 million, or
+21.0% of total revenue, during the three months ended January 31, 2005. The decrease of
+approximately $0.9 million was primarily the result of decreased salary expense resulting
+from a decreased headcount and decrease in bad debt expense, partially offset by the effect of
+implementing SFAS 123R.
+
+General and administrative expense decreased 11.5% to approximately $11.0 million, or 21.2% of
+total revenue, during the six months ended January 31, 2006 from approximately $12.4 million, or
+21.7% of total revenue, during the six months ended January 31, 2005. The decrease of approximately
+$1.4 million was primarily the result of decreased salary expense resulting from a decreased
+headcount and decrease in bad debt expense, partially offset by the effect of implementing SFAS
+123R.
+
+Operating Expenses   Impairment, Restructuring and Other 
+
+Costs associated with the abandonment of leased facilities and the impairment of property and
+equipment included in impairment, restructuring and other expense within operating expenses were
+approximately $0.4 million during the three months ended January 31, 2006, as compared to
+approximately $0.5 million during the three months ended January 31, 2005. The $0.4 million and
+$0.5 million charge during the second fiscal quarter of 2006 and 2005 related to revised
+assumptions associated with our impaired facilities.
+
+Costs associated with the abandonment of leased facilities and the impairment of property and
+equipment included in impairment, restructuring and other expense within operating expenses were
+approximately $0.4 million during the six months ended January 31, 2006, as compared to
+approximately $1.5 million during the six months ended January 31, 2005. The $0.4 million charge
+recorded during the first half of fiscal year 2006 related to revised assumptions associated with
+our impaired facilities. The $1.5 million charge recorded during the first half of fiscal year 2005
+related to revised assumptions associated with our impaired facilities, the abandonment of an
+administrative facility and an impairment charge for property and equipment, consisting primarily
+of leasehold improvements, relating to the same location.
+
+Interest Income 
+
+During the three and six months ended January 31, 2006, interest income increased 73.3% and
+92.9%, respectively, from the comparable prior periods to approximately $26,000 and $54,000,
+respectively. The increase of $11,000 and $26,000 for the three and six month periods is mainly due
+to an increase in the rate of interest on our security deposits.
+
+Interest Expense 
+
+During the three and six months ended January 31, 2006, interest expense increased 4.6% and 4.4%, respectively,
+from the comparable prior year periods to approximately $2.0 million and $4.0 million, respectively. The increase of
+$0.1 million and $0.2 million for the current three and six month periods is primarily related to the addition of capital leases
+and an increase in the rate of interest on our financing line with SVB.
+
+24
+
+Table of Contents   
+
+Income Tax Expense 
+
+The Company recorded $0.3 million and $0.6 million of deferred income tax expense during the
+three and six months ended January 31, 2006, respectively, as compared to $0.8 million and $0.8
+million of deferred income tax expense during the comparable periods of fiscal year 2005. No income
+tax benefit was recorded for the losses incurred due to a valuation allowance recognized against
+deferred tax assets. The deferred tax expense resulted from tax goodwill amortization related to
+the Surebridge acquisition and the acquisition of Applied Theory Corporation by ClearBlue
+Technologies Management, Inc. The acquired goodwill and intangible assets for both acquisitions are
+amortizable for tax purposes over fifteen years. For financial statement purposes, goodwill is not
+amortized for either acquisition but is tested for impairment at
+least annually. Tax amortization of
+goodwill results in a taxable temporary difference, which will not reverse until the goodwill is
+impaired or written off. The resulting taxable temporary difference may not be offset by deductible
+temporary differences currently available, such as net operating loss carryforwards which expire
+within a definite period.
+
+Liquidity and Capital Resources 
+
+As of January 31, 2006, our principal sources of liquidity included cash and cash equivalents
+and our financing agreement with Silicon Valley Bank (SVB). We had a working capital deficit of
+$80.6 million, including cash and cash equivalents of $1.9 million at January 31, 2006, as compared
+to a working capital deficit of $77.6 million, including cash and cash equivalents of $6.8 million,
+at July 31, 2005.
+
+The total net change in cash and cash equivalents for the six months ended January 31, 2006 was a
+decrease of $4.9 million. The primary uses of cash during the six months ended January 31, 2006
+included $0.5 million of cash used for operating activities, $2.3 million for purchases of property
+and equipment and approximately $2.5 million in repayments on notes payable and capital lease
+obligations. Our primary sources of cash during the six months ended January 31, 2006 were $0.4
+million in proceeds from a note payable. Net cash used for operating activities of $0.5 million
+during the six months ended January 31, 2006, resulted primarily from funding our $7.4 million net
+loss and $2.8 million of net changes in operating assets and liabilities, which was partially
+offset by non-cash charges of approximately $9.7 million. At January 31, 2006, we had an
+accumulated deficit of $463.4 million, and have reported losses from operations since
+incorporation. At July 31, 2005, we had an accumulated deficit of $455.9 million.
+
+Our accounts receivable financing line with SVB allows for maximum borrowing of $20.4 million
+and expires on April 29, 2006. On January 31, 2006, we had an outstanding balance under the amended
+agreement of $20.4 million. Borrowings are based on monthly recurring revenue. We are required to
+prepare and deliver a written request for an advance of up to three times the value of total
+recurring monthly revenue, calculated to be monthly revenue (including revenue from The New York
+State Department of Labor) less professional services revenue. SVB may then provide an advance of
+85% of such value (or such other percentage as the bank may determine). The interest rate under the
+amended agreement is variable and is currently calculated at the bank s published  prime rate  plus
+4.0%. The financing agreement also contains certain affirmative and negative covenants and is
+secured by substantially all of our assets, tangible and intangible. Following the completion of
+certain equity or debt financings, and provided we continue to meet certain ratios, the interest
+rate shall be reduced to the bank s prime rate plus 1.0%. In no event, however, will the bank s
+prime rate be less than 4.25%. The accounts receivable financing line at July 31, 2005 is reported
+net of the remaining value ascribed to the related warrants of $53,000.
+
+At January 31, 2006, the Company had $1.2 million in outstanding standby letters of credit,
+issued in connection with facility and equipment lease agreements, which are 100% cash
+collateralized. Cash subject to collateral requirements has been recorded as restricted cash of
+which $1.0 million and $1.1 million is classified as non-current on our balance sheet at January
+31, 2006 and July 31, 2005, respectively.
+
+We anticipate that we will continue to incur net losses in the future. We have taken several
+actions we believe will allow us to continue as a going concern, including closing and integrating
+strategic acquisitions, making changes to our senior management and bringing costs more in line
+with projected revenue. We will need to find sources of additional financing, or refinance or
+restructure our existing indebtedness, in order to remain a going concern. In September 2005, we
+engaged financial advisors to assist us in refinancing our debt and, while there can be no
+assurances that we will be successful in our refinancing efforts, we believe we will conclude this
+process prior to our indebtedness coming due. We are obligated to use a significant portion of any
+proceeds raised in an equity or debt financing or by sales of assets to make payments on the notes
+payable to Waythere, Inc. (formerly known as Surebridge, Inc.), depending on the total net proceeds
+received by us in the financing (see Note 10(e)).
+
+25
+
+Table of Contents   
+
+Our operating forecast incorporates growth projections from industry analysts for the markets
+in which we participate. Our forecast also incorporates the future cash flow benefits expected from
+our continued efforts to increase efficiencies and reduce redundancies. Nonetheless, our forecast
+includes the need to raise additional funds. Our cash flow estimates are based upon attaining
+certain levels of sales, maintaining budgeted levels of operating expenses, collections of accounts
+receivable and maintaining our current borrowing line with SVB among other assumptions, including
+the improvement in the overall macroeconomic environment. However, there can be no
+assurance that we will be able to meet such assumptions. Our operating forecast does not depend
+upon our ability to make additional acquisitions which could be impacted by our current stock
+price. Our sales estimate includes revenue from new and existing customers, which may not be
+realized, and we may be required to further reduce expenses if budgeted sales are not attained. We
+may be unsuccessful in reducing expenses in proportion to any shortfall in projected sales and our
+estimate of collections of accounts receivable may be hindered by our customers  ability to pay. In
+addition, we are currently involved in various pending and potential legal proceedings. While we
+believe that the allegations against us in each of these matters are without merit, and/or that we
+have a meritorious defense in each, we are not able to predict the final outcomes of any of these
+matters and the effect, if any, on our business, financial condition, results of operations or cash
+flows. If we are ultimately unsuccessful in any of these matters, we could be required to pay
+substantial amounts of cash to the other parties. The amount and timing of any such payments could
+adversely affect our business, financial condition, results of operations or cash flows.
+
+Recent Accounting Pronouncements 
+
+In May 2005, the FASB issued SFAS No. 154,  Accounting Changes and Error Corrections: A
+Replacement of APB Opinion No. 20 and SFAS No. 3.  This statement changes the requirements for the
+accounting for and reporting of a voluntary change in accounting principle, and also applies to
+instances when an accounting pronouncement does not include specific transition provisions. The
+statement replaces the previous requirement that voluntary changes be recognized by including the
+cumulative effect of the change in net income of the period of the change. The statement requires
+retrospective application of a new accounting principle to prior periods  financial statements,
+unless it is impracticable to determine either the period-specific effects or the cumulative effect
+of the change. The statement is effective for changes and corrections made in fiscal years
+beginning after December 15, 2005. The Company does not expect the adoption of the statement to
+have a material effect on its financial condition, results of operations or cash flows.
+
+In March 2005, the FASB issued Interpretation (FIN) No. 47,  Accounting for Conditional Asset
+Retirement Obligations   an Interpretation of FASB Statement No. 143.  This Interpretation clarifies
+the timing of liability recognition for legal obligations associated with an asset retirement when
+the timing and (or) method of settling the obligation are conditional on a future event that may or
+may not be within the control of the entity. FIN No. 47 is effective no later than the end of
+fiscal years ending after December 15, 2005. We do not believe the adoption of FIN No. 47 will have
+a material impact on our consolidated financial statements or results of operations.
+
+In November 2005, the FASB issued FSP FAS123(R)-3, Transition Election to Accounting for the
+Tax Effects of Share-Based Payment Awards. This FSP requires an entity to follow either the
+transition guidance for the additional-paid-in-capital pool as prescribed in SFAS No. 123(R),
+Share-Based Payment, or the alternative transition method as described in the FSP. An entity that
+adopts SFAS No. 123(R) using the modified prospective application may make a one-time election to
+adopt the transition method described in this FSP. An entity may take up to one year from the later
+of its initial adoption of SFAS No. 123(R) or the effective date of this FSP to evaluate its
+available transition alternatives and make its one-time election. This FSP became effective in
+November 2005. We continue to evaluate the impact that the adoption of this FSP could have on our
+financial statements.
+
+Contractual Obligations and Commercial Commitments 
+
+We are obligated under various capital and operating leases for facilities and equipment.
+Future minimum annual rental commitments under capital and operating leases and other commitments,
+as of January 31, 2006, are as follows:
+
+26
+
+Table of Contents   
+
+(a) 
+       
+     Amount includes the outstanding balance on the accounts receivable financing line as of January 31, 2006. 
+
+(b) 
+       
+     Amounts do not include future interest accruing on the accounts receivable financing line, as interest rate is
+variable. 
+
+(c) 
+       
+     Amounts exclude certain common area maintenance and other property charges that are not included
+within the lease payment. 
+
+(d) 
+
+On February 9, 2005, the Company entered into an Assignment and Assumption Agreement with a Las
+Vegas-based company, whereby this company purchased from us the right to use 29,000 square feet in
+our Las Vegas data center, along with the infrastructure and equipment associated with this space.
+In exchange, we received an initial payment of $600,000 and will receive $55,682 per month over two
+years. This agreement shifts the responsibility for management of the data center and its
+employees, along with the maintenance of the facility s infrastructure, to this Las Vegas-based
+company. Pursuant to this Agreement, we have subleased back 2,000 square feet of space, allowing
+us to continue servicing our existing customer base in this market. Commitments related to property
+leases include an amount related to the 2,000 square feet sublease. 
+
+With respect to the property lease commitments listed above, certain cash is restricted
+pursuant to terms of lease agreements with landlords. At January 31, 2006, this restricted cash of
+approximately $1.2 million on the accompanying Condensed Consolidated Balance Sheet consisted of
+certificates of deposit and a treasury note and are recorded at cost, which approximates fair
+value.
+
+Off-Balance Sheet Financing Arrangements 
+
+The Company does not have any off-balance sheet financing arrangements other than
+operating leases, which are recorded in accordance with generally accepted accounting principles.
+
+Critical Accounting Policies 
+
+We prepare our consolidated financial statements in accordance with generally
+accepted accounting principles in the United States of America. As such, management is required to
+make certain estimates, judgments and assumptions that it believes are reasonable based on the
+information available. These estimates and assumptions affect the reported amounts of assets and
+liabilities at the date of the financial statements and the reported amounts of revenues and
+expenses for the periods presented. The significant accounting policies which management believes
+are the most critical to aid in fully understanding and evaluating our reported financial results
+include revenue recognition, allowance for doubtful accounts and impairment of long-lived assets.
+Management reviews the estimates on a regular basis and makes adjustments based on historical
+experiences, current conditions and future expectations. The reviews are performed regularly and
+adjustments are made as required by current available information. We believe these estimates are
+reasonable, but actual results could differ from these estimates.
+
+Revenue Recognition.  Revenue consists of monthly fees for Web site and Internet custom and
+packaged application management, hosting, colocation and professional services. The Company also
+derives a nonmaterial amount of revenue from the sale of software and related maintenance contracts. Reimbursable expenses
+charged to clients are included in revenue and cost of revenue. Application management, hosting and
+colocation revenue (other than installation fees) is billed and recognized over the term of the
+contract, generally one to three years, based on actual usage. Payments received in advance of
+providing services are deferred until the period such services are provided. Revenue from
+professional services, application management, hosting and colocation revenue is recognized on
+either a time-and material basis as the services are performed or under the percentage of
+completion method for fixed-price contracts. We generally sell our professional services under
+contracts with terms ranging from one to five years. When current contract estimates indicate that
+a loss is probable, a provision is made for the total anticipated loss in the current period.
+Contract losses are determined to be the amount by which the estimated service costs of the
+contract exceed
+
+27
+
+Table of Contents   
+
+the estimated revenue that will be generated by the contract. Unbilled accounts receivable
+represents revenue for services performed that have not been billed. Billings in excess of revenue
+recognized are recorded as deferred revenue until the applicable revenue recognition criteria are
+met. Revenue from the sale of software is recognized when persuasive evidence of an arrangement
+exists, the product has been delivered, the fees are fixed and determinable and collection of the
+resulting receivable is reasonably assured. In instances where the Company also provides
+application management and hosting services in conjunction with the sale of software, software
+revenue is deferred and recognized ratably over the expected customer relationship period. If we
+determine that collection of a fee is not reasonably assured, we defer the fee and recognize
+revenue at the time collection becomes reasonably assured, which is generally upon receipt of cash.
+
+Existing customers are subject to ongoing credit evaluations based on payment history and
+other factors. If it is determined subsequent to our initial evaluation and at any time during the
+arrangement that collectability is not reasonably assured, revenue is recognized as cash is
+received. Due to the nature of our service arrangements, we provide written notice of termination
+of services, typically 10 days in advance of disconnecting a customer. Revenue for services
+rendered during this notification period is generally recognized on a cash basis as collectability
+is not considered probable at the time the services are provided.
+
+Allowance for Doubtful Accounts.  We perform periodic credit evaluations of our customers 
+financial conditions and generally do not require collateral or other security against trade
+receivables. We make estimates of the uncollectability of our accounts receivables and maintain an
+allowance for doubtful accounts for potential credit losses. We specifically analyze accounts
+receivable and consider historical bad debts, customer and industry
+
+concentrations, customer credit-worthiness, current economic trends and changes in our customer
+payment patterns when evaluating the adequacy of the allowance for doubtful accounts. We
+specifically reserve for 100% of the balance of customer accounts deemed uncollectible. For all
+other customer accounts, we reserve for 20% of the balance over 90 days old and 2% of all other
+customer balances. Changes in economic conditions or the financial viability of our customers may
+result in additional provisions for doubtful accounts in excess of our current estimate.
+
+Impairment of Long-lived Assets.  We review our long-lived assets, subject to amortization and
+depreciation, including customer lists and property and equipment, for impairment whenever events
+or changes in circumstances indicate that the carrying amount of these assets may not be
+recoverable. Factors we consider important that could trigger an interim impairment review include:
+
+significant underperformance relative to expected historical or projected future
+operating results; 
+
+significant changes in the manner of our use of the acquired assets or the strategy of
+our overall business; 
+
+significant negative industry or economic trends; 
+
+significant declines in our stock price for a sustained period; and 
+
+our market capitalization relative to net book value. 
+
+Recoverability is measured by a comparison of the carrying amount of an asset to future
+undiscounted cash flows expected to be generated by the asset. If the assets were considered to be
+impaired, the impairment to be recognized would be measured by the amount by which the carrying
+value of the assets exceeds their fair value. Fair value is determined based on discounted cash
+flows or appraised values, depending on the nature of the asset. Assets to be disposed of are
+valued at the lower of the carrying amount or their fair value less disposal costs. Property and
+equipment is primarily comprised of leasehold improvements, computer and office equipment and
+software licenses. Intangible assets consist of customer lists.
+
+We review the valuation of our goodwill in the fourth quarter of each fiscal year. If an event
+or circumstance indicates that it is more likely than not an impairment loss has been incurred, we
+review the valuation of goodwill on an interim basis. An impairment loss is recognized to the
+extent that the carrying amount of goodwill exceeds its implied fair value. Impairment losses are
+recognized in operations
+
+28
+
+Table of Contents   
+
+Risk Factors That May Affect Future Results 
+
+We operate in a rapidly changing environment that involves a number of risks, some of which
+are beyond our control. Forward-looking statements in this report and those made from time to time
+by us through our senior management are made pursuant to the safe harbor provisions of the Private
+Securities Litigation Reform Act of 1995. Forward-looking statements concerning the expected future
+revenues, earnings or financial results or concerning project plans, performance, or development of
+products and services, as well as other estimates related to future operations are necessarily only
+estimates of future results and we cannot assure you that actual results will not materially differ
+from expectations. Forward-looking statements represent management s current expectations and are
+inherently uncertain. We do not undertake any obligation to update forward-looking statements. If
+any of the following risks actually occurs, our business, financial condition and operating results
+could be materially adversely affected.
+
+We
+have negative working capital and significant indebtedness that must
+be repaid in the first half of calendar
+2006; therefore, we need to obtain additional financing, which may not be available on favorable
+terms, or at all.   We need to raise additional capital and it may not be available on favorable
+terms or at all. As of January 31, 2006, we had approximately $1.9 million of cash and cash
+equivalents and a working capital deficit of approximately $80.6 million. As of January 31, 2006,
+our outstanding balance under our Silicon Valley Bank amended accounts receivable financing
+agreement, which matures on April 29, 2006, was $20.4 million. As of January 31, 2006, our
+outstanding principal and accrued interest under the promissory notes we issued to Waythere, Inc.
+(in connection with the Surebridge acquisition), which mature on June 10, 2006, was approximately
+$40.5 million. As of January 31, 2006, our outstanding principal and accrued interest owed to
+Atlantic Investors, LLC, which matures upon the earlier to occur of April 3, 2006 or five business
+days after our receipt of net proceeds from a financing or a sale of assets of at least $13.0
+million, after our satisfaction of the mandatory prepayment obligations under the promissory notes
+issued to Waythere, was approximately $3.7 million. As of January 31, 2006, our outstanding
+principal and accrued interest owed to the AppliedTheory Estate, which is due on June 13, 2006, was
+approximately $6.3 million. If we do not raise sufficient capital to repay our indebtedness or, if
+we do not refinance or restructure our indebtedness, a substantial amount of which becomes due and
+payable during calendar year 2006, our business likely will not continue as a going concern.
+
+We have a history of losses and may never achieve or sustain profitability and may not
+continue as a going concern.   We have never been profitable and may never become profitable. Since
+our incorporation in 1998, we have experienced operating losses and negative cash flows for each
+annual period. As of January 31, 2006, we had incurred losses since our incorporation resulting in
+an accumulated deficit of approximately $463.4 million. During the fiscal quarter ended January 31,
+2006, we had a net loss of approximately $4.0 million. The audit report from KPMG LLP, our
+independent registered public accounting firm, relating to our fiscal year 2005 financial
+statements contains KPMG s opinion that our recurring losses from operations since inception and
+accumulated deficit, as well as other factors, raise substantial doubt about our ability to
+continue as a going concern. We anticipate that we will continue to incur net losses in the future.
+We also have significant fixed commitments, including with respect to real estate, bandwidth
+commitments and equipment leases. As a result, we can give no assurance that we will achieve
+profitability or be capable of sustaining profitable operations. If we are unable to reach and
+sustain profitability, we risk depleting our working capital balances and our business may not
+continue as a going concern.
+
+The convertible promissory notes we issued in the Surebridge acquisition may negatively affect
+our liquidity and our ability to obtain additional financing and operate and manage our business.  
+On June 10, 2004, in connection with our acquisition of the Surebridge business, we issued two
+convertible promissory notes in the aggregate principal amount of approximately $39.3 million. We
+must repay the remaining outstanding principal of the notes, with all accrued interest, no later
+than June 10, 2006. On December 31, 2004, we repaid $800,000, and on August 1, 2005 we repaid
+$750,000 of the outstanding principal of the notes. The principal amounts under the promissory
+notes were further reduced by approximately $3.1 million as a result of certain working capital
+adjustments the parties agreed to in the original asset purchase agreement. Accrued interest
+related to the notes amounted to approximately $5.9 million as of January 31, 2006. If we realize
+net proceeds in excess of $1.0 million from equity or debt financings or sales of assets, we are
+obligated to make a payment on the notes equal to 75% of the net proceeds. The notes, or the
+prepayment obligation under the notes, may adversely affect our ability to raise or retain
+additional capital. If we commit an event of default under any of the promissory notes, which may
+include
+
+29
+
+Table of Contents   
+
+a default of obligations owed to other third parties, prior to the maturity date of the
+promissory notes, then the holders of the promissory notes may declare the notes immediately due
+and payable, which would adversely affect our liquidity and our ability to manage our business.
+Furthermore, the promissory notes contain restrictive covenants, including with respect to our
+ability to incur additional indebtedness.
+
+Our common stockholders may suffer significant dilution in the future upon the conversion of
+outstanding securities and the issuance of additional securities in potential future acquisitions
+or financings.   The outstanding principal and accrued interest on the two promissory notes issued to
+Waythere, Inc. (formerly known as Surebridge, Inc.) are convertible into shares of our common stock
+at a conversion price of $4.642, at the election of the holder. If the promissory notes are
+converted into shares of common stock, Waythere may obtain a significant equity interest in
+NaviSite and other stockholders may experience significant and immediate dilution. Should Waythere
+elect to convert the entire principal and accrued interest outstanding under of its two convertible
+promissory notes into shares of our common stock, Waythere would own
+approximately 11.7 million
+shares of our common stock. Based on our capitalization as of January 31, 2006, Waythere would own
+approximately 32% of our outstanding shares of common stock.
+
+In addition, our stockholders will experience further dilution to the extent that additional
+shares of our common stock are issued in potential future acquisitions or financings.
+
+On January 22, 2004, we filed with the Securities and Exchange Commission a Registration
+Statement on Form S-2 to register shares of our common stock to issue and sell in a public offering
+to raise additional funds. In the event we are not successful in raising capital through this
+public offering, we will be required to expense $0.7 million of associated offering expenses which
+are presently included in  Prepaid expenses and other current assets  on our January 31, 2006
+Consolidated Balance Sheet. If we do not complete the planned public offering, or if we do complete
+the planned public offering and then use a significant portion of the net proceeds we receive to
+repay debt or acquire a company, technology or product, we will need to raise additional capital
+through various other equity or debt financings, and such capital may not be available on favorable
+terms or at all.
+
+Our financing agreement with Silicon Valley Bank includes various covenants and restrictions
+that may negatively affect our liquidity and our ability to operate and manage our business.   As of
+January 31, 2006, we owed Silicon Valley Bank approximately $24.0 million under our amended
+accounts receivable financing agreement. The accounts receivable financing agreement restricts our
+ability to:
+
+create or incur additional indebtedness; 
+
+sell, or permit any lien or security interest in, any of our assets; 
+
+enter into or permit any material transaction with any of our affiliates; 
+
+merge or consolidate with any other party, or acquire all or substantially all of the capital stock
+or property of another party, unless, among other things, the other party is in the same, or a
+similar line of business as us; 
+
+relocate our principal executive office or add any new offices or business locations; 
+
+change our state of formation; 
+
+change our legal name; 
+
+make investments; 
+
+pay dividends or make any distribution or payment or redeem, retire or purchase our capital stock; and 
+
+30
+
+Table of Contents   
+
+make or permit any payment on subordinated debt or
+amend any provision in any document relating to any
+subordinated debt. 
+
+Further, the accounts receivable financing agreement requires that we maintain EBITDA of at
+least $1.00 for every fiscal quarter. The agreement defines EBITDA as earnings before interest,
+taxes, depreciation and amortization in accordance with generally accepted accounting principles
+and excluding acquisition-related costs and one-time extraordinary charges.
+
+If we breach our accounts receivable financing agreement with Silicon Valley Bank, a default
+could result. A default under the accounts receivable financing agreement may be deemed to have
+occurred upon an event of default under the promissory notes issued in the Surebridge transaction.
+A default, if not waived, could result in, among other things, us not being able to borrow
+additional amounts from Silicon Valley Bank. In addition, all or a portion of our outstanding
+amounts may become due and payable on an accelerated basis, which would adversely affect our
+liquidity and our ability to manage our business. A default under the accounts receivable financing
+agreement could also result in a cross-default under the promissory notes issued to Waythere in
+connection with the Surebridge transaction. This would accelerate the repayment obligation on the
+promissory notes and would allow Waythere to elect to convert the principal and accrued interest
+into shares of our common stock. All amounts due and outstanding under the accounts receivable
+financing agreement are due to be repaid in April 2006.
+
+A significant portion of our revenue comes from one customer and, if we lost this customer, it
+would have a significant adverse impact on our business results and cash flows.   The New York State
+Department of Labor represented approximately 10% of our consolidated
+revenue for the six months ended January 31, 2006. The New York State Department of Labor has been a long-term
+customer of ours, but we cannot assure you that we will be able to retain this customer. We also
+cannot assure you that we will be able to maintain the same level of service to this customer or
+that our revenue from this customer will not significantly decline in future periods. On August 16,
+2005, we entered into a new agreement with the New York State Department of Labor with a two year
+term which is set to expire on June 14, 2007. The New York State Department of Labor is not
+obligated under our new agreement to buy a minimum amount of services from us or designate us as
+its sole supplier of any particular service. Further, The New York State Department of Labor has
+the right to terminate the new agreement at any time by providing us with 60 days notice. If we
+were to lose this customer or suffer a material reduction in the revenue generated from this
+customer, it would have a significant adverse impact on our business results and cash flows.
+
+Atlantic Investors may have interests that conflict with the interests of our other
+stockholders and, as our majority stockholder, can prevent new and existing investors from
+influencing significant corporate decisions.   Atlantic Investors owns approximately 60% of our
+outstanding capital stock as of January 31, 2006. In addition, Atlantic Investors holds a
+promissory note in the principal amount of $3.0 million due upon the earlier to occur of April 3,
+2006, and five business days after our receipt of net proceeds from a financing or a sale of assets
+of at least $13.0 million, after our satisfaction of the mandatory prepayment obligations under the
+promissory notes issued to Waythere. As of January 31, 2006, we had recorded accrued interest on
+this note in the amount of $0.7 million. Atlantic Investors has the power, acting alone, to elect a
+majority of our Board of Directors and has the ability to control our management and affairs and
+determine the outcome of any corporate action requiring stockholder approval. Regardless of how our
+other stockholders may vote, Atlantic Investors has the ability to control the election of
+directors and to determine whether to engage in a merger, consolidation or sale of our assets and
+any other significant corporate transaction. Under Delaware law, Atlantic Investors is able to
+exercise its voting power by written consent, without convening a meeting of the stockholders.
+Atlantic Investors  ownership of a majority of our outstanding common stock may have the effect of
+delaying, deterring or preventing a change in control of us or discouraging a potential acquiror
+from attempting to obtain control of us, which could adversely affect the market price of our
+common stock.
+
+Members of our management group also have significant interests in Atlantic Investors, LLC,
+which may create conflicts of interest.   Some of the members of our management group also serve as
+members of the management group of Atlantic Investors, LLC and its affiliates. Specifically, Andrew
+Ruhan, our Chairman of the Board, holds a 10% equity interest in Unicorn Worldwide Holdings
+Limited, a managing member of Atlantic Investors. Arthur Becker, our President and Chief Executive
+Officer and a member of our Board of Directors, is the managing member of Madison Technology LLC, a
+managing member of Atlantic Investors. As a result, these officers and directors may face potential
+conflicts of interest with each other and with our stockholders. They may
+
+31
+
+Table of Contents   
+
+be presented with situations in their capacity as our officers or directors that conflict with
+their fiduciary obligations to Atlantic Investors, which in turn may have interests that conflict
+with the interests of our other stockholders.
+
+Acquisitions may result in disruptions to our business or distractions of our management due
+to difficulties in integrating acquired personnel and operations, and these integrations may not
+proceed as planned.   Since December 2002, we have acquired CBTM (accounted for as an  as if
+pooling ), Avasta, Conxion, selected assets of Interliant, all of the shares of ten wholly-owned
+subsidiaries of CBT (accounted for as an  as if pooling ) and substantially all of the assets and
+liabilities of Surebridge. We intend to continue to expand our business through the acquisition of
+companies, technologies, products and services. Acquisitions involve a number of special problems
+and risks, including:
+
+difficulty integrating acquired technologies, products, services, operations and personnel with
+the existing businesses; 
+
+difficulty maintaining relationships with important third parties, including those relating to
+marketing alliances and providing preferred partner status and favorable pricing; 
+
+diversion of management s attention in connection with both negotiating the acquisitions and
+integrating the businesses; 
+
+strain on managerial and operational resources as management tries to oversee larger operations; 
+
+inability to retain and motivate management and other key personnel of the acquired businesses; 
+
+exposure to unforeseen liabilities of acquired companies; 
+
+potential costly and time-consuming litigation, including stockholder lawsuits; 
+
+potential issuance of securities in connection with an acquisition with rights that are
+superior to the rights of holders of our common stock, or which may have a dilutive effect on
+our common stockholders; 
+
+the need to incur additional debt or use cash; and 
+
+the requirement to record potentially significant additional future operating costs for the
+amortization of intangible assets. 
+
+As a result of these problems and risks, businesses we acquire may not produce the revenues,
+earnings or business synergies that we anticipated, and acquired products, services or technologies
+might not perform as we expected. As a result, we may incur higher costs and realize lower revenues
+than we had anticipated. We may not be able to successfully address these problems and we cannot
+assure you that the acquisitions will be successfully identified and completed or that, if
+acquisitions are completed, the acquired businesses, products, services or technologies will
+generate sufficient revenue to offset the associated costs or other harmful effects on our
+business. In addition, our limited operating history with our current structure resulting from
+recent acquisitions makes it very difficult for you and us to evaluate or predict our ability to,
+among other things, retain customers, generate and sustain a revenue base sufficient to meet our
+operating expenses, and achieve and sustain profitability.
+
+A failure to meet customer specifications or expectations could result in lost revenues,
+increased expenses, negative publicity, claims for damages and harm to our reputation and cause
+demand for our services to decline.   Our agreements with customers require us to meet specified
+service levels for the services we provide. In addition, our customers may have additional
+expectations about our services. Any failure to meet customers  specifications or expectations
+could result in:
+
+delayed or lost revenue; 
+
+32
+
+Table of Contents   
+
+requirements to provide additional services to a customer at reduced charges or no charge; 
+
+negative publicity about us, which could adversely affect our ability to attract or retain customers; and 
+
+claims by customers for substantial damages against us, regardless of our responsibility for the
+failure, which may not be covered by insurance policies and which may not be limited by contractual
+terms of our engagement. 
+
+Our ability to successfully market our services could be substantially impaired if we are
+unable to deploy new infrastructure systems and applications or if new infrastructure systems and
+applications deployed by us prove to be unreliable, defective or incompatible.   We may experience
+difficulties that could delay or prevent the successful development, introduction or marketing of
+hosting and application management services in the future. If any newly introduced infrastructure
+systems and applications suffer from reliability, quality or compatibility problems, market
+acceptance of our services could be greatly hindered and our ability to attract new customers could
+be significantly reduced. We cannot assure you that new applications deployed by us will be free
+from any reliability, quality or compatibility problems. If we incur increased costs or are unable,
+for technical or other reasons, to host and manage new infrastructure systems and applications or
+enhancements of existing applications, our ability to successfully market our services could be
+substantially limited.
+
+Any interruptions in, or degradation of, our private transit Internet connections could result
+in the loss of customers or hinder our ability to attract new customers.   Our customers rely on our
+ability to move their digital content as efficiently as possible to the people accessing their Web
+sites and infrastructure systems and applications. We utilize our direct private transit Internet
+connections to major network providers, such as Level 3, Global Crossing and XO Communications, as
+a means of avoiding congestion and resulting performance degradation at public Internet exchange
+points. We rely on these telecommunications network suppliers to maintain the operational integrity
+of their networks so that our private transit Internet connections operate effectively. If our
+private transit Internet connections are interrupted or degraded, we may face claims by, or lose,
+customers, and our reputation in the industry may be harmed, which may cause demand for our
+services to decline.
+
+If we are unable to maintain existing and develop additional relationships with software
+vendors, the sales and marketing of our service offerings may be unsuccessful.   We believe that to
+penetrate the market for managed IT services we must maintain existing and develop additional
+relationships with industry-leading software vendors. We license or lease select software
+applications from software vendors, including IBM, Microsoft, Micromuse and Oracle. Our
+relationships with Microsoft and Oracle are critical to the operations and success of our business.
+The loss of our ability to continue to obtain, utilize or depend on any of these applications or
+relationships could substantially weaken our ability to provide services to our customers. It may
+also require us to obtain substitute software applications that may be of lower quality or
+performance standards or at greater cost. In addition, because we generally license applications on
+a non-exclusive basis, our competitors may license and utilize the same software applications. In
+fact, many of the companies with which we have strategic relationships currently have, or could
+enter into, similar license agreements with our competitors or prospective competitors. We cannot
+assure you that software applications will continue to be available to us from software vendors on
+commercially reasonable terms. If we are unable to identify and license software applications that
+meet our targeted criteria for new application introductions, we may have to discontinue or delay
+introduction of services relating to these applications.
+
+Our network infrastructure could fail, which would impair our ability to provide guaranteed
+levels of service and could result in significant operating losses.   To provide our customers with
+guaranteed levels of service, we must operate our network infrastructure 24 hours a day, seven days
+a week without interruption. We must, therefore, protect our network infrastructure, equipment and
+customer files against damage from human error, natural disasters, unexpected equipment failure,
+power loss or telecommunications failures, terrorism, sabotage or other intentional acts of
+vandalism. Even if we take precautions, the occurrence of a natural disaster, equipment failure or
+other unanticipated problem at one or more of our data centers could result in interruptions in the
+services we provide to our customers. We cannot assure you that our disaster recovery plan will
+address all, or even most, of the problems we may encounter in the event of a disaster or other
+unanticipated problem. We have experienced service interruptions in the past, and any future
+service interruptions could:
+
+33
+
+Table of Contents   
+
+require us to spend substantial amounts of money to replace equipment or facilities; 
+
+entitle customers to claim service credits or seek damages for losses under our service level guarantees; 
+
+cause customers to seek alternate providers; or 
+
+impede our ability to attract new customers, retain current customers or enter into additional strategic
+relationships. 
+
+Our dependence on third parties increases the risk that we will not be able to meet our
+customers  needs for software, systems and services on a timely or cost-effective basis, which
+could result in the loss of customers.   Our services and infrastructure rely on products and
+services of third-party providers. We purchase key components of our infrastructure, including
+networking equipment, from a limited number of suppliers, such as IBM, Cisco Systems and F5
+Networks. Our recently acquired business from Surebridge relies on products and services of
+Microsoft and Oracle. We cannot assure you that we will not experience operational problems
+attributable to the installation, implementation, integration, performance, features or
+functionality of third-party software, systems and services. We cannot assure you that we will have
+the necessary hardware or parts on hand or that our suppliers will be able to provide them in a
+timely manner in the event of equipment failure. Our ability to timely obtain and continue to
+maintain the necessary hardware or parts could result in sustained equipment failure and a loss of
+revenue due to customer loss or claims for service credits under our service level guarantees.
+
+We could be subject to increased operating costs, as well as claims, litigation or other
+potential liability, in connection with risks associated with Internet security and the security of
+our systems.   A significant barrier to the growth of e-commerce and communications over the Internet
+has been the need for secure transmission of confidential information. Several of our
+infrastructure systems and application services utilize encryption and authentication technology
+licensed from third parties to provide the protections necessary to ensure secure transmission of
+confidential information. We also rely on security systems designed by third parties and the
+personnel in our network operations centers to secure those data centers. Any unauthorized access,
+computer viruses, accidental or intentional actions and other disruptions could result in increased
+operating costs. For example, we may incur additional significant costs to protect against these
+interruptions and the threat of security breaches or to alleviate problems caused by these
+interruptions or breaches. If a third party were able to misappropriate a consumer s personal or
+proprietary information, including credit card information, during the use of an application
+solution provided by us, we could be subject to claims, litigation or other potential liability.
+
+Third-party infringement claims against our technology suppliers, customers or us could result
+in disruptions in service, the loss of customers or costly and time-consuming litigation.   We
+license or lease most technologies used in the infrastructure systems and application services that
+we offer. Our technology suppliers may become subject to third-party infringement or other claims
+and assertions, which could result in their inability or unwillingness to continue to license their
+technologies to us. We cannot assure you that third parties will not assert claims against us in
+the future or that these claims will not be successful. Any infringement claim as to our
+technologies or services, regardless of its merit, could result in delays in service, installation
+or upgrades, the loss of customers or costly and time-consuming litigation.
+
+We may be subject to legal claims in connection with the information disseminated through our
+network, which could divert management s attention and require us to expend significant financial
+resources.   We may face liability for claims of defamation, negligence, copyright, patent or
+trademark infringement and other claims based on the nature of the materials disseminated through
+our network. For example, lawsuits may be brought against us claiming that content distributed by
+some of our customers may be regulated or banned. In these and other instances, we may be required
+to engage in protracted and expensive litigation that could have the effect of diverting
+management s attention from our business and require us to expend significant financial resources.
+Our general liability insurance may not cover any of these claims or may not be adequate to protect
+us against all liability that may be imposed. In addition, on a limited number of occasions in the
+past, businesses, organizations and individuals have sent unsolicited commercial e-mails from
+servers hosted at our facilities to a number of people, typically to advertise products or
+services. This practice, known as  spamming,  can lead to statutory liability as well as
+complaints against service providers that enable these activities, particularly where recipients
+view the materials received as offensive. We have in the past received, and may in the future
+receive, letters from recipients of
+
+34
+
+Table of Contents   
+
+information transmitted by our customers objecting to the transmission. Although we prohibit our
+customers by contract from spamming, we cannot assure you that our customers will not engage in
+this practice, which could subject us to claims for damages.
+
+If we fail to attract or retain key officers, management and technical personnel, our ability
+to successfully execute our business strategy or to continue to provide services and technical
+support to our customers could be adversely affected and we may not be successful in attracting new
+customers.   We believe that attracting, training, retaining and motivating technical and managerial
+personnel, including individuals with significant levels of infrastructure systems and application
+expertise, is a critical component of the future success of our business. Qualified technical
+personnel are likely to remain a limited resource for the foreseeable future and competition for
+these personnel is intense. The departure of any of our executive officers, particularly Arthur P.
+Becker, our Chief Executive Officer and President, or core members of our sales and marketing teams
+or technical service personnel, would have negative ramifications on our customer relations and
+operations. The departure of our executive officers could adversely affect the stability of our
+infrastructure and our ability to provide the guaranteed service levels our customers expect. Any
+officer or employee can terminate his or her relationship with us at any time. In addition, we do
+not carry life insurance on any of our personnel. Over the past two years, we have had significant
+reductions-in-force and departures of several members of senior management due to redundancies and
+restructurings resulting from the consolidation of our acquired companies. In the event of future
+reductions or departures of employees, our ability to successfully execute our business strategy,
+or to continue to provide services to our customers or attract new customers, could be adversely
+affected.
+
+The unpredictability of our quarterly results may cause the trading price of our common stock
+to fluctuate or decline.   Our quarterly operating results may vary significantly from
+quarter-to-quarter and period-to-period as a result of a number of factors, many of which are
+outside of our control and any one of which may cause our stock price to fluctuate. The primary
+factors that may affect our operating results include the following:
+
+a reduction of market demand and/or acceptance of our services; 
+
+an oversupply of data center space in the industry; 
+
+our ability to develop, market and introduce new services on a timely basis; 
+
+the length of the sales cycle for our services; 
+
+the timing and size of sales of our services, which depends on the budgets of our customers; 
+
+downward price adjustments by our competitors; 
+
+changes in the mix of services provided by our competitors; 
+
+technical difficulties or system downtime affecting the Internet or our hosting operations; 
+
+our ability to meet any increased technological demands of our customers; and 
+
+the amount and timing of costs related to our marketing efforts and service introductions. 
+
+Due to the above factors, we believe that quarter-to-quarter or period-to-period comparisons
+of our operating results may not be a good indicator of our future performance. Our operating
+results for any particular quarter may fall short of our expectations or those of stockholders or
+securities analysts. In this event, the trading price of our common stock would likely fall.
+
+If we are unsuccessful in pending and potential litigation matters, our financial condition
+may be adversely affected.   We are currently involved in various pending and potential legal
+proceedings, including a class action
+lawsuit related to our initial public offering. If we are ultimately unsuccessful in any of these
+matters, we could be required to pay substantial amounts of cash to the other parties. The amount
+and timing of any of these payments could adversely affect our financial condition.
+
+35
+
+Table of Contents   
+
+If the markets for outsourced information technology infrastructure and
+applications, Internet commerce and communication decline, there may be insufficient demand for our
+services and, as a result, our business strategy and objectives may fail.   The increased use of the
+Internet for retrieving, sharing and transferring information among businesses and consumers is
+developing, and the market for the purchase of products and services over the Internet is still
+relatively new and emerging. Our industry has experienced periods of rapid growth, followed by a
+sharp decline in demand for products and services, which related to the failure in the last few
+years of many companies focused on developing Internet-related businesses. If acceptance and growth
+of the Internet as a medium for commerce and communication declines, our business strategy and
+objectives may fail because there may not be sufficient market demand for our managed IT services.
+
+If we do not respond to rapid changes in the technology sector, we will lose customers.   The
+markets for the technology-related services we offer are characterized by rapidly changing
+technology, evolving industry standards, frequent new service introductions, shifting distribution
+channels and changing customer demands. We may not be able to adequately adapt our services or to
+acquire new services that can compete successfully. In addition, we may not be able to establish
+and maintain effective distribution channels. We risk losing customers to our competitors if we are
+unable to adapt to this rapidly evolving marketplace.
+
+The market in which we operate is highly competitive and is likely to consolidate, and we may
+lack the financial and other resources, expertise or capability needed to capture increased market
+share or maintain market share.   We compete in the managed IT services market. This market is
+rapidly evolving, highly competitive and likely to be characterized by over-capacity and industry
+consolidation. Our competitors may consolidate with one another or acquire software application
+vendors or technology providers, enabling them to more effectively compete with us. Many
+participants in this market have suffered significantly in the last several years. We believe that
+participants in this market must grow rapidly and achieve a significant presence to compete
+effectively. This consolidation could affect prices and other competitive factors in ways that
+would impede our ability to compete successfully in the managed IT services market.
+
+Further, our business is not as developed as that of many of our competitors. Many of our
+competitors have substantially greater financial, technical and market resources, greater name
+recognition and more established relationships in the industry. Many of our competitors may be able
+to:
+
+develop and expand their network infrastructure and service offerings more rapidly; 
+
+adapt to new or emerging technologies and changes in customer requirements more quickly; 
+
+take advantage of acquisitions and other opportunities more readily; or 
+
+devote greater resources to the marketing and sale of their services and adopt more
+aggressive pricing policies than we can. 
+
+We may lack the financial and other resources, expertise or capability needed to maintain or
+capture increased market share in this environment in the future. Because of these competitive
+factors and due to our comparatively small size and our lack of financial resources, we may be
+unable to successfully compete in the managed IT services market.
+
+Difficulties presented by international economic, political, legal, accounting and business
+factors could harm our business in international markets.   We operate a data center in the United
+Kingdom. Revenue from our foreign operations accounted for
+approximately 4.0% of our total revenue
+during the six months ended January 31, 2006. We recently expanded our operations to India,
+which could eventually broaden our customer service support. Although we expect to focus most of
+our growth efforts in the United States, we may enter into joint ventures or outsourcing agreements
+with third parties, acquire complementary businesses or operations, or establish and maintain new
+operations outside of the United States. Some risks inherent in conducting business internationally
+include:
+
+36
+
+Table of Contents   
+
+unexpected changes in regulatory, tax and political environments; 
+
+longer payment cycles and problems collecting accounts receivable; 
+
+geopolitical risks such as political and economic instability and the possibility of hostilities among
+countries or terrorism; 
+
+reduced protection of intellectual property rights; 
+
+fluctuations in currency exchange rates or imposition of restrictive currency controls; 
+
+our ability to secure and maintain the necessary physical and telecommunications infrastructure; 
+
+challenges in staffing and managing foreign operations; 
+
+employment laws and practices in foreign countries; 
+
+laws and regulations on content distributed over the Internet that are more restrictive than those
+currently in place in the United States; and 
+
+significant changes in immigration policies or difficulties in obtaining required immigration approvals. 
+
+Any one or more of these factors could adversely affect our international operations and
+consequently, our business.
+
+We may become subject to burdensome government regulation and legal uncertainties that could
+substantially harm our business or expose us to unanticipated liabilities.   It is likely that laws
+and regulations directly applicable to the Internet or to hosting and managed application service
+providers may be adopted. These laws may cover a variety of issues, including user privacy and the
+pricing, characteristics and quality of products and services. The adoption or modification of laws
+or regulations relating to commerce over the Internet could substantially impair the growth of our
+business or expose us to unanticipated liabilities. Moreover, the applicability of existing laws to
+the Internet and hosting and managed application service providers is uncertain. These existing
+laws could expose us to substantial liability if they are found to be applicable to our business.
+For example, we provide services over the Internet in many states in the United States and
+elsewhere and facilitate the activities of our customers in these jurisdictions. As a result, we
+may be required to qualify to do business, be subject to taxation or be subject to other laws and
+regulations in these jurisdictions, even if we do not have a physical presence, employees or
+property in those states.
+
+The price of our common stock has been volatile, and may continue to experience wide
+fluctuations.   Since January 2004, our common stock has closed as low as $1.19 per share and as high
+as $7.30 per share. The trading price of our common stock has been and may continue to be subject
+to wide fluctuations due to the risk factors discussed in this section and elsewhere in this
+report. Fluctuations in the market price of our common stock may cause an investor in our common
+stock to lose some or all of his investment. In addition, should the market price of our common
+stock be below $1.00 per share for an extended period, or if we fail to satisfy any other Nasdaq
+continued listing requirement, Nasdaq may delist our common stock, which would have an adverse
+effect on the trading of our common stock. On June 10, 2002, the listing of our common stock
+transferred from the Nasdaq National Market to the Nasdaq Capital Market because the market price
+of our common stock had failed to maintain compliance with the Nasdaq National Market s minimum
+$1.00 per share continued listing requirement. A delisting of our common stock from Nasdaq could
+materially reduce the liquidity of our common stock and result in a corresponding material
+reduction in the price of our common stock. Also, a delisting would be a default under our
+convertible promissory notes issued to Waythere. In addition, a delisting could harm our ability to
+raise capital through alternative financing sources on terms acceptable to us, or at all, and may
+result in the potential loss of confidence by suppliers, customers and employees. On April 7, 2005,
+we received a letter from the Nasdaq Listing Qualifications Staff stating that we had not paid
+certain Nasdaq fees as required by Nasdaq Marketplace
+
+37
+
+Table of Contents   
+
+Rule 4310(c)(13) and that as a result, our common stock was subject to delisting from the Nasdaq
+Capital Market. On April 8, 2005, we paid these outstanding fees in full and received a letter from
+Nasdaq confirming compliance with Marketplace Rule 4310(c)(13). We also confirmed with Nasdaq that
+no further action by us was required and that our common stock will continue to be listed on the
+Nasdaq Capital Market.
+
+Anti-takeover provisions in our corporate documents may discourage or prevent a takeover.  
+Provisions in our certificate of incorporation and our by-laws may have the effect of delaying or
+preventing an acquisition or merger in which we are acquired or a transaction that changes our
+Board of Directors. These provisions:
+
+authorize the board to issue preferred stock without stockholder approval; 
+
+prohibit cumulative voting in the election of directors; 
+
+limit the persons who may call special meetings of stockholders; and 
+
+establish advance notice requirements for nominations for the election of
+directors or for proposing matters that can be acted on by stockholders
+at stockholder meetings. 
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk 
+
+We do not enter into financial instruments for trading purposes. We do not use derivative
+financial instruments or derivative commodity instruments in our investment portfolio or enter into
+hedging transactions. Our exposure to market risk associated with risk-sensitive instruments
+entered into for purposes other than trading purposes is not material to NaviSite. We currently
+have no significant foreign operations and therefore face no material foreign currency exchange
+rate risk.
+
+Item 4. Controls and Procedures 
+
+Evaluation of Disclosure Controls and Procedures.  Based on management s evaluation (with the
+participation of NaviSite s principal executive officer and principal financial officer) as of the
+end of the period covered by this report, NaviSite s principal executive officer and principal
+financial officer have concluded that NaviSite s disclosure controls and procedures (as defined in
+Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as amended, (the  Exchange
+Act )) are effective to ensure that information required to be disclosed by NaviSite in reports
+that it files or submits under the Exchange Act is recorded, processed, summarized and reported
+within the time periods specified in Securities and Exchange Commission rules and forms, and that
+the information is accumulated and communicated to its management, including to its principal
+executive officer and principal financial officer as appropriate to allow timely decisions
+regarding required disclosure.
+
+Changes in Internal Control Over Financial Reporting.  There was no change in NaviSite s
+internal control over financial reporting during the second fiscal quarter that has materially
+affected, or is reasonably likely to materially affect, NaviSite s internal control over financial
+reporting.
+
+PART II: OTHER INFORMATION 
+
+Item 1. Legal Proceedings 
+
+IPO Securities Litigation 
+
+On or about June 13, 2001, Stuart Werman and Lynn McFarlane filed a lawsuit against us,
+BancBoston Robertson Stephens, an underwriter of our initial public offering in October 1999, Joel
+B. Rosen, our then chief executive officer, and Kenneth W. Hale, our then chief financial officer.
+The suit was filed in the United States District Court for the Southern District of New York. The
+suit generally alleges that the defendants violated federal securities laws by not disclosing
+certain actions allegedly taken by Robertson Stephens in connection with our initial public
+offering. The suit alleges specifically that Robertson Stephens, in exchange for the allocation to
+its customers of
+
+38
+
+Table of Contents   
+
+shares of our common stock sold in our initial public offering, solicited and received from
+its customers  agreements to purchase additional shares of our common stock in the aftermarket at
+pre-determined prices. The suit seeks unspecified monetary damages and certification of a plaintiff
+class consisting of all persons who acquired shares of our common stock between October 22, 1999
+and December 6, 2000. Three other substantially similar lawsuits were filed between June 15, 2001
+and July 10, 2001 by Moses Mayer (filed June 15, 2001), Barry Feldman (filed June 19, 2001), and
+Binh Nguyen (filed July 10, 2001). Robert E. Eisenberg, our president at the time of the initial
+public offering in 1999, also was named as a defendant in the Nguyen lawsuit.
+
+On or about June 21, 2001, David Federico filed in the United States District Court for the
+Southern District of New York a lawsuit against us, Mr. Rosen, Mr. Hale, Robertson Stephens and
+other underwriter defendants including J.P. Morgan Chase, First Albany Companies, Inc., Bank of
+America Securities, LLC, Bear Stearns   Co., Inc., B.T. Alex. Brown, Inc., Chase Securities, Inc.,
+CIBC World Markets, Credit Suisse First Boston Corp., Dain Rauscher, Inc., Deutsche Bank
+Securities, Inc., The Goldman Sachs Group, Inc., J.P. Morgan   Co., J.P. Morgan Securities, Lehman
+Brothers, Inc., Merrill Lynch, Pierce, Fenner   Smith, Inc., Morgan Stanley Dean Witter   Co.,
+Robert Fleming, Inc. and Salomon Smith Barney, Inc. The suit generally alleges that the defendants
+violated the anti-trust laws and the federal securities laws by conspiring and agreeing to raise
+and increase the compensation received by the underwriter defendants by requiring those who
+received allocation of initial public offering stock to agree to purchase shares of manipulated
+securities in the after-market of the initial public offering at escalating price levels designed
+to inflate the price of the manipulated stock, thus artificially creating an appearance of demand
+and high prices for that stock, and initial public offering stock in general, leading to further
+stock offerings. The suit also alleges that the defendants arranged for the underwriter defendants
+to receive undisclosed and excessive brokerage commissions and that, as a consequence, the
+underwriter defendants successfully increased investor interest in the manipulated initial public
+offering of securities and increased the underwriter defendants  individual and collective
+underwritings, compensation, and revenue. The suit further alleges that the defendants violated the
+federal securities laws by issuing and selling securities pursuant to the initial public offering
+without disclosing to investors that the underwriter defendants in the offering, including the lead
+underwriters, had solicited and received excessive and undisclosed commissions from certain
+investors. The suit seeks unspecified monetary damages and certification of a plaintiff class
+consisting of all persons who acquired shares of our common stock between October 22, 1999 and June
+12, 2001.
+
+Those five cases, along with lawsuits naming more than 300 other issuers and over 50
+investment banks which have been sued in substantially similar lawsuits, have been assigned to the
+Honorable Shira A. Scheindlin (the  Court ) for all pretrial purposes (the  IPO Securities
+Litigation ). On September 6, 2001, the Court entered an order consolidating the five individual
+cases involving us and designating Werman v. NaviSite, Inc., et al., Civil Action No. 01-CV-5374 as
+the lead case. A consolidated, amended complaint was filed thereafter on April 19, 2002 (the  Class
+Action Litigation ) on behalf of plaintiffs Arvid Brandstrom and Tony Tse against underwriter
+defendants Robertson Stephens (as successor-in-interest to BancBoston), BancBoston, J.P. Morgan (as
+successor-in-interest to Hambrecht   Quist), Hambrecht   Quist and First Albany and against us and
+Messrs. Rosen, Hale and Eisenberg (collectively, the  NaviSite Defendants ). Plaintiffs uniformly
+allege that all defendants, including the NaviSite Defendants, violated the federal securities laws
+(i.e., Sections 11 and 15 of the Securities Act, Sections 10(b) and 20(a) of the Exchange Act and
+Rule 10b-5) by issuing and selling our common stock pursuant to the October 22, 1999 initial public
+offering, without disclosing to investors that some of the underwriters of the offering, including
+the lead underwriters, had solicited and received extensive and undisclosed agreements from certain
+investors to purchase aftermarket shares at pre-arranged, escalating prices and also to receive
+additional commissions and/or other compensation from those investors. At this time, plaintiffs
+have not specified the amount of damages they are seeking in the Class Action Litigation.
+
+Between July and September 2002, the parties to the IPO Securities Litigation briefed motions
+to dismiss filed by the underwriter defendants and the issuer defendants, including NaviSite. On
+November 1, 2002, the Court held oral argument on the motions to dismiss. The plaintiffs have since
+agreed to dismiss the claims against Messrs. Rosen, Hale and Eisenberg without prejudice, in return
+for their agreement to toll any statute of limitations applicable to those claims. By stipulation
+entered by the Court on November 18, 2002, Messrs. Rosen, Hale and Eisenberg were dismissed without
+prejudice from the Class Action Litigation. On February 19, 2003, an opinion and order was issued
+on defendants  motion to dismiss the IPO Securities Litigation, essentially denying the motions to
+dismiss of all 55 underwriter defendants and of 185 of the 301 issuer defendants, including
+NaviSite.
+
+On June 30, 2003, our Board of Directors considered and authorized us to negotiate a
+settlement of the pending Class Action Litigation substantially consistent with a memorandum of
+understanding negotiated among proposed class plaintiffs, the issuer defendants and the insurers
+for such issuer defendants. Among other contingencies, any such settlement would be subject to
+approval by the Court. Plaintiffs filed on June 14, 2004, a motion for
+
+39
+
+Table of Contents   
+
+preliminary approval of the Stipulation And Agreement Of Settlement With Defendant Issuers And
+Individuals (the  Preliminary Approval Motion ). On February 15, 2005, the Court approved the
+Preliminary Approval Motion in a written opinion which detailed the terms of the settlement
+stipulation, its accompanying documents and schedules, the proposed class notice and, with a
+modification to the bar order to be entered, the proposed settlement order and judgment. A further
+conference was held on April 13, 2005, at which time the Court considered additional submissions
+but did not make final determinations regarding the exact form, substance and program for notifying
+the proposed settlement class. On August 31, 2005, the Court entered a further Preliminary Order In
+Connection with Settlement Proceedings (the  Preliminary Approval Order ), which granted
+preliminary approval to the issuer s
+settlement with the Plaintiffs in the IPO Securities Litigation. In connection with the Preliminary
+Approval Order, the Court scheduled a Fed. R. Civ. P. 23 fairness hearing for April 24, 2006 in
+order to consider whether to enter final approval of the settlement. Any requests for exclusion or
+objections to the settlement are to be filed by March 24, 2006. If the proposed issuers  settlement
+is completed and then approved by the Court without further modifications to its material terms, we
+and the participating insurers acting on our behalf may be responsible for providing funding of
+approximately $3.4 million towards the total amount plaintiffs are guaranteed by the settlement to
+recover in the IPO Securities Litigation. The amount of the guarantee allocable to us could be
+reduced or eliminated in its entirety in the event that plaintiffs are able to recover more than
+the total amount of such overall guarantee from settlements with or judgments obtained against the
+non-settling defendants. Even if no additional recovery is obtained from any of the non-settling
+defendants, the settlement amount allocable to us is expected to be fully covered by our existing
+insurance policies and is not expected to have a material effect on our business, financial
+condition, results of operations or cash flows.
+
+We believe that the allegations against us are without merit and, if the settlement is not
+finalized, we intend to vigorously defend against the plaintiffs  claims. Due to the inherent
+uncertainty of litigation, we are not able to predict the possible outcome of the suits and their
+ultimate effect, if any, on our business, financial condition, results of operations or cash flows.
+
+Wrongful Termination Claim 
+
+This lawsuit for wrongful termination was filed in the Superior Court of the State of
+California, Santa Clara County (Case No. 104CV031471) against NaviSite, Inc. and one of its former
+employees. Plaintiffs were two female former employees of NaviSite who were terminated from their
+employment in 2004 as part of a reduction in force. One plaintiff alleged unlawful discrimination
+based on age and gender, and the other plaintiff alleged unlawful discrimination based on gender
+and retaliation for taking maternity leave. NaviSite s management and the co-named former employee
+denied all claims and vigorously defended the lawsuit. On November 1, 2005, NaviSite entered into a
+settlement agreement with both of the plaintiffs, pursuant to which NaviSite is required to make an
+aggregate payment of $500,000, payable over time. As of July 31, 2005, we had accrued $500,000 for
+this settlement, of which we have paid $300,000 in the second quarter and $100,000 in the third
+quarter of fiscal year 2006. The balance, as of January 31,
+2006, is included in  Accrued expenses and other current
+liabilities 
+on our Consolidated Balance Sheet.
+
+Item 4. Submission of Matters to a Vote of Security Holders 
+
+At the 2005 Annual meeting of Stockholders of the Company (the  Annual Meeting ) held on
+December 8, 2005, the following matters were acted upon by the stockholders of the Company:
+
+1. 
+       
+     The election of six members of the board of directors of the Company to serve
+for a one-year term; and 
+
+2. 
+       
+     Ratification of the appointment of KPMG LLP as the independent registered
+public accounting firm of the Company for the current fiscal year. 
+
+The number of shares of Common Stock issued, outstanding and eligible to vote as of the record
+date of October 28, 2005 was 28,487,260. The results of the voting on each of the matters presented
+to stockholders at the Annual Meeting are set forth below:
+
+40
+
+Table of Contents   
+
+Item 6. Exhibits 
+
+The Exhibits listed in the Exhibit Index immediately preceding such Exhibits are filed with or
+incorporated by reference in this report.
+
+41
+
+Table of Contents   
+
+SIGNATURE 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly
+caused this report to be signed on its behalf by the undersigned, thereunto duly authorized.
+
+March 15, 2006  
+     NAVISITE, INC. 
+
+By:   
+                                               /s/  John J. Gavin, Jr.
+
+John J. Gavin Jr.  
+
+(Principal Financial and Accounting Officer)  
+
+42
+
+Table of Contents   
+
+EXHIBIT INDEX 
+
+43
+
+<EX-31.1>
+ 2
+ b59738niexv31w1.txt
+ EX-31.1 SECTION 302 CERTIFICATION OF CEO
+
+Exhibit 31.1
+
+                            CERTIFICATION PURSUANT TO
+                      EXCHANGE ACT RULE 13a-14(a)/15d-14(a)
+                       AS ADOPTED PURSUANT TO SECTION 302
+                        OF THE SARBANES-OXLEY ACT OF 2002
+
+I, Arthur P. Becker, Chief Executive Officer of NaviSite, Inc., certify that:
+
+1. I have reviewed this quarterly report on Form 10-Q of NaviSite, Inc.;
+
+2. Based on my knowledge, this report does not contain any untrue statement of a
+material fact or omit to state a material fact necessary to make the statements
+made, in light of the circumstances under which such statements were made, not
+misleading with respect to the period covered by this report;
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects the
+financial condition, results of operations and cash flows of the registrant as
+of, and for, the periods presented in this report;
+
+4. The registrant's other certifying officer and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have:
+
+          (a) Designed such disclosure controls and procedures, or caused such
+disclosure controls and procedures to be designed under our supervision, to
+ensure that material information relating to the registrant, including its
+consolidated subsidiaries, is made known to us by others within those entities,
+particularly during the period in which this report is being prepared;
+
+          (b) Evaluated the effectiveness of the registrant's disclosure
+controls and procedures and presented in this report our conclusions about the
+effectiveness of the disclosure controls and procedures, as of the end of the
+period covered by this report based on such evaluation; and
+
+          (c) Disclosed in this report any change in the registrant's internal
+control over financial reporting that occurred during the registrant's most
+recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an
+annual report) that has materially affected, or is reasonably likely to
+materially affect, the registrant's internal control over financial reporting;
+and
+
+5. The registrant's other certifying officer and I have disclosed, based on our
+most recent evaluation of internal control over financial reporting, to the
+registrant's auditors and the audit committee of the registrant's board of
+directors (or persons performing the equivalent functions):
+
+          (a) All significant deficiencies and material weaknesses in the design
+or operation of internal control over financial reporting which are reasonably
+likely to adversely affect the registrant's ability to record, process,
+summarize and report financial information; and
+
+          (b) Any fraud, whether or not material, that involves management or
+other employees who have a significant role in the registrant's internal control
+over financial reporting.
+
+By: /s/ Arthur P. Becker
+                                            --------------------------------
+                                                Arthur P. Becker
+                                                Chief Executive Officer
+
+Date: March 15, 2006
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ b59738niexv31w2.txt
+ EX-31.2 SECTION 302 CERTIFICATION OF CFO
+
+Exhibit 31.2
+
+                            CERTIFICATION PURSUANT TO
+                      EXCHANGE ACT RULE 13a-14(a)/15d-14(a)
+                       AS ADOPTED PURSUANT TO SECTION 302
+                        OF THE SARBANES-OXLEY ACT OF 2002
+
+I, John J. Gavin, Jr., Chief Financial Officer of NaviSite, Inc., certify that:
+
+1. I have reviewed this quarterly report on Form 10-Q of NaviSite, Inc.;
+
+2. Based on my knowledge, this report does not contain any untrue statement of a
+material fact or omit to state a material fact necessary to make the statements
+made, in light of the circumstances under which such statements were made, not
+misleading with respect to the period covered by this report;
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects the
+financial condition, results of operations and cash flows of the registrant as
+of, and for, the periods presented in this report;
+
+4. The registrant's other certifying officer and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have:
+
+          (a) Designed such disclosure controls and procedures, or caused such
+disclosure controls and procedures to be designed under our supervision, to
+ensure that material information relating to the registrant, including its
+consolidated subsidiaries, is made known to us by others within those entities,
+particularly during the period in which this report is being prepared;
+
+          (b) Evaluated the effectiveness of the registrant's disclosure
+controls and procedures and presented in this report our conclusions about the
+effectiveness of the disclosure controls and procedures, as of the end of the
+period covered by this report based on such evaluation; and
+
+          (c) Disclosed in this report any change in the registrant's internal
+control over financial reporting that occurred during the registrant's most
+recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an
+annual report) that has materially affected, or is reasonably likely to
+materially affect, the registrant's internal control over financial reporting;
+and
+
+5. The registrant's other certifying officer and I have disclosed, based on our
+most recent evaluation of internal control over financial reporting, to the
+registrant's auditors and the audit committee of the registrant's board of
+directors (or persons performing the equivalent functions):
+
+          (a) All significant deficiencies and material weaknesses in the design
+or operation of internal control over financial reporting which are reasonably
+likely to adversely affect the registrant's ability to record, process,
+summarize and report financial information; and
+
+          (b) Any fraud, whether or not material, that involves management or
+other employees who have a significant role in the registrant's internal control
+over financial reporting.
+
+By: /s/ John J. Gavin, Jr.
+                                                  ------------------------------
+                                                  John J. Gavin, Jr.
+                                                  Chief Financial Officer
+
+Date: March 15, 2006
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ b59738niexv32w1.txt
+ EX-32.1 SECTION 906 CERTIFICATION OF CEO AND PRESIDENT
+
+Exhibit 32.1
+
+                            CERTIFICATION PURSUANT TO
+                             18 U.S.C. SECTION 1350,
+                             AS ADOPTED PURSUANT TO
+                  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+     In connection with the Quarterly Report on Form 10-Q of NaviSite, Inc. (the
+"Company") for the quarter ended January 31, 2006 as filed with the Securities
+and Exchange Commission on the date hereof (the "Report"), the undersigned,
+Arthur P. Becker, Chief Executive Officer and President of the Company, hereby
+certifies, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section
+906 of the Sarbanes-Oxley Act of 2002, that to my knowledge:
+
+     (1) The Report fully complies with the requirements of Section 13(a) or
+15(d) of the Securities Exchange Act of 1934; and
+
+     (2) The information contained in the Report fairly presents, in all
+material respects, the financial condition and results of operations of the
+Company.
+
+By: /s/ Arthur P. Becker
+    --------------------------------
+    Arthur P. Becker
+    Chief Executive Officer and
+    President
+
+Date: March 15, 2006
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ b59738niexv32w2.txt
+ EX-32.2 SECTION 906 CERTIFICATION OF CFO
+
+Exhibit 32.2
+
+                            CERTIFICATION PURSUANT TO
+                             18 U.S.C. SECTION 1350,
+                             AS ADOPTED PURSUANT TO
+                  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+     In connection with the Quarterly Report on Form 10-Q of NaviSite, Inc. (the
+"Company") for the fiscal quarter ended January 31, 2006 as filed with the
+Securities and Exchange Commission on the date hereof (the "Report"), the
+undersigned, John J. Gavin, Jr., Chief Financial Officer of the Company, hereby
+certifies, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section
+906 of the Sarbanes-Oxley Act of 2002, that to my knowledge:
+
+     (1) The Report fully complies with the requirements of Section 13(a) or
+15(d) of the Securities Exchange Act of 1934; and
+
+     (2) The information contained in the Report fairly presents, in all
+material respects, the financial condition and results of operations of the
+Company.
+
+By: /s/ John J. Gavin, Jr.
+    --------------------------------
+    John J. Gavin, Jr.
+    Chief Financial Officer
+
+Date: March 15, 2006
+
+</EX-32.2>
+

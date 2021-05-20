@@ -1,0 +1,2018 @@
+<Header>
+<FileStats>
+    <FileName>20060315_10-Q_edgar_data_101821_0001169232-06-001515_1.txt</FileName>
+    <GrossFileSize>118132</GrossFileSize>
+    <NetFileSize>105318</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>417</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>5</N_Tables>
+    <N_Exhibits>2</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001169232-06-001515.hdr.sgml : 20060315
+<ACCEPTANCE-DATETIME>20060315082500
+ACCESSION NUMBER:		0001169232-06-001515
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	20060131
+FILED AS OF DATE:		20060315
+DATE AS OF CHANGE:		20060315
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			CANAL CAPITAL CORP
+		CENTRAL INDEX KEY:			0000101821
+		STANDARD INDUSTRIAL CLASSIFICATION:	OPERATORS OF NONRESIDENTIAL BUILDINGS [6512]
+		IRS NUMBER:				510102492
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1031
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	002-96666
+		FILM NUMBER:		06686728
+
+	BUSINESS ADDRESS:	
+		STREET 1:		717 FIFTH AVE
+		STREET 2:		SUITE 407
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+		BUSINESS PHONE:		2128266040
+
+	MAIL ADDRESS:	
+		STREET 1:		717 FIFTH AVE
+		STREET 2:		SUITE 407
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10022
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	UNITED STOCKYARDS CORP
+		DATE OF NAME CHANGE:	19881027
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ V7H2iUz3topOqHZoEq8ni9co6pL6l43u9kamn4jnB0//xUZWNFSnnylEYhKXI6eU
+ FdGF/N7SKRRaHkkWCL2hPg==
+
+ 0001169232-06-001515.txt : 20060315
+
+10-Q
+ 1
+ d67397_10q.txt
+ QUARTERLY REPORT
+
+FORM 10-Q
+
+                       SECURITIES AND EXCHANGE COMMISSION
+
+                             WASHINGTON, D.C. 20549
+
+              |X| QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d)
+              OF THE SECURITIES EXCHANGE ACT OF 1934 (Fee Required)
+                 For the quarterly period ended January 31, 2006
+
+              |_| TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d)
+            OF THE SECURITIES EXCHANGE ACT OF 1934 (No Fee Required)
+               For the transition period from ________ to ________
+
+                          Commission File No. 002-96666
+
+                   Canal Capital Corporation and Subsidiaries
+             (Exact name of registrant as specified in its charter)
+
+            Delaware                                        51-0102492
+(State or other jurisdiction of                          (I.R.S. Employer
+ incorporation or organization)                         Identification No.)
+
+    490 Wheeler Road, Hauppauge, NY                           11788
+(Address of principal executive offices)                    (Zip Code)
+
+Registrant's telephone number, including area code (631) 234-0140
+
+717 Fifth Avenue, New York, NY
+Former name, former address and former fiscal year, if changed since last
+report.
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the  preceding  12 months or for such  shorter  period that the  registrant  was
+required  to file  such  reports,  and  (2)  has  been  subject  to such  filing
+requirements for the past 90 days. YES |X| NO |_|
+
+Indicate the number of shares  outstanding  for each of the issuer's  classes of
+common stock, as of the latest practical date:
+
+     Title of each class                 Shares outstanding at February 28, 2006
+Common stock, $0.01 par value                           4,326,929
+
+(This document contains 43 pages)
+
+CANAL CAPITAL CORPORATION AND SUBSIDIARIES
+                           FORM 10-Q JANUARY 31, 2006
+
+                                      INDEX
+
+The following documents are filed as part of this report:
+
+Accountants' Review Report ................................................    3
+
+Part I - Financial Information ............................................    4
+
+Item I.  Condensed Financial Statements:
+
+     Consolidated Balance Sheets - January 31, 2006
+       and October 31, 2005 ...............................................    5
+
+     Consolidated Statements of Income and Comprehensive Income for
+       the Three Month Periods ended January 31, 2006 and 2005.............    7
+
+     Consolidated Statements of Changes in Stockholders' Equity for
+       the One Year and Three Month Periods ended October 31, 2005
+       and January 31, 2006 ...............................................    9
+
+     Consolidated Statements of Cash Flows for the Three Month
+       Periods ended January 31, 2006 and 2005 ............................   10
+
+     Notes to Consolidated Financial Statements ...........................   12
+
+Item II.  Management's Discussion and Analysis of
+          Financial Condition .............................................   26
+
+     Liquidity and Capital Resources ......................................   33
+
+     Other Factors ........................................................   34
+
+Item III.  Quantitative and Qualitative Disclosures
+           About Market Risk ..............................................   35
+
+Item IV.   Controls and Procedures ........................................   35
+
+Part II - Other Information ...............................................   36
+
+     Items 1 through 6 ....................................................   37
+
+     Signatures and Certifications ........................................   38
+
+2
+
+ACCOUNTANTS' REVIEW REPORT
+
+To the Stockholders of Canal Capital Corporation:
+
+We have reviewed the consolidated balance sheet of Canal Capital Corporation and
+subsidiaries  as of January 31, 2006,  the related  consolidated  statements  of
+income and  comprehensive  income,  the  consolidated  statements  of changes in
+stockholders' equity and cash flows for the three month period ended January 31,
+2006. These  consolidated  financial  statements are the  responsibility  of the
+company's management.
+
+We conducted  our review in  accordance  with  standards  of the Public  Company
+Accounting  Oversight  Board  (United  States).  A review of  interim  financial
+information consists principally of applying analytical  procedures to financial
+data and making  inquiries of persons  responsible  for financial and accounting
+matters. It is substantially less in scope than an audit conducted in accordance
+with  generally  accepted  auditing  standards,  the  objective  of which is the
+expression of an opinion regarding the consolidated  financial  statements taken
+as a whole. Accordingly, we do not express such an opinion.
+
+Based on our review, we are not aware of any material  modifications that should
+be made to the  consolidated  financial  statements for them to be in conformity
+with generally accepted accounting principles.
+
+The  financial  statements  have been  prepared  assuming  that the Company will
+continue as a going concern. As discussed in Note 1 to the financial statements,
+the Company has suffered  recurring  losses from  operations and is obligated to
+continue making substantial annual  contributions to its defined benefit pension
+plan. All of these matters raise  substantial  doubt about the Company's ability
+to continue as a going  concern.  Management's  plans in regard to these matters
+are also  described  in Note 1. The  accompanying  financial  statements  do not
+include any adjustments  relating to the  recoverability  and  classification of
+recorded asset amounts or the amounts and  classification  of  liabilities  that
+might be necessary should the Company be unable to continue as a going concern.
+
+New York, N.Y.                               /S/ Todman & Co., CPA's,P.C.
+March 08, 2006                               ----------------------------
+                                             TODMAN & CO., CPA's,P.C.
+                                             Certified Public Accountants (N.Y.)
+
+3
+
+PART I
+
+                              FINANCIAL INFORMATION
+
+4
+
+CANAL CAPITAL CORPORATION & SUBSIDIARIES
+                           CONSOLIDATED BALANCE SHEETS
+                      JANUARY 31, 2006 AND OCTOBER 31, 2005
+
+                                                      JANUARY 31,   OCTOBER 31,
+                                                         2006          2005
+                                                      (UNAUDITED)    (AUDITED)
+                                                      -----------   -----------
+
+ASSETS:
+
+CURRENT ASSETS:
+
+     CASH AND CASH EQUIVALENTS                        $   257,172   $    79,190
+
+     NOTES AND ACCOUNTS RECEIVABLE, NET OF AN
+       ALLOWANCE FOR DOUBTFUL ACCOUNTS OF $ZERO AT
+       BOTH JANUARY 31, 2006 AND OCTOBER 31, 2005,         47,849       171,904
+
+     ART INVENTORY, NET OF A VALUATION ALLOWANCE
+       OF $767,800 AT BOTH JANUARY 31, 2006 AND
+       AND OCTOBER 31, 2005                               352,400       352,400
+
+     STOCKYARDS INVENTORY                                   9,368        11,655
+
+     PREPAID EXPENSES                                      99,441        32,898
+                                                      -----------   -----------
+
+         TOTAL CURRENT ASSETS                             766,230       648,047
+                                                      -----------   -----------
+
+NON-CURRENT ASSETS:
+
+     PROPERTY ON OPERATING LEASES, NET OF
+           ACCUMULATED DEPRECIATION OF $363,648
+           AND $359,948 AT JANUARY 31, 2006 AND
+           OCTOBER 31, 2005, RESPECTIVELY               1,834,489     1,840,038
+                                                      -----------   -----------
+
+     PROPERTY USED IN STOCKYARD OPERATIONS, NET OF
+           ACCUMULATED DEPRECIATION OF $174,672 AND
+           $169,455 AT JANUARY 31, 2006 AND OCTOBER
+           31, 2005, RESPECTIVELY                       1,116,041     1,121,258
+                                                      -----------   -----------
+
+     LONG-TERM MORTGAGE NOTE RECEIVABLE                 1,750,000     1,750,000
+                                                      -----------   -----------
+
+OTHER ASSETS:
+
+     PROPERTY HELD FOR DEVELOPMENT OR RESALE              155,416       299,635
+
+     RESTRICTED CASH - TRANSIT INSURANCE                   75,552        41,328
+
+     INVESTMENT IN JOINT VENTURE AND OTHER ASSETS         113,720       113,720
+                                                      -----------   -----------
+
+                                                          344,688       454,683
+                                                      -----------   -----------
+
+                                                      $ 5,811,448   $ 5,814,026
+                                                      ===========   ===========
+
+5
+
+CANAL CAPITAL CORPORATION & SUBSIDIARIES
+                           CONSOLIDATED BALANCE SHEETS
+                      JANUARY 31, 2006 AND OCTOBER 31, 2005
+
+6
+
+CANAL CAPITAL CORPORATION & SUBSIDIARIES
+            CONSOLIDATED STATEMENTS OF INCOME & COMPREHENSIVE INCOME
+              FOR THE THREE MONTHS ENDED JANUARY 31, 2006 AND 2005
+
+                                                          2006          2005
+                                                       (UNAUDITED)   (UNAUDITED)
+                                                       -----------   -----------
+
+STOCKYARD OPERATIONS:
+
+STOCKYARD REVENUES:
+    YARD HANDLING AND AUCTION                          $   962,612   $   892,974
+    FEED AND BEDDING INCOME                                 43,573        47,756
+    RENTAL & OTHER INCOME                                   40,263        31,348
+                                                       -----------   -----------
+
+                                                         1,046,448       972,078
+                                                       -----------   -----------
+
+STOCKYARD EXPENSES:
+    LABOR AND RELATED COSTS                                378,239       376,247
+    OTHER OPERATING AND MAINTENANCE                        216,400       182,504
+    FEED AND BEDDING EXPENSE                                37,744        37,065
+    DEPRECIATION AND AMORTIZATION                            5,217         5,237
+    TAXES OTHER THAN INCOME TAXES                           45,478        42,670
+    GENERAL AND ADMINISTRATIVE                             100,587        93,491
+                                                       -----------   -----------
+
+                                                           783,665       737,214
+                                                       -----------   -----------
+
+INCOME FROM STOCKYARD OPERATIONS                           262,783       234,864
+                                                       -----------   -----------
+
+REAL ESTATE OPERATIONS:
+
+ REAL ESTATE REVENUES:
+    SALE OF REAL ESTATE                                    325,000     1,750,000
+    OUTSIDE REAL ESTATE RENT                               129,392       132,317
+    EXCHANGE BUILDING RENTAL INCOME                          8,325         7,671
+    OTHER INCOME                                                 0             0
+                                                       -----------   -----------
+
+                                                           462,717     1,889,988
+                                                       -----------   -----------
+
+ REAL ESTATE EXPENSES:
+    COST OF REAL ESTATE SOLD                               228,908       900,255
+    LABOR, OPERATING AND MAINTENANCE                        20,500        18,836
+    DEPRECIATION AND AMORTIZATION                            5,550         5,550
+    TAXES OTHER THAN INCOME TAXES                            9,000        18,000
+    GENERAL AND ADMINISTRATIVE                               7,100         6,500
+                                                       -----------   -----------
+
+                                                           271,058       949,141
+                                                       -----------   -----------
+
+INCOME FROM REAL ESTATE OPERATIONS                         191,659       940,847
+                                                       -----------   -----------
+
+7
+
+CANAL CAPITAL CORPORATION & SUBSIDIARIES
+            CONSOLIDATED STATEMENTS OF INCOME & COMPREHENSIVE INCOME
+               FOR THE THREE MONTHS ENDED JANUAY 31, 2006 AND 2005
+                                  Continued ...
+
+                                                        2006           2005
+                                                     (UNAUDITED)    (UNAUDITED)
+                                                     -----------    -----------
+
+GENERAL AND ADMINISTRATIVE EXPENSE                      (277,973)      (207,105)
+                                                     -----------    -----------
+
+INCOME FROM OPERATIONS                                   176,469        968,606
+                                                     -----------    -----------
+
+OTHER (EXPENSE) INCOME:
+
+  INTEREST & OTHER INCOME                                 18,000         18,000
+  INTEREST EXPENSE                                       (67,174)       (71,056)
+  ART SALES AND OPERATIONS                                (4,044)        21,988
+  REALIZED GAIN ON INVESTMENTS                                 0              0
+  OTHER EXPENSE                                                0              0
+                                                     -----------    -----------
+
+                                                         (53,218)       (31,068)
+                                                     -----------    -----------
+
+INCOME BEFORE PROVISION FOR
+  INCOME TAXES                                           123,251        937,538
+
+PROVISION FOR INCOME TAXES                                     0              0
+                                                     -----------    -----------
+
+NET INCOME                                               123,251        937,538
+
+OTHER COMPREHENSIVE INCOME:
+
+  MINIMUM PENSION LIABILITY ADJUSTMENT                         0              0
+                                                     -----------    -----------
+
+COMPREHENSIVE INCOME                                 $   123,251    $   937,538
+                                                     ===========    ===========
+
+INCOME PER COMMON SHARE - BASIC
+  AND DILUTED                                        $      0.03    $      0.21
+                                                     ===========    ===========
+
+AVERAGE SHARES OUTSTANDING - BASIC
+  AND DILUTED                                          4,327,000      4,327,000
+                                                     ===========    ===========
+
+8
+
+CANAL CAPITAL CORPORATION AND SUBSIDIARIES
+           CONSOLIDATED STATEMENTS OF CHANGES IN STOCKHOLDERS' EQUITY
+                FOR THE YEAR ENDED OCTOBER 31, 2005 (AUDITED) AND
+             FOR THE THREE MONTHS ENDED JANUARY 31, 2006 (UNAUDITED)
+
+                                     COMMON STOCK            PREFERRED STOCK
+                                 NUMBER                    NUMBER
+                                   OF                        OF
+                                 SHARES       AMOUNT       SHARES       AMOUNT
+
+BALANCE, OCTOBER 31, 2004       5,313,794   $   53,138    6,198,367   $   61,984
+ NET INCOME                             0            0            0            0
+ PREFERRED STOCK DIVIDEND               0            0      852,469        8,524
+ MINIMUM PEN. LIAB. ADJ                 0            0            0            0
+                               -----------------------   -----------------------
+
+BALANCE, OCTOBER 31, 2005       5,313,794   $   53,138    7,050,836   $   70,508
+ NET INCOME                             0            0            0            0
+ PREFERRED STOCK DIVIDEND               0            0            0            0
+ MINIMUM PEN. LIAB. ADJ                 0            0            0            0
+                               -----------------------   -----------------------
+
+BALANCE, JANUARY  31, 2006      5,313,794   $   53,138    7,050,836   $   70,508
+                               =======================   =======================
+
+9
+
+CANAL CAPITAL CORPORATION & SUBSIDIARIES
+                   CONSOLIDATED STATEMENTS OF CASH FLOWS
+             FOR THE THREE MONTHS ENDED JANUARY 31, 2006 AND 2005
+
+                                                             JANUARY 31,
+                                                     --------------------------
+                                                         2006           2005
+                                                         ----           ----
+
+CASH FLOWS FROM OPERATING ACTIVITIES:
+  NET INCOME                                         $   123,251    $   937,538
+                                                     -----------    -----------
+
+  ADJUSTMENTS TO RECONCILE NET INCOME
+   (LOSS) TO NET CASH (USED) BY
+   OPERATING ACTIVITIES:
+
+   DEPRECIATION AND AMORTIZATION                          10,767         12,287
+
+   GAIN  ON SALES OF REAL ESTATE                         (96,092)      (849,745)
+
+   GAIN ON ART SALES (NET OF RESERVE)                          0        (21,988)
+
+   PREFERRED STOCK ISSUED IN LIEU OF
+     OFFICER COMPENSATION                                      0              0
+
+DECREASE (INCREASE) IN ASSETS:
+
+   NOTES AND ACCOUNTS RECEIVABLE                         124,055         25,956
+
+   STOCKYARDS INVENTORY                                    2,287        (22,281)
+
+   PREPAID EXPENSES                                      (66,543)       (51,444)
+
+   RESTRICTED CASH - TRANSIT INSURANCE                   (34,224)        (3,149)
+
+   DEFERRED LEASING AND FINANCING COSTS                        0         12,075
+
+   DEPOSITS AND OTHER                                          0          6,500
+
+INCREASE (DECREASE) IN LIABILITIES:
+
+   ACCOUNTS PAYABLE AND ACCRUED EXPENSES                (179,516)        41,831
+
+   PENSION PLAN PAYABLE                                   63,000              0
+
+   SALARIES PAYABLE - OFFICERS                            13,608       (128,008)
+
+   ACCRUED PROFESSIONAL FEES                               3,820        (12,573)
+
+   INCOME TAXES PAYABLE                                        0         (8,123)
+
+   REAL ESTATE TAXES PAYABLE                             (26,741)       (22,518)
+                                                     -----------    -----------
+
+        TOTAL ADJUSTMENTS                               (185,579)    (1,021,180)
+                                                     -----------    -----------
+
+NET CASH USED BY OPERATING ACTIVITIES                    (62,328)       (83,642)
+                                                     -----------    -----------
+
+          SEE ACCOMPANYING NOTES TO CONSOLIDATED FINANCIAL STATEMENTS.
+
+10
+
+CANAL CAPITAL CORPORATION & SUBSIDIARIES
+                   CONSOLIDATED STATEMENTS OF CASH FLOWS
+             FOR THE THREE MONTHS ENDED JANUARY 31, 2006 AND 2005
+                                  Continued ...
+
+                                                              JANUARY 31,
+                                                     --------------------------
+                                                         2006           2005
+                                                         ----           ----
+
+CASH FLOWS FROM INVESTING ACTIVITIES:
+
+  PROCEEDS FROM SALES OF REAL ESTATE                     325,000              0
+
+  PROCEEDS FROM SALES OF ART                                   0         64,100
+
+  COSTS RELATING TO SALES OF REAL ESTATE                 (84,690)       (52,008)
+
+  COSTS RELATING TO SALES OF ART                               0         (4,812)
+
+  CAPITAL EXPENDITURES                                         0              0
+                                                     -----------    -----------
+
+  NET CASH PROVIDED BY INVESTING
+  ACTIVITIES                                             240,310          7,280
+                                                     -----------    -----------
+
+NET (DECREASE ) INCREASE IN CASH AND CASH
+  EQUIVALENTS                                            177,982        (76,362)
+
+CASH AND CASH EQUIVALENTS AT BEGN OF YEAR                 79,190         86,158
+                                                     -----------    -----------
+
+CASH AND CASH EQUIVALENTS AT END OF YEAR             $   257,172    $     9,796
+                                                     ===========    ===========
+
+                                                             JANUARY 31,
+                                                     -----------    -----------
+                                                         2006           2005
+                                                         ----           ----
+
+SUPPLEMENTAL DISCLOSURES OF CASH FLOW
+  INFORMATION:
+
+CASH PAID DURING THE YEAR FOR:
+
+  INTEREST                                           $    67,174    $    71,056
+                                                     ===========    ===========
+
+  INCOME TAXES                                       $         0    $     8,123
+                                                     ===========    ===========
+
+SUPPLEMENTAL SCHEDULE OF NON-CASH INVESTING
+  AND FINANCING ACTIVITIES:
+
+  MORTGAGE NOTE RECEIVED FOR SALE OF
+    REAL ESTATE                                      $         0    $ 1,750,000
+                                                     ===========    ===========
+
+  PREFERRED STOCK DIVIDENDS                          $    15,000    $    15,000
+                                                     ===========    ===========
+
+          SEE ACCOMPANYING NOTES TO CONSOLIDATED FINANCIAL STATEMENTS.
+
+11
+
+CANAL CAPITAL CORPORATION AND SUBSIDIARIES
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                   FOR THE THREE MONTHS ENDED JANUARY 31, 2006
+
+1.    DESCRIPTION OF BUSINESS AND BASIS OF PRESENTATION
+
+      Canal Capital Corporation ("Canal"), incorporated in the state of Delaware
+in 1964, commenced business operations through a predecessor in 1936.
+
+      General - While the Company is  currently  operating  as a going  concern,
+certain  significant factors raise substantial doubt about the Company's ability
+to continue as a going concern.  The Company has suffered  recurring losses from
+operations and is obligated to continue making substantial annual  contributions
+to its defined benefit pension plan. The financial statements do not include any
+adjustments  that  might  result  from the  resolution  of these  uncertainties.
+Additionally,   the  accompanying   financial  statements  do  not  include  any
+adjustments  relating to the recoverability and classification of recorded asset
+amounts or the amounts and classification of liabilities that might be necessary
+should the Company be unable to continue as a going concern.
+
+      Canal continues to closely monitor and reduce where possible its operating
+expenses  and plans to continue  its program to develop or sell the  property it
+holds  for  development  or  resale  as well as to  reduce  the level of its art
+inventories to enhance current cash flows.  Management  believes that its income
+from operations  combined with its cost cutting program and planned reduction of
+its art  inventory  will enable it to finance its current  business  activities.
+There can,  however,  be no assurance  that Canal will be able to effectuate its
+planned art  inventory  reductions or that its income from  operations  combined
+with its cost cutting  program in itself will be  sufficient  to fund  operating
+cash requirements.
+
+      Canal is engaged in two  distinct  businesses - stockyard  operations  and
+real estate.
+
+      Stockyard  Operations  -  Through  an  August  1,  1999  asset  repurchase
+agreement,  Canal now  operates  two central  public  stockyards  located in St.
+Joseph, Missouri and Sioux Falls, South Dakota.
+
+      Public stockyards act much like a securities  exchange,  providing markets
+for all  categories  of  livestock  and  fulfilling  the  economic  functions of
+assembly,  grading, and price discovery.  The livestock handled by the Company's
+stockyards include cattle, hogs, and sheep. Cattle and hogs may come through the
+stockyard  facilities at two  different  stages,  either as feeder  livestock or
+slaughter   livestock.   The  Company's  stockyards  provide  all  services  and
+facilities required to operate an independent market for the
+
+12
+
+sale of livestock,  including  veterinary services  facilities,  auction arenas,
+auctioneers, weigh masters and scales, feed and bedding, and security personnel.
+In addition, the stockyards provide other services including pure bred and other
+specialty sales for producer  organizations.  The Company promotes its stockyard
+business   through  public   relations   efforts,   advertising,   and  personal
+solicitation of producers.
+
+      Actual  marketing  transactions  at a stockyard  are managed for livestock
+producers by market  agencies and independent  commission  sales people to which
+the livestock are consigned for sale.  These market  agencies (some of which are
+owned  and  operated  by the  Company)  and  independent  sales  people  receive
+commissions  from the seller upon  settlement of a transaction and the stockyard
+receives a yardage fee on all livestock  using the facility which is paid within
+twenty-four  hours of the sale.  Yardage  fees vary  depending  upon the type of
+animal, the extent of services provided by the stockyard, and local competition.
+Yardage revenues are not directly dependent upon market prices, but rather are a
+function of the volume of livestock  handled.  In general,  stockyard  livestock
+volume is dependent upon conditions  affecting livestock production and upon the
+market  agencies and  independent  commission  sales people which operate at the
+stockyards.  Stockyard  operations are seasonal,  with greater volume  generally
+experienced  during the first and fourth  quarters of each fiscal  year,  during
+which periods livestock is generally brought to market.
+
+      Virtually all of the volume at Canal's  Sioux Falls  stockyards is handled
+through market agencies and independent  commission sales people,  while the St.
+Joseph  stockyards  has  solicitation  operations  of its own which  account for
+approximately 50% of its livestock volume annually.
+
+      Canal  intends  to  continue  its  soliciting  efforts  at its St.  Joseph
+stockyards  in fiscal 2006.  Further,  Canal tries to balance its  dependence on
+market  agencies  and  independent  commission  sales  people in  various  ways,
+including:   developing  solicitation  operations  of  its  own;  direct  public
+relations;  advertising and personal  solicitation of producers on behalf of the
+stockyards;  providing  additional services at the stockyards to attract sellers
+and  buyers;  and  providing  incentives  to  market  agencies  and  independent
+commission sales people for increased business.
+
+      Canal  maintains  an  inventory  of feed and  bedding  which is  comprised
+primarily of hay,  corn and straw.  The value of this  inventory  was $9,000 and
+$12,000 at January 31, 2006 and October 31, 2005, respectively.
+
+      Stockyard operations resulted in operating income of $263,000 and $235,000
+for the three month  periods  ended  January  31,  2006 and 2005,  respectively.
+Additionally,  stockyard  operations  contributed  $1,046,000  and  $972,000  to
+Canal's  revenues for the three month  periods  ended January 31, 2006 and 2005,
+respectively.
+
+13
+
+Real Estate  Operations  - Canal's real estate  properties  are located in
+Sioux City, Iowa, South St Paul, Minnesota, St Joseph, Missouri, Omaha, Nebraska
+and Sioux Falls, South Dakota. The properties consist,  for the most part, of an
+Exchange Building (commercial office space), land and structures leased to third
+parties (rail car repair shops,  lumber yards and various other  commercial  and
+retail  businesses) as well as vacant land available for  development or resale.
+Its principal real estate operating  revenues are derived from lease income from
+land and structures leased to various commercial and retail enterprises,  rental
+income from its Exchange  Building,  and  proceeds  from the sale of real estate
+properties.  In  addition to selling  what was excess  stockyard  property,  the
+company  entertains any offers to purchase,  develop and restructure real estate
+lots surrounding its existing  operating lease properties,  stockyard  operating
+properties and properties held for development or resale in order to enhance the
+value of the existing properties and surrounding real estate.
+
+      Real estate  operations  resulted  in  operating  income of  $192,000  and
+$941,000  for  the  three  month  periods  ended  January  31,  2006  and  2005,
+respectively.  Included  in the 2006 real estate  operating  income is a $96,000
+gain on the  sale of 5 acres  of  vacant  land  located  in  South  Saint  Paul,
+Minnesota.  Included in the 2005 real estate operating income is a $850,000 gain
+on the sale of the company's South St. Paul,  Minnesota  Exchange  Building with
+the  associated  five  acres  of  land.  Additionally,  real  estate  operations
+contributed  $463,000  and  $1,890,000  to Canal's  revenues for the three month
+periods ended January 31, 2006 and 2005, respectively.
+
+      As of January 31, 2006,  there are  approximately  21 acres of undeveloped
+land owned by Canal adjacent to its stockyard properties. In addition to selling
+what was  excess  stockyard  property,  the  company  entertains  any  offers to
+purchase,  develop and  restructure  real estate lots  surrounding  its existing
+operating lease properties,  stockyard operating  properties and properties held
+for  development  or  resale  in  order to  enhance  the  value of the  existing
+properties and surrounding real estate.
+
+2.    SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+      A) Principles of Consolidation -- The  consolidated  financial  statements
+include the accounts of Canal Capital Corporation ("Canal") and its wholly-owned
+subsidiaries   ("the   Company").   All  material   intercompany   balances  and
+transactions have been eliminated in consolidation.
+
+      B)  Investments  in Joint  Ventures  --  Investments  in  which  ownership
+interest  range from 20% to 50% or less owned joint  ventures are  accounted for
+under the  equity  method.  These  joint  ventures  are not,  in the  aggregate,
+material in relation to the financial position or results of operations of
+
+14
+
+Canal.  The  carrying  amount of such  investments  was $111,000 at both January
+31,2006 and October 31, 2005,  and is included in other  assets.  The  operating
+results of joint ventures  accounted for on the equity  method,  for fiscal year
+2005, and 2004 were not material to financial  statement  presentation  and were
+therefore included in other income from real estate operations.
+
+      C) Deferred Leasing and Financing Costs -- Costs incurred in obtaining new
+leases and long-term  financing are deferred and amortized over the terms of the
+related leases or debt agreements, as applicable.
+
+      D) Properties  and Related  Depreciation  -- Properties are stated at cost
+less  accumulated  depreciation.  Depreciation is provided on the  straight-line
+method  over the  estimated  useful  lives of the  properties.  Such  lives  are
+estimated  from  35 to 40  years  for  buildings  and  from  5 to 20  years  for
+improvements and equipment.
+
+            Property  held  for  Development  or  Resale  --  Property  held for
+development or resale consist of  approximately  21 acres located in the midwest
+of undeveloped land not currently  utilized for corporate  purposes nor included
+in any  of the  present  operating  leases.  The  Company  constantly  evaluates
+proposals  received for the purchase,  leasing or development of this asset. The
+land is valued at cost which does not exceed the net realizable value.
+
+            Long-Lived Assets - The Company reviews the impairment of long-lived
+assets  whenever events or changes in  circumstances  indicate that the carrying
+amount of an asset may not be  recoverable.  The  Company  considers  historical
+performance  and  future  estimated  results  in  its  evaluation  of  potential
+impairment and then compares the carrying  amount of the assets to the estimated
+future cash flows expected to result from the use of the asset.  The measurement
+of the loss,  if any,  will be  calculated  as the amount by which the  carrying
+amount of the asset exceeds the fair value of the asset.
+
+      E)  Expenditures  for maintenance and repairs are charged to operations as
+incurred.  Significant renewals and betterments are capitalized. When properties
+are sold or otherwise disposed of, the cost and related accumulated depreciation
+are  removed  from the  accounts  and any gain or loss is  reflected  in current
+income.
+
+      F) Art  Inventory  Held for Sale - Inventory of art is valued at the lower
+of  cost,  including  direct  acquisition  and  restoration   expenses,  or  net
+realizable value on a specific  identification basis. The nature of art makes it
+difficult to determine a replacement  value.  The most compelling  evidence of a
+value in most cases is an  independent  appraisal.  In fiscal  2005  independent
+appraisals  covered  approximately 46% of the art inventory value at October 31,
+2005.  The net  realizable  value of Canals  remaining  art  inventory  has been
+estimated by management  based in part on the Company's  history of art sales in
+the current  and  previous  years and in part on the results of the  independent
+appraisals done in previous years. However,
+
+15
+
+because of the nature of art inventory,  such  determination  is very subjective
+and, therefore,  the estimated values could differ significantly from the amount
+ultimately realized.
+
+      G) Income Taxes -- Canal and its subsidiaries file a consolidated  Federal
+income tax return.  The Company  accounts for income  taxes under the  liability
+method.  Under this method,  deferred tax assets and  liabilities are determined
+based on  differences  between  financial  reporting and tax bases of assets and
+liabilities.
+
+      H)  Stockyard  Inventory  -  Inventory  is  stated at the lower of cost or
+market. Cost is determined using the first-in, first-out method.
+
+      I)  Accounting  Estimates -- The  preparation  of financial  statements in
+conformity with accounting  principles  generally  accepted in the United States
+requires  management to make estimates and assumptions  that affect the reported
+amounts  of assets and  liabilities  and  disclosure  of  contingent  assets and
+liabilities at the date of the financial  statements and the reported amounts of
+revenues and expenses during the reporting  period.  Actual results could differ
+from those estimates.
+
+      J) Revenue Recognition -- Lease and rental revenues are recognized ratably
+over the period  covered.  All real estate leases are accounted for as operating
+leases.  Revenues from real estate sales are recognized  generally when title to
+the property passes.  Revenues from stockyard operations which consist primarily
+of yardage  fees (a standard  per head  charge for each animal sold  through the
+stockyards)  and sale of feed and bedding are recognized at the time the service
+is rendered or the feed and bedding are delivered.
+
+            Other Income  (Expense) Items -- Art sales are recognized  using the
+specific identification method, when the piece is shipped to the purchaser.  Art
+owned by Canal which is on  consignment,  joint  venture,  or being  examined in
+contemplation  of sale is not removed from  inventory and not recorded as a sale
+until notice of sale or acceptance  has been  received.  The sale of investments
+available for sale, if any, are recognized, on a specific identification method,
+on a trade date basis.
+
+      K)  Statements  of Cash  Flows -- The  company  considers  all  short-term
+investments with a maturity of three months or less to be cash equivalents. Cash
+equivalents  primarily  include bank,  broker and time deposits with an original
+maturity of less than three months. These investments are carried at cost, which
+approximates  market value.  Canal made federal and state income tax payments of
+$0 and $8,000 and  interest  payments of $67,000 and $71,000 for the three month
+period periods ended January 31,2006 and 2005, respectively.
+
+16
+
+L)  Reclassification  -- Certain prior year amounts have been reclassified
+to conform to the current year presentation.
+
+      M) Comprehensive  Income (Loss) -- The Company's only adjustments for each
+classification of the comprehensive income was for minimum pension liability.
+
+      N)  Earnings  (Loss)  Per  Share -- Basic  earnings  (loss)  per  share is
+computed by dividing the net income  (loss)  applicable  to common shares by the
+weighted  average  of common  shares  outstanding  during  the  period.  Diluted
+earnings  (loss)  per share  adjusts  basic  earnings  (loss)  per share for the
+effects of convertible securities,  stock options and other potentially dilutive
+financial  instruments,  only in the  period in which such  effect is  dilutive.
+There were no dilutive  securities in any of the periods presented  herein.  The
+shares  issuable  upon the  exercise  of stock  options  are  excluded  from the
+calculation   of  net  income   (loss)  per  share  as  their  effect  would  be
+antidilutive.
+
+      O)  Recent  Accounting  Pronouncements  -- In  June  2005,  the  Financial
+Accounting  Standards  Board ("FASB") issued  Statement of Financial  Accounting
+Standards No. 154, Accounting Changes and Error Corrections ("FAS 154"). FAS 154
+replaces  Accounting  Principles  Board Opinion No. 20,  Accounting  Changes and
+Statement of Financial  Accounting Standards No. 3, Reporting Accounting Changes
+in Interim  Financial  Statements.  FAS 154 requires  that  voluntary  change in
+accounting principle be applied  retrospectively with all prior period financial
+statements presented on the new accounting principle. FAS 154 also requires that
+a change in method of depreciating or amortizing a long-lived nonfinancial asset
+be accounted for prospectively as a change in estimate, and correction of errors
+in previously issued financial  statements  should be termed a restatement.  FAS
+154 is effective for accounting  changes and correction of errors made in fiscal
+years  beginning  December 15, 2005. The Company does not expect the adoption of
+FAS  154 to have a  material  impact  on the  Company's  consolidated  financial
+statements.
+
+      Late in 2004, the Emerging  Issues Task Force reached a consensus on Issue
+No.  04-8,  "The  Effect of  Contingently  Convertible  Instruments  on  Diluted
+Earnings per Share" ("EITF 04-8").  The consensus  requires that all instruments
+that have embedded  conversion features that are contingent on market conditions
+indexed to an issuer's  share price  should be included in diluted  earnings per
+share computations (if diluted) regardless of whether the market conditions have
+been met. The consensus includes instruments that have more than one contingency
+if one of the  contingencies  is  based  on  market  conditions  indexed  to the
+issuer's  share price and that  instrument  can be  converted to shares based on
+achieving a market  condition - that is, the  conversion  is not  dependent on a
+substantive  non-market-based  contingency. The application of this consensus is
+required  beginning with the December 31, 2004 reporting period. The adoption of
+EITF  04-8  did  not  have  a  material  impact  on our  consolidated  financial
+statements.
+
+17
+
+In  December  2004,  the FASB issued  Statement  of  Financial  Accounting
+Standards No. 123R,  "Share-Based  Payment" ("SFAS 123R"),  an amendment of FASB
+Statement No. 123 ("SFAS 123"), "Accounting for Stock-Based Compensation".  SFAS
+123R is focused  primarily on  accounting  for  share-based  compensation.  This
+statement  requires  companies to measure the cost of employee services received
+in  exchange  for an award of equity  instruments  based on the grant  date fair
+value of the award.  SFAS 123R  requires  measurement  of fair value of employee
+stock options using an option  pricing model that takes into account the awarded
+options' unique characteristics. SFAS 123R requires charging the recognized cost
+to expense  over the period the  employee  provides  services to earn the award,
+generally the vesting period for the award.
+
+      SFAS  123R's  measurement  requirements  for  employee  stock  options are
+similar to those of SFAS 123,  which is the basis for the pro forma  stock-based
+compensation   disclosure  contained  in  the  preceding  caption  "Stock  Based
+Compensation" of this note. However, SFAS 123R requires:
+
+            -     initial  and  ongoing  estimates  of the amount of shares that
+                  will vest - SFAS 123 provided  entities the option of assuming
+                  that all shares would vest and then  "truing-up"  compensation
+                  cost and expense as shares were forfeited.
+
+            -     adjusting the cost of a modified  award with  reference to the
+                  difference  in the  fair  value of the  modified  award to the
+                  initial award at the date of modification of the award.
+
+      SFAS 123R also  provides  for the use of  alternative  models to determine
+compensation cost related to stock option grants. The adoption of SFAS 123R will
+not have a material impact on our consolidated financial statements.
+
+3.    INTERIM FINANCIAL STATEMENTS
+
+      The interim  consolidated  financial  statements included herein have been
+prepared by Canal and reviewed by our independent accountants. In the opinion of
+Management, the accompanying unaudited financial statements of Canal contain all
+adjustments necessary to present fairly its financial position as of January 31,
+2006 and the  results of its  operations  and its cash flows for the three month
+period ended January 31, 2006. All of the above referenced adjustments were of a
+normal recurring nature.  Certain information and footnote  disclosures normally
+included in financial  statements prepared in accordance with generally accepted
+accounting principles have been condensed or omitted. These financial statements
+should be read in conjunction with the consolidated financial statements for the
+three years ended  October 31, 2005 and the notes thereto which are contained in
+Canal's  2005  Annual  Report on Form 10-K.  The results of  operations  for the
+period presented is not necessarily indicative of the results to be expected for
+the remainder of fiscal 2006.
+
+18
+
+4.    MORTGAGE NOTE RECEIVABLE
+
+      On November 1, 2004 Canal sold its Exchange  Building  and the  associated
+five acres of land located in South Saint Paul, Minnesota on a contract for deed
+for $1,750,000,  generating  operating income of approximately  $850,000.  Canal
+accepted a mortgage note for the full sales price,  which note carries  interest
+at a rate of 4.12%  per  annum,  payable  in  equal  monthly  installments.  The
+mortgage note is due and payable in full on October 31, 2007.
+
+5.    BORROWINGS
+
+      The Company's variable rate mortgage notes (originally issued in 1998) are
+due May 15, 2009 and are held entirely by the Company's Chief Executive  Officer
+and members of his family. These notes carry interest at the rate of ten percent
+per annum.  These notes,  among other  things,  prohibit  Canal from becoming an
+investment  company as defined by the  Investment  Company Act of 1940;  require
+Canal to  maintain  minimum  net worth;  restricts  Canal's  ability to pay cash
+dividends or repurchase stock and require principal  prepayments to be made only
+out of the proceeds from the sale of certain assets. As of January 31, 2006, the
+balance due under  these notes was  $2,687,000,  all of which is  classified  as
+long-term debt-related party.
+
+      At January 31, 2006,  substantially  all of Canal's real  properties,  the
+stock of certain subsidiaries,  the investments and a substantial portion of its
+art inventories are pledged as collateral for the following obligations:
+
+                                                       January 31,   October 31,
+($ 000's Omitted)                                         2006          2005
+- -----------------                                         ----          ----
+
+Variable rate mortgage notes due
+  May 15, 2009 - related party ....................     $  2,687      $  2,687
+Less -- current maturities ........................            0             0
+                                                        --------      --------
+
+Long-term debt                                          $  2,687      $  2,687
+                                                        --------      --------
+
+6.    LEASE COMMITMENTS
+
+      In June 2004 Canal entered into a three year lease for approximately 1,000
+square  feet of  office  space in  Hauppauge,  New York at a  monthly  rental of
+approximately $1,400.
+
+      Canal's future minimum payments  required under operating leases that have
+initial or  remaining  noncancellable  terms in excess of one year as of January
+31, 2006 are $17,000 and $9,000, in fiscal 2006 and 2007, respectively. Net rent
+expense  under  these and other  operating  leases was $4,000 and $3,000 for the
+three months ended January 31, 2006 and 2005, respectively.
+
+19
+
+7.    RESTRICTED CASH - TRANSIT INSURANCE
+
+      Transit insurance covers livestock for the period that they are in transit
+to and physically at the  stockyards and under the care of stockyard  personnel.
+This self  insurance  program  is funded by a per head  charge on all  livestock
+received at the stockyard.  The restricted cash - transit insurance  balances of
+approximately  $76,000 and  $41,000 at January  31,  2006 and October 31,  2005,
+respectively,  represents  the  excess  of per head  fees  charged  over  actual
+payments made for livestock that was injured or died while at the stockyards.
+
+8.    INCOME TAXES
+
+      At January 31, 2006, the Company has net operating loss  carryforwards  of
+approximately  $12,177,000  that expire  through 2018.  For financial  statement
+purposes, a valuation allowance has been provided to offset the net deferred tax
+assets due to the cumulative net operating  losses incurred during recent years.
+Such allowance decreased by approximately  $50,000 and $375,000 during the three
+month  periods  ended  January 31, 2006 and 2005,  respectively.  The  valuation
+allowance will be reduced when and if, in the opinion of management, significant
+positive  evidence  exists which  indicates that it is more likely than not that
+the Company will be able to realize its deferred tax assets.
+
+9.    ART INVENTORY HELD FOR SALE
+
+      Canal is in the process of selling,  in an orderly  manner,  its remaining
+art  inventory.  This  will be  accomplished  primarily  through  direct  sales,
+consignment  arrangements with various  independent art dealers and through sale
+at public art auctions. The Company's ability to dispose of its art inventory is
+dependent  primarily on general economic  conditions and the  competitiveness of
+the art market itself. Accordingly, there can be no assurance that Canal will be
+successful in selling its art inventory.
+
+      In fiscal  2005,  Canal sold 6 pieces of  contemporary  art.  Canal's  art
+operations  have  generated  an  operating  loss of  approximately  $4,000,  and
+operating  income of $22,000 on gross sales of  approximately $0 and $64,000 for
+the three month periods ended January 31, 2006 and 2005, respectively.
+
+      Antiquities  and  contemporary  art  represented  54%  ($189,122)  and 46%
+($186,778) of total art inventory at both January 31, 2006 and October 31, 2005,
+respectively. All of the contemporary art inventory held for resale is comprised
+of the work of Jules Olitski.  The amount recorded as the current portion of art
+inventory represents  management's estimate of the inventory expected to be sold
+during the next  twelve  months.  The  Company  recorded a  valuation  allowance
+against the current  portion of its  inventory to reduce it to its estimated net
+realizable  value based on the history of losses  sustained on  inventory  items
+sold in the current and previous years. In fiscal 2005 Canal applied $170,500 of
+the valuation allowance against sales,  thereby,  decreasing the total valuation
+allowance  to $767,800 as of October 31, 2005 as compared to $938,300 at October
+31, 2004.
+
+20
+
+10.   PROPERTY ON OPERATING LEASES
+
+      Property on operating  leases  consist of  approximately  39 acres of land
+located in Omaha, Nebraska; S. St. Paul, Minnesota;  Sioux City, Iowa as well as
+furniture  and  equipment  used in the  Hauppauge,  New  York  office.  Land and
+structures  leased to third  parties  include  vacant land,  exchange  buildings
+(commercial office space), meat packing facilities, railcar repair shops, lumber
+yards and various other commercial and retail businesses.
+
+      A schedule of the  Company's  property on operating  leases at January 31,
+2006 is as follows (000's omitted):
+
+A schedule of the Company's reconciliation of property on operating leases
+carried for the three months ended  January  31,2006 and the year ended  October
+31, 2005 is as follows (000's omitted):
+
+                                                      January 31,    October 31,
+                                                         2006           2005
+                                                         ----           ----
+
+      Balance at beginning of year                      $ 1,840        $ 2,715
+      Acquisitions and Improvements                           0              0
+      Cost of property sold                                   0           (848)
+      Depreciation                                           (6)           (27)
+      Reclassifications                                       0              0
+                                                        -------        -------
+      Balance at end of the period                      $ 1,834        $ 1,840
+                                                        -------        -------
+
+(1)   Substantially  all of Canal's real property is pledged as  collateral  for
+      its debt obligations.
+
+21
+
+11.   PROPERTY USED IN STOCKYARD OPERATIONS
+
+      Property used in stockyard operations consist of approximately 60 acres of
+land  located  in St.  Joseph,  Missouri  and Sioux  Falls,  South  Dakota.  The
+Company's  stockyards provide all services and facilities required to operate an
+independent  market  for the sale of  livestock.  Stockyard  facilities  include
+exchange  buildings  (commercial  office space),  auction arenas,  scale houses,
+veterinary facilities, barns, livestock pens and loading docks.
+
+      A schedule of the  Company's  property  used in  stockyard  operations  at
+January 31, 2006 is as follows (000's omitted):
+
+A schedule of the Company's  reconciliation  of property used in stockyard
+operations carried for the three months ended January 31,2006 and the year ended
+October 31, 2005 is as follows (000's omitted):
+
+                                                      January 31,    October 31,
+                                                         2006           2005
+                                                         ----           ----
+
+      Balance at beginning of year                      $ 1,121        $ 1,142
+      Acquisitions and Improvements                           0              0
+      Cost of property sold                                   0              0
+      Depreciation                                           (5)           (21)
+                                                        -------        -------
+      Balance at end of the period                      $ 1,116        $ 1,121
+                                                        -------        -------
+
+(1)   Substantially  all of Canal's real property is pledged as  collateral  for
+      its debt obligations.
+
+22
+
+12.   PROPERTY HELD FOR DEVELOPMENT OR RESALE
+
+      Property held for development or resale consist of  approximately 21 acres
+of land located in the midwest of  undeveloped  land not currently  utilized for
+corporate  purposes and not included in any of the present operating leases. The
+Company constantly  evaluates  proposals  received for the purchase,  leasing or
+development of this asset.  The land is valued at cost which does not exceed the
+net realizable value.
+
+      A schedule of the  Company's  property held for  development  or resale at
+January 31, 2006 is as follows (000's omitted):
+
+A schedule of the Company's reconciliation of property held for
+development or resale carried for the three months ended January 31, 2006 and
+the year ended October 31, 2005 is as follows (000's omitted):
+
+                                                       January 31,   October 31,
+                                                          2006          2005
+                                                          ----          ----
+
+      Balance at beginning of year                       $   300       $   817
+      Acquisitions and Improvements                            0             0
+      Cost of property sold                                 (144)         (517)
+      Reclassification of property                             0             0
+                                                         -------       -------
+
+      Balance at end of the period                       $   156       $   300
+                                                         -------       -------
+
+(1)   Substantially  all of Canal's real property is pledged as  collateral  for
+      its debt obligations.
+
+23
+
+13.   IMPAIRMENT LOSS ON LONG-LIVED ASSETS
+
+      The Company reviews the values of its long-lived  assets  annually.  There
+was no impairment in the value of Canal's long-lived assets to be recorded as of
+January 31, 2006 and October 31, 2005.
+
+14.   MINIMUM FUTURE RENTALS ON OPERATING LEASES
+
+      Minimum future rentals consist primarily of rental income from leased land
+and  structures,  Exchange  Building rents  (commercial  office space) and other
+rental  activities,  all of which are  accounted  for as operating  leases.  The
+estimated  minimum  future rentals on operating  leases are $550,000,  $575,000,
+$600,000,  $625,000 and $650,000 for fiscal  years 2006,  2007,  2008,  2009 and
+2010, respectively.
+
+15.   PENSION VALUATION RESERVE
+
+      The Pension Valuation Reserve  represents the excess of additional minimum
+pension  liability  required  under the  provisions  of  Statement  of Financial
+Accounting  Standards  ("SFAS") No. 87 over the unrecognized prior service costs
+of former  stockyard  employees.  Such  excess  arose due to the  decline in the
+market  value of  pension  assets  available  for  pension  benefits  of  former
+employees,  which benefits were frozen at the time the stockyard operations were
+sold in 1989.  The  additional  minimum  pension  liability  will be expensed as
+actuarial  computations of annual pension cost (made in accordance with SFAS No.
+87) recognize the deficiency that exists.
+
+      The components of net periodic benefit cost are as follows:
+
+                                           Quarter       Ended
+                                           1/31/06      1/31/05
+                                          ---------------------
+
+Service cost                                 1,400        1,300
+Interest cost                               25,200       24,900
+Expected return on plan assets             (26,900)     (21,600)
+Amortization of prior service cost               0            0
+Recognized net actuarial loss               63,900       59,100
+                                          --------     --------
+
+Net periodic service cost                   63,600       63,700
+                                          ========     ========
+
+The fiscal 2006 amounts have been estimated, actual amounts will be based on the
+discount rate and assets available at year end.
+
+During the quarter ended January 31, 2006 the Company made no contributions into
+the pension plan. The Company expects to make contributions of $149,000 into its
+pension plan during the second quarter of fiscal 2006.
+
+24
+
+16.   RELATED PARTY TRANSACTIONS
+
+      Interest  Expense  Related  Party - At January  31,  2006,  all of Canal's
+Long-Term Debt is held by the company's Chief  Executive  Officer and members of
+his family. These notes pay interest at a rate of 10% per annum and come due May
+15,  2009.  Canal has  incurred  interest  expense on these notes of $67,000 and
+$71,000  and for the  three  month  periods  ended  January  31,2006  and  2005,
+respectively. At various times during fiscal 2005 certain holders of these notes
+agreed to defer  interest  payments  due  totaling  approximately  $28,000 as of
+October 31,  2005.  This  deferred  interest  liability  will accrue  additional
+interest  at a rate  of 10% per  annum,  and  will be  repaid  as  funds  become
+available  in fiscal  2006.  The  deferred  interest  liability  is  included in
+accounts payable and accrued  expenses.  As of January 31, 2006, the balance due
+under these notes was  $2,687,000  all of which is classified as long-term  debt
+related party.
+
+17.   LITIGATION
+
+      Canal and its  subsidiaries  are from time to time  involved in litigation
+incidental to their normal business activities, none of which, in the opinion of
+management,  will have a material adverse effect on the  consolidated  financial
+condition and  operations  of the Company.  Canal was not a party to any ongoing
+litigation at January 31, 2006.
+
+      The following situation did arise in fiscal 2005:
+
+Environmental  Protection  Agency - Special  Notice  Letter  for  Investigation,
+Portland, Oregon Property
+
+      In 1989, the Company sold its 48 acre Portland, Oregon stockyard to Oregon
+Waste  Systems,  Inc. On September  29, 2003,  the United  States  Environmental
+Agency  (EPA)  placed  a 4.2  acre  portion  of that  property  on the  National
+Priorities   List   pursuant  to  the   Comprehensive   Environmental   Response
+Compensation and Liability Act (CERCLA), commonly known as the Superfund Act. In
+a letter from the EPA dated June 27, 2005 the Company,  along with approximately
+13 other  parties,  including  the current  owner and operator of the site,  was
+notified  that it might be  liable  to  perform  or pay for the  remediation  of
+environmental  contamination  found on and around the site. Since the receipt of
+the  letter,  the Company  has been in  periodic  communications  with the other
+parties who received a similar letter with respect to what action,  collectively
+or individually,  should be taken in response to the EPA assertion of liability.
+The  Company  believes  that the  remediation  of  contamination  of the site is
+properly the  responsibility of other parties that have occupied and used it for
+waste  recycling  purposes since 1961,  although under CERCLA the EPA is able to
+assert  joint and  several  liability  against  all  parties  who ever  owned or
+operated the site or generated or transported  wastes to it. This  investigation
+is in its preliminary  stages and the Company  intends to vigorously  defend any
+liability for  remediation.  At January 31, 2006, the liability for remediation,
+if any, is not  estimatable  and  therefore no accrual has been  recorded in the
+financial statements.
+
+25
+
+ITEM II. MANAGEMENT'S DISCUSSION AND ANALYSIS OF THE
+         RESULTS OF OPERATIONS AND FINANCIAL CONDITION
+         FOR THE THREE MONTHS ENDED JANUARY 31, 2006
+
+      You should read the following  discussion  together with the more detailed
+business  information and  consolidated  financial  statements and related notes
+that appear elsewhere in this report and in the documents that we incorporate by
+reference into this report.  This report may contain  certain  "forward-looking"
+information within the meaning of the Private  Securities  Litigation Reform Act
+of 1995. This information  involves risks and uncertainties.  Our actual results
+may  differ  materially  from  the  results  discussed  in  the  forward-looking
+statements.  Factors  that might cause such a  difference  include,  but are not
+limited to, those discussed in "Risk factors".
+
+                                Company Overview
+
+      The  Registrant,  Canal Capital  Corporation  ("Canal" or the  "Company"),
+incorporated  in the state of Delaware in 1964,  commenced  business  operations
+through a predecessor in 1936.
+
+      Canal is engaged in two distinct  businesses  -- stockyard and real estate
+operations.
+
+      Stockyard  Operations  - As a result of an August 1, 1999  asset  purchase
+agreement,  Canal now  operates  two central  public  stockyards  located in St.
+Joseph,  Missouri and Sioux Falls, South Dakota (collectively the "Stockyards").
+Public stockyards act much like a securities exchange, providing markets for all
+categories  of livestock  and  fulfilling  the  economic  functions of assembly,
+grading,  and price discovery.  The Company's  principal  stockyard revenues are
+derived  from a per head  charge  ("yardage  charge")  imposed on all  livestock
+consigned  for sale at the  stockyards  and the sale of feed  and  bedding.  See
+"Stockyard Operations".
+
+      Real Estate  Operations  - Canal's real estate  properties  are located in
+Sioux City, Iowa, South St Paul, Minnesota, St Joseph, Missouri, Omaha, Nebraska
+and Sioux Falls, South Dakota. The properties consist,  for the most part, of an
+Exchange Building (commercial office space), land and structures leased to third
+parties  (meat  packing  facilities,  rail car repair  shops,  lumber  yards and
+various other commercial and retail businesses) as well as vacant land available
+for  development  or resale.  Its principal real estate  operating  revenues are
+derived from lease income from land and structures leased to various  commercial
+and retail enterprises,  rental income from its Exchange Buildings, and proceeds
+from the sale of real estate properties.  In addition to selling what was excess
+stockyard property,  the company entertains any offers to purchase,  develop and
+restructure   real  estate  lots   surrounding  its  existing   operating  lease
+properties,  stockyard operating  properties and properties held for development
+or  resale  in  order  to  enhance  the  value of the  existing  properties  and
+surrounding real estate. See "Real Estate Operations".
+
+26
+
+Stockyard Operations
+
+      General - Through an August 1, 1999 asset repurchase agreement,  Canal now
+operates two central public stockyards located in St. Joseph, Missouri and Sioux
+Falls, South Dakota.
+
+      Public stockyards act much like a securities  exchange,  providing markets
+for all  categories  of  livestock  and  fulfilling  the  economic  functions of
+assembly,  grading, and price discovery.  The livestock handled by the Company's
+stockyards include cattle, hogs, and sheep. Cattle and hogs may come through the
+stockyard  facilities at two  different  stages,  either as feeder  livestock or
+slaughter   livestock.   The  Company's  stockyards  provide  all  services  and
+facilities  required to operate an independent market for the sale of livestock,
+including veterinary facilities,  auction arenas, auctioneers, weigh masters and
+scales, feed and bedding,  and security personnel.  In addition,  the stockyards
+provide  other  services  including  pure  bred and  other  specialty  sales for
+producer  organizations.  The Company  promotes its stockyard  business  through
+public relations efforts, advertising, and personal solicitation of producers.
+
+      Actual  marketing  transactions  at a stockyard  are managed for livestock
+producers by market  agencies and independent  commission  sales people to which
+the livestock are consigned for sale.  These market  agencies (some of which are
+owned  and  operated  by the  Company)  and  independent  sales  people  receive
+commissions  from the seller upon  settlement of a transaction and the stockyard
+receives a yardage fee on all livestock  using the facility which is paid within
+twenty-four  hours of the sale.  Yardage  fees vary  depending  upon the type of
+animal, the extent of services provided by the stockyard, and local competition.
+Yardage revenues are not directly dependent upon market prices, but rather are a
+function of the volume of livestock  handled.  In general,  stockyard  livestock
+volume is dependent upon conditions  affecting livestock production and upon the
+market  agencies and  independent  commission  sales people which operate at the
+stockyards.  Stockyard  operations are seasonal,  with greater volume  generally
+experienced  during the first and fourth  quarters of each fiscal  year,  during
+which periods livestock is generally brought to market.
+
+      Virtually all of the volume at Canal's  Sioux Falls  stockyards is handled
+through market agencies and independent  commission sales people,  while the St.
+Joseph  stockyards  has  solicitation  operations  of its own which  account for
+approximately 50% of its livestock volume annually.
+
+      Canal  intends  to  continue  its  soliciting  efforts  at its St.  Joseph
+stockyards  in fiscal 2006.  Further,  Canal tries to balance its  dependence on
+market  agencies  and  independent  commission  sales  people in  various  ways,
+including:   developing  solicitation  operations  of  its  own;  direct  public
+relations;  advertising and personal  solicitation of producers on behalf of the
+stockyards;  providing  additional services at the stockyards to attract sellers
+and  buyers;  and  providing  incentives  to  market  agencies  and  independent
+commission sales people for increased business.
+
+      Stockyard  operations  resulted in operating income of approximately  $0.3
+million while  contributing  approximately  $1.0 million to Canal's revenues for
+the first quarter of fiscal 2006.
+
+27
+
+Risk -  Stockyard  activities  face a variety  of risks and  uncertainties
+related to the  safeguarding  of the  national  food supply which are beyond our
+control.  Public  confidence in the  government's  efforts to safeguard the food
+supply is essential for the success of our stockyard operations.  An outbreak of
+a disease such as bovine spongiform encephalopathy (BSE) better known as Mad Cow
+Disease  could  have a  devastating  impact  on  stockyard  operations.  For the
+company's part we strictly  follow all USDA  regulations to ensure to the extent
+we can the  safety of the food  supply.  Furthermore,  stockyard  activities  in
+general may involve  various  degrees of risk,  such as  competition  from other
+regional  stockyards and sale barns,  general market  conditions and to a lesser
+extent interest rates.
+
+      Competition - Canal competes in the area of public  stockyards  with other
+regional  public  stockyards  and sale  barns,  some of which are  substantially
+larger and have greater  financial  resources than Canal.  To a certain  extent,
+Canal's  stockyard  revenues are dependent on the ability of the market agencies
+and independent  commission sales people at each of Canal's stockyard  locations
+to compete within the region.
+
+      Real Estate Operations
+
+      General - Canal is involved in the management,  development or sale of its
+real estate properties  located in five Midwest states.  Real estate operations,
+resulted in operating income of $0.2 million, while contributing $0.5 million to
+Canal's  revenues for fiscal 2006.  In the first  quarter of fiscal 2006,  Canal
+sold  approximately  5 acres of land located in South Saint Paul,  Minnesota for
+$0.3 million generating operating income of $0.1 million.
+
+      As of January 31, 2006,  there are  approximately  21 acres of undeveloped
+land owned by Canal  located in five Midwest  states.  Canal is  continuing  the
+program,  which it started  several years ago, to develop or sell this property.
+Additionally,  Canal will continue to aggressively pursue additional tenants for
+its Exchange Buildings and undeveloped properties in fiscal 2006.
+
+      Risk - Real estate  activities in general may involve  various  degrees of
+risk,  such as competition for tenants,  general market  conditions and interest
+rates.  Furthermore,  there can be no assurance that Canal will be successful in
+the development, lease or sale of its real estate properties.
+
+      Competition - Canal competes in the area of real estate  development  with
+other  regional  developers,  some of which are  substantially  larger  and have
+significantly  greater  financial  resources  than Canal.  To a certain  extent,
+Canal's  real estate  revenues  are  dependent  on the ability of the  stockyard
+operations and the various meat packers located  adjacent to Canal's  properties
+to successfully compete in their respective businesses.
+
+28
+
+CRITICAL ACCOUNTING POLICIES
+
+      Our  consolidated  financial  statements  have been prepared in accordance
+with  accounting  principles  generally  accepted  in the United  States.  These
+generally  accepted  accounting  principles require management to make estimates
+and assumptions  that affect the reported  amounts of assets and liabilities and
+disclosure of  contingent  assets and  liabilities  at the date of the financial
+statements  and the  reported  amounts  of net sales  and  expenses  during  the
+reporting period. We continually evaluate our estimates, including those related
+to revenue  recognition,  bad debts, income taxes, fixed assets,  restructuring,
+contingencies and litigation. We base our estimates on historical experience and
+on various other  assumptions that are believed to be reasonable under the facts
+and  circumstances.  Actual  results  may  differ  from  these  estimates  under
+different assumptions or conditions.
+
+      Management  believes the following critical accounting policies impact our
+most difficult,  subjective and complex judgments used in the preparation of our
+consolidated  financial  statements,  often  as a  result  of the  need  to make
+estimates  about the  effect of matters  that are  inherently  uncertain.  For a
+further discussion of these and other accounting policies,  please see Note 2 of
+the  Notes to  Consolidated  Financial  Statements  included  elsewhere  in this
+Quarterly Report.
+
+      Revenue  Recognition -- Lease and rental  revenues are recognized  ratably
+over the period  covered.  All real estate leases are accounted for as operating
+leases.  Revenues from real estate sales are recognized  generally when title to
+the property passes.  Revenues from stockyard operations which consist primarily
+of yardage  fees (a standard  per head  charge for each animal sold  through the
+stockyards)  and sale of feed and bedding are recognized at the time the service
+is rendered or the feed and bedding are delivered.
+
+      Art  Inventory  Held for Sale -- The nature of art makes it  difficult  to
+determine a replacement  value. The most compelling  evidence of a value in most
+cases is an independent appraisal.  Canal has had varying percentages of its art
+inventory appraised by independent appraisers in previous years. For fiscal 2006
+the net realizable value of Canals remaining art inventory has been estimated by
+management  based in part on the  Company's  history of art sales in the current
+and previous years and in part on the results of the independent appraisals done
+in previous years.
+
+      Properties and Related  Depreciation -- Properties are stated at cost less
+accumulated  depreciation.  Depreciation is provided on the straight-line method
+over the estimated useful lives of the properties. Such lives are estimated from
+35 to 40  years  for  buildings  and  from 5 to 20 years  for  improvements  and
+equipment.
+
+      Property held for  Development or Resale -- Property held for  development
+or  resale  consist  of  approximately  21  acres  located  in  the  Midwest  of
+undeveloped land not currently  utilized for corporate  purposes nor included in
+any of the present operating leases. The Company constantly  evaluates proposals
+received for the purchase,  leasing or  development  of this asset.  The land is
+valued at cost which does not exceed the net realizable value.
+
+29
+
+Long-Lived  Assets -- The Company  reviews the  impairment  of  long-lived
+assets  whenever events or changes in  circumstances  indicate that the carrying
+amount of an asset may not be  recoverable.  The  Company  considers  historical
+performance  and  future  estimated  results  in  its  evaluation  of  potential
+impairment and then compares the carrying  amount of the assets to the estimated
+future cash flows expected to result from the use of the asset.  The measurement
+of the loss,  if any,  will be  calculated  as the amount by which the  carrying
+amount of the asset exceeds the fair value of the asset.
+
+Results of Operations
+
+      The  following  tables  set  forth  certain  items  in  our  statement  of
+operations for the periods indicated:
+
+                                                  Three Months Ended January 31,
+                                                  ------------------------------
+                                                         2006        2005
+                                                         ----        ----
+                                                          (In Thousands)
+Revenues:
+
+Stockyard Revenue                                      $ 1,046     $   972
+Real Estate Revenue                                        463       1,908
+                                                       -------     -------
+    Total Revenue                                        1,509       2,880
+                                                       -------     -------
+
+Costs and Expenses:
+
+Stockyard Expenses                                         784         737
+Real Estate Expenses                                       271         949
+General and Administrative Expenses                        278         207
+                                                       -------     -------
+     Total Costs and Expenses                            1,333       1,893
+                                                       -------     -------
+
+Income from Operations                                     176         987
+
+Other Income                                                18          22
+
+Other Expenses                                             (71)        (71)
+                                                       -------     -------
+Net Income                                             $   123     $   938
+                                                       =======     =======
+
+      While the  Company is  currently  operating  as a going  concern,  certain
+significant  factors  raise  substantial  doubt about the  Company's  ability to
+continue as a going  concern.  The Company has  suffered  recurring  losses from
+operations and is obligated to continue making substantial annual  contributions
+to its defined benefit pension plan. The financial statements do not include any
+adjustments  that  might  result  from the  resolution  of these  uncertainties.
+Additionally,   the  accompanying   financial  statements  do  not  include  any
+adjustments  relating to the recoverability and classification of recorded asset
+amounts or the amounts and classification of liabilities that might be necessary
+should the Company be unable to continue as a going concern.
+
+30
+
+Canal recognized net income of  approximately  $123,000 in the first three
+months of fiscal 2006 as compared to net income of $938,000  for the same period
+in fiscal 2005. After  recognition of preferred stock dividend payments (paid in
+additional  shares of  preferred  stock for each of  fiscal  2006,  and 2005) of
+$15,000 in both 2006 and 2005, the results  attributable to common  stockholders
+were net income of  $108,000  in 2006 and net income of  $923,000  in 2005.  The
+significant increase in Canal's 2005 net income was due primarily to an $850,000
+gain on the sale of the Company's South Saint Paul,  Minnesota Exchange Building
+and the associated  five acres of land. This property was sold on a contract for
+deed payable in October 2007.
+
+      Canal's revenues from continuing  operations  consist of revenues from its
+stockyard and real estate  operations.  Revenues in 2006 decreased by $1,353,000
+to  $1,509,000 as compared  with 2005  revenues of  $2,862,000.  The fiscal 2006
+decrease in revenues is due primarily to a $1,750,000 sale (in the first quarter
+of 2005) of the Company's South Saint Paul,  Minnesota Exchange Building and the
+associated  five acres of land.  This  property  was sold on a contract for deed
+payable in October 2007.
+
+COMPARISON OF FISCAL PERIODS ENDED JANUARY 31, 2006 AND 2005
+
+Stockyard Revenues
+
+      Stockyard  revenues  for  the  three  months  ended  January  31,  2006 of
+$1,046,000  accounted  for 69.3% of the fiscal  2006  revenues  as  compared  to
+stockyard  revenues of $972,000 or 33.9% for the same period in fiscal 2005. The
+2006 increase in the stockyard  revenues as a percent of total revenues,  is due
+primarily  to the  significant  decrease  in sales of real  estate for the first
+fiscal  quarter  2006.  Stockyard  revenues are  comprised of yard  handling and
+auction  (92.0% and 91.9%),  feed and bedding  income (4.2% and 4.9%) and rental
+and income (3.8% and 3.2%) for the three month  periods  ended  January 31, 2006
+and 2005,  respectively.  There were no significant percentage variations in the
+year to year comparisons.
+
+Stockyard Expenses
+
+      Stockyard expenses for the three months ended January 31, 2006 of $784,000
+increased  by $46,000  (6.3%) from  stockyard  expenses of $737,000 for the same
+period in fiscal 2005.  Stockyard  expenses  are  comprised of labor and related
+costs (48.3% and 51.0%), other operating and maintenance (27.6% and 24.8%), feed
+and bedding expense (4.8% and 5.0%),  depreciation  and  amortization  (0.7% and
+0.7%),   taxes  other  than  income  taxes  (5.8%  and  5.8%)  and  general  and
+administrative  expense  (12.8%  and 12.7%) for the three  month  periods  ended
+January 31, 2006 and 2005, respectively. The 2006 increase in stockyard expenses
+was  consistent  with  the  increase  in  stockyard  revenues.   There  were  no
+significant percentage variations in the year to year comparisons.
+
+31
+
+Real Estate Revenues
+
+      Real  estate  revenues  for the three  months  ended  January  31, 2006 of
+$463,000  accounted  for 30.7% of the fiscal  2006  revenues as compared to real
+estate  revenues of $1,890,000 or 66.1% for the same period in fiscal 2005.  The
+fiscal 2006 decrease in real estate  revenues as a percentage of total  revenues
+is due  primarily  to the  significant  decrease in sales of real estate for the
+first fiscal  quarter 2006.  Real estate  revenues are comprised of sale of real
+estate  (70.2% and 91.7%),  rentals  and other  lease  income from the rental of
+vacant  land and  certain  structures  (28.0%  and  7.0%),  rental  income  from
+commercial  office  space in its  Exchange  Buildings  (1.8% and 1.3%) and other
+income  (0.0% and 0.0%) for the three  months  ended  January 31, 2006 and 2005,
+respectively.  The increase in rentals and other lease income from the rental of
+vacant land and certain  structures  as a  percentage  of total  revenues is due
+primarily to the sharp decrease in sales of real estate.
+
+Real Estate Expenses
+
+      Real  estate  expenses  for the three  months  ended  January  31, 2006 of
+$271,000 decreased by $678,000 (71.4%) from real estate expenses of $949,000 for
+the same period in fiscal 2005.  The sharp  decrease in real estate  expenses is
+due to the  2006  decrease  in real  estate  sales.  Real  estate  expenses  are
+comprised  of the cost of real estate sold (84.5% and 94.8%),  labor,  operating
+and maintenance (7.6% and 2.0%),  depreciation and amortization (2.0% and 0.6%),
+taxes  other than income  taxes  (3.3% and 1.9%) and general and  administrative
+expenses  (2.6% and 0.7%) for the three months ended  January 31, 2006 and 2005,
+respectively.  The percentage variations in the year to year comparisons are due
+primarily  to the decrease in the cost of real estate sold  associated  with the
+first quarter  property sales  discussed  above coupled with other  decreases in
+operating expenses.
+
+General and Administrative
+
+      General and administrative expenses for the three months ended January 31,
+2006 of $278,000  increased by $71,000 (34.2%) from expenses of $207,000 for the
+same period in fiscal 2005. The major  components of general and  administrative
+expenses are officers  salaries  (41.8% and 56.1%),  pension  expense (22.7% and
+1.5%),  insurance  expense (6.2% and 9.9%),  office  salaries  (9.0% and 11.3%),
+travel expense (3.8% and 4.8%), rent (1.5% and 2.0%) and professional fees (4.8%
+and  2.2%)  for the  three  month  periods  ended  January  31,  2006 and  2005,
+respectively.  The percentage variations in the year to year comparisons are due
+to the sharp  increase in pension  expense for the first  quarter of fiscal 2006
+which is the result of an under accrual in fiscal 2005.
+
+32
+
+Interest and Other Income
+
+      Interest and other  income for the three months ended  January 31, 2006 of
+$18,000 was  unchanged  for the same period in fiscal  2005.  Interest and other
+income  is  comprised  primarily  of  interest  income  on the  $1,750,000  note
+receivable  associated  with the fiscal 2005 first quarter sale of the company's
+South  St.  Paul,  Minnesota  Exchange  Building.  This  property  was sold on a
+contract for deed payable in October 2007.
+
+Interest Expense
+
+      Interest  expense for the three months  ended  January 31, 2006 of $67,000
+decreased  $4,000  (5.5%) from $71,000 for the same period in fiscal  2005.  The
+principal  balances  outstanding  at January  31,  2006 and October 31, 2005 was
+$2,687,000.  The interest rate (10%) on Canal's variable rate mortgage notes has
+remained  unchanged  for the past 12 months.  Variations in the period to period
+interest  expense  reflects  Canal's  repayment  (including  additional  accrued
+interest on the unpaid  balance due) of a portion of the interest  deferred from
+time to  time  by  certain  noteholders  to  help  ease  the  cash  flow  strain
+experienced by Canal.
+
+(Expense) Income from Art Sales
+
+      Other  expense from art sales for the three months ended  January 31, 2006
+of $4,000  reflects a decrease  of $26,000  from  income of $22,000 for the same
+period in fiscal 2005.  Art revenues are comprised of the proceeds from the sale
+of antiquities  and  contemporary  art. Canal  recognized  gross sales of $0 and
+$64,000  for  the  three  month   periods  ended  January  31,  2006  and  2005,
+respectively.  Art  expenses are  comprised  of the cost of  inventory  sold and
+selling,  general and administrative  expenses. Canal incurred cost of inventory
+sold of $0 and $37,000 (net of a valuation  allowance of $0 and $24,000) as well
+as  selling,  general and  administrative  expenses of $4,000 and $5,000 for the
+three month  periods ended  January 31, 2006 and 2005,  respectively.  It is the
+Company's policy to use the adjusted carrying value for sales,  thereby reducing
+the valuation reserve proportionately as the inventory is sold.
+
+Liquidity and Capital Resources
+
+      While the  Company is  currently  operating  as a going  concern,  certain
+significant  factors  raise  substantial  doubt about the  Company's  ability to
+continue as a going  concern.  The Company has  suffered  recurring  losses from
+operations and is obligated to continue making substantial annual  contributions
+to its defined benefit pension plan. The financial statements do not include any
+adjustments  that  might  result  from the  resolution  of these  uncertainties.
+Additionally,   the  accompanying   financial  statements  do  not  include  any
+adjustments  relating to the recoverability and classification of recorded asset
+amounts or the amounts and classification of liabilities that might be necessary
+should the Company be unable to continue as a going concern.
+
+33
+
+The Company's  variable rate mortgage notes (originally issued in 1998 and
+amended  several times since then) are due May 15, 2009 and are held entirely by
+the Company's  Chief  Executive  Officer and members of his family.  These notes
+carry  interest at the rate of ten percent per annum.  These notes,  among other
+things,  prohibit  Canal from becoming an  investment  company as defined by the
+Investment  Company Act of 1940;  require  Canal to maintain  minimum net worth;
+restricts  Canal's ability to pay cash dividends or repurchase stock and require
+principal  prepayments  to be made  only  out of the  proceeds  from the sale of
+certain  assets.  As of January 31, 2006,  the balance due under these notes was
+$2,687,000, all of which is classified as long-term debt-related party.
+
+      Cash and cash  equivalents  of  $257,000  at January  31,  2006  increased
+$178,000 or 224.7% from $79,000 at October 31, 2005. Net cash used by operations
+in fiscal 2006 was $62,000.  Substantially all of the 2006 net proceeds from the
+sales of real  estate of $325,000  was used in  operations.  During  fiscal 2006
+Canal decreased the balance of its liabilities by a total of $186,000.
+
+      At  January  31,  2006  the  Company's   current   assets  exceed  current
+liabilities by $0.1 million which was an increase of $0.2 million as compared to
+October 31, 2005 when the Company's current liabilities  exceeded current assets
+by $0.1  million.  The only  required  principal  repayments  under Canal's debt
+agreements  for fiscal  2006 will be from the  proceeds  (if any) of the sale of
+certain assets.
+
+      As discussed above,  Canal's cash flow position has been under significant
+strain for the past several years. Canal continues to closely monitor and reduce
+where  possible  its  operating  expenses  and plans to continue  its program to
+develop or sell the  property it holds for  development  or resale as well as to
+reduce  the  level  of its  art  inventories  to  enhance  current  cash  flows.
+Management  believes  that its income  from  operations  combined  with its cost
+cutting  program and planned  reduction of its art  inventory  will enable it to
+finance its current business  activities.  There can,  however,  be no assurance
+that Canal will be able to effectuate  its planned art  inventory  reductions or
+that its income from operations combined with its cost cutting program in itself
+will be sufficient to fund operating cash requirements.
+
+Other Factors
+
+      Some of the  statements  in this Form 10-Q,  as well as  statements by the
+Company in  periodic  press  releases,  oral  statements  made by the  Company's
+officials to analysts and stockholders in the course of presentations  about the
+Company  and   conference   calls   following   earning   releases,   constitute
+"forward-looking  statements"  within  the  meaning  of the  Private  Securities
+Litigation Reform Act of 1995. Such  forward-looking  statements  involved known
+and unknown  risks,  uncertainties  and other  factors that may cause the actual
+results,  performance or achievements of the Company to be materially  different
+from any future results, performance or achievements expressed or implied by the
+forward-looking statements.
+
+34
+
+ITEM III. Quantitative and Qualitative Disclosures About Market Risk
+
+      The  Securities  and  Exchange  Commission's  rule  related to market risk
+disclosure  requires  that we describe and quantify  our  potential  losses from
+market risk sensitive  instruments  attributable  to reasonably  possible market
+changes.  Market risk sensitive  instruments  include all financial or commodity
+instruments and other financial  instruments (such as investments and debt) that
+are sensitive to future  changes in interest  rates,  currency  exchange  rates,
+commodity  prices or other  market  factors.  We are not exposed to market risks
+from changes in foreign  currency,  exchange  rates or commodity  prices.  As of
+January 31, 2006, we do not hold derivative financial instruments nor do we hold
+securities for trading or speculative  purposes.  Under our current policies, we
+do not use  interest  rate  derivative  instruments  to manage our  exposure  to
+interest rate changes.
+
+      At January 31, 2006, the following long-term  debt-related party financial
+      instruments  are  sensitive  to  changes  in  interest  rates by  expected
+      maturity dates:
+
+               As of         Fixed rate        Average         Fair
+            January 31,        ($ US)       Interest Rate      Value
+            -----------      ----------     -------------      -----
+               2006           $     0            N/A
+               2007                 0            N/A
+               2008                 0            N/A
+               2009             2,687             10%
+               2010                 0            N/A
+               Thereafter           0            N/A
+                              -------
+               Total          $ 2,687                          N/A (A)
+                              -------                          -------
+
+      (A)   Long-term debt related party:  it is not practicable to estimate the
+            fair value of the related party debt.
+
+ITEM IV. Controls and Procedures
+
+      Our  management,  which  includes  our Chief  Executive  Officer and Chief
+Financial  Officer,  has  conducted an evaluation  of the  effectiveness  of our
+disclosure  controls and procedures (as defined in Rule 13(a)-14(c)  promulgated
+under  the  Securities  Exchange  Act of  1934) as of  January  31,  2006  ("the
+Evaluation Date") within 45 days prior to the filing date of this report.  Based
+upon that  evaluation our Chief Executive  Officer and Chief  Financial  Officer
+concluded that our  disclosure  controls and procedures are effective for timely
+gathering,  analyzing and disclosing the information we are required to disclose
+in our reports  filed under the  Securities  Exchange  Act of 1934,  as amended.
+There have been no  significant  changes made in our internal  controls or other
+factors that could significantly  effect our internal controls subsequent to the
+Evaluation Date.
+
+35
+
+PART II
+
+                                OTHER INFORMATION
+
+36
+
+Item 1: Legal Proceedings:
+
+      Also see Item 3 of Canal's October 31, 2005 Form 10-K.
+
+      Canal and its  subsidiaries  are from time to time  involved in litigation
+incidental to their normal business activities, none of which, in the opinion of
+management,  will have a material adverse effect on the  consolidated  financial
+condition and  operations  of the Company.  Canal was not a party to any ongoing
+litigation  at January 31, 2006.  The  following  situation  did arise in fiscal
+2005:
+
+Environmental  Protection  Agency - Special  Notice  Letter  for  Investigation,
+Portland, Oregon Property
+
+      In 1989, the Company sold its 48 acre Portland, Oregon stockyard to Oregon
+Waste  Systems,  Inc. On September  29, 2003,  the United  States  Environmental
+Agency  (EPA)  placed  a 4.2  acre  portion  of that  property  on the  National
+Priorities   List   pursuant  to  the   Comprehensive   Environmental   Response
+Compensation and Liability Act (CERCLA), commonly known as the Superfund Act. In
+a letter from the EPA dated June 27, 2005 the Company,  along with approximately
+13 other  parties,  including  the current  owner and operator of the site,  was
+notified  that it might be  liable  to  perform  or pay for the  remediation  of
+environmental  contamination  found on and around the site. Since the receipt of
+the  letter,  the Company  has been in  periodic  communications  with the other
+parties who received a similar letter with respect to what action,  collectively
+or individually,  should be taken in response to the EPA assertion of liability.
+The  Company  believes  that the  remediation  of  contamination  of the site is
+properly the  responsibility of other parties that have occupied and used it for
+waste  recycling  purposes since 1961,  although under CERCLA the EPA is able to
+assert  joint and  several  liability  against  all  parties  who ever  owned or
+operated the site or generated or transported  wastes to it. This  investigation
+is in its preliminary  stages and the Company  intends to vigorously  defend any
+liability for  remediation.  At January 31, 2006, the liability for remediation,
+if any, is not  estimatable  and  therefore no accrual has been  recorded in the
+financial statements.
+
+Item 2 and 3:
+
+            Not applicable.
+
+Item 4:     Submission of Matters to a Vote of Security Holders:
+
+            None.
+
+Item 5:     Other Information:
+
+            None.
+
+Item 6:     Exhibits and Reports on Form 8-K:
+
+            (A)   Not applicable.
+
+            (B)   None
+
+37
+
+SIGNATURES
+
+      Pursuant  to the  requirements  of Section  13 or 15(d) of the  Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed on
+its behalf by the  undersigned,  thereunto duly  authorized,  on the 14th day of
+March, 2006.
+
+                                     CANAL CAPITAL CORPORATION
+
+By: /S/ Michael E. Schultz
+                                         -----------------------------
+                                         Michael E. Schultz
+                                         President and Chief
+                                         Executive Officer
+                                         (Principal Executive Officer)
+
+      Pursuant to the requirements of the Securities  Exchange Act of 1934, this
+report  has  been  signed  below  by the  following  persons  on  behalf  of the
+Registrant and in the capacities and on the dates indicated.
+
+      Signature                          Title                    Date
+      ---------                          -----                    ----
+
+/S/ Michael E. Schultz            President and Chief
+- ----------------------      Executive Officer and Director
+Michael E. Schultz           (Principal Executive Officer)        March 14, 2006
+
+Vice President-Finance
+/S/ Reginald Schauder           Secretary and Treasurer
+- ----------------------         (Principal Financial and
+Reginald Schauder                 Accounting Officer)             March 14, 2006
+
+/S/ Asher B. Edelman             Chairman of the Board
+- ----------------------             and Director                   March 14, 2006
+Asher B. Edelman
+
+38
+
+<EX-31>
+ 2
+ d67397_ex31.txt
+ CERTIFICATION
+
+Certification Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+
+I, Michael E. Schultz, certify that:
+
+1)    I have  reviewed  this  quarterly  report  on Form  10-Q of Canal  Capital
+      Corporation and subsidiaries;
+
+2)    Based on my knowledge,  this report does not contain any untrue  statement
+      of a material fact or omit to state a material fact  necessary to make the
+      statements made, in light of the circumstances under which such statements
+      were made,  not  misleading  with  respect  to the period  covered by this
+      report;
+
+3)    Based on my  knowledge,  the  financial  statements,  and other  financial
+      information  included  in this  report,  fairly  present  in all  material
+      respects the financial condition,  results of operations and cash flows of
+      the registrant as of, and for, the periods presented in this report;
+
+4)    The  Registrant's  other  certifying  officer  and I are  responsible  for
+      establishing  and  maintaining  disclosure  controls  and  procedures  (as
+      defined in Exchange Act Rules 13a-15(e) and 15d-15(e))and internal control
+      over financial  reporting (as defined in Exchange Act Rules  13a-15(f) and
+      15d-15(f)) for the registrant and have:
+
+      a)    Designed such  disclosure  controls and  procedures,  or caused such
+            disclosure   controls  and  procedures  to  be  designed  under  our
+            supervision,  to ensure that  material  information  relating to the
+            registrant,  including its consolidated subsidiaries,  is made known
+            to us by others  within  those  entities,  particularly  during  the
+            period in which this report is being prepared; and
+
+      b)    Designed such internal control over financial  reporting,  or caused
+            such internal control over financial  reporting to be designed under
+            our  supervision,  to provide  reasonable  assurance  regarding  the
+            reliability of financial  reporting and the preparation of financial
+            statements  for  external  purposes  in  accordance  with  generally
+            accepted accounting principles; and
+
+      c)    Evaluated the effectiveness of the registrant's  disclosure controls
+            and  procedures and presented in this report our  conclusions  about
+            the effectiveness of the disclosure  controls and procedures,  as of
+            the  end  of the  period  covered  by  this  report  based  on  such
+            evaluation; and
+
+      d)    Disclosed  in this  report any change in the  registrant's  internal
+            control  over   financial   reporting   that  occurred   during  the
+            registrant's most recent financial quarter (the registrant's  fourth
+            fiscal  quarter in the case of an annual report) that has materially
+            affected,   or  is  reasonably  likely  to  materially  affect,  the
+            registrant's internal control over financial reporting; and
+
+39
+
+5)    The registrant's other certifying  officer and I have disclosed,  based on
+      our most recent  evaluation of internal control over financial  reporting,
+      to the registrant's auditors and the audit committee of registrant's board
+      of directors (or persons performing the equivalent functions):
+
+      a)    All significant  deficiencies and material  weaknesses in the design
+            or operation of internal control over financial  reporting which are
+            reasonably  likely to adversely affect the  registrant's  ability to
+            record, process, summarize and report financial information; and
+
+      b)    Any fraud,  whether or not  material,  that  involves  management or
+            other  employees  who have a  significant  role in the  registrant's
+            internal control over financial reporting.
+
+Dated: March 14, 2006
+
+/S/ Michael E. Schultz
+- ----------------------
+Chief Executive Officer
+
+40
+
+Certification Pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
+
+I, Reginald Schauder, certify that:
+
+1)    I have  reviewed  this  quarterly  report  on Form  10-Q of Canal  Capital
+      Corporation and subsidiaries;
+
+2)    Based on my knowledge,  this report does not contain any untrue  statement
+      of a material fact or omit to state a material fact  necessary to make the
+      statements made, in light of the circumstances under which such statements
+      were made,  not  misleading  with  respect  to the period  covered by this
+      report;
+
+3)    Based on my  knowledge,  the  financial  statements,  and other  financial
+      information  included  in this  report,  fairly  present  in all  material
+      respects the financial condition,  results of operations and cash flows of
+      the registrant as of, and for, the periods presented in this report;
+
+4)    The  Registrant's  other  certifying  officer  and I are  responsible  for
+      establishing  and  maintaining  disclosure  controls  and  procedures  (as
+      defined in Exchange Act Rules 13a-15(e) and 15d-15(e))and internal control
+      over financial  reporting (as defined in Exchange Act Rules  13a-15(f) and
+      15d-15(f)) for the registrant and have:
+
+      a)    Designed such  disclosure  controls and  procedures,  or caused such
+            disclosure   controls  and  procedures  to  be  designed  under  our
+            supervision,  to ensure that  material  information  relating to the
+            registrant,  including its consolidated subsidiaries,  is made known
+            to us by others  within  those  entities,  particularly  during  the
+            period in which this report is being prepared; and
+
+      b)    Designed such internal control over financial  reporting,  or caused
+            such internal control over financial  reporting to be designed under
+            our  supervision,  to provide  reasonable  assurance  regarding  the
+            reliability of financial  reporting and the preparation of financial
+            statements  for  external  purposes  in  accordance  with  generally
+            accepted accounting principles; and
+
+      c)    Evaluated the effectiveness of the registrant's  disclosure controls
+            and  procedures and presented in this report our  conclusions  about
+            the effectiveness of the disclosure  controls and procedures,  as of
+            the  end  of the  period  covered  by  this  report  based  on  such
+            evaluation; and
+
+      d)    Disclosed  in this  report any change in the  registrant's  internal
+            control  over   financial   reporting   that  occurred   during  the
+            registrant's most recent financial quarter (the registrant's  fourth
+            fiscal  quarter in the case of an annual report) that has materially
+            affected,   or  is  reasonably  likely  to  materially  affect,  the
+            registrant's internal control over financial reporting; and
+
+41
+
+5)    The registrant's other certifying  officer and I have disclosed,  based on
+      our most recent  evaluation of internal control over financial  reporting,
+      to the registrant's auditors and the audit committee of registrant's board
+      of directors (or persons performing the equivalent functions):
+
+      a)    All significant  deficiencies and material  weaknesses in the design
+            or operation of internal control over financial  reporting which are
+            reasonably  likely to adversely affect the  registrant's  ability to
+            record, process, summarize and report financial information; and
+
+      b)    Any fraud,  whether or not  material,  that  involves  management or
+            other  employees  who have a  significant  role in the  registrant's
+            internal control over financial reporting.
+
+Dated: March 14, 2006
+
+/S/ Reginald Schauder
+- ---------------------
+Chief Financial Officer
+
+42
+
+</EX-31>
+
+<EX-32>
+ 3
+ d67397_ex32.txt
+ CERTIFICATION
+
+Certification Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
+
+      Pursuant to section 906 of the  Sarbanes-Oxley Act of 2002 (subsection (a)
+      and (b) of section 1350, chapter 63 of title 18, United States Code), each
+      of the undersigned officers of Canal Capital Corporation and Subsidiaries,
+      a Delaware corporation (the "Company"), does hereby certify that:
+
+      The  Quarterly  Report of Form 10-Q for the three months ended January 31,
+      2006 (the "Form 10-Q") of the Company fully complies with the requirements
+      of  section  13(a)  or 15(d) of the  Securities  Exchange  Act of 1934 and
+      information  contained in the Form 10-Q fairly  presents,  in all material
+      respects,  the  financial  condition  and  results  of  operations  of the
+      Company.
+
+Date: March 14, 2006                         /S/ Michael E. Schultz
+                                             -----------------------
+                                             Chief Executive Officer
+
+Date: March 14, 2006                         /S/ Reginald Schauder
+                                             -----------------------
+                                             Chief Financial Officer
+
+43
+
+</EX-32>
+

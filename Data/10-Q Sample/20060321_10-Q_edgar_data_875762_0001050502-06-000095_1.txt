@@ -1,0 +1,1556 @@
+<Header>
+<FileStats>
+    <FileName>20060321_10-Q_edgar_data_875762_0001050502-06-000095_1.txt</FileName>
+    <GrossFileSize>90520</GrossFileSize>
+    <NetFileSize>79157</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>419</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>1</N_Tables>
+    <N_Exhibits>4</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001050502-06-000095.hdr.sgml : 20060321
+<ACCEPTANCE-DATETIME>20060321161317
+ACCESSION NUMBER:		0001050502-06-000095
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20060131
+FILED AS OF DATE:		20060321
+DATE AS OF CHANGE:		20060321
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			STARTECH ENVIRONMENTAL CORP
+		CENTRAL INDEX KEY:			0000875762
+		STANDARD INDUSTRIAL CLASSIFICATION:	MISC INDUSTRIAL & COMMERCIAL MACHINERY & EQUIPMENT [3590]
+		IRS NUMBER:				841286576
+		STATE OF INCORPORATION:			CO
+		FISCAL YEAR END:			1004
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-25312
+		FILM NUMBER:		06701444
+
+	BUSINESS ADDRESS:	
+		STREET 1:		15 OLD DANBURY ROAD
+		STREET 2:		SUITE 203
+		CITY:			WILTON
+		STATE:			CT
+		ZIP:			06897-2525
+		BUSINESS PHONE:		202-762-2499
+
+	MAIL ADDRESS:	
+		STREET 1:		79 OLD RIDGEFIELD RD
+		CITY:			WILTON
+		STATE:			CT
+		ZIP:			06897
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	KAPALUA ACQUISITIONS INC
+		DATE OF NAME CHANGE:	19941223
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ KihGtWnyqEnNtM7W8UgMZerkW1u+gzygZ5wnQQdGpNsyVUcVc+C8yER/I9xgSWcp
+ uqwBnDlqFCzoQ2ysXyT8CA==
+
+ 0001050502-06-000095.txt : 20060321
+
+10-Q
+ 1
+ startech106.txt
+ 10-Q
+
+UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 10-Q
+
+                                  -------------
+
+|X|  Quarterly report pursuant to Section 13 or 15(d) of the Securities Exchange
+     Act of 1934 for the quarterly period ended January 31, 2006
+
+|_|  Transition report pursuant to Section 13 or 15(d) of the Securities
+     Exchange Act of 1934 for the transition period from ____ to ____
+
+Commission File No. 0-25312
+
+                       STARTECH ENVIRONMENTAL CORPORATION
+                       ----------------------------------
+             (Exact name of registrant as specified in its charter)
+
+           Colorado                                84-1286576
+           --------                                ----------
+   (State of incorporation)          (I.R.S. Employer Identification Number)
+
+                         15 Old Danbury Road, Suite 203
+                            Wilton, Connecticut 06897
+                            -------------------------
+          (Address of principal executive offices, including zip code)
+
+                                 (203) 762-2499
+                                 --------------
+               (Registrants telephone number, including area code)
+
+           Securities registered under Section 12(b) of the Act: None
+
+Securities registered under Section 12(g) of the Act: Common Stock, no par value
+
+Indicate by check mark whether the Registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+Registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. YES [ x ] NO [ ]
+
+     Indicate by check mark whether the Registrant is a large accelerated filer,
+an accelerated filer, or a non-accelerated filer. See definition of "accelerated
+filer and large accelerated filer" in Rule 12b-2 of the Exchange Act.
+
+Large Accelerated Filer [ ]   Accelerated Filer [  ]   Non-accelerated filer [X]
+
+     Indicate by check mark if the Registrant is a shell company (as defined in
+Rule 12b-2 of the Act). YES [ ] NO [ x ]
+
+     As of March 17, 2006, 18,773,367 shares of common stock were outstanding.
+
+STARTECH ENVIRONMENTAL CORPORATION
+
+                                TABLE OF CONTENTS
+
+PART I - FINANCIAL INFORMATION                                              PAGE
+- ------------------------------                                              ----
+
+Item 1.  Financial Statements (unaudited)
+
+         Condensed consolidated balance sheets - January 31, 2006
+         and October 31, 2005                                                1
+
+         Condensed consolidated statements of operations for the
+         three months ended January 31, 2006 and 2005                        2
+
+         Condensed consolidated statements of cash flows for the
+         three months ended January 31, 2006 and 2005                        3
+
+         Notes to condensed consolidated financial statements               4-9
+
+Item 2.  Management's Discussion and Analysis of Financial Condition
+         and Results of Operations                                         10-16
+
+Item 3.  Quantitative and Qualitative Disclosure about Market Risk          17
+
+Item 4.  Controls and Procedures                                           17-18
+
+PART II - OTHER INFORMATION
+- ---------------------------
+
+Item 1.  Legal Proceedings                                                  19
+Item 1A. Risk Factors                                                       19
+Item 2.  Unregistered Sales of Equity Securities and Use of Proceeds        19
+Item 3.  Defaults Upon Senior Securities                                    19
+Item 4.  Submission of Matters to a Vote of Security Holders                19
+Item 5.  Other Information                                                  19
+Item 6.  Exhibits                                                           19
+Signatures                                                                  20
+
+STARTECH ENVIRONMENTAL CORPORATION
+                 Condensed Consolidated Statements of Cash Flows
+                                   (Unaudited)
+
+                                                         Three Months Ended
+                                                             January 31,
+                                                     --------------------------
+                                                         2006           2005
+                                                     -----------    -----------
+Cash flows from operating activities:
+   Net loss                                          $  (439,462)   $  (988,586)
+   Adjustments to reconcile net loss to net cash
+   used in operating activities:
+     Stock based compensation                            214,260           --
+     401(k) match through issuance of common stock        16,358         14,422
+     Depreciation and amortization                        47,769         52,959
+     Amortization of deferred financing costs             71,889           --
+     Amortization of deferred debt discount              542,748           --
+     Change in value of warrants and conversion       (1,056,490)          --
+     option
+Changes in operating assets and liabilities
+     Accounts receivable                                (101,819)          --
+     Prepaid expense and other current assets             36,000         (1,282)
+     Accounts payable                                     91,846       (181,856)
+     Customer deposits and deferred revenue              334,924        (32,985)
+     Accrued expenses                                     26,045        (86,051)
+                                                     -----------    -----------
+Net cash used in operating activities                   (215,932)    (1,223,379)
+                                                     -----------    -----------
+
+Cash flows used in investing activities:
+     Purchase of equipment                              (135,883)      (154,842)
+                                                     -----------    -----------
+Net cash used in investing activities                   (135,883)      (154,842)
+                                                     -----------    -----------
+
+Cash flows from financing activities:
+     Proceeds from exercise of options, warrants
+     and common stock issuance                           216,000        841,890
+Repayment of capital lease payable                          (242)        (2,449)
+                                                     -----------    -----------
+Net cash provided by financing activities                215,758        839,441
+                                                     -----------    -----------
+
+Net decrease in cash and cash equivalents               (136,057)      (538,780)
+
+Cash and cash equivalents, beginning                   2,489,529      2,401,061
+                                                     -----------    -----------
+
+Cash and cash equivalents, ending                    $ 2,353,472    $ 1,862,281
+                                                     ===========    ===========
+
+See accompanying notes to the condensed consolidated financial statements.
+
+                                        3
+
+STARTECH ENVIRONMENTAL CORPORATION
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+Note 1 - Basis of Presentation and Management Liquidity Plans.
+- --------------------------------------------------------------
+
+Basis of Presentation
+
+     The accompanying unaudited condensed consolidated financial statements of
+Startech Environmental Corporation (the "Company" or "Startech") have been
+prepared in accordance with accounting principles generally accepted in the
+United States of America ("GAAP") for interim financial information. In the
+opinion of management, such statements include all adjustments (consisting only
+of normal recurring adjustments) necessary for the fair presentation of the
+Company's financial position, results of operations and cash flows at the dates
+and for the periods indicated. Pursuant to the requirements of the Securities
+and Exchange Commission (the "SEC") applicable to quarterly reports on Form
+10-Q, the accompanying financial statements do not include all the disclosures
+required by GAAP for annual financial statements. While the Company believes
+that the disclosures presented are adequate to make the information not
+misleading, these unaudited interim condensed financial statements should be
+read in conjunction with the consolidated financial statements and related notes
+included in the Company's Annual Report on Form 10-K for the year ended October
+31, 2005. Operating results for the three months ended January 31, 2006 are not
+necessarily indicative of the results that may be expected for the fiscal year
+ending October 31, 2006.
+
+     The accompanying condensed consolidated financial statements have been
+prepared in conformity with accounting principles generally accepted in the
+United States of America, which contemplate continuation of the Company as a
+going concern and the realization of assets and the satisfaction of liabilities
+in the normal course of business. The carrying amounts of assets and liabilities
+presented in the financial statements do not purport to represent realizable or
+settlement values. The Company has no significant revenues, suffered significant
+recurring operating losses and needs to raise additional capital in order to be
+able to accomplish its business plan objectives. These conditions raise
+substantial doubt about the Company's ability to continue as a going concern.
+
+     The Company has historically satisfied its capital needs primarily from the
+sale of equity securities. On September 16, 2005, the Company entered into a
+Securities Purchase Agreement (the "Purchase Agreement") and a Standby Equity
+Distribution Agreement (the "Standby Agreement") with Cornell Capital Partners,
+L.P. and its affiliates ("Cornell"). The Purchase Agreement provides for Cornell
+to purchase up to $2,300,000 of Secured Convertible Debentures. This entire
+amount was funded during September and October 2005. The Standby Agreement
+requires Cornell, at the Company's option, to purchase up to an aggregate of
+$20,000,000 of the Company's common stock, subject to certain limitations as
+discussed in Note 6, over a two-year period commencing on the effective date of
+a registration statement filed with the Securities and Exchange Commission
+("SEC").
+
+     Management of the Company is continuing its efforts to secure additional
+funds through equity and/or debt instruments. If the Company is unable to raise
+sufficient additional funds, it will have to develop and implement a plan to
+extend payables and reduce overhead until sufficient additional capital is
+raised to support further operations. There can be no assurance that such a plan
+will be successful. These condensed consolidated financial statements do not
+include any adjustments that might result from the outcome of this uncertainty.
+
+Note 2 - Stock-Based Compensation.
+- ----------------------------------
+
+     For the three months ended January 31, 2006, the Company incurred
+stock-based compensation expense of $214,260. Prior to November 1, 2005, the
+Company accounted for those plans under the recognition and measurement
+provisions of Accounting Principles Board Opinion No. 25 ("APB 25").
+Accordingly, the Company generally recognized compensation expense only when it
+granted options with a discounted exercise price. Any resulting compensation
+expense was recognized ratably over the associated service period, which was
+generally the option vesting term. Prior to November 1, 2005, the Company
+provided pro-forma disclosure amounts in accordance with SFAS No. 148,
+"Accounting for Stock-Based Compensation--Transition and Disclosure" ("SFAS
+148"), as if the fair value method defined by SFAS 123 had been applied to its
+stock-based compensation.
+
+                                       4
+
+STARTECH ENVIRONMENTAL CORPORATION
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+Effective November 1, 2005, the Company adopted the fair value recognition
+provisions of SFAS 123R, using the modified prospective transition method and
+therefore has not restated prior periods' results. Under this transition method,
+stock-based compensation expense for the first quarter of fiscal 2006 included
+compensation expense for all stock-based compensation awards granted prior to,
+but not yet vested as of, November 1, 2005, based on the grant date fair value
+estimated in accordance with the original provisions of SFAS 123. Stock-based
+compensation expense for all share-based payment awards granted after November
+1, 2005 is based on the grant-date fair value estimated in accordance with the
+provisions of SFAS 123R. The Company recognizes these compensation costs over
+the requisite service period of the award, which is generally the option vesting
+term.
+
+     As a result of adopting SFAS 123R, the impact to the Consolidated Condensed
+Financial Statements for the three months ended January 31, 2006 on net loss for
+the three months ended January 31, 2006 was $214,260 greater than if we had
+continued to account for stock-based compensation under APB 25. The impact on
+both basic and diluted earnings per share for the three months ended January 31,
+2006 was $0.01 per share.
+
+     The fair value of share-based payment awards was estimated using the
+Black-Scholes option pricing model with the following assumptions and weighted
+average fair values as follows:
+
+                                                  Three months ended
+                                                     January 31
+                                                --------------------
+                                                2006            2005
+                                                ----            ----
+           Risk-free interest rate              4.31%           4.70%
+           Dividend yield                        N/A             N/A
+           Expected volatility                   81%             123%
+           Expected life in years                 6               10
+
+     For the quarter ended January 31, 2005, there was no effect on net earnings
+and basic and diluted net earnings per share by applying the fair value
+recognition provisions of SFAS 123, since there was no pro forma expense
+relating to this period.
+
+Note 3 - Inventory.
+- -------------------
+
+     Inventory consists of raw materials and is stated at the lower of cost or
+market. Cost is determined by the first-in, first-out method.
+
+Note 4 - Equipment and Leasehold Improvements.
+- ----------------------------------------------
+
+     Equipment and leasehold improvements consist of the following:
+
+                                      Useful Life     October 31,    October 31,
+                                       (In years)        2006           2005
+                                       ----------        ----           ----
+
+Computer equipment                        3-5           $237,925       $236,851
+Equipment                                 7-15         2,067,759      2,043,725
+Furniture and fixtures                    3-7            144,383        144,383
+Leasehold improvements                    4-7            109,993        108,096
+Other                                     4-7             23,625         23,625
+                                                          ------         ------
+                                                       2,583,685      2,556,680
+Less: accumulated depreciation                       (1,058,696)    (1,010,926)
+                                                     -----------    -----------
+                                                       1,524,989      1,545,754
+Construction in progress                                 704,880        596,001
+                                                         -------        -------
+Total equipment and leasehold improvements            $2,229,869     $2,141,755
+                                                      ==========     ==========
+
+     Construction in progress includes the costs of constructing the Company's
+proprietary ceramic filtration system. Costs may include materials, labor,
+overhead and permits. When construction is completed, the asset will be
+reclassified as equipment and will be amortized when placed in service.
+
+                                        5
+
+STARTECH ENVIRONMENTAL CORPORATION
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+Depreciation expense totaled $47,769 and $52,959 for the three months ended
+January 31, 2006 and 2005, respectively.
+
+Note 5 - Convertible Note.
+- --------------------------
+
+     On September 15, 2005, the Company entered into a Purchase Agreement and a
+Standby Equity Distribution Agreement with Cornell. The Purchase Agreement
+provides for Cornell to purchase up to $2,300,000 of secured convertible
+debentures of which $1,150,000 was funded within five business days of the date
+of the Purchase Agreement and the balance was funded on October 19, 2005. The
+Debentures, which mature in September 2006, require monthly interest payments at
+a rate of 10% per annum and monthly principal payments commencing March 2006.
+The Company can prepay the debentures at anytime upon three days written notice.
+If the Company's common stock is trading above the conversion price at the time
+of the prepayment the Company must pay a 20% premium on the amount of the
+prepayment. The debentures are secured by substantially all of the Company's
+assets and shares of common stock as discussed below.
+
+     The Purchase Agreement requires the Company to file a registration
+statement within 30 days of the date of the agreement and to use its best
+efforts to have the registration statement declared effective by the SEC within
+120 days of the date of the Purchase Agreement, which was extended to April 15,
+2006. In the event the registration statement is not filed or declared effective
+within the prescribed time periods, the Company will be required to pay
+liquidated damages as defined under the Purchase Agreement.
+
+     The debentures are convertible by Cornell at any time at a conversion price
+of $1.84 per share of common stock.
+
+     In connection with the issuance of the debentures, the Company issued to
+Cornell a warrant to purchase 650,000 shares of the Company's common stock for a
+period of three years with an exercise price per share of $2.53.
+
+     The gross proceeds of $2,300,000 were recorded net of a discount of
+$2,168,995. The debt discount consisted of a $897,121 value related to the
+warrants and $1,271,874 value related to the embedded conversion option. The
+warrants and the embedded conversion option was accounted for under EITF issue
+No. 00-19 "Accounting for Derivative Financial Instruments Index to and
+Potentially Settled in a Company's Own Stock" and EITF 05-4, view A "The effect
+of a Liquidated Damages Clause on a Freestanding Financial Instrument". Due to
+certain factors and the liquidated damage provision in the registration rights
+agreement, the Company determined that the embedded conversion option and the
+warrants are derivative liabilities. Accordingly the warrants and the embedded
+conversion option will be marked to market through earnings at the end of each
+reporting period. The warrants and the conversion option are valued using the
+Black-Scholes valuation model. For the three months ended January 31, 2006, the
+Company reflected a gain of $1,056,490 representing a change in the value of the
+warrants and conversion option. The debt discount of $2,168,995 is being
+accreted over a period of one year. Accordingly, the Company recorded a charge
+$542,748 for the three months ended January 31, 2006.
+
+     The Company paid a fee of $230,000 (10% of the purchase price), structuring
+fees equal to $30,000 and other fees of $27,554 in connection with the
+convertible note. These fees have been recorded as deferred financing costs and
+charged to interest expense through the maturity date of the debentures.
+Amortization expense for the three months ended January 31, 2006 amounted to
+$71,889.
+
+     In connection with the Purchase Agreement, the Company and its Chief
+Executive Officer and President, agreed to pledge 3,580,000 shares and 900,000
+shares, respectively, to secure payment of all the obligations due under the
+convertible notes. Such shares are to be held in escrow until all amounts due
+under the convertible notes are paid in full. The Company has issued 900,000
+shares of restricted common stock to its President in place of the shares of
+common stock being pledged pursuant to the Escrow Agreement. These shares will
+be held in escrow and will only be released to the President in the event any of
+the pledged shares are forfeited or released pursuant to the terms of the Escrow
+Agreement.
+
+                                        6
+
+STARTECH ENVIRONMENTAL CORPORATION
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+Note 6 - Stockholders' Equity.
+- ------------------------------
+
+     On September 16, 2005, the Company entered into the Purchase Agreement and
+a Standby Equity Distribution Agreement with Cornell. The Standby Agreement
+requires Cornell, at the Company's option, to purchase, from time to time, up to
+an aggregate of $20,000,000 of the Company's common stock over a two-year period
+commencing on the effective date of a registration statement filed with the SEC.
+The purchase price for each share of common stock under the Agreement is equal
+to 96% of the market price as defined. Each request by the Company is limited to
+$2 million. The Company issued to Cornell 386,956 shares of the Company's common
+stock valued at $979,000 as a fee for entering into the Agreement and issued
+4,348 shares valued at $11,000 to the placement agent. In addition, the Company
+incurred legal and various other costs of $239,595 in connection with this
+transaction. These costs have been charged to deferred offering costs. Cornell
+is to receive a fee equal to 5% of each advance and structuring and due
+diligence fees aggregating $25,000. The amount of capital available under the
+equity line of credit is not dependent on the price or volume of the Company's
+common stock. However, Cornell may not own more than 9.9% of the outstanding
+common stock at any time. As of January 31, 2006, the Company has not issued any
+shares under the Purchase Agreement.
+
+On November 22, 2005, the Company entered into the SICAV ONE Stock Purchase
+Agreement and SICAV TWO Stock Purchase Agreement (collectively, the "Mercatus
+Agreements") with Mercatus & Partners, Limited ("Mercatus"). Pursuant to the
+Mercatus Agreements, the Company has agreed to sell to Mercatus an aggregate of
+2,716,900 shares of common stock (the "Mercatus Shares"), no par value per share
+("Common Stock"), for an aggregate purchase price of $5,000,000. Mercatus will
+have up to thirty days from the date of the delivery of the Mercatus Shares to
+Brown Brothers Harriman, the custodial bank, to tender the purchase price to the
+Company. The Mercatus Shares have been placed in escrow. The Company has not yet
+received any proceeds pursuant to the Mercatus Agreements.
+
+Note 7 - Operating Leases,
+- --------------------------
+
+     The Company leases office space, equipment, computers and vehicles under
+non-cancelable operating leases expiring between 2006 and 2008.
+
+     The Company's corporate headquarters is located in Wilton, Connecticut
+where the Company leases 5,800 square feet of office space from CD Station, LLC
+as landlord. The lease and taxes provides for monthly payments of $18,038 to
+December 2006, when the lease expires. The Company's Product Showroom is located
+in Bristol, Connecticut, where the Company leases 10,800 square feet of office
+space from Tunxis Management as landlord. The lease provides for monthly
+payments of $8,166 to June 2008, when the lease expires.
+
+     The Company's Manufacturing facility is also located in Bristol,
+Connecticut, where the Company leases 30,000 square feet of manufacturing space
+from Gaski Leasing as landlord. The lease provides for monthly payments of
+$5,750. This lease arrangement is on a month to month basis.
+
+     Rent expense for the three months ended January 31, 2006 and 2005 was
+$95,468 and $92,185, respectively. The following table shows the future lease
+commitments for the corporate headquarters at Wilton, Connecticut, the Product
+showroom in Bristol, Connecticut, and the Manufacturing facility in Bristol,
+Connecticut:
+
+         Fiscal Year       Annual Rent
+         -----------       -----------
+         2006               $278,285
+         2007                175,100
+         2008                122,300
+
+7
+
+STARTECH ENVIRONMENTAL CORPORATION
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+Note 8 - Commitments.
+- ---------------------
+
+Employment Agreements
+
+     On September 30, 2004, the Board of Directors approved the terms of an
+employment agreement between Joseph F. Longo and the Company. Mr. Longo will
+serve as the Chief Executive Officer and President and will be paid an annual
+salary of $185,000. The term of the Employment Agreement is three years,
+effective as of January 1, 2004, unless extended by the Company.
+
+     On December 1, 2005, the Company reached an agreement with Ralph Dechiaro,
+its Vice President of Business Operations, pursuant to which the Company agreed
+to award Mr. Dechiaro options to purchase 25,000 shares of common stock at an
+exercise price equal to the closing price of the Company's common stock on
+December 14, 2005. One half of these options vested on January 1, 2006 and the
+other half vest on June 30, 2006. In addition, the Company agreed to grant Mr.
+Dechiaro a one-time bonus/incentive award of $20,000, payable in cash, less
+applicable taxes, which was paid on December 23, 2005. The Company also agreed
+to provide Mr. Dechiaro with a severance package, as defined. Should Mr.
+Dechiaro voluntarily resign, severance pay would not apply.
+
+     On December 13, 2005, the Company reached an agreement with its Chief
+Financial Officer ("CFO"). Peter Scanlon. that provides for additional
+compensation equal to $6,000 per month through May 2006 and a severance package
+based on years of service.
+
+License Agreement
+
+     The Company has a licensing agreement for the development, hardware
+manufacture and technology exploitation within the waste and non-waste industry
+application for Hydrogen Selective Membranes. This agreement provides for the
+exclusive right to utilize this Hydrogen Selective Membrane technology for all
+applications in the principles of plasma arc technology. This agreement was
+effective July 8, 2001 and extends for a period of 20 years.
+
+DOE Grant
+
+     The Company received a grant from the Department of Energy ("DOE") for the
+development of a Startech Hydrogen Production Project which includes the
+evaluation of the viability of integrated hydrogen production from waste
+materials. This program was initiated in October 2004 and was completed by
+September 2005. The grant is a reimbursement of expenses incurred in connection
+with the project and is recorded as other income in the statement of operations
+when received. For the three months ended January 31, 2006, the Company received
+$52,033 under this grant. The Company has received approval to further develop
+the hydrogen project. Such development should extend through 2006.
+
+Concentration of Credit Risk
+
+The Company's cash and cash equivalents consist of cash balances at two
+financial institutions and short-term high quality liquid investments with
+maturitiesof less than thirty days. The short-term investments are high quality
+commercial paper, U.S. Treaury notes and U.S. Treasury bills. Unrealized gains
+and losses were not material during the quarters ended January 31, 2006 and
+2005. No realized gains or losses were recorded during the quarters ended
+January 31, 2006 and 2005. The cash balances are insured by the Federal Deposit
+Insurance Corporation up to $100,000 per institution. From time to time, the
+Company's balances may exceed these limits. At January 31, 2006, uninsured cash
+balances were approximately $844,695. The Company believes it is not exposed to
+any significant credit risk for cash.
+
+                                       8
+
+STARTECH ENVIRONMENTAL CORPORATION
+NOTES TO UNAUDITED CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+Note 9 - Employee Benefit Plan.
+- -------------------------------
+
+     The Company sponsors an employee savings plan designed to qualify under
+Section 401K of the Internal Revenue Code. This plan is for all full-time
+employees who have completed 30 days of service. Company contributions are made
+in the form of common stock at the prevailing current market price and vest
+equally over a three-year period. The Company will match the first six percent
+of the employee contribution on a dollar for dollar basis up to the maximum
+contribution allowed under Internal Revenue Code. Contributions for the three
+months ended January 31, 2006 and 2005 were $16,358, and $14,422, respectively.
+These contributions were paid through the issuance of 8,798, and 2,654 shares of
+common stock, respectively.
+
+Note 10 - Subsequent Events.
+- ----------------------------
+
+     On March 15, 2006, the Company announced that it and Future Fuels, Inc.
+(FFI), a subsidiary of Nuclear Solutions, Inc. (OTCBB: NSOL) of Washington,
+D.C., have formed a Strategic Alliance Agreement to mutually obtain contracts
+for waste-to-ethanol facilities. The Company has also received the Letter Of
+Intent from FFI for FFI's purchase of a 100 ton-per-day Startech Plasma
+Converter System (PCS) for installation in the first-of-its-kind
+Waste-to-Ethanol Facility in Toms River scheduled to go on-line in late 2007.
+
+9
+
+Item 2. Management's Discussion and Analysis of Financial Condition and Results
+of Operations.
+
+     This quarterly report on Form 10-Q contains a number of "forward-looking
+statements" within the meaning of Section 27A of the Securities Act of 1933, as
+amended (the "Securities Act"), and Section 21E of the Securities Exchange Act
+of 1934, as amended (the "Exchange Act"). Specifically, all statements other
+than statements of historical facts included in this quarterly report regarding
+our financial position, business strategy and plans and objectives of management
+for future operations are forward-looking statements. These forward-looking
+statements are based on the beliefs of management, as well as assumptions made
+by and information currently available to management. When used in this
+quarterly report, the words "anticipate," "believe," "estimate," "expect,"
+"may," "will," "continue" and "intend," and words or phrases of similar import,
+as they relate to our financial position, business strategy and plans, or
+objectives of management, are intended to identify forward-looking statements.
+These statements reflect our current view with respect to future events and are
+subject to risks, uncertainties and assumptions related to various factors
+including, without limitation, those described below the heading "Overview" and
+in our registration statements and periodic reports filed with the SEC under the
+Securities Act and the Exchange Act.
+
+     Although we believe that our expectations are reasonable, we cannot assure
+you that our expectations will prove to be correct. Should any one or more of
+these risks or uncertainties materialize, or should any underlying assumptions
+prove incorrect, actual results may vary materially from those described in this
+Quarterly Report as anticipated, believed, estimated, expected or intended.
+
+     In this Item 2, references to the "Company," "Startech", "we," or "us"
+means Startech Environmental Corporation and its wholly-owned subsidiary.
+
+Overview
+
+     Startech Environmental Corporation is an environmental technology company
+commercializing its proprietary plasma processing technology known as the Plasma
+Converter(TM) that achieves closed-loop elemental recycling that irreversibly
+destroys hazardous and non-hazardous waste and industrial by-products while
+converting them into useful commercial products. These products include a rich
+synthesis gas called PCG (Plasma Converted Gas)(TM) surplus energy for power,
+hydrogen, metals and silicates for use and for sale.
+
+     The Company's activities during the four fiscal years beginning November 1,
+1992 and ending October 31, 1995 consisted primarily of the research and
+development of the Plasma Converter. On November 17, 1995, Kapalua Acquisitions,
+Inc., a Colorado corporation, completed the acquisition of all of the issued and
+outstanding shares of the common stock of Startech Corporation, a Connecticut
+corporation, and then changed its name to Startech Environmental Corporation.
+
+     On November 18, 1995, the board of directors of the Company unanimously
+approved a change of the business purpose of Kapalua Acquisitions Inc. from one
+seeking an acquisition candidate to one engaged in the business of manufacturing
+and selling the Plasma Converter system to recover, recycle, reduce and
+remediate hazardous and nonhazardous waste materials. From that time to the date
+of this filing, the Company has maintained this as its principal focus.
+
+     In 2001, recognizing the increasing importance of alternative energy and
+power sources in general, and hydrogen in particular, we expanded our product
+line to include a StarCell (TM) hydrogen separation technology. Working in
+conjunction with our core product, the Plasma Converter(TM), StarCell(TM) will
+provide a green and renewable source of hydrogen for power and processing
+applications. In 2003, this brought significant change and, due to the factors
+mentioned above, as well as the rising comfort level with plasma based
+technologies through our educational and informational effort we are now being
+greeted by a much more receptive marketplace. This change was dictated by the
+needs of our customers and the demands of the marketplace. This change began in
+January 2002 and continues to be integrated.
+
+                                       10
+
+Startech is an environmental technology corporation that manufactures,
+markets and sells a recycling system called the Plasma Converter for the global
+marketplace. Until January 2002, we were solely engaged in the manufacture and
+sale of equipment for use by others. Thereafter, we have attempted to broaden
+the scope of our available revenue opportunities. This change was brought about
+by management's decision to expand its market penetration strategies and
+opportunities. Rather than only market and sell our products for use by others,
+we are now seeking opportunities to become directly involved in the operation
+and use of our products. We reconsidered our stated philosophy of not engaging
+in the processing of feedstock materials and/or waste and decided that it was
+timely to seek out and include all possible market penetration strategies,
+including build own operate, build own transfer of ownership, and joint
+development projects.
+
+     By concentrating on re-positioning the Company for long-term growth, we did
+not achieve the sales goals we had anticipated would occur in the 2003, 2004 and
+2005 fiscal years. However, we believe this new way of approaching the market
+over time will help achieve maximum penetration in the shortest timeframe.
+
+     We believe specific events are driving demand for our Plasma Converter.
+They include:
+
+     o    Increases in waste, and in particular hazardous wastes, due to rising
+          consumer/industrial consumption and population growth in most nations;
+
+     o    Current waste disposal and remediation techniques such as landfills
+          and incineration are becoming regulatory, socially and environmentally
+          unacceptable;
+
+     o    A need for critical resources such as power and water to sustain local
+          economies; and
+
+     o    The emphasis being placed upon the production of distributed power and
+          the need to provide alternatives to fossil fuels.
+
+     Our core plasma technology addresses these waste and resource issues by
+offering remediation solutions that are integrated with a range of equipment
+solutions and services. We believe these products will add value to our
+customers' business so they can realize revenue streams from disposal or
+processing fees, a reduction in material disposal costs, as well as from the
+sale of resulting commodity products and services. Alternatively, this will
+allow our customers to generate a valuable product while at the same time using
+a zero cost basis, or revenue generating source of raw material (waste). The
+costs of hazardous waste treatment and disposal methods continue to rise, and
+now range from approximately $900 to more than $2,000 per ton. This does not
+include the additional processing, handling, packaging, insurance and management
+costs sustained by the hazardous waste generator within its facility prior to
+final disposal.
+
+     Since 1995, we have been actively educating and promoting to our customers
+the benefits of the plasma converter over other forms of waste remediation
+technologies. Ongoing education of the public and government is continuing. Like
+most new technologies we have been met with varying degrees of resistance. A
+rising comfort level with our plasma converter technology resulting in part from
+our educational and informational efforts has created additional awareness in
+the marketplace. We have taken steps to transform our business model from being
+solely a seller of equipment to a total solutions provider, including facility
+ownership or management.Our business model and its market development strategies
+arise from our mission, which is to change the way the world views and employs
+discarded materials; what many would now call waste we view as a feedstock. We
+expect to achieve this objective by strategically marketing a series of products
+and services emanating from the core Plasma Converter (TM) technology, resulting
+in saleable fossil fuel alternatives while providing a safer and healthier
+environment. This strategy will be implemented through Plasma Converter sales
+with after sales support and service, build own operate/build own transfer of
+ownership facilities, joint development projects and engineering services.
+
+                                       11
+
+Developments During the Three Months Ended January 31, 2006
+
+The Mihama Plasma Converter in Japan
+
+     The system, now owned by Mihama, has been installed in the Hiemji, Japan
+facility and has been systemized. Mihama, Inc is acquiring the appropriate PCB
+(polychlorinated byphenyls) laddened test material for the operating program.
+Startech is preparing the training program for operator certification to
+initiate the demonstration test program. The current plan is to dispatch our
+field service technicians to the Hiemji site and to complete a final equipment
+review, operator certification and the PCB processing. As the Company's Japan
+distributor, Mihama will also use the system to support its Startech sales and
+marketing operations and be able to demonstrate a Plasma Converter System in a
+commercial operation to its customers.
+
+Poland
+
+     The initial contracts signed in Poland are still pending project funding
+and remain in the financial development stage, however two of the contracts
+previously announced are being modified to increase their size and designated
+waste streams.
+
+     o    The Eko Plasma project will be initiated and is expanding beyond a 10
+          TPD Plasma Converter Processing Facility that will process various
+          hazardous waste streams including Medical and Industrial waste from
+          surrounding municipalities. The project has been submitted for
+          financing and the site has been selected. All permits have been
+          issued.
+
+     o    The Ekologia project previously announced will be increased from 10
+          TPD to 100 TPD Plasma Processing Facility that will process animal
+          meal and hazardous waste. This Plasma Converter System will be
+          operated to increase the selected output gas which will be sold to the
+          neighboring chemical plant.
+
+     o    The Chempol project previously announced is continuing with the
+          initial 10 TPD Plasma Converter.
+
+     The two 300 TPD Plasma Converter Processing Facilities contracts signed
+with Eco Group of America, Inc. are undergoing financing and the structuring of
+waste and power contracts within Poland. The contracted business entities have
+changed project ownership and we are in discussion with Eco-Group of America for
+contract scope modification and assignment. The project sites have been approved
+as initially announced and remain the same.
+
+     Multiple new projects are being developed in Poland to process wastes
+ranging from MSW to Pesticides.
+
+DOE StarCell Test Program
+
+     Startech has issued the Phase I Test Report to DOE and is awaiting comment.
+We have initiated the Phase II test program which was previously approved and
+are preparing the planning and associated test protocols. During this test cycle
+which is planned to be completed during 2006, Startech will implement the
+lessons learned form the Phase I testing to augment the Plasma Converter System
+and complete modifications to the StarCell ceramic membranes to enhance
+performance and production yield.
+
+Vitech
+
+     The customer will be processing 20,000 pounds per day of Reverse Logistic
+Pharmaceuticals. Reverse Logistic Pharmaceuticals are items such as expired
+drugs and medications from retailers and manufacturers that must be destroyed.
+Vitech expects to break ground on construction and place an order for their
+first 10 ton per day system within a few months.
+
+                                       12
+
+GlobalTech
+
+     On October 3, 2005, the Company entered into an agreement with GlobalTech
+Environmental Incorporated ("GlobalTech") of Central, Hong Kong, with offices in
+Shanghai, Beijing and Changzhou in China as its exclusive distributor for the
+Peoples Republic of China. The Company has received $250,000 as the cash fee
+cash for that Distributorship. The Distributorship Agreement requires GlobalTech
+to purchase its first 25 ton-per-day Plasma Converter System (PCS), or larger,
+by June 30, 2006. The Agreement also requires GlobalTech to purchase $40 million
+worth of Startech Plasma Converter Systems by March 27, 2007 and also $150
+million worth of Plasma Converter Systems each year for the ten years following
+as a minimum to maintain the Distributorship.
+
+     GlobalTech will be managing the Distributorship with its principal
+operating partner the Jingu Group. Jingu is a company with diversified
+businesses in urban infrastructure development and planning, construction and
+also environmental engineering. The Jingu world headquarters is located in
+Changzhou, Jiangsu on the east coast of China near Shanghai.
+
+Mercatus Stock Purchase Agreement
+
+     On November 22, 2005, the Company entered into the SICAV ONE Stock Purchase
+Agreement and SICAV TWO Stock Purchase Agreement (collectively, the "Mercatus
+Agreements") with Mercatus & Partners, Limited ("Mercatus"). Pursuant to the
+Mercatus Agreements, the Company has agreed to sell to Mercatus an aggregate of
+2,716,900 shares of common stock (the "Mercatus Shares"), no par value per share
+("Common Stock"), for an aggregate purchase price of $5,000,000. Mercatus will
+have up to thirty days from the date of the delivery of the Mercatus Shares to
+Brown Brothers Herriman, the custodial bank, to tender the purchase price to the
+Company. The Mercatus Shares have been placed in escrow. The Company has not yet
+received any proceeds pursuant to the Mercatus Agreements.
+
+     In connection with the Mercatus Agreements, the Company has agreed to pay
+to e3 Energy Company a one-time finder's fee consisting of the following: (a)
+five year warrants to purchase shares of Common Stock for cash in an amount
+equal to 5% of the number of Shares issued to Mercatus pursuant to the Mercatus
+Agreements at an exercise price per share of $3.00, which warrants shall not be
+exercisable for a period of one year following the date of issuance, (b) a cash
+fee equal to 5% of the gross proceeds raised pursuant to the Mercatus
+Agreements, and (c) restricted shares of Common Stock in an amount equal to 5%
+of the number of Mercatus Shares issued to Mercatus pursuant to the Mercatus
+Agreements.
+
+     These issuances are exempt from registration by virtue of Regulation S of
+the Securities Act of 1933, as amended, because Mercatus is not a U.S. Person
+(as defined under Regulation S), is not purchasing the Shares for the account or
+benefit of a U.S. Person, the purchase was made in an "offshore transaction" and
+there were no "directed selling efforts" in the United States.
+
+Ansaldo Energia S.p.A.
+
+     On December 5, 2005, the Company announced that it has formed a Strategic
+Alliance Agreement with Ansaldo Energia S.p.A. ("AEN"), having its principal
+place of business at Genova, Via Nicola Lorenzi 8, Italy, to mutually obtain
+commercial contracts that utilize Startech's and AEN's, resources, equipment,
+expertise, know-how and experience to produce sales that include their mutual
+capabilities.
+
+     AEN and Startech have agreed that it is in their mutual interest to work
+together to produce the joint development of initiatives, both technical and
+commercial, for the sales of Startech's Plasma Converter Systems and/or turnkey
+plants incorporating Startech's proprietary technology for waste destruction and
+remediation, the production of energy by use of the fuel produced by Startech's
+technology, the development of joint R&D programs to enhance the potential of
+Startech's technology and the employment of AEN's financial resources.
+
+     AEN is an energy and power generation company providing an entire power
+generation spectrum including, financing, manufacturing, plant engineering,
+full-turnkey project planning and development, engineering construction, plant
+operations, field service and maintenance.
+
+                                       13
+
+With more than a hundred years of power generation experience and an
+installed capacity exceeding 160,000 MW in over 90 countries, its major
+strengths are its global reach, a full service organization and a flexible
+approach to project developments. AEN is a subsidiary of the Finmecannica Group,
+an engineering and aerospace/defense group based in Italy.
+
+PlasTech Solutions
+
+     On January 3, 2006, the Company announced that Plastech Solutions, Ltd.
+paid Startech $703,000 to commence manufacturing for Plastech's purchase of a 10
+ton-per-day Plasma Converter System. The Company announced that it would begin
+the manufacturing process in early February, 2006 with the delivery scheduled
+for a date later in the year. The contract calls for fixed scheduled payments to
+be made during the 2006 manufacturing cycle. The $703,000 payment did not
+include the $250,000 Plastech paid for the Distributorship.
+
+     On February 2, 2006, the Company, announced that the manufacturing of the
+10 ton-per-day Plasma Converter System purchased by PlasTech Solutions, Ltd. has
+been put into production. The commencement of the manufacturing process
+scheduled for February 6, 2006, actually started two-weeks ahead of schedule on
+January 24, 2006. Delivery is scheduled for a date later in the year.
+
+     PlasTech Solutions, Ltd. of New South Wales, Australia is Startech's
+exclusive distributor for Australia, New Zealand and Oceana. The
+first-of-its-kind Startech 10 TPD Plasma Converter in the PlasTech territory
+will be processing an assortment of industrial and institutional wastes. The
+processing facility will also serve as the PlasTech demonstration facility to
+support its Plasma Converter sales program. PlasTech plans to include two more
+20,000 pound-per-day Plasma Converter Systems in the new facility.
+
+Plasma Converter Puerto Rico Project
+
+     Plasma Tech Caribbean Corp. is the Startech Distributor in the Caribbean.
+On January 26, 2006, Plasma Tech announced, in a journal called Caribbean
+Business, that it is planning to invest $40 million in the construction of a
+Plasma Converter System (PCS) facility in Barceloneta, Puerto Rico. The site has
+already been chosen and Plasma Tech is currently in acquisition arrangements.
+The multipurpose facility in Barceloneta will consist of one PCS unit to be used
+for research and development as well as for sales demonstrations, and two larger
+PCS units to be used in the processing of discarded hazardous materials from the
+pharmaceutical and biomedical industries for the production of clean,
+alternative fuels such as methanol and propane. The facility will feature many
+"green-building" technologies such as integrated photovoltaic cells, rainwater
+harvesting, and others.
+
+From Tires to Ethanol
+
+     On March 15, 2006, the Company, announced that it and Future Fuels, Inc.,
+(FFI) a subsidiary of Nuclear Solutions, Inc., (OTCBB: NSOL) of Washington,
+D.C., have formed a Strategic Alliance Agreement to mutually obtain contracts
+for waste-to-ethanol facilities and also for FFI's own $84 million
+Waste-to-Ethanol Facility to be constructed in Toms River, New Jersey.
+
+     The Company has also received the Letter Of Intent from FFI for FFI's
+purchase of a 100 ton-per-day Startech Plasma Converter System (PCS) for
+installation in the first-of-its-kind Waste-to-Ethanol Facility in Toms River,
+scheduled to go on-line in late 2007. The PCS will safely and completely destroy
+the tires in its process that results in a clean synthesis gas product called
+Plasma Converted Gas (PCG)(TM). The Plasma Converter will be attached to the
+front of the FFI system. PCG produced will be piped directly into the FFI system
+to make commercial fuel-grade ethanol for sale. Plans also call for the Toms
+River Facility expansion to include a series of additional Startech 100
+ton-per-day modular Plasma Converter Systems.
+
+     FFI is implementing its proprietary technology and process to convert
+low-end carbonaceous waste materials such as used tires, petro-waste, waste
+coal, wood wastes, raw sewage, discarded corn stalks, residential waste,
+industrial waste and agricultural byproducts into ethanol; a clean renewable
+fuel.
+
+                                       14
+
+The New Jersey Economic Development Authority announced that the resolution
+for the preliminary approval of $84 million tax-exempt bond financing for FFI
+has been fully executed and officially adopted by the State of New Jersey. The
+tax-exempt bonds will be used for the design, construction and start-up of the
+first-of-its-kind 52 million gallon per year waste-to-ethanol production
+facility in Toms River, New Jersey. The official resolution approval enables FFI
+to proceed with the bond rating, underwriting, and the placement process to
+secure the funds.
+
+Results of Operations
+
+Comparison of three months ended January 31, 2006 and 2005
+
+     Revenues. Total revenues were $364,197 for the three months ended January
+31, 2006, as compared to $32,985 for the same period in 2005, an increase of
+$331,212. For the three months ended January 31, 2006, a portion of the
+distributorship agreements were recognized as revenue. These distributorship
+agreements were signed with Plasteck Solutions Limited, representing Australia
+and New Zealand, Plasmatech Caribbean Corporation representing Puerto Rico and
+Materiales Renovados, Sl representing Spain, Additionally revenues were derived
+from the completed installation in Mihama. The revenue for the three months
+ending January 31, 2005 was related to upgrades and spare parts that were
+shipped to Mihama, located in Japan. Such aspects of the Company's business has
+not reoccurred in fiscal 2005
+
+     Gross Profit. Gross profit was $311,094 for the three months ended January
+31, 2006, compared to a gross profit of $32,985 in the same period in 2005, or
+an increase of $278,109 from the same period in 2005 or 843.1%. Gross margins
+were directly impacted due to the revenue recognized from the distributorship
+agreements.
+
+     Selling Expenses. Selling expenses for the three months ended January 31,
+2006 were $197,068, compared to $205,692 for the same period in the prior year,
+a decrease of $8,624, or 4.2%. Selling expenses decreased as a result of lower
+consulting expenses and lower marketing activity.
+
+     Research and Development Expenses. Research and development expenses for
+the three months ended January 31, 2006 were $78,222, compared to $85,210 for
+the same period in the prior year, a decrease of $6,988 or 8.2%. This decrease
+was related to a decrease in travel expenses.
+
+     General and Administrative Expenses. General and administrative expenses
+for the three months ended January 31, 2006 were $879,142, compared to $723,611
+for the same period in 2005, an increase of $155,531 or 21%. This increase was
+related to higher interest expenses, higher legal and accounting expenses, and
+stock based compensation in 2005.
+
+     Interest Income. Interest income for the three months ended January 31,
+2006 was $15,736, compared to $6,311 in the same period in 2005, an increase of
+149.3%. The increase is due to higher returns on their investments and higher
+average interest rates.
+
+Liquidity and Capital Resources
+
+     As of January 31, 2006, we had cash and cash equivalents of $2,353,472 and
+a working capital deficiency of $1,078,419. During the three months ended
+January 31, 2006, our cash and cash equivalents decreased by $136,057.
+
+     The Company has historically satisfied its capital needs primarily from the
+sale of equity securities. We are currently in discussions with several funding
+sources to raise additional capital through the issuance of additional equity
+securities. The Company has been actively engaged in an effort to secure
+financing from other investment sources. If we are unable to secure financing we
+may not be able to maintain operations as presently conducted and may cease
+operating as a going concern.
+
+                                       15
+
+On September 15, 2005, the Company entered into the Purchase Agreement and
+Standby Agreement with Cornell. The Purchase Agreement provides for Cornell to
+purchase up to $2,300,000 of secured convertible debentures of which $1,150,000
+was funded within five business days of the date of the Purchase Agreement and
+the balance was funded on October 19, 2005. The Debentures, which mature in
+September 2006, require monthly interest payments at a rate of 10% per annum and
+monthly principal payments commencing March 2006. The Company can prepay the
+debentures at anytime upon three days written notice. If the Company's common
+stock is trading above the conversion price at the time of the prepayment the
+Company must pay a 20% premium on the amount of the prepayment. The debentures
+are secured by substantially all of the Company's assets and shares of common
+stock as discussed below.
+
+     The Purchase Agreement requires the Company to file a registration
+statement within 30 days of the date of the agreement and to use its best
+efforts to have the registration statement declared effective by the Securities
+and Exchange Commission within 120 days of the date of the agreement, which was
+extended to April 15, 2006. In the event the registration statement is not filed
+or declared effective within the prescribed time periods, the Company will be
+required to pay liquidated damages as defined under the agreement.
+
+     The debentures are convertible by Cornell at any time at a conversion price
+of $1.84 per share of common stock.
+
+     In connection with the Purchase Agreement, the Company and its Chief
+Executive Officer and President, Joseph F. Longo, agreed to pledge 3,580,000
+shares and 900,000 shares, respectively, to secure payment of all the
+obligations due under the convertible notes. Such shares are to be held in
+escrow until all amounts due under the convertible notes are paid in full. The
+Company has issued 900,000 shares of restricted common stock to its President in
+place of the shares of common stock being pledged pursuant to the Escrow
+Agreement. These shares will be held in escrow and will only be released to the
+President in the event any of the pledged shares are forfeited or released
+pursuant to the terms of the Escrow Agreement.
+
+     On September 16, 2005 the Company entered into a Purchase Agreement and a
+Standby Agreement with Cornell. The Standby Agreement requires Cornell, at the
+Company's option, to purchase, from time to time, up to an aggregate of
+$20,000,000 of the Company's common stock over a two-year period commencing on
+the effective date of a registration statement filed with the SEC. The purchase
+price for each share of common stock under the Agreement is equal to 96% of the
+market price as defined. Each request by the Company is limited to $2 million.
+The amount of capital available under the equity line of credit is not dependent
+on the price or volume of the Company's common stock. Cornell may not own more
+than 9.9% of the outstanding common stock at any time. As of January 31, 2006,
+the Company has not issued any shares under this agreement.
+
+     Our investing activities have consisted primarily of short-term, high
+quality liquid investments, with maturities of three months or less when
+purchased, which are considered cash equivalents. The primary investments are
+high quality commercial paper, U.S. treasury notes and Treasury-bills.
+Unrealized gains and losses were not material during the quarter ended January
+31, 2006 and 2005. No realized gains or losses were recorded during the quarter
+ended July 31, 2005 or 2004.
+
+16
+
+Item 3. Qualitative and Quantitative Disclosures About Market Risk.
+
+     The Company is primarily exposed to foreign currency risk, interest rate
+risk and credit risk.
+
+     Foreign Currency Risk - We develop products in the United States and market
+our products in North America, Japan, Europe, Asia, Africa, Middle East, South
+America as well as other parts of the world. As a result, our financial results
+could be affected by factors such as changes in foreign currency exchange rates
+or weak economic conditions in foreign markets. Because a significant portion of
+our revenues are currently denominated in U.S. dollars, a strengthening of the
+dollar could make our products less competitive in foreign markets.
+
+     Interest Rate Risk - Interest rate risk refers to fluctuations in the value
+of a security resulting from changes in the general level of interest rates.
+Investments that are classified as cash and cash equivalents have original
+maturities of three months or less. Our interest income is sensitive to changes
+in the general level of U.S. interest rates, particularly since the majority of
+our investments are in short - term instruments. Due to the short-term nature of
+our investments, we believe that there is not a material risk exposure.
+
+     Credit Risk - Our accounts receivables are subject, in the normal course of
+business, to collection risks. We regularly assess these risks and have
+established policies and business practices to protect against the adverse
+effects of collection risks. As a result we do not anticipate any material
+losses in this area.
+
+Item 4. Controls and Procedures.
+
+Disclosure Controls and Procedures
+
+     The Company maintains controls and procedures designed to ensure that it is
+able to collect the information that is required to be disclosed in the reports
+filed with the SEC, and to process, summarize and disclose this information
+within the time period specified in the rules of the SEC. The Company's Chief
+Executive and Chief Financial Officers are responsible for establishing,
+maintaining and enhancing these procedures. They are also responsible, as
+required by the rules established by the SEC, for the evaluation of the
+effectiveness of these procedures.
+
+     Based on their evaluation of the Company's disclosure controls and
+procedures which took place as of the end of the period covered by this report,
+the Chief Executive Officer and the Chief Financial Officer concluded that these
+disclosure controls and procedures were not effective at the "reasonable
+assurance" level. These controls ensure that the Company is able to collect,
+process and disclose the information required in the reports that the Company
+files with the SEC within the required time period.
+
+Internal Controls
+
+     The Company maintains a system of internal controls designed to provide
+reasonable assurance that transactions are executed in accordance with
+management's general or specific authorization; transactions are recorded as
+necessary to (1) permit preparation of financial statements in conformity with
+accounting principles generally accepted in the United States of America, and
+(2) maintain accountability for assets. Access to assets is permitted only in
+accordance with management's general or specific authorization.
+
+     It is the responsibility of the Company's management to establish and
+maintain adequate internal control over financial reporting. However, due to its
+small size and limited financial resources the Company's Chief Financial
+Officer, a member of management, has been the only full time employee
+principally involved in accounting and financial reporting. The Board of
+Directors has recognized that as a result, there is no formal segregation of
+duties within the accounting function, leaving management of all aspects of
+financial reporting and physical control of cash and equivalents in the hands of
+the CFO. Based on the integrity and trustworthiness of the Company's Chief
+Financial Officer, the Board of Directors has had confidence that there have
+been no irregularities in the Company's financial reporting or in the protection
+of its assets.
+
+                                       17
+
+Our independent auditors have reported to our Board of Directors certain
+matters involving internal controls that our independent auditors considered to
+be a reportable conditions and material weaknesses, under standards established
+by the American Institute of Certified Public Accountants. The first material
+weakness we identified relates to our limited segregation of duties. Segregation
+of duties within our company is limited due to the small number of employees
+that are assigned to positions that involve the processing of financial
+information. Although we are aware that segregation of duties within our company
+is limited, we believe (based on our current roster of employees and certain
+control mechanisms we have in place), that the risks associated with having
+limited segregation of duties are currently insignificant. The second material
+weakness we identified is in our ability to ensure that the accounting for our
+debt and equity-based transactions is accurate and complete. During the three
+month period ended January 31, 2006, we consummated a series of complex debt and
+equity transactions involving the application of highly specialized accounting
+principles. Although we believe that these events are unique, we are evaluating
+certain corrective measures we may take including the possibility of hiring an
+outside consultant to provide us with the guidance we need at such times that we
+may engage in these complex transactions.
+
+     Given these reportable conditions and material weaknesses, management
+devoted additional resources to resolving questions that arose during the three
+month period ending January 31, 2006. As a result, we are confident that our
+financial statements for the quarter ended January 31, 2006 fairly present, in
+all material respects, our financial condition and results of operations.
+Management does not believe that the above reportable conditions and material
+weaknesses affected the results for the quarter ended January 31, 2006 or any
+prior period.
+
+     There were no significant changes in our internal controls over financial
+reporting that occurred during the quarter ended January 31, 2006 that have
+materially affected, or are reasonably likely to materially affect, our internal
+control over financial reporting.
+
+18
+
+PART II - OTHER INFORMATION
+
+Item 1. Legal Proceedings.
+
+     None.
+
+Item 1A. Risk Factors.
+
+     There have been no material changes to the Company's risk factors as set
+forth in its Annual Report on Form 10-K for the fiscal year ended October 31,
+2005.
+
+Item 2. Unregistered Sales of Equity Securities and Use of Proceeds.
+
+     On January 26, 2006, the Company received cash proceeds in the amount of
+$216,000 from the exercise of warrants to purchase 120,000 shares of common
+stock. Exemption from registration under the Securities Act of 1933, as amended,
+was based upon the grounds that the issuance of such securities did not involve
+a public offering within the meaning of Section 4(2) of the Securities Act of
+1933, as amended.
+
+     On December 31, 2005, the Company issued 8,798 shares of common stock to
+its 401(k) plan as a matching contribution.
+
+Item 3. Defaults Upon Senior Securities.
+
+     None.
+
+Item 4. Submission of Matters to a Vote of Security Holders.
+
+     None.
+
+Item 5. Other Information.
+
+     None
+
+Item 6. Exhibits.
+
+The following exhibits are attached to this report or are incorporated by
+reference herein.
+
+     31.1      Certificate of the Chief Executive Officer pursuant to Section
+               302 of the Sarbanes-Oxley Act of 2002 *
+
+     31.2      Certificate of the Chief Financial Officer pursuant to Section
+               302 of the Sarbanes-Oxley Act of 2002 *
+
+     32.1      Certification of the Chief Executive Officer pursuant to Section
+               906 of the Sarbanes-Oxley Act of 2002 *
+
+     32.2      Certification of the Chief Financial Officer pursuant to Section
+               906 of the Sarbanes-Oxley Act of 2002 *
+
+     ----------
+
+     *    Filed herewith
+
+19
+
+SIGNATURES
+
+     Pursuant to the requirements of the Securities and Exchange Act of 1934,
+the Registrant has duly caused this report to be signed on its behalf by the
+undersigned, thereunto duly authorized, on this 21st day of March, 2006.
+
+STARTECH ENVIRONMENTAL CORPORATION
+                                          (Registrant)
+
+BY: /S/ Joseph F. Longo
+                                              -----------------------
+                                              Joseph F. Longo
+                                              Chairman, Chief Executive Officer,
+                                              President and Director
+
+                                          BY: /S/ Peter J. Scanlon
+                                              -----------------------
+                                              Peter J. Scanlon
+                                              Chief Financial Officer,
+                                              Secretary, Vice President, and
+                                              Principal Financial Officer
+
+     KNOW ALL PERSONS BY THESE PRESENTS, that each person whose signature
+appears below constitutes and appoints Joseph F. Longo and Peter J. Scanlon, or
+either of them, his or her attorneys-in-fact, for such person in any and all
+capacities, to sign any amendments to this report and to file the same, with
+exhibits thereto, and other documents in connection therewith, with the
+Securities and Exchange Commission, hereby ratifying and confirming all that
+either of said attorneys-in-fact, or substitute or substitutes, may do or cause
+to be done by virtue hereof.
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following person on behalf of the Company
+and in the capacities and on this 21st day of March 2006.
+
+SIGNATURES                        TITLE
+
+/s/ Joseph F. Longo               Chairman, Chief Executive Officer,
+- -------------------               President  & Director
+Joseph F. Longo
+
+/s/ John J. Fitzpatrick           Director
+- -----------------------
+John J. Fitzpatrick
+
+/s/ Joseph A. Equale              Director
+- --------------------
+Joseph A. Equale
+
+/s/ Nicholas S. Perna             Director
+- ---------------------
+Nicholas S. Perna
+
+/s/ L Scott Bernard               Director
+- -------------------
+L Scott Bernard
+
+20
+
+<EX-31.1>
+ 2
+ startech10631-1.txt
+ CERTIFICATION
+
+Exhibit 31.1
+
+I, Joseph F. Longo, certify that:
+
+1.   I have reviewed this quarterly report on Form 10-Q of Startech
+     Environmental Corporation;
+
+2.   Based on my knowledge, this report does not contain any untrue statement of
+     a material fact or omit to state a material fact necessary to make the
+     statements made, in light of the circumstances under which such statements
+     were made, not misleading with respect to the period covered by this
+     report;
+
+3.   Based on my knowledge, the financial statements, and other financial
+     information included in this report, fairly present in all material
+     respects the financial condition, results of operations and cash flows of
+     the registrant as of, and for, the periods presented in this report;
+
+4.   The registrant's other certifying officers and I are responsible for
+     establishing and maintaining disclosure controls and procedures (as defined
+     in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over
+     financial reporting (as defined in Exchange Act Rules 13a-15(f) and
+     15d-15(f)) for the registrant and have:
+
+     a.   Designed such disclosure controls and procedures, or caused such
+          disclosure controls and procedures to be designed under our
+          supervision, to ensure that material information relating to the
+          registrant, including its consolidated subsidiaries, is made known to
+          us by others within those entities, particularly during the period in
+          which this report is being prepared;
+
+     b.   Designed such internal control over financial reporting, or caused
+          such internal control over financial reporting to be designed under
+          our supervision, to provide reasonable assurance regarding the
+          reliability of financial reporting and the preparation of financial
+          statements for external purposes in accordance with generally accepted
+          accounting principles;
+
+     c.   Evaluated the effectiveness of the registrant's disclosure controls
+          and procedures and presented in this report our report about the
+          effectiveness of the disclosure controls and procedures, as of the end
+          of the period covered by this report based on such evaluation; and
+
+     d.   Disclosed in this report any change in the registrant's internal
+          control over financial reporting that occurred during the registrant's
+          most recent fiscal quarter that has materially affected, or is
+          reasonably likely to materially affect, the registrant's internal
+          control over financial reporting; and
+
+5.   The registrant's other certifying officer(s) and I have disclosed, based on
+     our most recent evaluation of internal control over financial reporting, to
+     the registrant's auditors and the audit committee of registrant's board of
+     directors (or persons performing the equivalent functions):
+
+     a.   All significant deficiencies and material weaknesses in the design or
+          operation of internal control over financial report which are
+          reasonably likely to adversely affect the registrant's ability to
+          record, process, summarize and report financial information; and
+
+     b.   Any fraud, whether or not material, that involves management or other
+          employees who have a significant role in the registrant's internal
+          control over financial reporting.
+
+Date: March 21, 2006
+
+By: /s/ Joseph F. Longo
+- -----------------------
+    Joseph F. Longo
+    Chairman, Chief Executive Officer and President
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ startech10631-2.txt
+ CERTIFICATION
+
+Exhibit 31.2
+
+I, Peter J. Scanlon, certify that:
+
+1.   I have reviewed this quarterly report on Form 10-Q of Startech
+     Environmental Corporation;
+
+2.   Based on my knowledge, this report does not contain any untrue statement of
+     a material fact or omit to state a material fact necessary to make the
+     statements made, in light of the circumstances under which such statements
+     were made, not misleading with respect to the period covered by this
+     report;
+
+3.   Based on my knowledge, the financial statements, and other financial
+     information included in this report, fairly present in all material
+     respects the financial condition, results of operations and cash flows of
+     the registrant as of, and for, the periods presented in this report;
+
+4.   The registrant's other certifying officers and I are responsible for
+     establishing and maintaining disclosure controls and procedures (as defined
+     in Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over
+     financial reporting (as defined in Exchange Act Rules 13a-15(f) and
+     15d-15(f)) for the registrant and have:
+
+     a.   Designed such disclosure controls and procedures, or caused such
+          disclosure controls and procedures to be designed under our
+          supervision, to ensure that material information relating to the
+          registrant, including its consolidated subsidiaries, is made known to
+          us by others within those entities, particularly during the period in
+          which this report is being prepared;
+
+     b.   Designed such internal control over financial reporting, or caused
+          such internal control over financial reporting to be designed under
+          our supervision, to provide reasonable assurance regarding the
+          reliability of financial reporting and the preparation of financial
+          statements for external purposes in accordance with generally accepted
+          accounting principles;
+
+     c.   Evaluated the effectiveness of the registrant's disclosure controls
+          and procedures and presented in this report our report about the
+          effectiveness of the disclosure controls and procedures, as of the end
+          of the period covered by this report based on such evaluation; and
+
+     d.   Disclosed in this report any change in the registrant's internal
+          control over financial reporting that occurred during the registrant's
+          most recent fiscal quarter that has materially affected, or is
+          reasonably likely to materially affect, the registrant's internal
+          control over financial reporting; and
+
+5.   The registrant's other certifying officer(s) and I have disclosed, based on
+     our most recent evaluation of internal control over financial reporting, to
+     the registrant's auditors and the audit committee of registrant's board of
+     directors (or persons performing the equivalent functions):
+
+     a.   All significant deficiencies and material weaknesses in the design or
+          operation of internal control over financial report which are
+          reasonably likely to adversely affect the registrant's ability to
+          record, process, summarize and report financial information; and
+
+     b.   Any fraud, whether or not material, that involves management or other
+          employees who have a significant role in the registrant's internal
+          control over financial reporting.
+
+Date: March 21, 2006
+
+By: /s/ Peter J. Scanlon
+- ------------------------
+    Peter J. Scanlon
+    Chief Financial Officer, Treasurer and Secretary
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ startech10632-1.txt
+ CERTIFICATION
+
+Exhibit 32.1
+
+                            CERTIFICATION PURSUANT TO
+                             18 U.S.C. SECTION 1350,
+                             AS ADOPTED PURSUANT TO
+                  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Quarter Report of Startech Environmental Corporation (the
+"Company") on Form 10-Q for the quarter ended January 31, 2006 as filed with the
+Securities and Exchange Commission on the date hereof (the "Report"), I, Joseph
+F. Longo, Chairman, Chief Executive Officer and President of the Company,
+certify, pursuant to 18 U.S.C. ss.1350, as adopted pursuant to ss.906 of the
+Sarbanes-Oxley Act of 2002, that:
+
+     (1)  The Report fully complies with the requirements of section 13(a) or
+          15(d) of the Securities Exchange Act of 1934; and
+
+     (2)  The information contained in the Report fairly presents, in all
+          material respects, the financial condition and results of operations
+          of the Company.
+
+By: /s/ Joseph F. Longo
+- -----------------------
+    Joseph F. Longo
+    Chairman, Chief Executive Officer and President
+    March 21, 2006
+
+The foregoing certification is being furnished solely pursuant to 18 U.S.C.
+ss.1350 and is not being filed as part of the Report or as a separate disclosure
+document.
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ startech10632-2.txt
+ CERTIFICATION
+
+Exhibit 32.2
+
+                            CERTIFICATION PURSUANT TO
+                             18 U.S.C. SECTION 1350,
+                             AS ADOPTED PURSUANT TO
+                  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Quarterly Report of Startech Environmental Corporation
+(the "Company") on Form 10-Q for the quarter ended January 31, 2006 as filed
+with the Securities and Exchange Commission on the date hereof (the "Report"),
+I, Peter J. Scanlon, Chief Financial Officer, Treasurer and Secretary of the
+Company, certify, pursuant to 18 U.S.C. ss.1350, as adopted pursuant to ss.906
+of the Sarbanes-Oxley Act of 2002, that:
+
+     (1)  The Report fully complies with the requirements of section 13(a) or
+          15(d) of the Securities Exchange Act of 1934; and
+
+     (2)  The information contained in the Report fairly presents, in all
+          material respects, the financial condition and results of operations
+          of the Company.
+
+By: /s/ Peter J. Scanlon
+- ------------------------
+    Peter J. Scanlon
+    Chief Financial Officer, Treasurer and Secretary
+    March 21, 2006
+
+The foregoing certification is being furnished solely pursuant to 18 U.S.C.
+ss.1350 and is not being filed as part of the Report or as a separate disclosure
+document.
+
+</EX-32.2>
+

@@ -1,0 +1,1354 @@
+<Header>
+<FileStats>
+    <FileName>20060317_10-Q_edgar_data_39020_0000039020-06-000012_1.txt</FileName>
+    <GrossFileSize>84231</GrossFileSize>
+    <NetFileSize>71080</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>230</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>7</N_Tables>
+    <N_Exhibits>0</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000039020-06-000012.hdr.sgml : 20060317
+<ACCEPTANCE-DATETIME>20060317155601
+ACCESSION NUMBER:		0000039020-06-000012
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20060131
+FILED AS OF DATE:		20060317
+DATE AS OF CHANGE:		20060317
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FREQUENCY ELECTRONICS INC
+		CENTRAL INDEX KEY:			0000039020
+		STANDARD INDUSTRIAL CLASSIFICATION:	INSTRUMENTS FOR MEAS & TESTING OF ELECTRICITY & ELEC SIGNALS [3825]
+		IRS NUMBER:				111986657
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0430
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-08061
+		FILM NUMBER:		06695942
+
+	BUSINESS ADDRESS:	
+		STREET 1:		55 CHARLES LINDBERGH BLVD
+		CITY:			MITCHEL FIELD
+		STATE:			NY
+		ZIP:			11553
+		BUSINESS PHONE:		5167944500
+
+	MAIL ADDRESS:	
+		STREET 1:		55 CHARLES LINDBERGH BOULEVARD
+		CITY:			MITCHELL FIELD
+		STATE:			NY
+		ZIP:			11553
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ O6BYz8xOuEsc65j93ezE/5RfHUSIwxQdNi6EeAr22AgeFmPxvXBI5ampHPGI0G4w
+ p8mB5nARr4aOhg4f56OEOg==
+
+ 0000039020-06-000012.txt : 20060317
+
+10-Q
+ 1
+ fy06q3form10q.txt
+ FISCAL YEAR 2006 THIRD QUARTER FORM 10-Q
+
+UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 10-Q
+
+(Mark one)
+
+            [X]  QUARTERLY REPORT PURSUANT TO SECTION 13 or 15 (d) OF THE
+                 SECURITIES EXCHANGE ACT OF 1934
+                     For the Quarterly Period ended January 31, 2006
+
+                                       OR
+            [ ]  TRANSITION REPORT PURSUANT TO SECTION 13 or 15 (d) OF THE
+                 SECURITIES EXCHANGE ACT OF 1934
+                     For the transition period from __________ to __________
+
+Commission File No. 1-8061
+
+FREQUENCY ELECTRONICS, INC.
+             (Exact name of Registrant as specified in its charter)
+
+Delaware                                     11-1986657
+(State or other jurisdiction of            (I.R.S. Employer Identification No.)
+incorporation or organization)
+
+55 CHARLES LINDBERGH BLVD., MITCHEL FIELD, N.Y.             11553
+   (Address of principal executive offices)              (Zip Code)
+
+Registrant's telephone number, including area code: 516-794-4500
+
+Indicate by check mark whether the Registrant (1) has filed all reports required
+to be filed  by  Section  13 or 15 (d) of the  Securities  Exchange  Act of 1934
+during the preceding 12 months (or for such shorter  period that the  Registrant
+was  required  to file such  reports),  and (2) has been  subject to such filing
+requirements for the past 90 days. Yes X No __
+
+Indicate by check mark whether the registrant is a large  accelerated  filer, an
+accelerated  filer, or a  non-accelerated  filer. See definition of "accelerated
+filer and large  accelerated  filer" in Rule 12b-2 of the Exchange  Act.  (Check
+one):
+
+Large accelerated filer ____  Accelerated filer ____  Non-accelerated filer__X__
+
+Indicate by check mark whether the registrant is a shell company (as defined in
+Rule 12b-2 of the Exchange Act).
+
+                           Yes ____ No ____
+
+                      APPLICABLE ONLY TO CORPORATE ISSUERS:
+
+The number of shares  outstanding of Registrant's  Common Stock, par value $1.00
+as of March 10, 2006 - 8,551,527
+
+                                  Page 1 of 24
+
+FREQUENCY ELECTRONICS, INC. and SUBSIDIARIES
+
+                                      INDEX
+
+Part I.  Financial Information:                                        Page No.
+
+ Item 1 - Financial Statements:
+
+     Condensed Consolidated Balance Sheets -
+         January 31, 2006 and April 30, 2005                              3-4
+
+     Condensed Consolidated Statements of Operations
+         Nine Months Ended January 31, 2006 and 2005                       5
+
+     Condensed Consolidated Statements of Operations
+         Three Months Ended January 31, 2006 and 2005                      6
+
+     Condensed Consolidated Statements of Cash Flows
+         Nine Months Ended January 31, 2006 and 2005                       7
+
+     Notes to Condensed Consolidated Financial Statements                 8-11
+
+ Item 2 - Management's Discussion and Analysis of
+         Financial Condition and Results of Operations                   12-18
+
+ Item 3- Quantitative and Qualitative Disclosures about Market Risk       18
+
+ Item 4- Controls and Procedures                                         18-19
+
+Part II.  Other Information:
+
+ Items 1, 2, 3, 4 and 5 are omitted because they are not applicable
+
+ Item 6 - Exhibits                                                        19
+
+ Signatures                                                               20
+
+ Exhibits                                                                21-24
+
+FREQUENCY ELECTRONICS, INC. and SUBSIDIARIES
+
+                      Condensed Consolidated Balance Sheets
+
+January 31,       April 30,
+                                                       2006             2005
+                                                       ----             ----
+                                                   (UNAUDITED)        (NOTE A)
+                                                           (In thousands)
+
+ASSETS:
+
+Current assets:
+
+ Cash and cash equivalents                          $  4,166          $  6,701
+
+ Marketable securities                                22,161            23,532
+
+ Accounts receivable, net of allowance
+   for doubtful accounts of $282 at
+   January 31, 2006 and $172 at April 30, 2005        14,850            12,728
+
+ Inventories                                          23,445            22,948
+
+ Deferred income taxes                                 3,057             2,269
+
+ Prepaid expenses and other                            1,154             1,362
+                                                    --------          --------
+
+        Total current assets                          68,833            69,540
+
+Property, plant and equipment, at cost,
+  less accumulated depreciation and
+  amortization                                        6,187             6,770
+
+Deferred income taxes                                 2,710             2,644
+
+Cash surrender value of life insurance                6,198             5,838
+
+Goodwill and other Intangible assets, net               533               591
+
+Other assets                                          3,427             2,991
+                                                    -------           -------
+
+           Total assets                             $87,888           $88,374
+                                                    =======           =======
+
+See accompanying notes to condensed consolidated
+                             financial statements.
+
+FREQUENCY ELECTRONICS, INC. and SUBSIDIARIES
+
+                Condensed Consolidated Balance Sheets (Continued)
+
+January 31,        April 30,
+                                                       2006             2005
+                                                       ----             ----
+                                                    (UNAUDITED)       (NOTE A)
+                                                           (In thousands)
+
+LIABILITIES AND STOCKHOLDERS' EQUITY:
+
+Current liabilities:
+  Short-term credit obligations                      $ 1,000         $     -
+  Accounts payable - trade                             2,082           1,896
+  Accrued liabilities and other                        4,021           3,912
+  Income taxes payable                                 1,232           3,184
+  Dividend payable                                         -             852
+                                                     -------         -------
+      Total current liabilities                        8,335           9,844
+
+Deferred compensation                                  8,020           7,812
+Deferred gain and other liabilities                    1,049           1,525
+                                                     -------         -------
+
+      Total liabilities                               17,404          19,181
+                                                     -------         -------
+
+Stockholders' equity:
+  Preferred stock  - $1.00 par value                       -               -
+  Common stock  -  $1.00 par value                     9,164           9,164
+  Additional paid-in capital                          45,523          45,289
+  Retained earnings                                   15,308          12,440
+                                                     -------         -------
+                                                      69,995          66,893
+  Common stock reacquired and held in treasury
+    -at cost, 616,413 shares at January 31, 2006
+     and 646,709 shares at April 30, 2005             (2,511)         (2,601)
+  Accumulated other comprehensive income               3,000           4,901
+                                                     -------         -------
+      Total stockholders' equity                      70,484          69,193
+                                                     -------         -------
+      Total liabilities and stockholders' equity     $87,888         $88,374
+                                                     =======         =======
+
+See accompanying notes to condensed consolidated
+                             financial statements.
+
+FREQUENCY ELECTRONICS, INC. and SUBSIDIARIES
+
+                 Consolidated Condensed Statements of Operations
+
+                          Nine Months Ended January 31,
+                                   (Unaudited)
+
+                                                   2006               2005
+                                                   ----               ----
+                                            (In thousands except per share data)
+
+Net sales                                        $37,668           $43,266
+Cost of sales                                     24,011            28,537
+                                                 -------           -------
+        Gross margin                              13,657            14,729
+
+Selling and administrative expenses                8,154             8,759
+Research and development expenses                  4,124             4,850
+                                                 -------           -------
+        Operating profit                           1,379             1,120
+
+Other income (expense):
+     Investment income                             2,951             1,219
+     Equity in Morion                                423               225
+     Interest expense                                (83)             (248)
+     Other income, net                               928                29
+                                                 -------           -------
+
+Income before minority interest and
+     provision for income taxes                    5,598             2,345
+
+Minority interest in loss of
+    consolidated subsidiary                            -                (1)
+                                                 -------           -------
+
+Income before provision for income taxes           5,598             2,346
+
+Provision for income taxes                         1,876               830
+                                                 -------           -------
+
+     Net income                                  $ 3,722           $ 1,516
+                                                 =======           =======
+
+Net income per common share
+     Basic                                       $ 0.44            $ 0.18
+                                                 ======            ======
+     Diluted                                     $ 0.43            $ 0.17
+                                                 ======            ======
+
+Average shares outstanding
+     Basic                                      8,530,926         8,473,679
+                                                =========         =========
+     Diluted                                    8,668,685         8,682,099
+                                                =========         =========
+
+See accompanying notes to consolidated condensed
+                             financial statements.
+
+FREQUENCY ELECTRONICS, INC. and SUBSIDIARIES
+
+                 Condensed Consolidated Statements of Operations
+
+                         Three Months Ended January 31,
+                                   (Unaudited)
+
+                                                   2006               2005
+                                                   ----               ----
+                                            (In thousands except per share data)
+
+Net sales                                         $15,113            $11,222
+Cost of sales                                       9,651              7,529
+                                                  -------            -------
+        Gross margin                                5,462              3,693
+
+Selling and administrative expenses                 3,077              2,567
+Research and development expense                    1,173              2,025
+                                                  -------            -------
+        Operating profit (loss)                     1,212               (899)
+
+Other income (expense):
+     Investment income                                285                390
+     Equity in Morion                                 194                 97
+     Interest expense                                 (24)               (97)
+     Other income (expense), net                      161                (29)
+                                                  -------            -------
+Income (Loss) before provision (benefit)
+     for income taxes                               1,828               (538)
+
+Provision (Benefit) for income taxes                  580               (170)
+                                                  -------            -------
+        Net income (loss)                         $ 1,248            $  (368)
+                                                  =======            =======
+
+Net income (loss) per common share
+        Basic                                     $ 0.15             $(0.04)
+                                                  ======             ======
+        Diluted                                   $ 0.14             $(0.04)
+                                                  ======             ======
+
+Average shares outstanding
+        Basic                                    8,541,519          8,499,274
+                                                 =========          =========
+        Diluted                                  8,674,434          8,499,274
+                                                 =========          =========
+
+See accompanying notes to condensed consolidated
+                             financial statements.
+
+FREQUENCY ELECTRONICS, INC. and SUBSIDIARIES
+
+                 Condensed Consolidated Statements of Cash Flows
+
+                          Nine Months Ended January 31,
+                                   (Unaudited)
+
+2006             2005
+                                                        ----             ----
+                                 (In thousands)
+
+Cash flows from operating activities:
+  Net income                                          $ 3,722          $ 1,516
+  Non-cash charges to earnings                         (1,346)           2,387
+  Net changes in other assets and liabilities          (4,224)            (113)
+                                                      -------          -------
+Net cash (used in) provided by operating activities    (1,848)           3,790
+                                                      -------          -------
+
+Cash flows from investing activities:
+  Payment for acquisitions                               (103)            (974)
+  Proceeds from sale of marketable securities          12,818            3,525
+  Purchase of marketable securities                   (11,518)          (4,905)
+  Purchase of fixed assets                             (1,260)          (1,140)
+  Other - net                                               -               70
+                                                      -------          -------
+Net cash used in investing activities                     (63)          (3,424)
+                                                      -------          -------
+
+Cash flows from financing activities:
+  Proceeds from short-term credit obligations           1,000            1,547
+  Payment of cash dividend                             (1,706)          (1,692)
+  Payment on long-term obligations                         (9)          (1,954)
+  Other - net                                              26              174
+                                                      -------          -------
+Net cash used in financing activities                    (689)          (1,925)
+                                                      -------          -------
+
+Net decrease in cash and cash equivalents
+  before effect of exchange rate changes               (2,600)          (1,559)
+
+Effect of exchange rate changes
+  on cash and cash equivalents                             65              255
+                                                      -------          -------
+
+  Net decrease in cash                                 (2,535)          (1,304)
+
+  Cash at beginning of period                           6,701            5,699
+                                                      -------          -------
+
+  Cash at end of period                               $ 4,166          $ 4,395
+                                                      =======          =======
+
+See accompanying notes to condensed consolidated
+                             financial statements.
+
+FREQUENCY ELECTRONICS, INC. and SUBSIDIARIES
+
+              Notes to Condensed Consolidated Financial Statements
+                                   (Unaudited)
+
+NOTE A - CONSOLIDATED FINANCIAL STATEMENTS
+
+     In the opinion of management  of the Company,  the  accompanying  unaudited
+condensed  consolidated  interim  financial  statements  reflect all adjustments
+(which include only normal recurring  adjustments)  necessary to present fairly,
+in all material respects,  the consolidated financial position of the Company as
+of January  31, 2006 and the  results of its  operations  and cash flows for the
+nine and three  months  ended  January  31,  2006 and 2005.  The April 30,  2005
+condensed   consolidated  balance  sheet  was  derived  from  audited  financial
+statements.  Certain information and footnote  disclosures  normally included in
+financial  statements  prepared in accordance with generally accepted accounting
+principles have been condensed or omitted.  It is suggested that these condensed
+consolidated  financial  statements  be read in  conjunction  with the financial
+statements  and notes thereto  included in the  Company's  April 30, 2005 Annual
+Report to  Stockholders.  The results of operations for such interim periods are
+not necessarily indicative of the operating results for the full year.
+
+NOTE B - EARNINGS PER SHARE
+
+     Reconciliation  of the weighted  average shares  outstanding  for basic and
+diluted Earnings Per Share are as follows:
+
+***  Dilutive  securities  are  excluded  for the three month  period ended
+     January 31, 2005 since the  inclusion of such shares would be  antidilutive
+     due to the net loss for the period then ended.
+
+     The  computation of diluted  earnings per share excludes those options with
+an exercise price in excess of the average market price of the Company's  common
+shares  during the  periods  presented.  The  inclusion  of such  options in the
+computation  of earnings per share would have been  antidilutive.  The number of
+excluded options were:
+                                        Nine months              Three months
+                                               Periods ended January 31,
+                                    2006         2005         2006         2005
+                                    ----         ----         ----         ----
+Outstanding Options excluded      570,550      505,550      570,550      325,550
+                                  =======      =======      =======      =======
+
+NOTE C - ACCOUNTS RECEIVABLE
+
+     Accounts  receivable  at January 31, 2006 and April 30, 2005 include  costs
+and estimated earnings in excess of billings on uncompleted  contracts accounted
+for on the  percentage  of  completion  basis of  approximately  $2,686,000  and
+$4,138,000, respectively. Such amounts represent revenue recognized on long-term
+contracts that had not been billed at the balance sheet dates.  Such amounts are
+billed pursuant to contract terms.
+
+NOTE D - INVENTORIES
+
+     Inventories,   which  are  reported  net  of  reserves  of  $4,393,000  and
+$4,289,000 at January 31, 2006 and April 30, 2005, respectively,  consist of the
+following:
+
+                                          January 31, 2006       April 30, 2005
+                                                      (In thousands)
+
+ Raw materials and Component parts             $11,010              $10,353
+ Work in progress                               12,435               12,595
+                                               -------              -------
+                                               $23,445              $22,948
+                                               =======              =======
+
+FREQUENCY ELECTRONICS, INC. and SUBSIDIARIES
+
+              Notes to Condensed Consolidated Financial Statements
+                                   (Unaudited)
+
+NOTE E- RELATED PARTY TRANSACTION
+
+     During the nine  months  ended  January  31,  2006,  the  Company  sold the
+remaining  building  formerly owned by its French subsidiary to the president of
+Gillam-FEI.  The sale price of the building was  approximately  $990,000 and was
+based upon an independent  appraisal of the building.  The Company  recognized a
+gain of approximately $680,000 on the sale.
+
+NOTE F - -COMPREHENSIVE INCOME
+
+     For the nine months  ended  January  31, 2006 and 2005 total  comprehensive
+income was  $1,821,000 and  $4,507,000,  respectively.  Comprehensive  income is
+composed  of net  income  or loss for the  period  plus the  impact  of  foreign
+currency  translation  adjustments and the change in the valuation  allowance on
+marketable securities.
+
+NOTE G - EQUITY-BASED COMPENSATION
+
+     The Company applies the disclosure-only  provisions of FAS 123, "Accounting
+for  Stock-Based   Compensation,"  as  amended  by  FAS  148,   "Accounting  for
+Stock-Based  Compensation - Transition and Disclosure," and continues to measure
+compensation cost in accordance with Accounting Principles Board Opinion No. 25,
+"Accounting for Stock Issued to Employees." Historically,  this has not resulted
+in  compensation  cost upon the grant of options under a qualified  stock option
+plan.  However,  in accordance  with FAS 123, as amended by FAS 148, the Company
+provides pro forma  disclosures of net earnings  (loss) and earnings  (loss) per
+share as if the fair value method had been applied beginning in fiscal 1996.
+
+     The following table  illustrates  the effect on the Company's  consolidated
+statements of operations had compensation cost for stock option awards under the
+plans been determined based on the fair value at the grant dates consistent with
+the provisions of FAS 123 as amended by FAS 148:
+
+The weighted  average  fair value of each option has been  estimated on the
+date of grant using the  Black-Scholes  options pricing model with the following
+weighted  average  assumptions  used for  grants in fiscal  years 2006 and 2005:
+dividend yield of 1.83%;  expected volatility of 59%; risk free interest rate of
+3.9%; and expected lives of six and one-half years.
+
+FREQUENCY ELECTRONICS, INC. and SUBSIDIARIES
+
+              Notes to Condensed Consolidated Financial Statements
+                                   (Unaudited)
+
+NOTE H - SEGMENT INFORMATION
+
+The Company operates under four reportable segments:
+     (1)  Commercial Communications - consists principally of time and frequency
+          control   products   used  in  two   principal   markets-   commercial
+          communication  satellites and terrestrial  cellular telephone or other
+          ground-based telecommunication stations.
+     (2)  U.S. Government - consists of time and frequency control products used
+          for national defense or space-related programs.
+     (3)  Gillam-FEI - the Company's Belgian subsidiary primarily sells wireline
+          synchronization  and network monitoring  systems.
+     (4)  FEI-Zyfer  - the  products  of the  Company's  subsidiary  incorporate
+          Global   Positioning   System  (GPS)  technologies  into  systems  and
+          subsystems for secure communications,  both government and commercial,
+          and other locator applications.
+
+     The  table  below  presents   information   about  reported  segments  with
+reconciliation  of segment  amounts to  consolidated  amounts as reported in the
+statement  of  operations  or the  balance  sheet  for each of the  periods:
+ 
+                                                       (in thousands)
+                                            January 31, 2006    April 30, 2005
+                                            ----------------    --------------
+  Identifiable assets:
+      Commercial Communications                   $31,303            $26,261
+      U.S. Government                               5,505              6,245
+      Gillam-FEI                                   12,243             13,877
+      FEI-Zyfer                                     4,876              4,796
+      less intercompany balances                  (10,431)            (9,892)
+      Corporate                                    44,392             47,087
+                                                  -------            -------
+         Consolidated Identifiable Assets         $87,888            $88,374
+                                                  =======            =======
+
+FREQUENCY ELECTRONICS, INC. and SUBSIDIARIES
+
+              Notes to Condensed Consolidated Financial Statements
+                                   (Unaudited)
+
+NOTE I - RECENTLY ISSUED ACCOUNTING PRONOUNCEMENTS
+
+     In November  2004,  the FASB issued  Statement No. 151  "Inventory  Costs."
+("FAS 151") This statement amends  Accounting  Research Bulletin No. 43, Chapter
+4,  "Inventory  Pricing"  and removes  the "so  abnormal"  criterion  that under
+certain  circumstances  could have led to the capitalization of these items. FAS
+151 requires that idle facility  expense,  excess  spoilage,  double freight and
+re-handling costs be recognized as current-period  charges regardless of whether
+they meet the criterion of "so abnormal." FAS 151 also requires that  allocation
+of fixed production overhead expenses to the costs of conversion be based on the
+normal capacity of the production  facilities.  The provisions of this statement
+are effective for fiscal years beginning after June 15, 2005; i.e.,  fiscal year
+2007 for the Company. The adoption of FAS 151 is not expected to have a material
+impact on the Company's financial position or results of operations.
+
+     In  December  2004,  the FASB issued  Statement  No.  123(R),  "Stock-Based
+Payment" ("FAS 123(R)").  FAS 123(R) supercedes APB Opinion No. 25,  "Accounting
+for Stock  Issued to  Employees,"  and  amends FAS No.  95,  "Statement  of Cash
+Flows."  Generally,  the  approach  in FAS  123(R) is  similar  to the  approach
+described in FAS 123. FAS 123(R)  establishes  standards for the  accounting for
+transactions  in which an entity  exchanges its equity  instruments for goods or
+services.  This statement  focuses  primarily on accounting for  transactions in
+which an entity obtains employee services in share-based  payment  transactions.
+FAS 123(R) requires that the fair value of such equity instruments be recognized
+as an expense in the historical  financial statements as services are performed.
+Prior to FAS  123(R),  only  certain  pro forma  disclosures  of fair value were
+required.  The  provisions  of this  statement  are  effective  for fiscal years
+beginning  after June 15,  2005;  i.e.,  fiscal year 2007 for the  Company.  The
+adoption of FAS 123(R) will have an impact on the Company's  financial  position
+and  results  of  operations   similar  to  the  pro  forma  disclosure  in  the
+Equity-based Compensation disclosure in Note G.
+
+     In  December  2004,  the  FASB  issued  Statement  No.  153,  "Exchange  of
+Non-monetary  Assets",  ("FAS 153") an amendment of Accounting  Principles Board
+Opinion No. 29 ("APB 29"),  which  differed  from the  International  Accounting
+Standards  Board's  ("IASB")  method of  accounting  for  exchanges  of  similar
+productive assets. FAS 153 replaces the exception from fair value measurement in
+APB 29, with a general  exception from fair value  measurement  for exchanges of
+non-monetary assets that do not have commercial  substance.  The statement is to
+be applied  prospectively  and is effective  for  non-monetary  asset  exchanges
+occurring in fiscal periods  beginning after June 15, 2005; i.e., August 1, 2005
+for the  Company.  The  adoption  of FAS 153 is not  expected to have a material
+impact on the Company's financial position or result of operations.
+
+     In May 2005,  the FASB issued  Statement No. 154,  "Accounting  Changes and
+Error  Corrections - a replacement  of APB Opinion No. 20 and FASB Statement No.
+3." ("FAS  154") This  Statement  requires  retrospective  application  to prior
+period financial statements of a voluntary change in accounting principle unless
+it is  impracticable  and is effective for fiscal years beginning after December
+15, 2005.  Previously,  most  voluntary  changes in  accounting  principle  were
+recognized by including in net income of the period of the change the cumulative
+effect of changing to the new accounting principle. The Company will comply with
+the  provisions  of  FAS  154  although  the  impact  of  such  adoption  is not
+determinable at this time.
+
+FREQUENCY ELECTRONICS, INC. and SUBSIDIARIES
+
+              Notes to Condensed Consolidated Financial Statements
+                                   (Unaudited)
+
+                                     Item 2
+
+Management's Discussion and Analysis of Financial Condition and Results of
+Operations
+
+        "Safe Harbor" Statement under the Private Securities Litigation
+                              Reform Act of 1995:
+
+     The  statements  in this  quarterly  report on Form 10-Q  regarding  future
+earnings and operations and other statements  relating to the future  constitute
+"forward-looking"  statements  pursuant  to the safe  harbor  provisions  of the
+Private  Securities  Litigation Reform Act of 1995.  Forward-looking  statements
+inherently  involve risks and  uncertainties  that could cause actual results to
+differ materially from the forward-looking statements.  Factors that would cause
+or contribute to such  differences  include,  but are not limited to,  continued
+acceptance of the Company's  products in the marketplace,  competitive  factors,
+new products and technological  changes,  product prices and raw material costs,
+dependence  upon  third-party  vendors,  competitive  developments,  changes  in
+manufacturing  and  transportation  costs,  changes in  contractual  terms,  the
+availability  of capital,  and other risks  detailed in the  Company's  periodic
+report  filings with the  Securities  and Exchange  Commission.  By making these
+forward-looking statements, the Company undertakes no obligation to update these
+statements for revisions or changes after the date of this report.
+
+Critical Accounting Policies and Estimates
+- ------------------------------------------
+     The Company's  significant  accounting  policies are described in Note 1 to
+the consolidated  financial  statements included in the Company's April 30, 2005
+Annual Report to Stockholders. The Company believes its most critical accounting
+policies to be the recognition of revenue and costs on production  contracts and
+the valuation of inventory. Each of these areas requires the Company to make use
+of reasoned estimates including estimating the cost to complete a contract,  the
+realizable  value of its inventory or the market value of its products.  Changes
+in estimates can have a material impact on the Company's  financial position and
+results of operations.
+
+      Revenue Recognition
+      -------------------
+     Revenues under larger, long-term contracts,  generally defined as orders in
+excess of $100,000,  are reported in operating  results using the  percentage of
+completion  method.  For U.S.  Government and other  fixed-price  contracts that
+require initial design and development of the product,  revenue is recognized on
+the cost-to-cost method.  Under this method,  revenue is recorded based upon the
+ratio that incurred  costs bear to total  estimated  contract costs with related
+cost of sales recorded as the costs are incurred.  Each month management reviews
+estimated contract costs. The effect of any change in the estimated gross margin
+percentage  for a contract is  reflected  in revenues in the period in which the
+change is known.  Provisions for anticipated losses on contracts are made in the
+period in which they become determinable.
+
+     On  production-type  contracts,  revenue is recorded as units are delivered
+with  the  related  cost of  sales  recognized  on each  shipment  based  upon a
+percentage of estimated  final contract  costs.  Changes in job  performance may
+result in  revisions  to costs and  income and are  recognized  in the period in
+which revisions are determined to be required. Provisions for anticipated losses
+on contracts are made in the period in which they become determinable.
+
+     For contracts in the Company's  Gillam-FEI and FEI-Zyfer segments,  smaller
+contracts  or orders in the other  business  segments  and sales of products and
+services to customers  are reported in operating  results based upon shipment of
+the product or performance of the services  pursuant to contractual  terms. When
+payment is contingent upon customer acceptance of the installed system,  revenue
+is deferred until such acceptance is received and installation completed.
+
+      Costs and Expenses
+      ------------------
+     Contract  costs include all direct  material,  direct labor,  manufacturing
+overhead  and other  direct  costs  related to  contract  performance.  Selling,
+general and administrative costs are charged to expense as incurred.
+
+FREQUENCY ELECTRONICS, INC. and SUBSIDIARIES
+                                   (Continued)
+
+      Inventory
+      ---------
+     In accordance  with industry  practice,  inventoried  costs contain amounts
+relating to contracts and programs  with long  production  cycles,  a portion of
+which will not be realized within one year.  Inventory  reserves are established
+for  slow-moving and obsolete items and are based upon  management's  experience
+and  expectations  for future  business.  Any changes in reserves  arising  from
+revised  expectations  are reflected in cost of sales in the period the revision
+is made.
+
+RESULTS OF OPERATIONS
+
+     The table below sets forth for the respective  periods of fiscal years 2006
+and 2005 the percentage of consolidated  net sales  represented by certain items
+in the Company's consolidated statements of operations:
+
+(Note: All dollar amounts in following tables are in thousands,
+                    except Net Sales which are in millions)
+
+Operating Profit
+- ----------------
+           Nine months                             Three months
+                        Periods ended January 31,
+    2006      2005       Change            2006       2005       Change
+    ----      ----       ------            ----       ----       ------
+   $1,379    $1,120    $259    23%        $1,212     ($899)   $2,111   NM
+
+     The 23% increase in operating profits for the nine months ended January 31,
+2006  compared  to the same  period  of  fiscal  year  2005 is the  result of an
+improved  gross  margin rate and reduced  selling and  administrative  costs and
+research and development expenses during fiscal year 2006. For the quarter ended
+January 31, 2006, the $2.1 million  increase in operating  profits over the same
+period of fiscal year 2005,  is due to the 35%  increase in  revenues,  improved
+gross margin and lower research and  development  spending  partially  offset by
+higher selling and  administrative  expenses,  as discussed  below.  The Company
+expects fiscal year 2006 operating profits to exceed the prior year based on its
+revenue backlog and the cost structure currently in place.
+
+FREQUENCY ELECTRONICS, INC. and SUBSIDIARIES
+                                   (Continued)
+
+Net income
+- ----------
+           Nine months                           Three months
+                        Periods ended January 31,
+    2006      2005       Change            2006       2005       Change
+    ----      ----       ------            ----       ----       ------
+   $3,722    $1,516   $2,206   146%       $1,248     ($368)   $1,616   NM
+
+     The  improvement  in net income in the fiscal year 2006 periods is directly
+attributable to increased operating profits. In addition,  during the nine month
+period ended January 31, 2006, the Company recorded an aggregate of $2.8 million
+in pretax gains on the sale of certain assets.  During the first two quarters of
+fiscal year 2006,  the  Company  realized  gains of $2.1  million on the sale of
+certain  marketable  securities  that were obtained upon the  conversion of REIT
+units for the common stock of Reckson  Associates  Realty Corp.  ("REIT stock").
+(Refer to Item 2 of the  Company's  fiscal year 2005 Form 10-K as filed with the
+Securities  and  Exchange  Commission.)  In addition,  in the second  quarter of
+fiscal year 2006, the Company recorded a gain of  approximately  $680,000 on the
+sale of real property as discussed in Note E to the financial statements.
+
+Net sales
+- ---------                                            (in millions)
+
+The decline in revenue  for the nine month  period  ended  January 31, 2006
+compared to the same period of fiscal  year 2005 is due  principally  to reduced
+capital spending in the wireless  infrastructure  industry as end-users  delayed
+deployment of next-generation  cellular base stations.  Although revenues during
+the third quarter of fiscal year 2006 were higher  sequentially  and as compared
+to the same period of fiscal year 2005,  they did not reach the levels  attained
+in the first half of fiscal year 2005. This reduction directly impacted revenues
+in   the   Commercial   Communications   segment.   Reduced   telecommunications
+infrastructure  spending in Europe  similarly  impacted the Gillam-FEI  segment.
+During the third  quarter of fiscal  year 2006,  the  Commercial  Communications
+segment recognized  increased revenue from recently awarded commercial satellite
+orders as well as increased  revenue  from the wireless  industry as compared to
+the three month period ended  January 31, 2005.  Additional  revenue was derived
+from  US  Government   programs  as  the  Company   continued  work  on  several
+developmental,  pre-production  programs  under  US  Government  contracts.  The
+Company's  FEI-Zyfer  segment,  which  derives  approximately  two-thirds of its
+revenues from government  sources,  also saw revenues increase with increased US
+Government  buying. The Company expects fiscal year 2006 fourth quarter revenues
+to  similarly  exceed  fiscal year 2005  fourth  quarter  revenues  based on its
+current backlog and new bookings, principally in the commercial satellite and US
+Government industries.
+
+Gross margin
+- ------------
+                 Nine months                          Three months
+                                Periods ended January 31,
+         2006       2005         Change         2006      2005        Change
+         ----       ----         ------         ----      ----        ------
+       $13,657    $14,729    ($1,072) (7%)     $5,462    $3,693    $1,769  48%
+
+GM Rate  36.3%      34.0%                       36.1%     32.9%
+
+     The decline in gross  margin for the nine months  ended  January 31,  2006,
+compared to the same period of fiscal year 2005, is due to lower revenues and is
+offset by the  improved  gross margin  rate.  The improved  gross margin for the
+third quarter of fiscal year 2006 compared to the three months ended January 31,
+2005, is due to both increased  sales volume and the improved gross margin rate.
+Variations  in gross  margin  rates are  attributable  to both sales  volume and
+product mix. In particular,  the Gillam-FEI  segment  realized higher margins in
+fiscal year 2006 on certain of its network monitoring programs. This
+
+FREQUENCY ELECTRONICS, INC. and SUBSIDIARIES
+                                   (Continued)
+
+improvement  was offset by lower margins in the Company's US Government  segment
+where  the  Company  continued  work on  several  developmental,  pre-production
+programs under US Government contracts. Gross margin rates, while improving, are
+lower  than the  Company's  target  of 40%.  With  further  increases  in sales,
+including conversion of the US Government  developmental  contracts into initial
+low-rate  production  orders,  the Company  expects to realize  improving  gross
+margin rates in future periods.
+
+Selling and administrative expenses
+- -----------------------------------
+                         Nine months                          Three months
+                                Periods ended January 31,
+         2006       2005         Change         2006      2005        Change
+         ----       ----         ------         ----      ----        ------
+        $8,154     $8,759    ($605)   (7%)     $3,077    $2,567     $510   20%
+
+     Most of the decrease in selling and administrative costs for the first nine
+months of fiscal  year 2006  compared  to the same period of fiscal year 2005 is
+attributable to decreased  personnel costs both in terms of reduced headcount as
+well as smaller accruals for incentive compensation plans due to lower operating
+profits.   Additional  decreases  were  experienced  in  selling  and  marketing
+expenses,  including lower sales  commissions as a result of decreased sales and
+lower  European-area  marketing  costs as the Company  consolidated  its efforts
+there into its  Gillam-FEI  subsidiary.  In the three month period ended January
+31, 2006,  this trend was  reversed.  Higher  revenues and profits in the fiscal
+2006  period  compared  to the same  period of fiscal  year  2005,  resulted  in
+increased   commission   expenses  and  personnel  costs,   including  incentive
+compensation  accruals.  The ratio of selling  and  administrative  costs to net
+sales for the nine and three  months ended  January 31, 2006,  were 22% and 20%,
+respectively,  which  approaches  the  Company's  target  ratio of under  20% of
+revenues.  In the comparable fiscal year 2005 periods,  the ratio of selling and
+administrative costs to revenues was 20% and 23%,  respectively.  The variations
+from the targeted cost ratio are directly  correlated to revenue  levels in each
+of the  periods.  In the last  quarter of fiscal  year 2006 and into fiscal year
+2007,  as revenues  increase  from the  current  level,  the Company  expects to
+achieve its targeted ratio of costs to net sales.
+
+Research and development expense
+- --------------------------------
+                 Nine months                          Three months
+                                Periods ended January 31,
+         2006       2005         Change         2006      2005        Change
+         ----       ----         ------         ----      ----        ------
+        $4,124     $4,850    ($726)   (15%)    $1,173    $2,025   ($852)   (42%)
+
+     During the third quarter of fiscal year 2006, the Company  reallocated  its
+engineering  resources from self-funded  research and development to third-party
+funded  production or  development  programs.  In the same period of fiscal year
+2005,  as revenues  declined from the preceding  quarters,  similar  engineering
+resources became available for internal research and development  activities and
+the Company  recorded  such  expenses  at a higher  rate than had been  incurred
+earlier in fiscal year 2005. This reallocation of resources  resulted in reduced
+research and development  spending during the nine and three month periods ended
+January 31,  2006  compared  to the same  periods of fiscal  year 2005.  For the
+fourth  quarter of fiscal year 2006 and into fiscal year 2007,  the Company will
+make  additional  investments  to  expand  its  US5G  wireline   synchronization
+productline;  improve  and  miniaturize  rubidium  atomic  clocks,  develop  new
+GPS-based synchronization products, further enhance the capabilities of its line
+of crystal  oscillators and develop lead-free time and frequency  products.  The
+Company targets research and development spending at approximately 10% of sales,
+but the rate of spending can increase or decrease from quarter to quarter as new
+projects are identified  and others are concluded.  The Company will continue to
+devote significant resources to develop new products,  enhance existing products
+and implement efficient  manufacturing  processes.  Where possible,  the Company
+attempts  to obtain  development  contracts  from its  customers.  For  programs
+without such funding,  internally  generated cash and cash reserves are adequate
+to fund these development efforts.
+
+FREQUENCY ELECTRONICS, INC. and SUBSIDIARIES
+                                   (Continued)
+
+Other income (expense)
+- ----------------------
+
+The increase in  investment  income for the nine months  ended  January 31,
+2006, is due to realized  gains of  approximately  $2.1 million  recorded in the
+first  half of the  fiscal  year on the sale of a portion  of the shares of REIT
+stock.  Such shares were obtained during fiscal year 2005 upon the conversion of
+certain REIT units related to the Company's  fiscal year 1998 sale and leaseback
+of its headquarters building. Such gains were partially offset by lower interest
+and dividend  income due to a lower level of marketable  securities  held by the
+Company as a result of the REIT stock sales. This decline is apparent during the
+three month period ended  January 31, 2006 when no additional  investment  gains
+were realized.
+
+     The Company began to record equity income in Morion, Inc. during the second
+quarter of fiscal year 2005, when the Company  increased its ownership  interest
+in  Morion to 36% of  Morion's  outstanding  shares.  Accordingly,  the  Company
+changed its method of accounting from the cost to the equity method and restated
+prior year financial  statements to reflect the appropriate  accounting  method.
+The 88% increase in equity income from Morion for the nine months of fiscal year
+2006  compared to the nine months ended  January 31, 2005 is due to two factors:
+a) the  increased  profitability  of Morion  during the three month period ended
+January  31,  2006  compared to the year ago period and b) during the first five
+months of fiscal  year 2005 the  Company  held only 19% of  Morion's  shares and
+equity income was recorded at this lower rate.
+
+     The decrease in interest expense for the nine and three month periods ended
+January 31, 2006  resulted  from a reduction in  borrowings  under the Company's
+line of credit during the fiscal year 2006 periods compared to fiscal year 2005,
+as well as the  conversion of its REIT units to REIT stock,  the impact of which
+is explained in the next paragraph.
+
+     Under the provisions of sale and leaseback accounting, until the REIT units
+were  converted,   the  Company's  lease  was  accounted  for  as  a  financing.
+Accordingly,  a portion of its prior year annual rent payments  were  considered
+interest  expense.  For fiscal  year  2006,  the  Company  no longer  recognizes
+interest  expense but the entire lease  payment is charged to rent  expense.  In
+addition,  under the caption  "Other,  income" the Company  will  recognize  the
+remaining  deferred gain from the sale and leaseback  transaction.  For the nine
+and three months ended January 31, 2006, the amount of deferred gain  recognized
+was $265,000 and $88,000, respectively.
+
+     During the nine  months  ended  January  31,  2006,  the  Company  sold the
+building formerly owned by the Company's French subsidiary. Following the fiscal
+year 2004 staffing cutbacks in this entity, the building had been largely vacant
+and available for sale. Upon receipt of an independent  appraisal,  the building
+was sold to the president of the Company's subsidiary,  Gillam-FEI.  The Company
+realized a gain on the sale of the building of  approximately  $680,000 which is
+included in the caption  Other income.  Other income and expense items  included
+under this caption,  with the exception of the deferred gain recognition and the
+gain  on the  sale of the  building,  are  nonrecurring  and  generally  are not
+significant to pretax earnings.
+
+     The  Company is subject to  taxation  in several  countries  as well as the
+states of New York and California.  The statutory federal rates vary from 34% in
+the United States to 35% in Europe. The effective rate is impacted by the income
+or loss of certain of the Company's  European and Asian  subsidiaries  which are
+currently  not taxed.  In addition,  the Company  utilizes the  availability  of
+research and development tax credits in the United States to lower its tax rate.
+The  Company's   European   subsidiaries   have  available  net  operating  loss
+carryforwards of approximately $2.4 million to offset future taxable income.
+
+FREQUENCY ELECTRONICS, INC. and SUBSIDIARIES
+                                   (Continued)
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+     The Company's  balance sheet  continues to reflect a strong working capital
+position of $60  million at January 31,  2006,  which is  comparable  to working
+capital at April 30,  2005.  Included in working  capital at January 31, 2006 is
+$26.3 million of cash, cash equivalents and marketable securities. The Company's
+current ratio at January 31, 2006 is 8.3 to 1.
+
+     For the nine months ended  January 31, 2006,  the Company used $1.8 million
+in  cash  from  operating  activities  compared  to  $3.8  million  provided  by
+operations in the comparable fiscal year 2005 period. This significant  decrease
+in cash flows is due  primarily  to the first  quarter  payment of income  taxes
+related to the  investment  gains  realized in the prior  fiscal year as well as
+increases in the value of the Company's accounts receivable and inventory.  Cash
+flow from operations for the second and third quarters of fiscal year 2006 was a
+positive $2.9  million.  For the full fiscal year 2006,  the Company  expects to
+generate positive cash flow from operating activities.
+
+     Net cash used in investing activities for the nine months ended January 31,
+2006, was $63,000  compared to a use of cash of $3.4 million for the same period
+of fiscal year 2005. The principal  source of cash was the sale or redemption of
+certain  marketable  securities  aggregating  $1.3 million,  net of purchases of
+other  marketable  securities.  The  redemption  of  marketable  securities  was
+primarily to pay the corporate  income taxes mentioned  above.  The Company also
+acquired  capital  equipment for  approximately  $1.3  million.  The Company may
+continue to acquire or sell marketable  securities as dictated by its investment
+strategies as well as by the cash  requirements for its development  activities.
+Capital equipment  purchases for all of fiscal year 2006 are expected to be less
+than $2.0 million.  Internally  generated cash is adequate to acquire this level
+of capital equipment.
+
+     Net cash used in financing activities for the nine months ended January 31,
+2006, was $689,000  compared to cash used in financing  activities in the amount
+of $1.9 million during the comparable fiscal year 2005 period.  Included in both
+fiscal periods is payment of the Company's  semiannual dividend in the amount of
+$1.7 million. During the third quarter of fiscal year 2006, the Company obtained
+$1.0 million from its line of credit compared to fiscal year 2005,  during which
+the  Company  borrowed  funds and repaid  them  under  certain  short-term  debt
+obligations resulting in a net cash outflow of $407,000.
+
+     The Company has been  authorized by its Board of Directors to repurchase up
+to $5  million  worth of  shares  of its  common  stock  for  treasury  whenever
+appropriate  opportunities arise but it has neither a formal repurchase plan nor
+commitments  to purchase  additional  shares in the  future.  During the quarter
+ended  January  31,  2006,  the  Company did not acquire any shares of its stock
+under this authorization.
+
+     The  Company  will  continue  to expend  resources  to develop  and improve
+products  for  wireless  and wireline  communication  systems  which  management
+believes will result in future growth and continued profitability. During fiscal
+year 2006, the Company has made and intends to make a substantial  investment of
+capital and technical resources to develop new products to meet the needs of the
+U.S. Government, commercial space and commercial communications marketplaces and
+to invest in more efficient product designs and manufacturing procedures.  Where
+possible,  the Company will secure partial customer funding for such development
+efforts but is targeting to spend its own funds at a rate of  approximately  10%
+of revenues to achieve its development goals.  Internally generated cash will be
+adequate to fund these development efforts
+
+     At January 31, 2006, the Company's  backlog amounted to  approximately  $42
+million   compared  to  $31  million  at  April  30,  2005.   Of  this  backlog,
+approximately 80% is realizable in the next twelve months.
+
+      Off-Balance Sheet Arrangements
+      ------------------------------
+     The Company does not have any off-balance  sheet  arrangements that have or
+are  reasonably  likely to have a  current  or  future  effect on the  Company's
+financial  condition,  changes in  financial  condition,  revenues or  expenses,
+results of operations, liquidity, capital expenditures or capital resources that
+is material to investors.
+
+FREQUENCY ELECTRONICS, INC. and SUBSIDIARIES
+                                   (Continued)
+
+      Contractual obligations
+      -----------------------
+     As of January 31, 2006                         (in thousands)
+
+*Deferred  Compensation liability reflects payments due to current retirees
+receiving  benefits.  The  amount  of  $4,725  in the more  than 5 years  column
+includes  benefits  due to  participants  in the plan who are not yet  receiving
+benefits  although  some  participants  may opt to retire  and  begin  receiving
+benefits within the next 5 years.
+
+Item 3.
+Quantitative and Qualitative Disclosures about Market Risk
+
+Interest Rate Risk
+- ------------------
+     The Company is exposed to market risk related to changes in interest  rates
+and market values of securities.  The Company's  investments in fixed income and
+equity securities were approximately $22.1 million and $20,000, respectively, at
+January 31,  2006.  The  investments  are carried at fair value with  changes in
+unrealized gains and losses recorded as adjustments to stockholders' equity. The
+fair value of investments in marketable  securities is generally based on quoted
+market prices. Typically, the fair market value of investments in fixed interest
+rate debt  securities  will  increase  as  interest  rates fall and  decrease as
+interest rates rise.  Based on the Company's  overall  interest rate exposure at
+January  31,  2006,  a 10%  change in  market  interest  rates  would not have a
+material  effect on the fair value of the Company's  fixed income  securities or
+results of operations.
+
+Foreign Currency Risk
+- ---------------------
+     The Company is subject to foreign  currency  translation  risk. The Company
+does not have any near-term intentions to repatriate invested cash in any of its
+foreign-based  subsidiaries.  For this  reason,  the Company  does not intend to
+initiate any exchange  rate hedging  strategies  which could be used to mitigate
+the effects of foreign  currency  fluctuations.  The effects of foreign currency
+rate fluctuations will be recorded in the equity section of the balance sheet as
+a component of other  comprehensive  income.  As of January 31, 2006, the amount
+related to foreign currency exchange rates is a $3,398,000  unrealized gain. The
+results of operations of foreign subsidiaries,  when translated into US dollars,
+will  reflect the  average  rates of exchange  for the periods  presented.  As a
+result,  similar  results of operations  measured in local  currencies  can vary
+significantly  upon  translation  into US dollars if  exchange  rates  fluctuate
+significantly from one period to the next.
+
+                                     Item 4.
+Controls and Procedures
+
+     Disclosure  Controls and  Procedures.  The Company's  management,  with the
+participation  of the  Company's  chief  executive  officer and chief  financial
+officer,  has evaluated the effectiveness of the Company's  disclosure  controls
+and procedures (as such term is defined in Rules  13a-15(e) and 15d-15(e)  under
+the Securities  Exchange Act of 1934, as amended (the "Exchange Act")) as of the
+end of the  period  covered  by  this  report.  Based  on such  evaluation,  the
+Company's  chief executive  officer and chief  financial  officer have concluded
+that,  as of the end of such  period,  the  Company's  disclosure  controls  and
+procedures are effective in recording, processing, summarizing and reporting, on
+a timely  basis,  information  required  to be  disclosed  by the Company in the
+reports that it files or submits under the Exchange Act.
+
+FREQUENCY ELECTRONICS, INC. and SUBSIDIARIES
+                                   (Continued)
+
+     Internal Control Over Financial Reporting.  There have not been any changes
+in the  Company's  internal  control over  financial  reporting (as such term is
+defined in Rules  13a-15(f)  and  15d-15(f)  under the Exchange  Act) during the
+period to which  this  report  relates  that have  materially  affected,  or are
+reasonably  likely to materially  affect,  the Company's  internal  control over
+financial reporting.
+
+PART II
+
+ITEMS 1, 2, 3, 4 and 5 are omitted because they are not applicable.
+
+ITEM 6 - Exhibits
+
+  31.1 - Certification by the Chief Executive Officer Pursuant to Section 302
+         of the Sarbanes-Oxley Act of 2002.
+  31.2 - Certification by the Chief Financial Officer Pursuant to Section 302
+         of the Sarbanes-Oxley Act of 2002
+  32.1 - Certification by the Chief Executive Officer Pursuant to 18 U.S.C.
+         Section 1350 Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act
+         of 2002.
+  32.2 - Certification by the Chief Financial Officer Pursuant to 18 U.S.C.
+         Section 1350 Adopted Pursuant to Section 906 of the Sarbanes-Oxley Act
+         of 2002.
+
+SIGNATURES
+
+Pursuant  to the  requirements  of the  Securities  Exchange  Act  of  1934  the
+Registrant  has duly  caused  this  report  to be  signed  on its  behalf by the
+undersigned, thereunto duly authorized.
+
+FREQUENCY ELECTRONICS, INC.
+                                                   (Registrant)
+
+Date: March 17, 2006                       BY   /s/   Alan Miller
+                                             ---------------------------
+                                                   Alan Miller
+                                                   Chief Financial Officer
+                                                   and Controller
+
+Exhibit 31.1
+
+                            CERTIFICATION PURSUANT TO
+                                 SECTION 302 OF
+                         THE SARBANES-OXLEY ACT OF 2002
+
+Certification of CEO
+
+I, Martin B. Bloch, Chief Executive Officer, certify that:
+
+1.   I  have  reviewed  this   quarterly   report  on  Form  10-Q  of  Frequency
+     Electronics, Inc.;
+
+2.   Based on my knowledge, this report does not contain any untrue statement of
+     a material  fact or omit to state a  material  fact  necessary  to make the
+     statements made, in light of the circumstances  under which such statements
+     were made,  not  misleading  with  respect  to the  period  covered by this
+     report;
+
+3.   Based on my  knowledge,  the  financial  statements,  and  other  financial
+     information  included  in  this  report,  fairly  present  in all  material
+     respects the financial  condition,  results of operations and cash flows of
+     the registrant as of, and for, the periods presented in this report;
+
+4.   The  registrant's  other  certifying  officer(s) and I are  responsible for
+     establishing and maintaining disclosure controls and procedures (as defined
+     in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have:
+
+     (a)  Designed  such  disclosure  controls  and  procedures,  or caused such
+          disclosure   controls  and   procedures  to  be  designed   under  our
+          supervision,  to ensure  that  material  information  relating  to the
+          registrant,  including its consolidated subsidiaries, is made known to
+          us by others within those entities,  particularly during the period in
+          which this report is being prepared;
+
+     (b)  Evaluated the  effectiveness of the registrant's  disclosure  controls
+          and procedures and presented in this report our conclusions  about the
+          effectiveness of the disclosure controls and procedures, as of the end
+          of the period covered by this report based on such evaluation;
+
+     (c)  Disclosed  in this  report  any  change in the  registrant's  internal
+          control over financial reporting that occurred during the registrant's
+          most recent fiscal quarter (the registrant's  fourth fiscal quarter in
+          the case of an annual  report)  that has  materially  affected,  or is
+          reasonably  likely to materially  affect,  the  registrant's  internal
+          control over financial reporting; and
+
+5.   The registrant's other certifying officer(s) and I have disclosed, based on
+     our most recent evaluation of internal control over financial reporting, to
+     the registrant's auditors and the audit committee of the registrant's board
+     of directors (or persons performing the equivalent functions):
+
+     (a)  All significant  deficiencies and material weaknesses in the design or
+          operation  of internal  control  over  financial  reporting  which are
+          reasonably  likely to  adversely  affect the  registrant's  ability to
+          record, process, summarize and report financial information; and
+
+     (b)  Any fraud, whether or not material,  that involves management or other
+          employees who have a  significant  role in the  registrant's  internal
+          control over financial reporting.
+
+/s/   Martin Bloch                                      March 17, 2006
+  -------------------
+     Martin B. Bloch
+     Chief Executive Officer
+
+Exhibit 31.2
+
+                            CERTIFICATION PURSUANT TO
+                                 SECTION 302 OF
+                         THE SARBANES-OXLEY ACT OF 2002
+
+Certification of CFO
+
+I, Alan L. Miller, Chief Financial Officer, certify that
+
+1.   I  have  reviewed  this   quarterly   report  on  Form  10-Q  of  Frequency
+     Electronics, Inc.;
+
+2.   Based on my knowledge, this report does not contain any untrue statement of
+     a material  fact or omit to state a  material  fact  necessary  to make the
+     statements made, in light of the circumstances  under which such statements
+     were made,  not  misleading  with  respect  to the  period  covered by this
+     report;
+
+3.   Based on my  knowledge,  the  financial  statements,  and  other  financial
+     information  included  in  this  report,  fairly  present  in all  material
+     respects the financial  condition,  results of operations and cash flows of
+     the registrant as of, and for, the periods presented in this report;
+
+4.   The  registrant's  other  certifying  officer(s) and I are  responsible for
+     establishing and maintaining disclosure controls and procedures (as defined
+     in Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have:
+
+     (a)  Designed  such  disclosure  controls  and  procedures,  or caused such
+          disclosure   controls  and   procedures  to  be  designed   under  our
+          supervision,  to ensure  that  material  information  relating  to the
+          registrant,  including its consolidated subsidiaries, is made known to
+          us by others within those entities,  particularly during the period in
+          which this report is being prepared;
+
+     (b)  Evaluated the  effectiveness of the registrant's  disclosure  controls
+          and procedures and presented in this report our conclusions  about the
+          effectiveness of the disclosure controls and procedures, as of the end
+          of the period covered by this report based on such evaluation;
+
+     (c)  Disclosed  in this  report  any  change in the  registrant's  internal
+          control over financial reporting that occurred during the registrant's
+          most recent fiscal quarter (the registrant's  fourth fiscal quarter in
+          the case of an annual  report)  that has  materially  affected,  or is
+          reasonably  likely to materially  affect,  the  registrant's  internal
+          control over financial reporting; and
+
+5.   The registrant's other certifying officer(s) and I have disclosed, based on
+     our most recent evaluation of internal control over financial reporting, to
+     the registrant's auditors and the audit committee of the registrant's board
+     of directors (or persons performing the equivalent functions):
+
+     (a)  All significant  deficiencies and material weaknesses in the design or
+          operation  of internal  control  over  financial  reporting  which are
+          reasonably  likely to  adversely  affect the  registrant's  ability to
+          record, process, summarize and report financial information; and
+
+     (b)  Any fraud, whether or not material,  that involves management or other
+          employees who have a  significant  role in the  registrant's  internal
+          control over financial reporting.
+
+  /s/   Alan Miller                                      March 17, 2006
+  --------------------
+     Alan L. Miller
+     Chief Financial Officer
+
+Exhibit 32.1
+
+                            CERTIFICATION PURSUANT TO
+                             18 U.S.C. SECTION 1350
+                               ADOPTED PURSUANT TO
+                  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+Certification of CEO
+
+In connection  with the  Quarterly  Report of Frequency  Electronics,  Inc. (the
+"Company")  on Form 10-Q for the period ended January 31, 2006 as filed with the
+Securities and Exchange Commission on the date hereof (the "Report"),  I, Martin
+B. Bloch, Chief Executive Officer of the Company, certify, pursuant to 18 U.S.C.
+Section 1350, as adopted  pursuant to Section 906 of the  Sarbanes-Oxley  Act of
+2002, that to my knowledge:
+
+     (1)  The Report fully  complies with the  requirements  of Section 13(a) or
+          15(d) of the Securities Exchange Act of 1934; and
+
+     (2)  The  information  contained  in the  Report  fairly  presents,  in all
+          material respects,  the financial  condition and results of operations
+          of the Company.
+
+/s/   Martin Bloch                                       March 17, 2006
+  --------------------
+     Martin B. Bloch
+     Chief Executive Officer
+
+A signed original of this written  statement  required by Section 906,
+          or other document authenticating, acknowledging, or otherwise adopting
+          the signature that appears in typed form within the electronic version
+          of this written  statement  required by Section 906, has been provided
+          to the Company and will be  retained by the Company and  furnished  to
+          the Securities and Exchange Commission or its staff upon request.
+
+          This  certification  accompanies  this Report on Form 10-Q pursuant to
+          Section 906 of the Sarbanes-Oxley Act of 2002 and shall not, except to
+          the extent  required by such Act,  be deemed  filed by the Company for
+          purposes  of Section 18 of the  Securities  Exchange  Act of 1934,  as
+          amended (the "Exchange Act"). Such certification will not be deemed to
+          be  incorporated by reference into any filing under the Securities Act
+          of 1933, as amended,  or the Exchange  Act,  except to the extent that
+          the Company specifically incorporates it by reference.
+
+Exhibit 32.2
+
+                            CERTIFICATION PURSUANT TO
+                             18 U.S.C. SECTION 1350
+                               ADOPTED PURSUANT TO
+                  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+Certification of CFO
+
+In connection  with the  Quarterly  Report of Frequency  Electronics,  Inc. (the
+"Company")  on Form 10-Q for the period ended January 31, 2006 as filed with the
+Securities and Exchange Commission on the date hereof (the "Report"), I, Alan L.
+Miller, Chief Financial Officer of the Company,  certify,  pursuant to 18 U.S.C.
+Section 1350, as adopted  pursuant to Section 906 of the  Sarbanes-Oxley  Act of
+2002, that to my knowledge:
+
+       (1) The Report fully complies with the  requirements  of Section 13(a)
+           or 15(d) of the Securities Exchange Act of 1934; and
+       (2) The information  contained in the Report fairly  presents,  in all
+           material respects, the financial condition and results of operations
+           of the Company.
+
+/s/   Alan Miller                                           March 17, 2006
+  -----------------------
+     Alan L. Miller
+     Chief Financial Officer
+
+A signed  original of this  written  statement  required by Section 906, or
+     other document  authenticating,  acknowledging,  or otherwise  adopting the
+     signature that appears in typed form within the electronic  version of this
+     written statement required by Section 906, has been provided to the Company
+     and will be retained by the Company and  furnished  to the  Securities  and
+     Exchange Commission or its staff upon request.
+
+This certification accompanies this Report on Form 10-Q pursuant to Section
+     906 of the  Sarbanes-Oxley  Act of 2002 and shall not, except to the extent
+     required  by such Act,  be deemed  filed by the  Company  for  purposes  of
+     Section  18 of  the  Securities  Exchange  Act of  1934,  as  amended  (the
+     "Exchange Act"). Such  certification  will not be deemed to be incorporated
+     by reference  into any filing under the Securities Act of 1933, as amended,
+     or the  Exchange  Act,  except to the extent that the Company  specifically
+     incorporates it by reference.
+

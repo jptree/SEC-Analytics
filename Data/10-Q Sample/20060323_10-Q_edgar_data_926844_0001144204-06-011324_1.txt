@@ -1,0 +1,1903 @@
+<Header>
+<FileStats>
+    <FileName>20060323_10-Q_edgar_data_926844_0001144204-06-011324_1.txt</FileName>
+    <GrossFileSize>128457</GrossFileSize>
+    <NetFileSize>98997</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>451</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>8</N_Tables>
+    <N_Exhibits>4</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001144204-06-011324.hdr.sgml : 20060323
+<ACCEPTANCE-DATETIME>20060323114345
+ACCESSION NUMBER:		0001144204-06-011324
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20060131
+FILED AS OF DATE:		20060323
+DATE AS OF CHANGE:		20060323
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ANZA CAPITAL INC
+		CENTRAL INDEX KEY:			0000926844
+		STANDARD INDUSTRIAL CLASSIFICATION:	FINANCE SERVICES [6199]
+		IRS NUMBER:				881273503
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			0430
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-24512
+		FILM NUMBER:		06705361
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3200 BRISTOL STREET
+		STREET 2:		SUITE 710
+		CITY:			COSTA MESA
+		STATE:			CA
+		ZIP:			92626
+		BUSINESS PHONE:		7148662100
+
+	MAIL ADDRESS:	
+		STREET 1:		3200 BRISTOL STREET
+		STREET 2:		SUITE 710
+		CITY:			COSTA MESA
+		STATE:			CA
+		ZIP:			92626
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	E-NET FINANCIAL COM CORP
+		DATE OF NAME CHANGE:	20000317
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	E-NET COM CORP
+		DATE OF NAME CHANGE:	20000127
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	E NET FINANCIAL CORP
+		DATE OF NAME CHANGE:	19990920
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ LQwFrkfzT0bcurDKt2rZoIM+/aK3l1Q7gjEm5Zma2HRWfuke9h0pTdiACHliPTr9
+ nwAyzHSqHvuNXgrdlDNeiA==
+
+ 0001144204-06-011324.txt : 20060323
+
+10-Q
+ 1
+ v038401_10q.txt
+
+UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 10-Q
+
+(Mark One)
+
+      |X|   QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+            EXCHANGE ACT OF 1934
+
+                 FOR THE QUARTERLY PERIOD ENDED JANUARY 31, 2006
+
+      | |   TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+            EXCHANGE ACT OF 1934
+
+For the transition period from ______________ to ______________.
+
+COMMISSION FILE NUMBER O-24512
+
+ANZA CAPITAL, INC.
+             (Exact name of registrant as specified in its charter)
+
+                 NEVADA                                88-1273503
+    (State or other jurisdiction of                 (I.R.S. Employer
+     incorporation or organization)               Identification No.)
+
+           c/o Viking Investments
+           65 Broadway, Suite 888
+                New York, NY                             10006
+    (Address of principal executive offices)           (Zip Code)
+
+Registrant's telephone number, including area code (212) 430 6548
+
+Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes |X| No | |
+
+Indicate by check mark whether the registrant is an accelerated filer (as
+defined in Rule 12b-2 of the Exchange Act). Yes | | No |X|
+
+    APPLICABLE ONLY TO ISSUERS INVOLVED IN BANKRUPTCY PROCEEDINGS DURING THE
+                             PRECEDING FIVE YEARS:
+
+      Indicate by check mark whether the registrant filed all documents and
+reports required to be filed by Sections 12, 13 or 15(d) of the Exchange Act of
+1934 subsequent to the distribution of securities under a plan confirmed by a
+court. Yes | | No | |
+
+APPLICABLE ONLY TO CORPORATE ISSUERS
+
+      Indicate the number of shares outstanding of each of the issuer's classes
+of common stock, as of the latest practicable date. As of January 31, 2006,
+there were 10,435,148 shares of common stock issued and 6,297,648 shares of
+common stock outstanding.
+
+1
+
+ANZA CAPITAL, INC.
+
+TABLE OF CONTENTS
+                                -----------------
+
+PART I - FINANCIAL INFORMATION...........................................................................3
+
+ITEM 1       Financial Statements........................................................................3
+
+ITEM 2       Management's Discussion and Analysis of Financial Condition and Results of Operations......21
+
+ITEM 3       Quantitative and Qualitative Disclosures About Market Risk.................................28
+
+ITEM 4       Controls and Procedures....................................................................28
+
+PART II - OTHER INFORMATION.............................................................................31
+
+ITEM 1       Legal Proceedings..........................................................................31
+
+ITEM 2       Unregistered Sales of Equity Securities and Use of Proceeds................................31
+
+ITEM 3       Defaults Upon Senior Securities............................................................31
+
+ITEM 4       Submission of Matters to a Vote of Security Holders........................................31
+
+ITEM 5       Other Information..........................................................................31
+
+ITEM 6       Exhibits...................................................................................32
+
+2
+
+PART I - FINANCIAL INFORMATION
+
+This Quarterly Report includes forward-looking statements within the meaning of
+the Securities Exchange Act of 1934 (the "Exchange Act"). These statements are
+based on management's beliefs and assumptions, and on information currently
+available to management. Forward-looking statements include the information
+concerning our possible or assumed future results of operations set forth under
+the heading "Management's Discussion and Analysis of Financial Condition or Plan
+of Operation." Forward-looking statements also include statements in which words
+such as "expect," "anticipate," "intend," "plan," "believe," "estimate,"
+"consider" or similar expressions are used.
+
+Forward-looking statements are not guarantees of future performance. They
+involve risks, uncertainties and assumptions. Our future results and shareholder
+values may differ materially from those expressed in these forward-looking
+statements. Readers are cautioned not to put undue reliance on any
+forward-looking statements.
+
+ITEM 1   FINANCIAL STATEMENTS
+
+3
+
+ANZA CAPITAL, INC.
+                                AND SUBSIDIARIES
+                           CONSOLIDATED BALANCE SHEETS
+
+See accompanying notes to these consolidated financial statements
+
+4
+
+ANZA CAPITAL, INC.
+                                AND SUBSIDIARIES
+                      CONSOLIDATED STATEMENTS OF OPERATIONS
+                                   (UNAUDITED)
+
+See accompanying notes to these consolidated financial statements
+
+5
+
+ANZA CAPITAL, INC.
+                                AND SUBSIDIARIES
+                      CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                   (UNAUDITED)
+
+6
+
+See accompanying notes to these consolidated financial statements
+
+7
+
+NOTES TO INTERIM FINANCIAL STATEMENTS
+
+NOTE 1. UNAUDITED INTERIM FINANCIAL STATEMENTS
+
+The interim financial data as of January 31, 2006 is unaudited; however, in the
+opinion of management, the interim data includes all adjustments, consisting of
+normal recurring adjustments, necessary to present fairly the Company's
+consolidated financial position as of January 31, 2006, and the results of their
+operations and their cash flows for the three and nine months ended January 31,
+2006 and 2005. The results of operations are not necessarily indicative of the
+operations, which may result for the year ending April 30, 2006. Also, in the
+opinion of management, all disclosures required on Form 10-Q were fully
+furnished.
+
+ANZA is a holding company with one active subsidiary. All intercompany
+transactions have been eliminated in the accompanying consolidated financial
+statements. The Company's annual report on Form 10-K for the year ended April
+30, 2005 should be read in connection with this quarterly report.
+
+Certain prior year amounts have been reclassified for comparative purposes.
+These reclassifications have no effect on previously reported income or loss.
+
+NOTE 2. GOING CONCERN
+
+In connection with the audit of the consolidated financial statements for the
+year ended April 30, 2005, the Company received a report from its independent
+auditors that included an explanatory paragraph describing uncertainty as to the
+Company's ability to continue as a going concern, which contemplated that assets
+and liabilities would be settled at amounts in the normal course of business.
+ANZA incurred a loss from operations during the quarter ended January 31, 2006
+and had an accumulated deficit as of January 31, 2006. In addition, AMRES is a
+defendant in a significant amount of litigation for which the outcome is
+uncertain. In some cases, losses were covered by insurance. During the quarter,
+the management of AMRES the only active subsidiary of ANZA has determined that
+AMRES will not be able to continue its operations and has closed all of the
+branches.
+
+NOTE 3. SIGNIFICANT CUSTOMER CONCENTRATION
+
+For the nine months ended January 31, 2006 and 2005, three investors accounted
+for one hundred percent and eighty percent of the purchases of loans held for
+sale, respectively and accounted for one hundred percent and eighty percent of
+the revenues from the mortgage banking business, respectively.
+
+NOTE 4. SEGMENT DISCLOSURE
+
+Segments were determined based on services provided by each segment. Performance
+of the segments is evaluated on net income (loss). For the three and nine months
+ended January 31, 2006 and 2005, Management has provided the following
+information with respect to its operating segments (in thousands).
+
+8
+
+NOTE 5. IMPACT OF RECENTLY ISSUED ACCOUNTING STATEMENTS
+
+In December 2002, the FASB issued SFAS No. 148, "Accounting for Stock-Based
+Compensation-Transition and Disclosure" which addresses financial accounting and
+reporting for recording expenses for the fair value of stock options. SFAS 148
+provides alternative methods of transition for a voluntary change to fair
+value-based method of accounting for stock-based employee compensation.
+Additionally, SFAS 148 requires more prominent and more frequent disclosures in
+financial statements about the effects of stock-based compensation. ANZA has
+elected to continue to apply the intrinsic value-based method of accounting as
+allowed by APB 25 for employee stock-based compensation. The disclosure effects
+of SFAS 148 are not significant to ANZA and no grants were made to employees
+during the nine months ended January 31, 2006 and January 31, 2005.
+
+In May 2003, the FASB issued Statement of Financial Accounting Standard No. 150,
+"Accounting for Certain Financial Instruments with Characteristics of
+Liabilities and Equity" ("SFAS 150"). SFAS 150 establishes standards for how an
+issuer classifies and measurers in its statement of financial position certain
+financial instruments with characteristics of both liabilities and equity. In
+accordance with SFAS 150, financial instruments that embody obligations for the
+issuer are required to be classified as liabilities. SFAS 150 shall be effective
+for financial instruments entered into or modified after May 31, 2003, and
+otherwise shall be effective at the beginning of the first interim period
+beginning after June 15, 2003. The Company's implementation of SFAS 150 did not
+have a material impact on the Company's consolidated financial statements.
+
+                                       9
+
+In December 2004, the FASB issued Statement of Financial Accounting Standard No.
+153, "Exchanges of Nonmonetary Assets," ("SFAS 153") an amendment to Accounting
+Principle Board Opinion No. 29, "Accounting for Nonmonetary Transactions" ("APB
+29"). SFAS 153 eliminates certain differences in the guidance in APB 29 as
+compared to the guidance contained in standards issued by the International
+Accounting Standards Board. The amendment to APB 29 eliminates the fair value
+exception for nonmonetary exchanges of similar productive assets and replaces it
+with a general exception for exchanges of nonmonetary assets that do not have
+commercial substance. Such an exchange has commercial substance if the future
+cash flows of the entity are expected to change significantly as a result of the
+exchange. SFAS 153 is effective for nonmonetary asset exchanges occurring in
+periods beginning after June 15, 2005. Earlier application is permitted for
+nonmonetary asset exchanges occurring in periods beginning after December 16,
+2004. Management does not expect adoption of SFAS 153 to have a material impact,
+if any, on the Company's consolidated financial position or results of
+operations.
+
+In December 2004, the FASB issued Statement of Financial Accounting Standard No.
+123(R), "Share-Based Payment" ("SFAS 123(R)"). SFAS 123(R) amends SFAS 123,
+"Accounting for Stock-Based Compensation", and APB Opinion No. 25, "Accounting
+for Stock Issued to Employees". SFAS 123(R) requires that the cost of
+share-based payment transactions (including those with employees and
+non-employees) be recognized in the financial statements. SFAS 123(R) applies to
+all share-based payment transactions in which an entity acquires goods or
+services by issuing (or offering to issue) its shares, share options, or other
+equity instruments (except for those held by an ESOP) or by incurring
+liabilities (1) in amounts based (even in part) on the price of the company's
+shares or other equity instruments, or (2) that require (or may require)
+settlement by the issuance of a company's shares or other equity instruments.
+This statement is effective (1) for public companies qualifying as SEC small
+business issuers, as of the first interim period or fiscal year beginning after
+December 15, 2005, or (2) for all other public companies, as of the first
+interim period or fiscal year beginning after June 15, 2005, or (3) for all
+nonpublic entities, as of the first fiscal year beginning after December 15,
+2005. In March 2005, the SEC announced it will permit companies to delay
+implementation until the beginning of their next fiscal year, instead of the
+next reporting period. Management has determined that they will adopt SFAS
+123(R) as of the beginning of their next fiscal year, and is currently assessing
+the impact of this statement on its consolidated financial position and results
+of operations in 2006. In the interim, the Company is continuing to use the
+intrinsic value method in estimating employee stock compensation expense based
+on the fair value method of accounting. This method is allowed under SFAS 148,
+which amended SFAS 123 in December 2002.
+
+In May 2005, the FASB issued Statement of Financial Accounting Standard No. 154,
+"Accounting Changes and Error Corrections" ("SFAS 154"), that addresses
+accounting for changes in accounting principle, changes in accounting estimates
+and changes required by an accounting pronouncement in the instance that the
+pronouncement does not include specific transition provisions and error
+correction. SFAS 154 requires retrospective application to prior periods'
+financial statements of changes in accounting principle and error correction
+unless impracticable to do so. SFAS 154 states an exception to retrospective
+application when a change in accounting principle, or the method of applying it,
+may be inseparable from the effect of a change in accounting estimate. When a
+change in principle is inseparable from a change in estimate, such as
+depreciation, amortization or depletion, the change to the financial statements
+is to be presented in a prospective manner. SFAS 154 and the required
+disclosures are effective for accounting changes and error corrections in fiscal
+years beginning after December 15, 2005.
+
+                                       10
+
+NOTE 6. LOANS HELD FOR SALE
+
+Loans held for sale consisted of conventional uninsured mortgages originated by
+the Company, with various interest rates. The mortgage banking operations of
+AMRES was discontinued as of May 31, 2005 due to non-renewal of the warehouse
+line of credit. Details of the loans as of January 31, 2006 and April 30, 2005
+were as follows:
+
+NOTE7. WAREHOUSE LINE OF CREDIT
+
+The Company maintained a $10,000,000 warehousing line of credit dated May 20,
+2004, which expired on May 31, 2005. The agreement was guaranteed by ANZA and
+its Chief Executive Officer. In addition, the agreement increased the various
+ratios and net worth requirements, minimum utilization requirements, and limits
+the warehouse period from 45 to 60 days depending on the type of loan. The
+interest rate was adjustable, based upon a published prime rate, plus an
+additional 0.5% to 2% and was payable monthly. In addition, the Company was
+required to pay a commitment fee equal to one quarter of 1% (.25%) per annum on
+the average unused credit limit if the usage of the line falls below 50% of the
+credit limit on an average basis, calculated monthly. The rate varies depending
+on the type of loan (conforming or non-conforming) with higher rates on
+non-conforming loans. The line of credit was collateralized by the loans held
+for sale. As of May 31, 2005 the Company lost the warehouse line of credit
+because AMRES could not get the Error and Omissions coverage with the deductible
+set by the bank's guidelines.
+
+All loans held for sale were sold as of the quarter ended January 31, 2006. The
+loans were charged the post maturity interest rate of 10.50% therefore creating
+a negative spread between the interest income collected from the borrower and
+the interest paid.
+
+                                       11
+
+NOTE 8.  ACCRUED LIABILITIES
+
+Accrued liabilities consist of the following:
+
+                                       January 31, 2006         April 30, 2005
+                                         (unaudited)
+Accrued salary and benefits                 $           -           $   352,721
+Accrued loss contingencies                      1,362,533               887,052
+Accrued professional fees                         316,435               312,500
+Accrued interest                                        -                41,289
+                                     ---------------------     -----------------
+                                                1,678,968           $ 1,593,562
+                                     =====================     =================
+
+NOTE 9. UNSECURED LINE OF CREDIT
+
+AMRES maintains a $75,000 unsecured line of credit. The line of credit is
+personally guaranteed by ANZA's chief executive officer. The interest rate is
+adjustable, based upon a published prime rate, plus an additional 7.75%. As of
+January 31, 2006, AMRES had $46,087 outstanding related to this line of credit.
+
+NOTE 10. ISSUANCE OF CONVERTIBLE NOTES AND WARRANTS BY A SUBSIDIARY
+
+On October 11, 2004, AMRES issued a secured convertible note payable totaling
+$125,000 to AMRES Holding, LLC, a related party partially owned and controlled
+by the Company's Chief Executive Officer. The note is secured by substantially
+all of AMRES' assets. Interest on this note is payable quarterly beginning on
+January 1, 2005 at 12% per annum, and the note matures on October 11, 2006. The
+note is convertible into AMRES's common stock at 75% of the average closing bid
+price for the five days preceding the date of the conversion notice. As
+additional consideration, the Company issued a warrant to AMRES Holding, LLC to
+purchase 250,000 shares of AMRES's common stock at $0.10 per share. The warrant
+is exercisable at any time between the closing date and a date which is five
+years from the closing date. AMRES allocated the proceeds of the note to the
+note and warrants based on their relative fair values, resulting in a discount
+related to the warrant of $10,175. The discount is being amortized over the life
+of the note. As the conversion feature of the note at the time of issuance was
+beneficial to the holder, AMRES recorded a discount on the note of $57,413. The
+discount is being amortized over the term of the note as interest expense.
+During the quarter ended July 31, 2005, the note was fully repaid, and the
+unamortized discount of $17,185 was immediately charged to interest expense.
+
+On January 18, 2005, AMRES issued a convertible note payable to a private
+investor totaling $55,000. AMRES received proceeds, net of all costs and fees,
+in the amount of $47,980. Interest on this note is payable monthly at 10% per
+annum, and the note matures on June 15, 2005. The note is convertible into
+shares of AMRES common stock at 50% of the bid price of AMRES common stock as
+reported on the Pink Sheet Market for the three trading days immediately
+preceding the date of the conversion notice. As the conversion feature of the
+note at the time of issuance was beneficial to the holder, AMRES recorded a
+discount on the note of $55,000. The discount is being amortized over the term
+of the note as interest expense. During the year ended April 30, 2005, $17,500
+of this convertible note payable was converted into 2,000,000 shares of AMRES
+common stock. The unamortized discount amount of $7,621 at the time of
+conversion was immediately charged to interest expense. The convertible note
+payable matured on June 15, 2005 and the discount was fully amortized on the
+same day. AMRES is currently in the process of negotiation with the note payable
+holder on repayment.
+
+                                       12
+
+On February 10, 2005 AMRES issued convertible notes payable to two private
+investors totaling $14,000 and $14,000. Interest on these notes are payable
+monthly at 8% per annum, and the notes mature on February 10, 2006. Both notes
+are immediately convertible into shares of AMRES common stock at a price equal
+to 50% of the average market price for the last three days prior to the
+conversion notice. As the conversion features of the notes at the time of
+issuance were beneficial to the holders, AMRES recorded a discount on the notes
+of $14,000 and $14,000, respectively. The discounts are being amortized over the
+term of the notes as interest expense. During the year ended April 30, 2005, $0
+and $4,500, respectively, of these convertible notes payable were converted into
+0 and 525,862 shares, respectively, of AMRES common stock. The unamortized
+discount amount of $0 and $3,375, respectively, were immediately charged to
+interest expense. At January 31, 2006, the unamortized discounts amounted to
+$3,500 and $125, respectively, and are reflected as reductions in the
+convertible notes payable balance.
+
+NOTE 11. EARNINGS (LOSS) PER COMMON SHARE
+
+ANZA presents basic earnings per share ("EPS") and diluted EPS on the face of
+the consolidated statement of operations. Basic EPS is computed as net income
+(loss) divided by the weighted average number of common shares outstanding for
+the period. Diluted EPS reflects the potential dilution that could occur from
+common shares issuable through stock options, warrants, and other convertible
+securities. Dilutive securities, including the Series D Convertible Preferred
+Stock and the Series F Convertible Preferred Stock, were not included in the
+computations of loss per share for the three months and nine months ended
+January 31, 2006 and 2005 since their effects are anti-dilutive.
+
+NOTE 12. STOCKHOLDERS' EQUITY
+
+From time to time, the Company's board of directors authorizes the issuance of
+common stock. The Company values shares of common stock based on the closing ask
+price of the securities on the date the directors approve such issuance. In the
+event the Company issues common stock subject to transferability restrictions
+under Rule 144 of the Exchange Act of 1933, the Company discounts the closing
+ask prices by 10% to value its common stock transactions. No such issuances
+occurred for either period presented.
+
+During the quarter ended July 31, 2005, the company issued a total of 32,900
+shares of common stock valued at $1,760 as a payment of dividends on the Series
+F convertible preferred stocks.
+
+During the quarter ended July 31, 2005, 51,250 common shares issued to Jeff Hemm
+were cancelled as a result of the legal settlement. See Note 14 on
+Contingencies, Settlements and Resolved Matters.
+
+                                       13
+
+NOTE 13. OTHER EQUITY TRANSACTIONS
+
+Viking Investments Common Stock Purchase Agreement
+- --------------------------------------------------
+
+      On September 19, 2005, the Company entered into a Common Stock Purchase
+Agreement whereby Vince Rinehart, a shareholder and the Company's sole officer
+and director ("Rinehart") and AMRES Holding, LLC, a Nevada limited liability
+company under control of Rinehart ("AMRES Holding") will sell a total combined
+amount of 10,279,369 shares of the Company's common stock and warrants to
+purchase a total of 3,450,000 shares of the Company's common stock (the
+"Securities"), to Viking Investments USA, Inc., a Delaware corporation
+("Viking"), on or about December 30, 2005, for an aggregate purchase price of
+$375,000. Viking does not bear a related-party relationship to Anza or its
+management. This agreement was closed on March 3, 2006.
+
+Gaulds Transaction
+- ------------------
+
+      On September 23, 2005, the Company received a signed Securities Purchase
+Agreement dated September 16, 2005 from Peter and Irene Gauld (the "Gaulds"), by
+and between AMRES Holding and the Gaulds, whereby the Gaulds will sell to AMRES
+Holding, on or about December 30, 2005, warrants to acquire 2,000,000 shares of
+the Company's common stock in exchange for the total purchase price of $10,000.
+The Gaulds do not bear a related-party relationship to the Company or its
+management. These securities were sold to Viking on March 3, 2006, per the terms
+of the agreement.
+
+Asset Sale Agreement
+- --------------------
+
+      On September 30, 2005, the Company entered into a Reorganization, Stock
+and Asset Purchase Agreement by and among the Company and AMRES, on the one
+hand, and Rinehart and AMRES Holding, on the other hand, whereby the Company
+will sell substantially all of its assets to AMRES Holding, on or about December
+30, 2005, including but not limited to all of the Company's ownership interest
+in its subsidiary, AMRES, in exchange for (i) the termination by Rinehart, the
+managing member of AMRES Holding, of that certain Employment Agreement dated
+June 1, 2001, by and between Rinehart and the Company, including the waiver of
+$500,000 in severance thereunder and (ii) the assumption by AMRES of all
+obligations under that certain real property lease by and between the Company
+and Fifth Street Properties-DS, LLC. In conjunction with the abovementioned
+exchange, the following transactions are to occur: (i) the delivery by Rinehart,
+a shareholder and the sole officer and director of the Company, of his entire
+ownership interest in the Company, consisting of 988,275 shares of common stock,
+and 18,800 shares of Series F Convertible Preferred Stock, to Viking; (ii) the
+delivery by AMRES to Viking of its ownership interest in the Company, consisting
+of 4,137,500 shares of Company common stock; and (iii) delivery by AMRES Holding
+of warrants to acquire 250,000 shares of the Company's common stock to Viking.
+This agreement was closed on March 3, 2006. See Note 16 for detailed final
+terms.
+
+Series D Preferred Stock and Common Stock Transaction
+- -----------------------------------------------------
+
+      On September 30, 2005, AMRES Holding entered into a Stock Purchase
+Agreement with Cranshire Capital, L.P. ("Cranshire"), The dotCom Fund, LLC
+("dotCom"), and Keyway Investments, Ltd. ("Keyway") (each a "Seller" and
+collectively the "Sellers"), whereby the Sellers will sell to AMRES Holding, on
+or about December 30, 2005, an aggregate of 3,043,945 shares of the Company's
+common stock, 8,201.5 shares of the Company's Series D Preferred stock, and
+warrants to purchase 750,000 shares of the Company's common stock, in exchange
+for the total purchase price of $125,000. The Sellers do not bear a
+related-party relationship to Anza or its management. These securities will all
+be sold to Viking pursuant to the terms of Common Stock Purchase Agreement as
+reported above. These securities were sold to Viking on March 3, 2006, per the
+terms of the agreement.
+
+                                       14
+
+GunnAllen Transaction
+- ---------------------
+
+On October 12, 2005, the Company received a signed Securities Purchase Agreement
+dated September 16, 2005, by and between AMRES Holding and GunnAllen Financial,
+Inc., a Florida corporation ("GunnAllen"), whereby GunnAllen will sell to AMRES
+Holding, on or about December 30, 2005, warrants to acquire 450,000 shares of
+the Company's common stock in exchange for the total purchase price of $5,000.
+GunnAllen does not bear a related-party relationship to Anza or its management.
+These securities were sold to Viking on March 3, 2006, per the terms of the
+agreement.
+
+NOTE 14. CONTINGENCIES
+
+Indemnifications
+- ----------------
+
+On December 9, 2002, the Company received notification from HUD requesting
+indemnification on up to 23 loans brokered by a former loan officer of the
+Company. AMRES executed and provided an indemnification agreement to HUD, as
+requested. On February 13, 2003, HUD notified AMRES that (i) without the loans
+originated by this particular loan officer, AMRES' default and claim rate would
+be an acceptable level to HUD, and (ii) as a result of the termination of that
+loan officer, and the execution of the indemnification agreement, the matter was
+closed.
+
+During the year ended April 30, 2004, AMRES received two demands for payment
+from HUD on claims totaling approximately $170,000. The first demand involved
+losses on five properties and the second demand involved losses on an additional
+property. All six properties were part of the original 23 properties referred to
+above. AMRES carries errors and omissions insurance coverage, however, AMRES
+received notification from their errors and omissions insurance carrier that
+their claim for coverage was denied. As a result of this denial, AMRES estimated
+that their total potential liability under the indemnification agreement is
+approximately $300,000.
+
+To date, AMRES received demands for payments in the approximate amount of
+$250,000 and has paid all of the outstanding balance except for $110,000 for
+which AMRES is requesting a partial credit of $60,000 from HUD. The $60,000
+represents a surplus that HUD received on the sale of two of the indemnified
+properties.
+
+In May 2005, HUD conducted another audit of approximately 11 loan files
+originated by two of the company's branches in Riverside County, California.
+AMRES recently received the findings from this audit, and while there were
+various minor discrepancies noted, there were only a few nominal monetary
+assessments against AMRES .
+
+State Audits
+- ------------
+
+The Company is subject to certain state audits, which are typical in this
+industry. Often these audits uncover instances of non-compliance with various
+state licensing requirements. These instances of non-compliance may also
+translate into a particular state levying a fine or penalty against the Company
+along with the Company refunding any overpaid fees to the borrower. During the
+year ended April 30, 2004, the Company resolved actions with the states of
+Arizona, Kansas, Nevada and Virginia paying settlements totaling $93,000. The
+Company believes it is likely that a total of an additional $25,000 in the
+accompanying balance sheet as of April 30, 2004, which management believes is
+sufficient to cover any liability related to the audits. Subsequent to April 30,
+2004, the company paid $145,170 in state and HUD audit settlement.
+
+                                       15
+
+In June 2005, the Company was audited by the State of Virginia. The Company
+received the results of this audit and there were only minor issues raised and
+nominal fines assessed.
+
+Settlements or Resolved Matters
+- -------------------------------
+
+In November 2003, a former employee filed a lawsuit against the Company, the
+Chief Executive Officer of the Company, and AMRES. The Complaint alleged breach
+of contract and fraud arising out of the plaintiff's employment with the
+Company, and requested damages in excess of $5,000,000, plus attorney fees,
+interest, penalties, and punitive damages. The trial date was continued until
+December 6, 2004, but the matter was settled through mediation on November 24,
+2004. During the quarter ended July 31, 2005, 51,250 common shares issued to
+Jeff Hemm were cancelled as a result of the legal settlement. By the terms of
+the settlement agreement, the amount of the settlement is confidential but the
+terms were very favorable and resulted in no material impact to the Company.
+
+On June 1, 2004, the Company's subsidiary, American Residential Funding, Inc.,
+AMRES, agreed to settle a claim by a lender who sought recovery on two loans
+involving alleged misrepresentation by the borrowers. The claims were for
+amounts of approximately $200,000. On or about June 1, 2004, AMRES executed a
+settlement agreement for a total amount of $120,000, with an initial payment of
+$60,000 on June 1, 2004 and subsequent monthly payments of $10,000 for six
+months. The $120,000 is accrued in the financial statements as of April 30,
+2004. Subsequent to the quarter ended July 31, 2005, AMRES Company has paid
+this obligation in full.
+
+During the current fiscal year, a lender requested that AMRES reimburse them for
+two loans which went into default and were subsequently sold for a $150,000
+loss. The loans were brokered by a branch of the Company. On July 19, 2004, the
+Company settled with the lender agreeing to make monthly payments of $10,000
+starting on August 1, 2004 until a total of $138,000 was paid. As of April 30,
+2005, the Company had paid $80,000 related to this settlement, with the balance
+of $58,000 included in accrued liabilities in the accompanying consolidated
+balance sheet. This matter was recently settled without any further financial
+impact on the Company.
+
+In October 2003, a former employee filed a lawsuit against the Company, the
+Company's Chief Executive Officer and AMRES. The Complaint alleged breach of
+contract and fraud arising out of the plaintiff's employment with the Company
+and requested damages in excess of $2,000,000, plus attorney fees, interest,
+penalties, and punitive damages. The trial date was continued until March 2005,
+but the matter was settled through mediation on February 17, 2005. By the terms
+of the settlement agreement, the settlement amount is confidential, but the
+terms were favorable and resulted in no material impact to the Company.
+
+On or about July 3, 2003, AMRES filed a complaint against a former branch
+manager and filed an Amended Complaint on or about October 16, 2003. The
+allegations included breach of written contract; intentional and negligent
+misrepresentation; misappropriation of trade secrets; interference with economic
+relations; violation of Business & Professions Code 17200; breach of implied
+covenant of good faith and fair dealing; conversion and conspiracy. The
+defendant filed a cross-complaint against AMRES alleging that the Company
+misclassified her employment status and that AMRES was liable for money advanced
+on its behalf of approximately $250,000. The entire matter was settled on or
+about March 4, 2005. The terms of the settlement are confidential but were very
+favorable and resulted in no material impact to AMRES.
+
+                                       16
+
+On December 11, 2003, a competitor of AMRES filed a suit against AMRES alleging
+intentional interference with contract, conversion and trade name infringement,
+among other causes of action. The case settled through mediation in June 2005.
+The settlement agreement imposes a duty of good faith to refer at least one loan
+per month (on a broker basis) to the plaintiff until $8M in loan volume has been
+funded. Since the average loan amount to $400,000 approximately 20 loans will
+need to be referred and funded. The agreement does not contain a liquidated
+damages clause.
+
+On or about May 18, 2004, a former assistant in one of AMRES' branches filed a
+complaint alleging violations of California Labor Code Sections 202 and 203,
+claiming that the plaintiff was owed back commissions. AMRES believes that this
+claim lacks merit as the plaintiff was not licensed at the time of her claims
+and thus not entitled to any commissions by law. This case settled on April 1,
+2005 after a mandatory settlement conference. AMRES was not impacted by this
+settlement.
+
+On or about September 7, 2004, a complaint was filed against AMRES and its Chief
+Executive Officer alleging fraud, negligent misrepresentation and a promise made
+without intent to perform. The amount of damages claimed is approximately
+$250,000. On March 11, 2005, the Court sustained (without leave to amend)
+Defendants' Demurrer to plaintiff's Complaint. On May 25, 2005, the Court
+entered a Judgment of Dismissal of the entire action in the defendant's favor.
+
+In May of 2004 a borrower filed suit against AMRES, a branch manager and an
+individual, for allegations of fraud amongst other causes of action. The suit
+alleges that the individual named Paul Robertson deceived the borrowers who were
+seeking a construction loan to build a house on a vacant lot. The plaintiffs
+claim that they never received the house or the funds to construct the house and
+are seeking "compensatory damages exceeding $75,000" and "punitive damages
+exceeding $75,000". The plaintiffs are also seeking "reasonable attorneys' fees
+and costs. AMRES is defending on the grounds that Robertson was not their agent
+and to the extent that he and the agent were somehow defrauding borrowers, it
+was being done outside of the course and scope of any agency relationship with
+AMRES. AMRES believes that the case lacks merit and is defending vigorously.
+This case has just recently settled but the company's insurance carrier has
+indicated that it will be seeking a portion of the $215,000 it paid towards the
+settlement as an offset for claims it asserts are uncovered under the company's
+policy.
+
+On or about September 20, 2004, a Class Action Complaint was filed, alleging
+AMRES sent unsolicited advertisements to fax machines in violation of TCPA 47USC
+section 227. AMRES is defending vigorously and also tendered the matter to
+People's Home Loans (a company owned by a former branch manager of AMRES) for
+indemnification, as they were responsible for the actions that are subject to
+the Complaint. AMRES recently received an indication that this matter will be
+resolved with nominal financial impact to AMRES.
+
+On June 8, 2005 a former consultant of AMRES filed a complaint alleging that
+AMRES owes him $125,000 plus attorneys' fees due to a breach of contract. AMRES
+defended vigorously and filed a Cross-Complaint against the plaintiff, as AMRES
+believed that the plaintiff fraudulently induced AMRES into entering into the
+contract in the first place. This matter recently settled, a formal settlement
+agreement has been executed and dismissals of the complaint and cross-complaint
+have been filed.
+
+                                       17
+
+On June 17, 2005 a Lender filed a Complaint against AMRES alleging $70,000 in
+damages resulting from AMRES breaching a repurchase agreement. AMRES vigorously
+defended the matter and filed a Cross-Complaint against the Lender, the Lender's
+President and one of the Lender's executives, as AMRES believed that the
+Cross-Defendants induced AMRES into entering into the repurchase agreement under
+false pretenses. AMRES also believed that Cross-Defendants should have been
+forced to return the amounts already paid out by AMRES on the repurchase
+agreement. The matter has settled and all formal settlement agreements have been
+executed.
+
+Active Litigation
+- -----------------
+
+On January 23, 2004, a former employee filed a claim against AMRES in the
+Superior Court of California, for the County of Orange. The Complaint alleged
+breach of oral contract, claimed damages arising out of the plaintiff's
+employment with AMRES, and requested damages in excess of $50,000 plus attorney
+fees, interest, penalties and punitive damages. On February 17, 2005, the Court
+granted the Company's Motion for Summary Adjudication and dismissed all but one
+                         COMMISSION FILE NUMBER O-24512
+
+Adjudication as to the final cause of action and dismissed the case. AMRES
+believes the Plaintiff may be considering an appeal.
+
+On November 6, 2003, a borrower filed claim against AMRES in the Superior Court
+of California, City and County of Alameda. Amongst others also named as
+defendants in this matter, is a former Loan Officer in AMRES' San Francisco
+Branch Office. The complaint alleges fraudulent inducement of contract,
+rescission, conversion and negligence. Plaintiff's claim is for a total amount
+of $121,000 but AMRES believes that the plaintiff has not shown any viable claim
+through the discovery process and believes that AMRES will prevail at trial or
+even at a pretrial motion for Summary Judgment.
+
+In June 2004, an Orange County, California based landlord filed a lawsuit
+against AMRES. The suit alleges that AMRES a building lease and claims damages
+for the entire term of the lease through August 2007 of $886,332. AMRES filed an
+Answer to the Complaint and a Cross-Complaint against a former Branch Manager
+and his business associate who signed the lease in question purporting to be
+officers of the corporation. AMRES believes that this matter lacks merit and is
+defending vigorously in order to assure that the proper parties be accountable
+for any damages that are due the plaintiff. AMRES obtained information and
+believes that the office leases, which are the subject of this litigation, have
+been re-leased to new tenants and that fact alone significantly reduces any
+damages to the plaintiff.
+
+On or about July 30, 2004, a borrower filed a complaint against AMRES, alleging
+violations of Michigan Consumer Protection Act, breach of contract, and
+intentional infliction of emotional distress. The Company believes that there
+are third parties that, at the very least, share in the liability to the
+plaintiff and is vigorously seeking to show same through the formal discovery
+process.
+
+On or about November 10, 2004 a complaint was filed against AMRES alleging
+breach of contract and warranty; deceptive trade practices; fraud; conversion;
+negligence; breach of fiduciary duty; unjust enrichment and conspiracy. The
+Complaint alleges damages in the approximate amount of $295,000. AMRES is
+defending vigorously and has information and belief that there are third parties
+that will ultimately have liability in this matter and that plaintiff will also
+be found to share in the liability for its own damages. The plaintiff has
+expressed an interest in mediating the matter to a resolution.
+
+                                       18
+
+On or about November 24, 2004, a Class Action case was filed against AMRES, one
+of its former Branch Managers, and a third party entity, Spectrum Funding Group,
+Inc., which is operated by said former Branch Manager. The Complaint alleges
+damages & equitable relief for violations of the California Labor Codes; and
+California Unfair Business Practices Act. The matter was tendered to the former
+Branch Manager for indemnification based on his contract with AMRES. AMRES
+believes that the matter lacks merit and is defending vigorously. AMRES believes
+that this matter will likely be resolved with a nominal financial impact on
+AMRES.
+
+On or about December 15, 2004, a former loan officer filed a complaint against
+AMRES, alleging Breach of Contract and Conversion. AMRES believes that the
+matter lacks merit and is defending vigorously. AMRES has had very positive
+informal negotiations with plaintiff and his counsel and believes that the two
+sides are very close to resolving this matter without a significant financial
+impact on AMRES.
+
+On March 31, 2005 a borrower filed a Complaint against AMRES, as well as, an
+Investor of AMRES and a Company to whom said Investor sold plaintiff's loan. The
+Complaint alleges Fraud; RESPA (12 U.S.C.A. section 2601 and TILA (15 U.S.C.A.
+section 1601 and its Regulation Z) violations. Defendants have filed for removal
+of case to Arbitration and are vigorously defending.
+
+On April 22, 2005 an individual filed a Complaint against AMRES and third
+parties, alleging counts of fraud, conversion, intentional infliction of
+emotional distress, (MCPA) MCL 445.901, (CSPA) MCL 445.1822(b), temporary &
+permanent injunction, breach of fiduciary duty, allegations of MCLA 440.3420 -
+conversion and negligence. AMRES is defending vigorously and is preparing a
+motion for summary judgment requesting that the Court dismiss AMRES as it is
+never closed a transaction for the individual and received no compensation from
+AMRES that did close a transaction for the individual.
+
+On May 2, 2005 a Lender filed a Complaint against AMRES alleging money
+agreements between the parties were breached. The Complaint states that
+plaintiff is owed $50,531 in monetary damages and attorneys' fees in the amount
+of $2,165. AMRES is defending vigorously and believes that it will show that
+plaintiff is not entitled to any money from AMRES.
+
+On July 26, 2005 a Lender filed a Complaint against AMRES alleging breach of
+contract, negligence, and negligent misrepresentation. The Complaint alleges
+damages in excess of $25,000, punitive damages, attorney's fees, interest and
+costs. Plaintiff has provided actual damage estimates in the range of $300,000
+to $350,000. The complaint involves approximately 14 loans that allegedly
+originated at a former branch of AMRES in Michigan. Although the matter was
+recently filed, AMRES believes that substantial liability in this case wrests
+with the plaintiff itself as well as various individuals that were employed by
+AMRES but were acting outside the course and scope of their employment in
+relationship to the alleged damages suffered by plaintiff. AMRES recently
+received a notice that its insurance carrier is denying coverage for this case.
+AMRES will be appealing the denial while it continues to defend the matter.
+
+19
+
+On June 22, 2005, a Class Action Complaint was filed alleging that American
+Residential Funding unlawfully used a telephone facsimile machine to send at
+least one (1) unsolicited advertisement (unsolicited fax) defined in and in
+violation of the TCPA, 47 U.S.C., section 227(a)(4).
+
+On June 28, 2005 a Complaint was filed alleging violations of the following:
+Truth and Lending, Michigan Credit Services Protection Act, Michigan Home
+Solicitation Sales Act, Michigan Consumer Protection Act, Mortgage Brokers,
+Lenders & Servicers Act and Usury.
+
+On September 6, 2005, a Complaint was filed by a Lender alleging breach of
+contract and negligence as to Defendant AMRES stating that due to
+misrepresentation or fraud contained in the loan files AMRES has breached the
+"Lending Agreement" filed a complaint against AMRES. The claim involves alleged
+deficiencies with as many as 80 loans with alleged damages in the range of
+$400,000 to $450,000. AMRES also received a notice that its insurance carrier is
+denying coverage for this case. AMRES will be appealing this denial as well.
+AMRES believes that it has valid defenses and is defending the case vigorously.
+
+On September 26, 2005 a complaint alleging breach of contract was filed stating
+that defendant AMRES breached the terms contained within the AMRES Branch
+Operating and Management Agreement as follows: failure to provide the necessary
+qualifications and licensing from the Arizona State Banking Department; failure
+to provide and maintain qualified responsible individuals to represent AMRES;
+inability and failure to handle, process, and close residential loans in a
+timely manner; change of branch lender status without prior notice; charging
+loan fees which were in excess of the agreed fee structure.
+
+On August 24, 2005 a complaint was filed, alleging unpaid commissions in an
+amount exceeding $120,000, as well as, violations of Colorado Wage Statute, CRS
+section 8-4-109. The Complaint also seeks attorney's fees, penalties and
+punitive damages, interest and costs pursuant to CRCP 16.1(c). AMRES will be
+defending the matter vigorously and will be seeking to have the case transferred
+to California. The contract upon which the Complaint is based provides for the
+proper venue for such contract claims to be in Orange County, California, where
+AMRES is based.
+
+NOTE 15. SALE AND DISPOSITION OF ASSETS TO RELATED PARTY
+
+On December 28, 2005, a Warranty bill of Sale was executed which sold certain
+AMRES assets to AMRES Holding, LLC, a corporation owned by Vincent Rinehart, the
+CEO of ANZA. The sale resulted in a total loss of $110,611 to AMRES. The
+following described chattels and personal properties were included in the sale:
+1.) Wells Fargo Bank Savings Account #690-6530787 as of 12-19-05 in the sum of
+$125,000.00 pledged as a collateral for Surety Bonds issued by The Hartford
+Insurance Company, VA; 2)166,667 shares of stock in M-GAB Development Corp and
+166,667 warrant securities as fully described in warrant purchase agreement
+dated March 8, 2004, all of which have been fully assigned to Seller from Anza
+Capital, Inc.; 3) complete Nortel Phone system, including all software, numbers
+and hardware, and which AMRES Holding agrees to assume the lease/purchase
+contract associated with said system; 4) all websites and URL's owned by AMRES
+including but not limited to
+loancomp.com;amres.net;americanresidentialfunding.com;amresdirect.com/net/biz;
+Fhafunding.com;losangeleshomeloans.com;lasvegashomeloan.com;
+residentialfunding.com; redcarpetmortgage.com 5) any and all copyright or
+trademarks seller owns or claims title to, including but not limited to AMRES,
+American Residential Funding, the "eagle/home in red/white/blue" image, as well
+as all trademarks rights associated with same; 6) all lawsuits wherein American
+Residential funding, Inc. is the Plaintiff, including but not limited to:
+various small claims against Shuler, Rothwell, Qayed, Harding, Henderson, and
+civil suits against Herrera, Winters, Oreste.
+
+                                       20
+
+NOTE 16. COMPLETION OF ACQUISITION OR DISPOSITION OF ASSETS
+
+On March 3, 2006, we completed the disposition of substantially all of our
+assets, including but not limited to, all of our ownership interest in our
+subsidiary, American Residential Funding, Inc., a Nevada corporation ("AMRES")
+to AMRES Holding, LLC, a Nevada limited liability company ("AMRES Holding")
+under control of Vince Rinehart, a shareholder and our sole officer and director
+("Rinehart"). Effective on September 30, 2005, the disposition was approved by
+written consent of a majority of our stockholders.
+
+In exchange for substantially all of our assets, including but not limited to,
+all of our ownership interest in AMRES, (i) Rinehart delivered a majority of his
+ownership interest in Anza, consisting of 831,375 shares of common stock and
+1,880,000 shares of our common stock acquired upon the conversion of 18,800
+shares of Series F Convertible Preferred Stock, to Viking Investments USA, Inc.,
+a Delaware corporation ("Viking"). Rinehart kept 156,900 shares of our common
+stock; (ii) Rinehart terminated that certain Employment Agreement dated June 1,
+2001, by and between Rinehart and Anza; (iii) AMRES assumed all obligations
+under that certain real property lease by and between Anza and Fifth Street
+Properties-DS, LLC; (iv) AMRES delivered to Viking its ownership interest in
+Anza, consisting of 4,137,500 shares of our common stock; and (v) AMRES Holding
+delivered warrants to acquire 250,000 shares of our common stock to Viking.
+
+The consideration given or received for the assets was determined by arm's
+length negotiations between all the parties involved.
+
+ITEM 2 MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+       OF OPERATIONS
+
+         This Form 10-Q report may contain forward-looking statements which
+involve risks and uncertainties. Such forward-looking statements include, but
+are not limited to, statements regarding future events and the Company's plans
+and expectations. The Company's actual results may differ significantly from the
+results discussed in forward-looking statements as a result of certain factors,
+including those discussed in the Company's Form 10-K for the period ended April
+30, 2005, the Company's 10-Q for the period ended October 31, 2005, and this
+report. The Company expressly disclaims any obligations or undertaking to
+release publicly any updates or revisions to any forward-looking statements
+contained herein to reflect any change in the Company's expectations or any
+events, conditions or circumstances on which any such statement is based.
+
+OVERVIEW
+
+      We are a holding company which currently operates primarily through one
+(1) active subsidiary.
+
+      o     AMERICAN RESIDENTIAL FUNDING, INC., a Nevada Corporation (AMRES)
+            provides home financing through loan brokerage and banking
+
+                                       21
+
+Inactive Subsidiaries
+
+      o     TITUS REAL ESTATE, LLC, a California limited liability company
+            (TITUS REAL ESTATE) is currently non-operational.
+
+      o     BRAVO REALTY.COM, a Nevada Corporation (BRAVO), was a real estate
+            sales company focused solely in California. BRAVO REAL ESTATE
+            SERVICES, INC. (BRAVO REAL ESTATE NETWORK) and Bravo Realty.com were
+            sold in April, 2005.
+
+Discontinued Operations:
+
+      o     AMRES DIRECT, INC., formerly Red Carpet Holdings, Inc., was
+            activated in 2004 to focus on direct-to-consumer marketing. The
+            Company has not generated revenue and has incurred minimal expenses.
+
+      o     EXPIDOC.COM, a California Corporation (EXPIDOC) arranged for
+            notaries to provide document signing services for lenders across the
+            country. Effective January 31, 2004, we suspended operations at
+            Expidoc. This decision was a result of a sudden shift in customer
+            mix, as Expidoc's largest customer (Ditech.com) ceased using Expidoc
+            as a third party provider of notary services.
+
+      As shown below, AMRES has consistently provided the majority of our
+consolidated revenue. The industry in which AMRES operates can be highly
+volatile and is largely dependent on interest rates.
+
+                     Percentage of Total Revenues by Service
+
+                             % YTD Revenue         % YTD Revenue
+                           January 31, 2006       January 31, 2005
+                           ------------------    -------------------
+Loan Brokering                      98.88%              97.00%
+Mortgage Banking                      .12%               1.07%
+Real Estate Brokerage                 .00                1.93%
+
+        Total                     100.00 %            100.00 %
+
+CRITICAL ACCOUNTING POLICIES
+
+         Anza's consolidated financial statements and related public financial
+information are based on the application of accounting principles generally
+accepted in the United States of America ("GAAP"). GAAP requires the use of
+estimates, assumptions, judgments and subjective interpretations of accounting
+principles that have an impact on the assets, liabilities, revenue and expense
+amounts reported. These estimates can also affect supplemental information
+contained in the external disclosures of Anza, including information regarding
+contingencies, risk and financial condition. Anza believes its use of estimates
+and underlying accounting assumptions adhere to GAAP and are consistently and
+conservatively applied. Valuations based on estimates are reviewed for
+reasonableness and conservatism on a consistent basis throughout Anza. Primary
+areas where financial information of Anza is subject to the use of estimates,
+assumptions and the application of judgment include losses on loans held for
+sale and indemnifications associated with loans brokered. In addition, we are
+subject to litigation in the normal course of business. We assess the
+probability and financial exposure when determining when a liability for losses
+should be recorded. In addition, the recoverability of deferred tax assets must
+be assessed as to whether these assets are likely to be recovered by Anza
+through future operations. We base our estimates on historical experience and on
+various other assumptions that we believe to be reasonable under the
+circumstances. Actual results may differ materially from these estimates under
+different assumptions or conditions. We continue to monitor significant
+estimates made during the preparation of our financial statements.
+
+                                       22
+
+Revenue Recognition
+
+         Commissions generated from brokering loans are recognized at the date
+of settlement. Loan origination fees are deferred and recorded upon the sale of
+loans to third parties without recourse, and whereby ANZA has no continuing
+involvement.
+
+Loans Held for Sale
+
+         Loans held for sale represent mortgage loans originated and held by
+AMRES, pending sale, to interim and permanent investors. AMRES sells loans it
+originates, typically within 30 days of origination, rather than holding them
+for investment. AMRES sells loans to institutional loan buyers under existing
+contracts. AMRES sells the servicing rights to its loans at the time it sells
+those loans. Typically, AMRES sells the loans with limited recourse. This means
+that, with some exceptions, the Company reduces its exposure to default risk at
+the time it sells the loan, except that it may be required to repurchase the
+loan if it breaches the representations or warranties that it makes in
+connection with the sale of the loan, in the event of an early payment default,
+or if the loan does not comply with the underwriting standards or other
+requirements of the ultimate investor. In the event AMRES is required to
+repurchase a loan, management will assess the impact of losses, which results
+from a repurchased loan. To date, no loans have been repurchased which were
+originated, funded and sold by AMRES; however, the Company has participated in
+settlements for damages as a result of default loans. The mortgage banking
+operations have been discontinued as of May 31, 2005 because of the closure of
+the warehouse line of credit due to AMRES inability to meet the maximum
+deductible requirement for the errors and omissions insurance. All loans were
+sold as of the nine months ended January 31, 2006.
+
+         Gains and losses on loans sold are recognized at the time legal title
+transfers to the investor based upon the difference between the sales proceeds
+and the basis of the loan sold. Basis in the loans held for sale includes the
+cost of the loan, less loan and processing fees charged to the borrower, plus
+certain direct costs. The mortgages are carried at the lower of cost or market
+as determined by outstanding commitments from investors or current investor
+yield requirements calculated on the aggregate loan basis. Management evaluates
+impairment of loans held for sale based on their estimated fair value. If
+impairment exists, AMRES records a charge to earnings.
+
+Income Taxes
+
+         We recognize deferred tax assets and liabilities based on the
+differences between the financial statement carrying amounts and the tax bases
+of assets and liabilities. We review our deferred tax assets for recoverability
+and establish a valuation allowance based upon historical losses, projected
+future taxable income and the expected timing of the reversals of existing
+temporary differences. During the three months ended January 31, 2006 and 2005,
+we estimated the allowance on net deferred tax assets to be one hundred percent
+(100%) of the net deferred tax assets.
+
+                                       23
+
+RESULTS OF OPERATIONS FOR THE THREE MONTHS ENDED JANUARY 31, 2006 COMPARED TO
+THE THREE MONTHS ENDED JANUARY 31, 2005
+
+Introduction
+
+         Management's decision to close down operations has caused the decline
+in revenue, although administrative expenses were reduced because of reduction
+of personnel and ordering of supplies.
+
+Revenues
+
+         Out of revenues of $7,501,006 for the quarter ended January 31, 2006,
+100.0% were generated from broker commissions, compared to total revenues of
+$11,075,136 and revenues from broker commissions of $11,002,585 or 99.3% for the
+quarter ended January 31, 2005. Total revenues decreased by $3,574,130 or
+(32.27%) for the quarter ended January 31, 2006 compared to the quarter ended
+January 31, 2005. The decrease in revenues compared to last year directly
+related to management's decision to discontinue operations in mortgage banking.
+
+         AMRES is the only active subsidiary under ANZA and has generated 100%
+of the revenues this quarter.
+
+Cost of Revenues
+
+         Cost of revenues is comprised of salaries to employees along with
+commissions. Commissions are paid on loans funded. Other costs include other
+various loan related expenses, such as referral fees, processing fees,
+underwriting fees, and other miscellaneous fees related to brokered revenues.
+Cost of revenues decreased by $670,467 or 8.90%, for the quarter ended January
+31, 2006, to $6,871,008 from $7,541,475 for the quarter ended January 31, 2005.
+Notary and other costs associated with Expidoc.com and Bravorealty.com decreased
+by $152,303, or 100%. These decreases compared to last year are directly related
+to the discontinued operations of Expidoc.com and the transfer of ownership of
+bravorealty.com, while the decrease from last quarter is directly related to an
+overall decrease in operations and loan volume.
+
+                                       24
+
+Consolidated gross profit decreased by $2,903,663 or 82.17% for the
+quarter ended January 31, 2006 to $629,998 from $3,533,661 for the quarter ended
+January 31, 2005. The decrease was directly related to the discontinued
+operation of mortgage banking.
+
+General and Administrative Expenses
+
+         General and administrative expenses totaled $786,457 for the quarter
+ended January 31, 2006, compared to $2,384,927 for the quarter ended January 31,
+2005. This decrease of $1,598,470 compared to last year, can be directly
+attributed to decrease in branch personnel expenses and branch management
+expenses and reduction of corporate staff.
+
+Selling and Marketing Expense
+
+         Selling and marketing expense relates primarily to costs incurred for
+prospecting activities to obtain new clients (borrowers). These costs include
+acquiring "leads" which translate into funded loans. There were no selling and
+marketing expenses for the quarter ended January 31, 2006 compared to $242,343
+in the quarter ended January 31, 2005. The non-incurrence of expense was due to
+branches closing down and discontinuing of the mortgage banking division of
+AMRES.
+
+Interest Expense
+
+         Interest expense was an adjustment of $5,176 as of January 31, 2006,
+compared to $121,990 as of January 31, 2005. This adjustment was made resulting
+from reversal of interest accrual. Interest expense is primarily related to
+interest paid on our warehouse line of credit. The line of credit was not
+renewed upon maturity on May 31, 2005 due to Anza's inability to meet the errors
+and omissions maximum deductible guideline of the warehouse line provider. The
+decrease in the interest expense compared to last year was due to the
+discontinued operations of the mortgage banking division of AMRES.
+
+Income Taxes
+
+         Our income taxes have not been material during the periods presented
+because of utilization of Anza's net operating loss carryforwards for federal
+income tax reporting purposes. California suspended net operating losses usage
+for fiscal 2004 and 2005. The Company has no significant current or deferred
+income tax expense during the periods presented.
+
+Net Income (Loss)
+
+         We realized a net loss of $334,569 for the quarter ended January 31,
+2006 compared to a net loss of $384,219 for the quarter ended January 31, 2005.
+The decrease compared to last year was due to reduction of costs.
+
+RESULTS OF OPERATIONS FOR THE NINE MONTHS ENDED JANUARY 31, 2006 COMPARED TO THE
+NINE MONTHS ENDED JANUARY 31, 2005
+
+Introduction
+
+         Our revenues, general and administrative expenses, selling and
+marketing expenses, and net income (loss) for the nine months ended January 31,
+2006 and 2005 are as follows:
+
+                                       25
+
+Revenues
+
+         Total revenues decreased by $3,710 for the nine months ended January
+31, 2006 as compared to the nine month ended January 31, 2005. Revenues remained
+relatively flat because of the impact of increased interest rates on our volume
+of refinancing business, offset by an increased average loan size as a result of
+increased property values in most regions of the country.
+
+Cost of Revenues
+
+         Cost of revenues is comprised of salaries to employees along with
+commissions. Commissions are paid on loans funded. Other costs include other
+various loan related expenses, such as referral fees, processing fees,
+underwriting fees, and other miscellaneous fees related to brokered revenues.
+Cost of revenues decreased by $446,930 for the nine months ended January 31,
+2006 compared to the nine months ended January 31, 2005. These decreases
+compared to last year are directly related to the discontinued operations of
+Expidoc.com and the transfer of ownership of Bravorealty.com and closing of
+branches.
+
+         Consolidated gross profit decreased by $3,123,877 for the nine months
+ended January 31, 2006 compared to the nine months ended January 31, 2005. The
+decrease in the gross profit compared to last year was attributable to the
+decrease in production due to closure of branches.
+
+General and Administrative Expenses
+
+         General and administrative expenses decreased by $800,080 for the nine
+months ended January 31, 2006 compared to the nine months ended January 31,
+2005. This decrease compared to last year can be directly attributed to decrease
+in branch personnel expenses and branch management expenses and reduction of
+corporate staff.
+
+Selling and Marketing Expense
+
+         Selling and marketing expense relates primarily to costs incurred for
+prospecting activities to obtain new clients (borrowers). These costs include
+acquiring "leads" which translate into funded loans. Selling and marketing
+expenses for the nine months ended January 31, 2006 increased by $1,079,510
+compared to nine months ended January 31, 2005 and this could be attributed in
+increased marketing to generate more sales.
+
+                                       26
+
+Interest Expense
+
+         Interest expense increased by $177,869 for the nine months ended
+January 31, 2006 as compared to the nine months ended January 31, 2005. Interest
+expense is primarily related to interest paid on our warehouse line of credit.
+The line of credit was not renewed upon maturity on May 31, 2005 due to Anza's
+inability to meet the errors and omissions maximum deductible guideline of the
+warehouse line provider. The increase in interest expense for the nine months
+this year was attributed to the amortization of discounts related to Series G
+Preferred stocks totaling $281,322.
+
+Income Taxes
+
+         Our income taxes have not been material during the periods presented
+because of utilization of Anza's net operating loss carryforwards for federal
+income tax reporting purposes. California suspended net operating losses usage
+for fiscal 2004 and 2005. The Company has no significant current or deferred
+income tax expense during the periods presented.
+
+Net Income (Loss)
+
+         We realized a net loss of $1,344,365 for the nine months ended January
+31, 2006 compared to a net loss of $1,649,879 for the nine months ended January
+31, 2005. The decrease compared to last year was due to reduction of costs.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Introduction
+
+         Our cash position remains strong with over $1.25 million on hand as of
+January 31, 2006, compared to $2.3 million as of January 31, 2005. Our current
+liabilities exceed our current assets by $2,214,050. However, if our revenues
+continue to decline and we are unable to offset the declines by shedding
+overhead costs, our cash balances will decrease noticeably. In addition, any
+significant changes to our estimates of exposure from contingent liabilities
+could have a severe adverse effect on our liquidity and capital resources
+
+Cash Flows
+
+         Net cash provided by (used in) operating activities was $5,764,471 for
+the nine months ended January 31, 2006, compared to $1,058,192 for the nine
+months ended January 31, 2005. For the nine months ended January 31, 2006, we
+recorded a net loss of ($1,344,365) compared to a net loss of ($1,649,879) for
+the nine months ended January 31, 2005. In both periods, the changes in our
+loans held for sale was the primary contributor to the net cash provided by
+(used in) operating activities in the amount of $5,764,471 and $1,058,192 as of
+January 31, 2006 and 2005, respectively. In addition, for the current nine
+months, an increase in accrued liabilities in the amount of $173,891 and an
+increase in accounts payable in the amount of $33,867 were contributors to the
+cash provided by operating activities.
+
+         Net cash (used in) investing activities was $25,774 for the nine months
+ended January 31, 2006 compared to cash provided by investing activities of
+$1,100 for the nine months ended January 31, 2005. For the nine months ended
+January 31, 2006, net cash provided by investing activities relates to the sale
+of property and equipment and investments.
+
+                                       27
+
+Net cash provided by (used in) financing activities was ($5,856,128)
+and ($1,018,983) for the nine months ended January 31, 2006 and January 31,
+2005, respectively. The most significant contributor to the cash used in
+financing activities during the nine months ended January 31, 2006, relates
+primarily to payments on our warehouse line of credit in the amount of
+$(5,778,298). During the nine months ended January 31, 2005, the major
+contributor in the net cash used in financing activities was from payments to
+advances from our warehouse line of credit.
+
+Liquidity
+
+         Our cash on hand at January 31, 2006 amounted to $1,250,956 and our
+working capital shortfall was $2,214,050. Our current obligations consist
+primarily of liabilities generated in the ordinary course of business. We have
+no long-term debt which we need to service in the near term.
+
+Interest Rates
+
+         We are vulnerable to increases in interest rates. Our business over the
+past two years has increased due to mortgage refinancings which resulted from
+declining interest rates. The sub-prime lending market is less vulnerable to
+increases in interest rates, because interest rates charges to these borrowers
+is significantly higher and less volatile to changes in interest rates.
+Significant increases in interest rates could have an adverse impact on our
+financial condition, results of operations and cash flows.
+
+Seasonality
+
+         We experience slow loan production in the months of January through
+March because of the low number of applications we receive in December and
+January relative to the other months during the year. We historically have
+incurred losses during the months of February and March because of seasonality.
+
+ITEM 3 QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+         Interest rate movements significantly impact our volume of closed loans
+and represent the primary component of market risk to us. In a higher interest
+rate environment, consumer demand for mortgage loans, particularly refinancing
+of existing mortgages, declines. Interest rate movements affect the interest
+income earned on loans held for sale, interest expense on the warehouse lines
+payable, the value of mortgage loans held for sale and ultimately the gain on
+sale of mortgage loans.
+
+         Our primary financial instruments are cash in banks and money market
+instruments. We do not believe that these instruments are subject to material
+potential near-term losses in future earnings from reasonably possible near-term
+changes in market rates or prices. We do not have derivative financial
+instruments for speculative or trading purposes. We are not currently exposed to
+any material currency exchange risk.
+
+ITEM 4 CONTROLS AND PROCEDURES
+
+            Evaluation of Disclosure Controls and Procedures
+
+                                       28
+
+We conducted an evaluation, with the participation of our Chief
+Executive Officer and Chief Financial Officer, of the effectiveness of the
+design and operation of our disclosure controls and procedures, as defined in
+Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of 1934, as
+amended, or the Exchange Act, as of January 31, 2006, to ensure that information
+required to be disclosed by us in the reports filed or submitted by us under the
+Exchange Act is recorded, processed, summarized and reported, within the time
+periods specified in the Securities Exchange Commission's rules and forms,
+including to ensure that information required to be disclosed by us in the
+reports filed or submitted by us under the Exchange Act is accumulated and
+communicated to our management, including our principal executive and principal
+financial officers, or persons performing similar functions, as appropriate to
+allow timely decisions regarding required disclosure. Based on that evaluation,
+our Chief Executive Officer and Chief Financial Officer have concluded that as
+of January 31, 2006, our disclosure controls and procedures were not effective
+at the reasonable assurance level due to the material weaknesses described
+below.
+
+            In light of the material weaknesses described below, we performed
+additional analysis and other post-closing procedures to ensure our consolidated
+financial statements were prepared in accordance with generally accepted
+accounting principles. Accordingly, we believe that the consolidated financial
+statements included in this report fairly present, in all material respects, our
+financial condition, results of operations and cash flows for the periods
+presented.
+
+            A material weakness is a control deficiency (within the meaning of
+the Public Company Accounting Oversight Board (PCAOB) Auditing Standard No. 2)
+or combination of control deficiencies, that results in more than a remote
+likelihood that a material misstatement of the annual or interim financial
+statements will not be prevented or detected. Management has identified the
+following two material weaknesses which have caused management to conclude that,
+as of January 31, 2006, our disclosure controls and procedures were not
+effective at the reasonable assurance level:
+
+            1. We were unable to meet our requirements to timely file our Form
+10-Q for the quarter ended July 31, 2005 or our Form 10-K for the year ended
+April 30, 2005. Management evaluated the impact of our inability to timely file
+periodic reports with the Securities and Exchange Commission on our assessment
+of our disclosure controls and procedures and has concluded that the control
+deficiency that resulted in the inability to timely make these filings
+represented a material weakness.
+
+            2. We did not maintain a sufficient complement of finance and
+accounting personnel with adequate depth and skill in the application of
+generally accepted accounting principles. In addition, we did not maintain a
+sufficient complement of finance and accounting personnel to handle the matters
+necessary to timely file our Form 10-Q for the quarter ended July 31, 2005 or
+our Form 10-K for the year ended April 30, 2005. Management evaluated the impact
+of our lack of sufficient finance and accounting personnel on our assessment of
+our disclosure controls and procedures and has concluded that the control
+deficiency that resulted in our lack of sufficient personnel represented a
+material weakness.
+
+            To address these material weaknesses, management performed
+additional analyses and other procedures to ensure that the financial statements
+included herein fairly present, in all material respects, our financial
+position, results of operations and cash flows for the periods presented.
+
+                                       29
+
+Remediation of Material Weaknesses
+
+            To remediate the material weaknesses in our disclosure controls and
+procedures identified above, subsequent to April 30, 2005, in addition to
+working with our independent auditors, we retained a third-party consultant to
+advise us regarding our financial reporting process.
+
+Changes in Internal Control over Financial Reporting
+
+            Except as noted above, there were no changes in our internal control
+over financial reporting, as defined in Rules 13a-15(f) and 15d-15(f) under the
+Exchange Act, during our most recently completed fiscal quarter that have
+materially affected, or are reasonably likely to materially affect, our internal
+control over financial reporting.
+
+30
+
+PART II - OTHER INFORMATION
+
+ITEM 1 LEGAL PROCEEDINGS
+
+The Irvine Company
+
+         In June 2004 a lawsuit was filed against our subsidiary, American
+Residential Funding, Inc. ("AMRES") by the Irvine Company. The action was filed
+in the Superior Court of California in the County of Orange, case number
+04CC006842. The suit alleges that AMRES breached a building lease and claims
+damages for the entire term of the lease through August 2007 of $886,332.44.
+AMRES recently filed an Answer to the Complaint and a Cross-Complaint against a
+former Branch Manager and his business associate who signed the lease in
+question purporting to be officers of the corporation. AMRES believes that this
+matter lacks merit and will litigate the case vigorously to hold the proper
+parties accountable for any damages that are due the plaintiff.
+
+First American Title Insurance
+
+         In November 2004, a lawsuit was filed against our subsidiary, American
+Residential Funding, Inc., by First American Title Insurance in the State of
+Arkansas, County of Saline, case number CV-2004-875-1. The Complaint alleges
+breach of contract and warranty, breach of fiduciary duty, unjust enrichment,
+and conspiracy, and requests damages of $294,700, plus accrued interest. AMRES
+filed an Answer and is vigorously defending the action as AMRES believes it
+lacks merit.
+
+Other Proceedings
+
+         On June 8, 2005 a former consultant of the Company filed a complaint
+alleging that the Company owes him $125,000 plus attorneys' fees due to a breach
+of contract. The Company is defending vigorously and has filed a Cross-Complaint
+against the plaintiff as the Company believes that the plaintiff fraudulently
+induced the Company into entering into the subject contract. The matter has
+settled and all formal settlement agreements have been executed.
+
+         On June 17, 2005 a Lender filed a Complaint against the Company
+alleging $70,000 in damages resulting from the Company breaching a repurchase
+agreement. The Company is vigorously defending the matter and has filed a
+Cross-Complaint against the Lender, the Lender's President and one of the
+Lender's executives as the Company believes that the Cross-Defendants induced
+the Company into entering into the repurchase agreement under false pretenses.
+The Company also believes that Cross-Defendants should be forced to return the
+amounts already paid out by the Company on the repurchase agreement. The matter
+has settled and all formal settlement agreements have been executed.
+
+ITEM 2 UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+
+         There have been no events which are required to be reported under this
+Item.
+
+ITEM 3 DEFAULTS UPON SENIOR SECURITIES
+
+         There have been no events which are required to be reported under this
+Item.
+
+ITEM 4 SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+         There have been no events which are required to be reported under this
+Item.
+
+ITEM 5 OTHER INFORMATION
+
+        On September 19, 2005, we entered into a Common Stock Purchase Agreement
+whereby Vince Rinehart, a shareholder and our sole officer and director
+("Rinehart") and AMRES Holding, LLC, a Nevada limited liability company under
+control of Rinehart ("AMRES Holding") will sell a total combined amount of
+approximately 10,379,731 shares of our common stock and warrants to purchase a
+total of 3,450,000 shares of our common stock (the "Securities"), to Viking
+Investments USA, Inc., a Delaware corporation ("Viking"), on or about October
+28, 2005, for an aggregate purchase price of $375,000. Viking does not bear a
+related-party relationship to Anza or its management. The anticipated closing
+date has been changed by agreement of the parties to December 30, 2005. This
+agreement was closed on March 3, 2006.
+
+         On September 23, 2005, we received a signed Securities Purchase
+Agreement dated September 16, 2005 from Peter and Irene Gauld (the "Gaulds"), by
+and between AMRES Holding and the Gaulds, whereby the Gaulds will sell to AMRES
+Holding, on or about October 28, 2005, warrants to acquire 2,000,000 shares of
+common stock of Anza in exchange for the total purchase price of $10,000. The
+Gaulds do not bear a related-party relationship to Anza or its management. The
+anticipated closing date has been changed by agreement of the parties to
+December 30, 2005. These securities were sold to Viking on March 3, 2006, per
+the terms of the agreement.
+
+         On September 30, 2005, we entered into a Reorganization, Stock and
+Asset Purchase Agreement by and among Anza and AMRES, on the one hand, and
+Rinehart and AMRES Holding, on the other hand, whereby we will sell
+substantially all of our assets to AMRES Holding, on or about November 8, 2005,
+including but not limited to all of our ownership interest in our subsidiary,
+AMRES, in exchange for (i) the termination by Rinehart, the managing member of
+AMRES Holding, of that certain Employment Agreement dated June 1, 2001, by and
+between Rinehart and the Company, including the waiver of $500,000 in severance
+thereunder and (ii) the assumption by AMRES of all obligations under that
+certain real property lease by and between the Company and Fifth Street
+Properties-DS, LLC. In conjunction with the abovementioned exchange, the
+following transactions will occur: (i) the delivery by Rinehart, a shareholder
+and the sole officer and director of the Company, of his entire ownership
+interest in the Company, consisting of 988,275 shares of common stock, and
+18,800 shares of Series F Convertible Preferred Stock, to Viking; (ii) the
+delivery by AMRES to Viking of its ownership interest in the Company, consisting
+of 4,137,500 shares of Company common stock; and (iii) delivery by AMRES Holding
+of warrants to acquire 250,000 shares of the Company's common stock to Viking.
+The anticipated closing date has been changed by agreement of the parties to
+December 30, 2005. This agreement was closed on March 3, 2006. See Note 16 in
+the consolidated financial statements for detailed final terms.
+
+                                       31
+
+On September 30, 2005, AMRES Holding entered into a Stock Purchase
+Agreement with Cranshire Capital, L.P. ("Cranshire"), The dotCom Fund, LLC
+("dotCom"), and Keyway Investments, Ltd. ("Keyway") (each a "Seller" and
+collectively the "Sellers"), whereby the Sellers will sell to AMRES Holding, on
+or about November 8, 2005, an aggregate of 3,043,945 shares of our common stock,
+8,201.5 shares of our Series D Preferred stock, and warrants to purchase 750,000
+shares of our common stock, in exchange for the total purchase price of
+$125,000. The anticipated closing date has been changed by agreement of the
+parties to December 30, 2005. The Sellers do not bear a related-party
+relationship to Anza or its management. These securities will all be sold to
+Viking pursuant to the terms of Common Stock Purchase Agreement as reported in
+our Current Report on Form 8-K dated September 23, 2005. These securities were
+sold to Viking on March 3, 2006.
+
+Subsequent event
+- ----------------
+
+    Completion of Acquisition or Disposition of Assets.
+
+         On March 3, 2006, we completed the disposition of substantially all of
+our assets, including but not limited to, all of our ownership interest in our
+subsidiary, American Residential Funding, Inc., a Nevada corporation ("AMRES")
+to AMRES Holding, LLC, a Nevada limited liability company ("AMRES Holding")
+under control of Vince Rinehart, a shareholder and our sole officer and director
+("Rinehart"). Effective on September 30, 2005, the disposition was approved by
+written consent of a majority of our stockholders.
+
+         In exchange for substantially all of our assets, including but not
+limited to, all of our ownership interest in AMRES, (i) Rinehart delivered a
+majority of his ownership interest in Anza, consisting of 831,375 shares of
+common stock and 1,880,000 shares of our common stock acquired upon the
+conversion of 18,800 shares of Series F Convertible Preferred Stock, to Viking
+Investments USA, Inc., a Delaware corporation ("Viking"). Rinehart kept 156,900
+shares of our common stock; (ii) Rinehart terminated that certain Employment
+Agreement dated June 1, 2001, by and between Rinehart and Anza; (iii) AMRES
+assumed all obligations under that certain real property lease by and between
+Anza and Fifth Street Properties-DS, LLC; (iv) AMRES delivered to Viking its
+ownership interest in Anza, consisting of 4,137,500 shares of our common stock;
+and (v) AMRES Holding delivered warrants to acquire 250,000 shares of our common
+stock to Viking.
+
+         The consideration given or received for the assets was determined by
+arm's length negotiations between all the parties involved.
+
+ITEM 6   EXHIBITS
+
+(a)      Exhibits
+
+         3.1(1)                   Restated Articles of Incorporation, as filed
+                                  with the Nevada Secretary of State on April
+                                  14, 2003.
+
+         3.2(1)                   Second Restated Bylaws of Anza Capital, Inc.
+
+         4.1(1)                   Certificate of Designation for Series D
+                                  Convertible Preferred Stock
+
+         4.2(1)                   Certificate of Designation for Series E
+                                  Convertible Preferred Stock
+
+         4.3(1)                   Certificate of Designation for Series F
+                                  Convertible Preferred Stock
+
+         4.4(2)                   Certificate of Designation of Series G
+                                  Convertible Preferred Stock
+
+         10.1(3)                  Common Stock Purchase Agreement dated
+                                  September 19, 2005.
+
+         10.2(3)                  Securities Purchase Agreement dated September
+                                  16, 2005.
+
+         10.3(4)                  Reorganization,  Stock and Asset Purchase
+                                  Agreement dated September 30, 2005.
+
+         10.4(4)                  Stock Purchase Agreement dated September 30,
+                                  2005.
+
+         31.1                     Rule 13a-14(a)/15d-14(a) Certification of
+                                  Chief Executive Officer
+
+         31.2                     Rule 13a-14(a)/15d-14(a) Certification of
+                                  Chief Financial Officer
+
+                                       32
+
+32.1                     Chief Executive Officer Certification
+                                  Pursuant to 18 USC, Section 1350, as Adopted
+                                  Pursuant to Section 906 of the Sarbanes-Oxley
+                                  Act of 2002.
+
+         32.2                     Chief Financial Officer Certification
+                                  Pursuant to 18 USC, Section 1350, as Adopted
+                                  Pursuant to Section 906 of the Sarbanes-Oxley
+                                  Act of 2002.
+
+(1)         Incorporated by reference to our Current Report on Form
+                      8-K dated April 21, 2003 and filed with the Commission
+                      on April 22, 2003.
+
+          (2)         Incorporated by reference to our Current Report on Form
+                      8-K dated and filed with the Commission on September 20,
+                      2004.
+
+          (3)         Incorporated by reference to our Current Report on Form
+                      8-K dated and filed with the Commission on September 23,
+                      2005.
+
+          (4)         Incorporated by reference to our Current Report on Form
+                      8-K dated and filed with the Commission on October 3,
+                      2005.
+
+(b)      Reports on Form 8-K
+
+         On March 15, 2006, we filed a Current Report on Form 8-K
+regarding our closing of our outstanding Stock Purchase Agreements, Securities
+Purchase Agreements, and Reorganization, Stock and Asset Purchase Agreements.
+
+33
+
+SIGNATURES
+
+         Pursuant to the requirements of the Securities Exchange Act of 1934,
+the registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+Dated: March 22, 2006                        /s/ Li Shaoming
+                                             -----------------------------------
+                                             By:  Li Shaoming
+                                             Its: President, Chairman and Chief
+                                                  Executive Officer and Director
+
+34
+
+<EX-31.1>
+ 2
+ v038401_ex31-1.txt
+
+Rule 13a-14(a)/15d-14(a) Certification of Chief Executive Officer
+
+I, Li Shaoming, certify that:
+
+1. I have reviewed this Quarterly Report on Form 10-Q of Anza Capital, Inc.;
+
+2. Based on my knowledge, this report does not contain any untrue statement of a
+material fact or omit to state a material fact necessary to make the statements
+made, in light of the circumstances under which such statements were made, not
+misleading with respect to the period covered by this report;
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects the
+financial condition, results of operations and cash flows of the registrant as
+of, and for, the periods presented in this report;
+
+4. The registrant's other certifying officer(s) and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e) for the registrant and have:
+
+      (a) Designed such disclosure controls and procedures, or caused such
+      disclosure controls and procedures to be designed under our supervision,
+      to ensure that material information relating to the registrant, including
+      its consolidated subsidiaries, made known to us by others within those
+      entities, particularly during the period in which this report is being
+      prepared;
+
+      (b) Designed such internal control over financial reporting, or caused
+      such internal control over financial reporting to be designed under our
+      supervision, to provide reasonable assurance regarding the reliability of
+      financial reporting and the preparation of financial statements for
+      external purposes in accordance with generally accepted accounting
+      principles;
+
+      (c) Evaluated the effectiveness of the registrant's disclosure controls
+      and procedures and presented in this report our conclusions about the
+      effectiveness of the disclosure controls and procedures, as of the end of
+      the period covered by this report based on such evaluation; and
+
+      (d) Disclosed in this report any change in the registrant's internal
+      control over financial reporting that occurred during the registrant's
+      most recent fiscal quarter (the registrant's fourth fiscal quarter in the
+      case of an annual report) that has materially affected, or is reasonably
+      likely to materially affect, the registrant's internal control over
+      financial reporting; and
+
+5. The registrant's other certifying officer(s) and I have disclosed, based on
+our most recent evaluation of internal control over financial reporting, to the
+registrant's auditors and the audit committee of the registrant's board of
+directors (or persons performing the equivalent functions):
+
+(a) All significant deficiencies and material weaknesses in the design or
+      operation of internal control over financial reporting which are
+      reasonably likely to adversely affect the registrant's ability to record,
+      process, summarize and report financial information; and
+
+      (b) Any fraud, whether or not material, that involves management or other
+      employees who have a significant role in the registrant`s internal control
+      over financial reporting.
+
+Dated:  March 22, 2006
+                                          /s/ Li Shaoming
+                                          --------------------------
+                                          By: Li Shaoming
+                                              President
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ v038401_ex31-2.txt
+ 
+Rule 13a-14(a)/15d-14(a) Certification of Chief Financial Officer
+
+I, Zuoliang Wang, certify that:
+
+1.    I have reviewed this Quarterly Report on Form 10-Q of Anza Capital, Inc.;
+
+2.    Based on my knowledge, this report does not contain any untrue statement
+      of a material fact or omit to state a material fact necessary to make the
+      statements made, in light of the circumstances under which such statements
+      were made, not misleading with respect to the period covered by this
+      report;
+
+3.    Based on my knowledge, the financial statements, and other financial
+      information included in this report, fairly present in all material
+      respects the financial condition, results of operations and cash flows of
+      the registrant as of, and for, the periods presented in this report;
+
+4.    The registrant's other certifying officer(s) and I are responsible for
+      establishing and maintaining disclosure controls and procedures (as
+      defined in Exchange Act Rules 13a-15(e) and 15d-15(e) for the registrant
+      and have:
+
+      (a)   Designed such disclosure controls and procedures, or caused such
+            disclosure controls and procedures to be designed under our
+            supervision, to ensure that material information relating to the
+            registrant, including its consolidated subsidiaries, is made known
+            to us by others within those entities, particularly during the
+            period in which this report is being prepared;
+
+      (b)   Designed such internal control over financial reporting, or caused
+            such internal control over financial reporting to be designed under
+            our supervision, to provide reasonable assurance regarding the
+            reliability of financial reporting and the preparation of financial
+            statements for external purposes in accordance with generally
+            accepted accounting principles;
+
+      (c)   Evaluated the effectiveness of the registrant's disclosure controls
+            and procedures and presented in this report our conclusions about
+            the effectiveness of the disclosure controls and procedures, as of
+            the end of the period covered by this report based on such
+            evaluation; and
+
+      (d)   Disclosed in this report any change in the registrant's internal
+            control over financial reporting that occurred during the
+            registrant's most recent fiscal quarter (the registrant's fourth
+            fiscal quarter in the case of an annual report) that has materially
+            affected, or is reasonably likely to materially affect, the
+            registrant's internal control over financial reporting; and
+
+5.    The registrant's other certifying officer(s) and I have disclosed, based
+      on our most recent evaluation of internal control over financial
+      reporting, to the registrant's auditors and the audit committee of the
+      registrant's board of directors (or persons performing the equivalent
+      functions):
+
+      (b)   All significant deficiencies and material weaknesses in the design
+            or operation of internal control over financial reporting which are
+            reasonably likely to adversely affect the registrant's ability to
+            record, process, summarize and report financial information; and
+
+      (c)   Any fraud, whether or not material, that involves management or
+            other employees who have a significant role in the registrant`s
+            internal control over financial reporting.
+
+Dated:  March 22, 2006
+                                          /s/ Zuoliang Wang
+                                          ----------------------------------
+                                          By: Zuoliang Wang
+                                          Chief Financial Officer
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ v038401_ex32-1.txt
+
+CERTIFICATION PURSUANT TO 18 USC, SECTION 1350,
+                       AS ADOPTED PURSUANT TO SECTION 906
+                        OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Quarterly Report of Anza Capital, Inc. (the
+"Company") on Form 10-Q for the quarter ended January 31, 2006, as filed with
+the Securities and Exchange Commission on or about the date hereof (the
+"Report"), I, Li Shaoming, President of the Company, certify, pursuant to 18
+U.S.C. Sec. 1350, as adopted pursuant to Sec. 906 of the Sarbanes-Oxley Act of
+2002, that:
+
+      (1) The Report fully complies with the requirements of Sections 13(a) or
+15(d) of the Securities Exchange Act of 1934; and
+
+      (2) Information contained in the Report fairly presents, in all material
+respects, the financial condition and results of operations of the Company.
+
+Dated:  March 22, 2006                          /s/ Li Shaoming
+                                                ----------------------------
+                                                By: Li Shaoming
+                                                Its: President
+
+A signed original of this written statement required by Section 906 has been
+provided to Anza Capital, Inc. and will be retained by Anza Capital, Inc. and
+furnished to the Securities and Exchange Commission or its staff upon request.
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ v038401_ex32-2.txt
+
+CERTIFICATION PURSUANT TO 18 USC, SECTION 1350,
+                       AS ADOPTED PURSUANT TO SECTION 906
+                        OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Quarterly Report of Anza Capital, Inc. (the
+"Company") on Form 10-Q for the quarter ended January 31, 2006, as filed with
+the Securities and Exchange Commission on or about the date hereof (the
+"Report"), I, Zuoliang Wang, Chief Financial Officer of the Company, certify,
+pursuant to 18 U.S.C. Sec. 1350, as adopted pursuant to Sec. 906 of the
+Sarbanes-Oxley Act of 2002, that:
+
+      (1) The Report fully complies with the requirements of Sections 13(a) or
+15(d) of the Securities Exchange Act of 1934; and
+
+      (2) Information contained in the Report fairly presents, in all material
+respects, the financial condition and results of operations of the Company.
+
+Dated:  March 22, 2006                    /s/ Zuoliang Wang
+                                          -----------------------------
+                                          By: Zuoliang Wang
+                                          Its: Chief Financial Officer
+
+A signed original of this written statement required by Section 906 has been
+provided to Anza Capital, Inc. and will be retained by Anza Capital, Inc. and
+furnished to the Securities and Exchange Commission or its staff upon request.
+
+</EX-32.2>
+

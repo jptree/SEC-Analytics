@@ -1,0 +1,1209 @@
+<Header>
+<FileStats>
+    <FileName>20060314_10-Q_edgar_data_809933_0000809933-06-000003_1.txt</FileName>
+    <GrossFileSize>99768</GrossFileSize>
+    <NetFileSize>61919</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>259</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>16</N_Tables>
+    <N_Exhibits>4</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000809933-06-000003.hdr.sgml : 20060314
+<ACCEPTANCE-DATETIME>20060314123116
+ACCESSION NUMBER:		0000809933-06-000003
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20060128
+FILED AS OF DATE:		20060314
+DATE AS OF CHANGE:		20060314
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ECOLOGY & ENVIRONMENT INC
+		CENTRAL INDEX KEY:			0000809933
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-ENGINEERING SERVICES [8711]
+		IRS NUMBER:				160971022
+		STATE OF INCORPORATION:			NY
+		FISCAL YEAR END:			0731
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-09065
+		FILM NUMBER:		06684140
+
+	BUSINESS ADDRESS:	
+		STREET 1:		368 PLEASANTVIEW DR
+		CITY:			LANCASTER
+		STATE:			NY
+		ZIP:			14086
+		BUSINESS PHONE:		7166848060
+
+	MAIL ADDRESS:	
+		STREET 1:		368 PLEASANTVIEW DRIVE
+		CITY:			LANCASTER
+		STATE:			NY
+		ZIP:			14086
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ IGHFvrAutugpUghDxNAm8qC1WGkE8YCdo0x96+TSSZ8kFOSrvmHCRxW6wHZRb/3M
+ hdzoe+IkzMAzCvsYh7dZKg==
+
+ 0000809933-06-000003.txt : 20060314
+
+10-Q
+ 1
+ form10q31406.txt
+
+UNITED STATES
+                        SECURITIES AND EXCHANGE COMMISSION
+                               WASHINGTON, D.C. 20549
+
+                                      FORM 10-Q
+
+    [X]  Quarterly report pursuant to Section 13 or 15(d) of the Securities
+         Exchange Act of 1934
+         For the quarterly period ended January 28, 2006
+
+    [ ]  Transition report pursuant to Section 13 or 15(d) of the Securities
+         Exchange Act of 1934
+         For the transition period from __________ to __________
+
+                           Commission File Number 1-9065
+
+                            ECOLOGY AND ENVIRONMENT, INC.
+              ------------------------------------------------------
+              (Exact name of registrant as specified in its charter)
+
+New York                                  16-0971022
+    -------------------------------               ----------------------
+    (State or other jurisdiction of                    (IRS Employer
+    incorporation or organization)                Identification Number)
+
+368 Pleasant View Drive
+        Lancaster, New York                             14086-1397
+    ------------------------------                      ----------
+   (Address of principal executive                       Zip code
+              offices)
+
+                                 (716) 684-8060
+                ----------------------------------------------------
+                (Registrant's telephone number, including area code)
+
+                                 NOT APPLICABLE
+                    ------------------------------------------
+                    (Former name, former address and former
+                    fiscal year, if changed since last report)
+
+Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months, (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to
+such filing requirements for the past 90 days.        Yes  [X]       No   [ ]
+
+      Indicate by check mark whether the registrant is an accelerated filer
+(as defined in Rule 12b-2 of the Exchange Act).       Yes  [ ]       No   [X]
+
+      Indicate by check mark whether the registrant is a shell company (as
+defined in Rule 12b-2 of the Exchange Act).           Yes  [ ]       No   [X]
+
+      At March 1, 2006, 2,421,800 shares of Registrant's Class A Common Stock
+(par value $.01) and 1,639,706 shares of Class B Common Stock (par value $.01)
+were outstanding.
+
+PART I - FINANCIAL INFORMATION
+
+ITEM 1.  Financial Statements
+         --------------------
+
+ECOLOGY AND ENVIRONMENT, INC.
+               NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Summary of Operations and Basis of Presentation
+- -----------------------------------------------
+
+     The consolidated financial statements included herein have been
+prepared by Ecology and Environment, Inc., ("E & E" or the "Company"),
+without audit, pursuant to the rules and regulations of the Securities
+and Exchange Commission.  The financial statements reflect all
+adjustments that are, in the opinion of management, necessary for a fair
+statement of such information.  All such adjustments are of a normal
+recurring nature.  Although E & E believes that the disclosures are
+adequate to make the information presented not misleading, certain
+information and footnote disclosures, including a description of
+significant accounting policies normally included in financial
+statements prepared in accordance with accounting principles generally
+accepted in the United States of America, have been condensed or omitted
+pursuant to such rules and regulations.  Therefore, these financial
+statements should be read in conjunction with the financial statements
+and the notes thereto included in E & E's 2005 Annual Report on Form
+10-K filed with the Securities and Exchange Commission.  The results
+of operations for the six months ended January 28, 2006 are not
+necessarily indicative of the results for any subsequent period or the
+entire fiscal year ending July 31, 2006.
+
+1.  Summary of significant accounting principles
+    --------------------------------------------
+
+    a. Consolidation
+
+    The consolidated financial statements include the accounts of the
+Company and its wholly owned and majority owned subsidiaries.  Also reflected
+in the financial statements is the 50% ownership in the Chinese operating
+joint venture, The Tianjin Green Engineering Company.  This joint venture is
+accounted for under the equity method.  All significant intercompany
+transactions and balances have been eliminated.
+
+     b. Use of estimates
+
+     The preparation of financial statements in conformity with generally
+accepted accounting principles requires management to make estimates and
+assumptions that affect the amounts reported in the financial statements
+and accompanying notes.  Actual results may differ from those estimates.
+
+     c. Revenue recognition
+
+     The majority of the Company's revenue is derived from environmental
+consulting work, with the balance derived from sample analysis (E & E
+Analytical Services Center, in operation through January 2005) and
+aquaculture.  The consulting revenue is principally derived from the sale
+of labor hours.  The consulting work is performed under a mix of fixed
+price, cost-type, and time and material contracts.  Contracts are required
+from all customers.  Revenue is recognized as follows:
+
+   Contract Type       Work Type           Revenue Recognition Policy
+- -------------------   -----------    ---------------------------------------
+Fixed Price           Consulting     Percentage of completion based on
+                                     the ratio of total costs incurred
+                                     to date to total estimated costs.
+
+Cost-type             Consulting     Costs as incurred.  Fixed fee
+                                     portion is recognized using percentage
+                                     of completion determined by the
+                                     percentage of level of effort (LOE)
+                                     hours incurred to total LOE hours in
+                                     the respective contracts.
+
+Time and Materials    Consulting     As incurred at contract rates.
+
+Unit Price            Laboratory/    Upon completion of reports (laboratory)
+                      Aquaculture    and payment from customers (aquaculture).
+
+     d. Translation of foreign currencies
+
+     The financial statements of foreign subsidiaries where the local
+currency is the functional currency are translated into U.S. dollars using
+exchange rates in effect at period end for assets and liabilities and average
+exchange rates during each reporting period for results of operations.
+Translation adjustments are deferred in accumulated other comprehensive
+income.
+
+     The financial statements of foreign subsidiaries located in highly
+inflationary economies are remeasured as if the functional currency were the
+U.S. Dollar.  The remeasurement of local currencies into U.S. dollars creates
+translation adjustments which are included in net income.  There were no highly
+inflationary economy translation adjustments for fiscal years 2005-2006.
+
+     e. Income Taxes
+
+     The Company follows the asset and liability approach to account for
+income taxes.  This approach requires the recognition of deferred tax
+liabilities and assets for the expected future tax consequences of temporary
+differences between the carrying amounts and the tax bases of assets and
+liabilities.  Although realization is not assured, management believes it is
+more likely than not that the recorded net deferred tax assets will be
+realized.  Since in some cases management has utilized estimates, the amount
+of the net deferred tax asset considered realizable could be reduced in the
+near term.  No provision has been made for United States income taxes
+applicable to undistributed earnings of foreign subsidiaries as it is the
+intention of the Company to indefinitely reinvest those earnings in the
+operations of those entities.
+
+     f. Earnings per share
+
+     Basic EPS is computed by dividing income available to common shareholders
+by the weighted average number of common shares outstanding for the period.
+Diluted EPS reflects the potential dilution that would occur if securities or
+other contracts to issue common stock were exercised or converted into common
+stock or resulted in the issuance of common stock that then shared in the
+earnings of the Company.  See Footnote No. 7.
+
+     g. Impairment of Long-Lived Assets
+
+     In January 2005, the Company recognized a $1.6 million impairment loss as
+a result of its decision to close its Analytical Services Center (ASC) located
+in Lancaster, New York.  At that time, the impairment of the land and buildings
+was determined based on the results of an independent appraisal and the
+equipment values were determined by equipment offers the Company had received.
+Operations continued beyond the end of the Company's second quarter ended
+January 2005 and all backlog was completed by the end of February.
+Consequently, at January 2005 the impairment loss was shown as from "continuing
+operations" and the assets were classified as "held for use."
+
+     In April 2005, the Company recorded an additional impairment loss on
+its remaining ASC land and building assets in the amount of $1.2 million.  This
+was the result of information obtained from various commercial brokers in
+April 2005 that provided the Company with additional information on current
+market conditions affecting the value of the real estate.  The reduced
+valuation is based on the likelihood that the facility will not be sold to an
+existing laboratory or research company, but will rather be sold as combination
+office and warehouse space.  The testing equipment was sold during the third
+quarter.  Although business operations have ceased at the ASC, any impairment
+losses are shown as from "continuing operations" due to the uncertainty that
+the assets can be sold within one year under current market conditions.
+
+     h.  Cash Flow Revision
+
+     The Company has revised its 2005 consolidated statement of cash flows to
+separately disclose operating, investing and financing portions of cash flows
+attributable to discontinued operations.  The Company had previously reported
+these as separate amounts with cash flows from continuing operations within
+each category.
+
+     i.  Cash and Cash Equivalents
+
+     For purposes of the consolidated statement of cash flows, the Company
+considers all highly liquid instruments purchased with a maturity of three
+months or less to be cash equivalents.  Cash paid for interest amounted to
+$60,676 and $70,796 for the first six months of fiscal year 2006 and 2005,
+respectively.  Cash paid (net refund received) for income taxes amounted to
+$681,685 and $(985,764) for the first six months of fiscal year 2006 and 2005,
+respectively.
+
+     j.  Adoption of FASB 123(R)
+
+     The Company adopted FAS 123(R), Share-Based Payment, effective August 1,
+2005.  The Statement requires companies to expense the value of employee stock
+options and similar awards.  Under FAS 123(R), SBP awards result in a cost that
+will be measured at fair value on the awards' grant date, based on the
+estimated number of awards that are expected to vest.  Compensation cost for
+awards that vest would not be reversed if the awards expire without being
+exercised.  The unearned stock compensation balance of $158,993 as of July 31,
+2005, which was accounted for under Accounting Principles Board Opinion No. 25,
+"Accounting for Stock Issued to Employees" (APB 25), was reclassified into
+additional paid-in-capital upon adoption of SFAS 123(R).  The impact on the
+Company's financial statements was not material.
+
+     k.  Reclassifications
+
+     Certain prior year amounts were reclassified to conform to the 2006
+financial statement presentation.
+
+2.   Contract Receivables, Net
+     -------------------------
+                                           January 28,      July 31,
+                                              2006            2005
+                                          ------------    ------------
+
+     United States government
+        Billed                            $ 4,016,243     $ 2,418,683
+        Unbilled                            3,540,162       3,801,977
+                                          ------------    ------------
+                                            7,556,405       6,220,660
+                                          ------------    ------------
+     Industrial customers and state
+     and municipal governments
+        Billed                             24,623,979      22,065,280
+        Unbilled                            7,012,167       5,348,293
+                                          ------------    ------------
+                                           31,636,146      27,413,573
+                                          ------------    ------------
+     Less allowance for contract
+     adjustments                           (3,831,668)     (3,589,893)
+                                          ------------    ------------
+
+                                          $35,360,883     $30,044,340
+                                          ============    ============
+
+     United States government receivables arise from long-term U.S. government
+prime contracts and subcontracts.  Unbilled receivables result from revenues
+which have been earned, but are not billed as of period-end.  The above
+unbilled balances are comprised of incurred costs plus fees not yet processed
+and billed; and differences between year-to-date provisional billings and year-
+to-date actual contract costs incurred and fees earned of approximately
+$(362,511) at January 28, 2006 and $179,000 at July 31, 2005.  Management
+anticipates that the January 28, 2006 unbilled receivables will be
+substantially billed and collected within one year.  Included in the balance
+of receivables for industrial customers and state and municipal customers are
+receivables due under the contracts in Saudi Arabia and Kuwait of $10.4
+million and $8.5 million at January 28, 2006 and July 31, 2005, respectively.
+Within the above billed balances are contractual retainages in the amount of
+approximately $630,000 at January 28, 2006 and $713,000 at July 31, 2005.
+Management anticipates that the January 28, 2006 retainage balance will be
+substantially collected within one year.
+
+     Included in other accrued liabilities is an additional allowance for
+contract adjustments relating to potential cost disallowances on amounts
+billed and collected in current and prior years' projects of approximately
+$1.4 million at January 28, 2006 and $1.2 million at July 31, 2005.  Also
+included in other accrued liabilities is a reclassification of billings in
+excess of recognized revenues of approximately $2.3 million at January 28,
+2006 and $1.8 million at July 31, 2005.  An allowance for contract
+adjustments is recorded for contract disputes and government audits when
+the amounts are estimatable.
+
+     The contracts in Saudi Arabia are through the Company's majority owned
+(66 2/3%) subsidiary, Ecology and Environment of Saudi Arabia Co., Ltd.
+(EESAL).  The Company has an agreement with its minority shareholder to divide
+any profits in EESAL from the current contracts equally, and to pay to the
+minority shareholder a commission of 5% of the total contract values.  The
+commission and additional profit sharing covers on-going representation in the
+Kingdom, logistical support including the negotiation and procurement of Saudi
+national personnel, facilities, equipment, licenses, permits, and any other
+support deemed necessary in the implementation and performance of the Saudi
+contracts.  As of January 28, 2006 the Company has incurred expense of
+$1,991,000 ($15,000 for the first six months of fiscal year 2006, $141,000
+in fiscal year 2005, $944,000 in fiscal year 2004, $505,000 in fiscal year
+2003 and $386,000 in fiscal year 2002 under the terms of this commission
+agreement).
+
+3.   Line of Credit
+     --------------
+
+     The Company maintains an unsecured line of credit available for working
+capital and letters of credit of $20 million with a bank at 1/2% below the
+prevailing prime rate.  A second line of credit has been established at another
+bank for up to $13.5 million exclusively for letters of credit and is renewed
+annually.  At January 28, 2006 and July 31, 2005, respectively, the Company
+had letters of credit outstanding totaling $2,277,500 and $2,373,602,
+respectively.  The Company had no outstanding borrowings for working capital
+at January 28, 2006 and July 31, 2005.
+
+     The Company is in compliance with all bank loan covenants at January 28,
+2006.
+
+4.   Long-Term Debt and Capital Lease Obligations
+     --------------------------------------------
+
+     Debt inclusive of capital lease obligations at January 28, 2006 and
+July 31, 2005 consist of the following:
+
+The aggregate maturities of long-term debt and capital lease obligations at
+January 28, 2006 are as follows:
+
+5.   Stock Award Plan
+     ----------------
+
+     Effective March 16, 1998, the Company adopted the Ecology and Environment,
+Inc. 1998 Stock Award Plan (the "1998 Plan").  To supplement the 1998 Plan,
+the 2003 Stock Award Plan (the "2003 Plan") was approved by the shareholders
+at the annual meeting held in January 2004 (the 1998 Plan and the 2003 Plan
+collectively referred to as the "Award Plan").  The 2003 Plan was approved
+retroactive to October 16, 2003 and will terminate on October 15, 2008.
+Under the Award Plan key employees (including officers) of the Company or
+any of its present or future subsidiaries may be designated to received awards
+of Class A Common stock of the Company as a bonus for services rendered to the
+Company or its subsidiaries, without payment therefore, based upon the fair
+market value of the Company stock at the time of the award.  The Award Plan
+authorizes the Company's board of directors to determine for what period of
+time and under what circumstances awards can be forfeited.
+
+     The Company issued 33,531 shares in fiscal year 2005, 47,795 shares in
+fiscal year 2004, and 38,712 shares in fiscal year 2003 pursuant to the Award
+Plan.  Compensation costs are recorded in accordance with FAS 123R at the time
+of issuance and are being amortized over the vesting period.
+
+6.   Shareholders' Equity - Restrictive Agreement
+     --------------------------------------------
+
+     Messrs. Gerhard J. Neumaier, Frank B. Silvestro, Ronald L. Frank and
+Gerald A. Strobel entered into a Stockholders' Agreement in 1970 which
+governs the sale of certain shares of common stock owned by them, the former
+spouse of one of the individuals and some of their children.  The agreement
+provides that prior to accepting a bona fide offer to purchase all or any
+part of their shares, each party must first allow the other members to the
+agreement the opportunity to acquire on a pro rata basis, with right of
+over-allotment, all of such shares covered by the offer on the same terms
+and conditions proposed by the offer.
+
+7.   Earnings Per Share
+     -------------------
+
+     The computation of basic earnings per share reconciled to diluted earnings
+per share follows:
+
+In accordance with FAS 128, "Earnings Per Share," potential common shares
+(i.e., stock options and stock awards) have not been included in the
+denominator of the diuluted per-share computations for the three and six
+months ended January 29, 2005, as inclusion of such would result in an
+antidilutive per-share amount since the Company had a loss from continuing
+operations.
+
+8.   Segment Reporting
+     -----------------
+
+     Ecology and Environment, Inc. has three reportable segments:
+consulting services, analytical laboratory services, and aquaculture.  The
+consulting services segment provides broad based environmental services
+encompassing audits and impact assessments, surveys, air and water quality
+management, environmental engineering, environmental infrastructure planning,
+and industrial hygiene and occupational health studies to a world wide base
+of customers.  The analytical laboratory provides analytical testing services
+to industrial and governmental clients for the analysis of waste, soil and
+sediment samples.  The analytical segment recognized a pretax impairment loss
+in the amount of $2.8 million in fiscal year 2005 as a result of its decision
+to close its Analytical Services Center (ASC) located in Lancaster, N.Y.  The
+fish farm located in Jordan produces tilapia fish grown in a controlled
+environment for markets in the Middle East.  In fiscal year 2004, an
+impairment loss of $442,000 ($139,000 net of minority interest and tax) was
+recognized for the long-term assets at the Company's fish farm operations in
+Jordon.
+
+     The Company evaluates segment performance and allocates resources based
+on operating profit before interest income/expense and income taxes.  The
+accounting policies of the reportable segments are the same as those described
+in the summary of significant accounting policies.  Intercompany sales from the
+analytical services segment to the consulting segment were recorded at market
+selling price, intercompany profits are eliminated.  The Company's reportable
+segments are separate and distinct business units that offer different products.
+Consulting services are sold on the basis of time charges while analytical
+services and aquaculture products are sold on the basis of product unit prices.
+
+Reportable segments for the six months ended January 28, 2006 are as follows:
+
+Geographic Information:
+
+(1)  Net revenues are attributed to countries based on the location of the
+customers.  Net revenues in foreign countries includes $1.2 million in Kuwait.
+
+Reportable segments for the six months ended January 29, 2005 are as follows:
+
+Geographic Information:
+
+(1)  Net revenues are attributed to countries based on the location of the
+customers.  Net revenues in foreign countries includes $2.2 million in Saudi
+Arabia and $1.6 million in Kuwait.
+(2)  Segment loss for the Analytical segment includes a pretax impairment
+loss of $1.6 million in long term assets.
+
+9.  Commitments and Contingencies
+     -----------------------------
+
+     Certain contracts contain termination provisions under which the customer
+may, without penalty, terminate the contracts upon written notice to the
+Company.  In the event of termination, the Company would be paid only
+termination costs in accordance with the particular contract.  Generally,
+termination costs include unpaid costs incurred to date, earned fees and
+any additional costs directly allocable to the termination.
+
+     On or about October 28, 2005 several Plaintiffs filed an action in
+District Court in the City and County of Boulder in Colorado, Case No.
+05 CV 1008, against three named Defendants, one of which is Walsh
+Environmental Scientists & Engineers, LLC (Walsh).  Walsh is a majority-owned
+subsidiary of the Company.  The Company is not named as a Defendant.  The
+Plaintiffs' Complaint alleges claims of negligence, breach of contract and
+trespass for unspecified damages against the Defendants resulting from a forest
+fire that ignited from a fallen power line during a wind storm that took place
+in Boulder County, Colorado in October 2003.  Walsh's legal counsel has
+received other communication from the Plaintiffs' attorneys, which indicates
+that Plaintiffs may be seeking damages, in the aggregate, in excess of
+$17,000,000.00.  The Company's liability insurance extends to its subsidiaries.
+Walsh believes the claims asserted against it are without merit and intends to
+vigorously defend this lawsuit.
+
+     The Company is involved in other litigation arising in the normal course
+of business.  In the opinion of management, any adverse outcome to other
+litigation arising in the normal course of business would not have a material
+impact on the financial results of the Company.
+
+ITEM 2.  Management's Discussion and Analysis of Financial Condition and Results
+         of Operations
+
+Liquidity and Capital Resources
+- -------------------------------
+
+Operating activities contributed $346,000 ($439,000 increase from continuing
+operations and $93,000 decrease from discontinued operations) of cash during
+the first six months of fiscal year 2006 compared to a source of $1.9 million
+of cash reported in the prior year.  The increased cash flow during the first
+half of fiscal year 2006 was mainly attributable to changes in other current
+assets, accrued payroll costs and other accrued liabilities.  Other current
+assets decreased $651,000, accrued payroll increased $1.5 million, and other
+accrued liabilities increased $3.0 million.  Accounts receivable increased due
+to an increase in work volume during the first half of fiscal year 2006 as well
+as a temporary slow down in collections.  Other non-current assets increased
+$1.1 million and accounts payable decreased $607,000 during the first half of
+fiscal year 2006.  The Company purchased $322,000 of new capital equipment
+compared to depreciation charges of $535,000 during the first six months of
+fiscal year 2006.
+
+Financing activities consumed $1.2 million in cash during the first half of
+fiscal year 2006.  Dividends in the amount of $690,000 were paid in January
+2006 due to a $.17 per share dividend approved by the Board of Directors.
+Long-term debt and capital lease obligations decreased $101,000 mainly due
+to the repayment of $134,000 in loans held by the Walsh Environmental
+subsidiary, Walsh Peru.  Distributions of $428,000 were made to minority
+partners during the first six months of fiscal year 2006.
+
+The Company maintains an unsecured line of credit of $20.0 million with a
+bank at 1/2% below the prevailing prime rate.  A second line of credit is
+available at another bank for up to $13.5 million, exclusively for letters
+of credit.  The Company has outstanding letters of credit (LOC's) at
+January 28, 2006 in the amount of $2.3 million.  These LOC's were obtained
+to secure advance payments and performance guarantees for contracts in the
+Middle East.  After LOC's, there are no outstanding borrowings under the
+lines of credit and there is $31.2 million of line still available at
+January 28, 2006.  There are no significant additional working capital
+requirements pending at January 28, 2006.  The Company believes that cash
+flows from operations and borrowings against the line of credit will be
+sufficient to cover all working capital requirements for at least the next
+twelve months and the foreseeable future.
+
+Contractual Obligations
+- -----------------------
+
+Results of Operations
+- ---------------------
+
+Net Revenue
+- -----------
+
+Fiscal Year 2006 vs 2005
+- ------------------------
+
+Net revenues for the second quarter of fiscal year 2006 were $19.9 million,
+up 14% from the $17.4 million reported in fiscal year 2005.  The increase in
+net revenues was attributable to increased work on projects in the Gulf Coast
+associated with the relief efforts for hurricanes Katrina and Rita as well as
+an increase in work at two of the Company's subsidiaries, Walsh Environmental
+and E&E do Brasil.  The Company reported net revenues from these Gulf Coast
+contracts of $3.5 million during the second quarter of fiscal year 2006.
+Walsh Environmental reported net revenues of $3.4 million during the second
+quarter of fiscal year 2006, up 27% from the $2.6 million reported in the
+prior year.  The increase in Walsh is due to higher revenues from its
+subsidiaries in Peru and Ecuador as well as Gustavson Associates.  E&E do
+Brasil reported net revenues of $721,000 during the second quarter of fiscal
+year 2006, up 88% from the $383,000 reported in the prior year.  Offsetting
+these increases were decreases in net revenues from the contracts in Saudi
+Arabia and Kuwait.  These contracts in the Middle East decreased $1.2
+million or 57%.  The contracts in Saudi Arabia are 100% complete and the
+contracts in Kuwait are approaching completion.  Net revenues decreased
+$642,000 during the second quarter of fiscal year 2006 due to the completion
+of both the Company's Superfund Technical Assessment and Response Team (START)
+contract in EPA Region III in June 2005 and EPA Region X in December 2005.
+The remaining START contract in EPA Region IX was scheduled to end in December
+2005, however the EPA extended work through the middle of April 2006.  New
+START contracts in EPA Regions IX and X were rebid in September 2005.  The
+Company was awarded the new START contract in EPA Region X in December 2005.
+If all of the option years are exercised, the new START contract could total
+$49 million over seven years.  However, the Company was notified in February
+2006 that it was unsuccessful in winning the new START contract in EPA
+Region IX.  The START Region IX contract contributed net revenues of $1.8
+million during the first six months of fiscal year 2005 and $4.4 million in
+fiscal year 2005.  The Company closed its Analytical Services Center in
+Lancaster, N.Y. during the second quarter of the fiscal year 2005.  As a
+result, ASC net revenues decreased $867,000 during the second quarter of
+fiscal year 2006.
+
+Fiscal Year 2005 vs 2004
+- ------------------------
+
+Net revenues for the second quarter of fiscal year 2005 were $17.4 million,
+down 17% from the $21.0 million reported in the second quarter of fiscal year
+2004.  Decreased net revenues from the Company's contracts in Saudi Arabia and
+Kuwait accounted for the majority of this reduction.  Net revenues decreased
+$4.3 million or 70% due to winding down activity on these contracts.
+Percentage of completion on contracts in the Middle East range from 85% to 94%
+and it is anticipated that most of the contracts will be substantially
+completed by the end of fiscal year 2005.  Net revenues from commercial clients
+increased $860,000 or 43% from the $2.0 million reported in the second quarter
+of fiscal year 2004.  Net revenues from state clients increased $416,000 or 13%
+from the $3.3 million reported in the second quarter of fiscal year 2004.  Net
+revenues from Department of Defense (DOD) clients decreased $606,000 or 21%
+from the $2.9 million reported in the second quarter of fiscal year 2004.  The
+decrease in DOD net revenues is attributable to reduced work levels on various
+United States Army Corps of Engineers (USACE) contracts.  Walsh Environmental
+reported net revenues of $2.6 million for the second quarter of fiscal year
+2005, an increase of $885,000 from the $1.7 million reported in the second
+quarter of fiscal year 2004.  The majority of this increase was due to the
+consolidation of Gustavson Associates, acquired by Walsh Environmental during
+the fourth quarter of fiscal year 2004.  Gustavson Associates reported net
+revenues of $447,000 during the second quarter of fiscal year 2005.
+
+Income From Continuing Operations Before Income Taxes and Minority Interest
+- ---------------------------------------------------------------------------
+
+Fiscal Year 2006 vs 2005
+- ------------------------
+
+The Company's income from continuing operations before income taxes and
+minority interest for the second quarter of fiscal year 2006 was $1.1 million,
+compared to the $2.4 million loss reported in the second quarter of the prior
+year.  This increase was due mainly to increased utilization and the closing
+and impairment of the Analytical Services Center (ASC) in January 2005.  The
+increase in utilization is mainly attributable an increase in work performed
+on contracts associated with the relief efforts for hurricanes Katrina and
+Rita.  Work on these contracts is scheduled to continue at a reduced rate
+through the end of April 2006.  Though this will curtail the hurricane response
+effort, new issues may arise due to damage to wetlands and other coastal area
+impacts.  The Company is aggressively marketing these opportunities.  With net
+revenues and utilization increasing during the quarter, management continued
+to control indirect costs and maintain them at a level consistent with the
+second quarter of fiscal year 2005.  The Company's decision to close the ASC
+resulted in a total net loss of $1.6 million or $.39 per share in the second
+quarter of fiscal year 2005.
+
+Fiscal Year 2005 vs 2004
+- ------------------------
+
+The Company's loss from continuing operations before income taxes and minority
+interest for the second quarter of fiscal year 2005 was $2.4 million, down from
+the $1.9 million of income reported in the second quarter of the prior year.
+This decrease was mainly attributable to reduced net revenues during the second
+quarter of fiscal year 2005 along with the Company's decision to close its
+Analytical Services Center (ASC) in Lancaster, N.Y. which resulted in a pretax
+impairment loss of $1.6 million.  This impairment was recognized on the value
+of the facility as well as the analytical equipment used therein.  The
+impairment was precipitated by the Company's decision to close the operation
+rather than to sustain further losses while attempting to sell the segment as
+an on-going business.  Continued losses incurred in this segment as a result of
+market price deterioration and a reduced emphasis by the Federal government on
+analytical laboratory testing were the basis for this decision.  The ASC
+reported an operating loss of $614,000 for the second quarter of fiscal year
+2005.  Remaining backlog was completed and testing at the ASC ceased as of
+February 18, 2005.  The majority of the staff was laid off as of that date.
+Severance costs and other miscellaneous closing costs are estimated to be in
+the range of $100,000-$200,000 and were expensed as incurred.  Administrative
+and indirect costs increased $729,000 or 14% during the second quarter of
+fiscal year 2005.  This increase was attributable to reduced staff utilization,
+$152,000 increase in expenses from E & E do Brasil due to a larger office space
+and administrative staff, consolidation of Gustavson Associates to Walsh
+Environmental, and the Company's on-going compliance work in connection with
+the requirements of the Sarbanes-Oxley Act.  The Company incurred approximately
+$100,000 in costs associated with the compliance work for the Sarbanes-Oxley
+Act during the second quarter of fiscal year 2005.  Gustavson Associates,
+acquired by Walsh Environmental in May of fiscal year 2004, reported $144,000
+in administrative and indirect costs during the quarter.
+
+Impairment Losses
+- -----------------
+
+In January 2005, the Company recognized a $1.6 million impairment loss as a
+result of its decision to close the ASC.  At that time, the impairment of
+the land and buildings was determined based on the results of an independent
+appraisal and the equipment values were determined by equipment offers the
+Company had received.  The impairment was precipitated by the Company's
+decision to close the operation rather than to sustain further losses while
+attempting to sell the segment as an on-going business.  Continued losses
+incurred in this segment as a result of market price deterioration and a
+reduced emphasis by the Federal government on analytical laboratory testing
+was the basis for this decision.  In April 2005, the Company recorded an
+additional impairment loss on its remaining ASC land and building assets
+in the amount of $1.2 million.  This was the result of meetings with various
+commercial brokers that provided the Company with additional information on
+current market conditions affecting the value of the real estate. The
+reduced valuation is based on the likelihood that the facility will not be
+sold to an existing laboratory or research company, but will rather be sold
+as combination office and warehouse space.  The testing equipment was sold
+during the third quarter. Although all business operations have ceased, the
+total ASC impairment losses are shown in the accompanying financial
+statements as from "continuing operations" due to the uncertainty that the
+assets can be sold within one year under current market conditions.
+
+American Jobs Creation Act of 2004
+- ----------------------------------
+
+In October 2004, Congress passed, and the President signed into law, the
+American Jobs Creation Act of 2004 (the "Act").  Some key provisions of the
+act affecting the Company are the repeal of the United States export tax
+incentive known as the extraterritorial income exclusion (EIE) and the
+implementation of a domestic manufacturing deduction.  The EIE is phased out
+over the calendar years 2005 and 2006 with an exemption for binding
+contracts with unrelated persons entered into before September 18, 2003.
+These phase-out provisions will allow the Company to maintain an EIE
+deduction of an undeterminable amount through fiscal year 2007.  The
+Company believes that it will accrue some benefits from the domestic
+manufacturing deduction, although such benefits are not expected to be
+material.  The domestic manufacturing deduction will be phased in over a
+six-year period beginning with the Company's fiscal year 2005.  The Company
+has completed its evaluation of the repatriation provisions under the Act
+and has determined that no dividends will be repatriated under the terms
+of the Act.
+
+Recent Accounting Pronouncements
+- --------------------------------
+
+The Company adopted FAS 123(R), Share-Based Payment, effective August 1, 2005.
+The Statement requires companies to expense the value of employee stock
+options and similar awards.  Under FAS 123(R), SBP awards result in a cost that
+will be measured at fair value on the awards' grant date, based on the
+estimated number of awards that are expected to vest.  Compensation cost for
+awards that vest would not be reversed if the awards expire without being
+exercised.  The unearned stock compensation balance of $158,993 as of July 31,
+2005, which was accounted for under Accounting Principles Board Opinion No. 25,
+"Accounting for Stock Issued to Employees" (APB 25), was reclassified into
+additional paid-in-capital upon adoption of SFAS 123(R).  The impact on the
+Company's financial statements was not material.
+
+Critical Accounting Policies and Use of Estimates
+- -------------------------------------------------
+
+Management's discussion and analysis of financial condition and results
+of operations discusses the Company's consolidated financial statements,
+which have been prepared in accordance with accounting principles generally
+accepted in the United State of America.  The preparation of these statements
+requires management to make estimates and assumptions that affect the
+reported amounts of assets, liabilities, revenues and expenses, and related
+disclosure of contingent assets and liabilities.  On an ongoing basis,
+management evaluates its estimates and judgments, including those related
+to revenue recognition, allowance for doubtful accounts, inventories,
+income taxes, impairment of long-lived assets and contingencies.
+Management bases its estimates and judgments on historical experience and
+on various other factors that are believed to be reasonable under the
+circumstances, the results of which form the basis for making judgments
+about the carrying value of assets and liabilities that are not readily
+apparent from other sources.  Actual results may differ from these
+estimates under different assumptions or conditions.
+
+Management believes the following accounting policies involve its more
+significant judgments and estimates used in the preparation of its consolidated
+financial statements.  The Company maintains reserves for cost disallowances
+on its cost based contracts as a result of government audits.  The Company
+recently settled fiscal years 1990 thru 1994 for amounts within the anticipated
+range.  However, final rates have not been negotiated under these audits since
+1994.  The Company has estimated its exposure based on completed audits,
+historical experience and discussions with the government auditors.  The
+Company recorded an impairment loss on its shrimp farm operation in fiscal year
+2003 and on its Analytical Services Center in fiscal year 2005.  An estimate of
+the fair value of its assets was made based on external appraisals of the land
+and buildings and internal estimates of the realizable value of the equipment.
+The Company recorded an impairment loss on its fish farm operations in Jordan
+in fiscal year 2004.  An impairment was necessary due to the uncertainty that
+the farm's estimated future net cash flows would be sufficient to recover the
+carrying value of its long-lived assets.  If these estimates or their related
+assumptions change, the Company may be required to record additional impairment
+losses or additional charges for disallowed costs on its government contracts.
+
+Changes in Corporate Entities
+- -----------------------------
+
+On January 8, 2004 the Company entered into an agreement to grant a forty-eight
+percent stake in its Brazilian subsidiary, Ecology and Environment do Brasil,
+Ltda. (a limited partnership), to three new partners.   The new partners are
+responsible for the in-country marketing and operations of the subsidiary.
+Any previous earnings, assets and liabilities remained with Ecology and
+Environment, Inc.  The new partners have contributed their business contacts
+and staff from their old firm.  The Company has provided an $80,000 capital
+contribution to move the office operations from Sao Paulo to Rio de Janeiro.
+Rio de Janeiro is where the Company believes it will have a more strategic
+location to market its target clients.  During fiscal year 2005, two of the
+local partners entered into an agreement to purchase the other local
+partner's shares.  This purchase is expected to be completed in fiscal
+year 2006 and it is not expected to significantly impact the operations
+of the Brazilian subsidiary.
+
+During the second quarter of fiscal year 2005, the Company formed three
+new subsidiaries as well as a new joint venture.  These entities were
+formed for the purpose of obtaining future work for the Company in the
+Middle East, Russia, and the State of California.  The new entities are as
+follows:  MiddleEast Environmental Consultants, LLC (MEC); E & E
+International, LLC; E & E Environmental Services, LLC; and E & E Ward
+BMS Consulting Association (Joint Venture).  As of January 28, 2006, only
+MEC and E & E Ward BMS Consulting Association were operational.
+
+In June 2005, the Company signed an agreement to sell its 50% ownership in
+Beijing YiYi Ecology and Environment Engineering Co., LTD to an existing
+partner for $240,000.  This transaction resulted in a loss of $72,000 and
+was recorded in the accompanying results of operations for fiscal year 2005.
+
+During fiscal year 2005, members of Walsh Unit Holders LLC exercised their
+options to purchase an additional 1,146 shares of Walsh Environmental
+Scientists and Engineers, LLC at a cost of $30,360.  This caused the E&E, Inc.
+ownership percentage in this company to drop by 1.7%.  There are no additional
+purchase options outstanding as they expired on June 30, 2005.  This caused a
+reduction in the ownership percentage of E&E, Inc. from 60% to 58.3%.
+
+Inflation
+- ---------
+
+Inflation has not had a material impact on the Company's business because a
+significant amount of the Company's contracts are either cost based or contain
+commercial rates for services that are adjusted annually.
+
+ITEM 3.  QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+          ----------------------------------------------------------
+
+The Company may have exposure to market risk for change in interest rates,
+primarily related to its investments.  The Company does not have any derivative
+financial instruments included in its investments.  The Company invests only in
+instruments that meet high credit quality standards.  The Company is averse to
+principal loss and ensures the safety and preservation of its invested funds by
+limited default risk, market risk and reinvestment risk.  As of January 28,
+2006, the Company's investments consisted of short-term commercial paper and
+mutual funds.  The Company does not expect any material loss with respect to
+its investments.
+
+The Company is currently documenting, evaluating, and testing its internal
+controls in order to allow management to report on and attest to, and its
+independent public accounting firm to attest to, the Company's internal
+controls as of July 31, 2007, as required by Section 404 of the Sarbanes-
+Oxley Act. The Company devoted substantial time and expense to this endeavor
+during fiscal year 2005 and expects to spend additional management time on
+this in fiscal year 2006 and 2007.  If weaknesses in our existing information
+and control systems are discovered that impede our ability to satisfy Sarbanes-
+Oxley reporting requirements, the Company must successfully and timely
+implement improvements to those systems. There is no assurance that the
+Company will be able to meet these requirements.
+
+Item 4.  Controls and Procedures
+         -----------------------
+
+Company management, with the participation of the chief executive
+officer and chief financial officer, evaluated the effectiveness of its
+disclosure controls and procedures (as defined in Rules 13a-15(e) and
+15d-15(e) under the Exchange Act) as of January 28, 2006.  In designing
+and evaluating the Company's disclosure controls and procedures,
+management recognized that any controls and procedures, no matter how well
+designed and operated, can provide only reasonable assurance of achieving
+their objectives, and management necessarily applied its judgment in
+evaluating the cost-benefit relationship of possible controls and
+procedures.  Based on this evaluation, the Company's chief executive
+officer and chief financial officer concluded that, as of October 29, 2005,
+the Company's disclosure controls and procedures were (1) designed to
+ensure that material information relating to the Company, including its
+consolidated subsidiaries, is made known to its chief executive officer
+and chief financial officer by others within those entities, particularly
+during the period in which this report was being prepared and (2)
+effective, in that they provide reasonable assurance that information
+required to be disclosed by the Company in the reports that the Company
+files or submits under the Exchange Act is recorded, processed, summarized
+and reported within the time period specified in the SEC's rules and forms.
+There have been no significant changes in internal controls over financial
+reporting during the period covered by this report.
+
+PART II - OTHER INFORMATION
+
+ITEM 1.  Legal Proceedings
+         -----------------
+
+     Certain contracts contain termination provisions under which the customer
+may, without penalty, terminate the contracts upon written notice to the
+Company.  In the event of termination, the Company would be paid only
+termination costs in accordance with the particular contract.  Generally,
+termination costs include unpaid costs incurred to date, earned fees and
+any additional costs directly allocable to the termination.
+
+     On or about October 28, 2005 several Plaintiffs filed an action in
+District Court in the City and County of Boulder in Colorado, Case No.
+05 CV 1008, against three named Defendants, one of which is Walsh
+Environmental Scientists & Engineers, LLC (Walsh).  Walsh is a majority-owned
+subsidiary of the Company.  The Company is not named as a Defendant.  The
+Plaintiffs' Complaint alleges claims of negligence, breach of contract and
+trespass for unspecified damages against the Defendants resulting from a forest
+fire that ignited from a fallen power line during a wind storm that took place
+in Boulder County, Colorado in October 2003.  Walsh's legal counsel has
+received other communication from the Plaintiffs' attorneys, which indicates
+that Plaintiffs may be seeking damages, in the aggregate, in excess of
+$17,000,000.00.  The Company's liability insurance extends to its subsidiaries.
+Walsh believes the claims asserted against it are without merit and intends to
+vigorously defend this lawsuit.
+
+     The Company is involved in other litigation arising in the normal course
+of business.  In the opinion of management, any adverse outcome to other
+litigation arising in the normal course of business would not have a material
+impact on the financial results of the Company.
+
+ITEM 2.  Changes in Securities and Use of Proceeds
+         -----------------------------------------
+
+     (e)  Purchased Equity Securities.  The following table summarizes the
+Company's purchases of its common stock during the quarter ended January 28,
+2006:
+
+(1)  The Company purchased 500 shares of its Class A common stock during
+the second quarter of its fiscal year ended July 31, 2006, pursuant to a
+200,000 share repurchase program approved at the October 26, 2000 Board of
+Directors meeting.  Purchases were made in open-market transactions.
+
+ITEM 3.  Defaults Upon Senior Securities
+         -------------------------------
+
+     The Registrant has no information for Item 3 that is required to be
+presented.
+
+ITEM 4.  Submission of Matters to a Vote of Security Holders
+         ---------------------------------------------------
+
+     (a)  The Annual Meeting of Shareholders of the Registrant was held on
+January 19, 2006.
+
+     (b)  At such meeting, the following persons were elected as directors by
+the holders of Class A Common Stock:  Timothy Butler and Ross M. Cellino; and
+the following directors by the holders of Class B Common Stock:  Gerhard J.
+Neumaier, Ronald L. Frank, Frank B. Silvestro, Gerald A. Strobel, Gerard A.
+Gallagher, Jr. and Harvey J. Gross.
+
+     (c)  With respect to each Director nominee, the following votes were cast:
+
+          (i)  Class A Directors
+
+                                              For       Withheld      Abstain
+                                           ---------    --------      -------
+               Ross M. Cellino             1,897,121     238,637        -0-
+               Timothy Butler              2,125,260      10,498        -0-
+
+         (ii)  Class B Directors
+
+                                              For       Withheld      Abstain
+                                           ---------    --------      -------
+               Gerhard J. Neumaier         1,340,107       -0-          -0-
+               Ronald L. Frank             1,340,107       -0-          -0-
+               Frank B. Silvestro          1,340,107       -0-          -0-
+               Gerald A. Strobel           1,340,107       -0-          -0-
+               Gerard A. Gallagher, Jr.    1,340,107       -0-          -0-
+               Harvey J. Gross             1,340,107       -0-          -0-
+
+ITEM 5.  Other Information
+         -----------------
+
+     The Registrant has no information for Item 5 that is required to be
+presented.
+
+ITEM 6.  Exhibits and Reports on Form 8-K
+         --------------------------------
+
+     (a)  31.1  Certification of Principal Executive Officer Pursuant to Section
+             302 of the Sarbanes-Oxley Act of 2002.
+          31.2  Certification of Principal Financial Officer Pursuant to Section
+             302 of the Sarbanes-Oxley Act of 2002.
+          32.1  Certification of Principal Executive Officer Pursuant to Section
+             906 of the Sarbanes-Oxley Act of 2002.
+          32.2  Certification of Principal Financial Officer Pursuant to Section
+             906 of the Sarbanes-Oxley Act of 2002.
+
+     (b)  Registrant did not file a Form 8-K during the second quarter ended
+          January 28, 2006.
+
+                               SIGNATURE
+                               ---------
+
+          Pursuant to the requirements of the Securities Exchange Act of 1934,
+the registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+                                     ECOLOGY AND ENVIRONMENT, INC.
+
+Dated:  March 14, 2006               /s/ RONALD L. FRANK
+                                     ---------------------------------------
+                                     RONALD L. FRANK
+                                     EXECUTIVE VICE PRESIDENT, SECRETARY,
+                                     TREASURER AND CHIEF FINANCIAL OFFICER -
+                                     PRINCIPAL FINANCIAL OFFICER
+
+<EX-31.1>
+ 2
+ x311gn.txt
+ 
+Exhibit 31.1
+- ------------
+             CERTIFICATION OF PRINCIPAL EXECUTIVE OFFICER
+
+I, GERHARD J. NEUMIAER, certify that:
+
+1.  I have reviewed this Quarterly Report on Form 10-Q of Ecology and
+Environment, Inc.;
+
+2.  Based on my knowledge, this Quarterly Report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to
+make the statements made, in light of the circumstances under which such
+statements were made, not misleading with respect to the period covered by
+this Quarterly Report.
+
+3.  Based on my knowledge, the financial statements, and other financial
+information included in this Quarterly Report, fairly present in all material
+respects the financial condition, result of operation and cash flows of the
+Registrant as of, and for, the periods presented in this Quarterly Report.
+
+4.  The registrant's other certifying officers and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined
+in Exchange Act Rules 13a-14 and 15d-14) for the registrant and we have:
+
+    a) designed such disclosure controls and procedures to ensure that
+material information relating to the registrant, including its consolidated
+subsidiaries, is made known to us by others within those entities,
+particularly during the period in which this Quarterly Report is being
+prepared;
+
+    b) evaluated the effectiveness of the registrant's disclosure controls
+and procedures and presented in this report our conclusions about the
+effectiveness of the disclosure controls and procedures, as of the end of the
+period covered by this Quarterly Report based on such evaluation;
+
+    c) disclosed in this Quarterly Report any change in the registrant's
+internal control over financial reporting that occurred during the
+registrant's most recent fiscal quarter (the registrant's fourth fiscal
+quarter in the case of an Quarterly Report) that has materially affected, or
+is reasonable likely to materially affect, the registrant's internal control
+over financial reporting; and
+
+5.  The registrant's other certifying officers and I have disclosed, based on
+our most recent evaluation, to the registrant's auditors and the audit
+committee of registrant's board of directors (or persons performing the
+equivalent function);
+
+    a) all significant deficiencies in the design or operation of internal
+controls which could adversely affect the registrant's ability to record,
+process, summarize and report financial data and have identified for the
+registrant's auditors any material weaknesses in internal controls; and
+
+    b) any fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrant's internal controls.
+
+ECOLOGY AND ENVIRONMENT, INC.
+
+Dated:  March 14, 2006                      /s/ GERHARD J. NEUMAIER
+                                            -----------------------------
+                                            GERHARD J. NEUMAIER
+                                            PRESIDENT
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ x312rf.txt
+ 
+Exhibit 31.2
+- ------------
+                 CERTIFICATION OF PRINCIPAL FINANCIAL OFFICER
+
+I, RONALD L. FRANK, certify that:
+
+1.  I have reviewed this Quarterly Report on Form 10-Q of Ecology and
+Environment, Inc.;
+
+2.  Based on my knowledge, this Quarterly Report does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to
+make the statements made, in light of the circumstances under which such
+statements were made, not misleading with respect to the period covered by
+this Quarterly Report.
+
+3.  Based on my knowledge, the financial statements, and other financial
+information included in this Quarterly Report, fairly present in all material
+respects the financial condition, result of operation and cash flows of the
+Registrant as of, and for, the periods presented in this Quarterly Report.
+
+4.  The registrant's other certifying officers and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined
+in Exchange Act Rules 13a-14 and 15d-14) for the registrant and we have:
+
+    a) designed such disclosure controls and procedures to ensure that
+material information relating to the registrant, including its consolidated
+subsidiaries, is made known to us by others within those entities,
+particularly during the period in which this Quarterly Report is being
+prepared;
+
+    b) evaluated the effectiveness of the registrant's disclosure controls
+and procedures and presented in this report our conclusions about the
+effectiveness of the disclosure controls and procedures, as of the end of the
+period covered by this Quarterly Report based on such evaluation;
+
+    c) disclosed in this Quarterly Report any change in the registrant's
+internal control over financial reporting that occurred during the
+registrant's most recent fiscal quarter (the registrant's fourth fiscal
+quarter in the case of an Quarterly Report) that has materially affected, or
+is reasonable likely to materially affect, the registrant's internal control
+over financial reporting; and
+
+5.  The registrant's other certifying officers and I have disclosed, based on
+our most recent evaluation, to the registrant's auditors and the audit
+committee of registrant's board of directors (or persons performing the
+equivalent function);
+
+    a) all significant deficiencies in the design or operation of internal
+controls which could adversely affect the registrant's ability to record,
+process, summarize and report financial data and have identified for the
+registrant's auditors any material weaknesses in internal controls; and
+
+    b) any fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrant's internal controls.
+
+ECOLOGY AND ENVIRONMENT, INC.
+
+Dated:  March 14, 2006               /s/ RONALD L. FRANK
+                                     ---------------------------------------
+                                     RONALD L. FRANK
+                                     EXECUTIVE VICE PRESIDENT, SECRETARY,
+                                     TREASURER AND CHIEF FINANCIAL OFFICER -
+                                     PRINCIPAL FINANCIAL OFFICER
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ x321gn.txt
+ 
+Exhibit 32.1
+- ------------
+
+CERTIFICATION OF PRINCIPAL EXECUTIVE OFFICER
+PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE
+SARBANES-OXLEY ACT OF 2002
+
+I, Gerhard J. Neumaier, the principal executive officer of Ecology
+and Environment, Inc. (the "Company") hereby certify pursuant to 18 U.S.C.
+Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of
+2002, to the best of my knowledge: that the Form 10-Q of the Company for the
+second quarter ended January 28, 2006 accompanying this certification (the
+"Report") fully complies with the requirements of Section 13(a) or 15(d) of
+the Securities Exchange Act of 1934 and that the information contained in the
+Report fairly presents, in all material respects, the financial condition and
+the results of operations of the Company.  This Certification is made to
+comply with the provisions of Section 906 of the Sarbanes-Oxley Act and is
+not intended to be used for any other purpose.
+
+ECOLOGY AND ENVIRONMENT, INC.
+
+Dated:  March 14, 2006                      /s/ GERHARD J. NEUMAIER
+                                            -----------------------------
+                                            GERHARD J. NEUMAIER
+                                            PRESIDENT
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ x322rf.txt
+ 
+Exhibit 32.2
+- -------------
+
+CERTIFICATION OF PRINCIPAL FINANCIAL OFFICER
+PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED PURSUANT TO SECTION 906 OF THE
+SARBANES-OXLEY ACT OF 2002
+
+I, Ronald L. Frank, the principal financial officer of Ecology and
+Environment, Inc. (the "Company") hereby certify pursuant to 18 U.S.C.
+Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act
+of 2002, to the best of my knowledge: that the Form 10-Q of the Company for
+the second quarter ended January 28, 2006 accompanying this certification
+(the "Report") fully complies with the requirements of Section 13(a) or 15(d)
+of the Securities Exchange Act of 1934 and that the information contained in
+the Report fairly presents, in all material respects, the financial condition
+and the results of operations of the Company.  This Certification is made to
+comply with the provisions of Section 906 of the Sarbanes-Oxley Act and is
+not intended to be used for any other purpose.
+
+ECOLOGY AND ENVIRONMENT, INC.
+
+Dated:  March 14, 2006               /s/ RONALD L. FRANK
+                                     ---------------------------------------
+                                     RONALD L. FRANK
+                                     EXECUTIVE VICE PRESIDENT, SECRETARY,
+                                     TREASURER AND CHIEF FINANCIAL OFFICER -
+                                     PRINCIPAL FINANCIAL OFFICER
+
+</EX-32.2>
+

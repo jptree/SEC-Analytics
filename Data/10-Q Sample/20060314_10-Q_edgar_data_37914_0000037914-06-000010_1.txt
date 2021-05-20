@@ -1,0 +1,1358 @@
+<Header>
+<FileStats>
+    <FileName>20060314_10-Q_edgar_data_37914_0000037914-06-000010_1.txt</FileName>
+    <GrossFileSize>72750</GrossFileSize>
+    <NetFileSize>70821</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>225</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>0</N_Tables>
+    <N_Exhibits>0</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000037914-06-000010.hdr.sgml : 20060314
+<ACCEPTANCE-DATETIME>20060314141704
+ACCESSION NUMBER:		0000037914-06-000010
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20060128
+FILED AS OF DATE:		20060314
+DATE AS OF CHANGE:		20060314
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FOODARAMA SUPERMARKETS, INC.
+		CENTRAL INDEX KEY:			0000037914
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-GROCERY STORES [5411]
+		IRS NUMBER:				210717108
+		STATE OF INCORPORATION:			NJ
+		FISCAL YEAR END:			1102
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-05745
+		FILM NUMBER:		06684613
+
+	BUSINESS ADDRESS:	
+		STREET 1:		922 HIGHWAY 33
+		STREET 2:		BLDG 6
+		CITY:			FREEHOLD
+		STATE:			NJ
+		ZIP:			07728
+		BUSINESS PHONE:		7324624700
+
+	MAIL ADDRESS:	
+		STREET 1:		922 HIGHWAY 33
+		STREET 2:		BLDG 6
+		CITY:			FREEHOLD
+		STATE:			NJ
+		ZIP:			07728
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FOODARAMA SUPERMARKETS INC
+		DATE OF NAME CHANGE:	19920703
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ MGM8m6aeqd1uv0VWcss0ZkkrLVyVmltZz+Nk5po61jt47qwrEhzt9G06tofBhlEd
+ bMI848l/nVuCqqEvqiUrJw==
+
+ 0000037914-06-000010.txt : 20060314
+
+10-Q
+ 1
+ p10q0106.txt
+ 1ST QTR 2006 10Q
+
+UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                              Washington D.C. 20549
+
+                                    FORM 10-Q
+
+(Mark One)
+
+[x]  QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+     ACT OF 1934
+
+  For the quarterly period ended: January 28, 2006
+
+                                       or
+
+[ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+    ACT OF 1934
+
+For the transition period from _____________ to _______________
+
+                         Commission file number 1-5745-1
+
+                          FOODARAMA SUPERMARKETS, INC.
+             (Exact name of Registrant as specified in its charter)
+    New Jersey                                                       21-0717108
+   -----------------------------                                     ----------
+  (State or other jurisdiction of                               (I.R.S. Employer
+   incorporation or organization)                            Identification No.)
+
+              Building 6, Suite 1, 922 Highway 33, Freehold, New Jersey 07728
+              ---------------------------------------------------------------
+                          (Address of principal executive offices)
+
+                             Telephone #732-462-4700
+                             -----------------------
+              (Registrant's telephone number, including area code)
+
+Indicate by check mark whether the Registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months and (2) has been subject to such filing requirements for
+the past 90 days.  Yes _X_       No ____
+- ----
+
+Indicate by check mark whether the  Registrant is an  accelerated  filer (as
+defined in Rule 12b-2 of the Exchange Act).     Yes____    No  _X_
+
+Indicate by check mark whether the registrant is a shell company (as defined in
+Rule 12b-2 of the Exchange Act).
+Yes      No  _X_
+
+Indicate the number of shares outstanding of each of the issuer's classes of
+common stock, as of the close of the latest practicable date.
+
+OUTSTANDING AT
+ CLASS                                                          March 10, 2006
+- ------                                                          --------------
+Common Stock                                                    988,117 shares
+$1 par value
+ 
+                          FOODARAMA SUPERMARKETS, INC.
+                          ----------------------------
+
+                 PART I.   FINANCIAL INFORMATION
+
+                     Item 1.        Financial Statements
+
+                                    Unaudited Consolidated Condensed Balance
+                                    Sheets January 28, 2006 and October 29, 2005
+
+                                    Unaudited Consolidated Condensed Statements
+                                    of Operations for the thirteen weeks ended
+                                    January 28, 2006 and January 29, 2005
+
+                                    Unaudited Consolidated Condensed Statements
+                                    of Cash Flows for the thirteen weeks ended
+                                    January 28, 2006 and January 29, 2005
+
+                                    Notes to the Unaudited Consolidated
+                                    Condensed Financial Statements
+
+                     Item 2.        Management's Discussion and Analysis of
+                                    Financial Condition and Results of
+                                    Operations
+
+                     Item 3.        Quantitative and Qualitative Disclosures
+                                    About Market Risk
+
+                     Item 4.        Controls and Procedures
+
+                 PART II.  OTHER INFORMATION
+
+                     Item 6.        Exhibits
+
+Disclosure Concerning Forward-Looking Statements
+- ------------------------------------------------
+
+All statements, other than statements of historical fact, included in this Form
+10-Q, including without limitation the statements under "Management's Discussion
+and Analysis of Financial Condition and Results of Operations," are, or may be
+deemed to be, "forward-looking statements" within the meaning of Section 27A of
+the Securities Act of 1933, as amended (the "Securities Act"), and Section 21E
+of the Securities Exchange Act of 1934, as amended (the "Exchange Act"). Such
+forward-looking statements involve assumptions, known and unknown risks,
+uncertainties and other factors which may cause the actual results, performance
+or achievements of Foodarama Supermarkets, Inc. (the "Company", which may be
+referred to as we, us or our) to be materially different from any future
+results, performance or achievements expressed or implied by such
+forward-looking statements contained in this Form 10-Q. Such potential risks and
+uncertainties, include without limitation, competitive pressures from other
+supermarket operators, warehouse club stores and discount general merchandise
+stores, economic conditions in the Company's primary markets, consumer spending
+patterns, availability of capital, cost of labor, cost of goods sold including
+increased costs from the Company's cooperative supplier, Wakefern Food
+Corporation ("Wakefern"), and other risk factors detailed herein and in other of
+the Company's Securities and Exchange Commission filings. The forward-looking
+statements are made as of the date of this Form 10-Q and the Company assumes no
+obligation to update the forward-looking statements or to update the reasons
+actual results could differ from those projected in such forward-looking
+statements.
+                                        2
+ 
+PART I - Item 1. FINANCIAL INFORMATION
+- --------------------------------------
+
+FOODARAMA SUPERMARKETS, INC. AND SUBSIDIARIES
+Consolidated Condensed Balance Sheets
+- -------------------------------------
+(In thousands)
+                                                  January 28,        October 29,
+                                                     2006               2005
+                                                  (Unaudited)           (1)
+                                                  -----------        -----------
+ASSETS
+
+Current assets:
+ Cash and cash equivalents                          $   8,415        $  5,488
+ Merchandise inventories                               56,093          55,889
+ Receivables and other current assets                   7,635           7,597
+ Prepaid and refundable income taxes                       61             797
+ Related party receivables - Wakefern                   8,252          14,587
+                                                      -------         -------
+                                                       80,456          84,358
+                                                      -------         -------
+
+Property and equipment:
+ Land                                                     308             308
+ Buildings and improvements                             1,220           1,220
+ Leasehold improvements                                60,397          61,360
+ Equipment                                            157,711         164,238
+ Property under capital leases                        152,354         152,354
+ Construction in progress                                 275             199
+                                                      -------         -------
+                                                      372,265         379,679
+ Less accumulated depreciation and
+  amortization                                        159,874         161,975
+                                                      -------         -------
+
+                                                      212,391         217,704
+                                                      -------         -------
+Other assets:
+ Investments in related parties                        18,323          18,323
+ Goodwill                                               1,715           1,715
+ Intangible assets, net                                 1,257           1,304
+ Other                                                  3,444           3,364
+ Related party receivables - Wakefern                   2,165           2,237
+ Deferred income taxes                                    757               -
+                                                      -------        --------
+                                                       27,661          26,943
+                                                      -------        --------
+                                                     $320,508        $329,005
+                                                      =======        ========
+                                                                   (continued)
+
+(1) Derived from the Audited Consolidated Financial Statements for the year
+ended October 29, 2005.
+See accompanying notes to the consolidated condensed financial statements.
+                                       3
+ 
+FOODARAMA SUPERMARKETS, INC. AND SUBSIDIARIES
+Consolidated Condensed Balance Sheets
+- -------------------------------------
+(In thousands except share data)
+
+                                                   January 28,       October 29,
+                                                       2006             2005
+                                                   (Unaudited)          (1)
+                                                   -----------       -----------
+LIABILITIES AND SHAREHOLDERS' EQUITY
+
+Current liabilities:
+ Current portion of long-term debt                   $  9,028        $   9,009
+ Current portion of long-term debt, related party       1,021            1,026
+ Current portion of obligations under capital leases    2,004            1,966
+ Current income taxes payable                             567                -
+ Deferred income taxes                                  2,151            2,151
+ Accounts payable:
+  Related party-Wakefern                               44,650           40,419
+  Others                                                9,464            9,671
+ Accrued expenses                                      14,618           13,479
+                                                      -------          -------
+                                                       83,503           77,721
+                                                      -------          -------
+
+Long-term debt                                         36,753           50,912
+Long-term debt, related party                           2,955            3,185
+Obligations under capital leases                      140,028          140,540
+Deferred income taxes                                       -              175
+Other long-term liabilities                            13,616           13,577
+                                                      -------          -------
+                                                      193,352          208,389
+                                                      -------          -------
+Commitments and Contingencies
+
+Shareholders' equity:
+ Common stock, $1.00 par; authorized 2,500,000 shares;
+  issued 1,621,767 shares; outstanding 988,117 shares   1,622            1,622
+ Capital in excess of par                               4,071            4,168
+ Deferred compensation                                      -             (242)
+ Retained earnings                                     52,928           52,315
+ Accumulated other comprehensive income:
+   Minimum pension liability                           (2,802)          (2,802)
+                                                      --------        ---------
+                                                       55,819           55,061
+ Less 633,650 shares, held in treasury, at cost        12,166           12,166
+                                                      --------        ---------
+                                                       43,653           42,895
+                                                      --------        ---------
+                                                    $ 320,508        $ 329,005
+                                                    =========        ==========
+(1) Derived from the Audited Consolidated Financial Statements for the year
+ended October 29, 2005.
+
+See accompanying notes to the consolidated condensed financial statements.
+                                       4
+ 
+FOODARAMA SUPERMARKETS, INC. AND SUBSIDIARIES
+Consolidated Condensed Statements of Operations - Unaudited
+- -----------------------------------------------------------
+(In thousands - except share data)
+
+                                                               13 Weeks Ended
+                                                         -----------------------
+
+                                                      January 28,    January 29,
+                                                          2006          2005
+                                                       ----------    -----------
+
+Sales                                                  $ 323,871     $ 317,589
+
+Cost of goods sold                                       240,988       237,482
+                                                       ----------    ----------
+
+Gross profit                                              82,883        80,107
+
+Selling, general and administrative expenses              77,300        75,075
+                                                       ----------    ----------
+Earnings from operations                                   5,583         5,032
+                                                       ----------    ----------
+
+Other income (expense):
+  Interest expense                                        (4,632)       (4,660)
+  Interest income                                             40            36
+                                                       ----------    ----------
+                                                          (4,592)       (4,624)
+                                                       ----------    ----------
+
+Earnings before income tax provision                         991           408
+
+Income tax provision                                        (378)         (155)
+                                                       -----------   ----------
+Net income                                             $     613     $     253
+                                                       ===========   ==========
+
+Per share information:
+Net income per common share:
+                 Basic                                 $     .62     $     .26
+                                                       ===========   ==========
+                 Diluted                               $     .59     $     .24
+                                                       ===========   ==========
+
+Weighted average shares outstanding:
+                 Basic                                   988,117       987,617
+                                                       -----------   ----------
+                 Diluted                               1,040,875     1,035,753
+                                                       ===========   ==========
+Dividends per common share                                    -0-           -0-
+                                                       ===========   ==========
+
+See accompanying notes to the consolidated condensed financial statements.
+
+                                       5
+ 
+FOODARAMA SUPERMARKETS, INC. AND SUBSIDIARIES
+Consolidated Condensed Statements of Cash Flows - Unaudited
+- -----------------------------------------------------------
+(In thousands)
+
+                                                            13 Weeks Ended
+                                                    ----------------------------
+                                                    January 28,      January 29,
+                                                        2006            2005
+                                                    -----------      -----------
+Cash flows from operating activities:
+  Net income                                          $    613        $     253
+  Adjustments to reconcile net income to
+    net cash provided by operating activities:
+    Depreciation                                         5,311            5,494
+    Amortization, intangibles                               47               47
+    Amortization, deferred financing costs                 136              244
+    Amortization, deferred rent escalation                 (96)             (80)
+    Provision to value inventory at LIFO                   235              238
+    Deferred income taxes                                 (932)            (441)
+    Non cash compensation expense                          145               86
+    (Increase) decrease in
+      Merchandise inventories                             (439)            (252)
+      Receivables and other current assets                 (38)            (335)
+      Prepaid and refundable income taxes                  736             (357)
+      Other assets                                         (32)            (246)
+      Related party receivables-Wakefern                 6,407            7,097
+    Increase (decrease) in
+      Accounts payable                                   4,024            2,768
+      Income taxes payable                                 567              586
+      Other liabilities                                  1,274           (1,907)
+                                                       --------        ---------
+                                                        17,958           13,195
+                                                       --------        ---------
+Cash flows from investing activities:
+  Decrease in construction advance due from landlords        -              775
+  Cash paid for the purchase of property and equipment    (426)          (1,347)
+  Proceeds from sale of equipment                          482                -
+  Cash paid for construction in progress                   (76)               -
+                                                       ---------       ---------
+                                                           (20)            (572)
+                                                       ---------       ---------
+Cash flows from financing activities:
+  Principal payments under long-term debt              (14,140)         (11,736)
+  Principal payments under capital lease obligations      (474)            (388)
+  Principal payments under long-term debt, related party  (235)            (214)
+  Deferred financing and other costs                      (162)               -
+                                                       ---------       ---------
+                                                        (15,011)        (12,338)
+                                                       ---------       ---------
+NET CHANGE IN CASH AND CASH EQUIVALENTS                   2,927             285
+
+CASH AND CASH EQUIVALENTS, BEGINNING OF PERIOD            5,488           6,001
+                                                       ---------        --------
+
+CASH AND CASH EQUIVALENTS, END OF PERIOD               $  8,415         $ 6,286
+                                                       =========       =========
+
+See accompanying notes to the consolidated condensed financial statements.
+
+                                       6
+ 
+NOTES TO CONSOLIDATED CONDENSED FINANCIAL STATEMENTS (Unaudited)
+- ----------------------------------------------------------------
+
+Note 1    Basis of Presentation
+- -------------------------------
+
+The unaudited Consolidated Condensed Financial Statements as of or for the
+period ending January 28, 2006, have been prepared in accordance with generally
+accepted accounting principles for interim financial information and with the
+instructions to Form 10-Q and rule 10-01. The balance sheet at October 29, 2005
+has been taken from the audited financial statements at that date. In the
+opinion of the management of the Company, all adjustments (consisting only of
+normal recurring accruals) which are considered necessary for a fair
+presentation of the results of operations for the period have been made. Certain
+financial information and footnote disclosures normally included in financial
+statements prepared in accordance with generally accepted accounting principles
+have been condensed or omitted. The reader is referred to the consolidated
+financial statements and notes thereto included in the Company's annual report
+on Form 10-K for the year ended October 29, 2005.
+
+At both January 28, 2006 and October 29, 2005, approximately 81% of merchandise
+inventories are valued by the Last-In-First-Out ("LIFO") method of inventory
+valuation while the balance of inventories is valued by the First-In-First-Out
+("FIFO") method. If the FIFO method had been used for the entire inventory,
+inventories would have been $4,955,000 and $4,720,000 higher than reported at
+January 28, 2006 and October 29, 2005, respectively.
+
+These results are not necessarily indicative of the results for the entire
+fiscal year.
+
+Note 2   Adoption of New Accounting Standards
+- ---------------------------------------------
+
+The Company adopted Statement of Financial Accounting Standards ("SFAS") No.
+151, "Inventory Costs," in the first quarter of fiscal 2006. SFAS No. 151
+clarifies the accounting for abnormal amounts of idle facility expense, freight,
+handling costs, and spoilage. This statement requires that those items be
+recognized as current period charges regardless of whether they meet the
+criterion of "so abnormal" which was the criterion specified in ARB No. 43. The
+adoption of this standard did not have any impact on our financial statements.
+
+The Company adopted SFAS No. 123 (revised 2004), "Share-Based Payment" ("SFAS
+123(R)"), effective October 30, 2005. SFAS No. 123(R) requires all share-based
+payments to employees, including grants of employee stock options, to be
+recognized in the income statement based on their fair value. Pro forma
+disclosure is no longer an alternative. The adoption of this standard increased
+earnings from operations by $127,000, increased net income by approximately
+$79,000, net of tax, and increased basic and diluted earnings per share by $.08
+for the 13 weeks ended January 28, 2006. This represents the difference in
+expense recognition between SFAS 123(R) and the previous method for accounting
+for stock options under APB 25 and is due to the difference in treatment of
+recognition of forfeitures (See Note 3).
+
+Note 3  Stock-Based Compensation
+- --------------------------------
+
+The Company maintains a Stock option plan (the "2001 Plan") for the issuance of
+up to 215,000 shares of common stock under non-qualified stock options.
+
+Effective October 30, 2005, the Company adopted SFAS 123(R), "Share-Based
+Payment." SFAS 123(R) replaces SFAS 123 "Accounting for Stock-Based
+Compensation" and supersedes Accounting Principles Board Opinion No. 25 ("APB
+25"), "Accounting for Stock Issued to Employees." SFAS 123(R) requires all
+share-based payments to employees, including grants of employee stock options,
+to be recognized in the financial statements based on their fair values. Under
+SFAS 123(R), the pro forma disclosures previously permitted under SFAS 123 are
+no longer an alternative to financial statement recognition.
+
+The Company has selected the Black-Scholes method of valuation for share-based
+
+                                       7
+ 
+compensation and has adopted the modified prospective transition method under
+SFAS 123(R), which requires that compensation cost be recorded, as earned, for
+all unvested stock options outstanding at the beginning of the first quarter of
+adoption of SFAS 123(R). As permitted by SFAS 123(R), prior periods have not
+been restated. The charge is generally recognized as non cash compensation on a
+straight-line basis over the remaining service period after the adoption date
+based on the options' original estimate of fair value. Due to the Going Private
+Transaction (See Note 5), all unvested stock options vested immediately.
+Therefore, the recognition of the remaining stock option expense was accelerated
+and recognized in the 13 weeks ended January 28, 2006. The non cash compensation
+expense for the 13 weeks ended January 28, 2006 was $115,000.
+
+Prior to the adoption of SFAS 123(R), the Company applied the
+intrinsic-value-based method of accounting prescribed by APB 25 and related
+interpretations, to account for its fixed-plan stock options to employees. Under
+this method, compensation cost was recorded only if the market price of the
+underlying stock on the date of grant exceeded the exercise price. As permitted
+by SFAS 123, the Company elected to continue to apply the intrinsic-value-based
+method of accounting described above, and adopted only the disclosure
+requirements of SFAS 123. The fair-value-based method used to determine
+historical pro forma amounts under SFAS 123 was similar in most respects to the
+method used to determine stock-based compensation expense under SFAS 123(R).
+However, in its pro forma disclosures, the Company accounted for option
+forfeitures as they occurred, rather than based on estimates of future
+forfeitures.
+
+In connection with the adoption and provisions of SFAS 123(R), the Company
+reversed the deferred compensation balance of $242,000, resulting from the
+application of the intrinsic-value-based method of accounting for stock options,
+at October 30, 2005 against Capital In Excess of Par. This expense is now
+superceded by the SFAS 123(R) expense, which was recorded over the vesting
+period of the stock options.
+
+The following table illustrates the pro forma effect on the Company's net income
+and earnings per share as if the Company had adopted the fair-value-based method
+of accounting for stock-based compensation under SFAS 123 for the 13 weeks ended
+January 29, 2005:
+
+                                       Thirteen Weeks Ended
+                                         January 29, 2005
+                                      (In thousands, except
+                                       per share amounts)
+                                     -------------------------
+Net income - as reported                     $     253
+Add:
+Stock-based employee compensation
+expense included in reported net
+income, net of related tax effects                  52
+Deduct:
+Adjustment to total stock-based
+employee compensation expense
+determined under the fair value
+based method, net of related tax effects           (71)
+
+                                     -------------------------
+Pro forma net income                         $     234
+                                     =========================
+Earnings per share:
+Basic, as reported                               $ .26
+                                     =========================
+
+Basic, pro forma                                 $ .24
+                                     =========================
+
+Diluted, as reported                             $ .24
+                                     =========================
+
+Diluted, pro forma                                $.23
+                                     =========================
+
+                                       8
+ 
+There were no stock options granted during the 13 weeks ended January 28, 2006
+or January 29, 2005. The fair value of each stock option is estimated on the
+date of grant using the Black-Scholes option-pricing model. The following
+assumptions were used for the grants made under the 2001 Plan:
+
+Risk -free interest rate             5.00%
+Expected option life                 5 years
+Dividend yield                       None
+Volatility                           40.2%
+
+As of January 28, 2006, 94,750 options are exercisable. The weighted average
+exercise price of all outstanding options is $19.60.
+
+On January 23, 2006, the Company extended the term (the "Extension") of 40,000
+options, which were set to expire on January 27, 2006, to December 27, 2006. The
+Extension resulted in additional non-cash compensation expense of $30,000, which
+was fully expensed in the 13 weeks ended January 28, 2006. This expense had an
+effect, net of tax, on net income of $19,000 for the 13 weeks ended January 28,
+2006.
+
+Note 4  Employee Benefit Plans
+- ------------------------------
+
+The following tables summarize the components of the net periodic pension
+expense for the Company sponsored defined benefit pension plans (both funded and
+unfunded postretirement plans) for the 13 weeks ended January 28, 2006 and
+January 29, 2005 (in thousands):
+
+Components of Net Periodic Benefit Cost:
+
+Pension Plans                                  13 Weeks Ended
+- -------------                                  --------------
+                                     January 28, 2006      January 29, 2005
+                                     ----------------      ----------------
+Service cost                            $ 166                    $123
+Interest cost                             135                     132
+Expected return on plan assets           (145)                   (134)
+Settlement (gain) loss recognized           -                       -
+Amortization of prior service cost         16                      11
+Recognized net actuarial loss              81                      95
+                                         -----                   -----
+Net periodic benefit cost               $ 253                   $ 227
+                                        ======                  ======
+
+Other Postretirement Plan                13 Weeks Ended
+- -------------------------                --------------
+                             January 28, 2006  January 29, 2005
+                             ----------------  ----------------
+Service cost                        $ 46              $ 46
+Interest cost                         83                83
+Amortization of prior service cost     7                21
+Recognized net actuarial loss         23                46
+                                    ----             -----
+Net periodic benefit cost          $ 159             $ 196
+                                   =====             =====
+
+As previously disclosed in the Notes to the Consolidated Financial Statements in
+the Company's 2005 Annual Report on Form 10-K filed with the SEC on January 27,
+2006, the Company's current funding policy for its qualified pension plans is to
+contribute annually the amount required by regulatory authorities to meet
+minimum funding requirements. The Company presently anticipates contributing
+
+                                       9
+ 
+approximately $1,500,000 to its pension plans during fiscal 2006. This amount is
+based on preliminary information and the actual amount contributed will be
+determined based on the final actuarial calculations, plan asset performance,
+possible changes in law and other factors. The Company has contributed $277,000
+during the 13 weeks ended January 28, 2006, and anticipates contributing
+approximately $1,223,000 more for expected future benefit payments during the
+remainder of fiscal 2006.
+
+Since the Company's Other Post Retirement Plan is unfunded, the contributions to
+this plan are equal to the benefit payments made during the year. Benefit
+payments made during the 13 weeks ended January 28, 2006 were $40,000.
+
+Note 5  Going Private Transaction
+- ---------------------------------
+
+As reported in the Company's current report on Form 8-K filed on March 3, 2006
+with the Securities and Exchange Commission ("SEC"), the Company has entered
+into a definitive agreement with respect to the going private transaction
+previously proposed by Saker Holdings Corp. Under the terms of the definitive
+agreement, Saker Holdings Corp. has agreed to make a cash tender offer for the
+Company's outstanding common stock at a price of $53 per share and the Special
+Committee of the Company's Board of Directors appointed to review the proposed
+transaction has recommended that the Company's shareholders accept the offer and
+tender their shares to Saker Holdings Corp. The Company is still in the initial
+stages of this transaction. For the thirteen weeks ended January 28, 2006, the
+Company incurred approximately $370,000 of transaction costs related to the
+going private transaction, which is included in selling, general and
+administrative expenses. The Company is required to pay Saker Holdings Corp. a
+termination fee of $1,500,000 if the Special Committee withdraws its
+recommendation that the shareholders accept the offer or the Company's Board of
+Directors approves or recommends another takeover proposal, or if the Company
+breaches or terminates the agreement for any reason other than Saker Holdings
+Corp.'s breach. In addition, the Company will be required to reimburse Saker
+Holdings Corp. for certain out of pocket expenses if the agreement is terminated
+under certain other circumstances.
+
+The tender offer for outstanding shares of the Company's common stock described
+in this Quarterly Report on Form 10-Q has not commenced. The description of the
+tender offer set forth in this report is for informational purposes only and is
+neither an offer to purchase nor a solicitation of an offer to sell securities.
+At the time the tender offer is commenced, Saker Holdings Corp. will file a
+tender offer statement with the SEC, and the Company will file a solicitation
+and recommendation statement with respect to the tender offer. The tender offer
+statement (including an offer to purchase, a related letter of transmittal and
+other offer documents) and the solicitation/recommendation statement will
+contain important information that should be read carefully before any decision
+is made with respect to the tender offer. Those materials will be made available
+to the Company's shareholders at no expense to them. In addition, all of those
+materials (and all other offer documents filed with the SEC) will be available
+at no charge on the SEC's web site (www.sec.gov) and from the Company.
+
+Part I - Item 2 Management's  Discussion and Analysis of Financial Condition and
+Results of Operations
+- ---------------------
+
+OVERVIEW
+- --------
+
+We operate a chain of 26 ShopRite supermarkets in Central New Jersey. In the
+first quarter of fiscal 2006 we closed one location in Edison, New Jersey. We
+believe it is important to maintain a modern, one stop competitive shopping
+environment for our customers and therefore have invested heavily in new,
+expanded and remodeled facilities. We have incorporated upscale service
+departments in our World Class supermarket concept. We are the largest member of
+Wakefern, the largest retailer owned food cooperative warehouse in the United
+States. Since we purchase from Wakefern most of the product we sell, participate
+
+                                       10
+ 
+in advertising, supply, insurance, payroll administration and technology
+programs with Wakefern, and receive 13.6% of Wakefern's patronage dividend, our
+success is integrally tied to the success of Wakefern.
+
+We operate in a highly competitive geographic area. Certain of our competitors
+are non-union and therefore may have lower labor and related fringe benefit
+costs. In the past six years a non-union competitor, Wegmans, has opened five
+stores in our trading area. We expect Wegmans to continue to open additional
+locations in our marketing area in the future. Additionally, another non-union
+operator, Wal-Mart, is expected to open Super Centers, which include extensive
+food operations, in our trading area.
+
+Certain categories of selling, general and administrative expenses have
+increased disproportionately in comparison to our sales growth and to inflation
+in the last three years. We have experienced substantial increases in employee
+health and pension costs under union contracts and for non-union associates.
+Additionally, the cost of utilities to operate our stores increased dramatically
+in the last two years. These trends have continued in fiscal 2006.
+
+We look at a variety of indicators to evaluate our performance, such as same
+store sales; sales per store; sales per selling square foot; percentage of total
+sales by department; shrink by department and store; departmental gross profit
+margins; sales per man hour; hourly labor rates; and percent of overtime.
+
+Critical Accounting Policies and Estimates
+- ------------------------------------------
+
+     Critical  accounting policies are those accounting policies that management
+believes are important to the portrayal of the Company's financial condition and
+results  and  require   management's  most  difficult,   subjective  or  complex
+judgments,  often as a result of the need to make estimates  about the effect of
+matters that are inherently  uncertain.
+
+The preparation of financial statements in conformity with accounting principles
+generally accepted in the United States of America requires management to make
+estimates and assumptions that affect the reported amounts of assets and
+liabilities and disclosures of contingent  assets and liabilities at the date of
+the financial statements and the reported amounts of revenues and expenses
+during the  reporting  period.  Actual results could differ from those
+estimates. The Company's critical accounting policies relating to the impairment
+of goodwill,  inventory valuation,  patronage dividends earned as a stockholder
+of Wakefern,  pension plans and other postretirement  benefits, workers'
+compensation  insurance  and  long-lived  assets are  described in the
+Company's  Annual Report on Form 10-K for the year ended October 29, 2005. As of
+January  28,  2006 there have been no  material  changes to any of the  critical
+accounting policies contained therein.
+
+Financial Condition and Liquidity
+- ---------------------------------
+
+The Company is a party to a Third Amended and Restated Revolving Credit and Term
+Loan Agreement (the "Credit Agreement") with four financial institutions. The
+Credit Agreement serves as our primary funding source for working capital and
+capital expenditures. The Credit Agreement is secured by substantially all of
+the Company's assets and provided for a total commitment of up to $80,000,000,
+including a revolving credit facility (the "Revolving Note") of up to
+$35,000,000, a term loan ("the Term Loan") in the amount of $25,000,000 and a
+capital expenditures facility (the "Capex Facility") of up to $20,000,000. As of
+January 28, 2006 the Company owed $16,032,884 on the Revolving Note, $8,750,000
+on the Term Loan and $16,677,857 under the Capex Facility.
+
+The Company's compliance with the major financial covenants under the Credit
+Agreement was as follows as of January 28, 2006:
+
+                                       11
+ 
+- --------------------------------------------------------------------------------
+                                                                  Actual
+                                                            (As defined in the
+Financial Covenant          Credit Agreement                Credit Agreement)
+- --------------------------------------------------------------------------------
+Adjusted EBITDA (1)         Greater than $26,000,000           $ 27,700,000
+- --------------------------------------------------------------------------------
+Leverage Ratio  (1)(2)      Less than 2.5 to 1.00              1.80 to 1.00
+- --------------------------------------------------------------------------------
+Debt Service Coverage
+Ratio (3)                   Greater than 1.10 to 1.00          1.42 to 1.00
+- --------------------------------------------------------------------------------
+Adjusted Capex (4)          Less than $7,299,000  (5) (7)      $    426,000 (6)
+- --------------------------------------------------------------------------------
+Store Project Capex         Less than $40,018,000 (5) (7)      $     76,000 (6)
+- --------------------------------------------------------------------------------
+
+(1)   Excludes obligations under capitalized leases, interest expense and
+      depreciation expense attributable to capitalized leases, non-cash write
+      downs and changes in the LIFO reserve.
+
+(2)   The Leverage Ratio is calculated by dividing the current and non-current
+      portions of Long-Term Debt and Long-Term Debt Related Party by Adjusted
+      EBITDA.
+
+(3)   The Debt Service Coverage Ratio is calculated by dividing Operating Cash
+      Flow by the sum of adjusted net interest expense, which excludes interest
+      on capitalized leases, the current provision for income taxes and
+      regularly scheduled principal payments, which exclude principal payments
+      on capitalized leases. Operating Cash Flow is calculated by subtracting
+      amounts expended for property and equipment for projects involving the
+      expenditure of less than $500,000 ($426,000 in the first quarter of fiscal
+      2006) from Adjusted EBITDA.
+
+(4)   Adjusted Capex is all capital expenditures other than New/Replacement
+      Store Project Capex.
+
+(5)   Represents limitations on capital expenditures for fiscal 2006. For fiscal
+      2006 the Company has budgeted $8,649,000 for capital expenditures. Any
+      unused amounts available under the Credit Agreement will be carried
+      forward to future periods.
+
+(6)   Represents capital expenditures for fiscal 2006.
+
+(7)   Includes amounts available but not used in the prior fiscal year and
+      available to be carried forward to fiscal 2006: $399,000 for Adjusted
+      Capex and $26,018,000 for Store Project Capex.
+
+No cash dividends have been paid on the Common Stock since 1979, and the Company
+has no present intentions or ability to pay any dividends in the near future on
+its Common Stock. The Credit Agreement does not permit the payment of any cash
+dividends on our Common Stock.
+
+Working Capital
+- ---------------
+
+At January 28, 2006, the Company had a working capital deficiency of $3,047,000
+as compared to working capital of $6,637,000 at October 29, 2005 and a working
+capital deficiency of $4,606,000 at January 29, 2005. Since the end of fiscal
+2005, working capital declined and a deficiency was created as a result of the
+collection of related party receivables from Wakefern related to the fiscal 2005
+patronage dividend receivable and the increase in related party accounts payable
+to Wakefern resulting from increased sales and the deferral of payment for
+Wakefern promotional programs. Funds used to pay these accounts payable will
+come from the revolving credit facility thereby increasing the Revolving Note
+which is classified as long-term borrowings. This will result in a corresponding
+increase in working capital.
+
+The Company normally requires small amounts of working capital since inventory
+is generally sold at approximately the same time that payments to Wakefern and
+other suppliers are due and most sales are for cash or cash equivalents.
+
+                                       12
+ 
+Working capital ratios were as follows:
+
+      January 28, 2006            .96 to 1.0
+      October 29, 2005           1.09 to 1.0
+      January 29, 2005            .95 to 1.0
+
+Cash flows (in millions) were as follows:
+
+                                                  Thirteen Weeks Ended
+                                               ----------------------------
+                                                 1/28/06         1/29/05
+                                                 -------         -------
+Operating activities                             $ 17.9           $ 13.2
+Investing activities                                  -              (.6)
+Financing activities                              (15.0)           (12.3)
+                                                --------           ------
+       Totals                                   $   2.9           $   .3
+                                                ========          =======
+
+Cash increased primarily as the result of timing differences related to the
+funding of payroll. These timing differences were due to the conversion to the
+Wakefern administered payroll system.
+
+The Company had $17,326,000 of available credit, at January 28, 2006, under its
+revolving credit facility. The availability does not include the additional
+$622,000 provided by the August 22, 2005 amendment to the Credit Agreement which
+allows the inclusion of cash in transit as additional collateral. The Company
+has no capital commitments for leasehold improvements or equipment as of January
+28, 2006. The amounts available under the Credit Agreement will adequately meet
+our operating needs, scheduled capital expenditures and debt service for fiscal
+2006.
+
+For the 13 weeks ended January 28, 2006 depreciation was $5,311,000 while
+capital expenditures totaled $502,000, compared to $5,494,000 and $1,347,000,
+respectively, in the prior year period. The decrease in depreciation was the
+result of the completion of depreciation for some older equipment and leasehold
+improvements. Capital expenditures decreased in the first quarter of fiscal 2006
+when no major projects were in process as compared to capital expenditures in
+the first quarter of fiscal 2005 when the store in West Long Branch, New Jersey
+was remodeled and the remodeling of the Neptune, New Jersey location was
+substantially completed.
+
+The following table summarizes our contractual obligations at January 28, 2006,
+and the effect such obligations are expected to have on liquidity and cash flow
+in future periods.
+- --------------------------------------------------------------------------------
+                                              Payments Due By Period
+- --------------------------------------------------------------------------------
+                                      Less Than      2-3        4-5      After 5
+Contractual Obligations         Total    1 Year     Years      Years      Years
+                                              (Dollars In Thousands)
+- --------------------------------------------------------------------------------
+Long-term debt               $  45,781   $ 9,028   $36,182    $  571    $    -
+- --------------------------------------------------------------------------------
+Interest on long-term debt (1)   6,979     3,606     3,349        24         -
+- --------------------------------------------------------------------------------
+Related party debt,
+  non interest bearing           3,976     1,021     1,512     1,052       391
+- --------------------------------------------------------------------------------
+Capital lease obligations (2)  334,463    15,895    31,297    32,335   254,936
+- --------------------------------------------------------------------------------
+Operating leases (2)            52,575     8,421    14,067     9,186    20,901
+- --------------------------------------------------------------------------------
+Other liabilities (3)            5,034     1,550       762     1,182     1,540
+- --------------------------------------------------------------------------------
+Purchase obligations -
+  leaseholds and equipment           -         -         -         -         -
+- --------------------------------------------------------------------------------
+Lease commitments - stores
+   under construction                -         -         -         -         -
+- --------------------------------------------------------------------------------
+Total                        $ 448,808   $39,521   $87,169  $ 44,350  $277,768
+                             =========   =======   =======  ========  ========
+- --------------------------------------------------------------------------------
+                                       13
+ 
+ (1)  Includes interest expense at estimated interest rates of 8.50% to 9.50% on
+      variable rate debt of $41,461 and interest expense at interest rates of
+      6.20% to 6.44% on fixed rate debt of $4,320.
+
+(2)   Lease obligation figures do not include insurance, common area maintenance
+      charges and real estate taxes for which the Company is obligated.
+
+(3)   Other liabilities include estimated unfunded pension liabilities, and
+      estimated post-retirement and post-employment obligations based on
+      available actuarial data.
+
+Results of Operations (13 weeks ended January 28, 2006 compared to 13 weeks
+- ---------------------   ended January 29, 2005)
+
+Sales:
+- ------
+
+Sales for the current period totaled $323.9 million as compared to $317.6
+million in the prior year period. This represents an increase of 2.0%. Sales for
+the current quarter included the operations of the location in Pennington, New
+Jersey purchased from Wakefern in September 2005. In November 2005, a location
+in Edison, New Jersey was closed at the end of its lease term.
+
+Same store sales from the twenty-five stores in operation in both periods
+increased 2.3%. Comparable store sales increases were partially offset by
+decreased sales in certain of the Company's stores affected by competitive store
+openings.
+
+Gross Profit:
+- -------------
+
+Gross profit as a percent of sales increased to 25.6% in the first quarter of
+fiscal 2006 compared to 25.2% for the comparable period in fiscal 2005. Cost of
+goods sold includes the costs of inventory sold and the related purchase,
+inbound freight and distribution costs including those costs charged by Wakefern
+for operation of warehouses, distribution and delivery of product to our stores.
+Vendor allowances and rebates and Wakefern patronage dividends are reflected as
+a reduction of cost of goods sold. Any costs to us related to other services
+which Wakefern provides are not included in cost of goods sold.
+
+Patronage dividends, applied as a reduction of the cost of goods sold, were $2.7
+million in the current year period compared to $2.5 million in the prior year
+period.
+
+The increase in gross profit was the result of a reduction in the cost of
+programs implemented in certain of the Company's stores to address competitive
+store openings (.06%), the contribution of the new location purchased from
+Wakefern in September 2005, including Wakefern incentive programs for new
+locations (.04%), reduced Wakefern assessment as a percentage of sales (.04%),
+an increase in the projected Wakefern patronage dividend (.03%) and a decrease
+in shrink (.20%). Shrink is the difference between expected gross profit, based
+on the difference between the cost and expected selling price of merchandise
+purchased, and actual gross profit. Shrink results from theft, spoilage,
+breakage, mark ups and mark downs.
+
+Operating Expenses:
+- -------------------
+
+Selling, general and administrative expenses totaled $77.3 million in the first
+quarter of fiscal 2006 compared to $75.1 million for the comparable period in
+fiscal 2005. Selling, general and administrative expenses as a percent of sales
+were 23.9% versus 23.6% in the prior year period. Increases in fringe benefits,
+
+                                       14
+ 
+occupancy costs, miscellaneous expense, administration and a decrease in
+miscellaneous income were partially offset by decreases in labor and
+depreciation. The increase in fringe benefits was the result of contractual
+increases. Fringe benefits increased from $13,733,000 to $14,446,000. The
+increase in occupancy costs was primarily the result of an increase in utility
+costs partially offset by a decrease in repairs and maintenance. Occupancy
+increased from $10,070,000 to $10,387,000. Miscellaneous expense increased as
+the result of increases in Wakefern support services and debit/credit card and
+bank service fees. Miscellaneous expense increased from $4,944,000 to
+$5,430,000. The increase in administration was the result of the incurrence of
+costs related to the going private transaction, an increase in idle facilities
+expense and an increase in the incentive compensation accrual for administrative
+personnel based upon operating results for the current quarter. Administration
+costs increased from $4,769,000 to $5,244,000.The decrease in miscellaneous
+income was due to decreased baling income. Miscellaneous income decreased from
+$778,000 to $660,000. Although labor decreased as a percent of sales, labor
+expense increased from $30,867,000 to $30,977,000. The decrease in labor as a
+percent of sales was due to improved efficiency in the operations of several of
+our stores and the increase in labor expense was due to an increase in labor
+rates. Depreciation decreased due to the completion of depreciation for some
+older equipment and leasehold improvements. Depreciation expense decreased from
+$5,494,000 to $5,311,000.
+
+As a percentage of sales, fringe benefits increased .14%, occupancy increased
+..04%, miscellaneous expense increased .13%, administration increased .12% and
+miscellaneous income decreased .04%. These increases were partially offset by a
+decrease in labor of .16% and a decrease in depreciation, including depreciation
+on capitalized leases, of .09%.
+
+Interest Expense:
+- -----------------
+
+Interest expense decreased to $4,632,000 from $4,660,000, while interest income
+was $40,000 compared to $36,000 for the prior year period. The decrease in
+interest expense for the current year period was due to a net decrease in
+average outstanding debt, including capitalized lease obligations, partially
+offset by an increase in the average interest rate paid on debt.
+
+Income Taxes:
+- -------------
+
+An income tax rate of 38% has been used in both the current and the prior year
+periods. The tax rate used is based on the expected effective tax rates.
+
+Net Income:
+- -----------
+
+Net income was $613,000 in the current year period compared to $253,000 in the
+prior year period. Earnings before interest, taxes, depreciation and
+amortization ("EBITDA") for the current period were $10,981,000 as compared to
+$10,737,000 in the prior year period. Net income per common share on a diluted
+basis was $.59 in the current year period compared to $.24 in the prior year
+period. Per share calculations are based on 1,040,875 weighted average shares
+outstanding in the current year period and 1,035,753 weighted average shares
+outstanding in the prior year period.
+
+EBITDA is presented because management believes that EBITDA is a useful
+supplement to net income and other measurements under accounting principles
+generally accepted in the United States since it is a meaningful measure of a
+company's performance and ability to meet its future debt service requirements,
+fund capital expenditures and meet working capital requirements. EBITDA is not a
+measure of financial performance under accounting principles generally accepted
+in the United States and should not be considered as an alternative to (i) net
+income (or any other measure of performance under generally accepted accounting
+principles) as a measure of performance or (ii) cash flows from operating,
+investing or financing activities as an indicator of cash flows or as a measure
+of liquidity. The following table reconciles reported net income to EBITDA:
+
+                                       15
+
+Thirteen Weeks Ended
+                              ----------------------------------------
+                              January 28, 2006        January 29, 2005
+                              ----------------        ----------------
+
+Net income                     $    613,000             $    253,000
+Add:
+ Interest expense, net            4,592,000                4,624,000
+ Income tax provision               378,000                  155,000
+ Depreciation                     5,311,000                5,494,000
+ Amortization                        87,000                  211,000
+                               ------------             ------------
+
+EBITDA                          $10,981,000              $10,737,000
+                               ============             ============
+
+Item 3.   Quantitative and Qualitative Disclosures About Market Risk
+- --------------------------------------------------------------------
+
+Except for indebtedness under the Credit Agreement, which is variable rate
+financing, the balance of our indebtedness is fixed rate financing. We believe
+that our exposure to market risk relating to interest rate risk is not material.
+The Company believes that its business operations are not exposed to market risk
+relating to foreign currency exchange risk, commodity price risk or equity price
+risk.
+
+Item 4.   Controls and Procedures
+- ---------------------------------
+
+As required by Rule 13a-15 under the Exchange Act, as of the end of the period
+covered by this quarterly report, the Company carried out an evaluation of the
+effectiveness of the design and operation of the Company's disclosure controls
+and procedures. This evaluation was carried out under the supervision and with
+the participation of the Company's management, including the Company's President
+and Chief Executive Officer along with the Company's Chief Financial Officer,
+who concluded that the Company's disclosure controls and procedures are
+effective. The Company's Director of Internal Audit and Principal Accounting
+Officer also participated in this evaluation. During the Company's last fiscal
+quarter, there has been no significant change in the Company's internal control
+over financial reporting that has materially affected, or is reasonably likely
+to materially affect, the Company's internal control over financial reporting.
+
+Disclosure controls and procedures are controls and other procedures that are
+designed to ensure that information required to be disclosed in Company reports
+filed or submitted under the Exchange Act is recorded, processed, summarized and
+reported, within the time periods specified in the Securities and Exchange
+Commission's rules and forms. Disclosure controls and procedures include,
+without limitation, controls and procedures designed to ensure that information
+required to be disclosed in Company reports filed under the Exchange Act is
+accumulated and communicated to management, including the Company's Chief
+Executive Officer and Chief Financial Officer as appropriate, to allow timely
+decisions regarding required disclosure.
+
+                                       16
+ 
+PART II     OTHER INFORMATION
+- -----------------------------
+
+Item 6.  Exhibits
+        -----------------
+
+                 Exhibit 31.1  Section 302 Certification of Chief Executive
+                               Officer
+
+                 Exhibit 31.2  Section 302 Certification of Chief Financial
+                               Officer
+
+                 Exhibit 32.1  Certification of Chief Executive Officer pursuant
+                               to 18 U.S.C. Section 1350
+
+                 Exhibit 32.2  Certification of Chief Financial Officer pursuant
+                               to 18 U.S.C. Section 1350
+
+17
+
+SIGNATURES
+                                   ----------
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Company
+has duly caused this report to be signed on its behalf by the undersigned
+thereunto duly authorized.
+
+FOODARAMA  SUPERMARKETS, INC.
+                                                   -----------------------------
+                                                           (Registrant)
+
+Date:  March 14, 2006                                /S/    MICHAEL SHAPIRO
+                                                     --------------------------
+                                                               (Signature)
+                                                    Michael Shapiro
+                                                    Senior Vice President,
+                                                    Chief Financial Officer
+
+Date: March 14, 2006
+                                                    /S/    THOMAS H. FLYNN
+                                                    ---------------------------
+                                                             (Signature)
+                                                    Thomas H. Flynn
+                                                    Vice President,
+                                                    Principal Accounting Officer
+
+18
+
+EXHIBIT 31.1
+
+                                  CERTIFICATION
+
+I, Richard J. Saker, certify that:
+
+1. I have reviewed this report on Form 10-Q of Foodarama Supermarkets, Inc.;
+
+2. Based on my knowledge, this report does not contain any untrue statement of a
+material fact or omit to state a material fact necessary to make the statements
+made, in light of the circumstances under which such statements were made, not
+misleading with respect to the period covered by this report;
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects the
+financial condition, results of operations and cash flows of the registrant as
+of, and for, the periods presented in this report;
+
+4. The registrant's other certifying officer and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial
+reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the
+registrant and have:
+
+        (a) Designed such disclosure controls and procedures, or caused such
+disclosure controls and procedures to be designed under our supervision, to
+ensure that material information relating to the registrant, including its
+consolidated subsidiaries, is made known to us by others within those entities,
+particularly during the period in which this report is being prepared;
+
+        (b) Designed such internal control over financial reporting, or caused
+such internal control over financial reporting to be designed under our
+supervision, to provide reasonable assurance regarding the reliability of
+financial reporting and the preparation of financial statements for external
+purposes in accordance with generally accepted accounting principles;
+
+        (c) Evaluated the effectiveness of the registrant's disclosure controls
+and procedures and presented in this report our conclusions about the
+effectiveness of the disclosure controls and procedures, as of the end of the
+period covered by this report based on such evaluation; and
+
+        (d) Disclosed in this report any change in the registrant's internal
+control over financial reporting that occurred during the registrant's most
+recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an
+annual report) that has materially affected, or is reasonably likely to
+materially affect, the registrant's internal control over financial reporting;
+and
+
+5. The registrant's other certifying officer and I have disclosed, based on our
+most recent evaluation of internal control over financial reporting, to the
+registrant's auditors and the audit committee of the registrant's board of
+directors (or persons performing the equivalent functions):
+
+        (a) All significant deficiencies and material weaknesses in the design
+or operation of internal control over financial reporting which are reasonably
+likely to adversely affect the registrant's ability to record, process,
+summarize and report financial information; and
+
+        (b) Any fraud, whether or not material, that involves management or
+other employees who have a significant role in the registrant's internal control
+over financial reporting.
+
+Date:  March 13, 2006                           /s/ RICHARD J. SAKER
+                                                ---------------------
+                                               (Signature)
+                                               Richard J. Saker
+                                               Chief Executive Officer
+
+19
+ 
+                                                                    EXHIBIT 31.2
+
+                                  CERTIFICATION
+
+I, Michael Shapiro, certify that:
+
+1. I have reviewed this report on Form 10-Q of Foodarama Supermarkets, Inc.;
+
+2. Based on my knowledge, this report does not contain any untrue statement of a
+material fact or omit to state a material fact necessary to make the statements
+made, in light of the circumstances under which such statements were made, not
+misleading with respect to the period covered by this report;
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects the
+financial condition, results of operations and cash flows of the registrant as
+of, and for, the periods presented in this report;
+
+4. The registrant's other certifying officer and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e)) and internal control over financial
+reporting (as defined in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the
+registrant and have:
+
+        (a) Designed such disclosure controls and procedures, or caused such
+disclosure controls and procedures to be designed under our supervision, to
+ensure that material information relating to the registrant, including its
+consolidated subsidiaries, is made known to us by others within those entities,
+particularly during the period in which this report is being prepared;
+
+        (b) Designed such internal control over financial reporting, or caused
+such internal control over financial reporting to be designed under our
+supervision, to provide reasonable assurance regarding the reliability of
+financial reporting and the preparation of financial statements for external
+purposes in accordance with generally accepted accounting principles;
+
+        (c) Evaluated the effectiveness of the registrant's disclosure controls
+and procedures and presented in this report our conclusions about the
+effectiveness of the disclosure controls and procedures, as of the end of the
+period covered by this report based on such evaluation; and
+
+        (d) Disclosed in this report any change in the registrant's internal
+control over financial reporting that occurred during the registrant's most
+recent fiscal quarter (the registrant's fourth fiscal quarter in the case of an
+annual report) that has materially affected, or is reasonably likely to
+materially affect, the registrant's internal control over financial reporting;
+and
+
+5. The registrant's other certifying officer and I have disclosed, based on our
+most recent evaluation of internal control over financial reporting, to the
+registrant's auditors and the audit committee of the registrant's board of
+directors (or persons performing the equivalent functions):
+
+        (a) All significant deficiencies and material weaknesses in the design
+or operation of internal control over financial reporting which are reasonably
+likely to adversely affect the registrant's ability to record, process,
+summarize and report financial information; and
+
+        (b) Any fraud, whether or not material, that involves management or
+other employees who have a significant role in the registrant's internal control
+over financial reporting.
+
+Date: March 13, 2006                            /s/ MICHAEL SHAPIRO
+                                                ------------------------------
+                                                (Signature)
+                                                Michael Shapiro
+                                                Chief Financial Officer
+
+20
+ 
+                                                                   EXHIBIT 32.1
+
+CERTIFICATION OF CHIEF EXECUTIVE OFFICER
+                       PURSUANT TO 18 U.S.C. SECTION 1350,
+                             AS ADOPTED PURSUANT TO
+                  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+      In connection with the Quarterly Report of Foodarama Supermarkets, Inc.
+(the "Company") on Form 10-Q for the period ended January 28, 2006 (the
+"Report"), I, Richard J. Saker, Chief Executive Officer of the Company, do
+hereby certify, pursuant to 18 U.S.C.ss. 1350, as adopted pursuant to ss. 906 of
+the Sarbanes-Oxley Act of 2002, that to my knowledge:
+
+(1)   the Report fully complies with the requirements of ss. 13(a) or 15(d) of
+      the Securities Exchange Act of 1934, 15 U.S.C. ss. 78m(a) or 78o(d), and,
+
+(2)   the information contained in the Report fairly presents, in all material
+      respects, the financial condition and results of operations of the
+      Company.
+
+Date:  March 13, 2006                           /s/ RICHARD J. SAKER
+                                                ------------------------------
+                                                (Signature)
+                                                Richard J. Saker
+                                                Chief Executive Officer
+
+21
+ 
+                                                                    EXHIBIT 32.2
+
+CERTIFICATION OF CHIEF FINANCIAL OFFICER
+                       PURSUANT TO 18 U.S.C. SECTION 1350,
+                             AS ADOPTED PURSUANT TO
+                  SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Quarterly Report of Foodarama Supermarkets, Inc.
+(the "Company") on Form 10-Q for the period ended January 28, 2006 (the
+"Report"), I, Michael Shapiro, Chief Financial Officer of the Company, do hereby
+certify, pursuant to 18 U.S.C.ss. 1350, as adopted pursuant to ss. 906 of the
+Sarbanes-Oxley Act of 2002, that to my knowledge:
+
+(1)   the Report fully complies with the requirements of ss. 13(a) or 15(d) of
+      the Securities Exchange Act of 1934, 15 U.S.C. ss. 78m(a) or 78o(d), and,
+
+(2)   the information contained in the Report fairly presents, in all material
+      respects, the financial condition and results of operations of the
+      Company.
+
+Date:  March 13, 2006                     /s/ MICHAEL SHAPIRO
+                                          ------------------------------
+                                          (Signature)
+                                          Michael Shapiro
+                                          Chief Financial Officer
+
+                                       22
+

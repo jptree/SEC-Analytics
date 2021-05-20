@@ -1,0 +1,2692 @@
+<Header>
+<FileStats>
+    <FileName>20060316_10-Q_edgar_data_1274150_0000950137-06-003158_1.txt</FileName>
+    <GrossFileSize>374528</GrossFileSize>
+    <NetFileSize>135853</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>152793</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>21</N_Tables>
+    <N_Exhibits>5</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000950137-06-003158.hdr.sgml : 20060316
+<ACCEPTANCE-DATETIME>20060316163907
+ACCESSION NUMBER:		0000950137-06-003158
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		6
+CONFORMED PERIOD OF REPORT:	20060131
+FILED AS OF DATE:		20060316
+DATE AS OF CHANGE:		20060316
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			COMMERCE ENERGY GROUP INC
+		CENTRAL INDEX KEY:			0001274150
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRIC SERVICES [4911]
+		IRS NUMBER:				200501090
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0731
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-32239
+		FILM NUMBER:		06692453
+
+	BUSINESS ADDRESS:	
+		STREET 1:		600 ANTON BOULEVARD
+		STREET 2:		SUITE 2000
+		CITY:			COSTA MESA
+		STATE:			CA
+		ZIP:			92626
+		BUSINESS PHONE:		7142580470
+
+	MAIL ADDRESS:	
+		STREET 1:		600 ANTON BOULDVARD
+		STREET 2:		SUITE 2000
+		CITY:			COSTA MESA
+		STATE:			CA
+		ZIP:			92626
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AMERICAN ENERGY GROUP INC
+		DATE OF NAME CHANGE:	20031222
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ BIV57HYUtBybeiwec1ZoOIm8GXDc3rB6GRoZ+C9Xf/7b/rByt7Sx0HbnE1YCcX+h
+ zi44LjeAQViIEr7OEJvwxg==
+
+ 0000950137-06-003158.txt : 20060316
+
+10-Q
+ 1
+ a18687e10vq.htm
+ FORM 10-Q
+
+Commerce Energy Group, Inc. 
+
+Table of Contents   
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549 
+
+Form 10-Q 
+
+(Mark One)
+
+For the quarterly period ended January 31, 2006 
+
+or 
+
+For the transition period from       to 
+
+Commission File Number 001-32239 
+
+COMMERCE ENERGY GROUP, INC. 
+
+(Exact name of registrant as specified in its charter) 
+
+(714) 259-2500  
+ (Registrant s telephone number, including area code) 
+
+Not Applicable  
+ (Former name, former address and former fiscal year, if changed since last report) 
+
+Indicate by check mark whether the registrant (1) has filed all reports required to be
+filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months
+(or for such shorter period that the registrant was required to file such reports), and (2) has
+been subject to such filing requirements for the past 90 days. Yes     No    
+
+Indicate by check mark whether the registrant is a large accelerated filer, or a
+non-accelerated filer. See definition of  accelerated filer and large accelerated filer  in Rule
+12b-2 of the Exchange Act).
+
+Large Accelerated Filer               Accelerated filer               Non-accelerated filer    
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of
+the Exchange Act). Yes     No    
+
+As of March 14, 2006, 30,266,809 shares of the registrant s common stock were outstanding.
+
+COMMERCE ENERGY GROUP, INC. 
+
+Form 10-Q 
+For the Period Ended January 31, 2006 
+Index 
+
+i
+
+Table of Contents   
+
+FORWARD-LOOKING INFORMATION 
+
+A number of the matters and subject areas discussed in this Quarterly Report on Form
+10-Q contain forward-looking statements reflecting management s current expectations. On one or
+more occasions, we may make statements regarding our assumptions, projections, expectations,
+targets, intentions or beliefs about future events. All statements other than statements of
+historical facts included in this Form 10-Q relating to expectation of future financial
+performance, continued growth, changes in economic conditions or capital markets and changes in
+customer usage patterns and preferences, are forward-looking statements.
+
+Words or phrases such as  anticipates,   believes,   estimates,   expects,   intends, 
+ plans,   predicts,   projects,   targets,   will likely result,   will continue,   may,   could 
+or similar expressions identify forward-looking statements. Forward-looking statements involve
+risks and uncertainties which could cause actual results or outcomes to differ materially from
+those expressed. We caution that while we make such statements in good faith and we believe such
+statements are based on reasonable assumptions, including without limitation, management s
+examination of historical operating trends, data contained in records and other data available from
+third parties, we cannot assure you that our expectations will be realized.
+
+In addition to the factors and other matters discussed under the caption  Factors That May
+Affect Future Results  in Item 2. Management s Discussion and Analysis of Financial Condition and
+Results of Operations in this Quarterly Report on Form 10-Q, some important factors that could
+cause actual results or outcomes for Commerce Energy Group, Inc. or our subsidiaries to differ
+materially from those discussed in forward-looking statements include:
+
+regulatory changes in the states in which we operate that could adversely affect our operations; 
+
+our continued ability to obtain and maintain licenses from the states in which we operate; 
+
+changes in the restructuring of retail markets which could prevent us from selling
+electricity and natural gas on a competitive basis; 
+
+our dependence upon a limited number of third-party suppliers of electricity and
+natural gas; 
+
+our dependence upon a limited number of local electric and natural gas utilities to
+transmit and distribute the energy we sell to our customers, and to accurately meter and
+bill for the energy we supply our customers; 
+
+fluctuations in market prices for electricity and natural gas; 
+
+our ability to accurately forecast the expected energy needs of our electricity and natural gas customers; 
+
+decisions by electricity and natural gas utilities not to raise their rates to
+reflect higher market cost of electricity and natural gas, thereby adversely affecting our
+competitiveness; 
+
+our ability to successfully compete in new electricity and natural gas markets that we enter; 
+
+decisions by our energy suppliers to require us to post additional collateral to support our energy purchases; 
+
+our ability to obtain and retain credit necessary to support both current operations and future growth; 
+
+our ability to successfully integrate businesses we may acquire; 
+
+seasonal weather or force majeure events that adversely impact electricity and
+natural gas supply and infrastructure and which could prevent us from
+competitively servicing the demand requirements of our customers; and 
+
+our dependence upon independent system operators, regional transmission
+organizations, natural gas transmission companies, and local distribution
+companies to properly coordinate and manage their transmission grids and
+distribution networks, and to accurately and timely calculate and allocate the cost
+of services to market participants. 
+
+Any forward-looking statement speaks only as of the date on which such statement is made, and,
+except as required by law, we undertake no obligation to update any forward-looking statement to
+reflect events or circumstances after the date on which such statement is made or to reflect the
+occurrence of unanticipated events. New factors emerge from time to time, and it is not possible
+for management to predict all such factors.
+
+1
+
+Table of Contents   
+
+PART I   FINANCIAL INFORMATION 
+
+Item 1.    Financial Statements.  
+
+COMMERCE ENERGY GROUP, INC. 
+
+CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS 
+
+(In thousands, except per share amounts) 
+
+(Unaudited) 
+
+The accompanying notes are an integral part of these Condensed Consolidated Financial Statements.
+
+2
+
+Table of Contents   
+
+COMMERCE ENERGY GROUP, INC. 
+
+CONDENSED CONSOLIDATED BALANCE SHEETS 
+
+(In thousands, except per share amounts) 
+
+The accompanying notes are an integral part of these Condensed Consolidated Financial Statements.
+
+3
+
+Table of Contents   
+
+COMMERCE ENERGY GROUP, INC. 
+
+CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS 
+
+(In thousands) 
+
+(Unaudited) 
+
+The accompanying notes are an integral part of these Condensed Consolidated Financial Statements.
+
+4
+
+Table of Contents   
+
+COMMERCE ENERGY GROUP, INC. 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS 
+
+(Dollars in thousands, except per share amounts) 
+
+(Unaudited) 
+
+1. Summary of Significant Accounting Policies 
+
+Basis of Presentation  
+
+The condensed financial statements for the three and six months ended January 31, 2006 and
+2005 of Commerce Energy Group, Inc. ( the Company ), include its two wholly-owned subsidiaries:
+Commerce Energy, Inc. ( Commerce ) and Skipping Stone Inc. ( Skipping Stone ). All material
+inter-company balances and transactions have been eliminated in consolidation.
+
+Preparation of Interim Condensed Consolidated Financial Statements  
+
+These interim condensed consolidated financial statements have been prepared by the Company s
+management, without audit, in accordance with accounting principles generally accepted in the
+United States and in the opinion of management, contain all adjustments (consisting of only normal
+recurring adjustments) necessary to present fairly the Company s consolidated financial position,
+results of operations and cash flows for the periods presented. Certain information and note
+disclosures normally included in consolidated annual financial statements prepared in accordance
+with accounting principles generally accepted in the United States have been condensed or omitted
+in these consolidated interim financial statements, although the Company believes that the
+disclosures are adequate to make the information presented not misleading. The condensed
+consolidated results of operations, financial position, and cash flows for the interim periods
+presented herein are not necessarily indicative of future financial results. These interim
+condensed consolidated financial statements should be read in conjunction with the annual
+consolidated financial statements and the notes thereto included in the Company s most recent
+Annual Report on Form 10-K for the year ended July 31, 2005.
+
+Uses of Estimates  
+
+The preparation of condensed consolidated financial statements in conformity with accounting
+principles generally accepted in the United States requires management to make certain estimates
+and assumptions that affect the reported amounts and timing of revenue and expenses, the reported
+amounts and classification of assets and liabilities, and disclosure of contingent assets and
+liabilities. These estimates and assumptions are based on the Company s historical experience as
+well as management s future expectations. As a result, actual results could materially differ from
+management s estimates and assumptions. In preparing our financial statements and accounting for
+the underlying transactions and balances, we apply our accounting policies as disclosed in our
+notes to the condensed consolidated financial statements. The accounting policies relating to
+accounting for derivatives and hedging activities, inventory, independent system operator costs,
+allowance for doubtful accounts, revenue and unbilled receivables are those that we consider to be
+the most critical to an understanding of our financial statements because their application places
+the most significant demands on our ability to judge the effect of inherently uncertain matters on
+our financial results.
+
+5
+
+Table of Contents   
+
+COMMERCE ENERGY GROUP, INC. 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+(Dollars in thousands, except per share amounts)  
+ (Unaudited) 
+
+Revenue Recognition  
+
+Energy sales are recognized when the electricity and natural gas are delivered to the
+Company s customers. The Company s net revenue is comprised of the following:
+
+The Company purchases electricity under forward physical delivery contracts to supply
+electricity to its retail energy customers based on projected usage. Excess electricity sales
+include electricity supply resold back into the wholesale market.
+
+Skipping Stone revenue (which is included in retail electricity sales above), after
+elimination of inter-company transactions, for the six months ended January 31, 2006 and 2005 was
+$666 and $594, respectively, representing approximately 1% of total net revenue for each period.
+
+Stock-Based Compensation  
+
+Effective in the first quarter of fiscal 2006, the Company adopted Statement of Financial
+Accounting Standards No. 123 (revised 2004),  Share-Based Payments  ( SFAS 123R ) which revises SFAS
+No. 123,  Accounting for Stock-Based Compensation  and supersedes APB Opinion No. 25,  Accounting for
+Stock Issued to Employees.  SFAS 123R requires all share-based payments to employees, including
+grants of employee stock options, be measured at fair value and expensed in the consolidated
+statement of operations over the service period (generally the vesting period). The Company uses
+the Black-Scholes option valuation model to value stock options. As a result of the adoption of
+SFAS 123R, using the modified prospective application, the Company recognized a pre-tax (tax effect
+minimal) charge associated with the expensing of stock options vested for the three and six months
+ending January 31, 2006 of $110 and $341, respectively. This expense is included in general and
+administrative expenses.
+
+The fair value of options granted is estimated on the date of grant using the Black-Scholes
+model based on the weighted-average assumptions in the table below. The assumption for the expected
+life is based on evaluations of historical and expected future exercise behavior. The risk-free
+interest rate is based on the US Treasury rates at the date of the grant with maturity dates
+approximately equal to the expected life at the grant date. The historical stock volatility of the
+Company s common stock is used as the basis for the volatility assumption.
+
+6
+
+Table of Contents   
+
+COMMERCE ENERGY GROUP, INC. 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+(Dollars in thousands, except per share amounts)  
+ (Unaudited) 
+
+A summary of option activity under the Commonwealth Energy Corporation 1999 Equity Incentive
+Plan (the  Incentive Plan ) as of January 31, 2006 and the changes during the quarter then ended is
+presented below.
+
+(1) 
+       
+     Options were granted with exercise prices greater than the fair value of the Company s common
+stock at the respective dates of grant. 
+
+(2) 
+       
+     See Note 8 on cancellation of former officers  options. 
+
+(3) 
+       
+     Options exercisable as of January 31, 2006 were 7,652 with a weighted average exercise price
+of $2.29. 
+
+As of January 31, 2006, there was $190 of total unrecognized compensation cost related to
+non-vested outstanding stock options, which is expected to be recognized over the period February
+1, 2006 through August 1, 2007.
+
+As of January 31, 2006 there were 345,000 shares of restricted stocks issued with a total
+market value of $523. The total unrecognized compensation cost relating to non-vested restricted
+stocks is nominal and will be amortized over the period of February 1, 2006 through August 1, 2009.
+
+Prior to the adoption of SFAS 123R, the Company accounted for its employee stock options under
+the provision of Accounting Principles Board Opinion No. 25,  Accounting for Stock Issued to
+Employees  and related interpretations. The Company s compensation cost, net loss or loss per share,
+would have reflected a nominal changes if the stock-based compensation plan had been determined
+based on the fair value method (estimated using Black-Scholes option pricing model) at the grant
+dates in accordance with Financial Accounting Standards Board Statement No. 123,  Accounting for
+Stock-Based Compensation,  for the six months ended January 31, 2005.
+
+Amended and Restated 2005 Employee Stock Purchase Plan  
+
+At the Company s Annual Meeting of Stockholders in January 2006 (the
+ Annual Meeting ), the Company s stockholders approved the Amended and Restated 2005 Employee Stock
+Purchase Plan (the  ESPP ). The ESPP allows eligible employees of the Company and its designated
+affiliates to purchase shares of the Company s common stock through payroll deductions, subject to
+an aggregate limit of 3,000,000 shares of common stock that may be purchased under the ESPP. The
+ESPP is intended to be an  employee stock purchase plan  within the meaning of Section 423 of the
+Internal Revenue Code of 1986, as amended (the  Code ), thereby allowing participating employees to
+purchase shares of the Company s common stock at a discount on a tax-favored basis pursuant to the
+ESPP. Under the ESPP, twelve monthly offerings (each, an  Offering ) of shares of the Company s
+common stock are made each year, generally with each Offering beginning on the first day of each
+calendar month and ending on the last day of the same calendar month. Eligible employees may
+participate in one or more of the Offerings by electing to make payroll deductions during the
+Offering. The Board of Directors intends to register the shares of common stock that will become
+available for issuance under the ESPP on a registration statement on Form S-8 to be filed with the
+SEC.
+
+7
+
+Table of Contents   
+
+COMMERCE ENERGY GROUP, INC. 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+(Dollars in thousands, except per share amounts)  
+ (Unaudited) 
+
+2006 Stock Incentive Plan  
+
+At the Annual Meeting, the Company s stockholders approved the 2006 Stock Incentive Plan (the
+ SIP ). The principal difference between the SIP and the Incentive Plan relates to the greater
+flexibility that the SIP provides with respect to the types of awards that can be granted. The
+Incentive Plan is basically limited to stock option and restricted stock grants, while the SIP
+allows grants pursuant to a variety of awards, including options, share appreciation rights,
+restricted shares, restricted share units, deferred share units and performance-based awards in the
+form of stock appreciation rights, deferred shares and performance units. The Company will not make
+additional awards with respect to the shares of common stock that remain available for grant under
+the Incentive Plan as of the date of the Annual Meeting. The SIP provides that no more than
+1,453,334 shares of the Company s common stock may be issued pursuant to Awards under the SIP. The
+Board of Directors intends to register the shares of Common Stock that will become available for
+issuance under the SIP on a registration statement on Form S-8 to be filed with the SEC. Awards
+under the SIP may be made to key employees and directors of the Company or any of its subsidiaries
+whose participation in the SIP is determined to be in the best interests of the Company by the
+Compensation Committee of the Board of Directors.
+
+Income Tax  
+
+The Company has established valuation allowances to reserve its net deferred tax assets due to
+the uncertainty that the Company will realize the related tax benefits in the foreseeable future.
+
+Other Comprehensive Income (Loss)  
+
+In accordance with SFAS No. 133,  Accounting for Derivative Instruments and Hedging
+Activities  the Company uses cash flow hedge accounting. The fair value of the derivative contracts
+are recorded as a current or long-term derivative assets or liabilities. Subsequent changes in the
+fair value of the derivative assets and liabilities are recorded on a net basis in Other
+Comprehensive Income, or OCI, and reflected as direct energy cost in the statement of operations as
+the energy is delivered. The net Other comprehensive loss on designated cash flow hedged
+instruments was $1.0 million and $0 for the six months ended January 31, 2006 and 2005,
+respectively.
+
+Segment Reporting  
+
+The Company s chief operating decision makers consist of members of senior management that
+work together to allocate resources to, and assess the performance of, the Company s business.
+These members of senior management currently manage the Company s business, assess its performance,
+and allocate its resources as the single operating segment of energy retailing. As Skipping Stone,
+net of inter-company eliminations, only accounts for approximately 1% of total net revenue, and
+geographic information is not significant, no segment information is provided.
+
+Accounts Receivable, Net  
+
+Accounts receivable, net, is comprised of the following:
+
+8
+
+Table of Contents   
+
+COMMERCE ENERGY GROUP, INC. 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+(Dollars in thousands, except per share amounts)  
+ (Unaudited) 
+
+Inventory  
+
+Inventory represents natural gas in storage as required by state regulatory bodies and
+contractual obligations under customer choice programs. Inventory is stated at the lower of
+weighted average cost or market.
+
+2. Basic and Diluted Loss per Common Share 
+
+Basic loss per common share was computed by dividing net loss available to common
+stockholders, by the weighted average number of common shares outstanding during the period.
+Diluted loss per common share reflects the potential dilution that would occur if all outstanding
+options or other contracts to issue common stock were exercised or converted and was computed by
+dividing net loss by the weighted average number of common shares plus dilutive common equivalent
+shares outstanding, unless they were anti-dilutive.
+
+The following is a reconciliation of the numerator loss and the denominator (common shares in
+thousands) used in the computation of basic and diluted loss per common share:
+
+For the three and six months ended January 31, 2005, the effects of the assumed exercise
+of all stock options are anti-dilutive; accordingly, such assumed exercises and conversions have
+been excluded from the calculation of net loss   diluted. If the assumed exercises or conversions
+had been used, the fully diluted shares outstanding for the three and six months ended January 31,
+2005 would have been 30,845,000 and 30,867,000, and for January 31, 2006 it would have been 30,734,000 and
+31,157,000, respectively.
+
+3. Market and Regulatory 
+
+The Company currently serves electricity and gas customers in nine states, operating within
+the jurisdictional territory of nineteen different local utilities. Regulatory requirements are
+determined at the individual state level, and administered and monitored by the Public Utility
+Commission, or PUC, of each state. Operating rules and rate filings for each utility are unique.
+Accordingly, the Company generally treats each utility distribution territory as a distinct market.
+Among other things, tariff filings by local distribution companies, or LDCs, for changes in their
+allowed billing rate to their customers in the markets in which the Company operates, significantly
+impact the viability of the Company s sales and marketing plans, and its overall operating and
+financial results.
+
+9
+
+Table of Contents   
+
+COMMERCE ENERGY GROUP, INC. 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+(Dollars in thousands, except per share amounts)  
+ (Unaudited) 
+
+Electricity  
+
+Currently, the Company actively markets electricity in eleven LDC markets within the five
+states of California, Pennsylvania, Michigan, New Jersey and Texas.
+
+On April 1, 1998, the Company began supplying customers in California with electricity as an
+Electric Service Provider, or ESP. On September 20, 2001, the California Public Utility Commission,
+or CPUC, issued a ruling suspending the right of Direct Access, which allowed electricity customers
+to buy their power from a supplier other than the electric utilities. This suspension, although
+permitting the Company to keep current direct access customers and to solicit direct access
+customers served by other ESPs, prohibits the Company from soliciting new non-direct access
+customers for an indefinite period of time.
+
+Recently, the CPUC has made several important determinations, including a Resource Adequacy
+Requirement and a Renewable Portfolio Standard. The Resource Adequacy Requirement requires load
+serving entities, or LSEs, including the Company, to demonstrate that they have, or have acquired,
+the capacity to serve their customers including a 15-17% reserve margin beginning in June 2006, and
+an initial demonstration was filed in February 2006. The Renewable Portfolio Standard will also
+require increasing levels of renewable power supplied by LSEs up to 20% by 2010. Additional costs
+to serve customers in California are anticipated from these proceedings, however, the Company
+cannot predict the impact of these proceedings and the anticipated CPUC implementation rules will
+determine the distribution of those costs across all LSEs.
+
+On November 21, 2005 the Federal Energy Regulatory Commission (FERC) issued an order requiring
+all California Scheduling Coordinators (SCs), and all Load Serving Entities (LSEs) who act as their
+own SCs which includes Commerce Energy, to submit day-ahead schedules that reflect purchased power
+equal to 95% of their forecasted daily demand. This change is expected to result in significant
+revisions to operating procedures to match the block shapes of the power purchased by SCs to the
+load shapes utilized by their customers. Failure to achieve the 95% precision required by the order
+may result in additional charges, penalties and/or operational adjustments. The financial impact on
+the Company cannot be determined at this time.
+
+In California, the FERC and other regulatory and judicial bodies continue to examine the
+behavior of market participants during the California Energy Crisis of 2000 and 2001, and to
+recalculate what market clearing prices should or might have been under alternative scenarios of
+behavior by market participants. In the event the historical costs of market operations were to be
+reallocated among market participants, the Company cannot predict whether the results would be
+favorable or unfavorable, or the amount of any resulting adjustment.
+
+Detroit Edison un-bundled their energy and distribution charges in February, 2006. A primary
+component of this un-bundling is to shift rate responsibility from commercial to residential
+customers. As a result, the commercial and industrial customers will receive a substantial energy
+rate decrease which may have a negative impact on the Company s ability to retain and acquire new
+commercial customers in the state.
+
+There are no current rate cases or filings in the states of Pennsylvania, New Jersey or Texas
+that are anticipated to adversely impact the Company s financial results.
+
+Natural Gas  
+
+Currently, the Company actively markets natural gas in eight LDC markets within the six states
+of California, Georgia, Maryland, New York, Ohio and Pennsylvania. Due to significant increases in
+the price of natural gas, a number of LDCs have filed or communicated expectations of filing for
+approval of rate increases to their customers. Although the impact of these filings cannot
+currently be estimated, they are not anticipated to adversely impact the Company s financial
+results.
+
+4. Investments 
+
+We had three investments in the following early-stage, energy related entities: Encorp, Inc.,
+or  Encorp , Turbocor B.V., or  Turbocor , and Power Efficiency Corporation, or  PEC . In July 29,
+2005, we sold our ownership interest in Turbocor for $2,000.
+
+10
+
+Table of Contents   
+
+COMMERCE ENERGY GROUP, INC. 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+(Dollars in thousands, except per share amounts)  
+ (Unaudited) 
+
+The two remaining companies, which are expected to continue to incur operating losses, have
+very limited working capital. As a result, continuing operations will be dependent upon these
+companies securing additional financing to meet their respective immediate capital needs. The
+Company has no obligation, and currently no intention, to invest additional funds into these
+companies. At January 31, 2006, these two remaining investments are carried at a nominal value in
+goodwill, intangibles and other assets.
+
+5. Acquisitions 
+
+On February 9, 2005, the Company acquired certain assets of ACN Utility Services, Inc.
+( ACNU ), a subsidiary of American Communications Network, Inc. ( ACN ), and its retail electricity
+and natural gas sales business. ACNU sells retail electricity in Texas and Pennsylvania and sells
+retail natural gas in California, Georgia, Maryland, New York, Ohio and Pennsylvania. The aggregate
+purchase price was $14,500 in cash and 930,000 shares of the Company s common stock, valued at
+$2,000. In addition, as part of the initial purchase price, the Company was required to fund $2,542
+of collateralized letters of credit on the closing date to guarantee our performance to various
+third parties. The common stock payment was contingent upon ACN meeting certain sales requirements
+under a one year, renewable, Sales Agency Agreement between ACN and the Company ( Agreement )
+during the year following the acquisition date, and has been placed in an escrow account.
+
+The assets acquired included approximately 80,000 natural gas and electricity residential and
+small commercial customers, natural gas inventory associated with utility and pipeline storage and
+transportation agreements and natural gas and electricity supply, scheduling and capacity
+contracts, software and other infrastructures. No cash or accounts receivables were acquired in the
+transaction and none of ACNU s legal liabilities were assumed. The assets purchased and the
+operating results generated from the acquisition have been included in the Company s operations as
+of February 1, 2005, the effective date of the acquisition.
+
+Based on sales results the contingent consideration will not be earned and goodwill will be
+reduced by substantially all of the $2,000. On November 28, 2005, ACN notified Commerce of its
+intent not to renew the Agreement between ACN and Commerce. As a result of ACN s intent not to
+renew, the Agreement terminated automatically, on February 9, 2006.
+
+With the termination of the Agreement, ACN s network of sales representatives will not offer
+the Company s products after February 9, 2006. Commerce believes that the termination of the
+Agreement will not materially affect its relationships with existing customers acquired in the ACN
+Energy Transaction or subsequently acquired through ACN s network of sales representatives under
+the Agreement, and that it s existing internal direct sales force and other developing sales
+channels should replace ACN s sales network in the future.
+
+6. Contingencies 
+
+Litigation  
+
+The Company currently is, and from time to time may become, involved in litigation concerning
+claims arising out of the Company s operations in the normal course of business. While the Company
+cannot predict the ultimate outcome of its pending matters or how they will affect the Company s
+results of operations or financial position, the Company s management currently does not expect any
+of the legal proceedings to which the Company is currently a party to have a material adverse
+effect on its results of operations or financial position.
+
+On February 24, 2006 the Company received a Demand for Arbitration from ACN under the Sales
+Agency Agreement previously entered into by Commerce and the Company with respect to alleged future
+commissions arising after the termination of the Sales Agency Agreement by ACN, effective February
+9, 2006. The Demand for Arbitration alleges claims for anticipatory breach of contract, unjust
+enrichment, tortuous interference with prospective economic advantage and prima facie tort alleging
+actual and compensatory damages estimated to be no less than $32,287, restitution estimated to be
+no less than $6,776 and punitive damages estimated to be no less than $45,395. The Company intends
+to vigorously defend this matter.
+
+11
+
+Table of Contents   
+
+COMMERCE ENERGY GROUP, INC. 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+(Dollars in thousands, except per share amounts)  
+(Unaudited)
+
+7. Derivative Financial Instruments 
+
+The Company s activities expose it to a variety of market risks, principally from commodity
+prices. Management has established risk management policies and procedures designed to reduce the
+potentially adverse effects that the price volatility of these markets may have on its operating
+results. The Company s risk management activities, including the use of derivative instruments such
+as forward physical delivery contracts and financial swaps, options and futures contracts, are
+subject to the management, direction and control of an internal risk oversight committee. The
+Company maintains commodity price risk management strategies that use these derivative instruments,
+within approved risk tolerances, to minimize significant, unanticipated earnings fluctuations
+caused by commodity price volatility.
+
+Supplying electricity and natural gas to retail customers requires the Company to match
+customers  projected demand with long-term and short-term commodity purchases. The Company
+purchases substantially all of its power and natural gas utilizing forward physical delivery
+contracts. These physical delivery contracts are defined as commodity derivative contracts under
+SFAS No. 133,  Accounting for Derivative Instruments and Hedging Activities . Using the exemption
+available for qualifying contracts under SFAS No. 133, the Company applies the normal purchase and
+normal sale accounting treatment to its forward physical delivery contracts. Accordingly, the
+Company records revenue generated from customer sales as energy is delivered to retail customers
+and the related energy under the forward physical delivery contracts is recorded as direct energy
+costs when received from suppliers.
+
+In January 2005, the Company sold two significant electricity forward physical delivery
+contracts (on a net cash settlement basis) back to the original supplier in connection with a
+strategic realignment of its customer portfolio in the Pennsylvania electricity market, or PJM-ISO,
+which resulted in a gain of $7.2 million in the second quarter of fiscal 2005. As a result of that
+sale, the normal purchase and normal sale exemption has not been available for the forward supply
+costs purchased for the PJM-ISO market.
+
+For forward or future contracts that do not meet the qualifying criteria for normal purchase,
+normal sale accounting treatment, the Company elects cash flow hedge accounting, where appropriate.
+Under cash flow hedge accounting, the fair value of the contract is recorded as a current or
+long-term derivative asset or liability. Subsequent changes in the fair value of the derivative
+assets and liabilities are recorded on a net basis in Other Comprehensive Income, or OCI, and
+reflected as direct energy cost in the statement of operations as the energy is delivered.
+
+The amounts recorded in OCI at January 31, 2006 and July 31, 2005 related to cash flow hedges
+are summarized in the following table:
+
+Certain financial derivative instruments (such as swaps, options and futures), designated
+as economic hedges or as speculative, do not qualify or meet the requirements for normal purchase,
+normal sale accounting treatment or cash flow hedge accounting and are recorded currently in
+operating income (loss) and as a current or long-term derivative asset or liability depending on
+their term. The subsequent changes in the fair value of these contracts may result in operating
+income (loss) volatility as the fair value of the changes are recorded on a net basis in direct
+energy cost in the consolidated statement of operations for each fiscal period. For the three
+months ending January 31, 2006, the impact of financial derivatives accounted for as mark-to-market
+resulted in a loss of $3.1 million. The mark-to-market loss resulted largely from inaccuracies in
+determining exposure in our natural gas portfolio resulting
+
+12
+
+Table of Contents   
+
+COMMERCE ENERGY GROUP, INC. 
+
+NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued) 
+(Dollars in thousands, except per share amounts)  
+ (Unaudited) 
+
+in ineffective hedging of underlying price exposure. The notional value of these derivatives
+outstanding at January 31, 2006 was $16.6 million. As of
+January 31, 2006, the Company had total derivative assets of $600 included in Prepaid expenses and other, and $5,100 of total derivative liabilities included in Accrued liabilities.
+
+8. Settlement Agreements with Former Officers 
+
+On November 17, 2005, the Company entered into settlement agreements and general releases with
+each of the Company s former President, Peter Weigand, and Chief Financial Officer, Richard L.
+Boughrum. Additionally, Peter Weigand submitted his resignation from the Board of Directors,
+effective November 17, 2005.
+
+Under the terms of the settlement agreements, the Company agreed to pay Mr. Weigand and Mr.
+Boughrum lump sum settlement payments totaling $1,060 in April 2006, and agreed to purchase all of
+their 1,414,479 shares of the Company s common stock at a price of $1.50 per share, with 120,000 of
+such shares held by Mr. Weigand being purchased by two of the independent directors of the Company.
+Payments for the stock by the Company shall be made in several installments, the first installment
+representing one half of the amount, was paid on November 28, 2005, and the other half of the
+payment shall be made pursuant to a promissory note to be paid in five equal installments
+commencing in December 2005. In connection with the term of the settlement agreements, all of
+Mr. Weigand s and Mr. Boughrum s stock options, 1,100,000 in the aggregate, were cancelled.
+
+The above-referenced lump sum settlement payments to be made to Messrs. Weigand and Boughrum
+in April 2006 pursuant to the Settlement Agreements replaced the monthly severance payments which
+otherwise would be made under their respective Employment Agreements. Under the settlement
+agreements, each of Mr. Weigand and Mr. Boughrum, and the Company agreed to mutual general releases
+of claims that the parties may have had against each other.
+
+The Company entered into a settlement agreement and general release with Eric Alam, Senior
+Vice President of Sales and Marketing. Mr. Alam resigned effective December 1, 2005 and agreed to
+sell to the Company all of his 174,926 shares of stock for $1.50 per share to be paid in two equal
+installments, in November 2005 and February 2006. In connection with the settlement, all 133,000 of
+Mr. Alam s stock options were cancelled.
+
+13
+
+Table of Contents   
+
+Item 2.    Management s Discussion and Analysis of Financial Condition and Results of Operations.  
+
+Overview 
+
+We are a diversified, independent energy marketer of electricity and natural gas to end-use
+customers. We provide retail electricity and natural gas to residential, commercial, industrial and
+institutional customers in nine states. Our principal operating subsidiary, Commerce Energy, Inc.,
+is licensed by the Federal Energy Regulatory Commission, or FERC, as a power marketer. In addition
+to the states in which we currently operate, we are also licensed to supply retail electricity in
+New York, Maryland, Ohio and licensed to supply retail electricity and natural gas in Virginia.
+
+We were founded in 1997 as a retail electricity marketer in California and have grown to serve
+electricity and natural gas customers in nineteen utility markets in nine states. Growth has
+occurred by a combination of organic means and acquisitions. In the past eighteen months we
+acquired Skipping Stone Inc., or Skipping Stone, an energy consulting company, and purchased from
+American Communications Network, Inc. and certain of its subsidiaries, which we refer to
+collectively as ACN, certain assets of ACN s retail electric power and natural gas sales business.
+
+As of January 31, 2006, we delivered electricity to approximately 71,000 customers in
+California, Pennsylvania, Michigan, New Jersey and Texas; and natural gas to approximately 57,000
+customers in California, Georgia, Maryland, New York, Ohio and Pennsylvania. The potential growth
+of our business depends upon a number of factors, including the degree of deregulation in each
+state, our ability to acquire new customers and retain existing customers, and our ability to
+acquire energy for our customers at competitive prices and on favorable credit terms.
+
+The electricity and natural gas we sell to our customers is purchased from third party
+suppliers under both short and long-term contracts. We do not own electricity generation or
+delivery facilities, natural gas producing properties or pipelines. The electricity and natural gas
+we sell is generally metered and delivered to our customers by the local utilities. The local
+utilities also provide billing and collection services for many of our customers on our behalf.
+Additionally, to facilitate load shaping and demand balancing for our customers, we buy and sell
+surplus electricity and natural gas from and to other market participants when necessary. We
+utilize third party facilities for the storage of our natural gas.
+
+As used herein, the  Company,   we,   us,  or  our  means Commerce Energy Group, Inc. and its
+wholly-owned subsidiaries.  Commerce  refers to Commerce Energy, Inc., our principal operating
+subsidiary.
+
+Acquisitions 
+
+ACN Energy Transaction  
+
+On February 9, 2005, the Company acquired certain assets of ACN Utility Services, Inc.
+( ACNU ), a subsidiary of American Communications Network, Inc. ( ACN ), and its retail electricity
+and natural gas sales business. ACNU sold retail electricity in Texas and Pennsylvania and sold
+retail natural gas in California, Georgia, Maryland, New York, Ohio and Pennsylvania. The aggregate
+purchase price was $14.5 million in cash and 930,000 shares of the Company s common stock, valued
+at $2.0 million. In addition, as part of the initial purchase price, the Company was required to
+fund $2.5 million of collateralized letters of credit on the closing date to guarantee our
+performance to various third parties. The common stock payment was contingent upon ACN meeting
+certain sales requirements under a one year, renewable, Sales Agency Agreement between ACN and the
+Company, or the Sales Agency Agreement,  during the year following the acquisition date, and has been placed in an
+escrow account. Based on sales results the contingent consideration will not be earned and goodwill
+will be reduced by substantially all of the $2.0 million. On November 28, 2005, ACN notified the
+Company of its intent not to renew the Sales Agency Agreement between ACN and us. As a result of ACN s intent
+not to renew, the Sales Agency Agreement terminated automatically, on February 9, 2006.
+
+The assets acquired included approximately 80,000 natural gas-and-electricity residential and
+small commercial customers, natural gas inventory associated with utility and pipeline storage and
+transportation agreements and natural gas and electricity supply, scheduling and capacity
+contracts, software and other infrastructures. No cash or accounts receivables were acquired in the
+transaction and none of ACNU s liabilities were assumed. The assets purchased and the operating
+results generated from the acquisition have been included in our operations as of February 1, 2005,
+the effective date of the acquisition.
+
+14
+
+Table of Contents   
+
+With the termination of the Sales Agency Agreement, ACN s network of sales representatives
+will no longer offer our electricity and natural gas products after February 9, 2006. Although we
+believe that the termination of the Sales Agency Agreement will not materially affect our
+relationships with existing customers acquired in the ACN Energy Transaction or subsequently
+acquired through ACN s network of sales representatives under the Sales Agency Agreement, there is
+no assurance that we can continue to maintain the relationship with these customers.
+
+Investments 
+
+We had three investments in the following early-stage, energy related entities: Encorp, Inc.,
+or  Encorp , Turbocor B.V., or  Turbocor , and Power Efficiency Corporation, or  PEC . In July 29,
+2005, we sold our ownership interest in Turbocor for $2.0 million.
+
+The two remaining companies, which are expected to continue to incur operating losses, have
+very limited working capital. As a result, continuing operations will be dependent upon these
+companies securing additional financing to meet their respective immediate capital needs. We have
+no obligation, and currently no intention, to invest additional funds into these companies. At
+January 31, 2006, these two remaining investments are carried at a nominal value in goodwill,
+intangibles and other assets.
+
+Market and Regulatory 
+
+We currently serve electricity and gas customers in nine states, operating within the
+jurisdictional territory of nineteen different local utilities. Although regulatory requirements
+are determined at the individual state, and administered and monitored by the Public Utility
+Commission, or PUC, of each state, operating rules and rate filings for each utility are unique.
+Accordingly, we generally treat each utility distribution territory as a distinct market. Among
+other things, tariff filings by local distribution companies, or LDCs, for changes in their allowed
+billing rate to their customers in the markets in which we operate, significantly impact the
+viability of our sales and marketing plans, and our overall operating and financial results.
+
+Electricity  
+
+Currently, we actively market electricity in eleven LDC markets within the five states of
+California, Pennsylvania, Michigan, New Jersey and Texas.
+
+On April 1, 1998, we began supplying customers in California with electricity as an Electric
+Service Provider, or ESP. On September 20, 2001, the California Public Utility Commission, or CPUC,
+issued a ruling suspending the right of Direct Access, which allowed electricity customers to buy
+their power from a supplier other than the electric utilities. This suspension, although permitting
+us to keep current direct access customers and to solicit direct access customers served by other
+ESPs, prohibits us from soliciting new non-direct access customers for an indefinite period of
+time.
+
+Recently, the CPUC has made several important determinations, including a Resource Adequacy
+Requirement and a Renewable Portfolio Standard. The Resource Adequacy Requirement requires load
+serving entities, or LSEs, to demonstrate that they have, or have acquired, the capacity to serve
+their customers including a 15-17% reserve margin beginning in June 2006, an initial demonstration
+was filed in February 2006 after an extension was issued by the commission. The Renewable Portfolio
+Standard will require increasing levels of renewable power supplied by LSEs up to 20% by 2010.
+Additional costs to serve customers in California are anticipated from these proceedings, however,
+the Company cannot predict the impact of these proceedings and the anticipated CPUC implementation
+rules will determine the distribution of those costs across all LSEs.
+
+On November 21, 2005 the Federal Energy Regulatory Commission (FERC) issued an order accepting
+the California Independent System Operator s (CAISO s) modification to their tariff amendment
+number 72. This change requires all California Scheduling Coordinators (SCs), and all Load Serving
+Entities (LSEs) who act as their own SCs which includes Commerce Energy, to submit day-ahead
+schedules that reflect purchased power equal to 95% of their forecasted daily demand. This may
+result in significant revisions to operating procedures to match the block shapes of the power
+purchased by SCs to the load shapes utilized by their customers. Failure to achieve the
+
+15
+
+Table of Contents   
+
+95% precision required by the order may result in additional charges, penalties and/or
+operational adjustments. The financial impact on individual LSEs including the Company cannot be
+determined at this time.
+
+In California, the FERC and other regulatory and judicial bodies continue to examine the
+behavior of market participants during the California Energy Crisis of 2000 and 2001, and to
+recalculate what market clearing prices should or might have been under alternative scenarios of
+behavior by market participants. In the event the historical costs of market operations were to be
+reallocated among market participants, we cannot predict whether the results would be favorable or
+unfavorable, or the amount of any resulting adjustment. The payment or receipt of adjustments, if
+any, will likely be conducted between FERC, the California ISO and our contracted scheduling
+coordinator for the period in question, Automated Power Exchange (APX). APX served as the direct
+interface with the now defunct California Power Exchange for the sale and purchase of some volumes
+of power by us during 2000 and 2001.
+
+Detroit Edison un-bundled their energy and distribution charges in February, 2006. A primary
+component of this un-bundling is to shift rate responsibility from commercial to residential
+customers. As a result, the commercial and industrial customers will receive a substantial energy
+rate decrease which may have a negative impact on the Company s ability to retain and acquire new
+commercial customers in the state.
+
+There are no current rate cases or filings in the states of Pennsylvania, New Jersey or Texas
+that are anticipated to impact our financial results.
+
+Natural Gas  
+
+Currently, we actively market natural gas in eight LDC markets within the six states of
+California, Georgia, Maryland, New York, Ohio and Pennsylvania. Due to recent and significant
+increases in the price of natural gas, a number of LDCs have filed or communicated expectations of
+filing for approval of rate increases to their customers. Although the impact of these filings
+cannot currently be estimated, they are not anticipated to adversely impact our financial results.
+
+Critical Accounting Policies and Estimates 
+
+The following discussion and analysis of our financial condition and operating results are
+based on our consolidated financial statements. The preparation of this Form 10-Q requires us to
+make estimates and assumptions that affect the reported amount of assets and liabilities,
+disclosure of contingent assets and liabilities at the date of our financial statements, and the
+reported amount of revenue and expenses during the reporting period. Actual results may differ from
+those estimates and assumptions. In preparing our financial statements and accounting for the
+underlying transactions and balances, we apply our accounting policies as disclosed in our notes to
+the condensed consolidated financial statements. The accounting policies discussed below are those
+that we consider to be most critical to an understanding of our financial statements because their
+application places the most significant demands on our ability to judge the effect of inherently
+uncertain matters on our financial results. For all of these policies, we caution that future
+events rarely develop exactly as forecast, and the best estimates routinely require adjustment.
+
+Accounting for Derivative Instruments and Hedging Activities    We purchase
+substantially all of our power and natural gas under forward physical delivery contracts
+for supply to our retail customers. These forward physical delivery contracts are defined
+as commodity derivative contracts under Statement of Financial Accounting Standard, or SFAS
+No. 133,  Accounting for Derivative Instruments and Hedging Activities . Using the
+exemption available for qualifying contracts under SFAS No. 133, we apply the normal
+purchase and normal sale accounting treatment to a majority of our forward physical
+delivery contracts. Accordingly, we record revenue generated from customer sales as energy
+is delivered to our retail customers and the related energy cost is recorded as direct
+energy costs concurrently. 
+
+As a result of a sale on January 28, 2005 of two significant electricity forward physical
+delivery contracts (on a net cash settlement basis) back to the original supplier, the normal
+purchase and normal sale exemption has not been available in our Pennsylvania market, or the
+PJM-ISO through January 31, 2006. Accordingly, we designate forward physical delivery
+contracts entered into for the PJM-ISO, and certain other forward fixed price purchases and
+financial derivatives as cash flow hedges, whereby mark-to-market accounting gains or 
+
+16
+
+Table of Contents   
+
+losses are deferred and reported as a component of Other Comprehensive Income (Loss) until
+the time of physical delivery and the fair value of the contracts is recorded as a current or
+long-term derivative asset or liability. Subsequent changes in the fair value of the
+derivative assets and liabilities are recorded on a net basis in Other Comprehensive Income
+(Loss) and subsequently reclassified to direct energy cost in our consolidated Statement of
+Operations as the power is delivered. To the extent that the hedges are not effective, the
+ineffective portion of the changes in fair market value is recorded currently in direct
+energy costs. We intend to continue to use financial derivative instruments (such as swaps,
+options and futures) as an effective way of assisting in managing our price risk in energy
+supply procurement. Additionally, we utilize cash flow hedge accounting, where appropriate.
+We anticipated the normal purchase and normal sale exception will again be available to us in
+the third quarter of fiscal 2006. 
+
+We also utilize other financial derivatives, primarily swaps, options and futures to hedge
+our commodity price risks. Certain derivative instruments, which are designated as economic
+hedges or as speculative, do not qualify for hedge accounting treatment and require current
+period mark-to-market accounting in accordance with SFAS No. 133, with fair market value
+being used to determine the related income or expense that is recorded each quarter in the
+statement of operations. As a result, the changes in fair value of derivatives that do not
+meet the requirements of normal purchase and normal sales accounting treatment or cash flow
+hedge accounting are recorded in operating income (loss) and as a current or long-term
+derivative asset or liability. The subsequent changes in the fair value of these contracts
+could result in operating income (loss) volatility as the fair value of the changes are
+recorded on a net basis in direct energy costs in our consolidated statement of operations
+for each period. 
+
+We determined that our documentation during fiscal 2005 was inadequate for the contracts that
+were designated for cash flow hedge accounting treatment pursuant to the provisions of SFAS
+No. 133, resulting in current period mark-to-market accounting for all of our electricity
+forward physical contracts and financial derivatives which had previously been designated as
+cash flow hedges in fiscal 2005. 
+
+Independent System Operator Costs    Included in direct energy costs, along with
+electricity that we purchase, are scheduling coordination costs, certain real-time net
+power purchase and sale cost, and other ISO fees and charges. The actual ISO costs are not
+finalized until a settlement process by the ISO is performed for each day s activities for
+all grid participants. Prior to the completion of settlement (which may take from one to
+several months), we estimate these costs based on historical trends and preliminary
+settlement information. The historical trends and preliminary information may differ from
+actual costs resulting in the need to adjust the previous estimates. 
+
+Transportation and Delivery Costs    Included in direct energy costs, along with natural
+gas that we purchase, are interstate pipeline costs and utility service charges. These fees
+are recognized in the month incurred and settled in the following month. 
+
+Allowance for Doubtful Accounts    We maintain allowances for doubtful accounts for
+estimated losses resulting from non-payment of customer billings. If the financial
+condition of our customers were to deteriorate, resulting in an impairment of their ability
+to make payments, additional allowances may be required. 
+
+Unbilled Receivables    Our customers are billed monthly during the month on a
+sequential basis or on a meter read cycle. Unbilled receivables represent the amount of
+electricity and natural gas delivered to customers through the end of each reporting
+period, but not yet billed. Unbilled receivables from sales are estimated by us to be the
+number of kilowatt-hours or dekatherms delivered, but not yet billed, multiplied by the
+current average sales price per kilowatt-hour or dekatherms as applicable. 
+
+Inventory    Inventory represents natural gas in storage as required by state regulatory
+bodies and contractual obligations under customer choice programs. Inventory is stated at
+the lower of average cost or market. 
+
+Legal Matters    From time to time, we may be involved in litigation matters. We
+regularly evaluate our exposure to threatened or pending litigation and other business
+contingencies and accrue for estimated losses on such matters in accordance with SFAS No.
+5,  Accounting for Contingencies.  As additional information 
+
+17
+
+Table of Contents   
+
+about current or future litigation or other contingencies becomes available, management
+assesses whether such information warrants the recording of additional expense. Such
+additional expense could potentially have a material adverse impact on our results of
+operations and financial position. On February 24, 2006, we received a Demand for Arbitration
+relating to the Sales Agency Agreement between American Communications Network, or ACN, and
+Commerce Energy, Inc. alleging the Commerce is liable for actual, consequential, restitution
+and punitive damages on a variety of causes of actions with respect to alleged future
+commissions arising after the termination of the Sales Agency Agreement by ACN. At this time,
+management believes that no accrual for this matter is warranted. See  Factors That May
+Affect Future Results   Our results of operations and financial condition could be affected
+by pending and future litigation.  
+
+Results of Operations 
+
+In the following comparative analysis, all percentages are calculated based on dollars in
+thousands. The states of Pennsylvania and New Jersey are within the same ISO territory and
+procurement of power is not managed separately, therefore, they are referred to as the Pennsylvania
+market below.
+
+Three Months Ended January 31, 2006 Compared to Three Months Ended January 31, 2005  
+
+The following table summarizes the results of our operations for the three months ended
+January 31, 2006 and 2005 (dollars in thousands).
+
+The loss from operations for the three months ended January 31, 2006 increased $1.9
+million from the comparable prior year period reflecting a $4.6 million decline in gross profit
+partly offset by a $2.7 million reduction in operating expenses. Gross profit for the three months
+ended January 31, 2005 includes a gain of $7.2 million resulting from a January, 2005 sale of
+electricity supply contracts for the Pennsylvania market.
+
+Gross profit for the second quarter of fiscal 2006 totaled $3.8 million, a 55% decrease from
+$8.4 million in the second quarter of fiscal 2005. For the second quarter of fiscal
+2006, gross profit was comprised of $5.1 million from
+electricity and a loss of $1.3 million from natural gas.  Gross profit from electricity for the second quarter of fiscal 2006
+declined $3.3 million from the comparable quarter of fiscal
+2005, reflecting the impact of the gain on sale of the Pennsylvania
+electricity supply contracts of $7.2 million in the second quarter of fiscal 2005 and partly offset by higher variable electricity sales prices
+during the second quarter of fiscal 2006. The gross margin loss in the natural gas
+includes a mark-to-market loss of $2.7 million on supply contracts entered in
+December 2005, which decreased in market value due to a significant decline in natural gas prices
+in January 2006. The decline in market value and related loss on these contracts required
+mark-to-market accounting treatment under SFAS 133. The reduction in quarter over quarter operating
+expenses primarily reflects lower employment related settlement and severance costs.
+
+18
+
+Table of Contents   
+
+Net revenue  
+
+The following table summarizes retail net revenues for the three months ended January 31, 2006
+and 2005 (dollars in thousands):
+
+Net revenues for the three months ended January 31, 2006 increased 19% from the prior
+comparable quarter. This increase reflects a $30.5 million increase in net revenues from markets
+(primarily natural gas) added in the February 2005 acquisition of the ACN Energy assets and
+customers, partly offset by a $9.3 million decrease in revenues related to the January 2005 sale of
+electricity contracts in Pennsylvania.
+
+Retail electricity sales for the three months ended January 31, 2006 were $44.1 million just
+slightly below the same period in 2005, as higher sales prices offset a 38% decrease in sales
+volume. For the three months ending January 31, 2006, we sold 421 million kWh, at an average retail
+price per kWh of $0.105, as compared to 681 million kWh sold at an average retail price per kWh of
+$0.065 for the comparable prior year period. California sales were 171 million kWh at an average
+price per kWh of $0.096; compared to 190 million kWh sold at an average price per kWh of $0.075.
+Pennsylvania and New Jersey sales were 143 million kWh at an average price per kWh of $0.120,
+compared to 301 million kWh at an average price of $0.062. Sales in Michigan decreased to 76
+million kWh at an average price per kWh of $0.088 in 2006, compared to 190 million kWh at an
+average price per kWh of $0.060. Texas sales were 31 million kWh at an average price per kWh of
+$0.122.
+
+We acquired our natural gas business in six states in February 2005. For the three months
+ending January 31, 2006, natural gas sales were $26.8 million. We sold approximately 2.1 million
+dekatherms, or DTH, during this period at an average price of $12.60 per DTH.
+
+We had approximately 71,000 retail electricity customers at January 31, 2006, a decrease of
+24% from 94,000 at January 31, 2005. The majority of the decline in our retail electricity
+customers occurred in our Pennsylvania market where, beginning in April 2005, we returned
+approximately 21,000 residential and small commercial customers to the incumbent utility as we
+could no longer offer competitive service. This customer attrition in our retail electricity also
+largely reflects the impact of increased sales prices to our customers resulting from higher
+wholesale electricity supply and transmission costs without corresponding price increases from
+incumbent utilities due to the lack of market responsive ratemaking, and a lagging regulatory
+approval process. Additionally, the decline in our customer base is partly attributed to our focus
+on increasing our commercial and industrial base. We also had approximately 57,000 natural gas
+customers at January 31, 2006.
+
+19
+
+Table of Contents   
+
+Direct Energy Costs  
+
+Direct energy costs, which are recognized concurrently with related energy sales, include the
+commodity cost of natural gas and electricity, electricity transmission costs from the ISOs,
+transportation costs from LDCs and pipelines, other fees and costs incurred from various
+energy-related service providers and energy-related taxes that cannot be passed directly through to
+the customer.
+
+Direct energy costs for the three months ended January 31, 2006 totaled $40.9 million and
+$28.0 million for electricity and natural gas, respectively.
+
+Electricity costs averaged $0.093 per kWh for the three months ended January 31, 2006, as
+compared to $0.066 per kWh for the same period last year. This increase of $.027 per kWh or 41% was
+due to large increases in wholesale electricity pricing driven primarily by increased wholesale
+natural gas (used to produce much of the electricity we buy) prices. Direct energy costs for
+natural gas for the three months ended January 31, 2006 averaged $13.20 per DTH.
+
+Operating Expenses  
+
+Selling and marketing expenses for the three months ended January 31, 2006 were $0.5 million higher
+than the comparable three months ended January 31, 2005 due primarily to increased commission
+costs. General and administrative expenses decreased $3.2 million from the comparable quarter of
+fiscal 2005 reflecting a $4.1 million decrease in employment related settlements and severance
+costs and lower legal expenses, offset in part by $1.6 million of added direct costs related to the
+acquired operations of the ACN energy assets.
+
+Initial Formation Litigation Expenses  
+
+In the three months ended January 31, 2005, we incurred $0.2 million of initial formation
+litigation costs related to our initial formation compared to no such costs during the three months
+ended January 31, 2006. Initial formation litigation expenses include legal and litigation costs
+associated with the initial capital raising efforts by former employees, various board member
+matters, and the legal complications arising from those activities.
+
+Benefit from Income Taxes  
+
+No provision for, or benefit from, income taxes was recorded for the three months ended
+January 31, 2006 or 2005. We provided valuation allowances equal to our calculated tax due to the
+uncertainty that we would realize these tax benefits in the foreseeable future.
+
+20
+
+Table of Contents   
+
+Six Months Ended January 31, 2006 Compared to Six Months Ended January 31, 2005  
+
+The following table summarizes the results of our operations for the six months ended January
+31, 2006 and 2005 (dollars in thousands).
+
+The loss from operations for the six months ended January 31, 2006 increased $3.2 million
+from the comparable prior year period due primarily to a decline in gross profit. Gross profit for
+the six months ended January 31, 2006 was $12 million, a 23% decrease from $15.6 million for the
+same period in fiscal 2005. The decrease was primarily due to the $7.2 million gain on the sale of
+the electricity forward supply contracts in Pennsylvania in January 2005 offset by higher
+electricity sale prices in California and Pennsylvania and a $0.6 million gross profit contribution
+from the ACN Energy assets. Operating expenses decreased slightly as lower severance and employment
+related settlement costs were largely offset by added direct costs related to the acquired
+operations of the ACN energy assets.
+
+Net Revenue  
+
+The following table summarizes retail net revenues for the six months ended January 31, 2006
+and 2005 (dollars in thousands):
+
+Net revenues for the six months ended January 31, 2006 were $137.0 million, a 15%
+increase compared to net revenues of $119.5 million for the six months ended January 31, 2005. The
+increase in net revenue was primarily
+
+21
+
+Table of Contents   
+
+attributable to the addition of the ACN Energy Assets partly offset by the impact of lower
+sales volumes in the Company s traditional electricity markets in Pennsylvania and Michigan.
+
+Retail electricity sales for the six months ended January 31, 2006 were $93.8 million, a 3%
+decrease from the same period in 2005. For the six months ending January 31, 2006, we sold 972
+million kWh, at an average retail price per kWh of $0.097, as compared to 1,456 million kWh sold at
+an average retail price per kWh of $0.066 in the same prior year period. California sales were 376
+million kWh at an average price per kWh of $0.091; compared to 436 million kWh sold at an average
+price per kWh of $0.076. Pennsylvania and New Jersey sales were 334 million kWh at an average price
+per kWh of $0.105, compared to 620 million kWh at an average price of $0.064. Sales in Michigan
+decreased to 186 million kWh at an average price per kWh of $0.078 in 2006, compared to 399 million
+kWh at an average price per kWh of $0.058. Texas sales were 76 million kWh at an average price per
+kWh of $0.130.
+
+We acquired our natural gas business in six states in February, 2005. For the six months
+ending January 31, 2006, natural gas sales were $35.7 million. We sold approximately 2.8 million
+dekatherms, or DTH, during this period at an average price of $12.57 per DTH.
+
+Excess electricity sales decreased to $6.9 million in the six months ended January 31, 2006
+compared to 22.0 million during the same period in 2005. This decrease reflects a one-time sale in
+January 2005 of $9.3 million of electricity supply contracts in Pennsylvania and lower sales of
+excess electricity in California and Pennsylvania.
+
+We had approximately 71,000 retail electricity customers at January 31, 2006, a decrease of
+24% from 94,000 at January 31, 2005. This customer attrition in our retail electricity markets
+largely reflects the impact of increased sales prices to our customers resulting from higher
+wholesale electricity supply and transmission costs without corresponding price increases from
+incumbent utilities due to the lack of market responsive ratemaking and a lagging regulatory
+approval process. The majority of the decline in our retail electricity customers occurred in our
+Pennsylvania market whereby, beginning in April 2005, we returned approximately 21,000 residential
+and small commercial customers to the incumbent utility since we could no longer offer competitive
+service. Additionally, the decline in our customer base is partly attributed to our focus on
+increasing our commercial and industrial base. We also had approximately 57,000 natural gas
+customers at January 31, 2006.
+
+Direct Energy Costs  
+
+Direct energy costs, which are recognized concurrently with related energy sales, include the
+commodity cost of natural gas and electricity, electricity transmission costs from the ISOs,
+transportation costs from LDCs and pipelines, other fees and costs incurred from various
+energy-related service providers and energy-related taxes that cannot be passed directly through to
+the customer.
+
+Direct energy costs for the six months ended January 31, 2006 totaled $89.3 million and $35.7
+million for electricity and natural gas, respectively.
+
+Electricity costs averaged $0.084 per kWh for the six months ended January 31, 2006, as
+compared to $0.062 per kWh for the same period last year. Direct energy costs for natural gas for
+the six months ended January 31, 2006 averaged $12.60 per DTH.
+
+Operating Expenses  
+
+Selling and marketing expenses for the six months ended January 31, 2006 were $0.2 million higher
+than the comparable six months ended January 31, 2005 due to added commission costs related to the
+acquisition of the ACN operations slightly offset by lower payroll expenses. General and
+administrative expenses for the six months ended January 31, 2006 decreased $0.6 million from the
+six months ended January 31, 2005. This decrease reflects $4.1 million in employment related
+settlements and severance costs for the second quarter fiscal 2005 and lower payroll expenses
+related to a reduction in headcount in 2006, offset in part by $3.4 million of added direct costs
+related to the acquired operations of the ACN energy assets.
+
+22
+
+Table of Contents   
+
+Initial Formation Litigation Expenses  
+
+In the six months ended January 31, 2005, we incurred $1.6 million of initial formation
+litigation costs related to Commonwealth Energy Corporation s formation compared to no such costs
+in the six months ended January 31, 2006. Initial formation litigation expenses include legal and
+litigation costs associated with the initial capital raising efforts by former Commonwealth Energy
+Corporation employees, various board member matters, and the legal complications arising from those
+activities.
+
+Benefit from Income Taxes  
+
+No provision for, or benefit from income taxes was recorded for the six months ended January
+31, 2006 or 2005. Starting in fiscal 2004, and continuing through the current period, we
+established a valuation allowance equal to our calculated tax benefit, because we believed it was
+not certain that we would realize these tax benefits in the foreseeable future.
+
+Liquidity and Capital Resources 
+
+As of January 31, 2006, cash and cash equivalents were $13.4 million compared to $33.3 million
+at July 31, 2005. This decrease of $20.0 million reflects using cash to fund a $10.0 million
+increase in accounts receivable, $2.3 million increase in letters of credit, $4.7 million increase
+in prepaid energy, and a $1.2 million decrease in accounts payable. These changes in part reflect
+the seasonal nature of natural gas sales that require inventory buildup and the funding of
+additional purchases during the winter months. Restricted cash and cash equivalents were $10.5
+million, compared to $8.2 million at July 31, 2005. Our principal sources of liquidity to fund
+ongoing operations were existing cash and cash equivalents.
+
+Cash flow used in operations for the six months ended January 31, 2006 was $13.6 million,
+compared to the cash flow used in operations of $3.2 million in the six months ended January 31,
+2005 primarily because of the items discussed in the preceding paragraph.
+
+Cash flow used in investing activities for the six months ended January 31, 2006 consisted of
+capital expenditures.
+
+The Company does not have open lines of credit for direct unsecured borrowings or letters of
+credit. Credit terms from our suppliers of electricity often require us to post collateral against
+our energy purchases and against our mark-to-market exposure with certain of our suppliers. We
+currently finance these collateral obligations with our available cash. If we are required to post
+such additional security, a portion of our cash would become restricted, which could adversely
+affect our liquidity. As of January 31, 2006, we had $10.5 million in restricted cash to secure
+letters of credit required by suppliers and other entities, and $9.9 million in deposits used as
+collateral in connection with energy purchase agreements.
+
+Based upon our current plans, level of operations and business conditions, we believe that our
+cash and cash equivalents, and cash generated from operations will be sufficient to meet our
+capital requirements and working capital needs for the foreseeable future. However, there can be no
+assurance that we will not be required to seek other financing in the future or that such
+financing, if required, will be available on terms satisfactory to us.
+
+Contractual Obligations  
+
+For the six months ended January 31, 2006, we have entered into additional electricity
+purchase contracts in the normal course of doing business for $33.8 million. These contracts are
+for one year or less and are with various suppliers.
+
+23
+
+Table of Contents   
+
+Factors That May Affect Future Results 
+
+If competitive restructuring of the retail energy market is delayed or does not result in viable
+competitive market rules, our business will be adversely affected.  
+
+The Federal Energy Regulatory Commission, or FERC, has maintained a strong commitment to the
+deregulation of wholesale electricity markets. The new provisions of EPA 2005 should serve to
+further enhance the reliability of the electric transmission grid which our electric marketing
+operations depend on for delivery of power to our customers. This movement at the federal level has
+in part helped spur deregulation measures in the states at the retail level. Twenty-three states
+and the District of Columbia have either enacted enabling legislation or issued a regulatory order
+to implement retail access. In 18 of these states, retail access is either currently available to
+some or all customers, or will soon be available. However, in many of these markets the market
+rules adopted have not resulted in energy service providers being able to compete successfully with
+the local utilities and customer switching rates have been low. Our business model depends on other
+favorable markets opening under viable competitive rules in a timely manner. In any particular
+market, there are a number of rules that will ultimately determine the attractiveness of any
+market. Markets that we enter may have both favorable and unfavorable rules. If the trend towards
+competitive restructuring of retail energy markets does not continue or is delayed or reversed, our
+business prospects and financial condition could be materially adversely impaired.
+
+Retail energy market restructuring has been and will continue to be a complicated regulatory
+process, with competing interests advanced not only by relevant state and federal utility
+regulators, but also by state legislators, federal legislators, local utilities, consumer advocacy
+groups and other market participants. As a result, the extent to which there are legitimate
+competitive opportunities for alternative energy suppliers in a given jurisdiction may vary widely
+and we cannot be assured that regulatory structures will offer us competitive opportunities to sell
+energy to consumers on a profitable basis. The regulatory process could be negatively impacted by a
+number of factors, including interruptions of service and significant or rapid price increases. The
+legislative and regulatory processes in some states take prolonged periods of time. In a number of
+jurisdictions, it may be many years from the date legislation is enacted until the retail markets
+are truly open for competition.
+
+Other aspects of EPA 2005, such as the repeal of PUHCA 1935 and replacing it with PUHCA 2005,
+also may impact our business to the extent FERC does not continue the SEC s precedent of not
+regulating electric and gas marketers under PUHCA. A rulemaking implementing PUHCA 2005 is
+currently pending before FERC. If marketers and their parent companies and affiliates are to be
+regulated under PUHCA 2005, FERC may have access to their books and records and has oversight of
+their affiliate transactions. Various parties participating in FERC rulemaking have urged FERC not
+to so regulate marketers and other entities that do not own or operate gas or electric facilities.
+
+In addition, although most retail energy market restructuring has been conducted at the state
+and local levels, bills have been proposed in Congress in the past that would preempt state law
+concerning the restructuring of the retail energy markets. Although none of these initiatives has
+been successful, we cannot assure stockholders that federal legislation will not be passed in the
+future that could materially adversely affect our business.
+
+We face many uncertainties that may cause substantial operating losses and we cannot assure
+stockholders that we can achieve and maintain profitability.  
+
+We intend to increase our operating expenses to develop and expand our business, including
+brand development, marketing and other promotional activities and the continued development of our
+billing, customer care and power procurement infrastructure. Our ability to operate profitably will
+depend on, among other things:
+
+our ability to attract and to retain a critical mass of customers at a reasonable cost; 
+
+our ability to continue to develop and maintain internal corporate organization and systems; 
+
+the continued competitive restructuring of retail energy markets with viable competitive market rules; 
+
+24
+
+Table of Contents   
+
+our ability to effectively manage our energy procurement and shaping requirements, and
+to sell our energy at a sufficient profit margin; and 
+
+our ability to obtain and retain necessary credit necessary to support future growth
+and profitability. 
+
+We may have difficulty obtaining a sufficient number of customers.  
+
+We anticipate that we will incur significant costs as we enter new markets and pursue
+customers by utilizing a variety of marketing methods. In order for us to recover these expenses,
+we must attract and retain a large number of customers to our service.
+
+We may experience difficulty attracting customers because many customers may be reluctant to
+switch to a new supplier for a commodity as critical to their well-being as electricity and natural
+gas. A major focus of our marketing efforts will be to convince customers that we are a reliable
+provider with sufficient resources to meet our commitments. If our marketing strategy is not
+successful, our business, results of operations and financial condition could be materially
+adversely affected.
+
+We depend upon internally developed, and, in the future will rely on vendor-developed, systems and
+processes to provide several critical functions for our business, and the loss of these functions
+could materially adversely impact our business.  
+
+We have developed our own systems and processes to operate our back-office functions,
+including customer enrollment, metering, forecasting, settlement and billing. We are currently in
+the process of replacing a number of our internally developed legacy software systems with
+vendor-developed systems. Problems that arise with the performance of such back-office functions
+could result in increased expenditures, delays in the launch of our commercial operations into new
+markets, or unfavorable customer experiences that could materially adversely affect our business
+strategy. Any interruption of these services could also be disruptive to our business. As we
+transition from our own systems to new vendor-developed systems, we may incur duplicative expenses
+for a period of time and we may experience installation and integration issues with the new systems
+or delays in the implementation of the new systems. If we experience some or all of these new
+system implementation risks, we may not be able to establish a sufficient operating history for
+Sarbanes-Oxley 404 Attestation requirements, which we expect we must meet by no later than fiscal
+year ending July 31, 2007.
+
+Substantial fluctuations in electricity and natural gas prices or the cost of transmitting and
+distributing electricity and natural gas could have a material adverse affect on us.  
+
+To provide electricity and natural gas to our customers, we must, from time to time, purchase
+the energy commodity in the short-term or spot wholesale energy markets, which can be highly
+volatile. In particular, the wholesale electricity market can experience large price fluctuations
+during peak load periods. Furthermore, to the extent that we enter into contracts with customers
+that require us to provide electricity and natural gas at a fixed price over an extended period of
+time, and to the extent that we have not purchased the commodity to cover those commitments, we may
+incur losses caused by rising wholesale prices. Periods of rising prices may reduce our ability to
+compete with local utilities because their regulated rates may not immediately increase to reflect
+these increased costs. Energy Service Providers like us take on the risk of purchasing power for an
+uncertain load and if the load does not materialize as forecast, it leaves us in a long position
+that would be resold into the wholesale electricity and natural gas market. Sales of this surplus
+electricity could be at prices below our cost. Long positions of natural gas must be stored in
+inventory and are subject to the lower of cost or market valuations that can produce unrealized
+losses. Conversely, if unanticipated load appears that may result in an insufficient supply of
+electricity or natural gas, we would need to purchase the additional supply. These purchases could
+be at prices that are higher than our sales price to our customers. Either situation could create
+losses for us if we are exposed to the price volatility of the wholesale spot markets. Any of these
+contingencies could substantially increase our costs of operation. Such factors could have a
+material adverse effect on our financial condition.
+
+We are dependent on local utilities for distribution of electricity and natural gas to our
+customers over their distribution networks. If these local utilities are unable to properly operate
+their distribution networks, or if the operation of their distribution networks is interrupted for
+periods of time, we could be unable to deliver electricity or
+
+25
+
+Table of Contents   
+
+natural gas to our customers during those interruptions. This would result in lost revenue to
+us, which could adversely impact the results of our operations.
+
+If our net worth declines, our energy suppliers who extend credit to us may demand that we
+pledge additional cash or other collateral to support extensions of credit to us, which could
+adversely affect our liquidity and our operations.  
+
+Credit terms from our energy suppliers often require us to post collateral
+against our energy purchases and against our mark-to-market exposures with certain of our
+suppliers. If our net worth declines, our suppliers could require us to post additional
+collateral to support our energy purchases. Such action could adversely affect our liquidity and our operations.
+
+We do not utilize bank lines of credit at this time and may have limited access to additional
+credit from banks and commodity suppliers.  
+
+As of January 31, 2006, we believe that we have adequate cash and liquidity and supplier lines
+of credit to sustain our business operations in the near term. To expand our business in the
+future, we will likely pursue external financing from banks, other financial institutions and
+commodity suppliers. In connection with financing arrangements, we may choose to pledge our
+accounts receivable and commodity inventory or commodity contracts as collateral to support the
+extension of credit. Additionally, we have issued and will continue to issue parent company
+guarantees of subsidiary obligations for commercial credit in connection with the arrangements for
+unsecured credit from commodity suppliers. Such action could adversely affect our liquidity and our
+operations.
+
+If the wholesale price of electricity decreases, we may be required to post letters of credit for
+margin to secure our obligations under our long term energy contracts.  
+
+As the price of the electricity we purchase under long-term contracts is fixed over the term
+of the contracts, if the market price of wholesale electricity decreases below the contract price,
+the power generator may require us to post margin in the form of a letter of credit, or other
+collateral, to protect themselves against our potential default on the contract. If we are required
+to post such security, a portion of our cash would become restricted, which could adversely affect
+our liquidity.
+
+Some suppliers of electricity have been experiencing deteriorating credit quality.  
+
+We continue to monitor the credit quality of our energy suppliers to attempt to reduce the
+impact of any potential counterparty default. As of January 31, 2006, the majority of our
+counterparties are rated investment grade or above by the major rating agencies. These ratings are
+subject to change at any time with no advance warning. Deterioration in the credit quality of our
+energy suppliers could have an adverse impact on our sources of electricity purchases.
+
+We are required to rely on utilities with whom we compete to perform some functions for our
+customers.  
+
+Under the regulatory structures adopted in most jurisdictions, we are required to enter into
+agreements with local utilities for use of the local distribution systems, and for the creation and
+operation of functional interfaces necessary for us to serve our customers. Any delay in these
+negotiations or our inability to enter into reasonable agreements with those utilities could delay
+or negatively impact our ability to serve customers in those jurisdictions. This could have a
+material negative impact on our business, results of operations and financial condition.
+
+We are dependent on local utilities for maintenance of the infrastructure through which
+electricity and natural gas is delivered to our customers. We are limited in our ability to control
+the level of service the utilities provide to our customers. Any infrastructure failure that
+interrupts or impairs delivery of electricity or natural gas to our customers could have a negative
+effect on the satisfaction of our customers with our service, which could have a material adverse
+effect on our business. Regulations in many markets require that the services of reading our
+customers  energy meters and the billing and collection process be retained by the local utility.
+The local utility s systems and procedures may limit or slow down our ability to add customers.
+
+We are required to rely on utilities with whom we compete to provide us accurate and timely data.  
+
+26
+
+Table of Contents   
+
+In some states, we are required to rely on the local utility to provide us with our customers 
+energy usage data and to pay us for our customers  usage based on what the local utility collects
+from our customers. We may be limited in our ability or unable to confirm the accuracy of the
+information provided by the local utility. In addition, we are unable to control when we receive
+customer payments from the local utility. If we do not receive payments from the local utility on a
+timely basis, our working capital may be impaired. In the event we do not receive timely or
+accurate usage data, our ability to generate timely and accurate bills to our customers will be
+adversely affected which, in turn, will impact the ability of our customers to pay bills in a
+timely manner.
+
+We are subject to federal and state regulations in our electricity and natural gas marketing
+business and the rules and regulations of regional Independent System Operators, or ISOs, in our
+electricity business.  
+
+The rules under which we operate are imposed upon us by federal and state regulators, the
+regional ISOs and interstate pipelines. The rules are subject to change, challenge and revision,
+including revision after the fact.
+
+In California, the FERC and other regulatory and judicial bodies continue to examine the
+behavior of market participants during the California Energy Crisis of 2000 and 2001, and to
+recalculate what market clearing prices should have or might have been under alternative scenarios
+of behavior by market participants. In the event the historical costs of market operations were to
+be reallocated among market participants, we cannot predict whether the results would be favorable
+or unfavorable for us nor can we predict the amount of such adjustments. The payment or receipt of
+adjustments, if any, will likely be conducted between FERC, the California ISO and our contracted
+scheduling coordinator for the period in question, Automated Power Exchange, or APX. APX served as
+the direct interface with the now defunct California Power Exchange for the sale and purchase of
+some volumes of power by the Company during 2000 and 2001.
+
+In Pennsylvania, beginning in December 2004, the ISO established a Seams Elimination Charge
+Adjustment, or SECA, to compensate transmission owners for the change in the Regional Through and
+Out Rates, or RTOR, which eliminated some transmission charges and revenues from the ISO system
+operations. The impact on us, if any, is uncertain at this time. Compensatory payments to
+transmission owners are likely, but the recovery mechanism from customers, utilities or other load
+serving entities, such as us, is uncertain. We can not predict the amount of these adjustments, if
+any, that it might be charged at this time.
+
+In some markets, we are required to bear credit risk and billing responsibility for our customers.  
+
+In some markets, we are responsible for the billing and collection functions for our
+customers. In these markets, we may be limited in our ability to terminate service to customers who
+are delinquent in payment. Even if we terminate service to customers who fail to pay their utility
+bill in a timely manner, we may remain liable to our suppliers of electricity or natural gas for
+the cost of the electricity or natural gas and to the local utilities for services related to the
+transmission and distribution of electricity or natural gas to those customers. The failure of our
+customers to pay their bills in a timely manner or our failure to maintain adequate billing and
+collection programs could materially adversely affect our business.
+
+Our revenues and results of operations are subject to market risks that are beyond our control.  
+
+We sell electricity and natural gas that we purchase from third-party power generation
+companies and natural gas producers to our retail customers on a contractual or monthly basis. We
+are not guaranteed any rate of return through regulated rates, and our revenues and results of
+operations are likely to depend, in large part, upon prevailing market prices for electricity and
+natural gas in our regional markets. These market prices may fluctuate substantially over
+relatively short periods of time. These factors could have an adverse impact on our revenues and
+results of operations.
+
+Volatility in market prices for electricity and natural gas results from multiple factors,
+including:
+
+weather conditions, including hydrological conditions such as precipitation, snow pack and stream flow; 
+
+seasonality; 
+
+unexpected changes in customer usage; 
+
+27
+
+Table of Contents   
+
+transmission or transportation constraints or inefficiencies; 
+
+planned and unplanned plant or transmission line outages; 
+
+demand for electricity; 
+
+natural gas, crude oil and refined products, and coal supply availability to generators
+from whom we purchase electricity; natural disasters, wars, embargoes and other
+catastrophic events; and 
+
+federal, state and foreign energy and environmental regulation and legislation. 
+
+We may experience difficulty in successfully integrating and managing acquired businesses and in
+realizing anticipated economic, operational and other benefits in a timely manner  
+
+In February 2005, we completed an acquisition of assets in connection with the ACN Energy
+Transaction. The ultimate success of this acquisition will depend, in part, on our ability to
+realize the anticipated synergies, cost savings and growth opportunities from integrating the
+assets and the relationships acquired in the ACN Energy Transaction into our existing businesses.
+
+If we fail to maintain an effective system of internal controls, we may not be able to accurately
+report our financial results or prevent fraud. As a result, current and potential stockholders
+could lose confidence in our financial reporting which would harm our business and the trading
+price of our stock.  
+
+Effective internal controls are necessary for us to provide reliable financial reports and
+effectively prevent fraud. If we cannot provide reliable financial reports or prevent fraud, our
+operating results could be harmed. We have in the past discovered, and may in the future discover,
+areas of our internal controls that need improvement. For example, in January 2005, we sold
+electricity commodity supply contracts related to a strategic realignment of our customer portfolio
+in the Pennsylvania electricity market and the discontinuation of service to certain classes of
+residential and small commercial customers. As a result of timing issues related to realigning the
+portfolio and inaccurately forecasting the resulting required electricity supply, we had
+transitional electricity supply obligations which could have been served more cost effectively with
+the original supply contract rather than with the current market cost of the replacement power. In
+the execution of this portfolio realignment, we observed deficiencies in our internal controls
+relating to monitoring the operational progress of the realignment. These internal control
+deficiencies constituted reportable conditions, and collectively, a material weakness that caused
+us to restate our second quarter reported results. In connection with the preparation of our
+consolidated financial statements for the fiscal year ended July 31, 2005, we determined that (a)
+certain electricity forward physical contracts and financial derivatives designated as cash flow
+hedges lacked adequate documentation of our method of measurement and testing of hedge
+effectiveness to meet the cash flow hedge requirements of SFAS No. 133 and (b) a forward physical
+contract and several financial derivative contracts had been inappropriately accounted for as
+exempt from hedge accounting under SFAS No. 133. These errors in the proper application of the
+provisions of SFAS No. 133 required us to restate our previously reported results for each of the
+first three quarters in fiscal 2005 and led us to conclude and report the existence of a material
+weakness in our internal controls over financial reporting. We purchase substantially all of our
+power and natural gas under forward physical delivery contracts, which are defined as commodity
+derivative contracts under SFAS No. 133. We also utilize other financial derivatives, primarily
+swaps, options and futures, to hedge our price risks. Accordingly, proper accounting for these
+contracts is very important to our overall ability to report timely and accurate financial results.
+
+We have devoted significant resources to remediate and improve our internal controls. Although
+we believe that these efforts have strengthened our internal controls and addressed the concerns
+that gave rise to the reportable conditions and material weaknesses in fiscal 2005 and 2006, we are
+continuing to work to improve our internal controls, particularly in the area of energy accounting.
+We cannot be certain that these measures will ensure that we implement and maintain adequate
+controls over our financial processes and reporting in the future. Any failure to implement
+required new or improved controls, or difficulties encountered in their implementation, could harm
+our operating results or cause us to fail to meet our reporting obligations. Inferior internal
+controls could also cause investors to lose confidence in our reported financial information, which
+could have a negative effect on the trading price of our stock.
+
+28
+
+Table of Contents   
+
+Investor confidence and share value may be adversely impacted if our independent auditors are
+unable to provide us with the attestation of the adequacy of our internal controls over financial
+reporting as of July 31, 2007, as applicable, as required by Section 404 of the Sarbanes-Oxley Act
+of 2002.  
+
+As directed by Section 404 of the Sarbanes-Oxley Act of 2002, the Securities and Exchange
+Commission adopted rules requiring public companies to include a report of management on our
+internal controls over financial reporting in our Annual Reports on Form 10-K that contains an
+assessment by management of the effectiveness of our internal controls over financial reporting. In
+addition, our independent auditors must attest to and report on management s assessment of the
+effectiveness of our internal controls over financial reporting. This requirement will first apply
+to our Annual Report on Form 10-K for the fiscal year ending July 31, 2007. How companies should be
+implementing these new requirements, including internal control reforms, if any, to comply with
+Section 404 s requirements, and how independent auditors will apply these new requirements and test
+companies  internal controls, are subject to uncertainty. Although we are diligently and vigorously
+reviewing our internal controls over financial reporting in order to ensure compliance with the new
+Section 404 requirements, if our independent auditors are not satisfied with our internal controls
+over financial reporting or the level at which these controls are documented, designed, operated or
+reviewed, or if the independent auditors interpret the requirements, rules or regulations
+differently than we do, then they may decline to attest to management s assessment or may issue a
+report that is qualified. This could result in an adverse reaction in the financial marketplace due
+to a loss of investor confidence in the reliability of our financial statements, which ultimately
+could negatively impact the market price of our shares.
+
+We have initiated a company-wide review of our internal controls over financial reporting as
+part of the process of preparing for compliance with Section 404 of the Sarbanes-Oxley Act of 2002
+and as a complement to our existing overall program of internal controls over financial reporting.
+As a result of this on-going review, we have made numerous improvements to the design and
+effectiveness of our internal controls over financial reporting through the period ended January
+31, 2006. We anticipate that improvements will continue to be made.
+
+Our results of operations and financial condition could be affected by pending and future
+litigation.  
+
+On February 24, 2006, we received a Demand for Arbitration relating to the Sales Agency
+Agreement between American Communications Network, or ACN, and Commerce Energy, Inc. alleging that
+Commerce is liable for actual and consequential damages estimated to be no less than $32,286,564,
+restitution estimated to be no less than $6,776,009 and punitive damages estimated to be no less
+than $45,395,438 with respect to alleged future commissions arising after the termination of the
+Sales Agency Agreement by ACN. Although we
+intend to pursue the claims vigorously in arbitration, we cannot predict the outcome of this
+arbitration or any litigation. In addition, we may become subject to additional lawsuits in the
+future. If we are held liable for significant damages in any arbitration or lawsuit, our operations
+and financial condition may be harmed. In addition, we could incur substantial expenses in
+connection with any such litigation, including substantial fees for attorneys and other
+professional advisors. These expenses could adversely affect our operations and cash position if
+they are material in amount. In addition, any future litigation could result in the diversion of
+management s attention from the implementation of our business strategy.
+
+Item 3.    Quantitative and Qualitative Disclosures about Market Risk.  
+
+There have been no material changes to information called for by this Item 3 of Part II to
+this Quarterly Report on Form 10-Q from the disclosures set forth in Part II, Item 7A in the
+Company s Annual Report on Form 10-K for the year ended July 31, 2005.
+
+As of January 31, 2006, we had 96% of our forecasted fixed-priced energy load through July 31,
+2006 covered through either fixed price power purchases with counterparties, or price protected
+through financial hedges.
+
+29
+
+Table of Contents   
+
+Item 4.    Controls and Procedures.  
+
+Evaluation of Disclosure Controls and Procedures 
+
+Our Chief Executive Officer and our Chief Financial Officer have concluded, based upon their
+evaluation as of the end of the period covered by this report, that our disclosure controls and
+procedures (as defined under Rules 13a-15(e) and 15d-15(e) under the Securities Exchange Act of
+1934, as amended (the  Exchange Act )) are effective to ensure that all information required to be
+disclosed by the Company in the reports filed or submitted by it under the Exchange Act is
+recorded, processed, summarized and reported within the time periods specified in the SEC s rules
+and forms, and include controls and procedures designed to ensure that information required to be
+disclosed by the Company in such reports is accumulated and communicated to the Company s
+management, including the Chief Executive Officer and the Chief Financial Officer, as appropriate,
+and allow timely decisions regarding required disclosure.
+
+Changes in Internal Control Over Financial Reporting 
+
+No change in the Company s internal control over financial reporting occurred during the
+period covered by this Report that has materially affected, or is reasonably likely to materially
+affect, the Company s internal control over financial reporting.
+
+PART II   OTHER INFORMATION 
+
+Item 1.    Legal Proceedings.  
+
+On February 24, 2006 the Company received a Demand for Arbitration from ACN under the Sales
+Agency Agreement previously entered into by Commerce and the Company with respect to alleged future
+commissions arising after the termination of the Sales Agency Agreement by ACN, effective February
+9, 2006. The Demand for Arbitration alleges claims for anticipatory breach of contract, unjust
+enrichment, tortuous interference with prospective economic advantage and prima facie tort alleging
+actual and compensatory damages estimated to be no less than $32,286,564, restitution estimated to
+be no less than $6,776,009 and punitive damages estimated to be no less than $45,395,438. The
+Company intends to vigorously defend this matter.
+
+The Company currently is, and from time to time may become, involved in litigation concerning
+claims arising out of the Company s operations in the normal course of business. While the Company
+cannot predict the ultimate outcome of its pending matters or how they will affect the Company s
+results of operations or financial position, the Company s management currently does not expect any
+of the legal proceedings to which the Company is currently a party to have a material adverse
+effect on its results of operations or financial position.
+
+Item 1A.    Risk Factors.  
+
+None.
+
+30
+
+Table of Contents   
+
+Item 2.    Unregistered Sales of Equity Securities and Use of Proceeds.  
+
+Stock Repurchases 
+
+The following table details our common stock repurchases for the three months ended January
+31, 2006:
+
+Issuer Purchases of Equity Securities 
+
+(1) 
+       
+     Pursuant to Settlement Agreement and General Release Agreements dated November 17, 2005
+entered into separately with each of Peter Weigand and Richard Boughrum, the Company
+repurchased 994,479 and 300,000 shares of the Company s common stock from Messrs. Weigand
+and Boughrum, respectively, for a price of $1.50 per share. Each Settlement and General
+Release Agreement became effective on November 25, 2005. In each case, one-half of the
+purchase price was paid on November 28, 2005 and the remaining half is being paid pursuant
+to a promissory note paid in five equal monthly installments
+commencing in December 2005. In addition, pursuant to the
+respective Settlement Agreements, Mr. Weigand s and Mr.
+Boughrum s options to purchase common stock of the Company, 1,100,000 in the aggregate, were cancelled. 
+
+(2) 
+       
+     In connection with his Settlement Agreement and General Release entered into on
+November 17, 2005, Mr. Weigand sold an aggregate of 120,000 shares of the Company s common
+stock to two independent directors of the Company, 100,000 shares to Mr. Charles E. Bayless
+for $1.50 per share and 20,000 shares to Mr. Mark Juergensen for $1.50 per share. Messrs.
+Bayless and Juergensen each paid the full purchase price in their transaction with Mr.
+Weigand on November 28, 2005. 
+
+(3) 
+       
+     Pursuant to a Settlement Agreement and General Release Agreement dated November 17,
+2005 entered into by and among the Company, its wholly-owned subsidiary, Commerce Energy,
+Inc. and Eric Alam, the Company repurchased 174,926 shares of the Company s common stock
+from Mr. Alam for a price of $1.50 per share. Mr. Alam was paid one-half of the purchase
+price on November 28, 2005 and the remainder on
+February 27, 2006. In addition, pursuant to the Settlement
+Agreement, all of Mr. Alam s options to purchase common stock of the Company, 133,333 in the aggregate, were cancelled. 
+
+31
+
+Table of Contents   
+
+Item 4.    Submission of Matters to a Vote of Security Holders.  
+
+The results of the voting at the Company s annual meeting of stockholders held on January 26,
+2006 were previously reported on a Current Report on Form 8-K filed with the Securities and
+Exchange Commission on February 1, 2006.
+
+Item 5.    Other Information  
+
+On March 10, 2006, the Board of Directors of the Company amended and restated the Company s
+Non-Employee Director Compensation Policy to (i) provide for a supplemental quarterly retainer of
+$4,000 for the non-executive Chairman of the Board and (ii) clarify the policy regarding
+reimbursement of travel expenses related to meeting attendance. A copy of the Amended and Restated
+Non-Employee Director Compensation Policy, effective March 10, 2006, is attached hereto as Exhibit
+99.1 and is incorporated by reference herein.
+
+32
+
+Table of Contents   
+
+Item 6.    Exhibits.  
+
+The exhibits listed below are hereby filed with the Commission as part of this Report.
+
+Exhibit  
+
+Number  
+       
+      Description  
+
+3.1
+
+Amended and Restated Certificate of Incorporation of Commerce Energy Group, Inc.,
+previously filed with the Commission on July 6, 2004 as Exhibit 3.3 to Commerce Energy
+Group, Inc. s Registration Statement on Form 8-A and incorporated herein by reference. 
+
+3.2
+
+Certificate of Designation of Series A Junior Participating Preferred Stock of Commerce
+Energy Group, Inc. dated July 1, 2004 previously filed with the Commission on July 6,
+2004 as Exhibit 3.4 to Commerce Energy Group, Inc. s Registration Statement on Form 8-A
+and incorporated herein by reference. 
+
+3.3
+
+Amended and Restated Bylaws of Commerce Energy Group, Inc., previously filed with the
+Commission on July 6, 2004 as Exhibit 3.6 to Commerce Energy Group, Inc. s Registration
+Statement on Form 8-A and incorporated herein by reference. 
+
+Material Contracts Relating to Management Compensation Plans or Arrangements 
+
+Exhibit  
+
+Number  
+       
+      Description  
+
+10.1
+
+Settlement Agreement and General Release dated November 17, 2005 by and among Peter T.
+Weigand, Commerce Energy Group, Inc. and Commerce Energy, Inc., previously filed with
+the Commission on November 23, 2005 as Exhibit 99.1 to Commerce Energy Group, Inc. s
+Current Report on Form 8-K and incorporated herein by reference. 
+
+10.2
+
+Promissory Note dated November 17, 2005 by and between Commerce Energy Group, Inc. and
+Peter T. Weigand, previously filed with the Commission on November 23, 2005 as Exhibit
+99.2 to Commerce Energy Group, Inc. s Current Report on Form 8-K and incorporated herein
+by reference. 
+
+10.3
+
+Voting and Standstill Agreement dated November 17, 2005, by and between Commerce Energy
+Group, Inc. and Peter T. Weigand, previously filed with the Commission on November 23,
+2005 as Exhibit 99.3 to Commerce Energy Group, Inc. s Current Report on Form 8-K and
+incorporated herein by reference. 
+
+10.4
+
+Amendment No. 1 to Executive Employment Agreement dated November 17, 2005, by and among
+Commerce Energy Group, Inc., Commerce Energy, Inc. and Peter T. Weigand, previously
+filed with the Commission on November 23, 2005 as Exhibit 99.4 to Commerce Energy Group,
+Inc. s Current Report on Form 8-K and incorporated herein by reference. 
+
+10.5
+
+Amendment No. 1 to Agreement Not to Engage in Prohibited Activities dated November 17,
+2005 by and among Commerce Energy Group, Inc., Commerce Energy, Inc. and Peter T.
+Weigand, previously filed with the Commission on November 23, 2005 as Exhibit 99.5 to
+Commerce Energy Group, Inc. s Current Report on Form 8-K and incorporated herein by
+reference. 
+
+10.6
+
+Amendment No. 1 to Agreement Not to Compete dated November 17, 2005 by and among
+Commerce Energy Group, Inc., Commerce Energy, Inc. and Peter T. Weigand, previously
+filed with the Commission on November 23, 2005 as Exhibit 99.6 to Commerce Energy Group,
+Inc. s Current Report on Form 8-K and incorporated herein by reference. 
+
+10.7
+
+Agreement and Release dated November 17, 2005, by and among, Commerce Energy Group,
+Inc., Commerce Energy, Inc., Paul, Hastings, Janofsky   Walker LLP, Eric G. Alam, Bruno
+R. Kvetinskas, Greg M. Lander and Peter T. Weigand, previously filed with the Commission
+on November 23, 2005 as Exhibit 99.7 to Commerce Energy Group, Inc. s Current Report on
+Form 8-K and incorporated herein by reference. 
+
+10.8
+
+Settlement Agreement and General Release dated November 17, 2005 by and among Richard L.
+Boughrum, Commerce Energy Group, Inc. and Commerce Energy, Inc., previously filed with
+the Commission on November 23, 2005 as Exhibit 99.8 to Commerce Energy Group, Inc. s
+Current Report on Form 8-K and incorporated herein by reference. 
+
+33
+
+Table of Contents   
+
+Exhibit  
+
+Number  
+       
+      Description  
+
+10.9
+
+Promissory Note dated November 17, 2005 by and between Commerce Energy Group, Inc. and
+Richard L. Boughrum, previously filed with the Commission on November 23, 2005 as
+Exhibit 99.9 to Commerce Energy Group, Inc. s Current Report on Form 8-K and
+incorporated herein by reference. 
+
+10.10
+
+Voting and Standstill Agreement dated November 17, 2005, by and between Commerce Energy
+Group, Inc. and Richard L. Boughrum, previously filed with the Commission on November
+23, 2005 as Exhibit 99.10 to Commerce Energy Group, Inc. s Current Report on Form 8-K
+and incorporated herein by reference. 
+
+10.11
+
+Amendment No. 1 to Executive Employment Agreement dated November 17, 2005, by and among
+Commerce Energy Group, Inc., Commerce Energy, Inc. and Richard L. Boughrum, previously
+filed with the Commission on November 23, 2005 as Exhibit 99.11 to Commerce Energy
+Group, Inc. s Current Report on Form 8-K and incorporated herein by reference. 
+
+10.12
+
+Amendment No. 1 to Agreement Not to Engage in Prohibited Activities dated November 17,
+2005 by and among Commerce Energy Group, Inc., Commerce Energy, Inc. and Richard L.
+Boughrum, previously filed with the Commission on November 23, 2005 as Exhibit 99.12 to
+Commerce Energy Group, Inc. s Current Report on Form 8-K and incorporated herein by
+reference. 
+
+10.13
+
+Settlement Agreement and General Release dated November 17, 2005, by and among Commerce
+Energy Group, Inc., Commerce Energy, Inc. and Eric G. Alam, previously filed with the
+Commission on November 23, 2005 as Exhibit 99.13 to Commerce Energy Group, Inc. s
+Current Report on Form 8-K and incorporated herein by reference. 
+
+10.14
+
+Employment Agreement, dated December 1, 2005 between Lawrence Clayton, Jr. and Commerce
+Energy Group, Inc., previously filed with the Commission on December 6, 2005 as Exhibit
+99.1 to Commerce Energy Group, Inc. s Current Report on Form 8-K and incorporated herein
+by reference. 
+
+10.15
+
+Stock Option Agreement dated December 1, 2005 between Lawrence Clayton, Jr. and Commerce
+Energy Group, Inc., previously filed with the Commission on December 6, 2005 as Exhibit
+99.2 to Commerce Energy Group, Inc. s Current Report on Form 8-K and incorporated herein
+by reference. 
+
+10.16
+
+Restricted Stock Agreement dated December 1, 2005 between Lawrence Clayton, Jr. and
+Commerce Energy Group, Inc., previously filed with the Commission on December 6, 2005 as
+Exhibit 99.3 to Commerce Energy Group, Inc. s Current Report on Form 8-K and
+incorporated herein by reference. 
+
+10.17
+
+Indemnification Agreement dated December 1, 2005 between Lawrence Clayton, Jr. and
+Commerce Energy Group, Inc., previously filed with the Commission on December 6, 2005 as
+Exhibit 99.4 to Commerce Energy Group, Inc. s Current Report on Form 8-K and
+incorporated herein by reference. 
+
+10.18
+
+Restricted Stock Agreement dated December 12, 2005 between Andrew Coppola and Commerce
+Energy Group, Inc., previously filed with the Commission on December 15, 2005 as Exhibit
+99.1 to Commerce Energy Group, Inc. s Current Report on Form 8-K and incorporated herein
+by reference. 
+
+10.19
+
+Form of Restricted Stock Agreement pursuant to the Commonwealth Energy Corporation 1999
+Equity Incentive Plan, as amended (Time Vesting Version), previously filed with the
+Commission on December 15, 2005 as Exhibit 99.2 to Commerce Energy Group, Inc. s Current
+Report on Form 8-K and incorporated herein by reference. 
+
+10.20
+
+Amended and Restated 2005 Employee Stock Purchase Plan previously filed with the
+Commission on February 1, 2006 as Exhibit 99.1 to Commerce Energy Group, Inc. s Current
+Report on Form 8-K and incorporated herein by reference. 
+
+10.21
+
+2006 Stock Incentive Plan previously filed with the Commission
+on February 1, 2006 as Exhibit 99.2 to Commerce Energy Group, Inc. s Current Report on
+Form 8-K and incorporated herein by reference. 
+
+34
+
+Table of Contents   
+
+Other Material Contracts 
+
+35
+
+Table of Contents   
+
+SIGNATURES 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly
+caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+COMMERCE ENERGY GROUP, INC. 
+
+Date: March 16, 2006
+
+By:
+
+/s/ STEVEN S. BOSS 
+
+Steven S. Boss 
+
+Chief Executive Officer 
+
+(Principal Executive Officer) 
+
+Date: March 16, 2006
+
+By:
+
+/s/ LAWRENCE CLAYTON, JR. 
+
+Lawrence Clayton, Jr. 
+
+Chief Financial Officer 
+
+(Principal Financial Officer) 
+
+36
+
+Table of Contents   
+
+EXHIBIT INDEX 
+
+The exhibits listed below are hereby filed with the Commission as part of this Report.
+
+Exhibit 
+
+Number 
+       
+     Description 
+
+3.1
+
+Amended and Restated Certificate of
+Incorporation of Commerce Energy
+Group, Inc., previously filed with
+the Commission on July 6, 2004 as
+Exhibit 3.3 to Commerce Energy Group,
+Inc. s Registration Statement on Form
+8-A and incorporated herein by
+reference. 
+
+3.2
+
+Certificate of Designation of Series
+A Junior Participating Preferred
+Stock of Commerce Energy Group, Inc.
+dated July 1, 2004 previously filed
+with the Commission on July 6, 2004
+as Exhibit 3.4 to Commerce Energy
+Group, Inc. s Registration Statement
+on Form 8-A and incorporated herein
+by reference. 
+
+3.3
+
+Amended and Restated Bylaws of
+Commerce Energy Group, Inc.,
+previously filed with the Commission
+on July 6, 2004 as Exhibit 3.6 to
+Commerce Energy Group, Inc. s
+Registration Statement on Form 8-A
+and incorporated herein by reference. 
+
+Material Contracts Relating to Management Compensation Plans or Arrangements 
+
+Exhibit 
+
+Number 
+       
+     Description 
+
+10.1
+
+Settlement Agreement and General
+Release dated November 17, 2005 by
+and among Peter T. Weigand, Commerce
+Energy Group, Inc. and Commerce
+Energy, Inc., previously filed with
+the Commission on November 23, 2005
+as Exhibit 99.1 to Commerce Energy
+Group, Inc. s Current Report on Form
+8-K and incorporated herein by
+reference. 
+
+10.2
+
+Promissory Note dated November 17,
+2005 by and between Commerce Energy
+Group, Inc. and Peter T. Weigand,
+previously filed with the Commission
+on November 23, 2005 as Exhibit 99.2
+to Commerce Energy Group, Inc. s
+Current Report on Form 8-K and
+incorporated herein by reference. 
+
+10.3
+
+Voting and Standstill Agreement dated
+November 17, 2005, by and between
+Commerce Energy Group, Inc. and Peter
+T. Weigand, previously filed with the
+Commission on November 23, 2005 as
+Exhibit 99.3 to Commerce Energy
+Group, Inc. s Current Report on Form
+8-K and incorporated herein by
+reference. 
+
+10.4
+
+Amendment No. 1 to Executive
+Employment Agreement dated November
+17, 2005, by and among Commerce
+Energy Group, Inc., Commerce Energy,
+Inc. and Peter T. Weigand, previously
+filed with the Commission on November
+23, 2005 as Exhibit 99.4 to Commerce
+Energy Group, Inc. s Current Report
+on Form 8-K and incorporated herein
+by reference. 
+
+10.5
+
+Amendment No. 1 to Agreement Not to
+Engage in Prohibited Activities dated
+November 17, 2005 by and among
+Commerce Energy Group, Inc., Commerce
+Energy, Inc. and Peter T. Weigand,
+previously filed with the Commission
+on November 23, 2005 as Exhibit 99.5
+to Commerce Energy Group, Inc. s
+Current Report on Form 8-K and
+incorporated herein by reference. 
+
+10.6
+
+Amendment No. 1 to Agreement Not to
+Compete dated November 17, 2005 by
+and among Commerce Energy Group,
+Inc., Commerce Energy, Inc. and Peter
+T. Weigand, previously filed with the
+Commission on November 23, 2005 as
+Exhibit 99.6 to Commerce Energy
+Group, Inc. s Current Report on Form
+8-K and incorporated herein by
+reference. 
+
+10.7
+
+Agreement and Release dated November
+17, 2005, by and among, Commerce
+Energy Group, Inc., Commerce Energy,
+Inc., Paul, Hastings, Janofsky  
+Walker LLP, Eric G. Alam, Bruno R.
+Kvetinskas, Greg M. Lander and Peter
+T. Weigand, previously filed with the
+Commission on November 23, 2005 as
+Exhibit 99.7 to Commerce Energy
+Group, Inc. s Current Report on Form
+8-K and incorporated herein by
+reference. 
+
+10.8
+
+Settlement Agreement and General
+Release dated November 17, 2005 by
+and among Richard L. Boughrum,
+Commerce Energy Group, Inc. and
+Commerce Energy, Inc., previously
+filed with the Commission on November
+23, 2005 as Exhibit 99.8 to Commerce
+Energy Group, Inc. s Current Report 
+
+37
+
+Table of Contents   
+
+Exhibit 
+
+Number 
+       
+     Description 
+
+on Form 8-K and incorporated herein
+by reference. 
+
+10.9
+
+Promissory Note dated November 17,
+2005 by and between Commerce Energy
+Group, Inc. and Richard L. Boughrum,
+previously filed with the Commission
+on November 23, 2005 as Exhibit 99.9
+to Commerce Energy Group, Inc. s
+Current Report on Form 8-K and
+incorporated herein by reference. 
+
+10.10
+
+Voting and Standstill Agreement dated
+November 17, 2005, by and between
+Commerce Energy Group, Inc. and
+Richard L. Boughrum, previously filed
+with the Commission on November 23,
+2005 as Exhibit 99.10 to Commerce
+Energy Group, Inc. s Current Report
+on Form 8-K and incorporated herein
+by reference. 
+
+10.11
+
+Amendment No. 1 to Executive
+Employment Agreement dated November
+17, 2005, by and among Commerce
+Energy Group, Inc., Commerce Energy,
+Inc. and Richard L. Boughrum,
+previously filed with the Commission
+on November 23, 2005 as Exhibit 99.11
+to Commerce Energy Group, Inc. s
+Current Report on Form 8-K and
+incorporated herein by reference. 
+
+10.12
+
+Amendment No. 1 to Agreement Not to
+Engage in Prohibited Activities dated
+November 17, 2005 by and among
+Commerce Energy Group, Inc., Commerce
+Energy, Inc. and Richard L. Boughrum,
+previously filed with the Commission
+on November 23, 2005 as Exhibit 99.12
+to Commerce Energy Group, Inc. s
+Current Report on Form 8-K and
+incorporated herein by reference. 
+
+10.13
+
+Settlement Agreement and General
+Release dated November 17, 2005, by
+and among Commerce Energy Group,
+Inc., Commerce Energy, Inc. and Eric
+G. Alam, previously filed with the
+Commission on November 23, 2005 as
+Exhibit 99.13 to Commerce Energy
+Group, Inc. s Current Report on Form
+8-K and incorporated herein by
+reference. 
+
+10.14
+
+Employment Agreement, dated December
+1, 2005 between Lawrence Clayton, Jr.
+and Commerce Energy Group, Inc.,
+previously filed with the Commission
+on December 6, 2005 as Exhibit 99.1
+to Commerce Energy Group, Inc. s
+Current Report on Form 8-K and
+incorporated herein by reference. 
+
+10.15
+
+Stock Option Agreement dated December
+1, 2005 between Lawrence Clayton, Jr.
+and Commerce Energy Group, Inc.,
+previously filed with the Commission
+on December 6, 2005 as Exhibit 99.2
+to Commerce Energy Group, Inc. s
+Current Report on Form 8-K and
+incorporated herein by reference. 
+
+10.16
+
+Restricted Stock Agreement dated
+December 1, 2005 between Lawrence
+Clayton, Jr. and Commerce Energy
+Group, Inc., previously filed with
+the Commission on December 6, 2005 as
+Exhibit 99.3 to Commerce Energy
+Group, Inc. s Current Report on Form
+8-K and incorporated herein by
+reference. 
+
+10.17
+
+Indemnification Agreement dated
+December 1, 2005 between Lawrence
+Clayton, Jr. and Commerce Energy
+Group, Inc., previously filed with
+the Commission on December 6, 2005 as
+Exhibit 99.4 to Commerce Energy
+Group, Inc. s Current Report on Form
+8-K and incorporated herein by
+reference. 
+
+10.18
+
+Restricted Stock Agreement dated
+December 12, 2005 between Andrew
+Coppola and Commerce Energy Group,
+Inc., previously filed with the
+Commission on December 15, 2005 as
+Exhibit 99.1 to Commerce Energy
+Group, Inc. s Current Report on Form
+8-K and incorporated herein by
+reference. 
+
+10.19
+
+Form of Restricted Stock Agreement
+pursuant to the Commonwealth Energy
+Corporation 1999 Equity Incentive
+Plan, as amended (Time Vesting
+Version), previously filed with the
+Commission on December 15, 2005 as
+Exhibit 99.2 to Commerce Energy
+Group, Inc. s Current Report on Form
+8-K and incorporated herein by
+reference. 
+
+10.20
+
+Amended and Restated 2005 Employee
+Stock Purchase Plan previously filed
+with the Commission on February 1,
+2006 as Exhibit 99.1 to Commerce
+Energy Group, Inc. s Current Report
+on Form 8-K and incorporated herein
+by reference. 
+
+10.21
+
+2006 Stock Incentive Plan previously filed
+with the Commission on February 1,
+2006 as Exhibit 99.2 to Commerce
+Energy Group, Inc. s Current Report
+on Form 8-K and incorporated herein
+by reference. 
+
+38
+
+Table of Contents   
+
+Other Material Contracts 
+
+39
+
+<EX-31.1>
+ 2
+ a18687exv31w1.htm
+ EXHIBIT 31.1
+
+Exhibit 31.1 
+
+Exhibit 31.1 
+
+CERTIFICATIONS 
+
+I, Steven S. Boss, certify that:
+
+1. I have reviewed this quarterly report on Form 10-Q of Commerce Energy Group, Inc.;
+
+2. Based on my knowledge, this quarterly report does not contain any untrue statement of a
+material fact or omit to state a material fact necessary to make the statements made, in light of
+the circumstances under which such statements were made, not misleading with respect to the period
+covered by this quarterly report;
+
+3. Based on my knowledge, the financial statements, and other financial information included
+in this quarterly report, fairly present in all material respects the financial condition, results
+of operations and cash flows of the registrant as of, and for, the periods presented in this
+quarterly report;
+
+4. The registrant s other certifying officers and I am responsible for establishing and
+maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-14 and 15d-14)
+for the registrant and have:
+
+a) designed such disclosure controls and procedures, or caused such disclosure controls and
+procedures to be designed under our supervision, to ensure that material information relating to
+the registrant, including its consolidated subsidiaries, is made known to us by others within
+those entities, particularly during the period in which this quarterly report is being prepared;
+
+c) evaluated the effectiveness of the registrant s disclosure controls and procedures and
+presented in this report our conclusions about the effectiveness of the disclosure controls and
+procedures, as of the end of the period covered by this report based on such evaluation; and
+
+d) disclosed in this report any change in the registrant s internal control over financial
+reporting that occurred during the registrant s most recent fiscal quarter that has materially
+affected, or is reasonably likely to materially affect the registrant s internal controls over
+financial reporting; and
+
+5. The registrant s other certifying officers and I have disclosed, based on our most recent
+evaluation of internal control over financial reporting, to the registrant s auditors and the audit
+committee of registrant s board of directors (or persons performing the equivalent functions):
+
+a) all significant deficiencies and material weaknesses in the design or operation of
+internal controls over financial reporting which are reasonably likely to adversely affect the
+registrant s ability to record, process, summarize and report financial information; and
+
+b) any fraud, whether or not material, that involves management or other employees who have
+a significant role in the registrant s internal controls over financial reporting.
+
+Date: March 16, 2006
+
+By:
+
+/s/ STEVEN S. BOSS 
+
+Steven S. Boss 
+
+Chief Executive Officer 
+
+(Principal Executive Officer) 
+
+</EX-31.1>
+
+<EX-31.2>
+ 3
+ a18687exv31w2.htm
+ EXHIBIT 31.2
+
+Exhibit 31.2 
+
+Exhibit 31.2 
+
+CERTIFICATIONS 
+
+I, Lawrence Clayton, Jr., certify that:
+
+1. I have reviewed this quarterly report on Form 10-Q of Commerce Energy Group, Inc.;
+
+2. Based on my knowledge, this quarterly report does not contain any untrue statement of a
+material fact or omit to state a material fact necessary to make the statements made, in light of
+the circumstances under which such statements were made, not misleading with respect to the period
+covered by this quarterly report;
+
+3. Based on my knowledge, the financial statements, and other financial information included
+in this quarterly report, fairly present in all material respects the financial condition, results
+of operations and cash flows of the registrant as of, and for, the periods presented in this
+quarterly report;
+
+4. The registrant s other certifying officers and I am responsible for establishing and
+maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-14 and 15d-14)
+for the registrant and have:
+
+a) designed such disclosure controls and procedures, or caused such disclosure controls and
+procedures to be designed under our supervision, to ensure that material information relating to
+the registrant, including its consolidated subsidiaries, is made known to us by others within
+those entities, particularly during the period in which this quarterly report is being prepared;
+
+c) evaluated the effectiveness of the registrant s disclosure controls and procedures and
+presented in this report our conclusions about the effectiveness of the disclosure controls and
+procedures, as of the end of the period covered by this report based on such evaluation; and
+
+d) disclosed in this report any change in the registrant s internal control over financial
+reporting that occurred during the registrant s most recent fiscal quarter that has materially
+affected, or is reasonably likely to materially affect the registrant s internal controls over
+financial reporting; and
+
+5. The registrant s other certifying officers and I have disclosed, based on our most recent
+evaluation of internal control over financial reporting, to the registrant s auditors and the audit
+committee of registrant s board of directors (or persons performing the equivalent functions):
+
+a) all significant deficiencies and material weaknesses in the design or operation of
+internal controls over financial reporting which are reasonably likely to adversely affect the
+registrant s ability to record, process, summarize and report financial information; and
+
+b) any fraud, whether or not material, that involves management or other employees who have
+a significant role in the registrant s internal controls over financial reporting.
+
+Date: March 16, 2006
+
+By:
+
+/s/ LAWRENCE CLAYTON, JR. 
+
+Lawrence Clayton, Jr. 
+
+Chief Financial Officer 
+
+(Principal Financial Officer) 
+
+</EX-31.2>
+
+<EX-32.1>
+ 4
+ a18687exv32w1.htm
+ EXHIBIT 32.1
+
+Exhibit 32.1 
+
+Exhibit 32.1 
+
+CERTIFICATION PURSUANT TO 
+RULE 13(a)-14(b) AND 18 U.S.C. SECTION 1350, 
+AS ADOPTED PURSUANT TO 
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Quarterly Report of Commerce Energy Group, Inc. (the  Company ) on Form
+10-Q for the quarterly period ended January 31, 2006, as filed with the Securities and Exchange
+Commission on the date hereof (the  Report ), Steven S. Boss, Chief Executive Officer of the
+Company, hereby certifies, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the
+Sarbanes-Oxley Act of 2002, that, to his knowledge:
+
+1. The Report fully complies with the requirements of section 13(a) or 15(d) of the
+Securities Exchange Act of 1934; and
+
+2. The information contained in the Report fairly presents, in all material respects, the
+financial condition and result of operations of the Company.
+
+Date: March 16, 2006
+
+By:
+
+/s/ STEVEN S. BOSS 
+
+Steven S. Boss 
+
+Chief Executive Officer 
+
+(Principal Executive Officer) 
+
+</EX-32.1>
+
+<EX-32.2>
+ 5
+ a18687exv32w2.htm
+ EXHIBIT 32.2
+
+Exhibit 32.2 
+
+Exhibit 32.2 
+
+CERTIFICATION PURSUANT TO 
+RULE 13(a)-14(b) AND 18 U.S.C. SECTION 1350, 
+AS ADOPTED PURSUANT TO 
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002 
+
+In connection with the Quarterly Report of Commerce Energy Group, Inc. (the  Company ) on Form
+10-Q for the quarterly period ended January 31, 2006, as filed with the Securities and Exchange
+Commission on the date hereof (the  Report ), Lawrence Clayton, Jr., Chief Financial Officer of the
+Company, hereby certifies, pursuant to 18 U.S.C. 1350, as adopted pursuant to 906 of the
+Sarbanes-Oxley Act of 2002, that, to his knowledge:
+
+1. The Report fully complies with the requirements of section 13(a) or 15(d) of the
+Securities Exchange Act of 1934; and
+
+2. The information contained in the Report fairly presents, in all material respects, the
+financial condition and result of operations of the Company.
+
+Date: March 16, 2006
+
+By:
+
+/s/ LAWRENCE CLAYTON, JR. 
+
+Lawrence Clayton, Jr. 
+
+Chief Financial Officer 
+
+(Principal Financial Officer) 
+
+</EX-32.2>
+
+<EX-99.1>
+ 6
+ a18687exv99w1.htm
+ EXHIBIT 99.1
+
+Exhibit 99.1 
+
+Exhibit 99.1 
+
+COMMERCE ENERGY GROUP, INC. 
+
+AMENDED AND RESTATED NON-EMPLOYEE DIRECTOR COMPENSATION POLICY  
+Effective March 10, 2006
+
+On March 10, 2006, the Board of Directors of Commerce Energy Group, Inc. amended and restated
+the following compensation policy with respect the Company s non-employee directors. This policy
+may be changed by the Board of Directors from time-to-time.
+
+Cash Compensation.  Each non-employee director is paid a quarterly retainer of $8,000, a fee of
+$1,000 for each Board meeting which the Board member attends in person and a fee of $750 for each
+Board meeting which the Board member attends telephonically. The non-executive Chairman of the
+Board will also receive a supplemental quarterly retainer of $4,000. Directors who served on Board
+committees (other than the chairman of such committee) are paid $750 for each committee meeting the
+Board member attends in person and a fee of $500 for each Committee meeting which the Board member
+attends telephonically. Committee chairpersons are paid $1,000 for each committee meeting the
+chairperson attends, whether in person or telephonically. In addition, each non-employee director
+is entitled to receive reimbursement for reasonable travel expenses in accordance with the
+Company s travel expense policy with respect to each Board or Board committee meeting that such
+non-employee director attends in person if the director resides 25 miles or more from the site of
+the meeting.
+
+Equity-Based Awards.  Each non-employee director who first becomes a member of the Company s
+Board of Directors will be granted an option to purchase 50,000 shares of the Company s common
+stock, par value $.001 per share ( Common Stock ) following his/her appointment or election to the
+Board of Directors, with the following terms and conditions: (a) the option shall be subject to all
+terms and conditions of the Company s 2006 Stock Incentive Plan or any successor plan; (b) the
+options shall vest quarterly at a rate of 12,500 shares on each three-month anniversary of the date
+of grant, with any unvested shares being forfeited if the Board member s service is terminated; (c)
+the options shall have a term of 10 years from the date of grant; (d) any vested options may be
+exercised during the time the Board member is serving as a director or, after such person ceases to
+be a director, prior to the expiration of the term of the option; and (e) the exercise price per
+share shall be the greater of the fair market value or the cash value of a share of Common Stock on
+the date of grant.
+
+In addition, on or following the close of business on the date of each annual meeting of
+stockholders at which directors are elected, each non-employee director who is either re-elected as
+a non-employee director or who continues in office as an incumbent director, will be (a) issued
+10,000 shares of restricted Common Stock pursuant to the Company s 2006 Stock Incentive Plan or any
+successor plan and such shares shall vest in full on January 1 of the next succeeding calendar year
+after the date of issuance, and (b) granted an option to purchase 20,000 shares of Common Stock
+pursuant to the Company s 2006 Stock Incentive Plan or any successor plan, with the following terms
+and conditions: (i) the options shall be subject to all terms and conditions of the Company s 2006
+Stock Incentive Plan or any successor plan, as applicable; (ii) the options shall vest quarterly at
+a rate of 5,000 shares on each three month anniversary of the date of grant, with any unvested
+shares being forfeited if the Board member s service is terminated; (iii) the options shall have a
+term of 10 years from the date of grant; (iv) any vested options may be exercised during the time
+the Board member is serving as a director or, after such person ceases to be a director, prior to
+the expiration of the term of the option; and (v) the exercise price per share shall be the greater
+of the fair market value or the cash value of a share of Common Stock on the date of grant.
+
+Notwithstanding anything to the contrary herein, no shares of restricted stock, options or
+other equity-based awards shall be issued or granted to the non-employee directors pursuant to this
+Policy until a Form S-8 Registration Statement relating to such equity-based awards is on file and
+effective with the U.S. Securities and Exchange Commission with respect to the Company s 2006 Stock
+Incentive Plan or, if the Company s 2006 Stock Incentive Plan is no longer in effect, any successor
+plan.
+
+</EX-99.1>
+

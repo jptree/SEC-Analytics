@@ -1,0 +1,1985 @@
+<Header>
+<FileStats>
+    <FileName>20060317_10-Q_edgar_data_200513_0001035704-06-000188_1.txt</FileName>
+    <GrossFileSize>287963</GrossFileSize>
+    <NetFileSize>104011</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>111681</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>14</N_Tables>
+    <N_Exhibits>5</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001035704-06-000188.hdr.sgml : 20060317
+<ACCEPTANCE-DATETIME>20060317132127
+ACCESSION NUMBER:		0001035704-06-000188
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		6
+CONFORMED PERIOD OF REPORT:	20060131
+FILED AS OF DATE:		20060317
+DATE AS OF CHANGE:		20060317
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			METROCORP INC
+		CENTRAL INDEX KEY:			0000200513
+		STANDARD INDUSTRIAL CLASSIFICATION:	STATE COMMERCIAL BANKS [6022]
+		IRS NUMBER:				362786335
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1031
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	002-50219
+		FILM NUMBER:		06694973
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1523 8TH ST
+		CITY:			EAST MOLINE
+		STATE:			IL
+		ZIP:			61244
+		BUSINESS PHONE:		3097550671
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MIDDLE STATES BANCORPORATION INC
+		DATE OF NAME CHANGE:	19880128
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	MID AMERICA BANCORPORATION INC
+		DATE OF NAME CHANGE:	19600201
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ G0SsaAVZ6r4+m8dNe9cnDpCZ89J7fAO9VRRHYjPjofyugMb8nFm6rs38qEpkjghr
+ MMXXE59R6D1InZ8ZSsB0Yg==
+
+ 0001035704-06-000188.txt : 20060317
+
+10-Q
+ 1
+ d34050e10vq.htm
+ FORM 10-Q
+
+e10vq 
+
+Table of Contents   
+
+UNITED STATES SECURITIES AND EXCHANGE COMMISSION 
+
+Washington, D.C. 20549 
+
+FORM 10-Q 
+
+Quarterly Report Pursuant to Section 13 or 15(d) 
+of the Securities Exchange Act of 1934 
+
+Metrocorp, Inc.  
+
+(Exact name of registrant as specified in its charter)
+
+Registrant s telephone number, including area code:  (309) 755-0671 
+
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by
+Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for
+such shorter period that the registrant was required to file such reports), and (2) has been
+subject to such filing requirements for the past 90 days.
+
+Yes               No    
+
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer or
+a non-accelerated filer. See definition of  accelerated filer and large accelerated filer  in Rule
+12b-2 of the Exchange Act. (Check one):
+
+Large Accelerated Filer    
+
+Accelerated Filer    
+
+Non-accelerated Filer     
+
+Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the
+Exchange Act).
+
+Yes              No    
+
+Indicate the number of shares outstanding of each of the issuer s classes of common stock, as of
+the latest practicable date: As of March 13, 2006, the Registrant had outstanding 1,186,068 shares
+of Common Stock, $0.20 par value per share.
+
+TABLE OF CONTENTS
+
+Page 
+
+FORWARD-LOOKING STATEMENTS 
+
+1 
+
+PART I   FINANCIAL INFORMATION 
+
+2 
+
+Item 1. Financial Statements 
+
+2 
+
+Notes to Unaudited Consolidated Financial Statements 
+
+6 
+
+Item 2. Management s Discussion and Analysis of Financial Condition and
+Results of Operations 
+
+9 
+
+Item 3. Quantitative and Qualitative Disclosures about Market Risk 
+
+20 
+
+Item 4. Controls and Procedures 
+
+21 
+
+PART II   OTHER INFORMATION 
+
+22 
+
+Item 1. Legal Proceedings 
+
+22 
+
+Item 1A. Risk Factors 
+
+22 
+
+Item 6. Exhibits 
+
+22 
+
+SIGNATURES 
+
+23 
+
+EXHIBITS
+
+Bylaws    
+     Rule 13a-14(a)/15d-14(a) Certification of CEO    
+     Rule 13a-14(a)/15d-14(a) Certification of CFO    
+     Section 1350 Certification of CEO    
+     Section 1350 Certification of CFO    
+
+- i -
+
+Table of Contents   
+
+FORWARD-LOOKING STATEMENTS
+
+This report on Form 10-Q contains forward-looking statements within the meaning of Section 21E of
+the Securities Exchange Act of 1934 about Metrocorp, Inc. (the  Company ) for which it claims the
+protection of the safe harbor provisions contained in the Private Securities Litigation Reform Act
+of 1995. Actual results could differ materially from those projected in the forward-looking
+statements as a result of the risks and uncertainties set forth in this report and other reports
+and documents that the Company files with the Securities and Exchange Commission. The information
+set forth is not a guarantee of future performance, operating results or financial condition.
+These forward-looking statements are based on management s current knowledge and belief and include
+information concerning the Company s possible or assumed future financial condition and results of
+operations. When you see any of the words  believes,   expects,   anticipates,   estimates  or
+similar expressions, it means we are making forward-looking statements. A number of factors, some
+of which are beyond the Company s ability to predict or control, could cause future results to
+differ materially from those contemplated. These factors are described as  Risk Factors  in Part
+II, Item 1A below. These risks and uncertainties should be considered in evaluating
+forward-looking statements and undue reliance should not be placed on such statements.
+
+- 1 -
+
+Table of Contents   
+
+PART I   FINANCIAL INFORMATION
+
+Item 1. Financial Statements 
+
+METROCORP, INC. AND SUBSIDIARIES 
+CONSOLIDATED BALANCE SHEETS 
+(UNAUDITED )
+
+See accompanying notes to unaudited consolidated financial statements.
+
+- 2 -
+
+Table of Contents   
+
+METROCORP, INC. AND SUBSIDIARIES  
+  CONSOLIDATED STATEMENTS OF INCOME   
+  (UNAUDITED )  
+
+See accompanying notes to unaudited consolidated financial statements.
+
+- 3 -
+
+Table of Contents   
+
+METROCORP, INC. AND SUBSIDIARIES 
+CONSOLIDATED STATEMENTS OF CASH FLOWS 
+(UNAUDITED) 
+
+- 4 -
+
+Table of Contents   
+
+METROCORP, INC. AND SUBSIDIARIES 
+CONSOLIDATED STATEMENTS OF CASH FLOWS (CONTINUED) 
+(UNAUDITED) 
+
+- 5 -
+
+Table of Contents   
+
+Notes to Unaudited Consolidated Financial Statements 
+
+Note 1: General Summary of Significant Accounting Policies  
+The accompanying unaudited consolidated financial statements have been prepared in accordance with
+generally accepted accounting principles for interim financial information and pursuant to the
+rules and regulations of the Securities and Exchange Commission. The results of operations reflect
+interim adjustments, all of which are of a normal recurring nature and which, in the opinion of
+management, are necessary for a fair presentation of the results for the interim period presented.
+The interim results for the three month periods ended January 31, 2006 and 2005 are not necessarily
+indicative of the results expected for the full year. The balance sheet information for October
+31, 2005, is derived from the Company s audited financial statements for the year ended October 31,
+2005. These consolidated financial statements should be read in conjunction with the audited
+consolidated financial statements and accompanying notes as well as other information included in
+the Company s Annual Report on Form 10-K for the year ended October 31, 2005.
+
+Principles of Consolidation  
+The consolidated financial statements of Metrocorp, Inc. (the  Company  or  Metrocorp ) include the
+accounts of the Company and its wholly-owned subsidiaries Metrobank, N.A. (the  Bank  or
+ Metrobank ), and Community Insurance, Inc., but do not include Metrocorp Capital Trust I, which
+under current accounting rules, no longer meets the criteria for consolidation. All significant
+intercompany balances and transactions have been eliminated in consolidation.
+
+Nature of Operations  
+The Company is a registered bank holding company under the Bank Holding Company Act of 1956 (the
+ BHCA ) headquartered in East Moline, Illinois. Incorporated in 1973 as a Delaware Corporation the
+Company was reincorporated under the laws of the State of Illinois on March 15, 2004. The Company
+derives the majority of its income from, and its principal asset is, all of the common stock of the
+Bank. The Bank currently operates a main office, 18 branch offices, an operations center and an
+office for Community Insurance which are located in the Quad Cities market, the western Illinois
+market and the eastern Iowa market. The Bank has established a network of 48 ATMs in western
+Illinois and eastern Iowa.
+
+Metrobank is a full service community bank that specializes in business and individual banking. In
+addition to traditional banking services such as savings and checking accounts, it offers trust
+services, discount brokerage services, electronic services, internet banking and insurance
+products. The Bank also offers a variety of debit and credit card programs, including affinity
+credit card programs with local schools and a secured credit card program. Finally, the Bank
+offers investment services through its affiliation with Primevest Financial Services, a registered
+broker/dealer. Through Primevest, Metrobank customers have access to self-directed IRAs, SEP IRAs,
+simple IRAs, 401(k) retirement plans, stocks, bonds, mutual funds and other products.
+
+Earnings per Common Share  
+Basic per share amounts are computed by dividing net income (the numerator) by the weighted average
+number of common shares outstanding (the denominator). Diluted per share amounts assume the
+conversion, exercise or issuance of all potential common stock unless the effect is to reduce the
+loss or increase the income per share. Allocated shares held by the employee stock ownership plan
+are considered to be outstanding shares. The Company does not have
+any common stock equivalents.
+
+Use of Estimates in the Preparation of Financial Statements  
+The preparation of financial statements in conformity with accounting principles generally accepted
+in the United States of America requires management to make estimates and assumptions that affect
+the reported amounts of assets and liabilities and disclosure of contingent assets and liabilities
+at the date of
+
+- 6 -
+
+Table of Contents   
+
+the financial statements and the reported amounts of revenues and expenses during the reporting
+period. On an on-going basis, the Company evaluates its estimates, including those related to the
+adequacy of the allowance for loan losses, investments, intangible assets, income taxes and
+contingencies. The Company bases its estimates on historical experience and on various other
+assumptions that are believed to be reasonable under the circumstances, the results of which form
+the basis for making judgments about the carrying values of assets and liabilities that are not
+readily apparent from other sources. Actual results may differ from these estimates under different
+assumptions or conditions. The one accounting estimate that materially affects the financial
+statements is the allowance for loan losses.
+
+Securities available-for-sale  
+Securities available-for-sale are carried at fair value and consist of those securities which the
+Company may decide to sell if needed for liquidity, asset/liability management, or other reasons.
+Unrealized gains and losses are reported as increases or decreases in accumulated other
+comprehensive income.
+
+Presentation of cash flows  
+For purposes of reporting cash flows, cash and cash equivalents include cash on-hand and amounts
+due from banks. Cash flows from loans, deposits, and short-term borrowings are treated as net
+increases or decreases.
+
+Note 2: Commitments and Contingencies  
+The Company is a party to financial instruments with off-balance sheet risk in the normal course of
+business to meet the financing needs of its customers. These financial instruments include
+commitments to make loans and standby letters of credit. The Company s exposure to credit loss in
+the event of nonperformance by other parties to these financial instruments is represented by the
+contractual amount of the instruments. The Company uses the same credit policy to make such
+commitments as it uses for on-balance sheet items.
+
+The approximate contract amounts of these instruments are summarized as follows as of:
+
+Commitments to extend credit are agreements to lend to a customer as long as there is no violation
+of any condition established in the contract. Commitments generally have fixed expiration dates or
+other termination clauses and may require payment of a fee. Since many the commitments are
+expected to expire without being drawn upon, the total commitment amounts do not necessarily
+represent future cash requirements. The Bank evaluates each customer s credit worthiness on a
+case-by-case basis. Collateral varies but may include accounts receivable, inventory, property and
+equipment, and income producing commercial properties.
+
+Standby letters of credit are conditional commitments issued by the Bank to guarantee the
+performance of a customer to a third party. Those guarantees are primarily used to support private
+borrowing arrangements and extend for no more than one year. The credit risk involved in issuing
+letters of credit is essentially the same as that involved in extending loan facilities to
+customers. Collateral held varies as specified above and is required in instances which the Bank
+deems necessary.
+
+The Company has executed contracts for the sale of mortgage loans in the secondary market in the
+amount of $185,000 and $1,065,000 as of January 31, 2006 and October 31, 2005, respectively. The
+
+- 7 -
+
+Table of Contents   
+
+Company has also executed contracts for the sale of student loans in the secondary market in the
+amount of $25,537,000 and $13,375,000 as of January 31, 2006 and October 31, 2005, respectively. These
+amounts represent all student loans held for sale.
+
+Concentrations of credit risk  
+All of the Bank s loans, commitments to extend credit, and standby letters of credit have been
+granted to customers in the Bank s market area. The distribution of commitments to extend credit
+approximates the distribution of loans outstanding, and standby letters of credit were granted
+primarily to commercial borrowers. Investment securities issued by state and political
+subdivisions also involve governmental entities within the Bank s market area.
+
+Aside from cash on-hand, in-vault, and balances at the Federal Reserve Bank of Chicago, the
+majority of the Bank s cash is maintained at LaSalle National Bank and the Federal Home Loan Bank.
+
+Contingencies  
+In the normal course of business, the Company is involved in various legal proceedings. In the
+opinion of management, any liability resulting from such proceedings would not have a material
+effect on the Company s financial statements.
+
+Note 3: Recent Developments  
+The Company has contacted potential buyers in connection with a potential change of control and
+currently intends to negotiate a definitive agreement with one bidder. This process is described
+in more detail at Item 2 Corporate Developments in Fiscal 2006 in this report.
+
+- 8 -
+
+Table of Contents   
+
+Item 2. Management s Discussion and Analysis of Financial Condition and Results of Operations 
+
+The following discussion and analysis of the Company s financial condition and results of
+operations is intended to provide a better understanding of the significant changes and trends
+relating to Metrocorp s financial condition, results of operations, liquidity and interest rate
+sensitivity. The following discussion should be read in connection with the unaudited consolidated
+financial statements and the accompanying notes thereto included in Item 1 of this report. The
+discussion covers the results of operations for the quarters ended January 31, 2005, and 2006, and
+the financial condition for the periods ended January 31, 2006 and October 31, 2005.
+
+Average balances, including balances used in calculating certain financial ratios, are comprised of
+average daily balances for Metrocorp. Within Management s Discussion and Analysis of Financial
+Condition and Results of Operations, interest income and net interest income are generally
+presented on a fully tax-equivalent (FTE) basis, when stating average yields, net interest margins
+or spreads. Tax-exempt income has been adjusted to a tax-equivalent basis using an incremental tax
+rate of 34%.
+
+Metrocorp, Inc. is a bank holding company providing bank and bank related services through its
+wholly owned subsidiary, Metrobank, N.A. and its subsidiary, Community Insurance, Inc., and
+Metrocorp Capital Trust I. The Company is engaged in the business of commercial and retail banking
+and trust and insurance services. The Company focuses on establishing long-term relationships with
+customers, and is committed to serving the financial needs of the communities in its market area.
+Metrobank maintains nineteen locations located in western Illinois and eastern Iowa with the
+insurance agency located in the Miles, Iowa branch. The majority of the Company s income is
+derived from commercial and retail lending, investments, and deposit activities. Metrocorp Capital
+Trust I was capitalized in November 2001 for the purpose of issuing trust preferred securities.
+
+Corporate Developments in Fiscal 2006 
+
+On August 25, 2005, the Company and its shareholders received a hostile tender offer from National
+Bancshares, a privately-held community banking organization based in the Quad Cities, to purchase
+all of the shares of common stock of Metrocorp for $52.00 per share in cash. The tender offer was
+subject to approval of all appropriate regulatory agencies, obtaining at least 50.1% of Metrocorp s
+outstanding shares, and had an expiration date of September 23, 2005. The Company hired St.
+Charles Capital, LLC of Denver, Colorado to provide advisory services related to this unsolicited
+tender offer. St. Charles is an experienced investment banking firm that has expertise in matters
+of mergers and acquisitions in the banking industry and in the valuation of banks, with particular
+expertise in independent community banks. St. Charles prepared a thorough analysis and evaluation
+of the offer. With the assistance of the Company s legal and financial advisors, the Board of
+Directors, after carefully considering the offer, unanimously recommended that shareholders reject
+the offer and not tender any of their shares. On September 23, 2005, the offer expired as stated.
+
+As a result of this process the Company began receiving other non-binding offers from various bank
+holding companies. Realizing it was not practical or cost-efficient to deal with each of these
+offers individually, the Board began a process to evaluate the strategic alternatives available to
+the Company for maximizing value to its shareholders. Seven investment banking firms were
+interviewed by the Board of Directors and in October 2005 Hovde Financial, LLC of Chicago, Illinois
+was hired to act as the Company s financial advisor. Since that time the Company has been
+diligently working with Hovde to execute a systematic process of contacting potential buyers of the
+Company and obtaining external valuations of the Company in connection with a possible change of
+control. This process by nature is detailed, information intensive, and thorough. A great deal of
+time, energy and expense has been expended by the Board, management, and employees with this
+process. Of the interested parties, there were three companies selected by the Board to perform
+due diligence on the Company during February
+
+- 9 -
+
+Table of Contents   
+
+2006. The Company has considered the final bids presented by the three interested parties and
+currently intends to negotiate a definitive agreement with one potential buyer.
+
+Critical Accounting Policies and Estimates 
+
+The Company s discussion and analysis of its financial condition and results of operations are
+based upon the Company s consolidated financial statements, which have been prepared in accordance
+with accounting principles generally accepted in the United States of America. The preparation of
+these financial statements requires the Company to make estimates and judgments that affect the
+reported amounts of assets, liabilities, revenues and expenses, and related disclosure of
+contingent assets and liabilities. On an on-going basis, the Company evaluates its estimates,
+including those related to the adequacy of the allowance for loan losses and the impairment of
+goodwill. The Company bases its estimates on historical experience and various other assumptions
+that are believed to be reasonable, under the circumstances, the results of which form the basis
+for making judgments about the carrying values of assets and liabilities that are not readily
+apparent from other sources. Actual results may differ from these estimates under different
+assumptions or conditions. Management has identified its most critical accounting policies to be
+those related to the allowance for loan losses and asset impairment judgments including the
+recoverability of goodwill. The Company s policy related to the estimate on the allowance for loan
+losses can be found in Notes 1 and 6 of the Company s audited consolidated financial statements at
+Item 8 of the Company s Form 10-K for the year ended October 31, 2005 as filed February 28, 2006,
+with the Securities and Exchange Commission. Goodwill represents the excess of acquisition costs
+over the fair value of the net assets acquired in a purchase acquisition. Goodwill is not
+amortized but is subject to an impairment test at least annually, or more often if conditions
+indicate a possible impairment.
+
+Financial Condition 
+
+The following discussion of the Company s consolidated financial condition should be read in
+conjunction with the unaudited consolidated financial statements and related notes included in Item
+1 of this report.
+
+The Company s total assets at January 31, 2006 were $562.8 million, a decrease of $16.2 million, or
+2.8% from $579.0 million at October 31, 2005. The decrease in assets was due primarily to
+decreases in securities available for sale, federal funds sold and net loans, described below, but
+were partially offset by a $2.7 million increase in cash and due from banks and a $11.5 million
+increase in loans held for sale.
+
+The Company s portfolio of securities available for sale decreased $13.3 million, or 4.5%, to
+$280.8 million at January 31, 2006 from $294.1 million at October 31, 2005. Part of this decrease
+was the $300,000 increase in the unrealized loss at January 31, 2006 ($3.1 million) from the
+unrealized loss at October 31, 2005 ($2.8 million) in accordance with SFAS 115. The Company s
+portfolio consists primarily of U. S. Treasury and government obligations, state and political
+subdivisions, and investment grade corporate bonds. Overall the portfolio has a weighted average
+life of 3.0 years. During the first quarter of fiscal 2006, the Company purchased securities
+available for sale in the amount of $8.9 million which was offset by $20.9 million in proceeds from
+maturities and calls of securities available for sale. Overall there was a $13.1 million, or 4.4%,
+decrease in the amortized cost of securities available for sale. The decrease was primarily as a
+result of an increase in loans held for sale and a decrease in total deposits which are discussed
+below.
+
+The Company s portfolio of loans decreased $7.2 million, or 3.4%, to $202.0 million at January 31,
+2006 from $209.2 million at October 31, 2005. Loans decreased in part as a result of a reduction
+of $2.6 million, or 22.0%, in portfolio student loan outstandings, from $11.8 million at October
+31, 2005 to $9.2 million at January 31, 2006. These particular student loans are to students who
+have already graduated or left school and are past their deferment period. As a result, the Company
+receives monthly payments and loan consolidation payoffs on these loans with no new originations.
+The Company also experienced
+
+- 10 -
+
+Table of Contents   
+
+declines in commercial and consumer real estate loans. Commercial loans (including real estate,
+equipment and operating lines) declined $6.1 million, or 10.0%, to $55.1 million at January 31,
+2006 from $61.2 million at October 31, 2005. The Company experienced increased paydowns on
+commercial equipment and operating lines over what was replaced with new borrowers, as competition
+has intensified and the operating line demands usually decline at this time of year. In addition
+the Company experienced approximately $3.3 million in commercial loan payoffs to a competitor
+institution that hired two of the Company s loan officers as a result of the possible change in
+control of the Company. Consumer real estate loans declined $1.5 million, or 3.6%, from $42.0
+million at October 31, 2005 to $40.5 million at January 31, 2006. The Company has seen a continued
+slowdown in the local real estate markets which the Company believes to be as a result of rising
+rates as well as what normally occurs during the winter season. Some of these declines were
+partially offset by a $3.1 million, or 4.2%, increase in the Company s overall agricultural loan
+portfolio to $76.2 million at January 31, 2006 from $73.1 million at October 31, 2005.
+
+The Company s loans held for sale increased $11.5 million, or 81.0%, from $14.2 million at October
+31, 2005 to $25.7 million at January 31, 2006. This increase was entirely in the students loans
+originated for sale during this first fiscal quarter. The Company originates student loans for
+several colleges and universities and once that particular academic school year loan is fully
+disbursed, it is sold (usually around 60 days) on the secondary market at a premium of 1.55% to its
+servicer, Nelnet, Inc.
+
+Federal funds sold declined entirely to $0 from $8.7 million at October 31, 2005. Federal funds
+sold and its counterpart, federal funds purchased, are used as the balancing account of the
+Company s daily cash position and are generally short term (daily) in nature.
+
+Total deposits decreased $24.6 million, or 4.8%, to $486.8 million at January 31, 2006 from $511.4
+million at October 31, 2005. The majority of this decrease, $23.5 million, was in the Company s
+interest-bearing demand and money market accounts($11.4 million) and time deposits of $100,000 and
+over ($12.1 million) of nine of the Company s large municipal customers. Of this $23.5 million
+decrease, $14.3 million was from eight of the Company s core municipal account relationships and
+the other $9.2 million was from a municipal customer where the Company only maintains large
+negotiated bid time deposits. These decreases are cyclical in nature based on when these municipal
+customers receive their funding from the state and local taxing authorities. While these municipal
+deposits are subject to large swings in balances, these type of accounts are usually done on a
+multi-year bid basis (usually a minimum of at least three years, with automatically renewable
+options) and the Company has demonstrated the ability to maintain these relationships over extended
+periods of time. In addition, the Company had a change in the composition of its time deposits of
+over and under $100,000. Time deposits of under $100,000, consisting mostly of retail consumer
+certificates of deposit, increased $5.7 million, or 4.3%, to $137.1 million at January 31, 2006
+from $131.4 million at October 31, 2005. The Company s time deposits of $100,000 or over decreased
+$9.2 million, or 13.3%, to $60.1 million at January 31, 2006 from $69.3 million at October 31,
+2005. The Company offered a retail consumer six month special certificate of deposit in
+celebration of its new Rock Island Branch which opened in October 2005 as discussed in the
+Company s Form 10-K for the year ended October 31, 2005. These certificates of deposit were
+offered for only one week at a premium rate (5.00% APY) and total $13.2 million. The certificates
+were funded from a combination of new deposits as well as funds that were on deposit at the Company
+in different products. These time deposits will mature in May 2006 when the Company will decide
+what rate may be offered for renewal based on funding needs at that time. Time deposits of
+$100,000 or over are usually short term and subject to greater interest rate risk given the greater
+frequency in repricing. The Company uses this product to assist our municipal clients with funds
+that can be invested for time periods of generally one year or less. The Company does not solicit
+funds from outside its own market area. Most customers from whom the Company does solicit funds
+also have their core deposit accounts with Metrobank. The overall decrease in deposits was
+primarily offset by the decrease in loans along with the decrease in the investment securities
+portfolio during the three months ended January 31, 2006.
+
+- 11 -
+
+Table of Contents   
+
+Short-term borrowings increased $7.8 million, or 166.0%, from $4.7 million at October 31, 2005 to
+$12.5 million at January 31, 2006. The $8.0 million increase in overnight funds purchased, along
+with the $8.7 million decrease in federal funds sold, were primarily used to fund the growth in the
+student loans held for sale. Federal funds purchased and its counterpart, federal funds sold, are
+used as the balancing account of the Company s daily cash position and are generally short term
+(daily) in nature.
+
+Stockholders  equity increased $533,100, or 1.4%, to $37.6 million at January 31, 2006 from $37.0
+million at October 31, 2005. The increase in stockholders  equity was primarily due to net income
+of $830,700 during the three months ended January 31, 2006. This net income was partly reduced by
+an increase of $187,800 in the unrealized loss on securities available for sale in accordance with
+SFAS 115 and dividends of $109,700 paid to shareholders.
+
+Results of Operations 
+
+The following discussion of the Company s results of operations should be read in conjunction with
+the unaudited consolidated financial statements and related notes included at Part I Item 1 in
+this report.
+
+The Company s results of operations are primarily dependent on net interest income, non-interest
+income, non-interest expense and income tax expense. Net interest income is the difference, or
+spread, between the average yield on interest-earning assets and the average rate paid on
+interest-bearing liabilities. The interest rate spread is affected by regulatory, economic, and
+competitive factors that influence interest rates, loan demand, and deposit flows. The Company,
+like other financial institutions, is subject to interest rate risk to the extent that its
+interest-earning assets mature or reprice at different times, or on a different basis, than its
+interest-bearing liabilities.
+
+The Company s non-interest income is derived primarily from fees charged on transaction accounts,
+which help offset the costs associated with establishing and maintaining these deposit accounts.
+In addition, non-interest income is derived from ATM transaction fees, merchant, debit/credit card
+fees along with gains on the sale of mortgage loans, student loans, and securities available for
+sale. Additionally, non-interest income has been derived from the activities of Metrobank s trust
+department, which provides a variety of professional trust services.
+
+The Company s non-interest expense is derived primarily from salaries and employees benefits which
+normally account from between 55% and 65 % of this total. In addition, other major categories are
+occupancy and equipment expense along with merchant, debit/credit card expenses.
+
+Comparison of Operating Results for the Three Months Ended January 31, 2006 and January 31, 2005 
+
+General 
+
+The Company recorded net income of $831,000 for the three months ended January 31, 2006, compared
+to net income of $1,169,000 for the three months ended January 31, 2005. The decrease of $338,000,
+or 28.9%, in net income primarily reflects a $588,000, or 15.0%, decrease in net interest income
+which was somewhat offset by a negative $100,000 provision for loan losses, as discussed below
+under  Provision for Loan Losses. 
+
+Net Interest Income 
+
+Net interest income for the three months ended January 31, 2006 decreased $588,000, or 15.0%,
+to $3,344,000 compared to $3,932,000 for the period ended January 31, 2005. The decrease in net
+interest income reflects an $873,000 increase in interest expense which was offset by a $285,000
+increase in
+
+- 12 -
+
+Table of Contents   
+
+interest income. Overall the net yield on average earning assets decreased .41% to 2.83% for the
+period ended January 31, 2006 from 3.24% for the same period in 2005. The decrease in net yield on
+average earning assets was due primarily to the rise in short term interest rates (225 basis points
+rise in the federal funds rate) as the Company s rate on average funds increased .65% to 2.33% in
+2006 from 1.68% in 2005. In addition there was a change in the composition of the balance sheet
+during the year. The Company had an increase in the average securities available for sale
+portfolio (overall lower yields, 4.40% for 2006) coupled with a reduction in loans outstanding,
+which would normally be at higher yields (6.28% for 2006) when comparing an investment security to
+a loan. Interest rates, particularly at the shorter end of the yield curve, started increasing
+during the last half of 2004, continued throughout 2005 and into 2006 to date. The yield curve has
+flattened significantly during the same period of time. These yields
+are calculated on a fully tax equivalent basis.
+
+Interest Income 
+
+Interest income for the three months ended January 31, 2006 increased $285,000, or 4.6%, to
+$6,445,000 from $6,160,000 for the same period in 2005. The increase was due primarily to an
+increase of $196,000 in interest income from loans, which was the result of the average yield
+increasing to 6.28% in the first fiscal quarter of 2006 compared to 5.67% in the first fiscal
+quarter of 2005. This was offset by a decrease of $10,198,000 in average loans outstanding to
+$222,188,000 in the first fiscal quarter of 2006 from $232,386,000 in the first fiscal quarter of
+2005 and includes the averages of loans held for sale. Interest income on investments was up
+$63,000, or 2.3%, in the first fiscal quarter of 2006 from $2,786,000 in the first fiscal quarter
+of 2005 as average investments were up $2,302,000, or .8%, to $290,245,000 in the first fiscal
+quarter of 2006 from $287,943,000 in the first fiscal quarter of 2005. The average yield on
+investments increased .07% from 4.33% in the first fiscal quarter of 2005 to 4.40% in the first
+fiscal quarter of 2006. These yields are calculated on a fully tax
+equivalent basis.
+
+The following table sets forth the weighted average tax equivalent effective interest rate on
+interest-earning assets and interest-bearing liabilities at the end of each of the periods
+presented. Fees on loans are included in the calculation but are not material in nature.
+
+Rate/Volume Analysis 
+
+The following schedule presents the dollar amount of changes in interest income and interest
+expense for major components of interest-earning assets and interest-bearing liabilities. It
+distinguishes between the changes in average outstanding balances and changes due to the levels and
+volatility of interest rates. For
+
+- 13 -
+
+Table of Contents   
+
+each category of interest-earning assets and interest-bearing liabilities, information is provided
+on changes attributable to changes in volume (i.e., changes in volume multiplied by old rate) and
+changes in rate (i.e., changes in rate multiplied by old volume). For purposes of this table,
+changes attributable to both rate and volume that cannot be segregated have been allocated
+proportionately to the change due to volume and the change due to rate. Fees on loans are included
+but not material in nature.
+
+- 14 -
+
+Table of Contents   
+
+Average Balances, Interest Rates and Yields 
+
+The following table presents for the periods indicated the total dollar amount of interest income
+from average interest-earning assets and the resultant yields, as well as the interest expense on
+average interest-bearing liabilities, expressed in both dollars and rates. No tax equivalent
+adjustments have been made. Non-accruing loans have been included in the table as loans carrying a
+zero yield. Fees on loans are included but are not material in nature.
+
+Interest Expense 
+
+Interest expense increased $873,000, or 39.2%, to $3,101,000 for the three months ended January 31,
+2006 from $2,228,000 for the three months ended January 31, 2005. Interest expense on deposits
+increased by $790,000, due primarily to an increase in the average rates paid on interest-bearing
+deposits during the period to 2.41% for the first fiscal quarter of 2006 from 1.75% during the
+first fiscal quarter of 2005. The average balance of non-interest bearing deposits increased by
+$2,961,000 during the same period, which resulted in an overall increase of $1,557,000 in the
+average balance of deposits. Interest expense on other borrowed funds increased $83,000 in the
+first fiscal quarter of 2006 to $359,000 from $276,000 during the first fiscal quarter of 2005, due
+to an increase in the average cost to 6.07% from 4.29%, which was partially offset by a decrease of
+$2,069,000 in the average balance outstanding during the period.
+
+Provision for Loan Losses 
+
+Based on the Company s December 31, 2005 analysis of its loan loss reserve there was a negative
+provision of $100,000 during the three months ended January 31, 2006 compared to no adjustments for
+the three months ended January 31, 2005. One of the major factors was a decline of $7.2 million in
+the balance on loans outstanding at January 31, 2006 compared to October 31, 2005. Management
+believes that, based on a detailed review of the loan portfolio, historic loan losses, current
+economic conditions,
+
+- 15 -
+
+Table of Contents   
+
+lack of growth in the loan portfolio, and other factors, the current level of provision for loan
+losses, and the resulting level of the allowance for loan losses, reflects an adequate allowance
+against probable losses from the loan portfolio at such date.
+
+Economic conditions in the agricultural sector of the Company s market areas are currently strong
+and stable. In 2005, below average yields were offset somewhat by crop insurance proceeds and
+increased government farm support programs. The agricultural economy is accustomed to production
+and price fluctuations and is generally able to adjust to such fluctuations without significant
+problems. Higher petroleum prices had some dampening effect on 2005 profits and could cause more
+of a negative impact on profits in 2006 and beyond due to price increases in chemicals used in
+agricultural production. Increased interest rates will also be a negative factor for the
+agricultural sector. Should there be an extended period of low commodity prices or yields, or a
+significant change in the government farm support programs, the Company s agricultural loan
+portfolio could weaken and create a need for the Company to increase its allowance for loan losses
+through increased charges to provision for loan losses.
+
+Furthermore, although the Company maintains its allowance for loan losses at a level that it
+considers to be adequate, investors and others are cautioned that there can be no assurance that
+future losses will not exceed estimated amounts, or that additional provisions for loan losses will
+not be required in future periods. In addition, the Company s determination of the allowance for
+loan losses is subject to review by its regulatory agencies, which can require the establishment of
+additional general or specific allowances.
+
+Noninterest Income 
+
+Noninterest income decreased $52,000, or 4.4%, to $1,121,000 for the three months ended January 31,
+2006 from $1,173,000 for the same period in 2005. The decrease was primarily in the areas of gains
+on the sale of loans ($10,000), securities gains ($32,000), and ATM foreign transaction fees
+($23,000). These reductions were partially offset by an overall increase in service charges on
+deposit accounts of $15,000, on the strength of an increase of $31,000 in overdraft fees. As
+competition has dictated, free checking is now the norm for retail checking accounts and as a
+result the Company showed a reduction of $16,000 in the monthly service charges on checking
+accounts. The Company has experienced a significant migration of current customers changing their
+account over from a minimum balance regular checking account to the free checking as well as
+smaller balance interest-bearing checking accounts to avoid any service charges. To a lesser
+extent there has been a reduction in commercial checking service charges as the earnings credit
+that a commercial checking customer receives to offset transaction charges has risen over the
+course of the last year. It is indexed to the 91 day Treasury bill auction on a monthly basis.
+Gains on the sale of loans decreased in both the real estate secondary market lending area as well
+as in student loan gains. The decrease in real estate gains is as a result of the rise in interest
+rates slowing down not only the mortgage-refinancing market but new originations as well.
+
+Noninterest Expense 
+
+Noninterest expense had a small increase of $3,000, or 0.1%, to $3,630,000 for the three months
+ended January 31, 2006 from $3,627,000 for the same period in 2005. The increase in noninterest
+expense primarily reflects a $30,000 increase in occupancy and equipment expenses along with a
+$61,000 increase in merchant, debit/credit card fees. The increase in occupancy expenses was as a
+result of a $10,000 increase in the heating cost from period-to-period and a $21,000 increase in
+building and grounds maintenance and repair as the Company contracted for some landscaping and
+general sprucing up at several of its locations. In the merchant, debit/credit card fees, there is
+an increase of $29,000 for direct advertising of the Company s new  Choices  credit card which was
+launched in fiscal year 2005. The remaining increase of $32,000 is in conjunction with the
+increased volume of transactions in both the debit and credit card processing. As an offset to
+these increases the Company s salaries and employee benefits decreased $105,000, or 4.8%, from
+$2,194,000 for the three months ended January 31, 2005 to
+
+- 16 -
+
+Table of Contents   
+
+$2,089,000 for the same period in 2006. The Company had a reduction in overall workforce, which
+resulted in direct salary expense being reduced by $45,000. In addition there was a net reduction
+of $40,000 as a result of the ESOP Plan being terminated in November of 2004 (a $54,000 reduction)
+offset by the Company-sponsored 401(k) match program which started in January 2006 (a $14,000
+increase).
+
+Income Tax Expense 
+
+For the three months ended January 31, 2006 the Company recorded income tax expense of $104,000
+which was $205,000, or 66.3%, less than the $309,000 recorded for the three months ended January
+31, 2005. The decrease in income taxes is reflective of the change in operating results between
+the comparable periods and the incidence of allowable deductions,
+particularly from tax-exempt loans and state and municipal securities.
+
+Asset Quality 
+
+It is management s belief, based on information available at the fiscal period ending January 31,
+2006, that the Company s current asset quality is satisfactory. At January 31, 2006,
+non-performing assets, consisting of non-accruing loans, accruing loans past due 90 days or more,
+restructured loans, foreclosed real estate, and other repossessed property, totaled $1,506,000, or
+..27% of total assets, compared to $2,497,000, or .43% of total assets for the fiscal year ended
+October 31, 2005.
+
+The Company maintains an allowance for loan losses because of the potential that some loans may not
+be repaid in full. At January 31, 2006, the Company had an allowance for loan losses of $2,422,000
+as compared to $2,519,000 at October 31, 2005. Management s periodic review of the adequacy of the
+allowance for loan losses is based on various subjective and objective factors including the
+Company s past loss experience, known and inherent risks in the portfolio, adverse situations that
+may affect the borrower s ability to repay, the estimated value on any underlying collateral, and
+current economic conditions. While management may allocate portions of the allowance for
+specifically identified problem loan situations, the majority of the allowance is based on
+judgmental factors related to the overall portfolio and is available for any loan charge-offs that
+may occur.
+
+In determining the allowance for loan losses, the Company specifically identifies loans that it
+believes to have potential problems in collecting the entire balance owed. Based on criteria
+established by Statement of Financial Accounting Standards (SFAS) No. 114, some of these loans are
+considered to be  impaired  while others are not considered to be impaired, but possess weaknesses
+that the Company believes merit additional analysis in establishing the allowance for loan losses.
+All other loans are evaluated by applying estimated loss ratios to various pools of loans. The
+Company then analyzes other factors (such as economic conditions) in determining the aggregate
+amount of the allowance needed.
+
+Liquidity and Capital Resources 
+
+The Company s primary sources of funds are deposits, borrowings, principal and interest payments on
+loans and mortgage-backed securities, and maturing investment securities. While scheduled loan
+repayments and maturing investments are relatively predictable, deposit flows and early loan
+repayments are influenced by the level of interest rates, general economic conditions, and
+competition.
+
+The Company relies on competitive pricing policies, advertising and customer service to attract and
+retain its deposits and only solicits these deposits from its primary market areas. Based on its
+experience, the Company believes that its savings, money market demand deposits, interest-bearing
+and regular checking accounts are relatively stable sources of funds. The Company s ability to
+attract and retain time deposits has been, and will continue to be, significantly affected by
+market conditions. However, the Company does not foresee significant funding issues resulting from
+a disintermediation of its portfolio of time deposits.
+
+- 17 -
+
+Table of Contents   
+
+The Company is required by regulation to maintain sufficient liquidity to assure its safe and sound
+operation. In the opinion of management the Company is in compliance with this requirement.
+
+Liquidity management is both a daily and long-term function of the Company s management strategy.
+The Company adjusts its investments in liquid assets based upon management s assessment of (i)
+expected loan demand, (ii) expected deposit flows, (iii) yields available on interest-bearing
+deposits, and (iv) the objectives of its assets/liability management program. Excess liquidity is
+generally invested in overnight funds sold to one of its correspondent banks. If the Company
+requires funds beyond its ability to generate them internally or from overnight funds purchased, it
+has additional borrowing capacity with the FHLB (Federal Home Loan Bank of Chicago) and has
+collateral eligible for its use with overnight repurchase agreements. The Company is not aware of
+any significant adverse trends in the Company s liquidity or its ability to borrow additional funds
+if needed.
+
+The primary investing activities of the Company are the origination of loans and the purchase of
+securities. During the three months ended January 31, 2006 the Company had a net decrease in loans
+outstandings of $7.2 million. Some of the factors causing this decline are as follows: (i) with
+the rising interest rate environment the Company experienced declines in consumer real estate loans
+along with the normal slowdown during the winter season; (ii) significant declines in commercial
+real estate loans, equipment and operating as the Company lost approximately $3.3 million in loans
+to a competitor institution as the result of the departure of two commercial loan officers; and
+(iii) declines in student loan outstandings as in 2002 the Company discontinued retaining new
+student loan originations and began selling them in the secondary market sixty days after they are
+fully disbursed. During the three months ended January 31, 2006 the Company purchased securities
+available for sale in the amount of $8.9 million which was more than offset by $20.9 million in
+maturities and calls during this same period. Loans held for sale increased $11.5 million to $25.7
+million at January 31, 2006 from $14.2 million at October 31, 2005 which are anticipated to be sold
+primarily in the months of April and May 2006. These are predominantly students loans and follow
+the academic school calendar as far as volume.
+
+At January 31, 2006 and October 31, 2005 the Company had outstanding loan commitments of $341,000
+and $1,269,000, respectively. Certificates of deposits scheduled to mature in one year or less at
+January 31, 2006 totaled $155.9 million. Management believes that loan repayment and other sources
+of funds will be adequate to meet the Company s foreseeable short and long-term liquidity needs.
+
+The following table summarizes the Company s significant contractual obligations at January 31,
+2006 (in thousands):
+
+On November 1, 2001, the Company s unconsolidated trust subsidiary, Metrocorp Capital Trust I, sold
+$10 million in floating rate cumulative preferred securities. Proceeds from the sale were used to
+purchase subordinated debentures of Metrocorp, which mature in the year 2031; however, the Company
+has the option to redeem them at any time after November 2006 with prior regulatory approval. The
+Company used the proceeds in the purchase of two banks (merged into Metrobank) and Community
+Insurance.
+
+The Company and Metrobank are in compliance with their capital requirements and are considered
+ well capitalized  under current regulatory guidelines. The Company does not anticipate any
+significant
+
+- 18 -
+
+Table of Contents   
+
+changes to its capital structure. The following table summarizes the regulatory capital ratios for
+the periods indicated:
+
+In November 2004, the Company announced that the Board of Directors had passed a resolution
+terminating the Company s Employee Stock Ownership Plan (ESOP) which covered substantially all
+employees of the bank. The effect of this termination was that the shares of Metrocorp stock were
+distributed to the employees in May 2005. The ESOP provided that any participant or beneficiary
+who received a distribution of Metrocorp stock from the ESOP had the right to require the Company
+to purchase such shares at their fair market value any time within 60 days of the distribution
+date. If this initial put was not exercised, an additional 60-day exercise period becomes
+available in May 2006 and begins after a new valuation of the stock has been determined and
+communicated to the participant or beneficiary. The effect of this termination was that during the
+period of May to July 2005 there were 178,209 shares  put  back to the Company at a price of $38.20
+per share (which was the price established by an independent outside appraisal) for a total
+repurchase of $6,807,584. The value of the remaining shares (144,421) that still have their second
+ put  option have been classified as mezzanine capital and as such have already been subtracted
+from the Company s capital as if they had been redeemed.
+
+The payment of dividends and repurchase of shares has the effect of reducing stockholders  equity.
+Prior to authorizing such transactions, the Board of Directors considers the effect the dividend or
+repurchase of shares would have on liquidity and capital ratios. Metrobank and the Company may
+declare dividends if certain tolerance limits are observed and which include, in the case of
+Metrobank, consideration of certain statutory and regulatory restrictions.
+
+Impact of Inflation and Changing Prices 
+
+The unaudited consolidated financial statements and notes thereto included at Part I Item 1 in
+this report have been prepared in accordance with U.S. generally accepted accounting principles,
+which require the measurement of financial position and operating results in terms of historical
+dollars without considering the change in the relative purchasing power of money over time due to
+inflation. The primary impact of inflation is reflected in the increased cost of the Company s
+operations. Unlike most industrial companies, virtually all of the assets and liabilities of the
+Company are monetary in nature. As a result, interest rates generally have a more significant
+impact on a financial institution s performance than do the effects of general levels of inflation.
+Interest rates do not necessarily move in the same direction, or to the same extent, as the prices
+of goods and services.
+
+- 19 -
+
+Table of Contents   
+
+Item 3. Quantitative and Qualitative Disclosures about Market Risk 
+
+The Company s income is dependent to a large degree on its net interest income. Net interest
+income is susceptible to interest rate risk to the degree that interest-bearing liabilities mature
+or reprice at a different time than interest-earning assets and to the degree that market interest
+rates change over that time. When interest-bearing liabilities mature or reprice more quickly than
+interest-earning assets in a given period, a significant increase in market interest rates could
+adversely affect net interest income. Conversely, when interest-earning assets mature or reprice
+more quickly than interest-bearing liabilities, falling interest rates could result in a decrease
+in net interest income. This risk is known as interest rate risk and it is the Company s primary
+market risk.
+
+The Company currently focuses lending efforts toward originating and purchasing competitively
+priced adjustable-rate and fixed-rate loan products with short to intermediate terms to maturity,
+generally 5 years or less. This theoretically allows the Company to maintain a portfolio of loans
+that will have relatively little sensitivity to changes in the level of interest rates while
+providing a reasonable spread to the cost of liabilities used to fund the loans.
+
+One objective of the Company s investment portfolio is to provide the liquidity necessary to meet
+the funding needs of the loan portfolio. The investment portfolio is also used in the ongoing
+management of changes to the Company s asset/liability mix, while contributing to profitability
+through earnings flow. The investment policy generally calls for funds to be invested among
+various categories of security types and maturities based upon the Company s needs for liquidity,
+achieving a proper balance between minimizing risk while maximizing yield, providing collateral for
+borrowings, and fulfilling the Company s asset/liability management goals.
+
+The Company s cost of funds responds to changes in interest rates due to the relatively short-term
+nature of its deposit portfolio, and due to the relatively short-term nature of a portion of its
+borrowed funds. Consequently, the results of operations are generally influenced by the level of
+short-term interest rates. The Company offers a range of maturities on its deposit products at
+competitive rates and monitors the maturities on an ongoing basis. The Company uses borrowed funds
+for both the purchase of investment securities and for day-to-day cash management.
+
+The Company emphasizes and promotes its savings, money market, demand and interest-bearing demand
+accounts and, subject to market conditions, certificates of deposit with maturities of three months
+through five years, principally in its primary market area. The savings and interest-bearing
+demand accounts tend to be less susceptible to rapid changes in interest rates.
+
+In managing its asset/liability mix, the Company, at times, depending on the relationship between
+long-term and short-term interest rates, market conditions, and consumer preference, may place
+somewhat greater emphasis on maximizing its net interest margin than on strictly matching the
+interest rate sensitivity of its assets and liabilities. Management believes the increased net
+income that may result from an acceptable mismatch in the actual maturity or repricing of its asset
+and liability portfolios can, at times, provide sufficient returns to justify the increased
+exposure to sudden and unexpected increases in interest rates that may result from such a mismatch.
+The Company has established limits, which may change from time to time, on the level of acceptable
+interest rate risk. There can be no assurance, however, that in the event of an adverse change in
+interest rates, the Company s efforts to limit interest rate risk will be successful.
+
+The Company manages its interest rate risk by maintaining an appropriate balance between interest
+sensitive assets and interest sensitive liabilities to reduce interest rate risk exposure while
+also providing liquidity to satisfy the cash flow requirements of operations and to meet customers 
+fluctuating demands for funds, in terms of loan requests and deposit withdrawals. The Company s
+asset/liability risk policy
+
+- 20 -
+
+Table of Contents   
+
+sets the necessary guidelines for managing the volume and mix of assets
+and other funding sources. In addition, the Company has established a system for monitoring its
+net interest rate sensitivity position.
+
+Interest rate risk is managed by the Company s Rate Committee (Committee), which performs
+asset/liability management at Metrobank s level in accordance with policies approved by the
+Company s Board of Directors. The Committee is comprised of the Bank s President, Controller,
+Senior Lender, Cashier, Trust Officer, Retail Manager and Marketing Officer. The Committee
+formulates strategies based on what they believe to be appropriate levels of interest rate risk.
+In determining the appropriate level of interest rate risk, the Committee considers the impact on
+earnings, capital levels and general economic conditions.
+
+The Company uses a net interest income simulation model to estimate near-term risk due to changes
+in interest rates. The model, which is updated quarterly, incorporates substantially all assets and
+liabilities together with forecasted changes in the balance sheet and assumptions that reflect the
+current interest rate environment. Balance sheet changes are based on expected prepayments of
+loans and securities. The Committee uses the model to simulate the effect of immediate and
+sustained parallel shifts in the yield curve of 100 and 200 basis points. The results from the
+simulation are normally reviewed by the Committee quarterly and are used to guide the Committee s
+asset/liability strategy. Asset/liability risk guidelines approved by the Company s Board of
+Directors generally limit the estimated decline in net interest income over the succeeding 12
+months. In the event the forecasted decline exceeds 25% of the forecasted net interest income
+given a 200 basis points change in interest rates, the Board will increase its scrutiny and may
+change its strategy, if necessary. As of December 31, 2005, the
+latest date for which information is available, the estimated effect of an immediate
+200 basis point increase in rates was a decrease in forecasted net interest income for 12 months of
+10.31%. The estimated effect of an immediate 200 basis point decrease in rates was an increase in
+forecasted net interest income for 12 months of 4.71%.
+
+The Committee has attempted to manage the Company s interest rate risk given that there has been an
+increasing rate environment for more than one year. Since June 2004, the Federal Open Market
+Committee began increasing short-term interest rates in twenty-five (25) basis point increments, to
+a more normal level, from historically low levels. Through February 1, 2006, there have been
+fourteen (14) such increases. As this happened, longer term rates moderated creating a flattening
+in the yield curve. This action is indicative of limited concern about long-term inflation at this
+time. While management does not anticipate a significant shift in market interest rates in the near
+future, it does believe that there is less risk from declining interest rates than from rising
+interest rates, and interest rate risk management has reflected this belief.
+
+Interest-earning assets and interest-bearing liabilities are those which have yields or rates which
+are subject to change within a future time period due to maturity of the instrument or changes in
+the rate environment.  GAP  refers to the difference between interest-earning assets and
+interest-bearing liabilities repricing within given time frames. As a result, major fluctuations
+in net interest income and net earnings could occur due to imbalances between the amounts of
+interest-earning assets and interest-bearing liabilities, as well as different repricing
+characteristics. GAP management seeks to protect earnings by maintaining an appropriate balance
+between interest-earning assets and interest-bearing liabilities in order to minimize fluctuations
+in the net interest margin and net earnings in periods of volatile interest rates.
+
+Item 4. Controls and Procedures 
+
+Metrocorp s principal executive officer, Gary D. Andersen, and principal financial officer, John R.
+McEvoy, Jr., evaluated the effectiveness of Metrocorp s disclosure controls and procedures as of
+January 31, 2006 ( Evaluation Date ). Based on that evaluation, they concluded that as of the
+Evaluation Date, Metrocorp s disclosure controls and procedures are effective to allow timely
+communication to
+
+- 21 -
+
+Table of Contents   
+
+them of information relating to Metrocorp and Metrobank required to be disclosed
+in its filings with the Commission under the Exchange Act. Disclosure controls and procedures are
+Company controls and other procedures that are designed to ensure that information required to be
+disclosed by the Company in the reports that it files under the Exchange Act is recorded,
+processed, summarized and reported within the time periods specified in the SEC s rules and forms.
+
+There were no changes in the Company s internal control over financial reporting that occurred
+during the period covered by this report that have materially affected, or are reasonably likely to
+materially affect, the Company s internal control over financial reporting.
+
+PART II   OTHER INFORMATION
+
+Item 1. Legal Proceedings 
+
+Metrocorp and Metrobank are periodically party to or otherwise involved in legal proceedings
+arising in the normal course of business, such as claims to enforce liens, claims involving the
+making and servicing of real property loans, and other issues incident to the banking business.
+Management does not believe that there is any pending or threatened proceeding which, if determined
+adversely, would have a material effect on Metrocorp s or Metrobank s business, results of
+operations or financial condition.
+
+Item 1A. Risk Factors 
+
+There have been no material changes from the risk factors as previously disclosed in the Company s
+Annual Report on Form 10-K for the year ended October 31, 2005. Additional information concerning
+the Company and its business, including other factors that could materially affect the Company s
+financial results, is included in the Company s filings with the Securities and Exchange
+Commission.
+
+Item 6. Exhibits 
+
+The following documents are included or incorporated by reference in this quarterly report on Form
+10-Q, and this list includes the Exhibit Index.
+
+Exhibit No. 
+       
+     Description 
+
+3.1*
+
+Articles of Incorporation of Metrocorp, as amended to date 
+
+3.2
+
+Bylaws of Metrocorp 
+
+4.1*
+
+Amended and Restated Trust Agreement among Metrocorp, Inc.,
+Wilmington
+Trust Company and the Administrators named therein dated November
+1, 2001 
+
+4.2*
+
+Subordinated Loan Agreement between Metrocorp, Inc. and Metrocorp
+Capital Trust I dated November 1, 2001 
+
+4.3*
+
+Guarantee Agreement by Metrocorp, Inc. dated November 1, 2001 
+
+4.4*
+
+Form of Trust Preferred Certificate of Metrocorp Capital Trust I 
+
+4.5*
+
+Certificate of Trust of Metrocorp Capital Trust I (Exhibit A to Exhibit 4.1
+hereto) 
+
+10.1*
+
+Form of Indemnification Agreement between Metrocorp and each director of
+Metrocorp 
+
+10.2*
+
+Form of Incentive Bonus Agreement between Metrocorp and each of Bart Ottens and other
+employees 
+
+10.3*
+
+Change of Control Severance Plan dated September 22, 2005 
+
+- 22 -
+
+Table of Contents   
+
+* 
+       
+     Previously filed with the Company s Annual Report on Form 10-K for the year ended October 31,
+2005 and incorporated herein by reference. 
+
+SIGNATURES 
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused
+this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+METROCORP, INC.  
+
+(Registrant) 
+
+Date: March 15, 2006
+
+By:
+
+/s/ Gary D. Andersen 
+
+Gary D. Andersen
+
+President 
+
+(Principal Executive Officer) 
+
+Date: March 15, 2006
+
+By:
+
+/s/ John R. McEvoy, Jr. 
+
+John R. McEvoy, Jr.
+
+Senior Vice President/Controller 
+
+(Principal Financial and Accounting Officer) 
+
+- 23 -
+
+Table of Contents   
+
+Exhibit Index 
+
+Exhibit No. 
+       
+     Description 
+
+3.1*
+
+Articles of Incorporation of Metrocorp, as amended to date 
+
+3.2
+
+Bylaws of Metrocorp 
+
+4.1*
+
+Amended and Restated Trust Agreement among Metrocorp, Inc.,
+Wilmington
+Trust Company and the Administrators named therein dated November
+1, 2001 
+
+4.2*
+
+Subordinated Loan Agreement between Metrocorp, Inc. and Metrocorp
+Capital Trust I dated November 1, 2001 
+
+4.3*
+
+Guarantee Agreement by Metrocorp, Inc. dated November 1, 2001 
+
+4.4*
+
+Form of Trust Preferred Certificate of Metrocorp Capital Trust I 
+
+4.5*
+
+Certificate of Trust of Metrocorp Capital Trust I (Exhibit A to Exhibit 4.1
+hereto) 
+
+10.1*
+
+Form of Indemnification Agreement between Metrocorp and each director of
+Metrocorp 
+
+10.2*
+
+Form of Incentive Bonus Agreement between Metrocorp and each of Gary
+Andersen, Nancy Hamilton, Julius Van Paemel, Bart Ottens and other
+employees 
+
+10.3*
+
+Change of Control Severance Plan dated September 22, 2005 
+
+10.4*
+
+Stay Bonus Plan dated November 11, 2005 
+
+10.5*
+
+Renewal of Lease Agreement between Wal-Mart Stores, Inc. and
+Metrobank, NA dated July 11, 2000 
+
+10.6*
+
+Replacement Revolving Note payable by Metrocorp to La Salle Bank, N.A.
+dated August 5, 2002, due July 24, 2008 
+
+10.7*
+
+Loan Agreement between Metrobank and La Salle Bank, NA dated
+November 1, 2001, as amended by the First Amendment to Loan Agreement
+dated November 30, 2001, and the Second Amendment to Loan Agreement
+dated August 5, 2002 
+
+14.1*
+
+Code of Ethics for Principal Executive Officers and Senior Financial Officers 
+
+14.2*
+
+Code of Business Conduct 
+
+21.1*
+
+Metrobank, NA, Community Insurance, Inc. and Metrocorp Capital Trust I
+are the only subsidiaries of the Registrant 
+
+24.1*
+
+Power of Attorney (included on the signature page) 
+
+31.1
+
+Rule 13a-14(a)/15d-14(a) Certification of Chief Executive Officer 
+
+31.2
+
+Rule 13a-14(a)/15d-14(a) Certification of Chief Financial Officer 
+
+32.1
+
+Section 1350 Certification of Chief Executive Officer 
+
+32.2
+
+Section 1350 Certification of Chief Financial Officer 
+
+99.1*
+
+Charter of the Audit Committee of Metrocorp, Inc. 
+
+* 
+       
+     Previously filed with the Company s Annual Report on Form 10-K for the year ended October 31,
+2005 and incorporated herein by reference. 
+
+<EX-3.2>
+ 2
+ d34050exv3w2.htm
+ BYLAWS
+
+exv3w2 
+
+Exhibit 3.2 
+
+BY-LAWS 
+OF 
+METROCORP, INC. 
+
+ARTICLE I 
+OFFICES
+
+SECTION 1. Principal Offices. The principal office of the Corporation in the State of Iowa
+shall be located in the City of Davenport and County of Scott. The principal office in the State of
+Illinois shall be located in the City of East Moline and County of Rock Island. The Corporation may
+have such other offices, either within or without the States of Illinois or Iowa, as the business
+of the Corporation may require from time to time.
+
+SECTION 2. Registered Office. The registered office shall be in the City of East Moline,
+County of Rock Island, State of Illinois.
+
+ARTICLE II 
+STOCKHOLDERS
+
+SECTION 1. Annual Meeting. There shall be an annual meeting of the stockholders on the third
+Monday in December of each year at one thirty o clock P.M. for the election of Directors and for
+the transaction of such other business as may come before the meeting. The place of the meeting
+shall be at the principal office of the Corporation in the State of Illinois. The Directors by a
+majority affirmative vote may designate an alternate place, date, or hour.
+
+SECTION 2. Special Meetings. A special meeting of the stockholders may be called at any time
+by the Board of Directors, and may be called upon request in writing from the holders of at least
+fifty-one percent of the capital stock specifying the purpose or purposes for which such meeting
+shall be called.
+
+SECTION 3. Notice of Meetings. Unless a different manner of giving notice is prescribed by
+statute, written or printed notice stating the place, day and hour of the meeting, and in case of a
+special meeting, the purpose or purposes for which the meeting is called, shall be delivered not
+less than ten nor more than forty days before the date of the meeting either personally or by mail,
+to each stockholder of record entitled to vote at such meeting. If mailed, such notice shall be
+deemed to be delivered when deposited in the United States mail with postage thereon prepaid
+addressed to the stockholder at the stockholder s address as it appears on the records of the
+Corporation. Whenever any notice is required to be given under the provision of the statutes or of
+the certificate of incorporation or of these By-laws, a waiver thereof in writing, signed by the
+person or persons entitled to such notice, whether before or after the time stated therein, shall
+be deemed equivalent to notice.
+
+SECTION 4. Closing of Transfer Books or Fixing of Record Date. For the purpose of determining
+stockholders entitled to notice of or to vote at any meeting of the stockholders, or stockholders
+entitled to receive payment of any dividend, or in order to make a determination of stockholders
+for any other proper purpose, the Board of Directors may provide that the stock transfer books
+shall be closed for a stated period but not to exceed, in any case, forty days. In lieu of closing
+the stock transfer books, the Board of Directors may fix in advance a date as the record date for
+any such determination of stockholders, such date in any case to be not more than forty days, and
+in case of a meeting of the stockholders, not less than ten days prior to the date on which the
+particular action, regarding such determination of stockholders, is to be taken. If the stock
+transfer books are not closed and no record date is fixed for the determination of stockholders
+entitled to notice of or to vote at a meeting of
+
+- 1 -
+
+the stockholders, or stockholders entitled to receive payment of a dividend, the date on which
+notice of a meeting is mailed or the date on which the resolution of the Board of Directors
+declaring such dividend is adopted, as the case may be, shall be the record date of such
+determination of stockholders.
+
+SECTION 5. Inspectors of Election. Inspectors of Election shall be appointed by the Board of
+Directors or the Executive Committee to act at any meeting of stockholders at which any election is
+held. The Inspectors of Election shall examine proxies, pass upon their regularity, receive the
+votes and act as tellers, or perform any other duties which the stockholders may require of them at
+said meeting.
+
+SECTION 6. Quorum. A majority of the outstanding shares, represented in person or by proxy,
+shall constitute a quorum at a meeting of the stockholders. In the absence of a quorum, a meeting
+may be adjourned from time to time without notice to the stockholders. Unless otherwise provided by
+law, a majority of the votes cast shall decide every matter submitted to the stockholders at any
+meeting.
+
+SECTION 7. Voting Rights. Each outstanding share shall be entitled to one vote on each matter
+submitted to a vote at a meeting of the stockholders. In all elections for Directors every
+stockholder shall have the right to vote, in person or by proxy, for the number of shares of stock
+owned by the stockholder, for as many persons as there are Directors to be elected.
+
+SECTION 8. Proxies. At all meetings of stockholders, a stockholder may vote either in person
+or by proxy executed in writing by the stockholder or by the stockholder s duly authorized
+attorney-in-fact. Such proxy shall be filed with the Secretary before or at the time of the
+meeting. No proxy shall be valid after three years from the date of its execution, unless otherwise
+provided in the proxy.
+
+ARTICLE III 
+DIRECTORS
+
+SECTION 1. General Powers. The business and affairs of the Corporation shall be managed by its
+Board of Directors.
+
+SECTION 2. Number, Tenure and Qualifications. The Board of Directors of the Corporation shall
+consist of such number of Directors, not less than five (5) nor more than twenty-five (25), as
+shall be fixed from time to time by the Directors or the stockholders in accordance with the
+provisions of the general corporate laws of the State of Illinois and the Certificate of
+Incorporation. The number of Directors which shall constitute the whole Board shall be six upon
+adoption of these By-laws. Each Director shall own free of any lien or encumbrance the number of
+shares of the capital stock required by law.
+
+SECTION 3. Regular Meetings. A regular meeting of the Board of Directors shall be held at
+least once each month at such place, date and hour as the Board may appoint. In the absence of a
+specific resolution setting an alternative place, date, or hour, the regular meeting of the Board
+of Directors shall be held without notice at two-thirty o clock P.M. on the third Monday of each
+month at the principal office of the Corporation in the State of Illinois. If an alternative place,
+date or hour is appointed, then and only then shall notice be given to the Directors which may be
+given by telephone, fax, or orally. Whenever any notice is required to be given to Directors under
+the provisions of law, the Certificate of Incorporation, or these By-laws, a written waiver signed
+by the Director whether before or after the time stated herein, shall be deemed equivalent to
+notice.
+
+SECTION 4. Special Meetings. Special meetings of the Board of Directors may be called by or at
+the request of the Chairman of the Board or any two Directors. The person or person requesting such
+meeting may fix the time and place thereof. Notice of any special meeting shall be mailed to or
+left for the Directors at their offices or homes, or delivered or given in person at least
+twenty-four hours prior to the
+
+- 2 -
+
+meeting. Whenever any notice is required to be given to Directors under the provisions of law,
+the Certificate of Incorporation, or these By-laws, a written waiver signed by the Director whether
+before or after the time stated herein, shall be deemed equivalent to notice.
+
+SECTION 5. Quorum. A majority of the Board of Directors shall constitute a quorum for the
+transaction of business at any meeting of the Board of Directors, provided that if less than a
+majority of the Directors are present at said meeting, a majority of the Directors present may
+adjourn the meeting from time to time without further notice.
+
+SECTION 6. Manner of Acting. The act of the majority of the Directors present at a meeting at
+which a quorum is present shall be the act of the Board of Directors, except on additions,
+amendments, repeal or any changes whatsoever in the By-laws or the adoption of new By-laws, when
+the affirmative votes of at least a majority of the members of the Board shall be necessary for the
+adoption of such changes. On any question, the Chairman of the Board may call for voice vote,
+acclamation, show of hands, or written ballot. Directors shall not vote by secret ballot. Any
+Director, including the Chairman of the Board, may order that a vote be taken by yeas and nays, in
+which case the Secretary shall call the roll, and record the answer of each Director individually.
+
+SECTION 7. Directors  Compensation. The Directors shall receive such compensation as may be
+fixed by the Board for attendance at meetings of the Board or for service on any Committee of the
+Board.
+
+SECTION 8. Vacancies. If a vacancy occurs on the Board of Directors, including a vacancy
+resulting from an increase in the number of Directors, the vacancy may be filled by the
+stockholders, a majority of the Board of Directors remaining in office, or, if the Directors
+remaining in office constitute fewer than a quorum, by an affirmative vote of a majority of all the
+Directors remaining in office.
+
+SECTION 9. Honorary Directors. There is hereby created the office of Honorary Member of the
+Board of Directors. An Honorary Director shall be nominated by the Chairman of the Board of
+Directors or by any member of the Board and shall be elected by a majority of the Board of
+Directors at any regular or special meeting for a period of one year from such election. Honorary
+Directors may attend any special or regular meeting of the Board, but shall receive no remuneration
+therefore. Honorary Directors shall be allowed to speak on all matters brought before the Board and
+shall give advice and recommendations to the Board as requested. Honorary Directors shall have no
+power to vote or to be counted as present for the purpose of a quorum. Honorary Directors shall be
+elected by the Board of Directors by reason of past distinguished service to the Board, the
+Corporation, or the community, or other reasons determined by the Board. Any listing of Honorary
+Directors shall indicate their status as Honorary Directors.
+
+ARTICLE IV 
+STANDING COMMITTEES
+
+SECTION 1. Executive Committee. The Chairman of the Board shall at the annual organizational
+meeting held after the annual stockholders meeting, appoint two Directors who, with the Chairman of
+the Board and the President, shall constitute and be called the Executive Committee. In case of the
+absence or inability to act of either the Chairman of the Board or the President, a Vice-President
+shall act as a member of the Executive Committee. Each Director so appointed shall act as a member
+of the Committee until another is appointed and acts in that Director s place. The Chairman of the
+Board shall preside at all meetings of the Committee, and in case any member or members of the
+Executive Committee are unable to be present at any meeting, the Chairman of the Board or the
+remaining members or member of the Executive Committee, or such of said members as are present, may
+appoint another Director or another Directors to act temporarily in place of such absent member or
+members. In case of the absence or inability to act of the Chairman of the Board to act as the
+Chairman of the Executive Committee, the duties and powers given to the Chairman in this Article
+shall vest in the President. Three members of the
+
+- 3 -
+
+Executive Committee shall constitute a quorum for the transaction of business. The Executive
+Committee may, while the Board of Directors is not in session, exercise all or any such of the
+powers of the Board of Directors as the Board may lawfully delegate. The Executive Committee shall,
+at all times be subject to call of the Chairman of the Board or any member of the committee, and
+will otherwise meet as needed. The Executive Committee shall report all its actions at the next
+regular meeting of the Board of Directors.
+
+SECTION 2. Audit Committee. An Audit Committee, consisting of two outside Directors who are
+not also on any banking Trust Committee shall be appointed each year by the Chairman of the Board
+or the Executive Committee for the purpose of reviewing the Corporation s internal auditing
+program, the scope of the work being done by certified public accountants and reports of
+examinations by supervising authorities. The Committee may report to the Board of Directors, in
+writing, the results of their review.
+
+SECTION 3. Other Committees. The Chairman of the Board may appoint from time to time other
+committees of Directors for such purposes and with such powers as the Board may determine.
+
+ARTICLE V 
+THE OFFICERS
+
+SECTION 1. Number and Term of Office. The officers of the Corporation shall be a Chairman of
+the Board, and a President, each of whom shall be a Director, one or more Vice Presidents, a
+Secretary, an Auditor, and such other officers as may from time to time be appointed by the Board
+of Directors. Any two or more offices may be held by the same person, except the President and the
+Secretary. The officers of the Corporation shall be elected or appointed annually by the Board of
+Directors at the first meeting of the Board of Directors held after each annual meeting of
+stockholders. Vacancies or new offices may be filled at any time. Each officer shall hold office
+until a successor shall have been duly elected or appointed or until that officer s death or until
+the officer shall resign or shall have been removed by the Board of Directors.
+
+SECTION 2. Removal. Any officer may be removed by the Board of Directors whenever in its
+judgment the best interests of the Corporation would be served thereby.
+
+SECTION 3. Chairman of the Board. The Chairman of the Board shall preside at all meetings of
+the Board and at all meetings of the Executive Committee and at all meetings of the stockholders.
+
+SECTION 4. President. The President shall be the Chief Executive Officer of the Corporation.
+In the absence of the Chairman of the Board, the President shall preside at all meetings of the
+Board or Executive Committee, and also shall preside at all meetings of the stockholders. The
+President shall have the power and shall exercise the duties pertaining generally to the office of
+the President, including those conferred or imposed by statute and shall be the general supervisor
+of the affairs and business of the Corporation and the management thereof subject to the direction
+of the Board of Directors or of the Executive Committee. In all cases where the duties of the other
+executive officers are not prescribed by statute, in these By-laws or by resolution of the
+Directors, they shall be performed under the orders and instructions of the President. The
+President shall perform the duties of a treasurer, shall have the custody of the corporate funds
+and securities, shall keep full and accurate accounts of receipts and disbursements in books
+belonging to the corporation and shall deposit all moneys and other valuable effects in the name
+and to the credit of the corporation in such depositories as may be designated by the Board of
+Directors.
+
+In the case of the death, absence, or other inability to act of the President, all of the
+President s powers and duties of all kinds under these By-laws and under the laws under which the
+Corporation is created may be vested in and discharged by any officer as designated by the Board of
+Directors, and in performing, in the absence or during the disability of the President, any of the
+duties imposed by the laws
+
+- 4 -
+
+under which this Corporation is organized, such officer shall sign as President and, for such
+purposes, shall actually be the President of this Corporation.
+
+SECTION 5. Loans, Purchases and Sales of Property. The President, or any Vice President or any
+other officer granted lending authority by the Board of Directors, is authorized and empowered to
+make discounts and loans, grant acceptance credits, execute commercial acceptances; is authorized
+and empowered to purchase any drafts, acceptances, notes, stocks, bonds or other securities, or any
+real or personal property, with the funds of the Corporation or funds held by the Corporation in
+any fiduciary capacity or otherwise, and is further authorized and empowered to sell, exchange,
+transfer or dispose of any of the same whether held by the Corporation in an investment, fiduciary
+or other capacity or transferred to or held by the Corporation by way of collateral security or any
+debt or loan; and the officer may in that officer s discretion execute and acknowledge all proper
+and necessary instruments and papers in connection with any of the foregoing within such limits, if
+any, as may be set out by the Board. The Secretary or other officer designated by the President
+from time to time in writing, is authorized to exercise any of the above powers and perform any of
+the above functions within such limits, if any, as may be set out in such Executive Instructions.
+
+SECTION 6. Borrowing. The President and any Vice President or any two Vice Presidents shall
+have authority to borrow money and to pledge or hypothecate any securities or any stocks, bonds,
+notes or any property, real or personal, belonging to the Corporation, or rediscount any notes or
+obligations belonging to the Corporation, whenever in their judgment it is necessary so to do, and
+to indorse or guarantee in its name any notes or obligations payable to or belonging to the
+Corporation, or to execute in its name and acknowledge any instrument or instruments, assignment or
+assignments, of any bonds, certificates of stock, or any property, real or personal, belonging to
+the Corporation required for such purpose or purposes.
+
+SECTION 7. Other Corporate Acts. The President or any Vice President or any other officer is
+authorized, in that officer s discretion, to do or perform any and all corporate and official acts
+in carrying on the business of the Corporation, either of its own or when acting in any fiduciary
+capacity whatsoever, and he is hereby empowered, in that officer s discretion, to appoint all
+necessary agents and attorneys, also to make, execute and acknowledge all deeds, mortgages,
+releases, leases, agreements, proxies, contracts, bills of sale, mortgage, lease, assignment,
+transfer, management or handling in any way of any property of any description held or controlled
+by the Corporation, either in its own right or in any fiduciary capacity, and either the Secretary
+or any Vice President is authorized to attest and affix the corporate seal to any and all
+instruments in writing requiring such attestation or which are executed under seal. The enumeration
+of particular powers to this By-law shall not restrict or be taken to restrict in any way the
+general powers and authority herein given to said officers or any of them.
+
+SECTION 8. Receipt of Property. The President or any Vice President or any other officer shall
+have the power to receive the principal, interest and dividends on all United States and other
+bonds and stocks and on all other corporate and other securities owned by the Corporation, or held
+by it in trust or as agent, or in any other fiduciary capacity, and to receipt for the same if
+required.
+
+SECTION 9. Other Authorities. The President or any Vice President or any other officer shall
+have authority to sign checks, drafts, certifications, receipts and orders for the payment money,
+receipts for securities and orders for the delivery of securities; to endorse notes, bills, checks,
+drafts, certificates of deposit and acceptances, in all the business transactions of the
+Corporation.
+
+SECTION 10. The Secretary. The Secretary shall have the custody of the corporate seal and the
+Secretary shall affix the same to all instruments or papers requiring the seal of the Corporation.
+The Secretary shall see that proper notices are sent of the meetings of the stockholders, the Board
+of Directors and the Executive Committee, and shall see that all proper notices are given, as
+required by these By-
+
+- 5 -
+
+laws. The Secretary shall keep the minutes of all meetings of stockholders and Directors and
+all committees which may request their services.
+
+In case of the death, absence or other inability to act of the Secretary, all the Secretary s
+powers and duties of all kinds under these By-laws and under the laws under which the Corporation
+is created shall be vested in and discharged by any one of the Vice Presidents until the Board of
+Directors designates a new Secretary, and, in performing in the absence or during the disability of
+the Secretary, any of the duties imposed by the laws under which this Corporation is organized, any
+other officer except for the President shall sign as Secretary and, for such purposes, shall
+actually be the Secretary of this Corporation.
+
+SECTION 11. The Auditor. The Auditor and Assistant Auditors shall make examinations from time
+to time of all the affairs, books, accounts, statements, money, securities and assets owned by the
+Corporation, or held by it in any fiduciary capacity, reporting in writing the results of the
+examination to the Board of Directors at its next meeting. Should the Auditors in their examination
+find any irregularities in any of the books, accounts, statements, monies, securities, assets or
+affairs of the Corporation, either in its individual or in any fiduciary capacity, they shall at
+once report the same in writing to the Chairman of the Board, to the President, and to the Board of
+Directors at its next meeting.
+
+SECTION 12. Releases. The President or any Vice President or any other officer is authorized
+to sign the corporate name to all releases and satisfactions of trust deeds and mortgages under
+which the Corporation is acting as a fiduciary or Mortgagee and either the Secretary or any other
+officer is authorized to attest the signature of the officer so signing and to affix the corporate
+seal to said instrument; and all releases deeds and satisfactions of mortgages so signed, sealed
+and attested shall be valid instruments of the Corporation.
+
+SECTION 13. Additional Authorizations. The Board of Directors may authorize any officer or
+employee to exercise any of the powers or to perform any of the functions specified in Sections 5
+to 12, both inclusive, of this Article within such limits, if any, as may be set forth in the
+authorizing resolution.
+
+SECTION 14. Fidelity Bonds. Satisfactory bonds covering each officer and employee of the
+Corporation for the faithful discharge of their respective duties shall be carried at all times.
+
+SECTION 15. Required Vacations. At least once in every year of employment, each officer and
+employee shall be required to be absent from the Corporation for a period of not less than ten
+consecutive business days, provided they are entitled to at least ten days paid vacation.
+
+ARTICLE VI 
+INDEMNIFICATION
+
+SECTION 1. Indemnification. The Corporation shall indemnify all persons made parties to any
+action, suit or proceeding, civil or criminal, by reason of the fact that they are or were either
+Directors, officers or employees of the Corporation or of any corporation, partnership, joint
+venture, trust or other enterprise which they served in such capacities at the request of the
+Corporation. Such persons shall be indemnified against judgments, fines, and other liabilities
+(including amounts paid in settlement) sustained as a result of, and reasonable expenses (including
+attorneys  fees) incurred in connection with, the defense or the compromise or settlement of any
+such action, suit or proceeding, or in connection with the appeal thereof, subject to the
+limitations set forth in this Article.
+
+SECTION 2. Limitations. An indemnification under this Article shall be limited under the
+following circumstances:
+
+- 6 -
+
+(i) In the event of a final adjudication of such action, suit or proceeding, such person shall
+not be indemnified with respect to any matter as to which they have been adjudged liable for gross
+negligence or knowing and intentional misconduct in the performance of their duties to the
+Corporation.
+
+(ii) In the event that such action, suit or proceeding is compromised or settled before final
+adjudication thereof, such persons shall not be indemnified unless there shall be a Qualified
+Determination that they acted without gross negligence and that their actions did not constitute
+knowing and intentional misconduct in the performance of their duties to the Corporation.
+
+(iii) Such persons shall not be indemnified for any amounts incurred in any administrative
+proceeding or action instituted by an appropriate Corporation regulatory agency which resulted in a
+final order assessing civil money penalties or requiring affirmative action by such person or
+persons in the form of payments to the Corporation, or whenever such indemnification is otherwise
+prohibited by the general corporate laws of the State of Illinois, appropriate Corporation
+regulatory agency regulations, or other applicable law.
+
+SECTION 3. Exception. A judgment or conviction in a criminal action, suit or proceeding or
+termination of such proceeding by a plea of nolo contendere or its equivalent shall not be deemed
+an adjudication that the Director, officer, or employee is liable for gross negligence or knowing
+and intentional misconduct in the performance of their duties to the Corporation if there is a
+Qualified Determination that the action complained of on the part of the Director, officer, or
+employee was taken in good faith in what they considered to be in the best interests of the
+Corporation and on the reasonable assumption of its legality.
+
+SECTION 4. Expense Advances. Expenses incurred by persons who may have a right of
+indemnification under this Article in defending a civil or criminal action, suit or proceeding may
+be paid by the Corporation in advance of the final disposition of such action, suit or proceeding,
+if authorized in the sole discretion of the Board of Directors by a majority vote, upon receipt of
+a written undertaking on behalf of such persons to repay such amounts, unless it is ultimately
+determined that they are entitled to be indemnified by the Corporation pursuant to a Qualified
+Determination.
+
+SECTION 5. Qualified Determination Defined. As used in this Article, the words  Qualified
+Determination  means that the matter in question shall be determined either:
+
+(i) by a court order, or
+
+(ii) by a majority vote of the Directors who are not parties to such action, suit or
+proceeding, even though less than a quorum, or
+
+(iii) if there are no such Directors or if such disinterested Directors so direct, by
+independent legal counsel in a written opinion, or
+
+(iv) by vote of the majority of the stockholders.
+
+SECTION 6. Insurance. The Corporation may purchase and maintain insurance on behalf of any
+persons who are or were Directors, officers, or employees of the Corporation or are or were serving
+at the request of the Corporation as a Director, officer, or employee of another corporation,
+partnership, joint venture, trust or other enterprise, against any liability asserted against such
+persons and incurred by them in any such capacity or arising out of their status as such, whether
+or not the Corporation would have the power to indemnify them against such liability under the
+provisions of this Article or applicable state or federal laws.
+
+- 7 -
+
+SECTION 7. Unimpaired Rights. The foregoing rights of indemnification shall not be exclusive
+of any other rights which any Director, officer, or employee may have as a matter of law. The
+foregoing rights of indemnification shall, in the case of the death of a Director, officer, or
+employee inure to the benefit of the decedent s estate.
+
+ARTICLE VII 
+CAPITAL STOCK
+
+SECTION 1. Certificates of Stock. The certificates of stock of the Corporation shall be
+numbered as they are issued, shall exhibit the owner s name and the number of shares, and shall be
+signed by either the Chairman of the Board or the President or any Vice President, together with
+either the Secretary or an additional Vice President, and shall bear the corporate seal. Transfers
+of stock shall be made only on the books of the Corporation either by the holder in person or by
+duly authorized attorney; and the possession of a certificate of stock shall not be regarded as
+vesting any ownership of the same in any other than the person in whose name it is issued (as
+between the Corporation and such other holder) until the transfer is duly made on the books of the
+Corporation, as aforesaid. The Secretary, or in the Secretary s absence any officer designated by
+the President, shall see that proper certificates showing the transfers of the Capital Stock of the
+Corporation, as they are made on the books of the Corporation, are executed and filed as required
+by law.
+
+SECTION 2. Surrender of Certificates. Books for the entry and transfer of the stock of the
+Corporation shall be in charge of the Secretary or any officer designated by the President and no
+transfer shall be made, and no certificates issued, except after the surrender and cancellation of
+the certificate or certificates, previously issued therefore, or proof of their loss, as provided
+in Section 3.
+
+SECTION 3. Lost Certificates. If any person requests that a certificate of stock of the
+Corporation be issued in place of one lost or destroyed, the person shall make an affidavit of the
+fact, and in it state the circumstances of the loss or destruction of said certificate, and the
+person shall transmit to the Corporation an affidavit, and shall give to the Corporation and to the
+registrar, if required by either, a satisfactory bond of indemnity, with one or more sureties,
+against any damage that may arise from issuing a new certificate in place of that said to have been
+lost or destroyed.
+
+ARTICLE VIII 
+FISCAL YEAR
+
+SECTION 1. Fiscal Year. The fiscal year of the Corporation shall begin on the first day of
+November and close on the last day of October.
+
+ARTICLE IX 
+APPLICABLE LAW
+
+SECTION 1. Effective Date. Upon adoption by the Board of Directors, these Bylaws shall
+supersede all prior By-laws, amendments, and resolutions relating to the matters governed by the
+Articles herein set forth.
+
+ARTICLE X 
+AMENDMENTS
+
+SECTION 1. Amendments. These By-laws may be altered, amended or repealed and new By-laws may
+be adopted at any regular or special meeting of the Board of Directors by the affirmative vote of a
+majority of the members of the Board.
+
+- 8 -
+
+</EX-3.2>
+
+<EX-31.1>
+ 3
+ d34050exv31w1.htm
+ RULE 13A-14(A)/15D-14(A) CERTIFICATION OF CEO
+
+exv31w1 
+
+Exhibit 31.1 
+
+Certification Pursuant to Rule 13a-14(a)/15d-14(a) of the Securities Exchange Act of 1934, as
+Amended 
+
+I, Gary D. Andersen, certify that:
+
+1. 
+       
+     I have reviewed this quarterly report on Form 10-Q of Metrocorp, Inc.; 
+
+2. 
+       
+     Based on my knowledge, this quarterly report does not contain any untrue statement of a
+material fact or omit to state a material fact necessary to make the statements made, in
+light of the circumstances under which such statements were made, not misleading with
+respect to the period covered by this quarterly report; 
+
+3. 
+       
+     Based on my knowledge, the financial statements, and other financial information
+included in this quarterly report, fairly present in all material respects the financial
+condition, results of operations and cash flows of the registrant as of, and for, the
+periods presented in this quarterly report; 
+
+4. 
+       
+     The registrant s other certifying officer and I are responsible for establishing and
+maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e)
+and 15d-15(e)) for the registrant and we have: 
+
+a. 
+       
+     Designed such disclosure controls and procedures, or caused such
+disclosure controls and procedures to be designed under our supervision, to ensure
+that material information relating to the registrant, including its consolidated
+subsidiaries, is made known to us by others within those entities, particularly
+during the period in which this quarterly report is being prepared; 
+
+b. 
+       
+     Evaluated the effectiveness of the registrant s disclosure controls and
+procedures and presented in this report our conclusions about the effectiveness of
+the disclosure controls and procedures, as of the end of the period covered by this
+report based on such evaluation; and 
+
+c. 
+       
+     Disclosed in this report any change in the registrant s internal
+control over financial reporting that occurred during the registrant s most recent
+fiscal quarter that has materially affected, or is reasonably likely to materially
+affect, the registrant s internal control over financial reporting. 
+
+</EX-31.1>
+
+<EX-31.2>
+ 4
+ d34050exv31w2.htm
+ RULE 13A-14(A)/15D-14(A) CERTIFICATION OF CFO
+
+exv31w2 
+
+Exhibit 31.2 
+
+Certification Pursuant to Rule 13a-14(a)/15d-14(a) of the Securities Exchange Act of 1934, as
+Amended 
+
+I, John R. McEvoy, Jr., certify that:
+
+1. 
+       
+     I have reviewed this quarterly report on Form 10-Q of Metrocorp, Inc.; 
+
+2. 
+       
+     Based on my knowledge, this quarterly report does not contain any untrue statement of a
+material fact or omit to state a material fact necessary to make the statements made, in
+light of the circumstances under which such statements were made, not misleading with
+respect to the period covered by this quarterly report; 
+
+3. 
+       
+     Based on my knowledge, the financial statements, and other financial information
+included in this quarterly report, fairly present in all material respects the financial
+condition, results of operations and cash flows of the registrant as of, and for, the
+periods presented in this quarterly report; 
+
+4. 
+       
+     The registrant s other certifying officer and I are responsible for establishing and
+maintaining disclosure controls and procedures (as defined in Exchange Act Rules 13a-15(e)
+and 15d-15(e)) for the registrant and we have: 
+
+a. 
+       
+     Designed such disclosure controls and procedures, or caused such
+disclosure controls and procedures to be designed under our supervision, to ensure
+that material information relating to the registrant, including its consolidated
+subsidiaries, is made known to us by others within those entities, particularly
+during the period in which this quarterly report is being prepared; 
+
+b. 
+       
+     Evaluated the effectiveness of the registrant s disclosure controls and
+procedures and presented in this report our conclusions about the effectiveness of
+the disclosure controls and procedures, as of the end of the period covered by this
+report based on such evaluation; and 
+
+c. 
+       
+     Disclosed in this report any change in the registrant s internal
+control over financial reporting that occurred during the registrant s most recent
+fiscal quarter that has materially affected, or is reasonably likely to materially
+affect, the registrant s internal control over financial reporting. 
+
+Date: March 15, 2006  
+     /s/ John R. McEvoy, Jr.
+
+John R. McEvoy, Jr.  
+
+Senior Vice President/Controller  
+
+</EX-31.2>
+
+<EX-32.1>
+ 5
+ d34050exv32w1.htm
+ SECTION 1350 CERTIFICATION OF CEO
+
+exv32w1 
+
+Exhibit 32.1 
+
+Certification Pursuant to 18 U.S.C. Section 1350.
+
+In connection with the Quarterly Report of Metrocorp, Inc. (the  Company ) on Form 10-Q for the
+period ending January 31, 2006 as filed with the Securities and Exchange Commission on the date
+hereof (the  Report ), I, Gary D. Andersen, President of the Company, certify, pursuant to 18
+U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that:
+
+(1) 
+       
+     The Report fully complies with the requirements of section 13(a) or 15(d) of
+the Securities Exchange Act of 1934; and 
+
+(2) 
+       
+     The information contained in the Report fairly presents, in all material
+respects, the financial condition and results of operations of the Company. 
+
+/s/ Gary D. Andersen
+
+Gary D. Andersen  
+
+President  
+
+A signed original of this written statement required by Section 906 has been provided to Metrocorp,
+Inc. and will be retained by Metrocorp, Inc. and furnished to the Securities and Exchange
+Commission or its staff upon request.
+
+</EX-32.1>
+
+<EX-32.2>
+ 6
+ d34050exv32w2.htm
+ SECTION 1350 CERTIFICATION OF CFO
+
+exv32w2 
+
+Exhibit 32.2 
+
+Certification Pursuant to 18 U.S.C. Section 1350.
+
+In connection with the Quarterly Report of Metrocorp, Inc. (the  Company ) on Form 10-Q for the
+period ending January 31, 2006 as filed with the Securities and Exchange Commission on the date
+hereof (the  Report ), I, John R. McEvoy, Jr., Senior Vice President/Controller of the Company,
+certify, pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the
+Sarbanes-Oxley Act of 2002, that:
+
+(1) 
+       
+     The Report fully complies with the requirements of section 13(a) or 15(d) of
+the Securities Exchange Act of 1934; and 
+
+(2) 
+       
+     The information contained in the Report fairly presents, in all material
+respects, the financial condition and results of operations of the Company. 
+
+/s/ John R. McEvoy, Jr.
+
+John R. McEvoy, Jr.  
+
+Senior Vice President/Controller  
+
+A signed original of this written statement required by Section 906 has been provided to Metrocorp,
+Inc. and will be retained by Metrocorp, Inc. and furnished to the Securities and Exchange
+Commission or its staff upon request.
+
+</EX-32.2>
+

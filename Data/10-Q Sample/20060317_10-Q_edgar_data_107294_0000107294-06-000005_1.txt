@@ -1,0 +1,1629 @@
+<Header>
+<FileStats>
+    <FileName>20060317_10-Q_edgar_data_107294_0000107294-06-000005_1.txt</FileName>
+    <GrossFileSize>81705</GrossFileSize>
+    <NetFileSize>80268</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>259</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>0</N_Tables>
+    <N_Exhibits>4</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000107294-06-000005.hdr.sgml : 20060317
+<ACCEPTANCE-DATETIME>20060317164129
+ACCESSION NUMBER:		0000107294-06-000005
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20060131
+FILED AS OF DATE:		20060317
+DATE AS OF CHANGE:		20060317
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WILLIAMS INDUSTRIES INC
+		CENTRAL INDEX KEY:			0000107294
+		STANDARD INDUSTRIAL CLASSIFICATION:	FABRICATED STRUCTURAL METAL PRODUCTS [3440]
+		IRS NUMBER:				540899518
+		STATE OF INCORPORATION:			VA
+		FISCAL YEAR END:			0731
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-08190
+		FILM NUMBER:		06696442
+
+	BUSINESS ADDRESS:	
+		STREET 1:		8624 JD READING DR
+		CITY:			MANASSAS
+		STATE:			VA
+		ZIP:			20109
+		BUSINESS PHONE:		703357800
+
+	MAIL ADDRESS:	
+		STREET 1:		PO BOX 1770
+		CITY:			MANASSAS
+		STATE:			VA
+		ZIP:			20108
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Jykp3Eh00CiVcR/I8F5xkllYTYKgI7rY3dv9jJ2z2ZRk62QIsjCTlCewWt3+X9ic
+ k5F+QZTPtYtTn/H4lMJMBA==
+
+ 0000107294-06-000005.txt : 20060317
+
+10-Q
+ 1
+ wq131061.txt
+ 
+                       UNITED STATES
+             SECURITIES AND EXCHANGE COMMISSION
+                   WASHINGTON, DC 20549
+
+                          FORM 10Q
+
+     Quarterly Report Under Section 13 or 15(d) of
+          the Securities Exchange Act of 1934
+
+      For Quarter Ended             January 31, 2006
+
+     Commission File No.                  0-8190
+
+            WILLIAMS INDUSTRIES, INCORPORATED
+  (Exact name of registrant as specified in its charter)
+
+             Virginia                   54-0899518
+   (State or other jurisdiction of     (IRS Employer
+    incorporation or organization)    Identification No.)
+
+      8624 J.D. Reading Drive, Manassas, Virginia 20109
+          (Address of principal executive offices)
+
+            P.O. Box 1770, Manassas, VA 20108
+       (Mailing address of principal executive offices)
+
+                      (703) 335-7800
+    (Registrant's telephone number, including area code)
+
+                      Not Applicable
+  (Former names, former addresses and former fiscal year,
+             if changed since last report)
+
+Indicate by check mark whether the registrant (1) has filed all
+reports required to be filed by Section 13 or 15(d) of the
+Securities Exchange Act of 1934 during the preceding 12 months
+(or for such shorter period that the registrant was required to
+file such reports) and (2) has been subject to such filing
+requirements for the past 90 days.
+
+               YES  X           NO
+
+Indicate by check mark whether the registrant is an accelerated
+filer (as defined in Rule 126-2 of the Exchange Act).
+
+               YES              NO  X
+
+At January 31, 2006, the Registrant had outstanding 3,653,400 shares of
+Common Stock.
+
+             WILLIAMS INDUSTRIES, INCORPORATED
+                        FORM 10-Q
+         FOR THE QUARTER ENDED January 31, 2006
+                  TABLE OF CONTENTS
+
+PART I - FINANCIAL INFORMATION                           PAGE
+ITEM 1.  FINANCIAL STATEMENTS
+
+     Condensed Consolidated Balance Sheets - January 31,
+          2006 and July 31, 2005 (Unaudited)               1
+
+     Condensed Consolidated Statements of Operations -
+          Three and six months ended January 31, 2006
+            and 2005 (Unaudited)                           2
+
+Condensed Consolidated Statements of Cash Flows -
+          Six months ended January 31, 2006 and 2005
+          (Unaudited)                                      3
+
+     Notes to Condensed Consolidated Financial Statements
+          (Unaudited)                                      4
+
+ITEM 2.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+         FINANCIAL CONDITION AND RESULTS OF OPERATIONS    14
+
+ITEM 3.  QUANTITATIVE AND QUALITATIVE DISCLOSURES
+         ABOUT MARKET RISKS                               20
+
+ITEM 4.  CONTROLS AND PROCEDURES                          20
+
+PART II - OTHER INFORMATION
+
+ITEM 1.  LEGAL PROCEEDINGS                                22
+
+ITEM 2.  CHANGES IN SECURITIES AND USE OF PROCEEDS        24
+
+ITEM 3.  DEFAULTS UPON SENIOR SECURITIES                  24
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF
+         SECURITY HOLDERS                                 25
+
+ITEM 5.  OTHER INFORMATION                                26
+
+ITEM 6.  EXHIBITS AND REPORTS ON FORM 8-K                 26
+
+CERTIFICATIONS AND SIGNATURES                             27
+
+WILLIAMS INDUSTRIES, INCORPORATED
+                   CONDENSED CONSOLIDATED BALANCE SHEETS
+               (Unaudited - in thousands except share data)
+
+                                   ASSETS
+                                  --------
+                                                January 31,    July 31,
+                                                   2006          2005
+                                                -----------   ----------
+     CURRENT ASSETS
+     Cash and cash equivalents                    $   557      $   764
+     Accounts receivable, net                      13,917       14,432
+     Inventory                                      2,019        5,251
+     Costs and estimated earnings in excess
+          of billings on uncompleted contracts      3,184        1,517
+     Prepaid and other assets                       2,380        1,834
+                                                -----------   ----------
+                   Total current assets            22,057       23,798
+                                                -----------   ----------
+     PROPERTY AND EQUIPMENT, AT COST               23,139       25,091
+           Accumulated depreciation               (13,976)     (13,486)
+                                                -----------   ----------
+                    Property and equipment, net     9,163       11,605
+                                                -----------   ----------
+     OTHER ASSETS                                     240          133
+                                                -----------   ----------
+     TOTAL ASSETS                                $ 31,460     $ 35,536
+                                                ===========   ==========
+
+                     LIABILITIES AND STOCKHOLDERS' EQUITY
+                     ------------------------------------
+     CURRENT LIABILITIES
+     Current portion of notes payable            $  9,964     $  9,760
+     Accounts payable                               7,336        8,388
+     Billings in excess of costs and estimated
+             earnings on uncompleted contracts      2,630        6,343
+     Deferred income                                 -               9
+     Financing obligation resulting from sale-
+       leaseback transaction                          319         -
+     Other liabilities                              2,280        2,474
+                                                -----------   ----------
+                      Total current liabilities    22,529       26,974
+
+     LONG-TERM LIABILITIES
+     Notes payable, less current portion            1,087        3,512
+     Financing obligation resulting from sale-
+       leaseback transaction                        2,750         -
+                                                -----------   ----------
+                      Total Liabilities            26,366       30,486
+                                                -----------   ----------
+     MINORITY INTERESTS                               184          172
+                                                -----------   ----------
+     COMMITMENTS AND CONTINGENCIES
+
+     STOCKHOLDERS' EQUITY
+     Common stock -3,653,400 and 3,649,535
+       shares issued and outstanding                  365          365
+     Additional paid-in capital                    16,608       16,594
+     Accumulated deficit                          (12,063)     (12,081)
+                                                -----------   ----------
+          Total stockholders' equity                4,910        4,878
+                                                -----------   ----------
+     TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY  $ 31,460     $ 35,536
+                                                ===========   ==========
+
+          See Notes To Condensed Consolidated Financial Statements.
+
+                                    1
+
+                  WILLIAMS INDUSTRIES, INCORPORATED
+          CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+                               (Unaudited)
+($000 omitted)
+                                  Three Months Ended      Six Months Ended
+                                      January 31,             January 31,
+                                    2006       2005        2006       2005
+REVENUE                          ---------  ---------   ---------  ---------
+    Construction                 $  3,699   $  4,454    $  7,407   $  9,543
+    Manufacturing                   7,400      8,003      15,739     15,376
+    Other                              50         69         107        137
+                                 ---------  ---------   ---------  ---------
+         Total revenue             11,149     12,526      23,253     25,056
+                                 ---------  ---------   ---------  ---------
+DIRECT COSTS
+    Construction                    2,415      3,323       5,208      6,911
+    Manufacturing                   5,028      6,396      11,254     12,108
+                                 ---------  ---------   ---------  ---------
+        Total direct costs          7,443      9,719      16,462     19,019
+                                 ---------  ---------   ---------  ---------
+GROSS PROFIT                        3,706      2,807       6,791      6,037
+                                 ---------  ---------   ---------  ---------
+EXPENSES
+    Overhead                        1,326      1,583       2,281      3,255
+    General and administrative      1,516      1,840       3,203      3,594
+    Depreciation                      397        518         830      1,053
+    Interest                          193        200         447        387
+                                 ---------  ---------   ---------  ---------
+        Total expenses              3,432      4,141       6,761      8,289
+                                 ---------  ---------   ---------  ---------
+INCOME (LOSS) BEFORE INCOME TAXES,
+  MINORITY INTERESTS AND
+  EXTRAORDINARY ITEM                  274     (1,334)         30     (2,252)
+
+INCOME TAX PROVISION                   -         850        -           500
+                                 ---------  ---------   ---------  ---------
+INCOME (LOSS) BEFORE MINORITY
+   INTERESTS AND EXTRAORDINARY ITEM   274     (2,184)         30     (2,752)
+
+    Minority interests                 (6)        (3)        (12)       (12)
+
+INCOME (LOSS) BEFORE
+   EXTRAORDINARY ITEM             $   268    $(2,187)    $    18    $(2,764)
+
+EXTRAORDINARY ITEM
+    Gain on extinguishment of debt    -          828         -          828
+                                 ---------  ---------   ---------  ---------
+NET INCOME (LOSS)                 $   268    $(1,359)    $    18    $(1,936)
+                                 =========  =========   =========  =========
+NET INCOME (LOSS) PER COMMON SHARE:
+
+BASIC:
+Income (loss)
+  before extraordinary item          0.07      (0.59)       0.01      (0.75)
+Extraordinary item                   0.00       0.22        0.00       0.22
+                                 ---------  ---------   ---------  ---------
+PROFIT (LOSS)
+  PER COMMON SHARE-BASIC           $ 0.07     $(0.37)     $ 0.01     $(0.53)
+                                 =========  =========   =========  =========
+DILUTED:
+Income (loss)
+  before extraordinary item          0.07      (0.59)       0.01      (0.75)
+Extraordinary item                   0.00       0.22        0.00       0.22
+                                 ---------  ---------   ---------  ---------
+INCOME (LOSS)
+  PER COMMON SHARE-DILUTED         $ 0.07     $(0.37)     $ 0.01     $(0.53)
+                                 =========  =========   =========  =========
+
+WEIGHTED AVERAGE NUMBER
+     OF SHARES OUTSTANDING:
+     BASIC AND DILUTED           3,650,753  3,639,554   3,650,144  3,637,125
+                                 ---------  ---------   ---------  ---------
+           See Notes To Condensed Consolidated Financial Statements
+                                       2
+
+                      WILLIAMS INDUSTRIES, INCORPORATED
+               CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+                            (Unaudited in thousands)
+
+                                                     Six Months Ended
+                                                January 31,   January 31,
+                                                   2006          2005
+                                                -----------   ----------
+CASH FLOWS FROM OPERATING ACTIVITIES:
+  Net income (loss)                               $    18       $(1,936)
+
+NET CASH USED IN OPERATING ACTIVITIES              (2,436)         (193)
+
+CASH FLOWS FROM INVESTING ACTIVITIES:
+   Expenditures for property, plant and equipment    (151)       (2,210)
+   Decrease in restricted cash                       -              522
+   Proceeds from sale of
+     property, plant and equipment                  1,819          -
+NET CASH
+  PROVIDED BY (USED IN) INVESTING ACTIVITIES        1,668        (1,688)
+`
+CASH FLOW FROM FINANCING ACTIVITIES:
+   Proceeds from borrowings                         5,802         4,333
+   Repayments of notes payable                     (5,273)       (1,610)
+   Issuance of common stock                            14            55
+NET CASH PROVIDED BY FINANCING ACTIVITIES             543         2,778
+
+NET DECREASE IN CASH AND CASH EQUIVALENTS            (207)       (1,039)
+CASH AND CASH EQUIVALENTS, BEGINNING OF PERIOD        764         1,343
+CASH AND CASH EQUIVALENTS, END OF PERIOD          $   557       $   304
+
+See Notes To Condensed Consolidated Financial Statements.
+                                   3
+
+WILLIAMS INDUSTRIES, INCORPORATED
+         NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+                           January 31, 2006
+
+1.  INTERIM FINANCIAL STATEMENTS
+
+     This document includes unaudited interim financial statements that
+should be read in conjunction with the Company's latest audited annual
+financial statements. However, in the opinion of management, these financial
+statements contain all adjustments, consisting only of normal recurring
+items, necessary for a fair presentation of the Company's financial position
+as of January 31, 2006 and July 31, 2005, the results of its operations for
+the three and six months ended January 31, 2006 and 2005, respectively, and
+its cash flows for the six months ended January 31, 2006 and 2005,
+respectively. Operating results for the six months ended January 31, 2006 are
+not necessarily indicative of the results expected for the full fiscal year.
+For further information, refer to the consolidated financial statements and
+footnotes included in the Company's Annual Report on Form 10-K for the year
+ended July 31, 2005.
+
+     The Company is facing a liquidity and business crisis after suffering
+operating losses for several years. It has tapped its available sources of
+operating cash, and borrowed approximately $2 million from its largest
+shareholder and his affiliated entities. The Company is operating under a
+Forbearance Agreement with its major lender pursuant to which approximately
+$5 million was scheduled to be repaid by March 6, 2006.  At January 31, 2006,
+the Company was behind in payment of $65,000 of interest to this bank, which
+notified the Company on February 24, 2006, of such default, which the Company
+subsequently cured. The Company has negotiated a short extension of the
+maturity date of these obligations, which were not repaid on March 6, 2006.
+On March 16, 2006, the Company and United Bank entered into a term sheet
+confirming the agreement in principle to enter into a Second Amendment to
+Forbearance Agreement not later than March 30, 3006, providing in pertinent
+part as follows:
+
+(1) The Company will make a payment of $250,000;
+
+(2) The Company will remit $200,000 into a money market account to be drawn
+against to pay interest;
+
+(3) The term of the Forbearance Agreement will be extended through July 31,
+2006;
+
+(4) The Williams Family Limited Partnership (WFLP) will increase the amount
+of its pledge of additional collateral by $758,000 in addition to $1 million
+pledged in the original agreement;
+
+(5) Frank E. Williams, Jr., will reaffirm his personal guarantee of $242,000
+of the Company's obligations to United Bank;
+
+(6) In the event the Company makes an additional principal payment to the
+bank of $1 million by July 31, 2006, the term of the Forbearance Agreement
+will be extended through December 31, 2006.
+
+The Company expects to have the Second Amendment documented and closed within
+the allotted time.
+
+     In addition, the Company is in default of nearly all of its other debts
+and leases by virtue of failing to make scheduled payments in a timely
+fashion.
+
+     Because of the Company's financial condition and the highly competitive
+market in its areas of operation, there remains significant risk that the
+Company may not be able to maintain its level of operations. The Company
+operates in an industry where such problems are common, and where there are
+large risks related to estimating and performing work and collecting amounts
+earned.
+
+     The Company is pursuing a number of contingency plans to address these
+issues. During the six months ended January 31, 2006, the Company sold and
+leased back its Richmond, Virginia property, paying debt of approximately $2
+million. Additionally, the Company sold owned and leased cranes and other
+equipment, reducing debt by $1.4 million, and reducing future annual cash
+flows by approximately $500,000. Additional plans include negotiations with
+lenders and customers, additional sales of equipment and real property, asset
+and stock-based credit facilities, and the sale, discontinuance,
+reorganization or liquidation of one or more subsidiaries.
+
+     For the quarter ended January 31, 2006, the Company applied Statement of
+Financial Accounting Standards ("SFAS") No. 123(R), "Share-Based Payment",
+which replaced SFAS No. 123 "Accounting for Stock-Based Compensation" as
+amended by SFAS No. 148, "Accounting for Stock-Based Compensation-Transition
+and Disclosure" to account for its stock option plans. The new standard
+requires public companies to treat stock options and all other forms of
+shared-based payments to employees as compensation costs in the income
+statement; however, the approach is similar to the guidance set forth in SFAS
+No. 123. The adoption of SFAS No. 123 (R) had no impact on the Company's
+condensed consolidated financial statements for the three months ended January
+31, 2006 since there were no grants during those periods and all prior grants
+were fully vested at that date, the date the statement was first applied. The
+Company generally grants options for common stock at an option price equal to
+the fair market value of the stock on the date of grant. The Company's stock
+option plans are more fully described in the Company's Annual Report on Form
+10-K for fiscal year ended July 31, 2005.
+
+     No stock options were issued during the quarter ended January 31, 2006.
+During the quarter ended January 31, 2005, the Company issued a total of
+30,000 common stock options to its non-employee directors (6,000 shares per
+director) at a price of $4.10 a share. The Company used the intrinsic method
+of valuing stock options, and as prescribed by APB No. 25, it did not expense
+the value of stock options. The following table shows the effect as if
+compensation cost for all options had been determined based on the fair
+market value recognition provisions of Statement of Financial Accounting
+Standards (SFAS) No. 123, "Accounting for Stock-Based Compensation" as
+amended by SFAS No. 148 "Accounting for Stock-Based Compensation " Transition
+and Disclosure."
+                                  Three Months Ended      Six Months Ended
+                                      January 31,             January 31,
+                                    2006       2005        2006       2005
+                                 ---------  ---------   ---------  ---------
+AS REPORTED
+Net Income (Loss)                   $268    $(1,359)        $18    $(1,936)
+          (in thousands)
+
+Net Income (Loss) Per Common
+  Share Basic and Diluted          $0.07     $(0.37)      $0.01     $(0.53)
+
+Stock-based compensation             -          (43)        -          (43)
+            (in thousands)
+
+PRO-FORMA
+Net Income (Loss)                   $268    $(1,402)        $18    $(1,979)
+          (in thousands)
+
+Net Income (Loss) Per Common
+  Share Basic and Diluted          $0.07     $(0.38)      $0.01     $(0.54)
+
+2.  RELATED-PARTY TRANSACTIONS
+
+     Mr. Frank E. Williams, Jr., who owned or controlled approximately 45% of
+the Company's stock at January 31, 2006, and is a director of the Company,
+also owns controlling interests in the outstanding stock of Williams
+Enterprises of Georgia, Inc., and Structural Concrete Products, LLC.
+Additionally, Mr. Williams, Jr. owns a substantial interest in Bosworth Steel
+Erectors, Inc. Amounts receivable and payable to these entities at January
+31, 2006 and July 31, 2005, and revenue earned and costs incurred with these
+entities during the three and six months ended January 31, 2006 and 2005 are
+reflected below.
+                                  Three Months Ended      Six Months Ended
+                                      January 31,             January 31,
+                                    2006       2005        2006       2005
+                                 ---------  ---------   ---------  ---------
+ (in thousands)
+Revenue                              $77       $228        $209       $503
+
+Billings to entities                $129        $88        $227       $552
+
+Costs and expenses incurred         $119        $91        $269       $214
+
+                                                     Balance      Balance
+                                                    January 31     July 31,
+                                                       2006         2005
+                                                    ---------    ---------
+Accounts receivable                                    $741         $663
+Notes Payable                                          $109         $667
+Accounts Payable                                       $677         $400
+Billings in excess of costs and estimated
+  earnings on uncompleted contracts                     $51          $82
+Accrued Interest Payable                                 $5         $106
+
+During the quarter ended January 31, 2006, the Company recorded a new
+note payable to Mr. Williams, Jr. of approximately $21,000 for past due
+director related fees.
+
+    During the quarter ended October 31, 2005, the Company sold its Richmond,
+Virginia property to Mr. Williams, Jr. and leased it back on a long-term
+basis, with an option to buy it back for the same price for which it was sold
+(See Note 6).
+
+     The Company is obligated to the Williams Family Limited Partnership
+(WFLP) under a lease agreement for real property with an option to purchase.
+WFLP is controlled by individuals who own, directly or indirectly,
+approximately 49% of the Company's stock. The lease, which had an original
+term of five years and an extension option for five years, commenced February
+15, 2000. The original term was extended one year to February 15, 2006, and
+subsequently extended to February 15, 2010. The lease contains an option to
+purchase up to ten acres at the "original pro-rata cost" of $567,500. The
+Company currently incurs annual lease expense of approximately $43,000.
+
+     During the three months ended January 31, 2006, the Company borrowed
+$455,000 from WFLP. Lease and interest expense for the three and six months
+ended January 31, 2006 and 2005 is reflected below. Additionally, at January
+31, 2006 and July 31, 2005, Notes Payable, Accounts Payable, representing
+lease payments, and Accrued Interest Payable to WFLP are reflected below.
+
+                                  Three Months Ended      Six Months Ended
+                                      January 31,             January 31,
+                                    2006       2005        2006       2005
+                                 ---------  ---------   ---------  ---------
+ (in thousands)
+Lease Expense                        $11        $11         $21        $12
+Interest Expense                     $30        $ 3         $41        $ 5
+
+                                                     Balance      Balance
+                                                    January 31     July 31,
+                                                       2006         2005
+                                                    ---------    ---------
+Notes Payable                                        $1,930       $1,381
+Accounts Payable                                      $ 171       $  149
+Accrued Interest Payable                              $  73       $   18
+
+     Directors Frank E. Williams, Jr. and Stephen N. Ashman are shareholders
+and directors of a commercial bank from which the Company obtained a $240,000
+note payable on December 23, 2002. The note is payable in sixty equal monthly
+payments of principal of $4,000 plus interest at the current Prime Rate plus
+..75%, which was 8.25% at January 31, 2006. The note, which replaced an
+existing note payable that had a higher interest rate and payment, was
+negotiated at arms length under normal commercial terms. Interest expense for
+the three and six months ended January 31, 2006 and 2005 is reflected below.
+The balance outstanding at January 31, 2006 and July 31, 2005 is also
+reflected below.
+                                  Three Months Ended      Six Months Ended
+                                      January 31,             January 31,
+                                    2006       2005        2006       2005
+                                 ---------  ---------   ---------  ---------
+ (in thousands)
+Interest Expense                      $3         $3          $5         $6
+
+                                                     Balance      Balance
+                                                    January 31     July 31,
+                                                       2006         2005
+                                                    ---------    ---------
+Note Payable                                           $ 92        $116
+
+Directors
+
+     On January 1, 2006, the Company executed notes payable to the non-
+employee members of the Board of Directors, excluding Frank E. Williams, Jr.,
+for unpaid director related fees totaling $60,000.  The notes accrue interest
+at 7% and are payable by September 1, 2006.
+
+3.  SEGMENT INFORMATION
+
+     Information about the Company's operations for the three and six months
+ended January 31, 2006 and 2005 is as follows (in thousands):
+
+                                  Three Months Ended      Six Months Ended
+                                      January 31,             January 31,
+                                    2006       2005        2006       2005
+                                 ---------  ---------   ---------  ---------
+Revenues:
+  Construction                    $ 4,136    $ 5,232     $ 8,222    $11,145
+  Manufacturing                     7,481      8,883      16,269     16,979
+  Other                               237        225         392        458
+                                 ---------  ---------   ---------  ---------
+                                   11,854     14,340      24,883     28,582
+                                 ---------  ---------   ---------  ---------
+Intersegment revenues:
+  Construction                        437        778         815      1,602
+  Manufacturing                        81        880         530      1,603
+  Other                               187        156         285        321
+                                 ---------  ---------   ---------  ---------
+                                      705      1,814       1,630      3,526
+                                 ---------  ---------   ---------  ---------
+Consolidated revenues:
+  Construction                      3,699      4,454       7,407      9,543
+  Manufacturing                     7,400      8,003      15,739     15,376
+  Other                                50         69         107        137
+                                 ---------  ---------   ---------  ---------
+Total Consolidated
+     Revenues                     $11,149    $12,526     $23,253    $25,056
+                                 ---------  ---------   ---------  ---------
+Operating income (loss):
+  Construction                     $  419      $(181)     $   12     $   (7)
+  Manufacturing                       448       (632)      1,157     (1,203)
+                                 ---------  ---------   ---------  ---------
+Consolidated operating income
+  (loss)                              867       (813)      1,169     (1,210)
+General corporate expense, net       (400)       507        (692)       173
+Interest expense                     (193)      (200)       (447)      (387)
+Income tax provision                 -          (850)       -          (500)
+Minority interests                     (6)        (3)        (12)       (12)
+                                 ---------  ---------   ---------  ---------
+Coporate income (loss)               $268    $(1,359)        $18    $(1,936)
+                                 ---------  ---------   ---------  ---------
+
+     The majority of revenues are derived from projects on which the Company
+is a subcontractor of a material supplier, contractor or subcontractor.
+Where the Company acts as a subcontractor, it is invited to bid by firms
+seeking construction services or materials. Therefore, it is important to
+maintain favorable business relations with those firms. Over a period of
+years, the Company has established such relationships with a number of
+companies. During the six months ended January 31, 2006, two customers in the
+manufacturing segment accounted for 22% and 20% of total "consolidated
+revenue" and 33% and 30% of "manufacturing revenue". One customer in the
+construction segment accounted for 13% of "consolidated revenue" and 41% of
+
+"construction revenue". For the six months ended January 31, 2005, two
+customers in the manufacturing segment accounted for 26% and 15% of total
+"consolidated revenue" and 43% and 24% of "manufacturing revenue". While no
+customers in the construction segment accounted for more than 10% of total
+"consolidated revenue", two customers in the construction segment accounted
+15% and 14% of "construction revenue".
+
+     The Company's bridge girder subsidiary is dependent upon one supplier of
+rolled steel plate. The Company's stay-in-place metal decking subsidiary has
+several suppliers of galvanized rolled steel. The Company strives to maintain
+good relations with these vendors, generally receiving orders on a timely
+basis at reasonable cost for this market. If the relations with these vendors
+were to deteriorate or the vendors were to go out of business, the Company
+would have trouble meeting contract deadlines. Other major suppliers of
+rolled steel plate have limited excess production available to "new"
+customers.
+
+4.  INVENTORIES
+
+     Materials inventory consists of structural steel, steel plates and
+galvanized steel coils.  Cost of materials inventory is accounted for using
+either the specific identification or the average cost method. The cost of
+supplies inventory is accounted for using the first-in, first-out, (FIFO)
+method. No significant amount of inventory is included in contracts in
+process.
+
+5.  PURCHASE OF ASSETS
+
+     During the six months ended January 31, 2006, the Company capitalized
+Property and Equipment, for use in its operations, of approximately $151,000,
+which was mainly for capital repairs to equipment.
+
+6.   SALE-LEASEBACK TRANSACTION
+
+     On September 23, 2005, the Company sold its Richmond, Virginia property
+for $2,750,000 to the Company's founder and largest shareholder, and
+concurrently entered into an agreement to lease the property back at $228,000
+per year through April 30, 2011, subject to increases related to the variable
+interest rate in the buyer's financing. In addition, the Company received an
+option to buy the property back any time during the lease term for the same
+price for which it was sold. Consideration equal to the full purchase price
+was received at closing. Because the Company has an option to repurchase the
+property at the same price for which it was sold and therefore has the
+ability to benefit from future appreciation in the value of the property, and
+because the present value of future payments is significantly less than the
+property's fair value, the transaction has been accounted for as a financing
+transaction. As a result, consideration received from the purchaser is
+included in the accompanying consolidated balance sheet as a financing
+obligation and payments made under the lease are being treated as interest
+expense (at an effective rate of approximately 8.7%). A sale will be
+recognized if and when the Company's lease and related option to repurchase
+expire.
+
+The land and building in this transaction are included in property and
+equipment as follows:
+
+                                            Balance
+                                           January 31,
+(In thousands)                                2006
+                                           ---------
+Land                                          $357
+Building & improvements                      2,190
+                                           ---------
+ Total property at cost                      2,547
+Less: Accumulated depreciation              (1,436)
+                                           ---------
+  Property, net                             $1,111
+                                           =========
+
+Depreciation on the building will continue to be charged to operations until
+a sale has been recognized.
+
+Future minimum payments required under the leaseback, as of January 31, 2006,
+are due as follows:
+
+During the year ending January 31:
+     2007                $228
+     2008                 228
+     2009                 228
+     2010                 228
+     2011                 228
+     2012                  19
+                       -------
+     Total             $1,159
+                       -------
+
+Interest expense relating to this financing agreement was $57,000 and $81,000
+for the three and six months ended January 31, 2006, respectively.
+
+     During the quarter ended January 31, 2006, Mr. Williams, Jr. and two
+officers of the Company formed a company named "FlexLease LLC" to address
+crane finance and lease defaults and to assist with financing and disposing
+of cranes and other assets.  All transactions with FlexLease were approved in
+advance by the Company's independent directors. On November 30, 2005,
+FlexLease acquired four cranes, two which were leased by the Company, for
+aggregate consideration of $950,000. The cranes were leased back to the
+company for approximately $7,000 per month, subject to the Company's right to
+buy each crane for the amount paid by FlexLease plus a fee of 1%-2% depending
+on when such right is exercised. Three of the cranes are expected to remain
+in company operations. The fourth was sold subsequent to the quarter ended
+January 31, 2006. The deferred gain on this transaction is shown as
+"Financing transaction resulting from sale-leaseback transaction" under
+Current Liabilities on the Condensed Consolidated Balance Sheet. The Company
+has an accounts receivable balance due from FlexLease of approximately
+$136,000 at January 31, 2006 related to this transaction.
+
+The two Company cranes in this transaction are included in property and
+equipment as follows:
+
+                                            Balance
+                                           January 31,
+(In thousands)                                2006
+                                           ---------
+Cranes & Heavy Equipment                     $1,032
+Less: Accumulated depreciation                 (903)
+                                           ---------
+  Property, net                                $129
+                                           =========
+
+Depreciation on the cranes will continue to be charged to operations until a
+sale has been recognized. Future minimum lease payments of approximately
+$28,000 will be payable within the next four months, the current term of the
+lease.
+
+7.      Extraordinary Item
+
+     During the three months ended January 31, 2005, the Company recognized
+income of $828,000 on the write-off of debt on which the statute of
+limitations had run. The debt was a bank loan, which was personally obtained
+by Frank E. Williams, Jr. for the Company, and for which he was indemnified
+by the Company. In 1995, Mr. Williams, Jr. was released from the loan by the
+bank, leaving the Company directly liable. The bank failed to pursue
+collection of the loan, and in the opinion of counsel, the bank is now
+precluded from collection of this debt.  In prior periods, the loan had been
+carried in "Other liabilities" on the Balance Sheet.
+
+8.     RECLASSIFICATIONS
+
+     Certain Balance Sheet and Statement of Operations items for prior
+periods have been reclassified to conform to current period classifications.
+
+Item 2.  Management's Discussion and Analysis of
+Financial Condition and Results of Operations
+
+General
+- -------
+     The subsidiaries of Williams Industries, Inc. provide specialized
+services and products for the construction industry.  They operate in the
+commercial, industrial, governmental and infrastructure construction markets,
+with the operating components divided into construction and manufacturing
+segments. The services provided include: steel, precast concrete and
+miscellaneous metals erection and installation; crane rental; rigging;
+fabrication of welded steel plate girders and rolled beams, "stay-in-place"
+bridge decking, and light structural and other metal products.
+
+     The Company is facing a liquidity and business crisis after suffering
+operating losses for several years. It has tapped its available sources of
+operating cash, and borrowed approximately $2 million from its largest
+shareholder and his affiliated entities. The Company is operating under a
+Forbearance Agreement with its major lender pursuant to which approximately
+$5 million was scheduled to be repaid by March 6, 2006. At January 31, 2006,
+the Company was behind in payment of $65,000 of interest to this bank, which
+notified the Company on February 24, 2006, of such default, which the Company
+subsequently cured. The Company has negotiated a short extension of the
+maturity date of these obligations, which were not repaid on March 6, 2006.
+On March 16, 2006, the Company and United Bank entered into a term sheet
+confirming the agreement in principle to enter into a Second Amendment to
+Forbearance Agreement not later than March 30, 3006, providing in pertinent
+part as follows:
+
+(1) The Company will make a payment of $250,000;
+
+(2) The Company will remit $200,000 into a money market account to be drawn
+against to pay interest;
+
+(3) The term of the Forbearance Agreement will be extended through July 31,
+2006;
+
+(4) The Williams Family Limited Partnership (WFLP) will increase the amount
+of its pledge of additional collateral by $758,000 in addition to $1 million
+pledged in the original agreement;
+
+(5) Frank E. Williams, Jr., will reaffirm his personal guarantee of $242,000
+of the Company's obligations to United Bank;
+
+(6) In the event the Company makes an additional principal payment to the
+bank of $1 million by July 31, 2006, the term of the Forbearance Agreement
+will be extended through December 31, 2006.
+
+The Company expects to have the Second Amendment documented and closed within
+the allotted time.
+
+     In addition, the Company is in default on many of its other debts and
+leases by virtue of failing to make scheduled payments in a timely fashion.
+Because of the Company's financial condition and the highly competitive
+market in its areas of operation, there remains significant risk that the
+Company may not be able to maintain its level of operations. The Company
+operates in an industry where such problems are common, and where there are
+large risks related to estimating and performing work and collecting amounts
+earned.
+
+     During the quarter ended January 31, 2006, the Company's construction
+segment sold owned and leased cranes for approximately $2.1 million,
+decreasing notes payable by approximately $900,000 and reducing lease
+obligations.
+
+      The Company closed the Bessemer, Alabama plant and sold two shot
+blasting machines, one owned and one leased, recording a loss of $19,000 on
+the owned machine and reducing cash requirements and lease expense annually
+by $99,000 on the leased machine. All other assets were sold or transferred
+to other Company facilities. There was no additional liability to the Company
+as a result of the sale and other closeout activities.
+
+     The Company requires significant working capital to procure materials
+for contracts to be performed over relatively long periods, and for purchases
+and modifications of specialized equipment.  Furthermore, in accordance with
+normal payment terms, the Company's customers often retain a portion of
+amounts otherwise payable to the Company as a guarantee of project
+completion.  To the extent the Company is unable to receive progress payments
+in the early stages of a project, the Company's cash flow could be adversely
+affected.  Collecting progress payments is a common problem in the
+construction industry as are short-term cash considerations.
+
+     During the quarter ended January 31, 2006, the Company's bridge girder
+subsidiary substantially completed its work on its I-95/395/495 contract,
+allowing it to continue fabricating the remaining phases of its Woodrow
+Wilson Bridge contract, as well as other contracts in its backlog.
+
+     The construction segment was profitable for the quarter ended January
+31, 2006 as it worked on more profitable contracts and sold fixed assets,
+mainly cranes, for approximately $1.7 million generating a net gain of
+approximately $75,000, which contributed to its profitability.
+
+     Due to acceleration of the Company's line of credit and other defaulted
+loans, these loans are now classified as Current portion of Notes Payable on
+the Condensed Consolidated Balance Sheet and included in Total current
+liabilities, contributing to the Company's working capital deficit of
+$472,000 at January 31, 2006.
+
+Material Changes in Financial Condition
+- -----------------------------------------
+     For the six months ended January 31, 2006, the following changes
+occurred:
+
+     The Company's Cash and Cash Equivalents decreased $207,000 as the
+Company used cash to fund operations.
+
+     Accounts Receivable decreased approximately $515,000 from a decline in
+billings and increased efforts to collect older receivables.
+
+     Inventory decreased $3.2 million as the Company used steel plate and
+galvanized steel coils to produce its work, mainly on the I95/395/495
+Springfield Interchange and the Woodrow Wilson Bridge contracts. The Company
+believes it has adequate inventory on hand to meet current needs.
+
+     Property and Equipment, at Cost decreased approximately $2 million as
+the Company sold six cranes with a cost of approximately $1.9 million. The
+Company sold manufacturing equipment with a cost of $141,000.  The Company
+purchased or capitalized major repairs on equipment amounting to $151,000.
+
+     Prepaid and Other Assets increased $546,000 as the Company financed its
+workers' compensation insurance premiums for the next policy year.
+
+     Other Assets increased $107,000 from the deferral of financing fees
+related to the Richmond property sale and the deferral of future capital
+repair costs on equipment.
+
+     At January 31, 2006, the Company had approximately $5.5 million in
+variable rate notes payable. Total Notes Payable increased $848,000 during
+the six months ended January 31, 2006.  The Company borrowed approximately
+$6.1 million which included the financing obligation resulting from the sale-
+leaseback transaction of $3 million, $1.5 million used to finance annual
+insurance renewals, $500,000 borrowed to fund prior years workers'
+compensation insurance payments, $580,000 borrowed from a related party to
+fund operations and $520,000 for operations. The Company repaid $5.3 million,
+of which approximately $2 million was paid from the proceeds of the Richmond,
+Virginia property sale, $1.5 million was paid from crane sales and $1.8
+million was paid from operations.
+
+     Accounts Payable decreased $1.1 million. The Company paid material
+billings related to inventory used in the manufacturing segment.
+
+     Billings In Excess of Costs and Estimated Earnings on Uncompleted
+Contracts net of Costs and Estimated Earnings in Excess of Billings,
+decreased $5.4 million, mainly related to billings associated with the
+completion of the I-95/395/495 contract.
+
+     Stockholders' Equity increased $32,000 to $4.9 million due to the profit
+of $18,000 for the six months ended January 31, 2006, and the issuance of
+stock under the Company's Stock Purchase Plan of $14,000.
+
+     For the six months ended January 31, 2006, the Company used net cash of
+$207,000. It used $2.4 million in operations. It generated $1.7 million from
+investing activities, mainly from the sale of six heavy lift cranes. The
+Company generated net cash of $543,000 from financing activities, where the
+Company borrowed $5.8 million and repaid $5.3 million. The borrowings
+included financing insurance premiums and expenses of $2 million, $500,000
+borrowed for operations and $580,000 borrowed from a related party for
+operations. The balance of the borrowing was due to the sale and leaseback of
+the Company's Richmond, Virginia property for $2.75 million, treating the
+sale as a financing transaction due to the leaseback and option to repurchase
+the property.
+
+Material Changes in Results of Operations
+- -------------------------------------------
+Three Months Ended January 31, 2006 Compared to
+Three Months Ended January 31, 2005
+
+     For the quarter ended January 31, 2006, the Company reported a decrease
+in revenues, an increase in gross profit and gross profit percentage and an
+increase in its net income when compared to the quarter ended January 31,
+2005.
+
+     The Company reported net income of $268,000, or $0.07 per share, on
+total revenue of $11.1 million for 2006 as compared to a net loss of $1.4
+million, or $0.37 per share, on total revenue of $12.5 million for 2005.
+Included in the loss for 2005 was a gain on extinguishment of debt of
+$828,000, related to the write off of debt, and the reversal of $850,000 of
+tax benefit.
+
+     In the manufacturing segment, while revenues decreased $603,000, gross
+profit increased $765,000 and gross profit percentage increased from 20.1% in
+2005 to 32.1% in 2006 as the segment's subsidiaries fabricated steel under
+contracts with more favorable gross margins. Operating results increased by
+more than $1 million from a loss of $632,000 for 2005 to income of $448,000
+for 2006. During 2006, the Company's bridge girder subsidiary's Manassas,
+Virginia plant substantially completed work on the I-95/395/495 contract,
+which had operated at a loss during the prior year, and began work on its
+remaining backlog of work. It also completed the closedown of its Bessemer,
+Alabama plant, selling all remaining assets and terminating all lease
+obligations without further liability to the Company. The Alabama plant had
+operated at a loss. The Company's stay-in-place decking subsidiary was also
+more profitable as material prices stabilized and it worked on more
+profitable contracts.
+
+     Construction segment revenues declined $755,000 when the two quarters
+are compared. Gross profit increased $153,000 and the gross profit percentage
+increased from 25% in 2005 to 35% in 2006. The segment's crane rental
+subsidiary was profitable as it sold two owned cranes, two leased cranes and
+other excess equipment. These sales resulted in lower interest expense, lease
+expense and maintenance cost. The segments erection subsidiary was profitable
+as it worked on more profitable contracts. The segment's operating income was
+approximately $419,000 for 2006 compared to an operating loss of $181,000 for
+2005.
+
+     During 2006, Overhead decreased $257,000 due partially to labor and
+other costs being charged directly to the Company's bridge girder fabrication
+company's I-95/395/495 contract.  Since that was the only contract the
+Company's Manassas, Virginia plant worked, all resources of labor and other
+costs were charged directly to that contract. There were additional savings
+
+due to the close down of the Company's Bessemer, Alabama plant, which was
+operational 2005, as well as a reduction of approximately $70,000 from the
+construction segment.
+
+     General and Administrative expenses decreased $324,000, mainly in the
+Company's construction segment where it reduced costs.
+
+     Depreciation expense decreased $121,000 related to equipment sales over
+the past four quarters, the close down of the Bessemer, Alabama plant and
+fewer depreciable assets.
+
+     Interest expense remained constant.
+
+Six Months Ended January 31, 2006 Compared to
+Six Months Ended January 31, 2005
+
+     For the six months ended January 31, 2006, the Company reported a
+decrease in revenue, an increase in gross profit and gross profit percentage
+and an increase in its net income when compared to the six months ended
+January 31, 2005.
+
+     The Company reported net income of $18,000, or $0.01 per share, on total
+revenue of $23.3 million for 2006 as compared to a net loss of $1.9 million,
+or $0.53 per share, on total revenue of $25.1 million for 2005. Included in
+the loss for 2005 was a gain on extinguishment of debt of $828,000, related
+to the write off of debt, and the reversal of $500,000 of tax benefit.
+
+     In the manufacturing segment, revenues increased $363,000, gross profit
+increased $1.2 million and gross profit percentage increased from 21.3% in
+2005 to 28.5% for 2006 as the segment's subsidiaries fabricated steel under
+contracts with more favorable gross margins. Operating income increased by
+approximately $2.4 million from a loss of $1.2 million for 2005 to a profit
+of $1.2 for 2006. During 2006, the Company's bridge girder subsidiary's
+Manassas, Virginia plant substantially completed work on the I-95/395/495
+contract, which had operated at a loss during the prior year, and began work
+on its remaining backlog. It also completed the closedown of its Bessemer,
+Alabama plant, selling all remaining assets and terminating all lease
+obligations without further liability to the Company. The Alabama plant had
+operated at a loss. The Company's Stay-in-place decking subsidiary was also
+more profitable as material prices have stabilized and it was worked on more
+profitable contracts.
+
+     Construction segment revenues declined $2.1 million when the two
+quarters are compared. Gross profit decreased $433,000 and the gross profit
+percentage increased from 28% in 2005 to 30% in 2006. The segment's crane
+rental subsidiary was profitable as it sold six owned cranes, two leased
+cranes and other excess equipment. These sales resulted in lower interest,
+lease expense and maintenance cost. The segment's steel erection subsidiary
+was profitable as it worked on more profitable contracts. The segment's
+operating profit was approximately $12,000 for 2006 compared to an operating
+loss of $7,000 for 2005.
+
+     For the 2006, Overhead decreased $974,000 due mainly to labor and other
+costs that were charged directly to the Company's bridge girder fabrication
+company's I-95/395/495 contract. Since that was the only contract the
+Company's Manassas, Virginia plant worked, all resources of labor and other
+costs were charged directly to that contract.  There were additional savings
+
+due to the close down of the Company's Bessemer, Alabama plant, which was
+operational in the six months ended January 31, 2005, as well as a reduction
+of approximately $170,000 from the construction segment.
+
+     General and Administrative expenses decreased $391,000, mainly in the
+Company's construction segment where it reduced costs.
+
+     Depreciation expense decreased $223,000 related to equipment sales over
+the past four quarters, the close down of the Bessemer, Alabama plant and
+fewer depreciable assets.
+
+     Interest expense increased $60,000 due to higher interest rates.
+
+BACKLOG
+
+     At January 31, 2006, the Company's backlog was $33 million, which is a
+decrease of approximately $16 million from January 2005 and $6 million from
+July 31, 2005. It is anticipated that the backlog will be completed within
+the next twelve months.
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+
+Interest Rate Risk
+
+     The Company's cash equivalents, invested in interest-bearing
+instruments, are presented at fair value on the Company's balance sheets.
+The Company's exposure to market risks for changes in interest rates relate
+primarily to these investments and current and long-term debt.
+
+Item 4. Controls and Procedures
+
+     As of January 31, 2006, an evaluation was performed under the
+supervision and with the participation of the Company's management, including
+Chief Executive Officer (CEO) and Controller, of the effectiveness of the
+design and operation of the Company's disclosure controls and procedures.
+Based on that evaluation, the Company's management, including the CEO and
+Controller, concluded that the disclosure controls and procedures were
+effective as of January 31, 2006.  There have been no significant changes in
+the Company's internal controls or in other factors that could significantly
+affect internal controls subsequent to January 31, 2006.
+
+     Disclosure controls and procedures are the Company's controls and
+procedures that are designed to ensure that information required to be
+disclosed by the Company in the reports that it files or submits under the
+Exchange Act, is recorded, processed, summarized and reported within the time
+periods specified in the Securities and Exchange Commission's rules and
+forms.  Disclosure controls and procedures include, without limitation,
+controls and procedures designed to ensure that information required to be
+disclosed by the Company in the reports that it files under the Exchange Act
+are accumulated and communicated to management, including the principal
+executive officers and principal financial officer, as appropriate to allow
+timely decisions regarding required disclosure.
+
+Safe Harbor for Forward-Looking Statements
+
+     The Company is including the following cautionary statements to make
+applicable and take advantage of the safe harbor provisions within the
+meaning of Section 27A of the Securities Act of 1933 and Section 21E of the
+Securities Exchange Act of 1934 for any forward-looking statements made by,
+or on behalf of, the Company in this document and any materials incorporated
+herein by reference.  Forward-looking statements include statements
+concerning plans, objectives, goals, strategies, future events or performance
+and underlying assumptions and other statements, which are other than
+statements of historical facts.  Such forward-looking statements may be
+identified, without limitation, by the use of the words "anticipates,"
+"estimates," "expects," "intends," and similar expressions.  From time to
+time, the Company or one of its subsidiaries individually may publish or
+otherwise make available forward-looking statements of this nature.  All such
+forward-looking statements, whether written or oral, and whether made by or
+on behalf of the Company or its subsidiaries, are expressly qualified by
+these cautionary statements and any other cautionary statements which may
+accompany the forward-looking statements.  In addition, the Company disclaims
+any obligation to update any forward-looking statements to reflect events or
+circumstances after the date hereof.
+
+     Forward-looking statements made by the Company are subject to risks and
+uncertainties that could cause actual results or events to differ materially
+from those expressed in, or implied by, the forward-looking statements.
+These forward-looking statements may include, among others, statements
+concerning the Company's revenue and cost trends, cost reduction strategies
+and anticipated outcomes, planned capital expenditures, financing needs and
+the availability of such financing, and the outlook for future activity in
+the Company's market areas.  Investors or other users of forward-looking
+statements are cautioned that such statements are not a guarantee of future
+performance by the Company and that such forward-looking statements are
+subject to risks and uncertainties that could cause actual results to differ
+materially from those expressed in, or implied by, such statements.  Some,
+but not all of the risks and uncertainties, in addition to those specifically
+set forth above, include general economic and weather conditions, market
+prices, environmental and safety laws and policies, federal and state
+regulatory and legislative actions, tax rates and policies, rates of interest
+and changes in accounting principles or the application of such principles to
+the Company.
+
+PART II - OTHER INFORMATION
+
+ITEM 1.  Legal Proceedings
+
+General
+- -------
+
+     The Company is party to various claims arising in the ordinary course of
+its business.  Generally, claims exposure in the construction services
+industry consists of workers' compensation, personal injury, products'
+liability and property damage.  The Company believes that its insurance and
+other expense accruals, coupled with its primary and excess liability
+coverage, provide adequate coverage for such claims or contingencies.
+
+     The Company is operating under a Forbearance Agreement with its major
+lender pursuant to which approximately $5 million was scheduled to be repaid
+by March 6, 2006. At January 31, 2006, the Company was behind in payment of
+$65,000 of interest to this bank, which notified the Company on February 24,
+2006, of such default, which the Company subsequently cured. The Company has
+negotiated a short extension of the maturity date of these obligations, which
+
+were not repaid on March 6, 2006. On March 16, 2006, the Company and United
+Bank entered into a term sheet confirming the agreement in principle to enter
+into a Second Amendment to Forbearance Agreement not later than March 30,
+3006, providing in pertinent part as follows:
+
+(1) The Company will make a payment of $250,000;
+
+(2) The Company will remit $200,000 into a money market account to be drawn
+against to pay interest;
+
+(3) The term of the Forbearance Agreement will be extended through July 31,
+2006;
+
+(4) The Williams Family Limited Partnership (WFLP) will increase the amount
+of its pledge of additional collateral by $758,000 in addition to $1 million
+pledged in the original agreement;
+
+(5) Frank E. Williams, Jr., will reaffirm his personal guarantee of $242,000
+of the Company's obligations to United Bank;
+
+(6) In the event the Company makes an additional principal payment to the
+bank of $1 million by July 31, 2006, the term of the Forbearance Agreement
+will be extended through December 31, 2006.
+
+The Company expects to have the Second Amendment documented and closed within
+the allotted time.
+
+     As a result of payment and other alleged defaults, Provident Leasing
+threatened foreclosure and sale of a heavy lift crane leased by the Company,
+valued at approximately $400,000. The Company entered into a forbearance
+agreement providing for monthly payments until January 15, 2006, when the
+account was due in full. The Company negotiated a payoff amount of $410,000
+for this lease, which subsequent to the quarter ended January 31, 2006 was
+acquired by FlexLease LLC, an entity owned by related parties, and leased to
+the company for approximately $3,000 per month, subject to the Company's
+right to buy the crane for the amount paid by FlexLease plus a fee of 1%-2%
+depending on when such right is exercised.
+
+     As a result of payment and other alleged defaults, the Company has been
+negotiating with CIT Group, who has offered to restructure a note secured by
+three heavy lift cranes and to waive defaults on a note secured by another
+crane. These notes totaled approximately $1.1 million at January 31, 2006.
+The Company expects to enter into an agreement along the lines offered by
+CIT, providing that the Company will sell one of the three cranes,
+restructure the payments on the two remaining cranes, and continue making
+payments under the other note.
+
+     As a result of payment and other alleged defaults, the Company has been
+negotiating with Financial Federal Credit, Inc. (FFCI), who offered to
+restructure two notes which were secured by five cranes. Three of the cranes
+were sold by the Company for approximately $560,000 during the quarter ended
+October 31, 2005 and the proceeds paid to FFCI. After FFCI filed suit to
+collect the remaining amounts it claimed, the Company entered into a
+settlement agreement providing for payment of $100,000 which was delivered,
+and further payment of $1,009,000 due not later than March 17, 2006, or else
+the Company has agreed to entry of a judgment for $1,067,000 and possession
+of the cranes at issue. On March 17, 2006, in order to raise the funds
+necessary to pay FFCI, the Company sold the two cranes to an entity owned by
+
+related parties, and leased to the company for approximately $18,000 per
+month, subject to the Company's right to buy the cranes for the amount paid
+plus a fee of 1%-3% depending on when such right is exercised.
+
+     On October 18, 2005, the Company received notice from NASDAQ that it was
+not in compliance with certain continued listing criteria for the NASDAQ
+National Market per Marketplace Rule 4450(a)(3). Specifically, the notice
+stated that the stockholder's equity at July 31, 2005, as published in the
+Company's Form 10-K filed on October 14, 2005, was less than the required $10
+million.
+
+     Subsequent to the Company's appeal to a NASDAQ panel, NASDAQ ruled that
+the Company's stock should be transferred to the NASDAQ Capital Market.  The
+Company's stock began trading on the NASDAQ Capital Market on February 21,
+2006.
+
+ITEM 2. Changes in Securities and Use of Proceeds
+
+     None.
+
+ITEM 3. Defaults Upon Senior Securities
+
+United Bank. The Company is operating under a Forbearance Agreement with its
+major lender pursuant to which approximately $5 million was scheduled to be
+repaid by March 6, 2006. At January 31, 2006, the Company was behind in
+payment of $65,000 of interest to this bank, which notified the Company on
+February 24, 2006, of such default, which the Company subsequently cured. The
+Company has negotiated a short extension of the maturity date of these
+obligations, which were not repaid on March 6, 2006. On March 16, 2006, the
+Company and United Bank entered into a term sheet confirming the agreement in
+principle to enter into a Second Amendment to Forbearance Agreement not later
+than March 30, 3006, providing in pertinent part as follows:
+
+(1) The Company will make a payment of $250,000;
+
+(2) The Company will remit $200,000 into a money market account to be drawn
+against to pay interest;
+
+(3) The term of the Forbearance Agreement will be extended through July 31,
+2006;
+
+(4) The Williams Family Limited Partnership (WFLP) will increase the amount
+of its pledge of additional collateral by $758,000 in addition to $1 million
+pledged in the original agreement;
+
+(5) Frank E. Williams, Jr., will reaffirm his personal guarantee of $242,000
+of the Company's obligations to United Bank;
+
+(6) In the event the Company makes an additional principal payment to the
+bank of $1 million by July 31, 2006, the term of the Forbearance Agreement
+will be extended through December 31, 2006.
+
+The Company expects to have the Second Amendment documented and closed within
+the allotted time.
+
+     In order to fund the repayment of the United Bank notes, the Company is
+pursuing various financing options, including conventional, asset-based, and
+equity secured financing. Because of the Company's financial condition,
+management believes that the cost of debt may be higher than normal market
+rates.
+
+     Equipment Notes/Leases.  Elsewhere in this document and in the quarterly
+filing for October 31, 2005, the Company described the status of its notes
+and leases with several other equipment lenders and lessors.  The Company
+continues to pursue negotiations with these parties and the sale and/or
+refinancing of equipment as necessary to meet or satisfy its obligations.
+
+ITEM 4. Submission of Matters to a Vote of Security Holders
+
+     On November 5, 2005, the shareholders of Williams Industries, Inc.
+elected the Company's board of directors at the annual meeting of
+shareholders. Elected were: Stephen N. Ashman, R. Bentley Offutt, William J.
+Sim, Frank E. Williams, Jr., Frank E. Williams, III and John A. Yerrick.
+
+     The results of the November 5, 2005 shareholder's election of directors
+are as follows:
+
+Nominee                        For            Abstain
+- --------------------       ------------     -----------
+Stephen N. Ashman           3,267,904          116,663
+R. Bentley Offutt           3,274,911          109,656
+William J. Sim              3,328,013           56,554
+Frank E. Williams, Jr.      3,267,729          116,838
+Frank E. Williams, III      3,267,729          116,838
+John A. Yerrick             3,321,006           63,561
+
+ITEM 5. Other Information
+
+     None.
+
+ITEM 6. Exhibits and Reports on Form 8-K
+
+(a)   Exhibits
+            Exhibit 31.1  Section 302 Certification for
+                          Frank E. Williams, III
+            Exhibit 31.2  Section 302 Certification for
+                          Christ H. Manos
+            Exhibit 32.1  Section 906 Certification for
+                          Frank E. Williams, III and
+                          Christ H. Manos
+            Exhibit 99    Press Release announcing second quarter earnings
+
+(b)   Reports on Form 8-K
+
+            (1) December 5, 2005
+                Item 9.01. Press release announcing that the Company is not
+                           in compliance with public float requirements for
+                           inclusion in the NASDAQ National Market and that
+                           the Company has until February 28, 2006 to return
+                           to compliance with this standard.
+
+            (2) March 6, 2006
+                Item 2.04. Announcing that the Company failed to make its
+                           payment of approximately $4.8 million on March 6,
+                           2006 to United Bank under its Forbearance
+                           Agreement dated June 30, 2005, as amended
+                           September 30, 2005.
+
+Signatures
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized:
+
+March 17, 2006               Williams Industries, Incorporated
+                             -----------------------------------
+                             Registrant
+
+                             /s/ Frank E. Williams, III
+                             -----------------------------------
+                             Frank E. Williams, III
+                             Chairman of the Board, President,
+                             Chief Executive Officer,
+                             Chief Financial Officer
+
+21
+
+<EX-32>
+ 2
+ wex321.txt
+
+EXHIBIT 32.1
+
+CERTIFICATION PURSUANT TO
+SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+In connection with the Quarterly Report of Williams Industries, Incorporated
+(the "Company") on Form 10-Q for the fiscal quarter ending January 31, 2006,
+as filed with the Securities and Exchange Commission on the date hereof (the
+"Report"), the undersigned hereby certify, pursuant to and for purposes of 18
+U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley
+Act of 2002, that:
+
+(1)     The Report fully complies with the requirements of Section 13(a) or
+15(d) of the Securities Exchange Act of 1934; and
+
+(2)     The information contained in the Report fairly presents, in all
+material respects, the financial condition and results of operations of the
+Company.
+
+March 17, 2006
+                         /s/ Frank E. Williams, III
+                        ----------------------------
+                         Frank E. Williams, III
+                         Chairman of the Board,
+                         President,
+                         Chief Executive Officer,
+                         Chief Financial Officer
+
+March 17, 2006
+                         /s/ Christ H. Manos
+                         --------------------
+                         Christ H. Manos
+                         Treasurer, Controller
+
+</EX-32>
+
+<EX-99>
+ 3
+ wex99q2.txt
+
+CONTACT:
+                                                 Marianne V. Pastor
+                                                 (703) 335-7800
+                                          FOR IMMEDIATE RELEASE
+
+Williams Industries, Inc. Announces
+Second Quarter 2006 Results;
+Financial Improvement Shown
+
+     Manassas, VA. --- March 20, 2006 --- Williams Industries, Inc. (NASDAQ
+- - WMSI) today announced income of $268,000 or $0.07 per share on revenue of
+$11,149,000 for the second quarter of Fiscal 2006, which ended January 31,
+2006.   This compares to a loss of $1,359,000 or $0.37 per share on revenue
+of $12,526,000 for the quarter ended January 31, 2005.    For the six months
+ended January 31, 2005, the company reported income of $18,000 or $0.01 per
+share on revenue of $23,253,000 compared to a loss of $1,936,000 or $0.53 per
+share on revenue of $25,056,000.  The company's complete quarterly filing is
+available on the Securities and Exchange Commission's EDGAR system
+(www.sec.gov).
+
+     Williams Industries' President and CEO Frank E. Williams, III,
+attributed the improvement to several factors, mostly notably the fact that
+the company is no longer dealing with major projects where the escalating
+costs of steel could not be significantly mitigated.  The company has
+completed its portion of erection work on the Springfield Interchange project
+and has fabricated all of the steel in its contract.  Additionally, the shut-
+down of the Bessemer, Alabama manufacturing plant is complete and all costs
+have been absorbed.
+
+     "The employees of Williams Industries, Inc. and its subsidiaries are
+another very important factor in the company's improvement," Williams said.
+"Our employees have been incredibly loyal through some challenging times.
+They have read all the dire predictions about the company's plight in the
+newspapers over the past months, as well as hearing unfounded reports from
+the company's competitors.  Throughout it all, they've kept their heads down
+and done their jobs, often in challenging circumstances.  They know, as do I,
+that the company has weathered tough times before and that it was only a
+matter of time before we made the necessary course corrections to deal with
+what are now past problems."
+
+     One of the most positive signs of the company getting on with its
+business is an agreement in principle to extend the company's banking
+agreement with United Bank from March 6 to July 31.   "United Bank has been
+extremely fair in its working relationship with Williams Industries,"
+Williams noted, adding "I think they realize that we are committed to working
+our way out of the financial difficulties of the past few years and that we
+are well on our way to doing so."
+
+     Williams said that the company is also optimistic that new
+infrastructure spending, created by Congress's passage of the Transportation
+Equity Act, will soon give the company more attractive work to bid.   "We
+anticipate a lot of good work showing up for bid in the Mid-Atlantic region
+and Williams Industries intends to aggressively pursue bidding opportunities.
+Unlike many, actually unlike most, of our competitors, Williams Industries is
+a public company and everyone knows where we stand.  I'd be willing to wager
+that we're in better financial shape than a lot of our private competitors
+who have been shooting at us for months, simply because their results aren't
+known," he added.
+
+     Williams Industries' fiscal year is from August 1 to July 31. Williams
+Industries, Inc. is the largest publicly owned specialty construction company
+in the Mid-Atlantic region.  Its subsidiaries provide a wide range of
+quality, cost competitive services and products for the industrial,
+commercial and institutional construction markets.  The construction and
+manufacturing services include: steel and precast concrete erection;
+miscellaneous metals installation; the fabrication of welded steel plate
+girders; rolled steel beams, and light structural and other metal products;
+the construction, repair and rehabilitation of bridges; crane rental, and
+heavy and specialized hauling and rigging.
+
+     This release contains forward-looking statements, which are subject to
+risks and uncertainties that could cause actual results or events to differ
+materially from those expressed in, or implied by, the forward-looking
+statements.  These forward-looking statements may include, among others,
+statements concerning the Company's revenue and cost trends, cost reduction
+strategies and anticipated outcomes, planned capital expenditures, financing
+needs and availability of such financing, and the outlook for future
+construction activity in the Company's market areas.  Investors or other
+users of forward-looking statements are cautioned that such statements are
+not a guarantee of future performance by the Company and that such forward-
+looking statements are subject to risks and uncertainties that could cause
+actual results to differ materially from those expressed in, or implied by,
+such statements.
+
+     For additional information, please go to the company's web site
+"www.wmsi.com" and clip on any of the appropriate links or call the company's
+investor relations' office at (703) 335-7800.
+
+-30-
+
+</EX-99>
+
+<EX-31>
+ 4
+ wex3111.txt
+ 
+Exhibit 31.1
+
+SECTION 302 CERTIFICATION
+
+CERTIFICATIONS
+
+I, Frank E. Williams, III, certify that:
+
+1. I have reviewed this report on Form 10-Q of Williams Industries, Inc.
+
+2. Based on my knowledge, this report on Form 10-Q does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to
+make the statements made, in light of the circumstances under which such
+statements were made, not misleading with respect to the period covered by
+this report;
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects
+the financial condition, results of operations and cash flows of the
+registrant as of, and for, the periods presented in this report;
+
+4. The registrant's other certifying officer and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have:
+
+a. Designed such disclosure controls and procedures, or caused such disclosure
+controls and procedures to be designed under our supervision, to ensure that
+material information relating to the registrant, including its consolidated
+subsidiaries, is made known to us by others within those entities,
+particularly during the period in which this report is being prepared;
+
+b. Evaluated the effectiveness of the registrant's disclosure controls and
+procedures and presented in this report our conclusions about the
+effectiveness of the disclosure controls and procedures as of the end of the
+period covered by this report based on such evaluation; and
+
+c. Disclosed in this report any change in the registrant's internal control
+over financial reporting that occurred during the registrant's most recent
+fiscal quarter (the registrant's fourth fiscal quarter in the case of an
+annual report) that has materially affected, or is reasonably likely to
+materially affect, the registrant's internal control over financial reporting;
+and
+
+5. The registrant's other certifying officer and I have disclosed, based on
+our most recent evaluation of internal controls over financial reporting, to
+the registrant's auditors and the audit committee of registrant's board of
+directors (or persons performing the equivalent functions):
+
+a. All significant deficiencies in the design or operation of internal control
+over financial reporting which are reasonably likely to adversely affect the
+registrant's ability to record, process, summarize and report financial
+information; and
+
+b. Any fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrant's internal controls
+over financial reporting.
+
+March 17, 2006
+                         /s/ Frank E. Williams, III
+                        ----------------------------
+                         Frank E. Williams, III
+                         Chairman of the Board,
+                         President,
+                         Chief Executive Officer,
+                         Chief Financial Officer
+
+</EX-31>
+
+<EX-31>
+ 5
+ wex3121.txt
+ 
+Exhibit No. 31.2
+
+SECTION 302 CERTIFICATION
+
+CERTIFICATIONS
+
+I, Christ H. Manos certify that:
+
+1. I have reviewed this report on Form 10-Q of Williams Industries, Inc.
+
+2. Based on my knowledge, this report on Form 10-Q does not contain any untrue
+statement of a material fact or omit to state a material fact necessary to
+make the statements made, in light of the circumstances under which such
+statements were made, not misleading with respect to the period covered by
+this report;
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects
+the financial condition, results of operations and cash flows of the
+registrant as of, and for, the periods presented in this report;
+
+4. The registrant's other certifying officer and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have:
+
+a. Designed such disclosure controls and procedures, or caused such disclosure
+controls and procedures to be designed under our supervision, to ensure that
+material information relating to the registrant, including its consolidated
+subsidiaries, is made known to us by others within those entities,
+particularly during the period in which this report is being prepared;
+
+b. Evaluated the effectiveness of the registrant's disclosure controls and
+procedures and presented in this report our conclusions about the
+effectiveness of the disclosure controls and procedures as of the end of the
+period covered by this report based on such evaluation; and
+
+c. Disclosed in this report any changes in the registrant's internal control
+over financial reporting that occurred during the registrant's most recent
+fiscal quarter (the registrant's fourth fiscal quarter in the case of an
+annual report) that has materially affected, or is reasonably likely to
+materially affect, the registrant's internal control over financial reporting;
+and
+
+5. The registrant's other certifying officer and I have disclosed, based on
+our most recent evaluation of internal controls over financial reporting, to
+the registrant's auditors and the audit committee of registrant's board of
+directors (or persons performing the equivalent functions):
+
+a. All significant deficiencies in the design or operation of internal control
+over financial reporting which are reasonably likely to adversely affect the
+registrant's ability to record, process, summarize and report financial
+information; and
+
+b. Any fraud, whether or not material, that involves management or other
+employees who have a significant role in the registrant's internal controls
+over financial reporting.
+
+March 17, 2006
+                                /s/ Christ H. Manos
+                                -----------------
+                                Christ H. Manos
+                                Treasurer, Controller
+
+</EX-31>
+
