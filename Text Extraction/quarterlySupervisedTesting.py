@@ -405,7 +405,7 @@ def close_train_quarterly():
     # plt.show()
 
 
-def test_file(file_directory, open_model, close_model):
+# def test_file(file_directory, open_model, close_model):
 
 
 if __name__ == "__main__":
