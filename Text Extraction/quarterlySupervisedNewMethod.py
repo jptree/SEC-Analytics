@@ -128,7 +128,7 @@ def get_mda(clf_open, clf_close, file_text):
         return ''
     else:
         # return file_text[items[open_index]: items[close_index]]
-        return file_text[open_indices[open_index]: close_indices[close_index]].replace('\n', '\\n')
+        return file_text[open_indices[open_index]: (close_indices[close_index] + 200)].replace('\n', '\\n')
 
 
 def get_supervised_mda(new_file_name):

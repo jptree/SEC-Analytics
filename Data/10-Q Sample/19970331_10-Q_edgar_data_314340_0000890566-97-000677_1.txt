@@ -1,0 +1,589 @@
+<Header>
+<FileStats>
+    <FileName>19970331_10-Q_edgar_data_314340_0000890566-97-000677_1.txt</FileName>
+    <GrossFileSize>31394</GrossFileSize>
+    <NetFileSize>28041</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>195</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>1</N_Tables>
+    <N_Exhibits>1</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000890566-97-000677.hdr.sgml : 19970401
+ACCESSION NUMBER:		0000890566-97-000677
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19961231
+FILED AS OF DATE:		19970331
+SROS:			NYSE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SECURITY CAPITAL CORP/DE/
+		CENTRAL INDEX KEY:			0000314340
+		STANDARD INDUSTRIAL CLASSIFICATION:	INSURANCE AGENTS BROKERS & SERVICES [6411]
+		IRS NUMBER:				133003070
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-07921
+		FILM NUMBER:		97571663
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1111 N LOOP WEST STE 400
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77008
+		BUSINESS PHONE:		7138807100
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ R8otjo1Z7Q4BwXKOGSulSiVDyKDK60Fq0eHmtvn9tK2C+lVsk3z5SB1m3E620O+O
+ cRDCc1iOQNfv95k9C3r+5Q==
+
+ 0000890566-97-000677.txt : 19970401
+
+10-Q
+ 1
+ QUARTERLY REPORT ON FORM 10-Q
+
+SECURITIES AND EXCHANGE COMMISSION
+
+                             WASHINGTON, D.C. 20549
+
+                                    FORM 10-Q
+
+(Mark one)
+
+  [ ] QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+      EXCHANGE ACT OF 1934.
+
+  [X] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+      EXCHANGE ACT OF 1934 for the transition period from October 1, 1996 
+      to December 31, 1996.
+
+                                 1-7921
+                            (Commission file number)
+
+SECURITY CAPITAL CORPORATION
+               (Exact name of registrant as specified in its charter)
+
+DELAWARE                              13-3003070
+(State or other jurisdiction of            (I.R.S. Employee Identification No.)
+ incorporation or organization)                     
+
+         1111 NORTH LOOP WEST, SUITE 400, HOUSTON, TEXAS 77008
+            (Address of principal executive offices, including zip code)
+
+(713) 880-7100
+              (Registrant's telephone number, including area code)
+
+N.A.
+                 (Former address, if changed since last report)
+
+Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes [X] No [ ].
+
+      Indicate the number of shares outstanding of each of the issuer's classes
+of common stock, as of the latest practicable date: as of March 31, 1997 there
+were 4,059,766 outstanding shares of Class A Common Stock, par value $ .01, and
+392 outstanding shares of Common Stock, par value $ .01, of the registrant.
+ 
+Security Capital Corporation and Subsidiaries
+Consolidated Statements of Income
+                                           For the Three Months
+                                                   Ended
+                                               December 31,
+- --------------------------------------------------------------------
+                                             1996           1995
+- --------------------------------------------------------------------
+                                           (Dollars in thousands,
+                                         except per share amounts)
+Product sales                                 $  5,073     $      -
+
+Cost of goods sold                               2,476            -
+- --------------------------------------------------------------------
+Gross profit                                  $  2,597     $
+- --------------------------------------------------------------------
+Selling, general and administrative              1,710           72
+- --------------------------------------------------------------------
+Operating income(loss)                        $    887     $    (72)
+- --------------------------------------------------------------------
+OTHER INCOME(EXPENSE)
+Income from joint enterprise                  $   (211)    $    (90)
+Interest income                                     98          158
+Interest expense                                  (507)           -
+Other income                                        16           16
+- --------------------------------------------------------------------
+Total other income(expense)                   $   (604)    $     84
+- --------------------------------------------------------------------
+Minority interest share of net income              (55)           -
+- --------------------------------------------------------------------
+Income before provision for
+    Federal income tax                        $    228     $     12
+Provision for Federal income taxes                 103            -
+- --------------------------------------------------------------------
+Net income                                    $    125     $     12
+Less preferred stock dividends                    (113)        (113)
+- --------------------------------------------------------------------
+Net income(loss) applicable to common
+stockholders                                  $     12     $   (101)
+- --------------------------------------------------------------------
+
+Net income(loss) per common share:            $   (.00)    $ (.02)*
+- --------------------------------------------------------------------
+- --------------------------------------------------------------------
+Weighted average shares outstanding              4,060       4,060*
+- --------------------------------------------------------------------
+* Restated for one-for-eight reverse stock split.
+
+The accompanying Notes to Consolidated Financial Statements are an integral part
+of these financial statements.
+ 
+ Security Capital Corporation and Subsidiaries
+Consolidated Balance Sheets
+- --------------------------------------------------------------------------
+                                         December 31,     September 30,
+                                             1996             1996
+- --------------------------------------------------------------------------
+                                          (Unaudited)       (Audited)
+- --------------------------------------------------------------------------
+ASSETS
+( In thousands, except par value and shares)
+Current assets:
+Cash and cash equivalents           $            8,010   $          8,706
+Account receivable (net of
+   allowance for doubtful
+   accounts of $250 and $412)                    3,063              9,793
+Inventory                                        3,612              5,010
+Other current assets                               628                278
+                                        ---------------    ---------------
+Total current assets                            15,313             23,787
+
+Property and equipment (net of
+accumulated depreciation of 
+$211 and $200)                                   1,095              1,105
+Intangible assets (net of
+   accumulated amortization of
+   $353 and $215)                                8,984              9,122
+Investment in and advances to
+joint enterprise                                     -                 87
+Licenses and other assets                          405                401
+- --------------------------------------------------------------------------
+Total Assets                        $           25,797   $         34,502
+- --------------------------------------------------------------------------
+LIABILITIES AND STOCKHOLDERS'
+EQUITY
+Current liabilities:
+Note payable - Bank                 $            1,000   $          8,884
+Current portion of long-term debt                  950              1,010
+Accounts payable                                 1,047              1,646
+Accrued expenses and other
+liabilities                                        407                466
+                                        ---------------    ---------------
+Total current liabilities                        3,404             12,006
+
+Long-term debt, less current
+portion                                         10,047             10,329
+Minority interest                                  913                858
+- --------------------------------------------------------------------------
+Total Liabilities                   $           14,364   $         23,193
+- --------------------------------------------------------------------------
+Commitments and Contingencies       $                -   $              -
+- --------------------------------------------------------------------------
+Class A preferred stock
+(redeemable), $.01
+par value, 50,000 shares
+authorized, 30,000
+shares issued (including
+dividends in arrears
+of $1,537 and $1,425)               $            4,537   $          4,425
+- --------------------------------------------------------------------------
+STOCKHOLDERS' EQUITY
+Common stock, $.01 par value,
+   7,500 shares   authorized; 551
+   shares issued                    $                -   $              -
+Class A common stock, $.01 par
+   value,   10,000,000 shares
+   authorized; 4,378,183 shares
+   issued                                           44                 44
+Preferred stock, $.01 par value,
+   2,500,000    shares
+   authorized; none issued                           -                  -
+Additional paid-in capital                      62,544             62,544
+Accumulated deficit                            (50,477)           (50,489)
+Less: Treasury stock, at cost,
+   318,576 shares                               (5,215)            (5,215)
+- --------------------------------------------------------------------------
+Total Stockholders' Equity          $            6,896   $          6,884
+- --------------------------------------------------------------------------
+- --------------------------------------------------------------------------
+Total Liabilities and
+Stockholders' Equity                $           25,797   $         34,502
+- --------------------------------------------------------------------------
+The accompanying notes to consolidated financial statements are an integral part
+of these statements.
+ 
+Consolidated Statements of Cash Flows
+Security Capital Corporation and Subsidiaries
+(Unaudited)
+- -------------------------------------------------------------------
+                                        For the Three Months Ended
+                                               December 31,
+- -------------------------------------------------------------------
+                                               1996           1995
+- -------------------------------------------------------------------
+
+                                 (In thousands)
+Cash flows from operating activities:
+Net income                            $         125  $          12
+Adjustments to reconcile net income
+to net cash provided (used) by
+operating activities:
+Depreciation and amortization of
+property
+and equipment, and amortization
+of
+   deferred items                               182              1
+   Minority interest                            (41)             -
+   Changes in operating assets and
+   liabilities, net   of effects
+   from acquisition of business
+Decrease in accounts receivable               6,731              -
+       Decrease in inventories                1,398              -
+       (Increase)decrease in other
+        assets                                 (268)           291
+       Decrease in accounts payables           (598)             -
+            Increase(decrease) in
+accrued
+expenses and other liabilities                   37           (271)
+- -------------------------------------------------------------------
+Net cash provided (used) by
+operating activities                          7,566             33
+- -------------------------------------------------------------------
+Cash flows from investing
+activities:                                                      -
+   Purchase of property and
+equipment                                       (3)              -
+
+- -------------------------------------------------------------------
+Net cash provided (used) by
+investing activities                            (3)              -
+- -------------------------------------------------------------------
+
+Cash flows from financing
+activities:                                                      -
+   Repayment of notes payable - bank         (7,884)             -
+   Repayment of term loans                     (375)             -
+
+- -------------------------------------------------------------------
+- -------------------------------------------------------------------
+Net cash provided (used) by
+financing activities                         (8,259)             -
+- -------------------------------------------------------------------
+
+Increase in cash and cash
+equivalents                                    (696)            33
+
+Cash and cash equivalents,
+beginning of year                             8,706          9,794
+
+- -------------------------------------------------------------------
+Cash and cash equivalents, end of
+year                                  $       8,010  $       9,827
+- -------------------------------------------------------------------
+The accompanying Notes to Consolidated Financial Statements are an integral part
+of these financial statements.
+ 
+Security Capital Corporation and Subsidiaries
+Notes to Consolidated Financial Statements
+(Unaudited)
+- -------------------------------------------------------------------------
+(1)  Accounting and Financial Reporting Policies
+- -------------------------------------------------------------------------
+
+The accompanying consolidated financial statements include the accounts of
+Security Capital Corporation and all of its subsidiaries engaged in continuing
+operations ("Security Capital" or the "Company"). The Company's subsidiaries
+include Possible Dreams, Ltd., a Delaware corporation, which acquired
+substantially all the assets and assumed certain liabilities of Possible Dreams,
+Ltd. and Columbia National Corporation, both Massachusetts corporations, on May
+17, 1996. All significant intercompany balances and transactions have been
+eliminated in consolidation. The condensed consolidated financial statements
+included herein have been prepared by Security Capital, in accordance with the
+rules and regulations of the Securities and Exchange Commission, without audit.
+
+Security Capital's accounting and financial reporting policies conform with
+generally accepted accounting principles and include adjustments in interim
+periods, consisting only of normal recurring items, considered necessary for a
+fair presentation of the financial statements. Certain information and footnote
+disclosures normally included in financial statements prepared in accordance
+with generally accepted accounting principles have been condensed or omitted
+pursuant to such rules and regulations, although Security Capital believes that
+the accompanying disclosures are adequate to make the information presented not
+misleading. Prior period financial statements are presented for comparative
+purposes. It is suggested that these condensed consolidated financial statements
+be read in conjunction with the consolidated financial statements and the notes
+thereto included in the latest Annual Report of Security Capital on Form 10-K.
+
+This report is a transitional report, due to the Company's Board of Directors,
+on February 13, 1997, approving the change in fiscal years from September 30 to
+December 31. This change to a calendar year will more accurately reflect the
+business cycle of the collectibles industry. This report is being filed pursuant
+to Rule 240.13a-10(c) under the Securites Exchange Act of 1934, as amended, for
+the period October 1, 1996 through December 31, 1996.
+
+- -------------------------------------------------------------------------
+(2)  Federal Income Taxes
+- -------------------------------------------------------------------------
+
+The Company adopted Statement of Financial Accounting Standards ("SFAS") No.
+109, "Accounting for Income Taxes" during fiscal year 1994. SFAS No. 109
+requires the Company to compute deferred income taxes based on the difference
+between the financial statement basis and tax basis of assets and liabilities
+using enacted tax rates in effect in the years in which the differences are
+expected to reverse. The adoption had no effect on financial position or results
+of operations because of a 100% valuation allowance applied against the deferred
+tax assets.
+
+The tax effects of the items comprising the Company's net deferred tax assets at
+September 30, 1996 in the Company's statement of financial position are as
+follows:
+
+                                                September 30, 1996
+             Deferred tax assets:                 (In thousands)
+                  Allowance for doubtful
+             accounts                          $              39
+                  Operating loss
+             carryforwards                                12,122
+                  Accelerated
+             depreciation                                    (17)
+                                                 ----------------
+                                                          12,144
+
+                  100%  Valuation
+             allowance                                   (12,144)
+
+             Net deferred tax  asset           $             -0-
+                                                 ================
+ 
+The Company continued to provide a 100% valuation allowance on all net deferred
+tax assets at September 30, 1996. In addition, the net deferred tax assets at
+December 31, 1996 have not changed materially since September 30, 1996.
+
+Security Capital files a consolidated Federal income tax return with its
+subsidiaries. At September 30, 1996, the Company had net operating loss
+carryforwards for Federal income tax purposes of approximately $17.0 million,
+the expiration dates of which are as follows:
+
+- ---------------------------------------------------------------------
+  September 30,                                               Amount
+- ---------------------------------------------------------------------
+
+(In thousands)
+       1998                                          $           200
+       1999                                                    2,500
+       2000                                                    1,300
+       2001                                                    3,600
+       2002                                                    1,800
+       2003                                                    4,000
+       2004                                                    2,400
+       2006                                                      400
+       2007                                                      200
+       2008                                                      600
+- ---------------------------------------------------------------------
+- ---------------------------------------------------------------------
+                                                     $        17,000
+- ---------------------------------------------------------------------
+
+In addition, in connection with the disposition of a former subsidiary of the
+Company, the Company incurred a tax loss amounting to approximately $26 million.
+The Company believes that a substantial portion of this loss is an ordinary loss
+for Federal income tax purposes which may be carried forward to 2004, although
+there can be no assurance that this position would prevail, if challenged. The
+Company's Federal income tax returns have been examined by the Internal Revenue
+Service (the "IRS") through fiscal year 1986 and the above loss carryforwards,
+including the loss on disposition of the aforementioned subsidiary, remain
+subject to review by the IRS.
+
+- -------------------------------------------------------------------------
+(3)  Earnings Per Share  Fiscal Year 1996 and Fiscal Year 1995
+- -------------------------------------------------------------------------
+
+Earnings per common and common equivalent share amounts are based on the
+weighted average number of shares of Common Stock and Class A Common Stock
+outstanding and the dilutive effect, if any, of outstanding stock options. The
+sum of Common Stock and Class A Common Stock is used because the two classes are
+identical except for certain transfer restrictions imposed on the Class A Common
+Stock. The assumed conversion of these options was anti-dilutive for all periods
+presented, and are thus excluded from the primary and fully diluted earnings per
+share calculations.
+
+On March 20, 1996, the stockholders of the Company approved a proposal to amend
+the Restated Certificate of Incorporation of the Company to effect a
+one-for-eight reverse stock split of the Class A Common Stock and of the Common
+Stock. All references to the number of Common and Class A Common shares and per
+share data in the financial statements have been restated to reflect the reverse
+stock split for periods ending December 31, 1995 or prior.
+
+ The weighted average number of shares outstanding after the one-for-eight
+reverse stock split used in the computation of primary and fully diluted
+earnings per share is as follows (in thousands):
+
+                         Fiscal Year 1996        Fiscal Year 1995
+                              3 MONTHS                3 MONTHS
+                              --------                --------
+Primary                         4,060                  4,060*
+
+Fully diluted                   4,060                  4,060*
+
+ * Restated for one-for-eight reverse stock split.
+ 
+Item 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS
+
+RESULTS OF OPERATIONS- All reference to earnings per common share for periods
+ending on December 31, 1995 or prior have been restated for the one-for-eight
+reverse stock split.
+
+Security Capital had net income of $125,000 for the three month period ended
+December 31, 1996. This compares to net income of $12,000 for the same three
+month period of the prior fiscal year. The Company reported no net income per
+common share (after accrual for Class A Preferred Stock dividends) for the three
+month period ended December 31, 1996 as compared to a net loss per share (after
+accrual for Class A Preferred Stock Dividends) of $.02 for the same three month
+period of the prior fiscal year.
+
+As previously reported, Possible Dreams, Ltd., a Delaware corporation and a
+subsidiary of the Company, acquired substantially all of the assets and assumed
+certain liabilities of Possible Dreams, Ltd., and Columbia National
+Corporation("Sellers"), both Massachusetts corporations, on May 17, 1996. The
+Sellers were engaged in the business of designing, importing, warehousing and
+distributing collectible Christmas figurines and ornaments and, to a lesser
+extent, religious statues. Product sales of the Company increased to $5,073,000
+and gross profit increased to $2,597,000 for the quarter, due to the addition of
+Possible Dreams to the Company's consolidated financial statements. Selling,
+general and administrative expense, which increased by $1,638,000 for the
+quarter to $1,710,000, was also impacted by this event. The Company reported
+operating income for the current quarter of $887,000 as compared to an operating
+loss of $72,000 for the same prior fiscal year quarter. The current quarter
+results reflect the seasonal nature of Possible Dreams business, which is
+typically strongest in the third and fourth calendar year quarters. The Company
+incurred interest expense of $507,000 for the current quarter as compared to no
+interest cost for the same prior year fiscal quarter. This increase in interest
+cost during the current quarter was attributable to debt incurred to acquire
+Possible Dreams as well as borrowing incurred by Possible Dreams for working
+capital during its busiest seasonal period.
+
+The Company's percentage of the net revenues and expenses of Bowen, Miclette,
+Descant & Britt ("BMD&B") is included under the caption "Income(loss) from Joint
+Enterprise". The loss amounted to $211,000 for the three month period ended
+December 31, 1996. This compares to a loss of $90,000 for the same period of the
+prior fiscal year. BMD&B's income was down due to reduced commercial commissions
+primarily due to the soft insurance market in the state of Texas.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+Cash and cash equivalents decreased by $696,000 to $8,010,000 at December 31,
+1996 as compared to $8,706,000 at September 30, 1996. The decrease in cash and
+cash equivalents was primarily attributable to the payment by Possible Dreams to
+the bank pursuant to its credit agreement with the bank. The Company's
+consolidated working capital at December 31, 1996, however, increased by
+$128,000 to $11,909,000 from $11,781,000 at September 30, 1996. This slight
+increase in working capital was attributable to the seasonal nature of the
+business of Possible Dreams.
+
+Possible Dreams' lender has provided various credit facilities to Possible
+Dreams, which includes funds to partially finance the acquisition of Possible
+Dreams, refinance existing bank debt of the Sellers, provide for seasonal
+working capital and letter of credit requirements and to pay transaction
+expenses. These facilities consist of a revolving credit facility and $9,250,000
+in amortizing term debt maturing from five to seven years from the closing date.
+The Company, due to certain covenants in the credit agreement, is required to
+pay down its revolving line of credit to $1,000,000 for a 15 consecutive day
+period during the first quarter of each fiscal year after December 31, 1996.
+Possible Dreams paid to the lender $7,884,000 in working capital loan payments
+to comply with this covenant and $375,000 in term debt pursuant to its credit
+agreement with the lender during the quarter.
+ 
+The Company had no major capital expenditures during the quarter and expects no
+major capital expenditures during calendar 1997. The Company is in the process
+of completing the sale of its insurance brokerage business which is expected to
+close during calendar year 1997. The Company believes that with the addition of
+Possible Dreams, the cash flow of the Company's insurance agency affiliate,
+Foster Insurance Services, Inc., proceeds from the sale of such business and
+cash and cash equivalents at December 31, 1996, there will be sufficient cash on
+hand to meet the Company's working capital and operating expenditure
+requirements during calendar year 1997 and to compete for other acquisition
+opportunities.
+
+                          PART II -- OTHER INFORMATION
+
+ITEM 1.    LEGAL PROCEEDINGS.
+
+                None
+
+ITEM 3...DEFAULT UPON SENIOR SECURITIES
+
+      (a)   None
+
+      (b) The Company's Class A Preferred Stock bears a dividend of 15% per
+      annum payable. Upon redemption or the liquidation of the Company,
+      dividends on Preferred Stock are payable only out of cumulative net income
+      since January 1990. (At a redemption date or upon the liquidation of the
+      Company, accumulated but unpaid dividends are payable in full regardless
+      of earnings since January 1, 1990.) Therefore, since there has been a
+      cumulative net loss since January 1, 1990 of approximately $331,000,
+      preferred stock dividends of $1,537,500 accrued from July 30, 1993 to
+      December 31, 1996 were in arrears at December 31, 1996.
+
+ITEM 6.    EXHIBITS AND REPORTS ON FORM 8-K.
+
+      (a)  EXHIBITS:         None
+
+      (b)
+         DATE OF FILING       DATE OF EVENT REPORTED        ITEMS
+         10-17-96                    8-29-96                Item 5
+                                                            Other events
+ 
+                                   SIGNATURES
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934,
+the Registrant has duly caused this Report to be signed on its behalf by the
+undersigned, thereunto duly authorized.
+
+                        SECURITY CAPITAL CORPORATION
+
+Date: March 31, 1997            By:  A. George Gebauer
+                                     A. George Gebauer, President
+
+Date: March 31, 1997            By: Larry M. Karren
+                                    Larry M. Karren, Treasurer
+                                   (Principal Financial and
+                                    Accounting Officer)
+
+<EX-27>
+ 2
+ FINANCIAL DATA SCHEDULE
+
+WARNING: THE EDGAR SYSTEM ENCOUNTERED ERROR(S) WHILE PROCESSING THIS SCHEDULE.
+
+</EX-27>
+
