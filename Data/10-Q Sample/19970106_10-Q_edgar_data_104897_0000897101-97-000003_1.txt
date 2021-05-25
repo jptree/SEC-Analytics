@@ -1,0 +1,396 @@
+<Header>
+<FileStats>
+    <FileName>19970106_10-Q_edgar_data_104897_0000897101-97-000003_1.txt</FileName>
+    <GrossFileSize>23079</GrossFileSize>
+    <NetFileSize>15470</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>161</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>2</N_Tables>
+    <N_Exhibits>1</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000897101-97-000003.hdr.sgml : 19970107
+ACCESSION NUMBER:		0000897101-97-000003
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19961124
+FILED AS OF DATE:		19970106
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			WASHINGTON SCIENTIFIC INDUSTRIES INC
+		CENTRAL INDEX KEY:			0000104897
+		STANDARD INDUSTRIAL CLASSIFICATION:	ELECTRONIC COMPONENTS, NEC [3679]
+		IRS NUMBER:				410691607
+		STATE OF INCORPORATION:			MN
+		FISCAL YEAR END:			0828
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-00619
+		FILM NUMBER:		97501249
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2605 W WAYZATA BLVD
+		STREET 2:		BOX 340
+		CITY:			LONG LAKE
+		STATE:			MN
+		ZIP:			55356-0340
+		BUSINESS PHONE:		6124731271
+
+	MAIL ADDRESS:	
+		STREET 1:		2605 W WAYZATA BLVD BOX 340
+		STREET 2:		2605 W WAYZATA BLVD BOX 340
+		CITY:			LONG LAKE
+		STATE:			MN
+		ZIP:			55356-0340
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Vpawn3Hs70zW9HV+BLF5Kj++TuCMJmeWaMYMQCfuVivp8AC1fUnLROTbTKcXAb6K
+ q3DJgHIjEae0nZMwWnEJUg==
+
+ 0000897101-97-000003.txt : 19970107
+
+10-Q
+ 1
+
+UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D. C. 20549
+
+                                    FORM 10-Q
+
+(Mark One)
+[X] QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES 
+EXCHANGE ACT OF 1934
+
+For the quarterly period ended November 24, 1996
+
+                                       OR
+
+[ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES
+EXCHANGE ACT OF 1934
+
+For the transition period from________________________ to_______________________
+
+Commission File Number              0-619
+
+                     Washington Scientific Industries, Inc.
+             (Exact name of registrant, as specified in its charter)
+
+Minnesota                                                 41-0691607
+(State or other jurisdiction of                              (I. R. S. Employer
+incorporation of organization)                               Identification No.)
+
+         Long Lake, Minnesota                                       55356
+(Address of principal executive offices)                          (Zip Code)
+
+                                 (612) 473-1271
+              (Registrant's telephone number, including area code)
+
+                                 Not Applicable
+                    (Former name, former address and former
+                   fiscal year, if changed since last report)
+
+         Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15 (d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes _X_    No ___
+
+                      APPLICABLE ONLY TO CORPORATE ISSUERS:
+
+         Indicate the number of shares outstanding of each of the issuer's
+classes of common stock, as of the latest practicable date. 
+2,424,980 Common Shares were outstanding as of December 20, 1996.
+
+WASHINGTON SCIENTIFIC INDUSTRIES, INC.
+
+                                AND SUBSIDIARIES
+
+                                      INDEX
+
+Page No.
+                                                                                      --------
+
+PART I.    FINANCIAL INFORMATION:
+                                                                                        
+         Item 1.  Financial Statements
+                  
+                  Consolidated Balance Sheets November 24, 1996 (Unaudited)
+                  and August 25, 1996                                                     3
+
+                  Consolidated Statements of Operations
+                  Thirteen weeks ended November 24, 1996 and November 26, 1995
+                  (unaudited)                                                             4
+
+                  Consolidated Statements of Cash Flows
+                  Thirteen weeks ended November 24, 1996 and November 26, 1995
+                  (unaudited)                                                             5
+
+                  Notes to Consolidated Financial Statements (unaudited)                  6
+
+         Item 2.  Management's Discussion and Analysis of Financial Condition and
+                  Results of Operations                                                 7,8
+
+PART II.  OTHER INFORMATION:
+
+         Item 5.  Other Information                                                       9
+
+         Item 6.  Exhibits and Reports on Form 8-K                                        9
+
+         Signatures                                                                       9
+
+PART I. FINANCIAL INFORMATION
+
+Item 1. Financial Statements
+
+                     WASHINGTON SCIENTIFIC INDUSTRIES, INC.
+                                AND SUBSIDIARIES
+                      CONDENSED CONSOLIDATED BALANCE SHEETS
+                                   (Unaudited)
+
+          Assets                            November 24,     August 25, 
+          ------                                1996            1996        
+                                            -----------     -----------
+Current Assets:
+     Cash and cash equivalents              $ 1,856,165     $ 1,642,739
+     Accounts receivable                      2,821,854       1,868,942
+     Inventories - work-in-process              987,764       1,098,613
+     Prepaid and other current assets           131,133         123,186
+                                            -----------     -----------
+          Total Current Assets                5,796,916       4,733,480
+
+Property, Plant and Equipment                 6,487,711       6,839,239
+
+Other Long Term Assets                              525             525
+                                            -----------     -----------
+                                            $12,285,152     $11,573,244
+                                            ===========     ===========
+
+Liabilities and Stockholders' Equity
+
+Current Liabilities:
+     Notes payable                          $         0     $         0
+     Trade accounts payable                   1,173,833         785,602
+     Salaries, wages, and withholdings          416,624         474,107
+     Miscellaneous accrued expenses             336,276         324,214
+     Current portion of long-term debt          966,361         953,570
+                                            -----------     -----------
+          Total Current Liabilities           2,893,094       2,537,493
+
+Long-term Debt, less current portion          3,859,064       4,124,188
+
+Long-term Pension Liability                     460,645         458,502
+
+Stockholders' Equity:
+
+     Common stock issued, 2,421,850 and
+          2,420,850 shares respectively         242,185         242,085
+     Capital in excess of par value           1,513,998       1,511,598
+     Retained earnings                        3,316,166       2,699,378
+                                            -----------     -----------
+          Total Stockholders' Equity          5,072,349       4,453,061
+                                            -----------     -----------
+                                            $12,285,152     $11,573,244
+                                            ===========     ===========
+
+          See notes to consolidated financial statements.
+
+WASHINGTON SCIENTIFIC INDUSTRIES, INC.
+
+                      CONSOLIDATED STATEMENT OF OPERATIONS
+                                   (Unaudited)
+
+13 weeks ended
+                                              ----------------------------
+                                              November 24,     November 26,
+                                                  1996            1995
+                                              -----------      -----------
+Net sales                                     $ 5,590,588      $ 5,342,474
+
+Cost of products sold                           4,813,720        4,685,244
+                                              -----------      -----------
+
+     Gross margin                                 776,868          657,230
+
+Selling and administrative expense                518,187          517,920
+
+Interest and other income                        (456,480)         (70,716)
+
+Interest and other expense                         92,573          149,965
+                                              -----------      -----------
+Earnings from operations
+     before income taxes                          622,588           60,061
+
+Income taxes                                        5,800            5,800
+                                              -----------      -----------
+
+Earnings from operations                      $   616,788      $    54,261
+                                              ===========      ===========
+
+Net earnings  per share                       $      0.25      $      0.02
+                                              ===========      ===========
+
+Weighted average number of common and
+     common equivalent shares outstanding       2,458,738        2,466,513
+                                              ===========      ===========
+
+See notes to consolidated financial statements.
+
+WASHINGTON SCIENTIFIC INDUSTRIES, INC.
+
+                                AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                   (Unaudited)
+
+1.       CONSOLIDATED FINANCIAL STATEMENTS:
+
+                  The consolidated balance sheet as of November 24, 1996, the
+         consolidated statements of earnings for the thirteen weeks ended
+         November 24, 1996 and November 26, 1995 and the consolidated statements
+         of cash flows for the thirteen weeks then ended, respectively, have
+         been prepared by the Company without audit. In the opinion of
+         management, all adjustments (which include normal recurring
+         adjustments) necessary to present fairly the financial position,
+         results of operations and cash flows for all periods presented have
+         been made.
+
+                  Certain information and footnote disclosures normally included
+         in financial statements prepared in accordance with generally accepted
+         accounting principles have been condensed or omitted. Therefore, these
+         condensed consolidated financial statements should be read in
+         conjunction with the financial statements and notes thereto included in
+         the Company's 1996 annual report to shareholders. The results of
+         operations for interim periods are not necessarily indicative of the
+         operating results for the full year.
+
+2        DEBT AND LINE OF CREDIT:
+
+                  On March 31, 1995, the Company amended its line of credit
+         agreement and refinanced its term debt. The Agreement, which combines
+         the line of credit and term debt, will expire on March 31, 1998 and is
+         with the same bank with which the Company previously had its line of
+         credit.
+
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+
+                                       and
+
+                              RESULTS OF OPERATIONS
+
+Results of Operations:
+
+                  Net sales of $5,591,000 for the quarter ending November 24,
+         1996 increased $248,000 or 4.6% from the first quarter of the prior
+         year. Primary changes in sales included a decrease in the computer
+         market of $814,000, a decrease in the industrial compressor market of
+         $638,000 and an increase in the agricultural market of $1,720,000.
+
+                  Gross margin improved to 13.9% of sales in the first quarter
+         of fiscal 1997 compared to 12.3% in the prior year's first quarter. The
+         improved gross margin resulted primarily from cost reductions and
+         improved manufacturing efficiencies.
+
+                  Selling and administrative expense of $518,000 was comparable
+         to the first quarter of the prior year.
+
+                  Interest and other income was $386,000 higher than the
+         comparable quarter of the prior year. The increase included $410,000
+         net gain from the disposition of excess equipment related to completed
+         or discontinued manufacturing programs.
+
+                  Interest and other expense of $93,000 decreased $57,000 from
+         the prior year's first quarter because of lower term debt balances.
+
+                  In the first quarter of fiscal 1997, the Company recorded
+         $5,800 of mandatory state income taxes and was able to recognize the
+         benefit of a portion of its net operating loss carryforwards. The
+         Company has not recorded the benefit of net operating losses and other
+         net deductible temporary differences in the consolidated statement of
+         operations due to the fact that the Company has not been able to
+         establish that it is more likely than not that the tax benefits will be
+         realized.
+
+Liquidity and Capital Resources:
+
+                  On November 24, 1996, working capital was $2,904,000 compared
+         to $2,196,000 at August 25, 1996, an increase of $708,000, due
+         primarily to an increase in accounts receivable. The ratio of current
+         assets to current liabilities at November 24, 1996 and August 25, 1996
+         was 2.0 to 1.0 and 1.87 to 1.0, respectively.
+
+                  On November 24, 1996, the Company did not have an outstanding
+         bank notes payable balance. As of that date the Company had cash and
+         cash equivalents of $1,856,000.
+
+                  It is management's belief that its internally generated funds
+         combined with the line of credit will be sufficient to enable the
+         Company to meet its financial requirements during fiscal 1997.
+
+         Cautionary Statement:
+
+                  The statements included herein which are not historical or
+         current facts are "forward-looking statements" made pursuant to the
+         safe harbor provisions of the Private Securities Reform Act of 1995.
+         There are certain important factors which could cause actual results to
+         differ materially from those anticipated by some of the statements made
+         herein, including the Company's ability to obtain additional
+         manufacturing programs and retain current programs and other factors
+         detailed from time to time in the Company's SEC reports, including the
+         report on Form 10-K for the year ended August 25, 1996.
+
+PART II.  OTHER INFORMATION:
+
+         Item 5.  Other Information:
+
+                  On December 2, 1996, the State of Texas issued a Certificate
+                  of Dissolution for WSI South, Inc., a wholly owned subsidiary
+                  of the Company which was formerly engaged in plastic injection
+                  molding and discontinued in June, 1993.
+
+         Item 6.  Exhibits and Reports on Form 8-K:
+
+                  a.  Exhibit 27. Financial Data Schedule
+
+                  b.  There were no reports on Form 8-K filed for the thirteen 
+                      weeks ended November 24, 1996.
+
+                                   SIGNATURES
+
+         Pursuant to the requirements of the Securities Exchange Act of 1934,
+the Registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+                                         WASHINGTON SCIENTIFIC INDUSTRIES, INC.
+                                         ---------------------------------------
+
+Date:  January 3, 1997                   /s/ Michael J. Pudil
+       ---------------                   ---------------------------------------
+                                         Michael J. Pudil, President & CEO
+
+Date:  January 3, 1997                   /s/ W. J. Lucke
+       ---------------                   ---------------------------------------
+                                         W. J. Lucke, Vice President & Treasurer
+
+<EX-27>
+ 2
+ FINANCIAL DATA SCHEDULE
+
+</EX-27>
+

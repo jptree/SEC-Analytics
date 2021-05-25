@@ -1,0 +1,575 @@
+<Header>
+<FileStats>
+    <FileName>19970109_10-Q_edgar_data_75288_0000075288-97-000003_1.txt</FileName>
+    <GrossFileSize>28254</GrossFileSize>
+    <NetFileSize>24133</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>241</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>1</N_Tables>
+    <N_Exhibits>3</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000075288-97-000003.hdr.sgml : 19970110
+ACCESSION NUMBER:		0000075288-97-000003
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	19961129
+FILED AS OF DATE:		19970109
+SROS:			NYSE
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			OXFORD INDUSTRIES INC
+		CENTRAL INDEX KEY:			0000075288
+		STANDARD INDUSTRIAL CLASSIFICATION:	MEN'S & BOYS' FURNISHINGS, WORK CLOTHING, AND ALLIED GARMENTS [2320]
+		IRS NUMBER:				580831862
+		STATE OF INCORPORATION:			GA
+		FISCAL YEAR END:			0531
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-04365
+		FILM NUMBER:		97502943
+
+	BUSINESS ADDRESS:	
+		STREET 1:		222 PIEDMONT AVE NE
+		CITY:			ATLANTA
+		STATE:			GA
+		ZIP:			30308
+		BUSINESS PHONE:		4046592424
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ Fwfx1lFxXZ/wF0gIbtbfjwsx6EIlBdrasf6VoB4fdHIC0vnZTR9ntyujn9cSs5w9
+ T2tkONhQXOuUP9O192JG3A==
+
+ 0000075288-97-000003.txt : 19970110
+
+10-Q
+ 1
+ FORM 10-Q
+
+11
+
+               SECURITIES AND EXCHANGE COMMISSION
+                    WASHINGTON, D.C.  20549
+                           FORM 10-Q
+
+       [ X ]  Quarterly Report Pursuant To Section 13 or 15(d) of
+                 The Securities Exchange Act of 1934
+
+        For the quarterly period ended November 29, 1996
+                                        ----------------
+                                  OR
+       [   ]  Transition Report Pursuant To Section 13 or 15(d) of
+                 The Securities Exchange Act of 1934
+
+For the transition period from                 to
+                               ----------------  ----------------
+Commission File Number 1-4365
+                       ------
+
+                    OXFORD INDUSTRIES, INC.
+- ------------------------------------------------------------------
+     (Exact name of registrant as specified in its charter)
+
+            Georgia                           58-0831862
+- -------------------------------     ------------------------------
+(State or other jurisdiction of           (I.R.S. Employer
+incorporation or organization)         Identification Number)
+
+       222 Piedmont Avenue, N.E., Atlanta, Georgia  30308
+       --------------------------------------------------
+            (Address of principal executive offices)
+                           (Zip Code)
+
+                         (404) 659-2424
+      ----------------------------------------------------
+      (Registrant's telephone number, including area code)
+
+                         Not Applicable
+- ------------------------------------------------------------------
+(Former name, former address and former fiscal year, if changed  since
+last report.)
+
+      Indicate by check mark whether the registrant (1) has filed  all
+reports  required to be filed by Section 13 or 15(d) of the Securities
+Exchange  Act  of  1934 during the preceding 12 months  (or  for  such
+shorter period that the registrant was required to file such reports),
+and  (2) has been subject to such filing requirements for the past  90
+days.
+Yes   X     No
+    -----      -----
+
+     Indicate the number of shares outstanding of each of the issuer's
+classes of common stock, as of the latest practicable date.
+
+                                   Number of shares outstanding
+    Title of each class                as of January 6, 1997
+- ---------------------------        ----------------------------
+Common Stock, $1 par value                   8,727,561
+
+PART I.  FINANCIAL INFORMATION
+
+Item 1. Financial Statements.
+- -----------------------------
+
+OXFORD INDUSTRIES, INC
+                  CONSOLIDATED STATEMENT OF EARNINGS
+ SIX MONTHS AND QUARTERS ENDED NOVEMBER 29, 1996 AND DECEMBER 1, 1995
+                              (UNAUDITED)
+
+Six months Ended              Quarter Ended
+                      -------------------------   ------------------------
+$in thousands except    November 29, December 1,    November 29, December 1,
+per share amounts          1996        1995            1996         1995
+                      ------------ -----------    ------------ -----------
+Net Sales                 $375,751    $376,320       $203,234   $187,066
+
+Costs and Expenses:
+   Cost of Goods Sold      307,218     312,353        166,275    155,222
+   Selling, general and
+    administrative          49,576      50,914         24,890     25,596
+   Provision for environmental
+    remediation                  -       4,500              -          -
+   Interest                  2,167       3,717          1,071      1,876
+                           -------     -------        -------    -------
+Total Costs and Expenses   358,961     371,484        192,236    182,694
+                           -------     -------        -------    -------
+
+Earnings Before 
+  Income Taxes              16,790       4,836         10,998      4,372
+
+Income Taxes                 6,716       1,935          4,399      1,749
+                           -------     -------        -------    -------
+Net Earnings              $ 10,074     $ 2,901        $ 6,599    $ 2,623
+                          ========     =======        =======    =======
+Net earnings Per
+Common share                 $1.15       $0.33          $0.75      $0.30
+                           =======     =======        =======    =======
+Average Number of Shares
+   Outstanding           8,741,465   8,707,324      8,707,924  8,714,170
+                         =========   =========      =========  =========
+Dividends Per Share          $0.40       $0.40          $0.20      $0.20
+                         =========   =========      =========  =========
+
+See notes to consolidated financial statements.
+
+OXFORD INDUSTRIES, INC.
+                      CONSOLIDATED BALANCE SHEETS
+         NOVEMBER 29, 1996, MAY 31, 1996 AND DECEMBER 1, 1995
+                  (UNAUDITED EXCEPT FOR MAY 31, 1996)
+
+$ in thousands          November 29,        May 31,       December 1,
+- --------------               1996             1996           1995
+                         -----------        -------       -----------
+Assets
+- ------
+Current Assets:
+  Cash                       $ 3,710       $ 1,015           $ 4,254
+  Receivables                107,786        84,593            95,674
+  Inventories:
+     Finished goods           66,956        75,787            81,981
+Work in process               22,509        24,717            17,493
+     Fabric, trim & supplies  31,818        36,285            30,896
+                            --------      --------          --------
+                             121,283       136,789           130,370
+  Prepaid expenses            13,910        13,747            14,565
+                            --------      --------          --------
+     Total Current Assets    246,689       236,144           244,863
+Property Plant and Equipment  34,299        36,659            38,961
+Other Assets                   5,941         6,300             7,600
+                            --------      --------          --------
+  Total Assets              $286,929      $279,103          $291,424
+                            ========      ========          ========
+
+Liabilities and Stockholders' Equity
+- ------------------------------------
+Current Liabilities
+  Notes payable              $28,000       $25,500           $38,000
+  Trade accounts payable      39,644        49,676            36,022
+  Accrued compensation         8,715         7,225             7,784
+  Other accrued expenses      19,327        13,014            13,580
+  Dividends payable            1,743         1,760             1,745
+  Income taxes                 3,224             -                 -
+  Current maturities of long-
+     term debt                 1,397         1,632             4,625
+                            --------      --------          --------
+ Total Current Liabilities   102,050        98,807           101,756
+
+  Long-Term Debt, less
+     current maturities       44,284        45,051            48,953
+
+  Noncurrent Liabilities       4,500         4,500             4,500
+
+  Deferred Income Taxes        1,844         1,786             3,825
+
+  Stockholders' Equity:
+   Common stock                8,716         8,803             8,730
+   Additional paid in capital  8,342         8,211             7,419
+   Retained earnings         117,193       111,945           116,241
+                            --------      --------          --------
+  Total Stockholders' Equity 134,251       128,959           132,390
+                            --------      --------          --------
+  Total Liabilities and
+     Stockholders' Equity   $286,929      $279,103          $291,424
+                            ========      ========          ========
+
+See notes to consolidated financial statements.
+
+OXFORD INDUSTRIES, INC.
+                 CONSOLIDATED STATEMENTS OF CASH FLOWS
+        SIX MONTHS ENDED NOVEMBER 29, 1996 AND DECEMBER 1, 1995
+                              (UNAUDITED)
+                                                  November 29,   December 1,
+
+1996            1995
+Cash Flows From Operating Activities       ---------------------------------
+- ------------------------------------
+   Net earnings                                $    10,074    $  2,901
+   Adjustments to reconcile net earnings to
+   net cash provided by operating activities:
+    Depreciation and amortization                    4,130       3,972
+   Provision for environmental remediation               -       4,500
+    (Gain) on sale of property, plant
+     and equipment                                    (380)        (47)
+
+   Changes in working capital:
+     Receivables                                   (23,193)     (9,626)
+     Inventories                                    15,506      40,639
+     Prepaid expenses                                 (163)     (1,535)
+     Trade accounts payable                        (10,032)    (19,135)
+     Accrued expenses and other current
+        liabilities                                  7,803          90
+     Income taxes payable                            3,224           -
+  Deferred income taxes                                 58        (37)
+  Other noncurrent assets                              (49)     (1,193)
+  Net cash flows provided by                    -----------   ---------
+      operating activities                           6,978      20,529
+
+Cash Flows From Investing Activities
+- ------------------------------------
+  Acquisitions                                           -      (8,763)
+Proceeds from sale of business                           -       1,273
+Purchase of property, plant and equipment           (2,764)     (4,760)
+Proceeds from sale of property, plant and
+    and equipment                                    1,782         500
+                                                  --------  ----------
+     Net cash used in investing activities            (982)    (11,750)
+
+Cash Flows From Financing Activities
+- ------------------------------------
+  Short-term borrowings                              2,500      (5,500)
+  Payments on long-term debt                        (1,002)      1,835
+  Proceeds from exercise of stock options              202         395
+  Purchase and retirement of common stock           (1,500)          -
+  Dividends on common stock                         (3,501)     (3,480)
+     Net cash (used in)                             ------     -------
+        financing activities                        (3,301)     (6,750)
+
+Net change in Cash and Cash Equivalents              2,695       2,029
+Cash and Cash equivalents at Beginning of Period     1,015       2,225
+                                                  --------    --------
+Cash and Cash Equivalents at End of Period         $ 3,710     $ 4,254
+                                                  ========    ========
+
+Supplemental Disclosure of Cash Flow Information
+- ------------------------------------------------
+     Cash paid for:
+        Interest                                  $  2,010    $  3,513
+        Income taxes                                 4,007          44
+
+See notes to consolidated financial statements.
+
+OXFORD INDUSTRIES, INC.
+              NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+         QUARTERS ENDED NOVEMBER 29, 1996 AND DECEMBER 1, 1995
+
+1.      The  foregoing unaudited consolidated financial statements
+  reflect all adjustments which are, in the opinion of management,
+  necessary  to  a fair statement of the results for  the  interim
+  periods.  All such adjustments are of a normal recurring nature.
+  The  results for interim periods are not necessarily  indicative
+  of results to be expected for the year.
+
+2.     The financial information presented herein should be read in
+  conjunction with the consolidated financial statements  included
+  in  the  Registrant's Annual Report on Form 10-K for the  fiscal
+  year ended May 31, 1996.
+
+3.      The Company is involved in certain legal matters primarily
+  arising  in  the normal course of business.  In the  opinion  of
+  management,  the Company's liability under any of these  matters
+  would  not materially affect its financial condition or  results
+  of operations.
+
+Item 2 Management's Discussion and Analysis of Financial Condition and
+                         Results of Operations
+
+NET SALES
+     Net sales for the second quarter of the 1997 fiscal year, which
+ended November 29, 1996, increased 8.6% from net sales for the same
+period of the prior year.  Net sales for the first six months of the
+current year decreased by 0.2% from net sales for the same period of
+the prior year.
+
+     Second quarter net sales increases in the Company's Men's Slacks
+Group, Tailored Clothing Group and Womenswear Group were slightly
+offset by decreases in the Men's Shirt Group and last year's
+divestiture (B.J. Designs) and closure (RENNY(r)).  Within the Company's
+Men's Shirt Group, increased sales for Tommy Hilfiger(r) Golf, Tommy
+Hilfiger Dress shirts and Polo(r) for Boys were offset by declines in
+the private label lines while Ely & Walker net sales were flat with
+last year.  The decline in the Men's Shirt Group private label net
+sales is attributable to the Company's exit from the wet process
+"wrinkle-free" product.
+
+     The Company experienced an overall net sales unit volume increase
+of 7.6% while experiencing an overall 1.0% increase in the averages
+sales price per unit during the second quarter of the current year.
+Second quarter net sales included greater increased sales in the
+Company's licensed designer divisions  (with higher average sales per
+unit) than in the private label divisions.  For the first six months
+of the current year the Company experienced a 5.6% decrease in overall
+net sales unit volume while managing a 5.7% increase in the average
+sales price per unit.
+
+COST OF GOODS SOLD
+     Cost of goods sold as a percentage of net sales, was 81.8% in the
+second quarter of the current year as compared to 83.0% in the second
+quarter of the prior year.  For the first half of the current fiscal
+year, cost of goods sold as a percentage of net sales was 81.8% and
+83.0% for the first half of the prior fiscal year.  The decrease in
+cost of goods sold as a percentage of net sales was due in part to the
+increased sales of higher margin lines.  Another factor contributing
+to the decreased percentage was the continuation of the shift from
+domestic production to offshore production yielding relative decreased
+costs per unit.
+
+SELLING, GENERAL AND ADMINISTRATIVE EXPENSES
+     Selling, general and administrative expenses decreased by 2.8% to
+$24,890,000 in the second quarter of fiscal 1997 from $25,596,000 in
+the same period of fiscal 1996.  Selling, general and administrative
+expenses decreased by 2.6% to $49,576,000 for the first six months of
+the current year from $50,914,000 for the first six months of the
+prior year.  As a percentage of net sales, selling general and
+administrative expenses decreased to 12.2% for the second quarter of
+the current year from 13.7% for the second quarter of the prior year,
+and decreased to 13.2% for the first half of the current year from
+13.5% for the first half of the prior year.  The decrease in selling,
+general and administrative expenses are predominantly the result of
+last year's divisional divestiture (B.J. Designs) and closure (RENNY).
+
+INTEREST EXPENSE
+     Net interest expense declined by $805,000 to $1,071,000 or 0.5%
+of net sales in the second quarter of the current year from $1,876,000
+or 1.0% of net sales in the second quarter of the prior year.  Net
+interest expense declined by $1,550,000 to $2,167,000 or 0.6% of net
+sales in the first half of the current year from $3,717,000 or 1.0% of
+net sales in the first half of the prior year.  The reduction in
+interest expense was due primarily to the reduced inventory from the
+prior year.
+
+INCOME TAXES
+     The Company's effective tax rate was 40.0% in the second quarter
+of both the current and previous year and for the first half of both
+the current and previous year and does not differ significantly from
+the Company's statutory rate.
+
+FUTURE OPERATING RESULTS
+     At the current writing, the Christmas retail results appear to
+have been mixed with most retailers expecting only modest single-digit
+percentage sales gains.  The Company expects the continuation of
+highly competitive market conditions at wholesale and at retail.  The
+Company expects to produce a solid single-digit sales gain in the
+second half.  If the Company's sales expectations are achieved, the
+Company expects a solidly profitable second half.
+
+                    LIQUIDITY AND CAPITAL RESOURCES
+
+OPERATING ACTIVITIES
+     Operating activities generated $6,978,000 during the first six
+months of the current year and $20,529,000 in the first six months of
+the prior year.  The primary factors contributing to this reduced
+generation of funds was a smaller decrease in trade payables offset by
+increased receivables and a smaller decrease in inventory than from
+the prior year.
+
+INVESTING ACTIVITIES
+     Investing activities used $982,000 in the first half of the
+current year and $11,750,000 in the first half of the prior year.  The
+primary factor contributing to this change was the acquisition of Ely
+& Walker in the first quarter of the prior year.
+
+FINANCING ACTIVITIES
+     Financing activities used $3,301,000 in the first half of the
+current year and $6,750,000 in the first half of the prior year.  The
+primary factors contributing to this change were the change in short-
+term borrowings and long-term debt.
+     The Company purchased and retired 100,000 shares of its common
+stock during the six months ended November 29, 1996.  During the
+period after the end of the second quarter through January 6,1997, no
+shares have been purchased and retired.  Due to the exercise of
+employee stock options a net of 12,240 shares of the Company's common
+stock were issued during the first six months and 15,000 shares were
+issued since November 29,1996 through January 6, 1997.
+
+     On January 6, 1997, the Company's Board of Directors declared a
+cash dividend of $.20 per share payable March 1, 1997 to shareholders
+of record on February 14, 1997.
+
+WORKING CAPITAL
+     Working capital decreased from $143,107,000 at the end of the
+second quarter of the prior year to $137,337,000 at the end of the
+1996 fiscal year and increased to $144,639,000 at the end of the
+second quarter of the current fiscal year.  The ratio of current
+assets to current liabilities was 2.4 at the end of the second quarter
+of the prior year, 2.4 at the end of the prior fiscal year, and 2.4 at
+the end of the second quarter of the current year.
+
+FUTURE LIQUIDITY AND CAPITAL RESOURCES
+
+     The Company believes it has the ability to generate cash and/or
+has available borrowing capacity to meet its foreseeable needs.  The
+sources of funds primarily include funds provided by operations and
+both short and long-term borrowings.  The uses of funds primarily
+include working capital requirements, capital expenditures,
+acquisitions, dividends and repayment of long-term debt.  The Company
+regularly utilizes committed bank lines of credit and other
+uncommitted bank resources to meet working capital requirements.  On
+November 29, 1996, the Company had available for its use lines of
+credit with several lenders aggregating $52,000,000.  The Company has
+agreed to pay commitment fees for these available lines of credit.  At
+November 29, 1996, $50,000,000 was in use under these lines.  Of the
+$50,000,000, $40,000,000 is long-term.  In addition, the Company has
+$186,000,000 in uncommitted lines of credit, of which $98,000,000 is
+reserved exclusively for letters of credit.  The Company pays no
+commitment fees for these available lines of credit.  At November 29,
+1996, $18,000,000 was in use under these lines of credit.  Maximum
+borrowings from all these sources during the first six months of the
+current year were $96,000,000 of which $56,000,000 was short-term.
+The Company anticipates continued use and availability of both
+committed and uncommitted  resources as working capital needs may
+require.
+
+     The Company considers possible acquisitions of apparel-related
+businesses that are compatible with its long-term strategies.  There
+are no present plans to sell securities or enter into off-balance
+sheet financing arrangements.
+
+ADDITIONAL INFORMATION
+
+     For additional information concerning the Company's operations,
+cash flows, liquidity and capital resources, this analysis should be
+read in conjunction with the Consolidated Financial Statements and the
+Notes to Consolidated Financial Statements contained in the Company's
+Annual Report for fiscal 1996.
+
+PART II.  OTHER INFORMATION
+
+Item 6.  Exhibits and Reports on Form 8-K.
+- ------------------------------------------
+
+(a) Exhibits.
+    ---------
+   11   Statement re computation of per share earnings.
+
+27   Financial Data Schedule.
+
+(b) Reports on Form 8-K.
+    --------------------
+     The Registrant did not file any reports on Form 8-K during the
+     quarter ended November 29, 1996.
+
+SIGNATURES
+
+   Pursuant to the requirements of the Securities Exchange Act of
+1934, the Registrant has duly caused this report to be signed on its
+behalf by the undersigned thereunto duly authorized.
+
+OXFORD INDUSTRIES, INC.
+                                -----------------------
+                                     (Registrant)
+
+/s/Ben B. Blount, Jr.
+                                --------------------------
+Date: JANUARY 9, 1997           Ben B. Blount, Jr.
+      ---------------           Chief Financial Officer
+
+<EX-11>
+ 2
+
+12
+
+                           EXHIBIT 11
+
+                    OXFORD INDUSTRIES, INC.
+               COMPUTATION OF PER SHARE EARNINGS
+        SIX MONTHS AND QUARTERS ENDED NOVEMBER 29, 1996
+                      AND DECEMBER 1, 1995
+                          (UNAUDITED)
+
+Six Months Ended               Quarter Ended
+                  ------------------------------  --------------------------
+                  November 29,     December 1,    November 29,   December 1,
+                       1996           1995           1996            1995
+                  ---------------   ------------   ------------   ----------
+ Net Earnings        $10,074,000     $2,901,000   $6,599,000     $2,623,000
+
+   Average Number of Shares
+  Outstanding:
+
+  Primary              8,745,029      8,802,440    8,709,136      8,793,512
+  Fully diluted        8,747,440      8,808,214    8,709,875      8,805,171
+  As reported*         8,741,465      8,707,324    8,707,924      8,714,170
+
+ Net Earnings per Common Share:
+
+  Primary                  $1.15          $0.33        $0.75          $0.30
+  Fully diluted            $1.15          $0.33        $0.75          $0.30
+  As reported*             $1.15          $0.33        $0.75          $0.30
+
+* Common stock equivalents (which arise solely from outstanding stock options)
+are  not materially dilutive and, accordingly, have not been considered
+in the computation of reported net earnings per common share.
+
+</EX-11>
+
+<EX-27>
+ 3
+
+</EX-27>
+
+<EX-99>
+ 4
+
+14
+
+                           EXHIBIT 99
+                                
+                        INDEX OF EXHIBITS
+                    INCLUDED HERIN, FORM 10-Q
+                        NOVEMBER 29, 1996
+                                                     SEQUENTIAL
+EXHIBIT                                                 PAGE
+NUMBER              DESCRIPTION                        NUMBER
+- -----------------------------------------------------------------
+
+11    Statement re computation of per share earnings    12
+
+27    Financial Data Schedule                           13
+
+</EX-99>
+

@@ -1,0 +1,481 @@
+<Header>
+<FileStats>
+    <FileName>19970109_10-Q_edgar_data_773720_0001012870-97-000041_1.txt</FileName>
+    <GrossFileSize>27032</GrossFileSize>
+    <NetFileSize>20839</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>193</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>2</N_Tables>
+    <N_Exhibits>1</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0001012870-97-000041.hdr.sgml : 19970110
+ACCESSION NUMBER:		0001012870-97-000041
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	19961031
+FILED AS OF DATE:		19970109
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			DSP TECHNOLOGY INC
+		CENTRAL INDEX KEY:			0000773720
+		STANDARD INDUSTRIAL CLASSIFICATION:	INSTRUMENTS FOR MEAS & TESTING OF ELECTRICITY & ELEC SIGNALS [3825]
+		IRS NUMBER:				942832651
+		STATE OF INCORPORATION:			CA
+		FISCAL YEAR END:			0131
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-14677
+		FILM NUMBER:		97503089
+
+	BUSINESS ADDRESS:	
+		STREET 1:		48500 KATO RD
+		CITY:			FREMONT
+		STATE:			CA
+		ZIP:			94538
+		BUSINESS PHONE:		5106577555
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ JmeJK6qXlRrWv+ckkO4z1hooyuJXRR3QsjpzEp0Cjk5ku6aSNL6TUg+Qxiv7FA1d
+ ZI+CZpB7iDWqKTuFVPbxHw==
+
+ 0001012870-97-000041.txt : 19970110
+
+10-Q
+ 1
+ FORM 10-Q
+
+SECURITIES AND EXCHANGE COMMISSION
+                            Washington, D.C.  20549
+                                   FORM 10-Q
+
+  X    Quarterly report pursuant to Section 13 or 15(d) of the Securities
+- -----  Exchange Act of 1934
+       For the quarterly period ended OCTOBER 31, 1996 or
+                                      ----------------
+
+_____  Transition report pursuant to Section 13 or 15(d) of the Securities
+       Exchange Act of 1934
+       For the transition period from __________________ to ___________________
+
+0-14677
+Commission File Number ________________________________________________________
+
+DSP TECHNOLOGY INC.
+_______________________________________________________________________________
+             (Exact name of registrant as specified in its charter)
+
+CALIFORNIA                                 94-2832651
+- --------------------------------             -------------------------
+(State or other jurisdiction of                    I.R.S. Employer
+ incorporation or organization)                Identification Number
+
+48500 KATO RD., FREMONT, CA                     94538
+- ----------------------------------------     -------------------------
+(Address of principal executive offices)            (Zip Code)
+
+(510) 657-7555
+- -------------------------------------------------------------------------------
+             (Registrant's telephone number including area code)
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15 (d) of the Securities Exchange Act of 1934
+during the preceding 12 months (or for such shorter period that the registrant
+was required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.
+
+                        YES     X        NO ____ 
+                              _____
+                                        
+         APPLICABLE ONLY TO ISSUERS INVOLVED IN BANKRUPTCY PROCEEDINGS
+                        DURING THE PRECEDING FIVE YEARS:
+
+Indicate by check mark whether the registrant has filed all documents and
+reports required to be filed by Sections 12, 13 or 15(d) of the Securities
+Exchange Act of 1934 subsequent to the distribution of securities under a plan
+confirmed by a court.
+
+                          YES  ______      NO ________
+
+                     APPLICABLE ONLY TO CORPORATE ISSUERS:
+
+Indicate number of shares outstanding of each of the issuer's classes of common
+stock, at the latest practical date:
+
+          CLASS                 OUTSTANDING AS OF DECEMBER 20, 1996
+          -----                 -----------------------------------
+          COMMON STOCK                      2,179,962
+
+                                       1
+
+DSP TECHNOLOGY INC. AND SUBSIDIARIES
+
+                               TABLE OF CONTENTS
+
+                                   FORM 10-Q
+
+Page
+                                                                       ----
+PART I.        FINANCIAL INFORMATION
+
+Item 1.  Financial Statements:
+
+         Consolidated Balance Sheets -
+              October 31, 1996 and January 31, 1996                      3
+ 
+         Consolidated Statements of Income -
+              Three months and nine months ended October 31, 
+              1996 and 1995                                              4
+ 
+         Consolidated Statements of Cash Flows -
+              Nine months ended October 31, 1996 and 1995                5
+ 
+         Notes to Consolidated Financial Statements                      6
+ 
+Item 2.  Management's Discussion and Analysis of
+              Financial Condition and Results of Operations              7
+ 
+PART II.       OTHER INFORMATION
+
+Item 4.  Submission of Matters to a Vote of Security Holders
+
+Item 6.  Exhibits and Reports on Form 8-K.                               8
+
+         Signatures                                                      9
+
+                                       2
+
+DSP TECHNOLOGY INC. AND SUBSIDIARIES
+
+                          CONSOLIDATED BALANCE SHEETS
+                             (Dollars in thousands)
+ 
+                                                   October 31,    January 31,
+                                                       1996          1996
+                                                   ------------   -----------
+ASSETS                                             (Unaudited)
+ 
+Current assets:
+     Cash and certificates of deposit                  $   898        $ 2,015
+     Accounts receivable                                 4,360          3,302
+     Inventories                                         2,432          2,195
+     Deferred income taxes                                 257            257
+     Prepaid expenses                                      217            155
+                                                       -------        -------
+       Total current assets                              8,164          7,924
+ 
+Property and equipment                                   1,484          1,044
+Cost in excess of net assets of acquired
+ business                                                  372            403
+Other assets                                             1,225            923
+                                                       -------        -------
+                                                       $11,245        $10,294
+                                                       =======        =======
+LIABILITIES AND SHAREHOLDERS' EQUITY
+ 
+Current liabilities:
+     Accounts payable                                  $   421        $   459
+     Accrued liabilities                                 1,860          1,371
+     Income taxes payable                                  350            622
+                                                       -------        -------
+       Total current liabilities                         2,631          2,452
+ 
+Deferred income taxes                                      145            144
+ 
+Commitments and contingencies                              --              --
+ 
+Shareholders' equity:
+     Preferred stock. Authorized 2,500,000 shares;
+        none issued                                        --              --
+     Common stock. 25,000,000 shares authorized;
+        shares issued and outstanding: 2,179,962 at
+        October 31 and 2,154,463 at January 31           2,987          2,920
+     Retained earnings                                   5,482          4,778
+                                                       -------        -------
+       Total shareholders' equity                        8,469          7,698
+                                                       -------        -------
+                                                       $11,245        $10,294
+                                                       =======        =======
+ 
+ The accompanying notes are an integral part of these financial statements.
+
+                                       3
+
+DSP TECHNOLOGY INC. AND SUBSIDIARIES
+
+                       CONSOLIDATED STATEMENTS OF INCOME
+                    (In thousands, except per share amounts)
+                                  (Unaudited)
+
+The accompanying notes are an integral part of these financial statements.
+
+                                       4
+
+DSP TECHNOLOGY INC. AND SUBSIDIARIES
+
+                     CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                  (Thousands)
+ 
+                                                         Nine months ended
+                                                            October 31,
+                                                      -----------------------
+                                                        1996            1995
+                                                      --------        -------
+                                                            (Unaudited)
+Cash flows from operating activities:
+  Net income                                          $   704          $  827
+  Adjustments to reconcile net income to net
+    cash provided by operating activities:
+    Depreciation and amortization                         610             501
+    Changes in current assets and liabilities:
+      Accounts receivable                              (1,058)            872
+      Inventories                                        (237)           (754)
+      Prepaid expenses                                    (62)            (26)
+      Accounts payables                                   (38)            248
+      Accrued liabilities                                 489            (412)
+      Income taxes payable                               (272)            131
+                                                      -------          ------
+       Net cash provided by (used in)  operating 
+        activities                                        136           1,387
+                                                      -------          ------
+Cash flows from investing activities:
+  Purchases of property and equipment                    (806)           (343)
+  Investment in software development                     (405)           (117)
+  Other                                                  (109)            (68)
+                                                      -------          ------
+ 
+      Net cash investing activities                    (1,320)           (528)
+                                                      -------          ------
+ 
+Cash flows from financing activities:
+  Proceeds from issuance of common stock                   67             150
+                                                      -------          ------
+      Net cash provided by financing activities            67             150
+                                                      -------          ------
+ 
+Increase (decrease) in cash                            (1,117)          1,009
+                                                      -------          ------
+ 
+Cash at beginning of period                             2,015           1,334
+                                                      -------          ------
+ 
+Cash at end of period                                 $   898          $2,343
+                                                      =======          ======
+ 
+Supplemental disclosure of cash flow information:
+  Cash paid during period for income taxes            $   559          $  433
+                                                      =======          ======
+
+   The accompanying notes are an integral part of these financial statements.
+
+                                       5
+
+DSP TECHNOLOGY INC. AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                  (Unaudited)
+
+1.   Basis of Presentation.
+     --------------------- 
+
+     The accompanying consolidated financial statements have been prepared,
+     without audit, in accordance with Securities and Exchange Commission
+     requirements for interim financial statements. Therefore, they do not
+     include all the disclosures that would be presented in the Company's Annual
+     Report on Form 10-K. The financial statements should be read in conjunction
+     with the Company's January 31, 1996 financial statements and accompanying
+     notes thereto.
+
+     The information furnished reflects all adjustments (consisting only of
+     normal recurring adjustments) that are, in the opinion of management,
+     necessary for a fair presentation of financial position, results of
+     operations and cash flows for the interim period. The results of operations
+     for the periods presented are not necessarily indicative of results to be
+     expected for the full year.
+
+2.   Inventories.  Inventories are stated at the lower of cost (first-in, first-
+     -----------                                                               
+     out) or market. Inventories consist of:
+ 
+                                   October 31,   January 31,
+                                      1996          1996
+                                   -----------   -----------
+                                          (thousands)
+     Raw materials                   $1,314        $1,247
+     Work in process                    739           492
+     Finished goods                     379           456
+                                     ------        ------
+                                     $2,432        $2,195
+                                     ======        ======
+
+                                       6
+
+Item 2.  Management's Discussion and Analysis of Financial Condition and Results
+- --------------------------------------------------------------------------------
+of Operations
+- -------------
+
+     This section of the report contains forward-looking statements regarding
+the Company's expected growth and enhanced future performance.  All forward-
+looking statements are subject to risk and actual results could differ
+materially from those projected in the forward-looking statements as a result of
+many factors which are set forth below.
+
+Results of Operations
+- ---------------------
+
+     Net sales for the third quarter of fiscal 1997 ended October 31, 1996
+increased by $357,000 or 8% to $4,572,000 from $4,215,000 in the third quarter
+of fiscal 1996 ended October 31, 1995.  Net sales for the first nine months of
+fiscal 1997 were $12,758,000 or 16% higher than net sales of $11,028,000 in the
+first nine months of fiscal 1996.  The increases were due to continued strong
+demand for the company's RedLine test cell products.  Sales growth in the third
+quarter was limited by delays in the receipt of certain expected orders, coupled
+with a vendor's delay in the delivery of necessary components.
+
+     Cost of sales as a percentage of net sales increased to 41% in this year's
+third quarter from 39% in the same period last year.  Cost of sales as a
+percentage of net sales also increased to 42% in the first nine months this year
+compared to 38% in the same period of fiscal 1996.  The increases primarily
+reflect the expansion of the service staff to increase the company's capacity to
+build, install and commission RedLine products.  These new personnel were
+brought on-board ahead of time to support expected growth in this area.
+
+     Research and development expenses decreased by $57,000 to $564,000 in the
+third quarter this year compared to $621,000 in the same period last year while
+expenses in the first nine months of this year increased slightly to $1,633,000
+from $1,623,000 in the first nine months of fiscal 1996.  The slight increase in
+expenses in the first nine months resulted primarily from the ramp up of joint
+new product development with FEV, the Company's strategic ally in Germany and
+offset by higher capitalization of software development costs in this year's
+first nine months.
+
+     Marketing, general and administrative expenses in the third quarter of
+fiscal 1997 increased by $380,000 or 28% to $1,737,000 compared to the same
+period a year ago.  Expenses in the first nine months of this year increased by
+$941,000 to $4,859,000 from $3,918,000 last year. As a percentage of sales,
+however, expenses remained consistent throughout the year at 38% compared with
+last year's expenses at 32% in the third quarter and 36% in the first nine
+months.  The higher expenses were principally due to additional sales and
+marketing staff, costs associated with improvements in the company's information
+technology infrastructure and higher internal sales commissions due to higher
+sales bookings.
+
+     Net interest income was $13,000 in this year's third quarter compared to
+$32,000 last year.  Net interest income for the first nine months this year was
+the same as last year's at $95,000.  The lower interest income in the third
+quarter this year reflect lower available cash invested in interest-bearing
+accounts.
+
+     The effective tax rate computed were 34% for the third quarter and 33% for
+the first nine months this year compared to 39% for the third quarter and first
+nine months last year.  The lower tax rates this year reflect the increased
+profit contributions of the company's UK subsidiary which benefits from a lower
+tax rate.  The company reviews the tax rate quarterly and could make minor
+adjustments to reflect changing estimates.
+
+                                       7
+
+Liquidity and Capital Resources
+- -------------------------------
+
+     Cash decreased by $1,117,000 during the nine month period ended October 31,
+1996.  The decrease was due to the increase in accounts receivable brought about
+by high shipments in the last month of the period.  The primary use of the
+Company's cash in the first nine months of fiscal 1997 has been: a) the purchase
+of capital equipment used to equip additional personnel and to upgrade our
+information systems capabilities, and b) investment in software development.
+
+     Working capital at October 31, 1996 improved to $5,533,000 compared to
+$5,472,000 at the beginning of the fiscal year, while the current ratio stood at
+3.1 to 1.0 at October 31, 1996 and at 3.2 to 1.0 at January 31, 1996.  At
+October 31, 1996, the Company has a $1,000,000 secured bank line of credit.  The
+Company currently anticipates that internally generated funds and bank
+borrowings will be sufficient to satisfy its anticipated operating and capital
+needs over the foreseeable future.
+
+     At October 31, 1996, the Company had no material outstanding commitments to
+purchase capital equipment.  Management believes that inflation has not had a
+material effect on the Company's operations or financial condition.
+
+Factors That May Affect Future Results
+- --------------------------------------
+ 
+     The Company's future operating results may be affected by a number of
+factors, including: its ability to successfully introduce new products, services
+and enhancements for its customers as demands for increasingly sophisticated
+measurement and control systems and turnkey solutions continue; timing of
+receipt of major system orders; product mix; uncertainties relative to global
+economic conditions; the company's ability to withstand competition particularly
+from several companies that are much larger in size than the Company; natural
+disasters, particularly earthquakes which may strike the California area where
+the Company's headquarters and manufacturing facility are located; and
+availability and cost of components for its products.
+ 
+     At the end of last fiscal year, management made a strategic decision to
+focus on the services side of our transportation market business.  These
+services include systems integration, project management, commissioning and
+installation and coupled with our RedLine products, will allow us to fuel our
+growth in the transportation market by providing one stop shopping to our
+customers.  These services provide us the capability to provide turnkey systems
+where they are required.  Hence, we have invested in system integration,
+installation and commissioning staff during the first half of the year.
+However, the introduction of these services raises several risk factors.
+Specifically, the success depends on the time it takes for these personnel and
+future staff to come up to speed on our products, customers and the services
+they will provide; market acceptance of the services and pricing; and efficient
+use of these resources.
+
+Part II.  OTHER INFORMATION
+
+Item 6.  Exhibits and Reports on Form 8-K
+- -----------------------------------------
+
+     A.  Exhibits:  Exhibit 27-Financial Data Schedule.
+
+     B.  Reports on Form 8-K: None.
+
+                                       8
+
+SIGNATURES
+                                   ----------
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+DSP TECHNOLOGY INC.
+                                                   -----------------------
+                                                        (Registrant)
+
+By:  /s/ Jose M. Millares
+                                            --------------------
+                                            Jose M. Millares
+                                            Chief Financial Officer
+
+Date: January 9, 1997
+
+                                       9
+
+<EX-27>
+ 2
+ FINANCIAL DATA SCHEDULE
+
+</EX-27>
+

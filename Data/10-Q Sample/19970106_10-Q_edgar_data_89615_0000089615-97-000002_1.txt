@@ -1,0 +1,601 @@
+<Header>
+<FileStats>
+    <FileName>19970106_10-Q_edgar_data_89615_0000089615-97-000002_1.txt</FileName>
+    <GrossFileSize>19852</GrossFileSize>
+    <NetFileSize>16367</NetFileSize>
+    <NonText_DocumentType_Chars>0</NonText_DocumentType_Chars>
+    <HTML_Chars>199</HTML_Chars>
+    <XBRL_Chars>0</XBRL_Chars>
+    <XML_Chars>0</XML_Chars>
+    <N_Tables>1</N_Tables>
+    <N_Exhibits>2</N_Exhibits>
+</FileStats>
+<SEC-Header>
+0000089615-97-000002.hdr.sgml : 19970107
+ACCESSION NUMBER:		0000089615-97-000002
+CONFORMED SUBMISSION TYPE:	10-Q
+PUBLIC DOCUMENT COUNT:		3
+CONFORMED PERIOD OF REPORT:	19961129
+FILED AS OF DATE:		19970106
+SROS:			NASD
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			SHELDAHL INC
+		CENTRAL INDEX KEY:			0000089615
+		STANDARD INDUSTRIAL CLASSIFICATION:	PRINTED CIRCUIT BOARDS [3672]
+		IRS NUMBER:				410758073
+		STATE OF INCORPORATION:			MN
+		FISCAL YEAR END:			0831
+
+	FILING VALUES:
+		FORM TYPE:		10-Q
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-11861
+		FILM NUMBER:		97501619
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1150 SHELDAHL RD
+		CITY:			NORTHFIELD
+		STATE:			MN
+		ZIP:			55057
+		BUSINESS PHONE:		5076638000
+
+	MAIL ADDRESS:	
+		STREET 1:		1150 SHELDAHL ROAD
+		CITY:			NORTHFIELD
+		STATE:			MN
+		ZIP:			55057-0170
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	SCHJELDAHL G T CO
+		DATE OF NAME CHANGE:	19741017
+
+</SEC-Header>
+</Header>
+
+ 
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ CkiTOjtfSCNergxZw2H6+2tsQrdLXJ2J2iaYqqIwSOaC6UyALT1MrHea64jK/vxy
+ 1GcjR2C1j63Vx0dY90ZYWg==
+
+ 0000089615-97-000002.txt : 19970107
+
+10-Q
+ 1
+
+SECURITIES AND EXCHANGE COMMISSION
+Washington, DC   20549
+
+Form 10-Q
+
+(X)	QUARTERLY REPORT UNDER SECTION 13 OR 15(d) OF THE 
+	SECURITIES EXCHANGE ACT OF 1934
+
+OR
+
+(  )	TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF 
+	THE SECURITIES EXCHANGE ACT OF 1934
+
+For Quarter Ended November 29, 1996
+
+Commission File Number:  0-45
+
+SHELDAHL, INC.
+(exact name of registrant as specified in its charter)
+
+Minnesota	41-0758073
+(State or other jurisdiction of	(IRS Employer Identification
+incorporation or organization)	number)
+
+Northfield, Minnesota	55057
+(Address of principal executive offices)	(zip code)
+
+Registrant's telephone number:  (507) 663-8000
+
+As of December 12, 1996, 8,912,695 shares of the Registrant's 
+common stock were outstanding.
+
+Indicate by check mark whether the registrant (1) has filed all 
+reports required to be filed by Section 13 or 15(d) of the 
+Securities Exchange Act of 1934 during the preceding 12 months (or 
+for such shorter period that the registrant was required to file 
+such reports), and (2) has been subject to such filing 
+requirements for the past 90 days.     YES:  X    NO: 
+
+PART I: FINANCIAL INFORMATION
+
+	SHELDAHL, INC. AND SUBSIDIARY
+	CONSOLIDATED STATEMENTS OF OPERATIONS
+	Unaudited
+
+Three Months Ended
+				November 29,	December 1,
+(in thousands, 			1996		1995
+except for per share data)
+
+Cost of sales			21,846		20,410
+				______		______
+
+Gross profit			2,455		5,687
+				______		______
+
+Expenses:
+Sales and marketing		2,299		2,221
+General and administrative	1,580		1,170
+Research and development	1,140		  690
+Interest			   69		  383
+				______		______
+
+Total expenses			5,088		4,464
+				______		______
+
+Income (loss) before provision 
+for income taxes		(2,633)		1,223
+
+Benefit (provision) for income 
+taxes				   900		(365)
+				______		______
+
+Net income (loss)		$(1,733)	$ 858
+				======		======
+
+Net income (loss) per share	$(0.19)		$0.12
+				======		======
+
+Weighted average common shares 
+   and common share equivalents
+   outstanding			8,913		7,257
+				======		======
+
+SHELDAHL, INC.
+	CONSOLIDATED BALANCE SHEETS
+
+	ASSETS
+
+	unaudited
+(In thousands)			November 29,	August 30,
+				1996		1996
+
+Current assets:
+Cash and cash equivalents	 1,248		   904
+Accounts receivable, net	17,114		21,091
+Inventories			12,825		11,525
+Prepaid expenses and other 
+current assets			   646		   390
+Deferred tax assets		 2,200		 1,660
+				______		______
+
+Total current assets		34,033		35,570
+				______		______
+
+Construction in process		45,605		37,650
+Land and buildings		24,912		24,718
+Machinery and equipment		65,839		64,754
+Less: accumulated 
+   depreciation			(49,685)	(47,630)
+				______		______
+
+Net plant and 
+equipment			86,671		79,492
+				______		______
+
+Other assets			   780		   825
+				______		______
+
+				$121,484	$115,887
+				======		======
+
+	LIABILITIES AND SHAREHOLDERS INVESTMENT
+
+Current liabilities:
+Current maturities of long-term
+debt				   439		  466
+Accounts payable		11,112		9,824
+Accrued compensation		 1,557		1,390
+Other accruals			 2,449		1,839
+				______		______
+
+Total current liabilities	15,557		13,519
+				______		______
+
+Long-term debt			27,451		21,858
+				______		______
+
+Other non-current liabilities	 2,328		 2,269
+				______		______
+
+Deferred taxes			 2,544		 2,904
+				______		______
+
+Shareholders investment:
+Common stock			 2,228		 2,228
+Additional paid-in capital	51,404		51,404
+Retained earnings		19,972		21,705
+				______		______
+
+Total shareholders
+investment			73,604		75,337
+				______		______
+
+				$121,484	$115,887
+				========	========
+
+SHELDAHL, INC. AND SUBSIDIARY
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+Unaudited
+
+Three Months Ended
+(in thousands)			November 29,	December 1,
+				1996		1995
+
+Operating activities:
+Net income			(1,733)		  858
+Adjustments to reconcile net
+income to net cash provided
+by operating activities:
+Depreciation and amortization	  2,072		1,456
+Deferred income tax provision	  (900)		  324
+
+Net change in other operating 
+activities:
+Accounts receivable		  3,977		(283)
+Inventories			(1,300)		  666
+Prepaid expenses and other 
+  current assets		  (256)		(570)
+Other assets			     45		   60
+Accounts payable and accrued 
+  liabilities			 2,065		1,586
+Other non-current 
+  liabilities			    59		   77
+				______		______
+
+Net cash provided by operating 
+activities			 4,029		 4,174
+				______		______
+
+Investing activities:
+Capital expenditures, net	(9,251)		(6,367)
+				______		______
+
+Net cash used in investing 
+activities			(9,251)		(6,367)
+				______		______
+
+Financing activities:
+Borrowings (repayments) under
+ revolving credit facilities, 
+ net				 5,682		(10,534)
+Repayments of long-term debt	 (116)		   (108)
+Issuance of common stock	     -		 29,089
+				______		______
+
+Net cash provided by financing 
+activities			 5,566		18,447
+				______		______
+
+Increase (decrease) in cash	   344		16,254
+				______		______
+
+Cash at beginning of period	   904		 1,045
+				______		______
+
+Cash at end of period		$ 1,248		$17,299
+				======		======
+
+Supplemental cash flow information:
+Income taxes paid		   195		    31
+				======		======
+Interest paid			   458		   735
+				======		======
+
+SHELDAHL, INC. AND SUBSIDIARY
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+Unaudited
+
+These condensed and unaudited consolidated financial statements 
+have been prepared by the Company pursuant to the rules and 
+regulations of the Securities and Exchange Commission.  In the 
+opinion of management, these condensed unaudited consolidated 
+financial statements reflect all adjustments, of a normal and 
+recurring nature, necessary for a fair statement of the interim 
+periods, on a basis consistent with the annual audited financial 
+statements.  Certain information, accounting policies and footnote 
+disclosures normally included in financial statements prepared in 
+accordance with generally accepted accounting principles have been 
+condensed or omitted pursuant to such rules and regulations.  
+Although these disclosures should be considered adequate, the 
+Company strongly suggests that these condensed unaudited financial 
+statements be read in conjunction with the financial statements 
+and summary of significant accounting policies and notes thereto 
+included in the Company's latest annual report on Form 10-K.
+
+1)	Inventories, which are valued at the lower of first-in first-
+out cost or market, consists of (in thousands):
+
+			November 29, 1996	August 30, 1996
+
+Raw materials		$ 3,486			$ 2,599
+Work-in-process		  5,791			  5,572
+Finished goods		  3,548			  3,354
+			______			 ______
+
+			$12,825			$11,525
+			======			======
+
+2)	Consortium for the Development of Multi-Chip Module Laminates 
+	(MCM-L):
+
+On January 10, 1994, the Company entered into a Consortium 
+Agreement sponsored by the Advanced Projects Research Agency 
+(ARPA), a United States Government Agency.  The purpose of 
+the Consortium is to accelerate the development and 
+commercialization of the multi-chip module laminate (MCM-L). 
+As a Consortium member, the Company expects to receive 
+approximately $12.2 million in funding through September of 
+1997 to further test, design and develop the manufacturing 
+processes for the Company's NOVACLAD7 based products which 
+are to be used in constructing multi-chip modules.  During 
+the three months ended November 29, 1996, the Company 
+incurred $231,000 in manufacturing, and research and 
+development costs that are reimbursable through ARPA.  To 
+date, the Company has received a total of $9,335,000 of 
+funding through the Consortium.  As of November 29, 1996, the 
+Company has recorded a $2,240,000 receivable from ARPA.
+
+SHELDAHL, INC. AND SUBSIDIARY
+MANAGEMENT'S DISCUSSION AND ANALYSIS OF
+CONSOLIDATED OPERATING RESULTS AND FINANCIAL CONDITION
+
+Three Months Ended November 29, 1996 and December 1, 1995
+
+The following table gives information about the Company's revenue 
+for the three months ended November 29, 1996 as compared with the 
+three months ended December 1, 1995:
+
+			Three Months Ended
+
+			November 29,	December 1,	Gross		%
+			1996		1995		Change		Change
+
+Automotive		$16,524		$17,684		$ (1,160)	(7%)
+Datacommunications	  2,380		  3,408		  (1,028)	(30%)
+Aerospace/Defense	  2,357		  1,738		      619	 36%
+Industrial		  1,987		  2,463		    (476)	(19%)
+Consumer		  1,053		    804		      249	 31%
+			 ______		 ______		  ______	______
+
+Total			$24,301		$26,097		$(1,796)	$ (7%)
+			 ======		 ======		 ======		======
+
+As shown above, the automotive market declined 7%. The sales 
+decline was primarily due to year-end inventory adjustments 
+following an industry-wide inventory build-up in anticipation of 
+prolonged labor disputes.  As the automotive market accounts for 
+67% of total sales, the Company's revenue will react to the 
+automotive market business cycles.
+
+The datacommunications market sales declined as the Company 
+continues to narrow its core business offering to this market.  
+Growth in datacommunications sales is expected to come from the 
+Company's Micro Products operation in Longmont, Colorado.
+
+The aerospace/defense market sales increase was due to increased 
+demand in the Company's thin film and fabricated device products 
+used in the satellite and space industry.
+
+The industrial and consumer markets, combined, declined $227,000 
+or 7.5%.  Normal demand fluctuations account for the change in 
+these non-primary markets.
+
+Gross margin for the period declined $3,231,000 or 56% from 
+$5,687,000 for the three months ended December 1, 1995 to 
+$2,455,000 for the three months ended November 29, 1996.  Lower 
+sales, unfavorable product mix, and increased expenses due to the 
+Micro Products operation accounted for the decline.
+
+Sales and marketing expense increased $78,000 or 4% from 
+$2,221,000 for the three months ended December 1, 1995 to 
+$2,299,000 for the three months ended November 29, 1996.  
+Increases in sales staffing costs and advertising expenses were 
+offset by declines in consulting and travel costs.
+
+General and administrative expense increased $410,000 or 35% from 
+$1,170,000 for the three months ended December 1, 1995 to 
+$1,580,000 for the three months ended November 29, 1996.  
+Accounting for the increase was $122,000 in less ARPA funding and 
+increased staffing for accounting and other support staff.
+
+Research and development expense increased $450,000 or 65% from 
+$690,000 for the three months ended December 1, 1995 to $1,140,000 
+for the three months ended November 29, 1996.  Although ARPA 
+funding applied to research and development expenses increased 
+$65,000, increases in staff supporting the Micro Products 
+operation and the ARPA consortium, as well as outside testing 
+services relating to the Micro Products operation, accounted for 
+this rather large increase in research and development expense.
+
+Interest expense, net of capitalized interest, is reflected in the 
+following table:
+					Three Months Ended
+
+				November 29, 1996	December 1, 1995
+
+	Gross interest expense		$  479		$  908
+	Less capitalized interest	 (410)		 (525)
+					______		______
+
+	Interest expense		$   69		$  383
+					======		======
+
+Lower interest rates (about 250 basis points on average) as well 
+as lower average borrowings account for the decline in both the 
+gross interest expense and capitalized interest.
+
+Operating profit, due to $1,800,000 in less sales, $814,000 in 
+less ARPA funding, unfavorable product mix, and increases in 
+administration and research expenses, decline $3,871,000 from a 
+profit of $1,223,000 for the three months ended December 1, 1995 
+to a loss of $2,633,000 for the three months ended November 29, 
+1996.
+
+Tax benefits for the current period were provided at 34%.  Net 
+income, therefore, declined $2,591,000 from income of $858,000 in 
+1995 to a loss of $1,733,000 in 1996.
+
+Financial Condition:
+
+The Company has a $35 million revolving credit facility secured by 
+the Company's assets.  As of November 29, 1996, borrowings under 
+this facility were $20.1 million with $14.9 million available.  
+The Company is currently examining additional financing options to 
+support the Company's growth.  During the first three months, the 
+Company invested $9,251,000 in capital expenditures.  The current 
+ratio declined from 2.63 at August 30, 1996 to 2.19 at November 
+29, 1996.
+
+Prospective Information:
+
+Significant operating events will take place during the next 
+several months of operations.  First, the ARPA funded consortium 
+will be completing its purpose and funding will slow dramatically 
+throughout fiscal 1997.  The Company has no obligation to any 
+member after the consortium objectives and related ARPA fundings 
+are completed.  Only normal business relationships will remain 
+among the members of the MCM-L consortium.
+
+Secondly, the Company's Longmont, Colorado, production facility is 
+complete. The facility is undergoing an intensive production 
+qualification process with several key customers.  Once 
+qualifications have been satisfactorily completed, the facility 
+will begin operations.  Initially, sales are not expected to be of 
+sufficient volume to offset operational expenses.  Therefore, the 
+start-up of this operation is likely to have a negative impact on 
+the Company's operating results through fiscal 1997 or until such 
+time as sales increase enough to cover fixed and other operating 
+expenses.
+
+Other Factors:
+
+The Company has limited foreign currency risks from its 
+international sales.  Major contracts have "risk sharing" 
+arrangements with the customer, allowing repricing in the event of 
+long-term and/or significant foreign currency fluctuations.
+
+To deal with short-term fluctuations, the Company, from time-to-
+time, will use a variety of natural and contractual hedging 
+techniques to prudently reduce, but not eliminate, its exposure to 
+foreign currency fluctuations.  Historical transactions have not 
+been material in nature. The Company expects its foreign currency 
+contracts to increase during fiscal 1997 and will increase its 
+hedging activities accordingly.
+
+Cautionary Statement:
+
+Statements contained herein, other than historical data, may be 
+forward-looking and subject to risks and uncertainties including, 
+but not limited to, those set forth in the annual report and 10K 
+for fiscal 1996.
+
+PART II - OTHER INFORMATION
+
+SHELDAHL, INC. AND SUBSIDIARY
+FORM 10-Q
+
+Item 6.	Exhibits and Reports on Form 8-K
+
+	A)	Exhibits
+
+		11	Statement regarding computation of earnings
+			per share
+
+		27	Financial data schedule
+
+	B)	Reports on Form 8-K
+
+No reports on Form 8-K were filed by the Registrant 
+during the quarter ended November 29, 1996.
+
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 
+1934, the registrant has duly caused this report to be signed on 
+its behalf by the undersigned thereunto duly authorized.
+
+SHELDAHL, INC.
+(Registrant)
+
+Dated:  January 6, 1997		By	/s/ John V. McManus
+					Vice President, Finance
+
+[/TEXT]
+
+<EX-11>
+ 2
+
+Exhibit 11
+
+SHELDAHL, INC. AND SUBSIDIARY
+STATEMENT REGARDING COMPUTATION OF EARNINGS PER SHARE
+(in thousands, except per share data)
+
+For The Three Months Ended
+
+					November 29,	December 1,
+					1996		1995
+
+Primary earnings per share
+
+Weighted average number of issued 
+   shares outstanding			8,913		6,994
+
+Effect of exercise of stock options
+   under the treasury stock method	    -	  	  263
+					______		______
+
+Weighted average shares outstanding 
+   used to compute primary earnings 
+   per share				8,913		7,257
+					======		======
+
+Net income				$(1,733)	$  858
+					======		======
+
+Net income per share			$(0.19)		$ 0.12
+					======		======
+
+Fully diluted earnings per share
+
+Weighted average number of issued 
+   shares outstanding			8,913		6,994
+
+Effect of exercise of stock options
+   under the treasury stock method	    -	  	  285
+					______		______
+
+Weighted average shares outstanding 
+   used to compute fully diluted 
+   earnings per share			8,913		7,279
+					======		======
+
+Net income				$(1,733)	$  858
+					======		======
+
+Net income per share			$ (0.19)	$ 0.12
+					======		======
+
+[/TEXT]
+ 
+</EX-11>
+
+<EX-27>
+ 3
+
+</EX-27>
+

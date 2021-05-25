@@ -244,19 +244,19 @@ def create_classification(file):
 
 
 if __name__ == "__main__":
-    # get_supervised_mda('NewExtractionSupervised.csv')
-    p = 'D:\\SEC Filing Data\\10-X_C_1993-2000\\1997\\QTR1\\19970102_10-Q_edgar_data_58636_0000058636-97-000001_1.txt'
-    file_text = open(p, 'r').read()
-    mda = get_mda(OPEN_CLASSIFIER, CLOSE_CLASSIFIER, file_text)
-    modified_file_text = ''
-    for index, s in enumerate(re.split(r'item', file_text, flags=re.IGNORECASE)):
-        modified_file_text += f'{s} item $%$ {index} $%$'
-
-    output_file = open('FileInQuestion.txt', 'w')
-    output_file.write(modified_file_text)
-    output_file.close()
-
-    os.startfile('FileInQuestion.txt')
+    get_supervised_mda('NewExtractionSupervised.csv')
+    # p = 'D:\\SEC Filing Data\\10-X_C_1993-2000\\1997\\QTR1\\19970102_10-Q_edgar_data_58636_0000058636-97-000001_1.txt'
+    # file_text = open(p, 'r').read()
+    # mda = get_mda(OPEN_CLASSIFIER, CLOSE_CLASSIFIER, file_text)
+    # modified_file_text = ''
+    # for index, s in enumerate(re.split(r'item', file_text, flags=re.IGNORECASE)):
+    #     modified_file_text += f'{s} item $%$ {index} $%$'
+    #
+    # output_file = open('FileInQuestion.txt', 'w')
+    # output_file.write(modified_file_text)
+    # output_file.close()
+    #
+    # os.startfile('FileInQuestion.txt')
 
     # create_classification('NewExtractionSupervised.csv')
 
