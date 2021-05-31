@@ -14,7 +14,7 @@ STARTING_QUARTER = 1
 ENDING_YEAR = 2010
 # ENDING_YEAR = 2018
 ENDING_QUARTER = 4
-PATH_TO_EXTRACTED = '../Analysis/Extracted/Quarterly'
+PATH_TO_EXTRACTED = '../Old/Analysis/Extracted/Quarterly'
 OUTPUT_DIRECTORY = 'test.csv'
 
 
