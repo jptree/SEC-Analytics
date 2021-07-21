@@ -264,6 +264,8 @@ def mp_handler(file_names, n_pools, output_dir):
     end = time.time()
     print(f'Multiple Threads: {round(end - start, 2)} seconds')
 
+    p.close()
+
 
 if __name__ == '__main__':
     path_data_list = ['D:\\SEC Filing Data\\10-X_C_2006-2010',

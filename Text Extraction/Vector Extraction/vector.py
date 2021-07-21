@@ -8,13 +8,15 @@ import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split, GridSearchCV
 import numpy as np
 import pickle
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import LSTM, Dense, Dropout, Masking, Embedding
 # from shap import TreeExplainer, summary_plot
 
-PATH = '../Data/10-Q Sample'
+PATH = '../../Data/10-Q Sample'
 
 
 def modify_formatting(text):
-    return text.replace('\n', ' newline ').replace('\t', ' tab ').replace('  ', ' d_s ').replace('.', ' p ')
+    return text.replace('\n', '\\n').replace('\t', '\\t')
 
 
 def get_n_surrounding_words(text, n, trailing=True):
@@ -34,7 +36,7 @@ def create_vector_model():
     corpus = [modify_formatting(open(f'{PATH}/{file}').read()) for file in file_names]
     tokens = [doc.split() for doc in corpus]
     model = Word2Vec(tokens).wv
-    model.save('mda.wordvectors')
+    model.save('mda2.wordvectors')
 
 
 def get_open_features(surrounding_text, file_text, wv, index):
@@ -83,7 +85,6 @@ def get_open_features(surrounding_text, file_text, wv, index):
 
     features = min_feature_leading + max_feature_leading + min_feature_trailing + max_feature_trailing + [
         leading_item_count, trailing_item_count, leading_newline_count, trailing_newline_count,
-        leading_item_count * leading_newline_count, trailing_item_count * trailing_newline_count,
         index / len(file_text)
     ]
 
@@ -105,24 +106,28 @@ def create_open_model(wv, df_extracted):
         file_text = open(f'{PATH}/{file_name}').read()
         open_index = file_text.index(text)
         management_indices = [m.start() for m in re.finditer('management', file_text, re.IGNORECASE)]
-        item_indices = [m.start() for m in re.finditer('item', file_text, re.IGNORECASE)]
-        interested_locations = [0, 100, 200, 500, 700, 900, 1100, 1500, open_index]
+        # item_indices = [m.start() for m in re.finditer('item', file_text, re.IGNORECASE)]
+        interested_locations = [open_index]
         interested_locations += management_indices
-        interested_locations += item_indices
+        # interested_locations += item_indices
 
         for p in interested_locations:
             surrounding_text = file_text[p - 500: p + 500]
             features = get_open_features(surrounding_text, file_text, wv, p)
 
             X.append(features)
-            y.append(1 if p == open_index else 0)
+            if abs(p - open_index) < 200:
+                y.append(1)
+            else:
+                y.append(0)
+            # y.append(1 if p == open_index else 0)
 
             indices_history.append(p)
             file_history.append(file_name)
 
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.25, random_state=699, shuffle=True)
 
-    parameters = {'max_depth': [6, 5, 7, 10],
+    parameters = {'max_depth': [6],
                   'class_weight': ['balanced']}
     rf = RandomForestClassifier()
     clf = GridSearchCV(rf, parameters, scoring='recall', n_jobs=4)
@@ -140,8 +145,8 @@ def create_open_model(wv, df_extracted):
     # shap_values = explainer.shap_values(np.array(X))
     # summary_plot(shap_values, X)
 
-    with open('../../rf_quarterly_open_wv.pkl', 'wb') as f:
-        pickle.dump(clf, f)
+    # with open('../../rf_quarterly_open_wv.pkl', 'wb') as f:
+    #     pickle.dump(clf, f)
 
     predicted = clf.predict(X)
     probs = clf.predict_proba(X)
@@ -150,7 +155,7 @@ def create_open_model(wv, df_extracted):
 
         if predicted[i] == y[i]:
             continue
-        file_text = open(f'../Data/10-Q Sample//{file}').read()
+        file_text = open(f'../../Data/10-Q Sample//{file}').read()
         m = indices_history[i]
 
         output_file = open('IsThisTheSection.txt', 'w')
@@ -162,8 +167,82 @@ def create_open_model(wv, df_extracted):
         os.startfile('IsThisTheSection.txt')
 
         print(f'Predicted: {predicted[i]}\nActual   : {y[i]}\nProbability: {probs[i]}')
-        print(X[i][-5:])
+        # print(X[i][-5:])
         input('Continue?')
+
+
+def create_open_dataset(wv, df_extracted):
+
+    files = list(df_extracted['file'])
+    mda = list(df_extracted['mda'])
+    X = []
+    y = []
+    indices_history = []
+    file_history = []
+    for m, file_name in enumerate(files):
+        text = mda[m].replace('\\n', '\n')
+        if text == '-9':
+            continue
+        file_text = open(f'{PATH}/{file_name}').read()
+        open_index = file_text.index(text)
+        management_indices = [m.start() for m in re.finditer('management', file_text, re.IGNORECASE)]
+        # item_indices = [m.start() for m in re.finditer('item', file_text, re.IGNORECASE)]
+        interested_locations = [open_index]
+        interested_locations += management_indices
+        # interested_locations += item_indices
+
+        for p in interested_locations:
+            surrounding_text = file_text[p - 500: p + 500]
+            features = get_open_features(surrounding_text, file_text, wv, p)
+
+            X.append(features)
+            if abs(p - open_index) < 200:
+                y.append(1)
+            else:
+                y.append(0)
+            # y.append(1 if p == open_index else 0)
+
+            indices_history.append(p)
+            file_history.append(file_name)
+
+    # X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.25, random_state=699, shuffle=True)
+    return X, y
+
+
+def keras_stuff(X, y):
+
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.25, random_state=699, shuffle=True)
+
+    model = Sequential()
+
+    # Embedding layer
+    model.add(
+        Embedding(input_dim=num_words,
+                  input_length=training_length,
+                  output_dim=100,
+                  weights=[embedding_matrix],
+                  trainable=False,
+                  mask_zero=True))
+
+    # Masking layer for pre-trained embeddings
+    model.add(Masking(mask_value=0.0))
+
+    # Recurrent layer
+    model.add(LSTM(64, return_sequences=False,
+                   dropout=0.1, recurrent_dropout=0.1))
+
+    # Fully connected layer
+    model.add(Dense(64, activation='relu'))
+
+    # Dropout for regularization
+    model.add(Dropout(0.5))
+
+    # Output layer
+    model.add(Dense(num_words, activation='softmax'))
+
+    # Compile the model
+    model.compile(
+        optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
 
 
 def testing_open_model(file_name, wv, clf, use_this_path=None):
@@ -492,8 +571,8 @@ def create_close_model(wv, df_extracted):
     # shap_values = explainer.shap_values(np.array(X))
     # summary_plot(shap_values, X)
 
-    with open('../rf_quarterly_close_wv.pkl', 'wb') as f:
-        pickle.dump(clf, f)
+    # with open('../rf_quarterly_close_wv.pkl', 'wb') as f:
+    #     pickle.dump(clf, f)
 
     # predicted = clf.predict(X)
     # probs = clf.predict_proba(X)
@@ -626,6 +705,7 @@ def get_mda(file_text, clf_open, clf_close, wv, add_extra = False):
 
 
 def mda_test():
+    wv = None
     test_files = ['19971002_10-Q_edgar_data_49146_0000950116-97-001820_1.txt',
                   '19971002_10-Q_edgar_data_835909_0001037979-97-000009_1.txt',
                   '19971002_10-Q_edgar_data_940944_0000940944-97-000117_1.txt']
@@ -681,23 +761,7 @@ def mda_test():
 
 if __name__ == "__main__":
     # create_vector_model()
-    wv = KeyedVectors.load("mda.wordvectors", mmap='r')
-    # create_open_model(wv)
-
-    # df = pd.read_csv('NewExtractionSupervised.csv', header=None, names=['file', 'mda'])
-    # create_open_model(wv, df)
-    # clf = pickle.load(open('../rf_quarterly_open_wv.pkl', 'rb'))
-    # testing('20060202_10-Q_edgar_data_775158_0000897069-06-000275_1.txt', wv, clf)
-    # testing('19970331_10-Q_edgar_data_62262_0001017062-97-000588_1.txt', wv, clf)
-    # testing('19970331_10-Q_edgar_data_74154_0000950134-97-002523_1.txt', wv, clf)
-    # testing('19971002_10-Q_edgar_data_49146_0000950116-97-001820_1.txt', wv, clf, use_this_path='D:/SEC Filing Data/10-X_C_1993-2000/1997/QTR4')
-    # testing('19971002_10-Q_edgar_data_835909_0001037979-97-000009_1.txt', wv, clf, use_this_path='D:/SEC Filing Data/10-X_C_1993-2000/1997/QTR4')
-    # testing('19971002_10-Q_edgar_data_940944_0000940944-97-000117_1.txt', wv, clf, use_this_path='D:/SEC Filing Data/10-X_C_1993-2000/1997/QTR4')
-    # testing_open_model('19971003_10-Q_edgar_data_51410_0000051410-97-000029_1.txt', wv, clf, use_this_path='D:/SEC Filing Data/10-X_C_1993-2000/1997/QTR4')
-
-
-    # df = pd.read_csv('NewExtractionSupervised.csv', header=None, names=['file', 'mda'])
+    wv = KeyedVectors.load("mda2.wordvectors", mmap='r')
+    df = pd.read_csv('../NewExtractionSupervised.csv', header=None, names=['file', 'mda'])
     # create_close_model(wv, df)
-
-
-    mda_test()
+    create_open_model(wv, df)
